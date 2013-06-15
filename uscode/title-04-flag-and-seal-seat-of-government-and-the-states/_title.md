@@ -1,0 +1,15 @@
+---
+title: 4
+heading: 'FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES'
+positive_law: false
+sections: 47
+chapters: 5
+---
+# Title 4. FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
+
+## Chapters
+- 1 — THE FLAG
+- 2 — THE SEAL
+- 3 — SEAT OF THE GOVERNMENT
+- 4 — THE STATES
+- 5 — OFFICIAL TERRITORIAL PAPERS
