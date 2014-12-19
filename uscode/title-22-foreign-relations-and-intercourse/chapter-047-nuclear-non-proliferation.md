@@ -291,7 +291,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, known as the Nuclear Non-Proliferation Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201) and Tables.
 
-The Atomic Energy Act of 1954, as amended, referred to in subsec. (a)(5), (6), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. Chapter 12 of the 1954 Act is classified generally to subchapter XI (§ 2161 et seq.) of division A of chapter 23 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in subsec. (a)(5), (6), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. Chapter 12 of the 1954 Act is classified generally to subchapter XI (§ 2161 et seq.) of division A of chapter 23 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 
 The Energy Reorganization Act of 1974, referred to in subsec. (b), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§ 5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5801&num=0&edition=prelim) and Tables.
 
@@ -336,7 +336,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 (1) the establishment of an international nuclear fuel authority (INFA) with responsibility for providing agreed upon fuel services and allocating agreed upon quantities of fuel resources to ensure fuel supply on reasonable terms in accordance with agreements between INFA and supplier and recipient nations;
 
-(2) a set of conditions consistent with subsection (d) of this section under which international fuel assurances under INFA auspices will be provided to recipient nations, including conditions which will ensure that the transferred materials will not be used for nuclear explosive devices;
+(2) a set of conditions consistent with subsection (d) under which international fuel assurances under INFA auspices will be provided to recipient nations, including conditions which will ensure that the transferred materials will not be used for nuclear explosive devices;
 
 (3) devising, consistent with the policy goals set forth in [section 2153b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2153b&num=0&edition=prelim), feasible and environmentally sound approaches for the siting, development, and management under effective international auspices and inspection of facilities for the provision of nuclear fuel services, including the storage of special nuclear material;
 
@@ -354,9 +354,9 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 **(f) Congressional approval of non-treaty international undertakings; submission of proposals**
 
-(1) The President may not enter into any binding international undertaking negotiated pursuant to subsection (a) of this section which is not a treaty until such time as such proposed undertaking has been submitted to the Congress and has been approved by concurrent resolution.
+(1) The President may not enter into any binding international undertaking negotiated pursuant to subsection (a) which is not a treaty until such time as such proposed undertaking has been submitted to the Congress and has been approved by concurrent resolution.
 
-(2) The proposals prepared pursuant to subsection (b) of this section shall be submitted to the Congress as part of an annual authorization Act for the Department of Energy.
+(2) The proposals prepared pursuant to subsection (b) shall be submitted to the Congress as part of an annual authorization Act for the Department of Energy.
 
 ### Statutory Notes
 

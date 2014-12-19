@@ -326,7 +326,8 @@ Whoever—
 
 (1) violates the provision of [section 3103 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3103&num=0&edition=prelim) that an individual may be employed in the civil service in an Executive department at the seat of Government only for services actually rendered in connection with and for the purposes of the appropriation from which he is paid; or
 
-(2) violates the provision of [section 5501 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5501&num=0&edition=prelim) that money accruing from lapsed salaries or from unused appropriations for salaries shall be covered into the Treasury of the United States; shall be fined under this title or imprisoned not more than one year, or both.
+(2) violates the provision of [section 5501 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5501&num=0&edition=prelim) that money accruing from lapsed salaries or from unused appropriations for salaries shall be covered into the Treasury of the United States;
+shall be fined under this title or imprisoned not more than one year, or both.
 
 ### Statutory Notes
 
@@ -357,7 +358,8 @@ Whoever, being a member or employee of the United States Office of Personnel Man
 
 (3) makes a false representation concerning the mark, grade, estimate, or report on the examination or proper standing of an individual examined, or concerning the individual examined; or
 
-(4) furnishes to an individual any special or secret information for the purpose of improving or injuring the prospects or chances of an individual examined, or to be examined, being appointed, employed, or promoted; shall, for each offense, be fined under this title not less than $100 or imprisoned not less than ten days nor more than one year, or both.
+(4) furnishes to an individual any special or secret information for the purpose of improving or injuring the prospects or chances of an individual examined, or to be examined, being appointed, employed, or promoted;
+shall, for each offense, be fined under this title not less than $100 or imprisoned not less than ten days nor more than one year, or both.
 
 ### Statutory Notes
 
@@ -395,7 +397,8 @@ Whoever violates the provision of [section 7311 of title 5](https://uscode.house
 
 (3) participates in a strike, or asserts the right to strike, against the Government of the United States or the government of the District of Columbia; or
 
-(4) is a member of an organization of employees of the Government of the United States or of individuals employed by the government of the District of Columbia that he knows asserts the right to strike against the Government of the United States or the government of the District of Columbia; shall be fined under this title or imprisoned not more than one year and a day, or both.
+(4) is a member of an organization of employees of the Government of the United States or of individuals employed by the government of the District of Columbia that he knows asserts the right to strike against the Government of the United States or the government of the District of Columbia;
+shall be fined under this title or imprisoned not more than one year and a day, or both.
 
 ### Statutory Notes
 
@@ -515,7 +518,8 @@ Whoever obtains or receives any money, check, or allotment under—
 
 (1) subchapter VII of chapter 55 of title 5; or
 
-(2) chapter 10 of title 37; without being entitled thereto, with intent to defraud, shall be fined under this title or imprisoned not more than one year, or both.
+(2) chapter 10 of title 37;
+without being entitled thereto, with intent to defraud, shall be fined under this title or imprisoned not more than one year, or both.
 
 ### Statutory Notes
 

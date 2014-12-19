@@ -662,6 +662,27 @@ Sec. 9. General Provisions. (a) This order shall be implemented consistent with 
 
 Barack Obama.
 
+#### Ex. Ord. No. 13678. Conversion Authority for Criminal Investigators (Special Agents) of the Bureau of Alcohol, Tobacco, Firearms, and Explosives
+Ex. Ord. No. 13678, Oct. 3, 2014, 79 F.R. 60949, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Providing Conversion Authority. I find that conditions of good administration (specifically, the need to make the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice (ATF), competitive in recruiting high quality special agents by giving the ATF an authority held by other Federal law enforcement agencies) make necessary an exception to the competitive examination rules for appointment to certain positions in the Federal civil service.
+
+Criminal Investigators of the ATF, who have been appointed under Schedule B, and who have completed 3 years of fully satisfactory service, may be converted non-competitively to career appointments if they meet qualifications and other requirements established by the Director of the Office of Personnel Management.
+
+Sec. 2. Implementation. The Director of the Office of Personnel Management shall prescribe such regulations as may be necessary to implement this order.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.
+
 #### Improving the Federal Recruitment and Hiring Process
 Memorandum of President of the United States, May 11, 2010, 75 F.R. 27157, provided:
 
@@ -753,6 +774,41 @@ Sec. 6. Publication. The Director of the OPM is hereby authorized and directed t
 
 Barack Obama.
 
+#### Enhancing Safeguards To Prevent the Undue Denial of Federal Employment Opportunities to the Unemployed and Those Facing Financial Difficulty Through No Fault of Their Own
+Memorandum of President of the United States, Jan. 31, 2014, 79 F.R. 7045, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+The Federal Government is America’s largest employer. While seeking to employ a talented and productive workforce, it has a responsibility to lead by example. Although executive departments and agencies (agencies) generally can, and do, take job applicants’ employment history and other factors into account when making hiring decisions, it is the policy of my Administration that applicants should not face undue obstacles to Federal employment because they are unemployed or face financial difficulties. The Government must continue to take steps to ensure the fair treatment of applicants, as well as incumbent Federal employees, who face financial difficulties through no fault of their own and make good faith efforts to meet those obligations. Therefore, I hereby direct as follows:
+
+Section 1. Individuals Who Are Unemployed or Facing Financial Difficulty. (a) Agencies shall not make an unfavorable determination with respect to the suitability, fitness, or qualifications of an applicant for Federal employment because that applicant:
+
+(i) is or was unemployed; or
+
+(ii) has experienced or is experiencing financial difficulty through no fault of the applicant, if the applicant has undertaken a good-faith effort to meet his or her financial obligations.
+
+(b) Consistent with existing law, agencies shall not remove, suspend, or demote a current Federal employee if the basis of the action is that the employee has experienced, or is experiencing, financial difficulty through no fault of the employee, and the employee has undertaken a good-faith effort to meet his or her financial obligations.
+
+(c) Agencies shall review their recruiting and hiring practices to determine whether such processes intentionally or inadvertently place applicants at an undue disadvantage because of the factors set forth in subsection (a) of this section and report the results to the Director of the Office of Personnel Management (OPM) within 90 days of the date of this memorandum. Taking into account the results, the Director of OPM shall issue guidance to Chief Human Capital Officers to assist agencies with implementation of this memorandum.
+
+Sec. 2. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to a department or agency, or the head thereof;
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals;
+
+(iii) the authority granted by law, Executive Order, or regulation to a department or agency, or the head thereof, to determine eligibility for access to classified information or to occupy a sensitive position; or
+
+(iv) the authority granted by law or Executive Order to a department or agency, or the head thereof, to take adverse actions against Federal employees for their failure to comply with any law, rule, or regulation imposing upon them an obligation to satisfy in good faith their just financial obligations, including Federal, State, or local taxes.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Director of OPM is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
 
 <a id="section-3302"></a>
 ## § 3302. Competitive service; rules
@@ -761,7 +817,8 @@ The President may prescribe rules governing the competitive service. The rules s
 
 (1) necessary exceptions of positions from the competitive service; and
 
-(2) necessary exceptions from the provisions of sections 2951, 3304(a), 3321, 7202, and 7203 of this title. Each officer and individual employed in an agency to which the rules apply shall aid in carrying out the rules.
+(2) necessary exceptions from the provisions of sections 2951, 3304(a), 3321, 7202, and 7203 of this title.
+Each officer and individual employed in an agency to which the rules apply shall aid in carrying out the rules.
 
 ### Statutory Notes
 
@@ -1307,7 +1364,7 @@ The names of applicants who have qualified in examinations for the competitive s
   (A) disabled veterans who have a compensable service-connected disability of 10 percent or more, in order of their ratings, including points added under [section 3309 of this title](./chapter-033-examination-selection-and-placement.md#section-3309); and
 
   (B) remaining applicants, in the order of their ratings, including points added under [section 3309 of this title](./chapter-033-examination-selection-and-placement.md#section-3309).
-  The names of preference eligibles shall be entered ahead of others having the same rating.
+The names of preference eligibles shall be entered ahead of others having the same rating.
 
 ### Statutory Notes
 
@@ -2468,6 +2525,12 @@ Memorandum of President of the United States, Feb. 9, 2007, 72 F.R. 7343.
 #### Federal Emergency Management Agency
 Memorandum of President of the United States, Nov. 26, 2002, 67 F.R. 79513, terminated upon the transfer of the authorities, functions, personnel, and assets of the Federal Emergency Management Agency to the Department of Homeland Security.
 
+#### Federal Mediation and Conciliation Service
+Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63803.
+
+#### General Services Administration
+Memorandum of President of the United States, Sept. 20, 2013, 78 F.R. 59161.
+
 #### Millennium Challenge Corporation
 Memorandum of President of the United States, May 21, 2012, 77 F.R. 31161.
 
@@ -2493,7 +2556,9 @@ Memorandum of President of the United States, Mar. 11, 2003, 68 F.R. 12281, supe
 Memorandum of President of the United States, Aug. 5, 2009, 74 F.R. 39871.
 
 #### Office of the Director of National Intelligence
-Memorandum of President of the United States, Mar. 8, 2011, 76 F.R. 13499.
+Memorandum of President of the United States, Sept. 20, 2013, 78 F.R. 59159.
+
+Memorandum of President of the United States, Mar. 8, 2011, 76 F.R. 13499, revoked by Memorandum of President of the United States, § 4, Sept. 20, 2013, 78 F.R. 59159.
 
 Memorandum of President of the United States, Oct. 3, 2008, 73 F.R. 58869, revoked by Memorandum of President of the United States, § 5, Mar. 8, 2011, 76 F.R. 13499.
 
@@ -2513,7 +2578,9 @@ Memorandum of President of the United States, Feb. 1, 2013, 78 F.R. 8953.
 Memorandum of President of the United States, Dec. 9, 2008, 73 F.R. 75533, superseded by Memorandum of President of the United States, § 3, Feb. 1, 2013, 78 F.R. 8953.
 
 #### Social Security Administration
-Memorandum of President of the United States, Oct. 17, 2008, 73 F.R. 62845.
+Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63805.
+
+Memorandum of President of the United States, Oct. 17, 2008, 73 F.R. 62845, revoked by Memorandum of President of the United States, § 3, Oct. 17, 2014, 79 F.R. 63805.
 
 Memorandum of President of the United States, Apr. 17, 2006, 71 F.R. 20333, superseded by Memorandum of President of the United States, § 3, Oct. 17, 2008, 73 F.R. 62845.
 
@@ -2761,7 +2828,8 @@ In determining qualifications of a preference eligible for transfer to another p
 
 (1) requirements as to age, height, and weight, unless the requirement is essential to the performance of the duties of the position; and
 
-(2) physical requirements if, in the opinion of the Office or other examining agency, after considering the recommendation of an accredited physician, the preference eligible is physically able to perform efficiently the duties of the position. This section does not apply to an appointment required by Congress to be confirmed by, or made with the advice and consent of, the Senate.
+(2) physical requirements if, in the opinion of the Office or other examining agency, after considering the recommendation of an accredited physician, the preference eligible is physically able to perform efficiently the duties of the position.
+This section does not apply to an appointment required by Congress to be confirmed by, or made with the advice and consent of, the Senate.
 
 ### Statutory Notes
 
@@ -2858,7 +2926,8 @@ In determining qualifications of a preference eligible for promotion to another 
 
 (1) requirements as to age, height, and weight, unless the requirement is essential to the performance of the duties of the position; and
 
-(2) physical requirements if, in the opinion of the Office or other examining agency, after considering the recommendation of an accredited physician, the preference eligible is physically able to perform efficiently the duties of the position. This section does not apply to an appointment required by Congress to be confirmed by, or made with the advice and consent of, the Senate.
+(2) physical requirements if, in the opinion of the Office or other examining agency, after considering the recommendation of an accredited physician, the preference eligible is physically able to perform efficiently the duties of the position.
+This section does not apply to an appointment required by Congress to be confirmed by, or made with the advice and consent of, the Senate.
 
 ### Statutory Notes
 
@@ -2909,7 +2978,7 @@ For the purpose of this subchapter—
 
   (C) any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village as defined in the Alaska Native Claims Settlement Act (85 Stat. 688), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and includes any tribal organization as defined in section 4 of the Indian Self-Determination and Education Assistance Act;
 
-(3) “Federal agency” means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Printing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
+(3) “Federal agency” means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Publishing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
 
 (4) “other organization” means—
 
@@ -2942,6 +3011,9 @@ Section 4 of the Indian Self-Determination and Education Assistance Act, referre
 Pars. (3), (4). Pub. L. 95–454, § 603(a)(2), added pars. (3) and (4).
 
 1975—Par. (2)(C). Pub. L. 93–638, as amended by Pub. L. 100–472, § 203(b), added par. (2)(C).
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in par. (3) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
@@ -3273,7 +3345,8 @@ An air traffic controller who is eligible for immediate retirement under [sectio
 
 (2) the efficient control of air traffic; or
 
-(3) the preservation of the physical or mental health of the controller. Chapter 75 of this title does not apply to a determination or action under this section. Separation under this section shall not become final, without the consent of the controller, until the last day of the second month following the day the controller receives a notification of the determination by the Secretary under this section, or, if a review is requested under [section 3383 of this title](./chapter-033-examination-selection-and-placement.md#section-3383), the last day of the month in which a final decision is issued by a board of review under [section 3383(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3383/c&num=0&edition=prelim), whichever is later. A controller who is to be separated under this section is entitled to training under [section 3381 of this title](./chapter-033-examination-selection-and-placement.md#section-3381). Separation of such a controller who elects to receive training under section 3381 shall not become final until the last day of the month following the completion of his training.
+(3) the preservation of the physical or mental health of the controller.
+Chapter 75 of this title does not apply to a determination or action under this section. Separation under this section shall not become final, without the consent of the controller, until the last day of the second month following the day the controller receives a notification of the determination by the Secretary under this section, or, if a review is requested under [section 3383 of this title](./chapter-033-examination-selection-and-placement.md#section-3383), the last day of the month in which a final decision is issued by a board of review under [section 3383(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3383/c&num=0&edition=prelim), whichever is later. A controller who is to be separated under this section is entitled to training under [section 3381 of this title](./chapter-033-examination-selection-and-placement.md#section-3381). Separation of such a controller who elects to receive training under section 3381 shall not become final until the last day of the month following the completion of his training.
 
 ### Statutory Notes
 

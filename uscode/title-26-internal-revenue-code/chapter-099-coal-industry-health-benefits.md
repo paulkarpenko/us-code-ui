@@ -439,9 +439,9 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 **(b) Transfers**
 
-(1) **In general** — The Combined Fund shall include any amount transferred to the Fund under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/h&num=0&edition=prelim)).
+(1) **In general** — The Combined Fund shall include any amount transferred to the Fund under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/h&num=0&edition=prelim)).11 So in original. Probably should be “([30 U.S.C. 1232](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232&num=0&edition=prelim)).”
 
-(2) **Use of funds** — Any amount transferred under paragraph (1) for any fiscal year shall be used to pay benefits and administrative costs of beneficiaries of the Combined Fund or for such other purposes as are specifically provided in the Acts 11 So in original. Probably should be “Act”. described in paragraph (1).
+(2) **Use of funds** — Any amount transferred under paragraph (1) for any fiscal year shall be used to pay benefits and administrative costs of beneficiaries of the Combined Fund or for such other purposes as are specifically provided in the Acts 22 So in original. Probably should be “Act”. described in paragraph (1).
 
 ### Statutory Notes
 
@@ -702,7 +702,7 @@ All liability for contributions to the Combined Fund that arises on and after Fe
 
 (4) **Special rule for 1993 plan**
 
-  (A) *In general* — The plan described in section 402(h)(2)(C) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(h)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/h/2/C&num=0&edition=prelim)) shall include any amount transferred to the plan under subsections (h) and (i) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232&num=0&edition=prelim)).
+  (A) *In general* — The plan described in section 402(h)(2)(C) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(h)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/h/2/C&num=0&edition=prelim)) shall include any amount transferred to the plan under subsections (h) and (i) of 11 So in original. Probably should be followed by “section 402 of”. the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232&num=0&edition=prelim)).
 
   (B) *Use of funds* — Any amount transferred under subparagraph (A) for any fiscal year shall be used to provide the health benefits described in section 402(h)(2)(C)(i) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(h)(2)(C)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/h/2/C/i&num=0&edition=prelim)) to individuals described in section 402(h)(2)(C) of such Act ([30 U.S.C. 1232(h)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/h/2/C&num=0&edition=prelim)).
 

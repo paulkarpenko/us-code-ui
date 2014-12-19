@@ -198,4 +198,9 @@ Amendment by Pub. L. 99–7 effective Apr. 15, 1985, except for enactment of sub
 <a id="section-3009"></a>
 ## § 3009. Printing and binding costs
 
-For purposes of costs relating to printing and binding, including the costs of personnel detailed from the Government Printing Office, the Commission shall be deemed to be a committee of the Congress.
+For purposes of costs relating to printing and binding, including the costs of personnel detailed from the Government Publishing Office, the Commission shall be deemed to be a committee of the Congress.
+
+### Statutory Notes
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.

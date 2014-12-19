@@ -12,7 +12,7 @@ source: >-
 
 **(b)** The “usual number” of documents and reports shall be one thousand six hundred and eighty-two copies, which shall be printed at one time and distributed as follows:Of the House documents and reports, unbound—to the Senate document room, one hundred and fifty copies; to the office of the Secretary of the Senate, ten copies; to the House document room, not to exceed five hundred copies; to the office of the Clerk of the House of Representatives, twenty copies; to the Library of Congress, ten copies, as provided by [section 1718 of this title](./chapter-017-distribution-and-sale-of-public-documents.md#section-1718). Of the Senate documents and reports, unbound—to the Senate document room, two hundred and twenty copies; office of the Secretary of the Senate, ten copies; to the House document room, not to exceed five hundred copies; to the Clerk’s office of the House of Representatives, ten copies; to the Library of Congress, ten copies, as provided by [section 1718 of this title](./chapter-017-distribution-and-sale-of-public-documents.md#section-1718).
 
-**(c)** Of the number printed, the Public Printer shall bind a sufficient number of copies for distribution as follows:Of the House documents and reports, bound—to the Senate library, fifteen copies; to the Library of Congress, not to exceed one hundred and fifty copies, as provided by [section 1718 of this title](./chapter-017-distribution-and-sale-of-public-documents.md#section-1718); to the House of Representatives library, fifteen copies; to the Superintendent of Documents, as many copies as are required for distribution to the State libraries and designated depositories. Of the Senate documents and reports, bound—to the Senate library, fifteen copies; to the Library of Congress, copies as provided by sections 1718 and 1719 of this title; to the House of Representatives library, fifteen copies; to the Superintendent of Documents, as many copies as may be required for distribution to State libraries and designated depositories. In binding documents the Public Printer shall give precedence to those that are to be distributed to libraries and to designated depositories. But a State library or designated depository entitled to documents that may prefer to have its documents in unbound form, may do so by notifying the Superintendent of Documents to that effect prior to the convening of each Congress.
+**(c)** Of the number printed, the Director of the Government Publishing Office shall bind a sufficient number of copies for distribution as follows:Of the House documents and reports, bound—to the Senate library, fifteen copies; to the Library of Congress, not to exceed one hundred and fifty copies, as provided by [section 1718 of this title](./chapter-017-distribution-and-sale-of-public-documents.md#section-1718); to the House of Representatives library, fifteen copies; to the Superintendent of Documents, as many copies as are required for distribution to the State libraries and designated depositories. Of the Senate documents and reports, bound—to the Senate library, fifteen copies; to the Library of Congress, copies as provided by sections 1718 and 1719 of this title; to the House of Representatives library, fifteen copies; to the Superintendent of Documents, as many copies as may be required for distribution to State libraries and designated depositories. In binding documents the Director of the Government Publishing Office shall give precedence to those that are to be distributed to libraries and to designated depositories. But a State library or designated depository entitled to documents that may prefer to have its documents in unbound form, may do so by notifying the Superintendent of Documents to that effect prior to the convening of each Congress.
 
 **(d)** The usual number of reports on private bills, concurrent or simple resolutions, may not be printed. Instead there shall be printed of each Senate report on a private bill, simple or concurrent resolution, in addition to those required to be furnished the Library of Congress, three hundred and forty-five copies, which shall be distributed as follows: to the Senate document room, two hundred and twenty copies; to the Secretary of the Senate, fifteen copies; to the House document room, one hundred copies; to the Superintendent of Documents, ten copies; and of each House report on a private bill, simple or concurrent resolution, in addition to those for the Library of Congress, two hundred and sixty copies, which shall be distributed as follows: to the Senate document room, one hundred and thirty-five copies; to the Secretary of the Senate, fifteen copies; to the House document room, one hundred copies; to the Superintendent of Documents, ten copies.This section does not prevent the binding of all Senate and House reports in the reserve volumes bound for and delivered to the Senate and House libraries, nor abridge the right of the Vice President, Senators, Representatives, Resident Commissioner, Secretary of the Senate, and Clerk of the House to have bound in half morocco, or material not more expensive, one copy of every public document to which he may be entitled. At least twelve copies of each report on bills for the payment or adjudication of claims against the Government shall be kept on file in the Senate document room.
 
@@ -20,6 +20,9 @@ source: >-
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 131 (Jan. 12, 1895, ch. 23, § 54, 28 Stat. 608; Mar. 2, 1901, No. 16, §§ 1, 2, 31 Stat. 1464; Jan. 20, 1905, ch. 50, § 1, 33 Stat. 610; Mar. 1, 1907, ch. 2284, § 4, 34 Stat. 1014; Jan. 15, 1908, No. 3, § 2, 35 Stat. 566; Mar. 4, 1909, ch. 317, 35 Stat. 1067; June 25, 1910, ch. 439, 36 Stat. 868; Mar. 3, 1925, ch. 421, §§ 6, 7, 43 Stat. 1106; June 20, 1936, ch. 630, title IV, § 6, 49 Stat. 1550; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352).
+
+#### Amendments
+2014—Subsec. (c). Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in two places.
 
 #### Congressional Printing and Binding Services For the House of Representatives—Appropriations and Study
 Pub. L. 106–554, § 1(a)(2) [title I, § 111], Dec. 21, 2000, 114 Stat. 2763, 2763A–110, provided that: “(a) Congressional Printing and Binding For the House Through Clerk of House.—“(1) In general.—Notwithstanding any provision of title 44, United States Code, or any other law, there are authorized to be appropriated to the Clerk of the House of Representatives such sums as may be necessary for congressional printing and binding services for the House of Representatives. “(2) Preparation of estimates.—Estimated expenditures and proposed appropriations for congressional printing and binding services shall be prepared and submitted by the Clerk of the House of Representatives in accordance with title 31, United States Code, in the same manner as estimates and requests are prepared for other legislative branch services under such title, except that such requests shall be based upon the results of the study conducted under subsection (b) (with respect to any fiscal year covered by such study). “(3) Effective date.—This subsection shall apply with respect to fiscal year 2003 and each succeeding fiscal year. “(b) Study.—“(1) In general.—During fiscal year 2001, the Clerk of the House of Representatives shall conduct a comprehensive study of the needs of the House for congressional printing and binding services during fiscal year 2003 and succeeding fiscal years (including transitional issues during fiscal year 2002), and shall include in the study an analysis of the most cost-effective program or programs for providing printed or other media-based publications for House uses. “(2) Submission to committees.—The Clerk shall submit the study conducted under paragraph (1) to the Committee on House Administration of the House of Representatives, who shall review the study and prepare such regulations or other materials (including proposals for legislation) as it considers appropriate to enable the Clerk to carry out congressional printing and binding services for the House in accordance with this section. “(c) Definition.—In this section, the term ‘congressional printing and binding services’ means the following services:“(1) Authorized printing and binding for the Congress and the distribution of congressional information in any format. “(2) Preparing the semimonthly and session index to the Congressional Record. “(3) Printing and binding of Government publications authorized by law to be distributed to Members of Congress. “(4) Printing, binding, and distribution of Government publications authorized by law to be distributed without charge to the recipient.”
@@ -39,7 +42,7 @@ Based on 44 U.S. Code, 1964, ed., §§ 132, 134 (Jan. 12, 1895, ch. 23, §§ 2, 
 <a id="section-703"></a>
 ## § 703. Printing extra copies
 
-Orders for printing copies in addition to the “usual number”, otherwise than provided for by this section, shall be by simple, concurrent, or joint resolution. Either House may print extra copies to the amount of $1,200 by simple resolution; if the cost exceeds that sum, the printing shall be ordered by concurrent resolution, unless the resolution is self-appropriating, when it shall be by joint resolution. Resolutions, when presented to either House, shall be referred to the Committee on House Oversight of the House of Representatives or the Committee on Rules and Administration of the Senate, who, in making their report, shall give the probable cost of the proposed printing upon the estimate of the Public Printer; and extra copies may not be printed before the committee has reported. The printing of additional copies may be performed upon orders of the Joint Committee on Printing within a limit of $700 in cost in any one instance.
+Orders for printing copies in addition to the “usual number”, otherwise than provided for by this section, shall be by simple, concurrent, or joint resolution. Either House may print extra copies to the amount of $1,200 by simple resolution; if the cost exceeds that sum, the printing shall be ordered by concurrent resolution, unless the resolution is self-appropriating, when it shall be by joint resolution. Resolutions, when presented to either House, shall be referred to the Committee on House Oversight of the House of Representatives or the Committee on Rules and Administration of the Senate, who, in making their report, shall give the probable cost of the proposed printing upon the estimate of the Director of the Government Publishing Office; and extra copies may not be printed before the committee has reported. The printing of additional copies may be performed upon orders of the Joint Committee on Printing within a limit of $700 in cost in any one instance.
 
 ### Statutory Notes
 
@@ -47,6 +50,8 @@ Orders for printing copies in addition to the “usual number”, otherwise than
 Based on 44 U.S. Code, 1964 ed., § 133 (Jan. 12, 1895, ch. 23, § 2, 28 Stat. 601; Mar. 1, 1907, ch. 2284, § 1, 34 Stat. 1013; Apr. 19, 1949, ch. 72, 63 Stat. 48).
 
 #### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
@@ -56,37 +61,35 @@ Committee on House Oversight of House of Representatives changed to Committee on
 <a id="section-704"></a>
 ## § 704. Reprinting bills, laws, and reports from committees not exceeding fifty pages
 
-When the supply is exhausted, the Secretary of the Senate and the Clerk of the House of Representatives may order the reprinting of not more than one thousand copies of a pending bill, resolution, or public law, not exceeding fifty pages, or a report from a committee or congressional commission on pending legislation not accompanied by testimony or exhibits or other appendices and not exceeding fifty pages. The Public Printer shall require each requisition for reprinting to cite the specific authority of law for its execution.
+When the supply is exhausted, the Secretary of the Senate and the Clerk of the House of Representatives may order the reprinting of not more than one thousand copies of a pending bill, resolution, or public law, not exceeding fifty pages, or a report from a committee or congressional commission on pending legislation not accompanied by testimony or exhibits or other appendices and not exceeding fifty pages. The Director of the Government Publishing Office shall require each requisition for reprinting to cite the specific authority of law for its execution.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 137 (Jan. 12, 1895, ch. 23, § 2, 28 Stat. 601; Mar. 1, 1907, ch. 2284, § 1, 34 Stat. 1012).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-705"></a>
 ## § 705. Duplicate orders to print
 
-The Public Printer shall examine the orders of the Senate and House of Representatives for printing, and in case of duplication shall print under the first order received.
+The Director of the Government Publishing Office shall examine the orders of the Senate and House of Representatives for printing, and in case of duplication shall print under the first order received.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 135 (Jan. 12, 1895, ch. 23, § 53, 28 Stat. 608).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-706"></a>
 ## § 706. Bills and resolutions: number and distribution
 
-There shall be printed of each Senate private bill, when introduced, when reported, and when passed, three hundred copies, which shall be distributed as follows:
-to the Senate document room, one hundred and seventy copies;
-There shall be printed of each House private bill, when introduced, when reported, and when passed two hundred and sixty copies, which shall be distributed as follows:
-Bills and resolutions shall be printed in bill form, and, unless specially ordered by either House shall be printed only when referred to a committee, when favorably reported back, and after their passage by either House.
-Of concurrent and simple resolutions, when reported, and after their passage by either House, only two hundred and sixty copies shall be printed, except by special order, and shall be distributed as follows:
-to the Senate document room, one hundred and thirty-five copies;
-to the Secretary of the Senate, fifteen copies;
-to the House document room, one hundred copies;
-to the Superintendent of Documents, ten copies.
+There shall be printed of each Senate and House public bill and joint resolution six hundred and twenty-five copies, which shall be distributed as follows:
 
 ### Statutory Notes
 
@@ -108,29 +111,35 @@ Based on 44 U.S. Code, 1964 ed., § 189a (June 13, 1934, ch. 483, § 3, 48 Stat.
 <a id="section-708"></a>
 ## § 708. Bills and resolutions: binding sets for Congress
 
-The Public Printer shall bind four sets of Senate and House of Representatives bills, joint and concurrent resolutions of each Congress, two for the Senate and two for the House, to be furnished him from the files of the Senate and House document room, the volumes when bound to be kept there for reference.
+The Director of the Government Publishing Office shall bind four sets of Senate and House of Representatives bills, joint and concurrent resolutions of each Congress, two for the Senate and two for the House, to be furnished him from the files of the Senate and House document room, the volumes when bound to be kept there for reference.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 190 (Jan. 12, 1895, ch. 23, § 82, 28 Stat. 622).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-709"></a>
 ## § 709. Public and private laws, postal conventions, and treaties
 
-The Public Printer shall print in slip form copies of public and private laws, postal conventions, and treaties, to be charged to the congressional allotment for printing and binding. The Joint Committee on Printing shall control the number and distribution of copies.
+The Director of the Government Publishing Office shall print in slip form copies of public and private laws, postal conventions, and treaties, to be charged to the congressional allotment for printing and binding. The Joint Committee on Printing shall control the number and distribution of copies.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 191 (Jan. 12, 1895, ch. 23, § 56, 28 Stat. 609; July 10, 1952, ch. 632, § 7, 66 Stat. 541).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-710"></a>
-## § 710. Copies of Acts furnished to Public Printer
+## § 710. Copies of Acts furnished to Director of the Government Publishing Office
 
-The Archivist of the United States shall furnish to the Public Printer a copy of every Act and joint resolution, as soon as possible after its approval by the President, or after it has become a law under the Constitution without his approval.
+The Archivist of the United States shall furnish to the Director of the Government Publishing Office a copy of every Act and joint resolution, as soon as possible after its approval by the President, or after it has become a law under the Constitution without his approval.
 
 ### Statutory Notes
 
@@ -138,6 +147,8 @@ The Archivist of the United States shall furnish to the Public Printer a copy of
 Based on 44 U.S. Code, 1964 ed., § 191a (R.S. § 210; June 20, 1874, ch. 328, 18 Stat. 88; 1950 Reorg. Plan No. 20, § 1, eff. May 24, 1950; 15 F.R. 3178, 64 Stat. 1272).
 
 #### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and text.
+
 1984—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services”.
 
 #### Effective Date of 1984 Amendment
@@ -147,7 +158,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 <a id="section-711"></a>
 ## § 711. Printing Acts, joint resolutions, and treaties
 
-The Public Printer, on receiving from the Archivist of the United States a copy of an Act or joint resolution, or from the Secretary of State, a copy of a treaty, shall print an accurate copy and transmit it in duplicate to the Archivist of the United States or to the Secretary of State, as the case may be, for revision. On the return of one of the revised duplicates, he shall make the marked corrections and print the number specified by [section 709 of this title](./chapter-007-congressional-printing-and-binding.md#section-709).
+The Director of the Government Publishing Office, on receiving from the Archivist of the United States a copy of an Act or joint resolution, or from the Secretary of State, a copy of a treaty, shall print an accurate copy and transmit it in duplicate to the Archivist of the United States or to the Secretary of State, as the case may be, for revision. On the return of one of the revised duplicates, he shall make the marked corrections and print the number specified by [section 709 of this title](./chapter-007-congressional-printing-and-binding.md#section-709).
 
 ### Statutory Notes
 
@@ -155,6 +166,8 @@ The Public Printer, on receiving from the Archivist of the United States a copy 
 Based on 44 U.S. Code, 1964 ed., § 192 (R.S. § 3805; Jan. 12, 1895, ch. 23, § 56, 28 Stat. 609; 1950 Reorg. Plan No. 20, § 1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1272).
 
 #### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 1984—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services” wherever appearing.
 
 #### Effective Date of 1984 Amendment
@@ -164,12 +177,15 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 <a id="section-712"></a>
 ## § 712. Printing of postal conventions
 
-The Public Printer, on receiving from the Postmaster General a copy of a postal convention between the Postmaster General, on the part of the United States, and an equivalent officer of a foreign government, shall print an accurate copy and transmit it in duplicate to the Postmaster General. On the return of one of the revised duplicates, he shall make the marked corrections and print the number specified by [section 709 of this title](./chapter-007-congressional-printing-and-binding.md#section-709).
+The Director of the Government Publishing Office, on receiving from the Postmaster General a copy of a postal convention between the Postmaster General, on the part of the United States, and an equivalent officer of a foreign government, shall print an accurate copy and transmit it in duplicate to the Postmaster General. On the return of one of the revised duplicates, he shall make the marked corrections and print the number specified by [section 709 of this title](./chapter-007-congressional-printing-and-binding.md#section-709).
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 193 (R.S. § 3806; June 20, 1874, ch. 328, § 1, 18 Stat. 88; Jan. 12, 1895, ch. 23, § 56, 28 Stat. 609).
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 #### Transfer of Functions
 Office of Postmaster General of Post Office Department abolished and functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under [section 201 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section201&num=0&edition=prelim), Postal Service.
@@ -178,7 +194,7 @@ Office of Postmaster General of Post Office Department abolished and functions, 
 <a id="section-713"></a>
 ## § 713. Journals of Houses of Congress
 
-The remaining number of the Journals of the Senate and House of Representatives, consisting of twenty-five copies, shall be furnished to the Secretary of the Senate and the Clerk of the House of Representatives, respectively, as the necessities of their respective offices require, as rapidly as signatures are completed for distribution.
+There shall be printed of the Journals of the Senate and House of Representatives eight hundred and twenty copies, which shall be distributed as follows:
 
 ### Statutory Notes
 
@@ -195,34 +211,43 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 <a id="section-714"></a>
 ## § 714. Printing documents for Congress in two or more editions; printing of full number and allotment of full quota
 
-The Joint Committee on Printing shall establish rules to be observed by the Public Printer, by which public documents and reports printed for Congress, or either House, may be printed in two or more editions, to meet the public requirements. The aggregate of the editions may not exceed the number of copies otherwise authorized. This section does not prevent the printing of the full number of a document or report, or the allotment of the full quota to Senators and Representatives, as otherwise authorized, when a legitimate demand for the full complement is known to exist.
+The Joint Committee on Printing shall establish rules to be observed by the Director of the Government Publishing Office, by which public documents and reports printed for Congress, or either House, may be printed in two or more editions, to meet the public requirements. The aggregate of the editions may not exceed the number of copies otherwise authorized. This section does not prevent the printing of the full number of a document or report, or the allotment of the full quota to Senators and Representatives, as otherwise authorized, when a legitimate demand for the full complement is known to exist.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 136 (Mar. 30, 1906, No. 14, 34 Stat. 826).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-715"></a>
 ## § 715. Senate and House documents and reports for Department of State
 
-The Public Printer shall print, in addition to the usual number, and furnish the Department of State twenty copies of each Senate and House of Representatives document and report.
+The Director of the Government Publishing Office shall print, in addition to the usual number, and furnish the Department of State twenty copies of each Senate and House of Representatives document and report.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 138 (Feb. 7, 1896, No. 14, 29 Stat. 463).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-716"></a>
 ## § 716. Printing of documents not provided for by law
 
-Either House may order the printing of a document not already provided for by law, when accompanied by an estimate from the Public Printer as to the probable cost. An executive department, bureau, board, or independent office of the Government submitting reports or documents in response to inquiries from Congress shall include an estimate of the probable cost of printing to the usual number. This section does not apply to reports or documents not exceeding fifty pages.
+Either House may order the printing of a document not already provided for by law, when accompanied by an estimate from the Director of the Government Publishing Office as to the probable cost. An executive department, bureau, board, or independent office of the Government submitting reports or documents in response to inquiries from Congress shall include an estimate of the probable cost of printing to the usual number. This section does not apply to reports or documents not exceeding fifty pages.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 140 (Jan. 12, 1895, ch. 23, § 2, 28 Stat. 601; Mar. 1, 1907, ch. 2284, § 1, 34 Stat. 1013).
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 
 <a id="section-717"></a>
@@ -250,7 +275,7 @@ Based on 44 U.S. Code, 1964 ed., § 141 (Mar. 1, 1907, ch. 2284, § 5, 34 Stat. 
 <a id="section-719"></a>
 ## § 719. Classification and numbering of publications ordered printed by Congress; designation of publications of departments; printing of committee hearings
 
-The publications in each series shall be consecutively numbered, the numbers in each series continuing in unbroken sequence throughout the entire term of a Congress, but these provisions do not apply to the documents printed for the use of the Senate in executive session. Of the “usual number”, the copies which are intended for distribution to State libraries and other designated depositories of annual or serial publications originating in or prepared by an executive department, bureau, office, commission, or board may not be numbered in the document or report series of either House of Congress, but shall be designated by title and bound as provided by [section 738 of this title](./chapter-007-congressional-printing-and-binding.md#section-738); and the departmental edition, if any, shall be printed concurrently with the “usual number.” Hearings of committees may be printed as congressional documents only when specifically ordered by Congress or either House.
+Publications ordered printed by Congress, or either House, shall be in four series, namely:
 
 ### Statutory Notes
 
@@ -287,18 +312,21 @@ Based on 44 U.S. Code, 1964 ed., § 149 (Jan. 12, 1895, ch. 23, § 73, 28 Stat. 
 <a id="section-722"></a>
 ## § 722. Congressional Directory: sale
 
-The Public Printer, under the direction of the Joint Committee on Printing, may print the current Congressional Directory for sale at a price sufficient to reimburse the expense of printing. The money derived from sales shall be paid into the Treasury and accounted for in his annual report to Congress, and sales may not be made on credit.
+The Director of the Government Publishing Office, under the direction of the Joint Committee on Printing, may print the current Congressional Directory for sale at a price sufficient to reimburse the expense of printing. The money derived from sales shall be paid into the Treasury and accounted for in his annual report to Congress, and sales may not be made on credit.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 150 (Jan. 12, 1895 ch. 23, § 40, 28 Stat. 607).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-723"></a>
 ## § 723. Memorial addresses: preparation; distribution
 
-The “usual number” of memorial addresses may not be printed.
+After the final adjournment of each session of Congress, there shall be compiled, prepared, printed with illustrations, and bound in cloth in one volume, in the style, form, and manner directed by the Joint Committee on Printing, without extra compensation to any employee, the legislative proceedings of Congress and the exercises at the general memorial services held in the House of Representatives during each session relative to the death of a Member of Congress or a former Member of Congress who served as Speaker, together with all relevant memorial addresses and eulogies published in the Congressional Record during the same session of Congress, and any other matter the Joint Committee considers relevant; and there shall be printed as many copies as needed to supply the total quantity provided for by this section, of which fifty copies, bound in full morocco, with gilt edges, suitably lettered as may be requested, shall be delivered to the family of the deceased, and the remaining copies shall be distributed as follows:
 
 ### Statutory Notes
 
@@ -318,23 +346,29 @@ Pub. L. 94–59, title VIII, July 25, 1975, 89 Stat. 296, provided that: “Here
 <a id="section-724"></a>
 ## § 724. Memorial addresses: illustrations
 
-The illustrations to accompany bound copies of memorial addresses delivered in Congress shall be made at the Bureau of Engraving and Printing and paid for out of the appropriation for that bureau, or, in the discretion of the Joint Committee on Printing, shall be obtained elsewhere by the Public Printer and charged to the allotment for printing and binding for Congress.
+The illustrations to accompany bound copies of memorial addresses delivered in Congress shall be made at the Bureau of Engraving and Printing and paid for out of the appropriation for that bureau, or, in the discretion of the Joint Committee on Printing, shall be obtained elsewhere by the Director of the Government Publishing Office and charged to the allotment for printing and binding for Congress.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 152 (Mar. 4, 1921, ch. 161, § 1, 41 Stat. 1431).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-725"></a>
 ## § 725. Statement of appropriations; “usual number”
 
-Of the statements of appropriations required to be prepared by [section 105 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section105&num=0&edition=prelim), there shall be printed, after the close of each regular session of Congress, the usual number of copies.
+Of the statements of appropriations required to be prepared by [section 105 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section105&num=0&edition=prelim),11 So in original. See References in Text note below. there shall be printed, after the close of each regular session of Congress, the usual number of copies.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 153 (Mar. 2, 1895, ch. 189, § 1, 28 Stat. 958).
+
+#### References in Text
+[Section 105 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section105&num=0&edition=prelim), referred to in text, was editorially reclassified as [section 4303 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4303&num=0&edition=prelim), The Congress.
 
 
 <a id="section-726"></a>
@@ -362,12 +396,15 @@ Based on 44 U.S. Code, 1964 ed., § 155 (Jan. 12, 1895, ch. 23, § 83, 28 Stat. 
 <a id="section-728"></a>
 ## § 728. United States Statutes at Large: distribution
 
-The Public Printer, after the final adjournment of each regular session of Congress, shall print and bind copies of the United States Statutes at Large, to be charged to the congressional allotment for printing and binding. The Joint Committee on Printing shall control the number and distribution of the copies.
+The Director of the Government Publishing Office, after the final adjournment of each regular session of Congress, shall print and bind copies of the United States Statutes at Large, to be charged to the congressional allotment for printing and binding. The Joint Committee on Printing shall control the number and distribution of the copies.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 196a (Jan. 12, 1895, ch. 23, § 73, 28 Stat. 615; June 20, 1936, ch. 630, title VI, § 9, 49 Stat. 1551; June 16, 1938, ch. 477, § 2, 52 Stat. 761; Sept. 23, 1950, ch. 1001, § 4, 64 Stat. 980; July 10, 1952, ch. 632, § 2, 66 Stat. 540).
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in two places.
 
 #### Written Requests for Copies of United States Statutes at Large
 Pub. L. 94–440, title X, Oct. 1, 1976, 90 Stat. 1459, provided that: “Hereafter, notwithstanding any other provisions of law, appropriations for the automatic distribution to Senators and Representatives (including Delegates to Congress and the Resident Commissioner from Puerto Rico) of copies of the United States Statutes at Large shall not be available with respect to any Senator or Representative unless such Senator or Representative specifically, in writing, requests that he receive copies of such document.”
@@ -393,7 +430,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 <a id="section-730"></a>
 ## § 730. Distribution of documents to Members of Congress
 
-When, in the division among Senators, and Representatives, of documents printed for the use of Congress there is an apportionment to each or either House in round numbers, the Public Printer may not deliver the full number so accredited at the Senate Service Department and House of Representatives Publications Distribution Service, but only the largest multiple of the number constituting the full membership of that House, including the Secretary and Sergeant at Arms of the Senate and Clerk and Sergeant at Arms of the House, which is contained in the round numbers thus accredited to that House, so that the number delivered divides evenly and without remainder among the Members of the House to which they are delivered; and the remainder of the documents thus resulting shall be turned over to the Superintendent of Documents, to be distributed by him, first, to public and school libraries for the purpose of completing broken sets; second, to public and school libraries that have not been supplied with any portions of the sets, and, lastly, by sale to other persons; the libraries to be named to him by Senators and Representatives; and in this distribution the Superintendent of Documents, as far as practicable, shall make an equal allowance to each Senator and Representative.
+When, in the division among Senators, and Representatives, of documents printed for the use of Congress there is an apportionment to each or either House in round numbers, the Director of the Government Publishing Office may not deliver the full number so accredited at the Senate Service Department and House of Representatives Publications Distribution Service, but only the largest multiple of the number constituting the full membership of that House, including the Secretary and Sergeant at Arms of the Senate and Clerk and Sergeant at Arms of the House, which is contained in the round numbers thus accredited to that House, so that the number delivered divides evenly and without remainder among the Members of the House to which they are delivered; and the remainder of the documents thus resulting shall be turned over to the Superintendent of Documents, to be distributed by him, first, to public and school libraries for the purpose of completing broken sets; second, to public and school libraries that have not been supplied with any portions of the sets, and, lastly, by sale to other persons; the libraries to be named to him by Senators and Representatives; and in this distribution the Superintendent of Documents, as far as practicable, shall make an equal allowance to each Senator and Representative.
 
 ### Statutory Notes
 
@@ -403,6 +440,8 @@ Based on 44 U.S. Code, 1964 ed., § 157 (Jan. 12, 1895, ch. 23, § 68, 28 Stat. 
 “House of Representatives Publications Distribution Service” is substituted for “House Folding Room” because of the change of name under authority of Public Law 88–652.
 
 #### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 1996—Pub. L. 104–186 substituted “and Sergeant at Arms” for “, Sergeant at Arms, and Doorkeeper”.
 
 
@@ -422,18 +461,21 @@ Words “or her” deleted by authority of Title 1, sec. 1—“words importing 
 <a id="section-732"></a>
 ## § 732. Time for distribution of documents by Members of Congress extended
 
-Reelected Members may distribute public documents to their credit, or the credit of their respective districts in the Interior or other Departments and bureaus, and in the Government Printing Office, during their successive terms and until their right to frank documents ends.
+Reelected Members may distribute public documents to their credit, or the credit of their respective districts in the Interior or other Departments and bureaus, and in the Government Publishing Office, during their successive terms and until their right to frank documents ends.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 159 (June 4, 1897, ch. 2, § 1, 30 Stat. 62).
 
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+
 
 <a id="section-733"></a>
 ## § 733. Documents and reports ordered by Members of Congress; franks and envelopes for Members of Congress
 
-The Public Printer on order of a Member of Congress, on prepayment of the cost, may reprint documents and reports of committees together with the evidence papers submitted, or any part ordered printed by the Congress.
+The Director of the Government Publishing Office on order of a Member of Congress, on prepayment of the cost, may reprint documents and reports of committees together with the evidence papers submitted, or any part ordered printed by the Congress.
 
 ### Statutory Notes
 
@@ -447,11 +489,16 @@ By inference he should be included in section 733, since the franking privilege 
 Changes have been made in section 733 to include the Resident Commissioner as to printing of franks.
 
 #### Amendments
+2014—Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
+
 1985—Pub. L. 99–87 inserted “Franks may also contain information relating to missing children as provided in [section 3220 of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3220&num=0&edition=prelim).” before “But he may not print” in second par.
 
 1974—Pub. L. 93–255 struck out “Postage paid by Congress.” after “Public document.” in second par.
 
 1973—Pub. L. 93–191 substituted “Public document. Postage paid by Congress.” for “Public document. Free.” in second par.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
 
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as a note under [section 3210 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3210&num=0&edition=prelim), Postal Service.
@@ -460,12 +507,15 @@ Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L.
 <a id="section-734"></a>
 ## § 734. Stationery and blank books for Congress
 
-Upon requisition of the Secretary of the Senate and the Clerk of the House of Representatives, respectively, the Public Printer shall furnish stationery, blank books, tables, forms, and other necessary papers preparatory to congressional legislation, required for the official use of the Senate and the House of Representatives, or their committees and officers. This does not prevent the purchase by the officers of the Senate and House of Representatives of stationery and blank books necessary for sale to Senators and Members in the stationery rooms of the two Houses as provided by law.
+Upon requisition of the Secretary of the Senate and the Clerk of the House of Representatives, respectively, the Director of the Government Publishing Office shall furnish stationery, blank books, tables, forms, and other necessary papers preparatory to congressional legislation, required for the official use of the Senate and the House of Representatives, or their committees and officers. This does not prevent the purchase by the officers of the Senate and House of Representatives of stationery and blank books necessary for sale to Senators and Members in the stationery rooms of the two Houses as provided by law.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 146 (Jan. 12, 1895, ch. 23, § 2, 28 Stat. 601; Mar. 1, 1907, ch. 2284, § 1, 34 Stat. 1013).
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 #### Change of Name
 Stationery room of House of Representatives redesignated Office Supply Service.
@@ -494,34 +544,46 @@ Pub. L. 94–59, title VIII, July 25, 1975, 89 Stat. 296, provided that: “Here
 <a id="section-736"></a>
 ## § 736. Binding at expense of Members of Congress
 
-The Public Printer may bind at the Government Printing Office books, maps, charts, or documents published by authority of Congress, upon application of a Member of Congress, and payment of the actual cost of binding.
+The Director of the Government Publishing Office may bind at the Government Publishing Office books, maps, charts, or documents published by authority of Congress, upon application of a Member of Congress, and payment of the actual cost of binding.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 171 (Dec. 10, 1877, ch. 6, 20 Stat. 5).
 
+#### Amendments
+2014—Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer”.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+
 
 <a id="section-737"></a>
 ## § 737. Binding for Senate library
 
-The Secretary of the Senate may make requisition upon the Public Printer for the binding for the Senate library of books he considers necessary, at a cost not to exceed $200 per year.
+The Secretary of the Senate may make requisition upon the Director of the Government Publishing Office for the binding for the Senate library of books he considers necessary, at a cost not to exceed $200 per year.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 168 (Mar. 2, 1895, ch. 189, § 1, 28 Stat. 958).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-738"></a>
 ## § 738. Binding of publications for distribution to libraries
 
-The Public Printer shall supply the Superintendent of Documents with sufficient copies of publications distributed in unbound form, to be bound and distributed to the State libraries and other designated depositories for their permanent files. Every publication of sufficient size on any one subject shall be bound separately and receive the title suggested by the subject of the volume, and the others shall be distributed in unbound form as soon as printed. The library edition, as well as all other bound sets of congressional numbered documents and reports, shall be arranged in volumes and bound in the manner directed by the Joint Committee on Printing.
+The Director of the Government Publishing Office shall supply the Superintendent of Documents with sufficient copies of publications distributed in unbound form, to be bound and distributed to the State libraries and other designated depositories for their permanent files. Every publication of sufficient size on any one subject shall be bound separately and receive the title suggested by the subject of the volume, and the others shall be distributed in unbound form as soon as printed. The library edition, as well as all other bound sets of congressional numbered documents and reports, shall be arranged in volumes and bound in the manner directed by the Joint Committee on Printing.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 143 (Jan. 15, 1908, No. 3, § 2, 35 Stat. 566).
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 
 <a id="section-739"></a>

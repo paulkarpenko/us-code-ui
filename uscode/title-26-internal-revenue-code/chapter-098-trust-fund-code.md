@@ -92,12 +92,16 @@ Pub. L. 97–119, title I, § 103(d)(1), Dec. 29, 1981, 95 Stat. 1639, as amende
 Pub. L. 97–119, title I, § 103(d)(2), Dec. 29, 1981, 95 Stat. 1639, provided that: “The Black Lung Disability Trust Fund established by the amendments made by this section [enacting this section and sections 9500, 9601, 9602 of this title, amending [section 501 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-501), and repealing [section 934a of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section934a&num=0&edition=prelim), Mineral Lands and Mining] shall be treated for all purposes of law as the continuation of the Black Lung Disability Trust Fund established by section 3 of the Black Lung Benefits Revenue Act of 1977 [former [section 934a of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section934a&num=0&edition=prelim)]. Any reference in any law to the Black Lung Disability Trust Fund established by such section 3 shall be deemed to include a reference to the Black Lung Disability Trust Fund established by the amendments made by this section.”
 
 #### Restructuring of Trust Fund Debt
-Pub. L. 110–343, div. B, title I, § 113(b), Oct. 3, 2008, 122 Stat. 3825, provided that: “(1) Definitions.—For purposes of this subsection—“(A) Market value of the outstanding repayable advances, plus accrued interest.—The term ‘market value of the outstanding repayable advances, plus accrued interest’ means the present value (determined by the Secretary of the Treasury as of the refinancing date and using the Treasury rate as the discount rate) of the stream of principal and interest payments derived assuming that each repayable advance that is outstanding on the refinancing date is due on the 30th anniversary of the end of the fiscal year in which the advance was made to the Trust Fund, and that all such principal and interest payments are made on September 30 of the applicable fiscal year. “(B) Refinancing date.—The term ‘refinancing date’ means the date occurring 2 days after the enactment of this Act [Oct. 3, 2008]. “(C) Repayable advance.—The term ‘repayable advance’ means an amount that has been appropriated to the Trust Fund in order to make benefit payments and other expenditures that are authorized under section 9501 of the Internal Revenue Code of 1986 and are required to be repaid when the Secretary of the Treasury determines that monies are available in the Trust Fund for such purpose. “(D) Treasury rate.—The term ‘Treasury rate’ means a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. “(E) Treasury 1-year rate.—The term ‘Treasury 1-year rate’ means a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States with remaining periods to maturity of approximately 1 year, to have been in effect as of the close of business 1 business day prior to the date on which the Trust Fund issues obligations to the Secretary of the Treasury under paragraph (2)(B). “(2) Refinancing of outstanding principal of repayable advances and unpaid interest on such advances.—“(A) Transfer to general fund.—On the refinancing date, the Trust Fund shall repay the market value of the outstanding repayable advances, plus accrued interest, by transferring into the general fund of the Treasury the following sums:“(i) The proceeds from obligations that the Trust Fund shall issue to the Secretary of the Treasury in such amounts as the Secretaries of Labor and the Treasury shall determine and bearing interest at the Treasury rate, and that shall be in such forms and denominations and be subject to such other terms and conditions, including maturity, as the Secretary of the Treasury shall prescribe. “(ii) All, or that portion, of the appropriation made to the Trust Fund pursuant to paragraph (3) that is needed to cover the difference defined in that paragraph. “(B) Repayment of obligations.—In the event that the Trust Fund is unable to repay the obligations that it has issued to the Secretary of the Treasury under subparagraph (A)(i) and this subparagraph, or is unable to make benefit payments and other authorized expenditures, the Trust Fund shall issue obligations to the Secretary of the Treasury in such amounts as may be necessary to make such repayments, payments, and expenditures, with a maturity of 1 year, and bearing interest at the Treasury 1-year rate. These obligations shall be in such forms and denominations and be subject to such other terms and conditions as the Secretary of the Treasury shall prescribe. “(C) Authority to issue obligations.—The Trust Fund is authorized to issue obligations to the Secretary of the Treasury under subparagraphs (A)(i) and (B). The Secretary of the Treasury is authorized to purchase such obligations of the Trust Fund. For the purposes of making such purchases, the Secretary of the Treasury may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, United States Code, and the purposes for which securities may be issued under such chapter are extended to include any purchase of such Trust Fund obligations under this subparagraph. “(3) One-time appropriation.—There is hereby appropriated to the Trust Fund an amount sufficient to pay to the general fund of the Treasury the difference between—“(A) the market value of the outstanding repayable advances, plus accrued interest; and “(B) the proceeds from the obligations issued by the Trust Fund to the Secretary of the Treasury under paragraph (2)(A)(i). “(4) Prepayment of trust fund obligations.—The Trust Fund is authorized to repay any obligation issued to the Secretary of the Treasury under subparagraphs (A)(i) and (B) of paragraph (2) prior to its maturity date by paying a prepayment price that would, if the obligation being prepaid (including all unpaid interest accrued thereon through the date of prepayment) were purchased by a third party and held to the maturity date of such obligation, produce a yield to the third-party purchaser for the period from the date of purchase to the maturity date of such obligation substantially equal to the Treasury yield on outstanding marketable obligations of the United States having a comparable maturity to this period.”
+Pub. L. 110–343, div. B, title I, § 113(b), Oct. 3, 2008, 122 Stat. 3825, as amended by Pub. L. 113–295, div. A, title II, § 210(b), Dec. 19, 2014, 128 Stat. 4031, provided that: “(1) Definitions.—For purposes of this subsection—“(A) Market value of the outstanding repayable advances, plus accrued interest.—The term ‘market value of the outstanding repayable advances, plus accrued interest’ means the present value (determined by the Secretary of the Treasury as of the refinancing date and using the Treasury rate as the discount rate) of the stream of principal and interest payments derived assuming that each repayable advance that is outstanding on the refinancing date is due on the 30th anniversary of the end of the fiscal year in which the advance was made to the Trust Fund, and that all such principal and interest payments are made on September 30 of the applicable fiscal year. “(B) Refinancing date.—The term ‘refinancing date’ means the date occurring 2 days after the enactment of this Act [Oct. 3, 2008]. “(C) Repayable advance.—The term ‘repayable advance’ means an amount that has been appropriated to the Trust Fund in order to make benefit payments and other expenditures that are authorized under section 9501 of the Internal Revenue Code of 1986 and are required to be repaid when the Secretary of the Treasury determines that monies are available in the Trust Fund for such purpose. “(D) Treasury rate.—The term ‘Treasury rate’ means a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. “(E) Treasury 1-year rate.—The term ‘Treasury 1-year rate’ means a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States with remaining periods to maturity of approximately 1 year, to have been in effect as of the close of business 1 business day prior to the date on which the Trust Fund issues obligations to the Secretary of the Treasury under paragraph (2)(B). “(F) Trust fund.—The term ‘Trust Fund’ means the Black Lung Disability Trust Fund established under section 9501 of the Internal Revenue Code of 1986. “(2) Refinancing of outstanding principal of repayable advances and unpaid interest on such advances.—“(A) Transfer to general fund.—On the refinancing date, the Trust Fund shall repay the market value of the outstanding repayable advances, plus accrued interest, by transferring into the general fund of the Treasury the following sums:“(i) The proceeds from obligations that the Trust Fund shall issue to the Secretary of the Treasury in such amounts as the Secretaries of Labor and the Treasury shall determine and bearing interest at the Treasury rate, and that shall be in such forms and denominations and be subject to such other terms and conditions, including maturity, as the Secretary of the Treasury shall prescribe. “(ii) All, or that portion, of the appropriation made to the Trust Fund pursuant to paragraph (3) that is needed to cover the difference defined in that paragraph. “(B) Repayment of obligations.—In the event that the Trust Fund is unable to repay the obligations that it has issued to the Secretary of the Treasury under subparagraph (A)(i) and this subparagraph, or is unable to make benefit payments and other authorized expenditures, the Trust Fund shall issue obligations to the Secretary of the Treasury in such amounts as may be necessary to make such repayments, payments, and expenditures, with a maturity of 1 year, and bearing interest at the Treasury 1-year rate. These obligations shall be in such forms and denominations and be subject to such other terms and conditions as the Secretary of the Treasury shall prescribe. “(C) Authority to issue obligations.—The Trust Fund is authorized to issue obligations to the Secretary of the Treasury under subparagraphs (A)(i) and (B). The Secretary of the Treasury is authorized to purchase such obligations of the Trust Fund. For the purposes of making such purchases, the Secretary of the Treasury may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, United States Code, and the purposes for which securities may be issued under such chapter are extended to include any purchase of such Trust Fund obligations under this subparagraph. “(3) One-time appropriation.—There is hereby appropriated to the Trust Fund an amount sufficient to pay to the general fund of the Treasury the difference between—“(A) the market value of the outstanding repayable advances, plus accrued interest; and “(B) the proceeds from the obligations issued by the Trust Fund to the Secretary of the Treasury under paragraph (2)(A)(i). “(4) Prepayment of trust fund obligations.—The Trust Fund is authorized to repay any obligation issued to the Secretary of the Treasury under subparagraphs (A)(i) and (B) of paragraph (2) prior to its maturity date by paying a prepayment price that would, if the obligation being prepaid (including all unpaid interest accrued thereon through the date of prepayment) were purchased by a third party and held to the maturity date of such obligation, produce a yield to the third-party purchaser for the period from the date of purchase to the maturity date of such obligation substantially equal to the Treasury yield on outstanding marketable obligations of the United States having a comparable maturity to this period.”
 
 #### Funds to Remain Available
 Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part that: “In fiscal year 2009 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund (‘Fund’), to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 [now 1986]; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 113–235, div. G, title I, Dec. 16, 2014, 128 Stat. 2458.
+
+Pub. L. 113–76, div. H, title I, Jan. 17, 2014, 128 Stat. 355.
 
 Pub. L. 112–74, div. F, title I, Dec. 23, 2011, 125 Stat. 1058.
 
@@ -136,7 +140,7 @@ Pub. L. 95–239, § 20(b), Mar. 1, 1978, 92 Stat. 106, provided that: “In the
 
   (D) section 4081 with respect to aviation gasoline and kerosene to the extent attributable to the rate specified in section 4081(a)(2)(C), and
 
-(2) the amounts determined by the Secretary of the Treasury to be equivalent to the amounts of civil penalties collected under [section 47107(n) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47107/n&num=0&edition=prelim), United States Code.
+(2) the amounts determined by the Secretary of the Treasury to be equivalent to the amounts of civil penalties collected under [section 47107(m) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47107/m&num=0&edition=prelim), United States Code.
 There shall not be taken into account under paragraph (1) so much of the taxes imposed by section 4081 as are determined at the rate specified in section 4081(a)(2)(B).
 
 **(c) Appropriation of additional sums** There are hereby authorized to be appropriated to the Airport and Airway Trust Fund such additional sums as may be required to make the expenditures referred to in subsection (d) of this section.
@@ -169,7 +173,7 @@ There shall not be taken into account under paragraph (1) so much of the taxes i
 
 (5) **Transfers from Airport and Airway Trust Fund on account of refunds of taxes on transportation by air** — The Secretary of the Treasury shall pay from time to time from the Airport and Airway Trust Fund into the general fund of the Treasury amounts equivalent to the amounts paid after December 31, 1995, under section 6402 (relating to authority to make credits or refunds) or section 6415 (relating to credits or refunds to persons who collected certain taxes) in respect of taxes under sections 4261 and 4271.
 
-(6) **Transfers from the Airport and Airway Trust Fund on account of certain airports** — The Secretary of the Treasury may transfer from the Airport and Airway Trust Fund to the Secretary of Transportation or the Administrator of the Federal Aviation Administration an amount to make a payment to an airport affected by a diversion that is the subject of an administrative action under paragraph (3) or a civil action under paragraph (4) of [section 47107(n) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47107/n&num=0&edition=prelim), United States Code.
+(6) **Transfers from the Airport and Airway Trust Fund on account of certain airports** — The Secretary of the Treasury may transfer from the Airport and Airway Trust Fund to the Secretary of Transportation or the Administrator of the Federal Aviation Administration an amount to make a payment to an airport affected by a diversion that is the subject of an administrative action under paragraph (3) or a civil action under paragraph (4) of [section 47107(m) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47107/m&num=0&edition=prelim), United States Code.
 
 **(e) Limitation on transfers to Trust Fund**
 
@@ -265,6 +269,8 @@ The FAA Modernization and Reform Act of 2012, referred to in subsec. (d)(1)(A), 
 The date of the enactment of the last Act referred to in subparagraph (A), referred to in subsec. (d)(1), is the date of the enactment of the FAA Modernization and Reform Act of 2012, Pub. L. 112–95, which was approved Feb. 14, 2012.
 
 #### Amendments
+2014—Subsecs. (b)(2), (d)(6). Pub. L. 113–188 substituted “section 47107(m)” for “section 47107(n)”.
+
 2012—Subsec. (b)(1)(B) to (D). Pub. L. 112–95, § 1103(a)(3), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
 Subsec. (d)(1). Pub. L. 112–95, § 1102(a)(1), substituted “October 1, 2015” for “February 18, 2012” in introductory provisions.
@@ -685,7 +691,7 @@ Pub. L. 97–248, title II, § 281(d), Sept. 3, 1982, 96 Stat. 566, provided tha
   (D) section 4081 (relating to tax on gasoline, diesel fuel, and kerosene), and
 
   (E) section 4481 (relating to tax on use of certain vehicles).
-  For purposes of this paragraph, taxes received under sections 4041 and 4081 shall be determined without reduction for credits under section 6426.
+  For purposes of this paragraph, taxes received under sections 4041 and 4081 shall be determined without reduction for credits under section 6426 and taxes received under section 4081 shall be determined without regard to tax receipts attributable to the rate specified in section 4081(a)(2)(C).
 
 (2) **Liabilities incurred before October 1, 2016** — There are hereby appropriated to the Highway Trust Fund amounts equivalent to the taxes which are received in the Treasury after September 30, 2016, and before July 1, 2017, and which are attributable to liability for tax incurred before October 1, 2016, under the provisions described in paragraph (1).
 
@@ -717,11 +723,11 @@ Pub. L. 97–248, title II, § 281(d), Sept. 3, 1982, 96 Stat. 566, provided tha
 
     (ii) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
 
-  (B) *Exception for prior obligations* — Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2014, in accordance with the provisions of this section.
+  (B) *Exception for prior obligations* — Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before June 1, 2015, in accordance with the provisions of this section.
 
 **(c) Expenditures from Highway Trust Fund**
 
-(1) **Federal-aid highway program** — Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2014, to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the MAP–21 or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
+(1) **Federal-aid highway program** — Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before June 1, 2015, to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the Highway and Transportation Funding Act of 2014 or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
 
 (2) **Floor stocks refunds** — The Secretary shall pay from time to time from the Highway Trust Fund into the general fund of the Treasury amounts equivalent to the floor stocks refunds made before July 1, 2017, under section 6412(a). The amounts payable from the Highway Trust Fund under the preceding sentence shall be determined by taking into account only the portion of the taxes which are deposited into the Highway Trust Fund.
 
@@ -729,7 +735,7 @@ Pub. L. 97–248, title II, § 281(d), Sept. 3, 1982, 96 Stat. 566, provided tha
 
   (A) *Transfer to Land and Water Conservation Fund*
 
-    (i) *In general* — The Secretary shall pay from time to time from the Highway Trust Fund into the land and water conservation fund provided for in title I of the Land and Water Conservation Fund Act of 1965 amounts (as determined by the Secretary) equivalent to the motorboat fuel taxes received on or after October 1, 2005, and before October 1, 2016.
+    (i) *In general* — The Secretary shall pay from time to time from the Highway Trust Fund into the land and water conservation fund provided for in chapter 2003 of title 54 amounts (as determined by the Secretary) equivalent to the motorboat fuel taxes received on or after October 1, 2005, and before October 1, 2016.
 
     (ii) *Limitation* — The aggregate amount transferred under this subparagraph during any fiscal year shall not exceed $1,000,000.
 
@@ -822,7 +828,7 @@ Pub. L. 97–248, title II, § 281(d), Sept. 3, 1982, 96 Stat. 566, provided tha
 
   (E) 9.71 cents per MCF (determined at standard temperature and pressure) in the case of compressed natural gas.
 
-(3) **Expenditures from Account** — Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before October 1, 2014, in accordance with the MAP–21 or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
+(3) **Expenditures from Account** — Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before June 1, 2015, in accordance with the Highway and Transportation Funding Act of 2014 or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
 
 (4) **Limitation** — Rules similar to the rules of subsection (d) shall apply to the Mass Transit Account.
 
@@ -854,16 +860,24 @@ Pub. L. 97–248, title II, § 281(d), Sept. 3, 1982, 96 Stat. 566, provided tha
 
   (B) the Mass Transit Account in the Highway Trust Fund, for fiscal year 2014, $2,200,000,000.
 
-(5) **Treatment of amounts** — Any amount appropriated or transferred under this subsection to the Highway Trust Fund shall remain available without fiscal year limitation.
+(5) **Additional sums** — Out of money in the Treasury not otherwise appropriated, there is hereby appropriated—
+
+  (A) $7,765,000,000 to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund; and
+
+  (B) $2,000,000,000 to the Mass Transit Account in the Highway Trust Fund.
+
+(6) **Additional increase in fund balance** — There is hereby transferred to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund amounts appropriated from the Leaking Underground Storage Tank Trust Fund under section 9508(c)(3).
+
+(7) **Treatment of amounts** — Any amount appropriated or transferred under this subsection to the Highway Trust Fund shall remain available without fiscal year limitation.
 
 ### Statutory Notes
 
 #### References in Text
-The MAP–21, referred to in subsecs. (c)(1) and (e)(3), is Pub. L. 112–141, July 6, 2012, 126 Stat. 405, also known as the Moving Ahead for Progress in the 21st Century Act. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
+The Highway and Transportation Funding Act of 2014, referred to in subsecs. (c)(1) and (e)(3), is Pub. L. 113–159, Aug. 8, 2014, 128 Stat. 1839. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
-The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (c)(1), means the provisions of law referred to in subsec. (c)(1) before the date of enactment of the MAP–21 (Pub. L. 112–141), also known as the Moving Ahead for Progress in the 21st Century Act, which was approved July 6, 2012. Those provisions are section 209 of the Highway Revenue Act of 1956, titles I and II of the Surface Transportation Assistance Act of 1982, the Surface Transportation and Uniform Relocation Assistance Act of 1987, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, and the Temporary Surface Transportation Extension Act of 2012. See notes below.
+The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (c)(1), means the provisions of law referred to in subsec. (c)(1) before the date of enactment of the Highway and Transportation Funding Act of 2014 (Pub. L. 113–159), which was approved Aug. 8, 2014. Those provisions are section 209 of the Highway Revenue Act of 1956, titles I and II of the Surface Transportation Assistance Act of 1982, the Surface Transportation and Uniform Relocation Assistance Act of 1987, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, the Temporary Surface Transportation Extension Act of 2012, and the MAP–21. See notes below.
 
-The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (e)(3), means the provisions of law referred to in subsec. (e)(3) before the date of enactment of the MAP–21 (Pub. L. 112–141), also known as the Moving Ahead for Progress in the 21st Century Act, which was approved July 6, 2012. Those provisions are section 5338(a)(1) and (b)(1) of title 49, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, and the Temporary Surface Transportation Extension Act of 2012. See notes below.
+The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (e)(3), means the provisions of law referred to in subsec. (e)(3) before the date of enactment of the Highway and Transportation Funding Act of 2014 (Pub. L. 113–159), which was approved Aug. 8, 2014. Those provisions are section 5338(a)(1) and (b)(1) of title 49, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, the Temporary Surface Transportation Extension Act of 2012, and the MAP–21. See notes below.
 
 Section 209 of the Highway Revenue Act of 1956, referred to in former subsec. (c)(1), is section 209 of act June 29, 1956, ch. 462, title II, 70 Stat. 397, which was set out as a note under [section 120 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section120&num=0&edition=prelim), Highways. Section 209 was repealed, except for subsection (b) thereof, by Pub. L. 97–424, title V, § 531(b), Jan. 6, 1983, 96 Stat. 2191.
 
@@ -887,17 +901,17 @@ The Surface Transportation Extension Act of 2004, Part IV, referred to in former
 
 The Surface Transportation Extension Act of 2004, Part V, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 108–310, Sept. 30, 2004, 118 Stat. 1144. For complete classification of this Act to the Code, see Short Title of 2004 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
-The Surface Transportation Extension Act of 2005, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–14, May 31, 2005, 119 Stat. 324. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and tables.
+The Surface Transportation Extension Act of 2005, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–14, May 31, 2005, 119 Stat. 324. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
-The Surface Transportation Extension Act of 2005, Part II, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–20, July 1, 2005, 119 Stat. 346. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and tables.
+The Surface Transportation Extension Act of 2005, Part II, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–20, July 1, 2005, 119 Stat. 346. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
-The Surface Transportation Extension Act of 2005, Part III, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–35, July 20, 2005, 119 Stat. 379. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and tables.
+The Surface Transportation Extension Act of 2005, Part III, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–35, July 20, 2005, 119 Stat. 379. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
-The Surface Transportation Extension Act of 2005, Part IV, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–37, July 22, 2005, 119 Stat. 394. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and tables.
+The Surface Transportation Extension Act of 2005, Part IV, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–37, July 22, 2005, 119 Stat. 394. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
-The Surface Transportation Extension Act of 2005, Part V, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–40, July 28, 2005, 119 Stat. 410. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and tables.
+The Surface Transportation Extension Act of 2005, Part V, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–40, July 28, 2005, 119 Stat. 410. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
-The Surface Transportation Extension Act of 2005, Part VI, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–42, July 30, 2005, 119 Stat. 435. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and tables.
+The Surface Transportation Extension Act of 2005, Part VI, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–42, July 30, 2005, 119 Stat. 435. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
 The Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–59, Aug. 10, 2005, 119 Stat. 1144, also known as the SAFETEA–LU. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
@@ -917,9 +931,21 @@ The Surface Transportation Extension Act of 2012, referred to in former subsecs.
 
 The Temporary Surface Transportation Extension Act of 2012, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 112–140, June 29, 2012, 126 Stat. 391. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (c)(3)(A)(i), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897. Title I of that Act is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of Title 16 and Tables.
+The MAP–21, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 112–141, July 6, 2012, 126 Stat. 405, also known as the Moving Ahead for Progress in the 21st Century Act. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
 #### Amendments
+2014—Subsec. (b)(1). Pub. L. 113–295 inserted “and taxes received under section 4081 shall be determined without regard to tax receipts attributable to the rate specified in section 4081(a)(2)(C)” before period at end of concluding provisions.
+
+Subsec. (b)(6)(B). Pub. L. 113–159, § 2001(a)(1), substituted “June 1, 2015” for “October 1, 2014”.
+
+Subsec. (c)(1). Pub. L. 113–159, § 2001(a), substituted “June 1, 2015” for “October 1, 2014” and “Highway and Transportation Funding Act of 2014” for “MAP–21”.
+
+Subsec. (c)(3)(A)(i). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “title I of the Land and Water Conservation Fund Act of 1965”.
+
+Subsec. (e)(3). Pub. L. 113–159, § 2001(a), substituted “June 1, 2015” for “October 1, 2014” and “Highway and Transportation Funding Act of 2014” for “MAP–21”.
+
+Subsec. (f)(5) to (7). Pub. L. 113–159, § 2002(a), added pars. (5) and (6) and redesignated former par. (5) as (7).
+
 2012—Subsec. (b)(1). Pub. L. 112–141, § 40102(e)(1)(A)(i), substituted “October 1, 2016” for “July 1, 2012” in introductory provisions.
 
 Pub. L. 112–140, §§ 1(c), 402(d)(1)(A)(i), temporarily substituted “July 7, 2012” for “July 1, 2012” in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
@@ -1443,25 +1469,28 @@ Subsec. (e)(2). Pub. L. 98–369, § 911(d)(1)(A), amended par. (2) generally, s
 #### Change of Name
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress.
 
+#### Effective Date of 2014 Amendment
+Pub. L. 113–295, div. A, title II, § 217(b), Dec. 19, 2014, 128 Stat. 4035, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the provision of the Safe, Accountable, Flexible, Efficient Transportation Equity Act of 2005 [sic]: A Legacy for Users [Pub. L. 109–59] to which it relates.”
+
 #### Effective and Termination Dates of 2012 Amendment
 Pub. L. 112–141, div. D, title I, § 40101(d), July 6, 2012, 126 Stat. 844, provided that: “The amendments made by this section [amending this section and sections 9504 and 9508 of this title] shall take effect on July 1, 2012.”
 
-Amendment by section 40102(e)(1), (2)(A) of Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by section 40102(e)(1), (2)(A) of Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 Pub. L. 112–140, title IV, § 401(d), June 29, 2012, 126 Stat. 402, provided that: “The amendments made by this section [amending this section and sections 9504 and 9508 of this title] shall take effect on July 1, 2012.”
 
-Amendment by section 402(d)(1), (2)(A) of Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by section 402(d)(1), (2)(A) of Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 Pub. L. 112–102, title IV, § 401(d), Mar. 30, 2012, 126 Stat. 281, provided that: “The amendments made by this section [amending this section and sections 9504 and 9508 of this title] shall take effect on April 1, 2012.”
 
-Amendment by section 402(e)(1), (2)(A) of Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by section 402(e)(1), (2)(A) of Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2011 Amendment
 Pub. L. 112–30, title I, § 141(d), Sept. 16, 2011, 125 Stat. 355, provided that: “The amendments made by this section [amending this section and sections 9504 and 9508 of this title] shall take effect on October 1, 2011.”
 
-Amendment by section 142(e)(1), (2)(A) of Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by section 142(e)(1), (2)(A) of Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 Pub. L. 112–5, § 401(c), Mar. 4, 2011, 125 Stat. 22, provided that: “The amendments made by this section [amending this section and [section 9504 of this title](./chapter-098-trust-fund-code.md#section-9504)] shall take effect on March 4, 2011.”
 
@@ -1610,11 +1639,11 @@ Pub. L. 102–240, title VIII, § 8003(d), Dec. 18, 1991, 105 Stat. 2206, provid
 
 (2) **Expenditures from Trust Fund** — Amounts in the Sport Fish Restoration and Boating Trust Fund shall be available, as provided by appropriation Acts, for making expenditures—
 
-  (A) to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the MAP–21),
+  (A) to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2014),
 
-  (B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the MAP–21), and
+  (B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2014), and
 
-  (C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the MAP–21).
+  (C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the Highway and Transportation Funding Act of 2014).
   Amounts transferred to such account under section 9503(c)(4) may be used only for making expenditures described in subparagraph (C) of this paragraph.
 
 **(c) Expenditures from Boat Safety Account** Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts thereafter credited to the Account under section 9602(b), shall be available, without further appropriation, for making expenditures before October 1, 2010, to carry out the purposes of section 15 of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users). For purposes of section 9602, the Boat Safety Account shall be treated as a Trust Fund established by this subchapter.
@@ -1627,7 +1656,7 @@ Pub. L. 102–240, title VIII, § 8003(d), Dec. 18, 1991, 105 Stat. 2206, provid
 
   (B) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
-(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2014, in accordance with the provisions of this section.
+(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before June 1, 2015, in accordance with the provisions of this section.
 
 **(e) Cross reference** For provision transferring motorboat fuels taxes to Sport Fish Restoration and Boating Trust Fund, see section 9503(c)(3).
 
@@ -1638,7 +1667,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (b)(2)(A) and (c), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of Title 16, Conservation. Section 15 of the Act is classified to [section 777n of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777n&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 777 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777&num=0&edition=prelim) and Tables.
 
-The date of the enactment of the MAP–21, referred to in subsec. (b)(2)(A) to (C), is the date of enactment of Pub. L. 112–141, which was approved July 6, 2012.
+The date of the enactment of the Highway and Transportation Funding Act of 2014, referred to in subsec. (b)(2)(A) to (C), is the date of enactment of Pub. L. 113–159, which was approved Aug. 8, 2014.
 
 Section 7404(d) of the Transportation Equity Act for the 21st Century, referred to in subsec. (b)(2)(B), is classified to [section 777g–1(d) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777g–1/d&num=0&edition=prelim), Conservation.
 
@@ -1647,6 +1676,10 @@ The Coastal Wetlands Planning, Protection and Restoration Act, referred to in su
 The date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, referred to in subsec. (c), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+2014—Subsec. (b)(2)(A) to (C). Pub. L. 113–159, § 2001(b)(1), substituted “Highway and Transportation Funding Act of 2014” for “MAP–21”.
+
+Subsec. (d)(2). Pub. L. 113–159, § 2001(b)(2), substituted “June 1, 2015” for “October 1, 2014”.
+
 2012—Subsec. (b)(2)(A) to (C). Pub. L. 112–141, § 40101(b)(1), substituted “MAP–21” for “Surface Transportation Extension Act of 2012”.
 
 Pub. L. 112–140, §§ 1(c), 401(b)(1), temporarily substituted “Temporary Surface Transportation Extension Act of 2012” for “Surface Transportation Extension Act of 2012”. See Effective and Termination Dates of 2012 Amendment note below.
@@ -1908,7 +1941,7 @@ Pub. L. 110–181, div. C, title XXXV, § 3529(c)(2), Jan. 28, 2008, 122 Stat. 6
 
 **(c) Expenditures from Harbor Maintenance Trust Fund** Amounts in the Harbor Maintenance Trust Fund shall be available, as provided by appropriation Acts, for making expenditures—
 
-(1) to carry out section 210 of the Water Resources Development Act of 1986 (as in effect on the date of the enactment of the Water Resources Development Act of 1996),
+(1) to carry out section 210 of the Water Resources Development Act of 1986,
 
 (2) for payments of rebates of tolls or charges pursuant to section 13(b) of the Act of May 13, 1954 (as in effect on April 1, 1987), and
 
@@ -1919,9 +1952,11 @@ Pub. L. 110–181, div. C, title XXXV, § 3529(c)(2), Jan. 28, 2008, 122 Stat. 6
 #### References in Text
 Section 13 of the Act of May 13, 1954, referred to in subsecs. (a)(2) and (c)(2), is classified to [section 988a of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section988a&num=0&edition=prelim), Navigation and Navigable Waters.
 
-Section 210 of the Water Resources Development Act of 1986 (as in effect on the date of the enactment of the Water Resources Development Act of 1996), referred to in subsec. (c)(1), is classified to [section 2238 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2238&num=0&edition=prelim), Navigation and Navigable Waters. The date of the enactment of the Water Resources Development Act of 1996 is the date of enactment of Pub. L. 104–303, which was approved Oct. 12, 1996.
+Section 210 of the Water Resources Development Act of 1986, referred to in subsec. (c)(1), is classified to [section 2238 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2238&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Amendments
+2014—Subsec. (c)(1). Pub. L. 113–121 struck out “(as in effect on the date of the enactment of the Water Resources Development Act of 1996)” after “1986”.
+
 1996—Subsec. (c)(1). Pub. L. 104–303 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to carry out section 210(a) of the Water Resources Development Act of 1986 (as in effect on the date of enactment of this section),”.
 
 1993—Subsec. (c)(3). Pub. L. 103–182 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “for the payment of all expenses of administration incurred—
@@ -1986,7 +2021,7 @@ Pub. L. 99–662, title XIV, § 1405(d), Nov. 17, 1986, 100 Stat. 4271, provided
 
 **(b) Transfers to Superfund** There are hereby appropriated to the Superfund amounts equivalent to—
 
-(1) the taxes received in the Treasury under section 59A, 4611, 4661, or 4671 (relating to environmental taxes),
+(1) the taxes received in the Treasury under section 4611, 4661, or 4671 (relating to environmental taxes),
 
 (2) amounts recovered on behalf of the Superfund under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (hereinafter in this section referred to as “CERCLA”),
 
@@ -2057,18 +2092,23 @@ Section 3005(a) of the Solid Waste Disposal Act, referred to in subsec. (c)(2)(B
 The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (e)(2), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Subsec. (b)(1). Pub. L. 113–295 struck out “59A,” before “4611,”.
+
 1990—Subsec. (d)(3)(B). Pub. L. 101–508 substituted “December 31, 1995” for “December 31, 1991”.
 
 1986—Subsec. (b). Pub. L. 99–509 inserted at end “In the case of the tax imposed by section 4611, paragraph (1) shall apply only to so much of such tax as is attributable to the Hazardous Substance Superfund financing rate under section 4611(c).”
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective Date of 1986 Amendment
-Amendment by Pub. L. 99–509 effective on commencement date as defined in former section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under [section 4611 of this title](./chapter-038-repealed-1.md#section-4611).
+Amendment by Pub. L. 99–509 effective on commencement date as defined in former section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under [section 4611 of this title](./chapter-038-1-1-a-new-chapter-38-4611-et-seq-follows-repealed.md#section-4611).
 
 #### Effective Date
 Pub. L. 99–499, title V, § 517(e), Oct. 17, 1986, 100 Stat. 1774, provided that: “(1) In general.—The amendments made by this section [enacting this section, amending [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim), The Public Health and Welfare, and repealing sections 9631 to 9633 of Title 42] shall take effect on January 1, 1987. “(2) Superfund treated as continuation of old trust fund.—The Hazardous Substance Superfund established by the amendments made by this section shall be treated for all purposes of law as a continuation of the Hazardous Substance Response Trust Fund established by section 221 of the Hazardous Substance Response Revenue Act of 1980 [former [42 U.S.C. 9631](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9631&num=0&edition=prelim)]. Any reference in any law to the Hazardous Substance Response Trust Fund established by such section 221 shall be deemed to include (wherever appropriate) a reference to the Hazardous Substance Superfund established by the amendments made by this section.”
 
 #### Authorization of Appropriations
-Pub. L. 99–499, title V, § 517(b), Oct. 17, 1986, 100 Stat. 1773, as amended by Pub. L. 101–508, title XI, § 11231(d), Nov. 5, 1990, 104 Stat. 1388–445, provided that: “There is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to the Hazardous Substance Superfund for fiscal year— “(1) 1987, $250,000,000, “(2) 1988, $250,000,000, “(3) 1989, $250,000,000, “(4) 1990, $250,000,000, “(5) 1991, $250,000,000, and [sic] “(6) 1992, $250,000,000, “(7) 1993, $250,000,000, “(8) 1994, $250,000,000, and “(9) 1995, $250,000,000, plus for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 221(b) of the Hazardous Substance Response Act of 1980 [probably means section 221(b)(2) of the Hazardous Substance Response Revenue Act of 1980, which was classified to [42 U.S.C. 9631(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9631/b/2&num=0&edition=prelim) before its repeal by section 517(c)(1) of Pub. L. 99–499], as in effect before its repeal) as has not been appropriated before the beginning of the fiscal year involved.”
+Pub. L. 99–499, title V, § 517(b), Oct. 17, 1986, 100 Stat. 1773, as amended by Pub. L. 101–508, title XI, § 11231(d), Nov. 5, 1990, 104 Stat. 1388–445, provided that: “There is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to the Hazardous Substance Superfund for fiscal year—“(1) 1987, $250,000,000, “(2) 1988, $250,000,000, “(3) 1989, $250,000,000, “(4) 1990, $250,000,000, “(5) 1991, $250,000,000, and [sic] “(6) 1992, $250,000,000, “(7) 1993, $250,000,000, “(8) 1994, $250,000,000, and “(9) 1995, $250,000,000, plus for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 221(b) of the Hazardous Substance Response Act of 1980 [probably means section 221(b)(2) of the Hazardous Substance Response Revenue Act of 1980, which was classified to [42 U.S.C. 9631(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9631/b/2&num=0&edition=prelim) before its repeal by section 517(c)(1) of Pub. L. 99–499], as in effect before its repeal) as has not been appropriated before the beginning of the fiscal year involved.”
 
 [Pub. L. 101–508, title XI, § 11231(d), Nov. 5, 1990, 104 Stat. 1388–445, directed that section 517(b) of Pub. L. 99–499, set out above, be “amended by striking ‘and’ at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting ‘, and’, and by adding at the end thereof” new pars. (6) to (9), with par. (9) ending in a period. Pub. L. 104–188, title I, § 1704(t)(44), Aug. 20, 1996, 110 Stat. 1889, provided that section 11231(d) of Pub. L. 101–508 “shall be applied as if ‘comma’ appeared instead of ‘period’ [in the directory language amending section 517(b)(5) of Pub. L. 99–499] and as if the paragraph (9) proposed to be added ended with a comma”.]
 
@@ -2090,9 +2130,11 @@ For purposes of this subsection, there shall not be taken into account the taxes
 
 **(c) Expenditures**
 
-(1) **In general** — Except as provided in paragraph (2), amounts in the Leaking Underground Storage Tank Trust Fund shall be available, as provided in appropriation Acts, only for purposes of making expenditures to carry out sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013 of the Solid Waste Disposal Act as in effect on the date of the enactment of the 11 So in original. Public Law 109–168.
+(1) **In general** — Except as provided in paragraphs (2) and (3), amounts in the Leaking Underground Storage Tank Trust Fund shall be available, as provided in appropriation Acts, only for purposes of making expenditures to carry out sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013 of the Solid Waste Disposal Act as in effect on the date of the enactment of the 11 So in original. Public Law 109–168.
 
 (2) **Transfer to Highway Trust Fund** — Out of amounts in the Leaking Underground Storage Tank Trust Fund there is hereby appropriated $2,400,000,000 to be transferred under section 9503(f)(3) to the Highway Account (as defined in section 9503(e)(5)(B)) in the Highway Trust Fund.
+
+(3) **Additional transfer to Highway Trust Fund** — Out of amounts in the Leaking Underground Storage Tank Trust Fund there is hereby appropriated $1,000,000,000 to be transferred under section 9503(f)(6) to the Highway Account (as defined in section 9503(e)(5)(B)) in the Highway Trust Fund.
 
 **(d) Liability of the United States limited to amount in Trust Fund**
 
@@ -2110,7 +2152,7 @@ For purposes of this subsection, there shall not be taken into account the taxes
 
   (B) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
 
-(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2014, in accordance with the provisions of this section.
+(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before June 1, 2015, in accordance with the provisions of this section.
 
 ### Statutory Notes
 
@@ -2124,6 +2166,12 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (d)(2), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Subsec. (c)(1). Pub. L. 113–159, § 2002(b)(2), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+
+Subsec. (c)(3). Pub. L. 113–159, § 2002(b)(1), added par. (3).
+
+Subsec. (e)(2). Pub. L. 113–159, § 2001(c), substituted “June 1, 2015” for “October 1, 2014”.
+
 2012—Subsec. (c). Pub. L. 112–141, § 40201(a), inserted par. (1) designation and heading, substituted “Except as provided in paragraph (2), amounts” for “Amounts”, and added par. (2).
 
 Subsec. (e)(2). Pub. L. 112–141, § 40101(c), substituted “October 1, 2014” for “July 1, 2012”.
@@ -2350,7 +2398,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date
 Pub. L. 99–509, title VIII, § 8033(c)(1), Oct. 21, 1986, 100 Stat. 1961, provided that: “The amendments made by this section [enacting this section] shall take effect on the commencement date (as defined in section 4611 of the Internal Revenue Code of 1954 [now 1986], as amended by this part).”
 
-[For purposes of section 8033(c) of Pub. L. 99–509, set out as notes above and below, the commencement date is Jan. 1, 1990, see section 7505(d)(1) of Pub. L. 101–239, set out as an Effective Date of 1986 Amendment note under [section 4611 of this title](./chapter-038-repealed-1.md#section-4611).]
+[For purposes of section 8033(c) of Pub. L. 99–509, set out as notes above and below, the commencement date is Jan. 1, 1990, see section 7505(d)(1) of Pub. L. 101–239, set out as an Effective Date of 1986 Amendment note under [section 4611 of this title](./chapter-038-1-1-a-new-chapter-38-4611-et-seq-follows-repealed.md#section-4611).]
 
 #### Report on Oil Spill Liability Trust Fund
 Pub. L. 107–295, title III, § 322(a), Nov. 25, 2002, 116 Stat. 2103, provided that: “The report regarding the Oil Spill Liability Trust Fund required by the Conference Report (House Report 101–892) accompanying the Department of Transportation and Related Agencies Appropriations Act, 1991, [Pub. L. 101–516] as that requirement was amended by section 1122 of the Federal Reports Elimination and Sunset Act of 1995 (Public Law 104–66) [see below], shall no longer be submitted to the Congress.”

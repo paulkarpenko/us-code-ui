@@ -14,24 +14,40 @@ This chapter may be cited as the “National Security Agency Act of 1959”.
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 #### Prior Provisions
 A prior section 1 of Pub. L. 86–36, May 29, 1959, 73 Stat. 63, amended section 1082 of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 660.
 
 
 <a id="section-3602"></a>
-## § 3602. Director of Compliance
+## § 3602. Director of the Agency and Director of Compliance
+**(a)**
 
-There is a Director of Compliance of the National Security Agency, who shall be appointed by the Director of the National Security Agency and who shall be responsible for the programs of compliance over mission activities of the National Security Agency.
+(1) There is a Director of the National Security Agency.
+
+(2) The Director of the National Security Agency shall be appointed by the President, by and with the advice and consent of the Senate.
+
+(3) The Director of the National Security Agency shall be the head of the National Security Agency and shall discharge such functions and duties as are provided by this chapter or otherwise by law or executive order.
+
+**(b)** There is a Director of Compliance of the National Security Agency, who shall be appointed by the Director of the National Security Agency and who shall be responsible for the programs of compliance over mission activities of the National Security Agency.
 
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 #### Prior Provisions
 A prior section 2 of Pub. L. 86–36, May 29, 1959, 73 Stat. 63; Pub. L. 87–367, title II, § 201, Oct. 4, 1961, 75 Stat. 789; Sept. 23, 1950, ch. 1024, title III, § 306(a), as added Pub. L. 88–290, Mar. 26, 1964, 78 Stat. 170; Pub. L. 88–426, title III, § 306(h), Aug. 14, 1964, 78 Stat. 430; Pub. L. 88–631, § 3(d), Oct. 6, 1964, 78 Stat. 1008; Pub. L. 89–632, § 1(e)(1), Oct. 8, 1966, 80 Stat. 878; Pub. L. 102–496, title IV, § 405, Oct. 24, 1992, 106 Stat. 3186, related to authority of Secretary of Defense to establish positions and fix compensation, prior to repeal by Pub. L. 104–201, div. A, title XVI, §§ 1633(b)(1), 1635, Sept. 23, 1996, 110 Stat. 2751, 2752, effective Oct. 1, 1996.
+
+#### Amendments
+2014—Pub. L. 113–126 added subsec. (a) and designated existing provisions as subsec. (b).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–126 effective Oct. 1, 2014, and applicable upon the earlier of the date of the first nomination by the President of an individual to serve as the Director of the National Security Agency that occurs on or after Oct. 1, 2014, or the date of the cessation of the performance of the duties of the Director of the National Security Agency by the individual performing such duties on Oct. 1, 2014, subject to an exception for initial nominations, see section 403 of Pub. L. 113–126, set out as a note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
+
+#### Position of Importance and Responsibility
+Pub. L. 113–126, title IV, § 401(b), July 7, 2014, 128 Stat. 1408, provided that: “(1) In general.—The President may designate the Director of the National Security Agency as a position of importance and responsibility under [section 601 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section601&num=0&edition=prelim), United States Code. “(2) Effective date.—Paragraph (1) shall take effect on the date of the enactment of this Act [July 7, 2014].”
 
 
 <a id="section-3603"></a>
@@ -42,7 +58,7 @@ A prior section 2 of Pub. L. 86–36, May 29, 1959, 73 Stat. 63; Pub. L. 87–36
 Section, Pub. L. 86–36, § 4, May 29, 1959, 73 Stat. 63; Pub. L. 87–367, title II, § 204, Oct. 4, 1961, 75 Stat. 791; Pub. L. 87–793, § 1001(c), Oct. 11, 1962, 76 Stat. 864; Pub. L. 89–632, § 1(e)(2), Oct. 8, 1966, 80 Stat. 878; Pub. L. 91–187, § 2, Dec. 30, 1969, 83 Stat. 850, authorized establishment of civilian positions in research, development, science, medicine, and cryptology.
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title and repealed prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) and repealed prior to editorial reclassification as this section.
 
 #### Effective Date of Repeal
 Repeal effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under [section 1593 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1593&num=0&edition=prelim), Armed Forces.
@@ -56,7 +72,7 @@ Officers and employees of the National Security Agency who are citizens or natio
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 In text, “[section 5941 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5941&num=0&edition=prelim)” substituted for “section 207 of the Independent Offices Appropriation Act, 1949, as amended ([5 U.S.C. 118h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section118h&num=0&edition=prelim))” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631. Section 1 of Pub. L. 89–554 enacted Title 5, Government Organization and Employees.
 
@@ -80,7 +96,7 @@ The first section and section 2 of the Act of August 28, 1935, referred to in su
 Section 3603, referred to in subsec. (b), was repealed by Pub. L. 104–201, div. A, title XVI, § 1633(b)(1), Sept. 23, 1996, 110 Stat. 2751.
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 #### Effective Date
 Section effective on the first day of the first pay period which begins later than the thirtieth day following May 29, 1959, see section 8 of Pub. L. 86–36, set out as a note under [section 3604 of this title](./chapter-047-national-security-agency.md#section-3604).
@@ -94,7 +110,7 @@ Section effective on the first day of the first pay period which begins later th
 Section, Pub. L. 86–36, § 7, May 29, 1959, 73 Stat. 64, related to reduction in number of positions in certain grades authorized by section 1105(b) of former Title 5, Executive Departments and Government Officers and Employees, by the number of positions in such grades allocated to the National Security Agency on effective date of section.
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title and repealed prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) and repealed prior to editorial reclassification as this section.
 
 
 <a id="section-3607"></a>
@@ -127,14 +143,14 @@ Section 322 of the Act of June 30, 1932, referred to in subsec. (a), is section 
 The Foreign Service Act of 1980, referred to in subsec. (b)(1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of title I of the Act is classified generally to subchapter IX (§ 4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
 1992—Subsec. (b)(3). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
-1989—Subsec. (b). Pub. L. 101–193 substituted a semicolon for “(including special retirement accrual in the same manner provided in section 303 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees ([50 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim) note)); and” at end of subpar. (B) of par. (1) and added par. (3).
+1989—Subsec. (b). Pub. L. 101–193 substituted a semicolon for “(including special retirement accrual in the same manner provided in section 303 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees ([50 U.S.C. 403](./chapter-015-national-security.md#section-403) note)); and” at end of subpar. (B) of par. (1) and added par. (3).
 
-1986—Subsec. (b)(1)(B). Pub. L. 99–335 inserted “(including special retirement accrual in the same manner provided in section 303 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees ([50 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim) note))” before semicolon.
+1986—Subsec. (b)(1)(B). Pub. L. 99–335 inserted “(including special retirement accrual in the same manner provided in section 303 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees ([50 U.S.C. 403](./chapter-015-national-security.md#section-403) note))” before semicolon.
 
 1981—Subsec. (b)(1). Pub. L. 97–89, § 601(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “allowances and benefits comparable to those provided by the Secretary of State to officers and employees of the Foreign Service under paragraphs (1), (2), (7), (9), (10), and (11) of section 1136, and under sections 1137, 1138a, 1148, 1156, 1157, and 1160, of title 22; and”.
 
@@ -214,7 +230,7 @@ Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 #### Amendments
 1981—Pub. L. 97–89 added subsecs. (a) to (h) and redesignated existing provisions as subsec. (i).
@@ -264,7 +280,7 @@ Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 #### Amendments
 2012—Subsec. (a)(5). Pub. L. 112–87, § 421(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Not later than July 1 each year through 2004, the Director shall submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report that describes in detail the exercise of the authority granted by this subsection and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make each such report available to the Inspector General of the National Security Agency.”
@@ -328,7 +344,7 @@ Section 2, referred to in subsec. (a)(1)(C), meant section 2 of Pub. L. 86–36,
 Level I of the Executive Schedule, referred to in subsec. (c), is set out in [section 5312 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5312&num=0&edition=prelim), Government Organization and Employees.
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 #### Amendments
 1996—Subsec. (a)(5). Pub. L. 104–106 struck out par. (5), which required the Director of the National Security Agency to submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate annual reports on executive personnel in the National Security Agency.
@@ -357,7 +373,7 @@ Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 In subsec. (b), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977 ([41 U.S.C. 501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section501&num=0&edition=prelim) et seq.)” and “such chapter” substituted for “such Act” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
@@ -373,7 +389,7 @@ Funds appropriated to an entity of the Federal Government other than an element 
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 #### Effective Date
 Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a note under [section 1621 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1621&num=0&edition=prelim), Armed Forces.
@@ -388,7 +404,7 @@ Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 #### Effective Date
 Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a note under [section 1621 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1621&num=0&edition=prelim), Armed Forces.
@@ -441,7 +457,7 @@ Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 #### Amendments
 2010—Subsec. (a). Pub. L. 111–259, § 312(a)(1), inserted “and graduate” after “undergraduate” and substituted “a baccalaureate or graduate” for “the baccalaureate”.
@@ -479,7 +495,7 @@ Subsec. (h). Pub. L. 111–259, § 312(a)(4), added subsec. (h).
 Section, Pub. L. 86–36, § 17, as added Pub. L. 102–88, title V, § 503, Aug. 14, 1991, 105 Stat. 436, related to post-employment assistance for certain National Security Agency employees.
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title and repealed prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) and repealed prior to editorial reclassification as this section.
 
 Another section 17 of Pub. L. 86–36 was renumbered section 18 and is classified to [section 3616 of this title](./chapter-047-national-security-agency.md#section-3616).
 
@@ -493,7 +509,7 @@ Another section 17 of Pub. L. 86–36 was renumbered section 18 and is classifie
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 
 <a id="section-3617"></a>
@@ -507,7 +523,7 @@ Section was formerly classified in a note under section 402 of chapter 15 of thi
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 
 <a id="section-3618"></a>
@@ -525,4 +541,4 @@ Section was formerly classified in a note under section 402 of chapter 15 of thi
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified in a note under section 402 of chapter 15 of this title prior to editorial reclassification in chapter 47 of this title.
+Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.

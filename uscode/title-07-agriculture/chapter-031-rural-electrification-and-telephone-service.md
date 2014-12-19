@@ -2,7 +2,7 @@
 title: 7
 chapter: '31'
 heading: RURAL ELECTRIFICATION AND TELEPHONE SERVICE
-section_count: 78
+section_count: 79
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -31,10 +31,10 @@ Pub. L. 101–624, title XXIII, § 2351(a), Nov. 28, 1990, 104 Stat. 4038, provi
 Pub. L. 94–570, § 1, Oct. 20, 1976, 90 Stat. 2701, provided: “That this Act [amending sections 931 and 935 of this title and enacting provisions set out as a note under [section 935 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-935)] may be cited as the ‘Rural Electrification Administration Technical Amendments Act of 1976’.”
 
 #### Regulations
-Pub. L. 103–129, § 6, Nov. 1, 1993, 107 Stat. 1367, provided that: “Except as provided in section 2(b) of the Rural Electrification Act of 1936 [[7 U.S.C. 902(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section902/b&num=0&edition=prelim)] and section 370 of the Consolidated Farm and Rural Development Act [[7 U.S.C. 2008e](./chapter-050-agricultural-credit.md#section-2008e)], as added by sections 2(c)(1)(C) and 5 of this Act, not later than 45 days after the date of enactment of this Act [Nov. 1, 1993], interim final regulations shall be issued by— “(1) the Administrator of the Rural Electrification Administration to carry out the amendments made by this Act [see Short Title of 1993 Amendment note above] to programs administered by the Administrator; “(2) the Administrator of the Rural Development Administration to carry out the amendments made by this Act to programs administered by the Administrator; and “(3) the Secretary of Agriculture to carry out the amendments made by this Act to programs administered by the Farmers Home Administration.”
+Pub. L. 103–129, § 6, Nov. 1, 1993, 107 Stat. 1367, provided that: “Except as provided in section 2(b) of the Rural Electrification Act of 1936 [[7 U.S.C. 902(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section902/b&num=0&edition=prelim)] and section 370 of the Consolidated Farm and Rural Development Act [[7 U.S.C. 2008e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2008e&num=0&edition=prelim)], as added by sections 2(c)(1)(C) and 5 of this Act, not later than 45 days after the date of enactment of this Act [Nov. 1, 1993], interim final regulations shall be issued by— “(1) the Administrator of the Rural Electrification Administration to carry out the amendments made by this Act [see Short Title of 1993 Amendment note above] to programs administered by the Administrator; “(2) the Administrator of the Rural Development Administration to carry out the amendments made by this Act to programs administered by the Administrator; and “(3) the Secretary of Agriculture to carry out the amendments made by this Act to programs administered by the Farmers Home Administration.”
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
 
 Rural Electrification Administration and its functions and activities transferred to Department of Agriculture, to be administered therein by Administrator under general direction and supervision of Secretary of Agriculture, by 1939 Reorg. Plan No. II, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of that plan for provisions relating to transfer of functions, records, property, personnel, and funds.
 
@@ -69,7 +69,7 @@ Subsec. (b). Pub. L. 104–127, § 771(3), added subsec. (b) and struck out form
 1949—Act Oct. 28, 1949, authorized loans to furnish and improve rural telephone service; and inserted “title I,” in credit of act May 20, 1936.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 
 <a id="section-903"></a>
@@ -174,15 +174,21 @@ Pub. L. 110–246, § 6101, inserted “efficiency and” before “conservation
 Act Sept. 21, 1944, extended limit of self-liquidating period from 25 to 35 years and changing the rate of interest.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 
 <a id="section-905"></a>
-## § 905. Repealed. Pub. L. 104–127, title VII, § 774(a), Apr. 4, 1996, 110 Stat. 1150
+## § 905. Fees for certain loan guarantees
+**(a) In general** For electrification baseload generation loan guarantees, the Secretary shall, at the request of the borrower, charge an upfront fee to cover the costs of the loan guarantee.
+
+**(b) Fee** The fee described in subsection (a) for a loan guarantee shall be equal to the costs of the loan guarantee (within the meaning of [section 661a(5)(C) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5/C&num=0&edition=prelim)).
+
+**(c) Limitation** Funds received from a borrower to pay the fee described in this section shall not be derived from a loan or other debt obligation that is made or guaranteed by the Federal Government.
 
 ### Statutory Notes
 
-Section, acts May 20, 1936, ch. 432, title I, § 5, 49 Stat. 1365; Sept. 21, 1944, ch. 412, title V, § 502(b), 58 Stat. 739; Oct. 28, 1949, ch. 776, § 2, 63 Stat. 948; Oct. 13, 1994, Pub. L. 103–354, title II, § 235(a)(13), 108 Stat. 3221, related to loans for electrical and plumbing equipment and persons eligible for such loans.
+#### Prior Provisions
+A prior section 905, acts May 20, 1936, ch. 432, title I, § 5, 49 Stat. 1365; Sept. 21, 1944, ch. 412, title V, § 502(b), 58 Stat. 739; Oct. 28, 1949, ch. 776, § 2, 63 Stat. 948; Oct. 13, 1994, Pub. L. 103–354, title II, § 235(a)(13), 108 Stat. 3221, related to loans for electrical and plumbing equipment and persons eligible for such loans, prior to repeal by Pub. L. 104–127, title VII, § 774(a), Apr. 4, 1996, 110 Stat. 1150.
 
 
 <a id="section-906"></a>
@@ -288,7 +294,7 @@ Section, act May 20, 1936, ch. 432, title I, § 11A, as added Nov. 28, 1990, Pub
 
 **(b) Terms of deferment**
 
-(1) Subject to limitations established in appropriations Acts, the Secretary shall permit any borrower to defer the payment of principal and interest on any insured or direct loan made under this chapter under circumstances described in this subsection, notwithstanding any limitation contained in subsection (a) of this section, except that such deferment shall not be permitted based on the determination of the Secretary of the financial hardship of the borrower.
+(1) Subject to limitations established in appropriations Acts, the Secretary shall permit any borrower to defer the payment of principal and interest on any insured or direct loan made under this chapter under circumstances described in this subsection, notwithstanding any limitation contained in subsection (a), except that such deferment shall not be permitted based on the determination of the Secretary of the financial hardship of the borrower.
 
 (2)
 
@@ -337,7 +343,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 1949—Act Oct. 28, 1949, inserted “or section 922” after “904” in first proviso, and inserted “title I,” in credit of act May 20, 1936.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 
 <a id="section-912a"></a>
@@ -394,7 +400,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 1949—Act Oct. 28, 1949, inserted “title I,” in credit of act May 20, 1936.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 
 <a id="section-914"></a>
@@ -437,34 +443,34 @@ In order to insure coordination of electric generation and transmission financin
 ## § 917. Prohibition on restricting water and waste facility services to electric customers
 **(a) Prohibition** Assistance under any rural development program administered by the Secretary or any agency of the Department of Agriculture shall not be conditioned on any requirement that the recipient of the assistance accept or receive electric service from any particular utility, supplier, or cooperative.
 
-**(b) Ensuring compliance** The Secretary shall establish, by regulation, adequate safeguards to ensure that assistance under any rural development program is not subject to such a condition. The safeguards shall include periodic certifications and audits, and appropriate measures and sanctions against any person violating, or attempting to violate subsection (a) of this section.
+**(b) Ensuring compliance** The Secretary shall establish, by regulation, adequate safeguards to ensure that assistance under any rural development program is not subject to such a condition. The safeguards shall include periodic certifications and audits, and appropriate measures and sanctions against any person violating, or attempting to violate subsection (a).
 
 **(c) “Rural development programs” defined** In this section, the term “rural development program” means the following:
 
-(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 11 See References in Text note below. and subtitle E [[7 U.S.C. 2009](./chapter-050-agricultural-credit.md#section-2009) et seq.] of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1924(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1924/b&num=0&edition=prelim), 1926, 1926a, 1926c, 1926d, and 1932).
+(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 11 See References in Text note below. and subtitle E [[7 U.S.C. 2009](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009&num=0&edition=prelim) et seq.] of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1924(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1924/b&num=0&edition=prelim), 1926, 1926a, 1926c, 1926d, and 1932).
 
-(2) Subtitle G 1 of title XVI and sections 2281 [[42 U.S.C. 5177a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5177a&num=0&edition=prelim)], 2333,1 and 2381 [[7 U.S.C. 950aaa–2](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa-2), 3125b] of the Food, Agriculture, Conservation, and Trade Act of 1990.
+(2) Subtitle G 1 of title XVI and sections 2281 [[42 U.S.C. 5177a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5177a&num=0&edition=prelim)], 2333, and 2381 [[7 U.S.C. 950aaa–2](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa-2), 3125b] of the Food, Agriculture, Conservation, and Trade Act of 1990.
 
-(3) Subtitle C of title IX of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; [7 U.S.C. 5930](./chapter-088-research.md#section-5930) note).
+(3) Subtitle C of title IX of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; [7 U.S.C. 5930](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5930&num=0&edition=prelim) note).
 
-(4) Section 1323(b) of the Food Security Act of 1985 (Public Law 99–198; [7 U.S.C. 1932](./chapter-050-agricultural-credit.md#section-1932) note).
+(4) Section 1323(b) of the Food Security Act of 1985 (Public Law 99–198; [7 U.S.C. 1932](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932&num=0&edition=prelim) note).
 
-(5) Title V [[7 U.S.C. 2661](./chapter-059-rural-fire-protection-development-and-small-farm-research-and-education.md#section-2661) et seq.] and section 603(c) [[7 U.S.C. 2204a](./chapter-055-department-of-agriculture.md#section-2204a)] of the Rural Development Act of 1972.
+(5) Title V [[7 U.S.C. 2661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2661&num=0&edition=prelim) et seq.] and section 603(c) [[7 U.S.C. 2204a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2204a&num=0&edition=prelim)] of the Rural Development Act of 1972.
 
 (6) Sections 905 and 940a 1 of this title and subchapter IV of this chapter.
 
-**(d) Regulations** Not later than 60 days after April 4, 1996, the Secretary shall issue final regulations to ensure compliance with subsection (a) of this section.
+**(d) Regulations** Not later than 60 days after April 4, 1996, the Secretary shall issue final regulations to ensure compliance with subsection (a).
 
 ### Statutory Notes
 
 #### References in Text
-Section 375 of the Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), was classified to [section 2008j of this title](./chapter-050-agricultural-credit.md#section-2008j) prior to repeal by Pub. L. 87–128, title III, § 375(j)(7), as added Pub. L. 106–78, title VIII, § 816(d), Oct. 22, 1999, 113 Stat. 1182.
+Section 375 of the Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), was classified to [section 2008j of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2008j&num=0&edition=prelim) prior to repeal by Pub. L. 87–128, title III, § 375(j)(7), as added Pub. L. 106–78, title VIII, § 816(d), Oct. 22, 1999, 113 Stat. 1182.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), is Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle E of the Act is classified generally to subchapter V (§ 2009 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), is Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle E of the Act is classified generally to subchapter V (§ 2009 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
-The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§ 5901 et seq.) of chapter 88 of this title prior to repeal by Pub. L. 107–171, title VI, § 6201(a), May 13, 2002, 116 Stat. 418. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§ 5901 et seq.) of chapter 88 of this title prior to repeal by Pub. L. 107–171, title VI, § 6201(a), May 13, 2002, 116 Stat. 418. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under [section 1421 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim) and Tables.
 
-The Rural Development Act of 1972, referred to in subsec. (c)(5), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657, as amended. Title V of the Act is classified generally to subchapter II (§ 2661 et seq.) of chapter 59 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+The Rural Development Act of 1972, referred to in subsec. (c)(5), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657, as amended. Title V of the Act is classified generally to subchapter II (§ 2661 et seq.) of chapter 59 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
 Sections 905 and 940a of this title, referred to in subsec. (c)(6), were repealed by Pub. L. 104–127, title VII, §§ 774(a), 780, Apr. 4, 1996, 110 Stat. 1150, 1151.
 
@@ -581,11 +587,11 @@ Pub. L. 106–387, § 1(a) [title I, § 771], Oct. 28, 2000, 114 Stat. 1549, 154
 
 **(c) Grant administration**
 
-(1) The Secretary shall make grants under this section based on a determination of cost-effectiveness and the most effective use of the funds to achieve the purposes described in subsection (b) of this section.
+(1) The Secretary shall make grants under this section based on a determination of cost-effectiveness and the most effective use of the funds to achieve the purposes described in subsection (b).
 
-(2) For each fiscal year, the Secretary shall allocate grant funds under this section equally between the purposes described in paragraphs (1) and (2) of subsection (b) of this section.
+(2) For each fiscal year, the Secretary shall allocate grant funds under this section equally between the purposes described in paragraphs (1) and (2) of subsection (b).
 
-(3) In making grants for the purposes described in subsection (b)(2) of this section, the Secretary shall give preference to renewable energy facilities.
+(3) In making grants for the purposes described in subsection (b)(2), the Secretary shall give preference to renewable energy facilities.
 
 **(d) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $20,000,000 for each of fiscal years 2006 through 2012.
 
@@ -722,7 +728,7 @@ The Secretary and the Governor of the telephone bank may not, as a condition of 
 
 (2) require a qualified telephone borrower to obtain the approval of the Secretary or the Governor of the telephone bank in order to make an investment described in paragraph (1).
 
-**(b) “Qualified telephone borrower” defined** As used in subsection (a) of this section, the term “qualified telephone borrower” means a person—
+**(b) “Qualified telephone borrower” defined** As used in subsection (a), the term “qualified telephone borrower” means a person—
 
 (1) to whom a telephone loan has been made or guaranteed under this chapter; and
 
@@ -886,7 +892,7 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
   (A) The assets accounted for in the electric account shall be available solely for electrification loan operations under this chapter.
 
-  (B) The assets accounted for in the telephone account shall be available solely for telephone loan operations under this chapter (other than under subchapter IV of this chapter).
+  (B) The assets accounted for in the telephone account shall be available solely for telephone loan operations under this chapter (other than under subchapter IV).
 
 ### Statutory Notes
 
@@ -1022,7 +1028,7 @@ Section effective May 11, 1973, see section 12 of Pub. L. 93–32, set out as a 
 
   (B) *Authority to waive tier requirement* — The Secretary may waive the requirement of subparagraph (A)(ii) in any case in which the Secretary determines (and sets forth the reasons for the waiver in writing) that the requirement would prevent emergency restoration of the telephone system of the applicant or result in severe hardship to the applicant.
 
-  (C) *Effect of lack of funds* — On request of any applicant who is eligible for a loan under this paragraph for which funds are not available, the applicant shall be considered to have applied for a loan under subchapter IV of this chapter.
+  (C) *Effect of lack of funds* — On request of any applicant who is eligible for a loan under this paragraph for which funds are not available, the applicant shall be considered to have applied for a loan under subchapter IV.
 
 (2) **Cost-of-money loans**
 
@@ -1127,7 +1133,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 1975—Pub. L. 94–124 authorized assignment of guaranteed loans and their related guarantees and inserted “initially” before “made, held, and serviced” in provision defining guaranteed loans as that term is used in this subchapter.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 #### Effective Date
 Section effective May 11, 1973, see section 12 of Pub. L. 93–32, set out as a note under [section 930 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-930).
@@ -1138,7 +1144,7 @@ Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 713, related to the prepaymen
 
 <a id="section-936a"></a>
 ## § 936a. Prepayment of loans
-**(a) Conditions for prepayment** Except as provided in subsection (c) of this section, a borrower of a loan made by the Federal Financing Bank and guaranteed under [section 936 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-936) may prepay such loan (or any loan advance thereunder) by paying the outstanding principal balance due on the loan (or advance), if—
+**(a) Conditions for prepayment** Except as provided in subsection (c), a borrower of a loan made by the Federal Financing Bank and guaranteed under [section 936 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-936) may prepay such loan (or any loan advance thereunder) by paying the outstanding principal balance due on the loan (or advance), if—
 
 (1) the loan is outstanding on July 2, 1986;
 
@@ -1156,7 +1162,7 @@ Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 713, related to the prepaymen
 
 **(d) Amount of permissible prepayments; establishment of eligibility criteria**
 
-(1) The Secretary shall permit, subject to subsection (a) of this section, prepayments of principal on loans in fiscal year 1987 under this section or Public Law 99–349 in such amounts as to realize net proceeds from all such prepayments in fiscal year 1987 in an amount not less than $2,017,500,000.
+(1) The Secretary shall permit, subject to subsection (a), prepayments of principal on loans in fiscal year 1987 under this section or Public Law 99–349 in such amounts as to realize net proceeds from all such prepayments in fiscal year 1987 in an amount not less than $2,017,500,000.
 
 (2) The Secretary shall establish—
 
@@ -1228,7 +1234,7 @@ Pub. L. 99–509, title I, § 1011(c), Oct. 21, 1986, 100 Stat. 1876, provided t
 
   (B) *Insured loan* — The term “insured loan” means a loan made under [section 935 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-935).
 
-**(b) Mergers of electric borrowers** Notwithstanding subsection (a) of this section, a direct or insured loan may be prepaid by an electric borrower at the lesser of the outstanding principal balance due thereon or the present value thereof discounted from the face value at maturity at the rate set by the Secretary if the borrower is an electrical organization which resulted from a merger or consolidation between a borrower and an organization which, prior to October 1, 1987, prepaid its direct or insured loans pursuant to this section. Prepayments by a borrower hereunder shall be made not later than one year after the effective date of the merger, consolidation, or other transaction. The discount rate to be set by the Secretary for direct or insured loans prepayments hereunder shall be based on the current cost of funds to the Department of the Treasury for obligations of comparable maturity to those being prepaid. If a borrower prepays using tax exempt financing, the discount shall be adjusted to make the discount equivalent to fully taxable financing. The borrower shall certify in writing whether the financing will be tax exempt and shall comply with such other terms and conditions as the Secretary may establish which are reasonable and necessary to implement this provision. As used in this section, the term “direct loan” means a loan made under [section 904 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-904).
+**(b) Mergers of electric borrowers** Notwithstanding subsection (a), a direct or insured loan may be prepaid by an electric borrower at the lesser of the outstanding principal balance due thereon or the present value thereof discounted from the face value at maturity at the rate set by the Secretary if the borrower is an electrical organization which resulted from a merger or consolidation between a borrower and an organization which, prior to October 1, 1987, prepaid its direct or insured loans pursuant to this section. Prepayments by a borrower hereunder shall be made not later than one year after the effective date of the merger, consolidation, or other transaction. The discount rate to be set by the Secretary for direct or insured loans prepayments hereunder shall be based on the current cost of funds to the Department of the Treasury for obligations of comparable maturity to those being prepaid. If a borrower prepays using tax exempt financing, the discount shall be adjusted to make the discount equivalent to fully taxable financing. The borrower shall certify in writing whether the financing will be tax exempt and shall comply with such other terms and conditions as the Secretary may establish which are reasonable and necessary to implement this provision. As used in this section, the term “direct loan” means a loan made under [section 904 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-904).
 
 ### Statutory Notes
 
@@ -1293,9 +1299,9 @@ Subsec. (b). Pub. L. 102–428, § 2(b), inserted heading.
 
 **(c) Loan terms and conditions after refinancing**
 
-(1) **In general** — On the payment of a penalty as provided by subsection (b) of this section, the loan or loan advance, or any portion of the loan or advance, shall be refinanced at the interest rate described in paragraph (2) for a term selected by the borrower pursuant to paragraph (3), except that this paragraph shall not apply if the loan advance, or any portion of the advance, is prepaid by the borrower.
+(1) **In general** — On the payment of a penalty as provided by subsection (b), the loan or loan advance, or any portion of the loan or advance, shall be refinanced at the interest rate described in paragraph (2) for a term selected by the borrower pursuant to paragraph (3), except that this paragraph shall not apply if the loan advance, or any portion of the advance, is prepaid by the borrower.
 
-(2) **Interest rate** — The interest rate on a loan refinanced under this section shall be determined to be equal to the then current cost of funds to the Department of the Treasury for obligations of comparable maturity to a term selected by the borrower pursuant to paragraph (3), except that such rate shall not be greater than 7 percent per year, subject to subsection (d) of this section.
+(2) **Interest rate** — The interest rate on a loan refinanced under this section shall be determined to be equal to the then current cost of funds to the Department of the Treasury for obligations of comparable maturity to a term selected by the borrower pursuant to paragraph (3), except that such rate shall not be greater than 7 percent per year, subject to subsection (d).
 
 (3) **Loan term** — Subject to paragraph (4), the borrower of a loan that is refinanced under this section—
 
@@ -1305,7 +1311,7 @@ Subsec. (b). Pub. L. 102–428, § 2(b), inserted heading.
 
 (4) **Maximum term** — The borrower may not select a term pursuant to paragraph (3) that ends after the maturity date set for the loan before the refinancing of the loan under this section.
 
-(5) **Existing loans** — In the case of the refinancing of a loan of a borrower pursuant to this section and the inclusion of a penalty in the outstanding principal balance of the refinanced loan pursuant to subsection (b)(3) of this section—
+(5) **Existing loans** — In the case of the refinancing of a loan of a borrower pursuant to this section and the inclusion of a penalty in the outstanding principal balance of the refinanced loan pursuant to subsection (b)(3)—
 
   (A) the refinancing and inclusion of the penalty shall not be subject to appropriations or limited by the amount provided during a fiscal year for new loans, loan guarantees, or other credit activity;
 
@@ -1319,7 +1325,7 @@ Subsec. (b). Pub. L. 102–428, § 2(b), inserted heading.
 
 (2) **Limitation** — A borrower may not exercise the option under paragraph (1) in the case of a loan or loan advance, or portion thereof, if the total amount of such loans for which such option would be exercised exceeds 50 percent of the outstanding principal balance of the loans made to such borrower and guaranteed under [section 936 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-936).
 
-(3) **Fee** — A borrower that exercises the maximum rate option under paragraph (1) shall, at the time of exercising such option, pay a fee equal to 1 percent of the outstanding principal balance of such loan or loan advance, or portion thereof, for which such option is exercised. Such fee shall be in addition to the penalties and other payments required under subsection (b) of this section.
+(3) **Fee** — A borrower that exercises the maximum rate option under paragraph (1) shall, at the time of exercising such option, pay a fee equal to 1 percent of the outstanding principal balance of such loan or loan advance, or portion thereof, for which such option is exercised. Such fee shall be in addition to the penalties and other payments required under subsection (b).
 
 (4) **Sunset** — The option provided under paragraph (1) shall not be available in the case of any loan or loan advance, or portion thereof, unless a written request to exercise such option is sent to the Secretary not later than 1 year after the effective date of regulations issued to carry out the Rural Electrification Loan Restructuring Act of 1993.
 
@@ -1411,7 +1417,7 @@ The date of enactment of this section, referred to in subsec. (d), is the date o
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 
 <a id="section-937"></a>
@@ -1469,12 +1475,12 @@ Section effective May 11, 1973, see section 12 of Pub. L. 93–32, set out as a 
 <a id="section-940"></a>
 ## § 940. Refinancing of rural development loans
 
-At the request of the borrower, the Secretary is authorized and directed to refinance with loans which will be insured under this chapter at the interest rates provided in [section 935 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-935) any loans made for rural electric and telephone facilities under any provision of the Consolidated Farm and Rural Development Act [[7 U.S.C. 1921](./chapter-050-agricultural-credit.md#section-1921) et seq.].
+At the request of the borrower, the Secretary is authorized and directed to refinance with loans which will be insured under this chapter at the interest rates provided in [section 935 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-935) any loans made for rural electric and telephone facilities under any provision of the Consolidated Farm and Rural Development Act [[7 U.S.C. 1921](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) et seq.].
 
 ### Statutory Notes
 
 #### References in Text
-The Consolidated Farm and Rural Development Act, referred to in text, is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in text, is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1994—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
@@ -1542,7 +1548,7 @@ A borrower of an insured or guaranteed electric loan under this chapter may, wit
 
 <a id="section-940c-1"></a>
 ## § 940c–1. Guarantees for bonds and notes issued for electrification or telephone purposes
-**(a) In general** Subject to subsection (b) of this section, the Secretary shall guarantee payments on bonds or notes issued by cooperative or other lenders organized on a not-for-profit basis if the proceeds of the bonds or notes are used to make loans for any electrification or telephone purpose eligible for assistance under this chapter, including section 904 or 922 of this title or to refinance bonds or notes issued for such purposes.
+**(a) In general** Subject to subsection (b), the Secretary shall guarantee payments on bonds or notes issued by cooperative or other lenders organized on a not-for-profit basis if the proceeds of the bonds or notes are used to make loans for any electrification or telephone purpose eligible for assistance under this chapter, including section 904 or 922 of this title or to refinance bonds or notes issued for such purposes.
 
 **(b) Limitations**
 
@@ -1556,7 +1562,7 @@ A borrower of an insured or guaranteed electric loan under this chapter may, wit
 
   (B) the bond or note issued by the lender would not be investment grade quality without a guarantee; or
 
-  (C) the lender has not provided to the Secretary a list of loan amounts approved by the lender that the lender certifies are for eligible purposes described in subsection (a) of this section.
+  (C) the lender has not provided to the Secretary a list of loan amounts approved by the lender that the lender certifies are for eligible purposes described in subsection (a).
 
 (4) **Annual amount** — The total amount of guarantees provided by the Secretary under this section during a fiscal year shall not exceed $1,000,000,000, subject to the availability of funds under subsection (e).
 
@@ -1576,7 +1582,7 @@ A borrower of an insured or guaranteed electric loan under this chapter may, wit
 
   (B) *Structured schedule* — The Secretary shall, with the consent of the lender, structure the schedule for payment of the fee to ensure that sufficient funds are available to pay the subsidy costs for note or bond guarantees as provided for in subsection (e)(2).
 
-(4) **Rural economic development subaccount** — Subject to subsection (e)(2) of this section, fees collected under this subsection shall be—
+(4) **Rural economic development subaccount** — Subject to subsection (e)(2), fees collected under this subsection shall be—
 
   (A) deposited into the rural economic development subaccount maintained under [section 940c(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section940c/b/2/A&num=0&edition=prelim), to remain available until expended; and
 
@@ -1600,18 +1606,20 @@ A borrower of an insured or guaranteed electric loan under this chapter may, wit
 
 (1) **In general** — There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(2) **Fees** — To the extent that the amount of funds appropriated for a fiscal year under paragraph (1) are not sufficient to carry out this section, the Secretary may use up to ⅓ of the fees collected under subsection (c) of this section for the cost of providing guarantees of bonds and notes under this section before depositing the remainder of the fees into the rural economic development subaccount maintained under [section 940c(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section940c/b/2/A&num=0&edition=prelim).
+(2) **Fees** — To the extent that the amount of funds appropriated for a fiscal year under paragraph (1) are not sufficient to carry out this section, the Secretary may use up to ⅓ of the fees collected under subsection (c) for the cost of providing guarantees of bonds and notes under this section before depositing the remainder of the fees into the rural economic development subaccount maintained under [section 940c(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section940c/b/2/A&num=0&edition=prelim).
 
-**(f) Termination** The authority provided under this section shall terminate on September 30, 2012.
+**(f) Termination** The authority provided under this section shall terminate on September 30, 2018.
 
 ### Statutory Notes
 
 #### Codification
-The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (f). Pub. L. 113–79 substituted “2018” for “2012”.
+
 2008—Subsec. (b)(1). Pub. L. 110–246, § 6106(a)(1)(A), substituted “for eligible electrification or telephone purposes consistent with this chapter” for “for electrification or telephone purposes that have been made concurrently with loans approved for such purposes under this chapter”.
 
 Subsec. (b)(4). Pub. L. 110–246, § 6106(a)(1)(B), added par. (4) and struck out former par. (4) which related to prohibition on use of amounts from reduced funding costs for interest rate reduction except for certain concurrent loans.
@@ -1621,12 +1629,12 @@ Subsec. (c)(2), (3). Pub. L. 110–246, § 6106(a)(2), added pars. (2) and (3) a
 Subsec. (f). Pub. L. 110–246, § 6106(a)(3), substituted “2012” for “2007”.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 #### Regulations and Implementation
 Pub. L. 110–234, title VI, § 6106(b), May 22, 2008, 122 Stat. 1197, and Pub. L. 110–246, § 4(a), title VI, § 6106(b), June 18, 2008, 122 Stat. 1664, 1959, provided that: “The Secretary [of Agriculture] shall continue to carry out section 313A of the Rural Electrification Act of 1936 ([7 U.S.C. 940c–1](./chapter-031-rural-electrification-and-telephone-service.md#section-940c-1)) in the same manner as on the day before the date of enactment of this Act [June 18, 2008], except without regard to the limitations prescribed in subsection (b)(1) of that section, until such time as any regulations necessary to carry out the amendments made by this section [amending this section] are fully implemented.”
 
-[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
+[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).]
 
 Pub. L. 108–199, div. A, title VII, § 750(b), Jan. 23, 2004, 118 Stat. 38, provided that: “The Secretary shall publish a proposed rule to carry out section 313A of the Rural Electrification Act of 1936 [[7 U.S.C. 940c–1](./chapter-031-rural-electrification-and-telephone-service.md#section-940c-1)] within 60 days of enactment of this Act [Jan. 23, 2004].”
 
@@ -1667,7 +1675,7 @@ Pub. L. 107–171, title VI, § 6101(b), May 13, 2002, 116 Stat. 415, provided t
 
   (B) for each of fiscal years 1995 through 1998, $198,000,000, increased by the adjustment percentage for the fiscal year.
 
-**(c) Funding levels** The Secretary shall make insured loans under this subchapter for the purposes, in the amounts, and for the periods of time specified in subsection (b) of this section, as provided in advance in appropriations Acts.
+**(c) Funding levels** The Secretary shall make insured loans under this subchapter for the purposes, in the amounts, and for the periods of time specified in subsection (b), as provided in advance in appropriations Acts.
 
 **(d) Availability of funds for insured loans** Amounts made available for loans under [section 935 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-935) are authorized to remain available until expended.
 
@@ -1700,7 +1708,7 @@ Pub. L. 101–508, title I, § 1301, Nov. 5, 1990, 104 Stat. 1388–12, provided
 
 **(c) Emergency communications equipment providers** The Secretary may make a loan under this section to an emergency communication equipment provider to expand or improve 911 access or other communications or technologies described in subsection (a) if the local government that has jurisdiction over the project is not allowed to acquire the debt resulting from the loan.
 
-**(d) Authorization of appropriations** The Secretary shall use to make loans under this section any funds otherwise made available for telephone loans for each of fiscal years 2008 through 2012.
+**(d) Authorization of appropriations** The Secretary shall use to make loans under this section any funds otherwise made available for telephone loans for each of fiscal years 2008 through 2018.
 
 ### Statutory Notes
 
@@ -1708,10 +1716,12 @@ Pub. L. 101–508, title I, § 1301, Nov. 5, 1990, 104 Stat. 1388–12, provided
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (d). Pub. L. 113–79 substituted “2018” for “2012”.
+
 2008—Pub. L. 110–246, § 6107, amended section generally, substituting provisions relating to expansion of access, loan security, emergency communications equipment providers, and authorization of appropriations, consisting of subsecs. (a) to (d), for provisions relating to expansion of access and authorization of appropriations, consisting of subsecs. (a) and (b).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 
 <a id="section-940f"></a>
@@ -1762,7 +1772,7 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 
 <a id="section-940h"></a>
@@ -1780,7 +1790,7 @@ The Secretary shall review the bonding requirements for all programs administere
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 
 <a id="section-941"></a>
@@ -1878,17 +1888,17 @@ Section was enacted as part of the Agricultural Reconciliation Act of 1987 and a
 
 **(c) Elections**
 
-(1) **Validity** — An election under paragraph (2) or (3) of subsection (b) of this section shall not be considered valid unless a majority of the stockholders eligible to vote in the election have voted in the election.
+(1) **Validity** — An election under paragraph (2) or (3) of subsection (b) shall not be considered valid unless a majority of the stockholders eligible to vote in the election have voted in the election.
 
-(2) **Balloting** — Balloting in an election under paragraph (2) or (3) of subsection (b) of this section shall be conducted by mail pursuant to the procedures authorized in the bylaws of the telephone bank.
+(2) **Balloting** — Balloting in an election under paragraph (2) or (3) of subsection (b) shall be conducted by mail pursuant to the procedures authorized in the bylaws of the telephone bank.
 
-(3) **No cumulative voting** — Cumulative voting shall not be permitted in any election under paragraph (2) or (3) of subsection (b) of this section.
+(3) **No cumulative voting** — Cumulative voting shall not be permitted in any election under paragraph (2) or (3) of subsection (b).
 
 **(d) Compensation**
 
 (1) **In general** — Except as provided in paragraph (2), each member of the Telephone Bank Board shall receive $100 per day for each day or part thereof, not to exceed fifty days per year, spent in the performance of their official duties, and shall be reimbursed for travel and other expenses in such manner and subject to such limitations as the Telephone Bank Board may prescribe.
 
-(2) **Exceptions** — The five members of the Telephone Bank Board appointed under subsection (b)(1)(A) of this section shall not receive compensation by reason of their service on the Telephone Bank Board.
+(2) **Exceptions** — The five members of the Telephone Bank Board appointed under subsection (b)(1)(A) shall not receive compensation by reason of their service on the Telephone Bank Board.
 
 **(e) Succession** A member of the Telephone Bank Board may serve after the expiration of the term of office of such member until the successor for such member has taken office.
 
@@ -1933,7 +1943,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (i) of this se
 
 **(b) Stock classification; voting stock; one vote rule** The capital stock of the telephone bank shall consist of three classes, class A, class B, and class C, the rights, powers, privileges, and preferences of the separate classes to be as specified, not inconsistent with law, in the bylaws of the telephone bank. Class B and class C stock shall be voting stock, but no holder of said stock shall be entitled to more than one vote, nor shall class B and class C stockholders, regardless of their number, which are owned or controlled by the same person, group of persons, firm, association, or corporation, be entitled in any event to more than one vote.
 
-**(c) Class A stock; issuance to Secretary of Agriculture and redemption; cumulative return** Class A stock shall be issued only to the Secretary on behalf of the United States in exchange for capital furnished to the telephone bank pursuant to subsection (a) of this section, and such class A stock shall be redeemed and retired by the telephone bank as soon as practicable after September 30, 1995, but not to the extent that the Telephone Bank Board determines that such retirement will impair the operations of the telephone bank: Provided, That the minimum amount of class A stock that shall be retired each year after said date shall equal the amount of class B stock sold by the telephone bank during such year. Class A stock shall be entitled to a return, payable from income, at the rate of 2 per centum per annum on the amounts of said class A stock actually paid into the telephone bank. Such return shall be cumulative and shall be payable annually into miscellaneous receipts of the Treasury.
+**(c) Class A stock; issuance to Secretary of Agriculture and redemption; cumulative return** Class A stock shall be issued only to the Secretary on behalf of the United States in exchange for capital furnished to the telephone bank pursuant to subsection (a), and such class A stock shall be redeemed and retired by the telephone bank as soon as practicable after September 30, 1995, but not to the extent that the Telephone Bank Board determines that such retirement will impair the operations of the telephone bank: Provided, That the minimum amount of class A stock that shall be retired each year after said date shall equal the amount of class B stock sold by the telephone bank during such year. Class A stock shall be entitled to a return, payable from income, at the rate of 2 per centum per annum on the amounts of said class A stock actually paid into the telephone bank. Such return shall be cumulative and shall be payable annually into miscellaneous receipts of the Treasury.
 
 **(d) Class B stock; borrowers as holders; dividend prohibition; patronage refunds** Class B stock shall be held only by recipients of loans under [section 948 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-948). Borrowers receiving loan funds pursuant to section 948(a)(1) or (2) of this title shall be required to invest in class B stock 5 per centum of the amount of loan funds so provided, by paying an amount equal to 5 per centum of the amount of each loan advance, at the time of such advance. No dividends shall be payable on class B stock. All holders of class B stock shall be entitled to patronage refunds in class B stock under terms and conditions to be specified in the bylaws of the telephone bank.
 
@@ -1941,7 +1951,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (i) of this se
 
 **(f) Special fund equivalents** If a firm, association, corporation, or public body is not authorized under the laws of the jurisdiction in which it is organized to acquire stock of the telephone bank, the telephone bank shall, in lieu thereof, permit such organization to pay into a special fund of the telephone bank a sum equivalent to the amount of stock to be purchased. Each reference in this subchapter to capital stock, or to class B, or class C stock, shall include also the special fund equivalents of such stock, and to the extent permitted under the laws of the jurisdiction in which such organization is organized, a holder of special fund equivalents of class B, or class C stock, shall have the same rights and status as a holder of class B or class C stock, respectively. The rights and obligations of the telephone bank in respect of such special fund equivalent shall be identical to its rights and obligations in respect of class B or class C stock, respectively.
 
-**(g) Patronage refunds from remaining earnings after provision for operating expenses, reserves for losses, payments in lieu of taxes, and returns on class A and C stock** After payment of all operating expenses of the telephone bank, including interest on its telephone debentures, setting aside appropriate funds for the reserve for loan losses, and making payments in lieu of taxes, and returns on class A stock as provided in subsection (c) of this section, and on class C stock, the Telephone Bank Board shall annually set aside the remaining earnings of the telephone bank for patronage refunds in accordance with the bylaws of the telephone bank. The telephone bank may not establish any reserve other than the reserves referred to in this subsection and in subsection (h) of this section.
+**(g) Patronage refunds from remaining earnings after provision for operating expenses, reserves for losses, payments in lieu of taxes, and returns on class A and C stock** After payment of all operating expenses of the telephone bank, including interest on its telephone debentures, setting aside appropriate funds for the reserve for loan losses, and making payments in lieu of taxes, and returns on class A stock as provided in subsection (c), and on class C stock, the Telephone Bank Board shall annually set aside the remaining earnings of the telephone bank for patronage refunds in accordance with the bylaws of the telephone bank. The telephone bank may not establish any reserve other than the reserves referred to in this subsection and in subsection (h).
 
 **(h) Reserve for losses due to interest rate fluctuations** There is hereby established in the telephone bank a reserve for losses due to interest rate fluctuations. Within 30 days after December 22, 1987, the Governor of the telephone bank shall transfer to the reserve for losses due to interest rate fluctuations all amounts in the reserve for contingencies as of December 22, 1987. All amounts so transferred shall not be transferred, directly or indirectly, to the reserve for contingencies. Amounts in the reserve for interest rate fluctuations may be expended only to cover operating losses of the telephone bank (other than losses attributable to loan defaults) and only after taking into consideration any recommendations made by the General Accounting Office under section 1413(b) of the Omnibus Budget Reconciliation Act of 1987.
 
@@ -1982,7 +1992,7 @@ General Accounting Office redesignated Government Accountability Office by secti
 Pub. L. 101–624, title XXIII, § 2368, Nov. 28, 1990, 104 Stat. 4045, provided that: “(a) In General.—Except as provided in subsection (b), this subtitle and the amendments made by this subtitle [subtitle F (§§ 2351–2368) of title XXIII of Pub. L. 101–624, enacting sections 918 and 925 to 928 of this title, amending this section and sections 924, 932, 935, 936, 939, 945, 948, and 950 of this title and enacting provisions set out as notes under [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901)] shall take effect on the date of enactment of this Act [Nov. 28, 1990]. “(b) Technical Amendments.—The amendments made by section 2367 [amending this section and [section 948 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-948)] shall take effect as if such amendments had been included in chapter 2 [§§ 1411–1414] of subtitle D of title I of the Omnibus Budget Reconciliation Act of 1987 [Pub. L. 100–203] on the date of enactment of such chapter [Dec. 22, 1987].”
 
 #### Effective Date of 1981 Amendment
-Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4301&num=0&edition=prelim).
 
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–32 effective May 11, 1973, see section 12 of Pub. L. 93–32, set out as an Effective Date note under [section 930 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-930).
@@ -2063,7 +2073,7 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 
       (II) For purposes of this clause, the term “historic cost of money rate”, with respect to the close of a preceding fiscal year, means the sum of the results of the following calculations: The amounts advanced by the telephone bank in each fiscal year during the period beginning with fiscal year 1974 and ending with the preceding fiscal year, multiplied, respectively, by the cost of money rate for the fiscal year (as set forth in the table in subparagraph (E)) for fiscal years 1974 through 1987, and as determined by the Governor under this subparagraph for fiscal years after fiscal year 1987), each of which products is divided, respectively, by the aggregate of the amounts advanced by the telephone bank during the period.
 
-  (E) For purposes of subparagraph (D)(II), the cost of money rate for the fiscal years in which each advance was made shall be as set forth in the following table: The cost of money For advances made in— rate shall be— Fiscal year 1974 5.01 percent Fiscal year 1975 5.85 percent Fiscal year 1976 5.33 percent Fiscal year 1977 5.00 percent Fiscal year 1978 5.87 percent Fiscal year 1979 5.93 percent Fiscal year 1980 8.10 percent Fiscal year 1981 9.46 percent Fiscal year 1982 8.39 percent Fiscal year 1983 6.99 percent Fiscal year 1984 6.55 percent Fiscal year 1985 5.00 percent Fiscal year 1986 5.00 percent Fiscal year 1987 5.00 percent. For purposes of this paragraph, the term “fiscal year” means the 12-month period ending on September 30 of the designated year.
+  (E) For purposes of subparagraph (D)(II), the cost of money rate for the fiscal years in which each advance was made shall be as set forth in the following table: For advances made in—The cost of money rate shall be— Fiscal year 19745.01 percent Fiscal year 19755.85 percent Fiscal year 19765.33 percent Fiscal year 19775.00 percent Fiscal year 19785.87 percent Fiscal year 19795.93 percent Fiscal year 19808.10 percent Fiscal year 19819.46 percent Fiscal year 19828.39 percent Fiscal year 19836.99 percent Fiscal year 19846.55 percent Fiscal year 19855.00 percent Fiscal year 19865.00 percent Fiscal year 19875.00 percent. For purposes of this paragraph, the term “fiscal year” means the 12-month period ending on September 30 of the designated year.
 
   (F)
 
@@ -2093,7 +2103,7 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 
   (A) The average number of subscribers per mile of line in the service area of the applicant is not more than 15, or the applicant is capable of producing net income or margins before interest of not less than 100 percent (but not more than 500 percent) of the interest requirements on all of the outstanding and proposed loans of the applicant.
 
-  (B) The Secretary has approved, under [section 935(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section935/d/3&num=0&edition=prelim), a telecommunications modernization plan for the State in which the applicant is located and, if the plan was developed by telephone borrowers under subchapter III of this chapter, the applicant is a participant in the plan.
+  (B) The Secretary has approved, under [section 935(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section935/d/3&num=0&edition=prelim), a telecommunications modernization plan for the State in which the applicant is located and, if the plan was developed by telephone borrowers under subchapter III, the applicant is a participant in the plan.
 
 (5) **Certificate of convenience and necessity required from State regulatory agency or statement of telephone bank’s Governor of nonduplication of lines, facilities, or systems** — No loan shall be made in any State which now has or may hereafter have a State regulatory body having authority to regulate telephone service and to require certificates of convenience and necessity to the applicant unless such certificate from such agency is first obtained. In a State in which there is no such agency or regulatory body legally authorized to issue such certificates to the applicant, no loan shall be made under this section unless the Governor of the telephone bank shall determine (and set forth his reasons therefor in writing) that no duplication of lines, facilities, or systems, providing reasonably adequate services will result therefrom.
 
@@ -2258,7 +2268,7 @@ The Secretary shall—
 1991—Pars. (6) to (8). Pub. L. 102–237 inserted “and” at end of par. (6), redesignated par. (8) as (7), and struck out former par. (7) which read as follows: “review the advice and recommendations of the Rural Educational Opportunities Board as established under section 601(f); and”.
 
 #### Effective Date of 1991 Amendment
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(8) of Pub. L. 102–237, set out as a note under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421).
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(8) of Pub. L. 102–237, set out as a note under [section 1421 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim).
 
 
 <a id="section-950aa-1"></a>
@@ -2307,7 +2317,23 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 
 (1) **In general** — The Secretary shall make or guarantee loans to eligible entities described in subsection (d) to provide funds for the construction, improvement, or acquisition of facilities and equipment for the provision of broadband service in rural areas.
 
-(2) **Priority** — In making or guaranteeing loans under paragraph (1), the Secretary shall give the highest priority to applicants that offer to provide broadband service to the greatest proportion of households that, prior to the provision of the broadband service, had no incumbent service provider.
+(2) **Priority** — In making loans or loan guarantees under paragraph (1), the Secretary shall—
+
+  (A) establish not less than 2 evaluation periods for each fiscal year to compare loan and loan guarantee applications and to prioritize loans and loan guarantees to all or part of rural communities that do not have residential broadband service that meets the minimum acceptable level of broadband service established under subsection (e);
+
+  (B) give the highest priority to applicants that offer to provide broadband service to the greatest proportion of unserved households or households that do not have residential broadband service that meets the minimum acceptable level of broadband service established under subsection (e), as—
+
+    (i) certified by the affected community, city, county, or designee; or
+
+    (ii) demonstrated on—
+
+      (I) the broadband map of the affected State if the map contains address-level data; or
+
+      (II) the National Broadband Map if address-level data is unavailable; and
+
+  (C) provide equal consideration to all qualified applicants, including applicants that have not previously received loans or loan guarantees under paragraph (1); and
+
+  (D) give priority to applicants that offer in the applications of the applicants to provide broadband service not predominantly for business service, if at least 25 percent of the customers in the proposed service territory are commercial interests.
 
 **(d) Eligibility**
 
@@ -2315,7 +2341,7 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 
   (A) *In general* — To be eligible to obtain a loan or loan guarantee under this section, an entity shall—
 
-    (i) demonstrate the ability to furnish, improve, or extend a broadband service to a rural area;
+    (i) demonstrate the ability to furnish, improve in order to meet the minimum acceptable level of broadband service established under subsection (e), or extend broadband service to all or part of an unserved rural area or an area below the minimum acceptable level of broadband service established under subsection (e);
 
     (ii) submit to the Secretary a loan application at such time, in such manner, and containing such information as the Secretary may require; and
 
@@ -2327,15 +2353,15 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 
   (A) *In general* — Except as provided in subparagraphs (B) and (C), the proceeds of a loan made or guaranteed under this section may be used to carry out a project in a proposed service territory only if, as of the date on which the application for the loan or loan guarantee is submitted—
 
-    (i) not less than 25 percent of the households in the proposed service territory is offered broadband service by not more than 1 incumbent service provider; and
+    (i) not less than 15 percent of the households in the proposed service territory are unserved or have service levels below the minimum acceptable level of broadband service established under subsection (e); and
 
     (ii) broadband service is not provided in any part of the proposed service territory by 3 or more incumbent service providers.
 
-  (B) *Exception to 25 percent requirement* — Subparagraph (A)(i) shall not apply to the proposed service territory of a project if a loan or loan guarantee has been made under this section to the applicant to provide broadband service in the proposed service territory.
+  (B) *Exception to percent requirement* — Subparagraph (A)(i) shall not apply to the proposed service territory of a project if a loan or loan guarantee has been made under this section to the applicant to provide broadband service in the proposed service territory.
 
-  (C) *Exception to 3 or more incumbent service provider requirement*
+  (C) *Exception to incumbent service provider requirement*
 
-    (i) *In general* — Except as provided in clause (ii), subparagraph (A)(ii) shall not apply to an incumbent service provider that is upgrading broadband service to the existing territory of the incumbent service provider.
+    (i) *In general* — Except as provided in clause (ii), subparagraph (A)(ii) shall not apply to an incumbent service provider in the portion of a proposed service territory in which the provider is upgrading broadband service to meet the minimum acceptable level of broadband service established under subsection (e) for the existing territory of the incumbent service provider.
 
     (ii) *Exception* — Clause (i) shall not apply if the applicant is eligible for funding under another subchapter of this chapter.
 
@@ -2349,25 +2375,107 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 
     (ii) *Less than 20 percent* — The Secretary may not require an entity that proposes to have a subscriber projection of less than 20 percent of the broadband service market in a rural area to submit to the Secretary a market survey.
 
+    (iii) *Information* — Information submitted under this subparagraph shall be—
+
+      (I) certified by the affected community, city, county, or designee; or
+
+      (II) demonstrated on—
+
+        (aa) the broadband map of the affected State if the map contains address-level data; or
+
+        (bb) the National Broadband Map if address-level data is unavailable.
+
 (4) **State and local governments and Indian tribes** — Subject to paragraph (1), a State or local government (including any agency, subdivision, or instrumentality thereof (including consortia thereof)) and an Indian tribe shall be eligible for a loan or loan guarantee under this section to provide broadband services to a rural area.
 
-(5) **Notice requirement** — The Secretary shall publish a notice of each application for a loan or loan guarantee under this section describing the application, including—
+(5) **Notice requirements** — The Secretary shall promptly provide a fully searchable database on the website of the Rural Utilities Service that contains, at a minimum—
 
-  (A) the identity of the applicant;
+  (A) notice of each application for a loan or loan guarantee under this section describing the application, including—
 
-  (B) each area proposed to be served by the applicant; and
+    (i) the identity of the applicant;
 
-  (C) the estimated number of households without terrestrial-based broadband service in those areas.
+    (ii) a description of each application, including—
+
+      (I) each area proposed to be served by the applicant; and
+
+      (II) the amount and type of support requested by each applicant;
+
+    (iii) the status of each application;
+
+    (iv) the estimated number and proportion relative to the service territory of households without terrestrial-based broadband service in those areas; and
+
+    (v) a list of the census block groups or proposed service territory, in a manner specified by the Secretary, that the applicant proposes to service;
+
+  (B) notice of each entity receiving assistance under this section, including—
+
+    (i) the name of the entity;
+
+    (ii) the type of assistance being received;
+
+    (iii) the purpose for which the entity is receiving the assistance;
+
+    (iv) each semiannual report submitted under paragraph (8)(A) (redacted to protect any proprietary information in the report); and
+
+  (C) such other information as is sufficient to allow the public to understand assistance provided under this section.
 
 (6) **Paperwork reduction** — The Secretary shall take steps to reduce, to the maximum extent practicable, the cost and paperwork associated with applying for a loan or loan guarantee under this section by first-time applicants (particularly first-time applicants who are small and start-up broadband service providers), including by providing for a new application that maintains the ability of the Secretary to make an analysis of the risk associated with the loan involved.
 
 (7) **Preapplication process** — The Secretary shall establish a process under which a prospective applicant may seek a determination of area eligibility prior to preparing a loan application under this section.
 
+(8) **Reporting**
+
+  (A) *In general* — The Secretary shall require any entity receiving assistance under this section to submit a semiannual report for 3 years after completion of the project, in a format specified by the Secretary, that describes—
+
+    (i) the use by the entity of the assistance, including new equipment and capacity enhancements that support high-speed broadband access for educational institutions, health care providers, and public safety service providers (including the estimated number of end users who are currently using or forecasted to use the new or upgraded infrastructure); and
+
+    (ii) the progress towards fulfilling the objectives for which the assistance was granted, including—
+
+      (I) the number and location of residences and businesses that will receive new broadband service, existing network service improvements, and facility upgrades resulting from the Federal assistance;
+
+      (II) the speed of broadband service;
+
+      (III) the average price of broadband service in a proposed service area;
+
+      (IV) any changes in broadband service adoption rates, including new subscribers generated from demand-side projects; and
+
+      (V) any metrics the Secretary determines to be appropriate;
+
+  (B) *Additional reporting* — The Secretary may require any additional reporting and information by any recipient of any assistance under this section so as to ensure compliance with this section.
+
+(9) **Default and deobligation** — In addition to other authority under applicable law, the Secretary shall establish written procedures for all broadband programs administered by the Rural Utilities Service under this or any other Act that, to the maximum extent practicable—
+
+  (A) recover funds from loan defaults;
+
+  (B) deobligate any awards, less allowable costs that demonstrate an insufficient level of performance (including metrics determined by the Secretary) or fraudulent spending, to the extent funds with respect to the award are available in the account relating to the program established by this section;
+
+  (C) award those funds, on a competitive basis, to new or existing applicants consistent with this section; and
+
+  (D) minimize overlap among the programs.
+
+(10) **Service area assessment** — The Secretary shall, with respect to an application for assistance under this section—
+
+  (A) provide not less than 15 days for broadband service providers to voluntarily submit information concerning the broadband services that the providers offer in the census block groups or tracts described in paragraph (5)(A)(v) so that the Secretary may assess whether the applications submitted meet the eligibility requirements under this section; and
+
+  (B) if no broadband service provider submits information under subparagraph (A), consider the number of providers in the census block group or tract to be established by using—
+
+    (i) the most current National Broadband Map of the National Telecommunications and Information Administration; or
+
+    (ii) any other data regarding the availability of broadband service that the Secretary may collect or obtain through reasonable efforts.
+
 **(e) Broadband service**
 
-(1) **In general** — The Secretary shall, from time to time as advances in technology warrant, review and recommend modifications of rate-of-data transmission criteria for purposes of the identification of broadband service technologies under subsection (b)(1).
+(1) **In general** — Subject to paragraph (2), for purposes of this section, the minimum acceptable level of broadband service for a rural area shall be at least—
 
-(2) **Prohibition** — The Secretary shall not establish requirements for bandwidth or speed that have the effect of precluding the use of evolving technologies appropriate for rural areas.
+  (A) a 4-Mbps downstream transmission capacity; and
+
+  (B) a 1-Mbps upstream transmission capacity.
+
+(2) **Adjustments**
+
+  (A) *In general* — At least once every 2 years, the Secretary shall review, and may adjust through notice published in the Federal Register, the minimum acceptable level of broadband service established under paragraph (1) to ensure that high quality, cost-effective broadband service is provided to rural areas over time.
+
+  (B) *Considerations* — In making an adjustment to the minimum acceptable level of broadband service under subparagraph (A), the Secretary may consider establishing different transmission rates for fixed broadband service and mobile broadband service.
+
+(3) **Prohibition** — The Secretary shall not establish requirements for bandwidth or speed that have the effect of precluding the use of evolving technologies appropriate for rural areas.
 
 **(f) Technological neutrality** For purposes of determining whether to make a loan or loan guarantee for a project under this section, the Secretary shall use criteria that are technologically neutral.
 
@@ -2387,7 +2495,11 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 
   (B) have a term of such length, not exceeding 35 years, as the borrower may request, if the Secretary determines that the loan is adequately secured.
 
-(2) **Term** — In determining the term of a loan or loan guarantee, the Secretary shall consider whether the recipient is or would be serving an area that is not receiving broadband services.
+(2) **Terms** — In determining the term and conditions of a loan or loan guarantee, the Secretary may—
+
+  (A) consider whether the recipient is or would be serving an area that is unserved or has service levels below the minimum acceptable level of broadband service established under subsection (e); and
+
+  (B) if the Secretary makes a determination in the affirmative under subparagraph (A), establish a limited initial deferral period or comparable terms necessary to achieve the financial feasibility and long-term sustainability of the project.
 
 (3) **Recurring revenue** — The Secretary shall consider the existing recurring revenues of the entity at the time of application in determining an adequate level of credit support.
 
@@ -2401,7 +2513,7 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 
 **(j) Reports** Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, and annually thereafter, the Administrator shall submit to Congress a report that describes the extent of participation in the loan and loan guarantee program under this section for the preceding fiscal year, including a description of—
 
-(1) the number of loans applied for and provided under this section;
+(1) the number of loans applied for and provided under this section, including any loan terms or conditions for which the Secretary provided additional assistance to unserved areas;
 
 (2)
 
@@ -2413,13 +2525,25 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 
 (4) any outreach activities carried out by the Secretary to encourage entities in rural areas without broadband service to submit applications under this section;
 
-(5) the method by which the Secretary determines that a service enables a subscriber to originate and receive high-quality voice, data, graphics, and video for purposes of subsection (b)(1); and
+(5) the method by which the Secretary determines that a service enables a subscriber to originate and receive high-quality voice, data, graphics, and video for purposes of subsection (b)(1);
 
-(6) each broadband service, including the type and speed of broadband service, for which assistance was sought, and each broadband service for which assistance was provided, under this section.
+(6) each broadband service, including the type and speed of broadband service, for which assistance was sought, and each broadband service for which assistance was provided, under this section; and
+
+(7) the overall progress towards fulfilling the goal of improving the quality of rural life by expanding rural broadband access, as demonstrated by metrics, including—
+
+  (A) the number of residences and businesses receiving new broadband services;
+
+  (B) network improvements, including facility upgrades and equipment purchases;
+
+  (C) average broadband speeds and prices on a local and statewide basis;
+
+  (D) any changes in broadband adoption rates; and
+
+  (E) any specific activities that increased high speed broadband access for educational institutions, health care providers, and public safety service providers.
 
 **(k) Funding**
 
-(1) **Authorization of appropriations** — There is authorized to be appropriated to the Secretary to carry out this section $25,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
+(1) **Authorization of appropriations** — There is authorized to be appropriated to the Secretary to carry out this section $25,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
 
 (2) **Allocation of funds**
 
@@ -2437,7 +2561,7 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 
   (C) *Unobligated amounts* — Any amounts in the reserve established for a State for a fiscal year under subparagraph (B) that are not obligated by April 1 of the fiscal year shall be available to the Secretary to make loans and loan guarantees under this section to eligible entities in any State, as determined by the Secretary.
 
-**(l) Termination of authority** No loan or loan guarantee may be made under this section after September 30, 2012.
+**(l) Termination of authority** No loan or loan guarantee may be made under this section after September 30, 2018.
 
 ### Statutory Notes
 
@@ -2445,11 +2569,39 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (j), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
-The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (c)(2). Pub. L. 113–79, § 6104(a)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In making or guaranteeing loans under paragraph (1), the Secretary shall give the highest priority to applicants that offer to provide broadband service to the greatest proportion of households that, prior to the provision of the broadband service, had no incumbent service provider.”
+
+Subsec. (d)(1)(A)(i). Pub. L. 113–79, § 6104(a)(2)(A), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “demonstrate the ability to furnish, improve, or extend a broadband service to a rural area;”.
+
+Subsec. (d)(2)(A)(i). Pub. L. 113–79, § 6104(a)(2)(B)(i), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “not less than 25 percent of the households in the proposed service territory is offered broadband service by not more than 1 incumbent service provider; and”.
+
+2014—Subsec. (d)(2)(B). Pub. L. 113–79, § 6104(a)(2)(B)(ii), struck out “25” before “percent” in heading.
+
+Subsec. (d)(2)(C). Pub. L. 113–79, § 6104(a)(2)(B)(iii)(I), struck out “3 or more” before “incumbent” in heading.
+
+Subsec. (d)(2)(C)(i). Pub. L. 113–79, § 6104(a)(2)(B)(iii)(II), added cl. (i) and struck out former cl.(i). Prior to amendment, text read as follows: “Except as provided in clause (ii), subparagraph (A)(ii) shall not apply to an incumbent service provider that is upgrading broadband service to the existing territory of the incumbent service provider.”
+
+Subsec. (d)(3)(B)(iii). Pub. L. 113–79, § 6104(a)(2)(C), added cl. (iii).
+
+Subsec. (d)(5). Pub. L. 113–79, § 6104(a)(2)(D), added par. (5) and struck out former par. (5) which related to notice requirement.
+
+Subsec. (d)(8) to (10). Pub. L. 113–79, § 6104(a)(2)(E), added pars. (8) to (10).
+
+Subsec. (e). Pub. L. 113–79, § 6104(a)(3), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out former par. (1) which read as follows: “The Secretary shall, from time to time as advances in technology warrant, review and recommend modifications of rate-of-data transmission criteria for purposes of the identification of broadband service technologies under subsection (b)(1).”
+
+Subsec. (g)(2). Pub. L. 113–79, § 6104(a)(4), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In determining the term of a loan or loan guarantee, the Secretary shall consider whether the recipient is or would be serving an area that is not receiving broadband services.”
+
+Subsec. (j)(1). Pub. L. 113–79, § 6104(a)(5)(A), inserted “, including any loan terms or conditions for which the Secretary provided additional assistance to unserved areas” before semicolon at end.
+
+Subsec. (j)(7). Pub. L. 113–79, § 6104(a)(5)(B)–(D), added par. (7).
+
+Subsecs. (k)(1), (l). Pub. L. 113–79, § 6104(a)(6), substituted “2018” for “2012”.
+
 2008—Pub. L. 110–246, § 6110(a), amended section generally, substituting provisions authorizing loans and loan guarantees for the costs of construction, improvement, and acquisition of facilities and equipment for broadband service in rural areas and terminating such authority on Sept. 30, 2012, for provisions authorizing similar loans and loan guarantees and terminating such authority on Sept. 30, 2007.
 
 2004—Subsec. (b)(2). Pub. L. 108–199 amended heading and text of subsec. (b)(2) generally. Prior to amendment, text read as follows: “The term ‘eligible rural community’ means any incorporated or unincorporated place that—
@@ -2459,16 +2611,16 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 “(B) is not located in an area designated as a standard metropolitan statistical area.”
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 Pub. L. 110–234, title VI, § 6110(c), May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, § 4(a), title VI, § 6110(c), June 18, 2008, 122 Stat. 1664, 1964, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to— “(1) an application submitted under section 601 of the Rural Electrification Act of 1936 ([7 U.S.C. 950bb](./chapter-031-rural-electrification-and-telephone-service.md#section-950bb)) (as it existed before the amendment made by subsection (a)) that—“(A) was pending on the date that is 45 days prior to the date of enactment of this Act [June 18, 2008]; and “(B) is pending on the date of enactment of this Act [June 18, 2008]; or “(2) a petition for reconsideration of a decision on an application described in paragraph (1).”
 
-[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
+[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).]
 
 #### Regulations
 Pub. L. 110–234, title VI, § 6110(b), May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, § 4(a), title VI, § 6110(b), June 18, 2008, 122 Stat. 1664, 1964, provided that: “The Secretary [of Agriculture] may implement the amendment made by subsection (a) [amending this section] through the promulgation of an interim regulation.”
 
-[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
+[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).]
 
 Pub. L. 107–171, title VI, § 6103(b), May 13, 2002, 116 Stat. 418, provided that: “(1) In general.—Not later than 180 days after the date of enactment of this Act [May 13, 2002], the Secretary of Agriculture shall promulgate such regulations as are necessary to implement the amendment made by subsection (a) [enacting this section]. “(2) Procedure.—The promulgation of the regulations shall be made without regard to—“(A) the notice and comment provisions of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code; “(B) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and “(C) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’). “(3) Congressional review of agency rulemaking.—In carrying out this subsection, the Secretary shall use the authority provided under [section 808 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section808&num=0&edition=prelim), United States Code.”
 
@@ -2513,4 +2665,31 @@ Pub. L. 107–171, title VI, § 6103(b), May 13, 2002, 116 Stat. 418, provided t
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
+
+
+<a id="section-950bb-2"></a>
+## § 950bb–2. Rural Gigabit Network Pilot Program
+**(a) Definition of ultra-high speed service** In this section, the term “ultra-high speed service” means broadband service operating at a 1 gigabit per second downstream transmission capacity.
+
+**(b) Pilot program** The Secretary shall establish a pilot program to be known as the “Rural Gigabit Network Pilot Program”, under which the Secretary may, at the discretion of the Secretary, provide grants, loans, or loan guarantees to eligible entities.
+
+**(c) Eligibility**
+
+(1) **In general** — To be eligible to obtain assistance under this section, an entity shall—
+
+  (A) demonstrate to the Secretary the ability to furnish or extend ultra-high speed service to a rural area;
+
+  (B) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require;
+
+  (C) not already provide ultra-high speed service to a rural area within any State in the proposed service territory; and
+
+  (D) agree to complete buildout of ultra-high speed service by not later than 3 years after the initial date on which assistance under this section is made available.
+
+(2) **Eligible projects** — Assistance under this section may only be used to carry out a project in a proposed service territory if—
+
+  (A) the proposed service territory is a rural area; and
+
+  (B) ultra-high speed service is not provided in any part of the proposed service territory.
+
+**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2014 through 2018.

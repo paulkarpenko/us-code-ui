@@ -173,7 +173,7 @@ Pub. L. 94–265, § 1, Apr. 13, 1976, 90 Stat. 331, as amended by Pub. L. 96–
 #### Ex. Ord. No. 12962. Recreational Fisheries
 Ex. Ord. No. 12962, June 7, 1995, 60 F.R. 30769, as amended by Ex. Ord. No. 13474, Sept. 26, 2008, 73 F.R. 57229, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 ([16 U.S.C. 742a](./chapter-009-fish-and-wildlife-service.md#section-742a)–d, and e–j), the Fish and Wildlife Coordination Act ([16 U.S.C. 661–666c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661–666c&num=0&edition=prelim)), the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), the National Marine Sanctuaries Act of 1972 ([16 U.S.C. 1431](./chapter-032-marine-sanctuaries.md#section-1431) et seq.), the National Wildlife Refuge System Administration Act of 1966 ([16 U.S.C. 668dd](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd)–ee), the National Park Service Organic Act ([16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1) et seq.), the National Historic Preservation Act ([16 U.S.C. 470](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470) et seq.), [the] Wilderness Act ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.), the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.), the Coastal Zone Management Act [of 1972] ([16 U.S.C. 1451](./chapter-033-coastal-zone-management.md#section-1451) et seq.), the Outer Continental Shelf Lands Act ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 ([16 U.S.C. 742a](./chapter-009-fish-and-wildlife-service.md#section-742a)–d, and e–j), the Fish and Wildlife Coordination Act ([16 U.S.C. 661–666c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661–666c&num=0&edition=prelim)), the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), the National Marine Sanctuaries Act of 1972 ([16 U.S.C. 1431](./chapter-032-marine-sanctuaries.md#section-1431) et seq.), the National Wildlife Refuge System Administration Act of 1966 ([16 U.S.C. 668dd](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd)–ee), the National Park Service Organic Act ([former] [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1) et seq.), the National Historic Preservation Act ([16 U.S.C. 470](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470) et seq.) [see [54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) et seq.], [the] Wilderness Act ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.), the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.), the Coastal Zone Management Act [of 1972] ([16 U.S.C. 1451](./chapter-033-coastal-zone-management.md#section-1451) et seq.), the Outer Continental Shelf Lands Act ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
 
 Section 1. Federal Agency Duties. Federal agencies shall, to the extent permitted by law and where practicable, and in cooperation with States and Tribes, improve the quantity, function, sustainable productivity, and distribution of U.S. aquatic resources for increased recreational fishing opportunities by: (a) developing and encouraging partnerships between governments and the private sector to advance aquatic resource conservation and enhance recreational fishing opportunities;
 
@@ -245,143 +245,179 @@ As used in this chapter, unless the context otherwise requires—
 
 (6) The term “Continental Shelf” means the seabed and subsoil of the submarine areas adjacent to the coast, but outside the area of the territorial sea, of the United States, to a depth of 200 meters or, beyond that limit, to where the depth of the superjacent waters admits of the exploitation of the natural resources of such areas.
 
-(7) The term “Continental Shelf fishery resources” means the following: Cnidaria Bamboo Coral—Acanella spp.; Black Coral—Antipathes spp.; Gold Coral—Callogorgia spp.; Precious Red Coral—Corallium spp.; Bamboo Coral—Keratoisis spp.; and Gold Coral—Parazoanthus spp. Crustacea Tanner Crab—Chionoecetes tanneri; Tanner Crab—Chionoecetes opilio; Tanner Crab—Chionoecetes angulatus; Tanner Crab—Chionoecetes bairdi; King Crab—Paralithodes camtschatica; King Crab—Paralithodes platypus; King Crab—Paralithodes brevipes; Lobster—Homarus americanus; Dungeness Crab—Cancer magister; California King Crab—Paralithodes cali­forniensis; California King Crab—Paralithodes rath­buni; Golden King Crab—Lithodes aequispinus; Northern Stone Crab—Lithodes maja; Stone Crab—Menippe mercenaria; and Deep-sea Red Crab—Chaceon quinquedens. Mollusks Red Abalone—Haliotis rufescens; Pink Abalone—Haliotis corrugata; Japanese Abalone—Haliotis kamtschat­kana; Queen Conch—Strombus gigas; Surf Clam—Spisula solidissima; and Ocean Quahog—Arctica islandica. Sponges Glove Sponge—Spongia cheiris; Sheepswool Sponge—Hippiospongia lachne; Grass Sponge—Spongia graminea; and Yellow Sponge—Spongia barbera. If the Secretary determines, after consultation with the Secretary of State, that living organisms of any other sedentary species are, at the harvestable stage, either—
+(7) The term “Continental Shelf fishery resources” means the following:
+Cnidaria
+Bamboo Coral—Acanella spp.;
+Black Coral—Antipathes spp.;
+Gold Coral—Callogorgia spp.;
+Precious Red Coral—Corallium spp.;
+Bamboo Coral—Keratoisis spp.; and
+Gold Coral—Parazoanthus spp.
+Crustacea
+Tanner Crab—Chionoecetes tanneri;
+Tanner Crab—Chionoecetes opilio;
+Tanner Crab—Chionoecetes angulatus;
+Tanner Crab—Chionoecetes bairdi;
+King Crab—Paralithodes camtschatica;
+King Crab—Paralithodes platypus;
+King Crab—Paralithodes brevipes;
+Lobster—Homarus americanus;
+Dungeness Crab—Cancer magister;
+California King Crab—Paralithodes cali­forniensis;
+California King Crab—Paralithodes rath­buni;
+Golden King Crab—Lithodes aequispinus;
+Northern Stone Crab—Lithodes maja;
+Stone Crab—Menippe mercenaria; and
+Deep-sea Red Crab—Chaceon quinquedens.
+Mollusks
+Red Abalone—Haliotis rufescens;
+Pink Abalone—Haliotis corrugata;
+Japanese Abalone—Haliotis kamtschat­kana;
+Queen Conch—Strombus gigas;
+Surf Clam—Spisula solidissima; and
+Ocean Quahog—Arctica islandica.
+Sponges
+Glove Sponge—Spongia cheiris;
+Sheepswool Sponge—Hippiospongia lachne;
+Grass Sponge—Spongia graminea; and
+Yellow Sponge—Spongia barbera.
+If the Secretary determines, after consultation with the Secretary of State, that living organisms of any other sedentary species are, at the harvestable stage, either—
 
-  (A) immobile on or under the seabed, or
+(A) immobile on or under the seabed, or
 
-  (B) unable to move except in constant physical contact with the seabed or subsoil,
-  of the Continental Shelf which appertains to the United States, and publishes notice of such determination in the Federal Register, such sedentary species shall be considered to be added to the foregoing list and included in such term for purposes of this chapter.
+(B) unable to move except in constant physical contact with the seabed or subsoil,
+of the Continental Shelf which appertains to the United States, and publishes notice of such determination in the Federal Register, such sedentary species shall be considered to be added to the foregoing list and included in such term for purposes of this chapter.
 
-  (8) The term “Council” means any Regional Fishery Management Council established under [section 1852 of this title](./chapter-038-fishery-conservation-and-management.md#section-1852).
+(8) The term “Council” means any Regional Fishery Management Council established under [section 1852 of this title](./chapter-038-fishery-conservation-and-management.md#section-1852).
 
-  (9) The term “economic discards” means fish which are the target of a fishery, but which are not retained because they are of an undesirable size, sex, or quality, or for other economic reasons.
+(9) The term “economic discards” means fish which are the target of a fishery, but which are not retained because they are of an undesirable size, sex, or quality, or for other economic reasons.
 
-  (10) The term “essential fish habitat” means those waters and substrate necessary to fish for spawning, breeding, feeding or growth to maturity.
+(10) The term “essential fish habitat” means those waters and substrate necessary to fish for spawning, breeding, feeding or growth to maturity.
 
-  (11) The term “exclusive economic zone” means the zone established by Proclamation Numbered 5030, dated March 10, 1983. For purposes of applying this chapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States.
+(11) The term “exclusive economic zone” means the zone established by Proclamation Numbered 5030, dated March 10, 1983. For purposes of applying this chapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States.
 
-  (12) The term “fish” means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life other than marine mammals and birds.
+(12) The term “fish” means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life other than marine mammals and birds.
 
-  (13) The term “fishery” means—
+(13) The term “fishery” means—
 
-    (A) one or more stocks of fish which can be treated as a unit for purposes of conservation and management and which are identified on the basis of geographical, scientific, technical, recreational, and economic characteristics; and
+  (A) one or more stocks of fish which can be treated as a unit for purposes of conservation and management and which are identified on the basis of geographical, scientific, technical, recreational, and economic characteristics; and
 
-    (B) any fishing for such stocks.
+  (B) any fishing for such stocks.
 
-  (14) The term “regional fishery association” means an association formed for the mutual benefit of members—
+(14) The term “regional fishery association” means an association formed for the mutual benefit of members—
 
-    (A) to meet social and economic needs in a region or subregion; and
+  (A) to meet social and economic needs in a region or subregion; and
 
-    (B) comprised of persons engaging in the harvest or processing of fishery resources in that specific region or subregion or who otherwise own or operate businesses substantially dependent upon a fishery.
+  (B) comprised of persons engaging in the harvest or processing of fishery resources in that specific region or subregion or who otherwise own or operate businesses substantially dependent upon a fishery.
 
-  (15) The term “fishery resource” means any fishery, any stock of fish, any species of fish, and any habitat of fish.
+(15) The term “fishery resource” means any fishery, any stock of fish, any species of fish, and any habitat of fish.
 
-  (16) The term “fishing” means—
+(16) The term “fishing” means—
 
-    (A) the catching, taking, or harvesting of fish;
+  (A) the catching, taking, or harvesting of fish;
 
-    (B) the attempted catching, taking, or harvesting of fish;
+  (B) the attempted catching, taking, or harvesting of fish;
 
-    (C) any other activity which can reasonably be expected to result in the catching, taking, or harvesting of fish; or
+  (C) any other activity which can reasonably be expected to result in the catching, taking, or harvesting of fish; or
 
-    (D) any operations at sea in support of, or in preparation for, any activity described in subparagraphs (A) through (C).
-    Such term does not include any scientific research activity which is conducted by a scientific research vessel.
+  (D) any operations at sea in support of, or in preparation for, any activity described in subparagraphs (A) through (C).
+  Such term does not include any scientific research activity which is conducted by a scientific research vessel.
 
-  (17) The term “fishing community” means a community which is substantially dependent on or substantially engaged in the harvest or processing of fishery resources to meet social and economic needs, and includes fishing vessel owners, operators, and crew and United States fish processors that are based in such community.
+(17) The term “fishing community” means a community which is substantially dependent on or substantially engaged in the harvest or processing of fishery resources to meet social and economic needs, and includes fishing vessel owners, operators, and crew and United States fish processors that are based in such community.
 
-  (18) The term “fishing vessel” means any vessel, boat, ship, or other craft which is used for, equipped to be used for, or of a type which is normally used for—
+(18) The term “fishing vessel” means any vessel, boat, ship, or other craft which is used for, equipped to be used for, or of a type which is normally used for—
 
-    (A) fishing; or
+  (A) fishing; or
 
-    (B) aiding or assisting one or more vessels at sea in the performance of any activity relating to fishing, including, but not limited to, preparation, supply, storage, refrigeration, transportation, or processing.
+  (B) aiding or assisting one or more vessels at sea in the performance of any activity relating to fishing, including, but not limited to, preparation, supply, storage, refrigeration, transportation, or processing.
 
-  (19) The term “foreign fishing” means fishing by a vessel other than a vessel of the United States.
+(19) The term “foreign fishing” means fishing by a vessel other than a vessel of the United States.
 
-  (20) The term “high seas” means all waters beyond the territorial sea of the United States and beyond any foreign nation’s territorial sea, to the extent that such sea is recognized by the United States.
+(20) The term “high seas” means all waters beyond the territorial sea of the United States and beyond any foreign nation’s territorial sea, to the extent that such sea is recognized by the United States.
 
-  (21) The term “highly migratory species” means tuna species, marlin (Tetrapturus spp. and Makaira spp.), oceanic sharks, sailfishes (Istiophorus spp.), and swordfish (Xiphias gladius).
+(21) The term “highly migratory species” means tuna species, marlin (Tetrapturus spp. and Makaira spp.), oceanic sharks, sailfishes (Istiophorus spp.), and swordfish (Xiphias gladius).
 
-  (22) The term “import”—
+(22) The term “import”—
 
-    (A) means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States; but
+  (A) means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States; but
 
-    (B) does not include any activity described in subparagraph (A) with respect to fish caught in the exclusive economic zone or by a vessel of the United States.
+  (B) does not include any activity described in subparagraph (A) with respect to fish caught in the exclusive economic zone or by a vessel of the United States.
 
-  (23) The term “individual fishing quota” means a Federal permit under a limited access system to harvest a quantity of fish, expressed by a unit or units representing a percentage of the total allowable catch of a fishery that may be received or held for exclusive use by a person. Such term does not include community development quotas as described in [section 1855(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1855/i&num=0&edition=prelim).
+(23) The term “individual fishing quota” means a Federal permit under a limited access system to harvest a quantity of fish, expressed by a unit or units representing a percentage of the total allowable catch of a fishery that may be received or held for exclusive use by a person. Such term does not include community development quotas as described in [section 1855(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1855/i&num=0&edition=prelim).
 
-  (24) The term “international fishery agreement” means any bilateral or multilateral treaty, convention, or agreement which relates to fishing and to which the United States is a party.
+(24) The term “international fishery agreement” means any bilateral or multilateral treaty, convention, or agreement which relates to fishing and to which the United States is a party.
 
-  (25) The term “large-scale driftnet fishing” means a method of fishing in which a gillnet composed of a panel or panels of webbing, or a series of such gillnets, with a total length of two and one-half kilometers or more is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
+(25) The term “large-scale driftnet fishing” means a method of fishing in which a gillnet composed of a panel or panels of webbing, or a series of such gillnets, with a total length of two and one-half kilometers or more is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
 
-  (26) The term “limited access privilege”—
+(26) The term “limited access privilege”—
 
-    (A) means a Federal permit, issued as part of a limited access system under [section 1853a of this title](./chapter-038-fishery-conservation-and-management.md#section-1853a) to harvest a quantity of fish expressed by a unit or units representing a portion of the total allowable catch of the fishery that may be received or held for exclusive use by a person; and
+  (A) means a Federal permit, issued as part of a limited access system under [section 1853a of this title](./chapter-038-fishery-conservation-and-management.md#section-1853a) to harvest a quantity of fish expressed by a unit or units representing a portion of the total allowable catch of the fishery that may be received or held for exclusive use by a person; and
 
-    (B) includes an individual fishing quota; but
+  (B) includes an individual fishing quota; but
 
-    (C) does not include community development quotas as described in [section 1855(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1855/i&num=0&edition=prelim).
+  (C) does not include community development quotas as described in [section 1855(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1855/i&num=0&edition=prelim).
 
-  (27) The term “limited access system” means a system that limits participation in a fishery to those satisfying certain eligibility criteria or requirements contained in a fishery management plan or associated regulation.
+(27) The term “limited access system” means a system that limits participation in a fishery to those satisfying certain eligibility criteria or requirements contained in a fishery management plan or associated regulation.
 
-  (28) The term “Marine Fisheries Commission” means the Atlantic States Marine Fisheries Commission, the Gulf States Marine Fisheries Commission, or the Pacific States Marine Fisheries Commission.
+(28) The term “Marine Fisheries Commission” means the Atlantic States Marine Fisheries Commission, the Gulf States Marine Fisheries Commission, or the Pacific States Marine Fisheries Commission.
 
-  (29) The term “migratory range” means the maximum area at a given time of the year within which fish of an anadromous species or stock thereof can be expected to be found, as determined on the basis of scale pattern analysis, tagging studies, or other reliable scientific information, except that the term does not include any part of such area which is in the waters of a foreign nation.
+(29) The term “migratory range” means the maximum area at a given time of the year within which fish of an anadromous species or stock thereof can be expected to be found, as determined on the basis of scale pattern analysis, tagging studies, or other reliable scientific information, except that the term does not include any part of such area which is in the waters of a foreign nation.
 
-  (30) The term “national standards” means the national standards for fishery conservation and management set forth in [section 1851 of this title](./chapter-038-fishery-conservation-and-management.md#section-1851).
+(30) The term “national standards” means the national standards for fishery conservation and management set forth in [section 1851 of this title](./chapter-038-fishery-conservation-and-management.md#section-1851).
 
-  (31) The term “observer” means any person required or authorized to be carried on a vessel for conservation and management purposes by regulations or permits under this chapter.
+(31) The term “observer” means any person required or authorized to be carried on a vessel for conservation and management purposes by regulations or permits under this chapter.
 
-  (32) The term “observer information” means any information collected, observed, retrieved, or created by an observer or electronic monitoring system pursuant to authorization by the Secretary, or collected as part of a cooperative research initiative, including fish harvest or processing observations, fish sampling or weighing data, vessel logbook data, vessel or processor-specific information (including any safety, location, or operating condition observations), and video, audio, photographic, or written documents.
+(32) The term “observer information” means any information collected, observed, retrieved, or created by an observer or electronic monitoring system pursuant to authorization by the Secretary, or collected as part of a cooperative research initiative, including fish harvest or processing observations, fish sampling or weighing data, vessel logbook data, vessel or processor-specific information (including any safety, location, or operating condition observations), and video, audio, photographic, or written documents.
 
-  (33) The term “optimum”, with respect to the yield from a fishery, means the amount of fish which—
+(33) The term “optimum”, with respect to the yield from a fishery, means the amount of fish which—
 
-    (A) will provide the greatest overall benefit to the Nation, particularly with respect to food production and recreational opportunities, and taking into account the protection of marine ecosystems;
+  (A) will provide the greatest overall benefit to the Nation, particularly with respect to food production and recreational opportunities, and taking into account the protection of marine ecosystems;
 
-    (B) is prescribed on the basis of the maximum sustainable yield from the fishery, as reduced by any relevant social, economic, or ecological factor; and
+  (B) is prescribed on the basis of the maximum sustainable yield from the fishery, as reduced by any relevant social, economic, or ecological factor; and
 
-    (C) in the case of an overfished fishery, provides for rebuilding to a level consistent with producing the maximum sustainable yield in such fishery.
+  (C) in the case of an overfished fishery, provides for rebuilding to a level consistent with producing the maximum sustainable yield in such fishery.
 
-  (34) The terms “overfishing” and “overfished” mean a rate or level of fishing mortality that jeopardizes the capacity of a fishery to produce the maximum sustainable yield on a continuing basis.
+(34) The terms “overfishing” and “overfished” mean a rate or level of fishing mortality that jeopardizes the capacity of a fishery to produce the maximum sustainable yield on a continuing basis.
 
-  (35) The term “Pacific Insular Area” means American Samoa, Guam, the Northern Mariana Islands, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, Wake Island, or Palmyra Atoll, as applicable, and includes all islands and reefs appurtenant to such island, reef, or atoll.
+(35) The term “Pacific Insular Area” means American Samoa, Guam, the Northern Mariana Islands, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, Wake Island, or Palmyra Atoll, as applicable, and includes all islands and reefs appurtenant to such island, reef, or atoll.
 
-  (36) The term “person” means any individual (whether or not a citizen or national of the United States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State), and any Federal, State, local, or foreign government or any entity of any such government.
+(36) The term “person” means any individual (whether or not a citizen or national of the United States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State), and any Federal, State, local, or foreign government or any entity of any such government.
 
-  (37) The term “recreational fishing” means fishing for sport or pleasure.
+(37) The term “recreational fishing” means fishing for sport or pleasure.
 
-  (38) The term “regulatory discards” means fish harvested in a fishery which fishermen are required by regulation to discard whenever caught, or are required by regulation to retain but not sell.
+(38) The term “regulatory discards” means fish harvested in a fishery which fishermen are required by regulation to discard whenever caught, or are required by regulation to retain but not sell.
 
-  (39) The term “Secretary” means the Secretary of Commerce or his designee.
+(39) The term “Secretary” means the Secretary of Commerce or his designee.
 
-  (40) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and any other Commonwealth, territory, or possession of the United States.
+(40) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and any other Commonwealth, territory, or possession of the United States.
 
-  (41) 11 See Codification note below. The term “special areas” means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990. In particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
+(41) 11 See Codification note below. The term “special areas” means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990. In particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
 
-  (42) The term “stock of fish” means a species, subspecies, geographical grouping, or other category of fish capable of management as a unit.
+(42) The term “stock of fish” means a species, subspecies, geographical grouping, or other category of fish capable of management as a unit.
 
-  (43) The term “treaty” means any international fishery agreement which is a treaty within the meaning of section 2 of article II of the Constitution.
+(43) The term “treaty” means any international fishery agreement which is a treaty within the meaning of section 2 of article II of the Constitution.
 
-  (44) The term “tuna species” means the following:Albacore Tuna—Thunnus alalunga; Bigeye Tuna—Thunnus obesus; Bluefin Tuna—Thunnus thynnus; Skipjack Tuna—Katsuwonus pelamis; and Yellowfin Tuna—Thunnus albacares.
+(44) The term “tuna species” means the following:Albacore Tuna—Thunnus alalunga; Bigeye Tuna—Thunnus obesus; Bluefin Tuna—Thunnus thynnus; Skipjack Tuna—Katsuwonus pelamis; and Yellowfin Tuna—Thunnus albacares.
 
-  (45) The term “United States”, when used in a geographical context, means all the States thereof.
+(45) The term “United States”, when used in a geographical context, means all the States thereof.
 
-  (46) The term “United States fish processors” means facilities located within the United States for, and vessels of the United States used or equipped for, the processing of fish for commercial use or consumption.
+(46) The term “United States fish processors” means facilities located within the United States for, and vessels of the United States used or equipped for, the processing of fish for commercial use or consumption.
 
-  (47) The term “United States harvested fish” means fish caught, taken, or harvested by vessels of the United States within any fishery regulated under this chapter.
+(47) The term “United States harvested fish” means fish caught, taken, or harvested by vessels of the United States within any fishery regulated under this chapter.
 
-  (48) The term “vessel of the United States” means—
+(48) The term “vessel of the United States” means—
 
-    (A) any vessel documented under chapter 121 of title 46;
+  (A) any vessel documented under chapter 121 of title 46;
 
-    (B) any vessel numbered in accordance with chapter 123 of title 46 and measuring less than 5 net tons;
+  (B) any vessel numbered in accordance with chapter 123 of title 46 and measuring less than 5 net tons;
 
-    (C) any vessel numbered in accordance with chapter 123 of title 46 and used exclusively for pleasure; or
+  (C) any vessel numbered in accordance with chapter 123 of title 46 and used exclusively for pleasure; or
 
-    (D) any vessel not equipped with propulsion machinery of any kind and used exclusively for pleasure.
+  (D) any vessel not equipped with propulsion machinery of any kind and used exclusively for pleasure.
 
-  (49) The term “vessel subject to the jurisdiction of the United States” has the same meaning such term has in [section 70502(c) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70502/c&num=0&edition=prelim).
+(49) The term “vessel subject to the jurisdiction of the United States” has the same meaning such term has in [section 70502(c) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70502/c&num=0&edition=prelim).
 
-  (50) The term “waters of a foreign nation” means any part of the territorial sea or exclusive economic zone (or the equivalent) of a foreign nation, to the extent such territorial sea or exclusive economic zone is recognized by the United States.
+(50) The term “waters of a foreign nation” means any part of the territorial sea or exclusive economic zone (or the equivalent) of a foreign nation, to the extent such territorial sea or exclusive economic zone is recognized by the United States.
 
 ### Statutory Notes
 
@@ -2291,7 +2327,7 @@ Pub. L. 112–183, § 2, Oct. 5, 2012, 126 Stat. 1422, provided that: “Congres
 Section was enacted as part of the Coast Guard and Maritime Transportation Act of 2006, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Combination of Fisheries Enforcement Plans and Foreign Fishing Incursion Reports
-Pub. L. 111–207, § 4(b), July 27, 2010, 124 Stat. 2251, provided that: “The Secretary of the department in which the Coast Guard is operating shall combine the reports required under section 224 of the Coast Guard and Maritime Transportation Act of 2004 ([16 U.S.C. 1861b](./chapter-038-fishery-conservation-and-management.md#section-1861b)) and section 804 of the Coast Guard and Maritime Transportation Act of 2006 ([16 U.S.C. 1828](./chapter-038-fishery-conservation-and-management.md#section-1828)) into a single annual report for fiscal years beginning after fiscal year 2010.”
+Pub. L. 111–207, § 4(b), July 27, 2010, 124 Stat. 2251, as amended by Pub. L. 113–281, title II, § 221(a)(5), Dec. 18, 2014, 128 Stat. 3037, provided that: “The Secretary of the department in which the Coast Guard is operating shall combine the reports required under section 224 of the Coast Guard and Maritime Transportation Act of 2004 ([16 U.S.C. 1861b](./chapter-038-fishery-conservation-and-management.md#section-1861b)) and section 804 of the Coast Guard and Maritime Transportation Act of 2006 ([16 U.S.C. 1828](./chapter-038-fishery-conservation-and-management.md#section-1828)) into a single annual report for fiscal years beginning after fiscal year 2010. No report shall be required under this subsection, including that no report shall be required under section 224 of the Coast Guard and Maritime Transportation Act of 2004 or section 804 of the Coast Guard and Maritime Transportation Act of 2006, for fiscal years beginning after fiscal year 2014.”
 
 
 <a id="section-1829"></a>
@@ -2731,6 +2767,8 @@ Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, f
 ### Statutory Notes
 
 #### References in Text
+The General Schedule, referred to in subsec. (d), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
+
 This chapter, referred to in subsecs. (f)(2), (6), (g)(2), (h), (k)(1)(E), and (l), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 Section 515 of the Treasury and General Government Appropriations Act for Fiscal year 2001, referred to in subsec. (g)(1)(E), is section 1(a)(3) [title V, § 515] of Pub. L. 106–554, which is set out as a note under [section 3516 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3516&num=0&edition=prelim), Public Printing and Documents.
@@ -3203,7 +3241,7 @@ Pub. L. 99–659, title I, § 105(a)(2), Nov. 14, 1986, 100 Stat. 3711, provided
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Exceptions to Subsection (d)(1) and Section 1883 Plan Restrictions
-Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: “Notwithstanding sections 303(d)(1)(A) and 303(d)(1)(B) of the Magnuson-Stevens Fishery Conservation and Management Act [[16 U.S.C. 1853(d)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1853/d/1/A&num=0&edition=prelim), (B)], as amended by this section, the Pacific Fishery Management Council may recommend and the Secretary of Commerce may approve and implement any fishery management plan, plan amendment, or regulation, for fixed gear sablefish subject to the jurisdiction of such Council, that— “(1) allows the use of more than one groundfish fishing permit by each fishing vessel; and/or “(2) sets cumulative trip limit periods, up to 12 months in any calendar year, that allow fishing vessels a reasonable opportunity to harvest the full amount of the associated trip limits. Notwithstanding subsection (a) [amending this section and [section 1883 of this title](./chapter-038-fishery-conservation-and-management.md#section-1883)], the Gulf of Mexico Fishery Management Council may develop a biological, economic, and social profile of any fishery under its jurisdiction that may be considered for management under a quota management system, including the benefits and consequences of the quota management systems considered. The North Pacific Fishery Management Council shall examine the fisheries under its jurisdiction, particularly the Gulf of Alaska groundfish and Bering Sea crab fisheries, to determine whether rationalization is needed. In particular, the North Pacific Council shall analyze individual fishing quotas, processor quotas, cooperatives, and quotas held by communities. The analysis should include an economic analysis of the impact of all options on communities and processors as well as the fishing fleets. The North Pacific Council shall present its analysis to the appropriations and authorizing committees of the Senate and House of Representatives in a timely manner.”
+Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: “Notwithstanding sections 303(d)(1)(A) and 303(d)(1)(B) of the Magnuson-Stevens Fishery Conservation and Management Act [[16 U.S.C. 1853(d)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1853/d/1/A&num=0&edition=prelim), (B)], as amended by this section, the Pacific Fishery Management Council may recommend and the Secretary of Commerce may approve and implement any fishery management plan, plan amendment, or regulation, for fixed gear sablefish subject to the jurisdiction of such Council, that—“(1) allows the use of more than one groundfish fishing permit by each fishing vessel; and/or “(2) sets cumulative trip limit periods, up to 12 months in any calendar year, that allow fishing vessels a reasonable opportunity to harvest the full amount of the associated trip limits. Notwithstanding subsection (a) [amending this section and [section 1883 of this title](./chapter-038-fishery-conservation-and-management.md#section-1883)], the Gulf of Mexico Fishery Management Council may develop a biological, economic, and social profile of any fishery under its jurisdiction that may be considered for management under a quota management system, including the benefits and consequences of the quota management systems considered. The North Pacific Fishery Management Council shall examine the fisheries under its jurisdiction, particularly the Gulf of Alaska groundfish and Bering Sea crab fisheries, to determine whether rationalization is needed. In particular, the North Pacific Council shall analyze individual fishing quotas, processor quotas, cooperatives, and quotas held by communities. The analysis should include an economic analysis of the impact of all options on communities and processors as well as the fishing fleets. The North Pacific Council shall present its analysis to the appropriations and authorizing committees of the Senate and House of Representatives in a timely manner.”
 
 #### Implementation of Amendments to Plans Required by Section 108(a) of Pub. L. 104–297
 Pub. L. 104–297, title I, § 108(b), Oct. 11, 1996, 110 Stat. 3575, provided that: “Not later than 24 months after the date of enactment of this Act [Oct. 11, 1996], each Regional Fishery Management Council shall submit to the Secretary of Commerce amendments to each fishery management plan under its authority to comply with the amendments made in subsection (a) of this section [amending this section].”
@@ -3795,7 +3833,7 @@ Pub. L. 104–297, title I, § 109(h), Oct. 11, 1996, 110 Stat. 3586, as amended
 Pub. L. 104–297, title I, § 109(j), Oct. 11, 1996, 110 Stat. 3587, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Section 304(h) of the Magnuson-Stevens Fishery Conservation and Management Act [[16 U.S.C. 1854(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1854/h&num=0&edition=prelim)], as amended by this Act, shall not apply to the American Lobster Fishery Management Plan.”
 
 #### Interim Management of Highly Migratory Species Fisheries
-Pub. L. 101–627, title I, § 108(k), Nov. 28, 1990, 104 Stat. 4447, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding the amendments made by subsections (a) and (g) [amending [section 1852 of this title](./chapter-038-fishery-conservation-and-management.md#section-1852)], any fishery management plan or amendment which— “(1) addresses a highly migratory species fishery to which section 304(f)(3) of the Magnuson-Stevens Fishery Conservation and Management Act [former [16 U.S.C. 1854(f)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1854/f/3&num=0&edition=prelim)] (as amended by this Act) applies, “(2) was prepared by one or more Regional Fishery Management Councils, and “(3) was in force and effect on January 1, 1990, shall remain in force and effect until superseded by a fishery management plan prepared by the Secretary, and regulations implementing that plan.”
+Pub. L. 101–627, title I, § 108(k), Nov. 28, 1990, 104 Stat. 4447, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding the amendments made by subsections (a) and (g) [amending [section 1852 of this title](./chapter-038-fishery-conservation-and-management.md#section-1852)], any fishery management plan or amendment which—“(1) addresses a highly migratory species fishery to which section 304(f)(3) of the Magnuson-Stevens Fishery Conservation and Management Act [former [16 U.S.C. 1854(f)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1854/f/3&num=0&edition=prelim)] (as amended by this Act) applies, “(2) was prepared by one or more Regional Fishery Management Councils, and “(3) was in force and effect on January 1, 1990, shall remain in force and effect until superseded by a fishery management plan prepared by the Secretary, and regulations implementing that plan.”
 
 
 <a id="section-1855"></a>

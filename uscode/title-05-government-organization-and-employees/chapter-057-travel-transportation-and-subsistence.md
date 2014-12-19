@@ -85,7 +85,7 @@ Pub. L. 104–201, div. A, title XVII, § 1701, Sept. 23, 1996, 110 Stat. 2752, 
 Pub. L. 99–234, § 1, Jan. 2, 1986, 99 Stat. 1756, provided that: “This Act [enacting sections 5706a and 5734 of this title and [section 420 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section420&num=0&edition=prelim), Public Contracts, amending this section, sections 5702, 5707, and 5724a of this title, [section 476 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section476&num=0&edition=prelim), The Congress, [section 2396 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2396&num=0&edition=prelim), Foreign Relations and Intercourse, [section 4941 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4941&num=0&edition=prelim), Internal Revenue Code, [section 456 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section456&num=0&edition=prelim), Judiciary and Judicial Procedure, [section 326 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section326&num=0&edition=prelim), Money and Finance, and [section 2477 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2477&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as notes under this section and [section 420 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section420&num=0&edition=prelim)] may be cited as the ‘Federal Civilian Employee and Contractor Travel Expenses Act of 1985’.”
 
 #### Short Title of 1975 Amendment
-Pub. L. 94–22, § 1, May 19, 1975, 89 Stat. 84, provided: “That this Act [amending this section, sections 5702, 5703, 5704, 5705, and 5707 of this title, and [section 68b of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section68b&num=0&edition=prelim), The Congress, and enacting provisions set out as a note under [section 5707 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5707)] may be cited as the “Travel Expense Amendments Act of 1975’.”
+Pub. L. 94–22, § 1, May 19, 1975, 89 Stat. 84, provided: “That this Act [see Tables for classification] may be cited as the ‘Travel Expense Amendments Act of 1975’.”
 
 #### Construction
 Pub. L. 112–194, § 6, Oct. 5, 2012, 126 Stat. 1451, provided that: “(a) Executive Agency Accounting.—Nothing in this Act [see Short Title of 2012 Amendment note set out under [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim), Public Contracts], or the amendments made by this Act, shall be construed to excuse the head of an executive agency from the responsibilities set out in [section 3512 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3512&num=0&edition=prelim), United States Code, or in the Improper Payments Information Act of 2002 [Pub. L. 107–300] ([31 U.S.C. 3321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3321&num=0&edition=prelim) note). “(b) Personal Information.—Nothing in this Act, or the amendments made by this Act, shall be construed to require the disclosure of personally identifying information that is otherwise protected from disclosure under [section 552a of title 5](./chapter-005-administrative-procedure.md#section-552a), United States Code (popularly known as the Privacy Act of 1974).”
@@ -289,7 +289,7 @@ Subsec. (d). Pub. L. 91–114 in cl. (1) increased amount authorized to be named
 ## § 5704. Mileage and related allowances
 **(a)**
 
-(1) Under regulations prescribed under [section 5707 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5707), an employee who is engaged on official business for the Government is entitled to a rate per mile established by the Administrator of General Services, instead of the actual expenses of transportation, for the use of a privately owned automobile when that mode of transportation is authorized or approved as more advantageous to the Government. In any year in which the Internal Revenue Service establishes a single standard mileage rate for optional use by taxpayers in computing the deductible costs of operating their automobiles for business purposes, the rate per mile established by the Administrator shall not exceed the single standard mileage rate established by the Internal Revenue Service.
+(1) Under regulations prescribed under [section 5707 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5707), an employee who is engaged on official business for the Government is entitled to a rate per mile established by the Administrator of General Services, instead of the actual expenses of transportation, for the use of a privately owned automobile when that mode of transportation is authorized or approved as more advantageous to the Government. In any year in which the Internal Revenue Service establishes a single standard mileage rate for optional use by taxpayers in computing the deductible costs of operating their automobiles for business purposes, the rate per mile shall be the single standard mileage rate established by the Internal Revenue Service.
 
 (2) Under regulations prescribed under [section 5707 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5707), an employee who is engaged on official business for the Government is entitled to a rate per mile established by the Administrator of General Services, instead of the actual expenses of transportation, for the use of a privately owned airplane or a privately owned motorcycle when that mode of transportation is authorized or approved as more advantageous to the Government.
 
@@ -322,6 +322,8 @@ In subsection (a), the words “Under regulations prescribed under [section 5707
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–291, in last sentence, substituted “the rate per mile shall be the single standard mileage rate established by the Internal Revenue Service” for “the rate per mile established by the Administrator shall not exceed the single standard mileage rate established by the Internal Revenue Service”.
+
 1994—Pub. L. 103–329 amended text generally. Prior to amendment, text read as follows:
 
 “(a) Under regulations prescribed under [section 5707 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5707), an employee who is engaged on official business for the Government is entitled to not in excess of—
@@ -448,7 +450,7 @@ Pub. L. 105–264, § 4(c), Oct. 19, 1998, 112 Stat. 2354, provided that: “Thi
 
 (1)
 
-  (A) The Administrator of General Services, in consultation with the Secretary of Transportation, the Secretary of Defense, and representatives of organizations of employees of the Government, shall conduct periodic investigations of the cost of travel and the operation of privately owned vehicles to employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.
+  (A) The Administrator of General Services shall conduct periodic investigations of the cost of travel and the operation of privately owned airplanes and privately owned motorcycles by employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.
 
   (B) In conducting the periodic investigations, the Administrator shall review and analyze among other factors—
 
@@ -466,7 +468,7 @@ Pub. L. 105–264, § 4(c), Oct. 19, 1998, 112 Stat. 2354, provided that: “Thi
 
   (A) The Administrator shall issue regulations under this section which—
 
-    (i) shall prescribe a mileage reimbursement rate which reflects the current costs as determined by the Administrator of operating privately owned automobiles, and which shall not exceed, as provided in [section 5704(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5704/a/1&num=0&edition=prelim), the single standard mileage rate established by the Internal Revenue Service, and
+    (i) shall provide that the mileage reimbursement rate for privately owned automobiles, as provided in section 5704(a)(1), is the single standard mileage rate established by the Internal Revenue Service referred to in that section, and
 
     (ii) shall prescribe mileage reimbursement rates which reflect the current costs as determined by the Administrator of operating privately owned airplanes and motorcycles.
 
@@ -490,6 +492,10 @@ The first sentence is based in part on former sections 73b–2, 836, and 837, wh
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2014—Subsec. (b)(1)(A). Pub. L. 113–291, § 915(b)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “The Administrator of General Services, in consultation with the Secretary of Transportation, the Secretary of Defense, and representatives of organizations of employees of the Government, shall conduct periodic investigations of the cost of travel and the operation of privately owned vehicles to employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.”
+
+Subsec. (b)(2)(A)(i). Pub. L. 113–291, § 915(b)(2), amended cl. (i) generally. Prior to amendment, text read as follows: “shall prescribe a mileage reimbursement rate which reflects the current costs as determined by the Administrator of operating privately owned automobiles, and which shall not exceed, as provided in [section 5704(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5704/a/1&num=0&edition=prelim), the single standard mileage rate established by the Internal Revenue Service, and”.
+
 1996—Subsec. (b)(1)(A). Pub. L. 104–316 struck out “the Comptroller General of the United States,” after “in consultation with”.
 
 Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which provided that agencies ensure that their approved accommodation percentages be not less than specified percentages for fiscal years beginning 4 and 5 years after Sept. 25, 1990, and that their percentages be not less than 90 percent for fiscal years beginning 6 years after Sept. 25, 1990, and thereafter.
@@ -757,7 +763,7 @@ For the purpose of this subchapter—
 
   (G) the Architect of the Capitol;
 
-  (H) the Government Printing Office; and
+  (H) the Government Publishing Office; and
 
   (I) the government of the District of Columbia;
   but does not include a Government controlled corporation;
@@ -792,6 +798,9 @@ The Foreign Service Act of 1980, referred to in par. (7), is Pub. L. 96–465, O
 1998—Pars. (6), (7). Pub. L. 105–264 added pars. (6) and (7).
 
 1982—Par. (5). Pub. L. 97–258 substituted “section 9104” for “section 849”.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in par. (1)(H) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 
 <a id="section-5722"></a>
@@ -2281,8 +2290,8 @@ Section effective on such date as the President shall determine, but not earlier
 Section effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under [section 5722 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5722).
 
 
-<a id="section-5757"></a>
-## § 5757. 11 Another section 5757 is set out after this section. Payment of expenses to obtain professional credentials
+<a id="section-5757-1"></a>
+## § 5757.1. Payment of expenses to obtain professional credentials
 **(a)** An agency may use appropriated funds or funds otherwise available to the agency to pay for—
 
 (1) expenses for employees to obtain professional credentials, including expenses for professional accreditation, State-imposed and professional licenses, and professional certification; and
@@ -2292,8 +2301,8 @@ Section effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 
 **(b)** The authority under subsection (a) may not be exercised on behalf of any employee occupying or seeking to qualify for appointment to any position that is excepted from the competitive service because of the confidential, policy-determining, policy-making, or policy-advocating character of the position.
 
 
-<a id="section-5757"></a>
-## § 5757. 11 Another section 5757 is set out preceding this section. Extended assignment incentive
+<a id="section-5757-1"></a>
+## § 5757.1. Extended assignment incentive
 **(a)** The head of an Executive agency may pay an extended assignment incentive to an employee if—
 
 (1) the employee has completed at least 2 years of continuous service in 1 or more civil service positions located in a territory or possession of the United States, the Commonwealth of Puerto Rico, or the Commonwealth of the Northern Mariana Islands;
@@ -2331,8 +2340,8 @@ Section effective on the first day of the first applicable pay period beginning 
 Pub. L. 107–273, div. A, title II, § 207(d), Nov. 2, 2002, 116 Stat. 1780, provided that: “No later than 3 years after the effective date of this section [see Effective Date note above], the Office of Personnel Management, after consultation with affected agencies, shall submit a report to Congress assessing the effectiveness of the extended assignment incentive authority as a human resources management tool and making recommendations for any changes necessary to improve the effectiveness of the incentive authority. Each agency shall maintain such records and report such information, including the number and size of incentive offers made and accepted or declined by geographic location and occupation, in such format and at such times as the Office of Personnel Management may prescribe, for use in preparing the report.”
 
 
-<a id="section-5759"></a>
-## § 5759. 11 So in original. No section 5758 has been enacted. Retention and relocation bonuses for the Federal Bureau of Investigation
+<a id="section-5759-1"></a>
+## § 5759.1. Retention and relocation bonuses for the Federal Bureau of Investigation
 **(a) Authority.—** The Director of the Federal Bureau of Investigation, after consultation with the Director of the Office of Personnel Management, may pay, on a case-by-case basis, a bonus under this section to an employee of the Bureau if—
 
 (1)

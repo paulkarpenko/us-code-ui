@@ -270,9 +270,17 @@ Pub. L. 98–94, title X, § 1002(b), (c), Sept. 24, 1983, 97 Stat. 655, 656, pr
 
 (2) Amounts received in payment for a recording distributed to the public under this subsection shall be credited to the appropriation or account providing the funds for the production of the recording. Any amount so credited shall be merged with amounts in the appropriation or account to which credited, and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such appropriation or account.
 
-**(d) Performances at Foreign Locations.—** Subsection (a) does not apply to a performance outside the United States, its commonwealths, or its possessions.
+**(d) Private Donations.—**
 
-**(e) Military Musical Unit Defined.—** In this section, the term “military musical unit” means a band, ensemble, chorus, or similar musical unit of the armed forces.
+(1) The Secretary concerned may accept contributions of money, personal property, or services on the condition that such money, property, or services be used for the benefit of a military musical unit under the jurisdiction of the Secretary.
+
+(2) Any contribution of money under paragraph (1) shall be credited to the appropriation or account providing the funds for such military musical unit. Any amount so credited shall be merged with amounts in the appropriation or account to which credited, and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such appropriation or account.
+
+(3) Not later than January 30 of each year, the Secretary concerned shall submit to Congress a report on any contributions of money, personal property, and services accepted under paragraph (1) during the fiscal year preceding the fiscal year during which the report is submitted.
+
+**(e) Performances at Foreign Locations.—** Subsection (a) does not apply to a performance outside the United States, its commonwealths, or its possessions.
+
+**(f) Military Musical Unit Defined.—** In this section, the term “military musical unit” means a band, ensemble, chorus, or similar musical unit of the armed forces.
 
 ### Statutory Notes
 
@@ -280,6 +288,8 @@ Pub. L. 98–94, title X, § 1002(b), (c), Sept. 24, 1983, 97 Stat. 655, 656, pr
 A prior section 974, added Pub. L. 90–235, § 6(a)(6)(A), Jan. 2, 1968, 81 Stat. 762; amended Pub. L. 101–510, div. A, title III, § 327(e), Nov. 5, 1990, 104 Stat. 1532, related to civilian employment by enlisted members, prior to repeal by Pub. L. 105–261, div. A, title V, § 569(a), Oct. 17, 1998, 112 Stat. 2032.
 
 #### Amendments
+2013—Subsecs. (d) to (f). Pub. L. 113–66 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
 2009—Pub. L. 111–84 amended section generally. Prior to amendment, section related to uniform performance policies for military bands and other musical units.
 
 
@@ -581,6 +591,12 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 **(b)** Not more than 300 enlisted members may be assigned to duty at any time as enlisted aides for officers of the Army, Navy, Air Force, and Marine Corps.
 
+**(c)** Not later than March 1 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report—
+
+(1) specifying the number of enlisted aides authorized and allocated for general officers and flag officers of the Army, Navy, Air Force, Marine Corps, and joint pool as of September 30 of the previous year; and
+
+(2) justifying, on a billet-by-billet basis, the authorization and assignment of each enlisted aide to each general officer and flag officer position.
+
 ### Statutory Notes
 
 #### Prior Provisions
@@ -609,6 +625,9 @@ Pub. L. 94–419, title VII, § 748, Sept. 22, 1976, 90 Stat. 1299.
 Pub. L. 94–212, title VII, § 745, Feb. 9, 1976, 90 Stat. 175.
 
 Pub. L. 93–437, title VIII, § 848, Oct. 8, 1974, 88 Stat. 1232.
+
+#### Amendments
+2014—Subsec. (c). Pub. L. 113–291 added subsec. (c).
 
 #### Effective Date
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under [section 520b of this title](./chapter-031-enlistments.md#section-520b).
@@ -824,9 +843,9 @@ Pub. L. 110–181, div. A, title X, § 1072(b)(3), Jan. 28, 2008, 122 Stat. 330,
 
 (2) **Different treatment under state law of members and dependents prohibited.—** — States shall not—
 
-  (A) authorize creditors to charge covered members and their dependents annual percentage rates of interest for loans higher than the legal limit for residents of the State; or
+  (A) authorize creditors to charge covered members and their dependents annual percentage rates of interest for any consumer credit or loans higher than the legal limit for residents of the State; or
 
-  (B) permit violation or waiver of any State consumer lending protections for the benefit of residents of the State on the basis of nonresident or military status of a covered member or dependent of such a member, regardless of the member’s or dependent’s domicile or permanent home of record.
+  (B) permit violation or waiver of any State consumer lending protections covering consumer credit for the benefit of residents of the State on the basis of nonresident or military status of a covered member or dependent of such a member, regardless of the member’s or dependent’s domicile or permanent home of record.
 
 **(e) Limitations.—** It shall be unlawful for any creditor to extend consumer credit to a covered member or a dependent of such a member with respect to which—
 
@@ -942,15 +961,6 @@ Pub. L. 110–181, div. A, title X, § 1072(b)(3), Jan. 28, 2008, 122 Stat. 330,
 
 ### Statutory Notes
 
-#### Amendment of Subsection (d)(2)
-Pub. L. 112–239, div. A, title VI, § 661(a), (c), Jan. 2, 2013, 126 Stat. 1785, provided that, one year after Jan. 2, 2013, or such earlier date as the Secretary of Defense shall specify in the modification of regulations required by § 661(c)(1) of Pub. L. 112–239, subsection (d)(2) of this section is amended—
-
-(1) in subparagraph (A), by inserting “any consumer credit or” before “loans”; and
-
-(2) in subparagraph (B), by inserting “covering consumer credit” after “State consumer lending protections”.
-
-See 2011 Amendment notes below.
-
 #### References in Text
 The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
@@ -969,7 +979,7 @@ Subsec. (h)(3)(E). Pub. L. 112–239, § 661(b)(2), added subpar. (E) and struck
 
 Subsec. (i)(2). Pub. L. 112–239, § 663, amended par. (2) generally. Prior to amendment, par. (2) defined the term “dependent”.
 
-#### Effective Date of 2013 Amendments
+#### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title VI, § 661(c), Jan. 2, 2013, 126 Stat. 1785, provided that: “(1) Modification of regulations.—The Secretary of Defense shall modify the regulations prescribed under subsection (h) of [section 987 of title 10](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-987), United States Code, to take into account the amendments made by subsection (a) [amending this section]. “(2) Effective date.—The amendments made by subsection (a) shall take effect on—“(A) the date that is one year after the date of the enactment of this Act [Jan. 2, 2013]; or “(B) such earlier date as the Secretary shall specify in the modification of regulations required by paragraph (1). “(3) Publication of earlier date.—If the Secretary specifies an earlier effective date for the amendments made by subsection (a) pursuant to paragraph (2)(B), the Secretary shall publish notice of such earlier effective date in the Federal Register not later than 90 days before such earlier effective date.”
 
 Pub. L. 112–239, div. A, title VI, § 662(c), Jan. 2, 2013, 126 Stat. 1786, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to consumer credit extended on or after the date of the enactment of this Act [Jan. 2, 2013].”

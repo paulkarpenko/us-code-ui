@@ -793,15 +793,32 @@ Pub. L. 87–420, § 1, Mar. 20, 1962, 76 Stat. 35, provided: “That this Act [
 
 ### Statutory Notes
 
-#### References in Text
-The Job Training Partnership Act, referred to in text, is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
+#### Amendment of Section
+Pub. L. 113–128, title V, §§ 506, 512(ee), July 22, 2014, 128 Stat. 1703, 1718, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
 
-The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+(1) in subsection (a), by striking “Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” and inserting “Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998”;
+
+(2) in subsection (b), by striking “a contract of employment in connection with a financial assistance agreement or contract under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” and inserting “a contract of employment in connection with a financial assistance agreement or contract under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998”; and
+
+(3) in subsection (c), by striking “Whoever willfully obstructs or impedes or willfully endeavors to obstruct or impede, an investigation or inquiry under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,” and inserting “Whoever willfully obstructs or impedes or willfully endeavors to obstruct or impede, an investigation or inquiry under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998,”.
+
+See 2014 Amendment notes below.
+
+#### References in Text
+The Job Training Partnership Act, referred to in text, is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
+
+The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
 
 #### Codification
 Section 711(a) of Pub. L. 93–203, cited as a credit to this section, was omitted in the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–128, § 512(ee)(1), substituted “Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998” for “Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998”.
+
+Subsec. (b). Pub. L. 113–128, § 512(ee)(2), substituted “a contract of employment in connection with a financial assistance agreement or contract under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998” for “a contract of employment in connection with a financial assistance agreement or contract under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998”.
+
+Subsec. (c). Pub. L. 113–128, § 512(ee)(3), substituted “Whoever willfully obstructs or impedes or willfully endeavors to obstruct or impede, an investigation or inquiry under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998,” for “Whoever willfully obstructs or impedes or willfully endeavors to obstruct or impede, an investigation or inquiry under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,”.
+
 2002—Subsec. (c). Pub. L. 107–273 substituted “a fine under this title” for “a fine of not more than $5,000”.
 
 1998—Subsecs. (a) to (c). Pub. L. 105–277 substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act or the Job Training Partnership Act”.
@@ -827,6 +844,9 @@ Subsec. (a). Pub. L. 95–524 substituted “Comprehensive Employment and Traini
 Subsec. (b). Pub. L. 95–524 substituted “Comprehensive Employment and Training Act” for “Comprehensive Employment and Training Act of 1973”.
 
 Subsec. (c). Pub. L. 95–524 added subsec. (c).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-666"></a>

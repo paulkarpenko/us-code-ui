@@ -236,7 +236,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 1–704. This order is effective October 1, 1980.
 
 #### Executive Order No. 12566
-Ex. Ord. No. 12566, Sept. 26, 1986, 51 F.R. 34575, which related to safety belt use by Federal employees, was revoked by Ex. Ord. No. 13043, § 6, Apr. 16, 1997, 62 F.R. 19218, set out as a note under [section 402 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section402&num=0&edition=prelim), Highways.
+Ex. Ord. No. 12566, Sept. 26, 1986, 51 F.R. 34575, which related to safety belt use by Federal employees, was revoked by Ex. Ord. No. 13043, § 5, formerly § 6, Apr. 16, 1997, 62 F.R. 19218, as renumbered by Ex. Ord. No. 13652, § 5, Sept. 30, 2013, 78 F.R. 61818, set out as a note under [section 402 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section402&num=0&edition=prelim), Highways.
 
 #### Extension of Term of Federal Advisory Council on Occupational Safety and Health
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Dec. 31, 1978, by Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
@@ -275,7 +275,9 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 #### The Presidential POWER Initiative: Protecting Our Workers and Ensuring Reemployment
 Memorandum of President of the United States, July 19, 2010, 75 F.R. 43029, provided:
@@ -356,7 +358,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
   (C) the judicial branch;
 
-(3) the term “entity of the legislative branch” means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the Government Printing Office, the Library of Congress, and the Office of Technology Assessment; and
+(3) the term “entity of the legislative branch” means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the Government Publishing Office, the Library of Congress, and the Office of Technology Assessment; and
 
 (4) the term “transit pass” means a transit pass as defined by section 132(f)(5) of the Internal Revenue Code of 1986.
 
@@ -405,6 +407,9 @@ Section 132(f)(5) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 #### Amendments
 2002—Subsec. (a)(1). Pub. L. 107–296 substituted “, a member of a uniformed service, and a student who provides voluntary services under section 3111” for “and a member of a uniformed service”.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (a)(3) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.

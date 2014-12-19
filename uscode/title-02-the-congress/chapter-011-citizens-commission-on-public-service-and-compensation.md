@@ -125,12 +125,13 @@ The Commission shall conduct, in each of the respective fiscal years referred to
 
 (D) offices and positions under the Executive Schedule in subchapter II of chapter 53 of title 5; and
 
-(E) the Governors of the Board of Governors of the United States Postal Service appointed under [section 202 of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section202&num=0&edition=prelim). Such review by the Commission shall be made for the purpose of determining and providing—
+(E) the Governors of the Board of Governors of the United States Postal Service appointed under [section 202 of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section202&num=0&edition=prelim).
+Such review by the Commission shall be made for the purpose of determining and providing—
 
-  (i) the appropriate pay levels and relationships between and among the respective offices and positions covered by such review, and
+(i) the appropriate pay levels and relationships between and among the respective offices and positions covered by such review, and
 
-  (ii) the appropriate pay relationships between such offices and positions and the offices and positions subject to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates.
-  In reviewing the rates of pay of the offices or positions referred to in subparagraph (D) of this section, the Commission shall determine and consider the appropriateness of the executive levels of such offices and positions.
+(ii) the appropriate pay relationships between such offices and positions and the offices and positions subject to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates.
+In reviewing the rates of pay of the offices or positions referred to in subparagraph (D) of this section, the Commission shall determine and consider the appropriateness of the executive levels of such offices and positions.
 
 ### Statutory Notes
 
@@ -172,7 +173,7 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service.
 
 #### Effective Rates of Pay Pending Changes in Rates Pursuant to Federal Salary Act of 1967
-Pub. L. 94–82, title II, § 206(b), Aug. 9, 1975, 89 Stat. 423, provided that: “Until such time as a change in the rate of pay of the offices referred to in the amendment made by subsection (a) of this section [amending par. (A) of this section] occurs under the provisions of the Federal Salary Act of 1967 ([2 U.S.C. 351–361](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section351–361&num=0&edition=prelim)), as amended by subsection (a) of this section, such rates of pay shall be the rates of pay in effect immediately prior to the date of enactment of this Act [Aug. 9, 1975], as adjusted under sections 203 and 204 of this title [amending sections 31, 60a note, 136a and 136a–1 of this title, [section 104 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), The President, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and [section 303 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section303&num=0&edition=prelim), Public Printing and Documents].”
+Pub. L. 94–82, title II, § 206(b), Aug. 9, 1975, 89 Stat. 423, provided that: “Until such time as a change in the rate of pay of the offices referred to in the amendment made by subsection (a) of this section [amending par. (A) of this section] occurs under the provisions of the Federal Salary Act of 1967 ([2 U.S.C. 351–361](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section351–361&num=0&edition=prelim)), as amended by subsection (a) of this section, such rates of pay shall be the rates of pay in effect immediately prior to the date of enactment of this Act [Aug. 9, 1975], as adjusted under sections 203 and 204 of this title [amending sections 60a note, 136a, 136a–1, and 4501 of this title, [section 104 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), The President, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and [section 303 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section303&num=0&edition=prelim), Public Printing and Documents].”
 
 
 <a id="section-356a"></a>
@@ -265,7 +266,8 @@ Accordingly, pursuant to subparagraphs (A), (B), (C), and (D) of section 225(f) 
 | Court of International Trade | 135,000 |
 | Tax Court of the United States | 135,000 |
 | U.S. Claims Court | 135,000 |
-| Sincerely, |  |
+
+Sincerely,
 
 Ronald Reagan.
 

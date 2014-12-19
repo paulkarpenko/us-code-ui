@@ -115,7 +115,7 @@ As used in this chapter—
 
     (v) in the Library of Congress, or
 
-    (vi) the 11 So in original. Probably should be preceded by “in”. Government Printing Office;
+    (vi) the 11 So in original. Probably should be preceded by “in”. Government Publishing Office;
 
   (B) any individual employed by the United States Postal Service or the Postal Regulatory Commission; and
 
@@ -312,6 +312,9 @@ Subsec. (j). Act Oct. 26, 1949, § 3(b), inserted “closely related” before �
 Subsec. (l)(1). Act Oct. 26, 1949, § 3(c), included parental employment of a child under 16 years of age in an occupation found by the Secretary of Labor to be hazardous for children between the ages of 16 and 18 years, in definition of oppressive child labor.
 
 Subsecs. (n), (o). Act Oct. 26, 1949, § 3(d), added subsecs. (n) and (o).
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (e)(2)(A)(vi) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Construction of 1999 Amendment
 Pub. L. 106–151, § 2, Dec. 9, 1999, 113 Stat. 1731, provided that: “The amendment made by section 1 [amending this section] shall not be construed to reduce or substitute for compensation standards: (1) contained in any existing or future agreement or memorandum of understanding reached through collective bargaining by a bona fide representative of employees in accordance with the laws of a State or political subdivision of a State; and (2) which result in compensation greater than the compensation available to employees under the overtime exemption under section 7(k) of the Fair Labor Standards Act of 1938 [[29 U.S.C. 207(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section207/k&num=0&edition=prelim)].”
@@ -660,7 +663,7 @@ Functions relating to enforcement and administration of equal pay provisions ves
 Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
 #### Applicability of Minimum Wage to American Samoa and the Commonwealth of the Northern Mariana Islands
-Pub. L. 110–28, title VIII, § 8103(a), (b), May 25, 2007, 121 Stat. 188, 189, as amended by Pub. L. 111–117, div. D, title V, § 520, Dec. 16, 2009, 123 Stat. 3283; Pub. L. 111–244, § 2(a), Sept. 30, 2010, 124 Stat. 2618; Pub. L. 112–149, § 4(a), July 26, 2012, 126 Stat. 1145, provided that: “(a) In General.—Section 6 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206](./chapter-008-fair-labor-standards.md#section-206)) shall apply to American Samoa and the Commonwealth of the Northern Mariana Islands. “(b) Transition.—Notwithstanding subsection (a)—“(1) the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/1&num=0&edition=prelim)) shall be—“(A) $3.55 an hour, beginning on the 60th day after the date of enactment of this Act [May 25, 2007]; and “(B) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and each year thereafter until the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under this paragraph is equal to the minimum wage set forth in such section, except that, beginning in 2010 and each year thereafter (except 2011 when there shall be no increase), such increase shall occur on September 30; and “(2) the minimum wage applicable to American Samoa under section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/1&num=0&edition=prelim)) shall be—“(A) the applicable wage rate in effect for each industry and classification under [section 697 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section697&num=0&edition=prelim), Code of Federal Regulations, on the date of enactment of this Act; “(B) increased by $0.50 an hour, beginning on the 60th day after the date of enactment of this Act; and “(C) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and on September 30 of every third year thereafter until the minimum wage applicable to American Samoa under this paragraph is equal to the minimum wage set forth in such section, except that there shall be no such increase in 2012, 2013, and 2014 pending the triennial report required under section 8104(a) [set out below].”
+Pub. L. 110–28, title VIII, § 8103(a), (b), May 25, 2007, 121 Stat. 188, 189, as amended by Pub. L. 111–117, div. D, title V, § 520, Dec. 16, 2009, 123 Stat. 3283; Pub. L. 111–244, § 2(a), Sept. 30, 2010, 124 Stat. 2618; Pub. L. 112–149, § 4(a), July 26, 2012, 126 Stat. 1145; Pub. L. 113–34, § 2, Sept. 18, 2013, 127 Stat. 518, provided that: “(a) In General.—Section 6 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206](./chapter-008-fair-labor-standards.md#section-206)) shall apply to American Samoa and the Commonwealth of the Northern Mariana Islands. “(b) Transition.—Notwithstanding subsection (a)—“(1) the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/1&num=0&edition=prelim)) shall be—“(A) $3.55 an hour, beginning on the 60th day after the date of enactment of this Act [May 25, 2007]; and “(B) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and each year thereafter until the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under this paragraph is equal to the minimum wage set forth in such section, except that, beginning in 2010 and each year thereafter (except 2011, 2013, and 2015 when there shall be no increase), such increase shall occur on September 30; and “(2) the minimum wage applicable to American Samoa under section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/1&num=0&edition=prelim)) shall be—“(A) the applicable wage rate in effect for each industry and classification under [section 697 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section697&num=0&edition=prelim), Code of Federal Regulations, on the date of enactment of this Act; “(B) increased by $0.50 an hour, beginning on the 60th day after the date of enactment of this Act; and “(C) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and on September 30 of every third year thereafter until the minimum wage applicable to American Samoa under this paragraph is equal to the minimum wage set forth in such section, except that there shall be no such increase in 2012, 2013, and 2014 pending the triennial report required under section 8104(a) [set out below].”
 
 #### Report on the Impact of Past and Future Minimum Wage Increases
 Pub. L. 110–28, title VIII, § 8104, May 25, 2007, 121 Stat. 189, as amended by Pub. L. 111–5, div. A, title VIII, § 802(a), Feb. 17, 2009, 123 Stat. 186; Pub. L. 111–244, § 2(b), Sept. 30, 2010, 124 Stat. 2618; Pub. L. 112–149, § 4(b), July 26, 2012, 126 Stat. 1145, provided that: “(a) Report.—The Government Accountability Office shall assess the impact of minimum wage increases that have occurred pursuant to section 8103 [of Pub. L. 110–28, amending this section, repealing sections 205 and 208 of this title, and enacting provisions set out as notes under this section], and not later than September 1, 2011, shall transmit to Congress a report of its findings. The Government Accountability Office shall submit subsequent reports not later than April 1, 2014, and every 3 years thereafter until the minimum wage in the respective territory meets the federal minimum wage. “(b) Economic Information.—To provide sufficient economic data for the conduct of the study under subsection (a) the Bureau of the Census of the Department of Commerce shall include and separately report on American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands in its County Business Patterns data with the same regularity and to the same extent as each Bureau collects and reports such data for the 50 States. In the event that the inclusion of American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands in such surveys and data compilations requires time to structure and implement, the Bureau of the Census shall in the interim annually report the best available data that can feasibly be secured with respect to such territories. Such interim report shall describe the steps the Bureau will take to improve future data collection in the territories to achieve comparability with the data collected in the United States. The Bureau of the Census, together with the Department of the Interior, shall coordinate their efforts to achieve such improvements.”
@@ -1036,7 +1039,7 @@ Ex. Ord. No. 9607, Aug. 30, 1945, 10 F.R. 11191, provided:
 
 By virtue of the authority vested in me by the Constitution and statutes as President of the United States it is ordered that Executive Order 9301 of February 9, 1943 [8 F.R. 1825] (formerly set out as note under this section), establishing a minimum wartime workweek of forty-eight hours, be, and it is hereby, revoked.
 
-Harry S Truman.
+Harry S. Truman.
 
 #### Definition of “Administrator”
 The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see [section 204 of this title](./chapter-008-fair-labor-standards.md#section-204).
@@ -1207,7 +1210,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 (15) any employee employed on a casual basis in domestic service employment to provide babysitting services or any employee employed in domestic service employment to provide companionship services for individuals who (because of age or infirmity) are unable to care for themselves (as such terms are defined and delimited by regulations of the Secretary); or
 
-(16) a criminal investigator who is paid availability pay under [section 5545a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5545a&num=0&edition=prelim); or
+(16) a criminal investigator who is paid availability pay under [section 5545a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5545a&num=0&edition=prelim);
 
 (17) any employee who is a computer systems analyst, computer programmer, software engineer, or other similarly skilled worker, whose primary duty is—
 
@@ -1218,7 +1221,9 @@ For transfer of functions of other officers, employees, and agencies of Departme
   (C) the design, documentation, testing, creation, or modification of computer programs related to machine operating systems; or
 
   (D) a combination of duties described in subparagraphs (A), (B), and (C) the performance of which requires the same level of skills, and
-  who, in the case of an employee who is compensated on an hourly basis, is compensated at a rate of not less than $27.63 an hour.
+  who, in the case of an employee who is compensated on an hourly basis, is compensated at a rate of not less than $27.63 an hour; or
+
+(18) any employee who is a border patrol agent, as defined in [section 5550(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5550/a&num=0&edition=prelim).
 
 **(b) Maximum hour requirements** The provisions of [section 207 of this title](./chapter-008-fair-labor-standards.md#section-207) shall not apply with respect to—
 
@@ -1493,7 +1498,7 @@ The Railway Labor Act, referred to in subsec. (b)(3), is act May 20, 1926, ch. 3
 
 [Section 206(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/3&num=0&edition=prelim), referred to in subsec. (e), was repealed and [section 206(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/4&num=0&edition=prelim) was redesignated section 206(a)(3) by Pub. L. 110–28, title VIII, § 8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (a)(1), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -1501,6 +1506,8 @@ In subsec. (a)(1), “subchapter II of chapter 5 of title 5” substituted for �
 In subsec. (b)(1), “[section 31502 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31502&num=0&edition=prelim)” substituted for “[section 3102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section3102&num=0&edition=prelim)” on authority of Pub. L. 103–272, §§ 1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, “[section 3102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section3102&num=0&edition=prelim)” substituted for “section 204 of the Motor Carrier Act, 1935 [[49 U.S.C. 304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section304&num=0&edition=prelim)]”, on authority of Pub. L. 97–449, § 6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§ 101 et seq.) and chapter 31 (§ 3101 et seq.) of subtitle II of Title 49, Transportation.
 
 #### Amendments
+Subsec. (a)(18). Pub. L. 113–277 added par. (18).
+
 2004—Subsec. (c)(7). Pub. L. 108–199 added par. (7).
 
 1998—Subsec. (c)(6). Pub. L. 105–334 added par. (6).
@@ -1756,7 +1763,7 @@ Pub. L. 93–259, § 16(a), (b), Apr. 8, 1974, 88 Stat. 65, provided that the am
 
 Pub. L. 93–259, § 20(b)(2), (3), Apr. 8, 1974, 88 Stat. 67, provided that the amendments made by pars. (2) and (3) of section 20(b) are effective Jan. 1, 1975, and 1976, respectively.
 
-Pub. L. 93–259, § 20(c)(2), (3), Apr. 8, 1974, 88 Stat. 67, provided that the amendments made by pars. (2) and (3) of section 20(c) are effective Jan. 1, 1975, and 1976, respectively.
+Pub. L. 93–259, § 20(c)(2), (3), Apr. 8, 1974, 88 Stat. 67, 68, provided that the amendments made by pars. (2) and (3) of section 20(c) are effective Jan. 1, 1975, and 1976, respectively.
 
 Pub. L. 93–259, § 21(b)(2), (3), Apr. 8, 1974, 88 Stat. 68, provided that the amendment and repeal made by pars. (2) and (3) of section 21(b) are effective one year and two years after May 1, 1974, respectively.
 

@@ -414,8 +414,6 @@ Section 635, acts Apr. 30, 1900, ch. 339, § 83, 31 Stat. 157; Apr. 1, 1952, ch.
 
 Section 636, acts Apr. 30, 1900, ch. 339, § 84, 31 Stat. 157; May 27, 1910, ch. 258, § 6, 36 Stat. 447, set out standards for disqualification of jurors who were related by affinity or consanguinity with a person interested in case being tried and for disqualification of judges in certain cases.
 
-DISTRICT COURT
-
 
 <a id="section-641-to-644"></a>
 ## § 641 to 644. Repealed. June 25, 1948, ch. 646, §§ 8, 39, 62 Stat. 986, 992

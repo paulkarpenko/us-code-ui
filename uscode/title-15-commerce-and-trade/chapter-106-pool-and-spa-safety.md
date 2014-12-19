@@ -123,7 +123,7 @@ The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573
 
 (1) demonstrate to the satisfaction of the Commission that it has a State statute, or that, after December 19, 2007, it has enacted a statute, or amended an existing statute, and provides for the enforcement of,11 So in original. The comma probably should not appear. a law that—
 
-  (A) except as provided in [section 8005(a)(1)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8005/a/1/A/i&num=0&edition=prelim), applies to all swimming pools constructed after the date that is 6 months after December 23, 2011, in the State; and
+  (A) except as provided in [section 8005(a)(1)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8005/a/1/A/i&num=0&edition=prelim), applies to all swimming pools constructed in the State after the date the State submits an application to the Commission for a grant under this section; and
 
   (B) meets the minimum State law requirements of [section 8005 of this title](./chapter-106-pool-and-spa-safety.md#section-8005); and
 
@@ -147,7 +147,7 @@ The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573
 
   (C) to defray administrative costs associated with such training and education programs.
 
-**(e) Authorization of appropriations** There are authorized to be appropriated to the Commission for each of fiscal years 2009 and 2010 $2,000,000 to carry out this section, such sums to remain available until expended. Any amounts appropriated pursuant to this subsection that remain unexpended and unobligated at the end of fiscal year 2012 shall be retained by the Commission and credited to the appropriations account that funds enforcement of the Consumer Product Safety Act [[15 U.S.C. 2051](./chapter-047-consumer-product-safety.md#section-2051) et seq.].
+**(e) Authorization of appropriations** There is authorized to be appropriated to the Commission such sums as may be necessary to carry out this section through fiscal year 2016. Any amounts appropriated pursuant to this subsection that remain unexpended and unobligated at the end of fiscal year 2016 shall be retained by the Commission and credited to the appropriations account that funds enforcement of the Consumer Product Safety Act [[15 U.S.C. 2051](./chapter-047-consumer-product-safety.md#section-2051) et seq.].
 
 ### Statutory Notes
 
@@ -155,6 +155,10 @@ The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573
 The Consumer Product Safety Act, referred to in subsec. (e), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051) and Tables.
 
 #### Amendments
+2014—Subsec. (b)(1)(A). Pub. L. 113–76, § 501(1)(A), substituted “all swimming pools constructed in the State after the date the State submits an application to the Commission for a grant under this section” for “all swimming pools constructed after the date that is 6 months after December 23, 2011, in the State”.
+
+Subsec. (e). Pub. L. 113–76, § 501(1)(B), substituted “There is authorized to be appropriated to the Commission such sums as may be necessary to carry out this section through fiscal year 2016.” for “There are authorized to be appropriated to the Commission for each of fiscal years 2009 and 2010 $2,000,000 to carry out this section, such sums to remain available until expended.” and “the end of fiscal year 2016” for “the end of fiscal year 2012”.
+
 2011—Subsec. (b)(1)(A). Pub. L. 112–74, § 502(b), inserted “constructed after the date that is 6 months after December 23, 2011,” after “swimming pools”.
 
 Subsec. (e). Pub. L. 112–74, § 502(a), substituted “2012” for “2011”.
@@ -170,33 +174,25 @@ Pub. L. 112–10, which directed substitution of “2011” for “2010”, was 
 
   (A) the State requires by statute—
 
-    (i) the enclosure of all outdoor residential pools and spas by barriers to entry that will effectively prevent small children from gaining unsupervised and unfettered access to the pool or spa;
+    (i) the enclosure of all outdoor residential pools and spas by barriers to entry that will effectively prevent small children from gaining unsupervised and unfettered access to the pool or spa; and
 
-    (ii) that all pools and spas be equipped with devices and systems designed to prevent entrapment by pool or spa drains;
-
-    (iii) that pools and spas built more than 1 year after the date of the enactment of such statute have—
+    (ii) that pools and spas built more than 1 year after the date of the enactment of such statute have—
 
       (I) more than 1 drain;
 
       (II) 1 or more unblockable drains; or
 
-      (III) no main drain;
-
-    (iv) 11 So in original. The word “that” probably should appear after “(iv)”. every swimming pool and spa that has a main drain, other than an unblockable drain, be equipped with a drain cover that meets the consumer product safety standard established by [section 8003 of this title](./chapter-106-pool-and-spa-safety.md#section-8003); and
-
-    (v) that periodic notification is provided to owners of residential swimming pools or spas about compliance with the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard; and
+      (III) no main drain; and
 
   (B) the State meets such additional State law requirements for pools and spas as the Commission may establish after public notice and a 30-day public comment period.
 
-(2) **No liability inference associated with State notification requirement** — The minimum State law notification requirement under paragraph (1)(A)(v) shall not be construed to imply any liability on the part of a State related to that requirement.
-
-(3) **Use of minimum State law requirements** — The Commission—
+(2) **Use of minimum State law requirements** — The Commission—
 
   (A) shall use the minimum State law requirements under paragraph (1) solely for the purpose of determining the eligibility of a State for a grant under [section 8004 of this title](./chapter-106-pool-and-spa-safety.md#section-8004); and
 
   (B) may not enforce any requirement under paragraph (1) except for the purpose of determining the eligibility of a State for a grant under [section 8004 of this title](./chapter-106-pool-and-spa-safety.md#section-8004).
 
-(4) **Requirements to reflect national performance standards and Commission guidelines** — In establishing minimum State law requirements under paragraph (1), the Commission shall—
+(3) **Requirements to reflect national performance standards and Commission guidelines** — In establishing minimum State law requirements under paragraph (1)(B), the Commission shall—
 
   (A) consider current or revised national performance standards on pool and spa barrier protection and entrapment prevention; and
 
@@ -231,6 +227,21 @@ Pub. L. 112–10, which directed substitution of “2011” for “2010”, was 
   (F) *Other systems* — Any other system determined by the Commission to be equally effective as, or better than, the systems described in subparagraphs (A) through (E) of this paragraph at preventing or eliminating the risk of injury or death associated with pool drainage systems.
 
 (2) **Applicable standards** — Any device or system described in subparagraphs (B) through (E) of paragraph (1) shall meet the requirements of any ASME/ANSI or ASTM performance standard if there is such a standard for such a device or system, or any applicable consumer product safety standard.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (a)(1)(A)(i). Pub. L. 113–76, § 501(2)(A)(i), inserted “and” after semicolon.
+
+Subsec. (a)(1)(A)(ii), (iii). Pub. L. 113–76, § 501(2)(A)(ii), (iii), redesignated cl. (iii) as (ii), inserted “and” at end, and struck out former cl. (ii) which read as follows: “that all pools and spas be equipped with devices and systems designed to prevent entrapment by pool or spa drains;”.
+
+Subsec. (a)(1)(A)(iv), (v). Pub. L. 113–76, § 501(2)(A)(ii), struck out cls. (iv) and (v) which read as follows:
+
+“(iv) every swimming pool and spa that has a main drain, other than an unblockable drain, be equipped with a drain cover that meets the consumer product safety standard established by [section 8003 of this title](./chapter-106-pool-and-spa-safety.md#section-8003); and
+
+“(v) that periodic notification is provided to owners of residential swimming pools or spas about compliance with the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard; and”.
+
+Subsec. (a)(2) to (4). Pub. L. 113–76, § 501(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, substituted “paragraph (1)(B)” for “paragraph (1)” in introductory provisions of par. (3), and struck out former par. (2) which read as follows: “The minimum State law notification requirement under paragraph (1)(A)(v) shall not be construed to imply any liability on the part of a State related to that requirement.”
 
 
 <a id="section-8006"></a>

@@ -520,6 +520,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act Jun
 
 The Fair Packaging and Labeling Act, referred to in subsec. (a), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, which is classified generally to chapter 39 (§ 1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1451&num=0&edition=prelim) and Tables.
 
+The supplemental rules for certain admiralty and maritime claims, referred to in subsec. (a), were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
 
 <a id="section-1050"></a>
 ## § 1050. Jurisdiction of district courts; United States as plaintiff in enforcement and restraining proceedings; subpenas for witnesses

@@ -150,7 +150,7 @@ Pub. L. 103–322, title III, § 31001(c), Sept. 13, 1994, 108 Stat. 1881, provi
 
 (14) The runaway and homeless youth program and the transitional living program for homeless youth under title III of the Juvenile Justice and Delinquency Prevention Act (Public Law 102–586).
 
-(15) After-school activities for school aged children under the Child Care and Development Block Grant Act ([42 U.S.C. 9858](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9858&num=0&edition=prelim) et seq.).
+(15) After-school activities for school aged children under the Child Care and Development Block Grant Act ([42 U.S.C. 9858](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9858&num=0&edition=prelim) 1 et seq.).
 
 (16) The community-based family resource programs under section 401 1 of the Human Services Reauthorization Act of 1994 (Public Law 103–252).
 
@@ -206,6 +206,9 @@ Pub. L. 103–322, title III, § 31001(c), Sept. 13, 1994, 108 Stat. 1881, provi
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(4)
+Pub. L. 113–128, title V, §§ 506, 512(ff), July 22, 2014, 128 Stat. 1703, 1719, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a)(4) of this section is amended by striking “Programs under title I of the Workforce Investment Act of 1998.” and inserting “Programs under title I of the Workforce Innovation and Opportunity Act.” See 2014 Amendment note below.
+
 #### References in Text
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§ 2711 et seq.) and B (§ 2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3519. See part A (§ 6311 et seq.) and subpart 3 (§ 6381 et seq.) of part B of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to [section 3192 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3192&num=0&edition=prelim) prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. A new section 5122 of the Act, relating to applications for assistance under educational reform programs, was added by Pub. L. 107–110 and is classified to [section 7213a of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7213a&num=0&edition=prelim).
 
@@ -233,7 +236,7 @@ Sections 203 and 401 of the Human Services Reauthorization Act of 1994 (Public L
 
 The Juvenile Justice and Delinquency Prevention Act, referred to in subsec. (a)(14), probably means the Juvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended. Title III of the Act is classified generally to subchapter III (§ 5701 et seq.) of chapter 72 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) and Tables.
 
-The Child Care and Development Block Grant Act, referred to in subsec. (a)(15), probably means the Child Care and Development Block Grant Act of 1990, subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§ 9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
+The Child Care and Development Block Grant Act, referred to in subsec. (a)(15), probably means the Child Care and Development Block Grant Act of 1990, subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 9857(a) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857/a&num=0&edition=prelim) and Tables.
 
 The Child Abuse Prevention and Treatment Act Amendments of 1984, referred to in subsec. (a)(17), probably means the Child Abuse Amendments of 1984, Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1749, as amended. Title III of the Act, relating to family violence programs, is classified generally to chapter 110 (§ 10401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 5101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5101&num=0&edition=prelim) and Tables.
 
@@ -245,6 +248,8 @@ The Single Audit Act of 1984, referred to in subsec. (d)(6), is Pub. L. 98–502
 A prior section 6703, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1012; Pub. L. 98–185, § 3, Nov. 30, 1983, 97 Stat. 1309, related to State and Local Government Fiscal Assistance Trust Fund, prior to repeal by Pub. L. 99–272, title XIV, § 14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
 
 #### Amendments
+2014—Subsec. (a)(4). Pub. L. 113–128 substituted “Programs under title I of the Workforce Innovation and Opportunity Act.” for “Programs under title I of the Workforce Investment Act of 1998.”
+
 2006—Subsec. (a)(12). Pub. L. 109–270 which directed the substitution of “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”, was executed by making the substitution for “Carl Perkins Vocational Educational and Applied Technology Education Act” to reflect the probable intent of Congress.
 
 2002—Subsec. (d)(5). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act); as amended ([40 U.S.C. 276a–276a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276a–276a&num=0&edition=prelim)–5)” and “[section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim)” for “section 2 of the Act of June 1, 1934 (commonly known as the Copeland Anti-Kickback Act), as amended ([40 U.S.C. 276c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276c&num=0&edition=prelim), 48 Stat. 948)”.
@@ -256,6 +261,9 @@ Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(27)], added par. (4) and str
 Subsec. (a)(15) to (19). Pub. L. 105–277, § 101(f) [title VIII, § 405(c)(3)], redesignated pars. (16) to (19) as (15) to (18), respectively, and struck out former par. (15) which read as follows: “The family support program under subtitle F of title VII of the Stewart B. McKinney Homeless Assistance Act ([42 U.S.C. 11481](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11481&num=0&edition=prelim) et seq.).”
 
 1996—Subsec. (d)(6). Pub. L. 104–316 struck out “after consultation with the Comptroller General of the United States” after “by the Secretary”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(c)(3), (d)(27)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(19)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.

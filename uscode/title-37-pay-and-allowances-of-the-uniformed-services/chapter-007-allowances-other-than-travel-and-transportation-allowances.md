@@ -358,7 +358,7 @@ Ex. Ord. No. 10119, Mar. 30, 1950, 15 F.R. 1767, as amended by 1953 Reorg. Plan 
 
   (C) A service provided under the Head Start Act ([42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.).
 
-  (D) Assistance under the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9858&num=0&edition=prelim) et seq.).
+  (D) Assistance under the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9858&num=0&edition=prelim) 11 See References in Text note below. et seq.).
 
 (3) A household that includes a member of the armed forces receiving the supplemental subsistence allowance under this section and that, except on account of the receipt of such allowance, would be eligible to receive a benefit under the Low-Income Home Energy Assistance Act of 1981 ([42 U.S.C. 8621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8621&num=0&edition=prelim) et seq.) shall be considered to be eligible for that benefit notwithstanding the receipt of such allowance.
 
@@ -383,7 +383,7 @@ The Child Nutrition Act of 1966, referred to in subsec. (f)(2)(B), is Pub. L. 89
 
 The Head Start Act, referred to in subsec. (f)(2)(C), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (f)(2)(D), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (f)(2)(D), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 9857(a) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857/a&num=0&edition=prelim) and Tables.
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (f)(3), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified principally to subchapter II (§ 8621 et seq.) of chapter 94 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 8621 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8621&num=0&edition=prelim) and Tables.
 
@@ -454,15 +454,15 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat
 
 (2) The Secretary of Defense shall determine the costs of adequate housing in a military housing area in the United States for all members of the uniformed services entitled to a basic allowance for housing in that area. The Secretary shall base the determination upon the costs of adequate housing for civilians with comparable income levels in the same area. After June 30, 2001, the Secretary may not differentiate between members with dependents in pay grades E–1 through E–4 in determining what constitutes adequate housing for members.
 
-(3) The total amount that may be paid for a fiscal year for the basic allowance for housing under this subsection may not be less than the product of—
+(3)
 
-  (A) the total amount authorized to be paid for such allowance for the preceding fiscal year; and
+  (A) The monthly amount of the basic allowance for housing for an area of the United States for a member of a uniformed service shall be the amount equal to the difference between—
 
-  (B) a fraction—
+    (i) the amount of the monthly cost of adequate housing in that area, as determined by the Secretary of Defense, for members of the uniformed services serving in the same pay grade and with the same dependency status as the member; and
 
-    (i) the numerator of which is the index of the national average monthly cost of housing for June of the preceding fiscal year; and
+    (ii) the amount equal to a specified percentage (determined under subparagraph (B)) of the national average monthly cost of adequate housing in the United States, as determined by the Secretary, for members of the uniformed services serving in the same pay grade and with the same dependency status as the member.
 
-    (ii) the denominator of which is the index of the national average monthly cost of housing for June of the second preceding fiscal year.
+  (B) The percentage to be used for purposes of subparagraph (A)(ii) shall be determined by the Secretary of Defense and may not exceed one percent.
 
 (4) An adjustment in the rates of the basic allowance for housing under this subsection as a result of the Secretary’s redetermination of housing costs in an area shall take effect on the same date as the effective date of the next increase in basic pay under [section 1009 of this title](./chapter-019-administration.md#section-1009) or other provision of law.
 
@@ -488,7 +488,7 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat
 
   (D) Subject to subparagraph (E), an increase in the rates of basic allowance for housing in an area under this paragraph shall remain in effect until the effective date of the first adjustment in rates of basic allowance for housing made for the area pursuant to a redetermination of housing costs in the area under this subsection that occurs after the date of the increase under this paragraph.
 
-  (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2013.
+  (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2015.
 
 **(c) Basic Allowance for Housing Outside the United States.—**
 
@@ -676,7 +676,13 @@ In subsection (f), the words “may be used” are substituted for the words “
 In subsection (g), the word “including” is substituted for the words “and such regulations shall include, but not be limited to”.
 
 #### Amendments
-2013—Subsec. (b)(7)(E). Pub. L. 112–239, § 602, substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (b)(3). Pub. L. 113–291, § 604(a), amended par. (3) generally. Prior to amendment, par. (3) related to the total amount that could be paid for a fiscal year for the basic allowance for housing.
+
+Subsec. (b)(7)(E). Pub. L. 113–291, § 602, substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (b)(7)(E). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239, § 602, substituted “December 31, 2013” for “December 31, 2012”.
 
 Subsec. (d)(2)(A). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
@@ -1032,8 +1038,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
+#### Special Rule
+Pub. L. 113–291, div. A, title VI, § 604(b), Dec. 19, 2014, 128 Stat. 3399, provided that: “Any reduction authorized by paragraph (3) of subsection (b) of [section 403 of title 37](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403), United States Code, as amended by subsection (a), shall not apply with respect to benefits paid by the Secretary of Veterans Affairs under the laws administered by the Secretary, including pursuant to sections 3108 and 3313 of title 38, United States Code. Such benefits that are determined in accordance with such section 403 shall be subject to paragraph (3) of such section as such paragraph was in effect on the day before the date of the enactment of this Act [Dec. 19, 2014].”
+
 #### Transitional Provisions
-Pub. L. 112–239, div. A, title VI, § 604(b), Jan. 2, 2013, 126 Stat. 1774, provided that: “(1) In general.—The basic allowance for housing paid to a member of a reserve component described in subparagraph (A) of paragraph (6) of [section 403(g) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403/g&num=0&edition=prelim), United States Code, as added by subsection (a), who on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013 [Jan. 2, 2013] is being paid basic allowance for housing at a rate that is based on a housing area other than the member’s permanent duty station, shall be paid at that current rate until the member is assigned to perform duty at the member’s permanent duty station, at which time the member shall be paid basic allowance for housing at the prevailing permanent duty station housing area rate or at the permanent duty station housing rate for which the member has qualified under such paragraph (6). “(2) Alternative rate.—The Secretary of a military department, with the approval of the Secretary of Defense, may pay a member covered by paragraph (1) and under the jurisdiction of that Secretary a basic allowance for housing at a rate higher than the rate provided under such paragraph to ensure that the member is treated fairly and equitably or to serve the best interests of the United States.”
+Pub. L. 112–239, div. A, title VI, § 604(b), Jan. 2, 2013, 126 Stat. 1774, as amended by Pub. L. 113–291, div. A, title X, § 1071(h), Dec. 19, 2014, 128 Stat. 3512, provided that: “(1) In general.—The basic allowance for housing paid to a member of a reserve component described in subparagraph (A) of paragraph (6) of [section 403(g) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403/g&num=0&edition=prelim), United States Code, as added by subsection (a), who on January 2, 2013, is being paid basic allowance for housing at a rate that is based on a housing area other than the member’s permanent duty station, shall be paid at that current rate until the member is assigned to perform duty at the member’s permanent duty station, at which time the member shall be paid basic allowance for housing at the prevailing permanent duty station housing area rate or at the permanent duty station housing rate for which the member has qualified under such paragraph (6). “(2) Alternative rate.—The Secretary of a military department, with the approval of the Secretary of Defense, may pay a member covered by paragraph (1) and under the jurisdiction of that Secretary a basic allowance for housing at a rate higher than the rate provided under such paragraph to ensure that the member is treated fairly and equitably or to serve the best interests of the United States.”
+
+[Pub. L. 113–291, div. A, title X, § 1071(h), Dec. 19, 2014, 128 Stat. 3512, provided that the amendment by that section is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.]
 
 #### Minimum Rates of Basic Allowance; Annual Limitation
 Pub. L. 106–246, div. B, title I, § 101(a), (b), July 13, 2000, 114 Stat. 528, provided that: “(a) Minimum Rates of Basic Allowance for Housing for Members of the Uniformed Services.—During the period beginning on January 1, 2000, and ending on September 30, 2001 (or such earlier date as the Secretary of Defense considers appropriate), a member of the uniformed services entitled to a basic allowance for housing for a military housing area in the United States shall be paid the allowance at a monthly rate not less than the rate in effect on December 31, 1999, in that area for members serving in the same pay grade and with the same dependency status as the member. “(b) Annual Limitation on Allowance.—In light of the rates for the basic allowance for housing authorized by subsection (a), the Secretary of Defense may exceed the limitation on the total amount paid during fiscal year 2000 and 2001 for the basic allowance for housing in the United States otherwise applicable under [section 403(b)(3) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403/b/3&num=0&edition=prelim), United States Code.”
@@ -1337,7 +1348,7 @@ Pub. L. 100–180, div. A, title XIII, § 1314(e)(2), Dec. 4, 1987, 101 Stat. 11
 
 (4) $2,200 a year, while serving in the grade of general or admiral, or in an equivalent grade or rank; or
 
-(5) $4,000 a year, in place of any other personal money allowance authorized by this section, while serving as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, or Commandant of the Coast Guard.
+(5) $4,000 a year, in place of any other personal money allowance authorized by this section, while serving as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Commandant of the Coast Guard, or Chief of the National Guard Bureau.
 
 **(b) Allowance for Certain Naval Officers.—** In addition to other pay or allowances authorized by law, an officer who is serving in one of the following positions is entitled to the amount set forth for that position, to be paid annually out of naval appropriations for pay, and to be spent in his discretion for the contingencies of his position—
 
@@ -1351,7 +1362,7 @@ Pub. L. 100–180, div. A, title XIII, § 1314(e)(2), Dec. 4, 1987, 101 Stat. 11
 
 (5) Director of Naval Intelligence—$5,200.
 
-**(c) Allowance for Senior Enlisted Members.—** In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Master Chief Petty Officer of the Coast Guard, or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.
+**(c) Allowance for Senior Enlisted Members.—** In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Master Chief Petty Officer of the Coast Guard, the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau.
 
 ### Statutory Notes
 
@@ -1364,6 +1375,10 @@ Pub. L. 100–180, div. A, title XIII, § 1314(e)(2), Dec. 4, 1987, 101 Stat. 11
 In subsection (b), the words “pay or” are inserted to conform to subsection (a). The word “position” is substituted for the words “capacities” and “officers”, respectively. In clause (1), the words “Superintendent of the Naval Postgraduate School” are substituted for the words “Head of the Postgraduate school at the Naval Academy” to reflect present terminology.
 
 #### Amendments
+2014—Subsec. (a)(5). Pub. L. 113–291, § 603(c)(1), substituted “Commandant of the Coast Guard, or Chief of the National Guard Bureau” for “or Commandant of the Coast Guard”.
+
+Subsec. (c). Pub. L. 113–291, § 603(c)(2), substituted “the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau” for “or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff”.
+
 2006—Subsec. (c). Pub. L. 109–364 struck out before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
 
 Pub. L. 109–163, § 685(c)(2) inserted before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
@@ -1383,6 +1398,9 @@ Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title VI, § 609(a)], added subs
 1991—Subsec. (a)(3). Pub. L. 102–25 struck out “of this subsection” after “clause (1)”.
 
 1966—Subsec. (a)(2). Pub. L. 89–718 struck out reference to service as the Director of the Coast and Geodetic Survey.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–291 effective on Dec. 19, 2014 and applicable with respect to months of service that begin on or after that date, see section 603(e) of Pub. L. 113–291, set out as a note under [section 1406 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1406&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 2000 Amendment
 Pub. L. 106–398, § 1 [[div. A], title VI, § 609(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–149, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2000.”

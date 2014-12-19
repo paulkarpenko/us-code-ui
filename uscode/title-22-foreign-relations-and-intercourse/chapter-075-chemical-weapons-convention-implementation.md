@@ -14,7 +14,7 @@ source: >-
 
 (2) use human subjects for the testing of chemical or biological agents.
 
-**(b) Construction** Nothing in subsection (a) of this section may be construed to prohibit actions carried out for purposes not prohibited by this chapter (as defined in [section 6701(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6701/8&num=0&edition=prelim)).
+**(b) Construction** Nothing in subsection (a) may be construed to prohibit actions carried out for purposes not prohibited by this chapter (as defined in [section 6701(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6701/8&num=0&edition=prelim)).
 
 **(c) “Biological agent” defined** In this section, the term “biological agent” means any micro-organism (including bacteria, viruses, fungi, rickettsiae or protozoa), pathogen, or infectious substance, or any naturally occurring, bio-engineered or synthesized component of any such micro-organism, pathogen, or infectious substance, whatever its origin or method of production, capable of causing—
 
@@ -299,7 +299,7 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
 **(b) Tort liability** The district courts of the United States shall have exclusive jurisdiction of civil actions for money damages for any tort under the Constitution or any Federal or State law arising from the acts or omissions of any officer or employee of the United States or the Organization, including any member of an inspection team of the Technical Secretariat, taken pursuant to or under color of the Convention or this chapter.
 
-**(c) Waiver of sovereign immunity of United States** In any action under subsection (a) or (b) of this section, the United States may not raise sovereign immunity as a defense.
+**(c) Waiver of sovereign immunity of United States** In any action under subsection (a) or (b), the United States may not raise sovereign immunity as a defense.
 
 **(d) Authority for cause of action**
 
@@ -474,7 +474,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
   (B) *Not subject to judicial review* — Any objection by the President to an individual serving as an inspector, whether made pursuant to this section or otherwise, shall not be reviewable in any court.
 
-**(c) Exception** The requirement under subsection (b)(2)(A) of this section shall not apply to inspections of United States chemical weapons destruction facilities (as used within the meaning of part IV(C)(13) of the Verification Annex to the Convention).
+**(c) Exception** The requirement under subsection (b)(2)(A) shall not apply to inspections of United States chemical weapons destruction facilities (as used within the meaning of part IV(C)(13) of the Verification Annex to the Convention).
 
 ### Statutory Notes
 
@@ -493,7 +493,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1117], Nov. 29, 1
 
 **(b) Notice**
 
-(1) **In general** — An inspection referred to in subsection (a) of this section may be made only upon issuance of an actual written notice by the United States National Authority to the owner and to the operator, occupant, or agent in charge of the premises to be inspected.
+(1) **In general** — An inspection referred to in subsection (a) may be made only upon issuance of an actual written notice by the United States National Authority to the owner and to the operator, occupant, or agent in charge of the premises to be inspected.
 
 (2) **Time of notification** — The notice for a routine inspection shall be submitted to the owner and to the operator, occupant, or agent in charge within six hours of receiving the notification of the inspection from the Technical Secretariat or as soon as possible thereafter. Notice for a challenge inspection shall be provided at any appropriate time determined by the United States National Authority. Notices may be posted prominently at the plant, plant site, or other facility or location if the United States is unable to provide actual written notice to the owner, operator, or agent in charge of the premises.
 
@@ -558,7 +558,7 @@ This chapter, referred to in subsec. (f)(1), was in the original “this Act” 
 
 <a id="section-6726"></a>
 ## § 6726. Warrants
-**(a) In general** The United States Government shall seek the consent of the owner or the operator, occupant, or agent in charge of the premises to be inspected prior to any inspection referred to in [section 6724(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6724/a&num=0&edition=prelim). If consent is obtained, a warrant is not required for the inspection. The owner or the operator, occupant, or agent in charge of the premises to be inspected may withhold consent for any reason or no reason. After providing notification pursuant to subsection (b) of this section, the United States Government may seek a search warrant from a United States magistrate judge. Proceedings regarding the issuance of a search warrant shall be conducted ex parte, unless otherwise requested by the United States Government.
+**(a) In general** The United States Government shall seek the consent of the owner or the operator, occupant, or agent in charge of the premises to be inspected prior to any inspection referred to in [section 6724(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6724/a&num=0&edition=prelim). If consent is obtained, a warrant is not required for the inspection. The owner or the operator, occupant, or agent in charge of the premises to be inspected may withhold consent for any reason or no reason. After providing notification pursuant to subsection (b), the United States Government may seek a search warrant from a United States magistrate judge. Proceedings regarding the issuance of a search warrant shall be conducted ex parte, unless otherwise requested by the United States Government.
 
 **(b) Routine inspections**
 
@@ -705,11 +705,11 @@ For delegation of congressional reporting functions of President under this sect
 
 **(b) Reimbursement requirement**
 
-(1) **In general** — Except as provided in paragraph (2), the owner of a facility provided assistance under subsection (a) of this section shall reimburse the Secretary for the costs incurred by the Secretary in providing the assistance.
+(1) **In general** — Except as provided in paragraph (2), the owner of a facility provided assistance under subsection (a) shall reimburse the Secretary for the costs incurred by the Secretary in providing the assistance.
 
-(2) **Exception** — In the case of assistance provided under subsection (a) of this section to a facility owned by a person described in subsection (c) of this section, the United States National Authority shall reimburse the Secretary for the costs incurred by the Secretary in providing the assistance.
+(2) **Exception** — In the case of assistance provided under subsection (a) to a facility owned by a person described in subsection (c), the United States National Authority shall reimburse the Secretary for the costs incurred by the Secretary in providing the assistance.
 
-**(c) Owners covered by United States National Authority reimbursements** Subsection (b)(2) of this section applies in the case of assistance provided to the following:
+**(c) Owners covered by United States National Authority reimbursements** Subsection (b)(2) applies in the case of assistance provided to the following:
 
 (1) **Small business concerns** — A small business concern as defined in [section 632 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim).
 
@@ -783,7 +783,7 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
 <a id="section-6745"></a>
 ## § 6745. Confidentiality of information
-**(a) Freedom of Information Act exemption for certain Convention information** Except as provided in subsection (b) or (c) of this section, any confidential business information, as defined in [section 6713(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6713/g&num=0&edition=prelim), reported to, or otherwise acquired by, the United States Government under this chapter or under the Convention shall not be disclosed under [section 552(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/a&num=0&edition=prelim).
+**(a) Freedom of Information Act exemption for certain Convention information** Except as provided in subsection (b) or (c), any confidential business information, as defined in [section 6713(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6713/g&num=0&edition=prelim), reported to, or otherwise acquired by, the United States Government under this chapter or under the Convention shall not be disclosed under [section 552(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/a&num=0&edition=prelim).
 
 **(b) Exceptions**
 
@@ -799,7 +799,7 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
 (2) **Notice of disclosure**
 
-  (A) *Requirement* — If any Department or agency of the United States Government proposes pursuant to paragraph (1) to publish or disclose or otherwise provide information exempt from disclosure under subsection (a) of this section, the United States National Authority shall, unless contrary to national security or law enforcement needs, provide notice of intent to disclose the information—
+  (A) *Requirement* — If any Department or agency of the United States Government proposes pursuant to paragraph (1) to publish or disclose or otherwise provide information exempt from disclosure under subsection (a), the United States National Authority shall, unless contrary to national security or law enforcement needs, provide notice of intent to disclose the information—
 
     (i) to the person that submitted such information; and
 
@@ -808,9 +808,9 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
   (B) *Proceedings on objections* — In the event that the person to which the information pertains objects to the disclosure, the agency shall promptly review the grounds for each objection of the person and shall afford the objecting person a hearing for the purpose of presenting the objections to the disclosure. Not later than 10 days before the scheduled or rescheduled date for the disclosure, the United States National Authority shall notify such person regarding whether such disclosure will occur notwithstanding the objections.
 
-**(d) Criminal penalty for wrongful disclosure** Any officer or employee of the United States, and any former officer or employee of the United States, who by reason of such employment or official position has obtained possession of, or has access to, information the disclosure or other provision of which is prohibited by subsection (a) of this section, and who, knowing that disclosure or provision of such information is prohibited by such subsection, willfully discloses or otherwise provides the information in any manner to any person (including any person located outside the territory of the United States) not authorized to receive it, shall be fined under title 18 or imprisoned for not more than five years, or both.
+**(d) Criminal penalty for wrongful disclosure** Any officer or employee of the United States, and any former officer or employee of the United States, who by reason of such employment or official position has obtained possession of, or has access to, information the disclosure or other provision of which is prohibited by subsection (a), and who, knowing that disclosure or provision of such information is prohibited by such subsection, willfully discloses or otherwise provides the information in any manner to any person (including any person located outside the territory of the United States) not authorized to receive it, shall be fined under title 18 or imprisoned for not more than five years, or both.
 
-**(e) Criminal forfeiture** The property of any person who violates subsection (d) of this section shall be subject to forfeiture to the United States in the same manner and to the same extent as is provided in section 229C 11 So in original. Probably should be section “229B”. of title 18.
+**(e) Criminal forfeiture** The property of any person who violates subsection (d) shall be subject to forfeiture to the United States in the same manner and to the same extent as is provided in section 229C 11 So in original. Probably should be section “229B”. of title 18.
 
 **(f) International inspectors** The provisions of this section shall also apply to employees of the Technical Secretariat.
 
@@ -870,7 +870,7 @@ This chapter, referred to in text, was in the original “this Act” and was tr
   (B) after a court in an action brought under paragraph (5) has entered a final judgment in favor of the United States National Authority,
   the Secretary of State shall file a suit to seek compliance with the order in any appropriate district court of the United States, plus interest at currently prevailing rates calculated from the date of expiration of the 30-day period referred to in paragraph (5) or the date of such final judgment, as the case may be. In any such suit, the validity and appropriateness of the final order shall not be subject to review.
 
-**(b) Criminal** Any person who knowingly violates any provision of section 6726 or 6745 of this title, shall, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) of this section for such violation, be fined under title 18, imprisoned for not more than one year, or both.
+**(b) Criminal** Any person who knowingly violates any provision of section 6726 or 6745 of this title, shall, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) for such violation, be fined under title 18, imprisoned for not more than one year, or both.
 
 ### Statutory Notes
 
@@ -888,11 +888,11 @@ For authority of Secretary of Commerce to carry out certain functions with respe
 
 **(b) Civil actions**
 
-(1) **In general** — A civil action described in subsection (a) of this section may be brought—
+(1) **In general** — A civil action described in subsection (a) may be brought—
 
-  (A) in the case of a civil action described in subsection (a)(1) of this section, in the United States district court for the judicial district in which any act, omission, or transaction constituting a violation of section 6726 or 6745 of this title occurred or in which the defendant is found or transacts business; or
+  (A) in the case of a civil action described in subsection (a)(1), in the United States district court for the judicial district in which any act, omission, or transaction constituting a violation of section 6726 or 6745 of this title occurred or in which the defendant is found or transacts business; or
 
-  (B) in the case of a civil action described in subsection (a)(2) of this section, in the United States district court for the judicial district in which the defendant is found or transacts business.
+  (B) in the case of a civil action described in subsection (a)(2), in the United States district court for the judicial district in which the defendant is found or transacts business.
 
 (2) **Service of process** — In any such civil action process may be served on a defendant wherever the defendant may reside or may be found, whether the defendant resides or may be found within the United States or elsewhere.
 
@@ -906,7 +906,7 @@ This chapter, referred to in subsec. (a)(2), was in the original “this Act” 
 ## § 6771. Expedited judicial review
 **(a) Civil action** Any person or entity subject to a search under this chapter may file a civil action challenging the constitutionality of any provision of this chapter. Notwithstanding any other provision of law, during the full calendar year of, and the two full calendar years following October 21, 1998, the district court shall accord such a case a priority in its disposition ahead of all other civil actions except for actions challenging the legality and conditions of confinement.
 
-**(b) En banc review** Notwithstanding any other provision of law, during the full calendar year of, and the two full calendar years following October 21, 1998, any appeal from a final order entered by a district court in an action brought under subsection (a) of this section shall be heard promptly by the full Court of Appeals sitting en banc.
+**(b) En banc review** Notwithstanding any other provision of law, during the full calendar year of, and the two full calendar years following October 21, 1998, any appeal from a final order entered by a district court in an action brought under subsection (a) shall be heard promptly by the full Court of Appeals sitting en banc.
 
 ### Statutory Notes
 

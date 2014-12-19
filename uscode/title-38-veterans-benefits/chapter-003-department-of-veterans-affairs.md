@@ -463,7 +463,7 @@ Provisions similar to those in this section were contained in [section 230(a) of
 ## § 315. Regional offices
 **(a)** The Secretary may establish such regional offices and such other field offices within the United States, its Territories, Commonwealths, and possessions, as the Secretary considers necessary.
 
-**(b)** The Secretary may maintain a regional office in the Republic of the Philippines until December 31, 2013.
+**(b)** The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2015.
 
 ### Statutory Notes
 
@@ -473,6 +473,10 @@ Prior section 315 was renumbered [section 1115 of this title](./chapter-011-comp
 Provisions similar to those in this section were contained in section 230(a), (b) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–175 substituted “September 30, 2015” for “December 31, 2014”.
+
+2013—Subsec. (b). Pub. L. 113–59 substituted “December 31, 2014” for “December 31, 2013”.
+
 2012—Subsec. (b). Pub. L. 112–191 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (b). Pub. L. 112–74 substituted “December 31, 2012” for “December 31, 2011”.
@@ -830,7 +834,7 @@ Pub. L. 108–136, div. A, title VII, § 727, Nov. 24, 2003, 117 Stat. 1537, pro
 
 (3) may provide for, facilitate, and encourage participation by disabled veterans in qualifying programs and events;
 
-(4) shall, to the extent feasible, cooperate with the United States Paralympics, Inc., and its partners to promote the participation of disabled veterans and disabled members of the Armed Forces in sporting events sponsored by the United States Paralympics, Inc., and its partners;
+(4) shall, to the extent feasible, cooperate with entities with significant experience in managing large-scale adaptive sports programs;
 
 (5) shall seek sponsorships and donations from the private sector to defray costs of carrying out the responsibilities of the Director to the maximum extent feasible; and
 
@@ -840,20 +844,48 @@ Pub. L. 108–136, div. A, title VII, § 727, Nov. 24, 2003, 117 Stat. 1537, pro
 
 **(d) Monthly Assistance Allowance.—**
 
-(1) Subject to the availability of appropriations for such purpose, the Secretary may provide a monthly assistance allowance to a veteran with a disability invited by the United States Paralympics, Inc., to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Paralympics, Inc., or who is residing at a United States Paralympics, Inc., training center.
+(1) Subject to the availability of appropriations for such purpose, the Secretary may provide a monthly assistance allowance to a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Olympic Committee or who is residing at a United States Olympic Committee training center.
 
 (2) The amount of the monthly assistance payable to a veteran under paragraph (1) shall be equal to the monthly amount of subsistence allowance that would be payable to the veteran under chapter 31 of this title if the veteran were eligible for and entitled to rehabilitation under such chapter.
 
 (3) In providing assistance under this subsection, the Secretary shall give priority to veterans with service-connected disabilities.
 
-(4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2013.
+(4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2015.
 
-**(e) Limitation on Statutory Construction.—** Nothing in this section shall be construed as a limitation on disabled sports and special events supported by the Department as of the date of the enactment of this section.
+**(e) Applicability to Commonwealths and Territories of the United States.—** The provisions of this subsection shall apply in the same manner and to the same degree as to the United States Olympic Committee to the Paralympic sport entities the Secretary considers appropriate to represent the interests of each of the following:
+
+(1) American Samoa.
+
+(2) Guam.
+
+(3) Puerto Rico.
+
+(4) The Northern Mariana Islands.
+
+(5) The United States Virgin Islands.
+
+**(f) Limitation on Statutory Construction.—** Nothing in this section shall be construed as a limitation on disabled sports and special events supported by the Department as of the date of the enactment of this section.
 
 ### Statutory Notes
 
 #### References in Text
-The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 110–389, which was approved Oct. 10, 2008.
+The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 110–389, which was approved Oct. 10, 2008.
+
+#### Amendments
+2013—Subsec. (b)(4). Pub. L. 113–59, § 4(b), substituted “cooperate with entities with significant experience in managing large-scale adaptive sports programs;” for “cooperate with the United States Olympic Committee and its partners to promote the participation of disabled veterans and disabled members of the Armed Forces in sporting events sponsored by the United States Olympic Committee and its partners;”.
+
+Pub. L. 113–37, § 2(a)(2), substituted “United States Olympic Committee” for “United States Paralympics, Inc.,” in two places.
+
+Subsec. (d)(1). Pub. L. 113–37, § 2(a)(2), substituted “United States Olympic Committee” for “United States Paralympics, Inc.,” wherever appearing.
+
+Subsec. (d)(4). Pub. L. 113–59, § 4(a), substituted “through 2015.” for “through 2013 and $500,000 for the period beginning October 1, 2013, and ending December 31, 2013.”
+
+Pub. L. 113–37, § 2(a)(1), inserted “and $500,000 for the period beginning October 1, 2013, and ending December 31, 2013” before period at end.
+
+Subsecs. (e), (f). Pub. L. 113–59, § 4(c), added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### Effective Date of 2013 Amendment
+Pub. L. 113–37, § 4, Sept. 30, 2013, 127 Stat. 525, provided that: “(a) Effective Date.—This Act [see Short Title of 2013 Amendment note set out under [section 101 of this title](./chapter-001-general.md#section-101)] shall take effect on October 1, 2013, except that Section [sic] 2(a) [amending this section] shall take effect on September 30, 2013. “(b) Ratification.—If this Act is not enacted on or before September 30, 2013, any actions undertaken by the Department of Veterans Affairs under the authorities extended by this Act during the period beginning on such date and ending on the date of the enactment of this Act [Sept. 30, 2013] shall be deemed ratified.”
 
 #### Findings and Purpose
 Pub. L. 110–389, title VII, § 701, Oct. 10, 2008, 122 Stat. 4180, provided that: “(a) Findings.—Congress makes the following findings:“(1) In 1998, Congress enacted the Olympic and Amateur Sports Act Amendments of 1998 (33 [36] U.S.C. 101 note) [see Short Title of 1998 Amendment note set out under [section 101 of Title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section101&num=0&edition=prelim), Patriotic and National Observances, Ceremonies, and Organizations], which amended chapter 2205 of title 36, United States Code, and included a statement that the purpose of the Act was ‘to encourage and provide assistance to amateur athletic programs and competition for amateur athletes with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by such amateur athletes in programs of athletic competition for able-bodied amateur athletes’. “(2) The United States Olympic Committee manages and administers the Paralympic Program for physically disabled athletes. “(3) The Department of Veterans Affairs provides health care to veterans and administers recreational activities for patients including the Golden Age Games, the National Veterans Wheelchair Games, and the Winter Sports Clinic. “(4) In 2005, the United States Olympic Committee entered into a memorandum of understanding with the Secretary of Veterans Affairs to increase interest in and access to Paralympic sports programs for veterans with physical disabilities by coordinating the activities of the United States Olympic Committee with the Department of Veterans Affairs. “(5) The Paralympic Program has a significant positive effect on the quality of life of disabled veterans and disabled members of the Armed Forces who participate in the program, including helping to improve the mobility, vitality, and physical, psychological, and social well-being of such participants and reducing the incidence of secondary medical conditions in those participants. “(6) Because of Operation Iraqi Freedom and Operation Enduring Freedom, the number of disabled veterans and disabled members of the Armed Forces has increased substantially and it is therefore desirable to supplement the rehabilitation and recreation programs of the Department of Veterans Affairs through sports for disabled veterans and members of the Armed Forces. “(b) Purpose.—The purposes of this title [enacting this section, [section 521A of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-521a), and provisions set out as notes under [section 521A of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-521a)] are as follows:“(1) To promote the lifelong health of disabled veterans and disabled members of the Armed Forces through regular participation in physical activity and sports. “(2) To enhance the recreation activities provided by the Department of Veterans Affairs by promoting disabled sports from the local level through elite levels and by creating partnerships among organizations specializing in supporting, training, and promoting programs for disabled veterans. “(3) To provide training and support to national and local organizations to provide Paralympic sports training to disabled veterans and disabled members of the Armed Forces in their own communities. “(4) To provide support to the United States Paralympics, Inc., to increase the participation of disabled veterans and disabled members of the Armed Forces in sports.”

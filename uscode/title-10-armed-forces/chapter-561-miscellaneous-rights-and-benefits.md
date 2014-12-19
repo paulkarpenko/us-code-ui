@@ -254,7 +254,7 @@ The word “person” is substituted for the words “former members of the nava
 
 ### Statutory Notes
 
-Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 387, related to transportation of motor vehicles on permanent change of station. See [section 2634 of this title](./chapter-157-transportation.md#section-2634).
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 387, related to transportation of motor vehicles on permanent change of station.
 
 
 <a id="section-6158"></a>

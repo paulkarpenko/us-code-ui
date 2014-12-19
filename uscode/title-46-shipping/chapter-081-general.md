@@ -2,7 +2,7 @@
 title: 46
 chapter: '81'
 heading: GENERAL
-section_count: 7
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -322,7 +322,7 @@ Pub. L. 100–239, 5(d)(2), Jan. 11, 1988, 101 Stat. 1781, provided that: “Thi
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Distant Water Tuna Fleet
-Pub. L. 109–241, title IV, § 421, July 11, 2006, 120 Stat. 547, as amended by Pub. L. 111–281, title IX, § 904, Oct. 15, 2010, 124 Stat. 3011; Pub. L. 112–213, title VII, § 701, Dec. 20, 2012, 126 Stat. 1579, provided that: “(a) Manning Requirements.—Notwithstanding [section 8103(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section8103/a&num=0&edition=prelim), United States Code, United States purse seine fishing vessels fishing exclusively for highly migratory species in the treaty area under a fishing license issued pursuant to the 1987 Treaty on Fisheries Between the Governments of Certain Pacific Islands States and the Government of the United States of America, or transiting to or from the treaty area exclusively for such purpose, may engage foreign citizens to meet the manning requirement (except for the master) until the date of expiration of this section if, after timely notice of a vacancy to meet the manning requirement, no United States citizen personnel are readily available to fill such vacancy. “(b) Licensing Restrictions.—“(1) In general.—Subsection (a) only applies to a foreign citizen who holds a credential that is equivalent to the credential issued by the Coast Guard to a United States citizen for the position, with respect to requirements for experience, training, and other qualifications. “(2) Treatment of credential.—An equivalent credential under paragraph (1) shall be considered as meeting the requirements of [section 8304 of title 46](./chapter-083-masters-and-officers.md#section-8304), United States Code, but only while a person holding the credential is in the service of the vessel to which this section applies. “(c) Limitation.—Subsection (a) applies only to vessels operating in and out of American Samoa or Guam. “(d) Expiration.—This section expires on the date the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America ceases to have effect for any party under Article 12.6 or 12.7 of such treaty, as in effect on the date of enactment of the Coast Guard and Maritime Transportation Act of 2012 [Dec. 20, 2012]. “(e) Safety Inspections.—A vessel may not engage a foreign citizen to meet a manning requirement under this section unless it has an annual safety examination by an individual authorized to enforce part B of subtitle II of title 46, United States Code. “(f) Reports.—On March 1, 2007, and annually thereafter until the date of expiration of this section, the Coast Guard and the National Marine Fisheries Service shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Resources [now Natural Resources] of the House of Representatives, providing the following information on the United States purse seine fleet referred to in subsection (a):“(1) The number and identity of vessels in the fleet using foreign citizens to meet manning requirements pursuant to this section and any marine casualties involving such vessel. “(2) The number of vessels in the fishery under United States flag as of January 1 of the year in which the report is submitted, the percentage ownership or control of such vessels by non-United States citizens, and the nationality of such ownership or control. “(3) Description of any transfers or sales of United States flag vessels in the previous calendar year, and the disposition of such vessel, including whether the vessel was scrapped or sold, and, if sold, the nationality of the new owner and location of any fishery to which the vessel will be transferred. “(4) Landings of tuna by vessels under flag in the 2 previous calendar years, including an assessment of landing trends, and a description of landing percentages and totals—“(A) delivered to American Samoa and any other port in a State or territory of the United States; and “(B) delivered to ports outside of a State or territory of the United States, including the identity of the port. “(5) An evaluation of capacity and trends in the purse seine fleet fishing in the area covered by the South Pacific Regional Fisheries Treaty, and any transfer of capacity from such fleet or area to other fisheries, including those governed under the Western and Central Pacific Fisheries Convention and the Inter-American Tropical Tuna Convention.”
+Pub. L. 109–241, title IV, § 421, July 11, 2006, 120 Stat. 547, as amended by Pub. L. 111–281, title IX, § 904, Oct. 15, 2010, 124 Stat. 3011; Pub. L. 112–213, title VII, § 701, Dec. 20, 2012, 126 Stat. 1579; Pub. L. 113–281, title VI, § 601, Dec. 18, 2014, 128 Stat. 3060, provided that: “(a) Manning Requirements.—Notwithstanding [section 8103(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section8103/a&num=0&edition=prelim), United States Code, United States purse seine fishing vessels fishing exclusively for highly migratory species in the treaty area under a fishing license issued pursuant to the 1987 Treaty on Fisheries Between the Governments of Certain Pacific Islands States and the Government of the United States of America, or transiting to or from the treaty area exclusively for such purpose, may engage foreign citizens to meet the manning requirement (except for the master) until the date of expiration of this section if, after timely notice of a vacancy to meet the manning requirement, no United States citizen personnel are readily available to fill such vacancy. “(b) Licensing Restrictions.—“(1) In general.—Subsection (a) only applies to a foreign citizen who holds a credential that is equivalent to the credential issued by the Coast Guard to a United States citizen for the position, with respect to requirements for experience, training, and other qualifications. “(2) Treatment of credential.—An equivalent credential under paragraph (1) shall be considered as meeting the requirements of [section 8304 of title 46](./chapter-083-masters-and-officers.md#section-8304), United States Code, but only while a person holding the credential is in the service of the vessel to which this section applies. “(c) Expiration.—This section expires on the date the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America ceases to have effect for any party under Article 12.6 or 12.7 of such treaty, as in effect on the date of enactment of the Coast Guard and Maritime Transportation Act of 2012 [Dec. 20, 2012]. “(d) Reports.—On March 1, 2007, and annually thereafter until the date of expiration of this section, the Coast Guard and the National Marine Fisheries Service shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Resources [now Natural Resources] of the House of Representatives, providing the following information on the United States purse seine fleet referred to in subsection (a):“(1) The number and identity of vessels in the fleet using foreign citizens to meet manning requirements pursuant to this section and any marine casualties involving such vessel. “(2) The number of vessels in the fishery under United States flag as of January 1 of the year in which the report is submitted, the percentage ownership or control of such vessels by non-United States citizens, and the nationality of such ownership or control. “(3) Description of any transfers or sales of United States flag vessels in the previous calendar year, and the disposition of such vessel, including whether the vessel was scrapped or sold, and, if sold, the nationality of the new owner and location of any fishery to which the vessel will be transferred. “(4) Landings of tuna by vessels under flag in the 2 previous calendar years, including an assessment of landing trends, and a description of landing percentages and totals—“(A) delivered to American Samoa and any other port in a State or territory of the United States; and “(B) delivered to ports outside of a State or territory of the United States, including the identity of the port. “(5) An evaluation of capacity and trends in the purse seine fleet fishing in the area covered by the South Pacific Regional Fisheries Treaty, and any transfer of capacity from such fleet or area to other fisheries, including those governed under the Western and Central Pacific Fisheries Convention and the Inter-American Tropical Tuna Convention.”
 
 #### Application of Section to Fishing Vessels in California
 Pub. L. 101–595, title III, § 317, Nov. 16, 1990, 104 Stat. 2988, as amended by Pub. L. 104–324, title III, § 301(d)(2)(B), Oct. 19, 1996, 110 Stat. 3916, provided that: “(a) Definition.—For purposes of the application of sections 8103(a), 12102, 12110, 12111, and 12122(b) of title 46, United States Code, to a fishing vessel operating in waters subject to the jurisdiction of the United States off the coast of the State of California, the term ‘citizen of the United States’ includes an alien lawfully admitted to the United States for permanent residence. “(b) Termination.—This section shall terminate on October 1, 2000.”
@@ -336,7 +336,7 @@ Pub. L. 101–595, title III, § 317, Nov. 16, 1990, 104 Stat. 2988, as amended 
 
 **(c)** On a towing vessel (except a towing vessel operated only for fishing, fish processing, fish tender, or engaged in salvage operations) operating on the Great Lakes, harbors of the Great Lakes, and connecting or tributary waters between Gary, Indiana, Duluth, Minnesota, Niagara Falls, New York, and Ogdensburg, New York, a licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day or permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency when life or property are endangered.
 
-**(d)** On a merchant vessel of more than 100 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) (except a vessel only operating on rivers, harbors, lakes (except the Great Lakes), bays, sounds, bayous, and canals, a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104), yacht, or vessel engaged in salvage operations), the licensed individuals, sailors, coal passers, firemen, oilers, and water tenders shall be divided, when at sea, into at least 3 watches, and shall be kept on duty successively to perform ordinary work incident to the operation and management of the vessel. The requirement of this subsection applies to radio officers only when at least 3 radio officers are employed. A licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day.
+**(d)** On a merchant vessel of more than 100 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) (except a vessel only operating on rivers, harbors, lakes (except the Great Lakes), bays, sounds, bayous, and canals, a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104), yacht, or vessel engaged in salvage operations), the licensed individuals, sailors, and oilers shall be divided, when at sea, into at least 3 watches, and shall be kept on duty successively to perform ordinary work incident to the operation and management of the vessel. The requirement of this subsection applies to radio officers only when at least 3 radio officers are employed. A licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day.
 
 **(e)** On a vessel designated by subsection (d) of this section—
 
@@ -362,7 +362,7 @@ Pub. L. 101–595, title III, § 317, Nov. 16, 1990, 104 Stat. 2988, as amended 
 
 **(g)**
 
-(1) On a towing vessel, an offshore supply vessel, or a barge to which this section applies, that is engaged on a voyage of less than 600 miles, the licensed individuals and crewmembers (except the coal passers, firemen, oilers, and water tenders) may be divided, when at sea, into at least 2 watches.
+(1) On a towing vessel, an offshore supply vessel, or a barge to which this section applies, that is engaged on a voyage of less than 600 miles, the licensed individuals and crewmembers may be divided, when at sea, into at least 2 watches.
 
 (2) Paragraph (1) applies to an offshore supply vessel of at least 6,000 gross tons as measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) if the individuals engaged on the vessel are in compliance with hours of service requirements (including recording and recordkeeping of that service) as prescribed by the Secretary.
 
@@ -432,6 +432,10 @@ Subsection (h) provides that the licensed operator for a towing vessel at least 
 Subsections (i) and (j) prescribe penalties for violations of the provisions of this section and, in certain instances, entitles the seaman to discharge and payment of wages.
 
 #### Amendments
+2014—Subsec. (d). Pub. L. 113–281, § 316(1), substituted “and oilers” for “coal passers, firemen, oilers, and water tenders”.
+
+Subsec. (g)(1). Pub. L. 113–281, § 316(2), struck out “(except the coal passers, firemen, oilers, and water tenders)” after “crewmembers”.
+
 2010—Subsec. (g). Pub. L. 111–281, § 617(d), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (o). Pub. L. 111–281, § 903(a)(1), made technical amendment to directory language of Pub. L. 109–241, § 311(b). See 2006 Amendment note below.
@@ -625,3 +629,86 @@ For International Conventions for the Safety of Life at Sea to which the United 
 
 #### Standard Rules for the Use of Force for Self-Defense of Vessels of the United States
 Pub. L. 111–281, title IX, § 912(c), Oct. 15, 2010, 124 Stat. 3017, provided that: “Not later than 180 days after the date of enactment of this act [Oct. 15, 2010], the secretary [sic] of the department in which the coast guard [sic] is operating, in consultation with representatives of industry and labor, shall develop standard rules for the use of force for self-defense of vessels of the United States.”
+
+
+<a id="section-8108"></a>
+## § 8108. Merchant Marine Personnel Advisory Committee
+**(a) Establishment.—** The Secretary shall establish a Merchant Marine Personnel Advisory Committee (in this section referred to as “the Committee”). The Committee—
+
+(1) shall act solely in an advisory capacity to the Secretary through the Commandant of the Coast Guard on matters relating to personnel in the United States merchant marine, including training, qualifications, certification, documentation, and fitness standards, and other matters as assigned by the Commandant;
+
+(2) shall review and comment on proposed Coast Guard regulations and policies relating to personnel in the United States merchant marine, including training, qualifications, certification, documentation, and fitness standards;
+
+(3) may be given special assignments by the Secretary and may conduct studies, inquiries, workshops, and fact finding in consultation with individuals and groups in the private sector and with State or local governments;
+
+(4) shall advise, consult with, and make recommendations reflecting its independent judgment to the Secretary;
+
+(5) shall meet not less than twice each year; and
+
+(6) may make available to Congress recommendations that the Committee makes to the Secretary.
+
+**(b) Membership.—**
+
+(1) **In general.—** — The Committee shall consist of not more than 19 members who are appointed by and serve terms of a duration determined by the Secretary. Before filling a position on the Committee, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the Committee.
+
+(2) **Required members.—** — Subject to paragraph (3), the Secretary shall appoint as members of the Committee—
+
+  (A) 9 United States citizens with active licenses or certificates issued under chapter 71 or merchant mariner documents issued under chapter 73, including—
+
+    (i) 3 deck officers who represent the viewpoint of merchant marine deck officers, of whom—
+
+      (I) 2 shall be licensed for oceans any gross tons;
+
+      (II) 1 shall be licensed for inland river route with a limited or unlimited tonnage;
+
+      (III) 2 shall have a master’s license or a master of towing vessels license;
+
+      (IV) 1 shall have significant tanker experience; and
+
+      (V) to the extent practicable—
+
+        (aa) 1 shall represent the viewpoint of labor; and
+
+        (bb) another shall represent a management perspective;
+
+    (ii) 3 engineering officers who represent the viewpoint of merchant marine engineering officers, of whom—
+
+      (I) 2 shall be licensed as chief engineer any horsepower;
+
+      (II) 1 shall be licensed as either a limited chief engineer or a designated duty engineer; and
+
+      (III) to the extent practicable—
+
+        (aa) 1 shall represent a labor viewpoint; and
+
+        (bb) another shall represent a management perspective;
+
+    (iii) 2 unlicensed seamen, of whom—
+
+      (I) 1 shall represent the viewpoint of able-bodied seamen; and
+
+      (II) another shall represent the viewpoint of qualified members of the engine department; and
+
+    (iv) 1 pilot who represents the viewpoint of merchant marine pilots;
+
+  (B) 6 marine educators, including—
+
+    (i) 3 marine educators who represent the viewpoint of maritime academies, including—
+
+      (I) 2 who represent the viewpoint of State maritime academies and are jointly recommended by such State maritime academies; and
+
+      (II) 1 who represents either the viewpoint of the State maritime academies or the United States Merchant Marine Academy; and
+
+    (ii) 3 marine educators who represent the viewpoint of other maritime training institutions, 1 of whom shall represent the viewpoint of the small vessel industry;
+
+  (C) 2 individuals who represent the viewpoint of shipping companies employed in ship operation management; and
+
+  (D) 2 members who are appointed from the general public.
+
+(3) **Consultation.—** — The Secretary shall consult with the Secretary of Transportation in making an appointment under paragraph (2)(B)(i)(II).
+
+**(c) Chairman and Vice Chairman.—** The Secretary shall designate one member of the Committee as the Chairman and one member of the Committee as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of the Chairman, or in the event of a vacancy in the office of the Chairman.
+
+**(d) Subcommittees.—** The Committee may establish and disestablish subcommittees and working groups for any purpose consistent with this section, subject to conditions imposed by the Committee. Members of the Committee and additional persons drawn from the general public may be assigned to such subcommittees and working groups. Only Committee members may chair subcommittee or working groups.
+
+**(e) Termination.—** The Committee shall terminate on September 30, 2020.

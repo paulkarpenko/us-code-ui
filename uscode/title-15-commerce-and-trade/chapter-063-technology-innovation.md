@@ -510,7 +510,7 @@ Subsec. (d) of this section, which required the Secretary to prepare and transmi
 
 (2) cooperate and coordinate its operations with other Government scientific, technical, and engineering information programs;
 
-(3) make selected bibliographic information products available in a timely manner to depository libraries as part of the Depository Library Program of the Government Printing Office;
+(3) make selected bibliographic information products available in a timely manner to depository libraries as part of the Depository Library Program of the Government Publishing Office;
 
 (4) in conjunction with the private sector as appropriate, collect, translate into English, and disseminate unclassified foreign scientific, technical, and engineering information;
 
@@ -565,6 +565,9 @@ Subsec. (a)(4) of this section repealed subsec. (h) of [section 3710 of this tit
 
 1991—Subsec. (a)(1)(E). Pub. L. 102–140 added subpar. (E).
 
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (e)(3) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
 #### Termination of Advisory Boards
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -587,13 +590,19 @@ Section was enacted as part of the American Technology Preeminence Act of 1991, 
 ## § 3704b–2. Transfer of Federal scientific and technical information
 **(a) Transfer** The head of each Federal executive department or agency shall transfer in a timely manner to the National Technical Information Service unclassified scientific, technical, and engineering information which results from federally funded research and development activities for dissemination to the private sector, academia, State and local governments, and Federal agencies. Only information which would otherwise be available for public dissemination shall be transferred under this subsection. Such information shall include technical reports and information, computer software, application assessments generated pursuant to [section 3710(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710/c&num=0&edition=prelim), and information regarding training technology and other federally owned or originated technologies. The Secretary shall issue regulations within one year after February 14, 1992, outlining procedures for the ongoing transfer of such information to the National Technical Information Service.
 
-**(b) Omitted**
+**(b) Annual report to Congress** As part of the annual report required under [section 3704b(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3704b/f/3&num=0&edition=prelim), the Secretary shall report to Congress on the status of efforts under this section to ensure access to Federal scientific and technical information by the public. Such report shall include—
+
+(1) an evaluation of the comprehensiveness of transfers of information by each Federal executive department or agency under subsection (a) of this section;
+
+(2) a description of the use of Federal scientific and technical information;
+
+(3) plans for improving public access to Federal scientific and technical information; and
+
+(4) recommendations for legislation necessary to improve public access to Federal scientific and technical information.
 
 ### Statutory Notes
 
 #### Codification
-Subsec. (b) of this section, which required the Secretary, as part of the annual report required under [section 3704b(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3704b/f/3&num=0&edition=prelim), to report to Congress on the status of efforts under this section to ensure access to Federal scientific and technical information by the public, was omitted because of termination of the annual report. See Codification note set out after [section 3704b of this title](./chapter-063-technology-innovation.md#section-3704b).
-
 Section was enacted as part of the American Technology Preeminence Act of 1991, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
 
 
@@ -990,6 +999,9 @@ Subsec. (d)(5), (6). Pub. L. 99–502, § 4(c)(5), redesignated pars. (5) and (6
 Subsecs. (e), (f). Pub. L. 99–502, §§ 3, 4(d), added subsec. (e), redesignated former subsec. (e) as (f), substituted “report annually to the Congress, as part of the agency’s annual budget submission, on the activities” for “prepare biennially a report summarizing the activities”, and struck out “The report shall be transmitted to the Center for the Utilization of Federal Technology by November 1 of each year in which it is due.”.
 
 Subsec. (g). Pub. L. 99–502, § 5, added subsec. (g).
+
+#### Transfer of Functions
+Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of [section 3515e of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3515e&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Ex. Ord. No. 12591. Facilitating Access to Science and Technology
 Ex. Ord. No. 12591, Apr. 10, 1987, 52 F.R. 13414, as amended by Ex. Ord. No. 12618, Dec. 22, 1987, 52 F.R. 48661, provided:
@@ -2100,7 +2112,7 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
 <a id="section-3722"></a>
 ## § 3722. Regional innovation program
-**(a) Establishment** The Secretary shall establish a regional innovation program to encourage and support the development of regional innovation strategies, including regional innovation clusters and science and research parks.
+**(a) Establishment** The Secretary shall establish a regional innovation program to encourage and support the development of regional innovation strategies, including regional innovation clusters.
 
 **(b) Cluster grants**
 
@@ -2164,119 +2176,11 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
 (6) **Cost share** — The Secretary may not provide more than 50 percent of the total cost of any activity funded under this subsection.
 
-(7) **Use and application of research and information program** — To the maximum extent practicable, the Secretary shall ensure that activities funded under this subsection use and apply any relevant research, best practices, and metrics developed under the program established in subsection (c).
+(7) **Outreach to rural communities** — The Secretary shall conduct outreach to public and private sector entities in rural communities to encourage those entities to participate in regional innovation cluster activities under this subsection.
 
-**(c) Science and research park development grants**
+(8) **Funding** — The Secretary may accept funds from other Federal agencies to support grants and activities under this subsection.
 
-(1) **In general** — As part of the program established under subsection (a), the Secretary may award grants for the development of feasibility studies and plans for the construction of new science parks or the renovation or expansion of existing science parks.
-
-(2) **Limitation on amount of grants** — The amount of a grant awarded under this subsection may not exceed $750,000.
-
-(3) **Award**
-
-  (A) *Competition required* — The Secretary shall award grants under this subsection pursuant to a full and open competition.
-
-  (B) *Geographic dispersion* — In conducting a competitive process, the Secretary shall consider the need to avoid undue geographic concentration among any one category of States based on their predominant rural or urban character as indicated by population density.
-
-  (C) *Selection criteria* — The Secretary shall publish the criteria to be utilized in any competition for the selection of recipients of grants under this subsection, which shall include requirements relating to the—
-
-    (i) effect the science park will have on regional economic growth and development;
-
-    (ii) number of jobs to be created at the science park and the surrounding regional community each year during its first 3 years;
-
-    (iii) funding to be required to construct, renovate or expand the science park during its first 3 years;
-
-    (iv) amount and type of financing and access to capital available to the applicant;
-
-    (v) types of businesses and research entities expected in the science park and surrounding regional community;
-
-    (vi) letters of intent by businesses and research entities to locate in the science park;
-
-    (vii) capability to attract a well trained workforce to the science park;
-
-    (viii) the management of the science park during its first 5 years;
-
-    (ix) expected financial risks in the construction and operation of the science park and the risk mitigation strategy;
-
-    (x) physical infrastructure available to the science park, including roads, utilities, and telecommunications;
-
-    (xi) utilization of energy-efficient building technology including nationally recognized green building design practices, renewable energy, cogeneration, and other methods that increase energy efficiency and conservation;
-
-    (xii) consideration to the transformation of military bases affected by the base realignment and closure process or the redevelopment of existing buildings, structures, or brownfield sites that are abandoned, idled, or underused into single or multiple building facilities for science and technology companies and institutions;
-
-    (xiii) ability to collaborate with other science parks throughout the world;
-
-    (xiv) consideration of sustainable development practices and the quality of life at the science park; and
-
-    (xv) other such criteria as the Secretary shall prescribe.
-
-(4) **Allocation constraints** — The Secretary may not allocate less than one-third of the total grant funding allocated under this section for any fiscal year to grants under subsection (b) or this subsection without written notification to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committees on Science and Technology and on Energy and Commerce.
-
-**(d) Loan guarantees for science park infrastructure**
-
-(1) **In general** — Subject to paragraph (2), the Secretary may guarantee up to 80 percent of the loan amount for projects for the construction or expansion, including renovation and modernization, of science park infrastructure.
-
-(2) **Limitations on guarantee amounts** — The maximum amount of loan principal guaranteed under this subsection may not exceed—
-
-  (A) $50,000,000 with respect to any single project; and
-
-  (B) $300,000,000 with respect to all projects.
-
-(3) **Selection of guarantee recipients** — The Secretary shall select recipients of loan guarantees under this subsection based upon the ability of the recipient to collateralize the loan amount through bonds, equity, property, and such other things of values as the Secretary shall deem necessary. Recipients of grants under subsection (c) are not eligible for a loan guarantee during the period of the grant. To the extent that the Secretary determines it to be feasible, the Secretary may select recipients of guarantee assistance in accord with a competitive process that takes into account the factors set out in subsection (c)(3)(C) of this section.
-
-(4) **Terms and conditions for loan guarantees** — The loans guaranteed under this subsection shall be subject to such terms and conditions as the Secretary may prescribe, except that—
-
-  (A) the final maturity of such loans made or guaranteed may not exceed the lesser of—
-
-    (i) 30 years; or
-
-    (ii) 90 percent of the useful life of any physical asset to be financed by the loan;
-
-  (B) a loan guaranteed under this subsection may not be subordinated to another debt contracted by the borrower or to any other claims against the borrowers in the case of default;
-
-  (C) a loan may not be guaranteed under this subsection unless the Secretary determines that the lender is responsible and that provision is made for servicing the loan on reasonable terms and in a manner that adequately protects the financial interest of the United States;
-
-  (D) a loan may not be guaranteed under this subsection if—
-
-    (i) the income from the loan is excluded from gross income for purposes of chapter 1 of title 26; or
-
-    (ii) the guarantee provides significant collateral or security, as determined by the Secretary in coordination with the Secretary of the Treasury, for other obligations the income from which is so excluded;
-
-  (E) any guarantee provided under this subsection shall be conclusive evidence that—
-
-    (i) the guarantee has been properly obtained;
-
-    (ii) the underlying loan qualified for the guarantee; and
-
-    (iii) absent fraud or material misrepresentation by the holder, the guarantee is presumed to be valid, legal, and enforceable;
-
-  (F) the Secretary may not extend credit assistance unless the Secretary has determined that there is a reasonable assurance of repayment; and
-
-  (G) new loan guarantees may not be committed except to the extent that appropriations of budget authority to cover their costs are made in advance, as required under [section 661c of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661c&num=0&edition=prelim).
-
-(5) **Payment of losses**
-
-  (A) *In general* — If, as a result of a default by a borrower under a loan guaranteed under this subsection, after the holder has made such further collection efforts and instituted such enforcement proceedings as the Secretary may require, the Secretary determines that the holder has suffered a loss, the Secretary shall pay to the holder the percentage of the loss specified in the guarantee contract. Upon making any such payment, the Secretary shall be subrogated to all the rights of the recipient of the payment. The Secretary shall be entitled to recover from the borrower the amount of any payments made pursuant to any guarantee entered into under this section.
-
-  (B) *Enforcement of rights* — The Attorney General shall take such action as may be appropriate to enforce any right accruing to the United States as a result of the issuance of any guarantee under this section.
-
-  (C) *Forbearance* — Nothing in this section may be construed to preclude any forbearance for the benefit of the borrower which may be agreed upon by the parties to the guaranteed loan and approved by the Secretary, if budget authority for any resulting subsidy costs (as defined in [section 661a(5) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5&num=0&edition=prelim)) is available.
-
-(6) **Evaluation of credit risk**
-
-  (A) The Secretary shall periodically assess the credit risk of new and existing direct loans or guaranteed loans.
-
-  (B) Not later than 2 years after January 4, 2011, the Comptroller General of the United States shall—
-
-    (i) conduct a review of the subsidy estimates for the loan guarantees under this section; and
-
-    (ii) submit to Congress a report on the review conducted under this paragraph.
-
-(7) **Termination** — A loan may not be guaranteed under this section after September 30, 2013.
-
-(8) **Authorization of appropriations** — There are authorized to be appropriated $7,000,000 for each of fiscal years 2011 through 2013 for the cost (as defined in [section 661a(5) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5&num=0&edition=prelim)) of guaranteeing $300,000,000 in loans under this section, such sums to remain available until expended.
-
-**(e) Regional innovation research and information program**
+**(c) Regional innovation research and information program**
 
 (1) **In general** — As part of the program established under subsection (a), the Secretary shall establish a regional innovation research and information program—
 
@@ -2298,9 +2202,9 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
 (3) **Dissemination of information** — Data and analysis compiled by the Secretary under the program established in this subsection shall be made available to other Federal agencies, State and local governments, and nonprofit and for-profit entities.
 
-(4) **Regional innovation grant program** — The Secretary shall incorporate data and analysis relating to any grant under subsection (b) or (c) and any loan guarantee under subsection (d) into the program established under this subsection.
+(4) **Regional innovation grant program** — The Secretary shall incorporate data and analysis relating to any grant under subsection (b) into the program established under this subsection.
 
-**(f) Interagency coordination**
+**(d) Interagency coordination**
 
 (1) **In general** — To the maximum extent practicable, the Secretary shall ensure that the activities carried out under this section are coordinated with, and do not duplicate the efforts of, other programs at the Department of Commerce or other Federal agencies.
 
@@ -2310,9 +2214,9 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
   (B) *Small businesses* — The Secretary shall ensure that such collaboration with Federal agencies prioritizes the needs and challenges of small businesses.
 
-**(g) Evaluation**
+**(e) Evaluation**
 
-(1) **In general** — Not later than 3 years after January 4, 2011, the Secretary shall enter into a contract with an independent entity, such as the National Academy of Sciences, to conduct an evaluation of the program established under subsection (a).
+(1) **In general** — Not later than 3 years after December 16, 2014, the Secretary shall enter into a contract with an independent entity, such as the National Academy of Sciences, to conduct an evaluation of the program established under subsection (a).
 
 (2) **Requirements** — The evaluation shall include—
 
@@ -2322,11 +2226,11 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
   (C) a recommendation as to whether the program should be continued or terminated.
 
-**(h) Definitions** In this section:
+**(f) Definitions** In this section:
 
 (1) **Regional innovation cluster** — The term “regional innovation cluster” means a geographically bounded network of similar, synergistic, or complementary entities that—
 
-  (A) are engaged in or with a particular industry sector;
+  (A) are engaged in or with a particular industry sector and its related sectors;
 
   (B) have active channels for business transactions and communication;
 
@@ -2334,23 +2238,18 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
   (D) leverage the region’s unique competitive strengths to stimulate innovation and create jobs.
 
-(2) **Science park** — The term “Science 11 So in original. Probably should not be capitalized. park” means a property-based venture, which has—
+(2) **State** — The term “State” means one of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
 
-  (A) master-planned property and buildings designed primarily for private-public research and development activities, high technology and science-based companies, and research and development support services;
+**(g) Funding**
 
-  (B) a contractual or operational relationship with one or more science- or research-related institution of higher education or governmental or non-profit research laboratories;
+(1) **General rule** — Except as provided in paragraph (2), no funds are authorized to be appropriated by the Revitalize American Manufacturing and Innovation Act of 2014 for carrying out this section.
 
-  (C) a primary mission to promote research and development through industry partnerships, assisting in the growth of new ventures and promoting innovation-driven economic development;
-
-  (D) a role in facilitating the transfer of technology and business skills between researchers and industry teams; and
-
-  (E) a role in promoting technology-led economic development for the community or region in which the science park is located. A science park may be owned by a governmental or not-for-profit entity, but it may enter into partnerships or joint ventures with for-profit entities for development or management of specific components of the park.
-
-(3) **State** — The term “State” means one of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
-
-**(i) Authorization of appropriations** Except as provided in subsection (d)(8), there are authorized to be appropriated $100,000,000 for each of fiscal years 2011 through 2013 to carry out this section (other than for loan guarantees under subsection (d)).
+(2) **Authority** — To the extent provided for in advance by appropriations Acts, the Secretary may use not to exceed $10,000,000 for each of the fiscal years 2015 through 2019 to carry out this section from amounts appropriated for economic development assistance programs.
 
 ### Statutory Notes
 
-#### Change of Name
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+#### References in Text
+The Revitalize American Manufacturing and Innovation Act of 2014, referred to in subsec. (g)(1), is title VII of div. B. of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2220. For complete classification of this Act to the Code, see Short Title note under [section 271 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-271) and Tables.
+
+#### Amendments
+2014—Pub. L. 113–235 amended section generally. Prior to amendment, text related to regional innovation program and consisted of subsecs. (a) to (i), including provisions relating to establishment of program, cluster grants, science and research park development grants, loan guarantees for science park infrastructure, regional innovation research and information program, interagency coordination, evaluation of program, definitions, and authorization of appropriations.

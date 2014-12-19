@@ -146,13 +146,13 @@ The corporation shall be operated in a manner and for purposes that qualify the 
 
 <a id="section-40706"></a>
 ## § 40706. Distribution of assets on dissolution
-**(a) Secretary of the Army.—** On dissolution of the corporation, title to the following items, and the right to possess the items, vest in the Secretary of the Army—
+**(a) Secretary of the Army.—** On dissolution of the corporation, title to the following items, and the right to possess the items, vest in the Secretary of the Army:
 
-(1) firearms stored at Defense Distribution Depot, Anniston, Anniston, Alabama on the date of dissolution.
+(1) Firearms stored at Defense Distribution Depot, Anniston, Anniston, Alabama on the date of dissolution.
 
 (2) M–16 rifles under control of the corporation.
 
-(3) trophies received from the National Board for the Promotion of Rifle Practice through the date of dissolution.
+(3) Trophies received from the National Board for the Promotion of Rifle Practice through the date of dissolution.
 
 **(b) Tax-Exempt Organizations.—**
 
@@ -179,6 +179,9 @@ The corporation shall be operated in a manner and for purposes that qualify the 
 In subsection (a), before clause (1), the words “title to the following items, and the right to possess the items, vest in the Secretary of the Army” are substituted for “title to [specified items] . . . shall vest in the Secretary of the Army, and the Secretary shall have the immediate right to the possession of such items” to eliminate unnecessary words. In clause (2), the words “M–16 rifles under control of the corporation” are substituted for “M–16 rifles that are transferred to the Corporation under section 1615(a)(2), that are referred to in section 1616(a)(3), or that are otherwise under the control of the Corporation” to eliminate unnecessary words.
 
 In subsection (b), paragraph (2) is applied only to subsection (b) because the prohibition is not relevant to 36:5509(a)(1) or (3).
+
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–237 substituted colon for dash at end of introductory provisions, “Firearms” for “firearms” in par. (1) and “Trophies” for “trophies” in par. (3).
 
 
 <a id="section-40707"></a>

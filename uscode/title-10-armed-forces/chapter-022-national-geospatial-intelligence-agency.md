@@ -96,7 +96,7 @@ Pub. L. 104–201, div. A, title XI, § 1117, Sept. 23, 1996, 110 Stat. 2686, pr
 
 **(c) Maps, Charts, Etc.—** The National Geospatial-Intelligence Agency shall prepare and distribute maps, charts, books, and geodetic products as authorized under subchapter II of this chapter.
 
-**(d) National Missions.—** The National Geospatial-Intelligence Agency also has national missions as specified in section 110(a) of the National Security Act of 1947 ([50 U.S.C. 404e(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section404e/a&num=0&edition=prelim)).11 See References in Text note below.
+**(d) National Missions.—** The National Geospatial-Intelligence Agency also has national missions as specified in section 110(a) of the National Security Act of 1947 ([50 U.S.C. 3045(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3045/a&num=0&edition=prelim)).
 
 **(e) Systems.—** The National Geospatial-Intelligence Agency may, in furtherance of a mission of the Agency, design, develop, deploy, operate, and maintain systems related to the processing and dissemination of imagery intelligence and geospatial information that may be transferred to, accepted or used by, or used on behalf of—
 
@@ -106,10 +106,9 @@ Pub. L. 104–201, div. A, title XI, § 1117, Sept. 23, 1996, 110 Stat. 2686, pr
 
 ### Statutory Notes
 
-#### References in Text
-The National Security Act of 1947, referred to in subsec. (d), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 110 of the Act is now classified to [section 3045 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3045&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
-
 #### Amendments
+2014—Subsec. (d). Pub. L. 113–291 substituted “([50 U.S.C. 3045(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3045/a&num=0&edition=prelim))” for “([50 U.S.C. 404e(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section404e/a&num=0&edition=prelim))”.
+
 2010—Subsec. (a)(2). Pub. L. 111–259, § 432(2), added par. (2). Former par. (2) redesignated (3).
 
 Subsec. (a)(3). Pub. L. 111–259, § 432(1), (3), redesignated par. (2) as (3) and substituted “paragraphs (1) and (2)” for “paragraph (1)”.
@@ -168,7 +167,7 @@ Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, pr
 
 (1) In furtherance of the national intelligence effort, the Director of the Central Intelligence Agency may provide administrative and contract services to the National Geospatial-Intelligence Agency as if that agency were an organizational element of the Central Intelligence Agency.
 
-(2) Services provided under paragraph (1) may include the services of security police. For purposes of section 15 of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim)o),11 See References in Text note below. an installation of the National Geospatial-Intelligence Agency that is provided security police services under this section shall be considered an installation of the Central Intelligence Agency.
+(2) Services provided under paragraph (1) may include the services of security police. For purposes of section 15 of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 3515](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3515&num=0&edition=prelim)), an installation of the National Geospatial-Intelligence Agency that is provided security police services under this section shall be considered an installation of the Central Intelligence Agency.
 
 (3) Support provided under this subsection shall be provided under terms and conditions agreed upon by the Secretary of Defense and the Director of the Central Intelligence Agency.
 
@@ -184,14 +183,18 @@ Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, pr
 
   (A) may accept funds transferred under paragraph (1); and
 
-  (B) shall expend such funds, in accordance with the Central Intelligence Agency Act of 1949 ([50 U.S.C. 403a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403a&num=0&edition=prelim) et seq.),1 to provide administrative and contract services or detail personnel to the National Geospatial-Intelligence Agency under this section.
+  (B) shall expend such funds, in accordance with the Central Intelligence Agency Act of 1949 ([50 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3501&num=0&edition=prelim) et seq.), to provide administrative and contract services or detail personnel to the National Geospatial-Intelligence Agency under this section.
 
 ### Statutory Notes
 
 #### References in Text
-The Central Intelligence Agency Act of 1949, referred to in subsec. (e)(2)(B), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 46 (§ 3501 et seq.) of Title 50. Section 15 of the Act is now classified to [section 3515 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3515&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+The Central Intelligence Agency Act of 1949, referred to in subsec. (e)(2)(B), is act June 20, 1949, ch. 227, 63 Stat. 208, which is classified generally to chapter 46 (§ 3501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2014—Subsec. (b)(2). Pub. L. 113–291, § 1071(c)(7)(A), substituted “([50 U.S.C. 3515](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3515&num=0&edition=prelim))” for “([50 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim)o)”.
+
+Subsec. (e)(2)(B). Pub. L. 113–291, § 1071(c)(7)(B), substituted “([50 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3501&num=0&edition=prelim) et seq.)” for “([50 U.S.C. 403a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403a&num=0&edition=prelim) et seq.)”.
+
 2009—Pub. L. 111–84 repealed Pub. L. 110–417, § 932(c). See 2008 Amendment note below.
 
 2008—Pub. L. 110–181 and Pub. L. 110–417, § 932(c), amended section identically, substituting “Director of the Central Intelligence Agency” for “Director of Central Intelligence” wherever appearing. Pub. L. 110–417, § 932(c), was repealed by Pub. L. 111–84.
@@ -392,7 +395,7 @@ Pub. L. 103–337, div. A, title X, § 1074(d), Oct. 5, 1994, 108 Stat. 2861, pr
 
 <a id="section-457"></a>
 ## § 457. Operational files previously maintained by or concerning activities of National Photographic Interpretation Center: authority to withhold from public disclosure
-**(a) Authority.—** The Secretary of Defense may withhold from public disclosure operational files described in subsection (b) to the same extent that operational files may be withheld under section 701 of the National Security Act of 1947 ([50 U.S.C. 431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section431&num=0&edition=prelim)).11 See References in Text note below.
+**(a) Authority.—** The Secretary of Defense may withhold from public disclosure operational files described in subsection (b) to the same extent that operational files may be withheld under section 701 of the National Security Act of 1947 ([50 U.S.C. 3141](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3141&num=0&edition=prelim)).
 
 **(b) Covered Operational Files.—** The authority under subsection (a) applies to operational files in the possession of the National Geospatial-Intelligence Agency that—
 
@@ -400,14 +403,15 @@ Pub. L. 103–337, div. A, title X, § 1074(d), Oct. 5, 1994, 108 Stat. 2861, pr
 
 (2) concern the activities of the Agency that, as of such date, were performed by the National Photographic Interpretation Center.
 
-**(c) Operational Files Defined.—** In this section, the term “operational files” has the meaning given that term in section 701(b) of the National Security Act of 1947 ([50 U.S.C. 431(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section431/b&num=0&edition=prelim)).1
+**(c) Operational Files Defined.—** In this section, the term “operational files” has the meaning given that term in section 701(b) of the National Security Act of 1947 ([50 U.S.C. 3141(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3141/b&num=0&edition=prelim)).
 
 ### Statutory Notes
 
-#### References in Text
-The National Security Act of 1947, referred to in subsecs. (a) and (c), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 701 of the Act is now classified to [section 3141 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3141&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
-
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–291, § 1071(c)(8)(A), substituted “([50 U.S.C. 3141](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3141&num=0&edition=prelim))” for “([50 U.S.C. 431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section431&num=0&edition=prelim))”.
+
+Subsec. (c). Pub. L. 113–291, § 1071(c)(8)(B), substituted “([50 U.S.C. 3141(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3141/b&num=0&edition=prelim))” for “([50 U.S.C. 431(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section431/b&num=0&edition=prelim))”.
+
 2003—Subsec. (b). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in introductory provisions.
 
 
@@ -439,14 +443,13 @@ Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out a
 <a id="section-462"></a>
 ## § 462. Financial assistance to certain employees in acquisition of critical skills
 
-The Secretary of Defense may establish an undergraduate training program with respect to civilian employees of the National Geospatial-Intelligence Agency that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Agency Act of 1959 ([50 U.S.C. 402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section402&num=0&edition=prelim) note) 11 See References in Text note below. for civilian employees of the National Security Agency.
+The Secretary of Defense may establish an undergraduate training program with respect to civilian employees of the National Geospatial-Intelligence Agency that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Agency Act of 1959 ([50 U.S.C. 3614](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3614&num=0&edition=prelim)) for civilian employees of the National Security Agency.
 
 ### Statutory Notes
 
-#### References in Text
-Section 16 of the National Security Agency Act of 1959, referred to in text, is section 16 of Pub. L. 86–36, as added Pub. L. 99–569, title V, § 505, Oct. 27, 1986, 100 Stat. 3200; amended Pub. L. 111–259, title III, § 312(a)–(d), Oct. 7, 2010, 124 Stat. 2663, 2664, which was set out in a note under [section 402 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section402&num=0&edition=prelim), War and National Defense, prior to editorial reclassification to [section 3614 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3614&num=0&edition=prelim).
-
 #### Amendments
+2014—Pub. L. 113–291 substituted “([50 U.S.C. 3614](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3614&num=0&edition=prelim))” for “([50 U.S.C. 402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section402&num=0&edition=prelim) note)”.
+
 2003—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 

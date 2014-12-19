@@ -199,7 +199,7 @@ Pub. L. 103–397, § 5(a), Oct. 22, 1994, 108 Stat. 4158, provided that: “(1)
 
 (1) The limitation for a unit of general local government with a population of not more than 4,999 is the highest dollar amount specified in paragraph (2).
 
-(2) The limitation for a unit of general local government with a population of at least 5,000 is the following amount (rounding the population off to the nearest thousand): the limitation is equal to the population If population equals—times— 5,000$110.00 6,000103.00 7,00097.00 8,00090.00 9,00084.00 10,00077.00 11,00075.00 12,00073.00 13,00070.00 14,00068.00 15,00066.00 16,00065.00 17,00064.00 18,00063.00 19,00062.00 20,00061.00 21,00060.00 22,00059.00 23,00059.00 24,00058.00 25,00057.00 26,00056.00 27,00056.00 28,00056.00 29,00055.00 30,00055.00 31,00054.00 32,00054.00 33,00053.00 34,00053.00 35,00052.00 36,00052.00 37,00051.00 38,00051.00 39,00050.00 40,00050.00 41,00049.00 42,00048.00 43,00048.00 44,00047.00 45,00047.00 46,00046.00 47,00046.00 48,00045.00 49,00045.00 50,00044.00.
+(2) The limitation for a unit of general local government with a population of at least 5,000 is the following amount (rounding the population off to the nearest thousand): If the population equals—the limitation is equal to the population times— 5,000$110.00 6,000103.00 7,00097.00 8,00090.00 9,00084.00 10,00077.00 11,00075.00 12,00073.00 13,00070.00 14,00068.00 15,00066.00 16,00065.00 17,00064.00 18,00063.00 19,00062.00 20,00061.00 21,00060.00 22,00059.00 23,00059.00 24,00058.00 25,00057.00 26,00056.00 27,00056.00 28,00056.00 29,00055.00 30,00055.00 31,00054.00 32,00054.00 33,00053.00 34,00053.00 35,00052.00 36,00052.00 37,00051.00 38,00051.00 39,00050.00 40,00050.00 41,00049.00 42,00048.00 43,00048.00 44,00047.00 45,00047.00 46,00046.00 47,00046.00 48,00045.00 49,00045.00 50,00044.00.
 
 **(d)** On October 1 of each year after the date of enactment of the Payment in Lieu of Taxes Act, the Secretary of the Interior shall adjust each dollar amount specified in subsections (b) and (c) to reflect changes in the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor, for the 12 months ending the preceding June 30.
 
@@ -271,7 +271,7 @@ Pub. L. 103–397, §5(b)(3), Oct. 22, 1994, 108 Stat. 4159, provided for the am
 Pub. L. 103–397, §5(b)(4), Oct. 22, 1994, 108 Stat. 4160, provided for the amendment of the table at the end of subsec. (c)(2) of this section during fiscal year 1998.
 
 #### Payments Made Prior to January 1, 1983
-Pub. L. 98–63, title I, § 101(3), July 30, 1983, 97 Stat. 324, provided in part that: “The United States shall not be subject to any cause of action or any liability for distribution of payments made prior to January 1, 1983, under the Act of October 20, 1976 (90 Stat. 2662), as amended [Pub. L. 94–565, see [31 U.S.C. 6901](./chapter-069-payment-for-entitlement-land.md#section-6901) et seq.], or regulations pursuant thereto.”
+Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 324, provided in part that: “The United States shall not be subject to any cause of action or any liability for distribution of payments made prior to January 1, 1983, under the Act of October 20, 1976 (90 Stat. 2662), as amended [Pub. L. 94–565, see [31 U.S.C. 6901](./chapter-069-payment-for-entitlement-land.md#section-6901) et seq.], or regulations pursuant thereto.”
 
 
 <a id="section-6904"></a>
@@ -355,7 +355,7 @@ The provisions of Act of December 23, 1980 (Public Law 96–586, 94 Stat. 3383) 
 <a id="section-6906"></a>
 ## § 6906. Funding
 
-For each of fiscal years 2008 through 2013—
+For each of fiscal years 2008 through 2014—
 
 (1) each county or other eligible unit of local government shall be entitled to payment under this chapter; and
 
@@ -371,6 +371,8 @@ For each of fiscal years 2008 through 2013—
 The words “to the Secretary of the Interior” are added for clarity. The words “Provided, That, notwithstanding any other provision of this chapter” and “in advance” are omitted as unnecessary.
 
 #### Amendments
+2014—Pub. L. 113–79 substituted “2014” for “2013” in introductory provisions.
+
 2012—Pub. L. 112–141 substituted “2013” for “2012” in introductory provisions.
 
 2008—Pub. L. 110–343 amended section generally. Prior to amendment, section read as follows: “Necessary amounts may be appropriated to the Secretary of the Interior to carry out this chapter. Amounts are available only as provided in appropriation laws.”

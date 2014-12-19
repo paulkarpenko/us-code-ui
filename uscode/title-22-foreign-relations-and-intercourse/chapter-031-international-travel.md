@@ -68,6 +68,9 @@ Subsec. (b)(2) to (16). Pub. L. 102–372, § 5(2), (3), added pars. (2) to (5) 
 #### Effective Date of 1981 Amendment
 Pub. L. 97–63, § 6, Oct. 16, 1981, 95 Stat. 1018, provided that: “The amendments made by this Act [see Short Title of 1981 Amendment note below] shall take effect October 1, 1981.”
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–235, div. B, title VI, § 601, Dec. 16, 2014, 128 Stat. 2218, provided that: “This title [amending sections 2123, 2123a, and 2131 of this title and [section 1187 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187&num=0&edition=prelim), Aliens and Nationality] may be cited as the “Travel Promotion, Enhancement, and Modernization Act of 2014”.
+
 #### Short Title of 1996 Amendment
 Pub. L. 104–288, § 1, Oct. 11, 1996, 110 Stat. 3402, provided that: “This Act [enacting sections 2124 and 2141 to 2141f of this title, amending sections 2122 and 2124c of this title and [section 4727 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4727&num=0&edition=prelim), Commerce and Trade, and repealing sections 2123 to 2123d, 2124 to 2124b, and 2126 to 2129 of this title] may be cited as the ‘United States National Tourism Organization Act of 1996’.”
 
@@ -206,7 +209,7 @@ Amendment by Pub. L. 97–63 effective Oct. 1, 1981, see section 6 of Pub. L. 97
 Pub. L. 108–7, div. B, title II, § 210, Feb. 20, 2003, 117 Stat. 78, provided that: “(a) The Secretary of Commerce is authorized to award grants and make direct lump sum payments in support of an international advertising and promotional campaign developed in consultation with the private sector to encourage individuals to travel to the United States consisting of radio, television, and print advertising and marketing programs. “(b) The United States Travel and Tourism Promotion Advisory Board (hereinafter ‘Board’) is established to recommend the appropriate coordinated activities to the Secretary for funding. “(c) The Secretary shall appoint the Board within 30 days of enactment [Feb. 20, 2003] and shall include tourism-related entities he deems appropriate. “(d) The Secretary shall consult with the Board and State and regional tourism officials on the disbursement of funds. “(e) There is authorized to be appropriated $50,000,000, to remain available until expended, and $50,000,000 is appropriated to implement this section.”
 
 #### Survey of International Air Travelers
-Pub. L. 102–372, § 3, Sept. 30, 1992, 106 Stat. 1171, provided that: “The Secretary of Commerce, to the extent available resources permit, shall improve the survey of international air travelers conducted to provide the data needed to estimate the Nation’s balance of payments in international travel by— “(1) expanding the survey to cover travel to and from the Middle East, Africa, South America, and the Caribbean and enhancing coverage for Mexico, Oceania, the Far East, and Europe; and “(2) improving the methodology for conducting on-board surveys by (A) enhancing communications, training, and liaison activities in cooperation with participating air carriers, (B) providing for the continuation of needed data bases, and (C) utilizing improved sampling procedures. The Secretary of Commerce shall seek to increase the reporting frequency of the data provided by Statistics Canada and the Bank of Mexico on international travel trade between the United States and both Canada and Mexico. The Secretary shall improve the quarterly statistical report on United States international travel receipts and payments published in the Bureau of Economic Analysis document known as ‘The Survey of Current Services’ and heighten its visibility.”
+Pub. L. 102–372, § 3, Sept. 30, 1992, 106 Stat. 1171, provided that: “The Secretary of Commerce, to the extent available resources permit, shall improve the survey of international air travelers conducted to provide the data needed to estimate the Nation’s balance of payments in international travel by—“(1) expanding the survey to cover travel to and from the Middle East, Africa, South America, and the Caribbean and enhancing coverage for Mexico, Oceania, the Far East, and Europe; and “(2) improving the methodology for conducting on-board surveys by (A) enhancing communications, training, and liaison activities in cooperation with participating air carriers, (B) providing for the continuation of needed data bases, and (C) utilizing improved sampling procedures. The Secretary of Commerce shall seek to increase the reporting frequency of the data provided by Statistics Canada and the Bank of Mexico on international travel trade between the United States and both Canada and Mexico. The Secretary shall improve the quarterly statistical report on United States international travel receipts and payments published in the Bureau of Economic Analysis document known as ‘The Survey of Current Services’ and heighten its visibility.”
 
 #### Report on Tourism and Travel Activities
 Pub. L. 102–372, § 18, Sept. 30, 1992, 106 Stat. 1182, directed Secretary of Commerce, within 18 months after Sept. 30, 1992, to report to Congress on (1) status of actions required by section 3 of Pub. L. 102–372 and desirability and feasibility of publishing international travel receipts and payments on a monthly basis, (2) Secretary’s actions under [22 U.S.C. 2122(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2122/8&num=0&edition=prelim) regarding the inbound and outbound tourism trade between United States and emerging democracies of Eastern Europe and the former Soviet Union, (3) activities of Department of Commerce and other Federal agencies to increase tourism opportunities for, and encourage travel by, disabled persons, and (4) efforts undertaken under [22 U.S.C. 2123c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2123c&num=0&edition=prelim) to improve visitor facilitation and effect on United States travel and tourism as a result of those improvements.
@@ -499,7 +502,7 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
 (2) **Board of directors**
 
-  (A) *In general* — The Corporation shall have a board of directors of 11 members with knowledge of international travel promotion and marketing, broadly representing various regions of the United States, who are United States citizens. Members of the board shall be appointed by the Secretary of Commerce (after consultation with the Secretary of Homeland Security and the Secretary of State), as follows:
+  (A) *In general* — The Corporation shall have a board of directors of 11 members with knowledge of international travel promotion or marketing, broadly representing various regions of the United States, who are United States citizens. At least 5 members of the board shall have experience working in United States multinational entities with marketing budgets. At least 2 members of the board shall be audit committee financial experts (as defined by the Securities and Exchange Commission in accordance with [section 7265 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7265&num=0&edition=prelim)). All members of the board shall be a current or former chief executive officer, chief financial officer, or chief marketing officer, or have held an equivalent management position. Members of the board shall be appointed by the Secretary of Commerce (after consultation with the Secretary of Homeland Security and the Secretary of State), as follows:
 
     (i) 1 shall have appropriate expertise and experience in the hotel accommodations sector;
 
@@ -519,7 +522,7 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
     (ix) 1 shall have appropriate expertise and experience in immigration law and policy, including visa requirements and United States entry procedures; and
 
-    (x) 1 shall have appropriate expertise in the intercity passenger railroad business.
+    (x) 1 shall have appropriate expertise in the land or sea passenger transportation sector.
 
   (B) *Incorporation* — The members of the initial board of directors shall serve as incorporators and shall take whatever actions are necessary to establish the Corporation under the District of Columbia Nonprofit Corporation Act (D.C. Code, section 29–301.01 et seq.).
 
@@ -567,7 +570,7 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
     (iii) to maximize the economic and diplomatic benefits of travel to the United States by promoting the United States of America to world travelers through the use of, but not limited to, all forms of advertising, outreach to trade shows, and other appropriate promotional activities;
 
-    (iv) to ensure that international travel benefits all States and the District of Columbia and to identify opportunities and strategies to promote tourism to rural and urban areas equally, including areas not traditionally visited by international travelers; and
+    (iv) to ensure that international travel benefits all States and territories of the United States and the District of Columbia, and to identify opportunities and strategies to promote tourism to rural and urban areas equally, including areas not traditionally visited by international travelers; and
 
     (v) to give priority to the Corporation’s efforts with respect to countries and populations most likely to travel to the United States.
 
@@ -605,7 +608,7 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
 (1) **Objectives** — The Board shall establish annual objectives for the Corporation for each fiscal year subject to approval by the Secretary of Commerce (after consultation with the Secretary of Homeland Security and the Secretary of State). The Corporation shall establish a marketing plan for each fiscal year not less than 60 days before the beginning of that year and provide a copy of the plan, and any revisions thereof, to the Secretary.
 
-(2) **Budget** — The board shall transmit a copy of the Corporation’s budget for the forthcoming fiscal year to the Secretary not less than 60 days before the beginning of each fiscal year, together with an explanation of any expenditure provided for by the budget in excess of $5,000,000 for the fiscal year. The Corporation shall make a copy of the budget and the explanation available to the public and shall provide public access to the budget and explanation on the Corporation’s website.
+(2) **Budget** — The board shall transmit a copy of the Corporation’s budget for the forthcoming fiscal year to the Secretary not less than 60 days before the beginning of each fiscal year, together with an explanation of any expenditure provided for by the budget in excess of $500,000 for the fiscal year. The Corporation shall make a copy of the budget and the explanation available to the public and shall provide public access to the budget and explanation on the Corporation’s website.
 
 (3) **Annual report to Congress** — The Corporation shall submit an annual report for the preceding fiscal year to the Secretary of Commerce for transmittal to the Congress on or before the 15th day of May of each year. The report shall include—
 
@@ -619,9 +622,19 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
   (E) an explanation of the reason for any failure to achieve an objective established by the board and any revisions or alterations to the Corporation’s objectives under paragraph (1);
 
-  (F) a comprehensive and detailed report of the Corporation’s operations and activities to promote tourism in rural and urban areas; and
+  (F) a comprehensive and detailed report of the Corporation’s operations and activities to promote tourism in rural and urban areas;
 
-  (G) such recommendations as the Corporation deems appropriate.
+  (G) a description of, and rationales for, the Corporation’s efforts to focus on specific countries and populations;
+
+  (H)
+
+    (i) a description of, and rationales for, the Corporation’s combination of media channels employed in meeting the promotional objectives of its marketing campaign;
+
+    (ii) the ratio in which such channels are used; and
+
+    (iii) a justification for the use and ratio of such channels; and
+
+  (I) such recommendations as the Corporation deems appropriate.
 
 (4) **Limitation on use of funds** — Amounts deposited in the Fund may not be used for any purpose inconsistent with carrying out the objectives, budget, and report described in this subsection.
 
@@ -633,7 +646,7 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
   (A) *Start-up expenses* — The Secretary of the Treasury shall make available to the Corporation such sums as may be necessary, but not to exceed $10,000,000, from amounts deposited in the general fund of the Treasury from fees under [section 1187(h)(3)(B)(i)(I) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187/h/3/B/i/I&num=0&edition=prelim) to cover the Corporation’s initial expenses and activities under this section. Transfers shall be made at least monthly, immediately following the collection of fees under [section 1187(h)(3)(B)(i)(I) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187/h/3/B/i/I&num=0&edition=prelim), on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
 
-  (B) *Subsequent years* — For each of fiscal years 2012 through 2015, from amounts deposited in the general fund of the Treasury during the preceding fiscal year from fees under [section 1187(h)(3)(B)(i)(I) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187/h/3/B/i/I&num=0&edition=prelim), the Secretary of the Treasury shall transfer not more than $100,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
+  (B) *Subsequent years* — For each of fiscal years 2012 through 2020, from amounts deposited in the general fund of the Treasury during the preceding fiscal year from fees under [section 1187(h)(3)(B)(i)(I) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187/h/3/B/i/I&num=0&edition=prelim), the Secretary of the Treasury shall transfer not more than $100,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
 
 (3) **Matching requirement**
 
@@ -647,51 +660,53 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
     (i) the fair market value of goods and services (including advertising) contributed to the Corporation for use under this section may be included in the determination; but
 
-    (ii) the fair market value of such goods and services may not account for more than 80 percent of the matching requirement under subparagraph (A) for the Corporation in any fiscal year.
+    (ii) the fair market value of such goods and services may not account for more than 70 percent of the matching requirement under subparagraph (A) for the Corporation in any fiscal year.
 
   (C) *Right of refusal* — The Corporation may decline to accept any contribution in-kind that it determines to be inappropriate, not useful, or commercially worthless.
 
   (D) *Limitation* — The Corporation may not obligate or expend funds in excess of the total amount received by the Corporation for a fiscal year from Federal and non-Federal sources.
 
+  (E) *Maintenance of an in-kind contributions policy* — The Corporation shall maintain an in-kind contributions policy.
+
+  (F) *Formalized procedures for in-kind contributions policy* — Not later than 90 days after December 16, 2014, the Secretary of Commerce, in coordination with the Corporation, shall establish formal, publicly available procedures specifying time frames and conditions for—
+
+    (i) making and agreeing to revisions of the Corporation’s in-kind contributions policy; and
+
+    (ii) addressing and resolving disagreements between the Corporation and its partners, including the Secretary of Commerce, regarding the in-kind contributions policy.
+
+  (G) *Biannual review of procedures to determine fair market value of goods and services* — The Corporation and the Secretary of Commerce (or their designees) shall meet on a biannual basis to review the procedures to determine the fair market value of goods and services received from non-Federal sources by the Corporation under subparagraph (B).
+
 (4) **Carryforward**
 
   (A) *Federal funds* — Amounts transferred to the Fund under paragraph (2)(B) shall remain available until expended.
 
-  (B) *Matching funds* — Any amount received by the Corporation from non-Federal sources in fiscal year 2011, 2012, 2013, 2014, or 2015 that cannot be used to meet the matching requirement under paragraph (3)(A) for the fiscal year in which amount was collected may be carried forward and treated as having been received in the succeeding fiscal year for purposes of meeting the matching requirement of paragraph (3)(A) in such succeeding fiscal year.
+  (B) *Matching funds* — Any amount received by the Corporation from non-Federal sources in each of the fiscal years 2011 through 2020 that cannot be used to meet the matching requirement under paragraph (3)(A) for the fiscal year in which amount was collected may be carried forward and treated as having been received in the succeeding fiscal year for purposes of meeting the matching requirement of paragraph (3)(A) in such succeeding fiscal year.
 
-**(e) Omitted**
+**(e) Repealed. Pub. L. 113–235, div. B, title VI, § 607, Dec. 16, 2014, 128 Stat. 2220**
 
-**(f) Assessment authority**
+**(f) Accountability**
 
-(1) **In general** — Except as otherwise provided in this subsection, the Corporation may impose an annual assessment on United States members of the international travel and tourism industry (other than those described in subsection (b)(2)(A)(iii) or (H)) represented on the Board in proportion to their share of the aggregate international travel and tourism revenue of the industry. The Corporation shall be responsible for verifying, implementing, and collecting the assessment authorized by this subsection.
+(1) **Performance plans and measures** — Not later than 90 days after December 16, 2014, the Corporation shall—
 
-(2) **Initial assessment limited** — The Corporation may establish the initial assessment after March 4, 2010, at no greater, in the aggregate, than $20,000,000.
+  (A) establish performance metrics including, time frames, evaluation methodologies, and data sources for measuring—
 
-(3) **Referenda**
+    (i) the effectiveness of marketing efforts by the Corporation, including its progress in achieving the long-term goals of increased traveler visits to and spending in the United States;
 
-  (A) *In general* — The Corporation may not impose an annual assessment unless—
+    (ii) whether increases in visitation and spending have occurred in response to external influences, such as economic conditions or exchange rates, rather than in response to the efforts of the Corporation; and
 
-    (i) the Corporation submits the proposed annual assessment to members of the industry in a referendum; and
+    (iii) any cost or benefit to the economy of the United States; and
 
-    (ii) the assessment is approved by a majority of those voting in the referendum.
+  (B) conduct periodic program evaluations in response to the data resulting from measurements under subparagraph (A).
 
-  (B) *Procedural requirements* — In conducting a referendum under this paragraph, the Corporation shall—
+(2) **GAO accountability** — Not later than 60 days after the date on which the Corporation receives a report from the Government Accountability Office with recommendations for the Corporation, the Corporation shall submit a report to Congress that describes the actions taken by the Corporation in response to the recommendations in such report.
 
-    (i) provide written or electronic notice not less than 60 days before the date of the referendum;
+**(g) Procurement Requirements** The Corporation shall—
 
-    (ii) describe the proposed assessment or increase and explain the reasons for the referendum in the notice; and
+(1) establish a competitive procurement process; and
 
-    (iii) determine the results of the referendum on the basis of weighted voting apportioned according to each business entity’s relative share of the aggregate annual United States international travel and tourism revenue for the industry per business entity, treating all related entities as a single entity.
+(2) certify in its annual report to Congress under subsection (c)(3) that any contracts entered into were in compliance with the established competitive procurement process.
 
-(4) **Collection**
-
-  (A) *In general* — The Corporation shall establish a means of collecting the assessment that it finds to be efficient and effective. The Corporation may establish a late payment charge and rate of interest to be imposed on any person who fails to remit or pay to the Corporation any amount assessed by the Corporation under this section.
-
-  (B) *Enforcement* — The Corporation may bring suit in Federal court to compel compliance with an assessment levied by the Corporation under this section.
-
-(5) **Investment of funds** — Pending disbursement pursuant to a program, plan, or project, the Corporation may invest funds collected through assessments, and any other funds received by the Corporation, only in obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank that is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States.
-
-**(g) , (h) Omitted**
+**(h) to (j) Omitted**
 
 ### Statutory Notes
 
@@ -699,11 +714,41 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b)(1), (2)(B), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 #### Codification
-Section is comprised of section 9 of Pub. L. 111–145. Subsec. (e) of section 9 of Pub. L. 111–145 amended [section 1187 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187&num=0&edition=prelim), Aliens and Nationality. Subsecs. (g) and (h) of section 9 of Pub. L. 111–145 enacted sections 2123 and 2123a of this title, respectively.
+Section is comprised of section 9 of Pub. L. 111–145. Subsec. (h) of section 9 of Pub. L. 111–145, as redesignated by Pub. L. 113–235, § 606(1), amended [section 1187 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187&num=0&edition=prelim), Aliens and Nationality. Subsecs. (i) and (j) of section 9 of Pub. L. 111–145, as redesignated by Pub. L. 113–235, § 606(1), enacted sections 2123 and 2123a of this title, respectively.
 
 Section was enacted as part of the United States Capitol Police Administrative Technical Corrections Act of 2009, and not as part of the International Travel Act of 1961 which comprises this chapter.
 
 #### Amendments
+2014—Subsec. (b)(2)(A). Pub. L. 113–235, § 602(1), in introductory provisions, substituted “promotion or marketing” for “promotion and marketing” and inserted “At least 5 members of the board shall have experience working in United States multinational entities with marketing budgets. At least 2 members of the board shall be audit committee financial experts (as defined by the Securities and Exchange Commission in accordance with [section 7265 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7265&num=0&edition=prelim)). All members of the board shall be a current or former chief executive officer, chief financial officer, or chief marketing officer, or have held an equivalent management position.” after “United States citizens.”
+
+Subsec. (b)(2)(A)(x). Pub. L. 113–235, § 602(2), substituted “land or sea passenger transportation sector” for “intercity passenger railroad business”.
+
+Subsec. (b)(5)(A)(iv). Pub. L. 113–235, § 605(a)(1), substituted “all States and territories of the United States and the District of Columbia,” for “all States and the District of Columbia”.
+
+Subsec. (c)(2). Pub. L. 113–235, § 606(3), substituted “$500,000” for “$5,000,000”.
+
+Subsec. (c)(3)(G) to (I). Pub. L. 113–235, § 603, added subpars. (G) and (H) and redesignated former subpar. (G) as (I).
+
+Subsec. (d)(2)(B). Pub. L. 113–235, § 605(a)(2)(A), substituted “2020” for “2015”.
+
+Subsec. (d)(3)(B)(ii). Pub. L. 113–235, § 604(1), substituted “70 percent” for “80 percent”.
+
+Subsec. (d)(3)(E) to (G). Pub. L. 113–235, § 604(2), added subpars. (E) to (G).
+
+Subsec. (d)(4)(B). Pub. L. 113–235, § 605(a)(2)(B), substituted “each of the fiscal years 2011 through 2020” for “fiscal year 2011, 2012, 2013, 2014, or 2015”.
+
+Subsec. (e). Pub. L. 113–235, § 607, struck out subsec. (e), which related to Corporation’s authority to impose annual assessment on United States members of the international travel and tourism industry.
+
+Pub. L. 113–235, § 606(1), (2), redesignated subsec. (f) as (e) and moved it to follow subsec. (d). Former subsec. (e) redesignated (h).
+
+Subsec. (f). Pub. L. 113–235, § 606(4), added subsec. (f). Former subsec. (f) redesignated (e).
+
+Subsec. (g). Pub. L. 113–235, § 606(4), added subsec. (g). Former subsec. (g) redesignated (i).
+
+Subsec. (h). Pub. L. 113–235, § 606(1), redesignated subsec. (e) as (h). Former subsec. (h) redesignated (j).
+
+Subsecs. (i), (j). Pub. L. 113–235, § 606(1), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
+
 2010—Subsec. (d)(2)(A). Pub. L. 111–198, § 5(b)(1), (2), substituted “The” for “For fiscal year 2010, the” and “monthly, immediately following the collection of fees under [section 1187(h)(3)(B)(i)(I) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187/h/3/B/i/I&num=0&edition=prelim),” for “quarterly, beginning on January 1, 2010,”.
 
 Subsec. (d)(2)(B). Pub. L. 111–198, § 5(b)(3), substituted “fiscal years 2012 through 2015,” for “fiscal years 2011 through 2014,”.

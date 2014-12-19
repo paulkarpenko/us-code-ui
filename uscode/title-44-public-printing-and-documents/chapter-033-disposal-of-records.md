@@ -2,14 +2,27 @@
 title: 44
 chapter: '33'
 heading: DISPOSAL OF RECORDS
-section_count: 22
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44&num=0&edition=prelim
 ---
 <a id="section-3301"></a>
 ## § 3301. Definition of records
+**(a) Records Defined.—**
 
-As used in this chapter, “records” includes all books, papers, maps, photographs, machine readable materials, or other documentary materials, regardless of physical form or characteristics, made or received by an agency of the United States Government under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the Government or because of the informational value of data in them. Library and museum material made or acquired and preserved solely for reference or exhibition purposes, extra copies of documents preserved only for convenience of reference, and stocks of publications and of processed documents are not included.
+(1) **In general.—** — As used in this chapter, the term “records”—
+
+  (A) includes all recorded information, regardless of form or characteristics, made or received by a Federal agency under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the United States Government or because of the informational value of data in them; and
+
+  (B) does not include—
+
+    (i) library and museum material made or acquired and preserved solely for reference or exhibition purposes; or
+
+    (ii) duplicate copies of records preserved only for convenience.
+
+(2) **Recorded information defined.—** — For purposes of paragraph (1), the term “recorded information” includes all traditional forms of records, regardless of physical form or characteristics, including information created, manipulated, communicated, or stored in digital or electronic form.
+
+**(b) Determination of Definition.—** The Archivist’s determination whether recorded information, regardless of whether it exists in physical, digital, or electronic form, is a record as defined in subsection (a) shall be binding on all Federal agencies.
 
 ### Statutory Notes
 
@@ -17,6 +30,8 @@ As used in this chapter, “records” includes all books, papers, maps, photogr
 Based on 44 U.S. Code, 1964 ed., § 366 (July 7, 1943, ch. 192, § 1, 57 Stat. 380).
 
 #### Amendments
+2014—Pub. L. 113–187 amended section generally. Prior to amendment, text read as follows: “As used in this chapter, ‘records’ includes all books, papers, maps, photographs, machine readable materials, or other documentary materials, regardless of physical form or characteristics, made or received by an agency of the United States Government under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the Government or because of the informational value of data in them. Library and museum material made or acquired and preserved solely for reference or exhibition purposes, extra copies of documents preserved only for convenience of reference, and stocks of publications and of processed documents are not included.”
+
 1976—Pub. L. 94–575 expanded “records” to include “machine readable materials”.
 
 
@@ -25,11 +40,11 @@ Based on 44 U.S. Code, 1964 ed., § 366 (July 7, 1943, ch. 192, § 1, 57 Stat. 3
 
 The Archivist shall promulgate regulations, not inconsistent with this chapter, establishing—
 
-(1) procedures for the compiling and submitting to him of lists and schedules of records proposed for disposal,
+(1) procedures for the compiling and submitting to the Archivist of lists and schedules of records proposed for disposal,
 
 (2) procedures for the disposal of records authorized for disposal, and
 
-(3) standards for the reproduction of records by photographic or microphotographic processes with a view to the disposal of the original records.
+(3) standards for the reproduction of records by photographic, microphotographic, or digital processes with a view to the disposal of the original records.
 
 ### Statutory Notes
 
@@ -37,6 +52,10 @@ The Archivist shall promulgate regulations, not inconsistent with this chapter, 
 Based on 44 U.S. Code, 1964 ed., § 367 (July 7, 1943, ch. 192, § 2, 57 Stat. 381; June 30, 1949, ch. 288, title I, § 104, 63 Stat. 381).
 
 #### Amendments
+2014—Par. (1). Pub. L. 113–187, § 8(12), substituted “the Archivist” for “him”.
+
+Par. (3). Pub. L. 113–187, § 5(b), substituted “photographic, microphotographic, or digital processes” for “photographic or microphotographic processes”.
+
 1984—Pub. L. 98–497 substituted “Archivist” for “Administrator of General Services”.
 
 1976—Pub. L. 94–575 struck out “; approval by President” after “standards for reproduction” in section catchline.
@@ -50,7 +69,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 The head of each agency of the United States Government shall submit to the Archivist, under regulations promulgated as provided by [section 3302 of this title](./chapter-033-disposal-of-records.md#section-3302)—
 
-(1) lists of any records in the custody of the agency that have been photographed or microphotographed under the regulations and that, as a consequence, do not appear to have sufficient value to warrant their further preservation by the Government;
+(1) lists of any records in the custody of the agency that have been photographed, microphotographed, or digitized under the regulations and that, as a consequence, do not appear to have sufficient value to warrant their further preservation by the Government;
 
 (2) lists of other records in the custody of the agency not needed by it in the transaction of its current business and that do not appear to have sufficient administrative, legal, research, or other value to warrant their further preservation by the Government; and
 
@@ -62,6 +81,8 @@ The head of each agency of the United States Government shall submit to the Arch
 Based on 44 U.S. Code, 1964 ed., § 368 (July 7, 1943, ch. 192, § 3, 57 Stat. 381; June 30, 1949, ch. 288, title I, § 104(a), 63 Stat. 381).
 
 #### Amendments
+2014—Par. (1). Pub. L. 113–187 substituted “photographed, microphotographed, or digitized” for “photographed or microphotographed”.
+
 1984—Pub. L. 98–497 substituted “the Archivist” for “Administrator of General Services” in section catchline, and “Archivist” for “Administrator of General Services” in text.
 
 #### Effective Date of 1984 Amendment
@@ -70,15 +91,15 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 <a id="section-3303a"></a>
 ## § 3303a. Examination by Archivist of lists and schedules of records lacking preservation value; disposal of records
-**(a)** The Archivist shall examine the lists and schedules submitted to him under [section 3303 of this title](./chapter-033-disposal-of-records.md#section-3303). If the Archivist determines that any of the records listed in a list or schedule submitted to him do not, or will not after the lapse of the period specified, have sufficient administrative, legal, research, or other value to warrant their continued preservation by the Government, he may, after publication of notice in the Federal Register and an opportunity for interested persons to submit comment thereon—
+**(a)** The Archivist shall examine the lists and schedules submitted to the Archivist under [section 3303 of this title](./chapter-033-disposal-of-records.md#section-3303). If the Archivist determines that any of the records listed in a list or schedule submitted to the Archivist do not, or will not after the lapse of the period specified, have sufficient administrative, legal, research, or other value to warrant their continued preservation by the Government, the Archivist may, after publication of notice in the Federal Register and an opportunity for interested persons to submit comment thereon—
 
 (1) notify the agency to that effect; and
 
 (2) empower the agency to dispose of those records in accordance with regulations promulgated under [section 3302 of this title](./chapter-033-disposal-of-records.md#section-3302).
 
-**(b)** Authorizations granted under lists and schedules submitted to the Archivist under [section 3303 of this title](./chapter-033-disposal-of-records.md#section-3303), and schedules promulgated by the Archivist under subsection (d) of this section, shall be mandatory, subject to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2909). As between an authorization granted under lists and schedules submitted to the Archivist under [section 3303 of this title](./chapter-033-disposal-of-records.md#section-3303) and an authorization contained in a schedule promulgated under subsection (d) of this section, application of the authorization providing for the shorter retention period shall be required, subject to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2909).
+**(b)** Authorizations granted under lists and schedules submitted to the Archivist under [section 3303 of this title](./chapter-033-disposal-of-records.md#section-3303), and schedules promulgated by the Archivist under subsection (d) of this section, shall be mandatory, subject to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states.md#section-2909). As between an authorization granted under lists and schedules submitted to the Archivist under [section 3303 of this title](./chapter-033-disposal-of-records.md#section-3303) and an authorization contained in a schedule promulgated under subsection (d) of this section, application of the authorization providing for the shorter retention period shall be required, subject to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states.md#section-2909).
 
-**(c)** The Archivist may request advice and counsel from the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives with respect to the disposal of any particular records under this chapter whenever he considers that—
+**(c)** The Archivist may request advice and counsel from the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate with respect to the disposal of any particular records under this chapter whenever the Archivist considers that—
 
 (1) those particular records may be of special interest to the Congress; or
 
@@ -87,14 +108,24 @@ However, this subsection does not require the Archivist to request such advice a
 
 **(d)** The Archivist shall promulgate schedules authorizing the disposal, after the lapse of specified periods of time, of records of a specified form or character common to several or all agencies if such records will not, at the end of the periods specified, have sufficient administrative, legal, research, or other value to warrant their further preservation by the United States Government.
 
-**(e)** The Archivist may approve and effect the disposal of records that are in his legal custody, provided that records that had been in the custody of another existing agency may not be disposed of without the written consent of the head of the agency.
+**(e)** The Archivist may approve and effect the disposal of records that are in the Archivist’s legal custody, provided that records that had been in the custody of another existing agency may not be disposed of without the written consent of the head of the agency.
 
-**(f)** The Archivist shall make an annual report to the Congress concerning the disposal of records under this chapter, including general descriptions of the types of records disposed of and such other information as he considers appropriate to keep the Congress fully informed regarding the disposal of records under this chapter.
+**(f)** The Archivist shall make an annual report to the Congress concerning the disposal of records under this chapter, including general descriptions of the types of records disposed of and such other information as the Archivist considers appropriate to keep the Congress fully informed regarding the disposal of records under this chapter.
 
 ### Statutory Notes
 
 #### Amendments
-2004—Subsec. (d). Pub. L. 108–383 struck out at end “A Federal agency may request changes in such schedules for its records pursuant to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2909).”
+2014—Subsec. (a). Pub. L. 113–187, § 8(13)(A), in introductory provisions, substituted “submitted to the Archivist” for “submitted to him” in two places and “the Archivist may” for “he may”.
+
+Subsec. (c). Pub. L. 113–187, § 8(13)(B), substituted “the Archivist considers” for “he considers” in introductory provisions.
+
+Pub. L. 113–187, § 5(d), substituted “the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate” for “the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives” in introductory provisions.
+
+Subsec. (e). Pub. L. 113–187, § 8(13)(C), substituted “the Archivist’s” for “his”.
+
+Subsec. (f). Pub. L. 113–187, § 8(13)(D), substituted “the Archivist considers” for “he considers”.
+
+2004—Subsec. (d). Pub. L. 108–383 struck out at end “A Federal agency may request changes in such schedules for its records pursuant to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states.md#section-2909).”
 
 1996—Subsec. (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
@@ -108,10 +139,7 @@ Subsecs. (b) to (f). Pub. L. 98–497, § 107(b)(24)(B), substituted “Archivis
 
 1978—Subsec. (b). Pub. L. 95–440, § 1(a), made schedules promulgated by Administrator under subsec. (d) of this section mandatory; inserted provision for application of authorization providing for shorter retention period as between an authorization granted under lists and schedules submitted under [section 3303 of this title](./chapter-033-disposal-of-records.md#section-3303) and an authorization in a schedule promulgated under subsec. (d) of this section; and struck out provision making permissive authorizations granted under subsec. (d) schedules.
 
-Subsec. (d). Pub. L. 95–440, § 1(b), (c), substituted “shall” for “may” in first sentence and authorized Federal agencies to request changes in disposal schedules for its records pursuant to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2909).
-
-#### Change of Name
-Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Subsec. (d). Pub. L. 95–440, § 1(b), (c), substituted “shall” for “may” in first sentence and authorized Federal agencies to request changes in disposal schedules for its records pursuant to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states.md#section-2909).
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under [section 2102 of this title](./chapter-021-national-archives-and-records-administration.md#section-2102).
@@ -193,7 +221,8 @@ During a state of war between the United States and another nation, or when host
 
 (1) the retention of which would be prejudicial to the interests of the United States or
 
-(2) which occupy space urgently needed for military purposes and are, in his opinion, without sufficient administrative, legal, research, or other value to warrant their continued preservation. Within six months after their disposal, the official who directed the disposal shall submit a written report to the Archivist in which he shall describe the character of the records and state when and where he disposed of them.
+(2) which occupy space urgently needed for military purposes and are, in his opinion, without sufficient administrative, legal, research, or other value to warrant their continued preservation.
+Within six months after their disposal, the official who directed the disposal shall submit a written report to the Archivist in which he shall describe the character of the records and state when and where he disposed of them.
 
 ### Statutory Notes
 
@@ -210,12 +239,15 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 <a id="section-3312"></a>
 ## § 3312. Photographs or microphotographs of records considered as originals; certified reproductions admissible in evidence
 
-Photographs or microphotographs of records made in compliance with regulations under [section 3302 of this title](./chapter-033-disposal-of-records.md#section-3302) shall have the same effect as the originals and shall be treated as originals for the purpose of their admissibility in evidence. Certified or authenticated reproductions of the photographs or microphotographs shall be admitted in evidence equally with the original photographs or microphotographs.
+Photographs, microphotographs of records, or digitized records made in compliance with regulations under [section 3302 of this title](./chapter-033-disposal-of-records.md#section-3302) shall have the same effect as the originals and shall be treated as originals for the purpose of their admissibility in evidence. Certified or authenticated reproductions of the photographs, microphotographs, or digitized records shall be admitted in evidence equally with the original photographs, microphotographs, or digitized records.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 378 (July 7, 1943, ch. 192, § 13, 57 Stat. 382).
+
+#### Amendments
+2014—Pub. L. 113–187 substituted “Photographs, microphotographs of records, or digitized records” for “Photographs or microphotographs of records” and “photographs, microphotographs, or digitized records” for “photographs or microphotographs” in two places.
 
 
 <a id="section-3313"></a>
@@ -240,196 +272,27 @@ The procedures prescribed by this chapter are exclusive, and records of the Unit
 Based on 44 U.S. Code, 1964 ed., § 380 (July 7, 1943, ch. 192, § 15, 57 Stat. 383).
 
 
-<a id="section-3315"></a>
-## § 3315. Definitions
-
-For purposes of this section and section 3316 through [section 3324 of this title](./chapter-033-disposal-of-records.md#section-3324)—
-
-(1) the term “Federal official” means any individual holding the office of President or Vice President of the United States, or Senator or Representative in, or Delegate or Resident Commissioner to, the Congress of the United States, or any officer of the executive, judicial, or legislative branch of the Federal Government;
-
-(2) the term “Commission” means the National Study Commission on Records and Documents of Federal Officials; and
-
-(3) the term “records and documents” shall include handwritten and typewritten documents, motion pictures, television tapes and recordings, magnetic tapes, automated data processing documentation in various forms, and other records that reveal the history of the Nation.
+<a id="section-3315-to-3324"></a>
+## § 3315 to 3324. Repealed. Pub. L. 113–187, § 7(a), Nov. 26, 2014, 128 Stat. 2011]
 
 ### Statutory Notes
 
-#### Termination of Commission
-For provision that Commission is to cease to exist sixty days after transmitting its report, see [section 3323 of this title](./chapter-033-disposal-of-records.md#section-3323).
+Section 3315, added Pub. L. 93–526, title II, § 202, Dec. 19, 1974, 88 Stat. 1698, related to definitions of certain terms used in sections 3315 to 3324.
 
+Section 3316, added Pub. L. 93–526, title II, § 202, Dec. 19, 1974, 88 Stat. 1699, related to the establishment of the National Study Commission on Records and Documents of Federal Officials.
 
-<a id="section-3316"></a>
-## § 3316. Establishment of Commission
+Section 3317, added Pub. L. 93–526, title II, § 202, Dec. 19, 1974, 88 Stat. 1699, related to the duties of the Commission.
 
-There is established a commission to be known as the National Study Commission on Records and Documents of Federal Officials.
+Section 3318, added Pub. L. 93–526, title II, § 202, Dec. 19, 1974, 88 Stat. 1699; amended Pub. L. 94–261, § 1(a), Apr. 11, 1976, 90 Stat. 326, related to membership of the Commission.
 
-### Statutory Notes
+Section 3319, added Pub. L. 93–526, title II, § 202, Dec. 19, 1974, 88 Stat. 1701, related to director, staff, experts, and consultants.
 
-#### Termination of Commission
-For provision that Commission is to cease to exist sixty days after transmitting its report, see [section 3323 of this title](./chapter-033-disposal-of-records.md#section-3323).
+Section 3320, added Pub. L. 93–526, title II, § 202, Dec. 19, 1974, 88 Stat. 1701, related to the powers of the Commission.
 
+Section 3321, added Pub. L. 93–526, title II, § 202, Dec. 19, 1974, 88 Stat. 1701, related to support services provided to the Commission by the Administrator of General Services and the Archivist of the United States.
 
-<a id="section-3317"></a>
-## § 3317. Duties of Commission
+Section 3322, added Pub. L. 93–526, title II, § 202, Dec. 19, 1974, 88 Stat. 1701; amended Pub. L. 94–261, § 1(b), Apr. 11, 1976, 90 Stat. 326, related to the report of the Commission.
 
-It shall be the duty of the Commission to study problems and questions with respect to the control, disposition, and preservation of records and documents produced by or on behalf of Federal officials, with a view toward the development of appropriate legislative recommendations and other recommendations regarding appropriate rules and procedures with respect to such control, disposition, and preservation. Such study shall include consideration of—
+Section 3323, added Pub. L. 93–526, title II, § 202, Dec. 19, 1974, 88 Stat. 1701, related to termination of the Commission.
 
-(1) whether the historical practice regarding the records and documents produced by or on behalf of Presidents of the United States should be rejected or accepted and whether such practice should be made applicable with respect to all Federal officials;
-
-(2) the relationship of the findings of the Commission to the provisions of chapter 19 of this title, section 2101 through section 2108 11 See References in Text note below. of this title, and other Federal laws relating to the control, disposition, and preservation of records and documents of Federal officials;
-
-(3) whether the findings of the Commission should affect the control, disposition, and preservation of records and documents of agencies within the Executive Office of the President created for short-term purposes by the President;
-
-(4) the recordkeeping procedures of the White House Office, with a view toward establishing means to determine which records and documents are produced by or on behalf of the President;
-
-(5) the nature of rules and procedures which should apply to the control, disposition, and preservation of records and documents produced by Presidential task forces, commissions, and boards;
-
-(6) criteria which may be used generally in determining the scope of materials which should be considered to be the records and documents of Members of the Congress;
-
-(7) the privacy interests of individuals whose communications with Federal officials, and with task forces, commissions, and boards, are a part of the records and documents produced by such officials, task forces, commissions, and boards; and
-
-(8) any other problems, questions, or issues which the Commission considers relevant to carrying out its duties under section 3315 through [section 3324 of this title](./chapter-033-disposal-of-records.md#section-3324).
-
-### Statutory Notes
-
-#### References in Text
-Sections 2103 through 2108 of this title, referred to in par. (2), were renumbered as sections 2107 through 2112 of this title by Pub. L. 98–497, title I, § 102(a)(1), Oct. 19, 1984, 98 Stat. 2280.
-
-#### Termination of Commission
-For provision that Commission is to cease to exist sixty days after transmitting its report, see [section 3323 of this title](./chapter-033-disposal-of-records.md#section-3323).
-
-
-<a id="section-3318"></a>
-## § 3318. Membership
-**(a)**
-
-(1) The Commission shall be composed of seventeen members as follows:
-
-  (A) one Member of the House of Representatives appointed by the Speaker of the House upon recommendation made by the majority leader of the House;
-
-  (B) one Member of the House of Representatives appointed by the Speaker of the House upon recommendation made by the minority leader of the House;
-
-  (C) one Member of the Senate appointed by the President pro tempore of the Senate upon recommendation made by the majority leader of the Senate;
-
-  (D) one Member of the Senate appointed by the President pro tempore of the Senate upon recommendation made by the minority leader of the Senate;
-
-  (E) one member of the Federal judiciary appointed by the Chief Justice of the United States;
-
-  (F) one person employed by the Executive Office of the President or the White House Office, appointed by the President;
-
-  (G) three appointed by the President, by and with the advice and consent of the Senate, from persons who are not officers or employees of any government and who are specially qualified to serve on the Commission by virtue of their education, training, or experience;
-
-  (H) one representative of the Department of State, appointed by the Secretary of State;
-
-  (I) one representative of the Department of Defense, appointed by the Secretary of Defense;
-
-  (J) one representative of the Department of Justice, appointed by the Attorney General;
-
-  (K) the Administrator of General Services (or his delegate);
-
-  (L) the Librarian of Congress;
-
-  (M) one member of the American Historical Association, appointed by the counsel of such Association;
-
-  (N) one member of the Society of American Archivists, appointed by such Society; and
-
-  (O) one member of the Organization of American Historians, appointed by such Organization.
-
-(2) No more than two members appointed under paragraph (1)(G) may be of the same political party.
-
-**(b)** A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
-
-**(c)** If any member of the Commission who was appointed to the Commission as a Member of the Congress leave such office, or if any member of the Commission who was appointed from persons who are not officers or employees of any government becomes an officer or employee of a government, he may continue as a member of the Commission for no longer than the sixty-day period beginning on the date he leaves such office or becomes such an officer or employee, as the case may be.
-
-**(d)** Members shall be appointed for the life of the Commission.
-
-**(e)**
-
-(1) Members of the Commission shall serve without pay.
-
-(2) While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses in the same manner as persons employed intermittently in the service of the Federal Government are allowed expenses under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), United States Code, except that per diem in lieu of subsistence shall be paid only to those members of the Commission who are not full-time officers or employees of the United States or Members of the Congress.
-
-**(f)** The Chairman of the Commission shall be designated by the President from among members appointed under subsection (a)(1)(G).
-
-**(g)** The Commission shall meet at the call of the Chairman or a majority of its members.
-
-### Statutory Notes
-
-#### Amendments
-1976—Subsec. (a)(1)(E). Pub. L. 94–261, § 1(a)(1), substituted “one member of the Federal judiciary appointed by the Chief Justice of the United States;” for “one Justice of the Supreme Court, appointed by the Chief Justice of the United States;”.
-
-Subsec. (e)(2). Pub. L. 94–261, § 1(a)(2), substituted “[section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), United States Code” for “[section 5703(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703/b&num=0&edition=prelim), United States Code”.
-
-#### Termination of Commission
-For provision that Commission is to cease to exist sixty days after transmitting its report, see [section 3323 of this title](./chapter-033-disposal-of-records.md#section-3323).
-
-
-<a id="section-3319"></a>
-## § 3319. Director and staff; experts and consultants
-**(a)** The Commission shall appoint a Director who shall be paid at a rate not to exceed the rate of basic pay in effect for level V of the Executive Schedule ([5 U.S.C. 5316](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim)).
-
-**(b)** The Commission may appoint and fix the pay of such additional personnel as it deems necessary.
-
-**(c)**
-
-(1) The Commission may procure temporary and intermittent services to the same extent as is authorized by [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim), United States Code, but at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay in effect for grade GS–15 of the General Schedule ([5 U.S.C. 5332](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim)).
-
-(2) In procuring services under this subsection, the Commission shall seek to obtain the advice and assistance of constitutional scholars and members of the historical, archival, and journalistic professions.
-
-**(d)** Upon request of the Commission, the head of any Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist it in carrying out its duties under sections 3315 through 3324 of this title.
-
-### Statutory Notes
-
-#### Termination of Commission
-For provision that Commission is to cease to exist sixty days after transmitting its report, see [section 3323 of this title](./chapter-033-disposal-of-records.md#section-3323).
-
-
-<a id="section-3320"></a>
-## § 3320. Powers of Commission
-**(a)** The Commission may, for the purpose of carrying out its duties under sections 3315 through 3324 of this title, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Commission may deem desirable.
-
-**(b)** When so authorized by the Commission, any member or agent of the Commission may take any action which the Commission is authorized to take by this section.
-
-**(c)** The Commission may secure directly from any department or agency of the United States information necessary to enable the Commission to carry out its duties under section 3315 through [section 3324 of this title](./chapter-033-disposal-of-records.md#section-3324). Upon request of the Chairman of the Commission, the head of such department or agency shall furnish such information to the Commission.
-
-### Statutory Notes
-
-#### Termination of Commission
-For provision that Commission is to cease to exist sixty days after transmitting its report, see [section 3323 of this title](./chapter-033-disposal-of-records.md#section-3323).
-
-
-<a id="section-3321"></a>
-## § 3321. Support services
-**(a)** The Administrator of General Services shall provide to the Commission on a reimbursable basis such administrative support services and assistance as the Commission may request.
-
-**(b)** The Archivist of the United States shall provide to the Commission on a reimbursable basis such technical and expert advice, consultation, and support assistance as the Commission may request.
-
-### Statutory Notes
-
-#### Termination of Commission
-For provision that Commission is to cease to exist sixty days after transmitting its report, see [section 3323 of this title](./chapter-033-disposal-of-records.md#section-3323).
-
-
-<a id="section-3322"></a>
-## § 3322. Report
-
-The Commission shall transmit to the President and to each House of the Congress a report not later than March 31, 1977. Such report shall contain a detailed statement of the findings and conclusions of the Commission, together with its recommendations for such legislation, administrative actions, and other actions, as it deems appropriate.
-
-### Statutory Notes
-
-#### Amendments
-1976—Pub. L. 94–261 substituted “March 31, 1977” for “March 31, 1976”.
-
-#### Termination of Commission
-For provision that Commission is to cease to exist sixty days after transmitting its report, see [section 3323 of this title](./chapter-033-disposal-of-records.md#section-3323).
-
-
-<a id="section-3323"></a>
-## § 3323. Termination
-
-The Commission shall cease to exist sixty days after transmitting its report under [section 3322 of this title](./chapter-033-disposal-of-records.md#section-3322).
-
-
-<a id="section-3324"></a>
-## § 3324. Authorization of appropriations
-
-There is authorized to be appropriated such sums as may be necessary to carry out section 3315 through [section 3324 of this title](./chapter-033-disposal-of-records.md#section-3324).
+Section 3324, added Pub. L. 93–526, title II, § 202, Dec. 19, 1974, 88 Stat. 1701, related to authorization of appropriations.

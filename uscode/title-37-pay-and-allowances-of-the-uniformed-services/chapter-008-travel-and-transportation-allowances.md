@@ -26,7 +26,7 @@ source: >-
 
   (B) A family member of a member of the uniformed services.
 
-  (C) A person acting as an escort or attendant for a member or family member who is traveling on official travel or is traveling with the remains of a deceased member.
+  (C) A person acting as an escort or attendant for a member or family member who is traveling on official travel or is traveling with the remains of a deceased member or as an escort or attendant for dependents of a member for necessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone.
 
   (D) A person who participates in a military funeral honors detail.
 
@@ -93,6 +93,9 @@ source: >-
 (9) The term “dislocation allowances” means the costs associated with relocation of the household of a member of the uniformed services and the member’s dependents in relation to a change in the member’s permanent duty assignment location ordered for the convenience of the Government or incident to an evacuation.
 
 ### Statutory Notes
+
+#### Amendments
+2013—Subsec. (a)(2)(C). Pub. L. 113–66 inserted “or as an escort or attendant for dependents of a member for necessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone” before period at end.
 
 #### Purpose of Consolidation and Reform of Travel and Transportation Authorities of the Uniformed Services
 Pub. L. 112–81, div. A, title VI, § 631(a), Dec. 31, 2011, 125 Stat. 1452, provided that: “This section [see Tables for classification] establishes general travel and transportation provisions for members of the uniformed services and other travelers authorized to travel under official conditions. Recognizing the complexities and the changing nature of travel, the amendments made by this section [see Tables for classification] provide the Secretary of Defense and the other administering Secretaries with the authority to prescribe and implement travel and transportation policy that is simple, clear, efficient, and flexible, and that meets mission and servicemember needs, while realizing cost savings that should come with a more efficient and less cumbersome system for travel and transportation.”
@@ -180,7 +183,7 @@ Pub. L. 112–81, div. A, title VI, § 632, Dec. 31, 2011, 125 Stat. 1465, provi
 
 (2) The authority in paragraph (1) includes the movement and temporary and non-temporary storage of personal property, household goods, and privately owned vehicles (but not to exceed one privately owned vehicle per member household) in connection with the temporary or permanent move between authorized locations.
 
-(3) For movement of household goods, the administering Secretaries shall prescribe weight allowances in regulations under [section 464 of this title](./chapter-008-travel-and-transportation-allowances.md#section-464). The prescribed weight allowances may not exceed 18,000 pounds (including packing, crating, and household goods in temporary storage), except that the administering Secretary may, on a case-by-case basis, authorize additional weight allowances as necessary.
+(3) For movement of household goods, the administering Secretaries shall prescribe weight allowances in regulations under [section 464 of this title](./chapter-008-travel-and-transportation-allowances.md#section-464). The prescribed weight allowances may not exceed 18,000 pounds (including household goods in temporary storage, but excluding packing and crating), except that the administering Secretary may, on a case-by-case basis, authorize additional weight allowances as necessary.
 
 (4) The administering Secretary may prescribe the terms, rates, and conditions that authorize a member of the uniformed services to ship or store a privately owned vehicle.
 
@@ -197,6 +200,15 @@ Pub. L. 112–81, div. A, title VI, § 632, Dec. 31, 2011, 125 Stat. 1465, provi
 (3) A member who is discharged under [section 1173 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1173&num=0&edition=prelim).
 
 **(f) Attendance at Memorial Ceremonies and Services.—** A family member or member of the uniformed services who attends a deceased member’s repatriation, burial, or memorial ceremony or service may be provided travel and transportation allowances to the extent provided in regulations prescribed under [section 464 of this title](./chapter-008-travel-and-transportation-allowances.md#section-464).
+
+**(g) Reimbursement for Travel in Connection With Leave Cancelled Due to Contingency Operations.—** A member may be reimbursed as specified in regulations prescribed under [section 464 of this title](./chapter-008-travel-and-transportation-allowances.md#section-464) for travel and related expenses incurred by the member as a result of the cancellation of previously approved leave when the leave is cancelled in conjunction with the member’s participation in a contingency operation and the cancellation occurs within 48 hours of the time the leave would have commenced. The settlement for reimbursement under this subsection is final and conclusive.
+
+### Statutory Notes
+
+#### Amendments
+2013—Subsec. (c)(3). Pub. L. 113–66, § 621(h), substituted “(including household goods in temporary storage, but excluding packing and crating)” for “(including packing, crating, and household goods in temporary storage)”.
+
+Subsec. (g). Pub. L. 113–66, § 621(c)(1), added subsec. (g).
 
 
 <a id="section-454"></a>
@@ -968,7 +980,7 @@ Subsec. (b). Pub. L. 97–60, § 121(c), substituted “that is owned by the mem
 1966—Subsec. (a). Pub. L. 89–608 struck out provision requiring that to qualify for allowances the evacuated dependents have been evacuated from places outside the United States to places inside the United States.
 
 #### Effective Date of 1998 Amendment
-For provisions relating to the applicability of amendment by Pub. L. 105–261, see section 653(e) of Pub. L. 105–261, set out as a note under [section 2634 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim), Armed Forces.
+Pub. L. 105–261, div. A, title VI, § 653(e), Oct. 17, 1998, 112 Stat. 2052, provided that: “(1) Reimbursement for motor vehicle rental expenses may not be provided under the amendments made by this section [amending this section and sections 406 and 554 of this title and [section 2634 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim), Armed Forces] until after the date on which the Secretary of Defense submits to Congress a report containing a certification that the Department of Defense has in place and operational a system to recover the cost of providing such reimbursement from commercial carriers that are responsible for the delay in the delivery of the motor vehicles of members of the Armed Forces and their dependents. The Secretary of Defense shall prepare the report in consultation with the Secretary of Transportation, with respect to the Coast Guard. “(2) The amendments shall apply with respect to rental expenses described in such amendments that are incurred on or after the date of the submission of the report. The report shall be submitted not later than six months after the date of the enactment of this Act [Oct. 17, 1998] and shall include, in addition to the certification, a description of the system to be used to recover from commercial carriers the costs incurred under such amendments.”
 
 #### Effective Date of 1996 Amendment
 Pub. L. 104–106, div. A, title VI, § 622(b), Feb. 10, 1996, 110 Stat. 363, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to persons authorized or ordered to depart as described in [section 475a(a) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section475a/a&num=0&edition=prelim), United States Code, on or after October 1, 1995.”
@@ -1023,7 +1035,7 @@ Pub. L. 89–26, § 2, May 22, 1965, 79 Stat. 117, as amended by Pub. L. 89–60
 
   (A) Except as provided in paragraph (2), in connection with a change of temporary or permanent station, a member is entitled to transportation (including packing, crating, drayage, temporary storage, and unpacking) of baggage and household effects within the weight allowances listed in subparagraph (C), without regard to the comparative costs of the various modes of transportation. Temporary storage in excess of 180 days may be authorized. Alternatively, the member may be paid reimbursement or a monetary allowance under subparagraph (F).
 
-  (B) Subject to uniform regulations prescribed by the Secretaries concerned, in the case of a permanent change of station in which the Secretary concerned has authorized transportation of a motor vehicle under [section 2634 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim) (except when such transportation is authorized from the old duty station to the new duty station), the member is entitled to a monetary allowance for transportation of that motor vehicle—
+  (B) Subject to uniform regulations prescribed by the Secretaries concerned, in the case of a permanent change of station in which the Secretary concerned has authorized transportation of a motor vehicle under section 2634 11 See References in Text note below. of title 10 (except when such transportation is authorized from the old duty station to the new duty station), the member is entitled to a monetary allowance for transportation of that motor vehicle—
 
     (i) from the old duty station to—
 
@@ -1033,7 +1045,7 @@ Pub. L. 89–26, § 2, May 22, 1965, 79 Stat. 117, as amended by Pub. L. 89–60
       whichever is most cost-effective for the Government considering all operational, travel, and transportation requirements incident to such change of station; and
 
     (ii) from the customary port of debarkation which has been designated by the Government as most cost-effective for the Government considering all operational, travel, and transportation requirements incident to such change of station to the new duty station.
-    Such monetary allowance shall be established at a rate per mile that does not exceed the rate established under [section 474(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474/d/1&num=0&edition=prelim). If clause (i)(I) applies to the transportation by the member of a motor vehicle from the old duty station, the monetary allowance under this subparagraph shall also cover return travel to the old duty station by the member or other person transporting the vehicle. In the case of transportation described in clause (ii), the monetary allowance shall also cover travel from the new duty station to the port of debarkation to pick up the vehicle. In the case of the transportation of a motor vehicle arranged by the member under [section 2634(h) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634/h&num=0&edition=prelim), the Secretary concerned may pay the member, upon presentation of proof of shipment, a monetary allowance in lieu of transportation, as established under [section 474(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474/d/1&num=0&edition=prelim).
+    Such monetary allowance shall be established at a rate per mile that does not exceed the rate established under [section 474(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474/d/1&num=0&edition=prelim). If clause (i)(I) applies to the transportation by the member of a motor vehicle from the old duty station, the monetary allowance under this subparagraph shall also cover return travel to the old duty station by the member or other person transporting the vehicle. In the case of transportation described in clause (ii), the monetary allowance shall also cover travel from the new duty station to the port of debarkation to pick up the vehicle. In the case of the transportation of a motor vehicle arranged by the member under section 2634(h) 1 of title 10, the Secretary concerned may pay the member, upon presentation of proof of shipment, a monetary allowance in lieu of transportation, as established under [section 474(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474/d/1&num=0&edition=prelim).
 
   (C) Under regulations prescribed by the Secretary of Defense, the weight allowance in pounds to which a member is entitled under subparagraph (A) is determined in accordance with the following table: Pay GradeWithoutDependentsWithDependents O–10 to O–618,00018,000 O–516,00017,500 O–414,00017,000 O–313,00014,500 O–212,50013,500 O–110,00012,000 W–516,00017,500 W–414,00017,000 W–313,00014,500 W–212,50013,500 W–110,00012,000 E–913,00015,000 E–812,00014,000 E–711,00013,000 E–6 8,00011,000 E–5 7,000 9,000 E–4 7,000 8,000 E–3 5,000 8,000 E–2 5,000 8,000 E–1 5,000 8,000
 
@@ -1112,7 +1124,7 @@ Except in the case of a member who, on the date of his separation, discharge, or
 
   (A) authorize the movement of the member’s dependents, baggage, and household effects at the station to an appropriate location in the United States or its possessions or, if the dependents are foreign nationals, to the country of the dependents’ origin and prescribe transportation in kind, reimbursement therefor, or a monetary allowance in place thereof, as the case may be, plus a per diem, as authorized under subsection (a) or (b); and
 
-  (B) in the case of a member described in paragraph (2)(A), authorize the transportation of one motor vehicle, which is owned or leased by the member (or a dependent of the member) and is for the personal use of a dependent of the member, to that location by means of transportation authorized under [section 2634 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim) or authorize the storage of the motor vehicle pursuant to subsection (b) of such section.
+  (B) in the case of a member described in paragraph (2)(A), authorize the transportation of one motor vehicle, which is owned or leased by the member (or a dependent of the member) and is for the personal use of a dependent of the member, to that location by means of transportation authorized under section 2634 1 of title 10 or authorize the storage of the motor vehicle pursuant to subsection (b) of such section.
   If the member’s baggage and household effects are in nontemporary storage under subsection (d), the Secretary concerned may authorize their movement to the location concerned and prescribe transportation in kind or reimbursement therefor, as authorized under subsection (b). For the purposes of this section, a member’s unmarried child for whom the member received transportation in kind to his station outside the United States or in Hawaii or Alaska, reimbursement therefor, or a monetary allowance in place thereof and who, by reason of age or graduation from (or cessation of enrollment in) an institution of higher education, would otherwise cease to be a dependent of the member while the member was serving at that station shall still be considered as a dependent of the member.
 
 (2) A member referred to in paragraph (1) is a member who—
@@ -1215,6 +1227,9 @@ The text of 31:650a (related to a member of an armed force) is omitted as unnece
 | 406(k) | 37:406 (note). | Feb. 9, 1976, Pub. L. 94–212, § 747, 90 Stat. 176. |
 
 The words “to carry out subsection (b) of this section” are substituted for “for providing transportation of household effects of members of the armed forces pursuant to [section 406(b) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section406/b&num=0&edition=prelim), United States Code” to eliminate unnecessary words.
+
+#### References in Text
+[Section 2634 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim), referred to in subsecs. (b)(1)(B) and (h)(1)(B), was repealed by Pub. L. 113–66, div. A, title VI, § 621(g)(1), Dec. 26, 2013, 127 Stat. 784.
 
 #### Prior Provisions
 Act Aug. 1, 1953, cited as the source of subsec. (j) of this section in the Historical and Revision Notes above, is known as the Department of Defense Appropriation Act, 1954. Similar provisions were contained in the following prior appropriation acts:
@@ -1484,13 +1499,13 @@ Pub. L. 107–107, div. A, title VI, § 634(b), Dec. 28, 2001, 115 Stat. 1144, p
 Pub. L. 106–398, § 1 [[div. A], title VI, § 642(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–161, provided that: “The amendment made by subsection (a) [amending this section] shall take effect October 1, 2000.”
 
 #### Effective Date of 1998 Amendment
-For provisions relating to the applicability of amendment by section 653(b) of Pub. L. 105–261, see section 653(e) of Pub. L. 105–261, set out as a note under [section 2634 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim), Armed Forces.
+For provisions relating to the applicability of amendment by section 653(b) of Pub. L. 105–261, see section 653(e) of Pub. L. 105–261, set out as a note under [section 475a of this title](./chapter-008-travel-and-transportation-allowances.md#section-475a).
 
 #### Effective Date of 1997 Amendment
 Amendment by section 603(d)(1)(B) of Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under [section 5561 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5561&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1996 Amendment
-Amendment by section 368(b) of Pub. L. 104–201 effective Apr. 1, 1997, see section 368(c) of Pub. L. 104–201, set out as a note under [section 2634 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim), Armed Forces.
+Pub. L. 104–201, div. A, title III, § 368(c), Sept. 23, 1996, 110 Stat. 2498, provided that: “The amendments made by this section [amending this section and [section 2634 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim), Armed Forces] shall take effect on April 1, 1997.”
 
 Pub. L. 104–201, div. A, title VI, § 621(b), Sept. 23, 1996, 110 Stat. 2548, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 1997.”
 
@@ -1533,7 +1548,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under [section 5334 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5334&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1965 Amendment; Reimbursement of Expenses
-Amendment by Pub. L. 89–101 effective May 1, 1965, and personal expenses for transportation of motor vehicles transported after Apr. 30, 1965, and before July 30, 1965, reimbursable, see section 3 of Pub. L. 89–101, set out as a note under [section 2634 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim), Armed Forces.
+Pub. L. 89–101, § 3, July 30, 1965, 79 Stat. 425, provided that: “This Act [amending this section and [section 2634 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim), Armed Forces] shall be effective May 1, 1965. Any member who—“(1) transported a motor vehicle at his personal expense after April 30, 1965, and before the enactment of this Act [July 30, 1965]; and “(2) would have been entitled to the transportation of such motor vehicle at Government expense under the provisions of this Act; shall be reimbursed for the allowable transportation cost actually expended by him. Appropriations available for permanent change of station travel shall be available for the reimbursements authorized by this Act.”
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -1594,13 +1609,16 @@ Pub. L. 88–238, § 3, Dec. 23, 1963, 77 Stat. 476, provided that: “Any appro
 
 **(b)** Transportation in kind, reimbursement for personally procured transportation, or a monetary allowance in place of the cost of transportation as provided in [section 474(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474/d/1&num=0&edition=prelim) may be provided, in lieu of the member’s entitlement to transportation, for the member’s dependents from the location that was the home port of the ship before commencement of overhaul or inactivation to the port of overhaul or inactivation. The total reimbursement for transportation for the member’s dependents may not exceed the cost of Government-procured commercial round-trip travel.
 
-**(c)** In any case in which a member of the uniformed services is assigned to permanent duty aboard a ship that undergoes a change of home port to the overhaul or inactivation port, the dependents of the member may be provided transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by [section 476 of this title](./chapter-008-travel-and-transportation-allowances.md#section-476) and [section 2634 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim).
+**(c)** In any case in which a member of the uniformed services is assigned to permanent duty aboard a ship that undergoes a change of home port to the overhaul or inactivation port, the dependents of the member may be provided transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by [section 476 of this title](./chapter-008-travel-and-transportation-allowances.md#section-476) and section 2634 11 See References in Text note below. of title 10.
 
 **(d)** [Section 421 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-421) does not apply with respect to transportation or allowances provided under this section.
 
 **(e)** No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 2634 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim), referred to in subsec. (c), was repealed by Pub. L. 113–66, div. A, title VI, § 621(g)(1), Dec. 26, 2013, 127 Stat. 784.
 
 #### Amendments
 2013—Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
@@ -1665,13 +1683,16 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 (2) The total reimbursement for transportation for the member’s dependents under paragraph (1) may not exceed the cost of Government-procured commercial round-trip travel.
 
-**(c) Change of Home Port.—** In any case in which a member of the uniformed services assigned to permanent duty aboard a ship that undergoes a change of home port to the port at which the ship is being constructed, the dependents of such member may be provided the transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by [section 476 of this title](./chapter-008-travel-and-transportation-allowances.md#section-476) and [section 2634 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim).
+**(c) Change of Home Port.—** In any case in which a member of the uniformed services assigned to permanent duty aboard a ship that undergoes a change of home port to the port at which the ship is being constructed, the dependents of such member may be provided the transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by [section 476 of this title](./chapter-008-travel-and-transportation-allowances.md#section-476) and section 2634 11 See References in Text note below. of title 10.
 
 **(d) Application of Other Law.—** [Section 420 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-420) does not apply with respect to transportation or allowances provided under this section.
 
 **(e) Termination.—** No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 2634 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim), referred to in subsec. (c), was repealed by Pub. L. 113–66, div. A, title VI, § 621(g)(1), Dec. 26, 2013, 127 Stat. 784.
 
 #### Amendments
 2013—Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
@@ -1948,18 +1969,25 @@ Pub. L. 99–145, title VI, § 619(b), Nov. 8, 1985, 99 Stat. 642, provided that
 
 **(d) Regulations.—** The Secretary concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
 
-**(e) Termination.—** No reimbursement may be provided under this section for travel that occurs after December 31, 2013.
+**(e) Termination.—** No reimbursement may be provided under this section for travel that occurs after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (e). Pub. L. 112–239, which directed amendment of [section 408a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section408a/e&num=0&edition=prelim) by substituting “December 31, 2013” for “December 31, 2012”, was executed by making the substitution in this section to reflect the probable intent of Congress and the intervening amendment by Pub. L. 112–81, § 631(d)(2), see 2011 Amendment note below.
+2014—Subsec. (e). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (e). Pub. L. 113–66, § 611(7), substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239, § 611(7), as amended by Pub. L. 113–66, § 1091(b)(3), substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Pub. L. 112–81, § 631(d)(2), renumbered [section 408a of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-408a) as this section.
 
 Subsec. (e). Pub. L. 112–81, § 621, substituted “December 31, 2012” for “December 31, 2011”.
 
 Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+
+#### Effective Date of 2013 Amendment
+Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(3) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
 
 #### Effective Date
 Pub. L. 110–181, div. A, title VI, § 631(b), Jan. 28, 2008, 122 Stat. 154, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “No reimbursement may be provided under [section 478a of title 37](./chapter-008-travel-and-transportation-allowances.md#section-478a), United States Code, as added by subsection (a), for travel costs incurred before the date of the enactment of this Act [Jan. 28, 2008].”
@@ -2986,7 +3014,7 @@ Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, pr
 Pub. L. 107–314, div. A, title VI, § 622(c), Dec. 2, 2002, 116 Stat. 2571, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to members whose eligibility for benefits under [section 484 of title 37](./chapter-008-travel-and-transportation-allowances.md#section-484), United States Code, commences on or after the date of the enactment of this Act [Dec. 2, 2002].”
 
 #### Effective Date of 1998 Amendment
-For provisions relating to the applicability of amendment by Pub. L. 105–261, see section 653(e) of Pub. L. 105–261, set out as a note under [section 2634 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim), Armed Forces.
+For provisions relating to the applicability of amendment by Pub. L. 105–261, see section 653(e) of Pub. L. 105–261, set out as a note under [section 475a of this title](./chapter-008-travel-and-transportation-allowances.md#section-475a).
 
 #### Effective Date of 1974 Amendment
 Pub. L. 93–548, § 4, Dec. 26, 1974, 88 Stat. 1743, provided that: “The amendments made by section 3 of this Act [amending this section] shall apply with respect to members of the uniformed services incapacitated by illness on or after January 1, 1974.”
@@ -3208,6 +3236,9 @@ Pub. L. 98–212, title VII, § 799B, Dec. 8, 1983, 97 Stat. 1456, as amended by
 
 ### Statutory Notes
 
+#### Prior Provisions
+Provisions similar to this section were contained in [section 192 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section192&num=0&edition=prelim), Armed Forces, prior to enactment of this section by Pub. L. 99–145.
+
 #### Amendments
 2013—Pub. L. 112–239 renumbered [section 431 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-431) as this section.
 
@@ -3236,9 +3267,6 @@ Section 1302(b)(3) of Pub. L. 99–145, as amended by Pub. L. 100–180, div. A,
 **(c)** No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
 ### Statutory Notes
-
-#### Prior Provisions
-Provisions similar to this section were contained in [section 192 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section192&num=0&edition=prelim), Armed Forces, prior to enactment of this section by Pub. L. 99–145.
 
 #### Amendments
 2011—Pub. L. 112–81, § 631(d)(2), renumbered [section 432 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-432) as this section.

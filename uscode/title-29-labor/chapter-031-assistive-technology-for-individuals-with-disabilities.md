@@ -34,7 +34,7 @@ source: >-
 
 (7) Despite the success of the Federal-State partnership in providing access to assistive technology devices and assistive technology services, there is a continued need to provide information about the availability of assistive technology, advances in improving accessibility and functionality of assistive technology, and appropriate methods to secure and utilize assistive technology in order to maximize the independence and participation of individuals with disabilities in society.
 
-(8) The combination of significant recent changes in Federal policy (including changes to [section 794d of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-794d), accessibility provisions of the Help America Vote Act of 2002 ([42 U.S.C. 15301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15301&num=0&edition=prelim) et seq.), and the amendments made to the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.) by the No Child Left Behind Act of 2001) and the rapid and unending evolution of technology require a Federal-State investment in State assistive technology systems to continue to ensure that individuals with disabilities reap the benefits of the technological revolution and participate fully in life in their communities.
+(8) The combination of significant recent changes in Federal policy (including changes to [section 794d of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-794d), accessibility provisions of the Help America Vote Act of 2002 ([42 U.S.C. 15301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15301&num=0&edition=prelim) et seq.) [now [52 U.S.C. 20901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20901&num=0&edition=prelim) et seq.], and the amendments made to the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.) by the No Child Left Behind Act of 2001) and the rapid and unending evolution of technology require a Federal-State investment in State assistive technology systems to continue to ensure that individuals with disabilities reap the benefits of the technological revolution and participate fully in life in their communities.
 
 **(b) Purposes** The purposes of this chapter are—
 
@@ -59,7 +59,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Help America Vote Act of 2002, referred to in subsec. (a)(8), is Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to chapter 146 (§ 15301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15301&num=0&edition=prelim) and Tables.
+The Help America Vote Act of 2002, referred to in subsec. (a)(8), is Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which was formerly classified principally to chapter 146 (§ 15301 et seq.) of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 209 (§ 20901 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(8), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
@@ -166,7 +166,7 @@ In this chapter:
 
   (B) assist individuals with disabilities with respect to assistive technology devices and assistive technology services.
 
-(13) **Secretary** — The term “Secretary” means the Secretary of Education.
+(13) **Secretary** — The term “Secretary” means the Secretary of Health and Human Services.
 
 (14) **State**
 
@@ -210,6 +210,9 @@ In this chapter:
 
 ### Statutory Notes
 
+#### Amendment of Paragraph (1)(C)
+Pub. L. 113–128, title V, §§ 506, 512(b)(1), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (1)(C) of this section is amended by striking “such as a one-stop partner, as defined in [section 2801 of this title](./chapter-030-workforce-investment-systems.md#section-2801)” and inserting “such as a one-stop partner, as defined in [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)”. See 2014 Amendment note below.
+
 #### References in Text
 The Rehabilitation Act of 1973, referred to in pars. (1)(B) and (16)(C), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Part C of title VII of the Act is classified generally to subpart 3 (§ 796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-701) and Tables.
 
@@ -220,11 +223,18 @@ The Tribally Controlled Colleges and Universities Assistance Act of 1978, referr
 The Protection and Advocacy for Individuals with Mental Illness Act, referred to in par. (12)(A), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, which is classified generally to chapter 114 (§ 10801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10801&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Par. (1)(C). Pub. L. 113–128, § 512(b)(1), substituted “such as a one-stop partner, as defined in [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)” for “such as a one-stop partner, as defined in [section 2801 of this title](./chapter-030-workforce-investment-systems.md#section-2801)”.
+
+Par. (13). Pub. L. 113–128, § 491(o)(1), substituted “Health and Human Services” for “Education”.
+
 2008—Par. (11). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
 2004—Pub. L. 108–364 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to definitions and references.
 
 2000—Subsec. (a)(11)(A). Pub. L. 106–402 substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6041](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6041&num=0&edition=prelim) et seq.)”.
+
+#### Effective Date of 2014 Amendment
+Amendment by section 512(b)(1) of Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3003"></a>
@@ -472,9 +482,9 @@ The Protection and Advocacy for Individuals with Mental Illness Act, referred to
 
       (III) *Statewide information and referral system*
 
-        (aa) In generalThe State shall directly, or in collaboration with public or private (such as nonprofit) entities, provide for the continuation and enhancement of a statewide information and referral system designed to meet the needs of targeted individuals and entities.
+        (aa) *In general* — The State shall directly, or in collaboration with public or private (such as nonprofit) entities, provide for the continuation and enhancement of a statewide information and referral system designed to meet the needs of targeted individuals and entities.
 
-        (bb) ContentThe system shall deliver information on assistive technology devices, assistive technology services (with specific data regarding provider availability within the State), and the availability of resources, including funding through public and private sources, to obtain assistive technology devices and assistive technology services. The system shall also deliver information on the benefits of assistive technology devices and assistive technology services with respect to enhancing the capacity of individuals with disabilities of all ages to perform activities of daily living.
+        (bb) *Content* — The system shall deliver information on assistive technology devices, assistive technology services (with specific data regarding provider availability within the State), and the availability of resources, including funding through public and private sources, to obtain assistive technology devices and assistive technology services. The system shall also deliver information on the benefits of assistive technology devices and assistive technology services with respect to enhancing the capacity of individuals with disabilities of all ages to perform activities of daily living.
 
     (iii) *Coordination and collaboration* — The State shall coordinate activities described in paragraph (2) and this paragraph, among public and private entities that are responsible for policies, procedures, or funding for the provision of assistive technology devices and assistive technology services to individuals with disabilities, service providers, and others to improve access to assistive technology devices and assistive technology services for individuals with disabilities of all ages in the State.
 
@@ -542,6 +552,17 @@ The Protection and Advocacy for Individuals with Mental Illness Act, referred to
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 113–128, title V, §§ 506, 512(b)(2), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended:
+
+(1) in subsection (c)(2)(B)(i)(IV), by striking “a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ([29 U.S.C. 2821](./chapter-030-workforce-investment-systems.md#section-2821))” and inserting “a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act”;
+
+(2) in subsection (e)(2)(D)(i), by striking “such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801)),” and inserting “such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act,”; and
+
+(3) in subsection (e)(3)(B)(ii)(I)(aa), by striking “with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.),” and inserting “with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act,”.
+
+See 2014 Amendment notes below.
+
 #### References in Text
 [Section 3011 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3011&num=0&edition=prelim), referred to in subsec. (b)(2)(A), was omitted in the general amendment of this chapter by Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707.
 
@@ -554,6 +575,16 @@ The Individuals with Disabilities Education Act, referred to in subsecs. (d)(3)(
 The Americans with Disabilities Act of 1990, referred to in subsecs. (d)(6)(E) and (e)(2)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (e)(3)(B)(ii)(I)(aa), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+
+#### Amendments
+2014—Subsec. (c)(2)(B)(i)(IV). Pub. L. 113–128, § 512(b)(2)(A), substituted “a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act” for “a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ([29 U.S.C. 2821](./chapter-030-workforce-investment-systems.md#section-2821))”.
+
+Subsec. (e)(2)(D)(i). Pub. L. 113–128, § 512(b)(2)(B)(i), substituted “such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act,” for “such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801)),”.
+
+Subsec. (e)(3)(B)(ii)(I)(aa). Pub. L. 113–128, § 512(b)(2)(B)(ii), substituted “with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act,” for “with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.),”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-3004"></a>
@@ -820,7 +851,7 @@ The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referr
 
 (3) individuals employed by protection and advocacy systems funded under [section 3004 of this title](./chapter-031-assistive-technology-for-individuals-with-disabilities.md#section-3004);
 
-(4) relevant employees from Federal departments and agencies, other than the Department of Education;
+(4) relevant employees from Federal departments and agencies, other than the Department of Health and Human Services;
 
 (5) representatives of businesses; and
 
@@ -832,6 +863,8 @@ The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referr
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (b)(2)(B)(ii), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, as amended. Subtitle D of title I of the Act is classified generally to part D (§ 15061 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Subsec. (d)(4). Pub. L. 113–128 substituted “Health and Human Services” for “Education”.
+
 2007—Subsec. (b)(4)(B)(v). Pub. L. 110–69 substituted “the National Institute of Standards and Technology,” for “the Technology Administration of the Department of Commerce,”.
 
 
@@ -839,11 +872,11 @@ The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referr
 ## § 3006. Administrative provisions
 **(a) General administration**
 
-(1) **In general** — Notwithstanding any other provision of law, the Assistant Secretary for Special Education and Rehabilitative Services of the Department of Education, acting through the Rehabilitation Services Administration, shall be responsible for the administration of this chapter.
+(1) **In general** — Notwithstanding any other provision of law, the Administrator of the Administration for Community Living shall be responsible for the administration of this chapter.
 
-(2) **Collaboration** — The Assistant Secretary for Special Education and Rehabilitative Services shall consult with the Office of Special Education Programs, the Rehabilitation Services Administration, and the National Institute on Disability and Rehabilitation Research in the Office of Special Education and Rehabilitative Services, and appropriate Federal entities in the administration of this chapter.
+(2) **Collaboration** — The Administrator of the Administration for Community Living shall consult with the Office of Special Education Programs of the Department of Education, the Rehabilitation Services Administration of the Department of Education, the Office of Disability Employment Policy of the Department of Labor, the National Institute on Disability, Independent Living, and Rehabilitation Research, and other appropriate Federal entities in the administration of this chapter.
 
-(3) **Administration** — In administering this chapter, the Rehabilitation Services Administration shall ensure that programs funded under this chapter will address the needs of individuals with disabilities of all ages, whether the individuals will use the assistive technology to obtain or maintain employment, to obtain education, or for other reasons.
+(3) **Administration** — In administering this chapter, the Administrator of the Administration for Community Living shall ensure that programs funded under this chapter will address the needs of individuals with disabilities of all ages, whether the individuals will use the assistive technology to obtain or maintain employment, to obtain education, or for other reasons.
 
 (4) **Orderly transition**
 
@@ -875,7 +908,7 @@ The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referr
 
 (4) **Secretarial action** — As part of the annual report required under subsection (d), the Secretary shall describe each such action taken under paragraph (1) or (2) and the outcomes of each such action.
 
-(5) **Public notification** — The Secretary shall notify the public, by posting on the Internet website of the Department of Education, of each action taken by the Secretary under paragraph (1) or (2). As a part of such notification, the Secretary shall describe each such action taken under paragraph (1) or (2) and the outcomes of each such action.
+(5) **Public notification** — The Secretary shall notify the public, by posting on the Internet website of the Department of Health and Human Services, of each action taken by the Secretary under paragraph (1) or (2). As a part of such notification, the Secretary shall describe each such action taken under paragraph (1) or (2) and the outcomes of each such action.
 
 **(d) Annual report to Congress**
 
@@ -897,6 +930,15 @@ The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referr
 
 #### References in Text
 The General Education Provisions Act, referred to in subsec. (e), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814. Part D of the Act is classified generally to subchapter IV (§ 1234 et seq.) of chapter 31 of Title 20, Education. For complete classification of this Act to the Code, see [section 1221 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1221&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–128, § 491(o)(3)(A)(i), substituted “the Administrator of the Administration for Community Living” for “the Assistant Secretary for Special Education and Rehabilitative Services of the Department of Education, acting through the Rehabilitation Services Administration,”.
+
+Subsec. (a)(2). Pub. L. 113–128, § 491(o)(3)(A)(ii), substituted “The Administrator of the Administration for Community Living shall consult with the Office of Special Education Programs of the Department of Education, the Rehabilitation Services Administration of the Department of Education, the Office of Disability Employment Policy of the Department of Labor, the National Institute on Disability, Independent Living, and Rehabilitation Research, and other appropriate Federal entities in the administration of this chapter.” for “The Assistant Secretary for Special Education and Rehabilitative Services shall consult with the Office of Special Education Programs, the Rehabilitation Services Administration, and the National Institute on Disability and Rehabilitation Research in the Office of Special Education and Rehabilitative Services, and appropriate Federal entities in the administration of this chapter.”
+
+Subsec. (a)(3). Pub. L. 113–128, § 491(o)(3)(A)(iii), substituted “the Administrator of the Administration for Community Living” for “the Rehabilitation Services Administration”.
+
+Subsec. (c)(5). Pub. L. 113–128, § 491(o)(3)(B), substituted “Health and Human Services” for “Education”.
 
 
 <a id="section-3007"></a>
@@ -936,6 +978,7 @@ Sections 3012, 3014, and 3015 of this title, referred to in subsec. (a)(2)(A), w
 
 ### Statutory Notes
 
+#### Codification
 Sections, comprising subchapter I of this chapter “State Grant Programs”, were omitted in the general amendment of this chapter by Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707.
 
 Section 3011, Pub. L. 105–394, title I, § 101, Nov. 13, 1998, 112 Stat. 3635, provided for continuity grants for States that received funding for a limited period for technology-related assistance.
@@ -954,6 +997,7 @@ Section 3015, Pub. L. 105–394, title I, § 105, Nov. 13, 1998, 112 Stat. 3651,
 
 ### Statutory Notes
 
+#### Codification
 Sections, comprising subchapter II of this chapter, “National Activities”, were omitted in the general amendment of this chapter by Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707.
 
 Section 3031, Pub. L. 105–394, title II, § 211, Nov. 13, 1998, 112 Stat. 3654, related to small business incentives.
@@ -976,6 +1020,7 @@ Section 3037, Pub. L. 105–394, title II, § 217, Nov. 13, 1998, 112 Stat. 3657
 
 ### Statutory Notes
 
+#### Codification
 Sections, comprising subchapter III of this chapter, “Alternative Financing Mechanisms”, were omitted in the general amendment of this chapter by Pub. L. 108–364, § 2, Oct. 25, 2004, 118 Stat. 1707.
 
 Section 3051, Pub. L. 105–394, title III, § 301, Nov. 13, 1998, 112 Stat. 3657, related to the general authority of the Secretary.

@@ -115,7 +115,7 @@ Advisory committees in existence on January 5, 1973, to terminate not later than
 ### Statutory Notes
 
 #### References in Text
-The Outer Continental Shelf Lands Act, referred to in subsec. (a), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (a), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 For definition of Canal Zone, referred to in subsec. (a), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 

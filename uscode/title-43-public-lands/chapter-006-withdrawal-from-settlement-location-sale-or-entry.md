@@ -17,7 +17,7 @@ Section, act June 25, 1910, ch. 421, § 1, 36 Stat. 847, authorized the withdraw
 Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792, provided that this section is repealed effective on and after Oct. 21, 1976.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 #### Ex. Ord. No. 10355. Delegation of Authority
 Ex. Ord. No. 10355, eff. May 26, 1952, 17 F.R. 4831, as amended by Pub. L. 101–509, title V, § 529 [title I, § 112(c)], Nov. 5, 1990, 104 Stat. 1427, 1454, provided:
@@ -70,7 +70,7 @@ The provisions of the last proviso of this section were also classified to [sect
 Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792, provided that the amendment made by section 704(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
-Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-143"></a>
@@ -126,7 +126,7 @@ Section, acts June 25, 1910, ch. 431, § 13, 36 Stat. 858; June 29, 1960, Pub. L
 Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 704(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-149"></a>
@@ -167,7 +167,7 @@ Where public lands of the United States have been withdrawn for possible use for
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 “Bureau of Land Management” substituted for “General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -177,7 +177,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Notwithstanding any other provisions of law, except in time of war or national emergency hereafter declared by the President or the Congress, on and after February 28, 1958 the provisions hereof shall apply to the withdrawal and reservation for, restriction of, and utilization by, the Department of Defense for defense purposes of the public lands of the United States, including public lands in the Territories of Alaska and Hawaii: Provided, That—
 
-(1) for the purposes of this Act, the term “public lands” shall be deemed to include, without limiting the meaning thereof, Federal lands and waters of the Outer Continental Shelf, as defined in [section 1331 of this title](./chapter-029-submerged-lands.md#section-1331), and Federal lands and waters off the coast of the Territories of Alaska and Hawaii;
+(1) for the purposes of this Act, the term “public lands” shall be deemed to include, without limiting the meaning thereof, Federal lands and waters of the Outer Continental Shelf, as defined in [section 1331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), and Federal lands and waters off the coast of the Territories of Alaska and Hawaii;
 
 (2) nothing in this Act shall be deemed to be applicable to the withdrawal or reservation of public lands specifically as naval petroleum, naval oil shale, or naval coal reserves;
 
@@ -197,12 +197,12 @@ Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 326
 <a id="section-156"></a>
 ## § 156. Approval by Congress necessary for withdrawal, reservation, or restriction of over 5,000 acres for any Department of Defense project or facility
 
-No public land, water, or land and water area shall, except by Act of Congress, on and after February 28, 1958 be (1) withdrawn from settlement, location, sale, or entry for the use of the Department of Defense for defense purposes; (2) reserved for such use; or (3) restricted from operation of the mineral leasing provisions of the Outer Continental Shelf Lands Act [[43 U.S.C. 1331](./chapter-029-submerged-lands.md#section-1331) et seq.], if such withdrawal, reservation, or restriction would result in the withdrawal, reservation, or restriction of more than five thousand acres in the aggregate for any one defense project or facility of the Department of Defense since February 28, 1958, or since the last previous Act of Congress which withdrew, reserved, or restricted public land, water, or land and water area for that project or facility, whichever is later.
+No public land, water, or land and water area shall, except by Act of Congress, on and after February 28, 1958 be (1) withdrawn from settlement, location, sale, or entry for the use of the Department of Defense for defense purposes; (2) reserved for such use; or (3) restricted from operation of the mineral leasing provisions of the Outer Continental Shelf Lands Act [[43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.], if such withdrawal, reservation, or restriction would result in the withdrawal, reservation, or restriction of more than five thousand acres in the aggregate for any one defense project or facility of the Department of Defense since February 28, 1958, or since the last previous Act of Congress which withdrew, reserved, or restricted public land, water, or land and water area for that project or facility, whichever is later.
 
 ### Statutory Notes
 
 #### References in Text
-The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of this title](./chapter-029-submerged-lands.md#section-1331) and Tables.
+The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 
 <a id="section-157"></a>

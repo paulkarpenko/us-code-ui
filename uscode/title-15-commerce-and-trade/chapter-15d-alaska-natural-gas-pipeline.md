@@ -283,7 +283,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
   (C) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.);
 
-  (D) the National Historic Preservation Act ([16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.); and
+  (D) chapter 2003 of title 54; 11 So in original. Probably should be “division A of subtitle III of title 54;”. and
 
   (E) the Alaska National Interest Lands Conservation Act ([16 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim) et seq.).
 
@@ -300,14 +300,14 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(3)(B), is Pub. L.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a)(3)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (a)(3)(D), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see [section 470(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470/a&num=0&edition=prelim) and Tables.
-
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (a)(3)(E), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 
 #### Codification
 Section is comprised of section 107 of Pub. L. 108–324. Subsec. (d) of section 107 of Pub. L. 108–324 amended [section 719h of this title](./chapter-15c-alaska-natural-gas-transportation.md#section-719h).
 
 #### Amendments
+2014—Subsec. (a)(3)(D). Pub. L. 113–287, which directed the substitution of “chapter 2003 of title 54” for “the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.)” in section 1072(a)(3)(D) of the Alaska Natural Gas Pipeline Act, was executed to this section, which is section 107 of the Alaska Natural Gas Pipeline Act, to reflect the probable intent of Congress.
+
 2009—Subsec. (a)(3). Pub. L. 111–11 added par. (3) and struck out former par. (3) which read as follows: “the adequacy of any environmental impact statement prepared under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) with respect to any action under this chapter.”
 
 
@@ -436,8 +436,17 @@ It is the sense of Congress that—
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(2)
+Pub. L. 113–128, title V, §§ 506, 512(c), July 22, 2014, 128 Stat. 1703, 1706, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a)(2) of this section is amended by striking “consistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “consistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29”. See 2014 Amendment note below.
+
 #### References in Text
 The Workforce Investment Act of 1998, referred to in subsec. (a)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+
+#### Amendments
+2014—Subsec. (a)(2). Pub. L. 113–128 substituted “consistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29” for “consistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-720l"></a>

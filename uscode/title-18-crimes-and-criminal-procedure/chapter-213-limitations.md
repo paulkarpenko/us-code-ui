@@ -322,7 +322,8 @@ No person shall be prosecuted, tried, or punished for a violation of, or a consp
 
 (2) section 1341 or 1343, if the offense affects a financial institution; or
 
-(3) section 1963, to the extent that the racketeering activity involves a violation of section 1344; unless the indictment is returned or the information is filed within 10 years after the commission of the offense.
+(3) section 1963, to the extent that the racketeering activity involves a violation of section 1344;
+unless the indictment is returned or the information is filed within 10 years after the commission of the offense.
 
 ### Statutory Notes
 

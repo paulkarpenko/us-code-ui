@@ -427,7 +427,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 | RULES GOVERNING SECTION 2254 CASES IN THE UNITED STATES DISTRICT COURTS |  |
 | --- | --- |
-| ( Effective Feb. 1, 1977 , as amended to Jan. 15, 2013 ) |  |
+| ( Effective Feb. 1, 1977 , as amended to Jan. 2, 2014 ) |  |
 | Rule |  |
 | 1. | Scope. |
 | 2. | The Petition. |
@@ -1110,6 +1110,8 @@ The amendment renumbers current Rule 11 to accommodate the new rule on certifica
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in heading and text, are set out in the Appendix to this title.
 
+APPENDIX OF FORMS
+
 #### IN FORMA PAUPERIS DECLARATION
 _________________________
 
@@ -1266,7 +1268,7 @@ Changes Made After Publication and Comments—Forms Accompanying Rules Governing
 
 (1) newly discovered evidence that, if proven and viewed in light of the evidence as a whole, would be sufficient to establish by clear and convincing evidence that no reasonable factfinder would have found the movant guilty of the offense; or
 
-(2) a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable.(June 25, 1948, ch. 646, 62 Stat. 967; May 24, 1949, ch. 139, § 114, 63 Stat. 105; Pub. L. 104–132, title I, § 105, Apr. 24, 1996, 110 Stat. 1220; Pub. L. 110–177, title V, § 511, Jan. 7, 2008, 121 Stat. 2545.)
+(2) a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable.
 
 ### Statutory Notes
 
@@ -1294,7 +1296,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 | RULES GOVERNING SECTION 2255 PROCEEDINGS FOR THE UNITED STATES DISTRICT COURTS |  |
 | --- | --- |
-| (Effective Feb. 1, 1977 , as amended to Jan. 15, 2013 ) |  |
+| (Effective Feb. 1, 1977 , as amended to Jan. 2, 2014 ) |  |
 | Rule |  |
 | 1. | Scope. |
 | 2. | The Motion. |
@@ -1823,10 +1825,14 @@ The Federal Rules of Civil Procedure, referred to in heading and text, are set o
 
 The Federal Rules of Criminal Procedure, referred to in heading and text, are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-#### IN FORMA PAUPERIS DECLARATION
+APPENDIX OF FORMS
+
+IN FORMA PAUPERIS DECLARATION
+
 _________________________
 
-#### [Insert appropriate court]
+[Insert appropriate court]
+
 United States
 
 DECLARATION IN

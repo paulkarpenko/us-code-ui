@@ -233,7 +233,7 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
   (B) The actual or estimated cost of shrinkage, spoilage, and pilferage of merchandise under the control of commissary stores.
 
-**(f) Special Rule for Brand-Name Commercial Items.—** The Secretary of Defense may not use the exception provided in [section 2304(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c/5&num=0&edition=prelim) regarding the procurement of a brand-name commercial item for resale in, at, or by commissary stores unless the commercial item is regularly sold outside of commissary stores under the same brand name as the name by which the commercial item will be sold in, at, or by commissary stores. In determining whether a brand name commercial item is regularly sold outside of commissary stores, the Secretary shall consider only sales of the item on a regional or national basis by commercial grocery or other retail operations consisting of multiple stores.
+**(f) Procurement of Commercial Items Using Procedures Other Than Competitive Procedures.—** The Secretary of Defense may use the exception provided in [section 2304(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c/5&num=0&edition=prelim) for the procurement of any commercial item (including brand-name and generic items) for resale in, at, or by commissary stores.
 
 **(g) Special Rules for Certain Merchandise.—**
 
@@ -285,6 +285,8 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 A prior section 2484 was renumbered [section 2483 of this title](./chapter-147-commissaries-and-exchanges-and-other-morale-welfare-and-recreation-activities.md#section-2483).
 
 #### Amendments
+2014—Subsec. (f). Pub. L. 113–291 amended subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary of Defense may not use the exception provided in [section 2304(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c/5&num=0&edition=prelim) regarding the procurement of a brand-name commercial item for resale in, at, or by commissary stores unless the commercial item is regularly sold outside of commissary stores under the same brand name as the name by which the commercial item will be sold in, at, or by commissary stores. In determining whether a brand name commercial item is regularly sold outside of commissary stores, the Secretary shall consider only sales of the item on a regional or national basis by commercial grocery or other retail operations consisting of multiple stores.”
+
 2008—Subsec. (h)(3) to (5). Pub. L. 110–417 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)” in par. (4).
 
 2006—Pub. L. 109–364, § 1071(g)(6), made technical correction to directory language of Pub. L. 108–375, § 651(a)(5)(C). See 2004 Amendment notes for subsecs. (a) to (d) below.
@@ -374,6 +376,11 @@ Pub. L. 100–180, div. A, title III, § 313(b), Dec. 4, 1987, 101 Stat. 1074, r
 
 #### Savings Provision
 Pub. L. 104–201, div. A, title III, § 342(b), Sept. 23, 1996, 110 Stat. 2489, provided that: “Section 2486(e) [now 2484(e)] of title 10, United States Code, as added by subsection (a), shall not affect the terms, conditions, or duration of any contract or other agreement entered into by the Secretary of Defense before the date of the enactment of this Act [Sept. 23, 1996] for the procurement of commercial items for resale in commissary stores.”
+
+#### Competitive Pricing of Legal Consumer Tobacco Products Sold in Department of Defense Retail Stores
+Pub. L. 113–291, div. A, title VI, § 633, Dec. 19, 2014, 128 Stat. 3405, provided that: “(a) Prohibition on Banning Sale of Legal Consumer Tobacco Products.—The Secretary of Defense and the Secretaries of the military departments may not take any action to implement any new policy that would ban the sale of any legal consumer tobacco product category sold as of January 1, 2014, within the defense retail systems or on any Department of Defense vessel at sea. “(b) Use of Prices Comparable to Local Prices.—The Secretary of Defense shall issue regulations regarding the pricing of tobacco and tobacco-related products sold in an outlet of the defense retail systems inside the United States, including territories and possessions of the United States, to prohibit the sale of a product at a price below the most competitive price for that product in the local community. “(c) Application to Overseas Defense Retail Systems.—The regulations required by subsection (b) shall direct that the price of a tobacco or tobacco-related product sold in an outlet of the defense retail systems outside of the United States shall be within the range of prices established for that product in outlets of the defense retail systems inside the United States. “(d) Defense Retail Systems Defined.—In this section, the term ‘defense retail systems’ has the meaning given that term in [section 2487(b)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2487/b/2&num=0&edition=prelim), United States Code.”
+
+Pub. L. 113–235, div. C, title VIII, § 8073, Dec. 16, 2014, 128 Stat. 2271, provided that: “The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: Provided, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States.”
 
 #### Test Program of Sale of Certain Items in Commissary Stores
 Pub. L. 108–375, div. A, title VI, § 651(g), Oct. 28, 2004, 118 Stat. 1972, provided that: “(1) The Secretary of Defense may conduct a test program involving the sale of telephone cards, film, and one-time use cameras in not less than 10 commissary stores for a period selected by the Secretary, but not less than six months. “(2) Within 90 days after the completion of the first year of the test program or within 90 days after the completion of the test program, whichever occurs first, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report containing the results of the test program. The report shall include an analysis of the impact of the sale of such items on the exchange dividend and such recommendations as the Secretary considers appropriate regarding legislative changes necessary to expand the sale of such items in commissary stores.”
@@ -734,7 +741,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 <a id="section-2492"></a>
 ## § 2492. Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide and obtain goods and services
 
-An agency or instrumentality of the Department of Defense that supports the operation of the exchange system, or the operation of a morale, welfare, and recreation system, of the Department of Defense may enter into a contract or other agreement with another element of the Department of Defense or with another Federal department, agency, or instrumentality to provide or obtain goods and services beneficial to the efficient management and operation of the exchange system or that morale, welfare, and recreation system.
+An agency or instrumentality of the Department of Defense that supports the operation of the exchange system, or the operation of a morale, welfare, and recreation system, of the Department of Defense may enter into a contract or other agreement with another element of the Department of Defense or with another Federal department, agency, or instrumentality—
+
+(1) to provide or obtain goods and services beneficial to the efficient management and operation of the exchange system or that morale, welfare, and recreation system; or
+
+(2) to provide or obtain food services beneficial to the efficient management and operation of the dining facilities on military installations offering food services to members of the armed forces.
 
 ### Statutory Notes
 
@@ -742,6 +753,8 @@ An agency or instrumentality of the Department of Defense that supports the oper
 A prior section 2492 was renumbered [section 2489 of this title](./chapter-147-commissaries-and-exchanges-and-other-morale-welfare-and-recreation-activities.md#section-2489).
 
 #### Amendments
+2014—Pub. L. 113–291 substituted “Federal department, agency, or instrumentality—” for “Federal department, agency, or instrumentality to provide or obtain goods and services beneficial to the efficient management and operation of the exchange system or that morale, welfare, and recreation system.” and added pars. (1) and (2).
+
 2004—Pub. L. 108–375 renumbered [section 2482a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2482a&num=0&edition=prelim) as this section.
 
 

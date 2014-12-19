@@ -659,7 +659,7 @@ This section establishes a new medal to be known as the Coast Guard Medal, which
 <a id="section-494"></a>
 ## § 494. Insignia for additional awards
 
-No more than one medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, or one Coast Guard medal shall be issued to any one person; but for each succeeding deed or service sufficient to justify the awarding of a medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, or Coast Guard medal, the President may award a suitable emblem or insignia to be worn with the decoration and a corresponding rosette or other device.
+No more than one Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, or one Coast Guard medal shall be issued to any one person; but for each succeeding deed or service sufficient to justify the awarding of a Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, or Coast Guard medal, the President may award a suitable emblem or insignia to be worn with the decoration and a corresponding rosette or other device.
 
 ### Statutory Notes
 
@@ -667,6 +667,8 @@ No more than one medal of honor, Coast Guard cross, distinguished service medal,
 This section is supplemental to the preceding sections dealing with the award of medals and regulates the award of additional medals of the same kind. It follows the established practice in all the armed forces (see title 34, U.S.C., 1946 ed., § 358). 81st Congress, House Report No. 557.
 
 #### Amendments
+2014—Pub. L. 113–281 struck out “medal of honor,” before “Coast Guard cross,” in two places.
+
 2010—Pub. L. 111–281 substituted “Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross,” for “distinguished service medal, distinguished flying cross,” in two places.
 
 1956—Act Aug. 10, 1956, included the distinguished flying cross.
@@ -944,105 +946,11 @@ Under regulations prescribed by the Secretary, the Coast Guard may authorize ret
 
 
 <a id="section-514"></a>
-## § 514. Reimbursement for adoption expenses
-**(a) Authorization To Reimburse.—** The Secretary shall carry out a program under which a member of the Coast Guard may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member in the adoption of a child under 18 years of age.
-
-**(b) Adoptions Covered.—** An adoption for which expenses may be reimbursed under this section includes an adoption by a single person, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act ([42 U.S.C. 673(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section673/c&num=0&edition=prelim))).
-
-**(c) Benefits Paid After Adoption Is Final.—** Benefits paid under this section in the case of an adoption may be paid only after the adoption is final.
-
-**(d) Treatment of Other Benefits.—** A benefit may not be paid under this section for any expense paid to or for a member of the Coast Guard under any other adoption benefits program administered by the Federal Government or under any such program administered by a State or local government.
-
-**(e) Limitations.—**
-
-(1) Not more than $2,000 may be paid under this section to a member of the Coast Guard, or to two such members who are spouses of each other, for expenses incurred in the adoption of a child.
-
-(2) Not more than $5,000 may be paid under this section to a member of the Coast Guard, or to two such members who are spouses of each other, for adoptions by such member (or members) in any calendar year.
-
-**(f) Regulations.—** The Secretary shall prescribe regulations to carry out this section.
-
-**(g) Definitions.—** In this section:
-
-(1) The term “qualifying adoption expenses” means reasonable and necessary expenses that are directly related to the legal adoption of a child under 18 years of age, but only if such adoption is arranged by a qualified adoption agency. Such term does not include any expense incurred—
-
-  (A) by an adopting parent for travel; or
-
-  (B) in connection with an adoption arranged in violation of Federal, State, or local law.
-
-(2) The term “reasonable and necessary expenses” includes—
-
-  (A) public and private agency fees, including adoption fees charged by an agency in a foreign country;
-
-  (B) placement fees, including fees charged adoptive parents for counseling;
-
-  (C) legal fees (including court costs) in connection with services that are unavailable to a member of the Coast Guard under section 1044 or 1044a of title 10; and
-
-  (D) medical expenses, including hospital expenses of the biological mother of the child to be adopted and of a newborn infant to be adopted.
-
-(3) The term “qualified adoption agency” means any of the following:
-
-  (A) A State or local government agency which has responsibility under State or local law for child placement through adoption.
-
-  (B) A nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.
-
-  (C) Any other source authorized by a State to provide adoption placement if the adoption is supervised by a court under State or local law.
-
-### Statutory Notes
-
-#### Amendments
-1996—Subsec. (g)(1). Pub. L. 104–201, § 652(b)(1), substituted “qualified adoption agency.” for “State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.”
-
-Subsec. (g)(3). Pub. L. 104–201, § 652(b)(2), added par. (3).
-
-1992—Subsec. (b). Pub. L. 102–484 inserted a close parenthesis before period at end.
-
-#### Effective Date
-Section effective Dec. 5, 1991, and applicable to adoptions completed on or after that date, see section 651(c) of Pub. L. 102–190, set out as a note under [section 1052 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1052&num=0&edition=prelim), Armed Forces.
-
-#### Reimbursement for Adoptions Completed During Interim Between Test and Permanent Program
-For provisions relating to reimbursement for adoption expenses and time period for application, see section 652 of Pub. L. 102–484, set out as a note under [section 1052 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1052&num=0&edition=prelim), Armed Forces.
+## § 514. Renumbered § 541]
 
 
 <a id="section-515"></a>
-## § 515. Child development services
-**(a)** The Commandant may make child development services available for members and civilian employees of the Coast Guard, and thereafter as space is available for members of the Armed Forces and Federal civilian employees. Child development service benefits provided under the authority of this section shall be in addition to benefits provided under other laws.
-
-**(b)**
-
-(1) The Commandant is authorized to use appropriated funds available to the Coast Guard to provide child development services.
-
-(2)
-
-  (A) The Commandant is authorized to establish, by regulations, fees to be charged parents for the attendance of children at Coast Guard child development centers.
-
-  (B) Fees to be charged, pursuant to subparagraph (A), shall be based on family income, except that the Commandant may, on a case-by-base basis, establish fees at lower rates if such rates would not be competitive with rates at local child development centers.
-
-  (C) The Commandant is authorized to collect and expend fees, established pursuant to this subparagraph, and such fees shall, without further appropriation, remain available until expended for the purpose of providing services, including the compensation of employees and the purchase of consumable and disposable items, at Coast Guard child development centers.
-
-(3) The Commandant is authorized to use appropriated funds available to the Coast Guard to provide assistance to family home daycare providers so that family home daycare services can be provided to uniformed service members and civilian employees of the Coast Guard at a cost comparable to the cost of services provided by Coast Guard child development centers.
-
-**(c)** The Commandant shall provide for regular and unannounced inspections of each child development center under this section and may use Department of Defense or other training programs to ensure that all child development center employees under this section meet minimum standards of training with respect to early childhood development, activities and disciplinary techniques appropriate to children of different ages, child abuse prevention and detection, and appropriate emergency medical procedures.
-
-**(d)** The Secretary shall promulgate regulations to implement this section. The regulations shall establish fees to be charged for child development services provided under this section which take into consideration total family income.
-
-**(e)** For purposes of this section, the term “child development center” does not include a child care services facility for which space is allotted under section 616 of the Act of December 22, 1987 ([40 U.S.C. 490b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section490b&num=0&edition=prelim)).
-
-### Statutory Notes
-
-#### References in Text
-Section 616 of the Act of December 22, 1987 ([40 U.S.C. 490b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section490b&num=0&edition=prelim)), referred to in subsec. (e), is section 101(m) [title VI, § 616] of Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329–390, 1329–423, which was classified to section 490b of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as section 590(a)–(d) and (f) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
-
-#### Amendments
-2010—Subsec. (b). Pub. L. 111–281, § 222(1), added subsec. (b) and struck out former subsec. (b) which related to use of fees paid for services at Coast Guard child development centers.
-
-Subsecs. (d) to (g). Pub. L. 111–281, § 222(2), (3), redesignated subsecs. (f) and (g) as (d) and (e), respectively, and struck out former subsecs. (d) and (e) which read as follows:
-
-“(d) Of the amounts available to the Coast Guard each fiscal year for operating expenses (and in addition to amounts received as fees), the Secretary may use for child development services under this section an amount not to exceed the total amount the Commandant estimates will be received by the Coast Guard in the fiscal year as fees for the provision of those services.
-
-“(e) The Commandant may use appropriated funds available to the Coast Guard to provide assistance to family home day care providers so that family home day care services can be provided to uniformed service members and civilian employees of the Coast Guard at a cost comparable to the cost of services provided by Coast Guard child development centers.”
-
-#### Use of Coast Guard and Military Child Development Centers
-Pub. L. 108–293, title II, § 225, Aug. 9, 2004, 118 Stat. 1040, provided that: “The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, when operating other than as a service in the Navy, may agree to provide child care services to members of the armed forces, with reimbursement, in Coast Guard and military child development centers supported in whole or in part with appropriated funds. For purposes of military child development centers operated under the authority of subchapter II of chapter 88 of title 10, United States Code, the child of a member of the Coast Guard shall be considered the same as the child of a member of any of the other armed forces.”
+## § 515. Renumbered § 552]
 
 
 <a id="section-516"></a>

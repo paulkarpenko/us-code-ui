@@ -527,7 +527,11 @@ During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the pr
 
 (1) Except in the case of a veteran who makes an election under subsection (f) of this section and subject to the provisions of paragraph (3) of this subsection, each veteran shall be paid a subsistence allowance in accordance with this section during a period determined by the Secretary to be a period of such veteran’s participation under this chapter in a rehabilitation program.
 
-(2) In any case in which the Secretary determines, at the conclusion of such veteran’s pursuit of a vocational rehabilitation program under this chapter, that such veteran has been rehabilitated to the point of employability, such veteran shall be paid a subsistence allowance, as prescribed in this section for full-time training for the type of program that the veteran was pursuing, for two months while satisfactorily following a program of employment services provided under [section 3104(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3104/a/5&num=0&edition=prelim).
+(2)
+
+  (A) In any case in which the Secretary determines, at the conclusion of such veteran’s pursuit of a vocational rehabilitation program under this chapter, that such veteran has been rehabilitated to the point of employability, such veteran shall be paid a subsistence allowance, as prescribed in this section for full-time training for the type of program that the veteran was pursuing, for two months while satisfactorily following a program of employment services provided under [section 3104(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3104/a/5&num=0&edition=prelim).
+
+  (B) In any case in which the Secretary determines that a veteran described in subparagraph (A) has been displaced as the result of a natural or other disaster while being paid a subsistence allowance under that subparagraph, as determined by the Secretary, the Secretary may extend the payment of a subsistence allowance under such subparagraph for up to an additional two months while the veteran is satisfactorily following a program of employment services described in such subparagraph.
 
 (3) A subsistence allowance may not be paid under this chapter to a veteran for any period during which such veteran is being provided with an initial evaluation under [section 3106(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3106/a&num=0&edition=prelim) or during which such veteran is being provided only with counseling or with placement or postplacement services under [section 3105(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3105/b&num=0&edition=prelim).
 
@@ -588,17 +592,6 @@ During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the pr
 **(i)** Payment of a subsistence allowance may be made in advance in accordance with the provisions of [section 3680(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3680/d&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(2)
-Pub. L. 112–154, title VII, § 701(b), (g), Aug. 6, 2012, 126 Stat. 1203, 1205, provided that, effective on the date that is one year after Aug. 6, 2012, subsection (a)(2) of this section is amended as follows:
-
-(1) by inserting “(A)” before “In”; and
-
-(2) by adding at the end the following new subparagraph:
-
-(B) In any case in which the Secretary determines that a veteran described in subparagraph (A) has been displaced as the result of a natural or other disaster while being paid a subsistence allowance under that subparagraph, as determined by the Secretary, the Secretary may extend the payment of a subsistence allowance under such subparagraph for up to an additional two months while the veteran is satisfactorily following a program of employment services described in such subparagraph.
-
-See 2012 Amendment note below.
 
 #### Prior Provisions
 Prior section 3108 was renumbered [section 5308 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5308).
@@ -1025,22 +1018,15 @@ Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set o
 
 **(d)** A program of independent living services and assistance for a veteran shall consist of such services described in [section 3104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3104/a&num=0&edition=prelim) as the Secretary determines necessary to enable such veteran to achieve maximum independence in daily living. Such veteran shall have the same rights with respect to an individualized written plan of services and assistance as are afforded veterans under [section 3107 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3107).
 
-**(e)** Programs of independent living services and assistance shall be initiated for no more than 2,700 veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
+**(e)**
+
+(1) Programs of independent living services and assistance shall be initiated for no more than 2,700 veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
+
+(2) The limitation in paragraph (1) shall not apply in any case in which the Secretary determines that a veteran described in subsection (b) has been displaced as the result of, or has otherwise been adversely affected in the areas covered by, a natural or other disaster, as determined by the Secretary.
 
 **(f)** Entities described in this subsection are (1) public or nonprofit agencies or organizations, and (2) for-profit entities in cases in which the Secretary determines that services comparable in effectiveness to services available from such an entity are not available, or cannot be obtained cost-effectively from, public or nonprofit agencies or through facilities of the Veterans Health Administration.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (e)
-Pub. L. 112–154, title VII, § 701(c), (g), Aug. 6, 2012, 126 Stat. 1203, 1205, provided that, effective on the date that is one year after Aug. 6, 2012, subsection (e) of this section is amended as follows:
-
-(1) by inserting “(1)” before “Programs”; and
-
-(2) by adding at the end the following new paragraph:
-
-(2) The limitation in paragraph (1) shall not apply in any case in which the Secretary determines that a veteran described in subsection (b) has been displaced as the result of, or has otherwise been adversely affected in the areas covered by, a natural or other disaster, as determined by the Secretary.
-
-See 2012 Amendment note below.
 
 #### Amendments
 2012—Subsec. (e). Pub. L. 112–154 designated existing provisions as par. (1) and added par. (2).

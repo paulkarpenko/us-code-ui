@@ -32,6 +32,9 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–281, § 1, Dec. 18, 2014, 128 Stat. 3022, provided that: “This Act [see Tables for classification] may be cited as the ‘Howard Coble Coast Guard and Maritime Transportation Act of 2014’.”
+
 #### Short Title of 2012 Amendment
 Pub. L. 112–213, § 1(a), Dec. 20, 2012, 126 Stat. 1540, provided that: “This Act [see Tables for classification] may be cited as the ‘Coast Guard and Maritime Transportation Act of 2012’.”
 
@@ -53,6 +56,9 @@ Pub. L. 107–295, title IV, § 401, Nov. 25, 2002, 116 Stat. 2113, provided tha
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 931. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of this title](./chapter-001-establishment-and-duties.md#section-3). See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+
+#### Designation of Coast Guard Headquarters Building
+Pub. L. 113–31, Aug. 9, 2013, 127 Stat. 511, provided that: “SECTION 1. DESIGNATION.“The headquarters building of the Coast Guard on the campus located at 2701 Martin Luther King, Jr., Avenue Southeast in the District of Columbia shall be known and designated as the ‘Douglas A. Munro Coast Guard Headquarters Building’. “SEC. 2. REFERENCES.“Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 shall be deemed to be a reference to the ‘Douglas A. Munro Coast Guard Headquarters Building’.”
 
 
 <a id="section-2"></a>
@@ -100,7 +106,7 @@ Pub. L. 100–448 substituted “Federal laws on, under, and over” for “Fede
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Annual Report on Coast Guard Capabilities and Readiness to Fulfill National Defense Responsibilities
-Pub. L. 107–295, title IV, § 426, Nov. 25, 2002, 116 Stat. 2126, provided that: “Not later than February 15 each year, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, prepared in conjunction with the Commandant of the Coast Guard, setting forth the capabilities and readiness of the Coast Guard to fulfill its national defense responsibilities.”
+Pub. L. 107–295, title IV, § 426, Nov. 25, 2002, 116 Stat. 2126, which required report to congressional committees setting forth capabilities and readiness of the Coast Guard to fulfill its national defense responsibilities not later than February 15 each year, was repealed by Pub. L. 113–281, title II, § 221(a)(4), Dec. 18, 2014, 128 Stat. 3037.
 
 
 <a id="section-3"></a>

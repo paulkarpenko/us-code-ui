@@ -211,7 +211,7 @@ Pub. L. 107–56, title III, § 324, Oct. 26, 2001, 115 Stat. 316, provided that
 Pub. L. 107–56, title III, § 328, Oct. 26, 2001, 115 Stat. 319, provided that: “The Secretary [of the Treasury] shall— “(1) in consultation with the Attorney General and the Secretary of State, take all reasonable steps to encourage foreign governments to require the inclusion of the name of the originator in wire transfer instructions sent to the United States and other countries, with the information to remain with the transfer from its origination until the point of disbursement; and “(2) report annually to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on—“(A) progress toward the goal enumerated in paragraph (1), as well as impediments to implementation and an estimated compliance rate; and “(B) impediments to instituting a regime in which all appropriate identification, as defined by the Secretary, about wire transfer recipients shall be included with wire transfers from their point of origination until disbursement.”
 
 #### Criminal Penalties
-Pub. L. 107–56, title III, § 329, Oct. 26, 2001, 115 Stat. 319, provided that: “Any person who is an official or employee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title [see Short Title of 2001 Amendment note set out under [section 5301 of this title](./chapter-053-monetary-transactions.md#section-5301)], corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for— “(1) being influenced in the performance of any official act; “(2) being influenced to commit or aid in the committing, or to collude in, or allow, any fraud, or make opportunity for the commission of any fraud, on the United States; or “(3) being induced to do or omit to do any act in violation of the official duty of such official or person, shall be fined in an amount not more than 3 times the monetary equivalent of the thing of value, or imprisoned for not more than 15 years, or both. A violation of this section shall be subject to chapter 227 of title 18, United States Code, and the provisions of the United States Sentencing Guidelines.”
+Pub. L. 107–56, title III, § 329, Oct. 26, 2001, 115 Stat. 319, provided that: “Any person who is an official or employee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title [see Short Title of 2001 Amendment note set out under [section 5301 of this title](./chapter-053-monetary-transactions.md#section-5301)], corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for—“(1) being influenced in the performance of any official act; “(2) being influenced to commit or aid in the committing, or to collude in, or allow, any fraud, or make opportunity for the commission of any fraud, on the United States; or “(3) being induced to do or omit to do any act in violation of the official duty of such official or person, shall be fined in an amount not more than 3 times the monetary equivalent of the thing of value, or imprisoned for not more than 15 years, or both. A violation of this section shall be subject to chapter 227 of title 18, United States Code, and the provisions of the United States Sentencing Guidelines.”
 
 #### Report on Investment Companies
 Pub. L. 107–56, title III, § 356(c), Oct. 26, 2001, 115 Stat. 324, as amended by Pub. L. 108–458, title VI, § 6202(j), Dec. 17, 2004, 118 Stat. 3746, provided that: “(1) In general.—Not later than 1 year after the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury], the Board of Governors of the Federal Reserve System, and the Securities and Exchange Commission shall jointly submit a report to the Congress on recommendations for effective regulations to apply the requirements of subchapter II of chapter 53 of title 31, United States Code, to investment companies pursuant to [section 5312(a)(2)(I) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5312/a/2/I&num=0&edition=prelim), United States Code. “(2) Definition.—For purposes of this subsection, the term ‘investment company’—“(A) has the same meaning as in section 3 of the Investment Company Act of 1940 ([15 U.S.C. 80a–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3&num=0&edition=prelim)); and “(B) includes any person that, but for the exceptions provided for in paragraph (1) or (7) of section 3(c) of the Investment Company Act of 1940 ([15 U.S.C. 80a–3(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3/c&num=0&edition=prelim)), would be an investment company. “(3) Additional recommendations.—The report required by paragraph (1) may make different recommendations for different types of entities covered by this subsection. “(4) Beneficial ownership of personal holding companies.—The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation, business trust, or other grantor trust whose assets are predominantly securities, bank certificates of deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution.”
@@ -731,9 +731,15 @@ Pub. L. 99–570, title I, § 1364(b), Oct. 27, 1986, 100 Stat. 3207–34, provi
 
   (A) under the laws of such State, that class of transactions is subject to requirements substantially similar to those imposed under this subchapter; and
 
-  (B) there is adequate provision for the enforcement of such requirements; and
+  (B) there is adequate provision for the enforcement of such requirements;
 
-(6) prescribe an appropriate exemption from a requirement under this subchapter and regulations prescribed under this subchapter. The Secretary may revoke an exemption under this paragraph or paragraph (5) by actually or constructively notifying the parties affected. A revocation is effective during judicial review.
+(6) rely on examinations conducted by a State supervisory agency of a category of financial institution, if the Secretary determines that—
+
+  (A) the category of financial institution is required to comply with this subchapter and regulations prescribed under this subchapter; or
+
+  (B) the State supervisory agency examines the category of financial institution for compliance with this subchapter and regulations prescribed under this subchapter; and
+
+(7) prescribe an appropriate exemption from a requirement under this subchapter and regulations prescribed under this subchapter. The Secretary may revoke an exemption under this paragraph or paragraph (5) by actually or constructively notifying the parties affected. A revocation is effective during judicial review.
 
 **(b) Limitations on Summons Power.—**
 
@@ -770,7 +776,7 @@ Pub. L. 99–570, title I, § 1364(b), Oct. 27, 1986, 100 Stat. 3207–34, provi
 
 (5) **Service of process.—** — All process in any case under this subsection may be served in any judicial district in which such person may be found.
 
-**(f) Written and Signed Statement Required.—** No person shall qualify for an exemption under subsection (a)(5) 22 See References in Text note below. unless the relevant financial institution or nonfinancial trade or business prepares and maintains a statement which—
+**(f) Written and Signed Statement Required.—** No person shall qualify for an exemption under subsection (a)(5) 1 unless the relevant financial institution or nonfinancial trade or business prepares and maintains a statement which—
 
 (1) describes in detail the reasons why such person is qualified for such exemption; and
 
@@ -1033,6 +1039,8 @@ The date of enactment of the National Intelligence Reform Act of 2004, referred 
 For provisions relating to the Bank Secrecy Act Advisory Group, referred to in subsec. (n)(4)(B), see section 1564 of Pub. L. 102–550, which is set out as a note under [section 5311 of this title](./chapter-053-monetary-transactions.md#section-5311).
 
 #### Amendments
+2014—Subsec. (a)(6), (7). Pub. L. 113–156 added par. (6) and redesignated former par. (6) as (7).
+
 2011—Subsec. (g)(2)(A)(i). Pub. L. 112–74, § 118(1), added cl. (i) and struck out former cl. (i) which read as follows: “the financial institution, director, officer, employee, or agent may not notify any person involved in the transaction that the transaction has been reported; and”.
 
 Subsec. (g)(2)(A)(ii). Pub. L. 112–74, § 118(2), substituted “no current or former officer or employee of or contractor for” for “no officer or employee of” and inserted “or for” before “any State”.
@@ -1147,7 +1155,8 @@ Pub. L. 107–56, title III, § 352(c), Oct. 26, 2001, 115 Stat. 322, provided t
 #### Grace Period
 Pub. L. 107–56, title III, § 319(c), Oct. 26, 2001, 115 Stat. 314, provided that: “Financial institutions shall have 60 days from the date of enactment of this Act [Oct. 26, 2001] to comply with the provisions of [section 5318(k) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318/k&num=0&edition=prelim), United States Code, as added by this section.”
 
-#### “Federal Functional Regulator” Includes Commodity Futures Trading Commission
+“Federal Functional Regulator” Includes Commodity Futures Trading Commission
+
 Pub. L. 107–56, title III, § 321(c), Oct. 26, 2001, 115 Stat. 315, provided that: “For purposes of this Act [probably should be “title”, see Short Title of 2001 Amendment note set out under [section 5301 of this title](./chapter-053-monetary-transactions.md#section-5301)] and any amendment made by this Act to any other provision of law, the term ‘Federal functional regulator’ includes the Commodity Futures Trading Commission.”
 
 #### Reporting of Suspicious Activities by Securities Brokers and Dealers; Investment Company Study
@@ -1316,7 +1325,8 @@ Subsec. (e)(3). Pub. L. 108–458, § 6203(f)(4), inserted “or subsection (i) 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under [section 1828 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1828&num=0&edition=prelim), Banks and Banking.
 
-#### “Federal Functional Regulator” Includes Commodity Futures Trading Commission
+“Federal Functional Regulator” Includes Commodity Futures Trading Commission
+
 For purposes of Pub. L. 107–56 and any amendment by Pub. L. 107–56, the term “Federal functional regulator” includes the Commodity Futures Trading Commission, see section 321(c) of Pub. L. 107–56, set out as a note under [section 5318 of this title](./chapter-053-monetary-transactions.md#section-5318).
 
 

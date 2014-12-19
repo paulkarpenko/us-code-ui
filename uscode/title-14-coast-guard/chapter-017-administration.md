@@ -2,7 +2,7 @@
 title: 14
 chapter: '17'
 heading: ADMINISTRATION
-section_count: 49
+section_count: 52
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -198,7 +198,7 @@ The language is broadened to include “any person violating this section”; ex
 <a id="section-639"></a>
 ## § 639. Penalty for unauthorized use of words “Coast Guard”
 
-No individual, association, partnership, or corporation shall, without authority of the Commandant, use the combination of letters “USCG” or “USCGR”, the words “Coast Guard,” “United States Coast Guard,” “Coast Guard Reserve,” “United States Coast Guard Reserve,” “Coast Guard Auxiliary,” “United States Coast Guard Auxiliary,” “Lighthouse Service,” “Life Saving Service,” or any combination or variation of such letters or words alone or with other letters or words, as the name under which he or it shall do business, for the purpose of trade, or by way of advertisement to induce the effect of leading the public to believe that any such individual, association, partnership, or corporation has any connection with the Coast Guard. No individual, association, partnership, or corporation shall falsely advertise, or otherwise represent falsely by any device whatsoever, that any project or business in which he or it is engaged, or product which he or it manufactures, deals in, or sells, has been in any way endorsed, authorized, or approved by the Coast Guard. Every person violating this section shall be fined not more than $1,000, or imprisoned not more than one year, or both.
+No individual, association, partnership, or corporation shall, without authority of the Commandant, use the combination of letters “USCG” or “USCGR”, the words “Coast Guard,” “United States Coast Guard,” “Coast Guard Reserve,” “United States Coast Guard Reserve,” “Coast Guard Auxiliary,” “United States Coast Guard Auxiliary,” “Lighthouse Service,” “Life Saving Service,” or any combination or variation of such letters or words alone or with other letters or words, as the name under which he or it shall do business, for the purpose of trade, or by way of advertisement to induce the effect of leading the public to believe that any such individual, association, partnership, or corporation has any connection with the Coast Guard. No individual, association, partnership, or corporation shall falsely advertise, or otherwise represent falsely by any device whatsoever, that any project or business in which he or it is engaged, or product which he or it manufactures, deals in, or sells, has been in any way endorsed, authorized, or approved by the Coast Guard. Every person violating this section shall be fined not more than $10,000, or imprisoned not more than one year, or both.
 
 ### Statutory Notes
 
@@ -206,6 +206,8 @@ No individual, association, partnership, or corporation shall, without authority
 This section makes the unauthorized use of the words “Coast Guard” or any derivative thereof, a crime. This is believed to be a desirable prohibition in view of the many commercial organizations which are manufacturing equipment approved by the Coast Guard and selling same to vessels in the United States. 81st Congress, House Report No. 557.
 
 #### Amendments
+2014—Pub. L. 113–281 substituted “$10,000” for “$1,000”.
+
 1950—Act Aug. 3, 1950, made it possible for Commandant to grant authority to private business organizations to use terms or designations otherwise prohibited by this section.
 
 #### Coast Guard City, USA
@@ -487,21 +489,11 @@ A Coast Guard supply fund was established by the Naval Appropriation Act for fis
 
 
 <a id="section-651"></a>
-## § 651. Annual report
-
-In April of each year, the Commandant, through the Secretary, shall report to Congress the operations and expenditures of the Coast Guard during the preceding fiscal year, including amounts collected as provided under [section 664 of this title](./chapter-017-administration.md#section-664).
+## § 651. Repealed. Pub. L. 113–281, title II, § 221(a)(2), Dec. 18, 2014, 128 Stat. 3037]
 
 ### Statutory Notes
 
-#### Historical and Revision Notes
-Based on title 14, U.S.C., 1946 ed., §§ 36, 37 (Oct. 2, 1888, ch. 1069, 25 Stat. 511; Jan. 28, 1915, ch. 20, § 5, 38 Stat. 802).
-
-Changes were made in phraseology. 81st Congress, House Report No. 557.
-
-#### Amendments
-1986—Pub. L. 99–509 substituted “preceding fiscal year, including amounts collected as provided under [section 664 of this title](./chapter-017-administration.md#section-664)” for “preceding fiscal year”.
-
-1976—Pub. L. 94–546 substituted “April” for “January”.
+Section, Aug. 4, 1949, ch. 393, 63 Stat. 550; Pub. L. 94–546, § 1(36), Oct. 18, 1976, 90 Stat. 2522; Pub. L. 99–509, title V, § 5102(a)(2), Oct. 21, 1986, 100 Stat. 1926, related to annual report on operations and expenditures of the Coast Guard during the preceding fiscal year.
 
 
 <a id="section-652"></a>
@@ -535,7 +527,8 @@ The Secretary under such regulations as he may prescribe, may sell to public and
 
 (1) to procure the fuel, supplies, or services from other sources at its present location; and
 
-(2) to proceed to the nearest port where they may be obtained without endangering the safety of the ship, the health and comfort of its personnel, or the safe condition of the property carried aboard. Sales under this section shall be at such prices as the Secretary considers reasonable. Payment will be made on a cash basis or on such other basis as will reasonably assure prompt payment. Amounts received from such a sale shall, unless otherwise directed by another provision of law, be credited to the current appropriation concerned and are available for the same purposes as that appropriation.
+(2) to proceed to the nearest port where they may be obtained without endangering the safety of the ship, the health and comfort of its personnel, or the safe condition of the property carried aboard.
+Sales under this section shall be at such prices as the Secretary considers reasonable. Payment will be made on a cash basis or on such other basis as will reasonably assure prompt payment. Amounts received from such a sale shall, unless otherwise directed by another provision of law, be credited to the current appropriation concerned and are available for the same purposes as that appropriation.
 
 ### Statutory Notes
 
@@ -566,11 +559,13 @@ No tax on the sale or transfer of firearms, pistols, revolvers, shells, or cartr
 
 (1) **In general.—** — Subject to the reporting requirements set forth in paragraph (2), each fiscal year the Secretary may expend from amounts made available for the operating expenses of the Coast Guard not more than $1,500,000 for minor construction and improvement projects at any location.
 
-(2) **Reporting requirements.—** — Not later than 90 days after the end of each fiscal year, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on each project undertaken during the course of the preceding fiscal year for which the amount expended under paragraph (1) exceeded $500,000.
+(2) **Report.—** — Not later than the date on which the President submits to Congress a budget under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) each year, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing each project carried out under paragraph (1), in the most recently concluded fiscal year, for which the amount expended under such paragraph for such project was more than $1,000,000. If no such project was carried out during a fiscal year, no report under this paragraph shall be required with respect to that fiscal year.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (d)(2). Pub. L. 113–281 amended par. (2) generally. Prior to amendment, text read as follows: “Not later than 90 days after the end of each fiscal year, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on each project undertaken during the course of the preceding fiscal year for which the amount expended under paragraph (1) exceeded $500,000.”
+
 2012—Pub. L. 112–213, § 212(b)(1), substituted “Use of certain appropriated funds” for “Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters” in section catchline.
 
 Subsec. (d). Pub. L. 112–213, § 212(a), added subsec. (d).
@@ -587,18 +582,7 @@ Pub. L. 94–406, § 5, Sept. 10, 1976, 90 Stat. 1236, which had provided that a
 
 
 <a id="section-657"></a>
-## § 657. Dependent school children
-**(a)** Except as otherwise authorized by the Act of September 30, 1950 11 See References in Text note below. ([20 U.S.C. 236–244](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section236–244&num=0&edition=prelim)), the Secretary may provide, out of funds appropriated to or for the use of the Coast Guard, for the primary and secondary schooling of dependents of Coast Guard personnel stationed outside the continental United States at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools, if any, available in the locality are unable to provide adequately for the education of those dependents.
-
-**(b)** Whenever the Secretary, under such regulations as he may prescribe, determines that schools located in the same area in which a Coast Guard facility is located are not accessible by public means of transportation on a regular basis, he may provide, out of funds appropriated to or for the use of the Coast Guard, for the transportation of dependents of Coast Guard personnel between the schools serving the area and the Coast Guard facility.
-
-### Statutory Notes
-
-#### References in Text
-Act of September 30, 1950, referred to in subsec. (a), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§ 236 et seq.) of Title 20, Education, prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965.
-
-#### Amendments
-1974—Pub. L. 93–430 struck out “; transportation of” after “children” in section catchline, designated existing provisions as subsec. (b), and added subsec. (a).
+## § 657. Renumbered § 544]
 
 
 <a id="section-658"></a>
@@ -718,6 +702,19 @@ The word “Amounts” is substituted for “funds” for clarity and consistenc
 1989—Par. (5). Pub. L. 101–225 added par. (5).
 
 
+<a id="section-662a"></a>
+## § 662a. Transmission of annual Coast Guard authorization request
+**(a) In General.—** Not later than 30 days after the date on which the President submits to Congress a budget for a fiscal year pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a Coast Guard authorization request with respect to such fiscal year.
+
+**(b) Coast Guard Authorization Request Defined.—** In this section, the term “Coast Guard authorization request” means a proposal for legislation that, with respect to the Coast Guard for the relevant fiscal year—
+
+(1) recommends end strengths for personnel for that fiscal year, as described in section 661;
+
+(2) recommends authorizations of appropriations for that fiscal year, including with respect to matters described in section 662; and
+
+(3) addresses any other matter that the Secretary determines is appropriate for inclusion in a Coast Guard authorization bill.
+
+
 <a id="section-663"></a>
 ## § 663. Capital investment plan
 **(a) In General.—** On the date on which the President submits to Congress a budget pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Commandant of the Coast Guard shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
@@ -782,9 +779,11 @@ Pub. L. 109–295, title II, Oct. 4, 2006, 120 Stat. 1365.
 Pub. L. 109–90, title II, Oct. 18, 2005, 119 Stat. 2072.
 
 #### Future-Years Capital Investment Plan
-Pub. L. 113–6, div. D, title II, Mar. 26, 2013, 127 Stat. 351, provided in part: “That the Commandant of the Coast Guard shall submit to the Committees on Appropriations of the Senate and the House of Representatives, at the time that the President’s budget is submitted each year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, a future-years capital investment plan for the Coast Guard that identifies for each requested capital asset— “(1) the proposed appropriations included in that budget; “(2) the total estimated cost of completion, including and clearly delineating the costs of associated major acquisition systems infrastructure and transition to operations; “(3) projected funding levels for each fiscal year for the next 5 fiscal years or until acquisition program baseline or project completion, whichever is earlier; “(4) an estimated completion date at the projected funding levels; and “(5) a current acquisition program baseline for each capital asset, as applicable, that—“(A) includes the total acquisition cost of each asset, subdivided by fiscal year and including a detailed description of the purpose of the proposed funding levels for each fiscal year, including for each fiscal year funds requested for design, pre-acquisition activities, production, structural modifications, missionization, post-delivery, and transition to operations costs; “(B) includes a detailed project schedule through completion, subdivided by fiscal year, that details—“(i) quantities planned for each fiscal year; and “(ii) major acquisition and project events, including development of operational requirements, contracting actions, design reviews, production, delivery, test and evaluation, and transition to operations, including necessary training, shore infrastructure, and logistics; “(C) notes and explains any deviations in cost, performance parameters, schedule, or estimated date of completion from the original acquisition program baseline and the most recent baseline approved by the Department of Homeland Security’s Acquisition Review Board, if applicable; “(D) aligns the acquisition of each asset to mission requirements by defining existing capabilities of comparable legacy assets, identifying known capability gaps between such existing capabilities and stated mission requirements, and explaining how the acquisition of each asset will address such known capability gaps; “(E) defines life-cycle costs for each asset and the date of the estimate on which such costs are based, including all associated costs of major acquisitions systems infrastructure and transition to operations, delineated by purpose and fiscal year for the projected service life of the asset; “(F) includes the earned value management system summary schedule performance index and cost performance index for each asset, if applicable; and “(G) includes a phase-out and decommissioning schedule delineated by fiscal year for each existing legacy asset that each asset is intended to replace or recapitalize: Provided further, That the Commandant of the Coast Guard shall ensure that amounts specified in the future-years capital investment plan are consistent, to the maximum extent practicable, with proposed appropriations necessary to support the programs, projects, and activities of the Coast Guard in the President’s budget as submitted under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, for that fiscal year: Provided further, That any inconsistencies between the capital investment plan and proposed appropriations shall be identified and justified”.
+Pub. L. 113–6, div. D, title II, Mar. 26, 2013, 127 Stat. 351, provided in part: “That the Commandant of the Coast Guard shall submit to the Committees on Appropriations of the Senate and the House of Representatives, at the time that the President’s budget is submitted each year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, a future-years capital investment plan for the Coast Guard that identifies for each requested capital asset—“(1) the proposed appropriations included in that budget; “(2) the total estimated cost of completion, including and clearly delineating the costs of associated major acquisition systems infrastructure and transition to operations; “(3) projected funding levels for each fiscal year for the next 5 fiscal years or until acquisition program baseline or project completion, whichever is earlier; “(4) an estimated completion date at the projected funding levels; and “(5) a current acquisition program baseline for each capital asset, as applicable, that—“(A) includes the total acquisition cost of each asset, subdivided by fiscal year and including a detailed description of the purpose of the proposed funding levels for each fiscal year, including for each fiscal year funds requested for design, pre-acquisition activities, production, structural modifications, missionization, post-delivery, and transition to operations costs; “(B) includes a detailed project schedule through completion, subdivided by fiscal year, that details—“(i) quantities planned for each fiscal year; and “(ii) major acquisition and project events, including development of operational requirements, contracting actions, design reviews, production, delivery, test and evaluation, and transition to operations, including necessary training, shore infrastructure, and logistics; “(C) notes and explains any deviations in cost, performance parameters, schedule, or estimated date of completion from the original acquisition program baseline and the most recent baseline approved by the Department of Homeland Security’s Acquisition Review Board, if applicable; “(D) aligns the acquisition of each asset to mission requirements by defining existing capabilities of comparable legacy assets, identifying known capability gaps between such existing capabilities and stated mission requirements, and explaining how the acquisition of each asset will address such known capability gaps; “(E) defines life-cycle costs for each asset and the date of the estimate on which such costs are based, including all associated costs of major acquisitions systems infrastructure and transition to operations, delineated by purpose and fiscal year for the projected service life of the asset; “(F) includes the earned value management system summary schedule performance index and cost performance index for each asset, if applicable; and “(G) includes a phase-out and decommissioning schedule delineated by fiscal year for each existing legacy asset that each asset is intended to replace or recapitalize: Provided further, That the Commandant of the Coast Guard shall ensure that amounts specified in the future-years capital investment plan are consistent, to the maximum extent practicable, with proposed appropriations necessary to support the programs, projects, and activities of the Coast Guard in the President’s budget as submitted under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, for that fiscal year: Provided further, That any inconsistencies between the capital investment plan and proposed appropriations shall be identified and justified”.
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 113–76, div. F, title II, Jan. 17, 2014, 128 Stat. 256.
 
 Pub. L. 112–74, div. D, title II, Dec. 23, 2011, 125 Stat. 954.
 
@@ -827,9 +826,15 @@ Pub. L. 99–640, § 15, Nov. 10, 1986, 100 Stat. 3552, provided that: “The Se
 
   (C) may not institute litigation as part of that collection.
 
-**(e)** The Secretary shall account for the agency’s costs of collecting a fee or charge as a reimbursable expense, subject to the availability of appropriations, and the costs shall be credited to the account from which expended.
+**(e)**
 
-**(f)** Before January 1 of each year, the Secretary shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that includes—
+(1) In addition to the collection of fees and charges established under this section, in the provision of a service or thing of value by the Coast Guard the Secretary may accept in-kind transportation, travel, and subsistence.
+
+(2) The value of in-kind transportation, travel, and subsistence accepted under this paragraph may not exceed applicable per diem rates set forth in regulations prescribed under [section 464 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section464&num=0&edition=prelim).
+
+**(f)** The Secretary shall account for the agency’s costs of collecting a fee or charge as a reimbursable expense, subject to the availability of appropriations, and the costs shall be credited to the account from which expended.
+
+**(g)** Before January 1 of each year, the Secretary shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that includes—
 
 (1) a verification of each activity for which a fee or charge is collected under any law stating—
 
@@ -839,16 +844,21 @@ Pub. L. 99–640, § 15, Nov. 10, 1986, 100 Stat. 3552, provided that: “The Se
 
 (2) the amount expected to be collected under any law in the current fiscal year for each activity for which a fee or charge is expected to be collected.
 
-**(g)** In this section the term “costs of collecting a fee or charge” includes the reasonable administrative, accounting, personnel, contract, equipment, supply, training, and travel expenses of calculating, assessing, collecting, enforcing, reviewing, adjusting, and reporting on a fee or charge.
+**(h)** In this section the term “costs of collecting a fee or charge” includes the reasonable administrative, accounting, personnel, contract, equipment, supply, training, and travel expenses of calculating, assessing, collecting, enforcing, reviewing, adjusting, and reporting on a fee or charge.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsecs. (e) to (h). Pub. L. 113–281 added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
+
 2004—Subsecs. (c) to (g). Pub. L. 108–293 added subsecs. (c) to (e) and (g) and redesignated former subsec. (c) as (f).
 
 2002—Subsec. (c). Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries” in introductory provisions.
 
 1989—Subsec. (c). Pub. L. 101–225 inserted “under any law” after first reference to “collected” in pars. (1) and (2).
+
+#### Limitation
+Pub. L. 113–281, title III, § 311(c), Dec. 18, 2014, 128 Stat. 3048, provided that: “The Secretary of the Department in which the Coast Guard is operating may not accept in-kind transportation, travel, or subsistence under [section 664(e) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section664/e&num=0&edition=prelim), United States Code, or [section 2110(d)(4) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2110/d/4&num=0&edition=prelim), United States Code, as amended by this section, until the Commandant of the Coast Guard— “(1) amends the Standards of Ethical Conduct for members and employees of the Coast Guard to include regulations governing the acceptance of in-kind reimbursements; and “(2) notifies the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the amendments made under paragraph (1).”
 
 
 <a id="section-665"></a>
@@ -979,12 +989,15 @@ Subsecs. (b), (c). Pub. L. 108–293, § 212(a)(3), added subsec. (b), redesigna
 ## § 672a. Long-term lease authority for lighthouse property
 **(a)** The Commandant of the Coast Guard may lease to non-Federal entities, including private individuals, lighthouse property under the administrative control of the Coast Guard for terms not to exceed 30 years. Consideration for the use and occupancy of lighthouse property leased under this section, and for the value of any utilities and services furnished to a lessee of such property by the Commandant, may consist, in whole or in part, of non-pecuniary remuneration including the improvement, alteration, restoration, rehabilitation, repair, and maintenance of the leased premises by the lessee. Section 321 of chapter 314 of the Act of June 30, 1932 ([40 U.S.C. 303b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303b&num=0&edition=prelim)) 11 See References in Text note below. shall not apply to leases issued by the Commandant under this section.
 
-**(b)** Amounts received from leases made under this section, less expenses incurred, shall be deposited in the Treasury.
+**(b)** Amounts received from leases made under this section, less expenses incurred, shall be deposited in the fund established under section 687.
 
 ### Statutory Notes
 
 #### References in Text
 Section 321 of chapter 314 of the Act of June 30, 1932 ([40 U.S.C. 303b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303b&num=0&edition=prelim)), referred to in subsec. (a), is section 321 of act June 30, 1932, ch. 314, pt. II, title III, 47 Stat. 412, which was classified to section 303b of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as [section 1302 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1302&num=0&edition=prelim), Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+
+#### Amendments
+2014—Subsec. (b). Pub. L. 113–281 substituted “the fund established under section 687” for “the Treasury”.
 
 
 <a id="section-673"></a>
@@ -1164,3 +1177,54 @@ Pub. L. 107–295, title IV, § 405(b), Nov. 25, 2002, 116 Stat. 2116, provided 
 (1) the term “accident investigation” means any form of investigation by Coast Guard personnel of an aircraft accident referred to in subsection (a), other than a safety investigation; and
 
 (2) the term “safety investigation” means an investigation by Coast Guard personnel of an aircraft accident referred to in subsection (a) that is conducted solely to determine the cause of the accident and to obtain information that may prevent the occurrence of similar accidents.
+
+
+<a id="section-679"></a>
+## § 679. Inventory of real property
+**(a) In General.—** Not later than September 30, 2015, the Commandant shall establish an inventory of all real property, including submerged lands, under the control of the Coast Guard, which shall include—
+
+(1) the size, the location, and any other appropriate description of each unit of such property;
+
+(2) an assessment of the physical condition of each unit of such property, excluding lands;
+
+(3) a determination of whether each unit of such property should be—
+
+  (A) retained to fulfill a current or projected Coast Guard mission requirement; or
+
+  (B) subject to divestiture; and
+
+(4) other information the Commandant considers appropriate.
+
+**(b) Inventory Maintenance.—** The Commandant shall—
+
+(1) maintain the inventory required under subsection (a) on an ongoing basis; and
+
+(2) update information on each unit of real property included in such inventory not later than 30 days after any change relating to the control of such property.
+
+**(c) Recommendations to Congress.—** Not later than March 30, 2016, and every 5 years thereafter, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
+
+(1) a list of all real property under the control of the Coast Guard and the location of such property by property type;
+
+(2) recommendations for divestiture with respect to any units of such property; and
+
+(3) recommendations for consolidating any units of such property, including—
+
+  (A) an estimate of the costs or savings associated with each recommended consolidation; and
+
+  (B) a discussion of the impact that such consolidation would have on Coast Guard mission effectiveness.
+
+
+<a id="section-680-1"></a>
+## § 680.1. Retired service members and dependents serving on advisory committees
+
+A committee that—
+
+(1) advises or assists the Coast Guard with respect to a function that affects a member of the Coast Guard or a dependent of such a member; and
+
+(2) includes in its membership a retired Coast Guard member or a dependent of such a retired member;
+shall not be considered an advisory committee under the Federal Advisory Committee Act (5 U.S.C. App.) solely because of such membership.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.

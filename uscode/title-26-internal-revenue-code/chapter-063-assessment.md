@@ -310,7 +310,7 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 (4) For purposes of subsection (a)—
 
-  (A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i)(6) thereof, 32, 34, 35, 36, 36A, 36B, 53(e), 168(k)(4), 6428, and 6431 over the tax imposed by subtitle A (determined without regard to such credits), and
+  (A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i)(6) thereof, 32, 34, 35, 36, 36B, 168(k)(4), and 6431 over the tax imposed by subtitle A (determined without regard to such credits), and
 
   (B) any excess of the sum of such credits as shown by the taxpayer on his return over the amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
   shall be taken into account as negative amounts of tax.
@@ -320,6 +320,12 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b)(4)(A). Pub. L. 113–295, § 221(a)(112)(B), struck out “6428,” after “168(k)(4),”.
+
+Pub. L. 113–295, § 221(a)(8)(B), struck out “, 53(e)” after “36B”.
+
+Pub. L. 113–295, § 221(a)(5)(B), struck out “, 36A” after “36”.
+
 2010—Subsec. (b)(4)(A). Pub. L. 111–148, § 10909(b)(2)(N), (c), as amended by Pub. L. 111–312, temporarily inserted “36C,” before “53(e)”. See Effective and Termination Dates of 2010 Amendment note below.
 
 Pub. L. 111–148, § 1401(d)(3), as added by Pub. L. 111–148, § 10105(d), inserted “36B,” after “36A,”.
@@ -390,6 +396,9 @@ Subsec. (b)(2). Pub. L. 91–172, § 101(j)(39), inserted reference to chapter 4
 
 1965—Subsec. (b)(4). Pub. L. 89–44 added par. (4).
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective and Termination Dates of 2010 Amendment
 Amendment by section 1401(d)(3) of Pub. L. 111–148, as added by section 10105(d) of Pub. L. 111–148, applicable to taxable years ending after Dec. 31, 2013, see section 1401(e) of Pub. L. 111–148, set out as an Effective Date note under [section 36B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36b).
 
@@ -398,7 +407,7 @@ Amendment by section 10909(b)(2)(N) of Pub. L. 111–148 terminated applicable t
 Amendment by section 10909(b)(2)(N) of Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d) of Pub. L. 111–148, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2009 Amendment
-Amendment by section 1001(e)(1) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1001(f) of Pub. L. 111–5, set out as an Effective Date note under [section 36A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36a).
+Pub. L. 111–5, div. B, title I, § 1001(f), Feb. 17, 2009, 123 Stat. 312, provided that: “This section [enacting [section 36A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36a), amending this section and [section 6213 of this title](./chapter-063-assessment.md#section-6213) and [section 1324 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), Money and Finance, and enacting provisions set out as notes under [section 36A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36a)], and the amendments made by this section, shall apply to taxable years beginning after December 31, 2008.”
 
 Amendment by section 1004(b)(7) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
 
@@ -475,7 +484,7 @@ Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after J
   (B) Deficiency attributable to gain on involuntary conversion, see section 1033(a)(2)(C) and (D).
 
   (C) Deficiency attributable to activities not engaged in for profit, see section 183(e)(4).
-For provisions allowing determination of tax in title 11 cases, see [section 505(a) of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section505/a&num=0&edition=prelim) of the United States Code.
+  For provisions allowing determination of tax in title 11 cases, see [section 505(a) of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section505/a&num=0&edition=prelim) of the United States Code.
 
 **(d) Authority to rescind notice of deficiency with taxpayer’s consent** The Secretary may, with the consent of the taxpayer, rescind any notice of deficiency mailed to the taxpayer. Any notice so rescinded shall not be treated as a notice of deficiency for purposes of subsection (c)(1) (relating to further deficiency letters restricted), section 6213(a) (relating to restrictions applicable to deficiencies; petition to Tax Court), and section 6512(a) (relating to limitations in case of petition to Tax Court), and the taxpayer shall have no right to file a petition with the Tax Court based on such notice. Nothing in this subsection shall affect any suspension of the running of any period of limitations during any period during which the rescinded notice was outstanding.
 
@@ -687,25 +696,15 @@ Pub. L. 105–206, title III, § 3504, July 22, 1998, 112 Stat. 771, provided th
 
   (K) an omission of information required by section 32(k)(2) (relating to taxpayers making improper prior claims of earned income credit),
 
-  (L) the inclusion on a return of a TIN required to be included on the return under section 21, 24, 32, or 6428 if—
+  (L) the inclusion on a return of a TIN required to be included on the return under section 21, 24, or 32 if—
 
     (i) such TIN is of an individual whose age affects the amount of the credit under such section, and
 
     (ii) the computation of the credit on the return reflects the treatment of such individual as being of an age different from the individual’s age based on such TIN,
 
-  (M) the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child,
+  (M) the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child, and
 
-  (N) an omission of the reduction required under section 36A(c) with respect to the credit allowed under section 36A or an omission of the correct social security account number required under section 36A(d)(1)(B),
-
-  (O) an omission of any increase required under section 36(f) with respect to the recapture of a credit allowed under section 36, and
-
-  (P) an entry on a return claiming the credit under section 36 if—
-
-    (i) the Secretary obtains information from the person issuing the TIN of the taxpayer that indicates that the taxpayer does not meet the age requirement of section 36(b)(4),
-
-    (ii) information provided to the Secretary by the taxpayer on an income tax return for at least one of the 2 preceding taxable years is inconsistent with eligibility for such credit, or
-
-    (iii) the taxpayer fails to attach to the return the form described in section 36(d)(4).
+  (N) an omission of any increase required under section 36(f) with respect to the recapture of a credit allowed under section 36.
   A taxpayer shall be treated as having omitted a correct TIN for purposes of the preceding sentence if information provided by the taxpayer on the return with respect to the individual whose TIN was provided differs from the information the Secretary obtains from the person issuing the TIN.
 
 **(h) Cross references**
@@ -725,7 +724,34 @@ Pub. L. 105–206, title III, § 3504, July 22, 1998, 112 Stat. 771, provided th
 #### References in Text
 Section 453(h) of the Social Security Act, referred to in subsec. (g)(2)(M), is classified to [section 653(h) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section653/h&num=0&edition=prelim), The Public Health and Welfare.
 
+#### Codification
+Pub. L. 113–295, div. A, title II, § 214(a)(2), Dec. 19, 2014, 128 Stat. 4034, which directed that subsec. (g)(2) of this section be amended by striking “and” at the end of subpar. (O), by striking the period at the end of subpar. (P) and inserting “, and”, and by inserting after subpar. (P) a new subpar. (Q), effective as if included in the provisions of Pub. L. 110–185 to which the amendments relate, could not literally be executed insofar as it directed the amendments to subpars. (O) and (P) because subsec. (g)(2), at the time of enactment of Pub. L. 110–185, did not contain subpars. (N) to (P). However, the amendment was considered to be executed by making the conforming amendments to subpars. (O) and (P) as added by sections 11(h) and 12(d) of Pub. L. 111–92, to reflect the probable intent of Congress and to allow for additional amendments by Pub. L. 113–295, which presume that such conforming amendments had taken place. See 2014 Amendment notes below.
+
 #### Amendments
+2014—Subsec. (g)(2)(L). Pub. L. 113–295, § 214(a)(1), substituted “or 32” for “32, or 6428” in introductory provisions.
+
+Subsec. (g)(2)(M). Pub. L. 113–295, § 221(a)(112)(C), inserted “and” at end.
+
+Subsec. (g)(2)(N). Pub. L. 113–295, § 221(a)(112)(C), redesignated subpar. (O) as (N) and substituted period for comma at end.
+
+Pub. L. 113–295, § 221(a)(5)(C), struck out subpar. (N) which read as follows: “an omission of the reduction required under section 36A(c) with respect to the credit allowed under section 36A or an omission of the correct social security account number required under section 36A(d)(1)(B),”.
+
+Subsec. (g)(2)(O). Pub. L. 113–295, § 214(a)(2), struck out “and” at end. See Codification note above.
+
+Subsec. (g)(2)(P). Pub. L. 113–295, § 221(a)(4), struck out subpar. (P) which read as follows: “an entry on a return claiming the credit under section 36 if—
+
+“(i) the Secretary obtains information from the person issuing the TIN of the taxpayer that indicates that the taxpayer does not meet the age requirement of section 36(b)(4),
+
+“(ii) information provided to the Secretary by the taxpayer on an income tax return for at least one of the 2 preceding taxable years is inconsistent with eligibility for such credit, or
+
+“(iii) the taxpayer fails to attach to the return the form described in section 36(d)(4), and”.
+
+Pub. L. 113–295, § 214(a)(2), substituted “, and” for period at end. See Codification note above.
+
+Subsec. (g)(2)(Q). Pub. L. 113–295, § 221(a)(112)(C), struck out subpar. (Q) which read as follows: “an omission of a correct valid identification number required under section 6428(h) (relating to 2008 recovery rebates for individuals) to be included on a return.”
+
+Pub. L. 113–295, § 214(a)(2), added subpar. (Q). See Codification note above.
+
 2010—Subsec. (b)(5). Pub. L. 111–237 added par. (5).
 
 2009—Subsec. (g)(2)(N). Pub. L. 111–5 added subpar. (N).
@@ -822,6 +848,11 @@ Subsecs. (e), (f). Pub. L. 91–172, § 101(f)(3), added subsec. (e) and redesig
 
 1965—Subsec. (e)(3). Pub. L. 89–44 added par. (3).
 
+#### Effective Date of 2014 Amendment
+Amendment by section 214(a) of Pub. L. 113–295 effective as if included in the provisions of the Economic Stimulus Act of 2008, Pub. L. 110–185, to which such amendment relates, see section 214(c) of Pub. L. 113–295, set out as a note under [section 168 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-168).
+
+Amendment by section 221(a)(4), (5)(C), 112(C) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–237 applicable to restitution ordered after Aug. 16, 2010, see section 3(c) of Pub. L. 111–237, set out as a note under [section 6201 of this title](./chapter-063-assessment.md#section-6201).
 
@@ -830,7 +861,7 @@ Pub. L. 111–92, § 11(j)(4), Nov. 6, 2009, 123 Stat. 2991, provided that: “T
 
 Amendment by section 12(d) of Pub. L. 111–92 applicable to returns for taxable years ending on or after Apr. 9, 2008, see section 12(e) of Pub. L. 111–92, set out as a note under [section 36 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36).
 
-Amendment by Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1001(f) of Pub. L. 111–5, set out as an Effective Date note under [section 36A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36a).
+Amendment by Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1001(f) of Pub. L. 111–5, set out as a note under [section 6211 of this title](./chapter-063-assessment.md#section-6211).
 
 #### Effective Date of 2001 Amendment
 Amendment by Pub. L. 107–16 effective Jan. 1, 2004, see section 303(i) of Pub. L. 107–16, set out as a note under [section 32 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-32).

@@ -2,7 +2,7 @@
 title: 25
 chapter: '27'
 heading: TRIBALLY CONTROLLED SCHOOL GRANTS
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25&num=0&edition=prelim
 ---
@@ -133,6 +133,22 @@ A prior section 2502, Pub. L. 100–297, title V, § 5203, Apr. 28, 1988, 102 St
 
 #### Effective Date
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
+
+<a id="section-2502a"></a>
+## § 2502a. Retrocession or re-assumption of Indian education funds
+
+Beginning July 1, 2008, and thereafter, any funds (including investments and interest earned, except for construction funds) held by a Public Law 100–297 grant or a Public Law 93–638 contract school shall, upon retrocession to or re-assumption by the Bureau of Indian Education, remain available to the Bureau of Indian Education for a period of 5 years from the date of retrocession or re-assumption for the benefit of the programs approved for the school on October 1, 1995.
+
+### Statutory Notes
+
+#### References in Text
+Public Law 100–297, referred to in text, is Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
+
+Public Law 93–638, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
+#### Codification
+Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Tribally Controlled Schools Act of 1988 which comprises this chapter.
 
 
 <a id="section-2503"></a>

@@ -7,27 +7,7 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
 <a id="section-55501"></a>
-## § 55501. Mobile trade fairs
-**(a) In General.—** The Secretary of Commerce shall encourage and promote the development and use of mobile trade fairs designed to show and sell the products of United States business and agriculture at foreign ports and at other commercial centers throughout the world where the operators of the fairs use, insofar as practicable, vessels and aircraft of the United States in transporting their exhibits.
-
-**(b) Technical and Financial Assistance.—** When the Secretary determines that a mobile trade fair provides an economical and effective means of promoting export sales, the Secretary may provide to the operator of the fair—
-
-(1) technical assistance and support; and
-
-(2) financial assistance to defray certain expenses incurred outside the United States, except the cost of transportation on foreign vessels and aircraft.
-
-**(c) Use of Foreign Currencies.—** To carry out this section, the President may use, in addition to amounts appropriated to carry out trade promotion activities, foreign currencies owned by or owed to the United States Government.
-
-### Statutory Notes
-
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 55501 | 46 App.:1122b. | June 29, 1936, ch. 858, title II, § 212(B), as added Pub. L. 87–839, § 1, Oct. 18, 1962, 76 Stat. 1074; Pub. L. 89–66, July 7, 1965, 79 Stat. 211; Pub. L. 90–434, July 27, 1968, 82 Stat. 449; Pub. L. 100–418, title X, § 10003(a), Aug. 23, 1988, 102 Stat. 1572. |
-
-
-<a id="section-55502"></a>
-## § 55502. United States Committee on the Marine Transportation System
+## § 55501. United States Committee on the Marine Transportation System
 **(a) Establishment.—** There is established a United States Committee on the Marine Transportation System (in this section referred to as the “Committee”).
 
 **(b) Purpose.—** The Committee shall serve as a Federal interagency coordinating committee for the purpose of—
@@ -108,3 +88,13 @@ source: >-
 
 #### References in Text
 The date of enactment of this Act, referred to in subsec. (e), probably means the date of enactment of Pub. L. 112–213, which enacted this section and was approved Dec. 20, 2012.
+
+#### Prior Provisions
+A prior section 55501, Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1650, related to mobile trade fairs to show and sell United States products at foreign ports and other global commercial centers, prior to repeal by Pub. L. 113–281, title III, § 301(1), Dec. 18, 2014, 128 Stat. 3042.
+
+#### Amendments
+2014—Pub. L. 113–281 renumbered [section 55502 of this title](./chapter-555-miscellaneous.md#section-55502) as this section.
+
+
+<a id="section-55502"></a>
+## § 55502. Renumbered § 55501]

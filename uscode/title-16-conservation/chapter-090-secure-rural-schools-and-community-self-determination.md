@@ -9,7 +9,7 @@ source: >-
 <a id="section-7101"></a>
 ## § 7101. Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 2008 through 2012.
+There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 2008 through 2013.
 
 ### Statutory Notes
 
@@ -20,6 +20,8 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 A prior section 402 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2013—Pub. L. 113–40 substituted “2013” for “2012”.
+
 2012—Pub. L. 112–141 substituted “2012” for “2011”.
 
 
@@ -211,13 +213,13 @@ A prior section 3 of Pub. L. 106–393 was set out in a note under [section 500 
 
 <a id="section-7113"></a>
 ## § 7113. Secure payments for States containing Federal land
-**(a) State payment** For each of fiscal years 2008 through 2012, the Secretary of Agriculture shall calculate for each eligible State an amount equal to the sum of the products obtained by multiplying—
+**(a) State payment** For each of fiscal years 2008 through 2013, the Secretary of Agriculture shall calculate for each eligible State an amount equal to the sum of the products obtained by multiplying—
 
 (1) the adjusted share for each eligible county within the eligible State; by
 
 (2) the full funding amount for the fiscal year.
 
-**(b) County payment** For each of fiscal years 2008 through 2012, the Secretary of the Interior shall calculate for each eligible county that received a 50-percent payment during the eligibility period an amount equal to the product obtained by multiplying—
+**(b) County payment** For each of fiscal years 2008 through 2013, the Secretary of the Interior shall calculate for each eligible county that received a 50-percent payment during the eligibility period an amount equal to the product obtained by multiplying—
 
 (1) the 50-percent adjusted share for the eligible county; by
 
@@ -229,6 +231,8 @@ A prior section 3 of Pub. L. 106–393 was set out in a note under [section 500 
 A prior section 101 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2013—Subsecs. (a), (b). Pub. L. 113–40 substituted “2013” for “2012” in introductory provisions.
+
 2012—Subsecs. (a), (b). Pub. L. 112–141 substituted “2012” for “2011” in introductory provisions.
 
 
@@ -252,7 +256,7 @@ A prior section 101 of Pub. L. 106–393 was set out in a note under [section 50
 
 (1) **Election; submission of results**
 
-  (A) *In general* — The election to receive a share of the State payment, the county payment, a share of the State payment and the county payment, a share of the 25-percent payment, the 50-percent payment, or a share of the 25-percent payment and the 50-percent payment, as applicable, shall be made at the discretion of each affected county by August 1, 2012 (or as soon thereafter as the Secretary concerned determines is practicable), and August 1 of each second fiscal year thereafter, in accordance with paragraph (2), and transmitted to the Secretary concerned by the Governor of each eligible State.
+  (A) *In general* — The election to receive a share of the State payment, the county payment, a share of the State payment and the county payment, a share of the 25-percent payment, the 50-percent payment, or a share of the 25-percent payment and the 50-percent payment, as applicable, shall be made at the discretion of each affected county by August 1, 2013 (or as soon thereafter as the Secretary concerned determines is practicable), and August 1 of each second fiscal year thereafter, in accordance with paragraph (2), and transmitted to the Secretary concerned by the Governor of each eligible State.
 
   (B) *Failure to transmit* — If an election for an affected county is not transmitted to the Secretary concerned by the date specified under subparagraph (A), the affected county shall be considered to have elected to receive a share of the State payment, the county payment, or a share of the State payment and the county payment, as applicable.
 
@@ -260,7 +264,7 @@ A prior section 101 of Pub. L. 106–393 was set out in a note under [section 50
 
   (A) *In general* — A county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, shall be effective for 2 fiscal years.
 
-  (B) *Full funding amount* — If a county elects to receive a share of the State payment or the county payment in 2012, the election shall be effective for all subsequent fiscal years through fiscal year 2012.
+  (B) *Full funding amount* — If a county elects to receive a share of the State payment or the county payment in 2013, the election shall be effective for all subsequent fiscal years through fiscal year 2013.
 
 (3) **Source of payment amounts** — The payment to an eligible State or eligible county under this section for a fiscal year shall be derived from—
 
@@ -339,6 +343,10 @@ This chapter, referred to in subsec. (b)(3)(A), was in the original “this Act�
 A prior section 102 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2013—Subsec. (b)(1)(A). Pub. L. 113–40, § 10(a)(1)(B)(i), substituted “2013” for “2012”.
+
+Subsec. (b)(2)(B). Pub. L. 113–40, § 10(a)(1)(B)(ii), substituted “2013” for “2012” in two places.
+
 2012—Subsec. (b)(1)(A). Pub. L. 112–141, § 100101(a)(3)(A), substituted “2012” for “2008”.
 
 Subsec. (b)(2)(B). Pub. L. 112–141, § 100101(a)(3)(B), inserted “in 2012” before “, the election”.
@@ -388,7 +396,7 @@ Subsec. (d)(3)(B). Pub. L. 112–141, § 100101(a)(3)(C)(ii)(III), added subpar.
 
 (1) Payments to the State of California under subsection (b).
 
-(2) The shares of the eligible counties of the State payment for California under [section 7112 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7112) for each of fiscal years 2011 and 2012.
+(2) The shares of the eligible counties of the State payment for California under [section 7112 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7112) for each of fiscal years 2011 through 2013.
 
 **(e) Treatment of payments** For purposes of this chapter, any payment made under subsection (b) shall be considered to be a payment made under [section 7112(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7112/a&num=0&edition=prelim).
 
@@ -403,6 +411,8 @@ This chapter, referred to in subsec. (e), was in the original “this Act”, me
 A prior section 103 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2013—Subsec. (d)(2). Pub. L. 113–40 substituted “through 2013” for “and 2012”.
+
 2012—Subsec. (d)(2). Pub. L. 112–141 substituted “each of fiscal years 2011 and 2012” for “fiscal year 2011”.
 
 
@@ -457,7 +467,7 @@ A prior section 202 of Pub. L. 106–393 was set out in a note under [section 50
 ## § 7125. Submission of project proposals
 **(a) Submission of project proposals to Secretary concerned**
 
-(1) **Projects funded using project funds** — Not later than September 30 for fiscal year 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and each September 30 thereafter for each succeeding fiscal year through fiscal year 2012, each resource advisory committee shall submit to the Secretary concerned a description of any projects that the resource advisory committee proposes the Secretary undertake using any project funds reserved by eligible counties in the area in which the resource advisory committee has geographic jurisdiction.
+(1) **Projects funded using project funds** — Not later than September 30 for fiscal year 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and each September 30 thereafter for each succeeding fiscal year through fiscal year 2013, each resource advisory committee shall submit to the Secretary concerned a description of any projects that the resource advisory committee proposes the Secretary undertake using any project funds reserved by eligible counties in the area in which the resource advisory committee has geographic jurisdiction.
 
 (2) **Projects funded using other funds** — A resource advisory committee may submit to the Secretary concerned a description of any projects that the committee proposes the Secretary undertake using funds from State or local governments, or from the private sector, other than project funds and funds appropriated and otherwise available to do similar work.
 
@@ -499,6 +509,8 @@ A prior section 202 of Pub. L. 106–393 was set out in a note under [section 50
 A prior section 203 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2013—Subsec. (a)(1). Pub. L. 113–40 substituted “2013” for “2012”.
+
 2012—Subsec. (a)(1). Pub. L. 112–141 substituted “2012” for “2011”.
 
 
@@ -578,7 +590,7 @@ A prior section 203 of Pub. L. 106–393 was set out in a note under [section 50
 
     (ii) For fiscal year 2009, 45 percent.
 
-    (iii) For each of fiscal years 2010 through 2012, 50 percent.
+    (iii) For each of fiscal years 2010 through 2013, 50 percent.
 
   (C) *Inclusion in pilot program* — The decision whether to use separate contracts to implement a project involving the sale of merchantable timber shall be made by the Secretary concerned after the approval of the project under this subchapter.
 
@@ -606,6 +618,8 @@ A prior section 203 of Pub. L. 106–393 was set out in a note under [section 50
 A prior section 204 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2013—Subsec. (e)(3)(B)(iii). Pub. L. 113–40 substituted “2013” for “2012”.
+
 2012—Subsec. (e)(3)(B)(iii). Pub. L. 112–141 substituted “through 2012” for “and 2011”.
 
 
@@ -625,9 +639,9 @@ A prior section 204 of Pub. L. 106–393 was set out in a note under [section 50
 
 (4) **Existing advisory committees**
 
-  (A) *In general* — An advisory committee that meets the requirements of this section, a resource advisory committee established before September 29, 2011, or an advisory committee determined by the Secretary concerned before September 29, 2011, to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
+  (A) *In general* — An advisory committee that meets the requirements of this section, a resource advisory committee established before September 29, 2012, or an advisory committee determined by the Secretary concerned before September 29, 2012, to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
 
-  (B) *Charter* — A charter for a committee described in subparagraph (A) that was filed on or before September 29, 2011, shall be considered to be filed for purposes of this chapter.
+  (B) *Charter* — A charter for a committee described in subparagraph (A) that was filed on or before September 29, 2012, shall be considered to be filed for purposes of this chapter.
 
   (C) *Bureau of land management advisory committees* — The Secretary of the Interior may deem a resource advisory committee meeting the requirements of subpart 1784 of part 1780 of title 43, Code of Federal Regulations, as a resource advisory committee for the purposes of this subchapter.
 
@@ -745,6 +759,8 @@ October 3, 2008, referred to in subsec. (c)(3), was in the original “the date 
 A prior section 205 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2013—Subsec. (a)(4)(A), (B). Pub. L. 113–40 substituted “2012” for “2011” wherever appearing.
+
 2012—Subsec. (a)(4)(A), (B). Pub. L. 112–141 substituted “2011” for “2006” wherever appearing.
 
 
@@ -788,7 +804,7 @@ A prior section 206 of Pub. L. 106–393 was set out in a note under [section 50
 
 <a id="section-7141"></a>
 ## § 7141. Availability of project funds
-**(a) Submission of proposed projects to obligate funds** By September 30, 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and each September 30 thereafter for each succeeding fiscal year through fiscal year 2012, a resource advisory committee shall submit to the Secretary concerned pursuant to [section 7123(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7123/a/1&num=0&edition=prelim) a sufficient number of project proposals that, if approved, would result in the obligation of at least the full amount of the project funds reserved by the participating county in the preceding fiscal year.
+**(a) Submission of proposed projects to obligate funds** By September 30, 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and each September 30 thereafter for each succeeding fiscal year through fiscal year 2013, a resource advisory committee shall submit to the Secretary concerned pursuant to [section 7123(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7123/a/1&num=0&edition=prelim) a sufficient number of project proposals that, if approved, would result in the obligation of at least the full amount of the project funds reserved by the participating county in the preceding fiscal year.
 
 **(b) Use or transfer of unobligated funds** Subject to [section 7128 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7128), if a resource advisory committee fails to comply with subsection (a) for a fiscal year, any project funds reserved by the participating county in the preceding fiscal year and remaining unobligated shall be available for use as part of the project submissions in the next fiscal year.
 
@@ -809,14 +825,16 @@ This chapter, referred to in subsec. (d)(1), was in the original “this Act”,
 A prior section 207 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2013—Subsec. (a). Pub. L. 113–40 substituted “2013” for “2012”.
+
 2012—Subsec. (a). Pub. L. 112–141 substituted “2012” for “2011”.
 
 
 <a id="section-7142"></a>
 ## § 7142. Termination of authority
-**(a) In general** The authority to initiate projects under this subchapter shall terminate on September 30, 2012.
+**(a) In general** The authority to initiate projects under this subchapter shall terminate on September 30, 2013.
 
-**(b) Deposits in Treasury** Any project funds not obligated by September 30, 2013, shall be deposited in the Treasury of the United States.
+**(b) Deposits in Treasury** Any project funds not obligated by September 30, 2014, shall be deposited in the Treasury of the United States.
 
 ### Statutory Notes
 
@@ -824,6 +842,10 @@ A prior section 207 of Pub. L. 106–393 was set out in a note under [section 50
 A prior section 208 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2013—Subsec. (a). Pub. L. 113–40, § 10(a)(2)(E)(i), substituted “2013” for “2012”.
+
+Subsec. (b). Pub. L. 113–40, § 10(a)(2)(E)(ii), substituted “2014” for “2013”.
+
 2012—Subsec. (a). Pub. L. 112–141, § 100101(a)(2), substituted “2012” for “2011”.
 
 Subsec. (b). Pub. L. 112–141, § 100101(a)(8), substituted “2013” for “2012”.
@@ -887,13 +909,17 @@ A prior section 303 of Pub. L. 106–393 was set out in a note under [section 50
 
 <a id="section-7152"></a>
 ## § 7152. Termination of authority
-**(a) In general** The authority to initiate projects under this subchapter terminates on September 30, 2012.
+**(a) In general** The authority to initiate projects under this subchapter terminates on September 30, 2013.
 
-**(b) Availability** Any county funds not obligated by September 30, 2013, shall be returned to the Treasury of the United States.
+**(b) Availability** Any county funds not obligated by September 30, 2014, shall be returned to the Treasury of the United States.
 
 ### Statutory Notes
 
 #### Amendments
+2013—Subsec. (a). Pub. L. 113–40, § 10(a)(3)(A), substituted “2013” for “2012”.
+
+Subsec. (b). Pub. L. 113–40, § 10(a)(3)(B), substituted “2014” for “2013”.
+
 2012—Subsec. (a). Pub. L. 112–141, § 100101(a)(2), substituted “2012” for “2011”.
 
 Subsec. (b). Pub. L. 112–141, § 100101(a)(10), substituted “2013” for “2012”.

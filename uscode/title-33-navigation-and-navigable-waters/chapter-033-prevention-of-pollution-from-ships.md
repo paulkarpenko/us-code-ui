@@ -26,11 +26,7 @@ source: >-
 
 (8) “owner” means any person holding title to, or in the absence of title, any other indicia of ownership of, a ship or terminal, but does not include a person who, without participating in the management or operation of a ship or terminal, holds indicia of ownership primarily to protect a security interest in the ship or terminal;
 
-(9) “operator” means—
-
-  (a) in the case of a ship, a charterer by demise or any other person, except the owner, who is responsible for the operation, manning, victualing, and supplying of the vessel, or
-
-  (b) in the case of a terminal, any person, except the owner, responsible for the operation of the terminal by agreement with the owner;
+(9) “operator” means— (a) in the case of a ship, a charterer by demise or any other person, except the owner, who is responsible for the operation, manning, victualing, and supplying of the vessel, or (b) in the case of a terminal, any person, except the owner, responsible for the operation of the terminal by agreement with the owner;
 
 (10) “person” means an individual, firm, public or private corporation, partnership, association, State, municipality, commission, political subdivision of a State, or any interstate body;
 
@@ -711,12 +707,16 @@ Each day of a continuing violation shall constitute a separate violation. The am
 
 **(f) Referrals for appropriate action by foreign country** Notwithstanding subsection (a), (b), or (d) of this section, if the violation is by a ship registered in or of the nationality of a country party to the MARPOL Protocol or the Antarctic Protocol, or one operated under the authority of a country party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, or the Administrator as provided for in this chapter acting in coordination with the Secretary of State, may refer the matter to the government of the country of the ship’s registry or nationality, or under whose authority the ship is operating for appropriate action, rather than taking the actions required or authorized by this section.
 
+**(g) Deposits in Abandoned Seafarers Fund** Any penalty collected under subsection (a) or (b) that is not paid under that subsection to the person giving information leading to the conviction or assessment of such penalties shall be deposited in the Abandoned Seafarers Fund established under [section 11113 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section11113&num=0&edition=prelim), United States Code.
+
 ### Statutory Notes
 
 #### Codification
 In subsec. (e), “[section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim)” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 60105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), Shipping.
 
 #### Amendments
+2014—Subsec. (g). Pub. L. 113–281 added subsec. (g).
+
 2008—Pub. L. 110–280, § 10(1), substituted “MARPOL Protocol,” for “MARPOL Protocol,,” wherever appearing in subsecs. (a), (b), and (d).
 
 Subsec. (b). Pub. L. 110–280, § 10(2)(C), in concluding provisions, inserted “or the Administrator as provided for in this chapter” after “Secretary,” and “, or the Administrator as provided for in this chapter,” after “Secretary” in two places.

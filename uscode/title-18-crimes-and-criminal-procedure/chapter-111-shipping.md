@@ -303,8 +303,8 @@ Section effective Mar. 6, 1995, see section 60019(c)(1), (2)(B) of Pub. L. 103�
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
 
 
-<a id="section-2282a"></a>
-## § 2282A. 11 So in original. No section 2282 has been enacted. Devices or dangerous substances in waters of the United States likely to destroy or damage ships or to interfere with maritime commerce
+<a id="section-2282a-1"></a>
+## § 2282A.1. Devices or dangerous substances in waters of the United States likely to destroy or damage ships or to interfere with maritime commerce
 **(a)** A person who knowingly places, or causes to be placed, in navigable waters of the United States, by any means, a device or dangerous substance which is likely to destroy or cause damage to a vessel or its cargo, cause interference with the safe navigation of vessels, or interference with maritime commerce (such as by damaging or destroying marine terminals, facilities, or any other marine structure or entity used in maritime commerce) with the intent of causing such destruction or damage, interference with the safe navigation of vessels, or interference with maritime commerce shall be fined under this title or imprisoned for any term of years, or for life; or both.
 
 **(b)** A person who causes the death of any person by engaging in conduct prohibited under subsection (a) may be punished by death.

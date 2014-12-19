@@ -157,7 +157,8 @@ For the purposes of this chapter, the term “program or activity” and “prog
 
   (B) the entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
 
-(4) any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3); any part of which is extended Federal financial assistance, except that such term does not include any operation of an entity which is controlled by a religious organization if the application of [section 1681 of this title](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) to such operation would not be consistent with the religious tenets of such organization.
+(4) any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3);
+any part of which is extended Federal financial assistance, except that such term does not include any operation of an entity which is controlled by a religious organization if the application of [section 1681 of this title](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) to such operation would not be consistent with the religious tenets of such organization.
 
 ### Statutory Notes
 

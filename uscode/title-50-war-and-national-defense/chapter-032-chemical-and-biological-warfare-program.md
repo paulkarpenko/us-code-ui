@@ -657,7 +657,8 @@ Pub. L. 102–484, div. A, title I, §§ 174, 175, Oct. 23, 1992, 106 Stat. 2344
 #### Sense of Congress Concerning International Consultation and Exchange Program
 Pub. L. 102–484, div. A, title I, § 178, Oct. 23, 1992, 106 Stat. 2346, provided that: “It is the sense of Congress that the Secretary of Defense, in consultation with the Secretary of State, should establish, with other nations that are anticipated to be signatories to an international agreement or treaty banning chemical weapons, a program under which consultation and exchange concerning chemical weapons disposal technology could be enhanced. Such a program shall be used to facilitate the exchange of technical information and advice concerning the disposal of chemical weapons among signatory nations and to further the development of safer, more cost-effective methods for the disposal of chemical weapons.”
 
-#### “Low-Volume Site” Defined
+“Low-Volume Site” Defined
+
 Pub. L. 102–484, div. A, title I, § 180, Oct. 23, 1992, 106 Stat. 2347, which defined “low-volume site” for purposes of subtitle G (§§ 171–180) of title I of div. A of Pub. L. 102–484, was repealed by Pub. L. 111–383, div. A, title XIV, § 1421(b)(2), Jan. 7, 2011, 124 Stat. 4420.
 
 #### Revision of Chemical Demilitarization Program
@@ -862,4 +863,5 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 #### References in Text
 The National Security Act of 1947, referred to in subsec. (b), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of this title, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of this title. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
 
+#### Codification
 Section was enacted as part of the Arms Control and Nonproliferation Act of 1999, and also as part of the Arms Control, Nonproliferation, and Security Assistance Act of 1999, and the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years, 2000 and 2001, and not as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.

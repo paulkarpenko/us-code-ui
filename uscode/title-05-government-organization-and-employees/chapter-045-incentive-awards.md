@@ -21,7 +21,7 @@ For the purpose of this subchapter—
 
   (D) the Botanic Garden;
 
-  (E) the Government Printing Office;
+  (E) the Government Publishing Office;
 
   (F) the government of the District of Columbia; and
 
@@ -67,6 +67,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 1981—Pub. L. 97–35 substituted “subchapter” for “chapter” in provision preceding par. (1).
 
 1978—Par. (2)(A). Pub. L. 95–454 inserted reference to an employee covered by merit pay system established under [section 5402 of this title](./chapter-054-human-capital-performance-fund.md#section-5402).
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in par. (1)(E) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note under [section 3372 of this title](./chapter-033-examination-selection-and-placement.md#section-3372).
@@ -216,7 +219,8 @@ The President may pay a cash award to, and incur necessary expense for the honor
 
 (1) by his suggestion, invention, superior accomplishment, or other personal effort contributes to the efficiency, economy, or other improvement of Government operations or achieves a significant reduction in paperwork; or
 
-(2) performs an exceptionally meritorious special act or service in the public interest in connection with or related to his official employment. A Presidential award may be in addition to an agency award under [section 4503 of this title](./chapter-045-incentive-awards.md#section-4503).
+(2) performs an exceptionally meritorious special act or service in the public interest in connection with or related to his official employment.
+A Presidential award may be in addition to an agency award under [section 4503 of this title](./chapter-045-incentive-awards.md#section-4503).
 
 ### Statutory Notes
 

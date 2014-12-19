@@ -2,7 +2,7 @@
 title: 2
 chapter: '16'
 heading: CONGRESSIONAL MAILING STANDARDS
-section_count: 2
+section_count: 6
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -60,3 +60,201 @@ Committee on Post Office and Civil Service of House of Representatives abolished
 
 #### Effective Date
 Section effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as an Effective Date of 1973 Amendment note under [section 3210 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3210&num=0&edition=prelim), Postal Service.
+
+
+<a id="section-503"></a>
+## § 503. Official mail of persons entitled to use congressional frank
+**(a) Congressional committee regulations for expenditure of appropriations for official mail** Except as otherwise provided in this section, funds appropriated by this Act or any other Act for expenses of official mail of any person entitled to use the congressional frank may be expended only in accordance with regulations prescribed by the Committee on Rules and Administration of the Senate or the Committee on House Oversight of the House of Representatives, as applicable. Such regulations shall require—
+
+(1) individual accountability for use of official mail by each person entitled to use the congressional frank;
+
+(2)
+
+  (A) with respect to the House of Representatives, allocation of funds for official mail to be made to each such person with respect to each session of Congress (with no transfer to any other session or to any other such person); and
+
+  (B) with respect to the Senate, allocation of funds for official mail to be made to each such person with respect to each session of Congress (with no transfer to any other session, other than transfers from the first session of a Congress to the second session of that Congress, or to any other such person); and
+
+(3) with respect to the House of Representatives, that in addition to any other report or information made available to the public (through the House Commission on Congressional Mailing Standards or otherwise) regarding the use of the frank, the Chief Administrative Officer of the House of Representatives shall include in the quarterly report of receipts and expenditures submitted to the House of Representatives a statement (based solely on data provided for that purpose by the Committee on House Oversight of the House of Representatives and the House Commission on Congressional Mailing Standards) of costs incurred for official mail by each person entitled to use the congressional frank.
+
+**(b) Postmaster General functions** The Postmaster General, in consultation with the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives—
+
+(1) shall monitor use of official mail by each person entitled to use the congressional frank;
+
+(2) at least monthly, shall notify any person with an allocation under subsection (a)(2)(A) as to the amount that has been used and any person with an allocation under subsection (a)(2)(B) as to the percentage of the allocation that has been used; and
+
+(3) may not carry or deliver official mail the cost of which is in excess of an allocation under subsection (a)(2).
+
+**(c) Source of funds for expenses of official mail** Expenses of official mail of the Senate and the House of Representatives may be paid only from funds specifically appropriated for that purpose and funds so appropriated—
+
+(1) may be supplemented by other appropriated funds only if such supplementation is provided for by law or by regulation under subsection (a); and
+
+(2) may not be supplemented by funds from any other source, public or private.
+
+**(d) Maintenance or use of unofficial office accounts or defrayal of official expenses from certain funds prohibited** No Senator or Member of the House of Representatives may maintain or use, directly or indirectly, an unofficial office account or defray official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) from—
+
+(1) funds received from a political committee or derived from a contribution or expenditure (as such terms are defined in [section 30101 of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim));
+
+(2) funds received as reimbursement for expenses incurred by the Senator or Member in connection with personal services provided by the Senator or Member to the person making the reimbursement; or
+
+(3) any other funds that are not specifically appropriated for official expenses.
+
+**(e) Official Mail Allowance in House of Representatives**
+
+(1) The use of funds of the House of Representatives which are made available for official mail of Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank shall be governed by regulations promulgated—
+
+  (A) by the Committee on House Oversight of the House of Representatives, with respect to allocation and expenditures relating to official mail (except as provided in subparagraph (B)); and
+
+  (B) by the House Commission on Congressional Mailing Standards, with respect to matters under [section 3210(a)(6)(D) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3210/a/6/D&num=0&edition=prelim).
+
+(2) Funds used for official mail—
+
+  (A) with respect to a Member of the House of Representatives, shall be available, in a session of Congress, in a total amount, as determined under paragraph (1)(A), of not more than the product of (i) 3 times the single-piece rate applicable to first class mail, and (ii) the number (as determined by the Postmaster General) of addresses (other than business possible delivery stops) in the congressional district, as such addresses are described in [section 3210(d)(7)(B) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3210/d/7/B&num=0&edition=prelim); and
+
+  (B) with respect to any other person entitled to use the congressional frank in the House of Representatives (including any Member of the House of Representatives who receives an allocation under subsection (a)(2) with respect to duties as an elected officer of, or holder of another position in, the House of Representatives), shall be available, in a session of Congress, in a total amount determined under paragraph (1)(A).
+
+**(f) Mass mailing; submission of samples or description of proposed mail matter; advisory opinion** A Member of the House of Representatives shall, before making any mass mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether such proposed mailing is in compliance with applicable provisions of law, rule, or regulation.
+
+**(g) “Member of the House of Representatives” and “person entitled to use the congressional frank” defined** As used in subsections (a) through (f)—
+
+(1) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress; and
+
+(2) the term “person entitled to use the congressional frank” means a Senator, Member of the House of Representatives, or other person authorized to use the frank under [section 3210(b) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3210/b&num=0&edition=prelim).
+
+**(h) Omitted**
+
+**(i) Effective date** This section and the amendments made by this section shall apply with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
+
+### Statutory Notes
+
+#### References in Text
+The amendments made by this section, referred to in subsec. (i), means the amendments made by section 311(h) of Pub. L. 101–520, which amended [section 6314 of this title](./chapter-063-senate-members.md#section-6314) and sections 3210 and 3216 of Title 39, Postal Service, and amended provisions set out as notes under sections 3210 and 3216 of Title 39.
+
+#### Codification
+Section was formerly classified to [section 59e of this title](./chapter-003-compensation-and-allowances-of-members.md#section-59e) prior to editorial reclassification and renumbering as this section.
+
+Section is from the Legislative Branch Appropriations Act, 1991.
+
+Subsec. (h) of this section made the amendments specified in the References in Text note above.
+
+#### Amendments
+2003—Subsec. (d). Pub. L. 108–83, in introductory provisions, struck out “in the House, or official expenses” after “defray official expenses” and “in the Senate” after “(excluding handheld communications devices)”.
+
+2001—Subsec. (d). Pub. L. 107–68, in introductory provisions, inserted “in the House, or official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) in the Senate” after “expenses”.
+
+1999—Subsec. (a)(3). Pub. L. 106–57, § 103(a)(4)(B), substituted “costs incurred for official mail by” for “costs charged against the Official Mail Allowance for”.
+
+Subsec. (b)(2). Pub. L. 106–19 substituted “any person with an allocation under subsection (a)(2)(A) as to the amount that has been used and any person with an allocation under subsection (a)(2)(B)” for “any person with an allocation under subsection (a)(2)”.
+
+Subsec. (e)(1). Pub. L. 106–57, § 103(a)(1)(A), in introductory provisions, substituted “The use of funds of the House of Representatives which are made available for official mail of Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank shall be governed by regulations promulgated—” for “There is established in the House of Representatives an Official Mail Allowance for Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank. Regulations for use of the Official Mail Allowance shall be prescribed—”.
+
+Subsec. (e)(1)(A). Pub. L. 106–57, § 103(a)(1)(B), substituted “official mail (except as provided in subparagraph (B))” for “the Allowance”.
+
+Subsec. (e)(2). Pub. L. 106–57, § 103(a)(2)(A), substituted “Funds used for official mail—” for “The Official Mail Allowance—” in introductory provisions.
+
+Pub. L. 106–57, § 102, made technical correction to directory language of Pub. L. 105–275, § 104(a). See 1998 Amendment note below.
+
+Subsec. (e)(2)(A) to (C). Pub. L. 106–57, § 103(a)(2)(B), (C), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “shall be available for postage for franked mail sent at a first class, third class, or fourth class rate;”.
+
+Subsec. (e)(3). Pub. L. 106–57, § 103(a)(3), struck out par. (3) which read as follows:
+
+“(3)(A) Subject to subparagraph (B), each Member of the House of Representatives may transfer amounts from the Members’ Representational Allowance of the Member to the Official Mail Allowance of the Member.
+
+“(B) The total amount a Member may so transfer with respect to a session of Congress may not exceed $25,000.”
+
+1998—Subsec. (e)(2). Pub. L. 105–275, § 104(a), as amended by Pub. L. 106–57, § 102, inserted “and” at end of subpar. (B), substituted a period for “; and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “shall not be available for payment of any nonpostage fee or charge, including any fee or charge for express mail, express mail drop shipment, certified mail, registered mail, return receipt, address correction, or postal insurance.”
+
+Subsec. (e)(4). Pub. L. 105–275, § 104(b), struck out par. (4) which read as follows: “The Members’ Representational Allowance shall be available to a Member of the House of Representatives for the payment of nonpostage fees and charges referred to in paragraph (2)(D) and for postage for mail for official business sent outside the United States.”
+
+1996—Subsec. (a). Pub. L. 104–186, § 203(22)(B)(i), substituted “House Oversight” for “House Administration” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 104–186, § 203(22)(A), (B)(ii), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” and “House Oversight” for “House Administration”.
+
+Subsec. (b). Pub. L. 104–186, § 203(22)(B)(iii), substituted “House Oversight” for “House Administration” in introductory provisions.
+
+Subsec. (e)(1)(A). Pub. L. 104–186, § 203(22)(B)(iv), substituted “House Oversight” for “House Administration”.
+
+Subsec. (e)(2)(A). Pub. L. 104–186, § 203(22)(B)(v), struck out “only” after “available”.
+
+Subsec. (e)(3)(A). Pub. L. 104–186, § 203(22)(B)(vi), substituted “Members’ Representational Allowance” for “Official Expenses Allowance and the Clerk Hire Allowance”.
+
+Subsec. (e)(4). Pub. L. 104–186, § 203(22)(B)(vii), substituted “Members’ Representational Allowance” for “Official Expenses Allowance”.
+
+1991—Subsec. (i). Pub. L. 102–229 substituted “beginning on May 1, 1992,” for “with respect to sessions of Congress beginning with the second session of the One Hundred Second Congress,”.
+
+#### Change of Name
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 2003 Amendment
+Pub. L. 108–83, title I, § 105(b), Sept. 30, 2003, 117 Stat. 1018, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2004 and each succeeding fiscal year.”
+
+#### Effective Date of 1999 Amendments
+Amendment by section 103(a)(1)–(3), (4)(B) of Pub. L. 106–57 applicable with respect to the first session of the One Hundred Sixth Congress and each succeeding session of Congress, see section 103(c) of Pub. L. 106–57, set out as a note under [section 4313 of this title](./chapter-043-congressional-committees.md#section-4313).
+
+Pub. L. 106–19, § 1(b), Apr. 8, 1999, 113 Stat. 29, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to January 1999 and each succeeding month.”
+
+
+<a id="section-504"></a>
+## § 504. Mass mailings by Senate offices; quarterly statements; publication of summary tabulations
+
+Two weeks after the close of each calendar quarter, or as soon as practicable thereafter, the Sergeant at Arms and Doorkeeper of the Senate shall send to each Senate office a statement of the cost of postage and paper and of the other operating expenses incurred as a result of mass mailings processed for such Senate office during such quarter. The statement shall separately identify the cost of postage and paper and other costs, and shall distinguish the costs attributable to newsletters and all other mass mailings. The statement shall also include the total cost per capita in the State. A compilation of all such statements shall be sent to the Senate Committee on Rules and Administration. A summary tabulation of such information shall be published quarterly in the Congressional Record and included in the semiannual report of the Secretary of the Senate. Such summary tabulation shall set forth for each Senate office the following information: the Senate office’s name, the total number of pieces of mass mail mailed during the quarter, the total cost of such mail, and, in the case of Senators, the cost of such mail divided by the total population of the State from which the Senator was elected, and the total number of pieces of mass mail divided by the total population of the State from which the Senator was elected, and in the case of each Senator, the allocation made to such Senator from the appropriation for official mail expenses.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 59f of this title](./chapter-003-compensation-and-allowances-of-members.md#section-59f) prior to editorial reclassification and renumbering as this section.
+
+Section is from the Legislative Branch Appropriations Act, 1991.
+
+#### Amendments
+1994—Pub. L. 103–283 inserted before period at end “, and in the case of each Senator, the allocation made to such Senator from the appropriation for official mail expenses”.
+
+#### Effective Date of 1994 Amendment
+Pub. L. 103–283, title I, § 3(c), July 22, 1994, 108 Stat. 1427, provided that: “The amendments made by this section [amending this section and [section 4108 of this title](./chapter-041-congressional-officers-and-administration.md#section-4108)] shall be effective with respect to— “(1) reports and statements covering periods beginning on and after October 1, 1994; and “(2) appropriations made and obligations incurred on and after such date.”
+
+
+<a id="section-505"></a>
+## § 505. Mass mailing of information by Senators under frank; quarterly registration with Secretary of Senate
+
+In fiscal year 1991 and thereafter, when a Senator disseminates information under the frank by a mass mailing (as defined in [section 3210(a)(6)(E) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3210/a/6/E&num=0&edition=prelim)), the Senator shall register quarterly with the Secretary of the Senate such mass mailings. Such registration shall be made by filing with the Secretary a copy of the matter mailed and providing, on a form supplied by the Secretary, a description of the group or groups of persons to whom the mass mailing was mailed and the number of pieces mailed.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 59g of this title](./chapter-003-compensation-and-allowances-of-members.md#section-59g) prior to editorial reclassification and renumbering as this section.
+
+Section is from the Legislative Branch Appropriations Act, 1991.
+
+
+<a id="section-506"></a>
+## § 506. Mass mailing sent by House Members
+**(a) Notice that mailing is at taxpayer expense** Each mass mailing sent by a Member of the House of Representatives shall bear in a prominent place on its face, or on the envelope or outside cover or wrapper in which the mail matter is sent, the following notice: “this mailing was prepared, published, and mailed at taxpayer expense.”, or a notice to the same effect in words which may be prescribed under subsection (c). The notice shall be printed in a type size not smaller than 7-point.
+
+**(b) Publication of each Member’s total expense and amount**
+
+(1) There shall be published in the itemized report of disbursements of the House of Representatives as required by law, a summary tabulation setting forth, for the office of each Member of the House of Representatives, the total number of pieces of mass mail mailed during the period involved and the total cost of those mass mailings.
+
+(2) Each such tabulation shall also include—
+
+  (A) the total cost (as referred to in paragraph (1)) divided by the number (as determined by the Postmaster General) of addresses (other than business possible delivery stops) in the Congressional district from which the Member was elected (as such addresses are described in [section 3210(d)(7)(B) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3210/d/7/B&num=0&edition=prelim)); and
+
+  (B) the total number of pieces of mass mail (as referred to in paragraph (1)) divided by the number (as determined by the Postmaster General) of addresses (other than business possible delivery stops) in the Congressional district from which the Member was elected (as such addresses are described in [section 3210(d)(7)(B) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3210/d/7/B&num=0&edition=prelim)).
+
+**(c) Regulations** The Committee on House Oversight shall prescribe such rules and regulations and shall take such other action as the Committee considers necessary and proper for Members to conform to the provisions of this subsection and applicable rules and regulations.
+
+**(d) Definitions** For purposes of this section—
+
+(1) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress; and
+
+(2) the term “mass mailing” has the meaning given such term by [section 3210(a)(6)(E) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3210/a/6/E&num=0&edition=prelim).
+
+**(e) Applicability** This section shall apply with respect to sessions of Congress beginning after September 16, 1996.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 59h of this title](./chapter-003-compensation-and-allowances-of-members.md#section-59h) prior to editorial reclassification and renumbering as this section.
+
+Section is from the Legislative Branch Appropriations Act, 1997.
+
+#### Change of Name
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.

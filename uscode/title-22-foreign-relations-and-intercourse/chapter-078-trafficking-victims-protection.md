@@ -63,7 +63,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (a), was in the original “this division”, meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out below and Tables.
 
 #### Short Title of 2008 Amendment
 Pub. L. 110–457, § 1(a), Dec. 23, 2008, 122 Stat. 5044, provided that: “This Act [see Tables for classification] may be cited as the ‘William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008’.”
@@ -164,6 +164,8 @@ In this chapter:
 ### Statutory Notes
 
 #### References in Text
+This chapter, referred to in text, was in the original “this division”, meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
+
 The Foreign Assistance Act of 1961, referred to in par. (8)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapter 1, title IV of chapter 2, chapter 8, and chapter 9 of part I of the Act are classified generally to part I (§ 2151 et seq.), subpart iv (§ 2191 et seq.) of part II, part VIII (§ 2291 et seq.), and part IX (§ 2292 et seq.), respectively, of subchapter I of chapter 32 of this title. Chapters 4, 5, and 8 of part II of the Act are classified generally to part IV (§ 2346 et seq.), part V (§ 2347 et seq.), and part VIII (§ 2349aa et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 Chapters 1 and 10 of that Act, referred to in par. (8)(A)(vii), probably means chapters 1 and 10 of part I of the Foreign Assistance Act of 1961, which are classified generally to parts I (§ 2151 et seq.) and X (§ 2293 et seq.), respectively, of subchapter I of chapter 32 of this title. For complete classification of these chapters to the Code, see Tables.
@@ -297,7 +299,7 @@ The Arms Export Control Act, referred to in par. (8)(B), is Pub. L. 90–629, Oc
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (d)(1), (6), (7), (e)(1), and (g)(3), (4), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
+This chapter, referred to in subsecs. (d)(1), (6), (7), (e)(1), and (g)(3), (4), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
 
 Subsection (f) of [section 7105 of this title](./chapter-078-trafficking-victims-protection.md#section-7105), referred to in subsec. (d)(7)(A), probably means the first subsec. (f) of [section 7105 of this title](./chapter-078-trafficking-victims-protection.md#section-7105), relating to assistance for United States citizens and lawful permanent residents, as added by Pub. L. 110–457, title II, § 213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
 
@@ -320,9 +322,9 @@ Former subpars. (D) to (H) redesignated (I) to (M), respectively.
 
 Subsec. (d)(7)(H)(iii) to (v). Pub. L. 112–239 added cls. (iii) and (v) redesignated former cl. (iii) as (iv).
 
-Subsec. (d)(7)(I). Pub. L. 113–4, § 1231(1), redesignated former subpar. (D) as (I). Former subpar. (I) redesignated (N).
+Subsec. (d)(7)(I). Pub. L. 113–4, § 1231(1), redesignated subpar. (D) as (I). Former subpar. (I) redesignated (N).
 
-Subsec. (d)(7)(J). Pub. L. 113–4, § 1231(1), redesignated former subpar. (E) as (J). Former subpar. (J) redesignated (O).
+Subsec. (d)(7)(J). Pub. L. 113–4, § 1231(1), redesignated subpar. (E) as (J). Former subpar. (J) redesignated (O).
 
 Pub. L. 113–4, § 1201(1), substituted “subsection (g)” for “subsection (f) of this section”.
 
@@ -330,7 +332,7 @@ Subsec. (d)(7)(K) to (O). Pub. L. 113–4, § 1231(1), redesignated subpars. (F)
 
 Subsec. (d)(7)(P) to (R). Pub. L. 113–4, § 1231(3)–(5), added subpars. (P) to (R).
 
-Subsec. (e)(2). Pub. L. 113–4, § 1201(2), redesignated subpar. (B) as par. (2) and cls. (i) and (ii) of former subpar. (B) as subpars. (A) and (B), respectively, realigned margins, and struck out former subpar. (A) which related to coordination of certain activities against use of products or materials from victims of severe forms of trafficking and sexual exploitation.
+Subsec. (e)(2). Pub. L. 113–4, § 1201(2), redesignated subpar. (B) and cls. (i) and (ii) as par. (2) and subpars. (A) and (B), respectively, realigned margins, and struck out former par. (2) heading and subpar. (A) which related to coordination of certain activities against use of products or materials from victims of severe forms of trafficking and sexual exploitation.
 
 Subsecs. (f), (g). Pub. L. 113–4, § 1201(3), (4), added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -554,7 +556,7 @@ This chapter, referred to in subsec. (d)(2), was in the original “this Act”,
 
 (3) **Feasibility report** — Not later than 180 days after December 19, 2003, the President shall transmit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Affairs of the Senate a report that describes the feasibility of such United States Government materials being disseminated through public-private partnerships to individuals traveling to foreign destinations.
 
-**(f) Consultation requirement** The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives and programs described in subsections (a) through (e) of this section.
+**(f) Consultation requirement** The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives and programs described in subsections (a) through (e).
 
 **(g) Termination of certain grants, contracts and cooperative agreements** The President shall ensure that any grant, contract, or cooperative agreement provided or entered into by a Federal department or agency under which funds are to be provided to a private entity, in whole or in part, shall include a condition that authorizes the department or agency to terminate the grant, contract, or cooperative agreement, or take any of the other remedial actions authorized under [section 7104b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7104b/c&num=0&edition=prelim), without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor, engages in, or uses labor recruiters, brokers, or other agents who engage in—
 
@@ -763,21 +765,21 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in text, is title XVII of div. A of Pub. L. 112–239, which enacted this section and sections 7104a to 7104c of this title, amended sections 7103 and 7104 of this title, [section 1351 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1351&num=0&edition=prelim), Crimes and Criminal Procedure, and [section 2313 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section2313&num=0&edition=prelim), Public Contracts, and enacted provisions set out as a note under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim), Aliens and Nationality. For complete clasification of title XVII to the Code, see Tables.
+This title, referred to in text, is title XVII of div. A of Pub. L. 112–239, which enacted this section and sections 7104a to 7104c of this title, amended sections 7103 and 7104 of this title, [section 1351 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1351&num=0&edition=prelim), Crimes and Criminal Procedure, and [section 2313 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section2313&num=0&edition=prelim), Public Contracts, and enacted provisions set out as a note under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim), Aliens and Nationality. For complete classification of title XVII to the Code, see Tables.
 
 Section 1706, referred to in subsecs. (a) and (c)(3), is section 1706 of Pub. L. 112–239, which amended [section 1351 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1351&num=0&edition=prelim), Crimes and Criminal Procedure, and enacted provisions set out as a note under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim), Aliens and Nationality.
 
 Section 106(g) of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7104(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7104/g&num=0&edition=prelim)), as amended by section 1702, referred to in subsec. (a), means [section 7104(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7104/g&num=0&edition=prelim), as amended by section 1702 of Pub. L. 112–239.
 
-Section 1702, referred to in subsecs. (a), (c)(1), is section 1702 of Pub. L. Pub. L. 112–239, which amended [section 7104 of this title](./chapter-078-trafficking-victims-protection.md#section-7104).
+Section 1702, referred to in subsecs. (a) and (c)(1), is section 1702 of Pub. L. 112–239, which amended [section 7104 of this title](./chapter-078-trafficking-victims-protection.md#section-7104).
 
-Section 1703, referred to in subsec. (c)(1), is section 1703 of Pub. L. Pub. L. 112–239, which is classified to [section 7104a of this title](./chapter-078-trafficking-victims-protection.md#section-7104a).
+Section 1703, referred to in subsec. (c)(1), is section 1703 of Pub. L. 112–239, which is classified to [section 7104a of this title](./chapter-078-trafficking-victims-protection.md#section-7104a).
 
-Section 1704, referred to in subsec. (c)(1), (2), is section 1704 of Pub. L. Pub. L. 112–239, which enacted [section 7104b of this title](./chapter-078-trafficking-victims-protection.md#section-7104b) and amended [section 2313 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section2313&num=0&edition=prelim), Public Contracts.
+Section 1704, referred to in subsec. (c)(1), (2), is section 1704 of Pub. L. 112–239, which enacted [section 7104b of this title](./chapter-078-trafficking-victims-protection.md#section-7104b) and amended [section 2313 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section2313&num=0&edition=prelim), Public Contracts.
 
-Section 1705, referred to in subsec. (c)(2), is section 1705 of Pub. L. Pub. L. 112–239, which is classified to [section 7104c of this title](./chapter-078-trafficking-victims-protection.md#section-7104c).
+Section 1705, referred to in subsec. (c)(2), is section 1705 of Pub. L. 112–239, which is classified to [section 7104c of this title](./chapter-078-trafficking-victims-protection.md#section-7104c).
 
-Section 1707, referred to in subsec. (c)(2), is section 1707 of Pub. L. Pub. L. 112–239, which amended [section 7103 of this title](./chapter-078-trafficking-victims-protection.md#section-7103).
+Section 1707, referred to in subsec. (c)(2), is section 1707 of Pub. L. 112–239, which amended [section 7103 of this title](./chapter-078-trafficking-victims-protection.md#section-7103).
 
 The date of enactment, referred to in subsec. (c)(3), probably means the date of enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
 
@@ -837,7 +839,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
       (II)
 
-        (aa) has made a bona fide application for a visa under [section 1101(a)(15)(T) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/T&num=0&edition=prelim), as added by subsection (e) of this section, that has not been denied; or
+        (aa) has made a bona fide application for a visa under [section 1101(a)(15)(T) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/T&num=0&edition=prelim), as added by subsection (e), that has not been denied; or
 
         (bb) is a person whose continued presence in the United States the Secretary of Homeland Security is ensuring in order to effectuate prosecution of traffickers in persons.
 
@@ -925,13 +927,13 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 (4) **Training of Government personnel** — Appropriate personnel of the Department of State, the Department of Homeland Security, the Department of Health and Human Services, the Department of Labor, the Equal Employment Opportunity Commission, and the Department of Justice shall be trained in identifying victims of severe forms of trafficking and providing for the protection of such victims, including juvenile victims. The Attorney General and the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall provide training to State and local officials to improve the identification and protection of such victims.
 
-**(d) Construction** Nothing in subsection (c) of this section shall be construed as creating any private cause of action against the United States or its officers or employees.
+**(d) Construction** Nothing in subsection (c) shall be construed as creating any private cause of action against the United States or its officers or employees.
 
 **(e) Protection from removal for certain crime victims**
 
 (1) **–(4) Omitted**
 
-(5) **Statutory construction** — Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under [section 1229a of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1229a&num=0&edition=prelim) against an alien admitted as a nonimmigrant under [section 1101(a)(15)(T)(i) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/T/i&num=0&edition=prelim), as added by subsection (e) of this section, for conduct committed after the alien’s admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien’s admission as a nonimmigrant under such [section 1101(a)(15)(T)(i) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/T/i&num=0&edition=prelim).
+(5) **Statutory construction** — Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under [section 1229a of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1229a&num=0&edition=prelim) against an alien admitted as a nonimmigrant under [section 1101(a)(15)(T)(i) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/T/i&num=0&edition=prelim), as added by subsection (e), for conduct committed after the alien’s admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien’s admission as a nonimmigrant under such [section 1101(a)(15)(T)(i) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/T/i&num=0&edition=prelim).
 
 **(f) 33 So in original. Two subsecs. (f) have been enacted. Assistance for United States citizens and lawful permanent residents**
 
@@ -953,7 +955,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 **(f) 3 Omitted**
 
-**(g) Annual reports** On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under [section 1101(a)(15)(T) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/T&num=0&edition=prelim), as added by subsection (e) of this section, or who were unable to adjust their status under section 1255(l) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(o)(2) or 1255(l)(4)(A) of title 8.
+**(g) Annual reports** On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under [section 1101(a)(15)(T) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/T&num=0&edition=prelim), as added by subsection (e), or who were unable to adjust their status under section 1255(l) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(o)(2) or 1255(l)(4)(A) of title 8.
 
 ### Statutory Notes
 
@@ -1078,7 +1080,7 @@ Pub. L. 109–164, title I, § 102(b), Jan. 10, 2006, 119 Stat. 3561, as amended
 #### References in Text
 This Act, referred to in text, is the Victims of Trafficking and Violence Protection Act of 2000, Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1464. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
 
-This chapter, referred to in subsecs. (d) and (f), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
+This chapter, referred to in subsecs. (d) and (f), was in the original “this division”, meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
@@ -1095,7 +1097,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–
 
 (4) The government of the country should make serious and sustained efforts to eliminate severe forms of trafficking in persons.
 
-**(b) Criteria** In determinations under subsection (a)(4) of this section, the following factors should be considered as indicia of serious and sustained efforts to eliminate severe forms of trafficking in persons:
+**(b) Criteria** In determinations under subsection (a)(4), the following factors should be considered as indicia of serious and sustained efforts to eliminate severe forms of trafficking in persons:
 
 (1) Whether the government of the country vigorously investigates and prosecutes acts of severe forms of trafficking in persons, and convicts and sentences persons responsible for such acts, that take place wholly or partly within the territory of the country, including, as appropriate, requiring incarceration of individuals convicted of such acts. For purposes of the preceding sentence, suspended or significantly-reduced sentences for convictions of principal actors in cases of severe forms of trafficking in persons shall be considered, on a case-by-case basis, whether to be considered an indicator of serious and sustained efforts to eliminate severe forms of trafficking in persons. After reasonable requests from the Department of State for data regarding investigations, prosecutions, convictions, and sentences, a government which does not provide such data, consistent with the capacity of such government to obtain such data, shall be presumed not to have vigorously investigated, prosecuted, convicted or sentenced such acts. During the periods prior to the annual report submitted on June 1, 2004, and on June 1, 2005, and the periods afterwards until September 30 of each such year, the Secretary of State may disregard the presumption contained in the preceding sentence if the government has provided some data to the Department of State regarding such acts and the Secretary has determined that the government is making a good faith effort to collect such data.
 
@@ -1130,6 +1132,9 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–
   (B) participation in international sex tourism by nationals of the country.
 
 ### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (a), was in the original “this division”, meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
 
 #### Amendments
 2013—Subsec. (b)(3). Pub. L. 113–4, § 1204(1), substituted “diplomatic, peacekeeping,” for “peacekeeping” and “, a transparent system for remediating or punishing such public officials as a deterrent, measures” for “, and measures”, and inserted before period at end “, effective bilateral, multilateral, or regional information sharing and cooperation arrangements with other countries, and effective policies or laws regulating foreign labor recruiters and holding them civilly and criminally liable for fraudulent recruiting”.
@@ -1192,7 +1197,7 @@ Pub. L. 109–164, title I, § 104(b)(2), Jan. 10, 2006, 119 Stat. 3564, provide
 
 (2) **Special watch list**
 
-  (A) *Submission of list* — Not later than the date on which the determinations described in subsections (c) and (d) of this section are submitted to the appropriate congressional committees in accordance with such subsections, the Secretary of State shall submit to the appropriate congressional committees a list of countries that the Secretary determines requires special scrutiny during the following year. The list shall be composed of the following countries:
+  (A) *Submission of list* — Not later than the date on which the determinations described in subsections (c) and (d) are submitted to the appropriate congressional committees in accordance with such subsections, the Secretary of State shall submit to the appropriate congressional committees a list of countries that the Secretary determines requires special scrutiny during the following year. The list shall be composed of the following countries:
 
     (i) Countries that have been listed pursuant to paragraph (1)(A) in the current annual report and were listed pursuant to paragraph (1)(B) in the previous annual report.
 
@@ -1232,13 +1237,13 @@ Pub. L. 109–164, title I, § 104(b)(2), Jan. 10, 2006, 119 Stat. 3564, provide
 
   (C) what measures are reasonable to bring the government into compliance with the minimum standards in light of the resources and capabilities of the government.
 
-**(c) Notification** Not less than 45 days or more than 90 days after the submission, on or after January 1, 2003, of an annual report under subsection (b)(1) of this section, or an interim report under subsection (b)(2) of this section, the President shall submit to the appropriate congressional committees a notification of one of the determinations listed in subsection (d) of this section with respect to each foreign country whose government, according to such report—
+**(c) Notification** Not less than 45 days or more than 90 days after the submission, on or after January 1, 2003, of an annual report under subsection (b)(1), or an interim report under subsection (b)(2), the President shall submit to the appropriate congressional committees a notification of one of the determinations listed in subsection (d) with respect to each foreign country whose government, according to such report—
 
 (A) does not comply with the minimum standards for the elimination of trafficking; and
 
-(B) is not making significant efforts to bring itself into compliance, as described in subsection (b)(1)(C) of this section.
+(B) is not making significant efforts to bring itself into compliance, as described in subsection (b)(1)(C).
 
-**(d) Presidential determinations** The determinations referred to in subsection (c) of this section are the following:
+**(d) Presidential determinations** The determinations referred to in subsection (c) are the following:
 
 (1) **Withholding of nonhumanitarian, nontrade-related assistance** — The President has determined that—
 
@@ -1270,11 +1275,14 @@ Pub. L. 109–164, title I, § 104(b)(2), Jan. 10, 2006, 119 Stat. 3564, provide
 
 (6) **Definition of multilateral development bank** — In this subsection, the term “multilateral development bank” refers to any of the following institutions: the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the Inter-American Investment Corporation, the African Development Bank, the African Development Fund, the European Bank for Reconstruction and Development, and the Multilateral Investment Guaranty Agency.
 
-**(e) Certification** Together with any notification under subsection (c) of this section, the President shall provide a certification by the Secretary of State that, with respect to any assistance described in clause (ii), (iii), or (v) of [section 7102(8)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/8/A&num=0&edition=prelim), or with respect to any assistance described in [section 7102(8)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/8/B&num=0&edition=prelim), no assistance is intended to be received or used by any agency or official who has participated in, facilitated, or condoned a severe form of trafficking in persons.
+**(e) Certification** Together with any notification under subsection (c), the President shall provide a certification by the Secretary of State that, with respect to any assistance described in clause (ii), (iii), or (v) of [section 7102(8)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/8/A&num=0&edition=prelim), or with respect to any assistance described in [section 7102(8)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/8/B&num=0&edition=prelim), no assistance is intended to be received or used by any agency or official who has participated in, facilitated, or condoned a severe form of trafficking in persons.
 
-**(f) Subsequent waiver authority** After the President has made a determination described in subsection (d)(1) of this section with respect to the government of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) of this section to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1) of this section.
+**(f) Subsequent waiver authority** After the President has made a determination described in subsection (d)(1) with respect to the government of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1).
 
 ### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (d)(4), was in the original “this division”, meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
 
 #### Amendments
 2013—Subsec. (b)(1). Pub. L. 113–4, § 1205(1)(A), in introductory provisions, substituted “describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in [section 7106 of this title](./chapter-078-trafficking-victims-protection.md#section-7106), and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report should include—” for “with respect to the status of severe forms of trafficking in persons that shall include—”.
@@ -1305,45 +1313,43 @@ Subsec. (f). Pub. L. 108–193, § 6(i), added subsec. (f).
 Pub. L. 110–457, title I, § 107(c), Dec. 23, 2008, 122 Stat. 5050, provided that: “The Secretary of State shall— “(1) timely translate the annual report submitted under section 110(b) of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7107(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7107/b&num=0&edition=prelim)) into the principal languages of as many countries as possible, with particular emphasis on the languages of the countries on the lists described in subparagraphs (B) and (C) of section 110(b)(1) of such Act; and “(2) ensure that the translations described in paragraph (1) are made available to the public through postings on the Internet website of the Department of State and other appropriate websites.”
 
 #### Presidential Determination With Respect to Foreign Governments’ Efforts Regarding Trafficking in Persons
-Determination of President of the United States, No. 2012–16, Sept. 14, 2012, 77 F.R. 58921, as corrected by Department of State Public Notice 8048, dated Sept. 28, 2012, 77 F.R. 61046, provided:
+Determination of President of the United States, No. 2014–16, Sept. 18, 2014, 79 F.R. 57699, provided:
 
 Memorandum for the Secretary of State
 
-Consistent with section 110 of the Trafficking Victims Protection Act of 2000 (Division A of Public Law 106–386), as amended (the “Act”), I hereby:
+Consistent with section 110 of the Trafficking Victims Protection Act of 2000 (Division A of Public Law 106–386) (the “Act”), I hereby:
 
-Make the determination provided in section 110(d)(1)(A)(i) of the Act, with respect to the Democratic Republic of the Congo, Equatorial Guinea, Sudan, and Zimbabwe, not to provide certain funding for those countries’ governments for Fiscal Year 2013, until such governments comply with the minimum standards or make significant efforts to bring themselves into compliance, as may be determined by the Secretary of State in a report to the Congress pursuant to section 110(b) of the Act;
+Make the determination provided in section 110(d)(1)(A)(i) of the Act, with respect to the Democratic People’s Republic of Korea, the Democratic Republic of the Congo (DRC), Equatorial Guinea, Iran, Russia, Venezuela, and Zimbabwe, not to provide certain funding for those countries’ governments for Fiscal Year (FY) 2015, until such governments comply with the minimum standards or make significant efforts to bring themselves into compliance, as may be determined by the Secretary of State in a report to the Congress pursuant to section 110(b) of the Act;
 
-Make the determination provided in section 110(d)(1)(A)(ii) of the Act, with respect to Cuba, the Democratic People’s Republic of Korea, Eritrea, Iran, Madagascar, and Syria not to provide certain funding for those countries’ governments for Fiscal Year 2013, until such governments comply with the minimum standards or make significant efforts to bring themselves into compliance, as may be determined by the Secretary of State in a report to the Congress pursuant to section 110(b) of the Act;
+Make the determination provided in section 110(d)(1)(A)(ii) of the Act, with respect to Cuba, Eritrea, and Syria, not to provide certain funding for those countries’ governments for FY 2015, until such governments comply with the minimum standards or make significant efforts to bring themselves into compliance, as may be determined by the Secretary of State in a report to the Congress pursuant to section 110(b) of the Act;
 
-Determine, consistent with section 110(d)(4) of the Act, with respect to Algeria, the Central African Republic, Kuwait, Libya, Papua New Guinea, Saudi Arabia, and Yemen that provision to these countries’ governments of all programs, projects, or activities of assistance described in sections 110(d)(1)(A)(i)–(ii) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Algeria, the Central African Republic, the Gambia, Guinea-Bissau, Kuwait, Libya, Malaysia, Mauritania, Papua New Guinea, Saudi Arabia, Thailand, Uzbekistan, and Yemen, that provision to these countries’ governments of all programs, projects, or activities described in sections 110(d)(1)(A)(i)–(ii) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Determine, consistent with section 110(d)(4) of the Act, with respect to the Democratic Republic of the Congo, that assistance and programs described in section 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act, with the exception of Foreign Military Sales and Foreign Military Financing to the army of the Democratic Republic of the Congo, would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to the DRC, that provision of assistance and programs described in section 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act, with the exception of Foreign Military Sales and Foreign Military Financing for the army of the DRC, would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Determine, consistent with section 110(d)(4) of the Act, with respect to Sudan, that assistance and programs described in section 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act, with the exception of Foreign Military Sales and Foreign Military Financing to the Sudanese land forces, air forces, and Popular Defense Force, would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to the DRC, that a partial waiver to allow funding for programs to be provided pursuant to section 1208 of the National Defense Authorization Act for FY 2014 (Public Law 113–66), to the extent that such programs would otherwise be restricted by the Act, would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Determine, consistent with section 110(d)(4) of the Act, with respect to Iran, that a partial waiver to allow funding for educational and cultural exchange programs described in section 110(d)(1)(A)(ii) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Venezuela, that a partial waiver to allow funding for programs described in section 110(d)(1)(A)(i) of the Act designed to strengthen the democratic process in Venezuela would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Determine, consistent with section 110(d)(4) of the Act, with respect to Syria, that a partial waiver to allow funding for educational and cultural exchange programs described in section 110(d)(1)(A)(ii) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Cuba, Syria, and Eritrea, that a partial waiver to allow funding for educational and cultural exchange programs described in section 110(d)(1)(A)(ii) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Determine, consistent with section 110(d)(4) of the Act, with respect to Equatorial Guinea, that a partial waiver to allow funding for programs described in section 110(d)(1)(A)(i) of the Act to support programs to study and combat the spread of infectious diseases and to advance sustainable natural resource management and biodiversity would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Equatorial Guinea, that a partial waiver to allow funding described in section 110(d)(1)(A)(i) of the Act to advance sustainable natural resource management and biodiversity and to support the participation of government employees or officials in young leader programming would promote the purposes of the Act or is otherwise in the national interest of the United States; Determine, consistent with section 110(d)(4) of the Act, with respect to Syria and Equatorial Guinea, that assistance described in section 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Determine, consistent with section 110(d)(4) of the Act, with respect to Equatorial Guinea, that assistance described in section 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
-
-Determine, consistent with section 110(d)(4) of the Act, with respect to Zimbabwe, that a partial waiver to allow funding for programs described in section 110(d)(1)(A)(i) of the Act for assistance for victims of trafficking in persons or to combat such trafficking, and for programs to support the promotion of health, good governance, education, agriculture and food security, poverty reduction, livelihoods, family planning, and macroeconomic growth including anticorruption, and programs that would have a significant adverse effect on vulnerable populations if suspended, would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Zimbabwe, that a partial waiver to allow funding for programs described in section 110(d)(1)(A)(i) of the Act for assistance for victims of trafficking in persons or to combat such trafficking, programs to support the promotion of health, good governance, education, leadership, agriculture and food security, poverty reduction, livelihoods, family planning, macroeconomic growth including anti-corruption, biodiversity and wildlife protection, and programs that would have a significant adverse effect on vulnerable populations if suspended, would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
 And determine, consistent with section 110(d)(4) of the Act, with respect to Zimbabwe, that assistance described in section 110(d)(1)(B) of the Act, which:
 
-(1) is a regional program, project, or activity under which the total benefit to Zimbabwe does not exceed 10 percent of the total value of such program, project, or activity; or
+1. is a regional program, project, or activity under which the total benefit to Zimbabwe does not exceed 10 percent of the total value of such program, project, or activity;
 
-(2) has as its primary objective the addressing of basic human needs, as defined by the Department of the Treasury with respect to other, existing legislative mandates concerning U.S. participation in the multilateral development banks; or
+2. has as its primary objective the addressing of basic human needs, as defined by the Department of the Treasury with respect to other, existing legislative provision[s] concerning U.S. participation in the multilateral development banks;
 
-(3) is complementary to or has similar policy objectives to programs being implemented bilaterally by the United States Government; or
+3. is complementary to or has similar policy objectives to programs being implemented bilaterally by the United States Government;
 
-(4) has as its primary objective the improvement of Zimbabwe’s legal system, including in areas that impact Zimbabwe’s ability to investigate and prosecute trafficking cases or otherwise improve implementation of its anti-trafficking policy, regulations, or legislation; or
+4. has as its primary objective the improvement of Zimbabwe’s legal system, including in areas that impact Zimbabwe’s ability to investigate and prosecute trafficking cases or otherwise improve implementation of its antitrafficking policy, regulations, or legislation;
 
-(5) is engaging a government, international organization, or civil society organization, and seeks as its primary objective(s) to: (a) increase efforts to investigate and prosecute trafficking in persons crimes; (b) increase protection for victims of trafficking through better screening, identification, rescue or removal, aftercare (shelter, counseling), training, and reintegration; or (c) expand prevention efforts through education and awareness campaigns highlighting the dangers of trafficking or training and economic empowerment of populations clearly at risk of falling victim to trafficking; or
+5. is engaging a government, international organization, or civil society organization, and seeks as its primary objective(s) to: (a) increase efforts to investigate and prosecute trafficking in persons crimes; (b) increase protection for victims of trafficking through better screening, identification, rescue/removal, aftercare (shelter, counseling), training, and reintegration; or (c) expand prevention efforts through education and awareness campaigns highlighting the dangers of trafficking in persons or training and economic empowerment of populations clearly at risk of falling victim to trafficking; or
 
-(6) is targeted macroeconomic assistance from the International Monetary Fund that strengthens the macroeconomic management capacity of Zimbabwe, would promote the purposes of the Act, or is otherwise in the national interest of the United States.
+6. is targeted macroeconomic assistance from the International Monetary Fund that strengthens the macroeconomic management capacity of Zimbabwe, would promote the purposes of the Act, or is otherwise in the national interest of the United States.
 
 The certification required by section 110(e) of the Act is provided herewith.
 
@@ -1352,6 +1358,10 @@ You are hereby authorized and directed to submit this determination to the Congr
 Barack Obama.
 
 Prior determinations and certifications regarding trafficking in persons were contained in the following:
+
+Determination of President of the United States, No. 2013–16, Sept. 17, 2013, 78 F.R. 58861.
+
+Determination of President of the United States, No. 2012–16, Sept. 14, 2012, 77 F.R. 58921, as corrected by Department of State Public Notice 8048, dated Sept. 28, 2012, 77 F.R. 61046.
 
 Determination of President of the United States, No. 2011–18, Sept. 30, 2011, 76 F.R. 62599.
 
@@ -1383,15 +1393,19 @@ You are hereby authorized and directed to publish this memorandum in the Federal
 Barack Obama.
 
 #### Delegation of Authority Pursuant to Sections 110(d)(4) and 110(f) of the Trafficking Victims Protection Act of 2000, as Amended
-Memorandum of President of the United States, Feb. 3, 2012, 77 F.R. 11375, provided:
+Memorandum of President of the United States, July 29, 2013, 78 F.R. 48027, provided:
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to you the authority conferred upon the President by the Trafficking Victims Protection Act of 2000 (Division A of Public Law 106–386), as amended (the “Act”), to determine, consistent with sections 110(d)(4) and 110(f) of the Act, with respect to Burma for fiscal year 2012, that assistance described in section 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to the Secretary of State the authority conferred upon the President by the Trafficking Victims Protection Act of 2000 (Division A of Public Law 106–386), as amended (the “Act”), to determine, consistent with sections 110(d)(4) and 110(f) of the Act, with respect to Syria for Fiscal Year 2013, that assistance described in section 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.
+
+Similar provisions delegating authority under section 110(d)(4) and (f) of the Trafficking Victims Protection Act of 2000 were contained in the following:
+
+Memorandum of President of the United States, Feb. 3, 2012, 77 F.R. 11375.—Burma, fiscal year 2012.
 
 
 <a id="section-7108"></a>
@@ -1410,13 +1424,13 @@ Barack Obama.
 
 **(b) Report to Congress on identification and sanctioning of significant traffickers in persons**
 
-(1) **In general** — Upon exercising the authority of subsection (a) of this section, the President shall report to the appropriate congressional committees—
+(1) **In general** — Upon exercising the authority of subsection (a), the President shall report to the appropriate congressional committees—
 
   (A) identifying publicly the foreign persons that the President determines are appropriate for sanctions pursuant to this section and the basis for such determination; and
 
   (B) detailing publicly the sanctions imposed pursuant to this section.
 
-(2) **Removal of sanctions** — Upon suspending or terminating any action imposed under the authority of subsection (a) of this section, the President shall report to the committees described in paragraph (1) on such suspension or termination.
+(2) **Removal of sanctions** — Upon suspending or terminating any action imposed under the authority of subsection (a), the President shall report to the committees described in paragraph (1) on such suspension or termination.
 
 (3) **Submission of classified information** — Reports submitted under this subsection may include an annex with classified information regarding the basis for the determination made by the President under paragraph (1)(A).
 
@@ -1426,15 +1440,15 @@ Barack Obama.
 
 **(e) Implementation**
 
-(1) **Delegation of authority** — The President may delegate any authority granted by this section, including the authority to designate foreign persons under paragraphs (1)(B) and (1)(C) of subsection (a) of this section.
+(1) **Delegation of authority** — The President may delegate any authority granted by this section, including the authority to designate foreign persons under paragraphs (1)(B) and (1)(C) of subsection (a).
 
 (2) **Promulgation of rules and regulations** — The head of any agency, including the Secretary of Treasury, is authorized to take such actions as may be necessary to carry out any authority delegated by the President pursuant to paragraph (1), including promulgating rules and regulations.
 
-(3) **Opportunity for review** — Such rules and regulations shall include procedures affording an opportunity for a person to be heard in an expeditious manner, either in person or through a representative, for the purpose of seeking changes to or termination of any determination, order, designation or other action associated with the exercise of the authority in subsection (a) of this section.
+(3) **Opportunity for review** — Such rules and regulations shall include procedures affording an opportunity for a person to be heard in an expeditious manner, either in person or through a representative, for the purpose of seeking changes to or termination of any determination, order, designation or other action associated with the exercise of the authority in subsection (a).
 
 **(f) Definition of foreign persons** In this section, the term “foreign person” means any citizen or national of a foreign state or any entity not organized under the laws of the United States, including a foreign government official, but does not include a foreign state.
 
-**(g) Construction** Nothing in this section shall be construed as precluding judicial review of the exercise of the authority described in subsection (a) of this section.
+**(g) Construction** Nothing in this section shall be construed as precluding judicial review of the exercise of the authority described in subsection (a).
 
 ### Statutory Notes
 
@@ -1491,7 +1505,7 @@ Section is comprised of section 112 of Pub. L. 106–386. Subsec. (a) of section
 
 (3) The interrelationship between trafficking in persons and global health risks, particularly HIV/AIDS.
 
-(4) Subject to subsection (b) of this section, the interrelationship between trafficking in persons and terrorism, including the use of profits from trafficking in persons to finance terrorism.
+(4) Subject to subsection (b), the interrelationship between trafficking in persons and terrorism, including the use of profits from trafficking in persons to finance terrorism.
 
 (5) An effective mechanism for quantifying the number of victims of trafficking on a national, regional, and international basis, which shall include, not later than 2 years after December 23, 2008, the establishment and maintenance of an integrated database within the Human Smuggling and Trafficking Center.
 
@@ -1528,7 +1542,7 @@ Section is comprised of section 112 of Pub. L. 106–386. Subsec. (a) of section
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
 
 #### Amendments
 2013—Subsec. (b)(4). Pub. L. 113–4 substituted “$1,000,000” for “$2,000,000” and “2014 through 2017” for “2008 through 2011”.
@@ -1560,7 +1574,7 @@ For delegation of functions of President under this section, see section 6 of Ex
 
 <a id="section-7110"></a>
 ## § 7110. Authorizations of appropriations
-**(a) Authorization of appropriations in support of the Task Force** To carry out the purposes of sections 7103(e), 7103(f) 11 See References in Text note below. and 7107 of this title, there are authorized to be appropriated to the Secretary of State $2,000,000 for each of the fiscal years 2014 through 2017. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking $1,500,000 for additional personnel, including regional trafficking in persons officers, for each of the fiscal years 2008 through 2011 for each of the fiscal years 2008 through 2011. 22 So in original.
+**(a) Authorization of appropriations in support of the Task Force** To carry out the purposes of sections 7103(e), 7103(f) 11 See References in Text note below. and 7107 of this title, there are authorized to be appropriated to the Secretary of State $2,000,000 for each of the fiscal years 2014 through 2017. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking $1,500,000 for additional personnel, including regional trafficking in persons officers, for each of the fiscal years 2008 through 2011 for each of the fiscal years 2008 through 2011.22 So in original.
 
 **(b) Authorization of appropriations to the Secretary of Health and Human Services**
 
@@ -1606,7 +1620,7 @@ For delegation of functions of President under this section, see section 6 of Ex
 
 **(h) Authorization of appropriations to Director of the FBI** There are authorized to be appropriated to the Director of the Federal Bureau of Investigation $15,000,000 for each of the fiscal years 2008 through 2011, to remain available until expended, to investigate severe forms of trafficking in persons.
 
-**(i) Authorization of appropriations to the Secretary of Homeland Security** There are authorized to be appropriated to the Secretary of Homeland Security, 44 So in original. Comma probably should not appear. $10,000,000 for each of the fiscal years 2014 through 2017, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
+**(i) Authorization of appropriations to the Secretary of Homeland Security** There are authorized to be appropriated to the Secretary of Homeland Security, 44 So in original. The comma probably should not appear. $10,000,000 for each of the fiscal years 2014 through 2017, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
 
 ### Statutory Notes
 
@@ -1615,14 +1629,14 @@ For delegation of functions of President under this section, see section 6 of Ex
 
 [Section 7105(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105/f&num=0&edition=prelim), referred to in subsecs. (b)(2) and (d)(3), probably means the subsec. (f) of [section 7105 of this title](./chapter-078-trafficking-victims-protection.md#section-7105) which relates to assistance for United States citizens and lawful permanent residents and was added by Pub. L. 110–457, title II, § 213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
 
-This chapter, referred to in subsec. (g), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
+This chapter, referred to in subsec. (g), was in the original “this division”, meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
 
 This Act, referred to in subsec. (g)(1), is the Victims of Trafficking and Violence Protection Act of 2000, Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1464, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
 
 #### Amendments
 2013—Subsec. (a). Pub. L. 113–4, § 1251(2)(A)(ii), which directed the insertion of “, including regional trafficking in persons officers,” after “for additional personnel,” was executed by making the insertion after “for additional personnel”, to reflect the probable intent of Congress.
 
-Pub. L. 113–4, § 1251(2)(A)(i), (iii), substituted “$2,000,000 for each of the fiscal years 2014 through 2017” for “$5,500,000 for each of the fiscal years 2008 through 2011” and struck out “, and $3,000 for official reception and representation expenses before “for each of the fiscal years 2008 through 2011” second time appearing.
+Pub. L. 113–4, § 1251(2)(A)(i), (iii), substituted “$2,000,000 for each of the fiscal years 2014 through 2017” for “$5,500,000 for each of the fiscal years 2008 through 2011” and struck out “, and $3,000 for official reception and representation expenses” before “for each of the fiscal years 2008 through 2011” the second time appearing.
 
 Subsec. (b)(1). Pub. L. 113–4, § 1251(2)(B)(i), substituted “$14,500,000 for each of the fiscal years 2014 through 2017” for “$12,500,000 for each of the fiscal years 2008 through 2011”.
 
@@ -1642,7 +1656,7 @@ Subsec. (c)(1)(B). Pub. L. 113–4, § 1251(2)(C)(ii), substituted “$10,000,00
 
 Subsec. (c)(1)(C). Pub. L. 113–4, § 1251(2)(C)(iii), substituted “2014 through 2017” for “2008 through 2011”.
 
-Subsec. (d). Pub. L. 113–4, § 1251(2)(D), redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, realigned margins, in par. (1) substituted “$11,000,000 for each of the fiscal years 2014 through 2017” for “$10,000,000 for each of the fiscal years 2008 through 2011, and in par. (3) substituted “$11,000,000 to the Attorney General for each of the fiscal years 2014 through 2017.” for “to the Attorney General—
+Subsec. (d). Pub. L. 113–4, § 1251(2)(D), redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, realigned margins, in par. (1) substituted “$11,000,000 for each of the fiscal years 2014 through 2017” for “$10,000,000 for each of the fiscal years 2008 through 2011”, and in par. (3) substituted “$11,000,000 to the Attorney General for each of the fiscal years 2014 through 2017.” for “to the Attorney General—
 
 “(i) $2,500,000 for fiscal year 2008;
 

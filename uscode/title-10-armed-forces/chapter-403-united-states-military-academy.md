@@ -889,7 +889,7 @@ Pub. L. 109–364, div. A, title V, § 531(d), Oct. 17, 2006, 120 Stat. 2199, pr
 
 <a id="section-4345a"></a>
 ## § 4345a. Foreign and cultural exchange activities
-**(a) Attendance Authorized.—** The Secretary of the Army may authorize the Academy to permit students, officers, and other representatives of a foreign country to attend the Academy for periods of not more than two weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross cultural interactions and understanding, and cultural immersion of cadets.
+**(a) Attendance Authorized.—** The Secretary of the Army may authorize the Academy to permit students, officers, and other representatives of a foreign country to attend the Academy for periods of not more than four weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross cultural interactions and understanding, and cultural immersion of cadets.
 
 **(b) Costs and Expenses.—** The Secretary may pay the travel, subsistence, and similar personal expenses of persons incurred to attend the Academy under subsection (a).
 
@@ -900,6 +900,11 @@ Pub. L. 109–364, div. A, title V, § 531(d), Oct. 17, 2006, 120 Stat. 2199, pr
 (1) The Academy shall bear the costs of the attendance of persons under subsection (a) from funds appropriated for the Academy and from such additional funds as may be available to the Academy from a source, other than appropriated funds, to support cultural immersion, regional awareness, or foreign language training activities in connection with their attendance.
 
 (2) Expenditures from appropriated funds in support of activities under this section may not exceed $40,000 during any fiscal year.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–291 substituted “four weeks” for “two weeks”.
 
 
 <a id="section-4346"></a>
@@ -1479,6 +1484,12 @@ Pub. L. 108–375, div. A, title V, § 544(d), Oct. 28, 2004, 118 Stat. 1907, pr
   (B) The Secretary of Defense shall transmit each such report, together with the Secretary’s comments on the report, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
 ### Statutory Notes
+
+#### Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Military Service Academies
+Pub. L. 113–291, div. A, title V, § 552(a), Dec. 19, 2014, 128 Stat. 3377, provided that: “The Secretary of the military department concerned shall ensure that the provisions of title XVII of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 950) [see Tables for classification], including amendments made by that title, and the provisions of subtitle D [subtitle D (§§ 531–547) of title V of div. A of Pub. L. 113–291, see Tables for classification], including amendments made by such subtitle, apply to the United States Military Academy, the Naval Academy, and the Air Force Academy, as applicable.”
+
+#### Prevention of Sexual Assault at Military Service Academies
+Pub. L. 113–66, div. A, title XVII, § 1746, Dec. 26, 2013, 127 Stat. 983, provided that: “The Secretary of Defense shall ensure that the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy include a section in the curricula of that military service academy that outlines honor, respect, and character development as such pertain to the issue of preventing sexual assault in the Armed Forces. Such curricula section shall include a brief history of the problem of sexual assault in the Armed Forces, a definition of sexual assault, information relating to reporting a sexual assault, victims’ rights, and dismissal and dishonorable discharge for offenders. Training in such section in the curricula shall be provided within 14 days after the initial arrival of a new cadet or midshipman at that military service academy and repeated annually thereafter.”
 
 #### Further Information From Cadets and Midshipmen at the Service Academies on Sexual Assault and Sexual Harassment Issues
 Pub. L. 109–364, div. A, title V, § 532(b), Oct. 17, 2006, 120 Stat. 2205, provided that: “(1) Use of focus groups for years when survey not required.—In any year in which the Secretary of a military department is not required by law to conduct a survey at the service academy under the Secretary’s jurisdiction on matters relating to sexual assault and sexual harassment issues at that Academy, the Secretary shall provide for focus groups to be conducted at that Academy for the purposes of ascertaining information relating to sexual assault and sexual harassment issues at that Academy. “(2) Inclusion in report.—Information ascertained from a focus group conducted pursuant to paragraph (1) shall be included in the Secretary’s annual report to Congress on sexual harassment and sexual violence at the service academies. “(3) Service academies.—For purposes of this subsection, the term ‘service academy’ means the following:“(A) The United States Military Academy. “(B) The United States Naval Academy. “(C) The United States Air Force Academy.”

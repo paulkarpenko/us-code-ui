@@ -57,13 +57,13 @@ If—
   (C) are greater or more onerous than the conditions and restrictions which the United States applies to foreign fishing vessels subject to the exclusive fishery management authority of the United States (as established in title I of the Magnuson-Stevens Fishery Conservation and Management Act [[16 U.S.C. 1811](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1811&num=0&edition=prelim) et seq.]), or
 
   (D) fail to allow fishing vessels of the United States equitable access to fish subject to such country’s exclusive fishery management authority;
-  the Secretary of State, unless there is clear and convincing credible evidence that the seizure did not meet the requirements under paragraph (1) or (2), as the case may be, shall immediately take such steps as are necessary—
+the Secretary of State, unless there is clear and convincing credible evidence that the seizure did not meet the requirements under paragraph (1) or (2), as the case may be, shall immediately take such steps as are necessary—
 
-  (i) for the protection of such vessel and for the health and welfare of its crew;
+(i) for the protection of such vessel and for the health and welfare of its crew;
 
-  (ii) to secure the release of such vessel and its crew; and
+(ii) to secure the release of such vessel and its crew; and
 
-  (iii) to determine the amount of any fine, license, fee, registration fee, or other direct charge reimbursable under [section 1973(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1973/a&num=0&edition=prelim).
+(iii) to determine the amount of any fine, license, fee, registration fee, or other direct charge reimbursable under [section 1973(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1973/a&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -274,7 +274,7 @@ Amendment by Pub. L. 92–569 applicable with respect to seizure of vessels of t
 
 **(c) Importation of fish products from offending country prohibited** It shall be unlawful for any person subject to the jurisdiction of the United States knowingly to bring or import into, or cause to be imported into, the United States any products prohibited by the Secretary of the Treasury pursuant to this section.
 
-**(d) Periodic review by Secretary of Commerce or Secretary of the Interior; termination of certification; notice** After making a certification to the President under subsection (a) of this section, the Secretary of Commerce or the Secretary of the Interior, as the case may be, shall periodically review the activities of the nationals of the offending country to determine if the reasons for which the certification was made no longer prevail. Upon determining that such reasons no longer prevail, the Secretary concerned shall terminate the certification and publish notice thereof, together with a statement of the facts on which such determination is based, in the Federal Register.
+**(d) Periodic review by Secretary of Commerce or Secretary of the Interior; termination of certification; notice** After making a certification to the President under subsection (a), the Secretary of Commerce or the Secretary of the Interior, as the case may be, shall periodically review the activities of the nationals of the offending country to determine if the reasons for which the certification was made no longer prevail. Upon determining that such reasons no longer prevail, the Secretary concerned shall terminate the certification and publish notice thereof, together with a statement of the facts on which such determination is based, in the Federal Register.
 
 **(e) Penalties; forfeiture; customs laws**
 
@@ -405,7 +405,7 @@ Section applicable with respect to seizure of vessels of the United States occur
 
 (2) The term “fishing gear” means any equipment or appurtenance which is necessary for the carrying out of fishing operations by a fishing vessel, whether or not such equipment or appurtenance is attached to such vessel.
 
-(3) The term “fund” means the Fishing Vessel and Gear Damage Compensation Fund established under subsection (f) of this section.
+(3) The term “fund” means the Fishing Vessel and Gear Damage Compensation Fund established under subsection (f).
 
 (4) The term “resulting economic loss” means the gross income, as estimated by the Secretary, that a fishing vessel owner or operator who is eligible for compensation under this section for damage to, loss of, or destruction of, a fishing vessel or the fishing gear used with such vessel will lose by reason of not being able to engage in fishing, or having to reduce his fishing effort, during the period before the vessel or gear, or both, are repaired or replaced and available for use.
 
@@ -465,11 +465,11 @@ Section applicable with respect to seizure of vessels of the United States occur
 
 (2) The fund shall consist of—
 
-  (A) all sums recovered by the United States in the exercise of rights subrogated to it under subsection (d)(5) of this section;
+  (A) all sums recovered by the United States in the exercise of rights subrogated to it under subsection (d)(5);
 
-  (B) all administrative fees collected under subsection (c)(2) of this section;
+  (B) all administrative fees collected under subsection (c)(2);
 
-  (C) all surcharges collected under subsection (e) of this section;
+  (C) all surcharges collected under subsection (e);
 
   (D) revenues received from deposits or investments made under the last sentence of this paragraph; and
 
@@ -552,7 +552,7 @@ Pub. L. 96–289, § 4(a), June 28, 1980, 94 Stat. 605, provided that: “Notwit
 
 **(c) Timeliness** Requests for reimbursement shall be made to the Secretary of State within 120 days after the date of payment of the fee, or within 90 days after November 3, 1995, whichever is later.
 
-**(d) Funding; appropriations** Such funds as may be necessary to meet the requirements of this section may be made available from the unobligated balance of previously appropriated funds remaining in the Fishermen’s Protective Fund established under [section 1979 of this title](./chapter-025-protection-of-vessels-on-the-high-seas-and-in-territorial-waters-of-foreign-countries.md#section-1979). To the extent that requests for reimbursement under this section exceed such funds, there are authorized to be appropriated such sums as may be needed for reimbursements authorized under subsection (a) of this section, which shall be deposited in the Fishermen’s Protective Fund established under [section 1979 of this title](./chapter-025-protection-of-vessels-on-the-high-seas-and-in-territorial-waters-of-foreign-countries.md#section-1979).
+**(d) Funding; appropriations** Such funds as may be necessary to meet the requirements of this section may be made available from the unobligated balance of previously appropriated funds remaining in the Fishermen’s Protective Fund established under [section 1979 of this title](./chapter-025-protection-of-vessels-on-the-high-seas-and-in-territorial-waters-of-foreign-countries.md#section-1979). To the extent that requests for reimbursement under this section exceed such funds, there are authorized to be appropriated such sums as may be needed for reimbursements authorized under subsection (a), which shall be deposited in the Fishermen’s Protective Fund established under [section 1979 of this title](./chapter-025-protection-of-vessels-on-the-high-seas-and-in-territorial-waters-of-foreign-countries.md#section-1979).
 
 **(e) Claim against foreign government** The Secretary of State shall take such action as the Secretary deems appropriate to make and collect claims against the foreign country imposing such fee for any amounts reimbursed under this section.
 
@@ -568,8 +568,8 @@ Pub. L. 104–43, title IV, § 401, Nov. 3, 1995, 109 Stat. 388, provided that: 
 ## § 1980b. Sanctions for imposition of conditions on U.S. fishing vessel found inconsistent with international law
 **(a) Certification** If the Secretary of State finds that the government of any nation imposes conditions on the operation or transit of United States fishing vessels which the United States regards as being inconsistent with international law or an international agreement, the Secretary of State shall certify that fact to the President.
 
-**(b) Sanctions** Upon receipt of a certification under subsection (a) of this section, the President shall direct the heads of Federal agencies to impose similar conditions on the operation or transit of fishing vessels registered under the laws of the nation which has imposed conditions on United States fishing vessels.
+**(b) Sanctions** Upon receipt of a certification under subsection (a), the President shall direct the heads of Federal agencies to impose similar conditions on the operation or transit of fishing vessels registered under the laws of the nation which has imposed conditions on United States fishing vessels.
 
 **(c) “Fishing vessel” defined** For the purposes of this section, the term “fishing vessel” has the meaning given that term in section 2101(11a) of title 46.
 
-**(d) Sanctions commensurate with conditions certified** It is the sense of the Congress that any action taken by any Federal agency under subsection (b) of this section should be commensurate with any conditions certified by the Secretary of State under subsection (a) of this section.
+**(d) Sanctions commensurate with conditions certified** It is the sense of the Congress that any action taken by any Federal agency under subsection (b) should be commensurate with any conditions certified by the Secretary of State under subsection (a).

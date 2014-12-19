@@ -268,7 +268,7 @@ Subsec. (e). Pub. L. 93–586, § 3(3), substituted “discharge is required by 
 1960—Subsec. (e). Pub. L. 86–559 struck out references to sections 3849 and 8849 of this title.
 
 #### Effective Date of 1994 Amendment
-Amendment by sections 1662(h)(2) and 1675(d)(3)(A) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, and amendment by section 1675(d)(3)(B), (C) of of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Amendment by sections 1662(h)(2) and 1675(d)(3)(A) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, and amendment by section 1675(d)(3)(B), (C) of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).

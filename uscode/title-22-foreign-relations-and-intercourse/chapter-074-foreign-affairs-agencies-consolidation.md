@@ -153,7 +153,7 @@ Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1301, Oct. 21, 1998, 112 St
 ## § 6532. Transfer of functions
 **(a) In general** There are transferred to the Secretary of State all functions of the Director of the United States Information Agency and all functions of the United States Information Agency and any office or component of such agency, under any statute, reorganization plan, Executive order, or other provision of law, as of the day before the effective date of this subchapter.
 
-**(b) Exception** Subsection (a) of this section does not apply to the Broadcasting Board of Governors, the International Broadcasting Bureau, or any function performed by the Board or the Bureau.
+**(b) Exception** Subsection (a) does not apply to the Broadcasting Board of Governors, the International Broadcasting Bureau, or any function performed by the Board or the Bureau.
 
 ### Statutory Notes
 
@@ -209,7 +209,7 @@ The United States International Broadcasting Act of 1994, referred to in par. (3
 
 **(b) Transfer of personnel** Notwithstanding any other provision of law—
 
-(1) except as provided in subsection (c) of this section, all personnel and positions of USIA employed or maintained to carry out the functions transferred by this part to the Broadcasting Board of Governors shall be transferred to the Broadcasting Board of Governors at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer; and
+(1) except as provided in subsection (c), all personnel and positions of USIA employed or maintained to carry out the functions transferred by this part to the Broadcasting Board of Governors shall be transferred to the Broadcasting Board of Governors at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer; and
 
 (2) the personnel and positions of USIA, as determined by the Secretary of State, with the concurrence of the Broadcasting Board of Governors and the Director of USIA, to support the functions transferred by this part shall be transferred to the Broadcasting Board of Governors, including the International Broadcasting Bureau, at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer.
 
@@ -282,7 +282,7 @@ Not later than March 1 of each year, the Broadcasting Board of Governors shall s
 
 (2) the United States Information Agency, USIA, or the International Communication Agency shall be deemed to refer to the Department of State.
 
-**(b) Continuing references to USIA or Director** Subsection (a) of this section shall not apply to section 4069a(f), 4069b(g), or 4069c(f) of this title.
+**(b) Continuing references to USIA or Director** Subsection (a) shall not apply to section 4069a(f), 4069b(g), or 4069c(f) of this title.
 
 ### Statutory Notes
 
@@ -300,7 +300,7 @@ Section 4069a(f), 4069b(g), or 4069c(f) of this title, referred to in subsec. (b
 
 **(c) Limitation on use of funds**
 
-(1) Except as provided in [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461) and [section 1461–1a of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461-1a), funds specifically authorized to be appropriated for such public diplomacy programs, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e) of this section, or reprogrammed for public diplomacy purposes, shall not be used to influence public opinion in the United States, and no program material prepared using such funds shall be distributed or disseminated in the United States.
+(1) Except as provided in [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461) and [section 1461–1a of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461-1a), funds specifically authorized to be appropriated for such public diplomacy programs, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e), or reprogrammed for public diplomacy purposes, shall not be used to influence public opinion in the United States, and no program material prepared using such funds shall be distributed or disseminated in the United States.
 
 (2) **Construction.—** — Nothing in paragraph (1) may be construed (A) to interfere with the integration of administrative resources between public diplomacy and other functions of the Department of State or to prevent the occasional performance of functions other than public diplomacy by officials or employees of the Department of State who are primarily assigned to public diplomacy, provided there is no substantial resulting diminution in the amount of resources devoted to public diplomacy below the amounts described in paragraph (1), or (B) to supersede reprogramming procedures.
 
@@ -324,7 +324,7 @@ Section 4069a(f), 4069b(g), or 4069c(f) of this title, referred to in subsec. (b
 This chapter, referred to in subsecs. (a), (b), and (d), was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under [section 6501 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6501) and Tables.
 
 #### Amendments
-1999—Subsec. (c). Pub. L. 106–113 designated existing provisions as par. (1), inserted “, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e) of this section, or reprogrammed for public diplomacy purposes,” after “diplomacy programs”, and added par. (2).
+1999—Subsec. (c). Pub. L. 106–113 designated existing provisions as par. (1), inserted “, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e), or reprogrammed for public diplomacy purposes,” after “diplomacy programs”, and added par. (2).
 
 
 <a id="section-6553"></a>
@@ -362,9 +362,9 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(b)], Nov. 29,
 
 <a id="section-6561"></a>
 ## § 6561. Abolition of United States International Development Cooperation Agency
-**(a) In general** Except for the components specified in subsection (b) of this section, the United States International Development Cooperation Agency (including the Institute for Scientific and Technological Cooperation) is abolished.
+**(a) In general** Except for the components specified in subsection (b), the United States International Development Cooperation Agency (including the Institute for Scientific and Technological Cooperation) is abolished.
 
-**(b) AID and OPIC exempted** Subsection (a) of this section does not apply to the Agency for International Development or the Overseas Private Investment Corporation.
+**(b) AID and OPIC exempted** Subsection (a) does not apply to the Agency for International Development or the Overseas Private Investment Corporation.
 
 ### Statutory Notes
 
@@ -487,7 +487,7 @@ The Administrator of the Agency for International Development, appointed pursuan
 
 (4) **Authorities and powers of the Secretary of State** — The powers and authorities of the Secretary provided in this part are in addition to the powers and authorities provided to the Secretary under any other Act, including section 101(b) and section 622(c) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151/b&num=0&edition=prelim), 2382(c)).
 
-**(b) Coordination activities** Coordination activities of the Secretary of State under subsection (a) of this section shall include—
+**(b) Coordination activities** Coordination activities of the Secretary of State under subsection (a) shall include—
 
 (1) approving an overall assistance and economic cooperation strategy;
 
@@ -533,7 +533,7 @@ The Arms Export Control Act, referred to in subsec. (b)(2), is Pub. L. 90–629,
 
 (4) The Agency for International Development.
 
-**(c) Plan elements** The plan transmitted under subsection (a) of this section shall contain, consistent with this chapter, such elements as the President deems appropriate, including elements that—
+**(c) Plan elements** The plan transmitted under subsection (a) shall contain, consistent with this chapter, such elements as the President deems appropriate, including elements that—
 
 (1) identify the functions of each covered agency that will be transferred to the Department under the plan;
 
@@ -545,7 +545,7 @@ The Arms Export Control Act, referred to in subsec. (b)(2), is Pub. L. 90–629,
 
 (5) specify the proposed disposition of the property, facilities, contracts, records, and other assets and liabilities of each covered agency in connection with the transfer of the functions of such agency to the Department.
 
-**(d) Reorganization plan of Agency for International Development** In addition to applicable provisions of subsection (c) of this section, the reorganization plan transmitted under this section for the Agency for International Development—
+**(d) Reorganization plan of Agency for International Development** In addition to applicable provisions of subsection (c), the reorganization plan transmitted under this section for the Agency for International Development—
 
 (1) may provide for the abolition of the Agency for International Development and the transfer of all its functions to the Department of State; or
 
@@ -561,7 +561,7 @@ The Arms Export Control Act, referred to in subsec. (b)(2), is Pub. L. 90–629,
 
     (iii) the consolidation, reorganization, and streamlining of the Department upon the transfer of such functions and personnel in order to carry out the functions transferred.
 
-**(e) Modification of plan** The President may, on the basis of consultations with the appropriate congressional committees, modify or revise any part of the plan transmitted under subsection (a) of this section until that part of the plan becomes effective in accordance with subsection (g) of this section.
+**(e) Modification of plan** The President may, on the basis of consultations with the appropriate congressional committees, modify or revise any part of the plan transmitted under subsection (a) until that part of the plan becomes effective in accordance with subsection (g).
 
 **(f) Report** The report accompanying the reorganization plan for the Department and the covered agencies submitted pursuant to this section shall describe the implementation of the plan and shall include—
 
@@ -583,7 +583,7 @@ The Arms Export Control Act, referred to in subsec. (b)(2), is Pub. L. 90–629,
 
 **(g) Effective date**
 
-(1) **In general** — The reorganization plan described in this section, including any modifications or revisions of the plan under subsection (e) of this section, shall become effective on the earlier of the date for the respective covered agency specified in paragraph (2) or the date announced by the President under paragraph (3).
+(1) **In general** — The reorganization plan described in this section, including any modifications or revisions of the plan under subsection (e), shall become effective on the earlier of the date for the respective covered agency specified in paragraph (2) or the date announced by the President under paragraph (3).
 
 (2) **Statutory effective dates** — The effective dates under this paragraph for the reorganization plan described in this section are the following:
 
@@ -593,7 +593,7 @@ The Arms Export Control Act, referred to in subsec. (b)(2), is Pub. L. 90–629,
 
   (C) October 1, 1999, with respect to the abolition of the United States Information Agency.
 
-(3) **Effective date by Presidential determination** — An effective date under this paragraph for a reorganization plan described in this section is such date as the President shall determine to be appropriate and announce by notice published in the Federal Register, which date may be not earlier than 90 calendar days after the President has transmitted the reorganization plan to the appropriate congressional committees pursuant to subsection (a) of this section.
+(3) **Effective date by Presidential determination** — An effective date under this paragraph for a reorganization plan described in this section is such date as the President shall determine to be appropriate and announce by notice published in the Federal Register, which date may be not earlier than 90 calendar days after the President has transmitted the reorganization plan to the appropriate congressional committees pursuant to subsection (a).
 
 (4) **Statutory construction** — Nothing in this subsection may be construed to require the transfer of functions, personnel, records, balance of appropriations, or other assets of a covered agency on a single date.
 
@@ -646,11 +646,11 @@ This chapter, referred to in subsec. (a), was in the original “this subdivisio
 ## § 6612. Transfer and allocation of appropriations
 **(a) In general** Except as otherwise provided in this chapter, the assets, liabilities (including contingent liabilities arising from suits continued with a substitution or addition of parties under [section 6615(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6615/e&num=0&edition=prelim)), contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available in connection with the functions and offices, or portions thereof, transferred by any subchapter of this chapter shall be transferred to the Secretary for appropriate allocation.
 
-**(b) Limitation on use of transferred funds** Except as provided in subsection (c) of this section, unexpended and unobligated funds transferred pursuant to any subchapter of this chapter shall be used only for the purposes for which the funds were originally authorized and appropriated.
+**(b) Limitation on use of transferred funds** Except as provided in subsection (c), unexpended and unobligated funds transferred pursuant to any subchapter of this chapter shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 **(c) Funds to facilitate transition**
 
-(1) **Congressional notification** — Funds transferred pursuant to subsection (a) of this section may be available for the purposes of reorganization subject to notification of the appropriate congressional committees in accordance with the procedures applicable to a reprogramming of funds under [section 2706 of this title](./chapter-038-department-of-state.md#section-2706).
+(1) **Congressional notification** — Funds transferred pursuant to subsection (a) may be available for the purposes of reorganization subject to notification of the appropriate congressional committees in accordance with the procedures applicable to a reprogramming of funds under [section 2706 of this title](./chapter-038-department-of-state.md#section-2706).
 
 (2) **Transfer authority** — Funds in any account appropriated to the Department of State may be transferred to another such account for the purposes of reorganization, subject to notification of the appropriate congressional committees in accordance with the procedures applicable to a reprogramming of funds under [section 2706 of this title](./chapter-038-department-of-state.md#section-2706). The authority in this paragraph is in addition to any other transfer authority available to the Secretary of State and shall expire September 30, 2000.
 
@@ -662,23 +662,23 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this s
 
 <a id="section-6613"></a>
 ## § 6613. Transfer, appointment, and assignment of personnel
-**(a) Transfer of personnel from ACDA and USIA** Except as otherwise provided in subchapter III of this chapter—
+**(a) Transfer of personnel from ACDA and USIA** Except as otherwise provided in subchapter III—
 
 (1) not later than the date of abolition of ACDA, all personnel and positions of ACDA, and
 
 (2) not later than the date of abolition of USIA, all personnel and positions of USIA,
 shall be transferred to the Department of State at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer.
 
-**(b) Transfer of personnel from AID** Except as otherwise provided in subchapter III of this chapter, not later than the date of transfer of any function of AID to the Department of State under this chapter, all AID personnel performing such functions and all positions associated with such functions shall be transferred to the Department of State at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer.
+**(b) Transfer of personnel from AID** Except as otherwise provided in subchapter III, not later than the date of transfer of any function of AID to the Department of State under this chapter, all AID personnel performing such functions and all positions associated with such functions shall be transferred to the Department of State at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer.
 
-**(c) Assignment authority** The Secretary, for a period of not more than 6 months commencing on the effective date of the transfer to the Department of State of personnel under subsections (a) and (b) of this section, is authorized to assign such personnel to any position or set of duties in the Department of State regardless of the position held or duties performed by such personnel prior to transfer, except that, by virtue of such assignment, such personnel shall not have their grade or class or their rate of basic pay or basic salary rate reduced, nor their tenure changed. In carrying out the reorganization under this Act, the Secretary shall ensure that the advances made in increasing the number and status of women and minorities within the foreign affairs agencies of the Federal Government, in terms of representation within the agencies as well as relative rank, are not undermined by discrimination within the newly reorganized Department of State. The Secretary shall consult with the relevant exclusive representatives (as defined in [section 4102 of this title](./chapter-052-foreign-service.md#section-4102) and in [section 7103 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103&num=0&edition=prelim)) with regard to the exercise of this authority. This subsection does not authorize the Secretary to assign any individual to any position that by law requires appointment by the President, by and with the advice and consent of the Senate.
+**(c) Assignment authority** The Secretary, for a period of not more than 6 months commencing on the effective date of the transfer to the Department of State of personnel under subsections (a) and (b), is authorized to assign such personnel to any position or set of duties in the Department of State regardless of the position held or duties performed by such personnel prior to transfer, except that, by virtue of such assignment, such personnel shall not have their grade or class or their rate of basic pay or basic salary rate reduced, nor their tenure changed. In carrying out the reorganization under this Act, the Secretary shall ensure that the advances made in increasing the number and status of women and minorities within the foreign affairs agencies of the Federal Government, in terms of representation within the agencies as well as relative rank, are not undermined by discrimination within the newly reorganized Department of State. The Secretary shall consult with the relevant exclusive representatives (as defined in [section 4102 of this title](./chapter-052-foreign-service.md#section-4102) and in [section 7103 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103&num=0&edition=prelim)) with regard to the exercise of this authority. This subsection does not authorize the Secretary to assign any individual to any position that by law requires appointment by the President, by and with the advice and consent of the Senate.
 
-**(d) Superseding other provisions of law** Subsections (a) through (c) of this section shall be exercised notwithstanding any other provision of law.
+**(d) Superseding other provisions of law** Subsections (a) through (c) shall be exercised notwithstanding any other provision of law.
 
 ### Statutory Notes
 
 #### References in Text
-Subchapter III of this chapter, referred to in subsecs. (a) and (b), was in the original “title XIII”, meaning title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–776. For complete classification of title XIII of div. G of this Act to the Code, see Tables.
+Subchapter III, referred to in subsecs. (a) and (b), was in the original “title XIII”, meaning title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–776. For complete classification of title XIII of div. G of this Act to the Code, see Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under [section 6501 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6501) and Tables.
 
@@ -720,7 +720,7 @@ shall continue in effect according to their terms until modified, terminated, su
 
 (4) **Regulations** — The Secretary is authorized to promulgate regulations providing for the orderly transfer of proceedings continued under this subsection to the Department.
 
-**(c) No effect on judicial or administrative proceedings** Except as provided in subsection (e) of this section and [section 6543(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6543/d&num=0&edition=prelim)—
+**(c) No effect on judicial or administrative proceedings** Except as provided in subsection (e) and [section 6543(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6543/d&num=0&edition=prelim)—
 
 (1) the provisions of this chapter shall not affect suits commenced prior to the effective dates of the respective subchapters of this chapter; and
 

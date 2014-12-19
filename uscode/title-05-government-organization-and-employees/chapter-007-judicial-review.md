@@ -148,7 +148,7 @@ To the extent necessary to decision and when presented, the reviewing court shal
   (E) unsupported by substantial evidence in a case subject to sections 556 and 557 of this title or otherwise reviewed on the record of an agency hearing provided by statute; or
 
   (F) unwarranted by the facts to the extent that the facts are subject to trial de novo by the reviewing court.
-  In making the foregoing determinations, the court shall review the whole record or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
+In making the foregoing determinations, the court shall review the whole record or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
 
 ### Statutory Notes
 

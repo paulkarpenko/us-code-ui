@@ -95,7 +95,7 @@ Section 10303 requires that seamen be served adequate food and water and that th
 <a id="section-10304"></a>
 ## § 10304. Form of agreement
 
-Note.—In the place for signature and descriptions of individuals engaged after the first departure of the vessel, the entries are to be made as above, except that the signature of the consul or vice consul, customs officer, or witness before whom the individual is engaged, is to be entered.
+The form of the agreement required by [section 10302 of this title](./chapter-103-foreign-and-intercoastal-voyages.md#section-10302) shall be in substance as follows:
 
 ### Statutory Notes
 

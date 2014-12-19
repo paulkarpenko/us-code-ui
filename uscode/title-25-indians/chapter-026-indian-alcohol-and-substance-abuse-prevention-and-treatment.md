@@ -354,7 +354,8 @@ It is the intent of Congress that—
 
 (1) specific Federal laws, and administrative regulations promulgated thereunder, establishing programs of the Bureau of Indian Affairs, the Indian Health Service, and other Federal agencies, and
 
-(2) general Federal laws, including laws limiting augmentation of Federal appropriations or encouraging joint or cooperative funding, shall be liberally construed and administered to achieve the purposes of this chapter.
+(2) general Federal laws, including laws limiting augmentation of Federal appropriations or encouraging joint or cooperative funding,
+shall be liberally construed and administered to achieve the purposes of this chapter.
 
 
 <a id="section-2414a"></a>
@@ -639,7 +640,7 @@ to determine their applicability and relevance in carrying out the purposes of t
 
 (1) The Secretary of the Interior, in cooperation with appropriate Federal, tribal, and State and local law enforcement agencies, shall establish and implement a program for the eradication of marijuana cultivation, and interdiction, investigation, and control of illegal narcotics trafficking within Indian country as defined in [section 1152 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1152&num=0&edition=prelim). The Secretary shall establish a priority for the use of funds appropriated under paragraph (2) for those Indian reservations where the scope of the problem is most critical, and such funds shall be available for contracting by Indian tribes pursuant to the Indian Self-Determination Act ([25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.).
 
-(2) For the purpose of establishing the program required by paragraph (1), there are authorized to be appropriated $2,000,000 for each of fiscal years 2011 through 2015..11 So in original.
+(2) For the purpose of establishing the program required by paragraph (1), there are authorized to be appropriated $2,000,000 for each of fiscal years 2011 through 2015.
 
 ### Statutory Notes
 
@@ -659,7 +660,7 @@ Subsec. (a)(3). Pub. L. 111–211, § 241(e)(1)(C), added par. (3) and struck ou
 
 “(C) $500,000 under paragraph (1)(C) for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.”
 
-Subsec. (b)(2). Pub. L. 111–211, § 241(e)(2), which directed striking “for the fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000” and “for each of fiscal years 2011 through 2015.”, was executed by substituting “for each of fiscal years 2011 through 2015.” for “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”, to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 111–211, § 241(e)(2), which directed striking “for the fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000” and “for each of fiscal years 2011 through 2015.”, was executed by substituting “for each of fiscal years 2011 through 2015” for “for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000”, to reflect the probable intent of Congress.
 
 1992—Subsec. (a)(1)(C). Pub. L. 102–573, § 703(6), added subpar. (C).
 

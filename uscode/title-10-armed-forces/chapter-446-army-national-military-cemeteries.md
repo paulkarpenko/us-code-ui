@@ -2,7 +2,7 @@
 title: 10
 chapter: '446'
 heading: ARMY NATIONAL MILITARY CEMETERIES
-section_count: 6
+section_count: 7
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -111,3 +111,20 @@ Pub. L. 112–81, div. A, title V, § 591(b), Dec. 31, 2011, 125 Stat. 1441, pro
 **(a) Inspections Required.—** The Secretary of the Army shall provide for the oversight of the Cemeteries to ensure the highest quality standards are maintained by providing for the periodic inspection of the administration, operation and maintenance, and construction elements applicable to the Cemeteries. The inspections shall be conducted by personnel of the Department of the Army with the assistance, as the Secretary considers appropriate, of personnel from other Federal agencies and civilian experts.
 
 **(b) Submission of Results.—** Not later than 120 days after the completion of an inspection conducted under subsection (a), the Secretary of the Army shall submit to the congressional defense committees a report containing the results of the inspection and recommendations and a plan for corrective actions to be taken in response to the inspection.
+
+
+<a id="section-4727"></a>
+## § 4727. Cemetery concessions contracts
+**(a) Contracts Authorized.—** The Secretary of the Army may enter into a contract with an appropriate entity for the provision of transportation, interpretative, or other necessary or appropriate concession services to visitors at the Army National Military Cemeteries.
+
+**(b) Special Requirements.—**
+
+(1) The Secretary of the Army shall establish and include in each concession contract such requirements as the Secretary determines are necessary to ensure the protection, dignity, and solemnity of the cemetery at which services are provided under the contract.
+
+(2) A concession contract shall not include operation of the gift shop at Arlington National Cemetery without the specific prior authorization by an Act of Congress.
+
+**(c) Franchise Fees.—** A concession contract shall provide for payment to the United States of a franchise fee or such other monetary consideration as determined by the Secretary of the Army. The Secretary shall ensure that the objective of generating revenue for the United States is subordinate to the objectives of honoring the service and sacrifices of the deceased members of the armed forces and of providing necessary and appropriate services for visitors to the Cemeteries at reasonable rates.
+
+**(d) Special Account.—** All franchise fees (and other monetary consideration) collected by the United States under subsection (c) shall be deposited into a special account established in the Treasury of the United States. The funds deposited in such account shall be available for expenditure by the Secretary of the Army, to the extent authorized and in such amounts as are provided in advance in appropriations Acts, to support activities at the Cemeteries. The funds deposited into the account shall remain available until expended.
+
+**(e) Concession Contract Defined.—** In this section, the term “concession contract” means a contract authorized and entered into under this section.

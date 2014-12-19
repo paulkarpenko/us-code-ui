@@ -24,7 +24,7 @@ The Congress makes the following findings and declarations:
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in par. (3), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, as amended, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in par. (3), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out below and Tables.
 
 #### Short Title of 2009 Amendment
 Pub. L. 111–84, div. A, title XII, § 1261, Oct. 28, 2009, 123 Stat. 2553, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(19), Jan. 7, 2011, 124 Stat. 4374, provided that: “This subtitle [subtitle D (§§ 1261–1266) of title XII of div. A of Pub. L. 111–84, enacting provisions set out as notes under [section 6204 of this title](./chapter-071-united-states-international-broadcasting.md#section-6204)] may be cited as the ‘Victims of Iranian Censorship Act’ or the ‘VOICE Act’.”
@@ -147,6 +147,8 @@ For the effective date of title XIII of the Foreign Affairs Agencies Consolidati
 
 The Inspector General Act of 1978, referred to in subsec. (a)(3)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+This chapter, referred to in subsecs. (a)(3)(B) and (e), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+
 #### Amendments
 1999—Subsec. (b)(2). Pub. L. 106–113, § 1000(a)(7) [div. A, title V, § 502(2)], which directed amendment of par. (2) by inserting “, subject to the advice and consent of the Senate” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
 
@@ -216,7 +218,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
   (B) To provide transportation for dependents of such personnel between their places of residence and those schools for which expenses are provided under subparagraph (A), if the Board determines that such schools are not accessible by public means of transportation.
 
-**(b) Delegation of authority** The Board may delegate to the Director of the International Broadcasting Bureau, or any other officer or employee of the United States, to the extent the Board determines to be appropriate, the authorities provided in this section, except those authorities provided in paragraph (1), (2), (3), (4), (5), (6), (9), or (11) of subsection (a) of this section.
+**(b) Delegation of authority** The Board may delegate to the Director of the International Broadcasting Bureau, or any other officer or employee of the United States, to the extent the Board determines to be appropriate, the authorities provided in this section, except those authorities provided in paragraph (1), (2), (3), (4), (5), (6), (9), or (11) of subsection (a).
 
 **(c) Broadcasting budgets** The Director of the Bureau and the grantees identified in sections 6207 and 6208 of this title shall submit proposed budgets to the Board. The Board shall forward its recommendations concerning the proposed budget for the Board and broadcasting activities under this chapter, the Radio Broadcasting to Cuba Act [[22 U.S.C. 1465](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) et seq.], and the Television Broadcasting to Cuba Act [[22 U.S.C. 1465aa](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) et seq.] to the Office of Management and Budget.
 
@@ -225,6 +227,8 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 ### Statutory Notes
 
 #### References in Text
+This chapter, referred to in subsecs. (a)(1), (9), (17), (18) and (c), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+
 The Radio Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (c), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§ 1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) and Tables.
 
 The Television Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (b)(1), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§ 1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465aa of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) and Tables.
@@ -313,7 +317,9 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 ### Statutory Notes
 
 #### References in Text
-Level IV of the Executive Schedule, referred to in subsec. (b)(1), is set out in [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+
+Level IV of the Executive Schedule, referred to in subsec. (b), is set out in [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
 1998—Subsec. (a). Pub. L. 105–277, § 1323(k)(1), substituted “under the Board” for “within the United States Information Agency”.
@@ -327,6 +333,10 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Personal Services Contracting Pilot Program
 Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as amended by Pub. L. 109–140, § 6, Dec. 22, 2005, 119 Stat. 2652; Pub. L. 109–472, § 9, Jan. 11, 2007, 120 Stat. 3556; Pub. L. 110–161, div. J, title VI, § 634(r), Dec. 26, 2007, 121 Stat. 2330; Pub. L. 110–321, § 5, Sept. 19, 2008, 122 Stat. 3536, provided that: “(a) In General.—The Director of the International Broadcasting Bureau (in this section referred to as the ‘Director’) may establish a pilot program (in this section referred to as the ‘program’) for the purpose of hiring United States citizens or aliens as personal services contractors, without regard to Civil Service and classification laws, for service in the United States as broadcasters and other broadcasting specialists in the International Broadcasting Bureau to respond to new or emerging broadcast needs or to augment broadcast services. “(b) Conditions.—The Director is authorized to use the authority of subsection (a) subject to the following conditions:“(1) The Director determines that existing personnel resources are insufficient and the need is not of permanent duration. “(2) The Director approves each employment of a personal services contractor. “(3) The contract length, including options, may not exceed 2 years, unless the Director makes a finding that exceptional circumstances justify an extension of up to one additional year. “(4) Not more than a total of 60 United States citizens or aliens are employed at any one time as personal services contractors under the program. “(c) Termination of Authority.—The authority to award personal services contracts under the pilot program authorized by this section shall terminate on December 31, 2009. A contract entered into prior to the termination date under this subsection may remain in effect for a period not to exceed 6 months after such termination date.”
+
+[Pub. L. 113–235, div. J, title I, Dec. 16, 2014, 128 Stat. 2580, provided in part: “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; [22 U.S.C. 6206](./chapter-071-united-states-international-broadcasting.md#section-6206) note) shall remain in effect through September 30, 2015” .]
+
+[Pub. L. 113–76, div. K, title I, Jan. 17, 2014, 128 Stat. 471, provided in part: “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; [22 U.S.C. 6206](./chapter-071-united-states-international-broadcasting.md#section-6206) note) shall remain in effect through September 30, 2014” .]
 
 [Pub. L. 112–74, div. I, title I, Dec. 23, 2011, 125 Stat. 1171, provided in part: “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; [22 U.S.C. 6206](./chapter-071-united-states-international-broadcasting.md#section-6206) note) shall remain in effect through September 30, 2012” .]
 
@@ -357,7 +367,7 @@ Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as a
 
 **(g) Grant agreement** Grants to RFE/RL, Incorporated, by the Board shall only be made in compliance with a grant agreement. The grant agreement shall establish guidelines for such grants. The grant agreement shall include the following provisions—
 
-(1) that a grant be used only for activities which the Board determines are consistent with the purposes of subsection (f) of this section;
+(1) that a grant be used only for activities which the Board determines are consistent with the purposes of subsection (f);
 
 (2) that RFE/RL, Incorporated, shall otherwise comply with the requirements of this section;
 
@@ -400,6 +410,8 @@ Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as a
 ### Statutory Notes
 
 #### References in Text
+This chapter, referred to in subsecs. (a)(2) and (e), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+
 The foreign relations laws of the United States, referred to in subsec. (h)(1)(A), are classified generally to this title.
 
 The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, as amended, which was classified generally to chapter 43 (§ 2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, § 310(e), Apr. 30, 1994, 108 Stat. 442. See [section 6209(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6209/e&num=0&edition=prelim).
@@ -482,6 +494,9 @@ Pub. L. 99–93, title III, § 305(b), Aug. 16, 1985, 99 Stat. 436, provided tha
 
 ### Statutory Notes
 
+#### References in Text
+This chapter, referred to in subsecs. (e)(2) and (g), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+
 #### Amendments
 2010—Subsec. (c)(2). Pub. L. 111–202, § 3(1), struck out “, and shall further specify that funds to carry out the activities of Radio Free Asia may not be available after September 30, 2010” after “Government”.
 
@@ -544,12 +559,16 @@ It is the sense of Congress that Radio Free Europe and Radio Liberty should cont
 
 (1) a particular nation has clearly demonstrated the successful establishment and consolidation of democratic rule; and
 
-(2) its domestic media which provide balanced, accurate, and comprehensive news and information, is firmly established and widely accessible to the national audience, thus making redundant broadcasts by Radio Free Europe or Radio Liberty. At such time as a particular nation meets both of these conditions, RFE/RL should phase out broadcasting to that nation.
+(2) its domestic media which provide balanced, accurate, and comprehensive news and information, is firmly established and widely accessible to the national audience, thus making redundant broadcasts by Radio Free Europe or Radio Liberty.
+At such time as a particular nation meets both of these conditions, RFE/RL should phase out broadcasting to that nation.
 
 ### Statutory Notes
 
 #### Amendments
 1999—Pub. L. 106–113 amended section catchline and text generally, substituting present provisions for provisions which set forth sense of Congress that funding of Radio Free Europe and Radio Liberty be privatized not later than Dec. 31, 1999, directed President to submit analysis and recommendation for achieving this objective with his annual budget submission, and directed Board for International Broadcasting to submit to appropriate congressional committees not later than 120 days after Apr. 30, 1994, report on steps being taken to transfer RFE/RL Research Institute, and periodic progress reports until such transfer would be achieved.
+
+#### Findings and Declarations
+Pub. L. 113–96, § 1, Apr. 3, 2014, 128 Stat. 1098, provided that: “(a) Congress finds and declares the following:“(1) The Russian Government has deliberately blocked the Ukrainian people’s access to uncensored sources of information and has provided alternative news and information that is both inaccurate and inflammatory; “(2) United States international programming exists to advance the United States interests and values by presenting accurate and comprehensive news and information, which is the foundation for democratic governance; “(3) The opinions and views of the Ukrainian people, especially those people located in the eastern regions and Crimea, are not being accurately represented in Russian dominated mass media; “(4) Russian forces have seized more than five television stations in Crimea and taken over transmissions, switching to a 24/7 Russian propaganda format; this increase in programming augments the already robust pro-Russian programming to Ukraine; “(5) United States international programming has the potential to combat this anti-democratic propaganda. “(b) Programming.—Radio Free Europe/Radio Liberty (RFE/RL), Incorporated, and the Voice of America service to Ukraine and neighboring regions shall—“(1) provide news and information that is accessible, credible, and accurate; “(2) emphasize investigative and analytical journalism to highlight inconsistencies and misinformation provided by Russian or pro-Russian media outlets; “(3) prioritize programming to areas where access to uncensored sources of information is limited or non-existent, especially populations serviced by Russian supported media outlets; “(4) increase the number of reporters and organizational presence in eastern Ukraine, especially in Crimea; “(5) promote democratic processes, respect for human rights, freedom of the press, and territorial sovereignty; and “(6) take necessary preparatory steps to continue and increase programming and content that promotes democracy and government transparency in Russia. “(c) Programming Surge.—RFE/RL, Incorporated, and Voice of America programming to Ukraine and neighboring regions shall—“(1) prioritize programming to eastern Ukraine, including Crimea, and Moldova, and to ethnic and linguistic Russian populations, as well as to Tatar minorities; “(2) prioritize news and information that directly contributes to the target audiences’ understanding of political and economic developments in Ukraine and Moldova, including countering misinformation that may originate from other news outlets, especially Russian supported news outlets; “(3) provide programming content 24 hours a day, seven days a week to target populations, using all available and effective distribution outlets, including—“(A) at least 8 weekly hours of total original television and video content in Ukrainian, Russian, and Tatar languages, not inclusive of live video streaming coverage of breaking news, to be distributed on satellite, digital, and through regional television affiliates by the Voice of America; and “(B) at least 14 weekly hours the total audio content in Ukrainian, Russian, and Tatar languages to be distributed on satellite, digital, and through regional radio affiliates of RFE/RL, Incorporated; “(4) expand the use, audience, and audience engagement of mobile news and multimedia platforms by RFE/RL, Incorporated, and the Voice of America, including through Internet-based social networking platforms; and “(5) partner with private sector broadcasters and affiliates to seek and start co-production for new, original content, when possible, to increase distribution. “(d) Authorization of Appropriations.—There is authorized to be appropriated for fiscal year 2014, in addition to funds otherwise made available for such purposes, up to $10,000,000 to carry out programming in the Ukrainian, Balkan, Russian, and Tatar language services of RFE/RL, Incorporated, and the Voice of America, for the purpose of bolstering existing United States programming to the people of Ukraine and neighboring regions, and increasing programming capacity and jamming circumvention technology to overcome any disruptions to service. “(e) Report.—Not later than 15 days after the date of the enactment of this Act [Apr. 3, 2014], the Broadcasting Board of Governors shall submit to the Committees on Foreign Affairs and Appropriations of the House of Representatives and the Committees on Foreign Relations and Appropriations of the Senate a detailed report on plans to increase broadcasts pursuant to subsections (a) and (b).”
 
 
 <a id="section-6212"></a>
@@ -560,7 +579,7 @@ It is the sense of Congress that Radio Free Europe and Radio Liberty should cont
 
 (2) in excess of the authorized level of appropriations.
 
-**(b) Subsequent authorization** The limitation under subsection (a) of this section shall not apply to the extent that an authorization of appropriations is enacted after such funds are appropriated.
+**(b) Subsequent authorization** The limitation under subsection (a) shall not apply to the extent that an authorization of appropriations is enacted after such funds are appropriated.
 
 **(c) Application** The provisions of this section—
 
@@ -569,6 +588,9 @@ It is the sense of Congress that Radio Free Europe and Radio Liberty should cont
 (2) shall not apply to, or affect in any manner, permanent appropriations, trust funds, and other similar accounts which are authorized by law and administered under or pursuant to this chapter.
 
 ### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (c)(2), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
 #### Amendments
 2002—Subsec. (a). Pub. L. 107–228 struck out “the direction and” after “broadcasting subject to” in introductory provisions.
@@ -592,11 +614,21 @@ For the purposes of this chapter—
 
 (3) the term “salary or other compensation” includes any deferred compensation or pension payments, any payments for expenses for which the recipient is not obligated to itemize, and any payments for personnel services provided to an employee of RFE/RL, Incorporated.
 
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+
 
 <a id="section-6214"></a>
 ## § 6214. Relocation costs
 
 Notwithstanding any other provision of law, funds derived from the sale of real property assets of RFE/RL in Munich, Germany, may be retained, obligated, and expended to meet one-time costs associated with the consolidation of United States Government broadcasting activities in accordance with this chapter, including the costs of relocating RFE/RL offices and operations.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
 
 <a id="section-6215"></a>
@@ -605,11 +637,11 @@ Notwithstanding any other provision of law, funds derived from the sale of real 
 
 **(b) Grant authority**
 
-(1) **In general** — Effective 15 days after March 11, 2002, or the date on which the report required by subsection (a) of this section is submitted, whichever is later, the Broadcasting Board of Governors is authorized to make grants to support Radio Free Afghanistan.
+(1) **In general** — Effective 15 days after March 11, 2002, or the date on which the report required by subsection (a) is submitted, whichever is later, the Broadcasting Board of Governors is authorized to make grants to support Radio Free Afghanistan.
 
 (2) **Supersedes existing limitation on total annual grant amounts** — Grants made to RFE/RL, Incorporated, during the fiscal year 2002 for support of Radio Free Afghanistan may be made without regard to section 308(c) of the United States International Broadcasting Act of 1994 ([22 U.S.C. 6207(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6207/c&num=0&edition=prelim)).
 
-**(c) Available authorities** In addition to the authorities in this section, the authorities applicable to carry out United States Government broadcasting activities under the United States Information and Educational Exchange Act of 1948 [[22 U.S.C. 1431](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431) et seq.], the United States International Broadcasting Act of 1994 [[22 U.S.C. 6201](./chapter-071-united-states-international-broadcasting.md#section-6201) et seq.], the Foreign Affairs Reform and Restructuring Act of 1998, and other provisions of law consistent with such purpose may be used to carry out the grant authority of subsection (b) of this section.
+**(c) Available authorities** In addition to the authorities in this section, the authorities applicable to carry out United States Government broadcasting activities under the United States Information and Educational Exchange Act of 1948 [[22 U.S.C. 1431](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431) et seq.], the United States International Broadcasting Act of 1994 [[22 U.S.C. 6201](./chapter-071-united-states-international-broadcasting.md#section-6201) et seq.], the Foreign Affairs Reform and Restructuring Act of 1998, and other provisions of law consistent with such purpose may be used to carry out the grant authority of subsection (b).
 
 **(d) Standards; oversight** Radio Free Afghanistan shall adhere to the same standards of professionalism and accountability, and shall be subject to the same oversight mechanisms, as other services of RFE/RL, Incorporated.
 

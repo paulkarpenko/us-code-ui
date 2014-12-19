@@ -16,24 +16,36 @@ source: >-
 
 (3) **Amateur athlete** — The term “amateur athlete” means an athlete who meets the eligibility standards established by the national governing body or paralympic sports organization for the sport in which the athlete competes ([36 U.S.C. 22501(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section22501/b/1&num=0&edition=prelim)).11 So in original. Probably should be “220501(b)(1)).”
 
-(4) **Gene doping** — The term “gene doping” means the nontherapeutic use of cells, genes, genetic elements, or of the modulation of gene expression, having the capacity to enhance athletic performance.
-
 **(b) In general** The United States Anti-Doping Agency shall—
 
-(1) serve as the independent anti-doping organization for the amateur athletic competitions recognized by the United States Olympic Committee;
+(1) serve as the independent anti-doping organization for the amateur athletic competitions recognized by the United States Olympic Committee and be recognized worldwide as the independent national anti-doping organization for the United States;
 
-(2) ensure that athletes participating in amateur athletic activities recognized by the United States Olympic Committee are prevented from using performance-enhancing drugs, or performance-enhancing genetic modifications accomplished through gene-doping;
+(2) ensure that athletes participating in amateur athletic activities recognized by the United States Olympic Committee are prevented from using performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency;
 
-(3) implement anti-doping education, research, testing, and adjudication programs to prevent United States Amateur Athletes participating in any activity recognized by the United States Olympic Committee from using performance-enhancing drugs, or performance-enhancing genetic modifications accomplished through gene-doping;
+(3) implement anti-doping education, research, testing, and adjudication programs to prevent United States Amateur Athletes participating in any activity recognized by the United States Olympic Committee from using performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency;
 
-(4) serve as the United States representative responsible for coordination with other anti-doping organizations coordinating amateur athletic competitions recognized by the United States Olympic Committee to ensure the integrity of athletic competition, the health of the athletes and the prevention of use of performance-enhancing drugs, or performance-enhancing genetic modifications accomplished through gene-doping by United States amateur athletes; and
-
-(5) permanently include “gene doping” among any list of prohibited substances adopted by the Agency.
+(4) serve as the United States representative responsible for coordination with other anti-doping organizations coordinating amateur athletic competitions recognized by the United States Olympic Committee to ensure the integrity of athletic competition, the health of the athletes, and the prevention of use by United States amateur athletes of performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency.
 
 ### Statutory Notes
 
 #### References in Text
 The Ted Stevens Olympic and Amateur Sports Act, referred to in subsec. (a)(1), is chapter 2205 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+
+#### Amendments
+2014—Subsec. (a)(4). Pub. L. 113–280, § 2(1), struck out par. (4). Text read as follows: “The term ‘gene doping’ means the nontherapeutic use of cells, genes, genetic elements, or of the modulation of gene expression, having the capacity to enhance athletic performance.”
+
+Subsec. (b)(1). Pub. L. 113–280, § 2(2)(A), inserted “and be recognized worldwide as the independent national anti-doping organization for the United States” after “Committee”.
+
+Subsec. (b)(2). Pub. L. 113–280, § 2(2)(B), substituted “or prohibited performance-enhancing methods adopted by the Agency” for “, or performance-enhancing genetic modifications accomplished through gene-doping”.
+
+Subsec. (b)(3). Pub. L. 113–280, § 2(2)(C), substituted “or prohibited performance-enhancing methods adopted by the Agency” for “, or performance-enhancing genetic modifications accomplished through gene-doping”.
+
+Subsec. (b)(4). Pub. L. 113–280, § 2(2)(D), substituted “, and the prevention of use by United States amateur athletes of performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency.” for “and the prevention of use of performance-enhancing drugs, or performance-enhancing genetic modifications accomplished through gene-doping by United States amateur athletes; and”.
+
+Subsec. (b)(5). Pub. L. 113–280, § 2(2)(E), struck out par. (5) which read as follows: “permanently include ‘gene doping’ among any list of prohibited substances adopted by the Agency.”
+
+#### Short Title of 2014 Amendment
+Pub. L. 113–280, § 1, Dec. 18, 2014, 128 Stat. 3020, provided that: “This Act [amending this section and [section 2003 of this title](./chapter-025-miscellaneous-anti-drug-abuse-provisions.md#section-2003)] may be cited as the ‘United States Anti-Doping Agency Reauthorization Act’.”
 
 #### Short Title
 Pub. L. 109–469, title X, § 1001, Dec. 29, 2006, 120 Stat. 3537, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘National Methamphetamine Information Clearinghouse Act of 2006’.”
@@ -55,15 +67,24 @@ Pub. L. 109–469, title X, § 1001, Dec. 29, 2006, 120 Stat. 3537, provided tha
 
 There are authorized to be appropriated to the United States Anti-Doping Agency—
 
-(1) for fiscal year 2007, $9,700,000;
+(1) for fiscal year 2014, $11,300,000;
 
-(2) for fiscal year 2008, $10,300,000;
+(2) for fiscal year 2015, $11,700,000;
 
-(3) for fiscal year 2009, $10,600,000;
+(3) for fiscal year 2016, $12,300,000;
 
-(4) for fiscal year 2010, $11,000,000; and
+(4) for fiscal year 2017, $12,900,000;
 
-(5) for fiscal year 2011, $11,500,000.
+(5) for fiscal year 2018, $13,500,000;
+
+(6) for fiscal year 2019, $14,100,000; and
+
+(7) for fiscal year 2020, $14,800,000.
+
+### Statutory Notes
+
+#### Amendments
+2014—Pub. L. 113–280 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2007 to 2011.
 
 
 <a id="section-2011"></a>

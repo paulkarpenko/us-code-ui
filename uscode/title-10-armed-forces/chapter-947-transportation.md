@@ -43,4 +43,4 @@ Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 587; Pub. L. 98–443, § 9(k),
 
 ### Statutory Notes
 
-Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 588, related to transportation of motor vehicles for members on permanent change of station, and is now covered by [section 2634 of this title](./chapter-157-transportation.md#section-2634).
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 588, related to transportation of motor vehicles for members on permanent change of station.

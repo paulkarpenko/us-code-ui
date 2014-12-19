@@ -2,24 +2,32 @@
 title: 20
 chapter: '70'
 heading: STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS
-section_count: 575
+section_count: 576
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20&num=0&edition=prelim
 ---
 <a id="section-6301"></a>
-## § 6301. Prohibition against Federal mandates, direction, or control
+## § 6301. Repealed. Pub. L. 113–188, title IX, § 901(a), Nov. 26, 2014, 128 Stat. 2020
+
+### Statutory Notes
+
+Section, Pub. L. 89–10, title I, § 1904, as added Pub. L. 107–110, title I, § 101, Jan. 8, 2002, 115 Stat. 1619, related to annual local educational agency spending audits and reports.
+
+
+<a id="section-6302"></a>
+## § 6302. Prohibition against Federal mandates, direction, or control
 
 Nothing in this subchapter shall be construed to authorize an officer or employee of the Federal Government to mandate, direct, or control a State, local educational agency, or school’s specific instructional content, academic achievement standards and assessments, curriculum, or program of instruction.
 
 
-<a id="section-6302"></a>
-## § 6302. Rule of construction on equalized spending
+<a id="section-6303"></a>
+## § 6303. Rule of construction on equalized spending
 
 Nothing in this subchapter shall be construed to mandate equalized spending per pupil for a State, local educational agency, or school.
 
 
-<a id="section-6303"></a>
-## § 6303. State report on dropout data
+<a id="section-6303a"></a>
+## § 6303a. State report on dropout data
 
 Not later than 1 year after a State educational agency receives funds under this subchapter, the agency shall report to the Secretary and statewide, all school district data regarding annual school dropout rates in the State disaggregated by race and ethnicity according to procedures that conform with the National Center for Education Statistics’ Common Core of Data.
 
@@ -142,7 +150,7 @@ Pub. L. 89–10, title X, § 10971, as added by Pub. L. 106–554, § 1(a)(1) [t
 Pub. L. 89–10, title X, § 10999A, as added by Pub. L. 106–554, § 1(a)(1) [title VII, § 701], Dec. 21, 2000, 114 Stat. 2763, 2763A–76, which provided that part L (§§ 10999A–10999L) of title X of Pub. L. 89–10, enacting part L of former subchapter X of this chapter, could be cited as the “Physical Education for Progress Act”, was repealed by Pub. L. 107–110, title X, § 1011(5)(A), Jan. 8, 2002, 115 Stat. 1986.
 
 #### Continuation of Awards
-Pub. L. 107–110, title II, § 202, Jan. 8, 2002, 115 Stat. 1688, provided that: “Notwithstanding any other provision of this Act [see Tables for classification] or the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.], in the case of— “(1) a person or entity that, prior to the date of enactment of this Act [Jan. 8, 2002], was awarded funds appropriated under the Department of Education Appropriations Act, 2001 [Pub. L. 106–554, § 1(a)(1) [title III], see Tables for classification] for new teacher recruitment initiatives; or “(2) a person or agency that, prior to the date of enactment of this Act [Jan. 8, 2002], was awarded a grant or contract under part K of title X of the Elementary and Secondary Education Act of 1965 ([formerly] [20 U.S.C. 8331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8331&num=0&edition=prelim) et seq.), the Secretary of Education shall continue to provide funds in accordance with the terms of such award until the date on which the award period terminates.”
+Pub. L. 107–110, title II, § 202, Jan. 8, 2002, 115 Stat. 1688, provided that: “Notwithstanding any other provision of this Act [see Tables for classification] or the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.], in the case of—“(1) a person or entity that, prior to the date of enactment of this Act [Jan. 8, 2002], was awarded funds appropriated under the Department of Education Appropriations Act, 2001 [Pub. L. 106–554, § 1(a)(1) [title III], see Tables for classification] for new teacher recruitment initiatives; or “(2) a person or agency that, prior to the date of enactment of this Act [Jan. 8, 2002], was awarded a grant or contract under part K of title X of the Elementary and Secondary Education Act of 1965 ([formerly] [20 U.S.C. 8331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8331&num=0&edition=prelim) et seq.), the Secretary of Education shall continue to provide funds in accordance with the terms of such award until the date on which the award period terminates.”
 
 Pub. L. 107–110, title V, § 502, Jan. 8, 2002, 115 Stat. 1873, provided that: “(a) In General.—Notwithstanding any other provision of this Act [see Tables for classification] or the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.), in the case of any agency or consortium that was awarded a grant under section 5111 of the Elementary and Secondary Education Act of 1965 ([formerly] [20 U.S.C. 7211](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7211)) or any person or agency that was awarded a contract or grant under part B, D, or E of title X of the Elementary and Secondary Education Act of 1965 ([formerly] [20 U.S.C. 8031](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8031&num=0&edition=prelim) et seq., 8091 et seq., 8131 et seq.), prior to the date of enactment of this Act [Jan. 8, 2002], the Secretary of Education shall continue to provide funds in accordance with the terms of such award until the date on which the award period terminates under such terms. “(b) Special Rule.—Notwithstanding any other provision of this Act, any person or agency that was awarded or entered into a grant, contract, or cooperative agreement under part B of title V of the Elementary and Secondary Education Act of 1965 ([formerly] [20 U.S.C. 7231](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7231) et seq.), prior to the date of enactment of this Act [Jan. 8, 2002] shall continue to receive funds in accordance with the terms of such grant, contract, or agreement until the date on which the grant, contract, or agreement period terminates under such terms.”
 
@@ -346,7 +354,18 @@ A prior section 1003 of Pub. L. 89–10 was renumbered section 9003 and was clas
 
 
 <a id="section-6314"></a>
-## § 6314. State administration
+## § 6314. Whole-school reform strategy
+
+Funds available for school improvement grants for fiscal year 2014 and thereafter may be used by a local educational agency to implement a whole-school reform strategy for a school using an evidence-based strategy that ensures whole-school reform is undertaken in partnership with a strategy developer offering a whole-school reform program that is based on at least a moderate level of evidence that the program will have a statistically significant effect on student outcomes, including at least one well-designed and well-implemented experimental or quasi-experimental study.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of Education Appropriations Act, 2015, and also as part of the Department of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2015, and the Consolidated and Further Continuing Appropriations Act, 2015, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
+
+
+<a id="section-6315"></a>
+## § 6315. State administration
 **(a) In general** Except as provided in subsection (b) of this section, to carry out administrative duties assigned under parts A, C, and D of this subchapter, each State may reserve the greater of—
 
 (1) 1 percent of the amounts received under such parts; or
@@ -361,8 +380,8 @@ A prior section 1003 of Pub. L. 89–10 was renumbered section 9003 and was clas
 A prior section 1004 of Pub. L. 89–10 was renumbered section 9004 and was classified to [section 3384 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3384&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6315"></a>
-## § 6315. State plans
+<a id="section-6316"></a>
+## § 6316. State plans
 **(a) Plans required**
 
 (1) **In general** — For any State desiring to receive a grant under this part, the State educational agency shall submit to the Secretary a plan, developed by the State educational agency, in consultation with local educational agencies, teachers, principals, pupil services personnel, administrators (including administrators of programs described in other parts of this subchapter), other staff, and parents, that satisfies the requirements of this section and that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act [[20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.], the Carl D. Perkins Career and Technical Education Act of 2006 [[20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.], the Head Start Act [[42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.], the Adult Education and Family Literacy Act [[20 U.S.C. 9201](./chapter-073-adult-education-and-literacy.md#section-9201) et seq.], and the McKinney-Vento Homeless Assistance Act [[42 U.S.C. 11301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) et seq.].
@@ -842,8 +861,8 @@ A prior section 1111 of Pub. L. 89–10 was classified to [section 2768 of this 
 2002—Subsec. (c)(2). Pub. L. 107–279 substituted “[section 9622(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9622/b/2&num=0&edition=prelim)” for “[section 9010(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9010/b/2&num=0&edition=prelim)”.
 
 
-<a id="section-6316"></a>
-## § 6316. Local educational agency plans
+<a id="section-6317"></a>
+## § 6317. Local educational agency plans
 **(a) Plans required**
 
 (1) **Subgrants** — A local educational agency may receive a subgrant under this part for any fiscal year only if such agency has on file with the State educational agency a plan, approved by the State educational agency, that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act [[20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.], the Carl D. Perkins Career and Technical Education Act of 2006 [[20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.], the McKinney-Vento Homeless Assistance Act [[42 U.S.C. 11301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) et seq.], and other Acts, as appropriate.
@@ -1034,8 +1053,8 @@ Subsec. (c)(2)(B). Pub. L. 110–134, § 29(a)(2), substituted “education perf
 2002—Subsec. (b)(1)(F). Pub. L. 107–279 substituted “[section 9622(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9622/b/2&num=0&edition=prelim)” for “[section 9010(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9010/b/2&num=0&edition=prelim)”.
 
 
-<a id="section-6317"></a>
-## § 6317. Eligible school attendance areas
+<a id="section-6318"></a>
+## § 6318. Eligible school attendance areas
 **(a) Determination**
 
 (1) **In general** — A local educational agency shall use funds received under this part only in eligible school attendance areas.
@@ -1125,8 +1144,8 @@ The Social Security Act, referred to in subsec. (a)(5), is act Aug. 14, 1935, ch
 A prior section 6313, Pub. L. 89–10, title I, § 1113, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3532; amended Pub. L. 104–193, title I, § 110(j)(1), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 106–78, title VII, § 752(b)(10), Oct. 22, 1999, 113 Stat. 1169, related to eligible school attendance areas, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6318"></a>
-## § 6318. Schoolwide programs
+<a id="section-6319"></a>
+## § 6319. Schoolwide programs
 **(a) Use of funds for schoolwide programs**
 
 (1) **In general** — A local educational agency may consolidate and use funds under this part, together with other Federal, State, and local funds, in order to upgrade the entire educational program of a school that serves an eligible school attendance area in which not less than 40 percent of the children are from low-income families, or not less than 40 percent of the children enrolled in the school are from such families.
@@ -1245,8 +1264,8 @@ A prior section 6314, Pub. L. 89–10, title I, § 1114, as added Pub. L. 103–
 2006—Subsec. (b)(2)(B)(v). Pub. L. 109–270 substituted “the Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 
 
-<a id="section-6319"></a>
-## § 6319. Targeted assistance schools
+<a id="section-6320"></a>
+## § 6320. Targeted assistance schools
 **(a) In general** In all schools selected to receive funds under [section 6313(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6313/c&num=0&edition=prelim) that are ineligible for a schoolwide program under [section 6314 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6314), or that choose not to operate such a schoolwide program, a local educational agency serving such school may use funds received under this part only for programs that provide services to eligible children under subsection (b) of this section identified as having the greatest need for special assistance.
 
 **(b) Eligible children**
@@ -1337,8 +1356,8 @@ A prior section 6314, Pub. L. 89–10, title I, § 1114, as added Pub. L. 103–
 A prior section 6315, Pub. L. 89–10, title I, § 1115, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3539, related to targeted assistance schools, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6320"></a>
-## § 6320. Academic assessment and local educational agency and school improvement
+<a id="section-6321"></a>
+## § 6321. Academic assessment and local educational agency and school improvement
 **(a) Local review**
 
 (1) **In general** — Each local educational agency receiving funds under this part shall—
@@ -1850,8 +1869,8 @@ A prior section 6316, Pub. L. 89–10, title I, § 1115A, as added Pub. L. 103�
 A prior section 1116 of Pub. L. 89–10 was classified to [section 6317 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6317), prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6321"></a>
-## § 6321. School support and recognition
+<a id="section-6322"></a>
+## § 6322. School support and recognition
 **(a) System for support**
 
 (1) **In general** — Each State shall establish a statewide system of intensive and sustained support and improvement for local educational agencies and schools receiving funds under this part, in order to increase the opportunity for all students served by those agencies and schools to meet the State’s academic content standards and student academic achievement standards.
@@ -1972,8 +1991,8 @@ A prior section 1117 of Pub. L. 89–10 was classified to [section 6318 of this 
 2002—Subsec. (a)(3). Pub. L. 107–279 inserted “regional educational laboratories established under part E of the Education Sciences Reform Act of 2002 and comprehensive centers established under the Educational Technical Assistance Act of 2002 and” after “assistance from” and “(as such section existed on the day before November 5, 2002)” after “[section 6041(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6041/h&num=0&edition=prelim)”.
 
 
-<a id="section-6322"></a>
-## § 6322. Parental involvement
+<a id="section-6331"></a>
+## § 6331. Parental involvement
 **(a) Local educational agency policy**
 
 (1) **In general** — A local educational agency may receive funds under this part only if such agency implements programs, activities, and procedures for the involvement of parents in programs assisted under this part consistent with this section. Such programs, activities, and procedures shall be planned and implemented with meaningful consultation with parents of participating children.
@@ -2084,8 +2103,8 @@ A prior section 6318, Pub. L. 89–10, title I, § 1117, as added Pub. L. 103–
 A prior section 1118 of Pub. L. 89–10 was classified to [section 6319 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6319), prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6331"></a>
-## § 6331. Qualifications for teachers and paraprofessionals
+<a id="section-6332"></a>
+## § 6332. Qualifications for teachers and paraprofessionals
 **(a) Teacher qualifications and measurable objectives**
 
 (1) **In general** — Beginning with the first day of the first school year after January 8, 2002, each local educational agency receiving assistance under this part shall ensure that all teachers hired after such day and teaching in a program supported with funds under this part are highly qualified.
@@ -2190,8 +2209,8 @@ A prior section 6319, Pub. L. 89–10, title I, § 1118, as added Pub. L. 103–
 A prior section 1119 of Pub. L. 107–110 was classified to [section 6320 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6320), prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6332"></a>
-## § 6332. Participation of children enrolled in private schools
+<a id="section-6333"></a>
+## § 6333. Participation of children enrolled in private schools
 **(a) General requirement**
 
 (1) **In general** — To the extent consistent with the number of eligible children identified under [section 6315(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6315/b&num=0&edition=prelim) in the school district served by a local educational agency who are enrolled in private elementary schools and secondary schools, a local educational agency shall, after timely and meaningful consultation with appropriate private school officials, provide such children, on an equitable basis, special educational services or other benefits under this part (such as dual enrollment, educational radio and television, computer equipment and materials, other technology, and mobile educational services and equipment) that address their needs, and shall ensure that teachers and families of the children participate, on an equitable basis, in services and activities developed pursuant to sections 6318 and 6319 of this title.
@@ -2283,8 +2302,8 @@ A prior section 6320, Pub. L. 89–10, title I, § 1119, as added Pub. L. 103–
 A prior section 1120 of Pub. L. 89–10 was classified to [section 6321 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6321), prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6333"></a>
-## § 6333. Fiscal requirements
+<a id="section-6334"></a>
+## § 6334. Fiscal requirements
 **(a) Maintenance of effort** A local educational agency may receive funds under this part for any fiscal year only if the State educational agency involved finds that the local educational agency has maintained the agency’s fiscal effort in accordance with [section 7901 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7901).
 
 **(b) Federal funds to supplement, not supplant, non-Federal funds**
@@ -2341,8 +2360,8 @@ A prior section 6321, Pub. L. 89–10, title I, § 1120, as added Pub. L. 103–
 A prior section 1120A of Pub. L. 89–10 was classified to [section 6322 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6322), prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6334"></a>
-## § 6334. Coordination requirements
+<a id="section-6335"></a>
+## § 6335. Coordination requirements
 **(a) In general** Each local educational agency receiving assistance under this part shall carry out the activities described in subsection (b) of this section with Head Start agencies and, if feasible, other entities carrying out early childhood development programs such as the Early Reading First program.
 
 **(b) Activities** The activities referred to in subsection (a) of this section are activities that increase coordination between the local educational agency and a Head Start agency and, if feasible, other entities carrying out early childhood development programs, such as the Early Reading First program, serving children who will attend the schools of the local educational agency, including—
@@ -2370,8 +2389,8 @@ A prior section 6322, Pub. L. 89–10, title I, § 1120A, as added Pub. L. 103�
 A prior section 6323, Pub. L. 89–10, title I, § 1120B, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3560, related to coordination requirements, prior to its omission in the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6335"></a>
-## § 6335. Grants for the outlying areas and the Secretary of the Interior
+<a id="section-6336"></a>
+## § 6336. Grants for the outlying areas and the Secretary of the Interior
 **(a) Reservation of funds** From the amount appropriated for payments to States for any fiscal year under section 11 So in original. Probably should be “sections”. 6302(a) and 6337(f) of this title, the Secretary shall reserve a total of 1 percent to provide assistance to—
 
 (1) the outlying areas in the amount determined in accordance with subsection (b) of this section; and
@@ -2429,8 +2448,8 @@ Public Law 95–134, referred to in subsec. (b)(4), is Pub. L. 95–134, Oct. 15
 A prior section 6331, Pub. L. 89–10, title I, § 1121, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3561, related to grants for outlying areas and the Secretary of the Interior, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6336"></a>
-## § 6336. Allocations to States
+<a id="section-6337"></a>
+## § 6337. Allocations to States
 **(a) Allocation formula** Of the amount appropriated under [section 6302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6302/a&num=0&edition=prelim) to carry out this part for each of fiscal years 2002–2007 (referred to in this subsection as the current fiscal year)—
 
 (1) an amount equal to the amount made available to carry out [section 6333 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6333) for fiscal year 2001 shall be allocated in accordance with [section 6333 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6333);
@@ -2475,8 +2494,8 @@ A prior section 6331, Pub. L. 89–10, title I, § 1121, as added Pub. L. 103–
 A prior section 6332, Pub. L. 89–10, title I, § 1122, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3562, related to allocations to States, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6337"></a>
-## § 6337. Basic grants to local educational agencies
+<a id="section-6338"></a>
+## § 6338. Basic grants to local educational agencies
 **(a) Amount of grants**
 
 (1) **Grants for local educational agencies and Puerto Rico** — Except as provided in paragraph (4) and in [section 6338 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6338), the grant that a local educational agency is eligible to receive under this section for a fiscal year is the amount determined by multiplying—
@@ -2616,8 +2635,8 @@ The Social Security Act, referred to in subsec. (c)(4)(A), is act Aug. 14, 1935,
 A prior section 6333, Pub. L. 89–10, title I, § 1124, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3564; amended Pub. L. 104–193, title I, § 110(j)(2), Aug. 22, 1996, 110 Stat. 2172, related to basic grants to local educational agencies, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6338"></a>
-## § 6338. Concentration grants to local educational agencies
+<a id="section-6339"></a>
+## § 6339. Concentration grants to local educational agencies
 **(a) Eligibility for and amount of grants**
 
 (1) **In general**
@@ -2668,8 +2687,8 @@ A prior section 6333, Pub. L. 89–10, title I, § 1124, as added Pub. L. 103–
 A prior section 6334, Pub. L. 89–10, title I, § 1124A, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3569, related to concentration grants to local educational agencies, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6339"></a>
-## § 6339. Targeted grants to local educational agencies
+<a id="section-6361"></a>
+## § 6361. Targeted grants to local educational agencies
 **(a) Eligibility of local educational agencies**
 
 (1) **In general** — A local educational agency in a State is eligible to receive a targeted grant under this section for any fiscal year if—
@@ -2770,8 +2789,8 @@ A prior section 6334, Pub. L. 89–10, title I, § 1124A, as added Pub. L. 103�
 A prior section 6335, Pub. L. 89–10, title I, § 1125, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3571, related to targeted grants to local educational agencies, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6361"></a>
-## § 6361. Adequacy of funding of targeted grants to local educational agencies in fiscal years after fiscal year 2001
+<a id="section-6362"></a>
+## § 6362. Adequacy of funding of targeted grants to local educational agencies in fiscal years after fiscal year 2001
 **(a) Findings** Congress makes the following findings:
 
 (1) The current Basic Grant Formula for the distribution of funds under this part often does not provide funds for the economically disadvantaged students for which such funds are targeted.
@@ -2803,8 +2822,8 @@ The Improving America’s Schools Act of 1994, referred to in subsec. (a)(5), is
 A prior section 6336, Pub. L. 89–10, title I, § 1125A, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3575, related to education finance incentive program, prior to the general amendment of this subchapter by Pub. L. 107–110. See [section 6337 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6337).
 
 
-<a id="section-6362"></a>
-## § 6362. Education finance incentive grant program
+<a id="section-6363"></a>
+## § 6363. Education finance incentive grant program
 **(a) Grants** From funds appropriated under subsection (f) of this section the Secretary is authorized to make grants to States, from allotments under subsection (b) of this section, to carry out the programs and activities of this part.
 
 **(b) Distribution based upon fiscal effort and equity**
@@ -3070,8 +3089,8 @@ A prior section 6337, Pub. L. 89–10, title I, § 1126, as added Pub. L. 103–
 A prior section 1125A of Pub. L. 89–10 was classified to [section 6336 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6336), prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6363"></a>
-## § 6363. Special allocation procedures
+<a id="section-6364"></a>
+## § 6364. Special allocation procedures
 **(a) Allocations for neglected children**
 
 (1) **In general** — If a State educational agency determines that a local educational agency in the State is unable or unwilling to provide for the special educational needs of children who are living in institutions for neglected children as described in [section 6333(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6333/c/1/B&num=0&edition=prelim), the State educational agency shall, if such agency assumes responsibility for the special educational needs of such children, receive the portion of such local educational agency’s allocation under sections 6333, 6334, 6335, and 6337 of this title that is attributable to such children.
@@ -3096,8 +3115,8 @@ A prior section 6338, Pub. L. 89–10, title I, § 1127, as added Pub. L. 103–
 A prior section 1126 of Pub. L. 89–10 was classified to [section 6337 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6337), prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6364"></a>
-## § 6364. Carryover and waiver
+<a id="section-6365"></a>
+## § 6365. Carryover and waiver
 **(a) Limitation on carryover** Notwithstanding [section 1225(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1225/b&num=0&edition=prelim) or any other provision of law, not more than 15 percent of the funds allocated to a local educational agency for any fiscal year under this subpart (but not including funds received through any reallocation under this subpart) may remain available for obligation by such agency for one additional fiscal year.
 
 **(b) Waiver** A State educational agency may, once every 3 years, waive the percentage limitation in subsection (a) of this section if—
@@ -3114,8 +3133,8 @@ A prior section 1126 of Pub. L. 89–10 was classified to [section 6337 of this 
 A prior section 1127 of Pub. L. 89–10 was classified to [section 6338 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6338), prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6365"></a>
-## § 6365. Purposes
+<a id="section-6366"></a>
+## § 6366. Purposes
 
 The purposes of this subpart are as follows:
 
@@ -3137,8 +3156,8 @@ A prior section 6361, Pub. L. 89–10, title I, § 1201, as added Pub. L. 103–
 A prior section 1201 of Pub. L. 89–10 was classified to [section 2781 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2781&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6366"></a>
-## § 6366. Formula grants to State educational agencies
+<a id="section-6367"></a>
+## § 6367. Formula grants to State educational agencies
 **(a) In general**
 
 (1) **Authorization to make grants** — In the case of each State educational agency that in accordance with [section 6363 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6363) submits to the Secretary an application for a 6-year period, the Secretary, from amounts appropriated under [section 6302(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6302/b/1&num=0&edition=prelim) and subject to the application’s approval, shall make a grant to the State educational agency for the uses specified in subsections (c) and (d) of this section. For each fiscal year, the funds provided under the grant shall equal the allotment determined for the State educational agency under subsection (b) of this section.
@@ -3379,8 +3398,8 @@ A prior section 1202 of Pub. L. 89–10 was classified to [section 2782 of this 
 2003—Subsec. (g). Pub. L. 108–7 added subsec. (g).
 
 
-<a id="section-6367"></a>
-## § 6367. State formula grant applications
+<a id="section-6368"></a>
+## § 6368. State formula grant applications
 **(a) Applications**
 
 (1) **In general** — A State educational agency that desires to receive a grant under [section 6362 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6362) shall submit an application to the Secretary at such time and in such form as the Secretary may require. The application shall contain the information described in subsection (b) of this section.
@@ -3493,6 +3512,17 @@ A prior section 1202 of Pub. L. 89–10 was classified to [section 2782 of this 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)(2)(A)
+Pub. L. 113–128, title V, §§ 506, 512(i)(1), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (c)(2)(A) of this section is amended:
+
+(1) by striking “, in consultation with the National Institute for Literacy,”; and
+
+(2) by striking clause (ii); and
+
+(3) by redesignating clauses (iii) and (iv) as clauses (ii) and (iii), respectively.
+
+See 2014 Amendment note below.
+
 #### References in Text
 Part C of title II (as such part was in effect on the day before January 8, 2002), referred to in subsecs. (a)(2), (b)(2), and (d)(4), means part C of title II of Pub. L. 89–10, as added by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 101(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–391, as amended, which was classified generally to part C (§ 6661 et seq.) of subchapter II of this chapter prior to the general amendment of subchapter II by Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1620.
 
@@ -3506,11 +3536,16 @@ A prior section 6363, Pub. L. 89–10, title I, § 1203, as added Pub. L. 103–
 A prior section 1203 of Pub. L. 89–10 was classified to [section 2783 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2783&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
+2014—Subsec. (c)(2)(A). Pub. L. 113–128 struck out “, in consultation with the National Institute for Literacy,” after “The Secretary” in introductory provisions, redesignated subcls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read as follows: “three individuals selected by the National Institute for Literacy;”.
+
 2007—Subsec. (c)(2)(A)(iv). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
-<a id="section-6368"></a>
-## § 6368. Targeted assistance grants
+
+<a id="section-6371"></a>
+## § 6371. Targeted assistance grants
 **(a) Eligibility criteria for awarding targeted assistance grants to States** Beginning with fiscal year 2004, from funds appropriated under [section 6362(b)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6362/b/1/E&num=0&edition=prelim), the Secretary shall make grants, on a competitive basis, to those State educational agencies that—
 
 (1) for each of 2 consecutive years, demonstrate that an increasing percentage of third graders in each of the groups described in [section 6311(b)(2)(C)(v)(II) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C/v/II&num=0&edition=prelim) in the schools served by the local educational agencies receiving funds under [section 6362 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6362) are reaching the proficient level in reading; and
@@ -3571,8 +3606,8 @@ A prior section 1203 of Pub. L. 89–10 was classified to [section 2783 of this 
 A prior section 6364, Pub. L. 89–10, title I, § 1204, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3580; amended Pub. L. 104–134, title I, § 101(b) [title II, § 2755(a)], Apr. 26, 1996, 110 Stat. 1321–77, 1321–151; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 306(a)], Nov. 29, 1999, 113 Stat. 1535, 1501A–260; Pub. L. 106–554, § 1(a)(4) [div. B, title XVI, § 1604(h)], Dec. 21, 2000, 114 Stat. 2763, 2763A–330, related to uses of funds in carrying out an Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110. See [section 6381c of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6381c).
 
 
-<a id="section-6371"></a>
-## § 6371. External evaluation
+<a id="section-6372"></a>
+## § 6372. External evaluation
 **(a) In general** From funds reserved under [section 6362(b)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6362/b/1/C&num=0&edition=prelim), the Secretary shall contract with an independent organization outside of the Department for a 5-year, rigorous, scientifically valid, quantitative evaluation of this subpart.
 
 **(b) Process** The evaluation under subsection (a) of this section shall be conducted by an organization that is capable of designing and carrying out an independent evaluation that identifies the effects of specific activities carried out by State educational agencies and local educational agencies under this subpart on improving reading instruction. Such evaluation shall take into account factors influencing student performance that are not controlled by teachers or education administrators.
@@ -3607,8 +3642,8 @@ A prior section 6364, Pub. L. 89–10, title I, § 1204, as added Pub. L. 103–
 A prior section 6365, Pub. L. 89–10, title I, § 1205, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3580; amended Pub. L. 104–134, title I, § 101(b) [title II, § 2755(b)], Apr. 26, 1996, 110 Stat. 1321–77, 1321–151; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–220, title II, § 251(b)(2)(B), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(18)(A), (f)(13)(A)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431; Pub. L. 106–554, § 1(a)(4) [div. B, title XVI, § 1604(i)], Dec. 21, 2000, 114 Stat. 2763, 2763A–331, related to Even Start program elements, prior to the general amendment of this subchapter by Pub. L. 107–110. See [section 6381d of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6381d).
 
 
-<a id="section-6372"></a>
-## § 6372. National activities
+<a id="section-6373"></a>
+## § 6373. National activities
 
 From funds reserved under [section 6362(b)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6362/b/1/C&num=0&edition=prelim), the Secretary—
 
@@ -3627,8 +3662,8 @@ The Individuals with Disabilities Education Act, referred to in par. (2), is tit
 A prior section 6366, Pub. L. 89–10, title I, § 1206, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3581; amended Pub. L. 105–220, title II, § 251(b)(2)(C), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 106–554, § 1(a)(4) [div. B, title XVI, § 1604(j)], Dec. 21, 2000, 114 Stat. 2763, 2763A–332, related to eligible participants in an Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110. See [section 6381e of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6381e).
 
 
-<a id="section-6373"></a>
-## § 6373. Information dissemination
+<a id="section-6374"></a>
+## § 6374. Information dissemination
 **(a) In general** From funds reserved under [section 6362(b)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6362/b/1/D&num=0&edition=prelim), the National Institute for Literacy, in collaboration with the Secretary of Education, the Secretary of Health and Human Services, and the Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development shall—
 
 (1) disseminate information on scientifically based reading research pertaining to children, youth, and adults;
@@ -3663,8 +3698,8 @@ A prior section 6367, Pub. L. 89–10, title I, § 1207, as added Pub. L. 103–
 2007—Subsec. (a). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute for Child Health and Human Development” in introductory provisions.
 
 
-<a id="section-6374"></a>
-## § 6374. Definitions
+<a id="section-6375"></a>
+## § 6375. Definitions
 
 In this subpart:
 
@@ -3778,8 +3813,8 @@ Section 6369b, Pub. L. 89–10, title I, § 1211, as added Pub. L. 105–277, di
 Section 6370, Pub. L. 89–10, title I, § 1212, formerly § 1210, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3584; renumbered § 1212, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 204(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409, related to construction of provisions. See [section 6381k of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6381k).
 
 
-<a id="section-6375"></a>
-## § 6375. Purposes; definitions
+<a id="section-6376"></a>
+## § 6376. Purposes; definitions
 **(a) Purposes** The purposes of this subpart are as follows:
 
 (1) To support local efforts to enhance the early language, literacy, and prereading development of preschool age children, particularly those from low-income families, through strategies and professional development that are based on scientifically based reading research.
@@ -3822,8 +3857,8 @@ Section 6370, Pub. L. 89–10, title I, § 1212, formerly § 1210, as added Pub.
 A prior section 1221 of Pub. L. 89–10 was classified to [section 2791 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2791&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6376"></a>
-## § 6376. Local Early Reading First grants
+<a id="section-6381"></a>
+## § 6381. Local Early Reading First grants
 **(a) Program authorized** From amounts appropriated under [section 6302(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6302/b/2&num=0&edition=prelim), the Secretary shall award grants, on a competitive basis, for periods of not more than 6 years, to eligible applicants to enable the eligible applicants to carry out the authorized activities described in subsection (d) of this section.
 
 **(b) Applications** An eligible applicant that desires to receive a grant under this section shall submit an application to the Secretary, which shall include a description of—
@@ -3878,8 +3913,8 @@ A prior section 1221 of Pub. L. 89–10 was classified to [section 2791 of this 
 A prior section 1222 of Pub. L. 89–10 was classified to [section 2792 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2792&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6381"></a>
-## § 6381. Federal administration
+<a id="section-6381a"></a>
+## § 6381a. Federal administration
 
 The Secretary shall consult with the Secretary of Health and Human Services to coordinate the activities under this subpart with preschool age programs administered by the Department of Health and Human Services.
 
@@ -3889,8 +3924,8 @@ The Secretary shall consult with the Secretary of Health and Human Services to c
 A prior section 1223 of Pub. L. 89–10 was classified to [section 2793 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2793&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6381a"></a>
-## § 6381a. Information dissemination
+<a id="section-6381b"></a>
+## § 6381b. Information dissemination
 
 From the funds the National Institute for Literacy receives under [section 6362(b)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6362/b/1/D&num=0&edition=prelim), the National Institute for Literacy, in consultation with the Secretary, shall disseminate information regarding projects assisted under this subpart that have proven effective.
 
@@ -3900,8 +3935,8 @@ From the funds the National Institute for Literacy receives under [section 6362(
 A prior section 1224 of Pub. L. 89–10 was classified to [section 2794 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2794&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6381b"></a>
-## § 6381b. Reporting requirements
+<a id="section-6381c"></a>
+## § 6381c. Reporting requirements
 
 Each eligible applicant receiving a grant under this subpart shall report annually to the Secretary regarding the eligible applicant’s progress in addressing the purposes of this subpart. Such report shall include, at a minimum, a description of—
 
@@ -3919,8 +3954,8 @@ Each eligible applicant receiving a grant under this subpart shall report annual
 A prior section 1225 of Pub. L. 89–10 was classified to [section 2795 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2795&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6381c"></a>
-## § 6381c. Evaluation
+<a id="section-6381d"></a>
+## § 6381d. Evaluation
 **(a) In general** From the total amount made available under [section 6302(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6302/b/2&num=0&edition=prelim) for the period beginning October 1, 2002, and ending September 30, 2006, the Secretary shall reserve not more than $3,000,000 to conduct an independent evaluation of the effectiveness of this subpart.
 
 **(b) Reports**
@@ -3952,8 +3987,8 @@ The Head Start Act, referred to in subsec. (c)(5), is subchapter B (§§ 635–6
 A prior section 1226 of Pub. L. 89–10 was classified to [section 2796 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2796&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6381d"></a>
-## § 6381d. Statement of purpose
+<a id="section-6381e"></a>
+## § 6381e. Statement of purpose
 
 It is the purpose of this subpart to help break the cycle of poverty and illiteracy by—
 
@@ -3970,8 +4005,8 @@ It is the purpose of this subpart to help break the cycle of poverty and illiter
   (D) use instructional programs based on scientifically based reading research and addressing the prevention of reading difficulties for children and adults, to the extent such research is available.
 
 
-<a id="section-6381e"></a>
-## § 6381e. Program authorized
+<a id="section-6381f"></a>
+## § 6381f. Program authorized
 **(a) Reservation for migrant programs, outlying areas, and Indian tribes**
 
 (1) **In general** — For each fiscal year, the Secretary shall reserve 5 percent of the amount appropriated under [section 6302(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6302/b/3&num=0&edition=prelim) (or, if such appropriated amount exceeds $200,000,000, 6 percent of such amount) for programs, under such terms and conditions as the Secretary shall establish, that are consistent with the purpose of this subpart, and according to their relative needs, for—
@@ -4066,8 +4101,8 @@ The Head Start Act, referred to in subsec. (c)(1)(B), (2)(A)(ii), is subchapter 
 The Social Security Act, referred to in subsec. (c)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 
-<a id="section-6381f"></a>
-## § 6381f. State educational agency programs
+<a id="section-6381g"></a>
+## § 6381g. State educational agency programs
 **(a) State educational agency level activities** Each State educational agency that receives a grant under [section 6381a(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6381a/d/1&num=0&edition=prelim) may use not more than a total of 6 percent of the grant funds for the costs of—
 
 (1) administration, which amount shall not exceed half of the total;
@@ -4089,8 +4124,8 @@ The Social Security Act, referred to in subsec. (c)(1)(B), is act Aug. 14, 1935,
   (C) *Exception for single subgrant* — A State educational agency may award one subgrant in each fiscal year of sufficient size, scope, and quality to be effective in an amount less than $75,000 if, after awarding subgrants under paragraph (1) for that fiscal year in accordance with subparagraphs (A) and (B), less than $75,000 is available to the State educational agency to award those subgrants.
 
 
-<a id="section-6381g"></a>
-## § 6381g. Uses of funds
+<a id="section-6381h"></a>
+## § 6381h. Uses of funds
 **(a) In general** In carrying out an Even Start program under this subpart, a recipient of funds under this subpart shall use those funds to pay the Federal share of the cost of providing intensive family literacy services that involve parents and children, from birth through age 7, in a cooperative effort to help parents become full partners in the education of their children and to assist children in reaching their full potential as learners.
 
 **(b) Federal share limitation**
@@ -4132,8 +4167,8 @@ The Social Security Act, referred to in subsec. (c)(1)(B), is act Aug. 14, 1935,
 (4) **Technical assistance and training** — Assistance under paragraph (1) shall be in the form of technical assistance and training, provided by a State educational agency through a grant, contract, or cooperative agreement with an entity that has experience in offering high-quality training and technical assistance to family literacy providers.
 
 
-<a id="section-6381h"></a>
-## § 6381h. Program elements
+<a id="section-6381i"></a>
+## § 6381i. Program elements
 
 Each program assisted under this subpart shall—
 
@@ -4199,6 +4234,9 @@ Each program assisted under this subpart shall—
 
 ### Statutory Notes
 
+#### Amendment of Paragraph (9)(B)
+Pub. L. 113–128, title V, §§ 506, 512(i)(2), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (9)(B) of this section is amended by striking “any relevant programs under the Adult Education and Family Literacy Act, the Individuals with Disabilities Education Act, and title I of the Workforce Investment Act of 1998” and inserting “any relevant programs under the Adult Education and Family Literacy Act, the Individuals with Disabilities Education Act, and title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
+
 #### References in Text
 The Adult Education and Family Literacy Act, referred to in par. (9)(B), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
 
@@ -4206,9 +4244,15 @@ The Individuals with Disabilities Education Act, referred to in par. (9)(B), is 
 
 The Workforce Investment Act of 1998, referred to in par. (9)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
 
+#### Amendments
+2014—Par. (9)(B). Pub. L. 113–128 substituted “any relevant programs under the Adult Education and Family Literacy Act, the Individuals with Disabilities Education Act, and title I of the Workforce Innovation and Opportunity Act” for “any relevant programs under the Adult Education and Family Literacy Act, the Individuals with Disabilities Education Act, and title I of the Workforce Investment Act of 1998”.
 
-<a id="section-6381i"></a>
-## § 6381i. Eligible participants
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+
+
+<a id="section-6381j"></a>
+## § 6381j. Eligible participants
 **(a) In general** Except as provided in subsection (b) of this section, eligible participants in an Even Start program are—
 
 (1) a parent or parents—
@@ -4237,8 +4281,8 @@ The Workforce Investment Act of 1998, referred to in par. (9)(B), is Pub. L. 105
 The Adult Education and Family Literacy Act, referred to in subsec. (a)(1)(A), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
 
 
-<a id="section-6381j"></a>
-## § 6381j. Applications
+<a id="section-6381k"></a>
+## § 6381k. Applications
 **(a) Submission** To be eligible to receive a subgrant under this subpart, an eligible entity shall submit an application to the State educational agency in such form and containing or accompanied by such information as the State educational agency shall require.
 
 **(b) Required documentation** Each application shall include documentation, satisfactory to the State educational agency, that the eligible entity has the qualified personnel needed—
@@ -4280,8 +4324,8 @@ The Adult Education and Family Literacy Act, referred to in subsec. (a)(1)(A), i
 **(d) Consolidated application** The plan described in subsection (c)(1) of this section may be submitted as part of a consolidated application under [section 7845 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7845).
 
 
-<a id="section-6381k"></a>
-## § 6381k. Award of subgrants
+<a id="section-6383"></a>
+## § 6383. Award of subgrants
 **(a) Selection process**
 
 (1) **In general** — The State educational agency shall establish a review panel in accordance with paragraph (3) that will approve applications that—
@@ -4350,8 +4394,8 @@ The Adult Education and Family Literacy Act, referred to in subsec. (a)(1)(A), i
 The Social Security Act, referred to in subsec. (a)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 
-<a id="section-6383"></a>
-## § 6383. Evaluation
+<a id="section-6391"></a>
+## § 6391. Evaluation
 
 From funds reserved under [section 6381a(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6381a/b/1&num=0&edition=prelim), the Secretary shall provide for an independent evaluation of programs assisted under this subpart—
 
@@ -4362,8 +4406,8 @@ From funds reserved under [section 6381a(b)(1) of this title](https://uscode.hou
 (3) to provide State educational agencies and eligible entities receiving a subgrant under this subpart, directly or through a grant or contract with an organization with experience in the development and operation of successful family literacy services, technical assistance to ensure that local evaluations undertaken under [section 6381d(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6381d/15&num=0&edition=prelim) provide accurate information on the effectiveness of programs assisted under this subpart.
 
 
-<a id="section-6391"></a>
-## § 6391. Indicators of program quality
+<a id="section-6392"></a>
+## § 6392. Indicators of program quality
 
 Each State educational agency receiving funds under this subpart shall develop, based on the best available research and evaluation data, indicators of program quality for programs assisted under this subpart. The indicators shall be used to monitor, evaluate, and improve those programs within the State. The indicators shall include the following:
 
@@ -4388,8 +4432,8 @@ Each State educational agency receiving funds under this subpart shall develop, 
   (D) such other indicators as the State may develop.
 
 
-<a id="section-6392"></a>
-## § 6392. Research
+<a id="section-6393"></a>
+## § 6393. Research
 **(a) In general** The Secretary shall carry out, through grant or contract, research into the components of successful family literacy services, in order to—
 
 (1) improve the quality of existing programs assisted under this subpart or other family literacy programs carried out under this chapter or the Adult Education and Family Literacy Act [[20 U.S.C. 9201](./chapter-073-adult-education-and-literacy.md#section-9201) et seq.]; and
@@ -4421,8 +4465,8 @@ The Adult Education and Family Literacy Act, referred to in subsec. (a), is titl
 A prior section 1241 of Pub. L. 89–10 was classified to [section 2801 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2801&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6393"></a>
-## § 6393. Construction
+<a id="section-6394"></a>
+## § 6394. Construction
 
 Nothing in this subpart shall be construed to prohibit a recipient of funds under this subpart from serving students participating in Even Start simultaneously with students with similar educational needs, in the same educational settings where appropriate.
 
@@ -4432,8 +4476,8 @@ Nothing in this subpart shall be construed to prohibit a recipient of funds unde
 A prior section 1242 of Pub. L. 89–10 was classified to [section 2802 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2802&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6394"></a>
-## § 6394. Improving literacy through school libraries
+<a id="section-6395"></a>
+## § 6395. Improving literacy through school libraries
 **(a) Purposes** The purpose of this subpart is to improve literacy skills and academic achievement of students by providing students with increased access to up-to-date school library materials, a well-equipped, technologically advanced school library media center, and well-trained, professionally certified school library media specialists.
 
 **(b) Reservation** From the funds appropriated under [section 6302(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6302/b/4&num=0&edition=prelim) for a fiscal year, the Secretary shall reserve—
@@ -4525,8 +4569,8 @@ A prior section 1242 of Pub. L. 89–10 was classified to [section 2802 of this 
 (2) **Report to Congress** — The Secretary shall transmit the State reports received under subsection (h)(2) of this section and the evaluations conducted under paragraph (1) to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives.
 
 
-<a id="section-6395"></a>
-## § 6395. Program purpose
+<a id="section-6396"></a>
+## § 6396. Program purpose
 
 It is the purpose of this part to assist States to—
 
@@ -4548,8 +4592,8 @@ It is the purpose of this part to assist States to—
 A prior section 6391, Pub. L. 89–10, title I, § 1301, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3585, related to program purpose, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6396"></a>
-## § 6396. Program authorized
+<a id="section-6397"></a>
+## § 6397. Program authorized
 
 In order to carry out the purpose of this part, the Secretary shall make grants to State educational agencies, or combinations of such agencies, to establish or improve, directly or through local operating agencies, programs of education for migratory children in accordance with this part.
 
@@ -4559,8 +4603,8 @@ In order to carry out the purpose of this part, the Secretary shall make grants 
 A prior section 6392, Pub. L. 89–10, title I, § 1302, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3585, authorized migratory children education program, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6397"></a>
-## § 6397. State allocations
+<a id="section-6398"></a>
+## § 6398. State allocations
 **(a) State allocations**
 
 (1) **Fiscal year 2002** — For fiscal year 2002, each State (other than the Commonwealth of Puerto Rico) is entitled to receive under this part an amount equal to—
@@ -4661,8 +4705,8 @@ A prior section 6392, Pub. L. 89–10, title I, § 1302, as added Pub. L. 103–
 A prior section 6393, Pub. L. 89–10, title I, § 1303, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3585, related to State allocations, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6398"></a>
-## § 6398. State applications; services
+<a id="section-6399"></a>
+## § 6399. State applications; services
 **(a) Application required** Any State desiring to receive a grant under this part for any fiscal year shall submit an application to the Secretary at such time and in such manner as the Secretary may require.
 
 **(b) Program information** Each such application shall include—
@@ -4742,20 +4786,24 @@ References to parts A and B of subchapter III of this chapter are considered to 
 A prior section 6394, Pub. L. 89–10, title I, § 1304, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3587; amended Pub. L. 106–554, § 1(a)(4) [div. B, title XVI, § 1605], Dec. 21, 2000, 114 Stat. 2763, 2763A–334, related to State applications and services, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6399"></a>
-## § 6399. Secretarial approval; peer review
-**(a) Secretarial approval** The Secretary shall approve each State application that meets the requirements of this part.
+<a id="section-6421"></a>
+## § 6421. Programs operated by local educational agencies
+**(a) Local subgrants** With funds made available under [section 6422(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6422/b&num=0&edition=prelim), the State educational agency shall award subgrants to local educational agencies with high numbers or percentages of children and youth residing in locally operated (including county operated) correctional facilities for children and youth (including facilities involved in community day programs).
 
-**(b) Peer review** The Secretary may review any such application with the assistance and advice of State officials and other individuals with relevant expertise.
+**(b) Special rule** A local educational agency that serves a school operated by a correctional facility is not required to operate a program of support for children and youth returning from such school to a school that is not operated by a correctional agency but served by such local educational agency, if more than 30 percent of the children and youth attending the school operated by the correctional facility will reside outside the boundaries served by the local educational agency after leaving such facility.
+
+**(c) Notification** A State educational agency shall notify local educational agencies within the State of the eligibility of such agencies to receive a subgrant under this subpart.
+
+**(d) Transitional and academic services** Transitional and supportive programs operated in local educational agencies under this subpart shall be designed primarily to meet the transitional and academic needs of students returning to local educational agencies or alternative education programs from correctional facilities. Services to students at-risk of dropping out of school shall not have a negative impact on meeting the transitional and academic needs of the students returning from correctional facilities.
 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 6395, Pub. L. 89–10, title I, § 1305, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3588, related to Secretarial approval and peer review, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6452, Pub. L. 89–10, title I, § 1422, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3598, related to programs operated by local educational agencies, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6421"></a>
-## § 6421. Local educational agency applications
+<a id="section-6422"></a>
+## § 6422. Local educational agency applications
 
 Each local educational agency desiring assistance under this subpart shall submit an application to the State educational agency that contains such information as the State educational agency may require. Each such application shall include—
 
@@ -4791,6 +4839,9 @@ Each local educational agency desiring assistance under this subpart shall submi
 
 ### Statutory Notes
 
+#### Amendment of Paragraph (9)
+Pub. L. 113–128, title V, §§ 506, 512(i)(3), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (9) of this section is amended by striking “a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of Public Law 105–220” and inserting “a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
+
 #### References in Text
 Pub. L. 105–220, referred to in par. (9), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
 
@@ -4799,30 +4850,27 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par.
 #### Prior Provisions
 A prior section 6453, Pub. L. 89–10, title I, § 1423, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3598; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(18)(C), (f)(13)(C)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431, related to local educational agency applications, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
+#### Amendments
+2014—Par. (9). Pub. L. 113–128 substituted “a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act” for “a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of Public Law 105–220”.
 
-<a id="section-6422"></a>
-## § 6422. Uses of funds
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
-Funds provided to local educational agencies under this subpart may be used, as appropriate, for—
 
-(1) programs that serve children and youth returning to local schools from correctional facilities, to assist in the transition of such children and youth to the school environment and help them remain in school in order to complete their education;
+<a id="section-6431"></a>
+## § 6431. Secretarial approval; peer review
+**(a) Secretarial approval** The Secretary shall approve each State application that meets the requirements of this part.
 
-(2) dropout prevention programs which serve at-risk children and youth, including pregnant and parenting teens, children and youth who have come in contact with the juvenile justice system, children and youth at least 1 year behind their expected grade level, migrant youth, immigrant youth, students with limited English proficiency, and gang members;
-
-(3) the coordination of health and social services for such individuals if there is a likelihood that the provision of such services, including day care, drug and alcohol counseling, and mental health services, will improve the likelihood such individuals will complete their education;
-
-(4) special programs to meet the unique academic needs of participating children and youth, including vocational and technical education, special education, career counseling, curriculum-based youth entrepreneurship education, and assistance in securing student loans or grants for postsecondary education; and
-
-(5) programs providing mentoring and peer mediation.
+**(b) Peer review** The Secretary may review any such application with the assistance and advice of State officials and other individuals with relevant expertise.
 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 6454, Pub. L. 89–10, title I, § 1424, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3599, related to uses of funds, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6395, Pub. L. 89–10, title I, § 1305, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3588, related to Secretarial approval and peer review, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6431"></a>
-## § 6431. Comprehensive needs assessment and service-delivery plan; authorized activities
+<a id="section-6432"></a>
+## § 6432. Comprehensive needs assessment and service-delivery plan; authorized activities
 **(a) Comprehensive plan**
 
 (1) **In general** — Each State that receives assistance under this part shall ensure that the State and its local operating agencies identify and address the special educational needs of migratory children in accordance with a comprehensive State plan that—
@@ -4872,8 +4920,8 @@ References to parts A and B of subchapter III of this chapter are considered to 
 A prior section 6396, Pub. L. 89–10, title I, § 1306, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3589, related to comprehensive needs assessments and service-delivery plans, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6432"></a>
-## § 6432. Bypass
+<a id="section-6433"></a>
+## § 6433. Bypass
 
 The Secretary may use all or part of any State’s allocation under this part to make arrangements with any public or private nonprofit agency to carry out the purpose of this part in such State if the Secretary determines that—
 
@@ -4889,8 +4937,8 @@ The Secretary may use all or part of any State’s allocation under this part to
 A prior section 6397, Pub. L. 89–10, title I, § 1307, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3590, related to bypass of State, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6433"></a>
-## § 6433. Coordination of migrant education activities
+<a id="section-6434"></a>
+## § 6434. Coordination of migrant education activities
 **(a) Improvement of coordination**
 
 (1) **In general** — The Secretary, in consultation with the States, may make grants to, or enter into contracts with, State educational agencies, local educational agencies, institutions of higher education, and other public and private nonprofit entities to improve the interstate and intrastate coordination among such agencies’ educational programs, including the establishment or improvement of programs for credit accrual and exchange, available to migratory students.
@@ -4944,8 +4992,8 @@ The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(A
 A prior section 6398, Pub. L. 89–10, title I, § 1308, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3590, related to coordination of migrant education activities, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6434"></a>
-## § 6434. Definitions
+<a id="section-6435"></a>
+## § 6435. Definitions
 
 As used in this part:
 
@@ -4971,8 +5019,8 @@ As used in this part:
 A prior section 6399, Pub. L. 89–10, title I, § 1309, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3591, defined terms for this part, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6435"></a>
-## § 6435. Purpose and program authorization
+<a id="section-6436"></a>
+## § 6436. Purpose and program authorization
 **(a) Purpose** It is the purpose of this part—
 
 (1) to improve educational services for children and youth in local and State institutions for neglected or delinquent children and youth so that such children and youth have the opportunity to meet the same challenging State academic content standards and challenging State student academic achievement standards that all children in the State are expected to meet;
@@ -4991,8 +5039,8 @@ A prior section 6421, Pub. L. 89–10, title I, § 1401, as added Pub. L. 103–
 A prior section 1401 of Pub. L. 89–10 was classified to [section 2821 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2821&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6436"></a>
-## § 6436. Payments for programs under this part
+<a id="section-6437"></a>
+## § 6437. Payments for programs under this part
 **(a) Agency subgrants** Based on the allocation amount computed under [section 6432 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6432), the Secretary shall allocate to each State educational agency an amount necessary to make subgrants to State agencies under subpart 1 of this part.
 
 **(b) Local subgrants** Each State shall retain, for the purpose of carrying out subpart 2 of this part, funds generated throughout the State under part A of this subchapter based on children and youth residing in local correctional facilities, or attending community day programs for delinquent children and youth.
@@ -5005,8 +5053,8 @@ A prior section 6422, Pub. L. 89–10, title I, § 1402, as added Pub. L. 103–
 A prior section 1402 of Pub. L. 89–10 was classified to [section 2822 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2822&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6437"></a>
-## § 6437. Eligibility
+<a id="section-6438"></a>
+## § 6438. Eligibility
 
 A State agency is eligible for assistance under this subpart if such State agency is responsible for providing free public education for children and youth—
 
@@ -5022,8 +5070,8 @@ A State agency is eligible for assistance under this subpart if such State agenc
 A prior section 6431, Pub. L. 89–10, title I, § 1411, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3592, related to eligibility, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6438"></a>
-## § 6438. Allocation of funds
+<a id="section-6439"></a>
+## § 6439. Allocation of funds
 **(a) Subgrants to State agencies**
 
 (1) **In general** — Each State agency described in [section 6431 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6431) (other than an agency in the Commonwealth of Puerto Rico) is eligible to receive a subgrant under this subpart, for each fiscal year, in an amount equal to the product of—
@@ -5078,8 +5126,8 @@ A prior section 6431, Pub. L. 89–10, title I, § 1411, as added Pub. L. 103–
 A prior section 6432, Pub. L. 89–10, title I, § 1412, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3592, related to allocation of funds, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6439"></a>
-## § 6439. State reallocation of funds
+<a id="section-6451"></a>
+## § 6451. State reallocation of funds
 
 If a State educational agency determines that a State agency does not need the full amount of the subgrant for which such State agency is eligible under this subpart for any fiscal year, the State educational agency may reallocate the amount that will not be needed to other eligible State agencies that need additional funds to carry out the purpose of this part, in such amounts as the State educational agency shall determine.
 
@@ -5089,8 +5137,8 @@ If a State educational agency determines that a State agency does not need the f
 A prior section 6433, Pub. L. 89–10, title I, § 1413, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3593, related to State reallocation of funds, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6451"></a>
-## § 6451. State plan and State agency applications
+<a id="section-6452"></a>
+## § 6452. State plan and State agency applications
 **(a) State plan**
 
 (1) **In general** — Each State educational agency that desires to receive a grant under this subpart shall submit, for approval by the Secretary, a plan—
@@ -5184,8 +5232,8 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 A prior section 6434, Pub. L. 89–10, title I, § 1414, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3593; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(18)(B), (f)(13)(B)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431, related to State plan and State agency applications, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6452"></a>
-## § 6452. Use of funds
+<a id="section-6453"></a>
+## § 6453. Use of funds
 **(a) Uses**
 
 (1) **In general** — A State agency shall use funds received under this subpart only for programs and projects that—
@@ -5218,8 +5266,8 @@ A prior section 6434, Pub. L. 89–10, title I, § 1414, as added Pub. L. 103–
 A prior section 6435, Pub. L. 89–10, title I, § 1415, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3596, related to use of funds, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6453"></a>
-## § 6453. Institution-wide projects
+<a id="section-6454"></a>
+## § 6454. Institution-wide projects
 
 A State agency that provides free public education for children and youth in an institution for neglected or delinquent children and youth (other than an adult correctional institution) or attending a community-day program for such children and youth may use funds received under this subpart to serve all children in, and upgrade the entire educational effort of, that institution or program if the State agency has developed, and the State educational agency has approved, a comprehensive plan for that institution or program that—
 
@@ -5245,8 +5293,8 @@ A State agency that provides free public education for children and youth in an 
 A prior section 6436, Pub. L. 89–10, title I, § 1416, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3596, related to institution-wide projects, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6454"></a>
-## § 6454. Three-year programs or projects
+<a id="section-6455"></a>
+## § 6455. Three-year programs or projects
 
 If a State agency operates a program or project under this subpart in which individual children or youth are likely to participate for more than 1 year, the State educational agency may approve the State agency’s application for a subgrant under this subpart for a period of not more than 3 years.
 
@@ -5256,8 +5304,8 @@ If a State agency operates a program or project under this subpart in which indi
 A prior section 6437, Pub. L. 89–10, title I, § 1417, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3597, related to three-year programs and projects, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6455"></a>
-## § 6455. Transition services
+<a id="section-6456"></a>
+## § 6456. Transition services
 **(a) Transition services** Each State agency shall reserve not less than 15 percent and not more than 30 percent of the amount such agency receives under this subpart for any fiscal year to support—
 
 (1) projects that facilitate the transition of children and youth from State-operated institutions to schools served by local educational agencies; or
@@ -5290,8 +5338,8 @@ A prior section 6437, Pub. L. 89–10, title I, § 1417, as added Pub. L. 103–
 A prior section 6438, Pub. L. 89–10, title I, § 1418, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3597, related to transition services, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6456"></a>
-## § 6456. Evaluation; technical assistance; annual model program
+<a id="section-6471"></a>
+## § 6471. Evaluation; technical assistance; annual model program
 
 The Secretary may reserve not more than 2.5 percent of the amount made available to carry out this subpart for a fiscal year—
 
@@ -5300,8 +5348,8 @@ The Secretary may reserve not more than 2.5 percent of the amount made available
 (2) to provide technical assistance to and support the capacity building of State agency programs assisted under this subpart.
 
 
-<a id="section-6471"></a>
-## § 6471. Purpose
+<a id="section-6472"></a>
+## § 6472. Purpose
 
 The purpose of this subpart is to support the operation of local educational agency programs that involve collaboration with locally operated correctional facilities—
 
@@ -5317,24 +5365,29 @@ The purpose of this subpart is to support the operation of local educational age
 A prior section 6451, Pub. L. 89–10, title I, § 1421, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3597, related to purpose of subpart, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6472"></a>
-## § 6472. Programs operated by local educational agencies
-**(a) Local subgrants** With funds made available under [section 6422(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6422/b&num=0&edition=prelim), the State educational agency shall award subgrants to local educational agencies with high numbers or percentages of children and youth residing in locally operated (including county operated) correctional facilities for children and youth (including facilities involved in community day programs).
+<a id="section-6491"></a>
+## § 6491. Uses of funds
 
-**(b) Special rule** A local educational agency that serves a school operated by a correctional facility is not required to operate a program of support for children and youth returning from such school to a school that is not operated by a correctional agency but served by such local educational agency, if more than 30 percent of the children and youth attending the school operated by the correctional facility will reside outside the boundaries served by the local educational agency after leaving such facility.
+Funds provided to local educational agencies under this subpart may be used, as appropriate, for—
 
-**(c) Notification** A State educational agency shall notify local educational agencies within the State of the eligibility of such agencies to receive a subgrant under this subpart.
+(1) programs that serve children and youth returning to local schools from correctional facilities, to assist in the transition of such children and youth to the school environment and help them remain in school in order to complete their education;
 
-**(d) Transitional and academic services** Transitional and supportive programs operated in local educational agencies under this subpart shall be designed primarily to meet the transitional and academic needs of students returning to local educational agencies or alternative education programs from correctional facilities. Services to students at-risk of dropping out of school shall not have a negative impact on meeting the transitional and academic needs of the students returning from correctional facilities.
+(2) dropout prevention programs which serve at-risk children and youth, including pregnant and parenting teens, children and youth who have come in contact with the juvenile justice system, children and youth at least 1 year behind their expected grade level, migrant youth, immigrant youth, students with limited English proficiency, and gang members;
+
+(3) the coordination of health and social services for such individuals if there is a likelihood that the provision of such services, including day care, drug and alcohol counseling, and mental health services, will improve the likelihood such individuals will complete their education;
+
+(4) special programs to meet the unique academic needs of participating children and youth, including vocational and technical education, special education, career counseling, curriculum-based youth entrepreneurship education, and assistance in securing student loans or grants for postsecondary education; and
+
+(5) programs providing mentoring and peer mediation.
 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 6452, Pub. L. 89–10, title I, § 1422, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3598, related to programs operated by local educational agencies, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6454, Pub. L. 89–10, title I, § 1424, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3599, related to uses of funds, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6491"></a>
-## § 6491. Program requirements for correctional facilities receiving funds under this section
+<a id="section-6492"></a>
+## § 6492. Program requirements for correctional facilities receiving funds under this section
 
 Each correctional facility entering into an agreement with a local educational agency under [section 6453(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6453/2&num=0&edition=prelim) to provide services to children and youth under this subpart shall—
 
@@ -5362,6 +5415,9 @@ Each correctional facility entering into an agreement with a local educational a
 
 ### Statutory Notes
 
+#### Amendment of Paragraph (9)
+Pub. L. 113–128, title V, §§ 506, 512(i)(4), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (9) of this section is amended by striking “coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of Public Law 105–220,” and inserting “coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act,”. See 2014 Amendment note below.
+
 #### References in Text
 The Individuals with Disabilities Education Act, referred to in par. (1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
@@ -5372,9 +5428,15 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par.
 #### Prior Provisions
 A prior section 6455, Pub. L. 89–10, title I, § 1425, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3599; amended Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(18)(D), (f)(13)(D)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431, related to program requirements for correctional facilities receiving funds, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
+#### Amendments
+2014—Par. (9). Pub. L. 113–128 substituted “coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act,” for “coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of Public Law 105–220,”.
 
-<a id="section-6492"></a>
-## § 6492. Accountability
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+
+
+<a id="section-6493"></a>
+## § 6493. Accountability
 
 The State educational agency may—
 
@@ -5388,8 +5450,8 @@ The State educational agency may—
 A prior section 6456, Pub. L. 89–10, title I, § 1426, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3600, related to accountability, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6493"></a>
-## § 6493. Program evaluations
+<a id="section-6494"></a>
+## § 6494. Program evaluations
 **(a) Scope of evaluation** Each State agency or local educational agency that conducts a program under subpart 1 or 2 of this part shall evaluate the program, disaggregating data on participation by gender, race, ethnicity, and age, not less than once every 3 years, to determine the program’s impact on the ability of participants—
 
 (1) to maintain and improve educational achievement;
@@ -5420,8 +5482,8 @@ A prior section 6471, Pub. L. 89–10, title I, § 1431, as added Pub. L. 103–
 A prior section 1431 of Pub. L. 89–10 was classified to [section 2831 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2831&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6494"></a>
-## § 6494. Definitions
+<a id="section-6511"></a>
+## § 6511. Definitions
 
 In this part:
 
@@ -5445,8 +5507,8 @@ A prior section 6472, Pub. L. 89–10, title I, § 1432, as added Pub. L. 103–
 A prior section 1432 of Pub. L. 89–10 was classified to [section 2832 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2832&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6511"></a>
-## § 6511. Evaluations
+<a id="section-6512"></a>
+## § 6512. Evaluations
 **(a) National assessment of subchapter I**
 
 (1) **In general** — The Secretary shall conduct a national assessment of the programs assisted under this subchapter and the impact of this subchapter on States, local educational agencies, schools, and students.
@@ -5625,8 +5687,8 @@ A prior section 1501 of Pub. L. 89–10 was classified to [section 2911 of this 
 2002—Subsec. (a)(3). Pub. L. 107–279 substituted “[section 9622 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9622)” for “[section 9010 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9010&num=0&edition=prelim)”.
 
 
-<a id="section-6512"></a>
-## § 6512. Demonstrations of innovative practices
+<a id="section-6513"></a>
+## § 6513. Demonstrations of innovative practices
 **(a) In general** From the funds appropriated for any fiscal year under [section 6302(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6302/e/1&num=0&edition=prelim), the Secretary may award grants to State educational agencies, local educational agencies, other public agencies, nonprofit organizations, public or private partnerships involving business and industry organizations, and consortia of such entities to carry out demonstration projects that show the most promise of enabling children served under this subchapter to meet challenging State academic content standards and challenging State student academic achievement standards.
 
 **(b) Evaluation** The Secretary shall evaluate the demonstration projects supported under this subchapter, using rigorous methodological designs and techniques, including control groups and random assignment, to the extent feasible, to produce reliable evidence of effectiveness.
@@ -5641,8 +5703,8 @@ A prior section 6492, Pub. L. 89–10, title I, § 1502, as added Pub. L. 103–
 A prior section 1502 of Pub. L. 89–10 was classified to [section 2912 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2912&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 
-<a id="section-6513"></a>
-## § 6513. Assessment evaluation
+<a id="section-6514"></a>
+## § 6514. Assessment evaluation
 **(a) In general** The Secretary shall conduct an independent study of assessments used for State accountability purposes and for making decisions about the promotion and graduation of students. Such research shall be conducted over a period not to exceed 5 years and shall address the components described in subsection (d) of this section.
 
 **(b) Contract authorized** The Secretary is authorized to award a contract, through a peer review process, to an organization or entity capable of conducting rigorous, independent research. The Assistant Secretary of Educational Research and Improvement shall appoint peer reviewers to evaluate the applications for this contract.
@@ -5689,8 +5751,8 @@ A prior section 1502 of Pub. L. 89–10 was classified to [section 2912 of this 
 A prior section 6493, Pub. L. 89–10, title I, § 1503, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3605, related to innovative elementary school transition projects, prior to repeal by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 301(c)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410.
 
 
-<a id="section-6514"></a>
-## § 6514. Close Up fellowship program
+<a id="section-6515"></a>
+## § 6515. Close Up fellowship program
 **(a) Program for middle school and secondary school students**
 
 (1) **Establishment**
@@ -5789,8 +5851,8 @@ A prior section 6493, Pub. L. 89–10, title I, § 1503, as added Pub. L. 103–
 Part G of title X before January 8, 2002, referred to in subsec. (d)(2), means part G of title X of Pub. L. 89–10, as added by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3841, which was classified generally to part G (§ 8161 et seq.) of subchapter X of this chapter, prior to repeal by Pub. L. 107–110, title X, § 1011(5)(A), Jan. 8, 2002, 115 Stat. 1986.
 
 
-<a id="section-6515"></a>
-## § 6515. Purpose
+<a id="section-6516"></a>
+## § 6516. Purpose
 
 The purpose of this part is to provide financial incentives for schools to develop comprehensive school reforms, based upon scientifically based research and effective practices that include an emphasis on basic academics and parental involvement so that all children can meet challenging State academic content and academic achievement standards.
 
@@ -5800,8 +5862,8 @@ The purpose of this part is to provide financial incentives for schools to devel
 A prior section 6511, Pub. L. 89–10, title I, § 1601, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3609, related to Federal regulations, prior to the general amendment of this subchapter by Pub. L. 107–110. See [section 6571 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6571).
 
 
-<a id="section-6516"></a>
-## § 6516. Program authorization
+<a id="section-6517"></a>
+## § 6517. Program authorization
 **(a) 11 So in original. No subsec. (b) has been enacted. Program authorized**
 
 (1) **In general** — The Secretary is authorized to award grants to State educational agencies, from allotments under paragraph (2), to enable the State educational agencies to award subgrants to local educational agencies to carry out the purpose described in [section 6511 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6511).
@@ -5826,8 +5888,8 @@ A prior section 6511, Pub. L. 89–10, title I, § 1601, as added Pub. L. 103–
 A prior section 6512, Pub. L. 89–10, title I, § 1602, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3610, related to coordination of Federal, State, and local administration, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 
-<a id="section-6517"></a>
-## § 6517. State applications
+<a id="section-6518"></a>
+## § 6518. State applications
 **(a) In general** Each State educational agency that desires to receive a grant under this part shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
 
 **(b) Contents** Each such application shall describe—
@@ -5854,8 +5916,8 @@ A prior section 6512, Pub. L. 89–10, title I, § 1602, as added Pub. L. 103–
 A prior section 6513, Pub. L. 89–10, title I, § 1603, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3611, related to State administration, prior to the general amendment of this subchapter by Pub. L. 107–110. See [section 6573 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6573).
 
 
-<a id="section-6518"></a>
-## § 6518. State use of funds
+<a id="section-6531"></a>
+## § 6531. State use of funds
 **(a) In general** Except as provided in subsection (e) of this section, a State educational agency that receives a grant under this part shall use the grant funds to award subgrants, on a competitive basis, to local educational agencies or consortia of local educational agencies in the State that receive funds under part A of this subchapter, to support comprehensive school reforms in schools that are eligible for funds under part A of this subchapter.
 
 **(b) Subgrant requirements** A subgrant to a local educational agency or consortium shall be—
@@ -5890,8 +5952,8 @@ A prior section 6513, Pub. L. 89–10, title I, § 1603, as added Pub. L. 103–
 A prior section 6514, Pub. L. 89–10, title I, § 1604, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3612, related to construction of provisions, prior to the general amendment of this subchapter by Pub. L. 107–110. See [section 6576 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6576).
 
 
-<a id="section-6531"></a>
-## § 6531. Local applications
+<a id="section-6532"></a>
+## § 6532. Local applications
 **(a) In general** Each local educational agency or consortium of local educational agencies desiring a subgrant under this part shall submit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may reasonably require.
 
 **(b) Contents** Each such application shall—
@@ -5905,8 +5967,8 @@ A prior section 6514, Pub. L. 89–10, title I, § 1604, as added Pub. L. 103–
 (4) describe how the local educational agency or consortium will evaluate the implementation of such comprehensive school reforms and measure the results achieved in improving student academic achievement.
 
 
-<a id="section-6532"></a>
-## § 6532. Local use of funds
+<a id="section-6533"></a>
+## § 6533. Local use of funds
 **(a) Uses of funds** A local educational agency or consortium that receives a subgrant under this part shall provide the subgrant funds to schools that are eligible for assistance under part A of this subchapter and served by the agency, to enable the schools to implement a comprehensive school reform program that—
 
 (1) employs proven strategies and proven methods for student learning, teaching, and school management that are based on scientifically based research and effective practices and have been replicated successfully in schools;
@@ -5938,8 +6000,8 @@ A prior section 6514, Pub. L. 89–10, title I, § 1604, as added Pub. L. 103–
 **(b) Special rule** A school that receives funds to develop a comprehensive school reform program shall not be limited to using nationally available approaches, but may develop the school’s own comprehensive school reform program for schoolwide change as described in subsection (a) of this section.
 
 
-<a id="section-6533"></a>
-## § 6533. Evaluation and reports
+<a id="section-6534"></a>
+## § 6534. Evaluation and reports
 **(a) In general** The Secretary shall develop a plan for a national evaluation of the programs assisted under this part.
 
 **(b) Evaluation** The national evaluation shall—
@@ -5951,8 +6013,8 @@ A prior section 6514, Pub. L. 89–10, title I, § 1604, as added Pub. L. 103–
 **(c) Reports** The Secretary shall submit a report describing the results of the evaluation under subsection (b) of this section for the Comprehensive School Reform Program to the Committee on Education and the Workforce, and the Committee on Appropriations of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate.
 
 
-<a id="section-6534"></a>
-## § 6534. Quality initiatives
+<a id="section-6535"></a>
+## § 6535. Quality initiatives
 
 The Secretary, through grants or contracts, shall provide funds for—
 
@@ -5961,14 +6023,14 @@ The Secretary, through grants or contracts, shall provide funds for—
 (2) activities to foster the development of comprehensive school reform models and to provide effective capacity building for comprehensive school reform providers to expand their work in more schools, assure quality, and promote financial stability.
 
 
-<a id="section-6535"></a>
-## § 6535. Short title
+<a id="section-6536"></a>
+## § 6536. Short title
 
 This part may be cited as the “Access to High Standards Act”.
 
 
-<a id="section-6536"></a>
-## § 6536. Purposes
+<a id="section-6537"></a>
+## § 6537. Purposes
 
 The purposes of this part are—
 
@@ -5991,20 +6053,59 @@ The purposes of this part are—
 (9) to increase the number of individuals that achieve a baccalaureate or advanced degree, and to decrease the amount of time such individuals require to attain such degrees.
 
 
-<a id="section-6537"></a>
-## § 6537. Funding distribution rule
-
-From amounts appropriated under [section 6302(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6302/g&num=0&edition=prelim) for a fiscal year, the Secretary shall give priority to funding activities under [section 6534 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6534) and shall distribute any remaining funds under [section 6535 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6535).
-
-
 <a id="section-6551"></a>
-## § 6551. State reservation
+## § 6551. Applications
+**(a) In general** To receive—
+
+(1) a grant under this subpart, a State educational agency or local educational agency shall submit an application and plan to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require; and
+
+(2) a subgrant under this subpart, a local educational agency shall submit an application and plan to the State educational agency at such time, in such manner, and accompanied by such information as the State educational agency may reasonably require.
+
+**(b) Contents**
+
+(1) **State educational agency and local educational agency** — Each application and plan submitted under subsection (a) of this section shall—
+
+  (A) include an outline—
+
+    (i) of the State educational agency’s or local educational agency’s strategy for reducing the State educational agency or local educational agency’s annual school dropout rate;
+
+    (ii) for targeting secondary schools, and the middle schools that feed students into those secondary schools, that have the highest annual school dropout rates; and
+
+    (iii) for assessing the effectiveness of the efforts described in the plan;
+
+  (B) contain an identification of the schools in the State or operated by the local educational agency that have annual school dropout rates that are greater than the average annual school dropout rate for the State;
+
+  (C) describe the instructional strategies to be implemented, how the strategies will serve all students, and the effectiveness of the strategies;
+
+  (D) describe a budget and timeline for implementing the strategies;
+
+  (E) contain evidence of coordination with existing resources;
+
+  (F) provide an assurance that funds provided under this subpart will supplement, and not supplant, other State and local funds available for school dropout prevention and reentry programs; and
+
+  (G) describe how the activities to be assisted conform with research knowledge about school dropout prevention and reentry.
+
+(2) **Local educational agency** — Each application and plan submitted under subsection (a) of this section by a local educational agency shall contain, in addition to the requirements of paragraph (1)—
+
+  (A) an assurance that the local educational agency is committed to providing ongoing operational support for such schools to address the problem of school dropouts for a period of 5 years; and
+
+  (B) an assurance that the local educational agency will support the plan, including—
+
+    (i) provision of release time for teacher training;
+
+    (ii) efforts to coordinate activities for secondary schools and the middle schools that feed students into those secondary schools; and
+
+    (iii) encouraging other schools served by the local educational agency to participate in the plan.
+
+
+<a id="section-6552"></a>
+## § 6552. State reservation
 
 A State educational agency that receives a grant under paragraph (2) or (3) of [section 6561a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6561a/a&num=0&edition=prelim) may reserve not more than 5 percent of the grant funds for administrative costs and State activities related to school dropout prevention and reentry activities, of which not more than 2 percent of the grant funds may be used for administrative costs.
 
 
-<a id="section-6552"></a>
-## § 6552. Strategies and capacity building
+<a id="section-6553"></a>
+## § 6553. Strategies and capacity building
 
 Each local educational agency receiving a grant or subgrant under this subpart and each State educational agency receiving a grant under this subpart shall implement scientifically based, sustainable, and widely replicated strategies for school dropout prevention and reentry. The strategies may include—
 
@@ -6019,23 +6120,14 @@ Each local educational agency receiving a grant or subgrant under this subpart a
 (2) approaches such as breaking larger schools down into smaller learning communities and other comprehensive reform approaches, creating alternative school programs, and developing clear linkages to career skills and employment.
 
 
-<a id="section-6553"></a>
-## § 6553. Selection of local educational agencies for subgrants
-**(a) State educational agency review and award** The State educational agency shall review applications submitted under [section 6561b(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6561b/a/2&num=0&edition=prelim) and award subgrants to local educational agencies with the assistance and advice of a panel of experts on school dropout prevention and reentry.
-
-**(b) Eligibility** A local educational agency is eligible to receive a subgrant under this subpart if the local educational agency operates a public school (including a public alternative school)—
-
-(1) that is eligible to receive assistance under part A of this subchapter; and
-
-(2)
-
-  (A) that serves students 50 percent or more of whom are low-income students; or
-
-  (B) in which a majority of the students come from feeder schools that serve students 50 percent or more of whom are low-income students.
-
-
 <a id="section-6555"></a>
-## § 6555. Advanced placement test fee program
+## § 6555. Funding distribution rule
+
+From amounts appropriated under [section 6302(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6302/g&num=0&edition=prelim) for a fiscal year, the Secretary shall give priority to funding activities under [section 6534 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6534) and shall distribute any remaining funds under [section 6535 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6535).
+
+
+<a id="section-6561"></a>
+## § 6561. Advanced placement test fee program
 **(a) Grants authorized** From amounts made available under [section 6533 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6533) for a fiscal year, the Secretary shall award grants to State educational agencies having applications approved under this section to enable the State educational agencies to reimburse low-income individuals to cover part or all of the costs of advanced placement test fees, if the low-income individuals—
 
 (1) are enrolled in an advanced placement course; and
@@ -6078,8 +6170,8 @@ Each local educational agency receiving a grant or subgrant under this subpart a
 The Higher Education Act of 1965, referred to in subsec. (d)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Chapter 1 of subpart 2 of part A of title IV of the Act is classified generally to division 1 (§ 1070a–11 et seq.) of subpart 2 of part A of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
 
 
-<a id="section-6561"></a>
-## § 6561. Advanced placement incentive program grants
+<a id="section-6561a"></a>
+## § 6561a. Advanced placement incentive program grants
 **(a) Grants authorized**
 
 (1) **In general** — From amounts made available under [section 6533 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6533) for a fiscal year, the Secretary shall award grants, on a competitive basis, to eligible entities to enable those entities to carry out the authorized activities described in subsection (d) of this section.
@@ -6149,14 +6241,14 @@ The Higher Education Act of 1965, referred to in subsec. (d)(3), is Pub. L. 89�
 (2) **Report** — The Secretary shall annually compile the information received from each eligible entity under paragraph (1) and report to the appropriate committees of Congress regarding the information.
 
 
-<a id="section-6561a"></a>
-## § 6561a. Supplement, not supplant
+<a id="section-6561b"></a>
+## § 6561b. Supplement, not supplant
 
 Grant funds provided under this part shall supplement, and not supplant, other non-Federal funds that are available to assist low-income individuals to pay for the cost of advanced placement test fees or to expand access to advanced placement and pre-advanced placement courses.
 
 
-<a id="section-6561b"></a>
-## § 6561b. Definitions
+<a id="section-6561c"></a>
+## § 6561c. Definitions
 
 In this part:
 
@@ -6177,14 +6269,14 @@ The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531,
 2003—Par. (3). Pub. L. 108–11 substituted “19” for “17”.
 
 
-<a id="section-6561c"></a>
-## § 6561c. Short title
+<a id="section-6561d"></a>
+## § 6561d. Short title
 
 This part may be cited as the “Dropout Prevention Act”.
 
 
-<a id="section-6561d"></a>
-## § 6561d. Purpose
+<a id="section-6561e"></a>
+## § 6561e. Purpose
 
 The purpose of this part is to provide for school dropout prevention and reentry and to raise academic achievement levels by providing grants that—
 
@@ -6193,8 +6285,8 @@ The purpose of this part is to provide for school dropout prevention and reentry
 (2) ensure that all students have substantial and ongoing opportunities to attain their highest academic potential through schoolwide programs proven effective in school dropout prevention and reentry.
 
 
-<a id="section-6561e"></a>
-## § 6561e. Authorization of appropriations
+<a id="section-6561f"></a>
+## § 6561f. Authorization of appropriations
 
 For the purpose of carrying out this part, there are authorized to be appropriated $125,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years, of which—
 
@@ -6203,8 +6295,8 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 (2) 90 percent shall be available to carry out subpart 2 of this part for each fiscal year.
 
 
-<a id="section-6561f"></a>
-## § 6561f. National activities
+<a id="section-6561g"></a>
+## § 6561g. National activities
 **(a) In general** The Secretary is authorized—
 
 (1) to collect systematic data on the effectiveness of the programs assisted under this part in reducing school dropout rates and increasing school reentry and secondary school graduation rates;
@@ -6274,8 +6366,8 @@ For the purpose of carrying out this part, there are authorized to be appropriat
   (B) developed and published a specific educational program or design related to school dropout prevention or reentry for use by the schools.
 
 
-<a id="section-6561g"></a>
-## § 6561g. Definitions
+<a id="section-6561h"></a>
+## § 6561h. Definitions
 
 In this subpart:
 
@@ -6284,8 +6376,8 @@ In this subpart:
 (2) **State** — The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Bureau of Indian Affairs for purposes of serving schools funded by the Bureau.
 
 
-<a id="section-6561h"></a>
-## § 6561h. Program authorized
+<a id="section-6561i"></a>
+## § 6561i. Program authorized
 **(a) Grants to State educational agencies and local educational agencies**
 
 (1) **Amount less than $75,000,000**
@@ -6365,71 +6457,41 @@ In this subpart:
 (3) **Duration** — A subgrant under this subpart shall be awarded for a period of 3 years, and may be continued for a period of 2 additional years if the State educational agency determines, based on the annual reports described in [section 6561i(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6561i/a&num=0&edition=prelim), that significant progress has been made in lowering the annual school dropout rate for secondary schools participating in the program assisted under this subpart.
 
 
-<a id="section-6561i"></a>
-## § 6561i. Applications
-**(a) In general** To receive—
-
-(1) a grant under this subpart, a State educational agency or local educational agency shall submit an application and plan to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require; and
-
-(2) a subgrant under this subpart, a local educational agency shall submit an application and plan to the State educational agency at such time, in such manner, and accompanied by such information as the State educational agency may reasonably require.
-
-**(b) Contents**
-
-(1) **State educational agency and local educational agency** — Each application and plan submitted under subsection (a) of this section shall—
-
-  (A) include an outline—
-
-    (i) of the State educational agency’s or local educational agency’s strategy for reducing the State educational agency or local educational agency’s annual school dropout rate;
-
-    (ii) for targeting secondary schools, and the middle schools that feed students into those secondary schools, that have the highest annual school dropout rates; and
-
-    (iii) for assessing the effectiveness of the efforts described in the plan;
-
-  (B) contain an identification of the schools in the State or operated by the local educational agency that have annual school dropout rates that are greater than the average annual school dropout rate for the State;
-
-  (C) describe the instructional strategies to be implemented, how the strategies will serve all students, and the effectiveness of the strategies;
-
-  (D) describe a budget and timeline for implementing the strategies;
-
-  (E) contain evidence of coordination with existing resources;
-
-  (F) provide an assurance that funds provided under this subpart will supplement, and not supplant, other State and local funds available for school dropout prevention and reentry programs; and
-
-  (G) describe how the activities to be assisted conform with research knowledge about school dropout prevention and reentry.
-
-(2) **Local educational agency** — Each application and plan submitted under subsection (a) of this section by a local educational agency shall contain, in addition to the requirements of paragraph (1)—
-
-  (A) an assurance that the local educational agency is committed to providing ongoing operational support for such schools to address the problem of school dropouts for a period of 5 years; and
-
-  (B) an assurance that the local educational agency will support the plan, including—
-
-    (i) provision of release time for teacher training;
-
-    (ii) efforts to coordinate activities for secondary schools and the middle schools that feed students into those secondary schools; and
-
-    (iii) encouraging other schools served by the local educational agency to participate in the plan.
-
-
 <a id="section-6571"></a>
-## § 6571. Community based organizations
+## § 6571. Selection of local educational agencies for subgrants
+**(a) State educational agency review and award** The State educational agency shall review applications submitted under [section 6561b(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6561b/a/2&num=0&edition=prelim) and award subgrants to local educational agencies with the assistance and advice of a panel of experts on school dropout prevention and reentry.
+
+**(b) Eligibility** A local educational agency is eligible to receive a subgrant under this subpart if the local educational agency operates a public school (including a public alternative school)—
+
+(1) that is eligible to receive assistance under part A of this subchapter; and
+
+(2)
+
+  (A) that serves students 50 percent or more of whom are low-income students; or
+
+  (B) in which a majority of the students come from feeder schools that serve students 50 percent or more of whom are low-income students.
+
+
+<a id="section-6572"></a>
+## § 6572. Community based organizations
 
 A local educational agency that receives a grant or subgrant under this subpart and a State educational agency that receives a grant under this subpart may use the funds to secure necessary services from a community-based organization or other government agency if the funds are used to provide school dropout prevention and reentry activities related to schoolwide efforts.
 
 
-<a id="section-6572"></a>
-## § 6572. Technical assistance
+<a id="section-6573"></a>
+## § 6573. Technical assistance
 
 Notwithstanding any other provision of law, each local educational agency that receives funds under this subpart shall use the funds to provide technical assistance to secondary schools served by the agency that have not made progress toward lowering annual school dropout rates after receiving assistance under this subpart for 2 fiscal years.
 
 
-<a id="section-6573"></a>
-## § 6573. School dropout rate calculation
+<a id="section-6574"></a>
+## § 6574. School dropout rate calculation
 
 For purposes of calculating an annual school dropout rate under this subpart, a school shall use the annual event school dropout rate for students leaving a school in a single year determined in accordance with the National Center for Education Statistics’ Common Core of Data.
 
 
-<a id="section-6574"></a>
-## § 6574. Reporting and accountability
+<a id="section-6575"></a>
+## § 6575. Reporting and accountability
 **(a) Local educational agency reports**
 
 (1) **In general** — To receive funds under this subpart for a fiscal year after the first fiscal year that a local educational agency receives funds under this subpart, the local educational agency shall provide, on an annual basis, a report regarding the status of the implementation of activities funded under this subpart, and the dropout data for students at schools assisted under this subpart, disaggregated by race and ethnicity, to the—
@@ -6445,8 +6507,8 @@ For purposes of calculating an annual school dropout rate under this subpart, a 
 **(c) Accountability** The Secretary shall evaluate the effect of the activities assisted under this subpart on school dropout prevention compared, if feasible, to a control group using control procedures. The Secretary may use funds appropriated for subpart 1 of this part to carry out this evaluation.
 
 
-<a id="section-6575"></a>
-## § 6575. Federal regulations
+<a id="section-6576"></a>
+## § 6576. Federal regulations
 **(a) In general** The Secretary may issue such regulations as are necessary to reasonably ensure that there is compliance with this subchapter.
 
 **(b) Negotiated rulemaking process**
@@ -6481,15 +6543,15 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(4)(B), is Pub. L.
 The Negotiated Rulemaking Act of 1990, referred to in subsec. (b)(4)(B), is Pub. L. 101–648, Nov. 29, 1990, 104 Stat. 4969, as amended, which enacted subchapter III (§ 561 et seq.) of chapter 5 of Title 5, Government Organization and Employees, and provisions set out as notes under [section 561 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section561&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 561 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section561&num=0&edition=prelim) and Tables.
 
 
-<a id="section-6576"></a>
-## § 6576. Agreements and records
+<a id="section-6577"></a>
+## § 6577. Agreements and records
 **(a) Agreements** All published proposed regulations shall conform to agreements that result from negotiated rulemaking described in [section 6571 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6571) unless the Secretary reopens the negotiated rulemaking process or provides a written explanation to the participants involved in the process explaining why the Secretary decided to depart from, and not adhere to, such agreements.
 
 **(b) Records** The Secretary shall ensure that an accurate and reliable record of agreements reached during the negotiations process is maintained.
 
 
-<a id="section-6577"></a>
-## § 6577. State administration
+<a id="section-6578"></a>
+## § 6578. State administration
 **(a) Rulemaking**
 
 (1) **In general** — Each State that receives funds under this subchapter shall—
@@ -6525,17 +6587,6 @@ The Negotiated Rulemaking Act of 1990, referred to in subsec. (b)(4)(B), is Pub.
   (G) pupil services personnel.
 
 (3) **Duties** — The duties of such committee shall include a review, before publication, of any proposed or final State rule or regulation pursuant to this subchapter. In an emergency situation where such rule or regulation must be issued within a very limited time to assist local educational agencies with the operation of the program under this subchapter, the State educational agency may issue a regulation without prior consultation, but shall immediately thereafter convene the State committee of practitioners to review the emergency regulation before issuance in final form.
-
-
-<a id="section-6578"></a>
-## § 6578. Local educational agency spending audits
-**(a) Audits** The Comptroller General of the United States shall conduct audits of not less than 6 local educational agencies that receive funds under part A of this subchapter in each fiscal year to determine more clearly and specifically how local educational agencies are expending such funds. Such audits—
-
-(1) shall be conducted in 6 local educational agencies that represent the size, ethnic, economic, and geographic diversity of local educational agencies; and
-
-(2) shall examine the extent to which funds have been expended for academic instruction in the core curriculum and activities unrelated to academic instruction in the core curriculum, such as the payment of janitorial, utility, and other maintenance services, the purchase and lease of vehicles, and the payment for travel and attendance costs at conferences.
-
-**(b) Report** Not later than 3 months after the completion of the audits under subsection (a) of this section each year, the Comptroller General of the United States shall submit a report on each audit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate.
 
 
 <a id="section-6601"></a>
@@ -6684,7 +6735,7 @@ Section 6650, Pub. L. 89–10, title II, § 2210, as added Pub. L. 103–382, ti
 
       (II) another public or private entity that provides such professional development;
 
-    (ii) one or more public agencies ( 11 So in original. There is no closing parenthesis. including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9858&num=0&edition=prelim) et seq.), Head Start agencies, or private organizations; and
+    (ii) one or more public agencies ( 11 So in original. There is no closing parenthesis. including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development Block Grant Act of 1990 [[42 U.S.C. 9857](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857&num=0&edition=prelim) et seq.], Head Start agencies, or private organizations; and
 
     (iii) to the extent feasible, an entity with demonstrated experience in providing training to educators in early childhood education programs concerning identifying and preventing behavior problems or working with children identified as or suspected to be victims of abuse.
 
@@ -6851,7 +6902,7 @@ Section 6650, Pub. L. 89–10, title II, § 2210, as added Pub. L. 103–382, ti
 ### Statutory Notes
 
 #### References in Text
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (e)(2)(A)(ii), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§ 9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (e)(2)(A)(ii), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 9857(a) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857/a&num=0&edition=prelim) and Tables.
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(7), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -8329,7 +8380,7 @@ For the effective date of the No Child Left Behind Act of 2001, referred to in s
 
   (A) to maximize the utilization of quality educational programming by preschool and elementary school children, and make such programming widely available to federally funded programs serving such populations; and
 
-  (B) to coordinate activities with Federal programs that have major training components for early childhood development, including programs under the Head Start Act ([42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.) and Even Start, and State training activities funded under the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9858&num=0&edition=prelim) et seq.), regarding the availability and utilization of materials developed under paragraph (1)(E) to enhance parent and child care provider skills in early childhood development and education.
+  (B) to coordinate activities with Federal programs that have major training components for early childhood development, including programs under the Head Start Act ([42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.) and Even Start, and State training activities funded under the Child Care and Development Block Grant Act of 1990 [[42 U.S.C. 9857](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857&num=0&edition=prelim) et seq.], regarding the availability and utilization of materials developed under paragraph (1)(E) to enhance parent and child care provider skills in early childhood development and education.
 
 **(b) Applications** To be eligible to receive a grant, contract, or cooperative agreement under subsection (a) of this section, an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may reasonably require.
 
@@ -8364,7 +8415,7 @@ For the effective date of the No Child Left Behind Act of 2001, referred to in s
 #### References in Text
 The Head Start Act, referred to in subsec. (a)(4)(B), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (a)(4)(B), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§ 9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (a)(4)(B), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 9857(a) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857/a&num=0&edition=prelim) and Tables.
 
 
 <a id="section-6754"></a>
@@ -13509,6 +13560,9 @@ A local educational agency, or consortium of such agencies where appropriate, is
 #### References in Text
 The Civil Rights Act of 1964, referred to in par. (2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
+#### Prior Provisions
+A prior section 5404, which probably should have been section 5304, of Pub. L. 89–10 was classified to [section 7264 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7264&num=0&edition=prelim), prior to the general amendment of this subchapter by Pub. L. 107–110.
+
 
 <a id="section-7231d"></a>
 ## § 7231d. Applications and requirements
@@ -18434,7 +18488,7 @@ Congress finds the following:
 
   (D) the Native American Graves Protection and Repatriation Act ([25 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3001&num=0&edition=prelim) et seq.);
 
-  (E) the National Historic Preservation Act ([16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.);
+  (E) division A of subtitle III of title 54;
 
   (F) the Native American Languages Act ([25 U.S.C. 2901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2901&num=0&edition=prelim) et seq.);
 
@@ -18496,6 +18550,9 @@ Congress finds the following:
 
 ### Statutory Notes
 
+#### Amendment of Paragraph (13)(H)
+Pub. L. 113–128, title V, §§ 506, 512(i)(5), July 22, 2014, 128 Stat. 1703, 1709, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (13)(H) of this section is amended by striking “the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
+
 #### References in Text
 Public Law 103–150, referred to in par. (5), is Pub. L. 103–150, Nov. 23, 1993, 107 Stat. 1510, which is not classified to the Code.
 
@@ -18515,8 +18572,6 @@ The National Museum of the American Indian Act, referred to in par. (13)(C), is 
 
 The Native American Graves Protection and Repatriation Act, referred to in par. (13)(D), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3001&num=0&edition=prelim) and Tables.
 
-The National Historic Preservation Act, referred to in par. (13)(E), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see [section 470(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470/a&num=0&edition=prelim) and Tables.
-
 The Native American Languages Act, referred to in par. (13)(F), is title I of Pub. L. 101–477, Oct. 30, 1990, 104 Stat. 1153, which is classified generally to chapter 31 (§ 2901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2901&num=0&edition=prelim) and Tables.
 
 The American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act, referred to in par. (13)(G), is title XV of Pub. L. 99–498, Oct. 17, 1986, 100 Stat. 1600, which is classified generally to chapter 56 (§ 4401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4401 of this title](./chapter-056-american-indian-alaska-native-and-native-hawaiian-culture-and-art-development.md#section-4401) and Tables.
@@ -18531,7 +18586,14 @@ The Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Impro
 A prior section 7512, Pub. L. 89–10, title VII, § 7202, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3737, set forth findings of the Foreign Language Assistance Act of 1994, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 #### Amendments
+2014—Par. (13)(E). Pub. L. 113–287 substituted “division A of subtitle III of title 54” for “the National Historic Preservation Act ([16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.)”.
+
+Par. (13)(H). Pub. L. 113–128 substituted “the Workforce Innovation and Opportunity Act” for “the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
+
 2010—Par. (16)(E). Pub. L. 111–256 substituted “mild intellectual disabilities,” for “mild mental retardation,”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Definitions
 For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400).
@@ -19104,7 +19166,7 @@ then such agency shall be eligible to receive the amount described in subsection
 
 (2) **Application of current levied real property tax rate** — In calculating the amount that a local educational agency is eligible to receive for a fiscal year, the Secretary shall apply the current levied real property tax rate for current expenditures levied by fiscally independent local educational agencies, or imputed for fiscally dependent local educational agencies, to the current annually determined estimated taxable value of such acquired Federal property.
 
-(3) **Determination of taxable value for eligible federal property**
+(3) **Determination of taxable value for eligible Federal property**
 
   (A) *In general* — In determining the estimated taxable value of such acquired Federal property for fiscal year 2010 and each succeeding fiscal year, the Secretary shall—
 
@@ -19264,7 +19326,7 @@ Subsec. (b)(2). Pub. L. 112–239, § 563(b)(1)(B)(i), (c)(4), temporarily subst
 
 Subsec. (b)(3). Pub. L. 112–239, § 563(b)(1)(B)(ii), (c)(4), temporarily added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Such aggregate assessed value of such acquired Federal property shall be determined on the basis of the highest and best use of property adjacent to such acquired Federal property as of the time such value is determined, and provided to the Secretary, by the local official responsible for assessing the value of real property located in the jurisdiction of such local educational agency for the purpose of levying a property tax.” See Effective and Termination Dates of 2013 Amendment note below.
 
-Subsec. (h)(1). Pub. L. 112–239, § 563(b)(1)(C)(i), (c)(4), temporarily substituted “for pre-2010 recipients” for “for pre-1995 recipients” in heading, added pars. (A) and (B), and struck out former pars. (A) and (B) which which related to foundation payments for pre-1995 recipients. See Effective and Termination Dates of 2013 Amendment note below.
+Subsec. (h)(1). Pub. L. 112–239, § 563(b)(1)(C)(i), (c)(4), temporarily substituted “for pre-2010 recipients” for “for pre-1995 recipients” in heading, added pars. (A) and (B), and struck out former pars. (A) and (B) which related to foundation payments for pre-1995 recipients. See Effective and Termination Dates of 2013 Amendment note below.
 
 Subsec. (h)(2) to (4). Pub. L. 112–239, § 563(b)(1)(C)(ii), (c)(4), temporarily added pars. (2) to (4) and struck out former pars. (2) to (4) which related to payments for 1995 recipients, payments in accordance with subsection (i), and funds remaining after making payments, respectively. See Effective and Termination Dates of 2013 Amendment note below.
 
@@ -19333,10 +19395,13 @@ Subsec. (j). Pub. L. 105–78 added subsec. (j).
 Subsec. (i). Pub. L. 104–195, § 6, added subsec. (i).
 
 #### Effective and Termination Dates of 2013 Amendment
-Pub. L. 112–239, div. A, title V, § 563(c), Jan. 2, 2013, 126 Stat. 1748, provided that: “(1) In general.—The amendments made by subsection (b) [amending this section and sections 7703 and 7710 of this title] shall be effective for a 2-year period beginning on the date of enactment of this Act [Jan. 2, 2013]. “(2) Effective date.—Notwithstanding section 8005(d) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7705(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7705/d&num=0&edition=prelim)), subsection (b)(1) [amending this section], and the amendments made by subsection (b)(1), shall take effect with respect to applications submitted under section 8002 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7702](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7702)) for fiscal year 2010. “(3) Implementation.—The Secretary of Education shall carry out the amendments made by this section without regard to the rulemaking procedures under [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code. “(4) Repeal.—The amendments made by subsection (b) shall be repealed on the day after the 2-year period described in paragraph (1) and title VIII of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7701](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7701) et seq.) shall be applied as if such subsection and the amendments made by such subsection had never been enacted.”
+Pub. L. 112–239, div. A, title V, § 563(c), Jan. 2, 2013, 126 Stat. 1748, as amended by Pub. L. 113–291, div. A, title V, § 563, Dec. 19, 2014, 128 Stat. 3384, provided that: “(1) In general.—The amendments made by subsection (b) [amending this section and sections 7703 and 7710 of this title] (other than the amendment made by paragraph (3)(A) of such subsection) [amending [section 7710 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7710)] shall be effective for a 5-year period beginning on the date of enactment of this Act [Jan. 2, 2013]. “(2) Effective date.—Notwithstanding section 8005(d) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7705(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7705/d&num=0&edition=prelim)), subsection (b)(1) [amending this section], and the amendments made by subsection (b)(1), shall take effect with respect to applications submitted under section 8002 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7702](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7702)) for fiscal year 2010. “(3) Implementation.—The Secretary of Education shall carry out the amendments made by this section without regard to the rulemaking procedures under [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code. “(4) Repeal.—The amendments made by subsection (b) (other than the amendment made by paragraph (3)(A) of such subsection) shall be repealed on the day after the 5-year period described in paragraph (1) and title VIII of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7701](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7701) et seq.) shall be applied as if such subsection and the amendments made by such subsection (other than the amendment made by paragraph (3)(A) of such subsection) had never been enacted.”
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respect to appropriations for use under this subchapter for fiscal year 2002, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
+#### Consolidations
+Pub. L. 113–76, div. H, title III, § 309, Jan. 17, 2014, 128 Stat. 400, provided that: “(a) Consolidations.—For fiscal year 2006 and each succeeding fiscal year, if a local educational agency described in subsection (b) is formed at any time after 1938 by the consolidation of 2 or more former school districts, the local educational agency may elect to have the Secretary determine its eligibility for any fiscal year on the basis of 1 or more of those former districts, as designated by the local educational agency. “(b) Eligible Local Educational Agencies.—A local educational agency referred to in subsection (a) is—“(1) any local educational agency that, for fiscal year 1994 or any preceding fiscal year, applied, and was determined to be eligible under, section 2(c) of the Act of September 30, 1950 (Public Law 874, 81st Congress) [former [20 U.S.C. 237(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section237/c&num=0&edition=prelim)] as that section was in effect for that fiscal year; or “(2) a local educational agency formed by the consolidation of 2 or more districts, at least 1 of which was eligible for assistance under this section for the fiscal year preceding the year of the consolidation, if—“(A) for fiscal years 2006 through 2013 the local educational agency notified the Secretary not later than 30 days after the date of enactment of this Act [Jan. 17, 2014]; and “(B) for fiscal year 2014 the local educational agency includes the designation in its application under section 8005 [probably means section 8005 of Pub. L. 89–10, which is classified to [section 7705 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7705)] or any timely amendment to such application. “(c) Amount.—A local educational agency eligible under subsection (b) shall receive a foundation payment as provided for under subparagraphs (A) and (B) of subsection (h)(1) [probably means subsec. (h)(1)(A) and (B) of [section 7702 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7702)], as in effect on the date of enactment of this Act, except that the foundation payment shall be calculated based on the most recent payment received by the local educational agency based on its former common status.”
 
 
 <a id="section-7703"></a>
@@ -19796,7 +19861,7 @@ Pub. L. 104–106, § 1074(g), amended heading and text of par. (4) generally. P
 “(B) the most recent data available which is adjusted to such fiscal year.”
 
 #### Effective and Termination Dates of 2013 Amendment
-Amendment by Pub. L. 112–239 effective for a 2-year period beginning on Jan. 2, 2013, and repealed on the day after the 2-year period and this subchapter to be applied as if the amendment had never been enacted, see section 563(c) of Pub. L. 112–239 set out as a note under [section 7702 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7702).
+Amendment by Pub. L. 112–239 effective for a 5-year period beginning on Jan. 2, 2013, and repealed on the day after the 5-year period and this subchapter to be applied as if the amendment had never been enacted, see section 563(c) of Pub. L. 112–239, set out as a note under [section 7702 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7702).
 
 #### Effective Date of 2003 Amendment
 Pub. L. 108–136, div. A, title V, § 537(b), Nov. 24, 2003, 117 Stat. 1475, provided that: “The amendment made by subsection (a) [amending this section] shall take effect beginning with basic support payments under section 8003(b)(2) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7703(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2&num=0&edition=prelim)) for fiscal year 2003.”
@@ -20295,19 +20360,11 @@ Section, Pub. L. 89–10, title VIII, § 8006, as added Pub. L. 103–382, title
 
   (F) Such other information and assurances as the Secretary may reasonably require.
 
-(7) **Report**
-
-  (A) *In general* — Not later than January 1 of each year, the Secretary shall prepare and submit to the appropriate congressional committees a report that contains a justification for each grant awarded under this subsection for the prior fiscal year.
-
-  (B) *Definition* — In this paragraph, the term “appropriate congressional committees” means—
-
-    (i) the Committee on Appropriations and the Committee on Education and the Workforce of the House of Representatives; and
-
-    (ii) the Committee on Appropriations and the Committee on Health, Education, Labor, and Pensions of the Senate.
-
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b)(7). Pub. L. 113–188 struck out par. (7) which required annual reports containing justifications for each grant awarded under subsec. (b) for the prior fiscal year.
+
 2002—Subsec. (b). Pub. L. 107–110 amended heading and text generally, reorganizing and revising provisions relating to emergency and modernization grants.
 
 2000—Pub. L. 106–398 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) authorizing payments to certain local educational agencies for construction.
@@ -20473,7 +20530,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respec
 For termination of amendment by section 563(c) of Pub. L. 112–239, see Effective and Termination Dates of 2013 Amendment note below.
 
 #### Amendments
-2013—Subsec. (c)(1). Pub. L. 112–239, § 563(b)(3)(A), (c)(4), temporarily substituted “paragraph (2)” for “paragraph (3) of this subsection” in subpars. (A) and (B). See Effective and Termination Dates of 2013 Amendment note below.
+2013—Subsec. (c)(1). Pub. L. 112–239, § 563(b)(3)(A), substituted “paragraph (2)” for “paragraph (3) of this subsection” in subpars. (A) and (B).
 
 Subsec. (d). Pub. L. 112–239, § 563(b)(3)(B), (c)(4), temporarily added subsec. (d). See Effective and Termination Dates of 2013 Amendment note below.
 
@@ -20488,7 +20545,7 @@ Subsec. (c)(2)(E). Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1813(3)(B)
 Subsec. (c)(3). Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1813(2)], redesignated par. (3) as (2).
 
 #### Effective and Termination Dates of 2013 Amendment
-Amendment by Pub. L. 112–239 effective for a 2-year period beginning on Jan. 2, 2013, and repealed on the day after the 2-year period and this subchapter to be applied as if the amendment had never been enacted, see section 563(c) of Pub. L. 112–239 set out as a note under [section 7702 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7702).
+Amendment by section 563(b)(3)(B) of Pub. L. 112–239 effective for a 5-year period beginning on Jan. 2, 2013, and repealed on the day after the 5-year period and this subchapter to be applied as if the amendment had never been enacted, see section 563(c) of Pub. L. 112–239, set out as a note under [section 7702 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7702).
 
 
 <a id="section-7711"></a>
@@ -21093,7 +21150,7 @@ References to part A of subchapter III of this chapter are considered to be refe
 A prior section 7801, Pub. L. 89–10, title IX, § 9101, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3773, set forth findings regarding Indian education, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 #### Highly Qualified Teacher
-Pub. L. 111–242, § 163, as added by Pub. L. 111–322, title I, § 1(a)(2), Dec. 22, 2010, 124 Stat. 3521; amended by Pub. L. 112–175, § 145, Sept. 28, 2012, 126 Stat. 1322, provided that: “(a) A ‘highly qualified teacher’ includes a teacher who meets the requirements in 34 CFR 200.56(a)(2)(ii), as published in the Federal Register on December 2, 2002. “(b) This provision is effective on the date of enactment of this provision [Dec. 22, 2010] through the end of the 2013–2014 academic year. “(c) Not later than December 31, 2013, the Secretary of Education shall submit a report to the Committees on Appropriations and Health, Education, Labor, and Pensions of the Senate and the Committees on Appropriations and Education and the Workforce of the House of Representatives, using data required under existing law (section 1111(h)(6)(A) of Public Law 107–110 [probably means section 1111(h)(6)(A) of Pub. L. 89–10, as added by Pub. L. 107–110; [20 U.S.C. 6311(h)(6)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/h/6/A&num=0&edition=prelim)]) by State and each local educational agency, regarding the extent to which students in the following categories are taught by teachers who are deemed highly qualified pursuant to 34 CFR 200.56(a)(2)(ii) as published in the Federal Register on December 2, 2002:“(1) Students with disabilities. “(2) English Learners. “(3) Students in rural areas. “(4) Students from low-income families.”
+Pub. L. 111–242, § 163, as added by Pub. L. 111–322, title I, § 1(a)(2), Dec. 22, 2010, 124 Stat. 3521; amended by Pub. L. 112–175, § 145, Sept. 28, 2012, 126 Stat. 1322; Pub. L. 113–46, div. A, § 144, Oct. 17, 2013, 127 Stat. 565, provided that: “(a) A ‘highly qualified teacher’ includes a teacher who meets the requirements in 34 CFR 200.56(a)(2)(ii), as published in the Federal Register on December 2, 2002. “(b) This provision is effective on the date of enactment of this provision [Dec. 22, 2010] through the end of the 2015–2016 academic year. “(c) Not later than December 31, 2013, the Secretary of Education shall submit a report to the Committees on Appropriations and Health, Education, Labor, and Pensions of the Senate and the Committees on Appropriations and Education and the Workforce of the House of Representatives, using data required under existing law (section 1111(h)(6)(A) of Public Law 107–110 [probably means section 1111(h)(6)(A) of Pub. L. 89–10, as added by Pub. L. 107–110; [20 U.S.C. 6311(h)(6)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/h/6/A&num=0&edition=prelim)]) by State and each local educational agency, regarding the extent to which students in the following categories are taught by teachers who are deemed highly qualified pursuant to 34 CFR 200.56(a)(2)(ii) as published in the Federal Register on December 2, 2002:“(1) Students with disabilities. “(2) English Learners. “(3) Students in rural areas. “(4) Students from low-income families.”
 
 
 <a id="section-7802"></a>
@@ -21116,7 +21173,8 @@ For the purpose of any competitive program under this chapter—
 
 (2) a school operated under a contract or grant with the Bureau of Indian Affairs in consortium with another contract or grant school or a tribal or community organization; or
 
-(3) a Bureau of Indian Affairs school in consortium with an institution of higher education, a contract or grant school, or a tribal or community organization, shall be given the same consideration as a local educational agency.
+(3) a Bureau of Indian Affairs school in consortium with an institution of higher education, a contract or grant school, or a tribal or community organization,
+shall be given the same consideration as a local educational agency.
 
 ### Statutory Notes
 

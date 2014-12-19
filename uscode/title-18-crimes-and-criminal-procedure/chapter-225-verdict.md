@@ -9,10 +9,6 @@ source: >-
 <a id="section-3531"></a>
 ## § 3531. Return; several defendants; conviction of less offense; poll of jury—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3532"></a>
 ## § 3532. Setting aside verdict of guilty; judgment notwithstanding verdict—(Rule)
-
-See Federal Rules of Criminal Procedure

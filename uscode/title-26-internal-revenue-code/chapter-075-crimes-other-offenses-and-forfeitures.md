@@ -136,7 +136,7 @@ Any person who—
   (A) *Concealment of property* — Conceals from any officer or employee of the United States any property belonging to the estate of a taxpayer or other person liable in respect of the tax, or
 
   (B) *Withholding, falsifying, and destroying rec­ords* — Receives, withholds, destroys, mutilates, or falsifies any book, document, or record, or makes any false statement, relating to the estate or financial condition of the taxpayer or other person liable in respect of the tax;
-  shall be guilty of a felony and, upon conviction thereof, shall be fined not more than $100,000 ($500,000 in the case of a corporation), or imprisoned not more than 3 years, or both, together with the costs of prosecution.
+shall be guilty of a felony and, upon conviction thereof, shall be fined not more than $100,000 ($500,000 in the case of a corporation), or imprisoned not more than 3 years, or both, together with the costs of prosecution.
 
 ### Statutory Notes
 
@@ -226,7 +226,8 @@ Any person who—
 
   (C) *Possession* — Knowingly and without lawful excuse (the burden of proof of such excuse being on the accused) has in possession any washed, restored, altered stamp, which has been removed from any vellum, parchment, paper, instrument, writing, package, or article; or
 
-(5) **Emptied stamped packages** — Commits the offense described in section 7271 (relating to disposal and receipt of stamped packages) with intent to defraud the revenue, or to defraud any person; shall be guilty of a felony and, upon conviction thereof, shall be fined not more than $10,000, or imprisoned not more than 5 years, or both.
+(5) **Emptied stamped packages** — Commits the offense described in section 7271 (relating to disposal and receipt of stamped packages) with intent to defraud the revenue, or to defraud any person;
+shall be guilty of a felony and, upon conviction thereof, shall be fined not more than $10,000, or imprisoned not more than 5 years, or both.
 
 
 <a id="section-7209"></a>
@@ -310,7 +311,8 @@ Whoever in connection with the sale or lease, or offer for sale or lease, of any
 
 (1) intended or calculated to lead any person to believe that any part of the price at which such article is sold or leased, or offered for sale or lease, consists of a tax imposed under the authority of the United States, or
 
-(2) ascribing a particular part of such price to a tax imposed under the authority of the United States, knowing that such statement is false or that the tax is not so great as the portion of such price ascribed to such tax, shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than $1,000, or by imprisonment for not more than 1 year, or both.
+(2) ascribing a particular part of such price to a tax imposed under the authority of the United States,
+knowing that such statement is false or that the tax is not so great as the portion of such price ascribed to such tax, shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than $1,000, or by imprisonment for not more than 1 year, or both.
 
 
 <a id="section-7212"></a>

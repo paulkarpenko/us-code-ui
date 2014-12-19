@@ -400,6 +400,12 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### No Fiscal Year 2015 Increase in Basic Pay for General and Flag Officers
+Pub. L. 113–291, div. A, title VI, § 601, Dec. 19, 2014, 128 Stat. 3397, provided that: “In the case of commissioned officers in the uniformed services in pay grades O–7 through O–10— “(1) [section 203(a)(2) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203/a/2&num=0&edition=prelim), United States Code, shall be applied for rates of basic pay payable for such officers during calendar year 2015 by using the rate of pay for level II of the Executive Schedule in effect during 2014; and “(2) the rates of monthly basic pay payable for such officers shall not increase during calendar year 2015.”
+
+#### Basic Pay Rate Equal Treatment of Chief of the National Guard Bureau
+Pub. L. 113–291, div. A, title VI, § 603(a)(1), Dec. 19, 2014, 128 Stat. 3397, provided that: “The rate of basic pay for an officer while serving as the Chief of the National Guard Bureau shall be the same as the rate of basic pay for the officers specified in Footnote 2 of the table entitled ‘commissioned officers’ in section 601(b) of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; [37 U.S.C. 1009](./chapter-019-administration.md#section-1009) note), regardless of cumulative years of service computed under [section 205 of title 37](./chapter-003-basic-pay.md#section-205), United States Code.”
+
 #### Rate of Pay Increases for Cadets, Midshipmen, and Applicants for Membership in Senior Reserve Officers’ Training Corps
 Pub. L. 95–79, title III, § 302(b), (c), July 30, 1977, 91 Stat. 326, 327, provided that: “(b) Any cadet or midshipman who, on the date of enactment of this Act [July 30, 1977], or on any date thereafter, is—“(1) admitted to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy, as the case may be, or “(2) enrolled in the Senior Reserve Officers’ Training Corps program and attending a field training encampment or practice cruise for which he is entitled to pay under [section 209(c) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section209/c&num=0&edition=prelim), United States Code, shall, if otherwise entitled, receive the rate of pay prescribed by [section 201(c) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201/c&num=0&edition=prelim), United States Code, as in effect on the day before the date of enactment of this Act, [July 30, 1977], until the rate of pay authorized by section 203(c) of such title, as added by the amendments made by subsection (a) of this section, is equal to or greater than the rate prescribed by section 201(c) of such title, as in effect on the day before the date of enactment of this Act. Thereafter, the rate of pay of such person shall be as prescribed by section 203(c) of such title, as added by the amendments made by subsection (a) of this section, or section 209(c) of such title, as amended by subsection (a) of this section, as appropriate. “(c) A person who, on the date of enactment of this Act [July 30, 1977], is an applicant for membership in the Senior Reserve Officers’ Training Corps and who, in order to satisfy the requirement of [section 2104(b)(6)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2104/b/6/B&num=0&edition=prelim), United States Code, is attending or will attend one of the field training encampments or practice cruises in a field training or practice cruise period which is in progress on the date of enactment of this Act, is entitled to continue to receive pay at the rate prescribed by such section as in effect on the day before the date of enactment of this Act while such person is attending such field training or practice cruise period in progress on the date of enactment of this Act. Thereafter, the entitlement of such person shall be as prescribed in subsection (b) of this section.”
 
@@ -455,7 +461,13 @@ Ex. Ord. No. 11414, June 11, 1968, 33 F.R. 8645, provided for adjustment of pay 
 
 **(b)** For the purposes of subsection (a), under regulations prescribed by the President, the time necessary for a member of a uniformed service who is called or ordered to active duty for a period of more than 30 days to travel from his home to his first duty station and from his last duty station to his home, by the mode of transportation authorized in his call or orders, is considered active duty.
 
-**(c)** A member of the National Guard who is called into Federal service for a period of 30 days or less is entitled to basic pay from the date when he appears at the place of company rendezvous. However, this subsection does not authorize any expenditure before arriving at the place of rendezvous that is not authorized by law to be paid after arrival at that place.
+**(c)**
+
+(1) A member of the National Guard who is called into Federal service for a period of 30 days or less is entitled to basic pay from the date on which the member, in person or by authorized telephonic or electronic means, contacts the member’s unit.
+
+(2) Paragraph (1) does not authorize any expenditure to be paid for a period before the date on which the unit receives the member’s contact provided under such paragraph.
+
+(3) The Secretary of the Army, with respect to the Army National Guard, and the Secretary of the Air Force, with respect to the Air National Guard, shall prescribe such regulations as may be necessary to carry out this subsection.
 
 **(d)** Full-time training, training duty with pay, or other full-time duty performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in his status as a member of the National Guard, is active duty for the purposes of this section.
 
@@ -553,6 +565,8 @@ In subsection (f), the words “is appointed” are substituted for the words �
 In subsection (i), the inclusion of the Coast Guard Reserve is based on the authority contained in [section 755(c) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section755/c&num=0&edition=prelim).
 
 #### Amendments
+2013—Subsec. (c). Pub. L. 113–66 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A member of the National Guard who is called into Federal service for a period of 30 days or less is entitled to basic pay from the date when he appears at the place of company rendezvous. However, this subsection does not authorize any expenditure before arriving at the place of rendezvous that is not authorized by law to be paid after arrival at that place.”
+
 2002—Subsec. (i)(4)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 2001—Subsecs. (g)(1)(D), (h)(1)(D). Pub. L. 107–107 struck out “, if the site is outside reasonable commuting distance from the member’s residence” before semicolon.
@@ -771,7 +785,7 @@ Amendment by section 516(3) of Pub. L. 96–513 effective Dec. 12, 1980, see sec
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under [section 5334 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5334&num=0&edition=prelim), Government Organization and Employees.
 
 #### Inclusion of Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff Among Senior Enlisted Members of the Armed Forces
-Pub. L. 109–163, div. A, title VI, § 685(a), Jan. 6, 2006, 119 Stat. 3325, as amended by Pub. L. 109–364, div. A, title X, § 1071(e)(5), Oct. 17, 2006, 120 Stat. 2401, provided that: “(1) Equal treatment.—The rate of basic pay for an enlisted member in the grade E–9 while serving as Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff shall be the same as the rate of basic pay for an enlisted member in that grade while serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Master Chief Petty Officer of the Coast Guard, regardless of cumulative years of service computed under [section 205 of title 37](./chapter-003-basic-pay.md#section-205), United States Code. “(2) Effective date.—Paragraph (1) shall apply beginning on the date on which an enlisted member of the Armed Forces is first appointed to serve as Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.”
+Pub. L. 109–163, div. A, title VI, § 685(a), Jan. 6, 2006, 119 Stat. 3325, as amended by Pub. L. 109–364, div. A, title X, § 1071(e)(5), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 113–291, div. A, title VI, § 603(a)(2)(A), Dec. 19, 2014, 128 Stat. 3398, provided that: “(1) Equal treatment.—The rate of basic pay for an enlisted member in the grade E–9 while serving as Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff or as Senior Enlisted Advisor to the Chief of the National Guard Bureau shall be the same as the rate of basic pay for an enlisted member in that grade while serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Master Chief Petty Officer of the Coast Guard, regardless of cumulative years of service computed under [section 205 of title 37](./chapter-003-basic-pay.md#section-205), United States Code. “(2) Effective date.—Paragraph (1) shall apply beginning on the date on which an enlisted member of the Armed Forces is first appointed to serve as Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.”
 
 #### Transition Provision
 Subsec. (f) of this section applicable to certain enlisted members of the Marine Corps Reserve selected for training as an officer candidate under [section 12209 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12209&num=0&edition=prelim), Armed Forces, before implementation of a financial assistance program under [section 16401 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16401&num=0&edition=prelim), see section 551(d) of Pub. L. 106–65, set out as a note under [section 16401 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16401&num=0&edition=prelim).
@@ -1055,7 +1069,7 @@ Pub. L. 92–172, Nov. 24, 1971, 85 Stat. 491, as amended by Pub. L. 94–361, t
 
 <a id="section-210"></a>
 ## § 210. Pay of senior enlisted members during terminal leave and while hospitalized
-**(a)** A noncommissioned officer of an armed force who, immediately following the completion of service as the senior enlisted member of that armed force, is placed on terminal leave pending retirement shall be entitled, for not more than 60 days while in such status, to the rate of basic pay authorized for the senior enlisted member of that armed force.
+**(a)** A noncommissioned officer of an armed force who, immediately following the completion of service as the senior enlisted member of that armed force or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau, is placed on terminal leave pending retirement shall be entitled, for not more than 60 days while in such status, to the rate of basic pay authorized for the senior enlisted member of that armed force.
 
 **(b)** A noncommissioned officer of an armed force who is hospitalized and who, during or immediately before such hospitalization, completed service as the senior enlisted member of that armed force, shall continue to be entitled, for not more than 180 days while so hospitalized, to the rate of basic pay authorized for the senior enlisted member of that armed force.
 
@@ -1071,11 +1085,13 @@ Pub. L. 92–172, Nov. 24, 1971, 85 Stat. 491, as amended by Pub. L. 94–361, t
 
 (5) The Master Chief Petty Officer of the Coast Guard.
 
-(6) The Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.
-
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–291, § 603(b)(1), inserted “or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau” after “that armed force” the first place appearing.
+
+Subsec. (c)(6). Pub. L. 113–291, § 603(b)(2), struck out par. (6) which read as follows: “The Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.”
+
 2006—Subsec. (c)(6). Pub. L. 109–364 substituted “Advisor to” for “Advisor for”.
 
 Pub. L. 109–163 added par. (6).
@@ -1083,6 +1099,9 @@ Pub. L. 109–163 added par. (6).
 1996—Pub. L. 104–201, § 603(b)(1), substituted “Pay of senior enlisted members during terminal leave and while hospitalized” for “Pay of the senior noncommissioned officer of an armed force during terminal leave” in section catchline.
 
 Subsecs. (b), (c). Pub. L. 104–201, § 603(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–291 effective on Dec. 19, 2014 and applicable with respect to months of service that begin on or after that date, see section 603(e) of Pub. L. 113–291, set out as a note under [section 1406 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1406&num=0&edition=prelim), Armed Forces.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).

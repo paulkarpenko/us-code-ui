@@ -26,7 +26,7 @@ The purposes of this chapter are to—
 ### Statutory Notes
 
 #### Short Title
-Pub. L. 111–11, title XII, § 12301, Mar. 30, 2009, 123 Stat. 1427, provided that: “This subtitle [subtitle C (§§ 12301–12311) of title XII of Pub. L. 111–11, enacting this chapter] may be cited as the ‘Integrated Coastal and Ocean Observation System Act of 2009’.”
+Pub. L. 111–11, title XII, § 12301, Mar. 30, 2009, 123 Stat. 1427, provided that: “This subtitle [subtitle C (§§ 12301–12312) of title XII of Pub. L. 111–11, enacting this chapter] may be cited as the ‘Integrated Coastal and Ocean Observation System Act of 2009’.”
 
 
 <a id="section-3602"></a>
@@ -321,9 +321,9 @@ There are authorized to be appropriated to the Secretary of Commerce for fiscal 
 
 (4) **Certification** — For each post-storm assessment carried out under paragraph (2), the Administrator shall—
 
-  (A) *certify the degree of accuracy for such assessment, including specific reference to any segments or geographic areas for which the assessment is less than 90 percent accurate; and*
+  (A) certify the degree of accuracy for such assessment, including specific reference to any segments or geographic areas for which the assessment is less than 90 percent accurate; and
 
-  (B) *report such certification to the Secretary of Homeland Security for the purposes of use with indeterminate loss claims under [section 4057 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4057&num=0&edition=prelim).*
+  (B) report such certification to the Secretary of Homeland Security for the purposes of use with indeterminate loss claims under [section 4057 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4057&num=0&edition=prelim).
 
 (5) **Finality of determinations** — A certification of the degree of accuracy of a post-storm assessment under this subsection by the Administrator shall be final and shall not be subject to judicial review.
 
@@ -365,9 +365,9 @@ There are authorized to be appropriated to the Secretary of Commerce for fiscal 
 
 (1) **Identification of systems and efforts to collect covered data** — Not later than 180 days after July 6, 2012, the Administrator shall, in consultation with the Office of the Federal Coordinator for Meteorology—
 
-  (A) *carry out a survey to identify all Federal and State efforts and systems that are capable of collecting covered data; and*
+  (A) carry out a survey to identify all Federal and State efforts and systems that are capable of collecting covered data; and
 
-  (B) *consult with private and academic sector entities to identify domestic private and academic systems that are capable of collecting covered data.*
+  (B) consult with private and academic sector entities to identify domestic private and academic systems that are capable of collecting covered data.
 
 (2) **Identification of gaps** — The Administrator shall, in consultation with the Office of the Federal Coordinator for Meteorology and individuals and entities consulted under subsection (e)(3), assess the systems identified under paragraph (1) and identify which systems meet the needs of the National Oceanic and Atmospheric Administration for the collection of covered data, including with respect to the accuracy requirement for post-storm assessment under subsection (b)(3).
 

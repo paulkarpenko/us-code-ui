@@ -2,7 +2,7 @@
 title: 26
 chapter: '79'
 heading: DEFINITIONS
-section_count: 6
+section_count: 7
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -89,7 +89,7 @@ source: >-
     (xi) any regular or residual interest in a REMIC, but only in the proportion which the assets of such REMIC consist of property described in any of the preceding clauses of this subparagraph; except that if 95 percent or more of the assets of such REMIC are assets described in clauses (i) through (x), the entire interest in the REMIC shall qualify.
     At the election of the taxpayer, the percentage specified in this subparagraph shall be applied on the basis of the average assets outstanding during the taxable year, in lieu of the close of the taxable year, computed under regulations prescribed by the Secretary. For purposes of clause (v), if a multifamily structure securing a loan is used in part for nonresidential purposes, the entire loan is deemed a residential real property loan if the planned residential use exceeds 80 percent of the property’s planned use (determined as of the time the loan is made). For purposes of clause (v), loans made to finance the acquisition or development of land shall be deemed to be loans secured by an interest in residential real property if, under regulations prescribed by the Secretary, there is reasonable assurance that the property will become residential real property within a period of 3 years from the date of acquisition of such land; but this sentence shall not apply for any taxable year unless, within such 3-year period, such land becomes residential real property. For purposes of determining whether any interest in a REMIC qualifies under clause (xi), any regular interest in another REMIC held by such REMIC shall be treated as a loan described in a preceding clause under principles similar to the principles of clause (xi); except that, if such REMIC’s are part of a tiered structure, they shall be treated as 1 REMIC for purposes of clause (xi).
 
-(20) **Employee** — For the purpose of applying the provisions of section 79 with respect to group-term life insurance purchased for employees, for the purpose of applying the provisions of sections 104, 105, and 106 with respect to accident and health insurance or accident and health plans, and for the purpose of applying the provisions of subtitle A with respect to contributions to or under a stock bonus, pension, profit-sharing, or annuity plan, and with respect to distributions under such a plan, or by a trust forming part of such a plan, and for purposes of applying section 125 with respect to cafeteria plans, the term “employee” shall include a full-time life insurance salesman who is considered an employee for the purpose of chapter 21, or in the case of services performed before January 1, 1951, who would be considered an employee if his services were performed during 1951.
+(20) **Employee** — For the purpose of applying the provisions of section 79 with respect to group-term life insurance purchased for employees, for the purpose of applying the provisions of sections 104, 105, and 106 with respect to accident and health insurance or accident and health plans, and for the purpose of applying the provisions of subtitle A with respect to contributions to or under a stock bonus, pension, profit-sharing, or annuity plan, and with respect to distributions under such a plan, or by a trust forming part of such a plan, and for purposes of applying section 125 with respect to cafeteria plans, the term “employee” shall include a full-time life insurance salesman who is considered an employee for the purpose of chapter 21.
 
 (21) **Levy** — The term “levy” includes the power of distraint and seizure by any means.
 
@@ -167,7 +167,8 @@ source: >-
 
   (H) A common parent corporation which is a common carrier by railroad subject to part A of subtitle IV of title 49 if at least 80 percent of its gross income (computed without regard to capital gains or losses) is derived directly or indirectly from sources described in subparagraphs (A) through (F), inclusive. For purposes of the preceding sentence, dividends and interest, and income from leases described in subparagraph (G), received from a regulated public utility shall be considered as derived from sources described in subparagraphs (A) through (F), inclusive, if the regulated public utility is a member of an affiliated group (as defined in section 1504) which includes the common parent corporation.
   The term “regulated public utility” does not (except as provided in subparagraphs (G) and (H)) include a corporation described in subparagraphs (A) through (F), inclusive, unless 80 percent or more of its gross income (computed without regard to dividends and capital gains and losses) for the taxable year is derived from sources described in subparagraphs (A) through (F), inclusive. If the taxpayer establishes to the satisfaction of the Secretary that (i) its revenue from regulated rates described in subparagraph (A) or (D) and its revenue derived from unregulated rates are derived from the operation of a single interconnected and coordinated system or from the operation of more than one such system, and (ii) the unregulated rates have been and are substantially as favorable to users and consumers as are the regulated rates, then such revenue from such unregulated rates shall be considered, for purposes of the preceding sentence, as income derived from sources described in subparagraph (A) or (D).
-  [(34) Repealed. Pub. L. 98–369, div. A, title IV, § 4112(b)(11), July 18, 1984, 98 Stat. 792]
+
+(34) **Repealed. Pub. L. 98–369, div. A, title IV, § 4112(b)(11), July 18, 1984, 98 Stat. 792]**
 
 (35) **Enrolled actuary** — The term “enrolled actuary” means a person who is enrolled by the Joint Board for the Enrollment of Actuaries established under subtitle C of the title III of the Employee Retirement Income Security Act of 1974.
 
@@ -297,7 +298,7 @@ source: >-
 
     (i) such individual was present in the United States on at least 31 days during the calendar year, and
 
-    (ii) the sum of the number of days on which such individual was present in the United States during the current year and the 2 preceding calendar years (when multiplied by the applicable multiplier determined under the following table) equals or exceeds 183 days: The applicable In the case of days in:multiplier is: Current year1 1st preceding year⅓ 2nd preceding year⅙
+    (ii) the sum of the number of days on which such individual was present in the United States during the current year and the 2 preceding calendar years (when multiplied by the applicable multiplier determined under the following table) equals or exceeds 183 days: In the case of days in:The applicable multiplier is: Current year1 1st preceding year⅓ 2nd preceding year⅙
 
   (B) *Exception where individual is present in the United States during less than one-half of current year and closer connection to foreign country is established* — An individual shall not be treated as meeting the substantial presence test of this paragraph with respect to any current year if—
 
@@ -634,23 +635,23 @@ For purposes of this subsection, a Senator, a Representative in, or a Delegate o
 
 (1) **Other definitions** — For other definitions, see the following sections of Title 1 of the United States Code:
 
-  (1) Singular as including plural, section 1.
+(1) Singular as including plural, section 1.
 
-  (2) Plural as including singular, section 1.
+(2) Plural as including singular, section 1.
 
-  (3) Masculine as including feminine, section 1.
+(3) Masculine as including feminine, section 1.
 
-  (4) Officer, section 1.
+(4) Officer, section 1.
 
-  (5) Oath as including affirmation, section 1.
+(5) Oath as including affirmation, section 1.
 
-  (6) County as including parish, section 2.
+(6) County as including parish, section 2.
 
-  (7) Vessel as including all means of water transportation, section 3.
+(7) Vessel as including all means of water transportation, section 3.
 
-  (8) Vehicle as including all means of land transportation, section 4.
+(8) Vehicle as including all means of land transportation, section 4.
 
-  (9) Company or association as including successors and assigns, section 5.
+(9) Company or association as including successors and assigns, section 5.
 
 (2) **Effect of cross references** — For effect of cross references in this title, see section 7806(a).
 
@@ -685,6 +686,8 @@ The date of the enactment of the Commodity Futures Modernization Act of 2000, re
 Sections 1207(f) and 1222 of Pub. L. 109–280, which directed the amendment of section 7701 without specifying the act to be amended, were executed to this section, which is section 7701 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2014—Subsec. (a)(20). Pub. L. 113–295 substituted “chapter 21.” for “chapter 21, or in the case of services performed before January 1, 1951, who would be considered an employee if his services were performed during 1951.”
+
 2010—Subsec. (a)(47). Pub. L. 111–312 amended subsec. (a) to read as if amendment by Pub. L. 107–16, § 542(e)(3), had never been enacted.
 
 Subsecs. (o), (p). Pub. L. 111–152 added subsec. (o) and redesignated former subsec. (o) as (p).
@@ -939,6 +942,9 @@ Subsec. (a)(12). Pub. L. 86–778 designated existing provisions as par. (A) and
 
 Subsec. (a)(10). Pub. L. 86–70, § 22(h), substituted “Territory of Hawaii” for “Territories”.
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under [section 121 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-121).
 
@@ -982,7 +988,7 @@ Amendment by section 1402(b)(3) of Pub. L. 104–188 applicable with respect to 
 
 Amendment by section 1621(b)(8), (9) of Pub. L. 104–188 effective Sept. 1, 1997, see section 1621(d) of Pub. L. 104–188, set out as a note under [section 26 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-26).
 
-Pub. L. 104–188, title I, § 1907(a)(3), Aug. 20, 1996, 110 Stat. 1916, as amended by Pub. L. 105–34, title XI, § 1161(a), Aug. 5, 1997, 111 Stat. 987, provided that: “The amendments made by this subsection [amending this section] shall apply— “(A) to taxable years beginning after December 31, 1996, or “(B) at the election of the trustee of a trust, to taxable years ending after the date of the enactment of this Act [Aug. 20, 1996]. Such an election, once made, shall be irrevocable. To the extent prescribed in regulations by the Secretary of the Treasury or his delegate, a trust which was in existence on August 20, 1996 (other than a trust treated as owned by the grantor under subpart E of part I of subchapter J of chapter 1 of the Internal Revenue Code of 1986), and which was treated as a United States person on the day before the date of the enactment of this Act may elect to continue to be treated as a United States person notwithstanding section 7701(a)(30)(E) of such Code.”
+Pub. L. 104–188, title I, § 1907(a)(3), Aug. 20, 1996, 110 Stat. 1916, as amended by Pub. L. 105–34, title XI, § 1161(a), Aug. 5, 1997, 111 Stat. 987, provided that: “The amendments made by this subsection [amending this section] shall apply—“(A) to taxable years beginning after December 31, 1996, or “(B) at the election of the trustee of a trust, to taxable years ending after the date of the enactment of this Act [Aug. 20, 1996]. Such an election, once made, shall be irrevocable. To the extent prescribed in regulations by the Secretary of the Treasury or his delegate, a trust which was in existence on August 20, 1996 (other than a trust treated as owned by the grantor under subpart E of part I of subchapter J of chapter 1 of the Internal Revenue Code of 1986), and which was treated as a United States person on the day before the date of the enactment of this Act may elect to continue to be treated as a United States person notwithstanding section 7701(a)(30)(E) of such Code.”
 
 [Pub. L. 105–34, title XI, § 1161(b), Aug. 5, 1997, 111 Stat. 987, provided that: “The amendment made by subsection (a) [amending section 1907(a)(3) of Pub. L. 104–188, set out above] shall take effect as if included in the amendments made by section 1907(a) of the Small Business Job Protection Act of 1996 [Pub. L. 104–188].” ]
 
@@ -996,13 +1002,13 @@ Amendment by Pub. L. 103–296 effective with calendar quarter following Aug. 15
 Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, see section 521(e) of Pub. L. 102–318, set out as a note under [section 402 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402).
 
 #### Effective Date of 1991 Amendment
-Amendment by Pub. L. 102–90 effective Jan. 1, 1992, see section 314(g)(1) of Pub. L. 102–90, as amended, set out as a note under [section 31–2 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section31–2&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 102–90 effective Jan. 1, 1992, see section 314(g)(1) of Pub. L. 102–90, as amended, set out as a note under [section 4725 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4725&num=0&edition=prelim), The Congress.
 
 #### Effective Date of 1990 Amendment
 Amendment by section 11812(b)(13) of Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which [section 168 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-168) does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under [section 42 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-42).
 
 #### Effective Date of 1989 Amendment
-Pub. L. 101–194, title VI, § 603, Nov. 30, 1989, 103 Stat. 1763, provided that: “The amendments made by this title [amending this section, sections 31–1 and 441i of Title 2, The Congress, and title V of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees] shall take effect on January 1, 1991. Such amendments shall cease to be effective if the provisions of section 703 [[5 U.S.C. 5318](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim) note] are subsequently repealed, in which case the laws in effect before such amendments shall be deemed to be reenacted.”
+Pub. L. 101–194, title VI, § 603, Nov. 30, 1989, 103 Stat. 1763, provided that: “The amendments made by this title [amending this section, sections 31–1 and former 441i of Title 2, The Congress, and title V of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees] shall take effect on January 1, 1991. Such amendments shall cease to be effective if the provisions of section 703 [[5 U.S.C. 5318](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim) note] are subsequently repealed, in which case the laws in effect before such amendments shall be deemed to be reenacted.”
 
 #### Effective Date of 1988 Amendment
 Amendment by title I of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -1997,3 +2003,97 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 Pub. L. 100–203, title X, § 10211(c), Dec. 22, 1987, 101 Stat. 1330–405, as amended by Pub. L. 100–647, title II, § 2004(f)(2), Nov. 10, 1988, 102 Stat. 3602, provided that: “(1) In general.—The amendments made by this section [enacting this section] shall apply—“(A) except as provided in subparagraph (B), to taxable years beginning after December 31, 1987, or “(B) in the case of an existing partnership, to taxable years beginning after December 31, 1997. “(2) Existing partnership.—For purposes of this subsection—“(A) In general.—The term ‘existing partnership’ means any partnership if—“(i) such partnership was a publicly traded partnership on December 17, 1987, “(ii) a registration statement indicating that such partnership was to be a publicly traded partnership was filed with the Securities and Exchange Commission with respect to such partnership on or before such date, or “(iii) with respect to such partnership, an application was filed with a State regulatory commission on or before such date seeking permission to restructure a portion of a corporation as a publicly traded partnership. “(B) Special rule where substantial new line of business added after december 17, 1987.—A partnership which, but for this subparagraph, would be treated as an existing partnership shall cease to be treated as an existing partnership as of the 1st day after December 17, 1987, on which there has been an addition of a substantial new line of business with respect to such partnership. “(C) Coordination with passive-type income requirements.—In the case of an existing partnership, paragraph (1) of section 7704(c) of the Internal Revenue Code of 1986 (as added by this section) shall be applied by substituting for ‘December 31, 1987’ the earlier of—“(i) December 31, 1997, or “(ii) the day (if any) as of which such partnership ceases to be treated as an existing partnership by reason of subparagraph (B).”
+
+
+<a id="section-7705"></a>
+## § 7705. Certified professional employer organizations
+**(a) In general** For purposes of this title, the term “certified professional employer organization” means a person who applies to be treated as a certified professional employer organization for purposes of section 3511 and has been certified by the Secretary as meeting the requirements of subsection (b).
+
+**(b) Certification requirements** A person meets the requirements of this subsection if such person—
+
+(1) demonstrates that such person (and any owner, officer, and other persons as may be specified in regulations) meets such requirements as the Secretary shall establish, including requirements with respect to tax status, background, experience, business location, and annual financial audits,
+
+(2) agrees that it will satisfy the bond and independent financial review requirements of subsection (c) on an ongoing basis,
+
+(3) agrees that it will satisfy such reporting obligations as may be imposed by the Secretary,
+
+(4) computes its taxable income using an accrual method of accounting unless the Secretary approves another method,
+
+(5) agrees to verify on such periodic basis as the Secretary may prescribe that it continues to meet the requirements of this subsection, and
+
+(6) agrees to notify the Secretary in writing within such time as the Secretary may prescribe of any change that materially affects the continuing accuracy of any agreement or information that was previously made or provided under this subsection.
+
+**(c) Bond and independent financial review**
+
+(1) **In general** — An organization meets the requirements of this paragraph if such organization—
+
+  (A) meets the bond requirements of paragraph (2), and
+
+  (B) meets the independent financial review requirements of paragraph (3).
+
+(2) **Bond**
+
+  (A) *In general* — A certified professional employer organization meets the requirements of this paragraph if the organization has posted a bond for the payment of taxes under subtitle C (in a form acceptable to the Secretary) that is in an amount at least equal to the amount specified in subparagraph (B).
+
+  (B) *Amount of bond* — For the period April 1 of any calendar year through March 31 of the following calendar year, the amount of the bond required is equal to the greater of—
+
+    (i) 5 percent of the organization’s liability under section 3511 for taxes imposed by subtitle C during the preceding calendar year (but not to exceed $1,000,000), or
+
+    (ii) $50,000.
+
+(3) **Independent financial review requirements** — A certified professional employer organization meets the requirements of this paragraph if such organization—
+
+  (A) has, as of the most recent audit date, caused to be prepared and provided to the Secretary (in such manner as the Secretary may prescribe) an opinion of an independent certified public accountant as to whether the certified professional employer organization’s financial statements are presented fairly in accordance with generally accepted accounting principles, and
+
+  (B) provides to the Secretary an assertion regarding Federal employment tax payments and an examination level attestation on such assertion from an independent certified public accountant not later than the last day of the second month beginning after the end of each calendar quarter.
+  Such assertion shall state that the organization has withheld and made deposits of all taxes imposed by chapters 21, 22, and 24 in accordance with regulations imposed by the Secretary for such calendar quarter and such examination level attestation shall state that such assertion is fairly stated, in all material respects.
+
+(4) **Controlled group rules** — For purposes of the requirements of paragraphs (2) and (3), all certified professional employer organizations that are members of a controlled group within the meaning of sections 414(b) and (c) shall be treated as a single organization.
+
+(5) **Failure to file assertion and attestation** — If the certified professional employer organization fails to file the assertion and attestation required by paragraph (3) with respect to any calendar quarter, then the requirements of paragraph (3) with respect to such failure shall be treated as not satisfied for the period beginning on the due date for such attestation.
+
+(6) **Audit date** — For purposes of paragraph (3)(A), the audit date shall be six months after the completion of the organization’s fiscal year.
+
+**(d) Suspension and revocation authority** The Secretary may suspend or revoke a certification of any person under subsection (b) for purposes of section 3511 if the Secretary determines that such person is not satisfying the agreements or requirements of subsections (b) or (c), or fails to satisfy applicable accounting, reporting, payment, or deposit requirements.
+
+**(e) Work site employee** For purposes of this title—
+
+(1) **In general** — The term “work site employee” means, with respect to a certified professional employer organization, an individual who—
+
+  (A) performs services for a customer pursuant to a contract which is between such customer and the certified professional employer organization and which meets the requirements of paragraph (2), and
+
+  (B) performs services at a work site meeting the requirements of paragraph (3).
+
+(2) **Service contract requirements** — A contract meets the requirements of this paragraph with respect to an individual performing services for a customer if such contract is in writing and provides that the certified professional employer organization shall—
+
+  (A) assume responsibility for payment of wages to such individual, without regard to the receipt or adequacy of payment from the customer for such services,
+
+  (B) assume responsibility for reporting, withholding, and paying any applicable taxes under subtitle C, with respect to such individual’s wages, without regard to the receipt or adequacy of payment from the customer for such services,
+
+  (C) assume responsibility for any employee benefits which the service contract may require the certified professional employer organization to provide, without regard to the receipt or adequacy of payment from the customer for such benefits,
+
+  (D) assume responsibility for recruiting, hiring, and firing workers in addition to the customer’s responsibility for recruiting, hiring, and firing workers,
+
+  (E) maintain employee records relating to such individual, and
+
+  (F) agree to be treated as a certified professional employer organization for purposes of section 3511 with respect to such individual.
+
+(3) **Work site coverage requirement** — The requirements of this paragraph are met with respect to an individual if at least 85 percent of the individuals performing services for the customer at the work site where such individual performs services are subject to 1 or more contracts with the certified professional employer organization which meet the requirements of paragraph (2) (but not taking into account those individuals who are excluded employees within the meaning of section 414(q)(5)).
+
+**(f) Public disclosure** The Secretary shall make available to the public the name and address of—
+
+(1) each person certified as a professional employer organization under subsection (a), and
+
+(2) each person whose certification as a professional employer organization is suspended or revoked under subsection (d).
+
+**(g) Determination of employment status** Except to the extent necessary for purposes of section 3511, nothing in this section shall be construed to affect the determination of who is an employee or employer for purposes of this title.
+
+**(h) Regulations** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 3302 of this title](./chapter-023-federal-unemployment-tax-act.md#section-3302).
+
+#### Certified Professional Employer Organization Certification Program
+Pub. L. 113–295, div. B, title II, § 206(g)(2), Dec. 19, 2014, 128 Stat. 4071, provided that: “The Secretary of the Treasury shall establish the certification program described in section 7705(b) of the Internal Revenue Code of 1986, as added by subsection (b), not later than 6 months before the effective date determined under paragraph (1) [see section 206(g)(1) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 3302 of this title](./chapter-023-federal-unemployment-tax-act.md#section-3302)].”

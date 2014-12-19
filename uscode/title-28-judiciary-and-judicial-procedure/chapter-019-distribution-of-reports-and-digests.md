@@ -12,7 +12,7 @@ source: >-
 
 **(b)** Reports printed prior to June 12, 1926, shall not be furnished the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force.
 
-**(c)** The Public Printer, or other printer designated by the Supreme Court of the United States, upon request, shall furnish to the Superintendent of Documents the reports required to be distributed under the provisions of this section.
+**(c)** The Director of the Government Publishing Office, or other printer designated by the Supreme Court of the United States, upon request, shall furnish to the Superintendent of Documents the reports required to be distributed under the provisions of this section.
 
 ### Statutory Notes
 
@@ -59,11 +59,14 @@ Subsection (b) of this section redesignates, in [section 411(b) of title 28](htt
 
 Subsec. (b). Act May 24, 1949, § 68(b), substituted “Secretary of the Army” for “Secretary of War” and “Court-martial” for “courtmartial”.
 
+#### Change of Name
+“Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (c) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
 
 <a id="section-412"></a>
 ## § 412. Sale of Supreme Court reports
 
-The Public Printer, or other printer designated by the Supreme Court of the United States shall print such additional bound volumes and preliminary prints of such reports as may be required for sale to the public. Such additional copies shall be sold by the Superintendent of Documents, as provided by law.
+The Director of the Government Publishing Office, or other printer designated by the Supreme Court of the United States shall print such additional bound volumes and preliminary prints of such reports as may be required for sale to the public. Such additional copies shall be sold by the Superintendent of Documents, as provided by law.
 
 ### Statutory Notes
 
@@ -78,6 +81,9 @@ Changes were made in phraseology.
 
 #### Amendments
 1952—Act July 10, 1952, permitted Superintendent of Documents to sell reports under same terms as other Government publications.
+
+#### Change of Name
+“Director of the Government Publishing Office” substituted for “Public Printer” in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 
 <a id="section-413"></a>

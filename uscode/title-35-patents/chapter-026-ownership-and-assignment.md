@@ -9,21 +9,12 @@ source: >-
 <a id="section-261"></a>
 ## § 261. Ownership; assignment
 
-Subject to the provisions of this title, patents shall have the attributes of personal property.
+Subject to the provisions of this title, patents shall have the attributes of personal property. The Patent and Trademark Office shall maintain a register of interests in patents and applications for patents and shall record any document related thereto upon request, and may require a fee therefor.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 112–211, title II, §§ 201(d), 203, Dec. 18, 2012, 126 Stat. 1535, 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:
-
-(1) in the first undesignated paragraph, by adding at the end “The Patent and Trademark Office shall maintain a register of interests in patents and applications for patents and shall record any document related thereto upon request, and may require a fee therefor.”; and
-
-(2) in the fourth undesignated paragraph, by substituting “An interest that constitutes an assignment” for “An assignment”.
-
-See 2012 Amendment note below.
-
 #### Historical and Revision Notes
-Based on Title 35, U.S.C., 1946 ed., § 47 (R.S. 4898, amended (1) Mar. 3, 1897, ch. 391, § 5, 29 Stat. 93, (2) Feb. 18, 1922, ch. 58, § 6, 42 Stat. 391, (3) Aug. 18, 1941, ch. 370, 55 Stat. 634).
+Based on Title 35, U.S.C., 1946 ed., § 47 (R.S. 4898, amended (1) Mar. 3, 1897, ch. 391, § 5, 29 Stat. 93 [29 Stat. 693], (2) Feb. 18, 1922, ch. 58, § 6, 42 Stat. 391, (3) Aug. 18, 1941, ch. 370, 55 Stat. 634).
 
 The first paragraph is new but is declaratory only. The second paragraph is the same as in the corresponding section of existing statute. The third paragraph is from the existing statute, a specific reference to another statute is omitted. The fourth paragraph is the same as the existing statute but language has been changed.
 

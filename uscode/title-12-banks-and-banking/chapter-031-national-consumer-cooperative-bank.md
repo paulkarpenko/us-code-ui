@@ -158,7 +158,8 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
 (17) approve the salary scale of officers and employees of the Bank, in accordance with regulations and standards adopted by the Board of Directors, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, but, except as otherwise provided in this chapter, the General Schedule pay rates shall be applicable until all class A stock held by the Secretary of the Treasury has been retired; and
 
-(18) have such other incidental powers as may be necessary or expedient to carry out its duties under this chapter. In determining whether a public offering is taking place for the purpose of the Securities Act of 1933 [[15 U.S.C. 77a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) et seq.], there shall be excluded from consideration all class B and class C stock purchases which took place prior to August 13, 1981.
+(18) have such other incidental powers as may be necessary or expedient to carry out its duties under this chapter.
+In determining whether a public offering is taking place for the purpose of the Securities Act of 1933 [[15 U.S.C. 77a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) et seq.], there shall be excluded from consideration all class B and class C stock purchases which took place prior to August 13, 1981.
 
 ### Statutory Notes
 
@@ -174,7 +175,8 @@ In pars. (5) and (10), “section 3324(a) and (b) of title 31” substituted for
 #### Effective Date of 1981 Amendment
 Pub. L. 97–35, title III, § 394(d)(2), Aug. 13, 1981, 95 Stat. 436, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” See section 396(a) of Pub. L. 97–35 set out below.
 
-#### “Final Government Equity Redemption Date” Defined
+“Final Government Equity Redemption Date” Defined
+
 Pub. L. 97–35, title III, § 396(a), Aug. 13, 1981, 95 Stat. 439, provided that: “For purposes of this subtitle [see Short Title of 1981 Amendment note set out under [section 3001 of this title](./chapter-031-national-consumer-cooperative-bank.md#section-3001)], the term ‘Final Government Equity Redemption Date’ shall have the same meaning given such term in section 101(5) of the National Consumer Cooperative Bank Act ([12 U.S.C. 3011(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3011/5&num=0&edition=prelim)).”
 
 

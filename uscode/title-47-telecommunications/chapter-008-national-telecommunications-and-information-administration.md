@@ -133,7 +133,9 @@ Term of the President’s National Security Telecommunications Advisory Committe
 
 Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 
 <a id="section-902"></a>
@@ -1152,7 +1154,7 @@ Pub. L. 107–317, § 2, Dec. 4, 2002, 116 Stat. 2766, provided that: “(a) Fin
 
 <a id="section-942"></a>
 ## § 942. Coordination of 9–1–1, E9–1–1, and Next Generation 9–1–1 implementation
-**(a) 9–1–1 implementation Coordination Office**
+**(a) 9–1–1 Implementation Coordination Office**
 
 (1) **Establishment and continuation** — The Assistant Secretary and the Administrator of the National Highway Traffic Safety Administration shall—
 
@@ -1290,7 +1292,7 @@ Subsecs. (d) to (f). Pub. L. 110–283, § 102(2), (3), added subsec. (d) and re
 2007—Subsec. (b)(4). Pub. L. 110–53 inserted at end “Within 180 days after August 3, 2007, the Assistant Secretary and the Administrator shall jointly issue regulations updating the criteria to allow a portion of the funds to be used to give priority to grants that are requested by public safety answering points that were not capable of receiving 911 calls as of August 3, 2007, for the incremental cost of upgrading from Phase I to Phase II compliance. Such grants shall be subject to all other requirements of this section.”
 
 #### Findings
-Pub. L. 108–494, title I, § 102, Dec. 23, 2004, 118 Stat. 3986, provided that: “The Congress finds that— “(1) for the sake of our Nation’s homeland security and public safety, a universal emergency telephone number (911) that is enhanced with the most modern and state-of-the-art telecommunications capabilities possible should be available to all citizens in all regions of the Nation; “(2) enhanced emergency communications require Federal, State, and local government resources and coordination; “(3) any funds that are collected from fees imposed on consumer bills for the purposes of funding 911 services or enhanced 911 should go only for the purposes for which the funds are collected; and “(4) enhanced 911 is a high national priority and it requires Federal leadership, working in copperation with State and local governments and with the numerous organizations dedicated to delivering emergency communications services.”
+Pub. L. 108–494, title I, § 102, Dec. 23, 2004, 118 Stat. 3986, provided that: “The Congress finds that— “(1) for the sake of our Nation’s homeland security and public safety, a universal emergency telephone number (911) that is enhanced with the most modern and state-of-the-art telecommunications capabilities possible should be available to all citizens in all regions of the Nation; “(2) enhanced emergency communications require Federal, State, and local government resources and coordination; “(3) any funds that are collected from fees imposed on consumer bills for the purposes of funding 911 services or enhanced 911 should go only for the purposes for which the funds are collected; and “(4) enhanced 911 is a high national priority and it requires Federal leadership, working in cooperation with State and local governments and with the numerous organizations dedicated to delivering emergency communications services.”
 
 #### Purposes
 Pub. L. 108–494, title I, § 103, Dec. 23, 2004, 118 Stat. 3986, provided that: “The purposes of this title [see section 101 of title I of Pub. L. 108–494, set out as a Short Title of 2004 Amendment note under [section 901 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-901)] are— “(1) to coordinate 911 services and E–911 services, at the Federal, State, and local levels; and “(2) to ensure that funds collected on telecommunications bills for enhancing emergency 911 services are used only for the purposes for which the funds are being collected.”

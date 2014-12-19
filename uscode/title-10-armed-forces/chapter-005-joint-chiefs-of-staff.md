@@ -148,13 +148,17 @@ source: >-
 
   (G) Recommending to the Secretary appropriate trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure that such trade-offs are made in the acquisition of materiel and equipment to support the strategic and contingency plans required by this subsection in the most effective and efficient manner.
 
-(5) **Doctrine, Training, and Education.—**
+(5) **Joint force development activities.—**
 
   (A) Developing doctrine for the joint employment of the armed forces.
 
-  (B) Formulating policies for the joint training of the armed forces.
+  (B) Formulating policies and technical standards, and executing actions, for the joint training of the armed forces.
 
-  (C) Formulating policies for coordinating the military education and training of members of the armed forces.
+  (C) Formulating policies for coordinating the military education of members of the armed forces.
+
+  (D) Formulating policies for concept development and experimentation for the joint employment of the armed forces.
+
+  (E) Formulating policies for gathering, developing, and disseminating joint lessons learned for the armed forces.
 
 (6) **Other Matters.—**
 
@@ -172,7 +176,7 @@ source: >-
 
   (C) Each National Military Strategy (or update) submitted under this paragraph shall describe how the military will achieve the objectives of the United States as articulated in—
 
-    (i) the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 ([50 U.S.C. 404a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section404a&num=0&edition=prelim)); 11 See References in Text note below.
+    (i) the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 ([50 U.S.C. 3043](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim));
 
     (ii) the most recent annual report of the Secretary of Defense submitted to the President and Congress pursuant to [section 113 of this title](./chapter-002-department-of-defense.md#section-113);
 
@@ -270,13 +274,22 @@ source: >-
 
 ### Statutory Notes
 
-#### References in Text
-The National Security Act of 1947, referred to in subsec. (b)(1)(C)(i), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 108 of the Act is now classified to [section 3043 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
-
 #### Amendments
+2014—Subsec. (a)(5). Pub. L. 113–291, § 1071(g)(3), amended Pub. L. 113–66, § 905(b). See 2013 Amendment note below.
+
+Subsec. (b)(1)(C)(i). Pub. L. 113–291, § 1071(c)(2), substituted “([50 U.S.C. 3043](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim))” for “([50 U.S.C. 404a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section404a&num=0&edition=prelim))”.
+
 2013—Subsec. (a)(3)(F). Pub. L. 112–239, § 845(b), added subpar. (F).
 
 Subsec. (a)(4)(F), (G). Pub. L. 112–239, § 951(a), added subpars. (F) and (G) and struck out former subpar. (F) which read as follows: “Assessing military requirements for defense acquisition programs.”
+
+Subsec. (a)(5). Pub. L. 113–66, § 905(b), as amended by Pub. L. 113–291, § 1071(g)(3), which directed substitution of “Joint force development activities” for “Doctrine, Training, and education” in heading, was executed by making the substitution for “Doctrine, Training, and Education” to reflect the probable intent of Congress.
+
+Subsec. (a)(5)(B). Pub. L. 113–66, § 905(a)(1), inserted “and technical standards, and executing actions,” after “policies”.
+
+Subsec. (a)(5)(C). Pub. L. 113–66, § 905(a)(2), struck out “and training” after “education”.
+
+Subsec. (a)(5)(D), (E). Pub. L. 113–66, § 905(a)(3), added subpars. (D) and (E).
 
 Subsec. (b). Pub. L. 112–239, § 952(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to risks under National Military Strategy.
 
@@ -321,6 +334,9 @@ Subsec. (b). Pub. L. 107–107, § 921(b)(2), struck out heading and text of sub
 Subsec. (d)(1)(C), (D). Pub. L. 106–398, § 1 [[div. A], title IX, § 905(a)], added subpars. (C) and (D).
 
 1999—Subsecs. (c), (d). Pub. L. 106–65 added subsecs. (c) and (d).
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–291, div. A, title X, § 1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made by section 1071(g)(3) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
 
 #### Common Measurement of Operations Tempo and Personnel Tempo
 Pub. L. 105–85, div. A, title III, § 326, Nov. 18, 1997, 111 Stat. 1679, provided that: “(a) Means for Measurement.—The Chairman of the Joint Chiefs of Staff shall, to the maximum extent practicable, develop (1) a common means of measuring the operations tempo (OPTEMPO) of each of the Armed Forces, and (2) a common means of measuring the personnel tempo (PERSTEMPO) of each of the Armed Forces. The Chairman shall consult with the other members of the Joint Chiefs of Staff in developing those common means of measurement. “(b) PERSTEMPO Measurement.—The measurement of personnel tempo developed by the Chairman shall include a means of identifying the rate of deployment for individual members of the Armed Forces in addition to the rate of deployment for units.”
@@ -399,7 +415,7 @@ Pub. L. 99–433, title II, § 204(c), Oct. 1, 1986, 100 Stat. 1011, authorized 
 
 **(c) Management of Joint Staff.—** The Chairman of the Joint Chiefs of Staff manages the Joint Staff and the Director of the Joint Staff. The Joint Staff shall perform such duties as the Chairman prescribes and shall perform such duties under such procedures as the Chairman prescribes.
 
-**(d) Operation of Joint Staff.—** The Secretary of Defense shall ensure that the Joint Staff is independently organized and operated so that the Joint Staff supports the Chairman of the Joint Chiefs of Staff in meeting the congressional purpose set forth in the last clause of section 2 of the National Security Act of 1947 ([50 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401&num=0&edition=prelim)) 11 See References in Text note below. to provide—
+**(d) Operation of Joint Staff.—** The Secretary of Defense shall ensure that the Joint Staff is independently organized and operated so that the Joint Staff supports the Chairman of the Joint Chiefs of Staff in meeting the congressional purpose set forth in the last clause of section 2 of the National Security Act of 1947 ([50 U.S.C. 3002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3002&num=0&edition=prelim)) to provide—
 
 (1) for the unified strategic direction of the combatant forces;
 
@@ -431,10 +447,9 @@ Pub. L. 99–433, title II, § 204(c), Oct. 1, 1986, 100 Stat. 1011, authorized 
 
 ### Statutory Notes
 
-#### References in Text
-The National Security Act of 1947, referred to in subsec. (d), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 2 of the Act is now classified to [section 3002 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3002&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
-
 #### Amendments
+2014—Subsec. (d). Pub. L. 113–291 substituted “([50 U.S.C. 3002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3002&num=0&edition=prelim))” for “([50 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401&num=0&edition=prelim))” in introductory provisions.
+
 1993—Subsec. (a)(1). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484. See 1992 Amendment note below.
 
 1992—Subsec. (a)(1). Pub. L. 102–484, as amended by Pub. L. 103–35, struck out “and the Vice Chairman” before “in carrying out”.

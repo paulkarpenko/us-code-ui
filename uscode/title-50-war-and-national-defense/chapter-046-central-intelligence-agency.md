@@ -20,7 +20,7 @@ When used in this chapter, the term—
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403a of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403a of this title](./chapter-015-national-security.md#section-403a) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 2004—Pub. L. 108–458 redesignated subsecs. (a) to (c) as pars. (1) to (3), respectively, and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘Director’ means the Director of Central Intelligence;”.
@@ -52,7 +52,7 @@ The Director shall cause a seal of office to be made for the Central Intelligenc
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403b of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403b of this title](./chapter-015-national-security.md#section-403b) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 2004—Pub. L. 108–458 struck out “of Central Intelligence” after “Director”.
@@ -76,7 +76,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403c of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403c of this title](./chapter-015-national-security.md#section-403c) prior to editorial reclassification and renumbering as this section.
 
 In subsecs. (a) and (d), references to the appropriate sections of title 10 were substituted for references to sections 2(c)(1) to (6), (10), (12), (15), (17), 3, 4, 5, 6, and 10 of the Armed Services Procurement Act of 1947 (Public Law 413, 80th Congress), on authority of section 49(b) of act Aug. 10, 1956, ch. 1041, 70A Stat. 640, section 1 of which enacted Title 10, Armed Forces. Prior to the enactment of Title 10, sections 2 to 6 and 10 of the Armed Services Procurement Act of 1947 were classified to sections 151 to 155 and 159 of former Title 41, Public Contracts. Cited sections of the Act were restated in sections of Title 10 as follows: ActTitle 10 2(c)2304(a) 32305(a)–(c) 42306, 2313 52307 5(a)2307(a) 62312 102308, 2309
 
@@ -105,7 +105,7 @@ Pub. L. 97–269, title V, § 502(b), Sept. 27, 1982, 96 Stat. 1145, provided th
 Section, act June 20, 1949, ch. 227, § 4, 63 Stat. 208, related to education and training of officers and employees. See section 4101 et seq. of Title 5, Government Organization and Employees.
 
 #### Codification
-Section was formerly classified to section 403d of chapter 15 of this title and repealed prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403d of this title](./chapter-015-national-security.md#section-403d) and repealed prior to editorial reclassification and renumbering as this section.
 
 
 <a id="section-3505"></a>
@@ -150,13 +150,13 @@ Section was formerly classified to section 403d of chapter 15 of this title and 
 
 (6) Pay the costs of preparing and transporting the remains of an officer or employee of the Agency or a member of his family who may die while in travel status or abroad, to his home or official station, or to such other place as the Director may determine to be the appropriate place of interment, provided that in no case shall the expense payable be greater than the amount which would have been payable had the destination been the home or official station.
 
-(7) Pay the costs of travel of new appoint­ees and their dependents, and the transportation of their household goods and personal effects, from places of actual residence in foreign countries at time of appointment to places of employment and return to their actual residences at the time of appointment or a point not more distant: Provided, That such appointees agree in writing to remain with the United States Government for a period of not less than twelve months from the time of appointment.Violation of such agreement for personal convenience of an employee or because of separation for misconduct will bar such return payments and, if determined by the Director or his designee to be in the best interests of the United States, any money expended by the United States on account of such travel and transportation shall be considered as a debt due by the individual concerned to the United States.
+(7) Pay the costs of travel of new appointees and their dependents, and the transportation of their household goods and personal effects, from places of actual residence in foreign countries at time of appointment to places of employment and return to their actual residences at the time of appointment or a point not more distant: Provided, That such appointees agree in writing to remain with the United States Government for a period of not less than twelve months from the time of appointment.Violation of such agreement for personal convenience of an employee or because of separation for misconduct will bar such return payments and, if determined by the Director or his designee to be in the best interests of the United States, any money expended by the United States on account of such travel and transportation shall be considered as a debt due by the individual concerned to the United States.
 
 **(b) Allowances and benefits comparable to those paid members of Foreign Service; special requirements; persons detailed or assigned from other agencies; regulations**
 
 (1) The Director may pay to officers and employees of the Agency, and to persons detailed or assigned to the Agency from other agencies of the Government or from the Armed Forces, allowances and benefits comparable to the allowances and benefits authorized to be paid to members of the Foreign Service under chapter 9 of title I of the Foreign Service Act of 1980 ([22 U.S.C. 4081](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4081&num=0&edition=prelim) et seq.) or any other provision of law.
 
-(2) The Director may pay allowances and benefits related to officially authorized travel, personnel and physical security activities, operational activities, and cover-related activities (whether or not such allowances and benefits are otherwise authorized under this section or any other provision of law) when payment of such allowances and benefits is necessary to meet the special requirements of work related to such activities. Payment of allowances and benefits under this paragraph shall be in accordance with regulations prescribed by the Director. Rates for allowances and benefits under this paragraph may not be set at rates in excess of those authorized by section 5724 and 5724a of title 5 when reimbursement is provided for relocation attributable, in whole or in part, to relocation within the United States.
+(2) The Director may pay allowances and benefits related to officially authorized travel, personnel and physical security activities, operational activities, and cover-related activities (whether or not such allowances and benefits are otherwise authorized under this section or any other provision of law) when payment of such allowances and benefits is necessary to meet the special requirements of work related to such activities. Payment of allowances and benefits under this paragraph shall be in accordance with regulations prescribed by the Director. Rates for allowances and benefits under this paragraph may not be set at rates in excess of those authorized by section 33 So in original. Probably should be “sections”. 5724 and 5724a of title 5 when reimbursement is provided for relocation attributable, in whole or in part, to relocation within the United States.
 
 (3) Notwithstanding any other provision of this section or any other provision of law relating to the officially authorized travel of Government employees, the Director, in order to reflect Agency requirements not taken into account in the formulation of Government-wide travel procedures, may by regulation—
 
@@ -174,12 +174,12 @@ Section was formerly classified to section 403d of chapter 15 of this title and 
 The Foreign Service Act of 1980, referred to in subsec. (b)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of title I of the Act is classified generally to subchapter IX (§ 4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
 #### Codification
-Section was formerly classified to section 403e of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403e of this title](./chapter-015-national-security.md#section-403e) prior to editorial reclassification and renumbering as this section.
 
 In subsec. (a)(3)(B), (C), “this subsection” substituted for “this section” as the probable intent of Congress in view of the designation of the existing provisions of this section as subsec. (a) and the addition of subsec. (b) by Pub. L. 97–89, title V, § 501, Dec. 4, 1981, 95 Stat. 1152.
 
 #### Prior Provisions
-A prior section 4 of act June 20, 1949, was classified to former [section 403d of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403d&num=0&edition=prelim) prior to repeal by Pub. L. 85–507 and editorial reclassification and renumbering as [section 3504 of this title](./chapter-046-central-intelligence-agency.md#section-3504).
+A prior section 4 of act June 20, 1949, was classified to former [section 403d of this title](./chapter-015-national-security.md#section-403d) prior to repeal by Pub. L. 85–507 and editorial reclassification and renumbering as [section 3504 of this title](./chapter-046-central-intelligence-agency.md#section-3504).
 
 #### Amendments
 2003—Subsec. (b)(5). Pub. L. 108–177 inserted “, other than regulations under paragraph (1),” after “Regulations”.
@@ -279,13 +279,13 @@ Ex. Ord. No. 10100, Jan. 28, 1950, 15 F.R. 499, which provided for regulations g
 Section 3651 of the Revised Statutes, referred to in subsec. (a)(2), was classified to section 543 of former Title 31, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1084, the first section of which enacted Title 31, Money and Finance.
 
 #### Codification
-Section was formerly classified to section 403f of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+Section was formerly classified to [section 403f of this title](./chapter-015-national-security.md#section-403f) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Prior Provisions
 A prior section 5 of act June 20, 1949, was renumbered section 4 and is classified to [section 3505 of this title](./chapter-046-central-intelligence-agency.md#section-3505).
 
 #### Amendments
-2010—Subsec. (a)(1). Pub. L. 111–259, § 802(1), substituted “authorized under [section 403–4a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–4a&num=0&edition=prelim).” for “authorized under paragraphs (2) and (3) of [section 403(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403/a&num=0&edition=prelim), subsections (c)(7) and (d) of [section 403–3 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–3&num=0&edition=prelim), subsections (a) and (g) of [section 403–4 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–4&num=0&edition=prelim), and [section 405 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section405&num=0&edition=prelim)”.
+2010—Subsec. (a)(1). Pub. L. 111–259, § 802(1), substituted “authorized under [section 403–4a of this title](./chapter-015-national-security.md#section-403-4a).” for “authorized under paragraphs (2) and (3) of [section 403(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403/a&num=0&edition=prelim), subsections (c)(7) and (d) of [section 403–3 of this title](./chapter-015-national-security.md#section-403-3), subsections (a) and (g) of [section 403–4 of this title](./chapter-015-national-security.md#section-403-4), and [section 405 of this title](./chapter-015-national-security.md#section-405)”.
 
 Subsec. (a)(4). Pub. L. 111–259, § 421, substituted “the protection of current” for “and the protection of current” and inserted “, and the protection of the Director of National Intelligence and such personnel of the Office of the Director of National Intelligence as the Director of National Intelligence may designate” before the semicolon.
 
@@ -301,7 +301,7 @@ Subsec. (a)(4). Pub. L. 105–272, § 401, substituted “and the protection of 
 
 1997—Pub. L. 105–107 designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively, of subsec. (a), in par. (5) substituted semicolon for “without regard to limitations on expenditures contained in the Act of June 30, 1932, as amended: Provided, That in each case the Director shall certify that exception from such limitations is necessary to the successful performance of the Agency’s functions or to the security of its activities; and”, and added par. (7) and subsec. (b).
 
-1993—Subsec. (a). Pub. L. 103–178 substituted “Office of Management and Budget” for “Bureau of the Budget” and “subparagraphs (B) and (C) of [section 403(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403/a/2&num=0&edition=prelim), subsections (c)(5) and (d) of [section 403–3 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–3&num=0&edition=prelim), subsections (a) and (g) of [section 403–4 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–4&num=0&edition=prelim), and [section 405 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section405&num=0&edition=prelim)” for “sections 403 and 405 of this title”.
+1993—Subsec. (a). Pub. L. 103–178 substituted “Office of Management and Budget” for “Bureau of the Budget” and “subparagraphs (B) and (C) of [section 403(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403/a/2&num=0&edition=prelim), subsections (c)(5) and (d) of [section 403–3 of this title](./chapter-015-national-security.md#section-403-3), subsections (a) and (g) of [section 403–4 of this title](./chapter-015-national-security.md#section-403-4), and [section 405 of this title](./chapter-015-national-security.md#section-405)” for “sections 403 and 405 of this title”.
 
 1983—Subsec. (f). Pub. L. 98–215 added subsec. (f).
 
@@ -324,9 +324,13 @@ Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 
 Amendment by Pub. L. 88–448 effective on first day of first month which begins later than the ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448, title IV, Aug. 19, 1964, 78 Stat. 496.
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
-Pub. L. 113–6, div. C, title VIII, § 8045(b), Mar. 26, 2013, 127 Stat. 308, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 113–235, div. C, title VIII, § 8045(b), Dec. 16, 2014, 128 Stat. 2264, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. C, title VIII, § 8045(b), Jan. 17, 2014, 128 Stat. 115.
+
+Pub. L. 113–6, div. C, title VIII, § 8045(b), Mar. 26, 2013, 127 Stat. 308.
 
 Pub. L. 112–74, div. A, title VIII, § 8045(b), Dec. 23, 2011, 125 Stat. 817.
 
@@ -383,7 +387,7 @@ The Director of the Central Intelligence Agency shall, in accordance with standa
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403–4b of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403–4b of this title](./chapter-015-national-security.md#section-403-4b) prior to editorial reclassification and renumbering as this section.
 
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Act of 2004, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
 
@@ -409,7 +413,7 @@ Act of August 28, 1935, referred to in text, which provided for the yearly publi
 Section 607 of the Act of June 30, 1945, as amended, referred to in text, was repealed by act Sept. 12, 1950, ch. 946, title III, § 301(85), 64 Stat. 843.
 
 #### Codification
-Section was formerly classified to section 403g of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+Section was formerly classified to [section 403g of this title](./chapter-015-national-security.md#section-403g) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Prior Provisions
 A prior section 6 of act June 20, 1949, was renumbered section 5 and is classified to [section 3506 of this title](./chapter-046-central-intelligence-agency.md#section-3506).
@@ -441,7 +445,7 @@ Whenever the Director, the Attorney General, and the Commissioner of Immigration
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403h of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403h of this title](./chapter-015-national-security.md#section-403h) prior to editorial reclassification and renumbering as this section.
 
 #### Prior Provisions
 A prior section 7 of act June 20, 1949, was renumbered section 6 and is classified to [section 3507 of this title](./chapter-046-central-intelligence-agency.md#section-3507).
@@ -470,7 +474,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 Section, acts June 20, 1949, ch. 227, § 9, 63 Stat. 212; Aug. 16, 1950, ch. 719, 64 Stat. 450, related to establishment of positions in the professional and scientific field.
 
 #### Codification
-Section was formerly classified to section 403i of chapter 15 of this title and repealed prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403i of this title](./chapter-015-national-security.md#section-403i) and repealed prior to editorial reclassification and renumbering as this section.
 
 
 <a id="section-3510"></a>
@@ -491,7 +495,7 @@ Section was formerly classified to section 403i of chapter 15 of this title and 
 The reference to 36 Stat. 699; [40 U.S.C. 259](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section259&num=0&edition=prelim), 267, in subsec. (a)(1), was probably meant to be a reference to section 3734 of the Revised Statutes. Section 33 of act June 25, 1910, ch. 383, which appears at 36 Stat. 699, amended generally section 3734 of the Revised Statutes which was classified to sections 259 and 267 of former Title 40, Public Buildings, Property, and Works. Section 3734 of the Revised Statutes was subsequently repealed by Pub. L. 86–249, § 17(12), Sept. 9, 1959, 73 Stat. 485.
 
 #### Codification
-Section was formerly classified to section 403j of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403j of this title](./chapter-015-national-security.md#section-403j) prior to editorial reclassification and renumbering as this section.
 
 In subsec. (a)(1), “([5 U.S.C. 7901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7901&num=0&edition=prelim))” substituted for “([5 U.S.C. 150](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section150&num=0&edition=prelim))” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
@@ -507,7 +511,7 @@ During the current fiscal year and thereafter, funds appropriated for constructi
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified as a note under section 403j of chapter 15 of this title prior to editorial reclassification in chapter 46 of this title.
+Section was formerly classified as a note under [section 403j of this title](./chapter-015-national-security.md#section-403j) prior to editorial reclassification as this section.
 
 Section was enacted as part of the Department of Defense Appropriations Act, 1994, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
 
@@ -537,7 +541,7 @@ Pursuant to the authority granted in [section 3510 of this title](./chapter-046-
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified as a note under section 403j of chapter 15 of this title prior to editorial reclassification in chapter 46 of this title.
+Section was formerly classified as a note under [section 403j of this title](./chapter-015-national-security.md#section-403j) prior to editorial reclassification as this section.
 
 Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1987, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
 
@@ -568,18 +572,18 @@ Reference to the Director of Central Intelligence or the Director of the Central
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403k of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403k of this title](./chapter-015-national-security.md#section-403k) prior to editorial reclassification and renumbering as this section.
 
 In subsec. (b)(3), “[section 3973 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3973&num=0&edition=prelim)” substituted for “section 14 of the Act of August 1, 1956 ([22 U.S.C. 2679a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2679a&num=0&edition=prelim))” on authority of section 2401(c) of the Foreign Service Act of 1980 ([22 U.S.C. 4172(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4172/c&num=0&edition=prelim)), section 2205(10) of which repealed section 14 of the 1956 Act ([22 U.S.C. 2679a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2679a&num=0&edition=prelim)).
 
 
 <a id="section-3512"></a>
-## § 3512. Authority to accept gifts, devises, and bequests
+## § 3512. Gifts, devises, and bequests
 **(a) Use for operational purposes prohibited**
 
 (1) Subject to the provisions of this section, the Director may accept, hold, administer, and use gifts of money, securities, or other property whenever the Director determines it would be in the interest of the United States to do so.
 
-(2) Any gift accepted under this section (and any income produced by any such gift)—
+(2) Any gift accepted by the Director as a gift to the Agency under this subsection (and any income produced by any such gift)—
 
   (A) may be used only for—” 11 So in original. The quotation marks probably should not appear.
 
@@ -609,15 +613,21 @@ In subsec. (b)(3), “[section 3973 of title 22](https://uscode.house.gov/view.x
 
 (5) The Director may, in the Director’s discretion, determine that an individual described in subparagraph (A) or (B) of paragraph (3) may accept a gift for the purposes described in paragraph (2)(A)(iii).
 
-**(b) Sale, exchange and investment of gifts** Unless otherwise restricted by the terms of the gift, the Director may sell or exchange, or invest or reinvest, any property which is accepted under this section, but any such investment may only be in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
+**(b) Sale, exchange and investment of gifts** Unless otherwise restricted by the terms of the gift, the Director may sell or exchange, or invest or reinvest, any property which is accepted under subsection (a), but any such investment may only be in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
 
-**(c) Deposit of gifts into special fund** There is hereby created on the books of the Treasury of the United States a fund into which gifts of money, securities, and other intangible property accepted under the authority of this section, and the earnings and proceeds thereof, shall be deposited. The assets of such fund shall be disbursed upon the order of the Director for the purposes specified in subsection (a) or (b) of this section.
+**(c) Deposit of gifts into special fund** There is hereby created on the books of the Treasury of the United States a fund into which gifts of money, securities, and other intangible property accepted under the authority of subsection (a), and the earnings and proceeds thereof, shall be deposited. The assets of such fund shall be disbursed upon the order of the Director for the purposes specified in subsection (a) or (b) of this section.
 
-**(d) Taxation of gifts** For purposes of Federal income, estate, and gift taxes, gifts accepted by the Director under this section shall be considered to be to or for the use of the United States.
+**(d) Taxation of gifts** For purposes of Federal income, estate, and gift taxes, gifts accepted by the Director under subsection (a) shall be considered to be to or for the use of the United States.
 
 **(e) “Gift” defined** For the purposes of this section, the term “gift” includes a bequest or devise.
 
-**(f) Regulations** The Director, in consultation with the Director of the Office of Government Ethics, shall issue regulations to carry out the authority provided in this section. Such regulations shall ensure that such authority is exercised consistent with all relevant ethical constraints and principles, including—
+**(f) Fundraising**
+
+(1) The Director may engage in fundraising in an official capacity for the benefit of nonprofit organizations that provide support to surviving family members of deceased Agency employees or that otherwise provide support for the welfare, education, or recreation of Agency employees, former Agency employees, or their family members.
+
+(2) In this subsection, the term “fundraising” means the raising of funds through the active participation in the promotion, production, or presentation of an event designed to raise funds and does not include the direct solicitation of money by any other means.
+
+**(g) Regulations** The Director, in consultation with the Director of the Office of Government Ethics, shall issue regulations to carry out the authority provided in this section. Such regulations shall ensure that such authority is exercised consistent with all relevant ethical constraints and principles, including—
 
 (1) the avoidance of any prohibited conflict of interest or appearance of impropriety; and
 
@@ -626,9 +636,19 @@ In subsec. (b)(3), “[section 3973 of title 22](https://uscode.house.gov/view.x
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403l of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to section 403l of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2014—Pub. L. 113–126, § 421(1), substituted “Gifts, devises, and bequests” for “Authority to accept gifts, devises, and bequests” in section catchline.
+
+Subsec. (a)(2). Pub. L. 113–126, § 421(2), in introductory provisions, inserted “by the Director as a gift to the Agency” after “accepted” and substituted “this subsection” for “this section”.
+
+Subsecs. (b), (c). Pub. L. 113–126, § 421(3), (4), substituted “subsection (a),” for “this section,”.
+
+Subsec. (d). Pub. L. 113–126, § 421(5), substituted “subsection (a)” for “this section”.
+
+Subsecs. (f), (g). Pub. L. 113–126, § 421(6), (7), added subsec. (f) and redesignated former subsec. (f) as (g).
+
 2012—Subsec. (a). Pub. L. 112–87, § 411(1), designated existing provisions as par. (1), struck out “Any gift accepted under this section (and any income produced by any such gift) may be used only for artistic display or for purposes relating to the general welfare, education, or recreation of employees or dependents of employees of the Agency or for similar purposes, and under no circumstances may such a gift (or any income produced by any such gift) be used for operational purposes. The Director may not accept any gift under this section which is expressly conditioned upon any expenditure not to be met from the gift itself or from income produced by the gift unless such expenditure has been authorized by law.” at end, and added pars. (2) to (5).
 
 Subsec. (f). Pub. L. 112–87, § 411(2), added subsec. (f).
@@ -643,7 +663,7 @@ Subsec. (f). Pub. L. 112–87, § 411(2), added subsec. (f).
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403m of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403m of this title](./chapter-015-national-security.md#section-403m) prior to editorial reclassification and renumbering as this section.
 
 #### Effective Date
 Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a note under [section 1621 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1621&num=0&edition=prelim), Armed Forces.
@@ -658,12 +678,12 @@ Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403n of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+Section was formerly classified to [section 403n of this title](./chapter-015-national-security.md#section-403n) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
 2004—Subsec. (b). Pub. L. 108–458 substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
-1992—Subsec. (a). Pub. L. 102–496 substituted references to sections 2002, 2031 to 2035, 2052, 2071, and 2094 of this title for references in original to sections 204, 221 to 225, 232, 234 and 263 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees which were formerly set out in a note under [section 403 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim).
+1992—Subsec. (a). Pub. L. 102–496 substituted references to sections 2002, 2031 to 2035, 2052, 2071, and 2094 of this title for references in original to sections 204, 221 to 225, 232, 234 and 263 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees which were formerly set out in a note under [section 403 of this title](./chapter-015-national-security.md#section-403).
 
 1987—Subsec. (a). Pub. L. 100–178, § 402(b)(3), inserted “232(b),” before “234(c), 234(d),”.
 
@@ -683,7 +703,7 @@ Amendment by Pub. L. 102–496 effective on first day of fourth month beginning 
 Amendment by Pub. L. 100–178 effective Nov. 15, 1982, but not to be construed to require forfeiture by any individual of benefits received before Dec. 2, 1987, nor to require reduction in level of benefits received by any individual who was receiving benefits under section 232 of Pub. L. 88–643 before Dec. 2, 1987, see section 402(c)–(e) of Pub. L. 100–178, set out as an Effective Date of Amendments to Pub. L. 88–643 Prior to Enactment of Pub. L. 102–496 note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 #### Effective Date of 1986 Amendment
-Pub. L. 99–569, title III, § 302(d), Oct. 27, 1986, 100 Stat. 3194, provided that: “The amendments made by this section [amending this section and provisions formerly set out as a note under [section 403 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim)] shall take effect on October 1, 1986.”
+Pub. L. 99–569, title III, § 302(d), Oct. 27, 1986, 100 Stat. 3194, provided that: “The amendments made by this section [amending this section and provisions formerly set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403)] shall take effect on October 1, 1986.”
 
 #### Effective Date
 Section effective Nov. 15, 1982, see section 613 of Pub. L. 97–269 set out as an Effective Date of Amendments to Pub. L. 88–643 Prior to Enactment of Pub. L. 102–496 note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
@@ -730,7 +750,7 @@ Section effective Nov. 15, 1982, see section 613 of Pub. L. 97–269 set out as 
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403o of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to section 403o of this title prior to editorial reclassification and renumbering as this section.
 
 Pub. L. 98–473, title I, § 140 and Pub. L. 98–618, title IV, § 401, added substantially identical sections 15 to act June 20, 1949, ch. 227. This section is based on the section 15 of act June 20, 1949, ch. 227, as added by Pub. L. 98–618.
 
@@ -816,7 +836,7 @@ is eligible for coverage under a health benefits plan in accordance with the pro
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403p of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403p of this title](./chapter-015-national-security.md#section-403p) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 2004—Subsec. (b)(2). Pub. L. 108–458, § 1071(b)(3)(B), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence” in introductory provisions.
@@ -846,13 +866,13 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 Amendment by section 203(c) of Pub. L. 103–178 applicable to individuals on and after Oct. 1, 1994, with no benefits provided pursuant to section 203(c) payable with respect to any period before Oct. 1, 1994, except that subsec. (d) of this section applicable to individuals beginning Dec. 3, 1993, see section 203(e) of Pub. L. 103–178, set out as a Survivor Annuity, Retirement Annuity, and Health Benefits for Certain Ex-Spouses of Central Intelligence Agency Employees; Effective Date note under [section 2032 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2032).
 
 #### Effective Date of 1991 Amendment
-Pub. L. 102–88, title III, § 307(d), Aug. 14, 1991, 105 Stat. 433, provided that: “The amendments made by this section [amending this section and provisions formerly set out as a note under [section 403 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim)] shall take effect as of October 1, 1990. No benefits provided pursuant to the amendments made by this section shall be payable with respect to any period before such date.”
+Pub. L. 102–88, title III, § 307(d), Aug. 14, 1991, 105 Stat. 433, provided that: “The amendments made by this section [amending this section and provisions formerly set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403)] shall take effect as of October 1, 1990. No benefits provided pursuant to the amendments made by this section shall be payable with respect to any period before such date.”
 
 #### Effective Date
 Pub. L. 99–569, title III, § 303(b), Oct. 27, 1986, 100 Stat. 3195, provided that: “The amendment made by this section [enacting this section] shall take effect on October 1, 1986.”
 
 #### Compliance With Budget Act
-Pub. L. 102–88, title III, § 307(e), Aug. 14, 1991, 105 Stat. 433, provided that: “Any new spending authority (within the meaning of section 401(c) of the Congressional Budget Act of 1974 [[2 U.S.C. 651(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section651/c&num=0&edition=prelim)]) provided pursuant to the amendments made by this section [amending this section and provisions formerly set out as a note under [section 403 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim)] shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.”
+Pub. L. 102–88, title III, § 307(e), Aug. 14, 1991, 105 Stat. 433, provided that: “Any new spending authority (within the meaning of section 401(c) of the Congressional Budget Act of 1974 [[2 U.S.C. 651(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section651/c&num=0&edition=prelim)]) provided pursuant to the amendments made by this section [amending this section and provisions formerly set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403)] shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
 
 <a id="section-3517"></a>
@@ -945,7 +965,11 @@ there is hereby established in the Agency an Office of Inspector General (hereaf
 
   (A) An employee of the Agency, or of a contractor to the Agency, who intends to report to Congress a complaint or information with respect to an urgent concern may report such complaint or information to the Inspector General.
 
-  (B) Not later than the end of the 14-calendar day period beginning on the date of receipt from an employee of a complaint or information under subparagraph (A), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.
+  (B)
+
+    (i) Not later than the end of the 14-calendar day period beginning on the date of receipt from an employee of a complaint or information under subparagraph (A), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.
+
+    (ii) If the Director determines that a complaint or information transmitted under paragraph (1) would create a conflict of interest for the Director, the Director shall return the complaint or information to the Inspector General with that determination and the Inspector General shall make the transmission to the Director of National Intelligence. In such a case, the requirements of this subsection for the Director of the Central Intelligence Agency apply to the Director of National Intelligence 11 So in original. Probably should be followed by a period.
 
   (C) Upon receipt of a transmittal from the Inspector General under subparagraph (B), the Director shall, within 7 calendar days of such receipt, forward such transmittal to the intelligence committees, together with any comments the Director considers appropriate.
 
@@ -977,6 +1001,8 @@ there is hereby established in the Agency an Office of Inspector General (hereaf
 
     (ii) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
+  (H) An individual who has submitted a complaint or information to the Inspector General under this section may notify any member of the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate, or a staff member of either such Committee, of the fact that such individual has made a submission to the Inspector General, and of the date on which such submission was made.
+
 **(e) Authorities of Inspector General**
 
 (1) The Inspector General shall have direct and prompt access to the Director when necessary for any purpose pertaining to the performance of his duties.
@@ -989,7 +1015,7 @@ there is hereby established in the Agency an Office of Inspector General (hereaf
 
   (B) no action constituting a reprisal, or threat of reprisal, for making such complaint or providing such information may be taken by any employee of the Agency in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
-(4) The Inspector General shall have authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of his duties, which oath 11 So in original. Probably should be followed by a comma. affirmation, or affidavit when administered or taken by or before an employee of the Office designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal.
+(4) The Inspector General shall have authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of his duties, which oath 22 So in original. Probably should be followed by a comma. affirmation, or affidavit when administered or taken by or before an employee of the Office designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal.
 
 (5)
 
@@ -1069,9 +1095,13 @@ there is hereby established in the Agency an Office of Inspector General (hereaf
 The National Security Act of 1947, referred to in subsec. (d)(4), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
-Section was formerly classified to section 403q of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403q of this title](./chapter-015-national-security.md#section-403q) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2014—Subsec. (d)(5)(B). Pub. L. 113–126, § 603(b)(1), designated existing provisions as cl. (i) and added cl. (ii).
+
+Subsec. (d)(5)(H). Pub. L. 113–126, § 603(b)(2), added subpar. (H).
+
 2013—Subsec. (d)(1). Pub. L. 112–277, in introductory provisions, substituted “October 31 and April 30” for “January 31 and July 31”, “September 30 and March 31,” for “December 31 (of the preceding year) and June 30,”, and “Not later than 30 days after the date of the receipt of such reports,” for “Not later than the dates each year provided for the transmittal of such reports in section 507 of the National Security Act of 1947,”.
 
 2012—Subsec. (h). Pub. L. 112–87 added subsec. (h).
@@ -1194,10 +1224,10 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 Subsection (o) of [section 8339 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8339&num=0&edition=prelim), referred to in subsec. (c), was redesignated subsec. (p) of that section by Pub. L. 102–378, § 2(62), Oct. 2, 1992, 106 Stat. 1354.
 
 #### Codification
-Section was formerly classified to section 403r of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+Section was formerly classified to [section 403r of this title](./chapter-015-national-security.md#section-403r) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
-1992—Subsec. (a). Pub. L. 102–496 substituted reference to [section 2013 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2013) for reference in original to section 203 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees which was formerly set out as a note under [section 403 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim).
+1992—Subsec. (a). Pub. L. 102–496 substituted reference to [section 2013 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2013) for reference in original to section 203 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees which was formerly set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403).
 
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–496 effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as an Effective Date note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
@@ -1211,7 +1241,7 @@ The special accrual rates provided by [section 2153 of this title](./chapter-038
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403r–1 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403r–1 of this title](./chapter-015-national-security.md#section-403r-1) prior to editorial reclassification and renumbering as this section.
 
 Section was enacted as part of the Intelligence Authorization Act, Fiscal Year 1990, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
 
@@ -1248,24 +1278,24 @@ such surviving spouse, former spouse, or child of such officer or employee shall
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403s of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+Section was formerly classified to [section 403s of this title](./chapter-015-national-security.md#section-403s) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
 1993—Subsec. (b). Pub. L. 103–178, § 501(3)(A), (C), substituted “section 2052” for “section 2051” in heading and concluding provisions.
 
 Subsec. (b)(2). Pub. L. 103–178, § 501(3)(B), made technical amendment to reference to [section 2013 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2013) to update reference to corresponding section of original act.
 
-1992—Subsec. (a). Pub. L. 102–496, § 803(a)(3)(A), inserted heading, redesignated cl. (i) as par. (1), in cl. (ii), substituted reference to [section 2013 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2013) for reference in original to section 203 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, as amended, which was formerly set out as a note under [section 403 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim), and redesignated such cl. as par. (2), in cl. (iii), inserted “such” before reference to [section 2013 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2013) and redesignated such cl. as par. (3), redesignated cl. (iv) as par. (4), and substituted reference to [section 2051 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2051) for “such section 231” in concluding provisions.
+1992—Subsec. (a). Pub. L. 102–496, § 803(a)(3)(A), inserted heading, redesignated cl. (i) as par. (1), in cl. (ii), substituted reference to [section 2013 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2013) for reference in original to section 203 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, as amended, which was formerly set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403), and redesignated such cl. as par. (2), in cl. (iii), inserted “such” before reference to [section 2013 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2013) and redesignated such cl. as par. (3), redesignated cl. (iv) as par. (4), and substituted reference to [section 2051 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2051) for “such section 231” in concluding provisions.
 
-Subsec. (b). Pub. L. 102–496, § 803(a)(3)(B)(i), (ii), (iv)–(vi), inserted heading, redesignated cl. (i) as par. (1), in cl. (ii), substituted reference to [section 2013 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2013) for reference in original to section 203 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, as amended, which was formerly set out as a note under [section 403 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim), and redesignated cl. (ii) as par. (2), redesignated cls. (iii) and (iv) as pars. (3) and (4), respectively, and in concluding provisions, substituted “surviving spouse, former spouse, or child” for “widow or widower, former spouse, and/or child or children” and substituted reference to [section 2051 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2051) for “such section 232”.
+Subsec. (b). Pub. L. 102–496, § 803(a)(3)(B)(i), (ii), (iv)–(vi), inserted heading, redesignated cl. (i) as par. (1), in cl. (ii), substituted reference to [section 2013 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2013) for reference in original to section 203 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, as amended, which was formerly set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403), and redesignated cl. (ii) as par. (2), redesignated cls. (iii) and (iv) as pars. (3) and (4), respectively, and in concluding provisions, substituted “surviving spouse, former spouse, or child” for “widow or widower, former spouse, and/or child or children” and substituted reference to [section 2051 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2051) for “such section 232”.
 
 Pub. L. 102–496, § 803(a)(3)(B)(iii), which directed the substitution of “surviving spouse, former spouse, or child as defined in [section 2002 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2002)” in cl. (iv) for “widow or widower, former spouse, and/or child or children as defined in section 204 and section 232 of such the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”, was executed by making the substitution for “widow or widower, former spouse, and/or a child or children as defined in section 204 and section 232 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”, to reflect the probable intent of Congress.
 
 Subsec. (c). Pub. L. 102–496, § 803(a)(3)(D)(i)–(iii), inserted heading, struck out par. (1) designation before “The annuities provided”, substituted “maintained pursuant to [section 2012 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2012)” for “established by section 202 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”, and struck out par. (2) which read as follows: “The annuities and/or other benefits provided under subsections (c) and (d) of this section shall be deemed to be annuities and/or benefits under chapter 84 of title 5 for purposes of the other provisions of such chapter and other laws (including title 26) relating to such annuities and/or benefits, but shall be payable from the Central Intelligence Agency Retirement and Disability Fund established by section 202 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees.”
 
-Pub. L. 102–496, § 803(a)(3)(C), (D), redesignated subsec. (e) as (c) and struck out former subsec. (c) which provided for retirement of officers and employees of the Central Intelligence Agency as though designated pursuant to section 302(a) of Pub. L. 88–643 which was formerly set out as a note under [section 403 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim).
+Pub. L. 102–496, § 803(a)(3)(C), (D), redesignated subsec. (e) as (c) and struck out former subsec. (c) which provided for retirement of officers and employees of the Central Intelligence Agency as though designated pursuant to section 302(a) of Pub. L. 88–643 which was formerly set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403).
 
-Subsec. (d). Pub. L. 102–496, § 803(a)(3)(C), struck out subsec. (d) which provided that survivors of officers and employees of the Central Intelligence Agency were to receive benefits as though deceased had been designated pursuant to section 302(a) of Pub. L. 88–643, which was formerly set out as a note under [section 403 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim).
+Subsec. (d). Pub. L. 102–496, § 803(a)(3)(C), struck out subsec. (d) which provided that survivors of officers and employees of the Central Intelligence Agency were to receive benefits as though deceased had been designated pursuant to section 302(a) of Pub. L. 88–643, which was formerly set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403).
 
 Subsec. (e). Pub. L. 102–496, § 803(a)(3)(D), redesignated subsec. (e) as (c).
 
@@ -1329,7 +1359,7 @@ Amendment by Pub. L. 102–496 effective on first day of fourth month beginning 
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403x of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title, and as a note under [section 403–4 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–4&num=0&edition=prelim) prior to editorial transfer to section 403x.
+Section was formerly classified to [section 403x of this title](./chapter-015-national-security.md#section-403x) prior to editorial reclassification and renumbering as this section, and as a note under [section 403–4 of this title](./chapter-015-national-security.md#section-403-4) prior to editorial transfer to section 403x.
 
 Section was enacted as part of the Central Intelligence Agency Voluntary Separation Pay Act, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
 
@@ -1382,7 +1412,7 @@ Pub. L. 104–293, title IV, § 402, Oct. 11, 1996, 110 Stat. 3468, provided tha
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403t of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403t of this title](./chapter-015-national-security.md#section-403t) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 2004—Subsec. (c). Pub. L. 108–458 struck out “of Central Intelligence” after “Director”.
@@ -1410,7 +1440,7 @@ Pub. L. 104–293, title VIII, § 813(b), Oct. 11, 1996, 110 Stat. 3483, provide
 
   (C) assign to such providers for purposes of the program such inventories, equipment, and other assets (including equipment on order) as the Director determines necessary to permit such providers to provide items or services under the program; and
 
-  (D) authorize such providers to make known their services to the entities specified in section 11 So in original. Probably should be “subsection”. (a) through Government communication channels.
+  (D) authorize such providers to make known their services to the entities specified in subsection (a) through Government communication channels.
 
 (2) The designation of elements and the specification of items and services under paragraph (1) shall be subject to the approval of the Director of the Office of Management and Budget.
 
@@ -1430,7 +1460,7 @@ Pub. L. 104–293, title VIII, § 813(b), Oct. 11, 1996, 110 Stat. 3483, provide
 
   (D) Amounts received in payment for loss or damage to equipment or property of a central service provider as a result of activities under the program.
 
-  (E) Other receipts from the sale or exchange of equipment, recyclable materials, or property of a central service provider.22 So in original. The period probably should not appear. as a result of activities under the program.
+  (E) Other receipts from the sale or exchange of equipment, recyclable materials, or property of a central service provider as a result of activities under the program.
 
   (F) Receipts from individuals in reimbursement for utility services and meals provided under the program.
 
@@ -1471,9 +1501,13 @@ Pub. L. 104–293, title VIII, § 813(b), Oct. 11, 1996, 110 Stat. 3483, provide
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403u of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403u of this title](./chapter-015-national-security.md#section-403u) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2014—Subsec. (b)(1)(D). Pub. L. 113–126, § 701(1), substituted “subsection (a)” for “section (a)”.
+
+Subsec. (c)(2)(E). Pub. L. 113–126, § 701(2), substituted “provider as” for “provider. as”.
+
 2013—Subsec. (b)(1)(D). Pub. L. 112–277, § 401(1)(A), added subpar. (D).
 
 Subsec. (b)(3). Pub. L. 112–277, § 401(1)(B), added par. (3).
@@ -1496,7 +1530,7 @@ Subsec. (g)(2). Pub. L. 108–458, § 1071(b)(3)(E), substituted “Director of 
 
 2001—Subsec. (g)(1). Pub. L. 107–108, § 401(a), substituted “January 31” for “December 31” and “complete an audit” for “conduct an audit”.
 
-Subsec. (h). Pub. L. 107–108, § 401(b), redesignated pars. (2) and (3) as (1) and (2), respectively, substituted “paragraph (2)” for “paragraph (3)” in par. (1) and “paragraph (1)” for “paragraph (2)” in par. (2), and struck out former par. (1) which read as follows: “The authority of the Director to carry out the program under this section shall terminate on March 31, 2002.”.
+Subsec. (h). Pub. L. 107–108, § 401(b), redesignated pars. (2) and (3) as (1) and (2), respectively, substituted “paragraph (2)” for “paragraph (3)” in par. (1) and “paragraph (1)” for “paragraph (2)” in par. (2), and struck out former par. (1) which read as follows: “The authority of the Director to carry out the program under this section shall terminate on March 31, 2002.”
 
 2000—Subsec. (c)(2)(F) to (H). Pub. L. 106–567, § 401(a), added subpars. (F) and (G) and redesignated former subpar. (F) as (H).
 
@@ -1520,9 +1554,13 @@ For Determination by President that amendment by Pub. L. 108–458 take effect o
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
-Pub. L. 113–6, div. C, title VIII, § 8032, Mar. 26, 2013, 127 Stat. 304, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
+Pub. L. 113–235, div. C, title VIII, § 8033, Dec. 16, 2014, 128 Stat. 2260, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. C, title VIII, § 8032, Jan. 17, 2014, 128 Stat. 111.
+
+Pub. L. 113–6, div. C, title VIII, § 8032, Mar. 26, 2013, 127 Stat. 304.
 
 Pub. L. 112–74, div. A, title VIII, § 8032, Dec. 23, 2011, 125 Stat. 812.
 
@@ -1565,7 +1603,7 @@ The Director may—
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403v of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403v of this title](./chapter-015-national-security.md#section-403v) prior to editorial reclassification and renumbering as this section.
 
 
 <a id="section-3523"></a>
@@ -1732,4 +1770,4 @@ Section was formerly classified to section 403v of chapter 15 of this title prio
 The effective date of this section, referred to in subsec. (k), is the date of enactment of Pub. L. 108–487, which was approved December 23, 2004. See section 801 of Pub. L. 108–487, set out as an Effective Date of 2004 Amendments note under [section 2656f of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Codification
-Section was formerly classified to section 403w of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 46 of this title.
+Section was formerly classified to [section 403w of this title](./chapter-015-national-security.md#section-403w) prior to editorial reclassification and renumbering as this section.

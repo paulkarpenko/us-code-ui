@@ -65,7 +65,7 @@ For purposes of this chapter, the term—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Alaska Native Claims Settlement Act of 1971, referred to in par. (5), probably means the Alaska Native Claims Settlement Act. See note below.
 
@@ -97,11 +97,7 @@ Pub. L. 101–601, § 1, Nov. 16, 1990, 104 Stat. 3048, provided that: “This A
 
   (B) in the Indian tribe or Native Hawaiian organization which has the closest cultural affiliation with such remains or objects and which, upon notice, states a claim for such remains or objects; or
 
-  (C) if the cultural affiliation of the objects cannot be reasonably ascertained and if the objects were discovered on Federal land that is recognized by a final judgment of the Indian Claims Commission or the United States Court of Claims as the aboriginal land of some Indian tribe—
-
-    (1) in the Indian tribe that is recognized as aboriginally occupying the area in which the objects were discovered, if upon notice, such tribe states a claim for such remains or objects, or
-
-    (2) if it can be shown by a preponderance of the evidence that a different tribe has a stronger cultural relationship with the remains or objects than the tribe or organization specified in paragraph (1), in the Indian tribe that has the strongest demonstrated relationship, if upon notice, such tribe states a claim for such remains or objects.
+  (C) if the cultural affiliation of the objects cannot be reasonably ascertained and if the objects were discovered on Federal land that is recognized by a final judgment of the Indian Claims Commission or the United States Court of Claims as the aboriginal land of some Indian tribe— (1) in the Indian tribe that is recognized as aboriginally occupying the area in which the objects were discovered, if upon notice, such tribe states a claim for such remains or objects, or (2) if it can be shown by a preponderance of the evidence that a different tribe has a stronger cultural relationship with the remains or objects than the tribe or organization specified in paragraph (1), in the Indian tribe that has the strongest demonstrated relationship, if upon notice, such tribe states a claim for such remains or objects.
 
 **(b) Unclaimed Native American human remains and objects** Native American cultural items not claimed under subsection (a) of this section shall be disposed of in accordance with regulations promulgated by the Secretary in consultation with the review committee established under [section 3006 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3006), Native American groups, representatives of museums and the scientific community.
 
@@ -131,6 +127,8 @@ Pub. L. 101–601, § 1, Nov. 16, 1990, 104 Stat. 3048, provided that: “This A
 The Indian Claims Commission, referred to in subsec. (a)(2)(C), terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 
 The United States Court of Claims, referred to in subsec. (a)(2)(C), and the United States Court of Customs and Patent Appeals were merged effective Oct. 1, 1982, into a new United States Court of Appeals for the Federal Circuit by Pub. L. 97–164, Apr. 2, 1982, 96 Stat. 25, which also created a United States Claims Court [now United States Court of Federal Claims] that inherited the trial jurisdiction of the Court of Claims. See sections 48, 171 et seq., 791 et seq., and 1491 et seq. of Title 28, Judiciary and Judicial Procedure.
+
+This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3001) and Tables.
 
 The Alaska Native Claims Settlement Act of 1971, referred to in subsec. (d)(1), probably means the Alaska Native Claims Settlement Act, Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, and which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
@@ -168,6 +166,11 @@ The Alaska Native Claims Settlement Act of 1971, referred to in subsec. (d)(1), 
 (3) A copy of each notice provided under paragraph (1) shall be sent to the Secretary who shall publish each notice in the Federal Register.
 
 **(e) Inventory** For the purposes of this section, the term “inventory” means a simple itemized list that summarizes the information called for by this section.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (b)(2), was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3001) and Tables.
 
 
 <a id="section-3004"></a>
@@ -216,6 +219,11 @@ The Alaska Native Claims Settlement Act of 1971, referred to in subsec. (d)(1), 
 **(e) Competing claims** Where there are multiple requests for repatriation of any cultural item and, after complying with the requirements of this chapter, the Federal agency or museum cannot clearly determine which requesting party is the most appropriate claimant, the agency or museum may retain such item until the requesting parties agree upon its disposition or the dispute is otherwise resolved pursuant to the provisions of this chapter or by a court of competent jurisdiction.
 
 **(f) Museum obligation** Any museum which repatriates any item in good faith pursuant to this chapter shall not be liable for claims by an aggrieved party or for claims of breach of fiduciary duty, public trust, or violations of state 11 So in original. Probably should be capitalized. law that are inconsistent with the provisions of this chapter.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsecs. (a)(3), (5)(C), (c), (e), and (f), was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3001) and Tables.
 
 
 <a id="section-3006"></a>
@@ -280,6 +288,9 @@ The Alaska Native Claims Settlement Act of 1971, referred to in subsec. (d)(1), 
 
 ### Statutory Notes
 
+#### References in Text
+This chapter, referred to in subsecs. (c)(7) and (d), was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3001) and Tables.
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
@@ -299,6 +310,11 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 **(c) Actions to recover penalties** If any museum fails to pay an assessment of a civil penalty pursuant to a final order of the Secretary that has been issued under subsection (a) of this section and not appealed or after a final judgment has been rendered on appeal of such order, the Attorney General may institute a civil action in an appropriate district court of the United States to collect the penalty. In such action, the validity and amount of such penalty shall not be subject to review.
 
 **(d) Subpoenas** In hearings held pursuant to subsection (a) of this section, subpoenas may be issued for the attendance and testimony of witnesses and the production of relevant papers, books, and documents. Witnesses so summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3001) and Tables.
 
 
 <a id="section-3008"></a>
@@ -327,11 +343,21 @@ Nothing in this chapter shall be construed to—
 
 (5) limit the application of any State or Federal law pertaining to theft or stolen property.
 
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3001) and Tables.
+
 
 <a id="section-3010"></a>
 ## § 3010. Special relationship between Federal Government and Indian tribes and Native Hawaiian organizations
 
 This chapter reflects the unique relationship between the Federal Government and Indian tribes and Native Hawaiian organizations and should not be construed to establish a precedent with respect to any other individual, organization or foreign government.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “This Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3001) and Tables.
 
 
 <a id="section-3011"></a>
@@ -339,14 +365,29 @@ This chapter reflects the unique relationship between the Federal Government and
 
 The Secretary shall promulgate regulations to carry out this chapter within 12 months of November 16, 1990.
 
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3001) and Tables.
+
 
 <a id="section-3012"></a>
 ## § 3012. Authorization of appropriations
 
 There is authorized to be appropriated such sums as may be necessary to carry out this chapter.
 
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3001) and Tables.
+
 
 <a id="section-3013"></a>
 ## § 3013. Enforcement
 
 The United States district courts shall have jurisdiction over any action brought by any person alleging a violation of this chapter and shall have the authority to issue such orders as may be necessary to enforce the provisions of this chapter.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3001) and Tables.

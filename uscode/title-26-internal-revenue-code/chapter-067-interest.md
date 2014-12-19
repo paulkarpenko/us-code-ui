@@ -336,7 +336,7 @@ For effective date of amendment by section 206(e) of Pub. L. 85–866, see secti
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
 
 #### Administration of Penalties and Interest
-Pub. L. 105–206, title III, § 3801, July 22, 1998, 112 Stat. 782, provided that: “The Joint Committee on Taxation and the Secretary of the Treasury shall each conduct a separate study— “(1) reviewing the administration and implementation by the Internal Revenue Service of the interest and penalty provisions of the Internal Revenue Code of 1986 (including the penalty reform provisions of the Omnibus Budget Reconciliation Act of 1989 [Pub. L. 101–239, see Tables for classification]); and “(2) making any legislative and administrative recommendations the Committee or the Secretary deems appropriate to simplify penalty or interest administration and reduce taxpayer burden. Such studies shall be submitted to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than 1 year after the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title III, § 3801, July 22, 1998, 112 Stat. 782, provided that: “The Joint Committee on Taxation and the Secretary of the Treasury shall each conduct a separate study—“(1) reviewing the administration and implementation by the Internal Revenue Service of the interest and penalty provisions of the Internal Revenue Code of 1986 (including the penalty reform provisions of the Omnibus Budget Reconciliation Act of 1989 [Pub. L. 101–239, see Tables for classification]); and “(2) making any legislative and administrative recommendations the Committee or the Secretary deems appropriate to simplify penalty or interest administration and reduce taxpayer burden. Such studies shall be submitted to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than 1 year after the date of the enactment of this Act [July 22, 1998].”
 
 #### Interest Not Payable on Underpayments Created or Increased by Tax Reform Act of 1976
 Pub. L. 95–30, title III, § 305, May 23, 1977, 91 Stat. 152, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “No interest shall be payable for any period before April 16, 1977 (March 16, 1977, in the case of a corporation), on any underpayment of a tax imposed by the Internal Revenue Code of 1986 [formerly I.R.C. 1954], to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1976 [Pub. L. 94–455].”
@@ -420,7 +420,8 @@ Pub. L. 108–357, title VIII, § 842(c), Oct. 22, 2004, 118 Stat. 1599, provide
 (2) **Refunds** — In the case of a refund, from the date of the overpayment to a date (to be determined by the Secretary) preceding the date of the refund check by not more than 30 days, whether or not such refund check is accepted by the taxpayer after tender of such check to the taxpayer. The acceptance of such check shall be without prejudice to any right of the taxpayer to claim any additional overpayment and interest thereon.
 
 (3) **Late returns** — Notwithstanding paragraph (1) or (2) in the case of a return of tax which is filed after the last date prescribed for filing such return (determined with regard to extensions), no interest shall be allowed or paid for any day before the date on which the return is filed.
-[(c) Repealed. Pub. L. 85–866, title I, § 83(c), Sept. 2, 1958, 72 Stat. 1664]
+
+**(c) Repealed. Pub. L. 85–866, title I, § 83(c), Sept. 2, 1958, 72 Stat. 1664]**
 
 **(d) Advance payment of tax, payment of estimated tax, and credit for income tax withholding** The provisions of section 6513 (except the provisions of subsection (c) thereof, applicable in determining the date of payment of tax for purposes of determining the period of limitation on credit or refund, shall be applicable in determining the date of payment for purposes of subsection (a).
 
@@ -667,7 +668,7 @@ The Federal Unemployment Tax Act, referred to in subsec. (c), is act Aug. 16, 19
 Act Apr. 2, 1956, inserted reference to [section 6420 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6420).
 
 #### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 #### Effective Date of 1956 Amendment
 Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act June 29, 1956, set out as an Effective Date note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).

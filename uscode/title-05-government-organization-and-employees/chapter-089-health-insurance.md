@@ -648,17 +648,17 @@ Pub. L. 100–654, title I, § 102, Nov. 14, 1988, 102 Stat. 3841, provided that
 
 The Office of Personnel Management may contract for or approve the following health benefits plans:
 
-(1) **Service Benefit Plan.—One Government-wide plan, which may be underwritten by participating affiliates licensed in any number of States, offering two levels of benefits, under which payment is made by a carrier under contracts with physicians, hospitals, or other providers of health services for benefits of the types described by [section 8904(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8904/1&num=0&edition=prelim) given to employees, annuitants, members of their families, former spouses, or persons having continued coverage under [section 8905a of this title](./chapter-089-health-insurance.md#section-8905a), or, under certain conditions, payment is made by a carrier to the employee, annuitant, family member, former spouse, or person having continued coverage under [section 8905a of this title](./chapter-089-health-insurance.md#section-8905a).**
+(1) **Service Benefit Plan.—** — One Government-wide plan, which may be underwritten by participating affiliates licensed in any number of States, offering two levels of benefits, under which payment is made by a carrier under contracts with physicians, hospitals, or other providers of health services for benefits of the types described by [section 8904(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8904/1&num=0&edition=prelim) given to employees, annuitants, members of their families, former spouses, or persons having continued coverage under [section 8905a of this title](./chapter-089-health-insurance.md#section-8905a), or, under certain conditions, payment is made by a carrier to the employee, annuitant, family member, former spouse, or person having continued coverage under [section 8905a of this title](./chapter-089-health-insurance.md#section-8905a).
 
-(2) **Indemnity Benefit Plan.—One Government-wide plan, offering two levels of benefits, under which a carrier agrees to pay certain sums of money, not in excess of the actual expenses incurred, for benefits of the types described by [section 8904(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8904/2&num=0&edition=prelim).**
+(2) **Indemnity Benefit Plan.—** — One Government-wide plan, offering two levels of benefits, under which a carrier agrees to pay certain sums of money, not in excess of the actual expenses incurred, for benefits of the types described by [section 8904(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8904/2&num=0&edition=prelim).
 
-(3) **Employee Organization Plans.—Employee organization plans which offer benefits of the types referred to by [section 8904(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8904/3&num=0&edition=prelim), which are sponsored or underwritten, and are administered, in whole or substantial part, by employee organizations described in [section 8901(8)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8901/8/A&num=0&edition=prelim), which are available only to individuals, and members of their families, who at the time of enrollment are members of the organization.**
+(3) **Employee Organization Plans.—** — Employee organization plans which offer benefits of the types referred to by [section 8904(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8904/3&num=0&edition=prelim), which are sponsored or underwritten, and are administered, in whole or substantial part, by employee organizations described in [section 8901(8)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8901/8/A&num=0&edition=prelim), which are available only to individuals, and members of their families, who at the time of enrollment are members of the organization.
 
 (4) **Comprehensive Medical Plans.—**
 
-  (A) *Group-practice prepayment plans.—Group-practice prepayment plans which offer health benefits of the types referred to by [section 8904(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8904/4&num=0&edition=prelim), in whole or in substantial part on a prepaid basis, with professional services thereunder provided by physicians practicing as a group in a common center or centers. The group shall include at least 3 physicians who receive all or a substantial part of their professional income from the prepaid funds and who represent 1 or more medical specialties appropriate and necessary for the population proposed to be served by the plan.*
+  (A) *Group-practice prepayment plans.—* — Group-practice prepayment plans which offer health benefits of the types referred to by [section 8904(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8904/4&num=0&edition=prelim), in whole or in substantial part on a prepaid basis, with professional services thereunder provided by physicians practicing as a group in a common center or centers. The group shall include at least 3 physicians who receive all or a substantial part of their professional income from the prepaid funds and who represent 1 or more medical specialties appropriate and necessary for the population proposed to be served by the plan.
 
-  (B) *Individual-practice prepayment plans.—Individual-practice prepayment plans which offer health services in whole or substantial part on a prepaid basis, with professional services thereunder provided by individual physicians who agree, under certain conditions approved by the Office, to accept the payments provided by the plans as full payment for covered services given by them including, in addition to in-hospital services, general care given in their offices and the patients’ homes, out-of-hospital diagnostic procedures, and preventive care, and which plans are offered by organizations which have successfully operated similar plans before approval by the Office of the plan in which employees may enroll.*
+  (B) *Individual-practice prepayment plans.—* — Individual-practice prepayment plans which offer health services in whole or substantial part on a prepaid basis, with professional services thereunder provided by individual physicians who agree, under certain conditions approved by the Office, to accept the payments provided by the plans as full payment for covered services given by them including, in addition to in-hospital services, general care given in their offices and the patients’ homes, out-of-hospital diagnostic procedures, and preventive care, and which plans are offered by organizations which have successfully operated similar plans before approval by the Office of the plan in which employees may enroll.
 
   (C) *Mixed model prepayment plans.—* — Mixed model prepayment plans which are a combination of the type of plans described in subparagraph (A) and the type of plans described in subparagraph (B).
 
@@ -838,7 +838,13 @@ Pub. L. 99–251, title I, § 107, Feb. 27, 1986, 100 Stat. 16, provided that: �
 
 <a id="section-8905"></a>
 ## § 8905. Election of coverage
-**(a)** An employee may enroll in an approved health benefits plan described by section 8903 or 8903a of this title either as an individual or for self and family.
+**(a)** An employee may enroll in an approved health benefits plan described in section 8903 or 8903a—
+
+(1) as an individual;
+
+(2) for self plus one; or
+
+(3) for self and family.
 
 **(b)** An annuitant who at the time he becomes an annuitant was enrolled in a health benefits plan under this chapter—
 
@@ -861,13 +867,13 @@ may continue his enrollment under the conditions of eligibility prescribed by re
   (A) within 60 days after the dissolution of the marriage, or
 
   (B) in the case of a former spouse of a former employee whose marriage was dissolved after the employee’s retirement, within 60 days after the dissolution of the marriage or, if later, within 60 days after an election is made under section 8339(j)(3) or 8417(b) of this title for such former spouse by the retired employee,
-  enroll in an approved health benefits plan described by section 8903 or 8903a of this title as an individual or for self and family as provided in paragraph (2) of this subsection, subject to agreement to pay the full subscription charge of the enrollment, including the amounts determined by the Office to be necessary for administration and reserves pursuant to [section 8909(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8909/b&num=0&edition=prelim). The former spouse shall submit an enrollment application and make premium payments to the agency which, at the time of divorce or annulment, employed the employee to whom the former spouse was married or, in the case of a former spouse who is receiving annuity payments under section 8341(h), 8345(j), 8445, or 8467 of this title, to the Office of Personnel Management.
+  enroll in an approved health benefits plan described by section 8903 or 8903a of this title as an individual or for 22 So in original. The word “for” probably should precede “self and family”. for self plus one or self and family as provided in paragraph (2) of this subsection, subject to agreement to pay the full subscription charge of the enrollment, including the amounts determined by the Office to be necessary for administration and reserves pursuant to [section 8909(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8909/b&num=0&edition=prelim). The former spouse shall submit an enrollment application and make premium payments to the agency which, at the time of divorce or annulment, employed the employee to whom the former spouse was married or, in the case of a former spouse who is receiving annuity payments under section 8341(h), 8345(j), 8445, or 8467 of this title, to the Office of Personnel Management.
 
-(2) Coverage for self and family under this subsection shall be limited to—
+(2) Coverage for self plus one or for self and family under this subsection shall be limited to—
 
   (A) the former spouse; and
 
-  (B) unmarried dependent natural or adopted children of the former spouse and the employee who are—
+  (B) unmarried dependent natural or adopted children (or, in the case of self plus one coverage, not more than 1 such child) of the former spouse and the employee who are—
 
     (i) under 22 years of age; or
 
@@ -875,7 +881,7 @@ may continue his enrollment under the conditions of eligibility prescribed by re
 
 **(d)** An individual whom the Secretary of Defense determines is an eligible beneficiary under subsection (b) of [section 1108 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1108&num=0&edition=prelim) may enroll, as part of the demonstration project under such section, in a health benefits plan under this chapter in accordance with the agreement under subsection (a) of such section between the Secretary and the Office and applicable regulations under this chapter.
 
-**(e)** If an employee, annuitant, or other individual eligible to enroll in a health benefits plan under this chapter has a spouse who is also eligible to enroll, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee, annuitant, or other individual eligible to enroll and as a member of the family.
+**(e)** If an employee, annuitant, or other individual eligible to enroll in a health benefits plan under this chapter has a spouse who is also eligible to enroll, either spouse, but not both, may enroll for self and family, or for a self plus one enrollment that covers the spouse, or each spouse may enroll as an individual or for a self plus one enrollment that does not cover the other spouse or a child who is covered under the enrollment of the other spouse. However, an individual may not be enrolled both as an employee, annuitant, or other individual eligible to enroll and as a member of the family.
 
 **(f)** An employee, annuitant, former spouse, or person having continued coverage under [section 8905a of this title](./chapter-089-health-insurance.md#section-8905a) enrolled in a health benefits plan under this chapter may change his coverage or that of himself and members of his family by an application filed within 60 days after a change in family status or at other times and under conditions prescribed by regulations of the Office.
 
@@ -900,11 +906,11 @@ may continue his enrollment under the conditions of eligibility prescribed by re
 
 **(h)**
 
-(1) An unenrolled employee who is required by a court or administrative order to provide health insurance coverage for a child who meets the requirements of section 8901(5) may enroll for self and family coverage in a health benefits plan under this chapter. If such employee fails to enroll for self and family coverage in a health benefits plan that provides full benefits and services in the location in which the child resides, and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall enroll the employee in a self and family enrollment in the option which provides the lower level of coverage under the Service Benefit Plan.
+(1) An unenrolled employee who is required by a court or administrative order to provide health insurance coverage for 1 or more children who meets the requirements of section 8901(5) may enroll for self plus one or self and family coverage, as necessary to provide health insurance coverage for each child who is covered under the order, in a health benefits plan under this chapter. If such employee fails to enroll for self plus one or self and family coverage, as necessary to provide health insurance coverage for each child who is covered under the order, in a health benefits plan that provides full benefits and services in the location in which the child or children reside, and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall enroll the employee in a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in the option which provides the lower level of coverage under the Service Benefit Plan.
 
-(2) An employee who is enrolled as an individual in a health benefits plan under this chapter and who is required by a court or administrative order to provide health insurance coverage for a child who meets the requirements of section 8901(5) may change to a self and family enrollment in the same or another health benefits plan under this chapter. If such employee fails to change to a self and family enrollment and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall change the enrollment of the employee to a self and family enrollment in the plan in which the employee is enrolled if that plan provides full benefits and services in the location where the child resides. If the plan in which the employee is enrolled does not provide full benefits and services in the location in which the child resides, or, if the employee fails to change to a self and family enrollment in a plan that provides full benefits and services in the location where the child resides, the employing agency shall change the coverage of the employee to a self and family enrollment in the option which provides the lower level of coverage under the Service Benefits Plan.
+(2) An employee who is enrolled as an individual in a health benefits plan under this chapter and who is required by a court or administrative order to provide health insurance coverage for 1 or more children who meets the requirements of section 8901(5) may change to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in the same or another health benefits plan under this chapter. If such employee fails to change to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall change the enrollment of the employee to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in the plan in which the employee is enrolled if that plan provides full benefits and services in the location where the child or children reside. If the plan in which the employee is enrolled does not provide full benefits and services in the location in which the child or children reside, or, if the employee fails to change to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in a plan that provides full benefits and services in the location where the child or children reside, the employing agency shall change the coverage of the employee to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in the option which provides the lower level of coverage under the Service Benefits Plan.
 
-(3) The employee may not discontinue the self and family enrollment in a plan that provides full benefits and services in the location in which the child resides for so long as the court or administrative order remains in effect and the child continues to meet the requirements of section 8901(5), unless the employee provides documentation showing that such coverage has been provided through other health insurance.
+(3) The employee may not discontinue the self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in a plan that provides full benefits and services in the location in which the child or children reside for so long as the court or administrative order remains in effect and the child or children continue to meet the requirements of section 8901(5), unless the employee provides documentation showing that such coverage has been provided through other health insurance.
 
 ### Statutory Notes
 
@@ -921,6 +927,22 @@ In subsection (b)(1)(C), the words “before January 1, 1965” are substituted 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2013—Subsec. (a). Pub. L. 113–67, § 706(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “An employee may enroll in an approved health benefits plan described by section 8903 or 8903a of this title either as an individual or for self and family.”
+
+Subsec. (c)(1). Pub. L. 113–67, § 706(a)(2)(A), inserted “for self plus one or” before “self and family as provided in paragraph (2) of this subsection” in concluding provisions.
+
+Subsec. (c)(2). Pub. L. 113–67, § 706(a)(2)(B)(i), inserted “for self plus one or” before “for self and family” in introductory provisions.
+
+Subsec. (c)(2)(B). Pub. L. 113–67, § 706(a)(2)(B)(ii), inserted “(or, in the case of self plus one coverage, not more than 1 such child)” after “adopted children”.
+
+Subsec. (e). Pub. L. 113–67, § 706(a)(3), substituted “or for a self plus one enrollment that covers the spouse, or each spouse may enroll as an individual or for a self plus one enrollment that does not cover the other spouse or a child who is covered under the enrollment of the other spouse” for “or each spouse may enroll as an individual”.
+
+Subsec. (h). Pub. L. 113–67, § 706(a)(4)(A)–(C), substituted “self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order,” for “self and family enrollment”, “1 or more children” for “a child”, and “the child or children reside” for “the child resides” wherever appearing.
+
+Subsec. (h)(1). Pub. L. 113–67, § 706(a)(4)(D), substituted “self plus one or self and family coverage, as necessary to provide health insurance coverage for each child who is covered under the order,” for “self and family coverage” in two places.
+
+Subsec. (h)(3). Pub. L. 113–67, § 706(a)(4)(E), substituted “the child or children continue” for “the child continues”.
+
 2000—Subsec. (h). Pub. L. 106–394 added subsec. (h).
 
 1998—Subsecs. (d) to (g). Pub. L. 105–261 added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
@@ -969,8 +991,11 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions,
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
+#### Weighted Average for First Year
+Pub. L. 113–67, div. A, title VII, § 706(d), Dec. 26, 2013, 127 Stat. 1194, provided that: “For the first contract year for which an employee may enroll for self plus one coverage under chapter 89 of title 5, United States Code, the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect for the contract year for enrollments for self plus one under such chapter based on an actuarial analysis.”
+
 #### Election of Health Benefits Coverage and Entitlement to Health Benefits Under this Chapter Rather Than Under Retired Federal Employees Health Benefits Act
-Pub. L. 93–246, §§ 2, 4(b), Jan. 31, 1974, 88 Stat. 4, provided that: “Sec. 2. (a) Notwithstanding any other provision of law, an annuitant, as defined under [section 8901(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8901/3&num=0&edition=prelim), United States Code, who is participating or who is eligible to participate in the health benefits program offered under the Retired Federal Employees Health Benefits Act (74 Stat. 849; Public Law 86–724), may elect, in accordance with regulations prescribed by the United States Civil Service Commission, to be covered under the provisions of chapter 89 of title 5, United States Code [this chapter], in lieu of coverage under such Act. “(b) An annuitant who elects to be covered under the provisions of chapter 89 of title 5, United States Code [this chapter], in accordance with subsection (a) of this section, shall be entitled to the benefits under such chapter 89.“[Sec. 4] (b) Section 2 [set out above] shall take effect on the one hundred and eightieth day following the date of enactment [Jan. 1, 1974] or on such earlier date as the United States Civil Service Commission may prescribe.”
+Pub. L. 93–246, §§ 2, 4(b), Jan. 31, 1974, 88 Stat. 4, provided that: “Sec. 2. (a) Notwithstanding any other provision of law, an annuitant, as defined under [section 8901(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8901/3&num=0&edition=prelim), United States Code, who is participating or who is eligible to participate in the health benefits program offered under the Retired Federal Employees Health Benefits Act (74 Stat. 849; Public Law 86–724), may elect, in accordance with regulations prescribed by the United States Civil Service Commission, to be covered under the provisions of chapter 89 of title 5, United States Code, in lieu of coverage under such Act. “(b) An annuitant who elects to be covered under the provisions of chapter 89 of title 5, United States Code, in accordance with subsection (a) of this section, shall be entitled to the benefits under such chapter 89. “[Sec. 4] (b) Section 2 [set out above] shall take effect on the one hundred and eightieth day following the date of enactment [Jan. 1, 1974] or on such earlier date as the United States Civil Service Commission may prescribe.”
 
 
 <a id="section-8905a"></a>
@@ -1060,7 +1085,7 @@ Pub. L. 93–246, §§ 2, 4(b), Jan. 31, 1974, 88 Stat. 4, provided that: “Sec
 
 (3)
 
-  (A) An individual making an election under subsection (c)(2)(B) may, at such individual’s option, elect coverage either as an individual or, if appropriate, for self and family.
+  (A) An individual making an election under subsection (c)(2)(B) may, at such individual’s option, elect coverage either as an individual or, if appropriate, for self plus one or for self and family.
 
   (B) For the purpose of this paragraph, members of an individual’s family shall be determined in the same way as would apply under this chapter in the case of an enrolled employee.
 
@@ -1084,7 +1109,7 @@ Pub. L. 93–246, §§ 2, 4(b), Jan. 31, 1974, 88 Stat. 4, provided that: “Sec
 
 (5)
 
-  (A) If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 4421 of the Atomic Energy Defense Act—
+  (A) If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 442111 See References in Text note below. of the Atomic Energy Defense Act—
 
     (i) the individual shall be liable for not more than the employee contributions referred to in paragraph (1)(A)(i); and
 
@@ -1151,7 +1176,7 @@ Pub. L. 93–246, §§ 2, 4(b), Jan. 31, 1974, 88 Stat. 4, provided that: “Sec
 
 (3) In the case of an individual—
 
-  (A) who becomes eligible for continued coverage under this subsection based on a divorce, annulment, or legal separation from a person who, as of the day before the date of the divorce, annulment, or legal separation (as the case may be) was receiving continued coverage under this section for self and family based on such person’s separation from service; and
+  (A) who becomes eligible for continued coverage under this subsection based on a divorce, annulment, or legal separation from a person who, as of the day before the date of the divorce, annulment, or legal separation (as the case may be) was receiving continued coverage under this section based on such person’s separation from service under a self plus one enrollment that covered the individual or under a self and family enrollment; and
 
   (B) whose divorce, annulment, or legal separation (as the case may be) occurs before the end of the 18-month period beginning on the date of the separation from service referred to in subparagraph (A),
   extended coverage under this section may not extend beyond the date which is 36 months after the date of the separation from service, as referred to in subparagraph (A).
@@ -1161,13 +1186,17 @@ Pub. L. 93–246, §§ 2, 4(b), Jan. 31, 1974, 88 Stat. 4, provided that: “Sec
 #### References in Text
 The date of enactment of this paragraph, referred to in subsec. (d)(4)(B), is the date of enactment of Pub. L. 102–484, which was approved Oct. 23, 1992.
 
-Section 4421 of the Atomic Energy Defense Act, referred to in subsec. (d)(5)(A), is classified to [section 2601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2601&num=0&edition=prelim), War and National Defense.
+Section 4421 of the Atomic Energy Defense Act, referred to in subsec. (d)(5)(A), was classified to [section 2601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2601&num=0&edition=prelim), War and National Defense, prior to repeal by Pub. L. 113–66, div. C, title XXXI, § 3146(e)(10), Dec. 26, 2013, 127 Stat. 1077.
 
 The date of the enactment of this paragraph, referred to in subsec. (d)(5)(B), is the date of enactment of Pub. L. 106–117, which was approved Nov. 30, 1999.
 
 The date of enactment of this paragraph, referred to in subsec. (d)(6)(B), is the date of enactment of Pub. L. 110–422, which was approved Oct. 15, 2008.
 
 #### Amendments
+2013—Subsec. (d)(3)(A). Pub. L. 113–67, § 706(b)(1), inserted “for self plus one or” before “for self and family”.
+
+Subsec. (f)(3)(A). Pub. L. 113–67, § 706(b)(2), substituted “based on such person’s separation from service under a self plus one enrollment that covered the individual or under a self and family enrollment” for “for self and family based on such person’s separation from service”.
+
 2011—Subsec. (d)(4)(B). Pub. L. 112–81 substituted “December 31, 2016” for “December 31, 2011” in cls. (i) and (ii) and substituted “February 1, 2017” for “February 1, 2012” in cl. (ii).
 
 2010—Subsec. (d)(4)(B)(i). Pub. L. 111–242, § 151(1), as added by Pub. L. 111–322, substituted “December 31, 2011” for “October 1, 2010”.
@@ -1241,9 +1270,11 @@ Pub. L. 102–484, div. D, title XLIV, § 4438(b)(1), Oct. 23, 1992, 106 Stat. 2
 
 (1) Not later than October 1 of each year, the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect during the following contract year with respect to—
 
-  (A) enrollments under this chapter for self alone; and
+  (A) enrollments under this chapter for self alone;
 
-  (B) enrollments under this chapter for self and family.
+  (B) enrollments under this chapter for self plus one; and
+
+  (C) enrollments under this chapter for self and family.
 
 (2) In determining each weighted average under paragraph (1), the weight to be given to a particular subscription charge shall, with respect to each plan (and option) to which it is to apply, be commensurate with the number of enrollees enrolled in such plan (and option) as of March 31 of the year in which the determination is being made.
 
@@ -1348,6 +1379,8 @@ In subsection (a), the words “subsection (b) of this section”, “this chapt
 In subsection (e)(2), the words “as defined by [section 8901 of this title](./chapter-089-health-insurance.md#section-8901)” are substituted for “as defined in section 2 of this Act” to reflect the codification of that section in [5 U.S.C. 8901](./chapter-089-health-insurance.md#section-8901). The words “Employees Health Benefits Fund” and “Fund” are substituted for “fund” and “fund”, respectively. In the penultimate sentence, the words “will continue during nonpay status and end” are substituted for “will terminate” for clarity and on authority of [5 U.S.C. 8906(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8906/e/1&num=0&edition=prelim).
 
 #### Amendments
+2013—Subsec. (a)(1)(B), (C). Pub. L. 113–67 added subpar. (B) and redesignated former subpar. (B) as (C).
+
 2006—Subsec. (g)(2)(A). Pub. L. 109–435 substituted “shall through September 30, 2016, be paid by the United States Postal Service, and thereafter shall be paid first from the Postal Service Retiree Health Benefits Fund up to the amount contained in the Fund, with any remaining amount paid by the United States Postal Service” for “shall be paid by the United States Postal Service”.
 
 2004—Subsec. (e)(3)(C). Pub. L. 108–375 substituted “24 months” for “18 months”.
@@ -1449,7 +1482,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 #### Effective Date of 1976 Amendment
-Amendment by Pub. L. 94–310 effective Oct. 1, 1976, see section 4 of Pub. L. 94–310, set out as a note under [section 130b of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section130b&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 94–310 effective Oct. 1, 1976, see section 4 of Pub. L. 94–310, set out as a note under [section 4503 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4503&num=0&edition=prelim), The Congress.
 
 #### Effective Date of 1974 Amendment
 Pub. L. 93–246, § 4(a), Jan. 31, 1974, 88 Stat. 4, provided that: “The first section of this Act [amending this section] shall take effect on the first day of the first applicable pay period which begins on or after January 1, 1974.”
@@ -1463,7 +1496,7 @@ Pub. L. 91–418, § 1(b), Sept. 25, 1970, 84 Stat. 869, provided that: “The a
 Pub. L. 103–66, title XI, § 11101(b), Aug. 10, 1993, 107 Stat. 413, provided that: “In addition to any other payments required under [section 8906(g)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8906/g/2&num=0&edition=prelim), United States Code, or any other provision of law, the United States Postal Service shall pay into the Employees Health Benefits Fund a total of $348,000,000, of which— “(1) at least one-third shall be paid not later than September 30, 1996; “(2) at least two-thirds shall be paid not later than September 30, 1997; and “(3) any remaining balance shall be paid not later than September 30, 1998.”
 
 #### Computation of Government Contributions to Federal Employees Health Benefits Program for 1990 Through 1993
-Pub. L. 101–76, Aug. 11, 1989, 103 Stat. 556, as amended by Pub. L. 101–508, title VII, § 7002(e), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 103–66, title XI, § 11005, Aug. 10, 1993, 107 Stat. 412, provided: “That (a)(1) in the administration of chapter 89 of title 5, United States Code, for each of contract years 1990 through 1998 (inclusive), in order to compute the average subscription charges under section 8906(a) of such title for such contract years, the subscription charges in effect for the indemnity benefit plan on the beginning date of each such contract year— “(A) shall be deemed to be the subscription charges which were in effect for such plan on the beginning date of the preceding contract year as adjusted under paragraph (2); or “(B) if subparagraph (A) does not apply, shall be deemed to be—“(i) the subscription charges which were deemed under this Act to have been in effect for such plan with respect to the preceding contract year as adjusted under paragraph (2), except as provided in clause (ii); or “(ii) for each of contract years 1997 and 1998, the subscription charges which would be derived by applying the terms of clause (i), reduced by 1 percent. “(2) The subscription charges under paragraph (1) shall be increased or decreased (as appropriate) by the average percentage by which the respective subscription charges taken into account under paragraphs (1), (3), and (4) of such section 8906(a) for that contract year increased or decreased from the subscription charges taken into account under such paragraphs (1), (3), and (4) for the preceding contract year. “(b) Separate percentages shall be computed under subsection (a)(2) with respect to enrollments for self alone and enrollments for self and family, respectively. “(c) The provisions of this Act shall not apply to a contract year (or any period thereafter), if comprehensive reform legislation is enacted to amend [section 8906 of title 5](./chapter-089-health-insurance.md#section-8906), United States Code, and such amendment is required to be implemented by the commencement of negotiations pertaining to rates and benefits for such contract year. “(d) Any reference in this Act to a ‘contract year’ shall be considered to be a reference to a contract year under chapter 89 of title 5, United States Code. “(e) No later than 180 days after the date of the enactment of this Act [Aug. 11, 1989], the Director of the Office of Personnel Management shall transmit recommendations to the Congress for comprehensive reform of the Federal Employee Health Benefits Program.”
+Pub. L. 101–76, Aug. 11, 1989, 103 Stat. 556, as amended by Pub. L. 101–508, title VII, § 7002(e), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 103–66, title XI, § 11005, Aug. 10, 1993, 107 Stat. 412, provided: “That (a)(1) in the administration of chapter 89 of title 5, United States Code, for each of contract years 1990 through 1998 (inclusive), in order to compute the average subscription charges under section 8906(a) of such title for such contract years, the subscription charges in effect for the indemnity benefit plan on the beginning date of each such contract year—“(A) shall be deemed to be the subscription charges which were in effect for such plan on the beginning date of the preceding contract year as adjusted under paragraph (2); or “(B) if subparagraph (A) does not apply, shall be deemed to be—“(i) the subscription charges which were deemed under this Act to have been in effect for such plan with respect to the preceding contract year as adjusted under paragraph (2), except as provided in clause (ii); or “(ii) for each of contract years 1997 and 1998, the subscription charges which would be derived by applying the terms of clause (i), reduced by 1 percent. “(2) The subscription charges under paragraph (1) shall be increased or decreased (as appropriate) by the average percentage by which the respective subscription charges taken into account under paragraphs (1), (3), and (4) of such section 8906(a) for that contract year increased or decreased from the subscription charges taken into account under such paragraphs (1), (3), and (4) for the preceding contract year. “(b) Separate percentages shall be computed under subsection (a)(2) with respect to enrollments for self alone and enrollments for self and family, respectively. “(c) The provisions of this Act shall not apply to a contract year (or any period thereafter), if comprehensive reform legislation is enacted to amend [section 8906 of title 5](./chapter-089-health-insurance.md#section-8906), United States Code, and such amendment is required to be implemented by the commencement of negotiations pertaining to rates and benefits for such contract year. “(d) Any reference in this Act to a ‘contract year’ shall be considered to be a reference to a contract year under chapter 89 of title 5, United States Code. “(e) No later than 180 days after the date of the enactment of this Act [Aug. 11, 1989], the Director of the Office of Personnel Management shall transmit recommendations to the Congress for comprehensive reform of the Federal Employee Health Benefits Program.”
 
 #### Contributions by United States Postal Service to Employees Health Benefits Fund
 Pub. L. 100–203, title VI, § 6003, Dec. 22, 1987, 101 Stat. 1330–277, directed Postal Service to pay $160,000,000 in fiscal year 1988 and $270,000,000 in fiscal year 1989 into Employee Health Benefits Fund in addition to any amount deposited into Fund pursuant to this section in each such fiscal year.

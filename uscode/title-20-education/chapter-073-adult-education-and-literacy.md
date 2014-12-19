@@ -16,6 +16,14 @@ source: >-
 
 **(b) Special rule** In cases where the cost limits described in subsection (a) of this section are too restrictive to allow for adequate planning, administration, personnel development, and interagency coordination, the eligible provider shall negotiate with the eligible agency in order to determine an adequate level of funds to be used for noninstructional purposes.
 
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+
 
 <a id="section-9202"></a>
 ## § 9202. Administrative provisions
@@ -38,6 +46,14 @@ source: >-
 (3) **Decrease in Federal support** — If the amount made available for adult education and literacy activities under this part for a fiscal year is less than the amount made available for adult education and literacy activities under this part for the preceding fiscal year, then the fiscal effort per student and the aggregate expenditures of an eligible agency required in order to avoid a reduction under paragraph (1)(B) shall be decreased by the same percentage as the percentage decrease in the amount so made available.
 
 (4) **Waiver** — The Secretary may waive the requirements of this subsection for 1 fiscal year only, if the Secretary determines that a waiver would be equitable due to exceptional or uncontrollable circumstances, such as a natural disaster or an unforeseen and precipitous decline in the financial resources of the State or outlying area of the eligible agency. If the Secretary grants a waiver under the preceding sentence for a fiscal year, the level of effort required under paragraph (1) shall not be reduced in the subsequent fiscal year because of the waiver.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9203"></a>
@@ -180,6 +196,9 @@ source: >-
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(3)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Titles I and VII of the Act are classified generally to subchapters I (§ 6301 et seq.) and VII (§ 7401 et seq.), respectively, of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
@@ -203,6 +222,9 @@ Provisions similar to this section were contained in [section 1213c of this titl
 
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under [section 113 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section113&num=0&edition=prelim), Domestic Security.
@@ -261,10 +283,16 @@ The Secretary shall establish and carry out a program of national leadership act
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Amendments
 2007—Par. (2)(A). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
 1998—Par. (2)(B). Pub. L. 105–277 substituted “quality” for “qualify”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9211"></a>
@@ -280,16 +308,28 @@ It is the purpose of this subchapter to create a partnership among the Federal G
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, known as the Adult Education and Family Literacy Act. For complete classification of title II to the Code, see Short Title note set out below and Tables.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date
 Pub. L. 105–220, title V, § 507, Aug. 7, 1998, 112 Stat. 1247, provided that: “Except as otherwise provided in this Act [see Tables for classification], this Act and the amendments made by this Act, shall take effect on the date of the enactment of this Act [Aug. 7, 1998].”
 
+[Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], section 507 of Pub. L. 105–220, set out above, is repealed.]
+
 #### Short Title
 Pub. L. 105–220, § 1(a), Aug. 7, 1998, 112 Stat. 936, provided that: “This Act [see Tables for classification] may be cited as the ‘Workforce Investment Act of 1998’.”
 
+[Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], section 1(a) of Pub. L. 105–220, set out above, is repealed.]
+
 Pub. L. 105–220, title II, § 201, Aug. 7, 1998, 112 Stat. 1059, provided that: “This title [enacting this subchapter, amending sections 6362, 6365, 6366, 6813, and 7881 of this title and [section 3013 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3013&num=0&edition=prelim), The Public Health and Welfare, and repealing sections 1201 to 1213d of this title and provisions set out as notes under sections 1201, 1213c, 2963, and 2966 of this title] may be cited as the ‘Adult Education and Family Literacy Act’.”
+
+[Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], section 201 of Pub. L. 105–220, set out above, is repealed.]
 
 #### Ex. Ord. No. 13445. Strengthening Adult Education
 Ex. Ord. No. 13445, Sept. 27, 2007, 72 F.R. 56165, provided:
@@ -472,12 +512,18 @@ In this subchapter:
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Amendments
 2002—Par. (13). Pub. L. 107–110 substituted “section 7801” for “section 8801”.
 
 1998—Pub. L. 105–277 made technical amendment to reference in original act which appears in text as reference to this subchapter.
 
 Par. (11). Pub. L. 105–244 substituted “section 1001” for “section 1141”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -493,8 +539,14 @@ Nothing in this subchapter shall be construed to affect home schools, or to comp
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Amendments
 1998—Pub. L. 105–277 made technical amendment to reference in original act which appears in text as reference to this subchapter.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9222"></a>
@@ -504,8 +556,14 @@ There is authorized to be appropriated to carry out this subchapter such sums as
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Amendments
 1998—Pub. L. 105–277 made technical amendment to reference in original act which appears in text as reference to this subchapter.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9223"></a>
@@ -568,11 +626,17 @@ There is authorized to be appropriated to carry out this subchapter such sums as
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 Section 313 of the Adult Education Act (as such Act was in effect on the day before August 7, 1998), referred to in subsec. (f)(1)(A), means section 313 of Pub. L. 89–750, which was classified to [section 1201b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1201b&num=0&edition=prelim), prior to repeal by Pub. L. 105–220, title II, § 251(a)(1), Aug. 7, 1998, 112 Stat. 1079.
 
 #### Amendments
 1998—Subsec. (d)(1). Pub. L. 105–277 struck out “, but less than 61 years of age” after “16 years of age”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9224"></a>
@@ -643,8 +707,14 @@ Section 313 of the Adult Education Act (as such Act was in effect on the day bef
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Amendments
 1998—Subsec. (b)(3)(A)(vi). Pub. L. 105–277 substituted “2871(i)(1) of title 29” for “2871(j) of title 29”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9225"></a>
@@ -657,6 +727,14 @@ Each eligible agency shall be responsible for the State or outlying area adminis
 (2) consultation with other appropriate agencies, groups, and individuals that are involved in, or interested in, the development and implementation of activities assisted under this part; and
 
 (3) coordination and nonduplication with other Federal and State education, training, corrections, public housing, and social service programs.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9241"></a>
@@ -678,6 +756,14 @@ Each eligible agency shall be responsible for the State or outlying area adminis
   (B) in the case of an eligible agency serving a State, 25 percent of the total amount of funds expended for adult education and literacy activities in the State.
 
 (2) **Non-Federal contribution** — An eligible agency’s non-Federal contribution required under paragraph (1) may be provided in cash or in kind, fairly evaluated, and shall include only non-Federal funds that are used for adult education and literacy activities in a manner that is consistent with the purpose of this part.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9242"></a>
@@ -716,8 +802,14 @@ Each eligible agency shall be responsible for the State or outlying area adminis
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This subchapter, referred to in subsec. (a)(8), was in the original “this title”, meaning title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, known as the Adult Education and Family Literacy Act, which enacted this subchapter, amended sections 6362, 6365, 6366, 6813, and 7881 of this title, and [section 3013 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3013&num=0&edition=prelim), The Public Health and Welfare, and repealed sections 1201 to 1213d of this title and provisions set out as notes under sections 1201, 1213c, 2963, and 2966 of this title. For complete classification of title II to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9243"></a>
@@ -778,8 +870,14 @@ This subchapter, referred to in subsec. (a)(8), was in the original “this titl
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Amendments
 1998—Subsec. (g). Pub. L. 105–332 added subsec. (g).
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9251"></a>
@@ -818,6 +916,9 @@ This subchapter, referred to in subsec. (a)(8), was in the original “this titl
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1204 of this title](./chapter-030-basic-education-for-adults.md#section-1204) prior to repeal by Pub. L. 105–220.
 
@@ -825,6 +926,9 @@ Provisions similar to this section were contained in [section 1204 of this title
 1998—Subsec. (a). Pub. L. 105–277, § 101(f) [title VIII, § 404(d)(1)], substituted “and education” for “or education”.
 
 Subsec. (c). Pub. L. 105–277, § 101(f) [title VIII, § 404(d)(2)], substituted “within” for “with” before “5 years”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9252"></a>
@@ -877,6 +981,14 @@ Subsec. (c). Pub. L. 105–277, § 101(f) [title VIII, § 404(d)(2)], substitute
 
 (12) whether the local communities have a demonstrated need for additional English literacy programs.
 
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+
 
 <a id="section-9253"></a>
 ## § 9253. Local application
@@ -886,6 +998,14 @@ Each eligible provider desiring a grant or contract under this part shall submit
 (1) a description of how funds awarded under this part will be spent; and
 
 (2) a description of any cooperative arrangements the eligible provider has with other agencies, institutions, or organizations for the delivery of adult education and literacy activities.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9271"></a>
@@ -952,6 +1072,9 @@ Each eligible provider desiring a grant or contract under this part shall submit
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (b)(2)(A), (B) and (d)(2)(B), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301) and Tables.
 
@@ -969,7 +1092,7 @@ The Social Security Act, referred to in subsec. (b)(2)(L), is act Aug. 14, 1935,
 
 The Older Americans Act of 1965, referred to in subsec. (b)(2)(M), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Title V of the Act, known as the “Older Americans Community Services Employment Act”, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) and Tables.
 
-The Community Services Block Grant Act, referred to in subsec. (b)(2)(O), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short title note set out under [section 9901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9901&num=0&edition=prelim) and Tables.
+The Community Services Block Grant Act, referred to in subsec. (b)(2)(O), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9901&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -989,6 +1112,9 @@ Subsec. (d)(2)(B). Pub. L. 109–270, § 2(h)(9), substituted “Carl D. Perkins
 
 1998—Subsec. (b)(1). Pub. L. 105–277 inserted at end “For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program.”
 
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
@@ -1003,12 +1129,18 @@ Amendment by section 4002(b)(1)(B), (2)(R) of Pub. L. 110–246 effective Oct. 1
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 Title I, referred to in subsec. (a), is title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of title I to the Code, see Tables.
 
 Title II, referred to in subsec. (a), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§ 9201 et seq.) of this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
 
 This Act, referred to in subsec. (b), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9273"></a>
@@ -1037,6 +1169,9 @@ This Act, referred to in subsec. (b), is Pub. L. 105–220, Aug. 7, 1998, 112 St
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 Title I, referred to in subsecs. (a) and (b)(2)(C), is title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of title I to the Code, see Tables.
 
@@ -1051,6 +1186,9 @@ Subsec. (d). Pub. L. 106–246, § 2403(a)(1)(B), added subsec. (d).
 
 1998—Subsec. (a). Pub. L. 105–277 substituted “adjusted” for “expected” before “levels of performance for title II”.
 
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+
 
 <a id="section-9274"></a>
 ## § 9274. Privacy
@@ -1064,8 +1202,14 @@ Subsec. (d). Pub. L. 106–246, § 2403(a)(1)(B), added subsec. (d).
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This Act, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. Subtitles C and D of title I of the Act are classified generally to subchapters III (§ 2881 et seq.) and IV (§ 2911 et seq.), respectively, of chapter 30 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9275"></a>
@@ -1082,6 +1226,9 @@ This Act, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably Jul
+
 #### References in Text
 Titles I, II, and III, referred to in subsecs. (a) and (b), are titles I, II, and III of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, 1059, 1080. Title I is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. Title II, known as the Adult Education and Family Literacy Act, is classified principally to subchapter I (§ 9201 et seq.) of this chapter. Title III enacted section 49l–2 of this title and [section 4110B of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4110B&num=0&edition=prelim), Veterans’ Benefits, amended sections 49a to 49c, 49d, 49e to 49g, 49j, 49k, 633a, and 791 of this title, [section 7103 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103&num=0&edition=prelim), Government Organization and Employees, [section 2311 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2311&num=0&edition=prelim), Customs Duties, and sections 655a, 2000e–16, and 3056 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 49a, 633a, and 2701 of this title. For complete classification of titles I, II, and III to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
 
@@ -1094,6 +1241,9 @@ In subsec. (a), “chapter 83 of title 41” substituted for “the Buy American
 1998—Subsec. (a). Pub. L. 105–277, § 101(f) [title VIII, § 401(18)(A)], substituted “under title I, II, or III or this subchapter” for “in this Act”.
 
 Subsec. (b)(1), (2). Pub. L. 105–277, § 101(f) [title VIII, § 401(18)(B)], substituted “under title I, II, or III or this subchapter” for “under this Act”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-9276"></a>
@@ -1122,6 +1272,9 @@ Subsec. (b)(1), (2). Pub. L. 105–277, § 101(f) [title VIII, § 401(18)(B)], s
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Job Training Partnership Act, referred to in subsecs. (a) and (d), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
 
@@ -1137,3 +1290,6 @@ The Adult Education and Family Literacy Act, referred to in subsec. (b)(1), is t
 Subsec. (d)(1). Pub. L. 105–277, § 101(f) [title VIII, § 401(19)(A)], substituted “subsection (c)” for “subsection (b)”.
 
 Subsec. (d)(2). Pub. L. 105–277, § 101(f) [title VIII, § 401(19)(B)], inserted “planning authorized under” after “carry out” in two places and substituted “the planning purposes” for “the purposes”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.

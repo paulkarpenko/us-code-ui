@@ -87,7 +87,7 @@ Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, dir
 
   (C) enters into a service agreement with the Secretary of Defense as described in subsection (c).
 
-(2) The amount of the financial assistance provided under a scholarship or fellowship awarded to a person under this subsection shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board.
+(2) The amount of the financial assistance provided under a scholarship or fellowship awarded to a person under this subsection shall be an amount determined by the Secretary of Defense.
 
 (3) Financial assistance provided under a scholarship or fellowship awarded under this section may be paid directly to the recipient of such scholarship or fellowship or to an administering entity for disbursement of the funds.
 
@@ -97,7 +97,15 @@ Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, dir
 
   (A) in the case of an employee of the Department of Defense, the employee shall enter into a written agreement to continue in the employment of the department for the period of obligated service determined under paragraph (2); and
 
-  (B) in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2).
+  (B) in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment for the period of obligated service determined under paragraph (2)—
+
+    (i) with the Department; or
+
+    (ii) with a public or private entity or organization outside of the Department if the Secretary—
+
+      (I) is unable to find an appropriate position for the person within the Department; and
+
+      (II) determines that employment of the person with such entity or organization for the purpose of such obligated service would provide a benefit to the Department.
 
 (2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for such financial assistance. The period of service required of a recipient may not be less than the total period of pursuit of a degree that is covered by such financial assistance. The period of obligated service is in addition to any other period for which the recipient is obligated to serve in the civil service of the United States.
 
@@ -142,6 +150,10 @@ Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, dir
 Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, div. A, title XI, § 1105, Oct. 28, 2004, 118 Stat. 2074; Pub. L. 109–163, div. A, title X, § 1056(d), title XI, § 1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449; Pub. L. 111–383, div. A, title X, § 1075(h)(5), Jan. 7, 2011, 124 Stat. 4377, which was formerly set out as a note under [section 2192 of this title](./chapter-111-support-of-science-mathematics-and-engineering-education.md#section-2192), and was repealed by Pub. L. 109–163, div. A, title XI, § 1104(e)(1), Jan. 6, 2006, 119 Stat. 3450.
 
 #### Amendments
+2014—Subsec. (c)(1)(B). Pub. L. 113–291 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2).”
+
+2013—Subsec. (b)(2). Pub. L. 113–66 substituted “an amount determined by the Secretary of Defense” for “the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board”.
+
 2009—Subsec. (c)(2). Pub. L. 111–84, § 1102(b), substituted “The” for “Except as provided in subsection (d), the” in second sentence.
 
 Subsec. (d). Pub. L. 111–84, § 1102(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) provided that, under certain circumstances, the Secretary of Defense could appoint or retain a SMART program participant as an interim employee and separate such participant from employment if no appropriate permanent position was available at the end of the interim period and that the period of interim service would count towards the participant’s obligated service requirements.
@@ -210,6 +222,9 @@ The text of [section 2193(b) of this title](https://uscode.house.gov/view.xhtml?
 
 #### Amendments
 1999—Pub. L. 106–65, § 580(c)(2), renumbered [section 2193(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2193/b&num=0&edition=prelim) as text of this section. See Codification note above.
+
+#### Pilot Program on Enhancement of Preparation of Dependents of Members of Armed Forces for Careers in Science, Technology, Engineering, and Mathematics
+Pub. L. 113–291, div. A, title II, § 233, Dec. 19, 2014, 128 Stat. 3334, provided that: “(a) Pilot Program.—The Secretary of Defense shall carry out a pilot program to assess the feasibility and advisability of—“(1) enhancing the preparation of covered students for careers in science, technology, engineering, and mathematics; and “(2) providing assistance to teachers at covered schools to enhance preparation described in paragraph (1). “(b) Coordination.—In carrying out the pilot program, the Secretary shall coordinate with the following:“(1) The Secretaries of the military departments. “(2) The Secretary of Education. “(3) The National Science Foundation. “(4) The heads of such other Federal, State, and local government and private sector organizations as the Secretary of Defense considers appropriate. “(c) Activities.—Activities under the pilot program may include the following:“(1) Establishment of targeted internships and cooperative research opportunities at defense laboratories and other technical centers for covered students and teachers at covered schools. “(2) Establishment of scholarships and fellowships for covered students. “(3) Efforts and activities that improve the quality of science, technology, engineering, and mathematics educational and training opportunities for covered students and teachers at covered schools, including with respect to improving the development of curricula at covered schools. “(4) Development of travel opportunities, demonstrations, mentoring programs, and informal science education for covered students and teachers at covered schools. “(d) Metrics.—The Secretary shall establish outcome-based metrics and internal and external assessments to evaluate the merits and benefits of activities conducted under the pilot program with respect to the needs of the Department of Defense. “(e) Authorities.—In carrying out the pilot program, the Secretary shall, to the maximum extent practicable, make use of the authorities under chapter 111 and sections 2601, 2605, and 2374a of title 10, United States Code, section 219 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 [Pub. L. 110–417] ([10 U.S.C. 2358](./chapter-139-research-and-development.md#section-2358) note), and such other authorities as the Secretary considers appropriate. “(f) Report.—Not later than two years after the date of the enactment of this Act [Dec. 19, 2014], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on activities carried out under the pilot program. “(g) Termination.—The pilot program shall terminate on September 30, 2020. “(h) Definitions.—In this section:“(1) The term ‘covered schools’ means elementary or secondary schools at which the Secretary determines a significant number of dependents of members of the Armed Forces are enrolled. “(2) The term ‘covered students’ means dependents of members of the Armed Forces who are enrolled at a covered school.”
 
 
 <a id="section-2193b"></a>

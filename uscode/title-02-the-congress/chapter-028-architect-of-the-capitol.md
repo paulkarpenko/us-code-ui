@@ -2,30 +2,10 @@
 title: 2
 chapter: '28'
 heading: ARCHITECT OF THE CAPITOL
-section_count: 57
+section_count: 61
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
-<a id="section-1820"></a>
-## § § 1820. Acquisition of real property for Capitol Police
-**(a) Authority for acquisition** Subject to the approval of the House Office Building Commission and the Senate Committee on Rules and Administration, the Architect of the Capitol is authorized to acquire (through purchase, lease, transfer from another Federal entity, or otherwise) real property, subject to the availability of appropriations and upon approval of an obligation plan by the Committees on Appropriations of the House and Senate, for the use of the United States Capitol Police.
-
-**(b) United States Capitol grounds provisions applicable** Any real property acquired by the Architect of the Capitol pursuant to subsection (a) of this section shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
-
-**(c) Effective date** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
-
-### Statutory Notes
-
-#### References in Text
-Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40, referred to in subsec. (b), was in the original a reference to the Act entitled “An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes”, approved July 31, 1946, which is act July 31, 1946, ch. 707, 60 Stat. 718, as amended. Sections 9, 9A, 9B, 9C, and 14 of the Act are classified, respectively, to sections 1961, 1966, 1967, 1922, and 1969 of this title, and section 16(b) of the Act is set out as a note under [section 1961 of this title](./chapter-029-capitol-police.md#section-1961). Sections 1 to 8, 10 to 13, and 16(a) of the Act, which were classified to sections 193a to 193m of former Title 40, Public Buildings, Property, and Works, were repealed and reenacted as sections 5101 to 5107 and 5109 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1312, the first section of which enacted Title 40. Section 5(c) of Pub. L. 107–217, set out as a note preceding [section 101 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section101&num=0&edition=prelim), provides that a reference to a law replaced by section 1 of Pub. L. 107–217 is deemed to refer to the corresponding provision enacted by Pub. L. 107–217. For complete classification of the act of July 31, 1946, to the Code, see Tables. For disposition of sections of former Title 40, see table at the beginning of Title 40.
-
-#### Codification
-Section was classified to section 166m of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
-
-#### Acquisition of Property by Architect of the Capitol
-Pub. L. 108–199, div. H, § 152, Jan. 23, 2004, 118 Stat. 448, provided that: “(a) Notwithstanding section 907(a) of Public Law 107–206 (116 Stat. 977) [[2 U.S.C. 1820(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1820/a&num=0&edition=prelim)] or section 1102 of the Legislative Branch Appropriations Act, 2004 ([2 U.S.C. 1822(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1822/b&num=0&edition=prelim)), the Architect of the Capitol, at any time after the date of the enactment of this Act [Jan. 23, 2004] and subject to the availability of appropriations, may enter into an agreement to acquire by lease any portion of the real property located at 499 South Capitol Street Southwest in the District of Columbia for the use of the United States Capitol Police. “(b) Any real property acquired by the Architect of the Capitol pursuant to subsection (a) shall be subject to the provisions of the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 [[2 U.S.C. 1922](./chapter-029-capitol-police.md#section-1922), 1961, 1966, 1967, 1969, see References in Text note above].”
-
-
 <a id="section-1801"></a>
 ## § 1801. Appointment
 **(a)**
@@ -45,7 +25,7 @@ Pub. L. 108–199, div. H, § 152, Jan. 23, 2004, 118 Stat. 448, provided that: 
 
 (3) An individual appointed Architect of the Capitol under paragraph (1) shall be eligible for reappointment to such office.
 
-**(b)** Subsection (a) of this section shall be effective in the case of appointments made to fill vacancies in the office of Architect of the Capitol which occur on or after November 21, 1989. If no such vacancy occurs within the six-year period which begins on November 21, 1989, no individual may, after the expiration of such period, hold such office unless the individual is appointed in accordance with subsection (a) of this section.
+**(b)** Subsection (a) shall be effective in the case of appointments made to fill vacancies in the office of Architect of the Capitol which occur on or after November 21, 1989. If no such vacancy occurs within the six-year period which begins on November 21, 1989, no individual may, after the expiration of such period, hold such office unless the individual is appointed in accordance with subsection (a).
 
 ### Statutory Notes
 
@@ -260,7 +240,7 @@ June 6, 1930, ch. 407, 46 Stat. 513.
 
 **(f) Evaluation** The Government Accountability Office shall evaluate annually the implementation of the action plan and provide the results of the evaluation to the Architect of the Capitol, the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate.
 
-**(g) Removal** The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i) of this section. Upon the removal of the Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
+**(g) Removal** The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i). Upon the removal of the Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
 
 **(h) Compensation** The Deputy Architect of the Capitol shall be paid at an annual rate of pay to be determined by the Architect but not to exceed $1,500 less than the annual rate of pay for the Architect of the Capitol.
 
@@ -319,7 +299,7 @@ Section, Pub. L. 110–161, div. H, title I, § 1309, Dec. 26, 2007, 121 Stat. 2
 
 (1) **Appointment and supervision**
 
-  (A) *In general* — There shall be at the head of the Office of Inspector General, an Inspector General who shall be appointed by the Architect of the Capitol, in consultation with the Inspectors General of the Library of Congress, Government Printing Office, Government Accountability Office, and United States Capitol Police. The appointment shall be made without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Architect of the Capitol.
+  (A) *In general* — There shall be at the head of the Office of Inspector General, an Inspector General who shall be appointed by the Architect of the Capitol, in consultation with the Inspectors General of the Library of Congress, Government Publishing Office, Government Accountability Office, and United States Capitol Police. The appointment shall be made without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Architect of the Capitol.
 
   (B) *Audits, investigations, reports, and other duties and responsibilities* — The Architect of the Capitol shall have no authority to prevent or prohibit the Inspector General from—
 
@@ -365,6 +345,9 @@ The Inspector General Act of 1978, referred to in subsec. (d)(1), is Pub. L. 95�
 #### Codification
 Section is from the Legislative Branch Appropriations Act, 2008, which is div. H of the Consolidated Appropriations Act, 2008.
 
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (c)(1)(A) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
 
 <a id="section-1811"></a>
 ## § 1811. Powers and duties
@@ -383,9 +366,6 @@ Change of name of Architect of the Capitol, functions abolished, transferred, et
 
 #### Transfer to Architect of the Capitol
 Pub. L. 112–74, div. G, title I, § 1202, Dec. 23, 2011, 125 Stat. 1129, provided that: “(a) Transfer.—To the extent that the Director of the National Park Service has jurisdiction and control over any portion of the area described in subsection (b) and any monument or other facility which is located within such area, such jurisdiction and control is hereby transferred to the Architect of the Capitol as of the date of the enactment of this Act [Dec. 23, 2011]. “(b) Area Described.—The area described in this subsection is the property which is bounded on the north by Pennsylvania Avenue Northwest, on the east by First Street Northwest and First Street Southwest, on the south by Maryland Avenue Southwest, and on the west by Third Street Southwest and Third Street Northwest.”
-
-#### Recyclable Materials
-Pub. L. 111–8, div. G, title I, § 1101, Mar. 11, 2009, 123 Stat. 822, provided that: “(a) Collection and Sale of Recyclable Materials.—“(1) Establishment of program.—The Architect of the Capitol shall establish a program for the collection and sale of recyclable materials collected from or on the Capitol buildings and grounds, in accordance with the procedures applicable under subchapter III of chapter 5 of subtitle I of title 40, United States Code[,] to the sale of surplus property by an executive agency. “(2) Exclusion of materials subject to other programs.—The program established under this section shall not apply with respect to any materials which are subject to collection and sale under—“(A) the third undesignated paragraph under the center heading ‘MISCELLANEOUS’ in the first section of the Act entitled ‘An Act making appropriations for sundry civil expenses of the government for the fiscal year ending June thirtieth, eighteen hundred and eighty-three, and for other purposes’, approved August 7, 1882 ([2 U.S.C. 117](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-117)); “(B) section 104(a) of the Legislative Branch Appropriations Act, 1987 (as enacted by reference in identical form by section 101(j) of Public Law 99–500 and Public Law 99–591) ([2 U.S.C. 117e](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-117e)); “(C) the Senate waste recycling program referred to in section 4 of the Legislative Branch Appropriations Act, 2001 ([2 U.S.C. 121f](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-121f)); or “(D) any other authorized program for the collection and sale of recyclable materials. “(b) Revolving Fund.—“(1) In general.—There is established in the Treasury a revolving fund for the Office of the Architect of the Capitol, which shall consist of—“(A) proceeds from the sale of recyclable materials under the program established under this section; and “(B) such amounts as may be appropriated under law. “(2) Use of fund.—Amounts in the revolving fund established under paragraph (1) shall be available without fiscal year limitation to the Architect of the Capitol, subject to the Architect providing prior notice to the Committees on Appropriations of the House of Representatives and Senate—“(A) to carry out the program established under this section; “(B) to carry out authorized programs and activities of the Architect to improve the environment; and “(C) to carry out authorized programs and activities of the Architect to promote energy savings. “(c) Effective Date.—This section shall apply with respect to each of the fiscal years 2009 through 2013.”
 
 #### Acquisition of Property by Architect of the Capitol
 Pub. L. 107–68, title I, § 128, Nov. 12, 2001, 115 Stat. 579, provided that: “Notwithstanding any other provision of law and subject to the availability of appropriations, the Architect of the Capitol is authorized to secure, through multi-year rental, lease, or other appropriate agreement, the property located at 67 K Street, S.W., Washington, D.C., for use of Legislative Branch agencies, and to incur any necessary incidental expenses including maintenance, alterations, and repairs in connection therewith: Provided, That in connection with the property referred to under the preceding proviso, the Architect of the Capitol is authorized to expend funds appropriated to the Architect of the Capitol for the purpose of the operations and support of Legislative Branch agencies, including the United States Capitol Police, as may be required for that purpose.”
@@ -450,7 +430,7 @@ Provision of R.S. § 1816 relating to purchase of furniture or carpets for House
 Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
 
 #### Conditions for Use of Certain Telecommunications Systems and Services by Agency of Legislative Branch
-Pub. L. 101–520, title III, § 306, Nov. 5, 1990, 104 Stat. 2277, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that: “(a) Hereafter, notwithstanding any other provision of law, any agency of the legislative branch is authorized to use telecommunications systems and services provided by the Architect of the Capitol or the House of Representatives or the Senate under the approved plan required by section 305 of Public Law 100–202 (101 Stat. 1329–308) [see source credits following note below] if such systems and services—“(1) have been acquired competitively; and “(2) in the case of long distance service, have been determined by the Architect of the Capitol to be at least equal in quality to, and not greater in cost than, the systems and services available under the procurement conducted by the Administrator of General Services known as ‘FTS2000’. “(b) As used in this section, the term ‘agency of the legislative branch’ means the office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office.”
+Pub. L. 101–520, title III, § 306, Nov. 5, 1990, 104 Stat. 2277, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that: “(a) Hereafter, notwithstanding any other provision of law, any agency of the legislative branch is authorized to use telecommunications systems and services provided by the Architect of the Capitol or the House of Representatives or the Senate under the approved plan required by section 305 of Public Law 100–202 (101 Stat. 1329–308) [see source credits following note below] if such systems and services—“(1) have been acquired competitively; and “(2) in the case of long distance service, have been determined by the Architect of the Capitol to be at least equal in quality to, and not greater in cost than, the systems and services available under the procurement conducted by the Administrator of General Services known as ‘FTS2000’. “(b) As used in this section, the term ‘agency of the legislative branch’ means the office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office.”
 
 Similar provisions were contained in the following prior appropriations acts:
 
@@ -459,7 +439,7 @@ Pub. L. 101–163, title III, § 306, Nov. 21, 1989, 103 Stat. 1064.
 Pub. L. 100–458, title III, § 307B, Oct. 1, 1988, 102 Stat. 2183.
 
 #### Development of Overall Plan for Satisfying Telecommunications Requirements of Agencies of Legislative Branch
-Pub. L. 102–392, title III, § 305, Oct. 6, 1992, 106 Stat. 1721, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that: “(a) The Architect of the Capitol, in consultation with the heads of the agencies of the legislative branch, shall develop an overall plan for satisfying the telecommunications requirements of such agencies, using a common system architecture for maximum interconnection capability and engineering compatibility. The plan shall be subject to joint approval by the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate, and, upon approval, shall be communicated to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. No part of any appropriation in this Act or any other Act shall be used for acquisition of any new or expanded telecommunications system for an agency of the legislative branch, unless, as determined by the Architect of the Capitol, the acquisition is in conformance with the plan, as approved. “(b) As used in this section—“(1) the term ‘agency of the legislative branch’ means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office; and “(2) the term ‘telecommunications system’ means an electronic system for voice, data, or image communication, including any associated cable and switching equipment. “(c) This section shall apply with respect to fiscal years beginning after September 30, 1992.”
+Pub. L. 102–392, title III, § 305, Oct. 6, 1992, 106 Stat. 1721, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that: “(a) The Architect of the Capitol, in consultation with the heads of the agencies of the legislative branch, shall develop an overall plan for satisfying the telecommunications requirements of such agencies, using a common system architecture for maximum interconnection capability and engineering compatibility. The plan shall be subject to joint approval by the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate, and, upon approval, shall be communicated to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. No part of any appropriation in this Act or any other Act shall be used for acquisition of any new or expanded telecommunications system for an agency of the legislative branch, unless, as determined by the Architect of the Capitol, the acquisition is in conformance with the plan, as approved. “(b) As used in this section—“(1) the term ‘agency of the legislative branch’ means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office; and “(2) the term ‘telecommunications system’ means an electronic system for voice, data, or image communication, including any associated cable and switching equipment. “(c) This section shall apply with respect to fiscal years beginning after September 30, 1992.”
 
 Similar provisions were contained in the following prior appropriations acts:
 
@@ -489,9 +469,9 @@ Section was classified to section 166i of former Title 40, prior to the enactmen
 
 <a id="section-1816"></a>
 ## § 1816. Construction contracts
-**(a) Liquidated damages** The Architect of the Capitol may not enter into or administer any construction contract with a value greater than $50,000 unless the contract includes a provision requiring the payment of liquidated damages in the amount determined under subsection (b) of this section in the event that completion of the project is delayed because of the contractor.
+**(a) Liquidated damages** The Architect of the Capitol may not enter into or administer any construction contract with a value greater than $50,000 unless the contract includes a provision requiring the payment of liquidated damages in the amount determined under subsection (b) in the event that completion of the project is delayed because of the contractor.
 
-**(b) Amount of payment** The amount of payment required under a liquidated damages provision described in subsection (a) of this section shall be equal to the product of—
+**(b) Amount of payment** The amount of payment required under a liquidated damages provision described in subsection (a) shall be equal to the product of—
 
 (1) the daily liquidated damage payment rate; and
 
@@ -499,7 +479,7 @@ Section was classified to section 166i of former Title 40, prior to the enactmen
 
 **(c) Daily liquidated damage payment rate**
 
-(1) **In general** — In subsection (b) of this section, the “daily liquidated damage payment rate” means—
+(1) **In general** — In subsection (b), the “daily liquidated damage payment rate” means—
 
   (A) $140, in the case of a contract with a value greater than $50,000 and less than $100,000;
 
@@ -595,7 +575,7 @@ Section was classified to section 166d of former Title 40, prior to the enactmen
 ## § 1819. Computer backup facilities for legislative offices
 **(a) Acquisition of buildings and facilities** The Architect of the Capitol is authorized, subject to the availability of appropriations, to acquire (through purchase, lease, or otherwise) buildings and facilities for use as computer backup facilities (and related uses) for offices in the legislative branch.
 
-**(b) Acquisition subject to approval** The acquisition of a building or facility under subsection (a) of this section shall be subject to the approval of—
+**(b) Acquisition subject to approval** The acquisition of a building or facility under subsection (a) shall be subject to the approval of—
 
 (1) the House Office Building Commission, in the case of a building or facility acquired for the use of an office of the House of Representatives;
 
@@ -603,9 +583,9 @@ Section was classified to section 166d of former Title 40, prior to the enactmen
 
 (3) the House Office Building Commission in the case of a building or facility acquired for the use of any other office in the legislative branch as part of a joint facility with (1) above, or the Committee on Rules and Administration of the Senate, in the case of a building or facility acquired for the use of any other office in the legislative branch as part of a joint facility with (2) above.
 
-**(c) United States Capitol grounds provisions applicable** Any building or facility acquired by the Architect of the Capitol pursuant to subsection (a) of this section shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
+**(c) United States Capitol grounds provisions applicable** Any building or facility acquired by the Architect of the Capitol pursuant to subsection (a) shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
 
-**(d) Lease of buildings and facilities** In the case of a building or facility acquired through purchase pursuant to subsection (a) of this section, the Architect of the Capitol may enter into or assume a lease with another person for the use of any portion of the building or facility that the Architect of the Capitol determines is not required to be used to carry out the purposes of this section, subject to the approval of the entity which approved the acquisition of such building or facility under subsection (b) of this section.
+**(d) Lease of buildings and facilities** In the case of a building or facility acquired through purchase pursuant to subsection (a), the Architect of the Capitol may enter into or assume a lease with another person for the use of any portion of the building or facility that the Architect of the Capitol determines is not required to be used to carry out the purposes of this section, subject to the approval of the entity which approved the acquisition of such building or facility under subsection (b).
 
 **(e) Effective date** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
@@ -622,6 +602,26 @@ Section was classified to section 166k of former Title 40, prior to the enactmen
 
 #### Effective Date of 2005 Amendment
 Pub. L. 109–55, title I, § 1202(b), Aug. 2, 2005, 119 Stat. 579, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to leases entered into on or after the date of the enactment of this Act [Aug. 2, 2005].”
+
+
+<a id="section-1820"></a>
+## § 1820. Acquisition of real property for Capitol Police
+**(a) Authority for acquisition** Subject to the approval of the House Office Building Commission and the Senate Committee on Rules and Administration, the Architect of the Capitol is authorized to acquire (through purchase, lease, transfer from another Federal entity, or otherwise) real property, subject to the availability of appropriations and upon approval of an obligation plan by the Committees on Appropriations of the House and Senate, for the use of the United States Capitol Police.
+
+**(b) United States Capitol grounds provisions applicable** Any real property acquired by the Architect of the Capitol pursuant to subsection (a) shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
+
+**(c) Effective date** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
+
+### Statutory Notes
+
+#### References in Text
+Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40, referred to in subsec. (b), was in the original a reference to the Act entitled “An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes”, approved July 31, 1946, which is act July 31, 1946, ch. 707, 60 Stat. 718, as amended. Sections 9, 9A, 9B, 9C, and 14 of the Act are classified, respectively, to sections 1961, 1966, 1967, 1922, and 1969 of this title, and section 16(b) of the Act is set out as a note under [section 1961 of this title](./chapter-029-capitol-police.md#section-1961). Sections 1 to 8, 10 to 13, and 16(a) of the Act, which were classified to sections 193a to 193m of former Title 40, Public Buildings, Property, and Works, were repealed and reenacted as sections 5101 to 5107 and 5109 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1312, the first section of which enacted Title 40. Section 5(c) of Pub. L. 107–217, set out as a note preceding [section 101 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section101&num=0&edition=prelim), provides that a reference to a law replaced by section 1 of Pub. L. 107–217 is deemed to refer to the corresponding provision enacted by Pub. L. 107–217. For complete classification of the act of July 31, 1946, to the Code, see Tables. For disposition of sections of former Title 40, see table at the beginning of Title 40.
+
+#### Codification
+Section was classified to section 166m of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+
+#### Acquisition of Property by Architect of the Capitol
+Pub. L. 108–199, div. H, § 152, Jan. 23, 2004, 118 Stat. 448, provided that: “(a) Notwithstanding section 907(a) of Public Law 107–206 (116 Stat. 977) [[2 U.S.C. 1820(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1820/a&num=0&edition=prelim)] or section 1102 of the Legislative Branch Appropriations Act, 2004 ([2 U.S.C. 1822(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1822/b&num=0&edition=prelim)), the Architect of the Capitol, at any time after the date of the enactment of this Act [Jan. 23, 2004] and subject to the availability of appropriations, may enter into an agreement to acquire by lease any portion of the real property located at 499 South Capitol Street Southwest in the District of Columbia for the use of the United States Capitol Police. “(b) Any real property acquired by the Architect of the Capitol pursuant to subsection (a) shall be subject to the provisions of the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 [[2 U.S.C. 1922](./chapter-029-capitol-police.md#section-1922), 1961, 1966, 1967, 1969, see References in Text note above].”
 
 
 <a id="section-1821"></a>
@@ -649,11 +649,11 @@ Prior similar provisions were contained in Pub. L. 107–68, title I, § 131, No
 ## § 1822. Leasing of space
 **(a) In general** Funds appropriated to the Architect of the Capitol shall be available—
 
-(1) for the leasing of space in areas within the District of Columbia and its environs beyond the boundaries of the United States Capitol Grounds to meet space requirements of the United States Senate, United States House of Representatives, United States Capitol Police, and the Architect of the Capitol under such terms and conditions as the Committee or Commission referred to under subsection (b) of this section may authorize; and
+(1) for the leasing of space in areas within the District of Columbia and its environs beyond the boundaries of the United States Capitol Grounds to meet space requirements of the United States Senate, United States House of Representatives, United States Capitol Police, and the Architect of the Capitol under such terms and conditions as the Committee or Commission referred to under subsection (b) may authorize; and
 
 (2) to incur any necessary expense in connection with any leasing of space under paragraph (1).
 
-**(b) Conditions to lease space** The Architect of the Capitol may lease space under subsection (a) of this section upon submission of written notice of intent to lease such space to, and approved by—
+**(b) Conditions to lease space** The Architect of the Capitol may lease space under subsection (a) upon submission of written notice of intent to lease such space to, and approved by—
 
 (1) the Committees on Appropriations and Rules and Administration of the Senate for space to be leased for the Senate;
 
@@ -727,6 +727,49 @@ Section is from the Legislative Branch Appropriations Act, 2009, which is div. G
 
 #### Effective Date
 Pub. L. 110–140, title XVI, § 1601, Dec. 19, 2007, 121 Stat. 1801, provided that: “This Act [see Tables for classification] and the amendments made by this Act take effect on the date that is 1 day after the date of enactment of this Act [Dec. 19, 2007].”
+
+
+<a id="section-1824a"></a>
+## § 1824a. Recyclable materials
+**(a) Collection and sale of recyclable materials**
+
+(1) **Establishment of program** — The Architect of the Capitol shall establish a program for the collection and sale of recyclable materials collected from or on the Capitol buildings and grounds, in accordance with the procedures applicable under subchapter III of chapter 5 of subtitle I of title 40, to the sale of surplus property by an executive agency.
+
+(2) **Exclusion of materials subject to other programs** — The program established under this section shall not apply with respect to any materials which are subject to collection and sale under—
+
+  (A) [section 6516 of this title](./chapter-065-senate-officers-and-administration.md#section-6516);
+
+  (B) [section 5540 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5540);
+
+  (C) [section 2026 of this title](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2026); or
+
+  (D) any other authorized program for the collection and sale of recyclable materials.
+
+**(b) Revolving fund**
+
+(1) **In general** — There is established in the Treasury a revolving fund for the Office of the Architect of the Capitol, which shall consist of—
+
+  (A) proceeds from the sale of recyclable materials under the program established under this section; and
+
+  (B) such amounts as may be appropriated under law.
+
+(2) **Use of fund** — Amounts in the revolving fund established under paragraph (1) shall be available without fiscal year limitation to the Architect of the Capitol, subject to the Architect providing prior notice to the Committees on Appropriations of the House of Representatives and Senate—
+
+  (A) to carry out the program established under this section;
+
+  (B) to carry out authorized programs and activities of the Architect to improve the environment; and
+
+  (C) to carry out authorized programs and activities of the Architect to promote energy savings.
+
+**(c) Effective date** This section shall apply with respect to fiscal year 2009 and each fiscal year thereafter.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified as a note under [section 1811 of this title](./chapter-028-architect-of-the-capitol.md#section-1811).
+
+#### Amendments
+2014—Subsec. (c). Pub. L. 113–76 substituted “fiscal year 2009 and each fiscal year thereafter” for “each of the fiscal years 2009 through 2013”.
 
 
 <a id="section-1825"></a>
@@ -823,13 +866,13 @@ Section is from the Legislative Branch Appropriations Act, 2010, which is div. A
 
 (1) **Development of plan** — The Architect of the Capitol shall—
 
-  (A) develop a plan for the establishment and maintenance of a personnel management system designed to achieve the requirements of subsection (c) of this section;
+  (A) develop a plan for the establishment and maintenance of a personnel management system designed to achieve the requirements of subsection (c);
 
   (B) submit the plan to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, the Joint Committee on the Library, and the Committees on Appropriations of the Senate and the House of Representatives not later than 12 months after July 22, 1994; and
 
   (C) implement the plan not later than 90 days after the plan is submitted to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, the Joint Committee on the Library, and the Committees on Appropriations of the Senate and the House of Representatives, as specified in subparagraph (B).
 
-(2) **Evaluation and reporting** — The Architect of the Capitol shall develop a system of oversight and evaluation to ensure that the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) of this section and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
+(2) **Evaluation and reporting** — The Architect of the Capitol shall develop a system of oversight and evaluation to ensure that the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
 
 (3) **Application of laws** — Nothing in this section shall be construed to alter or supersede any other provision of law otherwise applicable to the Architect of the Capitol or its employees, unless expressly provided in this section.
 
@@ -918,12 +961,13 @@ Whenever the rate of pay of—
 
 (1) an employee of the Office of the Architect of the Capitol; or
 
-(2) an employee of the House Restaurant, or of the Senate Restaurant, under the supervision of the Architect of the Capitol as an agent of the House or Senate, respectively, as the case may be; is fixed or adjusted on or after the effective date of this section, that rate, as so fixed and adjusted, shall be a single per annum gross rate.
+(2) an employee of the House Restaurant, or of the Senate Restaurant, under the supervision of the Architect of the Capitol as an agent of the House or Senate, respectively, as the case may be;
+is fixed or adjusted on or after the effective date of this section, that rate, as so fixed and adjusted, shall be a single per annum gross rate.
 
 ### Statutory Notes
 
 #### References in Text
-The effective date of this section, referred to in text, means immediately prior to noon on Jan. 3, 1971. See section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+The effective date of this section, referred to in text, means immediately prior to noon on Jan. 3, 1971. See section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 #### Codification
 Section was classified to section 166b–1a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
@@ -937,7 +981,7 @@ The Architect of the Capitol shall convert, as of the effective date of this sec
 ### Statutory Notes
 
 #### References in Text
-The effective date of this section, referred to in text, means immediately prior to noon on Jan. 3, 1971. See section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+The effective date of this section, referred to in text, means immediately prior to noon on Jan. 3, 1971. See section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 #### Codification
 Section was classified to section 166b–1b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
@@ -957,12 +1001,13 @@ In any case in which—
   (C) any class or group of such employees or positions,
   is referred to in or provided by statute or other authority; and
 
-(2) the rate so referred to or provided is a basic rate with respect to which additional pay is provided by law; such statutory provision or authority shall be deemed to refer, in lieu of such basic rate, to the per annum gross rate which an employee receiving such basic rate immediately prior to the effective date of this section would receive, without regard to such statutory provision or authority, under [section 1842 of this title](./chapter-028-architect-of-the-capitol.md#section-1842) on and after such date.
+(2) the rate so referred to or provided is a basic rate with respect to which additional pay is provided by law;
+such statutory provision or authority shall be deemed to refer, in lieu of such basic rate, to the per annum gross rate which an employee receiving such basic rate immediately prior to the effective date of this section would receive, without regard to such statutory provision or authority, under [section 1842 of this title](./chapter-028-architect-of-the-capitol.md#section-1842) on and after such date.
 
 ### Statutory Notes
 
 #### References in Text
-The effective date of this section, referred to in text, means immediately prior to noon on Jan. 3, 1971. See section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+The effective date of this section, referred to in text, means immediately prior to noon on Jan. 3, 1971. See section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 #### Codification
 Section was classified to section 166b–1c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
@@ -985,7 +1030,7 @@ The provisions of sections 1841 to 1846 of this title shall not be construed to�
 Section was classified to section 166b–1d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Effective Date
-Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 
 <a id="section-1845"></a>
@@ -1000,7 +1045,7 @@ Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) 
 Section was classified to section 166b–1e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Effective Date
-Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 
 <a id="section-1846"></a>
@@ -1027,7 +1072,7 @@ Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, r
 Section was classified to section 166b–1f of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Effective Date
-Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 
 <a id="section-1847"></a>
@@ -1059,15 +1104,15 @@ Amendment by Pub. L. 90–206 effective as of beginning of first pay period whic
 
 <a id="section-1848"></a>
 ## § 1848. Compensation of certain positions in Office of Architect of the Capitol
-**(a) Amount of compensation to be that specified in appropriations Acts** Notwithstanding any other provision of law, the pay for positions described in subsection (b) of this section shall be the amounts specified for such positions in appropriations Acts.
+**(a) Amount of compensation to be that specified in appropriations Acts** Notwithstanding any other provision of law, the pay for positions described in subsection (b) shall be the amounts specified for such positions in appropriations Acts.
 
-**(b) Positions covered** The positions referred to in subsection (a) of this section are—
+**(b) Positions covered** The positions referred to in subsection (a) are—
 
 (1) the position of assistant referred to in the proviso in the first undesignated paragraph under the center subheadings “Office of the Architect of the Capitol” and “salaries” in the first section of the Legislative Branch Appropriation Act, 1971 [[2 U.S.C. 1804](./chapter-028-architect-of-the-capitol.md#section-1804)], and
 
 (2) the eight positions provided for in the third and fourth undesignated paragraphs under the center subheadings “Office of the Architect of the Capitol” and “salaries” in the first section of the Legislative Branch Appropriation Act, 1960 [[2 U.S.C. 1847](./chapter-028-architect-of-the-capitol.md#section-1847)].
 
-**(c) Calculation of amounts** The pay for each position described in subsection (b) of this section shall be the pay payable for such position with respect to the last pay period before this section takes effect, subject to any applicable adjustment during fiscal year 1988 under, or by reference to any applicable adjustment during fiscal year 1988 under, subchapter I of chapter 53 of title 5.
+**(c) Calculation of amounts** The pay for each position described in subsection (b) shall be the pay payable for such position with respect to the last pay period before this section takes effect, subject to any applicable adjustment during fiscal year 1988 under, or by reference to any applicable adjustment during fiscal year 1988 under, subchapter I of chapter 53 of title 5.
 
 **(d) Effective date** This section shall apply in fiscal years beginning after September 30, 1987, with respect to pay periods beginning after December 22, 1987.
 
@@ -1239,6 +1284,54 @@ then the Architect of the Capitol is authorized, in accordance with the provisio
 Section was classified to section 166b–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 
+<a id="section-1853"></a>
+## § 1853. Exemption of officers and employees of Architect of Capitol from certain Federal pay provisions
+
+The classes of employees whose compensation is authorized by section 3 of the Legislative Pay Act of 1929, as amended (46 Stat. 38; 55 Stat. 615), to be fixed by the Architect of the Capitol without regard to the Classification Act of 1923, as amended, are authorized to be compensated without regard to chapter 51 and subchapter III of chapter 53 of title 5.
+
+### Statutory Notes
+
+#### References in Text
+Section 3 of the Legislative Pay Act of 1929, as amended (40 Stat. 38; 55 Stat. 615), referred to in text, which was an amendment of the Classification Act of 1923 and which was classified to section 662 of former Title 5, Executive Departments and Government Officers and Employees, was repealed by section 1202 of the Classification Act of 1949, Oct. 28, 1949, ch. 782, 63 Stat. 972.
+
+The Classification Act of 1923, as amended, referred to in text, is act Mar. 4, 1923, ch. 265, 42 Stat. 1488, as amended, which was classified to section 661 et seq. of such former Title 5, and was repealed by section 1202 of the Classification Act of 1949.
+
+#### Codification
+Section was formerly classified to [section 60e–2a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60e-2a) prior to editorial reclassification and renumbering as this section.
+
+Section is comprised of section 204(a) of act Oct. 28, 1949. Subsections (b) and (c) of such section were repealed by Pub. L. 89–554, § 8, Sept. 6, 1966, 80 Stat. 655, and reenacted as sections 5102(d) and 5103 of Title 5, Government Organization and Employees.
+
+Section was classified to [section 1084(a) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1084/a&num=0&edition=prelim) prior to the general revision and enactment of Title 5 by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “this Act”, referring to the Classification Act of 1949, on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5.
+
+
+<a id="section-1854"></a>
+## § 1854. Overtime compensation for certain employees of Architect of Capitol
+
+For overtime pay purposes, per diem and per hour employees under the Office of the Architect of the Capitol not subject to chapter 51 and subchapter III of chapter 53 of title 5, shall be regarded as subject to the provisions of sections 5544(a) and 6102 of title 5, and sections 60e–3 and 60e–4 of this title shall not be applicable to such employees.
+
+### Statutory Notes
+
+#### References in Text
+[Section 6102 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6102&num=0&edition=prelim), referred to in text, was repealed by Pub. L. 92–392, § 7(a), Aug. 19, 1972, 86 Stat. 573, and reenacted as [section 6101(a)(1) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6101/a/1&num=0&edition=prelim), Government Organization and Employees.
+
+Sections 60e–3 and 60e–4 of this title, referred to in text, were omitted from the Code.
+
+#### Codification
+Section was formerly classified to [section 60e–2b of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60e-2b) prior to editorial reclassification and renumbering as this section.
+
+Section was classified to [section 933 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section933&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949, as amended”, and “sections 5544(a) and 6102 of title 5” substituted for “section 23 of the Act of March 28, 1934 (U.S.C., 1940 edition, title 5, sec. 673c)”, on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5.
+
+#### Amendments
+1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+#### Repeals
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+
+
 <a id="section-1861"></a>
 ## § 1861. Appropriations under control of Architect of the Capitol
 
@@ -1359,6 +1452,29 @@ Section was classified to section 162b of former Title 40, prior to the enactmen
 For termination, effective May 15, 2000, of provisions in par. (1) of this section relating to the requirement that the Architect of the Capitol submit a semiannual report to the Senate and the House of Representatives, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 1 of House Document No. 103–7.
 
 
+<a id="section-1868a"></a>
+## § 1868a. Semiannual report of disbursements
+**(a) Reports required** Not later than 60 days after the last day of each semiannual period, the Architect of the Capitol shall submit to Congress, with respect to that period, a detailed, itemized report of the disbursements for the operations of the Office of the Architect of the Capitol.
+
+**(b) Contents** The report required by subsection (a) shall include—
+
+(1) the name of each person who receives a payment from the Office of the Architect of the Capitol;
+
+(2) the quantity and price of any item furnished to the Office of the Architect of the Capitol;
+
+(3) a description of any service rendered to the Office of the Architect of the Capitol, together with a statement of the time required for the service, and the name, title, and amount paid to each person who renders the service;
+
+(4) a statement of all amounts appropriated to, or received or expended by, the Office of the Architect of the Capitol and any unexpended balances of such amounts;
+
+(5) the information submitted to the Comptroller General under [section 3523(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3523/b&num=0&edition=prelim); and
+
+(6) such additional information as may be required by regulation of the Committee on House Administration of the House of Representatives or the Committee on Rules and Administration of the Senate.
+
+**(c) Printing** Each report under this section shall be printed as a House document.
+
+**(d) Effective date** This section shall apply with respect to the semiannual periods of January 1 through June 30 and July 1 through December 31 of each year, beginning with the semiannual period in which this section is enacted.
+
+
 <a id="section-1869"></a>
 ## § 1869. Advance payments
 
@@ -1385,7 +1501,7 @@ Section is from the Legislative Branch Appropriations Act, 2008, which is div. H
 ### Statutory Notes
 
 #### Codification
-Section is comprised of section 1304 of Pub. L. 111–68. Subsec. (d) of section 1304 of Pub. L. 111–68 amended [section 95b of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-95b).
+Section is comprised of section 1304 of Pub. L. 111–68. Subsec. (d) of section 1304 of Pub. L. 111–68 amended [section 5507 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5507).
 
 Section is from the Legislative Branch Appropriations Act, 2010, which is div. A of Pub. L. 111–68.
 

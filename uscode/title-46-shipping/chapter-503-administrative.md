@@ -97,7 +97,7 @@ In subsection (g), the words “beginning July 1, 1956” and “after July 1, 1
 
   (C) seek to coordinate all reviews or requirements with appropriate local, State, and Federal agencies; and
 
-  (D) provide such technical assistance to port authorities or commissions or their subdivisions and agents as needed for project planning, design, and construction.
+  (D) provide such technical assistance and financial assistance, including grants, to port authorities or commissions or their subdivisions and agents as needed for project planning, design, and construction.
 
 (3) **Port infrastructure development fund.—**
 
@@ -173,7 +173,12 @@ Section 10205 of Public Law 109–59, referred to in subsec. (c)(3)(D), is secti
 Section 3512 of Public Law 110–417, referred to in subsec. (c)(3)(D), is classified to [section 1421r of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1421r&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Amendments
+2013—Subsec. (c)(2)(D). Pub. L. 113–66 inserted “and financial assistance, including grants,” after “technical assistance”.
+
 2009—Subsec. (c). Pub. L. 111–84 added subsec. (c).
+
+#### Strategic Seaports
+Pub. L. 113–66, div. C, title XXXV, § 3505(a), Dec. 26, 2013, 127 Stat. 1086, provided that: “(1) In general.—Under the port infrastructure development program established under [section 50302(c) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section50302/c&num=0&edition=prelim), United States Code, the Maritime Administrator, in consultation with the Secretary of Defense, may give priority to providing funding to strategic seaports in support of national security requirements. “(2) Strategic seaport defined.—In this subsection the term ‘strategic seaport’ means a military port or and [sic] commercial port that is subject to a port planning order or Basic Ordering Agreement (or both) that is projected to be used for the deployment of forces and shipment of ammunition or sustainment supplies in support of military operations.”
 
 
 <a id="section-50303"></a>

@@ -269,7 +269,7 @@ The privilege of the writ of habeas corpus shall be available to any person, in 
 #### References in Text
 This Act, referred to in subsec. (d)(1), probably means title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, popularly known as the Indian Civil Rights Act of 1968, which is classified generally to this subchapter.
 
-#### Effective Dates; Pilot Project.
+#### Effective Dates; Pilot Project
 Pub. L. 113–4, title IX, § 908, Mar. 7, 2013, 127 Stat. 125, provided that: “(a) General Effective Date.—Except as provided in section 4 [[18 U.S.C. 2261](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261&num=0&edition=prelim) note] and subsection (b) of this section, the amendments made by this title [see Tables for classification] shall take effect on the date of enactment of this Act [Mar. 7, 2013]. “(b) Effective Date for Special Domestic-violence Criminal Jurisdiction.—“(1) In general.—Except as provided in paragraph (2), subsections (b) through (d) of section 204 of Public Law 90–284 [[25 U.S.C. 1304(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1304/b&num=0&edition=prelim)–(d)] (as added by section 904) shall take effect on the date that is 2 years after the date of enactment of this Act [Mar. 7, 2013]. “(2) Pilot project.—“(A) In general.—At any time during the 2-year period beginning on the date of enactment of this Act, an Indian tribe may ask the Attorney General to designate the tribe as a participating tribe under section 204(a) of Public Law 90–284 [[25 U.S.C. 1304(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1304/a&num=0&edition=prelim)] on an accelerated basis. “(B) Procedure.—The Attorney General may grant a request under subparagraph (A) after coordinating with the Secretary of the Interior, consulting with affected Indian tribes, and concluding that the criminal justice system of the requesting tribe has adequate safeguards in place to protect defendants’ rights, consistent with section 204 of Public Law 90–284 [[25 U.S.C. 1304](./chapter-015-constitutional-rights-of-indians.md#section-1304)]. “(C) Effective dates for pilot projects.—An Indian tribe designated as a participating tribe under this paragraph may commence exercising special domestic violence criminal jurisdiction pursuant to subsections (b) through (d) of section 204 of Public Law 90–284 on a date established by the Attorney General, after consultation with that Indian tribe, but in no event later than the date that is 2 years after the date of enactment of this Act.”
 
 
@@ -358,11 +358,11 @@ Notwithstanding any other provision of law, if any application made by an Indian
 ## § 1341. Authorization of Secretary
 **(a) Revision of document on “Indian Affairs, Laws and Treaties” and treatise on “Federal Indian Laws”; compilation of official opinions; printing and republication** In order that the constitutional rights of Indians might be fully protected, the Secretary of the Interior is authorized and directed to—
 
-(1) have the document entitled “Indian Affairs, Laws and Treaties” (Senate Document Numbered 319, volumes 1 and 2, Fifty-eighth Congress), revised and extended to include all treaties, laws, Executive orders, and regulations relating to Indian affairs in force on September 1, 1967, and to have such revised document printed at the Government Printing Office;
+(1) have the document entitled “Indian Affairs, Laws and Treaties” (Senate Document Numbered 319, volumes 1 and 2, Fifty-eighth Congress), revised and extended to include all treaties, laws, Executive orders, and regulations relating to Indian affairs in force on September 1, 1967, and to have such revised document printed at the Government Publishing Office;
 
 (2) have revised and republished the treatise entitled “Federal Indian Law”; and
 
-(3) have prepared, to the extent determined by the Secretary of the Interior to be feasible, an accurate compilation of the official opinions, published and unpublished, of the Solicitor of the Department of the Interior relating to Indian affairs rendered by the Solicitor prior to September 1, 1967, and to have such compilation printed as a Government publication at the Government Printing Office.
+(3) have prepared, to the extent determined by the Secretary of the Interior to be feasible, an accurate compilation of the official opinions, published and unpublished, of the Solicitor of the Department of the Interior relating to Indian affairs rendered by the Solicitor prior to September 1, 1967, and to have such compilation printed as a Government publication at the Government Publishing Office.
 
 **(b) Current services** With respect to the document entitled “Indian Affairs, Laws and Treaties” as revised and extended in accordance with paragraph (1) of subsection (a) of this section, and the compilation prepared in accordance with paragraph (3) of such subsection, the Secretary of the Interior shall take such action as may be necessary to keep such document and compilation current on an annual basis.
 
@@ -372,3 +372,6 @@ Notwithstanding any other provision of law, if any application made by an Indian
 
 #### Amendments
 1974—Subsec. (c). Pub. L. 93–265 struck out “, with respect to the preparation but not including printing,” before “such sum”.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (a)(1), (3) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.

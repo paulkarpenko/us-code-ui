@@ -919,7 +919,7 @@ Congress finds that—
 ### Statutory Notes
 
 #### Specification of Cooperative Threat Reduction Programs
-Pub. L. 104–201, div. A, title XV, § 1501, Sept. 23, 1996, 110 Stat. 2731, as amended by Pub. L. 105–261, div. A, title XIII, § 1301(a)(2), Oct. 17, 1998, 112 Stat. 2161; Pub. L. 110–181, div. A, title XIII, § 1303, Jan. 28, 2008, 122 Stat. 412, provided that: “(a) In General.—For purposes of section 301 [110 Stat. 2475] and other provisions of this Act [see Tables for classification], Cooperative Threat Reduction programs are the programs specified in subsections (b) and (c). “(b) Specified Programs.—The programs referred to in subsection (a) are the following programs with respect to states of the former Soviet Union:“(1) Programs to facilitate the elimination, and the safe and secure transportation and storage, of nuclear, chemical, and other weapons and their delivery vehicles. “(2) Programs to facilitate the safe and secure storage of fissile materials derived from the elimination of nuclear weapons. “(3) Programs to prevent the proliferation of weapons, weapons components, materials, and weapons-related technology and expertise. “(4) Programs to expand military-to-military and defense contacts. “(c) Specified Programs With Respect to States Outside the Former Soviet Union.—The programs referred to in subsection (a) are the following programs with respect to states that are not states of the former Soviet Union:“(1) Programs to facilitate the elimination, and the safe and secure transportation and storage, of chemical or biological weapons, weapons components, weapons-related materials, and their delivery vehicles. “(2) Programs to facilitate safe and secure transportation and storage of nuclear weapons, weapons components, and their delivery vehicles. “(3) Programs to prevent the proliferation of nuclear and chemical weapons, weapons components, and weapons-related military technology and expertise. “(4) Programs to prevent the proliferation of biological weapons, weapons components, and weapons-related military technology and expertise, which may include activities that facilitate detection and reporting of highly pathogenic diseases or other diseases that are associated with or that could be utilized as an early warning mechanism for disease outbreaks that could impact the Armed Forces of the United States or allies of the United States. “(5) Programs to expand military-to-military and defense contacts.”
+Pub. L. 104–201, div. A, title XV, § 1501, Sept. 23, 1996, 110 Stat. 2731, as amended by Pub. L. 105–261, div. A, title XIII, § 1301(a)(2), Oct. 17, 1998, 112 Stat. 2161; Pub. L. 110–181, div. A, title XIII, § 1303, Jan. 28, 2008, 122 Stat. 412, specified Cooperative Threat Reduction programs for purposes of Pub. L. 104–201, prior to repeal by Pub. L. 113–291, div. A, title XIII, § 1351(5), Dec. 19, 2014, 128 Stat. 3607.
 
 
 <a id="section-2365"></a>
@@ -938,9 +938,6 @@ Title XIV of the National Defense Authorization Act for Fiscal Year 1993, referr
 
 #### Amendments
 1998—Par. (1). Pub. L. 105–261 substituted “title XIV of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; [22 U.S.C. 5901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5901&num=0&edition=prelim) et seq.)” for “the National Defense Authorization Act for Fiscal Years 1993 and 1994”.
-
-#### Specification of Cooperative Threat Reduction Program
-For specification of Cooperative Threat Reduction programs, see section 1501(b) of Pub. L. 104–201, set out as a note under [section 2362 of this title](./chapter-040-defense-against-weapons-of-mass-destruction.md#section-2362).
 
 
 <a id="section-2366"></a>
@@ -973,7 +970,7 @@ Section, Pub. L. 104–293, title VII, § 721, Oct. 11, 1996, 110 Stat. 3474; Pu
 
 
 <a id="section-2369"></a>
-## § 2369. Reports on Acquisition of Technology Relating to Weapons of Mass Destruction and the Threat Posed by Weapons of Mass Destruction, Ballistic Missiles, and Cruise Missiles
+## § 2369. Reports on acquisition of technology relating to weapons of mass destruction and the threat posed by weapons of mass destruction, ballistic missiles, and cruise missiles
 **(a) Annual report** Not later than January 30 of each year, the Secretary of Defense, in consultation with the Director of National Intelligence, shall submit to the appropriate congressional committees a report on the following:
 
 (1) The threats posed to the United States and allies of the United States—
@@ -1010,7 +1007,7 @@ Section, Pub. L. 104–293, title VII, § 721, Oct. 11, 1996, 110 Stat. 3474; Pu
 
 (1) The congressional defense committees.
 
-(2) The congressional intelligence committees (as defined in [section 401a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a&num=0&edition=prelim)).
+(2) The congressional intelligence committees (as defined in [section 3003 of this title](./chapter-044-national-security.md#section-3003)).
 
 (3) The Speaker and the minority leader of the House of Representatives and the majority leader and the minority leader of the Senate.
 

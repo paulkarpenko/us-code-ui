@@ -319,9 +319,9 @@ Section 3506 requires the master of a passenger vessel to keep on board a copy o
 
     (i) shall contact the nearest Federal Bureau of Investigation Field Office or Legal Attache by telephone as soon as possible after the occurrence on board the vessel of an incident involving homicide, suspicious death, a missing United States national, kidnapping, assault with serious bodily injury, any offense to which section 2241, 2242, 2243, or 2244(a) or (c) of title 18 applies, firing or tampering with the vessel, or theft of money or property in excess of $10,000 to report the incident;
 
-    (ii) shall furnish a written report of the incident to an Internet based portal maintained by the Secretary;
+    (ii) shall furnish a written report of each incident specified in clause (i) to the Internet website maintained by the Secretary of Transportation under paragraph (4)(A);
 
-    (iii) may report any serious incident that does not meet the reporting requirements of clause (i) and that does not require immediate attention by the Federal Bureau of Investigation via the Internet based portal maintained by the Secretary; and
+    (iii) may report any serious incident that does not meet the reporting requirements of clause (i) and that does not require immediate attention by the Federal Bureau of Investigation via the Internet website maintained by the Secretary of Transportation under paragraph (4)(A); and
 
     (iv) may report any other criminal incident involving passengers or crewmembers, or both, to the proper State or local government law enforcement authority.
 
@@ -337,9 +337,27 @@ Section 3506 requires the master of a passenger vessel to keep on board a copy o
 
 (4) **Availability of incident data via internet.—**
 
-  (A) *Website.—* — The Secretary shall maintain a statistical compilation of all incidents described in paragraph (3)(A)(i) on an Internet site that provides a numerical accounting of the missing persons and alleged crimes recorded in each report filed under paragraph (3)(A)(i) that are no longer under investigation by the Federal Bureau of Investigation. The data shall be updated no less frequently than quarterly, aggregated by cruise line, each cruise line shall be identified by name, and each crime shall be identified as to whether it was committed by a passenger or a crew member.
+  (A) *Website.—*
 
-  (B) *Access to website.—* — Each cruise line taking on or discharging passengers in the United States shall include a link on its Internet website to the website maintained by the Secretary under subparagraph (A).
+    (i) *In general.—* — The Secretary of Transportation shall maintain a statistical compilation of all incidents on board a cruise vessel specified in paragraph (3)(A)(i) on an Internet website that provides a numerical accounting of the missing persons and alleged crimes reported under that paragraph without regard to the investigative status of the incident.
+
+    (ii) *Updates and other requirements.—* — The compilation under clause (i) shall—
+
+      (I) be updated not less frequently than quarterly;
+
+      (II) be able to be sorted by cruise line;
+
+      (III) identify each cruise line by name;
+
+      (IV) identify each crime or alleged crime committed or allegedly committed by a passenger or crewmember;
+
+      (V) identify the number of individuals alleged overboard; and
+
+      (VI) include the approximate number of passengers and crew carried by each cruise line during each quarterly reporting period.
+
+    (iii) *User-friendly format.—* — The Secretary of Transportation shall ensure that the compilation, data, and any other information provided on the Internet website maintained under this subparagraph are in a user-friendly format. The Secretary shall, to the greatest extent practicable, use existing commercial off the shelf technology to transfer and establish the website, and shall not independently develop software, or acquire new hardware in operating the site.
+
+  (B) *Access to website.—* — Each cruise line taking on or discharging passengers in the United States shall include a link on its Internet website to the website maintained by the Secretary of Transportation under subparagraph (A).
 
 **(h) Enforcement.—**
 
@@ -383,6 +401,15 @@ Section 3506 requires the master of a passenger vessel to keep on board a copy o
 
 #### References in Text
 The date of enactment of the Cruise Vessel Security and Safety Act of 2010, referred to in subsecs. (a)(1)(C), (3) and (i), is the date of enactment of Pub. L. 111–207, which was approved July 27, 2010.
+
+#### Amendments
+2014—Subsec. (g)(3)(A)(ii). Pub. L. 113–281, § 321(a)(1), substituted “each incident specified in clause (i) to the Internet website maintained by the Secretary of Transportation under paragraph (4)(A)” for “the incident to an Internet based portal maintained by the Secretary”.
+
+Subsec. (g)(3)(A)(iii). Pub. L. 113–281, § 321(a)(2), substituted “Internet website maintained by the Secretary of Transportation under paragraph (4)(A)” for “Internet based portal maintained by the Secretary”.
+
+Subsec. (g)(4)(A). Pub. L. 113–281, § 321(b)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall maintain a statistical compilation of all incidents described in paragraph (3)(A)(i) on an Internet site that provides a numerical accounting of the missing persons and alleged crimes recorded in each report filed under paragraph (3)(A)(i) that are no longer under investigation by the Federal Bureau of Investigation. The data shall be updated no less frequently than quarterly, aggregated by cruise line, each cruise line shall be identified by name, and each crime shall be identified as to whether it was committed by a passenger or a crew member.”
+
+Subsec. (g)(4)(B). Pub. L. 113–281, § 321(b)(2), substituted “Secretary of Transportation” for “Secretary”.
 
 #### Findings
 Pub. L. 111–207, § 2, July 27, 2010, 124 Stat. 2243, provided that: “The Congress makes the following findings: “(1) There are approximately 200 overnight ocean-going cruise vessels worldwide. The average ocean-going cruise vessel carries 2,000 passengers with a crew of 950 people. “(2) In 2007 alone, approximately 12,000,000 passengers were projected to take a cruise worldwide. “(3) Passengers on cruise vessels have an inadequate appreciation of their potential vulnerability to crime while on ocean voyages, and those who may be victimized lack the information they need to understand their legal rights or to know whom to contact for help in the immediate aftermath of the crime. “(4) Sexual violence, the disappearance of passengers from vessels on the high seas, and other serious crimes have occurred during luxury cruises. “(5) Over the last 5 years, sexual assault and physical assaults on cruise vessels were the leading crimes investigated by the Federal Bureau of Investigation with regard to cruise vessel incidents. “(6) These crimes at sea can involve attacks both by passengers and crewmembers on other passengers and crewmembers. “(7) Except for United States flagged vessels, or foreign flagged vessels operating in an area subject to the direct jurisdiction of the United States, there are no Federal statutes or regulations that explicitly require cruise lines to report alleged crimes to United States Government officials. “(8) It is not known precisely how often crimes occur on cruise vessels or exactly how many people have disappeared during ocean voyages because cruise line companies do not make comprehensive, crime-related data readily available to the public. “(9) Obtaining reliable crime-related cruise data from governmental sources can be difficult, because multiple countries may be involved when a crime occurs on the high seas, including the flag country for the vessel, the country of citizenship of particular passengers, and any countries having special or maritime jurisdiction. “(10) It can be difficult for professional crime investigators to immediately secure an alleged crime scene on a cruise vessel, recover evidence of an onboard offense, and identify or interview potential witnesses to the alleged crime. “(11) Most cruise vessels that operate into and out of United States ports are registered under the laws of another country, and investigations and prosecutions of crimes against passengers and crewmembers may involve the laws and authorities of multiple nations. “(12) The Department of Homeland Security has found it necessary to establish 500-yard security zones around cruise vessels to limit the risk of terrorist attack. Recently piracy has dramatically increased throughout the world. “(13) To enhance the safety of cruise passengers, the owners of cruise vessels could upgrade, modernize, and retrofit the safety and security infrastructure on such vessels by installing peep holes in passenger room doors, installing security video cameras in targeted areas, limiting access to passenger rooms to select staff during specific times, and installing acoustic hailing and warning devices capable of communicating over distances.”

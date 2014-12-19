@@ -57,7 +57,7 @@ Par. (4)(B). Pub. L. 112–230, § 3(b), added subpar. (B) and struck out former
 Pub. L. 112–230, § 5(a), Dec. 28, 2012, 126 Stat. 1617, provided that: This Act [see Short Title of 2012 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101)] and the amendments made by this Act shall take effect 30 days after the date of enactment of this Act [Dec. 28, 2012].”
 
 #### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-1502"></a>
@@ -104,7 +104,7 @@ Subsec. (c)(3). Pub. L. 112–230, § 3(c), which directed the substitution of �
 Amendment by Pub. L. 112–230 effective 30 days after Dec. 28, 2012, see section 5(a) of Pub. L. 112–230, set out as a note under [section 1501 of this title](./chapter-015-political-activity-of-certain-state-and-local-employees.md#section-1501).
 
 #### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-1503"></a>
@@ -125,7 +125,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 1974—Pub. L. 93–443 substituted “candidacies” for “political activity” in section catchline and provision permitting nonpartisan candidacies for prior provision permitting political activity in connection with (1) an election and the preceding campaign if none of the candidates was to be nominated or elected at that election as representing a party any of whose candidates for presidential elector received votes in the last preceding election at which presidential electors were selected, or (2) a question which was not specifically identified with a National or State political party and deeming questions relating to constitutional amendments, referendums, approval of municipal ordinances, and others of a similar character as not specifically identified with a National or State political party.
 
 #### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-1504"></a>
@@ -135,7 +135,8 @@ When a Federal agency charged with the duty of making a loan or grant of funds o
 
 (1) fix a time and place for a hearing; and
 
-(2) send, by registered or certified mail, to the officer or employee charged with the violation and to the State or local agency employing him a notice setting forth a summary of the alleged violation and giving the time and place of the hearing. The hearing may not be held earlier than 10 days after the mailing of the notice.
+(2) send, by registered or certified mail, to the officer or employee charged with the violation and to the State or local agency employing him a notice setting forth a summary of the alleged violation and giving the time and place of the hearing.
+The hearing may not be held earlier than 10 days after the mailing of the notice.
 
 ### Statutory Notes
 
@@ -253,7 +254,8 @@ A party aggrieved by a determination or order of the Merit Systems Protection Bo
 
 (1) the court specifically orders a stay; and
 
-(2) the officer or employee is suspended from his office or employment while the proceedings are pending. A copy of the petition shall immediately be served on the Board, and thereupon the Board shall certify and file in the court a transcript of the record on which the determination or order was made. The court shall review the entire record including questions of fact and questions of law. If application is made to the court for leave to adduce additional evidence, and it is shown to the satisfaction of the court that the additional evidence may materially affect the result of the proceedings and that there were reasonable grounds for failure to adduce this evidence in the hearing before the Board, the court may direct that the additional evidence be taken before the Board in the manner and on the terms and conditions fixed by the court. The Board may modify its findings of fact or its determination or order in view of the additional evidence and shall file with the court the modified findings, determination, or order; and the modified findings of fact, if supported by substantial evidence, are conclusive. The court shall affirm the determination or order, or the modified determination or order, if the court determines that it is in accordance with law. If the court determines that the determination or order, or the modified determination or order, is not in accordance with law, the court shall remand the proceeding to the Board with directions either to make a determination or order determined by the court to be lawful or to take such further proceedings as, in the opinion of the court, the law requires. The judgment and decree of the court are final, subject to review by the appropriate United States Court of Appeals as in other cases, and the judgment and decree of the court of appeals are final, subject to review by the Supreme Court of the United States on certiorari or certification as provided by [section 1254 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254&num=0&edition=prelim). If a provision of this section is held to be invalid as applied to a party by a determination or order of the Board, the determination or order becomes final and effective as to that party as if the provision had not been enacted.
+(2) the officer or employee is suspended from his office or employment while the proceedings are pending.
+A copy of the petition shall immediately be served on the Board, and thereupon the Board shall certify and file in the court a transcript of the record on which the determination or order was made. The court shall review the entire record including questions of fact and questions of law. If application is made to the court for leave to adduce additional evidence, and it is shown to the satisfaction of the court that the additional evidence may materially affect the result of the proceedings and that there were reasonable grounds for failure to adduce this evidence in the hearing before the Board, the court may direct that the additional evidence be taken before the Board in the manner and on the terms and conditions fixed by the court. The Board may modify its findings of fact or its determination or order in view of the additional evidence and shall file with the court the modified findings, determination, or order; and the modified findings of fact, if supported by substantial evidence, are conclusive. The court shall affirm the determination or order, or the modified determination or order, if the court determines that it is in accordance with law. If the court determines that the determination or order, or the modified determination or order, is not in accordance with law, the court shall remand the proceeding to the Board with directions either to make a determination or order determined by the court to be lawful or to take such further proceedings as, in the opinion of the court, the law requires. The judgment and decree of the court are final, subject to review by the appropriate United States Court of Appeals as in other cases, and the judgment and decree of the court of appeals are final, subject to review by the Supreme Court of the United States on certiorari or certification as provided by [section 1254 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254&num=0&edition=prelim). If a provision of this section is held to be invalid as applied to a party by a determination or order of the Board, the determination or order becomes final and effective as to that party as if the provision had not been enacted.
 
 ### Statutory Notes
 

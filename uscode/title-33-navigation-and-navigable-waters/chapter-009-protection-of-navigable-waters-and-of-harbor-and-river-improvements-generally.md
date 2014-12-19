@@ -2,10 +2,57 @@
 title: 33
 chapter: '9'
 heading: PROTECTION OF NAVIGABLE WATERS AND OF HARBOR AND RIVER IMPROVEMENTS GENERALLY
-section_count: 96
+section_count: 100
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
+<a id="section-400"></a>
+## § 400. Continuing authority programs
+(1) **Definition of continuing authority program project** — In this section, the term “continuing authority program” means 1 of the following authorities:
+
+  (A) [Section 701s of this title](./chapter-015-flood-control.md#section-701s).
+
+  (B) [Section 426i of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-426i).
+
+  (C) [Section 2330 of this title](./chapter-036-water-resources-development.md#section-2330).
+
+  (D) [Section 2309a of this title](./chapter-036-water-resources-development.md#section-2309a).
+
+  (E) [Section 577 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-577).
+
+  (F) [Section 426g of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-426g).
+
+  (G) [Section 701r of this title](./chapter-015-flood-control.md#section-701r).
+
+  (H) Section 103 of the River and Harbor Act of 1962 (Public Law 87–874; 76 Stat. 1178).
+
+  (I) [Section 2326(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2326/e&num=0&edition=prelim).
+
+  (J) [Section 701b–8a of this title](./chapter-015-flood-control.md#section-701b-8a).
+
+  (K) [Section 610(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section610/a&num=0&edition=prelim).
+
+(2) **Prioritization** — Not later than 1 year after June 10, 2014, the Secretary shall publish in the Federal Register and on a publicly available website, the criteria the Secretary uses for prioritizing annual funding for continuing authority program projects.
+
+(3) **Annual report** — Not later than 1 year after June 10, 2014, and each year thereafter, the Secretary shall publish in the Federal Register and on a publicly available website, a report on the status of each continuing authority program, which, at a minimum, shall include—
+
+  (A) the name and a short description of each active continuing authority program project;
+
+  (B) the cost estimate to complete each active project; and
+
+  (C) the funding available in that fiscal year for each continuing authority program.
+
+(4) **Congressional notification** — On publication in the Federal Register under paragraphs (2) and (3), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a copy of all information published under those paragraphs.
+
+### Statutory Notes
+
+#### References in Text
+Section 103 of the River and Harbor Act of 1962, referred to in par. (1)(H), is section 103 of Pub. L. 87–874, title I, Oct. 23, 1962, 76 Stat. 1178. Section 103(a)(1)–(3) of Pub. L. 87–874 amended [section 426e of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-426e). Section 103(a)(4) of Pub. L. 87–874 amended sections 426f and 426g of this title. Section 103(b) of Pub. L. 87–874 is set out as a note under [section 426 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-426). Section 103(c) of Pub. L. 87–874 is not classified to the Code.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
 <a id="section-401"></a>
 ## § 401. Construction of bridges, causeways, dams or dikes generally; exemptions
 
@@ -216,6 +263,66 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Transfer of Functions
 Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under [section 401 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended [section 401 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+
+
+<a id="section-408a"></a>
+## § 408a. Expediting approval of modifications and alterations of projects by non-Federal interests
+**(a) Section 14 application defined** In this section, the term “section 14 application” means an application submitted by an applicant to the Secretary requesting permission for the temporary occupation or use of a public work, or the alteration or permanent occupation or use of a public work, under section 14 of the Act of March 3, 1899 (commonly known as the “Rivers and Harbors Appropriation Act of 1899”) ([33 U.S.C. 408](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-408)).
+
+**(b) Review** Not later than 1 year after June 10, 2014, the Secretary, after providing notice and an opportunity for comment, shall establish a process for the review of section 14 applications in a timely and consistent manner.
+
+**(c) Benchmark goals**
+
+(1) **Establishment of benchmark goals** — In carrying out subsection (b), the Secretary shall—
+
+  (A) establish benchmark goals for determining the amount of time it should take the Secretary to determine whether a section 14 application is complete;
+
+  (B) establish benchmark goals for determining the amount of time it should take the Secretary to approve or disapprove a section 14 application; and
+
+  (C) to the extent practicable, use such benchmark goals to make a decision on section 14 applications in a timely and consistent manner.
+
+(2) **Benchmark goals**
+
+  (A) *Benchmark goals for determining whether section 14 applications are complete* — To the extent practicable, the benchmark goals established under paragraph (1) shall provide that—
+
+    (i) the Secretary reach a decision on whether a section 14 application is complete not later than 15 days after the date of receipt of the application; and
+
+    (ii) if the Secretary determines that a section 14 application is not complete, the Secretary promptly notify the applicant of the specific information that is missing or the analysis that is needed to complete the application.
+
+  (B) *Benchmark goals for reviewing completed applications* — To the extent practicable, the benchmark goals established under paragraph (1) shall provide that—
+
+    (i) the Secretary generally approve or disapprove a completed section 14 application not later than 45 days after the date of receipt of the completed application; and
+
+    (ii) in a case in which the Secretary determines that additional time is needed to review a completed section 14 application due to the type, size, cost, complexity, or impacts of the actions proposed in the application, the Secretary generally approve or disapprove the application not later than 180 days after the date of receipt of the completed application.
+
+(3) **Notice** — In any case in which the Secretary determines that it will take the Secretary more than 45 days to review a completed section 14 application, the Secretary shall—
+
+  (A) provide written notification to the applicant; and
+
+  (B) include in the written notice a best estimate of the Secretary as to the amount of time required for completion of the review.
+
+**(d) Failure to achieve benchmark goals** In any case in which the Secretary fails make 11 So in original. Probably should be preceded by “to”. a decision on a section 14 application in accordance with the process established under this section, the Secretary shall provide written notice to the applicant, including a detailed description of—
+
+(1) why the Secretary failed to make a decision in accordance with such process;
+
+(2) the additional actions required before the Secretary will issue a decision; and
+
+(3) the amount of time the Secretary will require to issue a decision.
+
+**(e) Notification**
+
+(1) **Submission to Congress** — The Secretary shall provide a copy of any written notice provided under subsection (d) to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+(2) **Public availability** — The Secretary shall maintain a publicly available database, including on the Internet, on—
+
+  (A) all section 14 applications received by the Secretary; and
+
+  (B) the current status of such applications.
+
+### Statutory Notes
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
 <a id="section-409"></a>
@@ -723,6 +830,22 @@ The Act of July 3, 1930, referred to in subsec. (a), is act July 3, 1930, ch. 84
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
+<a id="section-426e-2"></a>
+## § 426e–2. Clarification of munition disposal authorities
+**(a) In general** The Secretary may implement any response action the Secretary determines to be necessary at a site where—
+
+(1) the Secretary has carried out a project under civil works authority of the Secretary that includes placing sand on a beach; and
+
+(2) as a result of the project described in paragraph (1), military munitions that were originally released as a result of Department of Defense activities are deposited on the beach, posing a threat to human health or the environment.
+
+**(b) Response action funding** A response action described in subsection (a) shall be funded from amounts made available to the agency within the Department of Defense responsible for the original release of the munitions.
+
+### Statutory Notes
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
 <a id="section-426f"></a>
 ## § 426f. Reimbursements
 **(a) In general** The Secretary is authorized to reimburse non-Federal interests for work done by them, after initiation of the survey studies which form the basis for the project or separable element of the project, on authorized projects or separable elements which individually do not exceed $1,000,000 in total cost: Provided, That the work which may have been done on the projects or separable elements is approved by the Chief of Engineers as being in accordance with the authorized projects or separable elements: Provided further, That such reimbursement shall be subject to appropriations applicable thereto or funds available therefor and shall not take precedence over other pending projects or separable elements of higher priority for improvements.
@@ -944,7 +1067,7 @@ A prior section 426h, acts Aug. 13, 1946, ch. 960, § 5, formerly § 4, 60 Stat.
 <a id="section-426h-1"></a>
 ## § 426h–1. Definitions
 
-In sections 426e to 426h–1 of this title, the following definitions apply:
+In sections 426e and 426f to 426h–1 of this title, the following definitions apply:
 
 (1) **Erosion control program** — The term “erosion control program” means the national shoreline erosion control development and demonstration program established under this section.
 
@@ -963,7 +1086,7 @@ In sections 426e to 426h–1 of this title, the following definitions apply:
 
 **(b) Cost sharing** The costs of implementing measures under this section shall be cost-shared in the same proportion as the cost-sharing provisions applicable to the project causing the shore damage.
 
-**(c) Requirement for specific authorization** No such project shall be initiated without specific authorization by Congress if the Federal first cost exceeds $5,000,000.
+**(c) Requirement for specific authorization** No such project shall be initiated without specific authorization by Congress if the Federal first cost exceeds $10,000,000.
 
 **(d) Coordination** The Secretary shall—
 
@@ -974,6 +1097,8 @@ In sections 426e to 426h–1 of this title, the following definitions apply:
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–121 substituted “$10,000,000” for “$5,000,000”.
+
 1999—Pub. L. 106–53 designated first sentence as subsec. (a), inserted heading, and inserted “and shore damage attributable to the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway” after “navigation works”, designated second sentence as subsec. (b) and inserted heading, and designated third sentence as subsec. (c), inserted heading, and substituted “$5,000,000” for “$2,000,000”, and added subsec. (d).
 
 1986—Pub. L. 99–662, § 940, amended section generally. Prior to amendment, section read as follows: “The Secretary of the Army, acting through the Chief of Engineers, is authorized to investigate, study, and construct projects for the prevention or mitigation of shore damages attributable to Federal navigation works. The cost of installing, operating, and maintaining such projects shall be borne entirely by the United States. No such project shall be constructed without specific authorization by Congress if the estimated first cost exceeds $2,000,000.”
@@ -985,46 +1110,11 @@ Amendment by section 915(f) of Pub. L. 99–662 not applicable to any project un
 
 
 <a id="section-426i-1"></a>
-## § 426i–1. Construction of shoreline protection projects by non-Federal interests
-**(a) Authority** Non-Federal interests are authorized to undertake shoreline protection projects on the coastline of the United States, subject to obtaining any permits required pursuant to Federal and State laws in advance of actual construction.
-
-**(b) Studies and engineering**
-
-(1) **By non-Federal interests** — A non-Federal interest may prepare, for review and approval by the Secretary, the necessary studies and engineering for any construction to be undertaken under subsection (a) of this section.
-
-(2) **By Secretary** — Upon request of an appropriate non-Federal interest, the Secretary may undertake all necessary studies and engineering for any construction to be undertaken under subsection (a) of this section and provide technical assistance in obtaining all necessary permits for such construction if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies and engineering during the period that the studies and engineering will be conducted.
-
-**(c) Completion of studies** The Secretary is authorized to complete and transmit to the appropriate non-Federal interests any study for shoreline protection which was initiated before October 31, 1992, or, upon the request of such non-Federal interest, to terminate the study and transmit the partially completed study to the non-Federal interest for completion. Studies subject to this subsection shall be completed without regard to the requirements of subsection (b) of this section.
-
-**(d) Authority to carry out improvement**
-
-(1) **In general** — Any non-Federal interest which has received from the Secretary pursuant to subsection (b) or (c) of this section a favorable recommendation to carry out a shoreline protection project or separable element thereof, based on the results of completed studies and engineering for the project or element, may carry out the project or element if a final environmental impact statement has been filed for the project or element.
-
-(2) **Permits** — Any plan of improvement proposed to be implemented in accordance with this subsection shall be deemed to satisfy the requirements for obtaining the appropriate permits required under the Secretary’s authority and such permits shall be granted subject to the non-Federal interest’s acceptance of the terms and conditions of such permits if the Secretary determines that the applicable regulatory criteria and procedures have been satisfied.
-
-(3) **Monitoring** — The Secretary shall monitor any project for which permits are granted under this subsection in order to ensure that such project is constructed (and, in those cases where such activities will not be the responsibility of the Secretary, operated and maintained) in accordance with the terms and conditions of such permits.
-
-**(e) Reimbursement**
-
-(1) **General rule** — Subject to the enactment of appropriation Acts, the Secretary is authorized to reimburse any non-Federal interest an amount equal to the estimate of the Federal share, without interest, of the cost of any authorized shoreline protection project, or separable element thereof, constructed under this section—
-
-  (A) if, after authorization and before initiation of construction of the project or separable element, the Secretary approves the plans for construction of such project by such non-Federal interest and enters into a written agreement with the non-Federal interest with respect to the project or separable element (including the terms of cooperation); and
-
-  (B) if the Secretary finds, after a review of studies and engineering prepared pursuant to this section, that construction of the project or separable element is economically justified and environmentally acceptable.
-
-(2) **Matters to be considered in reviewing plans** — In reviewing plans under this subsection, the Secretary shall consider budgetary and programmatic priorities and other factors that the Secretary deems appropriate.
-
-(3) **Monitoring** — The Secretary shall regularly monitor and audit any project for shore protection constructed under this section by a non-Federal interest in order to ensure that such construction is in compliance with the plans approved by the Secretary and that the costs are reasonable.
-
-(4) **Limitation on reimbursements** — No reimbursement shall be made under this section unless and until the Secretary has certified that the work for which reimbursement is requested has been performed in accordance with applicable permits or approved plans.
+## § 426i–1. Repealed. Pub. L. 113–121, title I, § 1014(c)(2), June 10, 2014, 128 Stat. 1222
 
 ### Statutory Notes
 
-#### Amendments
-1996—Subsec. (e)(1)(A). Pub. L. 104–303 inserted before semicolon “and enters into a written agreement with the non-Federal interest with respect to the project or separable element (including the terms of cooperation)”.
-
-#### “Secretary” Defined
-Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+Section, Pub. L. 102–580, title II, § 206, Oct. 31, 1992, 106 Stat. 4828; Pub. L. 104–303, title II, § 227(c)(2), Oct. 12, 1996, 110 Stat. 3700, related to construction of shoreline protection projects by non-Federal interests.
 
 
 <a id="section-426i-2"></a>
@@ -1655,9 +1745,11 @@ Section 466n, act June 30, 1948, ch. 758, § 18, as added Nov. 3, 1966, Pub. L. 
 
 In this subchapter, the following definitions apply:
 
-(1) **Board** — The term “Board” means a National Dam Safety Review Board established under [section 467f(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section467f/f&num=0&edition=prelim).
+(1) **Administrator** — The term “Administrator” means the Administrator of the Federal Emergency Management Agency.
 
-(2) **Dam** — The term “dam”—
+(2) **Board** — The term “Board” means a National Dam Safety Review Board established under [section 467f(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section467f/f&num=0&edition=prelim).
+
+(3) **Dam** — The term “dam”—
 
   (A) means any artificial barrier that has the ability to impound water, wastewater, or any liquid-borne material, for the purpose of storage or control of water, that—
 
@@ -1679,9 +1771,7 @@ In this subchapter, the following definitions apply:
       (I) is 6 feet or less in height regardless of storage capacity; or
 
       (II) has a storage capacity at the maximum water storage elevation that is 15 acre-feet or less regardless of height;
-    unless the barrier, because of the location of the barrier or another physical characteristic of the barrier, is likely to pose a significant threat to human life or property if the barrier fails (as determined by the Director).
-
-(3) **Director** — The term “Director” means the Administrator of FEMA.
+    unless the barrier, because of the location of the barrier or another physical characteristic of the barrier, is likely to pose a significant threat to human life or property if the barrier fails (as determined by the Administrator).
 
 (4) **Federal agency** — The term “Federal agency” means a Federal agency that designs, finances, constructs, owns, operates, maintains, or regulates the construction, operation, or maintenance of a dam.
 
@@ -1711,12 +1801,17 @@ A prior section 467, Pub. L. 92–367, § 1, Aug. 8, 1972, 86 Stat. 506; Pub. L.
 A prior section 2 of Pub. L. 92–367 was renumbered section 3 by section 215(c)(3) of Pub. L. 104–303 and is classified to [section 467a of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467a).
 
 #### Amendments
+2014—Pub. L. 113–121, § 3001(a)(1), substituted “Administrator” for “Director” wherever appearing.
+
+Par. (1). Pub. L. 113–121, § 3001(a)(2)(B), (C), added par. (1) and redesignated former par. (1) as (2).
+
+Par. (2). Pub. L. 113–121, § 3001(a)(2)(B), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+
+Par. (3). Pub. L. 113–121, § 3001(a)(2)(A), (B), redesignated par. (2) as (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘Administrator’ means the Administrator of FEMA.”
+
 2002—Par. (1). Pub. L. 107–310, § 3(e)(2)(A), substituted “section 467f(f)” for “section 467f(h)”.
 
 Par. (12). Pub. L. 107–310, § 3(e)(2)(B), substituted “section 467f(e)” for “section 467f(f)”.
-
-#### Change of Name
-“Administrator of FEMA” substituted for “Director of FEMA” in par. (3) on authority of section 612(c) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim), Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim).
 
 #### Short Title of 2006 Amendment
 Pub. L. 109–460, § 1(a), Dec. 22, 2006, 120 Stat. 3401, provided that: “This section [amending sections 467d, 467f, and 467j of this title] may be cited as the ‘Dam Safety Act of 2006’.”
@@ -1733,7 +1828,7 @@ Pub. L. 92–367, § 1, as added by Pub. L. 104–303, title II, § 215(c)(1), O
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Administrator of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Congressional Statement of Purpose; National Dam Safety Program
 Pub. L. 104–303, title II, § 215(a), Oct. 12, 1996, 110 Stat. 3685, provided that: “The purpose of this section [enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of this title and [section 3802 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3802&num=0&edition=prelim), Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section] is to reduce the risks to life and property from dam failure in the United States through the establishment and maintenance of an effective national dam safety program to bring together the expertise and resources of the Federal and non-Federal communities in achieving national dam safety hazard reduction. It is not the intent of this section to preempt any other Federal or State authorities nor is it the intent of this section to mandate State participation in the grant assistance program to be established under this section.”
@@ -1748,7 +1843,7 @@ Pub. L. 104–303, title II, § 215(b), Oct. 12, 1996, 110 Stat. 3685, provided 
 
 **(b) State participation** On request of a State dam safety agency, with respect to any dam the failure of which would affect the State, the head of a Federal agency shall—
 
-(1) provide information to the State dam safety agency on the construction, operation, or maintenance of the dam; or
+(1) provide information to the State dam safety agency on the construction, operation, maintenance, condition, or provisions for emergency operations of the dam; or
 
 (2) allow any official of the State dam safety agency to participate in the Federal inspection of the dam.
 
@@ -1761,6 +1856,8 @@ The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285
 A prior section 3 of Pub. L. 92–367 was renumbered section 4 and is classified to [section 467b of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467b).
 
 #### Amendments
+2014—Subsec. (b)(1). Pub. L. 113–121 substituted “maintenance, condition, or provisions for emergency operations” for “or maintenance”.
+
 1996—Pub. L. 104–303 inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
 #### Transfer of Functions
@@ -1819,7 +1916,7 @@ A prior section 6 of Pub. L. 92–367 was classified to [section 467e of this ti
 
 (1) comprised of a representative of each of the Department of Agriculture, the Department of Defense, the Department of Energy, the Department of the Interior, the Department of Labor, FEMA, the Federal Energy Regulatory Commission, the Nuclear Regulatory Commission, the Tennessee Valley Authority, and the United States Section of the International Boundary Commission; and
 
-(2) chaired by the Director.
+(2) chaired by the Administrator.
 
 **(b) Duties** ICODS shall encourage the establishment and maintenance of effective Federal programs, policies, and guidelines intended to enhance dam safety for the protection of human life and property through coordination and information exchange among Federal agencies concerning implementation of the Federal Guidelines for Dam Safety.
 
@@ -1831,6 +1928,8 @@ A prior section 467e, Pub. L. 92–367, § 6, Aug. 8, 1972, 86 Stat. 507, direct
 A prior section 7 of Pub. L. 92–367 was classified to [section 467f of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467f) prior to repeal by Pub. L. 104–303.
 
 #### Amendments
+2014—Subsec. (a)(2). Pub. L. 113–121 substituted “Administrator” for “Director”.
+
 2002—Subsec. (b). Pub. L. 107–310 substituted “Federal programs” for “Federal and State programs” and “through coordination and information exchange among Federal agencies concerning implementation of the Federal Guidelines for Dam Safety.” for “through—
 
 “(1) coordination and information exchange among Federal agencies and State dam safety agencies; and
@@ -1840,12 +1939,12 @@ A prior section 7 of Pub. L. 92–367 was classified to [section 467f of this ti
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Administrator of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 
 <a id="section-467f"></a>
 ## § 467f. National dam safety program
-**(a) In general** The Director, in consultation with ICODS and State dam safety agencies, and the Board shall establish and maintain, in accordance with this section, a coordinated national dam safety program. The Program shall—
+**(a) In general** The Administrator, in consultation with ICODS and State dam safety agencies, and the Board shall establish and maintain, in accordance with this section, a coordinated national dam safety program. The Program shall—
 
 (1) be administered by FEMA to achieve the objectives set forth in subsection (c) of this section;
 
@@ -1859,7 +1958,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (C) assistance for State dam safety programs described in subsection (e) of this section.
 
-**(b) Duties** The Director shall prepare a strategic plan—
+**(b) Duties** The Administrator shall prepare a strategic plan—
 
 (1) to establish goals, priorities, performance measures, and target dates toward effectively administering this subchapter in order to improve the safety of dams in the United States; and
 
@@ -1873,7 +1972,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (3) encourage the establishment and implementation of effective dam safety programs in each State based on State standards;
 
-(4) develop and encourage public awareness projects to increase public acceptance and support of State dam safety programs;
+(4) develop and implement a comprehensive dam safety hazard education and public awareness initiative to assist the public in preparing for, mitigating, responding to, and recovering from dam incidents;
 
 (5) develop technical assistance materials for Federal and non-Federal dam safety programs;
 
@@ -1909,7 +2008,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **(e) Assistance for State dam safety programs**
 
-(1) **In general** — To encourage the establishment and maintenance of effective State programs intended to ensure dam safety, to protect human life and property, and to improve State dam safety programs, the Director shall provide assistance with amounts made available under [section 467j of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467j) to assist States in establishing, maintaining, and improving dam safety programs in accordance with the criteria specified in paragraph (2).
+(1) **In general** — To encourage the establishment and maintenance of effective State programs intended to ensure dam safety, to protect human life and property, and to improve State dam safety programs, the Administrator shall provide assistance with amounts made available under section 467j 11 See References in Text note below. of this title to assist States in establishing, maintaining, and improving dam safety programs in accordance with the criteria specified in paragraph (2).
 
 (2) **Criteria and budgeting requirement** — For a State to be eligible for assistance under this subsection, a State dam safety program must be working toward meeting the following criteria and budgeting requirement:
 
@@ -1953,27 +2052,27 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (B) *Budgeting requirement* — For a State to be eligible for assistance under this subsection, State appropriations must be budgeted to carry out the legislation of the State under subparagraph (A).
 
-(3) **Work plans** — The Director shall enter into a 11 So in original. Probably should be “an”. agreement with each State receiving assistance under paragraph (2) to develop a work plan necessary for the State dam safety program to reach a level of program performance specified in the agreement.
+(3) **Work plans** — The Administrator shall enter into a 22 So in original. Probably should be “an”. agreement with each State receiving assistance under paragraph (2) to develop a work plan necessary for the State dam safety program to reach a level of program performance specified in the agreement.
 
-(4) **Maintenance of effort** — Assistance may not be provided to a State under this subsection for a fiscal year unless the State enters into such agreement with the Director as the Director requires to ensure that the State will maintain the aggregate expenditures of the State from all other sources for programs to ensure dam safety for the protection of human life and property at or above a level equal to the average annual level of such expenditures for the 2 fiscal years preceding the fiscal year.
+(4) **Maintenance of effort** — Assistance may not be provided to a State under this subsection for a fiscal year unless the State enters into such agreement with the Administrator as the Administrator requires to ensure that the State will maintain the aggregate expenditures of the State from all other sources for programs to ensure dam safety for the protection of human life and property at or above a level equal to the average annual level of such expenditures for the 2 fiscal years preceding the fiscal year.
 
 (5) **Approval of programs**
 
-  (A) *Submission* — For a State to be eligible for assistance under this subsection, a plan for a State dam safety program shall be submitted to the Director for approval.
+  (A) *Submission* — For a State to be eligible for assistance under this subsection, a plan for a State dam safety program shall be submitted to the Administrator for approval.
 
-  (B) *Approval* — A State dam safety program shall be deemed to be approved 120 days after the date of receipt by the Director unless the Director determines within the 120-day period that the State dam safety program fails to meet the requirements of paragraphs (1) through (3).
+  (B) *Approval* — A State dam safety program shall be deemed to be approved 120 days after the date of receipt by the Administrator unless the Administrator determines within the 120-day period that the State dam safety program fails to meet the requirements of paragraphs (1) through (3).
 
-  (C) *Notification of disapproval* — If the Director determines that a State dam safety program does not meet the requirements for approval, the Director shall immediately notify the State in writing and provide the reasons for the determination and the changes that are necessary for the plan to be approved.
+  (C) *Notification of disapproval* — If the Administrator determines that a State dam safety program does not meet the requirements for approval, the Administrator shall immediately notify the State in writing and provide the reasons for the determination and the changes that are necessary for the plan to be approved.
 
-(6) **Review of State dam safety programs** — Using the expertise of the Board, the Director shall periodically review State dam safety programs. If the Board finds that a State dam safety program has proven inadequate to reasonably protect human life and property and the Director concurs, the Director shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.
+(6) **Review of State dam safety programs** — Using the expertise of the Board, the Administrator shall periodically review State dam safety programs. If the Board finds that a State dam safety program has proven inadequate to reasonably protect human life and property and the Administrator concurs, the Administrator shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.
 
 **(f) Board**
 
-(1) **Establishment** — The Director shall establish an advisory board to be known as the “National Dam Safety Review Board” to monitor the safety of dams in the United States, to monitor State implementation of this section, and to advise the Director on national dam safety policy.
+(1) **Establishment** — The Administrator shall establish an advisory board to be known as the “National Dam Safety Review Board” to monitor the safety of dams in the United States, to monitor State implementation of this section, and to advise the Administrator on national dam safety policy.
 
 (2) **Authority** — The Board may use the expertise of Federal agencies and enter into contracts for necessary studies to carry out this section.
 
-(3) **Voting membership** — The Board shall consist of 11 voting members selected by the Director for expertise in dam safety, of whom—
+(3) **Voting membership** — The Board shall consist of 11 voting members selected by the Administrator for expertise in dam safety, of whom—
 
   (A) 1 member shall represent the Department of Agriculture;
 
@@ -1985,11 +2084,11 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (E) 1 member shall represent the Federal Energy Regulatory Commission;
 
-  (F) 5 members shall be selected by the Director from among State dam safety officials; and
+  (F) 5 members shall be selected by the Administrator from among State dam safety officials; and
 
-  (G) 1 member shall be selected by the Director to represent the private sector.
+  (G) 1 member shall be selected by the Administrator to represent the private sector.
 
-(4) **Nonvoting membership** — The Director, in consultation with the Board, may invite a representative of the National Laboratories of the Department of Energy and may invite representatives from Federal or State agencies or dam safety experts, as needed, to participate in meetings of the Board.
+(4) **Nonvoting membership** — The Administrator, in consultation with the Board, may invite a representative of the National Laboratories of the Department of Energy and may invite representatives from Federal or State agencies, representatives from nongovernmental organizations, or dam safety experts, as needed, to participate in meetings of the Board.
 
 (5) **Duties**
 
@@ -1997,7 +2096,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (B) *Coordination and information exchange among agencies* — In carrying out subparagraph (A), the Board shall encourage coordination and information exchange among Federal and State dam safety agencies that share common problems and responsibilities for dam safety, including planning, design, construction, operation, emergency action planning, inspections, maintenance, regulation or licensing, technical or financial assistance, research, and data management.
 
-(6) **Work groups** — The Director may establish work groups under the Board to assist the Board in accomplishing its goals. The work groups shall consist of members of the Board and other individuals selected by the Director.
+(6) **Work groups** — The Administrator may establish work groups under the Board to assist the Board in accomplishing its goals. The work groups shall consist of members of the Board and other individuals selected by the Administrator.
 
 (7) **Compensation of members**
 
@@ -2016,6 +2115,8 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ### Statutory Notes
 
 #### References in Text
+[Section 467j of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467j), referred to in subsec. (e)(1), was in the original “section 13” and was translated as meaning section 13 of Pub. L. 92–367 prior to its redesignation as section 14 by Pub. L. 113–121, § 3001(d)(1).
+
 The Federal Advisory Committee Act, referred to in subsec. (f)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
@@ -2024,6 +2125,12 @@ A prior section 467f, Pub. L. 92–367, § 7, as added Pub. L. 99–662, title X
 A prior section 8 of Pub. L. 92–367 was classified to [section 467g of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g) prior to repeal by Pub. L. 104–303.
 
 #### Amendments
+2014—Pub. L. 113–121, § 3001(a)(1), substituted “Administrator” for “Director” wherever appearing.
+
+Subsec. (c)(4). Pub. L. 113–121, § 3001(c)(1), added par. (4) and struck out former par. (4) which read as follows: “develop and encourage public awareness projects to increase public acceptance and support of State dam safety programs;”.
+
+Subsec. (f)(4). Pub. L. 113–121, § 3001(c)(2), inserted “, representatives from nongovernmental organizations,” after “State agencies”.
+
 2006—Subsec. (b)(1). Pub. L. 109–460, § 1(c)(1), substituted “performance measures, and target dates toward effectively administering this subchapter in order to” for “and target dates to”.
 
 Subsec. (e)(2)(A). Pub. L. 109–460, § 1(c)(2)(A), struck out “substantially” after “to include” in introductory provisions.
@@ -2105,7 +2212,7 @@ Subsec. (h). Pub. L. 107–310, § 3(e)(1), redesignated subsec. (h) as (f).
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Administrator of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 
 <a id="section-467f-1"></a>
@@ -2129,7 +2236,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 <a id="section-467g"></a>
 ## § 467g. Research
-**(a) In general** The Director, in cooperation with the Board, shall carry out a program of technical and archival research to develop and support—
+**(a) In general** The Administrator, in cooperation with the Board, shall carry out a program of technical and archival research to develop and support—
 
 (1) improved techniques, historical experience, and equipment for rapid and effective dam construction, rehabilitation, and inspection;
 
@@ -2139,7 +2246,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 (4) initiatives to guide the formulation of effective public policy and advance improvements in dam safety engineering, security, and management.
 
-**(b) Consultation** The Director shall provide for State participation in research under subsection (a) of this section and periodically advise all States and Congress of the results of the research.
+**(b) Consultation** The Administrator shall provide for State participation in research under subsection (a) of this section and periodically advise all States and Congress of the results of the research.
 
 ### Statutory Notes
 
@@ -2149,6 +2256,8 @@ A prior section 467g, Pub. L. 92–367, § 8, as added Pub. L. 99–662, title X
 A prior section 9 of Pub. L. 92–367 was classified to [section 467h of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467h) prior to repeal by Pub. L. 104–303.
 
 #### Amendments
+2014—Pub. L. 113–121 substituted “Administrator” for “Director” in introductory provisions of subsecs. (a) and (b).
+
 2002—Subsec. (a). Pub. L. 107–310, § 4(1), in introductory provisions, substituted “in cooperation with the Board” for “in cooperation with ICODS” and inserted “and support” after “develop”.
 
 Subsec. (a)(3), (4). Pub. L. 107–310, § 4(2)–(4), added pars. (3) and (4).
@@ -2157,20 +2266,36 @@ Subsec. (a)(3), (4). Pub. L. 107–310, § 4(2)–(4), added pars. (3) and (4).
 <a id="section-467g-1"></a>
 ## § 467g–1. Dam safety training
 
-At the request of any State that has or intends to develop a State dam safety program, the Director shall provide training for State dam safety staff and inspectors.
+At the request of any State that has or intends to develop a State dam safety program, the Administrator shall provide training for State dam safety staff and inspectors.
 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 10 of Pub. L. 92–367 was renumbered section 11, and is classified to [section 467h of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467h).
+A prior section 10 of Pub. L. 92–367 was renumbered section 12, and is classified to [section 467h of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467h).
 
 Another prior section 10 of Pub. L. 92–367 was classified to [section 467i of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467i) prior to repeal by Pub. L. 104–303.
+
+#### Amendments
+2014—Pub. L. 113–121 substituted “Administrator” for “Director”.
+
+
+<a id="section-467g-2"></a>
+## § 467g–2. Public awareness and outreach for dam safety
+
+The Administrator, in consultation with other Federal agencies, State and local governments, dam owners, the emergency management community, the private sector, nongovernmental organizations and associations, institutions of higher education, and any other appropriate entities shall, subject to the availability of appropriations, carry out a nationwide public awareness and outreach initiative to assist the public in preparing for, mitigating, responding to, and recovering from dam incidents.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 11 of Pub. L. 92–367 was renumbered section 12, and is classified to [section 467h of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467h).
+
+Another prior section 11 of Pub. L. 92–367 was classified to [section 467j of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467j) prior to repeal by Pub. L. 104–303.
 
 
 <a id="section-467h"></a>
 ## § 467h. Reports
 
-Not later than 90 days after the end of each odd-numbered fiscal year, the Director shall submit a report to Congress that—
+Not later than 90 days after the end of each odd-numbered fiscal year, the Administrator shall submit a report to Congress that—
 
 (1) describes the status of the Program;
 
@@ -2178,18 +2303,20 @@ Not later than 90 days after the end of each odd-numbered fiscal year, the Direc
 
 (3) describes the progress achieved in dam safety by States participating in the Program; and
 
-(4) includes any recommendations for legislative and other action that the Director considers necessary.
+(4) includes any recommendations for legislative and other action that the Administrator considers necessary.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 467h, Pub. L. 92–367, § 9, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4262, provided for creation of National Dam Safety Review Board, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
 
-A prior section 11 of Pub. L. 92–367 was renumbered section 12, and is classified to [section 467i of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467i).
+A prior section 12 of Pub. L. 92–367 was renumbered section 13, and is classified to [section 467i of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467i).
 
-Another prior section 11 of Pub. L. 92–367 was classified to [section 467j of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467j) prior to repeal by Pub. L. 104–303.
+Another prior section 12 of Pub. L. 92–367 was classified to [section 467k of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section467k&num=0&edition=prelim) prior to repeal by Pub. L. 104–303.
 
 #### Amendments
+2014—Pub. L. 113–121, § 3001(a)(1), substituted “Administrator” for “Director” in two places.
+
 2002—Pub. L. 107–310, § 6, struck out subsec. designations and headings for subsecs. (a) and (b) and text of subsec. (a) which read as follows: “Not later than 180 days after October 12, 1996, the Director shall report to Congress on the availability of dam insurance and make recommendations concerning encouraging greater availability.”
 
 
@@ -2209,16 +2336,16 @@ Nothing in this subchapter and no action or failure to act under this subchapter
 #### Prior Provisions
 A prior section 467i, Pub. L. 92–367, § 10, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4262, related to consultation of Federal officers with State officials when dam operated or proposed by Federal agency is operated or proposed in a State, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
 
-A prior section 12 of Pub. L. 92–367 was renumbered section 13, and is classified to [section 467j of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467j).
+A prior section 13 of Pub. L. 92–367 was renumbered section 14, and is classified to [section 467j of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467j).
 
-Another prior section 12 of Pub. L. 92–367 was classified to [section 467k of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section467k&num=0&edition=prelim) prior to repeal by Pub. L. 104–303.
+Another prior section 13 of Pub. L. 92–367 was classified to section 467l of this title prior to repeal by Pub. L. 104–303.
 
 
 <a id="section-467j"></a>
 ## § 467j. Authorization of appropriations
 **(a) National dam safety program**
 
-(1) **Annual amounts** — There are authorized to be appropriated to FEMA to carry out sections 467e, 467f, and 467h of this title (in addition to any amounts made available for similar purposes included in any other Act and amounts made available under subsections (b) through (e) of this section), $6,500,000 for fiscal year 2007, $7,100,000 for fiscal year 2008, $7,600,000 for fiscal year 2009, $8,300,000 for fiscal year 2010, and $9,200,000 for fiscal year 2011, to remain available until expended.
+(1) **Annual amounts** — There are authorized to be appropriated to FEMA to carry out sections 467e, 467f, and 467h of this title (in addition to any amounts made available for similar purposes included in any other Act and amounts made available under subsections (b) through (e) of this section), $9,200,000 for each of fiscal years 2015 through 2019, to remain available until expended.
 
 (2) **Allocation**
 
@@ -2232,28 +2359,60 @@ Another prior section 12 of Pub. L. 92–367 was classified to [section 467k of 
 
       (II) the number of dams in all States that are listed as State-regulated dams on the inventory of dams maintained under [section 467d of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467d).
 
-  (B) *Maximum amount of allocation* — The amount of funds allocated to a State under this paragraph may not exceed 50 percent of the reasonable cost of implementing the State dam safety program.
+  (B) *Maximum amount of allocation*
 
-  (C) *Determination* — The Director and the Board shall determine the amount allocated to States.
+    (i) *In general* — The amount of funds allocated to a State under this paragraph may not exceed 50 percent of the reasonable cost of implementing the State dam safety program.
 
-**(b) National dam inventory** There is authorized to be appropriated to carry out [section 467d of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467d) $650,000 for fiscal year 2007, $700,000 for fiscal year 2008, $750,000 for fiscal year 2009, $800,000 for fiscal year 2010, and $850,000 for fiscal year 2011.
+    (ii) *Fiscal year 2015 and subsequent fiscal years* — For fiscal year 2015 and each subsequent fiscal year, the amount of funds allocated to a State under this paragraph may not exceed the amount of funds committed by the State to implement dam safety activities.
 
-**(c) Research** There is authorized to be appropriated to carry out [section 467g of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g) $1,600,000 for fiscal year 2007, $1,700,000 for fiscal year 2008, $1,800,000 for fiscal year 2009, $1,900,000 for fiscal year 2010, and $2,000,000 for fiscal year 2011, to remain until expended.
+  (C) *Determination* — The Administrator and the Board shall determine the amount allocated to States.
 
-**(d) Dam safety training** There is authorized to be appropriated to carry out [section 467g–1 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g-1) $550,000 for fiscal year 2007, $600,000 for fiscal year 2008, $650,000 for fiscal year 2009, $700,000 for fiscal year 2010, and $750,000 for fiscal year 2011.
+**(b) National dam inventory** There is authorized to be appropriated to carry out [section 467d of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467d) $500,000 for each of fiscal years 2015 through 2019.
 
-**(e) Staff** There is authorized to be appropriated to FEMA for the employment of such additional staff personnel as are necessary to carry out sections 467f through 467g–1 of this title $700,000 for fiscal year 2007, $800,000 for fiscal year 2008, $900,000 for fiscal year 2009, $1,000,000 for fiscal year 2010, and $1,100,000 for fiscal year 2011.
+**(c) Public awareness** There is authorized to be appropriated to carry out [section 467g–2 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g-2) $1,000,000 for each of fiscal years 2015 through 2019.
 
-**(f) Limitation on use of amounts** Amounts made available under this subchapter may not be used to construct or repair any Federal or non-Federal dam.
+**(d) Research** There is authorized to be appropriated to carry out [section 467g of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g) $1,450,000 for each of fiscal years 2015 through 2019, to remain until expended.
+
+**(e) Dam safety training** There is authorized to be appropriated to carry out [section 467g–1 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g-1) $750,000 for each of fiscal years 2015 through 2019.
+
+**(f) Staff** There is authorized to be appropriated to FEMA for the employment of such additional staff personnel as are necessary to carry out sections 467f through 467g–1 of this title $1,000,000 for each of fiscal years 2015 through 2019.
+
+**(g) Limitation on use of amounts** Amounts made available under this subchapter may not be used to construct or repair any Federal or non-Federal dam.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 467j, Pub. L. 92–367, § 11, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4262; amended Pub. L. 102–580, title II, § 209(b), Oct. 31, 1992, 106 Stat. 4830, related to training for State dam safety inspectors, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
 
-A prior section 13 of Pub. L. 92–367 was classified to section 467l of this title prior to repeal by Pub. L. 104–303.
+A prior section 14 of Pub. L. 92–367 was classified to [section 467m of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section467m&num=0&edition=prelim) prior to repeal by Pub. L. 104–303.
 
 #### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–121, § 3001(f), made technical amendment to reference in original act which appears in text as reference to [section 467h of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467h).
+
+Pub. L. 113–121, § 3001(e)(1)(A), substituted “$9,200,000 for each of fiscal years 2015 through 2019” for “$6,500,000 for fiscal year 2007, $7,100,000 for fiscal year 2008, $7,600,000 for fiscal year 2009, $8,300,000 for fiscal year 2010, and $9,200,000 for fiscal year 2011”.
+
+Subsec. (a)(2)(B). Pub. L. 113–121, § 3001(e)(1)(B), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (a)(2)(C). Pub. L. 113–121, § 3001(a)(1), substituted “Administrator” for “Director”.
+
+Subsec. (b). Pub. L. 113–121, § 3001(e)(2), substituted “$500,000 for each of fiscal years 2015 through 2019” for “$650,000 for fiscal year 2007, $700,000 for fiscal year 2008, $750,000 for fiscal year 2009, $800,000 for fiscal year 2010, and $850,000 for fiscal year 2011”.
+
+Subsec. (c). Pub. L. 113–121, § 3001(e)(3)(B), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 113–121, § 3001(e)(4), substituted “$1,450,000 for each of fiscal years 2015 through 2019” for “$1,600,000 for fiscal year 2007, $1,700,000 for fiscal year 2008, $1,800,000 for fiscal year 2009, $1,900,000 for fiscal year 2010, and $2,000,000 for fiscal year 2011”.
+
+Pub. L. 113–121, § 3001(e)(3)(A), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 113–121, § 3001(e)(5), substituted “$750,000 for each of fiscal years 2015 through 2019” for “$550,000 for fiscal year 2007, $600,000 for fiscal year 2008, $650,000 for fiscal year 2009, $700,000 for fiscal year 2010, and $750,000 for fiscal year 2011”.
+
+Pub. L. 113–121, § 3001(e)(3)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 113–121, § 3001(e)(6), substituted “$1,000,000 for each of fiscal years 2015 through 2019” for “$700,000 for fiscal year 2007, $800,000 for fiscal year 2008, $900,000 for fiscal year 2009, $1,000,000 for fiscal year 2010, and $1,100,000 for fiscal year 2011”.
+
+Pub. L. 113–121, § 3001(e)(3)(A), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 113–121, § 3001(e)(3)(A), redesignated subsec. (f) as (g).
+
 2006—Subsec. (a)(1). Pub. L. 109–460, § 1(d)(1), substituted “$6,500,000 for fiscal year 2007, $7,100,000 for fiscal year 2008, $7,600,000 for fiscal year 2009, $8,300,000 for fiscal year 2010, and $9,200,000 for fiscal year 2011” for “$6,000,000 for each of fiscal years 2003 through 2006”.
 
 Subsec. (b). Pub. L. 109–460, § 1(d)(2), substituted “$650,000 for fiscal year 2007, $700,000 for fiscal year 2008, $750,000 for fiscal year 2009, $800,000 for fiscal year 2010, and $850,000 for fiscal year 2011” for “$500,000 for each fiscal year”.
@@ -2277,7 +2436,7 @@ Subsecs. (c) to (e). Pub. L. 107–310, § 7(c), added subsecs. (c) to (e) and s
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Administrator of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 
 <a id="section-467k-to-467m"></a>

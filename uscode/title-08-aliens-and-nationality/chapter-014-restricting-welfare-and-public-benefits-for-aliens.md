@@ -264,9 +264,9 @@ Pub. L. 104–208, div. C, title V, § 506, Sept. 30, 1996, 110 Stat. 3009–672
 
       (IV) *Declaration required*
 
-        (aa) In generalFor purposes of subclauses (I) and (II), the declaration required under this subclause of a qualified alien or victim of trafficking described in either such subclause is a declaration under penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
+        (aa) *In general* — For purposes of subclauses (I) and (II), the declaration required under this subclause of a qualified alien or victim of trafficking described in either such subclause is a declaration under penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
 
-        (bb) Exception for childrenA qualified alien or victim of trafficking described in subclause (I) or (II) who has not attained age 18 shall not be required to furnish to the Commissioner of Social Security a declaration described in item (aa) as a condition of being eligible for the specified Federal program described in paragraph (3)(A) for an additional 2-year period in accordance with this clause.
+        (bb) *Exception for children* — A qualified alien or victim of trafficking described in subclause (I) or (II) who has not attained age 18 shall not be required to furnish to the Commissioner of Social Security a declaration described in item (aa) as a condition of being eligible for the specified Federal program described in paragraph (3)(A) for an additional 2-year period in accordance with this clause.
 
       (V) *Payment of benefits to aliens whose benefits ceased in prior fiscal years* — Benefits paid to a qualified alien or victim described in subclause (II) shall be paid prospectively over the duration of the qualified alien’s or victim’s renewed eligibility.
 
@@ -276,7 +276,7 @@ Pub. L. 104–208, div. C, title V, § 506, Sept. 30, 1996, 110 Stat. 3009–672
 
   (A) *SSI* — The supplemental security income program under title XVI of the Social Security Act [[42 U.S.C. 1381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1381&num=0&edition=prelim) et seq.], including supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act [[42 U.S.C. 1382e(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382e/a&num=0&edition=prelim)] and payments pursuant to an agreement entered into under section 212(b) of Public Law 93–66.
 
-  (B) *Food stamps* — The food stamp program as defined in section 3(l) of the Food Stamp Act of 1977 1 [[7 U.S.C. 2012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim)(l)].
+  (B) *Food stamps* — The food stamp program as defined in section 3(l) of the Food Stamp Act of 1977 1 [now [7 U.S.C. 2012(t)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/t&num=0&edition=prelim)].
 
 **(b) Limited eligibility for designated Federal programs**
 
@@ -355,7 +355,7 @@ The Immigration and Nationality Act, referred to in subsecs. (a)(2)(B)(i) and (b
 
 The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (M)(i)(II), (3)(A) and (b)(2)(B)(ii)(I), (F), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, XIX, and XX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), XIX (§ 1396 et seq.) and XX (§ 1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), (F)(ii), (3)(B), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), (F)(ii), (3)(B), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. Section 3(l) of this Act, classified to section 2012(l) of Title 7, was struck out by Pub. L. 113–79, title IV, § 4030(a)(3), Feb. 7, 2014, 128 Stat. 813, and provisions similar to those in former subsec. (l) are now contained in section 3(t) of this Act, classified to [section 2012(t) of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/t&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) and Tables.
 
 This chapter, referred to in subsecs. (a)(3) and (b)(3), was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, [section 1183a of this title](./chapter-012-immigration-and-nationality.md#section-1183a), and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended [section 1383 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1383&num=0&edition=prelim), sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under [section 1183a of this title](./chapter-012-immigration-and-nationality.md#section-1183a) and [section 32 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section32&num=0&edition=prelim). For complete classification of title IV to the Code, see Tables.
 
@@ -560,6 +560,9 @@ Pub. L. 104–208, div. C, title V, § 510, Sept. 30, 1996, 110 Stat. 3009–673
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)(2)(K)
+Pub. L. 113–128, title V, §§ 506, 512(x), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (c)(2)(K) of this section is amended by striking “Benefits under the title I of the Workforce Investment Act of 1998” and inserting “Benefits under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
+
 #### References in Text
 Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to [section 1253 of this title](./chapter-012-immigration-and-nationality.md#section-1253). [Section 1253 of this title](./chapter-012-immigration-and-nationality.md#section-1253) was amended generally by Pub. L. 104–208, div. C, title III, § 307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101).
 
@@ -586,6 +589,8 @@ The Workforce Investment Act of 1998, referred to in subsec. (c)(2)(K), is Pub. 
 The Food Stamp Act of 1977, referred to in subsec. (c)(2)(L), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Subsec. (c)(2)(K). Pub. L. 113–128 substituted “Benefits under title I of the Workforce Innovation and Opportunity Act” for “Benefits under the title I of the Workforce Investment Act of 1998”.
+
 2002—Subsec. (c)(2)(L). Pub. L. 107–171 added subpar. (L).
 
 1999—Subsec. (c)(2)(C). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
@@ -611,6 +616,9 @@ Subsec. (b)(2)(C). Pub. L. 105–33, § 5563(b), inserted before period at end �
 Subsec. (d). Pub. L. 105–33, § 5303(c), added subsec. (d).
 
 Pub. L. 105–33, § 5302(c)(1)(B), struck out heading and text of subsec. (d). Text read as follows: “The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act [[8 U.S.C. 1521](./chapter-012-immigration-and-nationality.md#section-1521) et seq.] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980.”
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2002 Amendment
 Amendment by section 4401(b)(2)(A) of Pub. L. 107–171 effective Oct. 1, 2003, see section 4401(b)(3) of Pub. L. 107–171, set out as a note under [section 2014 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2014&num=0&edition=prelim), Agriculture.
@@ -1160,7 +1168,8 @@ For purposes of this chapter, in determining the number of qualifying quarters o
 
 (1) all of the qualifying quarters of coverage as defined under title II of the Social Security Act worked by a parent of such alien before the date on which the alien attains age 18, and
 
-(2) all of the qualifying quarters worked by a spouse of such alien during their marriage and the alien remains married to such spouse or such spouse is deceased. No such qualifying quarter of coverage that is creditable under title II of the Social Security Act for any period beginning after December 31, 1996, may be credited to an alien under paragraph (1) or (2) if the parent or spouse (as the case may be) of such alien received any Federal means-tested public benefit (as provided under [section 1613 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1613)) during the period for which such qualifying quarter of coverage is so credited. Notwithstanding [section 6103 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103&num=0&edition=prelim), the Commissioner of Social Security is authorized to disclose quarters of coverage information concerning an alien and an alien’s spouse or parents to a government agency for the purposes of this chapter.
+(2) all of the qualifying quarters worked by a spouse of such alien during their marriage and the alien remains married to such spouse or such spouse is deceased.
+No such qualifying quarter of coverage that is creditable under title II of the Social Security Act for any period beginning after December 31, 1996, may be credited to an alien under paragraph (1) or (2) if the parent or spouse (as the case may be) of such alien received any Federal means-tested public benefit (as provided under [section 1613 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1613)) during the period for which such qualifying quarter of coverage is so credited. Notwithstanding [section 6103 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103&num=0&edition=prelim), the Commissioner of Social Security is authorized to disclose quarters of coverage information concerning an alien and an alien’s spouse or parents to a government agency for the purposes of this chapter.
 
 ### Statutory Notes
 

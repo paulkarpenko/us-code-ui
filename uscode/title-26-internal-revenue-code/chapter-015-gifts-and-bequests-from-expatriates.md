@@ -10,7 +10,7 @@ source: >-
 ## § 2801. Imposition of tax
 **(a) In general** If, during any calendar year, any United States citizen or resident receives any covered gift or bequest, there is hereby imposed a tax equal to the product of—
 
-(1) the highest rate of tax specified in the table contained in section 2001(c) as in effect on the date of such receipt (or, if greater, the highest rate of tax specified in the table applicable under section 2502(a) as in effect on the date), and
+(1) the highest rate of tax specified in the table contained in section 2001(c) as in effect on the date of such receipt, and
 
 (2) the value of such covered gift or bequest.
 
@@ -55,6 +55,12 @@ source: >-
 **(f) Covered expatriate** For purposes of this section, the term “covered expatriate” has the meaning given to such term by section 877A(g)(1).
 
 ### Statutory Notes
+
+#### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–295 struck out “(or, if greater, the highest rate of tax specified in the table applicable under section 2502(a) as in effect on the date)” after “such receipt”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective as if included in the provisions of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010, Pub. L. 111–312, to which such amendment relates, see section 206(d) of Pub. L. 113–295, set out as a note under [section 32 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-32).
 
 #### Effective Date
 Pub. L. 110–245, title III, § 301(g), June 17, 2008, 122 Stat. 1647, provided that: “(1) In general.—Except as provided in this subsection, the amendments made by this section [enacting this chapter and [section 877A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-877a) and amending sections 877, 6039G, and 7701 of this title] shall apply to any individual whose expatriation date (as so defined) is on or after the date of the enactment of this Act [June 17, 2008]. “(2) Gifts and bequests.—Chapter 15 of the Internal Revenue Code of 1986 (as added by subsection (b)) shall apply to covered gifts and bequests (as defined in section 2801 of such Code, as so added) received on or after the date of the enactment of this Act from transferors (or from the estates of transferors) whose expatriation date is on or after such date of enactment.”

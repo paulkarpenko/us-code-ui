@@ -158,7 +158,19 @@ Amendment by section 3(1), (2) of Pub. L. 93–538 effective first day of second
 
 <a id="section-3903"></a>
 ## § 3903. Limitations on assistance; special training courses
-**(a)** No eligible person shall be entitled to receive more than one automobile or other conveyance under the provisions of this chapter, and no payment shall be made under this chapter for the repair, maintenance, or replacement of an automobile or other conveyance.
+**(a)**
+
+(1) Except as provided in paragraph (2), no eligible person shall be entitled to receive more than one automobile or other conveyance under the provisions of this chapter, and no payment shall be made under this chapter for the repair, maintenance, or replacement of an automobile or other conveyance.
+
+(2) The Secretary may provide or assist in providing an eligible person with a second automobile or other conveyance under this chapter if—
+
+  (A) the Secretary receives satisfactory evidence that the automobile or other conveyance previously purchased with assistance under this chapter was destroyed—
+
+    (i) as a result of a natural or other disaster, as determined by the Secretary; and
+
+    (ii) through no fault of the eligible person; and
+
+  (B) the eligible person does not otherwise receive from a property insurer compensation for the loss.
 
 **(b)** Except as provided in subsection (d) of [section 3902 of this title](./chapter-039-automobiles-and-adaptive-equipment-for-certain-disabled-veterans-and-members-of-the-armed-forces.md#section-3902), no eligible person shall be provided an automobile or other conveyance under this chapter until it is established to the satisfaction of the Secretary, in accordance with regulations the Secretary shall prescribe, that the eligible person will be able to operate the automobile or other conveyance in a manner consistent with such person’s own safety and the safety of others and will satisfy the applicable standards of licensure to operate the automobile or other conveyance established by the State of such person’s residency or other proper licensing authority.
 
@@ -179,25 +191,6 @@ Amendment by section 3(1), (2) of Pub. L. 93–538 effective first day of second
 (3) Notwithstanding any other provision of law, the Secretary may obtain, by purchase, lease, gift, or otherwise, any automobile, motor vehicle, or other conveyance deemed necessary to carry out the purposes of this subsection, and may sell, assign, transfer, or convey any such automobile, vehicle, or conveyance to which the Department obtains title for such price and upon such terms as the Secretary deems appropriate; and any proceeds received from any such disposition shall be credited to the applicable Department appropriation.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)
-Pub. L. 112–154, title VII, § 701(e), (g), Aug. 6, 2012, 126 Stat. 1204, 1205, provided that, effective on the date that is one year after Aug. 6, 2012, subsection (a) of this section is amended as follows:
-
-(1) by striking “No” and inserting “(1) Except as provided in paragraph (2), no”; and
-
-(2) by adding at the end the following new paragraph:
-
-(2) The Secretary may provide or assist in providing an eligible person with a second automobile or other conveyance under this chapter if—
-
-(A) the Secretary receives satisfactory evidence that the automobile or other conveyance previously purchased with assistance under this chapter was destroyed—
-
-(i) as a result of a natural or other disaster, as determined by the Secretary; and
-
-(ii) through no fault of the eligible person; and
-
-(B) the eligible person does not otherwise receive from a property insurer compensation for the loss.
-
-See 2012 Amendment note below.
 
 #### Prior Provisions
 Provisions similar to those comprising this section were contained in former sections 1902 and 1904 of this title prior to the general revision of this chapter by Pub. L. 91–666.

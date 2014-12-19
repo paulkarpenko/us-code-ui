@@ -2,7 +2,7 @@
 title: 10
 chapter: '173'
 heading: ENERGY SECURITY
-section_count: 19
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -131,8 +131,11 @@ Pub. L. 111–84, § 2842(a), (b), designated existing provisions as par. (1), r
 
 2006—Subsec. (e). Pub. L. 109–364, § 2852, added subsec. (e).
 
+#### Business Case Analysis of any Plan To Design, Refurbish, or Construct a Biofuel Refinery
+Pub. L. 113–291, div. A, title III, § 314, Dec. 19, 2014, 128 Stat. 3338, provided that: “Not later than 30 days before entering into a contract for the planning, design, refurbishing, or construction of a biofuel refinery, or of any other facility or infrastructure used to refine biofuels, the Secretary of Defense or the Secretary of the military department concerned shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a business case analysis for such planning, design, refurbishing, or construction.”
+
 #### Guidance on Financing for Renewable Energy Projects
-Pub. L. 112–239, div. B, title XXVIII, § 2824, Jan. 2, 2013, 126 Stat. 2153, provided that: “(a) Guidance on Use of Available Financing Approaches.—“(1) Issuance.—Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of Defense shall—“(A) issue guidance about the use of available financing approaches for financing renewable energy projects; and “(B) direct the Secretaries of the military departments to update their military department-wide guidance accordingly. “(2) Elements.—The guidance issued pursuant to paragraph (1) should describe the requirements and restrictions applicable to the underlying authorities and any Department of Defense-specific guidelines for using appropriated funds and alternative-financing approaches for renewable energy projects to maximize cost savings and energy efficiency for the Department of Defense. “(b) Guidance on Use of Business Case Analyses.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall issue guidance that establishes and clearly describes the processes used by the military departments to select financing approaches for renewable energy projects to ensure that business case analyses are completed to maximize cost savings and energy efficiency and mitigate drawbacks and risks associated with different financing approaches. “(c) Information Sharing.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall develop a formalized communications process, such as a shared Internet website, that will enable officials at military installations to have timely access on an ongoing basis to information related to financing renewable energy projects on other installations, including best practices and lessons that officials at other installations have learned from their experiences in financing renewable energy projects. “(d) Consultation.—The Secretary of Defense shall issue the guidance under subsections (a) and (b) and develop the communications process under subsection (c) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Deputy Under Secretary of Defense for Installations and Environment. The Secretary of Defense shall also issue the guidance under subsection (b) in consultation with the Secretaries of the military departments.”
+Pub. L. 112–239, div. B, title XXVIII, § 2824, Jan. 2, 2013, 126 Stat. 2153, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(2), Dec. 19, 2014, 128 Stat. 3469, provided that: “(a) Guidance on Use of Available Financing Approaches.—“(1) Issuance.—Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of Defense shall—“(A) issue guidance about the use of available financing approaches for financing renewable energy projects; and “(B) direct the Secretaries of the military departments to update their military department-wide guidance accordingly. “(2) Elements.—The guidance issued pursuant to paragraph (1) should describe the requirements and restrictions applicable to the underlying authorities and any Department of Defense-specific guidelines for using appropriated funds and alternative-financing approaches for renewable energy projects to maximize cost savings and energy efficiency for the Department of Defense. “(b) Guidance on Use of Business Case Analyses.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall issue guidance that establishes and clearly describes the processes used by the military departments to select financing approaches for renewable energy projects to ensure that business case analyses are completed to maximize cost savings and energy efficiency and mitigate drawbacks and risks associated with different financing approaches. “(c) Information Sharing.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall develop a formalized communications process, such as a shared Internet website, that will enable officials at military installations to have timely access on an ongoing basis to information related to financing renewable energy projects on other installations, including best practices and lessons that officials at other installations have learned from their experiences in financing renewable energy projects. “(d) Consultation.—The Secretary of Defense shall issue the guidance under subsections (a) and (b) and develop the communications process under subsection (c) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Assistant Secretary of Defense for Energy, Installations, and Environment. The Secretary of Defense shall also issue the guidance under subsection (b) in consultation with the Secretaries of the military departments.”
 
 #### Energy-Efficient Technologies in Contracts for Logistics Support of Contingency Operations
 Pub. L. 112–81, div. A, title III, § 315, Dec. 31, 2011, 125 Stat. 1357, provided that: “(a) Energy Performance Master Plan.—The energy performance master plan for the Department of Defense developed under [section 2911 of title 10](./chapter-173-energy-security.md#section-2911), United States Code, shall specifically address the application of energy-efficient or energy reduction technologies or processes meeting the requirements of subsection (b) in logistics support contracts for contingency operations. In accordance with the requirements of such section, the plan shall include goals, metrics, and incentives for achieving energy efficiency in such contracts. “(b) Requirements for Energy Technologies and Processes.—Energy-efficient and energy reduction technologies or processes described in subsection (a) are technologies or processes that meet the following criteria:“(1) The technology or process achieves long-term savings for the Government by reducing overall demand for fuel and other sources of energy in contingency operations. “(2) The technology or process does not disrupt the mission, the logistics, or the core requirements in the contingency operation concerned. “(3) The technology or process is able to integrate seamlessly into the existing infrastructure in the contingency operation concerned. “(d) [So in original. No subsec. (c) has been enacted.] Regulations and Guidance.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue such regulations and guidance as may be needed to implement the requirements of this section and ensure that goals established pursuant to subsection (a) are met. Such regulations or guidance shall consider the lifecycle cost savings associated with the energy technology or process being offered by a vendor for defense logistics support and oblige the offeror to demonstrate the savings achieved over traditional technologies. “(e) Report.—The annual report required by [section 2925(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2925/b&num=0&edition=prelim), United States Code, shall include information on the progress in the implementation of this section, including savings achieved by the Department resulting from such implementation. “(f) Definitions.—In this section:“(1) The term ‘defense logistics support contract’ means a contract for services, or a task order under such a contract, awarded by the Department of Defense to provide logistics support during times of military mobilizations, including contingency operations, in any amount greater than the simplified acquisition threshold. “(2) The term ‘contingency operation’ has the meaning provided in [section 101(a)(13) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13&num=0&edition=prelim), United States Code.”
@@ -165,7 +168,7 @@ Pub. L. 110–417, [div. A], title III, § 335, Oct. 14, 2008, 122 Stat. 4422, p
 Pub. L. 110–181, div. B, title XXVIII, § 2863, Jan. 28, 2008, 122 Stat. 560, provided that: “(a) Construction and Alteration of Buildings.—Each building constructed or significantly altered by the Secretary of Defense or the Secretary of a military department shall be equipped, to the maximum extent feasible as determined by the Secretary concerned, with lighting fixtures and bulbs that are energy efficient. “(b) Maintenance of Buildings.—Each lighting fixture or bulb that is replaced in the normal course of maintenance of buildings under the jurisdiction of the Secretary of Defense or the Secretary of a military department shall be replaced, to the maximum extent feasible as determined by the Secretary concerned, with a lighting fixture or bulb that is energy efficient. “(c) Considerations.—In making a determination under this section concerning the feasibility of installing a lighting fixture or bulb that is energy efficient, the Secretary of Defense or the Secretary of a military department shall consider—“(1) the life cycle cost effectiveness of the fixture or bulb; “(2) the compatibility of the fixture or bulb with existing equipment; “(3) whether use of the fixture or bulb could result in interference with productivity; “(4) the aesthetics relating to use of the fixture or bulb; and “(5) such other factors as the Secretary concerned determines appropriate. “(d) Energy Star.—A lighting fixture or bulb shall be treated as being energy efficient for purposes of this section if—“(1) the fixture or bulb is certified under the Energy Star program established by section 324A of the Energy Policy and Conservation Act ([42 U.S.C. 6294a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6294a&num=0&edition=prelim)); or “(2) the Secretary of Defense or the Secretary of a military department has otherwise determined that the fixture or bulb is energy efficient. “(e) Significant Alterations.—A building shall be treated as being significantly altered for purposes of subsection (a) if the alteration is subject to congressional authorization under [section 2802 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2802), United States Code. “(f) Waiver Authority.—The Secretary of Defense may waive the requirements of this section if the Secretary determines that such a waiver is necessary to protect the national security interests of the United States. “(g) Effective Date.—The requirements of subsections (a) and (b) shall take effect one year after the date of the enactment of this Act [Jan. 28, 2008].”
 
 #### Reporting Requirements Relating to Renewable Energy Use by Department of Defense To Meet Department Electricity Needs
-Pub. L. 110–181, div. B, title XXVIII, § 2864, Jan. 28, 2008, 122 Stat. 561, provided that: “(a) Initial Report.—Not later than 120 days after the date of the enactment of this Act [Jan. 28, 2008], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report containing the following information:“(1) The extent to which energy from renewable energy sources is used to meet the electricity needs of the Department of Defense, to be stated as a percentage of total facility electricity use for the previous fiscal year. “(2) The extent to which energy from renewable energy sources was procured through alternative financing methods, to be stated as a percentage of total renewable energy procurement and as a dollar amount for the previous fiscal year. “(3) The extent to which energy from renewable energy sources was procured through the use of appropriated funds, to be stated as a percentage of total renewable energy procurement and as a dollar amount for the previous fiscal year. “(4) A graphical illustration of energy use from renewable energy sources by the Department as a percentage of total facility electricity use over time, starting no later than fiscal year 2000 and running through fiscal year 2025, including projected future trends in renewable energy consumption through fiscal year 2025 in order to meet the goals for renewable energy set forth in [section 2911(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2911/e&num=0&edition=prelim), United States Code, or other goals, as appropriate. “(b) Subsequent Reports.—For fiscal year 2008 and each fiscal year thereafter, the information required by paragraphs (1) through (4) of subsection (a) shall be included in the Annual Energy Management Report prepared by the Under Secretary of Defense for Acquisition, Technology, and Logistics. “(c) Renewable Energy Sources Defined.—In this section, the term ‘renewable energy sources’ has the meaning given that term in section 203(b) of the Energy Policy Act of 2005 ([42 U.S.C. 15852(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15852/b&num=0&edition=prelim)).”
+Pub. L. 110–181, div. B, title XXVIII, § 2864, Jan. 28, 2008, 122 Stat. 561, related to reporting requirements relating to renewable energy use by Department of Defense to meet Department electricity needs, prior to repeal by Pub. L. 113–66, div. A, title X, § 1084(b)(2)(B), Dec. 26, 2013, 127 Stat. 872.
 
 #### Utilization of Fuel Cells as Back-Up Power Systems in Department of Defense Operations
 Pub. L. 109–364, div. A, title III, § 358, Oct. 17, 2006, 120 Stat. 2164, provided that: “The Secretary of Defense shall consider the utilization of fuel cells as replacements for current back-up power systems in a variety of Department of Defense operations and activities, including in telecommunications networks, perimeter security, individual equipment items, and remote facilities, in order to increase the operational longevity of back-up power systems and stand-by power systems in such operations and activities.”
@@ -551,6 +554,9 @@ Pub. L. 97–214, § 10(a)(3), substituted “section 3648 of the Revised Statut
 #### Effective Date of 1982 Amendment
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
 
+#### Notice of Purchase of Drop-in Fuel
+Pub. L. 113–291, div. A, title III, § 316(c), (d), Dec. 19, 2014, 128 Stat. 3339, 3340, provided that: “(c) Notice of Purchase Required.—If the Secretary of Defense intends to purchase a drop-in fuel intended for operational use with a fully burdened cost in excess of 10 percent more than the fully burdened cost of a traditional fuel available for the same purpose, the Secretary shall provide notice of such intended purchase to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] by not later than 30 days before the date on which such purchase is intended to be made. “(d) Definitions.—In this section [this note]:“(1) The term ‘drop-in fuel’ means a neat or blended liquid hydrocarbon fuel designed as a direct replacement for a traditional fuel with comparable performance characteristics and compatible with existing infrastructure and equipment. “(2) The term ‘traditional fuel’ means a liquid hydrocarbon fuel derived or refined from petroleum. “(3) The term ‘operational purposes’ means for the purposes of conducting military operations, including training, exercises, large scale demonstrations, and moving and sustaining military forces and military platforms. The term does not include research, development, testing, evaluation, fuel certification, or other demonstrations. “(4) The term ‘fully burdened cost’ means the commodity price of the fuel plus the total cost of all personnel and assets required to move and, when necessary, protect the fuel from the point at which the fuel is received from the commercial supplier to the point of use.”
+
 #### Purchases of Gasohol as Fuel for Motor Vehicles
 Pub. L. 96–107, title VIII, § 815, Nov. 9, 1979, 93 Stat. 817, which had authorized the Secretary of Defense to buy domestically produced alcohol and gasohol for use as fuel in Department of Defense motor vehicles, was repealed and reenacted as section 2398 (now 2922c) of this title by Pub. L. 97–295, §§ 1(29)(A), 6(b), Oct. 12, 1982, 96 Stat. 1293, 1315.
 
@@ -879,7 +885,7 @@ In this chapter:
 
 **(b) Annual Report Related to Operational Energy.—**
 
-(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Operational Energy Plans and Programs, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to [section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c).
+(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 138c 11 See References in Text note below. of this title.
 
 (2) The annual report under this subsection shall address and include the following:
 
@@ -910,7 +916,11 @@ The Energy Policy Act of 2005, referred to in subsec. (a)(1), is Pub. L. 109–5
 
 The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), (9), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492, which enacted chapter 152 of Title 42, The Public Health and Welfare, and enacted and amended numerous other sections and notes in the Code. Section 433 of the Act amended sections 6832 and 6834 of Title 42 and enacted provisions set out as a note under [section 6834 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6834&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 17001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17001&num=0&edition=prelim) and Tables.
 
+[Section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c), referred to in subsec. (b)(1), was repealed by Pub. L. 113–291, div. A, title IX, § 901(g)(2), Dec. 19, 2014, 128 Stat. 3466.
+
 #### Amendments
+2014—Subsec. (b)(1). Pub. L. 113–291 substituted “Energy, Installations, and Environment” for “Operational Energy Plans and Programs”.
+
 2013—Subsec. (a)(1). Pub. L. 112–239, § 1076(d)(6)(A), substituted “section 553” for “section 533”.
 
 Subsec. (b)(1). Pub. L. 112–239, § 1076(c)(3)(A), (d)(6)(B), substituted “Assistant Secretary of Defense for” for “Director of” and “section 138c” for “section 139b”.
@@ -954,3 +964,96 @@ Subsec. (b)(4). Pub. L. 112–81, § 2821(b)(4), struck out par. (4) which read 
 Subsec. (a). Pub. L. 110–417, § 2832, in heading substituted “Annual Report Related to Installations Energy Management” for “Report Required”, in par. (1) inserted “, the Energy Independence and Security Act of 2007 (Public Law 110–140),” after “(Public Law 109–58)”, and added par. (6).
 
 Subsec. (b). Pub. L. 110–417, § 331(a), added subsec. (b) and struck out former subsec. (b) which related to requirements for the initial report to be submitted by the Secretary of Defense.
+
+
+<a id="section-2926"></a>
+## § 2926. Operational energy activities
+**(a) Alternative Fuel Activities.—** The Assistant Secretary of Defense for Installations, Energy, and Environment, in consultation with the heads of the military departments and the Assistant Secretary of Defense for Research and Engineering, shall—
+
+(1) lead the alternative fuel activities of the Department of Defense and oversee the investments of the Department in such activities;
+
+(2) make recommendations to the Secretary regarding the development of alternative fuels by the military departments and the Office of the Secretary of Defense;
+
+(3) establish guidelines and prescribe policy to streamline the investments in alternative fuel activities across the Department of Defense;
+
+(4) encourage collaboration with and leveraging of investments made by the Department of Energy, the Department of Agriculture, and other relevant Federal agencies to advance alternative fuel development to the benefit of the Department of Defense; and
+
+(5) certify the budget associated with the investment of the Department of Defense in alternative fuel activities in accordance with subsection (c)(4).
+
+**(b) Operational Energy Strategy.—**
+
+(1) The Assistant Secretary of Defense for Installations, Energy, and Environment shall be responsible for the establishment and maintenance of a department-wide transformational strategy for operational energy. The strategy shall establish near-term, mid-term, and long-term goals, performance metrics to measure progress in meeting the goals, and a plan for implementation of the strategy within the military departments, the Office of the Secretary of Defense, and Defense Agencies.
+
+(2) The Secretary of each military department shall designate a senior official within each armed force under the jurisdiction of the Secretary who shall be responsible for operational energy plans and programs for that armed force. The officials so designated shall be responsible for coordinating with the Assistant Secretary and implementing initiatives pursuant to the strategy with regard to that official’s armed force.
+
+(3) The Chairman of the Joint Chiefs of Staff shall designate a senior official under the jurisdiction of the Chairman who shall be responsible for operational energy plans and programs for the Joint Chiefs of Staff and the Joint Staff. The official so designated shall be responsible for coordinating with the Assistant Secretary and implementing initiatives pursuant to the strategy with regard to the Joint Chiefs of Staff and the Joint Staff.
+
+(4) By authority of the Secretary of Defense, the Assistant Secretary shall prescribe policies and procedures for the implementation of the strategy. The Assistant Secretary shall make recommendations to the Secretary of Defense and Deputy Secretary of Defense and provide guidance to the Secretaries of the military departments and the officials designated under paragraph (2) with respect to specific operational energy plans and programs to be carried out pursuant to the strategy.
+
+(5) Updates to the strategy required by paragraph (1) shall be submitted to the congressional defense committees as soon as practicable after the modifications to the strategy are made.
+
+**(c) Budgetary and Financial Matters.—**
+
+(1) The Assistant Secretary of Defense for Installations, Energy, and Environment shall review and make recommendations to the Secretary of Defense regarding all budgetary and financial matters relating to the operational energy strategy.
+
+(2) The Secretary of Defense shall require that the Secretary of each military department and the head of each Defense Agency with responsibility for executing activities associated with the strategy transmit their proposed budget for those activities for a fiscal year to the Assistant Secretary for review before submission of the proposed budget to the Under Secretary of Defense (Comptroller).
+
+(3) The Assistant Secretary shall review a proposed budget transmitted under paragraph (2) for a fiscal year and, not later than January 31 of the preceding fiscal year, shall submit to the Secretary of Defense a report containing the comments of the Assistant Secretary with respect to the proposed budget, together with the certification of the Assistant Secretary regarding whether the proposed budget is adequate for implementation of the strategy.
+
+(4) Not later than 30 days after the date on which the budget for a fiscal year is submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Secretary of Defense shall submit to Congress a report on the proposed budgets for that fiscal year that were reviewed by the Assistant Secretary under paragraph (3).
+
+(5) For each proposed budget covered by a report under paragraph (4) for which the certification of the Assistant Secretary under paragraph (3) is that the budget is not adequate for implementation of the strategy, the report shall include the following:
+
+  (A) A copy of the report set forth in paragraph (3).
+
+  (B) A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address the inadequacy of the proposed budget.
+
+  (C) An appendix prepared by the Chairman of the Joint Chiefs of Staff describing—
+
+    (i) the progress made by the Joint Requirements Oversight Council in implementing the energy Key Performance Parameter; and
+
+    (ii) details regarding how operational energy is being addressed in defense planning, scenarios, support to strategic analysis, and resulting policy to improve combat capability.
+
+  (D) An appendix prepared by the Under Secretary of Defense for Acquisition, Technology, and Logistics certifying that and describing how the acquisition system is addressing operational energy in the procurement process, including long-term sustainment considerations, and how programs are extending combat capability as a result of these considerations.
+
+  (E) A separate statement of estimated expenditures and requested appropriations for that fiscal year for the activities of the Assistant Secretary in carrying out the duties of the Assistant Secretary.
+
+  (F) Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.
+
+(6) For each proposed budget covered by a report under paragraph (4) for which the certification of the Assistant Secretary under paragraph (3) is that the budget is adequate for implementation of the strategy, the report shall include the items set forth in subparagraphs (C), (D), and (E) of paragraph (5).
+
+**(d) Access to Initiative Results and Records.—**
+
+(1) The Secretary of a military department shall submit to the Assistant Secretary of Defense for Installations, Energy, and Environment the results of all studies and initiatives conducted by the military department in connection with the operational energy strategy.
+
+(2) The Assistant Secretary shall have access to all records and data in the Department of Defense (including the records and data of each military department) necessary in order to permit the Assistant Secretary to carry out the duties of the Assistant Secretary.
+
+### Statutory Notes
+
+#### Codification
+Subsec. (c)(3) of [section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c), which was transferred to subsec. (a) of this section by Pub. L. 113–291, § 901(g)(1)(B), was based on Pub. L. 112–81, div. A, title III, § 314(a), Dec. 31, 2011, 125 Stat. 1357. Subsecs. (d) to (f) of [section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c), which were transferred to subsecs. (b) to (d), respectively, of this section by Pub. L. 113–291, § 901(g)(1)(D), were based on Pub. L. 110–417, [div. A], title IX, § 902(a), Oct. 14, 2008, 122 Stat. 4564; amended Pub. L. 111–383, div. A, title IX, § 901(b)(7)(B)–(D), Jan. 7, 2011, 124 Stat. 4320; Pub. L. 112–81, div. A, title III, § 311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 113–66, div. A, title III, § 311, Dec. 26, 2013, 127 Stat. 728.
+
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–291, § 901(g)(1)(E), inserted “of Defense for Installations, Energy, and Environment” after “The Assistant Secretary” in introductory provisions.
+
+Pub. L. 113–291, § 901(g)(1)(C)(i), (ii), inserted heading and redesignated subpars. (A) to (E) of former subsec. (c)(3) of section 138c as pars. (1) to (5), respectively, of subsec. (a). See Codification note above.
+
+Pub. L. 113–291, § 901(g)(1)(B), transferred subsec. (c)(3) of [section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c) to subsec. (a) of this section. See Codification note above.
+
+Subsec. (a)(5). Pub. L. 113–291, § 901(g)(1)(C)(iii), substituted “subsection (c)(4)” for “subsection (e)(4)”.
+
+Subsec. (b). Pub. L. 113–291, § 901(g)(1)(D), transferred subsec. (d) of [section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c) to subsec. (b) of this section. See Codification note above.
+
+Subsec. (b)(1). Pub. L. 113–291, § 901(g)(1)(E), inserted “of Defense for Installations, Energy, and Environment” after “The Assistant Secretary”.
+
+Subsec. (b)(4). Pub. L. 113–291, § 901(g)(1)(F), substituted “make recommendations to the Secretary of Defense and Deputy Secretary of Defense and provide guidance to the Secretaries of the military departments” for “provide guidance to, and consult with, the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments,”.
+
+Subsec. (c). Pub. L. 113–291, § 901(g)(1)(D), transferred subsec. (e) of [section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c) to subsec. (c) of this section. See Codification note above.
+
+Subsec. (c)(1). Pub. L. 113–291, § 901(g)(1)(E), inserted “of Defense for Installations, Energy, and Environment” after “The Assistant Secretary”.
+
+Subsec. (c)(4) to (6). Pub. L. 113–291, § 901(g)(1)(G), amended pars. (4) to (6) generally. Prior to amendment, pars. (4) to (6) required the Secretary of Defense to report to Congress, by a certain date, on proposed budgets not certified by the Assistant Secretary under par. (3), including a separate statement of certain estimated expenditures and requested appropriations.
+
+Subsec. (d). Pub. L. 113–291, § 901(g)(1)(D), transferred subsec. (f) of [section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c) to subsec. (d) of this section. See Codification note above.
+
+Subsec. (d)(1). Pub. L. 113–291, § 901(g)(1)(E), inserted “of Defense for Installations, Energy, and Environment” after “the Assistant Secretary”.

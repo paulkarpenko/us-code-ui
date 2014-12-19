@@ -21,7 +21,8 @@ source: >-
     (ii) Chapters 61 through 80, to the extent such chapters relate to the enforcement and administration of the provisions referred to in clause (i).
 
   (B) *Use of existing rulings and interpretations* — Nothing in this Act 11 So in original. alters or repeals the rulings and interpretations of the Bureau of Alcohol, Tobacco, and Firearms in effect on the effective date of the Homeland Security Act of 2002, which concern the provisions of this title referred to in subparagraph (A). The Attorney General shall consult with the Secretary to achieve uniformity and consistency in administering provisions under chapter 53 of title 26, United States Code.
-[(b) Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1078]
+
+**(b) Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1078]**
 
 **(c) Functions of Department of Justice unaffected** Nothing in this section or [section 301(f) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section301/f&num=0&edition=prelim) shall be considered to affect the duties, powers, or functions imposed upon, or vested in, the Department of Justice, or any officer thereof, by law existing on May 10, 1934.
 
@@ -67,7 +68,19 @@ For order of succession during any period when both Secretary and Deputy Secreta
 #### IRS Reports on Information Technology Investments
 Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in part: “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter”.
 
+Similar provisions were contained in the following appropriation act:
+
+Pub. L. 113–235, div. E, title I, Dec. 16, 2014, 128 Stat. 2337.
+
+Pub. L. 113–76, div. E, title I, Jan. 17, 2014, 128 Stat. 189.
+
 Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 889, provided in part: “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for CADE2 and Modernized e-File information technology investments, including the purposes and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and the strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter.”
+
+Similar provisions were contained in the following appropriation act:
+
+Pub. L. 113–235, div. E, title I, Dec. 16, 2014, 128 Stat. 2337.
+
+Pub. L. 113–76, div. E, title I, Jan. 17, 2014, 128 Stat. 189.
 
 #### Elimination of User Fee for Requests to IRS Regarding Pension Plans
 Pub. L. 107–16, title VI, § 620, June 7, 2001, 115 Stat. 110, related to elimination of user fees for certain requests to the Internal Revenue Service regarding pension plans, prior to repeal by Pub. L. 108–89, title II, § 202(b)(3), Oct. 1, 2003, 117 Stat. 1133.
@@ -909,7 +922,7 @@ Upon the acceptance of such offer in compromise or offer for the purchase of suc
 
 **(c) Deposit of certain receipts** Moneys received in payment for—
 
-(1) Work or services performed pursuant to section 6103(p) (relating to furnishing of copies of returns or of return information), and section 6108(b) (relating to special statistical studies and compilations);
+(1) Work 11 So in original. Probably should not be capitalized. or services performed pursuant to section 6103(p) (relating to furnishing of copies of returns or of return information), and section 6108(b) (relating to special statistical studies and compilations);
 
 (2) work or services performed (including materials supplied) pursuant to section 7516 (relating to the supplying of training and training aids on request);
 
@@ -1106,7 +1119,7 @@ Pub. L. 100–647, title VI, § 6230(c), Nov. 10, 1988, 102 Stat. 3734, provided
 
 (3) **Subtitle C** — Subtitle C of this title shall apply only with respect to remuneration paid after December 31, 1954, except that chapter 22 of such subtitle shall apply only with respect to remuneration paid after December 31, 1954, which is for services performed after such date. Chapter 9 of the Internal Revenue Code of 1939 is hereby repealed with respect to remuneration paid after December 31, 1954, except that subchapter B of such chapter (and subchapter E of such chapter to the extent it relates to subchapter B) shall remain in force and effect with respect to remuneration paid after December 31, 1954, for services performed on or before such date.
 
-(4) **Subtitle D** — Subtitle D of this title shall take effect on January 1, 1955. Subtitles B and C of the Internal Revenue Code of 1939 (except chapters 7, 9, 15, 26, and 28, subchapter B of chapter 25, and parts VII and VIII of subchapter A of chapter 27 of such code) are hereby repealed effective January 1, 1955. Provisions having the same effect as section 6416(b)(2)(H),1 and so much of section 4082(c)1 as refers to special motor fuels, shall be considered to be included in the Internal Revenue Code of 1939 effective as of May 1, 1954. Section 2450(a) of the Internal Revenue Code of 1939 (as amended by the Excise Tax Reduction Act of 1954) applies to the period beginning on April 1, 1954, and ending on December 31, 1954.
+(4) **Subtitle D** — Subtitle D of this title shall take effect on January 1, 1955. Subtitles B and C of the Internal Revenue Code of 1939 (except chapters 7, 9, 15, 26, and 28, subchapter B of chapter 25, and parts VII and VIII of subchapter A of chapter 27 of such code) are hereby repealed effective January 1, 1955. Provisions having the same effect as section 6416(b)(2)(H),1 and so much of section 4082(c) 1 as refers to special motor fuels, shall be considered to be included in the Internal Revenue Code of 1939 effective as of May 1, 1954. Section 2450(a) of the Internal Revenue Code of 1939 (as amended by the Excise Tax Reduction Act of 1954) applies to the period beginning on April 1, 1954, and ending on December 31, 1954.
 
 (5) **Subtitle E** — Subtitle E shall take effect on January 1, 1955, except that the provisions in section 5411 permitting the use of a brewery under regulations prescribed by the Secretary for the purpose of producing and bottling soft drinks, section 5554, and chapter 53 shall take effect on the day after the date of enactment of this title. Subchapter B of chapter 25, and part VIII of subchapter A of chapter 27, of the Internal Revenue Code of 1939 are hereby repealed effective on the day after the date of enactment of this title. Chapters 15 and 26, and part VII of subchapter A of chapter 27, of the Internal Revenue Code of 1939 are hereby repealed effective January 1, 1955.
 

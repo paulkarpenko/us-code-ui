@@ -34,7 +34,7 @@ A prior section 13101 was renumbered [section 13102 of this title](./chapter-131
 
 (1) shall consider, among other things, factors affecting recreational boating safety by contributing to overcrowding and congestion of waterways, such as the increasing number of recreational vessels operating on those waterways and their geographic distribution, the availability and geographic distribution of recreational boating facilities in and among applying States, and State marine casualty and fatality statistics for recreational vessels;
 
-(2) shall consult with the Secretary of the Interior to minimize duplication with the purposes and expenditures of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–4—460l–11) 11 So in original. A comma probably should appear after “([16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–4—460l–11)”. the Federal Aid in Sport Fish Restoration Act of 1950 ([16 U.S.C. 777–777k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777–777k&num=0&edition=prelim)), and with the guidelines developed under those Acts; and
+(2) shall consult with the Secretary of the Interior to minimize duplication with the purposes and expenditures of chapter 2003 of title 54, United States Code,11 So in original. The words “, United States Code, probably should not appear. the Federal Aid in Sport Fish Restoration Act of 1950 ([16 U.S.C. 777–777k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777–777k&num=0&edition=prelim)), and with the guidelines developed under those Acts; and
 
 (3) shall maintain environmental standards consistent with the Coastal Zone Management Act of 1972 ([16 U.S.C. 1451–146](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451–146&num=0&edition=prelim)4) and other laws and policies of the United States intended to safeguard the ecological and esthetic quality of the waters and wetlands of the United States.
 
@@ -54,8 +54,6 @@ Subsection (b) requires the Secretary to establish guidelines and standards for 
 Subsection (c) makes the States who meet the standards prescribed by the Secretary eligible for the amounts authorized under this chapter.
 
 #### References in Text
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b)(2), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of Title 16 and Tables.
-
 The Federal Aid in Sport Fish Restoration Act of 1950, referred to in subsec. (b)(2), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Dingell-Johnson Sport Fish Restoration Act, the Federal Aid in Fish Restoration Act, and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of Title 16. For complete classification of this Act to the Code, see Short Title note set out under [section 777 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777&num=0&edition=prelim) and Tables.
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (b)(3), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
@@ -64,6 +62,8 @@ The Coastal Zone Management Act of 1972, referred to in subsec. (b)(3), is title
 A prior section 13102 was renumbered [section 13103 of this title](./chapter-131-recreational-boating-safety.md#section-13103).
 
 #### Amendments
+2014—Subsec. (b)(2). Pub. L. 113–287, § 5(n), substituted “chapter 2003 of title 54, United States Code,” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–4—460l–11)”.
+
 2006—Pub. L. 109–304, § 16(b)(1), renumbered [section 13101 of this title](./chapter-131-recreational-boating-safety.md#section-13101) as this section.
 
 Subsec. (c). Pub. L. 109–304, § 16(c)(3), substituted “section 13104” for “section 13103”.

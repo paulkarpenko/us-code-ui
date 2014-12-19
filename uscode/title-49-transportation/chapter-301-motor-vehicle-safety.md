@@ -1392,10 +1392,10 @@ The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec
 Pub. L. 112–141, div. C, title I, § 31501, July 6, 2012, 126 Stat. 773, provided that: “(a) Side Impact Crashes.—Not later than 2 years after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary [of Transportation] shall issue a final rule amending Federal Motor Vehicle Safety Standard Number 213 to improve the protection of children seated in child restraint systems during side impact crashes. “(b) Frontal Impact Test Parameters.—“(1) Commencement.—Not later than 2 years after the date of enactment of this Act, the Secretary shall commence a rulemaking proceeding to amend the standard seat assembly specifications under Federal Motor Vehicle Safety Standard Number 213 to better simulate a single representative motor vehicle rear seat. “(2) Final rule.—Not later than 4 years after the date of enactment of this Act, the Secretary shall issue a final rule pursuant to paragraph (1).”
 
 #### Child Restraint Anchorage Systems
-Pub. L. 112–141, div. C, title I, § 31502, July 6, 2012, 126 Stat. 774, provided that: “(a) Initiation of Rulemaking Proceeding.—Not later than 1 year after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary [of Transportation] shall initiate a rulemaking proceeding to amend Federal Motor Vehicle Safety Standard Number 225 (relating to child restraint anchorage systems) to improve the ease of use for lower anchorages and tethers in all rear seat seating positions if such anchorages and tethers are feasible. “(b) Final Rule.—“(1) In general.—Except as provided under paragraph (2) and section 31505 [set out as note below], the Secretary shall issue a final rule under subsection (a) not later than 3 years after the date of enactment of this Act. “(2) Report.—If the Secretary determines that an amendment to the standard referred to in subsection (a) does not meet the requirements and considerations set forth in subsections (a) and (b) of [section 30111 of title 49](./chapter-301-motor-vehicle-safety.md#section-30111), United States Code, the Secretary shall submit a report describing the reasons for not prescribing such a standard to—“(A) the Committee on Commerce, Science, and Transportation of the Senate; and “(B) the Committee on Energy and Commerce of the House of Representatives.”
+Pub. L. 112–141, div. C, title I, § 31502, July 6, 2012, 126 Stat. 774, provided that: “(a) Initiation of Rulemaking Proceeding.—Not later than 1 year after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary [of Transportation] shall initiate a rulemaking proceeding to amend Federal Motor Vehicle Safety Standard Number 225 (relating to child restraint anchorage systems) to improve the ease of use for lower anchorages and tethers in all rear seat seating positions if such anchorages and tethers are feasible. “(b) Final Rule.—“(1) In general.—Except as provided under paragraph (2) and section 31505 [set out as a note below], the Secretary shall issue a final rule under subsection (a) not later than 3 years after the date of enactment of this Act. “(2) Report.—If the Secretary determines that an amendment to the standard referred to in subsection (a) does not meet the requirements and considerations set forth in subsections (a) and (b) of [section 30111 of title 49](./chapter-301-motor-vehicle-safety.md#section-30111), United States Code, the Secretary shall submit a report describing the reasons for not prescribing such a standard to—“(A) the Committee on Commerce, Science, and Transportation of the Senate; and “(B) the Committee on Energy and Commerce of the House of Representatives.”
 
 #### Rear Seat Belt Reminders
-Pub. L. 112–141, div. C, title I, § 31503, July 6, 2012, 126 Stat. 774, provided that: “(a) Initiation of Rulemaking Proceeding.—Not later than 2 years after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary [of Transportation] shall initiate a rulemaking proceeding to amend Federal Motor Vehicle Safety Standard Number 208 (relating to occupant crash protection) to provide a safety belt use warning system for designated seating positions in the rear seat. “(b) Final Rule.—“(1) In general.—Except as provided under paragraph (2) and section 31505 [set out as note below], the Secretary shall issue a final rule under subsection (a) not later than 3 years after the date of enactment of this Act. “(2) Report.—If the Secretary determines that an amendment to the standard referred to in subsection (a) does not meet the requirements and considerations set forth in subsections (a) and (b) of [section 30111 of title 49](./chapter-301-motor-vehicle-safety.md#section-30111), United States Code, the Secretary shall submit a report describing the reasons for not prescribing such a standard to—“(A) the Committee on Commerce, Science, and Transportation of the Senate; and “(B) the Committee on Energy and Commerce of the House of Representatives.”
+Pub. L. 112–141, div. C, title I, § 31503, July 6, 2012, 126 Stat. 774, provided that: “(a) Initiation of Rulemaking Proceeding.—Not later than 2 years after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary [of Transportation] shall initiate a rulemaking proceeding to amend Federal Motor Vehicle Safety Standard Number 208 (relating to occupant crash protection) to provide a safety belt use warning system for designated seating positions in the rear seat. “(b) Final Rule.—“(1) In general.—Except as provided under paragraph (2) and section 31505 [set out as a note below], the Secretary shall issue a final rule under subsection (a) not later than 3 years after the date of enactment of this Act. “(2) Report.—If the Secretary determines that an amendment to the standard referred to in subsection (a) does not meet the requirements and considerations set forth in subsections (a) and (b) of [section 30111 of title 49](./chapter-301-motor-vehicle-safety.md#section-30111), United States Code, the Secretary shall submit a report describing the reasons for not prescribing such a standard to—“(A) the Committee on Commerce, Science, and Transportation of the Senate; and “(B) the Committee on Energy and Commerce of the House of Representatives.”
 
 #### New Deadline
 Pub. L. 112–141, div. C, title I, § 31505, July 6, 2012, 126 Stat. 775, provided that: “If the Secretary [of Transportation] determines that any deadline for issuing a final rule under this Act [probably should be “this title”, see Tables for classification] cannot be met, the Secretary shall— “(1) provide the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives with an explanation for why such deadline cannot be met; and “(2) establish a new deadline for that rule.”
@@ -1953,7 +1953,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 ## § 30165. Civil penalty
 **(a) Civil Penalties.—**
 
-(1) **In general.—** — A person that violates any of section 30112, 30115, 30117 through 30122, 30123(d),11 See References in Text note below. 30125(c), 30127, 30141 through 30147, or 31137, or a regulation prescribed thereunder, is liable to the United States Government for a civil penalty of not more than $5,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $15,000,000.
+(1) **In general.—** — A person that violates any of section 30112, 30115, 30117 through 30122, 30123(a), 30125(c), 30127, 30141 through 30147, or 31137, or a regulation prescribed thereunder, is liable to the United States Government for a civil penalty of not more than $5,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $35,000,000.
 
 (2) **School buses.—**
 
@@ -1965,7 +1965,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
   (B) *Related series of violations.—* — A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by that section. The maximum penalty under this paragraph for a related series of violations is $15,000,000.
 
-(3) **Section 30166.—** — Except as provided in paragraph (4), a person who violates section 30166 or a regulation prescribed under that section is liable to the United States Government for a civil penalty for failing or refusing to allow or perform an act required under that section or regulation. The maximum penalty under this paragraph is $5,000 per violation per day. The maximum penalty under this paragraph for a related series of daily violations is $15,000,000.
+(3) **Section 30166.—** — Except as provided in paragraph (4), a person who violates section 30166 or a regulation prescribed under that section is liable to the United States Government for a civil penalty for failing or refusing to allow or perform an act required under that section or regulation. The maximum penalty under this paragraph is $5,000 per violation per day. The maximum penalty under this paragraph for a related series of daily violations is $35,000,000.
 
 (4) **False or misleading reports.—** — A person who knowingly and willfully submits materially false or misleading information to the Secretary, after certifying the same information as accurate under the certification process established pursuant to section 30166(o), shall be subject to a civil penalty of not more than $5,000 per day. The maximum penalty under this paragraph for a related series of daily violations is $1,000,000.
 
@@ -1975,24 +1975,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 (2) The Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts it owes the person liable for the penalty.
 
-**(c) Considerations.—** In determining the amount of a civil penalty or compromise, the appropriateness of the penalty or compromise to the size of the business of the person charged and the gravity of the violation shall be considered.
-
-**(d) Subpenas for Witnesses.—** In a civil action brought under this section, a subpena for a witness may be served in any judicial district.
-
-### Statutory Notes
-
-#### Amendment of Subsections (a) and (c)
-Pub. L. 112–141, § 3, div. C, title I, § 31203(a), (c), July 6, 2012, 126 Stat. 413, 758, provided that, effective on the date that is the earlier of the date on which final regulations are issued under section 31203(b) of Pub. L. 112–141 (set out as a note below) or 1 year after the date of enactment of this Act (see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways), this section is amended as follows:
-
-(1) in subsection (a)—
-
-(A) in paragraph (1), by striking “30123(d)” and inserting “30123(a)” and by striking “$15,000,000” and inserting “$35,000,000”; and
-
-(B) in paragraph (3), by striking “$15,000,000” and inserting “$35,000,000”; and
-
-(2) by amending subsection (c) to read as follows:
-
-(c) Relevant Factors in Determining Amount of Penalty or Compromise.—In determining the amount of a civil penalty or compromise under this section, the Secretary of Transportation shall consider the nature, circumstances, extent, and gravity of the violation. Such determination shall include, as appropriate—
+**(c) Relevant Factors in Determining Amount of Penalty or Compromise.—** In determining the amount of a civil penalty or compromise under this section, the Secretary of Transportation shall consider the nature, circumstances, extent, and gravity of the violation. Such determination shall include, as appropriate—
 
 (1) the nature of the defect or noncompliance;
 
@@ -2012,7 +1995,9 @@ Pub. L. 112–141, § 3, div. C, title I, § 31203(a), (c), July 6, 2012, 126 St
 
 (9) other appropriate factors.
 
-See 2012 Amendment notes below.
+**(d) Subpenas for Witnesses.—** In a civil action brought under this section, a subpena for a witness may be served in any judicial district.
+
+### Statutory Notes
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -2032,9 +2017,6 @@ In subsection (d), the words “who are required to attend a United States distr
 
 #### Pub. L. 103–429
 This amends 49:30141(c)(4)(A) and 30165(a) to correct erroneous cross-references.
-
-#### References in Text
-[Section 30123(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30123/d&num=0&edition=prelim), referred to in subsec. (a)(1), was redesignated [section 30123(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30123/a&num=0&edition=prelim) by Pub. L. 105–178, title VII, § 7106(b), June 9, 1998, 112 Stat. 467.
 
 #### Amendments
 2012—Subsec. (a)(1). Pub. L. 112–141, § 32301(c), substituted “30141 through 30147, or 31137” for “or 30141 through 30147”.

@@ -167,7 +167,7 @@ It is hereby declared to be the policy of Congress that—
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in pars. (1) and (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. Titles II through VII of this Act enacted sections 410hh to 410hh–5, 460mm to 460mm–3, 539 to 539e, and 1285b of this title, amended sections 1274, 1276, 1279, and 1280 of this title, and enacted provisions set out as notes under sections 431, 668dd, 1132, 1274, and 3145 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in pars. (1) and (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. Titles II through VII of this Act enacted sections 410hh to 410hh–5, 460mm to 460mm–3, 539 to 539e, and 1285b of this title, amended sections 1274, 1276, 1279, and 1280 of this title, and enacted provisions set out as notes under sections 668dd, 1132, 1274, and 3145 of this title and [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3113"></a>
@@ -398,7 +398,8 @@ Within four years after December 2, 1980, and within every three-year period the
 
 (6) a description of those actions taken, or which may need to be taken in the future, to permit the opportunity for continuation of activities relating to subsistence uses on the public lands; and
 
-(7) such other recommendations the Secretary deems appropriate. A notice of the report shall be published in the Federal Register and the report shall be made available to the public.
+(7) such other recommendations the Secretary deems appropriate.
+A notice of the report shall be published in the Federal Register and the report shall be made available to the public.
 
 ### Statutory Notes
 
@@ -431,14 +432,12 @@ Nothing in this subchapter shall be construed as—
 
 (3) authorizing a restriction on the taking of fish and wildlife for nonsubsistence uses on the public lands (other than national parks and park monuments) unless necessary for the conservation of healthy populations of fish and wildlife, for the reasons set forth in [section 3126 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3126), to continue subsistence uses of such populations, or pursuant to other applicable law; or
 
-(4) modifying or repealing the provisions of any Federal law governing the conservation or protection of fish and wildlife, including the National Wildlife Refuge System Administration Act of 1966 (80 Stat. 927; [16 U.S.C. 668dd](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd)–jj), the National Park Service Organic Act (39 Stat. 535, [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2, 3, 4), the Fur Seal Act of 1966 (80 Stat. 1091; [16 U.S.C. 1187](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1187&num=0&edition=prelim)) [[16 U.S.C. 1151](./chapter-024-conservation-and-protection-of-north-pacific-fur-seals.md#section-1151) et seq.], the Endangered Species Act of 1973 (87 Stat. 884; [16 U.S.C. 1531–154](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531–154&num=0&edition=prelim)3), the Marine Mammal Protection Act of 1972 (86 Stat. 1027; [16 U.S.C. 1361–140](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1361–140&num=0&edition=prelim)7), the Act entitled “An Act for the Protection of the Bald Eagle”, approved June 8, 1940 (54 Stat. 250; [16 U.S.C. 742a–754](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section742a–754&num=0&edition=prelim)) [[16 U.S.C. 668](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668) et seq.], the Migratory Bird Treaty Act (40 Stat. 755; [16 U.S.C. 703–711](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section703–711&num=0&edition=prelim)), the Federal Aid in Wildlife Restoration Act (50 Stat. 917; [16 U.S.C. 669–669i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669–669i&num=0&edition=prelim)), the Magnuson-Stevens Fishery Conservation and Management Act (90 Stat. 331; [16 U.S.C. 1801–188](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801–188&num=0&edition=prelim)2), the Federal Aid in Fish Restoration Act (64 Stat. 430; [16 U.S.C. 777–777k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777–777k&num=0&edition=prelim)), or any amendments to any one or more of such Acts.
+(4) modifying or repealing the provisions of any Federal law governing the conservation or protection of fish and wildlife, including the National Wildlife Refuge System Administration Act of 1966 (80 Stat. 927; [16 U.S.C. 668dd](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd)–jj), section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, the Fur Seal Act of 1966 (80 Stat. 1091; [16 U.S.C. 1187](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1187&num=0&edition=prelim)) [[16 U.S.C. 1151](./chapter-024-conservation-and-protection-of-north-pacific-fur-seals.md#section-1151) et seq.], the Endangered Species Act of 1973 (87 Stat. 884; [16 U.S.C. 1531–154](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531–154&num=0&edition=prelim)3), the Marine Mammal Protection Act of 1972 (86 Stat. 1027; [16 U.S.C. 1361–140](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1361–140&num=0&edition=prelim)7), the Act entitled “An Act for the Protection of the Bald Eagle”, approved June 8, 1940 (54 Stat. 250; [16 U.S.C. 742a–754](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section742a–754&num=0&edition=prelim)) [[16 U.S.C. 668](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668) et seq.], the Migratory Bird Treaty Act (40 Stat. 755; [16 U.S.C. 703–711](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section703–711&num=0&edition=prelim)), the Federal Aid in Wildlife Restoration Act (50 Stat. 917; [16 U.S.C. 669–669i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669–669i&num=0&edition=prelim)), the Magnuson-Stevens Fishery Conservation and Management Act (90 Stat. 331; [16 U.S.C. 1801–188](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801–188&num=0&edition=prelim)2), the Federal Aid in Fish Restoration Act (64 Stat. 430; [16 U.S.C. 777–777k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777–777k&num=0&edition=prelim)), or any amendments to any one or more of such Acts or such title.
 
 ### Statutory Notes
 
 #### References in Text
 The National Wildlife Refuge System Administration Act of 1966, referred to in par. (4), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd).
-
-The National Park Service Organic Act, referred to in par. (4), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, as amended, which is classified generally to sections 1, 2, 3, and 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1) and Tables.
 
 The Fur Seal Act of 1966, referred to in par. (4), is Pub. L. 89–702, Nov. 2 1966, 80 Stat. 1091, as amended, which is classified principally to chapter 24 (§ 1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1151 of this title](./chapter-024-conservation-and-protection-of-north-pacific-fur-seals.md#section-1151) and Tables.
 
@@ -457,6 +456,8 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par
 The Federal Aid in Fish Restoration Act, referred to in par. (4), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Dingell-Johnson Sport Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 777 of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777) and Tables.
 
 #### Amendments
+2014—Par. (4). Pub. L. 113–287 substituted “section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “the National Park Service Organic Act (39 Stat. 535, [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2, 3, 4)” and inserted “or such title” after “such Acts”.
+
 1997—Par. (5). Pub. L. 105–83, § 316(b)(9), which directed amendment of section by adding par. (5) reading as follows: “prohibiting the Secretary or the State from entering into co-management agreements with Alaska Native organizations or other local or regional entities when such organization or entity is managing fish and wildlife on public lands in Alaska for subsistence uses.”, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 1996—Par. (4). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
@@ -1606,8 +1607,6 @@ The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 19
 ### Statutory Notes
 
 #### References in Text
-The mining laws and the mineral leasing laws of the United States, referred to in subsec. (a), are classified generally to Title 30, Mineral Lands and Mining.
-
 GS–15, referred to in subsec. (b), is contained in the General Schedule, which is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 
@@ -1694,7 +1693,12 @@ This Act, referred to in subsecs. (a) and (c), is Pub. L. 96–487, Dec. 2, 1980
 <a id="section-3206"></a>
 ## § 3206. Statewide cultural assistance program
 
-In furtherance of the national policy set forth in [section 461 of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461), and in furtherance of the need to protect and interpret for the public benefit cultural and archeological resources and objects of national significance relating to prehistoric and historic human use and occupation of lands and waters in Alaska, the Secretary may, upon the application of a Native Corporation or Native Group, provide advice, assistance, and technical expertise to the applicant in the preservation, display, and interpretation of cultural resources, without regard as to whether title to such resources is in the United States. Such assistance may include making available personnel to assist in the planning, design, and operation of buildings, facilities, and interpretive displays for the public and personnel to train individuals in the identification, recovery, preservation, demonstration, and management of cultural resources.
+In furtherance of the national policy set forth in [section 320101 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim), and in furtherance of the need to protect and interpret for the public benefit cultural and archeological resources and objects of national significance relating to prehistoric and historic human use and occupation of lands and waters in Alaska, the Secretary may, upon the application of a Native Corporation or Native Group, provide advice, assistance, and technical expertise to the applicant in the preservation, display, and interpretation of cultural resources, without regard as to whether title to such resources is in the United States. Such assistance may include making available personnel to assist in the planning, design, and operation of buildings, facilities, and interpretive displays for the public and personnel to train individuals in the identification, recovery, preservation, demonstration, and management of cultural resources.
+
+### Statutory Notes
+
+#### Codification
+In text, “[section 320101 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim)” substituted for “the first section of the Act entitled ‘An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes’, approved August 21, 1935 (49 Stat. 666)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 
 <a id="section-3207"></a>
@@ -1733,7 +1737,7 @@ This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371,
 ### Statutory Notes
 
 #### References in Text
-Proclamations No. 4611 through 4627, inclusive, of December 1, 1978, referred to in subsec. (a), are Procs. No. 4611 through 4627, Dec. 1, 1978, 93 Stat. 1446–1473, which are set out as notes under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431).
+Proclamations No. 4611 through 4627, inclusive, of December 1, 1978, referred to in subsec. (a), are Procs. No. 4611 through 4627, Dec. 1, 1978, 93 Stat. 1446–1473, which are set out as notes under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs.
 
 This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 

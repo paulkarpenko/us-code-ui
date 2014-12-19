@@ -79,7 +79,7 @@ Pub. L. 109–366, § 2, Oct. 17, 2006, 120 Stat. 2600, provided that: “The au
 
   (B) Sections 831(a), (b), and (d) (articles 31(a), (b), and (d) of the Uniform Code of Military Justice), relating to compulsory self-incrimination.
 
-  (C) Section 832 (article 32 of the Uniform Code of Military Justice), relating to pretrial investigation.
+  (C) Section 832 (article 32 of the Uniform Code of Military Justice), relating to preliminary hearing.
 
 (2) Other provisions of chapter 47 of this title shall apply to trial by military commission under this chapter only to the extent provided by the terms of such provisions or by this chapter.
 
@@ -89,6 +89,12 @@ Pub. L. 109–366, § 2, Oct. 17, 2006, 120 Stat. 2600, provided that: “The au
 
 #### Prior Provisions
 A prior section 948b, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2602, related to military commissions generally, prior to the general amendment of this chapter by Pub. L. 111–84.
+
+#### Amendments
+2013—Subsec. (d)(1)(C). Pub. L. 113–66 substituted “preliminary hearing” for “pretrial investigation”.
+
+#### Effective Date of 2013 Amendment
+Amendment by Pub. L. 113–66 effective on the later of Dec. 26, 2014, or the date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Dec. 19, 2014) and applicable with respect to preliminary hearings conducted on or after that effective date, see section 1702(d)(1) of Pub. L. 113–66, set out as a note under [section 802 of this title](./chapter-047-uniform-code-of-military-justice.md#section-802).
 
 #### Ex. Ord. No. 13425. Trial of Alien Unlawful Enemy Combatants by Military Commission
 Ex. Ord. No. 13425, Feb. 14, 2007, 72 F.R. 7737, provided:
@@ -240,6 +246,9 @@ A prior section 948j, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 #### Prior Provisions
 A prior section 948k, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2604, related to detail of trial counsel and defense counsel, prior to the general amendment of this chapter by Pub. L. 111–84.
 
+#### Grade of Chief Prosecutor and Chief Defense Counsel in Military Commissions Established To Try Individuals Detained at Guantanamo
+Pub. L. 113–66, div. A, title X, § 1037, Dec. 26, 2013, 127 Stat. 854, provided that: “(a) In General.—For purposes of any military commission established under chapter 47A of title 10, United States Code, to try an alien unprivileged enemy belligerent (as such terms are defined in section 948a of such title) who is detained at United States Naval Station, Guantanamo Bay, Cuba, the chief defense counsel and the chief prosecutor shall have the same grade (as that term is defined in section 101(b)(7) of such title). “(b) Waiver.—“(1) In general.—The Secretary of Defense may temporarily waive the requirement specified in subsection (a), if the Secretary determines that compliance with such subsection would—“(A) be infeasible due to a non-availability of qualified officers of the same grade to fill the billets of chief defense counsel and chief prosecutor; or “(B) cause a significant disruption to proceedings established under chapter 47A of title 10, United States Code. “(2) Reports.—Not later than 30 days after the Secretary issues a waiver under paragraph (1), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the following:“(A) A copy of the waiver and the determination of the Secretary to issue the waiver. “(B) A statement of the basis for the determination, including an explanation of the non-availability of qualified officers or the significant disruption concerned. “(C) Notice of the time period during which the waiver is in effect. “(c) Guidance.—Not later than 60 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall issue guidance to ensure that the office of the chief defense counsel and the office of the chief prosecutor receive equitable resources, personnel support, and logistical support for conducting their respective duties in connection with any military commission established under chapter 47A of title 10, United States Code, to try an alien unprivileged enemy belligerent (as such terms are defined in section 948a of such title) who is detained at United States Naval Station, Guantanamo Bay, Cuba.”
+
 
 <a id="section-948l"></a>
 ## § 948l. Detail or employment of reporters and interpreters
@@ -259,24 +268,45 @@ A prior section 948l, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 ## § 948m. Number of members; excuse of members; absent and additional members
 **(a) Number of Members.—**
 
-(1) Except as provided in paragraph (2), a military commission under this chapter shall have at least five members.
+(1) Except as provided in paragraph (2), a military commission under this chapter shall have at least five primary members and as many alternate members as the convening authority shall detail. Alternate members shall be designated in the order in which they will replace an excused primary member.
 
-(2) In a case in which the accused before a military commission under this chapter may be sentenced to a penalty of death, the military commission shall have the number of members prescribed by [section 949m(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section949m/c&num=0&edition=prelim).
+(2) In a case in which the accused before a military commission under this chapter may be sentenced to a penalty of death, the military commission shall have the number of primary members prescribed by [section 949m(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section949m/c&num=0&edition=prelim).
 
-**(b) Excuse of Members.—** No member of a military commission under this chapter may be absent or excused after the military commission has been assembled for the trial of a case unless excused—
+**(b) Primary Members.—** Primary members of a military commission under this chapter are voting members.
+
+**(c) Alternate Members.—**
+
+(1) A military commission may include alternate members to replace primary members who are excused from service on the commission.
+
+(2) Whenever a primary member is excused from service on the commission, an alternate member, if available, shall replace the excused primary member and the trial may proceed.
+
+**(d) Excuse of Members.—** No primary or alternate member of a military commission under this chapter may be absent or excused after the military commission has been assembled for the trial of a case unless excused—
 
 (1) as a result of challenge;
 
-(2) by the military judge for physical disability or other good cause; or
+(2) by the military judge for physical disability or other good cause;
 
-(3) by order of the convening authority for good cause.
+(3) by order of the convening authority for good cause; or
 
-**(c) Absent and Additional Members.—** Whenever a military commission under this chapter is reduced below the number of members required by subsection (a), the trial may not proceed unless the convening authority details new members sufficient to provide not less than such number. The trial may proceed with the new members present after the recorded evidence previously introduced before the members has been read to the military commission in the presence of the military judge, the accused (except as provided in [section 949d of this title](./chapter-47a-military-commissions.md#section-949d)), and counsel for both sides.
+(4) in the case of an alternate member, in order to reduce the number of alternate members required for service on the commission, as determined by the convening authority.
+
+**(e) Absent and Additional Members.—** Whenever the number of primary members of a military commission under this chapter is reduced below the number of primary members required by subsection (a) and there are no remaining alternate members to replace the excused primary members, the trial may not proceed unless the convening authority details new members sufficient to provide not less than such number. The trial may proceed with the new members present after the recorded evidence previously introduced before the members has been read to the military commission in the presence of the military judge, the accused (except as provided in [section 949d of this title](./chapter-47a-military-commissions.md#section-949d)), and counsel for both sides. An alternate member who was present for the introduction of all evidence shall not be considered to be a new or additional member.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 948m, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2606, related to number of members, excuse of members, and absent and additional members of a military commission, prior to the general amendment of this chapter by Pub. L. 111–84.
+
+#### Amendments
+2013—Subsec. (a)(1). Pub. L. 113–66, § 1031(a)(1)(A), substituted “at least five primary members and as many alternate members as the convening authority shall detail” for “at least five members” and inserted at end “Alternate members shall be designated in the order in which they will replace an excused primary member.”
+
+Subsec. (a)(2). Pub. L. 113–66, § 1031(a)(1)(B), inserted “primary” before “members”.
+
+Subsecs. (b), (c). Pub. L. 113–66, § 1031(a)(2)(B), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
+
+Subsec. (d). Pub. L. 113–66, § 1031(a)(2)(A), (3), redesignated subsec. (b) as (d), inserted “primary or alternate” before “member” in introductory provisions, and added par. (4).
+
+Subsec. (e). Pub. L. 113–66, § 1031(a)(2)(A), (4), redesignated subsec. (c) as (e), substituted “Whenever the number of primary members of a military commission under this chapter is reduced below the number of primary members required by subsection (a) and there are no remaining alternate members to replace the excused primary members” for “Whenever a military commission under this chapter is reduced below the number of members required by subsection (a)”, and inserted at end “An alternate member who was present for the introduction of all evidence shall not be considered to be a new or additional member.”
 
 
 <a id="section-948q"></a>
@@ -567,9 +597,9 @@ A prior section 949e, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 
 <a id="section-949f"></a>
 ## § 949f. Challenges
-**(a) Challenges Authorized.—** The military judge and members of a military commission under this chapter may be challenged by the accused or trial counsel for cause stated to the military commission. The military judge shall determine the relevance and validity of challenges for cause, and may not receive a challenge to more than one person at a time. Challenges by trial counsel shall ordinarily be presented and decided before those by the accused are offered.
+**(a) Challenges Authorized.—** The military judge and primary or alternate members of a military commission under this chapter may be challenged by the accused or trial counsel for cause stated to the military commission. The military judge shall determine the relevance and validity of challenges for cause, and may not receive a challenge to more than one person at a time. Challenges by trial counsel shall ordinarily be presented and decided before those by the accused are offered.
 
-**(b) Peremptory Challenges.—** The accused and trial counsel are each entitled to one peremptory challenge, but the military judge may not be challenged except for cause.
+**(b) Peremptory Challenges.—** The accused and trial counsel are each entitled to one peremptory challenge, but the military judge may not be challenged except for cause. Nothing in this section prohibits the military judge from awarding to each party such additional peremptory challenges as may be required in the interests of justice.
 
 **(c) Challenges Against Additional Members.—** Whenever additional members are detailed to a military commission under this chapter, and after any challenges for cause against such additional members are presented and decided, the accused and trial counsel are each entitled to one peremptory challenge against members not previously subject to peremptory challenge.
 
@@ -577,6 +607,11 @@ A prior section 949e, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 
 #### Prior Provisions
 A prior section 949f, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2613, related to challenges, prior to the general amendment of this chapter by Pub. L. 111–84.
+
+#### Amendments
+2013—Subsec. (a). Pub. L. 113–66, § 1031(b)(1), inserted “primary or alternate” before “members”.
+
+Subsec. (b). Pub. L. 113–66, § 1031(b)(2), inserted at end “Nothing in this section prohibits the military judge from awarding to each party such additional peremptory challenges as may be required in the interests of justice.”
 
 
 <a id="section-949g"></a>
@@ -617,7 +652,7 @@ A prior section 949h, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 ## § 949i. Pleas of the accused
 **(a) Plea of Not Guilty.—** If an accused in a military commission under this chapter after a plea of guilty sets up matter inconsistent with the plea, or if it appears that the accused has entered the plea of guilty through lack of understanding of its meaning and effect, or if the accused fails or refuses to plead, a plea of not guilty shall be entered in the record, and the military commission shall proceed as though the accused had pleaded not guilty.
 
-**(b) Finding of Guilt After Guilty Plea.—** With respect to any charge or specification to which a plea of guilty has been made by the accused in a military commission under this chapter and accepted by the military judge, including a charge or specification that has been referred capital,,11 So in original. a finding of guilty of the charge or specification may be entered by the military judge immediately without a vote by the members. The finding shall constitute the finding of the military commission unless the plea of guilty is withdrawn prior to announcement of the sentence, in which event the proceedings shall continue as though the accused had pleaded not guilty.
+**(b) Finding of Guilt After Guilty Plea.—** With respect to any charge or specification to which a plea of guilty has been made by the accused in a military commission under this chapter and accepted by the military judge, including a charge or specification that has been referred capital, a finding of guilty of the charge or specification may be entered by the military judge immediately without a vote by the members. The finding shall constitute the finding of the military commission unless the plea of guilty is withdrawn prior to announcement of the sentence, in which event the proceedings shall continue as though the accused had pleaded not guilty.
 
 **(c) Pre-Trial Agreements.—**
 
@@ -631,6 +666,8 @@ A prior section 949h, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 A prior section 949i, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2614, related to pleas of the accused, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–291 substituted a comma for “,,” after “referred capital”.
+
 2011—Subsec. (b). Pub. L. 112–81, § 1030(b)(1), in the first sentence, inserted “, including a charge or specification that has been referred capital,” after “military judge”, “by the military judge” after “may be entered”, and “by the members” after “vote”.
 
 Subsec. (c). Pub. L. 112–81, § 1030(b)(2), added subsec. (c).
@@ -718,11 +755,11 @@ A prior section 949l, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 
 <a id="section-949m"></a>
 ## § 949m. Number of votes required
-**(a) Conviction.—** No person may be convicted by a military commission under this chapter of any offense, except as provided in [section 949i(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section949i/b&num=0&edition=prelim) or by concurrence of two-thirds of the members present at the time the vote is taken.
+**(a) Conviction.—** No person may be convicted by a military commission under this chapter of any offense, except as provided in [section 949i(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section949i/b&num=0&edition=prelim) or by concurrence of two-thirds of the primary members present at the time the vote is taken.
 
 **(b) Sentences.—**
 
-(1) Except as provided in paragraphs (2) and (3), sentences shall be determined by a military commission by the concurrence of two-thirds of the members present at the time the vote is taken.
+(1) Except as provided in paragraphs (2) and (3), sentences shall be determined by a military commission by the concurrence of two-thirds of the primary members present at the time the vote is taken.
 
 (2) No person may be sentenced to death by a military commission, except insofar as—
 
@@ -730,17 +767,19 @@ A prior section 949l, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 
   (B) trial counsel expressly sought the penalty of death by filing an appropriate notice in advance of trial;
 
-  (C) the accused was convicted of the offense by the concurrence of all the members present at the time the vote is taken, or a guilty plea was accepted and not withdrawn prior to announcement of the sentence in accordance with [section 949i(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section949i/b&num=0&edition=prelim); and
+  (C) the accused was convicted of the offense by the concurrence of all the primary members present at the time the vote is taken, or a guilty plea was accepted and not withdrawn prior to announcement of the sentence in accordance with [section 949i(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section949i/b&num=0&edition=prelim); and
 
-  (D) all members present at the time the vote was taken on the sentence concurred in the sentence of death.
+  (D) all primary members present at the time the vote was taken on the sentence concurred in the sentence of death.
 
-(3) No person may be sentenced to life imprisonment, or to confinement for more than 10 years, by a military commission under this chapter except by the concurrence of three-fourths of the members present at the time the vote is taken.
+(3) No person may be sentenced to life imprisonment, or to confinement for more than 10 years, by a military commission under this chapter except by the concurrence of three-fourths of the primary members present at the time the vote is taken.
+
+(4) The primary members present for a vote on a sentence need not be the same primary members who voted on the conviction if the requirements of [section 948m(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section948m/d&num=0&edition=prelim) are met.
 
 **(c) Number of Members Required for Penalty of Death.—**
 
-(1) Except as provided in paragraph (2), in a case in which the penalty of death is sought, the number of members of the military commission under this chapter shall be not less than 12 members.
+(1) Except as provided in paragraph (2), in a case in which the penalty of death is sought, the number of primary members of the military commission under this chapter shall be not less than 12 primary members.
 
-(2) In any case described in paragraph (1) in which 12 members are not reasonably available for a military commission because of physical conditions or military exigencies, the convening authority shall specify a lesser number of members for the military commission (but not fewer than 9 members), and the military commission may be assembled, and the trial held, with not less than the number of members so specified. In any such case, the convening authority shall make a detailed written statement, to be appended to the record, stating why a greater number of members were not reasonably available.
+(2) In any case described in paragraph (1) in which 12 primary members are not reasonably available for a military commission because of physical conditions or military exigencies, the convening authority shall specify a lesser number of primary members for the military commission (but not fewer than 9 primary members), and the military commission may be assembled, and the trial held, with not less than the number of primary members so specified. In any such case, the convening authority shall make a detailed written statement, to be appended to the record, stating why a greater number of primary members were not reasonably available.
 
 ### Statutory Notes
 
@@ -748,6 +787,10 @@ A prior section 949l, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 A prior section 949m, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2616, related to number of votes required for conviction and sentences and number of members required on military commission for penalty of death, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 #### Amendments
+2013—Pub. L. 113–66, § 1031(c)(1), inserted “primary” before “members” wherever appearing.
+
+Subsec. (b)(4). Pub. L. 113–66, § 1031(c)(2), added par. (4).
+
 2011—Subsec. (b)(2)(C). Pub. L. 112–81, § 1030(a)(1), inserted before semicolon “, or a guilty plea was accepted and not withdrawn prior to announcement of the sentence in accordance with [section 949i(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section949i/b&num=0&edition=prelim)”.
 
 Subsec. (b)(2)(D). Pub. L. 112–81, § 1030(a)(2), inserted “on the sentence” after “vote was taken”.
@@ -1048,7 +1091,7 @@ A prior section 950a, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 
 (2)
 
-  (A) Except as provided in subparagraph (B), a submittal under paragraph (1) shall be made in writing within 20 days after the accused has been give 11 So in original. Probably should read “given”. an authenticated record of trial under section 949o(c) of this title.
+  (A) Except as provided in subparagraph (B), a submittal under paragraph (1) shall be made in writing within 20 days after the accused has been given an authenticated record of trial under section 949o(c) of this title.
 
   (B) If the accused shows that additional time is required for the accused to make a submittal under paragraph (1), the convening authority may, for good cause, extend the applicable period under subparagraph (A) for not more than an additional 20 days.
 
@@ -1100,6 +1143,9 @@ A prior section 950a, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 
 #### Prior Provisions
 A prior section 950b, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2618, related to review by the convening authority, prior to the general amendment of this chapter by Pub. L. 111–84.
+
+#### Amendments
+2014—Subsec. (b)(2)(A). Pub. L. 113–291 substituted “given” for “give”.
 
 
 <a id="section-950c"></a>
@@ -1353,7 +1399,8 @@ Any person punishable under this chapter who—
 
 (2) causes an act to be done which if directly performed by him would be punishable by this chapter; or
 
-(3) is a superior commander who, with regard to acts punishable by this chapter, knew, had reason to know, or should have known, that a subordinate was about to commit such acts or had done so and who failed to take the necessary and reasonable measures to prevent such acts or to punish the perpetrators thereof, is a principal.
+(3) is a superior commander who, with regard to acts punishable by this chapter, knew, had reason to know, or should have known, that a subordinate was about to commit such acts or had done so and who failed to take the necessary and reasonable measures to prevent such acts or to punish the perpetrators thereof,
+is a principal.
 
 ### Statutory Notes
 

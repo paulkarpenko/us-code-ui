@@ -35,7 +35,8 @@ A United States attorney or assistant United States attorney or a person authori
 
 (1) upon his own affidavit or that of another credible person, stating the existence of either of the grounds of attachments enumerated in [section 2710 of this title](./chapter-173-attachment-in-postal-suits.md#section-2710) and
 
-(2) upon production of legal evidence of the debt may apply for a warrant of attachment to a judge, or, in his absence, to the clerk of any court of the United States having original jurisdiction of the cause of action.
+(2) upon production of legal evidence of the debt
+may apply for a warrant of attachment to a judge, or, in his absence, to the clerk of any court of the United States having original jurisdiction of the cause of action.
 
 ### Statutory Notes
 
@@ -83,7 +84,8 @@ The marshal shall cause publication of an executed warrant of attachment—
 
 (1) for two months in case of an absconding debtor, and
 
-(2) for four months in case of a nonresident debtor in a newspaper published in the district where the property is situated pursuant to the details of the order under which the warrant is issued.
+(2) for four months in case of a nonresident debtor
+in a newspaper published in the district where the property is situated pursuant to the details of the order under which the warrant is issued.
 
 ### Statutory Notes
 
@@ -109,7 +111,8 @@ The court, or a judge thereof, upon—
 
 (1) application of the party when property has been attached and
 
-(2) execution to the United States of a penal bond, approved by a judge, in double the value of the property attached and conditioned upon the return of the property or the payment of any judgment rendered by the court may discharge the warrant of attachment as to the property of the applicant.
+(2) execution to the United States of a penal bond, approved by a judge, in double the value of the property attached and conditioned upon the return of the property or the payment of any judgment rendered by the court
+may discharge the warrant of attachment as to the property of the applicant.
 
 ### Statutory Notes
 

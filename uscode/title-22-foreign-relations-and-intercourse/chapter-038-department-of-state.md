@@ -355,7 +355,8 @@ Pub. L. 108–447, div. B, title IV, § 408, Dec. 8, 2004, 118 Stat. 2904, provi
 #### Comprehensive Workforce Plan
 Pub. L. 107–228, div. A, title III, § 301, Sept. 30, 2002, 116 Stat. 1376, required the Secretary of State to submit to the appropriate congressional committees, not later than 180 days after Sept. 30, 2002, a comprehensive workforce plan for the Department of State for the fiscal years 2003 through 2007, considering personnel needs in both the Civil Service and the Foreign Service and expected domestic and overseas personnel allocations.
 
-#### “Rightsizing” Overseas Posts
+“Rightsizing” Overseas Posts
+
 Pub. L. 107–228, div. A, title III, § 302, Sept. 30, 2002, 116 Stat. 1376, provided that: “(a) ‘Rightsizing’ at the Department of State.—“(1) In general.—The Secretary shall establish a task force within the Department on the issue of ‘rightsizing’ overseas posts. “(2) Preliminary report.—Not later than 120 days after the date of the enactment of this Act [Sept. 30, 2002], the Secretary shall submit to the appropriate congressional committees a report that outlines the status, plans, and activities of the task force. In addition to such other information as the Secretary considers appropriate, the report shall include the following:“(A) The objectives of the task force. “(B) Measures for achieving the objectives under subparagraph (A). “(C) Identification of the official of the Department with primary responsibility for the issue of ‘rightsizing’. “(D) The plans of the Department for the reallocation of staff and resources based on changing needs at overseas posts and in the metropolitan Washington, D.C., area. “(3) Report.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report reviewing the activities and progress of the task force established under paragraph (1). “(b) Interagency Working Group.—“(1) Establishment.—The Secretary shall establish an interagency working group on the issue of ‘rightsizing’ the overseas presence of the United States Government. “(2) Preliminary report.—Not later than 120 days after the date of the enactment of this Act [Sept. 30, 2002], the Secretary shall submit to the appropriate congressional committees a report which outlines the status, plans, and activities of the interagency working group. In addition to such other information as the Secretary considers appropriate, the report shall include the following:“(A) The objectives of the working group. “(B) Measures for achieving the objectives under subparagraph (A). “(C) Identification of the official of each agency with primary responsibility for the issue of ‘rightsizing’. “(3) Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report reviewing the activities and progress of the working group established under paragraph (1).”
 
 #### Report Concerning Minority Employment
@@ -549,7 +550,7 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 (2) develop a group of highly specialized, technical experts with country expertise capable of administering the nonproliferation and political-military affairs functions of the Department.
 
-**(b) Authority** To carry out the purposes of subsection (a) of this section, the Secretary is authorized to establish the position of Counselor for Nonproliferation and Political Military Affairs in United States diplomatic missions overseas, to be filled by individuals who are career Civil Service officers or Foreign Service officers committed to follow-on assignments in the Nonproliferation Bureau or the Political Military Affairs Bureau of the Department.
+**(b) Authority** To carry out the purposes of subsection (a), the Secretary is authorized to establish the position of Counselor for Nonproliferation and Political Military Affairs in United States diplomatic missions overseas, to be filled by individuals who are career Civil Service officers or Foreign Service officers committed to follow-on assignments in the Nonproliferation Bureau or the Political Military Affairs Bureau of the Department.
 
 **(c) Training** After being selected to serve as Counselor, any person so selected shall spend not less than 10 months in language training courses at the Foreign Service Institute,11 See Change of Name note below. or in technical courses administered by the Department of Defense, the Department of Energy, or other appropriate departments and agencies of the United States, except that such requirement for training may be waived by the Secretary.
 
@@ -578,7 +579,7 @@ Section was formerly classified to [section 156 of Title 5](https://uscode.house
 Functions of President respecting certain facilities constructed and maintained on United States borders delegated to Secretary of State, see Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 #### Presidential Directive
-National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, § 102, 61 Stat. 497, formerly set out as [section 403 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim), War and National Defense. See [section 3023 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3023&num=0&edition=prelim).
+National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, § 102, 61 Stat. 497, formerly set out as [section 403 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403&num=0&edition=prelim), War and National Defense. See Prior Provisions note under [section 3023 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3023&num=0&edition=prelim).
 
 #### Strategy for the United States Relationship With Saudi Arabia
 Pub. L. 110–53, title XX, § 2043, Aug. 3, 2007, 121 Stat. 524, provided that: “(a) Congressional Findings.—Congress finds that:“(1) The National Commission on Terrorist Attacks Upon the United States concluded that the Kingdom of Saudi Arabia has ‘been a problematic ally in combating Islamic extremism. At the level of high policy, Saudi Arabia’s leaders cooperated with American diplomatic initiatives aimed at the Taliban or Pakistan before 9/11. At the same time, Saudi Arabia’s society was a place where al Qaeda raised money directly from individuals and through charities. It was the society that produced 15 of the 19 hijackers.’. “(2) Saudi Arabia has an uneven record in the fight against terrorism, especially with respect to terrorist financing, support for radical madrassas, a lack of political outlets for its citizens, and restrictions on religious pluralism, that poses a threat to the security of the United States, the international community, and Saudi Arabia itself. “(3) The National Commission on Terrorist Attacks Upon the United States concluded that the ‘problems in the U.S.-Saudi relationship must be confronted, openly’. It recommended that the two countries build a relationship that includes a ‘shared commitment to political and economic reform . . . and a shared interest in greater tolerance and cultural respect, translating into a commitment to fight the violent extremists who foment hatred’. “(4) The United States has a national security interest in working with the Government of Saudi Arabia to combat international terrorists that operate within that country or that operate outside Saudi Arabia with the support of citizens of Saudi Arabia. “(5) The United States and Saudi Arabia established a Strategic Dialogue in 2005, which provides a framework for the two countries to discuss a range of bilateral issues at high levels, including counterterrorism policy and political and economic reforms. “(6) It is in the national security interest of the United States to support the Government of Saudi Arabia in undertaking a number of political and economic reforms, including increasing anti-terrorism operations conducted by law enforcement agencies, providing more political and religious rights to its citizens, increasing the rights of women, engaging in comprehensive educational reform, enhancing monitoring of charitable organizations, and promulgating and enforcing domestic laws and regulation on terrorist financing. “(b) Statement of Policy.—It is the policy of the United States—“(1) to engage with the Government of Saudi Arabia to openly confront the issue of terrorism, as well as other problematic issues such as the lack of political freedoms; “(2) to enhance counterterrorism cooperation with the Government of Saudi Arabia; and “(3) to support the efforts of the Government of Saudi Arabia to make political, economic, and social reforms, including greater religious freedom, throughout the country. “(c) Progress in Counterterrorism and Other Cooperation.—“(1) Report.—Not later than 180 days after the date of the enactment of this Act [Aug. 3, 2007], the President shall transmit to the appropriate congressional committees a report that—“(A) describes the long-term strategy of the United States—“(i) to engage with the Government of Saudi Arabia to facilitate political, economic, and social reforms, including greater religious freedom, that will enhance the ability of the Government of Saudi Arabia to combat international terrorism; and “(ii) to work with the Government of Saudi Arabia to combat terrorism, including through effective measures to prevent and prohibit the financing of terrorists by Saudi institutions and citizens; and “(B) provides an assessment of the progress made by Saudi Arabia since 2001 on the matters described in subparagraph (A), including—“(i) whether Saudi Arabia has become a party to the International Convention for the Suppression of the Financing of Terrorism; and “(ii) the activities and authority of the Saudi Nongovernmental National Commission for Relief and Charity Work Abroad. “(2) Form.—The report required by paragraph (1) shall be transmitted in unclassified form, but may include a classified annex, if necessary.”
@@ -635,7 +636,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 338], Nov. 29, 1
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VIII, § 873], Nov. 29, 1999, 113 Stat. 1536, 1501A–474, provided that: “(a) Requirement.—The Secretary of State shall establish and maintain a registry which shall, to the extent practicable, provide information on all political prisoners, prisoners of conscience, and prisoners of faith in the People’s Republic of China. The registry shall be known as the ‘Prisoner Information Registry for the People’s Republic of China’. “(b) Information in Registry.—The registry required by subsection (a) shall include information on the charges, judicial processes, administrative actions, uses of forced labor, incidents of torture, lengths of imprisonment, physical and health conditions, and other matters associated with the incarceration of prisoners in the People’s Republic of China referred to in that subsection. “(c) Availability of Funds.—The Secretary may make a grant to nongovernmental organizations currently engaged in monitoring activities regarding political prisoners in the People’s Republic of China in order to assist in the establishment and maintenance of the registry required by subsection (a).”
 
 #### Report to Congress on Activities of North Korean Armed Forces
-Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 585], Sept. 30, 1996, 110 Stat. 3009–121, 3009–171, as amended by Pub. L. 107–228, div. B, title XIII, § 1308(g)(1)(D), (2), Sept. 30, 2002, 116 Stat. 1441, provided that: “Ninety days after the date of enactment of this Act [Sept. 30, 1996], and every 180 days thereafter, the Secretary of State, in consultation with the Secretary of Defense, shall provide a report in a classified or unclassified form to the Committee on Appropriations including the following information: “(a) a best estimate on fuel used by the military forces of the Democratic People’s Republic of Korea (DPRK); “(b) the deployment position and military training and activities of the DPRK forces and best estimate of the associated costs of these activities; and “(c) steps taken to reduce the DPRK level of forces.”
+Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 585], Sept. 30, 1996, 110 Stat. 3009–121, 3009–171, as amended by Pub. L. 107–228, div. B, title XIII, § 1308(g)(1)(D), (2), Sept. 30, 2002, 116 Stat. 1441, which required the Secretary of State, in consultation with the Secretary of Defense, to provide semiannual reports relating to the military forces of the Democratic People’s Republic of Korea, was repealed by Pub. L. 113–76, div. K, title VII, § 7034(i), Jan. 17, 2014, 128 Stat. 514.
 
 #### Reports to War Crimes Tribunal for Former Yugoslavia
 Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 552], Nov. 29, 1999, 113 Stat. 1535, 1501A–99, provided in part: “That 60 days after the date of the enactment of this Act [Nov. 29, 1999], and every 180 days thereafter, the Secretary of State shall submit a report to the Committees on Appropriations describing the steps the United States Government is taking to collect information regarding allegations of genocide or other violations of international law in the former Yugoslavia and to furnish that information to the United Nations War Crimes Tribunal for the former Yugoslavia”.
@@ -839,7 +840,7 @@ In order to maximize the benefits and to minimize the adverse consequences of sc
 
 **(d) Availability to United States Trade Representative of information and recommendations**
 
-(1) The information and recommendations developed under subsection (b)(3) of this section shall be made available to the United States Trade Representative for use in his consultations with Federal agencies pursuant to Executive orders pertaining to the transfer of science and technology.
+(1) The information and recommendations developed under subsection (b)(3) shall be made available to the United States Trade Representative for use in his consultations with Federal agencies pursuant to Executive orders pertaining to the transfer of science and technology.
 
 (2) In providing such information and recommendations, the President shall utilize information developed by any Federal departments, agencies, or interagency committees as he may consider necessary.
 
@@ -882,7 +883,7 @@ Subsec. (d). Pub. L. 100–418, § 5171(c), added subsec. (d).
 
 (2) in the skills of long-range planning and analysis with respect to the scientific and technological aspects of United States foreign policy.
 
-**(d) Detached service for graduate studies** In obtaining assistance pursuant to subsection (c) of this section in training personnel who are officers or employees of the Department of State, the Secretary may provide for detached service for graduate study at accredited colleges and universities.
+**(d) Detached service for graduate studies** In obtaining assistance pursuant to subsection (c) in training personnel who are officers or employees of the Department of State, the Secretary may provide for detached service for graduate study at accredited colleges and universities.
 
 ### Statutory Notes
 
@@ -932,9 +933,9 @@ The Secretary of State shall promptly advise the Congress whenever the Departmen
 
 (4) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the prevention of an act of international terrorism against such citizens or interests, the information described in paragraph (3)(B).
 
-**(b) Provisions to be included in report** The report required under subsection (a) of this section should to the extent feasible include (but not be limited to)—
+**(b) Provisions to be included in report** The report required under subsection (a) should to the extent feasible include (but not be limited to)—
 
-(1) with respect to subsection (a)(1)(A) of this section—
+(1) with respect to subsection (a)(1)(A)—
 
   (A) a review of major counterterrorism efforts undertaken by countries which are the subject of such report, including, as appropriate, steps taken in international fora;
 
@@ -952,7 +953,7 @@ The Secretary of State shall promptly advise the Congress whenever the Departmen
 
     (v) the positions (including voting records) on matters relating to terrorism in the General Assembly of the United Nations and other international bodies and fora of each country which is the subject of such report;
 
-(2) with respect to subsection (a)(1)(B) of this section—
+(2) with respect to subsection (a)(1)(B)—
 
   (A) the extent of knowledge by the government of the country with respect to terrorist activities in the territory of the country; and
 
@@ -964,7 +965,7 @@ The Secretary of State shall promptly advise the Congress whenever the Departmen
 
     (iii) to prevent the proliferation of and trafficking in weapons of mass destruction in and through the territory of the country;
 
-(3) 22 So in original. Another par. (3) and par. (4) follow par. (5). with respect to subsection (a)(2) of this section, any—
+(3) 22 So in original. Another par. (3) and par. (4) follow par. (5). with respect to subsection (a)(2), any—
 
   (A) significant financial support provided by foreign governments to those groups directly, or provided in support of their activities;
 
@@ -996,9 +997,9 @@ The Secretary of State shall promptly advise the Congress whenever the Departmen
 
 **(c) Classification of report**
 
-(1) Except as provided in paragraph (2), the report required under subsection (a) of this section shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
+(1) Except as provided in paragraph (2), the report required under subsection (a) shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
 
-(2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) of this section in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
+(2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
 
 **(d) Definitions** As used in this section—
 
@@ -1028,9 +1029,9 @@ The Secretary of State shall promptly advise the Congress whenever the Departmen
 
 **(e) Reporting period**
 
-(1) The report required under subsection (a) of this section shall cover the events of the calendar year preceding the year in which the report is submitted.
+(1) The report required under subsection (a) shall cover the events of the calendar year preceding the year in which the report is submitted.
 
-(2) The report required by subsection (a) of this section to be submitted by March 31, 1988, may be submitted no later than August 31, 1988.
+(2) The report required by subsection (a) to be submitted by March 31, 1988, may be submitted no later than August 31, 1988.
 
 ### Statutory Notes
 
@@ -1114,7 +1115,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VIII, § 805], Nov. 29, 
 
 (3) estimating subsidy levels.
 
-**(b) Reports on loans** Beginning 180 days after the submission of the report in subsection (a) of this section and annually thereafter, the Secretary of State, in consultation with the Secretary of the Treasury, shall submit a report to the Chairman of the Foreign Relations Committee of the Senate and the Speaker of the House of Representatives showing actual repayments by country and by program to the United States Government for the previous 5 years and the scheduled repayments to the United States Government for the next 5 years.
+**(b) Reports on loans** Beginning 180 days after the submission of the report in subsection (a) and annually thereafter, the Secretary of State, in consultation with the Secretary of the Treasury, shall submit a report to the Chairman of the Foreign Relations Committee of the Senate and the Speaker of the House of Representatives showing actual repayments by country and by program to the United States Government for the previous 5 years and the scheduled repayments to the United States Government for the next 5 years.
 
 ### Statutory Notes
 
@@ -1219,9 +1220,9 @@ Section 161 of former Title 5, Executive Departments and Government Officers and
 
 
 <a id="section-2660"></a>
-## § 2660. Copies of treaties furnished to Public Printer
+## § 2660. Copies of treaties furnished to Director of the Government Publishing Office
 
-The Secretary of State shall furnish to the Public Printer a correct copy of every treaty between the United States and any foreign government as soon as possible after it has been duly ratified and has been proclaimed by the President; and also of every postal convention made between the United States Postal Service, by and with the advice and consent of the President, on the part of the United States and foreign countries, as soon as possible after copies of such conventions have been transmitted to him by the United States Postal Service.
+The Secretary of State shall furnish to the Director of the Government Publishing Office a correct copy of every treaty between the United States and any foreign government as soon as possible after it has been duly ratified and has been proclaimed by the President; and also of every postal convention made between the United States Postal Service, by and with the advice and consent of the President, on the part of the United States and foreign countries, as soon as possible after copies of such conventions have been transmitted to him by the United States Postal Service.
 
 ### Statutory Notes
 
@@ -1231,6 +1232,9 @@ R.S. § 210 derived from acts Mar. 9, 1868, ch. 22, § 1, 15 Stat. 40; June 8, 1
 Section was formerly classified to [section 165 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section165&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 Provisions of R.S. § 210, act June 20, 1874, and 1950 Reorg. Plan No. 20, cited as credits to this section, insofar as related to duty of Administrator of General Services to furnish to Public Printer a correct copy of every Act and joint resolution, as soon as possible after its approval by President, or after it has become a law in accordance with the Constitution without such approval, were classified to section 191a of former Title 44, Public Printing and Documents, prior to repeal and reenactment as [section 710 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section710&num=0&edition=prelim) by Pub. L. 90–620, which enacted Title 44. Section 2(a) of Pub. L. 90–620 provided that the legislative purpose in enacting Title 44 was to restate without substantive change the laws replaced by revised Title 44. Because revised [section 710 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section710&num=0&edition=prelim) did not restate those provisions of R.S. § 210 and act June 20, 1874, which appear in this section, this section is not considered as having been repealed by section 3 of Pub. L. 90–620.
+
+#### Change of Name
+“Director of the Government Publishing Office” substituted for “Public Printer” in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Transfer of Functions
 Reorg. Plan No. 20 of 1950, set out in the Appendix to Title 5, Government Organization and Employees, transferred various functions of Secretary of State to Administrator of General Services but excepted from transfer the functions of Secretary of State with respect to treaties and other international agreements under R.S. § 210, as amended (this section).
@@ -1278,7 +1282,8 @@ Information should not be disseminated about opportunities for, and there should
 
 (1) any United States person (as defined in [section 7701(a)(30) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7701/a/30&num=0&edition=prelim)) is prohibited from entering into such contract or arrangement, or
 
-(2) such contract or arrangement requires that any such person be excluded from participating in the implementation of such contract or arrangement, on account of the race, religion, national origin, or sex of such person in the case of an individual or, in the case of a partnership, corporation, association, or other entity, any officer, employee, agent, director, or owner thereof.
+(2) such contract or arrangement requires that any such person be excluded from participating in the implementation of such contract or arrangement,
+on account of the race, religion, national origin, or sex of such person in the case of an individual or, in the case of a partnership, corporation, association, or other entity, any officer, employee, agent, director, or owner thereof.
 
 ### Statutory Notes
 
@@ -1472,7 +1477,7 @@ The Secretary of State may use funds appropriated or otherwise available to the 
 
 **(b)** for the purpose of promoting and maintaining friendly relations with foreign countries through the prompt settlement of certain claims, settle and pay any meritorious claim against the United States which is presented by a government of a foreign country for damage to or loss of real or personal property of, or personal injury to or death of, any national of such foreign country: Provided, That such claim is not cognizable under any other statute or international agreement of the United States and can be settled for not more than $15,000 or the foreign currency equivalent thereof;
 
-**(c)** employ individuals or organizations, by contract, for services abroad, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) of this section and of any other law administered by the Secretary concerning the employment of such individuals abroad); and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making, and performance of contracts and performance of work in the United States;
+**(c)** employ individuals or organizations, by contract, for services abroad, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) and of any other law administered by the Secretary concerning the employment of such individuals abroad); and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making, and performance of contracts and performance of work in the United States;
 
 **(d)** provide for official functions and courtesies;
 
@@ -1494,7 +1499,7 @@ The Secretary of State may use funds appropriated or otherwise available to the 
 
 **(m)** pay obligations arising under international agreements, conventions, and binational contracts to the extent otherwise authorized by law;
 
-**(n)** exercise the authority provided in subsection (c) of this section, upon the request of the Secretary of Defense or the head of any other department or agency of the United States, to enter into personal service contracts with individuals to perform services in support of the Department of Defense or such other department or agency, as the case may be; and
+**(n)** exercise the authority provided in subsection (c), upon the request of the Secretary of Defense or the head of any other department or agency of the United States, to enter into personal service contracts with individuals to perform services in support of the Department of Defense or such other department or agency, as the case may be; and
 
 **(o)** make administrative corrections or adjustments to an employee’s pay, allowances, or differentials, resulting from mistakes or retroactive personnel actions, as well as provide back pay and other categories of payments under [section 5596 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5596&num=0&edition=prelim), as part of the settlement or compromise of administrative claims or grievances filed against the Department.
 
@@ -1535,7 +1540,7 @@ Pub. L. 102–20 added subsec. (l) relating to purchase of special purpose passe
 
 1985—Pub. L. 99–93, § 114, in provision preceding subsec. (a) substituted “may use funds appropriated or otherwise available to the Secretary to” for “, when funds are appropriated therefor, may”.
 
-Subsec. (c). Pub. L. 99–93, § 118(a), inserted “for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) of this section and of any other law administered by the Secretary concerning the employment of such individuals abroad)”.
+Subsec. (c). Pub. L. 99–93, § 118(a), inserted “for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) and of any other law administered by the Secretary concerning the employment of such individuals abroad)”.
 
 1984—Subsec. (c). Pub. L. 98–533, § 303(a)(1), substituted “individuals or organizations” for “aliens” after “employ”, and “, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government”.
 
@@ -1600,7 +1605,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(d) DTS planning report** Not later than January 15, 1995, the Secretary of State and the Director of the DTS–PO shall submit to the Committees on Appropriations a DTS planning report. The report shall include—
 
-(1) a detailed plan for carrying out the pilot program required by subsection (c) of this section, including an estimate of the funds required for such purpose; and
+(1) a detailed plan for carrying out the pilot program required by subsection (c), including an estimate of the funds required for such purpose; and
 
 (2) a comprehensive DTS strategy plan that contains detailed plans and schedules for—
 
@@ -1629,7 +1634,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 ## § 2669b. Reaffirming United States international telecommunications policy
 **(a) Procurement policy** It is the policy of the United States to foster and support procurement of goods and services from private, commercial companies.
 
-**(b) Implementation** In order to achieve the policy set forth in subsection (a) of this section, the Diplomatic Telecommunications Service Program Office (DTS–PO) shall—
+**(b) Implementation** In order to achieve the policy set forth in subsection (a), the Diplomatic Telecommunications Service Program Office (DTS–PO) shall—
 
 (1) utilize full and open competition, to the maximum extent practicable, in the procurement of telecommunications services, including satellite space segment, for the Department of State and each other Federal entity represented at United States diplomatic missions and consular posts overseas;
 
@@ -1704,19 +1709,19 @@ Pub. L. 95–426, title I, § 108(b), Oct. 7, 1978, 92 Stat. 966, provided that:
 ## § 2671. Emergency expenditures
 **(a) Delegation of authority pertaining to certification of expenditures** The Secretary of State is authorized to—
 
-(1) subject to subsection (b) of this section, make expenditures, from such amounts as may be specifically appropriated therefor, for unforeseen emergencies arising in the diplomatic and consular service and, to the extent authorized in appropriation Acts, funds expended for such purposes may be accounted for in accordance with [section 3526(e) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3526/e&num=0&edition=prelim); and
+(1) subject to subsection (b), make expenditures, from such amounts as may be specifically appropriated therefor, for unforeseen emergencies arising in the diplomatic and consular service and, to the extent authorized in appropriation Acts, funds expended for such purposes may be accounted for in accordance with [section 3526(e) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3526/e&num=0&edition=prelim); and
 
 (2) delegate to subordinate officials the authority vested in him by [section 3526(e) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3526/e&num=0&edition=prelim) pertaining to certification of expenditures.
 
 **(b) Activities subject to expenditures**
 
-(1) Expenditures described under subsection (a) of this section shall be made only for such activities as—
+(1) Expenditures described under subsection (a) shall be made only for such activities as—
 
   (A) serve to further the realization of foreign policy objectives;
 
   (B) are a matter of urgency to implement;
 
-  (C) with respect to activities the expenditures for which are required to be certified under subsection (a) of this section, require confidentiality in the best interests of the conduct of foreign policy by the United States; and
+  (C) with respect to activities the expenditures for which are required to be certified under subsection (a), require confidentiality in the best interests of the conduct of foreign policy by the United States; and
 
   (D) are not otherwise prohibited by law.
 
@@ -1970,7 +1975,7 @@ If it has been finally determined by a court or Federal agency that a person int
 ## § 2679c. Prohibition on discriminatory contracts
 **(a) Prohibition**
 
-(1) Except for real estate leases and as provided in subsection (b) of this section, the Department of State may not enter into any contract that expends funds appropriated to the Department of State for an amount in excess of the small purchase threshold (as defined in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim)— 11 So in original. Probably should be “41)—”.
+(1) Except for real estate leases and as provided in subsection (b), the Department of State may not enter into any contract that expends funds appropriated to the Department of State for an amount in excess of the small purchase threshold (as defined in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim)— 11 So in original. Probably should be “41)—”.
 
   (A) with a foreign person that complies with the Arab League boycott of Israel, or
 
@@ -1988,16 +1993,19 @@ If it has been finally determined by a court or Federal agency that a person int
 
 **(c) Responses to contract solicitations**
 
-(1) Except as provided in paragraph (2) of this subsection, the Secretary of State shall ensure that any response to a solicitation for a bid or a request for a proposal, with respect to a contract covered by subsection (a) of this section, includes the following clause, in substantially the following form:“arab league boycott of israel
+(1) Except as provided in paragraph (2) of this subsection, the Secretary of State shall ensure that any response to a solicitation for a bid or a request for a proposal, with respect to a contract covered by subsection (a), includes the following clause, in substantially the following form:“arab league boycott of israel
 
 **(a) Definitions.—** As used in this clause—
 
 (1) the term ‘foreign person’ means any person other than a United States person as defined in paragraph (2); and
 
 (2) the term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concern which is controlled in fact by such domestic concern, as determined under regulations of the President.
-“(b) Certification.—By submitting this offer, the Offeror certifies that it is not—
-“(1) taking or knowingly agreeing to take any action, with respect to the boycott of Israel by Arab League countries, which section 8(a) of the Export Administration Act of 1979 (50 U.S.C. App. 2407(a)) prohibits a United States person from taking; or
-“(2) discriminating in the award of subcontracts on the basis of religion.”
+
+**(b) Certification.—** By submitting this offer, the Offeror certifies that it is not—
+
+(1) taking or knowingly agreeing to take any action, with respect to the boycott of Israel by Arab League countries, which section 8(a) of the Export Administration Act of 1979 (50 U.S.C. App. 2407(a)) prohibits a United States person from taking; or
+
+(2) discriminating in the award of subcontracts on the basis of religion.”
 
 (2) An Offeror would not be required to include the certification required by paragraph (1), if the Offeror is deemed not to comply with the Arab League boycott of Israel by the Secretary of State or a designee on the basis of available information. Certification by the Secretary of State or a designee may occur only 30 days after notice has been given to the Congress that this certification procedure will be utilized at a specific overseas mission.
 
@@ -2056,6 +2064,9 @@ Section was formerly classified to [section 170t of Title 5](https://uscode.hous
 
 Pub. L. 92–226 substituted provisions constituting subsecs. (a) and (b) and prohibiting any State Department appropriation on and after July 1, 1972, without a prior congressional legislative authorization, and requiring the State Department and Federal agencies to furnish information to congressional committees for former provisions constituting the entire section and authorizing and making appropriations available for the State Department.
 
+#### Funding
+Pub. L. 113–76, div. K, title VII, § 7082(d)(1), (2), Jan. 17, 2014, 128 Stat. 567, provided that: “(1) Diplomatic and consular programs funds.—Amounts made available to the Department of State pursuant to the sixth proviso under the heading ‘Diplomatic and Consular Programs’ in title I of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2008 (division J of Public Law 110–161) are authorized to be used by the Department of State to pay benefits or payments made available pursuant to this Act [div. K of Pub. L. 113–76]. “(2) Availability.—To pay benefits or payments made available pursuant to this Act, the Secretary of State may merge with the amounts described in paragraph (1) unobligated balances of funds appropriated under the ‘Diplomatic and Consular Programs’ heading for fiscal year 2014 and subsequent fiscal years, up until the end of the fifth fiscal year after the fiscal year for which such funds were appropriated or otherwise made available.”
+
 #### Future Assistance Projections
 Pub. L. 101–513, title V, § 581, Nov. 5, 1990, 104 Stat. 2046, directed that the Congressional Presentation Documents of departments and agencies included within this Act should contain funding projections for each of its major program components for each of the three years following the year for which new budget or other authority was being requested and provided that the requirements of this section were effective for Congressional Presentation Documents submitted for fiscal year 1992.
 
@@ -2066,7 +2077,7 @@ Pub. L. 100–204, title I, § 124, Dec. 22, 1987, 101 Stat. 1341, as amended by
 Pub. L. 95–426, title I, § 122, Oct. 7, 1978, 92 Stat. 970, as amended by Pub. L. 97–241, title V, § 505(a)(2), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that: “The Congress finds that— “(1) international political, economic, and other studies prepared systematically by analysts of the Department of State as needed background information for executive branch policymakers could be similarly valuable to the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives and the Committee on Foreign Relations of the Senate in fulfilling their responsibilities; and “(2) a formal information-sharing arrangement between the Department of State and such congressional committees could therefore serve the national interest, provided that controls on dissemination are established which insure that neither the process of analysis nor necessary confidentiality is jeopardized.”
 
 #### Congressional Purpose Respecting Laws Relating to Department of State and United States Information Agency; Foreign Relations; and Authorization of Appropriations
-Pub. L. 92–226, title IV, § 407(a), Feb. 7, 1972, 86 Stat. 35, provided that: “It is the purpose of this section [amending sections 1476, 2680, and 2684 of this title] to enable the Congress generally, and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives in particular, to carry out the purposes and intent of the Legislative Reorganization Act of 1946 and 1970 [see Short Title notes set out under [section 72a of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section72a&num=0&edition=prelim), The Congress], with respect to— “(1) the analysis, appraisal, and evaluation of the application, administration, and execution of the laws relating to the Department of State and the United States Information Agency and of matters relating to the foreign relations of the United States; and “(2) providing periodic authorizations of appropriations for that Department and Agency.”
+Pub. L. 92–226, title IV, § 407(a), Feb. 7, 1972, 86 Stat. 35, provided that: “It is the purpose of this section [amending sections 1476, 2680, and 2684 of this title] to enable the Congress generally, and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives in particular, to carry out the purposes and intent of the Legislative Reorganization Act of 1946 and 1970 [see Short Title notes set out under [section 4301 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4301&num=0&edition=prelim), The Congress], with respect to— “(1) the analysis, appraisal, and evaluation of the application, administration, and execution of the laws relating to the Department of State and the United States Information Agency and of matters relating to the foreign relations of the United States; and “(2) providing periodic authorizations of appropriations for that Department and Agency.”
 
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.]
 
@@ -2084,9 +2095,9 @@ A prior section 2680a, acts Aug. 1, 1956, ch. 841, § 16, as added Oct. 26, 1974
 
 <a id="section-2680-1"></a>
 ## § 2680–1. Deadline for responses to questions from congressional committees
-**(a) In general** An officer or employee of the Department of State to whom a written or oral question is addressed by any member of a committee specified in subsection (b) of this section, acting within his official capacity, shall respond to such question within 21 days unless the Secretary of State submits a letter to such member explaining why a timely response cannot be made.
+**(a) In general** An officer or employee of the Department of State to whom a written or oral question is addressed by any member of a committee specified in subsection (b), acting within his official capacity, shall respond to such question within 21 days unless the Secretary of State submits a letter to such member explaining why a timely response cannot be made.
 
-**(b) Specified committees** The committees referred to in subsection (a) of this section are the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+**(b) Specified committees** The committees referred to in subsection (a) are the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
 
 <a id="section-2680-2"></a>
@@ -2184,11 +2195,11 @@ Functions vested by law (including reorganization plan) in Bureau of the Budget 
 ## § 2684a. Capital Investment Fund
 **(a) Establishment** There is established within the Department of State a Capital Investment Fund to provide for the procurement and enhancement of information technology and other related capital investments for the Department of State and to ensure the efficient management, coordination, operation, and utilization of such resources.
 
-**(b) Funding** Funds otherwise available for the purposes of subsection (a) of this section may be deposited in such Fund.
+**(b) Funding** Funds otherwise available for the purposes of subsection (a) may be deposited in such Fund.
 
 **(c) Availability** Amounts deposited into the Fund shall remain available until expended.
 
-**(d) Expenditures from Fund** Amounts deposited in the Fund shall be available for purposes of subsection (a) of this section.
+**(d) Expenditures from Fund** Amounts deposited in the Fund shall be available for purposes of subsection (a).
 
 **(e) Reprogramming procedures** Funds credited to the Capital Investment Fund shall not be available for obligation or expenditure except in compliance with the procedures applicable to reprogramming notifications under [section 2706 of this title](./chapter-038-department-of-state.md#section-2706).
 
@@ -2199,7 +2210,7 @@ Functions vested by law (including reorganization plan) in Bureau of the Budget 
 
 Subsec. (c). Pub. L. 105–277, § 2209(2), substituted “shall” for “are authorized to”.
 
-Subsec. (d). Pub. L. 105–277, § 2209(3), substituted “for purposes of subsection (a) of this section” for “for expenditure to procure capital equipment and information technology”.
+Subsec. (d). Pub. L. 105–277, § 2209(3), substituted “for purposes of subsection (a)” for “for expenditure to procure capital equipment and information technology”.
 
 Subsec. (e). Pub. L. 105–277, § 2209(4), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Funds credited to the Capital Investment Fund shall be treated as a reprogramming of funds under [section 2706 of this title](./chapter-038-department-of-state.md#section-2706) and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogrammings.”
 
@@ -2246,7 +2257,7 @@ It is the sense of the Congress that the Secretary of State should, and he is au
 
 (3) to formulate United States policy to assist in the resolution of international problems posed by the lack of fresh water supplies.
 
-**(b) Other responsibilities** The individual designated under subsection (a) of this section may carry out the functions of subsection (a) of this section in addition to other assigned responsibilities.
+**(b) Other responsibilities** The individual designated under subsection (a) may carry out the functions of subsection (a) in addition to other assigned responsibilities.
 
 ### Statutory Notes
 
@@ -2342,9 +2353,9 @@ Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 o
 
 **(b) Payment**
 
-(1) A Federal agency which obtains administrative services from the Department of State pursuant to an agreement authorized under subsection (a) of this section shall make full and prompt payment for such services through advance of funds or reimbursement.
+(1) A Federal agency which obtains administrative services from the Department of State pursuant to an agreement authorized under subsection (a) shall make full and prompt payment for such services through advance of funds or reimbursement.
 
-(2) The Secretary of State shall bill each Federal agency for amounts due for services provided pursuant to subsection (a) of this section. The Secretary shall notify a Federal agency which has not made full payment for services within 90 days after billing that services to the agency will be suspended or terminated if full payment is not made within 180 days after the date of notification. Except as provided under paragraph (3), the Secretary shall suspend or terminate services to a Federal agency which has not made full payment for services under this section 180 days after the date of notification. Any costs associated with a suspension or termination of services shall be the responsibility of, and shall be billed to, the Federal agency.
+(2) The Secretary of State shall bill each Federal agency for amounts due for services provided pursuant to subsection (a). The Secretary shall notify a Federal agency which has not made full payment for services within 90 days after billing that services to the agency will be suspended or terminated if full payment is not made within 180 days after the date of notification. Except as provided under paragraph (3), the Secretary shall suspend or terminate services to a Federal agency which has not made full payment for services under this section 180 days after the date of notification. Any costs associated with a suspension or termination of services shall be the responsibility of, and shall be billed to, the Federal agency.
 
 (3) The Secretary of State may waive the requirement for suspension or termination under paragraph (2) with respect to such services as the Secretary determines are necessary to ensure the protection of life and the safety of United States Government property. A waiver may be issued for a period not to exceed one year and may be renewed.
 
@@ -2370,7 +2381,7 @@ Pub. L. 95–426, title I, § 111(b), Oct. 7, 1978, 92 Stat. 967, provided that:
 ## § 2695a. Foreign language services
 **(a) Surcharge for certain foreign language services** Notwithstanding any other provision of law, the Secretary of State is authorized to require the payment of an appropriate fee, surcharge, or reimbursement for providing other Federal agencies with foreign language translation and interpretation services.
 
-**(b) Use of funds** Funds collected under the authority of subsection (a) of this section shall be deposited as an offsetting collection to any Department of State appropriation to recover the cost of providing translation or interpretation services in any foreign language. Such funds may remain available until expended.
+**(b) Use of funds** Funds collected under the authority of subsection (a) shall be deposited as an offsetting collection to any Department of State appropriation to recover the cost of providing translation or interpretation services in any foreign language. Such funds may remain available until expended.
 
 
 <a id="section-2695b"></a>
@@ -2457,13 +2468,13 @@ Pub. L. 96–60, title I, § 105(b), Aug. 15, 1979, 93 Stat. 396, provided that:
 ## § 2697. Acceptance of gifts on behalf of United States
 **(a) Unconditional and conditional gifts** The Secretary of State may accept on behalf of the United States gifts made unconditionally by will or otherwise for the benefit of the Department of State (including the Foreign Service) or for the carrying out of any of its functions. Conditional gifts may be so accepted at the discretion of the Secretary, and the principal of and income from any such conditional gift shall be held, invested, reinvested, and used in accordance with its conditions, except that no gift shall be accepted which is conditioned upon any expenditure which will not be met by the gift or the income from the gift unless such expenditure has been approved by Act of Congress.
 
-**(b) Disposition** Any unconditional gift of money accepted under subsection (a) of this section, the income from any gift property held under subsection (c) or (d) of this section (except income made available for expenditure under subsection (d)(2) of this section), the net proceeds from the liquidation of gift property under subsection (c) or (d) of this section, and the proceeds of insurance on any gift property which are not used for its restoration, shall be deposited in the Treasury of the United States. Such funds are hereby appropriated and shall be held in trust by the Secretary of the Treasury for the benefit of the Department of State (including the Foreign Service). The Secretary of the Treasury may invest and reinvest such funds in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. Such funds and the income from such investments shall be available for expenditure in the operation of the Department of State (including the Foreign Service) and the performance of its functions, subject to the same examination and audit as is provided for appropriations made for the Foreign Service by the Congress, but shall not be expended for representational purposes at United States missions except in accordance with the conditions that apply to appropriated funds.
+**(b) Disposition** Any unconditional gift of money accepted under subsection (a), the income from any gift property held under subsection (c) or (d) (except income made available for expenditure under subsection (d)(2)), the net proceeds from the liquidation of gift property under subsection (c) or (d), and the proceeds of insurance on any gift property which are not used for its restoration, shall be deposited in the Treasury of the United States. Such funds are hereby appropriated and shall be held in trust by the Secretary of the Treasury for the benefit of the Department of State (including the Foreign Service). The Secretary of the Treasury may invest and reinvest such funds in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. Such funds and the income from such investments shall be available for expenditure in the operation of the Department of State (including the Foreign Service) and the performance of its functions, subject to the same examination and audit as is provided for appropriations made for the Foreign Service by the Congress, but shall not be expended for representational purposes at United States missions except in accordance with the conditions that apply to appropriated funds.
 
-**(c) Evidences of unconditional gift of intangible personal property** The evidences of any unconditional gift of intangible personal property (other than money) accepted under subsection (a) of this section, shall be deposited with the Secretary of the Treasury who may hold or liquidate them, except that they shall be liquidated upon the request of the Secretary of State whenever necessary to meet payments required in the operation of the Department of State (including the Foreign Service) or the performance of its functions.
+**(c) Evidences of unconditional gift of intangible personal property** The evidences of any unconditional gift of intangible personal property (other than money) accepted under subsection (a), shall be deposited with the Secretary of the Treasury who may hold or liquidate them, except that they shall be liquidated upon the request of the Secretary of State whenever necessary to meet payments required in the operation of the Department of State (including the Foreign Service) or the performance of its functions.
 
 **(d) Use of real property or tangible personal property received unconditionally**
 
-(1) The Secretary of State shall hold any real property or any tangible personal property accepted unconditionally pursuant to subsection (a) of this section and shall either use such property for the operation of the Department of State (including the Foreign Service) and the performance of its functions or lease or hire such property, except that any such property not required for the operation of the Department of State (including the Foreign Service) or the performance of its functions may be liquidated by the Secretary of State whenever in the judgment of the Secretary of State the purposes of the gift will be served thereby. The Secretary of State may insure any property held under this subsection. Except as provided in paragraph (2), the Secretary shall deposit the income from any property held under this subsection with the Secretary of the Treasury as provided in subsection (b) of this section.
+(1) The Secretary of State shall hold any real property or any tangible personal property accepted unconditionally pursuant to subsection (a) and shall either use such property for the operation of the Department of State (including the Foreign Service) and the performance of its functions or lease or hire such property, except that any such property not required for the operation of the Department of State (including the Foreign Service) or the performance of its functions may be liquidated by the Secretary of State whenever in the judgment of the Secretary of State the purposes of the gift will be served thereby. The Secretary of State may insure any property held under this subsection. Except as provided in paragraph (2), the Secretary shall deposit the income from any property held under this subsection with the Secretary of the Treasury as provided in subsection (b).
 
 (2) The income from any real property or tangible personal property held under this subsection shall be available for expenditure at the discretion of the Secretary of State for the maintenance, preservation, or repair and insurance of such property and any proceeds from insurance may be used to restore the property insured.
 
@@ -2701,9 +2712,9 @@ Pub. L. 103–236, title I, § 132, Apr. 30, 1994, 108 Stat. 395, as amended by 
 
 (7) which involves a reprograming in excess of $1,000,000 or 10 per centum, whichever is less, and which (A) augments existing programs, projects, or activities, (B) reduces by 10 per centum or more the funding for any existing program, project, activity, or personnel approved by the Congress, or (C) results from any general savings from a reduction in personnel which would result in a change in existing programs, activities, or projects approved by the Congress.
 
-**(b) Final 15 days in which funds available** Funds appropriated for the Department of State may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.
+**(b) Final 15 days in which funds available** Funds appropriated for the Department of State may not be available for obligation or expenditure through any reprogramming described in subsection (a) during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.
 
-**(c) Waiver** The Secretary of State may waive the notification requirement of subsection (a) of this section, if the Secretary determines that failure to do so would pose a substantial risk to human health or welfare. In the case of any waiver under this subsection, notification to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives shall be provided as soon as practicable, but not later than 3 days after taking the action to which the notification requirement was applicable, and shall contain an explanation of the emergency circumstances.
+**(c) Waiver** The Secretary of State may waive the notification requirement of subsection (a), if the Secretary determines that failure to do so would pose a substantial risk to human health or welfare. In the case of any waiver under this subsection, notification to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives shall be provided as soon as practicable, but not later than 3 days after taking the action to which the notification requirement was applicable, and shall contain an explanation of the emergency circumstances.
 
 ### Statutory Notes
 
@@ -2797,7 +2808,7 @@ Pub. L. 100–204, title I, § 173(c), Dec. 22, 1987, 101 Stat. 1360, provided t
 
 (3) **Implementation** — The rewards program shall be administered by the Secretary of State, in consultation, as appropriate, with the Attorney General.
 
-**(b) Rewards authorized** In the sole discretion of the Secretary (except as provided in subsection (c)(2) of this section) and in consultation, as appropriate, with the heads of other relevant departments or agencies, the Secretary may pay a reward to any individual who furnishes information leading to—
+**(b) Rewards authorized** In the sole discretion of the Secretary (except as provided in subsection (c)(2)) and in consultation, as appropriate, with the heads of other relevant departments or agencies, the Secretary may pay a reward to any individual who furnishes information leading to—
 
 (1) the arrest or conviction in any country of any individual for the commission of an act of international terrorism against a United States person or United States property;
 
@@ -2870,7 +2881,7 @@ Pub. L. 100–204, title I, § 173(c), Dec. 22, 1987, 101 Stat. 1360, provided t
 
 (6) **Forms of reward payment** — The Secretary may make a reward under this section in the form of money, a nonmonetary item (including such items as automotive vehicles), or a combination thereof.
 
-**(f) Ineligibility** An officer or employee of any entity of Federal, State, or local government or of a foreign government who, while in the performance of his or her official duties, furnishes information described in subsection (b) of this section shall not be eligible for a reward under this section.
+**(f) Ineligibility** An officer or employee of any entity of Federal, State, or local government or of a foreign government who, while in the performance of his or her official duties, furnishes information described in subsection (b) shall not be eligible for a reward under this section.
 
 **(g) Reports**
 
@@ -2908,7 +2919,7 @@ Pub. L. 100–204, title I, § 173(c), Dec. 22, 1987, 101 Stat. 1360, provided t
 
   (C) any person not covered by subparagraph (A) or (B) who is living in the individual’s household and is related to the individual by blood or marriage.
 
-(4) **Rewards program** — The term “rewards program” means the program established in subsection (a)(1) of this section.
+(4) **Rewards program** — The term “rewards program” means the program established in subsection (a)(1).
 
 (5) **Transnational organized crime** — The term “transnational organized crime” means—
 
@@ -3086,13 +3097,13 @@ Pub. L. 99–399, title V, § 501, Aug. 27, 1986, 100 Stat. 869, provided that: 
 
 **(b) Agreements with Attorney General and Secretary of the Treasury and firearms regulations**
 
-(1) **Agreement with Attorney General** — The authority conferred by paragraphs (1) and (4) of subsection (a) of this section shall be exercised subject to an agreement between the Secretary and the Attorney General.
+(1) **Agreement with Attorney General** — The authority conferred by paragraphs (1) and (4) of subsection (a) shall be exercised subject to an agreement between the Secretary and the Attorney General.
 
-(2) **Agreement with Attorney General and Secretary of the Treasury** — The authority conferred by paragraphs (2) and (5) of subsection (a) of this section shall be exercised subject to an agreement among the Secretary, the Attorney General, and the Secretary of the Treasury.
+(2) **Agreement with Attorney General and Secretary of the Treasury** — The authority conferred by paragraphs (2) and (5) of subsection (a) shall be exercised subject to an agreement among the Secretary, the Attorney General, and the Secretary of the Treasury.
 
 (3) **Firearms regulations** — The Secretary of State shall prescribe regulations, which shall be approved by the Attorney General, with respect to the carrying and use of firearms by special agents under this section.
 
-**(c) Secret Service not affected** Nothing in subsection (a)(3) of this section shall be construed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 3056 or 3056A of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service. The Secretary of State, the Attorney General, and the Secretary of the Treasury shall enter into an interagency agreement with respect to their law enforcement functions.
+**(c) Secret Service not affected** Nothing in subsection (a)(3) shall be construed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 3056 or 3056A of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service. The Secretary of State, the Attorney General, and the Secretary of the Treasury shall enter into an interagency agreement with respect to their law enforcement functions.
 
 ### Statutory Notes
 
@@ -3166,7 +3177,7 @@ Pub. L. 107–228, div. A, title II, § 202(c), Sept. 30, 2002, 116 Stat. 1362, 
 
 (1) **In general** — To reimburse the expenses of the United States Government in preparing or prosecuting a proceeding before an international tribunal, or a claim against a foreign government or other foreign entity, the Secretary may retain 1.5 percent of any amount between $100,000 and $5,000,000, and one percent of any amount over $5,000,000, received per claim under [section 2668a of this title](./chapter-038-department-of-state.md#section-2668a).
 
-(2) **Treatment** — Amounts retained under the authority of paragraph (1) shall be deposited into the fund under subsection (d) of this section.
+(2) **Treatment** — Amounts retained under the authority of paragraph (1) shall be deposited into the fund under subsection (d).
 
 ### Statutory Notes
 
@@ -3202,18 +3213,18 @@ A prior section 39 of act Aug. 1, 1956, was renumbered section 40 by section 504
 
 <a id="section-2712"></a>
 ## § 2712. Authority to control certain terrorism-related services
-**(a) Authority** The Secretary of State may, by regulation, impose controls on the provision of the services described in subsection (b) of this section if the Secretary determines that provision of such services would aid and abet international terrorism.
+**(a) Authority** The Secretary of State may, by regulation, impose controls on the provision of the services described in subsection (b) if the Secretary determines that provision of such services would aid and abet international terrorism.
 
-**(b) Services subject to control** The services subject to control under subsection (a) of this section are the following:
+**(b) Services subject to control** The services subject to control under subsection (a) are the following:
 
 (1) Serving in or with the security forces of a designated foreign government.
 
 (2) Providing training or other technical services having a direct military, law enforcement, or intelligence application, to or for the security forces of a designated foreign government.
 Any regulations issued to impose controls on services described in paragraph (2) shall list the specific types of training and other services subject to the controls.
 
-**(c) Persons subject of controls** These services may be controlled under subsection (a) of this section when they are provided within the United States by any individual or entity and when they are provided anywhere in the world by a United States person.
+**(c) Persons subject of controls** These services may be controlled under subsection (a) when they are provided within the United States by any individual or entity and when they are provided anywhere in the world by a United States person.
 
-**(d) Licenses** In carrying out subsection (a) of this section, the Secretary of State may require licenses, which may be revoked, suspended, or amended, without prior notice, whenever such action is deemed to be advisable.
+**(d) Licenses** In carrying out subsection (a), the Secretary of State may require licenses, which may be revoked, suspended, or amended, without prior notice, whenever such action is deemed to be advisable.
 
 **(e) Definitions**
 
@@ -3283,23 +3294,23 @@ Pub. L. 106–218, June 20, 2000, 114 Stat. 345, provided that: “SECTION 1. DE
 ## § 2714. Denial of passports to certain convicted drug traffickers
 **(a) Ineligibility for passport**
 
-(1) **In general** — A passport may not be issued to an individual who is convicted of an offense described in subsection (b) of this section during the period described in subsection (c) of this section if the individual used a passport or otherwise crossed an international border in committing the offense.
+(1) **In general** — A passport may not be issued to an individual who is convicted of an offense described in subsection (b) during the period described in subsection (c) if the individual used a passport or otherwise crossed an international border in committing the offense.
 
 (2) **Passport revocation** — The Secretary of State shall revoke a passport previously issued to an individual who is ineligible to receive a passport under paragraph (1).
 
 **(b) Drug law offenses**
 
-(1) **Felonies** — Subsection (a) of this section applies with respect to any individual convicted of a Federal drug offense, or a State drug offense, if the offense is a felony.
+(1) **Felonies** — Subsection (a) applies with respect to any individual convicted of a Federal drug offense, or a State drug offense, if the offense is a felony.
 
-(2) **Certain misdemeanors** — Subsection (a) of this section also applies with respect to an individual convicted of a Federal drug offense, or a State drug offense, if the offense is 11 So in original. Probably should be followed by “a”. misdemeanor, but only if the Secretary of State determines that subsection (a) of this section should apply with respect to that individual on account of that offense. This paragraph does not apply to an individual’s first conviction for a misdemeanor which involves only possession of a controlled substance.
+(2) **Certain misdemeanors** — Subsection (a) also applies with respect to an individual convicted of a Federal drug offense, or a State drug offense, if the offense is 11 So in original. Probably should be followed by “a”. misdemeanor, but only if the Secretary of State determines that subsection (a) should apply with respect to that individual on account of that offense. This paragraph does not apply to an individual’s first conviction for a misdemeanor which involves only possession of a controlled substance.
 
-**(c) Period of ineligibility** Subsection (a) of this section applies during the period that the individual—
+**(c) Period of ineligibility** Subsection (a) applies during the period that the individual—
 
-(1) is imprisoned, or is legally required to be imprisoned, as the result of the conviction for the offense described in subsection (b) of this section; or
+(1) is imprisoned, or is legally required to be imprisoned, as the result of the conviction for the offense described in subsection (b); or
 
 (2) is on parole or other supervised release after having been imprisoned as the result of that conviction.
 
-**(d) Emergency and humanitarian exceptions** Notwithstanding subsection (a) of this section, the Secretary of State may issue a passport, in emergency circumstances or for humanitarian reasons, to an individual with respect to whom that subsection applies.
+**(d) Emergency and humanitarian exceptions** Notwithstanding subsection (a), the Secretary of State may issue a passport, in emergency circumstances or for humanitarian reasons, to an individual with respect to whom that subsection applies.
 
 **(e) Definitions** As used in this section—
 
@@ -3364,13 +3375,13 @@ Pub. L. 101–246, title I, § 115(d), Feb. 16, 1990, 104 Stat. 23, provided tha
 
 (1) identify promptly information (including classified information) in the possession of the departments and agencies of the United States Government regarding the killing, abduction, torture, or other serious mistreatment of United States citizens abroad; and
 
-(2) subject to subsection (c) of this section, promptly make such information available to—
+(2) subject to subsection (c), promptly make such information available to—
 
   (A) the victims of such crimes; or
 
   (B) when appropriate, the family members of the victims of such crimes if such family members are United States citizens.
 
-**(c) Limitations** The Secretary shall work with the heads of appropriate departments and agencies of the United States Government in order to ensure that information relevant to a crime covered by subsection (b) of this section is promptly reviewed and, to the maximum extent practicable, without jeopardizing sensitive sources and methods or other vital national security interests, or without jeopardizing an on-going criminal investigation or proceeding, made available under that subsection unless such disclosure is specifically prohibited by law.
+**(c) Limitations** The Secretary shall work with the heads of appropriate departments and agencies of the United States Government in order to ensure that information relevant to a crime covered by subsection (b) is promptly reviewed and, to the maximum extent practicable, without jeopardizing sensitive sources and methods or other vital national security interests, or without jeopardizing an on-going criminal investigation or proceeding, made available under that subsection unless such disclosure is specifically prohibited by law.
 
 
 <a id="section-2715b"></a>
@@ -3432,15 +3443,15 @@ Pub. L. 95–426, title I, § 121, Oct. 7, 1978, 92 Stat. 970, as amended by Pub
 
 (1) **Personal estates**
 
-  (A) *In general* — After receipt of a personal estate pursuant to subsection (a) of this section, the Secretary may seek payment of all outstanding debts to the estate as they become due, may receive any balances due on such estate, may endorse all checks, bills of exchange, promissory notes, and other instruments of indebtedness payable to the estate for the benefit thereof, and may take such other action as is reasonably necessary for the conservation of the estate.
+  (A) *In general* — After receipt of a personal estate pursuant to subsection (a), the Secretary may seek payment of all outstanding debts to the estate as they become due, may receive any balances due on such estate, may endorse all checks, bills of exchange, promissory notes, and other instruments of indebtedness payable to the estate for the benefit thereof, and may take such other action as is reasonably necessary for the conservation of the estate.
 
-  (B) *Disposition as surplus United States property* — If, upon the expiration of a period of 5 fiscal years beginning on October 1 after a consular officer takes possession of a personal estate under subsection (a) of this section, no legal claimant for such estate has appeared, title to the estate shall be conveyed to the United States, the property in the estate shall be under the custody of the Department of State, and the Secretary shall dispose of the estate in the same manner as surplus United States Government-owned property is disposed or by such means as may be appropriate in light of the nature and value of the property involved. The expenses of sales shall be paid from the estate, and any lawful claim received thereafter shall be payable to the extent of the value of the net proceeds of the estate as a refund from the appropriate Treasury appropriations account.
+  (B) *Disposition as surplus United States property* — If, upon the expiration of a period of 5 fiscal years beginning on October 1 after a consular officer takes possession of a personal estate under subsection (a), no legal claimant for such estate has appeared, title to the estate shall be conveyed to the United States, the property in the estate shall be under the custody of the Department of State, and the Secretary shall dispose of the estate in the same manner as surplus United States Government-owned property is disposed or by such means as may be appropriate in light of the nature and value of the property involved. The expenses of sales shall be paid from the estate, and any lawful claim received thereafter shall be payable to the extent of the value of the net proceeds of the estate as a refund from the appropriate Treasury appropriations account.
 
   (C) *Transfer of proceeds* — The net cash estate after disposition as provided in subparagraph (B) shall be transferred to the miscellaneous receipts account of the Treasury of the United States.
 
 (2) **Real property**
 
-  (A) *Designation as excess property* — In the event that title to real property is conveyed to the Government of the United States pursuant to subsection (a)(1)(H) of this section and is not required by the Department of State, such property shall be considered foreign excess property under title IV of the Federal Property and Administrative Services Act of 1949.11 See References in Text note below.
+  (A) *Designation as excess property* — In the event that title to real property is conveyed to the Government of the United States pursuant to subsection (a)(1)(H) and is not required by the Department of State, such property shall be considered foreign excess property under title IV of the Federal Property and Administrative Services Act of 1949.11 See References in Text note below.
 
   (B) *Treatment as gift* — In the event that the Department requires such property, the Secretary of State shall treat such property as if it were an unconditional gift accepted on behalf of the Department of State under [section 2697 of this title](./chapter-038-department-of-state.md#section-2697) and [section 300(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section300/a/3&num=0&edition=prelim).
 
@@ -3458,7 +3469,7 @@ Pub. L. 95–426, title I, § 121, Oct. 7, 1978, 92 Stat. 970, as amended by Pub
 
   (B) *Liability to the Department* — An officer or employee of the Department of State may be liable to the Department of State to the extent of any compensation provided under paragraph (1).
 
-  (C) *Determinations of liability* — The liability of any officer or employee of the Department of State to the Department for any payment made under subsection (a) of this section shall be determined pursuant to the Department’s procedures for determining accountability for United States Government property.
+  (C) *Determinations of liability* — The liability of any officer or employee of the Department of State to the Department for any payment made under subsection (a) shall be determined pursuant to the Department’s procedures for determining accountability for United States Government property.
 
 **(d) Regulations** The Secretary of State may prescribe such regulations as may be necessary to carry out this section.
 
@@ -3550,7 +3561,7 @@ A prior section 47 of act Aug. 1, 1956, was renumbered section 48 by section 150
 
 <a id="section-2720"></a>
 ## § 2720. Closing of consular and diplomatic posts abroad
-**(a) Prohibited uses of funds** Except as provided under subsection (d) of this section or in accordance with the procedures under subsections (b) and (c) of this section—
+**(a) Prohibited uses of funds** Except as provided under subsection (d) or in accordance with the procedures under subsections (b) and (c) of this section—
 
 (1) no funds authorized to be appropriated to the Department of State shall be available to pay any expense related to the closing of any United States consular or diplomatic post abroad; and
 
@@ -3589,7 +3600,7 @@ A passport may not be denied issuance, revoked, restricted, or otherwise limited
 ## § 2722. International meetings
 **(a) Authority to pay expenses** If the United States Government hosts an international meeting or conference in the United States, the Secretary of State is authorized to pay all reasonable expenses of such meeting or conference. Such expenses may include rental of quarters (by contract or otherwise) and personal services.
 
-**(b) Retention of reimbursements** To the extent provided in an appropriation Act, transfers of funds or other reimbursements for payments under subsection (a) of this section are authorized to be retained and credited to the appropriate appropriation account of the Department of State which is available.
+**(b) Retention of reimbursements** To the extent provided in an appropriation Act, transfers of funds or other reimbursements for payments under subsection (a) are authorized to be retained and credited to the appropriate appropriation account of the Department of State which is available.
 
 
 <a id="section-2723"></a>
@@ -3618,7 +3629,7 @@ A passport may not be denied issuance, revoked, restricted, or otherwise limited
 
 (2) The authority of this section may be exercised only in countries where the Department of Commerce does not perform commercial services for which it collects fees.
 
-**(b) Use of fees** Funds collected under the authority of subsection (a) of this section shall be deposited as an offsetting collection to any Department of State appropriation to recover the costs of providing commercial services. Funds deposited under this subsection shall remain available for obligation through September 30 of the fiscal year following the fiscal year in which the funds were deposited.
+**(b) Use of fees** Funds collected under the authority of subsection (a) shall be deposited as an offsetting collection to any Department of State appropriation to recover the costs of providing commercial services. Funds deposited under this subsection shall remain available for obligation through September 30 of the fiscal year following the fiscal year in which the funds were deposited.
 
 ### Statutory Notes
 
@@ -3670,7 +3681,7 @@ The Secretary shall include in the annual Congressional Presentation Document an
 
   (E) Each case involving a United States citizen under subparagraph (D) in which the United States has been requested by the government of a receiving state to waive the immunity from criminal jurisdiction of the United States citizen.
 
-  (F) Whether the Secretary has made the notifications referred to in subsection (c) of this section during the period covered by the report.
+  (F) Whether the Secretary has made the notifications referred to in subsection (c) during the period covered by the report.
 
 (3) **Serious criminal offense defined** — For the purposes of this section, the term “serious criminal offense” means—
 
@@ -3709,9 +3720,9 @@ The Secretary shall include in the annual Congressional Presentation Document an
 
 (4) Such other information as the Secretary shall prescribe.
 
-**(b) Database** The Secretary shall establish and maintain a database containing the information collected under subsection (a) of this section.
+**(b) Database** The Secretary shall establish and maintain a database containing the information collected under subsection (a).
 
-**(c) Public availability of information** Beginning three months after September 30, 2002, the Secretary, shall make available, on a country-by-country basis, on the Internet website of the Department’s Bureau of Consular Affairs, the information from the database described in subsection (b) of this section with respect to deaths occurring since September 30, 2002, or occurring during the preceding three calendar years, whichever period is shorter. The information shall be updated at least every six months.
+**(c) Public availability of information** Beginning three months after September 30, 2002, the Secretary, shall make available, on a country-by-country basis, on the Internet website of the Department’s Bureau of Consular Affairs, the information from the database described in subsection (b) with respect to deaths occurring since September 30, 2002, or occurring during the preceding three calendar years, whichever period is shorter. The information shall be updated at least every six months.
 
 
 <a id="section-2730"></a>
@@ -3783,7 +3794,7 @@ Pub. L. 108–332, § 2, Oct. 16, 2004, 118 Stat. 1282, provided that: “Congre
 
   (B) develop and articulate long-term measurable objectives for United States public diplomacy.
 
-**(c) Objectives** The strategy developed pursuant to subsection (b) of this section shall include public diplomacy efforts targeting developed and developing countries and select and general audiences, using appropriate media to properly explain the foreign policy of the United States to the governments and populations of such countries, with the objectives of increasing support for United States policies and providing news and information. The Secretary shall, through the most effective mechanisms, counter misinformation and propaganda concerning the United States. The Secretary shall continue to articulate the importance of freedom, democracy, and human rights as fundamental principles underlying United States foreign policy goals.
+**(c) Objectives** The strategy developed pursuant to subsection (b) shall include public diplomacy efforts targeting developed and developing countries and select and general audiences, using appropriate media to properly explain the foreign policy of the United States to the governments and populations of such countries, with the objectives of increasing support for United States policies and providing news and information. The Secretary shall, through the most effective mechanisms, counter misinformation and propaganda concerning the United States. The Secretary shall continue to articulate the importance of freedom, democracy, and human rights as fundamental principles underlying United States foreign policy goals.
 
 **(d) Identification of United States foreign assistance** In cooperation with the United States Agency for International Development (USAID) and other public and private assistance organizations and agencies, the Secretary should ensure that information relating to foreign assistance provided by the United States, nongovernmental organizations, and private entities of the United States is disseminated widely, and particularly, to the extent practicable, within countries and regions that receive such assistance. The Secretary should ensure that, to the extent practicable, projects funded by USAID not involving commodities, including projects implemented by private voluntary organizations, are identified as provided by the people of the United States.
 
@@ -3811,7 +3822,13 @@ Pub. L. 109–234, title I, § 1602(b)(1), June 15, 2006, 120 Stat. 441, which d
 Subsec. (a)(2). Pub. L. 111–32 substituted “2010” for “2008”.
 
 #### Extension of Authority
-Pub. L. 112–74, div. I, title VII, § 7034(m)(5), Dec. 23, 2011, 125 Stat. 1216, provided that: “Section 61(a) of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2733(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2733/a&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2012’ for ‘October 1, 2010’ in paragraph (2).”
+Pub. L. 113–235, div. J, title VII, § 7034(l)(5), Dec. 16, 2014, 128 Stat. 2625, provided that: “Section 61(a) of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2733(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2733/a&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2015’ for ‘October 1, 2010’ in paragraph (2).”
+
+Prior extensions were contained in the following prior acts:
+
+Pub. L. 113–76, div. K, title VII, § 7034(m)(5), Jan. 17, 2014, 128 Stat. 515.
+
+Pub. L. 112–74, div. I, title VII, § 7034(m)(5), Dec. 23, 2011, 125 Stat. 1216.
 
 
 <a id="section-2734"></a>

@@ -47,7 +47,7 @@ The Coordinator for Counterterrorism shall be responsible for the coordination o
 ## § 5503. Department of State notification of families of victims
 **(a) Department of State policy** It is the policy of the Department of State pursuant to [section 2715 of this title](./chapter-038-department-of-state.md#section-2715) to directly and promptly notify the families of victims of aviation disasters abroad concerning citizens of the United States directly affected by such a disaster, including timely written notice. The Secretary of State shall ensure that such notification by the Department of State is carried out notwithstanding notification by any other person.
 
-**(b) Department of State guidelines** Not later than 60 days after November 16, 1990, the Secretary of State shall issue such regulations, guidelines, and circulars as are necessary to ensure that the policy under subsection (a) of this section is fully implemented.
+**(b) Department of State guidelines** Not later than 60 days after November 16, 1990, the Secretary of State shall issue such regulations, guidelines, and circulars as are necessary to ensure that the policy under subsection (a) is fully implemented.
 
 
 <a id="section-5504"></a>
@@ -63,9 +63,9 @@ The Coordinator for Counterterrorism shall be responsible for the coordination o
 
 **(b) Training improvements**
 
-(1) In expanding the training program under subsection (a) of this section, the Secretary of State shall consult with death and bereavement counselors concerning the particular demands posed by aviation tragedies and terrorist activities.
+(1) In expanding the training program under subsection (a), the Secretary of State shall consult with death and bereavement counselors concerning the particular demands posed by aviation tragedies and terrorist activities.
 
-(2) In providing such additional training under subsection (a) of this section the Secretary of State shall consider supplementing the current training program through—
+(2) In providing such additional training under subsection (a) the Secretary of State shall consider supplementing the current training program through—
 
   (A) providing specialized training to create a team of “disaster specialists” to deploy immediately in a crisis; or
 
@@ -76,7 +76,7 @@ The Coordinator for Counterterrorism shall be responsible for the coordination o
 ## § 5506. Department of State responsibilities and procedures at international disaster site
 **(a) Dispatch of senior State Department official to site** Not later than 60 days after November 16, 1990, the Secretary of State shall issue such rules and guidelines as are necessary to provide that in the event of an international disaster, particularly an aviation tragedy, directly involving significant numbers of United States citizens abroad not less than one senior officer from the Bureau of Consular Affairs of the Department of State shall be dispatched to the site of such disaster.
 
-**(b) Criteria for Department of State staffing at disaster site** Not later than 60 days after November 16, 1990, the Secretary of State shall promulgate criteria for Department of State staffing of disaster sites abroad. Such criteria shall define responsibility for staffing decisions and shall consider the deployment of crisis teams under subsection (d) of this section. The Secretary of State shall promptly issue such rules and guidelines as are necessary to implement criteria developed pursuant to this subsection.
+**(b) Criteria for Department of State staffing at disaster site** Not later than 60 days after November 16, 1990, the Secretary of State shall promulgate criteria for Department of State staffing of disaster sites abroad. Such criteria shall define responsibility for staffing decisions and shall consider the deployment of crisis teams under subsection (d). The Secretary of State shall promptly issue such rules and guidelines as are necessary to implement criteria developed pursuant to this subsection.
 
 **(c) State Department ombudsman** Not later than 60 days after November 16, 1990, the Secretary of State shall issue such rules and guidelines as are necessary to provide that in the event of an international aviation disaster involving significant numbers of United States citizens abroad not less than one officer or employee of the Department of State shall be dispatched to the disaster site to provide on-site assistance to families who may visit the site and to act as an ombudsman in matters involving the foreign local government authorities and social service agencies.
 
@@ -98,7 +98,7 @@ It is the policy of the Department of State (pursuant to [section 2715 of this t
 ## § 5508. Assessment of Lockerbie experience
 **(a) Assessment** The Secretary of State shall compile an assessment of the Department of State response to the Pan American Airways Flight 103 aviation disaster over Lockerbie, Scotland, on December 21, 1988.
 
-**(b) Guidelines** The Secretary of State shall establish, based on the assessment compiled under subsection (a) of this section and other relevant factors, guidelines for future Department of State responses to comparable disasters and shall distribute such guidelines to all United States diplomatic and consular posts abroad.
+**(b) Guidelines** The Secretary of State shall establish, based on the assessment compiled under subsection (a) and other relevant factors, guidelines for future Department of State responses to comparable disasters and shall distribute such guidelines to all United States diplomatic and consular posts abroad.
 
 
 <a id="section-5509"></a>

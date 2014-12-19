@@ -216,7 +216,7 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 <a id="section-442"></a>
 ## § 442. Printing contracts
 
-Neither the Public Printer, superintendent of printing, superintendent of binding, nor any of their assistants shall, during their continuance in office, have any interest, direct or indirect, in the publication of any newspaper or periodical, or in any printing, binding, engraving, or lithographing of any kind, or in any contract for furnishing paper or other material connected with the public printing, binding, lithographing, or engraving.
+Neither the Director of the Government Publishing Office, superintendent of printing, superintendent of binding, nor any of their assistants shall, during their continuance in office, have any interest, direct or indirect, in the publication of any newspaper or periodical, or in any printing, binding, engraving, or lithographing of any kind, or in any contract for furnishing paper or other material connected with the public printing, binding, lithographing, or engraving.
 
 ### Statutory Notes
 
@@ -236,6 +236,9 @@ The offense described in this section involves no moral turpitude, and therefore
 #### Amendments
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in second par.
 
+#### Change of Name
+“Director of the Government Publishing Office” substituted for “Public Printer” in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
 
 <a id="section-443"></a>
 ## § 443. War contracts
@@ -244,7 +247,10 @@ Whoever willfully secretes, mutilates, obliterates, or destroys—
 
 **(a)** any records of a war contractor relating to the negotiation, award, performance, payment, interim financing, cancellation or other termination, or settlement of a war contract of $25,000 or more; or
 
-**(b)** any records of a war contractor or purchaser relating to any disposition of termination inventory in which the consideration received by any war contractor or any government agency is $5,000 or more, before the lapse of (1) five years after such disposition of termination inventory by such war contractor or government agency, or (2) five years after the final settlement of such war contract, whichever applicable period is longer, shall be fined under this title or imprisoned not more than five years, or both. The Administrator of General Services, by regulation, may authorize the destruction of such records upon such terms and conditions as he deems appropriate, including the requirement for the making and retaining of photographs or microphotographs, which shall have the same force and effect as the originals thereof. The definitions of terms in section 103 11 See References in Text note below. of Title 41 shall apply to similar terms used in this section.
+**(b)** any records of a war contractor or purchaser relating to any disposition of termination inventory in which the consideration received by any war contractor or any government agency is $5,000 or more,
+before the lapse of (1) five years after such disposition of termination inventory by such war contractor or government agency, or (2) five years after the final settlement of such war contract, whichever applicable period is longer, shall be fined under this title or imprisoned not more than five years, or both.
+The Administrator of General Services, by regulation, may authorize the destruction of such records upon such terms and conditions as he deems appropriate, including the requirement for the making and retaining of photographs or microphotographs, which shall have the same force and effect as the originals thereof.
+The definitions of terms in section 103 11 See References in Text note below. of Title 41 shall apply to similar terms used in this section.
 
 ### Statutory Notes
 

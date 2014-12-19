@@ -578,7 +578,7 @@ The Secretary of Agriculture, in carrying out regulations prohibiting or restric
 
 (4) **Late payment penalties** — If a person subject to a fee under this subsection fails to pay the fee when due, the Secretary shall assess a late payment penalty, and the overdue fees shall accrue interest, as required by [section 3717 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3717&num=0&edition=prelim).
 
-(5) **Agricultural quarantine inspection user fee account**
+(5) **Agricultural Quarantine Inspection User Fee Account**
 
   (A) *Establishment* — There is established in the Treasury of the United States a fund, to be known as the “Agricultural Quarantine Inspection User Fee Account”, which shall contain all of the fees collected under this subsection and late payment penalties and interest charges collected under paragraph (4) through fiscal year 2002.
 

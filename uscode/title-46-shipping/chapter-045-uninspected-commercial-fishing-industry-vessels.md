@@ -157,7 +157,7 @@ Pub. L. 100–424, § 7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until 
 
 (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2010 through 2014 for grants under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2015 through 2017 for grants under this subsection.
 
 **(j)**
 
@@ -167,11 +167,15 @@ Pub. L. 100–424, § 7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until 
 
 (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for each fiscal years 2010 through 2014 for activities under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for each fiscal years 2015 through 2017 for activities under this subsection.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (i)(4). Pub. L. 113–281, § 309(a), substituted “2015 through 2017” for “2010 through 2014”.
+
+Subsec. (j)(4). Pub. L. 113–281, § 309(b), substituted “2015 through 2017” for “2010 through 2014”.
+
 2012—Subsec. (f)(2). Pub. L. 112–213, § 305(a)(2)(A), substituted “at least once every 5 years” for “at least once every 2 years”.
 
 Subsec. (f)(3). Pub. L. 112–213, § 305(a)(1), (2)(B), (3), added par. (3).

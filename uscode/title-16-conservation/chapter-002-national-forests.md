@@ -2,7 +2,7 @@
 title: 16
 chapter: '2'
 heading: NATIONAL FORESTS
-section_count: 213
+section_count: 217
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -211,7 +211,7 @@ The Secretary of Agriculture is hereby authorized to cooperate with and receive 
 
   (A) During the development of the management plan, the Secretary is authorized to make grants to the State of New Jersey for the acquisition of lands and waters or interests therein within the Pinelands National Reserve that he determines, in consultation with the State planning entity, have critical ecological values which are in immediate danger of being adversely affected or destroyed.
 
-  (B) The grants authorized by subsection (h)(1)(A) of this section together with the grants made under paragraph (4) of this subsection, shall (i) be made in a manner consistent with the requirements of the Land and Water Conservation Fund Act [[16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 et seq.]; (ii) not exceed 75 percent of the total cost of all property acquired by the State pursuant to this subsection; (iii) be supplemental to any other Federal financial assistance for any other program; and (iv) be subject to such additional terms and conditions as the Secretary may deem necessary to effectuate the purposes of this section.
+  (B) The grants authorized by subsection (h)(1)(A) of this section together with the grants made under paragraph (4) of this subsection, shall (i) be made in a manner consistent with the requirements of chapter 2003 of title 54; (ii) not exceed 75 percent of the total cost of all property acquired by the State pursuant to this subsection; (iii) be supplemental to any other Federal financial assistance for any other program; and (iv) be subject to such additional terms and conditions as the Secretary may deem necessary to effectuate the purposes of this section.
 
 (2) In the event the State elects not to make acquisitions as authorized under subsection (h)(1) of this section, the Secretary, during the development of the management plan, is authorized to acquire such lands, waters or interests therein by donation, purchase with donated or appropriated funds, exchange, or otherwise, and to administer such property under the laws generally applicable to units of the National Park System or National Wildlife Refuge System in a manner to carry out the purposes of this section.
 
@@ -263,13 +263,13 @@ The Clean Water Act, referred to in subsec. (f)(9), is act June 30, 1948, ch. 75
 
 The Safe Drinking Water Act, referred to in subsec. (f)(9), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
-The Land and Water Conservation Fund Act, referred to in subsec. (h)(1)(B), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
-
-The Outer Continental Shelf Lands Act, as amended, referred to in subsec. (k)(1), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, as amended, referred to in subsec. (k)(1), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 Enactment of this Act, referred to in subsec. (k)(2), probably means date of enactment of Pub. L. 100–486, which enacted subsec. (k)(2) of this section and which was approved Oct. 13, 1988.
 
 #### Amendments
+2014—Subsec. (h)(1)(B). Pub. L. 113–287, which directed substitution of “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act” in section 502 of the National Parks and Recreation Act of 1998, was executed to this section, which is section 502 of the National Parks and Recreation Act of 1978, to reflect the probable intent of Congress.
+
 1988—Subsec. (k). Pub. L. 100–486, § 2, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (l). Pub. L. 100–486, § 1, added subsec. (l).
@@ -422,7 +422,17 @@ Words “subject to the provisions for national forests established under subdiv
 
 **(f) Research and demonstration projects** The Secretary of Agriculture, under such rules and regulations as he may prescribe, is authorized to dispose of, by sale or otherwise, trees, portions of trees, or other forest products related to research and demonstration projects.
 
-**(g) Designation, marking, and supervision of harvesting; personnel** Designation, marking when necessary, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture. Such persons shall have no personal interest in the purchase or harvest of such products and shall not be directly or indirectly in the employment of the purchaser thereof.
+**(g) Designation and supervision of harvesting**
+
+(1) **In general** — Designation, including marking when necessary, designation by description, or designation by prescription, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture.
+
+(2) **Requirement** — Persons employed by the Secretary of Agriculture under paragraph (1)—
+
+  (A) shall have no personal interest in the purchase or harvest of the products; and
+
+  (B) shall not be directly or indirectly in the employment of the purchaser of the products.
+
+(3) **Methods for designation** — Designation by prescription and designation by description shall be considered valid methods for designation, and may be supervised by use of post-harvest cruise, sample weight scaling, or other methods determined by the Secretary of Agriculture to be appropriate.
 
 **(h) Utilization standards, methods of measurement, and harvesting practices; monetary deposits by purchasers of salvage harvests; nature, purposes and availability of designated fund; return of surplus to Treasury** The Secretary of Agriculture shall develop utilization standards, methods of measurement, and harvesting practices for the removal of trees, portions of trees, or forest products to provide for the optimum practical use of the wood material. Such standards, methods, and practices shall reflect consideration of opportunities to promote more effective wood utilization, regional conditions, and species characteristics and shall be compatible with multiple use resource management objectives in the affected area. To accomplish the purpose of this subsection in situations involving salvage of insect-infested, dead, damaged, or down timber, and to remove associated trees for stand improvement, the Secretary is authorized to require the purchasers of such timber to make monetary deposits, as a part of the payment for the timber, to be deposited in a designated fund from which sums are to be used, to cover the cost to the United States for design, engineering, and supervision of the construction of needed roads and the cost for Forest Service sale preparation and supervision of the harvesting of such timber. Deposits of money pursuant to this subsection are to be available until expended to cover the cost to the United States of accomplishing the purposes for which deposited: Provided, That such deposits shall not be considered as moneys received from the national forests within the meaning of sections 500 and 501 of this title: And provided further, That sums found to be in excess of the cost of accomplishing the purposes for which deposited on any national forest shall be transferred to miscellaneous receipts in the Treasury of the United States.
 
@@ -446,6 +456,8 @@ This Act, referred to in subsec. (e)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 
 The Small Business Act, referred to in subsec. (i)(1), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Subsec. (g). Pub. L. 113–79 added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “Designation, marking when necessary, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture. Such persons shall have no personal interest in the purchase or harvest of such products and shall not be directly or indirectly in the employment of the purchaser thereof.”
+
 1990—Subsec. (i)(1). Pub. L. 101–626 struck out proviso that this subsec. not apply to sales of timber on National Forest System lands in the State of Alaska.
 
 1978—Subsec. (e). Pub. L. 95–233 substituted provisions authorizing the Secretary of Agriculture to select bidding method or methods to achieve the purposes of par. (1) of this subsec., procedures for use of oral auction as the bidding method, and procedures for monitoring and enforcement to prevent collusive practices, for provisions authorizing the Secretary to take such action as deemed necessary to prevent collusive practices, and setting forth requirements for enforcement.
@@ -696,43 +708,7 @@ On and after May 11, 1934, mining locations made under the United States mining 
 ### Statutory Notes
 
 #### Bull Run Watershed Management Unit
-Pub. L. 95–200, Nov. 23, 1977, 91 Stat. 1425, as amended by Pub. L. 104–208, div. B, title VI, §§ 601 to 604, Sept. 30, 1996, 110 Stat. 3009–541; Pub. L. 104–333, div. I, title X, § 1026(a), Nov. 12, 1996, 110 Stat. 4228; Pub. L. 107–30, §§ 1, 2(a), (c), Aug. 20, 2001, 115 Stat. 210, 211, provided that:
-
-#### “preamble
-“The Congress finds that an area of land in the State of Oregon known variously as the Bull Run National Forest and the Bull Run Forest Reserve is presently the source of the sole domestic water supply for the city of Portland, Oregon (hereinafter called the ‘city’) and other local governmental units and persons in the Portland metropolitan area, reserved for the city by a Presidential proclamation issued in 1892 and furnishing an extremely valuable resource of pure clear raw potable water, the continued production of which should be the principal management objective in the area hereinafter referred to as ‘the unit’; that the said area is now managed under terms of a Federal court decree issued pursuant to turn of the century law which does not appropriately address present and future needs and opportunities for the protection, management, and utilization of the resources contained therein.
-
-#### “section 1. establishment of special resources management unit; definition of secretary
-“(a) Definition of Secretary.—In this Act, the term ‘Secretary’ means—
-
-“(1) with respect to land administered by the Secretary of Agriculture, the Secretary of Agriculture; and
-
-“(2) with respect to land administered by the Secretary of the Interior, the Secretary of the Interior.
-
-“(b) Establishment.—
-
-“(1) In general.—There is established, subject to valid existing rights, a special resources management unit in the State of Oregon, comprising approximately 98,272 acres, as depicted on a map dated May 2000 and entitled ‘Bull Run Watershed Management Unit’.
-
-“(2) Map.—The map described in paragraph (1) shall be on file and available for public inspection in the offices of—
-
-“(A) the Regional Forester-Pacific Northwest Region of the Forest Service; and
-
-“(B) the Oregon State Director of the Bureau of Land Management.
-
-“(3) Boundary adjustments.—The Secretary may periodically make such minor adjustments in the boundaries of the unit as are necessary, after consulting with the city and providing for appropriate public notice and hearings.
-
-#### “management
-“Sec. 2. (a) The unit and the renewable resources therein, shall be administered as a watershed by the Secretary in accordance with the laws, rules, and regulations applicable to land under the administrative jurisdiction of the Forest Service (in the case of land administered by the Secretary of Agriculture) or applicable to land under the administrative jurisdiction of the Bureau of Land Management (in the case of land administered by the Secretary of the Interior) except to the extent that any management plan or practice is found by the Secretary to have a significant adverse effect on compliance with the water quality standards referred to in section 2(c) hereof or on the quantity of the water produced thereon for the use of the city, and other local government units and persons using such water under agreements with the city (and the Secretary shall take into consideration the cumulative effect of individually insignificant degradations), in which case, and notwithstanding any other provision of law, the management plan and all relevant leases, permits, contracts, rights-of-way, or other rights or authorizations issued pursuant thereto shall forthwith be altered by the Secretary to eliminate such adverse effect by application of different techniques or prohibitions of one or more such practices or uses: Provided, however, That use of such water for the production of energy and the transmission of such energy through and over the unit are deemed consistent with the purposes of this Act and the rights-of-way heretofore granted to Bonneville Power Administration by the Forest Service through and over the unit are validated and confirmed and deemed consistent with the purposes of this Act. “(b) Timber Cutting.—“(1) In general.—Subject to paragraph (2), the Secretary shall prohibit the cutting of trees on Federal land in the unit, as designated in section 1 and depicted on the map referred to in that section. “(2) Permitted cutting.—“(A) In general.—Subject to subparagraph (B), the Secretary shall prohibit the cutting of trees in the area described in paragraph (1). “(B) Permitted cutting.—Subject to subparagraph (C), the Secretary may only allow the cutting of trees in the area described in paragraph (1)—“(i) for the protection or enhancement of water quality in the area described in paragraph (1); or “(ii) for the protection, enhancement, or maintenance of water quantity available from the area described in paragraph (1); or “(iii) for the construction, expansion, protection or maintenance of municipal water supply facilities; or “(iv) for the construction, expansion, protection or maintenance of facilities for the transmission of energy through and over the unit or previously authorized hydroelectric facilities or hydroelectric projects associated with municipal water supply facilities. “(C) Salvage sales.—The Secretary may not authorize a salvage sale in the area described in paragraph (1). “(c) The policy set forth in subsections (a) and (b) shall be attained through the development, maintenance, and periodic revision of land management plans in accordance with procedures set forth in section 5 [6] of the Forest and Rangeland Renewable Resources Planning Act of 1974 (88 Stat. 477, as amended; [16 U.S.C. 1604](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1604)) (in the case of land administered by the Secretary of Agriculture) or section 202 of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1712](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1712&num=0&edition=prelim)) (in the case of land administered by the Secretary of the Interior), through the maintenance of systems for monitoring and evaluating water quality, and through supporting scientific research as the Secretary may deem necessary after consultation and in coordination with the city. In the development and revision of land management plans for the unit, the Secretary, except as otherwise provided in section 2(a) hereof, shall provide for public participation and shall consult and coordinate with appropriate officials and advisors of the city, and shall consider such data and research as the city may collect through its own monitoring systems and scientific efforts, if any. Such plans shall be prepared by an interdisciplinary team; be embodied in appropriate written material, including maps and other descriptive documents; shall contain water quality standards developed by the Secretary after consultation and in cooperation with the city, which standards shall be substantially based on and shall reflect a quality of water not significantly less than the quality reflected by percentile curves developed from data collected from 1967 through 1975 and, if none, from data collected in the first three years of record thereafter; and be available to the public at convenient locations. The initial plan or plans shall be completed as soon as practicable after the enactment of this Act [Nov. 23, 1977], but not later than September 30, 1979. Current data shall be compared to historical data at least annually for the purpose of determining compliance with the standards and the significance of any deviation therefrom. Deviations occurring from operation, maintenance, alteration, or construction of water storage, or electrical generation and transmission facilities, seasonal fluctuations, variations in climate, and other natural phenomena, fire, or acts of God, shall not be considered in determining the historical or current percentile curves. “(d) The Secretary or his representative shall, upon request, and at least annually, meet with appropriate officials of the city for the purpose of reviewing planned management programs and the impact thereof on the quality and quantity of the water produced on the unit and assuring that their respective management and operational activities within the unit are appropriately coordinated. The Secretary shall negotiate in good faith cooperative agreements with appropriate officials of the city to effectuate activity coordination. “(e) In the event there is disagreement between the city and the Secretary with respect to the development or revision of the water quality standards provided for herein, or with respect to the effect or the significance of such effect of one or more proposed or existing programs, practices, uses, regulations, or boundary adjustments (except as otherwise specifically provided for herein), on the quantity of the water produced on said unit, or on compliance with the water quality standards referred to in section 2(a) and (b) [now (c)] hereof and, therefore, with respect to the necessity for an alteration or prohibition of any such program, practice, use, regulation, or boundary adjustment as required in section 2(a) hereof, an arbitration board for resolving such disagreements shall be established. The Secretary and the city shall, each, forthwith appoint one member to such board and those two members shall select a third. In the event agreement cannot be reached on the third member within seven days after the appointment of the first two, the third member shall be appointed by the presiding judge of the United States District Court for the District of Oregon within seven days after being notified of such disagreement by either of the first two members. All of said members shall be qualified to make a scientific determination of the facts. The contentions of the city and the Secretary shall be submitted to the board in the form of written contentions of fact together with the evidence and analysis that tends to support the position being presented. The board shall forthwith consider and decide, on a scientific basis, the issues in disagreement by majority vote, taking into consideration the evidence and data presented by the parties and such other tests and data which the board by majority vote may require. The decision of such board shall be in the form of written findings of fact and conclusions based thereon and shall be final and binding on the parties. The Secretary and the city shall compensate their designees and share equally the compensation of the third member, and shall provide such technical and administrative support as required. “(f) The Secretary is authorized, after consultation with the city, to promulgate regulations for controlling entry into the unit by all persons including but not limited to—“(1) employees or contractors of the city engaged in the inspection, maintenance, construction, or improvement of the city’s facilities; “(2)(i) Federal, State, and local government officers and (ii) employees thereof acting in an official capacity; “(3) Federal, State, and local government permittees and contractors conducting authorized activities; “(4) members of advisory groups formed pursuant to this Act or ordinances of the city in the performance of their official duties: Provided, That no regulation promulgated pursuant to this subsection shall prohibit ingress or egress to non-Federal lands or to authorized occupancies on, or uses of, Federal lands: Provided further, That the Secretary may independently and directly prohibit or restrict all entry into the unit during fire or other emergencies as he may determine.
-
-#### “effect on other laws
-“Sec. 3. (a) Nothing in this Act shall terminate or affect any lease, permit, contract, patent, right-of-way, or other land use right or authorization existing on the date of approval of this Act [Nov. 23, 1977] and otherwise valid except for the provisions of [section 1862 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1862&num=0&edition=prelim) of the United States Code.
-
-“(b) Nothing in this Act shall in any way affect any law governing appropriation or use of, or Federal right to, water on National Forest System lands; or as expanding or diminishing Federal, State, or local jurisdiction, responsibility, interests, or rights in water resources development or control.
-
-“(c) [Section 1862 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1862&num=0&edition=prelim) of the United States Code is hereby repealed.
-
-“(d) Except as otherwise provided for herein, this Act shall take precedence over and supersede all State and local laws dealing with or affecting the subject matter of this Act.
-
-“(e) Challenge to actions taken by any governmental unit or official under the provisions of this Act shall not be sustained by any court except upon a showing or arbitrary, unreasonable, capricious, or illegal action or an absence of substantial good faith compliance with the procedural provisions hereof substantially prejudicing the rights of an interested party.”
+Pub. L. 95–200, Nov. 23, 1977, 91 Stat. 1425, as amended by Pub. L. 104–208, div. B, title VI, §§ 601 to 604, Sept. 30, 1996, 110 Stat. 3009–541; Pub. L. 104–333, div. I, title X, § 1026(a), Nov. 12, 1996, 110 Stat. 4228; Pub. L. 107–30, §§ 1, 2(a), (c), Aug. 20, 2001, 115 Stat. 210, 211, provided that: “preamble“The Congress finds that an area of land in the State of Oregon known variously as the Bull Run National Forest and the Bull Run Forest Reserve is presently the source of the sole domestic water supply for the city of Portland, Oregon (hereinafter called the ‘city’) and other local governmental units and persons in the Portland metropolitan area, reserved for the city by a Presidential proclamation issued in 1892 and furnishing an extremely valuable resource of pure clear raw potable water, the continued production of which should be the principal management objective in the area hereinafter referred to as ‘the unit’; that the said area is now managed under terms of a Federal court decree issued pursuant to turn of the century law which does not appropriately address present and future needs and opportunities for the protection, management, and utilization of the resources contained therein. “section 1. establishment of special resources management unit; definition of secretary“(a) Definition of Secretary.—In this Act, the term ‘Secretary’ means—“(1) with respect to land administered by the Secretary of Agriculture, the Secretary of Agriculture; and “(2) with respect to land administered by the Secretary of the Interior, the Secretary of the Interior. “(b) Establishment.—“(1) In general.—There is established, subject to valid existing rights, a special resources management unit in the State of Oregon, comprising approximately 98,272 acres, as depicted on a map dated May 2000 and entitled ‘Bull Run Watershed Management Unit’. “(2) Map.—The map described in paragraph (1) shall be on file and available for public inspection in the offices of—“(A) the Regional Forester-Pacific Northwest Region of the Forest Service; and “(B) the Oregon State Director of the Bureau of Land Management. “(3) Boundary adjustments.—The Secretary may periodically make such minor adjustments in the boundaries of the unit as are necessary, after consulting with the city and providing for appropriate public notice and hearings. “management“Sec. 2. (a) The unit and the renewable resources therein, shall be administered as a watershed by the Secretary in accordance with the laws, rules, and regulations applicable to land under the administrative jurisdiction of the Forest Service (in the case of land administered by the Secretary of Agriculture) or applicable to land under the administrative jurisdiction of the Bureau of Land Management (in the case of land administered by the Secretary of the Interior) except to the extent that any management plan or practice is found by the Secretary to have a significant adverse effect on compliance with the water quality standards referred to in section 2(c) hereof or on the quantity of the water produced thereon for the use of the city, and other local government units and persons using such water under agreements with the city (and the Secretary shall take into consideration the cumulative effect of individually insignificant degradations), in which case, and notwithstanding any other provision of law, the management plan and all relevant leases, permits, contracts, rights-of-way, or other rights or authorizations issued pursuant thereto shall forthwith be altered by the Secretary to eliminate such adverse effect by application of different techniques or prohibitions of one or more such practices or uses: Provided, however, That use of such water for the production of energy and the transmission of such energy through and over the unit are deemed consistent with the purposes of this Act and the rights-of-way heretofore granted to Bonneville Power Administration by the Forest Service through and over the unit are validated and confirmed and deemed consistent with the purposes of this Act. “(b) Timber Cutting.—“(1) In general.—Subject to paragraph (2), the Secretary shall prohibit the cutting of trees on Federal land in the unit, as designated in section 1 and depicted on the map referred to in that section. “(2) Permitted cutting.—“(A) In general.—Subject to subparagraph (B), the Secretary shall prohibit the cutting of trees in the area described in paragraph (1). “(B) Permitted cutting.—Subject to subparagraph (C), the Secretary may only allow the cutting of trees in the area described in paragraph (1)—“(i) for the protection or enhancement of water quality in the area described in paragraph (1); or “(ii) for the protection, enhancement, or maintenance of water quantity available from the area described in paragraph (1); or “(iii) for the construction, expansion, protection or maintenance of municipal water supply facilities; or “(iv) for the construction, expansion, protection or maintenance of facilities for the transmission of energy through and over the unit or previously authorized hydroelectric facilities or hydroelectric projects associated with municipal water supply facilities. “(C) Salvage sales.—The Secretary may not authorize a salvage sale in the area described in paragraph (1). “(c) The policy set forth in subsections (a) and (b) shall be attained through the development, maintenance, and periodic revision of land management plans in accordance with procedures set forth in section 5 [6] of the Forest and Rangeland Renewable Resources Planning Act of 1974 (88 Stat. 477, as amended; [16 U.S.C. 1604](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1604)) (in the case of land administered by the Secretary of Agriculture) or section 202 of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1712](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1712&num=0&edition=prelim)) (in the case of land administered by the Secretary of the Interior), through the maintenance of systems for monitoring and evaluating water quality, and through supporting scientific research as the Secretary may deem necessary after consultation and in coordination with the city. In the development and revision of land management plans for the unit, the Secretary, except as otherwise provided in section 2(a) hereof, shall provide for public participation and shall consult and coordinate with appropriate officials and advisors of the city, and shall consider such data and research as the city may collect through its own monitoring systems and scientific efforts, if any. Such plans shall be prepared by an interdisciplinary team; be embodied in appropriate written material, including maps and other descriptive documents; shall contain water quality standards developed by the Secretary after consultation and in cooperation with the city, which standards shall be substantially based on and shall reflect a quality of water not significantly less than the quality reflected by percentile curves developed from data collected from 1967 through 1975 and, if none, from data collected in the first three years of record thereafter; and be available to the public at convenient locations. The initial plan or plans shall be completed as soon as practicable after the enactment of this Act [Nov. 23, 1977], but not later than September 30, 1979. Current data shall be compared to historical data at least annually for the purpose of determining compliance with the standards and the significance of any deviation therefrom. Deviations occurring from operation, maintenance, alteration, or construction of water storage, or electrical generation and transmission facilities, seasonal fluctuations, variations in climate, and other natural phenomena, fire, or acts of God, shall not be considered in determining the historical or current percentile curves. “(d) The Secretary or his representative shall, upon request, and at least annually, meet with appropriate officials of the city for the purpose of reviewing planned management programs and the impact thereof on the quality and quantity of the water produced on the unit and assuring that their respective management and operational activities within the unit are appropriately coordinated. The Secretary shall negotiate in good faith cooperative agreements with appropriate officials of the city to effectuate activity coordination. “(e) In the event there is disagreement between the city and the Secretary with respect to the development or revision of the water quality standards provided for herein, or with respect to the effect or the significance of such effect of one or more proposed or existing programs, practices, uses, regulations, or boundary adjustments (except as otherwise specifically provided for herein), on the quantity of the water produced on said unit, or on compliance with the water quality standards referred to in section 2(a) and (b) [now (c)] hereof and, therefore, with respect to the necessity for an alteration or prohibition of any such program, practice, use, regulation, or boundary adjustment as required in section 2(a) hereof, an arbitration board for resolving such disagreements shall be established. The Secretary and the city shall, each, forthwith appoint one member to such board and those two members shall select a third. In the event agreement cannot be reached on the third member within seven days after the appointment of the first two, the third member shall be appointed by the presiding judge of the United States District Court for the District of Oregon within seven days after being notified of such disagreement by either of the first two members. All of said members shall be qualified to make a scientific determination of the facts. The contentions of the city and the Secretary shall be submitted to the board in the form of written contentions of fact together with the evidence and analysis that tends to support the position being presented. The board shall forthwith consider and decide, on a scientific basis, the issues in disagreement by majority vote, taking into consideration the evidence and data presented by the parties and such other tests and data which the board by majority vote may require. The decision of such board shall be in the form of written findings of fact and conclusions based thereon and shall be final and binding on the parties. The Secretary and the city shall compensate their designees and share equally the compensation of the third member, and shall provide such technical and administrative support as required. “(f) The Secretary is authorized, after consultation with the city, to promulgate regulations for controlling entry into the unit by all persons including but not limited to—“(1) employees or contractors of the city engaged in the inspection, maintenance, construction, or improvement of the city’s facilities; “(2)(i) Federal, State, and local government officers and (ii) employees thereof acting in an official capacity; “(3) Federal, State, and local government permittees and contractors conducting authorized activities; “(4) members of advisory groups formed pursuant to this Act or ordinances of the city in the performance of their official duties: Provided, That no regulation promulgated pursuant to this subsection shall prohibit ingress or egress to non-Federal lands or to authorized occupancies on, or uses of, Federal lands: Provided further, That the Secretary may independently and directly prohibit or restrict all entry into the unit during fire or other emergencies as he may determine. “effect on other laws“Sec. 3. (a) Nothing in this Act shall terminate or affect any lease, permit, contract, patent, right-of-way, or other land use right or authorization existing on the date of approval of this Act [Nov. 23, 1977] and otherwise valid except for the provisions of [section 1862 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1862&num=0&edition=prelim) of the United States Code. “(b) Nothing in this Act shall in any way affect any law governing appropriation or use of, or Federal right to, water on National Forest System lands; or as expanding or diminishing Federal, State, or local jurisdiction, responsibility, interests, or rights in water resources development or control. “(c) [Section 1862 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1862&num=0&edition=prelim) of the United States Code is hereby repealed. “(d) Except as otherwise provided for herein, this Act shall take precedence over and supersede all State and local laws dealing with or affecting the subject matter of this Act. “(e) Challenge to actions taken by any governmental unit or official under the provisions of this Act shall not be sustained by any court except upon a showing or arbitrary, unreasonable, capricious, or illegal action or an absence of substantial good faith compliance with the procedural provisions hereof substantially prejudicing the rights of an interested party.”
 
 
 <a id="section-482c"></a>
@@ -776,11 +752,6 @@ On and after March 15, 1940, mining locations made under the mining laws of the 
 
 On and after June 11, 1946, mining locations made under mining laws of the United States within the following-described lands within the Coronado National Forest, Pima County, Arizona: Sections 25, 26, 35, and 36, and the east half of section 34, township 11 south, range 15 east; sections 30, 31, 32, and 33, and the west half of section 29, township 11 south, range 16 east; sections 1, 2, and 3, township 12 south, range 15 east; sections 3, 4, 5, 6, 7, 8, 9, 10, 15, and 16, the west half of section 11, the west half of section 14, and the northwest quarter of section 23, township 12 south, range 16 east; Gila and Salt River base and meridian, shall confer on the locator the right to occupy and use so much of the surface of the land covered by the location as may be reasonably necessary to carry on prospecting, mining, and beneficiation of ores including the taking of mineral deposits and timber required by or in the mining and ore reducing operations, and no permit shall be required or charge made for such use or occupancy: Provided, however, That the cutting and removal of timber, except where clearing is necessary in connection with mining operations or to provide space for buildings or structures used in connection with mining operations, shall be conducted in accordance with the rules for timber cutting on adjoining national-forest land, and no use of the surface of the claim or the resources therefrom not reasonably required for carrying on mining and prospecting shall be allowed except under the national-forest rules and regulations, nor shall the locator prevent or obstruct other occupancy of the surface or use of surface resources under authority of national-forest regulations, or permits issued thereunder, if such occupancy or use is not in conflict with mineral development.
 
-### Statutory Notes
-
-#### References in Text
-The mining laws of the United States, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-
 
 <a id="section-482h-2"></a>
 ## § 482h–2. Cutting of timber; reservation of patent rights
@@ -804,11 +775,6 @@ Within the following-described areas any lands not in Government ownership which
 ## § 482j. Santa Fe National Forest; mining rights; protection of scenic values
 
 On and after June 10, 1949, mining locations made under mining laws of the United States within the following-described lands within the Santa Fe National Forest, Santa Fe, New Mexico: Sections 1, 2, 3, the northeast quarter of section 11 and the north half of section 12, in surveyed township 17 north, range 10 east; sections 12, 13, 14, 15, 16, 36, and that portion of section 25, outside the boundaries of the Gabaldon Grant in surveyed township 18 north, range 10 east; three thousand eight hundred and forty acres, more or less, in unsurveyed township 18 north, range 11 east, expected to be legally described, when surveyed, as sections 7, 8, 18, 19, and 30, the northeast quarter of section 17, the west half of section 17 and the west half of section 20, township 18 north, range 11 east, New Mexico principal meridian, shall confer on the locator the right to occupy and use so much of the surface of the land covered by the location as may be reasonably necessary to carry on prospecting, mining, and beneficiation of ores including the taking of mineral deposits and timber required by or in the mining and ore reducing operations, and no permit shall be required or charge made for such use or occupancy: Provided, however, That the cutting and removal of timber, except where clearing is necessary in connection with mining operations or to provide space for buildings or structures used in connection with mining operations, shall be conducted in accordance with the rules for timber cutting on adjoining national-forest land, and no use of the surface of the claim or the resources therefrom not reasonably required for carrying on mining and prospecting shall be allowed except under the national-forest rules and regulations, nor shall the locator prevent or obstruct other occupancy of the surface or use of surface resources under authority of national-forest regulations, or permits issued thereunder, if such occupancy or use is not in conflict with mineral development.
-
-### Statutory Notes
-
-#### References in Text
-The mining laws of the United States, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
 
 
 <a id="section-482k"></a>
@@ -845,11 +811,6 @@ Repeal of laws inconsistent with act Sept. 14, 1950, see note set out under [sec
 
 On and after May 24, 1949, mining locations made under the mining laws of the United States within the following-described lands within the Coconino National Forest, Coconino County, Arizona: Sections 14, 15, 19, 20, 22, 27, 28, 29, 34, of township 19 north, range 6 east; and sections 4, 5, 8, 9, 16, 17, 20, 21, 22, 27, 28, 33, and 34 of township 18 north, range 6 east; and sections 1, 2, 3, 4, southeast quarter of section 8, sections 9, 10, 11, and 12, of township 17 north, range 6 east; Gila and Salt River base and meridian, shall confer on the locator the right to occupy and use so much of the surface of the land covered by the location as may be reasonably necessary to carry on prospecting, mining, and beneficiation of ores including the taking of mineral deposits and timber required by or in the mining and ore reducing operations, and no permit shall be required or charge made for such use or occupancy: Provided, however, That the cutting and removal of timber, except where clearing is necessary in connection with mining operations or to provide space for buildings or structures used in connection with mining operations, shall be conducted in accordance with the rules for timber cutting on adjoining national-forest land, and no use of the surface of the claim or the resources therefrom not reasonably required for carrying on mining and prospecting shall be allowed except under the national-forest rules and regulations, nor shall the locator prevent or obstruct other occupancy of the surface or use of surface resources under authority of national-forest regulations, or permits issued thereunder, if such occupancy or use is not in conflict with mineral development.
 
-### Statutory Notes
-
-#### References in Text
-The mining laws of the United States, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-
 
 <a id="section-482n-1"></a>
 ## § 482n–1. Cutting of timber within forest; reservation of patent rights
@@ -885,11 +846,6 @@ The date of the enactment of this section, referred to in text, is May 19, 1955.
 ## § 482o. Kaibab National Forest; mining rights; protection of scenic values
 
 On and after July 12, 1951 mining locations made under the mining laws of the United States within the following-described lands within the Kaibab National Forest, Coconino County, Arizona:
-
-### Statutory Notes
-
-#### References in Text
-The mining laws of the United States, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
 
 
 <a id="section-482p"></a>
@@ -1343,7 +1299,7 @@ The Secretary of Agriculture is authorized, under such regulations as he may mak
 1956—Act July 28, 1956, increased maximum area of land for each purpose for which permits may be granted from not more than 5 acres to not more than 80 acres, and authorized permits for facilities for public safety, for buildings, structures, and facilities for industrial or commercial purposes whenever such purposes are related to or consistent with other use of the national forests, and for facilities to be used by public or nonprofit agencies for education or public use or in connection with any public activity.
 
 #### Enhancing Forest Service Administration of Rights-of-Way and Land Uses
-Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 331], Nov. 29, 1999, 113 Stat. 1535, 1501A–196, as amended by Pub. L. 108–447, div. E, title III, § 345, Dec. 8, 2004, 118 Stat. 3105; Pub. L. 109–54, title IV, § 425, Aug. 2, 2005, 119 Stat. 555; Pub. L. 110–161, div. F, title IV, § 416, Dec. 26, 2007, 121 Stat. 2148, provided that: “(a) The Secretary of Agriculture shall develop and implement a pilot program for the purpose of enhancing forest service administration of rights-of-way and other land uses. The authority for this program shall be for fiscal years 2000 through 2012. Prior to the expiration of the authority for this pilot program, the Secretary shall submit a report to the House and Senate Committees on Appropriations, and the Committee on Energy and Natural Resources of the Senate and the Committee on Resources [now Committee on Natural Resources] of the House of Representatives that evaluates whether the use of funds under this section resulted in more expeditious approval of rights-of-way and special use authorizations. This report shall include the Secretary’s recommendation for statutory or regulatory changes to reduce the average processing time for rights-of-way and special use permit applications. “(b) Deposit of Fees.—Subject to subsections (a) and (f), during fiscal years 2000 through 2012, the Secretary of Agriculture shall deposit into a special account established in the Treasury all fees collected by the Secretary to recover the costs of processing applications for, and monitoring compliance with, authorizations to use and occupy National Forest System lands pursuant to section 28(l) of the Mineral Leasing Act ([30 U.S.C. 185](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section185&num=0&edition=prelim)(l)), section 504(g) of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1764(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1764/g&num=0&edition=prelim)), [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim), United States Code, and section 110(g) of the National Historic Preservation Act ([16 U.S.C. 470h–2(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/g&num=0&edition=prelim)). “(c) Use of Retained Amounts.—Amounts deposited pursuant to subsection (b) shall be available, without further appropriation, for expenditure by the Secretary of Agriculture to cover costs incurred by the Forest Service for the processing of applications for special use authorizations and for monitoring activities undertaken in connection with such authorizations. Amounts in the special account shall remain available for such purposes until expended. “(d) Reporting Requirement.—In the budget justification documents submitted by the Secretary of Agriculture in support of the President’s budget for a fiscal year under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, the Secretary shall include a description of the purposes for which amounts were expended from the special account during the preceding fiscal year, including the amounts expended for each purpose, and a description of the purposes for which amounts are proposed to be expended from the special account during the next fiscal year, including the amounts proposed to be expended for each purpose. “(e) Definition of Authorization.—For purposes of this section, the term ‘authorizations’ means special use authorizations issued under subpart B of part 251 of title 36, Code of Federal Regulations. “(f) Implementation.—This section shall take effect upon promulgation of Forest Service regulations for the collection of fees for processing of special use authorizations and for related monitoring activities.”
+Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 331], Nov. 29, 1999, 113 Stat. 1535, 1501A–196, as amended, formerly set out as a note under this section, was transferred to [section 497e of this title](./chapter-002-national-forests.md#section-497e).
 
 
 <a id="section-497a"></a>
@@ -1555,6 +1511,45 @@ Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 342], Nov. 29, 1999, 113
 
 #### Limitation on Recreation Residence Fee Increases on Sawtooth National Forest
 Pub. L. 105–277, div. A, § 101(e) [title III, § 345], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, provided that: “Notwithstanding section 343 of Public Law 105–83 [[16 U.S.C. 497d](./chapter-002-national-forests.md#section-497d)], increases in recreation residence fees on the Sawtooth National Forest shall be implemented in fiscal year 1999 only to the extent that such fee increases do not exceed 25 percent.”
+
+
+<a id="section-497e"></a>
+## § 497e. Enhancing Forest Service administration of rights-of-way and land uses
+**(a) Program required** For fiscal year 2014 and each fiscal year thereafter, the Secretary of Agriculture shall conduct a program for the purpose of enhancing Forest Service administration of rights-of-way and other land uses.
+
+**(b) Deposit of fees** Subject to subsections (a) and (f), each fiscal year, the Secretary of Agriculture shall deposit into a special account established in the Treasury all fees collected by the Secretary to recover the costs of processing applications for, and monitoring compliance with, authorizations to use and occupy National Forest System lands pursuant to section 185(l) of title 30, [section 1764(g) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1764/g&num=0&edition=prelim), [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim), and [section 306109 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306109&num=0&edition=prelim).
+
+**(c) Use of retained amounts** Amounts deposited pursuant to subsection (b) shall be available, without further appropriation, for expenditure by the Secretary of Agriculture to cover costs incurred by the Forest Service for the processing of applications for special use authorizations and for monitoring activities undertaken in connection with such authorizations. Amounts in the special account shall remain available for such purposes until expended.
+
+**(d) Reporting requirement** In the budget justification documents submitted by the Secretary of Agriculture in support of the President’s budget for a fiscal year under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Secretary shall include a description of the purposes for which amounts were expended from the special account during the preceding fiscal year, including the amounts expended for each purpose, and a description of the purposes for which amounts are proposed to be expended from the special account during the next fiscal year, including the amounts proposed to be expended for each purpose.
+
+**(e) Definition of authorization** For purposes of this section, the term “authorizations” means special use authorizations issued under subpart B of part 251 of title 36, Code of Federal Regulations.
+
+**(f) Implementation** This section shall take effect upon promulgation of Forest Service regulations for the collection of fees for processing of special use authorizations and for related monitoring activities.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly set out as a note under [section 497 of this title](./chapter-002-national-forests.md#section-497).
+
+In subsec. (b), “[section 306109 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306109&num=0&edition=prelim)” substituted for “[section 470h–2(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/g&num=0&edition=prelim)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–76, § 425(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of Agriculture shall develop and implement a pilot program for the purpose of enhancing forest service administration of rights-of-way and other land uses. The authority for this program shall be for fiscal years 2000 through 2012. Prior to the expiration of the authority for this pilot program, the Secretary shall submit a report to the House and Senate Committees on Appropriations, and the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives that evaluates whether the use of funds under this section resulted in more expeditious approval of rights-of-way and special use authorizations. This report shall include the Secretary’s recommendation for statutory or regulatory changes to reduce the average processing time for rights-of-way and special use permit applications.”
+
+Subsec. (b). Pub. L. 113–76, § 425(2), substituted “each fiscal year” for “during fiscal years 2000 through 2012”.
+
+2007—Subsec. (a). Pub. L. 110–161, § 416(1), substituted “2012” for “2006”.
+
+Subsec. (b). Pub. L. 110–161, § 416(2), substituted “2012” for “2006”.
+
+2005—Subsec. (a). Pub. L. 109–54, § 425(1), substituted “2006” for “2005”.
+
+Subsec. (b). Pub. L. 109–54, § 425(2), substituted “2006” for “2005”.
+
+2004—Subsec. (a). Pub. L. 108–447, § 345(1), which directed substitution of “2005” for “2004” in part (a), was executed by making the substitution in subsec. (a) to reflect the probable intent of Congress.
+
+Subsec. (b). Pub. L. 108–447, § 345(2), which directed substitution of “2005” for “2004” in part (b), was executed by making the substitution in subsec. (b) to reflect the probable intent of Congress.
 
 
 <a id="section-498"></a>
@@ -2153,23 +2148,12 @@ Section, acts Feb. 15, 1901, ch. 372, 31 Stat. 790; Feb. 1, 1905, ch. 288, § 1,
 
 
 <a id="section-523"></a>
-## § 523. Rights-of-way through national forests for power and communications facilities
-
-The head of the department having jurisdiction over the lands is authorized and empowered, under general regulations to be fixed by him, to grant an easement for rights-of-way, for a period not exceeding fifty years from the date of the issuance of such grant, over, across, and upon the national forests of the United States for electrical poles and lines for the transmission and distribution of electrical power, and for poles and lines for communication purposes, and for radio, television, and other forms of communication transmitting, relay, and receiving structures and facilities, to the extent of two hundred feet on each side of the center line of such lines and poles and not to exceed four hundred feet by four hundred feet for radio, television, and other forms of communication transmitting, relay, and receiving structures and facilities, to any citizen, association, or corporation of the United States, where it is intended by such to exercise the right-of-way herein granted for any one or more of the purposes herein named: Provided, That such right-of-way shall be allowed within or through any national forest only upon the approval of the chief officer of the department under whose supervision or control such national forest falls, and upon a finding by him that the same is not incompatible with the public interest: Provided further, That all or any part of such right-of-way may be forfeited and annulled by declaration of the head of the department having jurisdiction over the lands for nonuse for a period of two years or for abandonment.
+## § 523. Omitted
 
 ### Statutory Notes
 
-#### Repeals
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### Codification
-Section, insofar as it relates to rights-of-way in national parks, military, and other reservations, is set out as sections 5 and 420 of this title, and insofar as it relates to rights-of-way on public lands generally, and Indian reservations, is set out as [section 961 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section961&num=0&edition=prelim), Public Lands.
-
-#### Amendments
-1952—Act May 27, 1952, inserted reference to rights-of-way for radio, television, and other forms of communication, and increased from 40 feet to 400 feet the maximum width of rights-of-way for lines and poles.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, insofar as applicable to the issuance of rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands.
+Section, acts Mar. 4, 1911, ch. 238, 36 Stat. 1253; May 27, 1952, ch. 338, 66 Stat. 95; Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793; Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272, which authorized heads of departments to grant easements for rights-of-way on “the public lands, national forests, and reservations of the United States” for electrical power and communications purposes, was omitted because Act Mar. 4, 1911 is also classified to [section 961 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section961&num=0&edition=prelim), Public Lands. It was also classified to sections 5 and 420 of this title prior to their omission from the Code.
 
 
 <a id="section-524"></a>
@@ -2249,7 +2233,7 @@ It is the policy of the Congress that the national forests are established and s
 Section 5 of Pub. L. 86–517, as added Pub. L. 94–588, § 19, Oct. 22, 1976, 90 Stat. 2962, provided that: “This Act [enacting this section and sections 529 to 531 of this title] may be cited as the ‘Multiple-Use Sustained-Yield Act of 1960’.”
 
 #### Pilot Program of Charges and Fees for Harvest of Forest Botanical Products
-Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 339], Nov. 29, 1999, 113 Stat. 1535, 1501A–199, as amended by Pub. L. 108–108, title III, § 335, Nov. 10, 2003, 117 Stat. 1312; Pub. L. 111–88, div. A, title IV, § 420, Oct. 30, 2009, 123 Stat. 2960, provided that: “(a) Definition of Forest Botanical Product.—For purposes of this section, the term ‘forest botanical product’ means any naturally occurring mushrooms, fungi, flowers, seeds, roots, bark, leaves, and other vegetation (or portion thereof) that grow on National Forest System lands. The term does not include trees, except as provided in regulations issued under this section by the Secretary of Agriculture. “(b) Recovery of Fair Market Value for Products.—The Secretary of Agriculture shall develop and implement a pilot program to charge and collect fees under subsection (c) for forest botanical products harvested on National Forest System lands. The Secretary shall establish appraisal methods and bidding procedures to determine the fair market value of forest botanical products harvested under the pilot program. “(c) Fees.—“(1) Imposition and collection.—Under the pilot program, the Secretary of Agriculture shall charge and collect from a person who harvests forest botanical products on National Forest System lands a fee in an amount established by the Secretary to recover at least a portion of the fair market value of the harvested forest botanical products and a portion of the costs incurred by the Department of Agriculture associated with granting, modifying, or monitoring the authorization for harvest of the forest botanical products, including the costs of any environmental or other analysis. “(2) Security.—The Secretary may require a person assessed a fee under this subsection to provide security to ensure that the Secretary receives the fees imposed under this subsection from the person. “(d) Sustainable Harvest Levels for Forest Botanical Products.—The Secretary of Agriculture shall conduct appropriate analyses to determine whether and how the harvest of forest botanical products on National Forest System lands can be conducted on a sustainable basis. The Secretary may not permit under the pilot program the harvest of forest botanical products at levels in excess of sustainable harvest levels, as defined pursuant to the Multiple-Use Sustained-Yield Act of 1960 ([16 U.S.C. 528](./chapter-002-national-forests.md#section-528) et seq.). The Secretary shall establish procedures and timeframes to monitor and revise the harvest levels established for forest botanical products. “(e) Waiver Authority.—“(1) Personal use.—The Secretary of Agriculture shall establish a personal use harvest level for each forest botanical product, and the harvest of a forest botanical product below that level by a person for personal use shall not be subject to a fee under subsection (c). “(2) Other exceptions.—The Secretary may also waive the application of subsection (b) or (c) pursuant to such regulations as the Secretary may prescribe. “(f) Deposit and Use of Funds.—“(1) Deposit.—Funds collected under the pilot program in accordance with subsection (c) shall be deposited into a special account in the Treasury of the United States. “(2) Funds available.—Funds deposited into the special account in accordance with paragraph (1) shall be available for expenditure by the Secretary of Agriculture under paragraph (3) without further appropriation, and shall remain available for expenditure until the date specified in subsection (h)(2). “(3) Authorized uses.—The funds made available under paragraph (2) shall be expended at units of the National Forest System in proportion to the fees collected at that unit under subsection (c) to pay for the costs of conducting inventories of forest botanical products, determining sustainable levels of harvest, monitoring and assessing the impacts of harvest levels and methods, conducting restoration activities, including any necessary vegetation, and covering costs of the Department of Agriculture described in subsection (c)(1). “(4) Treatment of fees.—Funds collected under subsection (c) shall not be taken into account for the purposes of the following laws:“(A) The sixth paragraph under the heading ‘forest service’ in the Act of May 23, 1908 ([16 U.S.C. 500](./chapter-002-national-forests.md#section-500)) and section 13 of the Act of March 1, 1911 (commonly known as the Weeks Act; [16 U.S.C. 500](./chapter-002-national-forests.md#section-500)). “(B) The fourteenth paragraph under the heading ‘forest service’ in the Act of March 4, 1913 ([16 U.S.C. 501](./chapter-002-national-forests.md#section-501)). “(C) Section 33 of the Bankhead-Jones Farm Tenant Act ([7 U.S.C. 1012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1012&num=0&edition=prelim)). “(D) The Act of August 8 [28], 1937, and the Act of May 24, 1939 ([43 U.S.C. 1181a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a&num=0&edition=prelim) et seq.). “(E) Section 6 of the Act of June 14, 1926 (commonly known as the Recreation and Public Purposes Act; [43 U.S.C. 869–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section869–4&num=0&edition=prelim)). “(F) Chapter 69 of title 31, United States Code. “(G) Section 401 of the Act of June 15, 1935 ([16 U.S.C. 715s](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715s)). “(H) Section 4 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–6a). “(I) Any other provision of law relating to revenue allocation. “(g) Reporting Requirements.—As soon as practicable after the end of each fiscal year in which the Secretary of Agriculture collects fees under subsection (c) or expends funds from the special account under subsection (f), the Secretary shall submit to the Congress a report summarizing the activities of the Secretary under the pilot program, including the funds generated under subsection (c), the expenses incurred to carry out the pilot program, and the expenditures made from the special account during that fiscal year. “(h) Duration of Pilot Program.—“(1) Collection of fees.—The Secretary of Agriculture may collect fees under the authority of subsection (c) until September 30, 2014. “(2) Use of special account.—The Secretary may make expenditures from the special account under subsection (f) until September 30 of the fiscal year following the last fiscal year specified in paragraph (1). After that date, amounts remaining in the special account shall be transferred to the general fund of the Treasury.”
+Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 339], Nov. 29, 1999, 113 Stat. 1535, 1501A–199, as amended by Pub. L. 108–108, title III, § 335, Nov. 10, 2003, 117 Stat. 1312; Pub. L. 111–88, div. A, title IV, § 420, Oct. 30, 2009, 123 Stat. 2960; Pub. L. 113–76, div. G, title IV, § 432, Jan. 17, 2014, 128 Stat. 345; Pub. L. 113–287, § 5(d)(11), Dec. 19, 2014, 128 Stat. 3265, provided that: “(a) Definition of Forest Botanical Product.—For purposes of this section, the term ‘forest botanical product’ means any naturally occurring mushrooms, fungi, flowers, seeds, roots, bark, leaves, and other vegetation (or portion thereof) that grow on National Forest System lands. The term does not include trees, except as provided in regulations issued under this section by the Secretary of Agriculture. “(b) Recovery of Fair Market Value for Products.—The Secretary of Agriculture shall develop and implement a pilot program to charge and collect fees under subsection (c) for forest botanical products harvested on National Forest System lands. The Secretary shall establish appraisal methods and bidding procedures to determine the fair market value of forest botanical products harvested under the pilot program. “(c) Fees.—“(1) Imposition and collection.—Under the pilot program, the Secretary of Agriculture shall charge and collect from a person who harvests forest botanical products on National Forest System lands a fee in an amount established by the Secretary to recover at least a portion of the fair market value of the harvested forest botanical products and a portion of the costs incurred by the Department of Agriculture associated with granting, modifying, or monitoring the authorization for harvest of the forest botanical products, including the costs of any environmental or other analysis. “(2) Security.—The Secretary may require a person assessed a fee under this subsection to provide security to ensure that the Secretary receives the fees imposed under this subsection from the person. “(d) Sustainable Harvest Levels for Forest Botanical Products.—The Secretary of Agriculture shall conduct appropriate analyses to determine whether and how the harvest of forest botanical products on National Forest System lands can be conducted on a sustainable basis. The Secretary may not permit under the pilot program the harvest of forest botanical products at levels in excess of sustainable harvest levels, as defined pursuant to the Multiple-Use Sustained-Yield Act of 1960 ([16 U.S.C. 528](./chapter-002-national-forests.md#section-528) et seq.). The Secretary shall establish procedures and timeframes to monitor and revise the harvest levels established for forest botanical products. “(e) Waiver Authority.—“(1) Personal use.—The Secretary of Agriculture shall establish a personal use harvest level for each forest botanical product, and the harvest of a forest botanical product below that level by a person for personal use shall not be subject to a fee under subsection (c). “(2) Other exceptions.—The Secretary may also waive the application of subsection (b) or (c) pursuant to such regulations as the Secretary may prescribe. “(f) Deposit and Use of Funds.—“(1) Deposit.—Funds collected under the pilot program in accordance with subsection (c) shall be deposited into a special account in the Treasury of the United States. “(2) Funds available.—Funds deposited into the special account in accordance with paragraph (1) shall be available for expenditure by the Secretary of Agriculture under paragraph (3) without further appropriation, and shall remain available for expenditure until the date specified in subsection (h)(2). “(3) Authorized uses.—The funds made available under paragraph (2) shall be expended at units of the National Forest System in proportion to the fees collected at that unit under subsection (c) to pay for the costs of conducting inventories of forest botanical products, determining sustainable levels of harvest, monitoring and assessing the impacts of harvest levels and methods, conducting restoration activities, including any necessary vegetation, and covering costs of the Department of Agriculture described in subsection (c)(1). “(4) Treatment of fees.—Funds collected under subsection (c) shall not be taken into account for the purposes of the following laws:“(A) The sixth paragraph under the heading ‘forest service’ in the Act of May 23, 1908 ([16 U.S.C. 500](./chapter-002-national-forests.md#section-500)) and section 13 of the Act of March 1, 1911 (commonly known as the Weeks Act; [16 U.S.C. 500](./chapter-002-national-forests.md#section-500)). “(B) The fourteenth paragraph under the heading ‘forest service’ in the Act of March 4, 1913 ([16 U.S.C. 501](./chapter-002-national-forests.md#section-501)). “(C) Section 33 of the Bankhead-Jones Farm Tenant Act ([7 U.S.C. 1012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1012&num=0&edition=prelim)). “(D) The Act of August 8 [28], 1937, and the Act of May 24, 1939 ([43 U.S.C. 1181a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a&num=0&edition=prelim) et seq.). “(E) Section 6 of the Act of June 14, 1926 (commonly known as the Recreation and Public Purposes Act; [43 U.S.C. 869–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section869–4&num=0&edition=prelim)). “(F) Chapter 69 of title 31, United States Code. “(G) Section 401 of the Act of June 15, 1935 ([16 U.S.C. 715s](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715s)). “(H) [Section 100904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904&num=0&edition=prelim), United States Code. “(I) Any other provision of law relating to revenue allocation. “(g) Reporting Requirements.—As soon as practicable after the end of each fiscal year in which the Secretary of Agriculture collects fees under subsection (c) or expends funds from the special account under subsection (f), the Secretary shall submit to the Congress a report summarizing the activities of the Secretary under the pilot program, including the funds generated under subsection (c), the expenses incurred to carry out the pilot program, and the expenditures made from the special account during that fiscal year. “(h) Duration of Pilot Program.—“(1) Collection of fees.—The Secretary of Agriculture may collect fees under the authority of subsection (c) through fiscal year 2019. “(2) Use of special account.—The Secretary may make expenditures from the special account under subsection (f) until September 30 of the fiscal year following the last fiscal year specified in paragraph (1). After that date, amounts remaining in the special account shall be transferred to the general fund of the Treasury.”
 
 [Pub. L. 108–108, § 335(3), which directed amendment of section 1000(a)(3) [title III, § 339(d)(1)] of Pub. L. 106–113, set out above, was executed to section 1000(a)(3) [title III, § 339(e)(1)] of Pub. L. 106–113 to reflect the probable intent of Congress.]
 
@@ -2412,7 +2396,7 @@ Whenever the agreement under which the United States has obtained for the use of
 This Act, referred to in subsec. (b), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 #### Chugach National Forest Boundary Change
-Pub. L. 102–415, § 6, Oct. 14, 1992, 106 Stat. 2113, provided that: “(a) Boundary Adjustment.—The boundary of the Chugach National Forest, Alaska, is modified to include the approximately 9,300 acres as generally depicted on the map entitled ‘Official Map, Boundary Modification, Chugach National Forest’ and dated September 1988. The map shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture. “(b) Administration.—Subject to valid existing rights, all Federal lands brought within the boundary of the Chugach National Forest by subsection (a) are added to and shall be administered as part of the Chugach National Forest. “(c) Terms and Conditions.—(1) Nothing in this Act [see Short Title of 1992 Amendment note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim), Public Lands] shall be construed to affect the validity of, or the terms and conditions of, any right-of-way, easement, lease, license, or permit on lands transferred by this section that is in existence on the date of enactment of this Act [Oct. 14, 1992]. “(2) Notwithstanding any other provision of law, the Secretary of the Interior shall delegate, as necessary, to the Secretary of Agriculture the authority to renew or reissue the authorizations described in paragraph (1). The change of administrative jurisdiction over these lands resulting from subsection (a) shall not constitute a ground for the denial of renewal or re­issuance of the authorizations described in paragraph (1). “(d) Land and Water Conservation Fund Act.—For purposes of section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–9), the boundary of the Chugach National Forest, as modified by this section, shall be treated as if it were the boundary of the Chugach National Forest as of January 1, 1965.”
+Pub. L. 102–415, § 6, Oct. 14, 1992, 106 Stat. 2113, as amended by Pub. L. 113–287, § 5(d)(12), Dec. 19, 2014, 128 Stat. 3265, provided that: “(a) Boundary Adjustment.—The boundary of the Chugach National Forest, Alaska, is modified to include the approximately 9,300 acres as generally depicted on the map entitled ‘Official Map, Boundary Modification, Chugach National Forest’ and dated September 1988. The map shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture. “(b) Administration.—Subject to valid existing rights, all Federal lands brought within the boundary of the Chugach National Forest by subsection (a) are added to and shall be administered as part of the Chugach National Forest. “(c) Terms and Conditions.—(1) Nothing in this Act [see Short Title of 1992 Amendment note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim), Public Lands] shall be construed to affect the validity of, or the terms and conditions of, any right-of-way, easement, lease, license, or permit on lands transferred by this section that is in existence on the date of enactment of this Act [Oct. 14, 1992]. “(2) Notwithstanding any other provision of law, the Secretary of the Interior shall delegate, as necessary, to the Secretary of Agriculture the authority to renew or reissue the authorizations described in paragraph (1). The change of administrative jurisdiction over these lands resulting from subsection (a) shall not constitute a ground for the denial of renewal or re­issuance of the authorizations described in paragraph (1). “(d) Land and Water Conservation Fund Act.—For purposes of [section 100506 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100506&num=0&edition=prelim), United States Code, the boundary of the Chugach National Forest, as modified by this section, shall be treated as if it were the boundary of the Chugach National Forest as of January 1, 1965.”
 
 
 <a id="section-539a"></a>
@@ -2589,9 +2573,7 @@ Section 501 of Pub. L. 101–626 directed the Secretary, no later than one year 
 #### References in Text
 This Act, referred to in subsecs. (a), (c), and (h), is Pub. L. 100–150, Nov. 3, 1987, 101 Stat. 881, which enacted this section and amended [section 1274 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1274). For complete classification of this Act to the Code, see Tables.
 
-The mining laws and the mineral leasing laws of the United States, referred to in subsec. (d), are classified generally to Title 30, Mineral Lands and Mining.
-
-The Geothermal Steam Act of 1970, referred to in subsec. (d), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, as amended, which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (d), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, as amended, which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) and Tables.
 
 
 <a id="section-539h"></a>
@@ -2613,12 +2595,12 @@ The Geothermal Steam Act of 1970, referred to in subsec. (d), is Pub. L. 91–58
 #### References in Text
 This Act, referred to in subsec. (a), is Pub. L. 102–220, Dec. 11, 1991, 105 Stat. 1674, known as the Greer Spring Acquisition and Protection Act of 1991, which enacted this section and provisions set out below. For complete classification of this Act to the Code, see section 1 of Pub. L. 102–220, set out below, and Tables.
 
-The mining laws and the mineral leasing laws of the United States, referred to in subsec. (e), are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws of the United States, referred to in subsec. (e), are classified principally to chapter 23 (§ 1001 et seq.) of Title 30.
+Geothermal leasing laws of the United States, referred to in subsec. (e), are classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining.
 
 #### Greer Spring Acquisition and Protection
-Pub. L. 102–220, §§ 1–3, 5, Dec. 11, 1991, 105 Stat. 1674, 1675, provided that: “SECTION 1. SHORT TITLE.“This Act [enacting this section] may be cited as the ‘Greer Spring Acquisition and Protection Act of 1991’. “SEC. 2. ACQUISITION OF THE DENNIG TRACT.“(a) The Secretary of Agriculture (hereinafter referred to as the ‘Secretary’) is hereby authorized and directed, subject to appropriations, to acquire all of the lands, waters, and interests therein, on a willing seller basis only, within the area generally depicted on a map entitled ‘Dennig Tract’, dated November 5, 1991 (hereinafter referred to as ‘the map’). The map, together with a legal description of such lands, shall be on file and available for public inspection in the offices of the Forest Service, Department of Agriculture. The boundaries of the Mark Twain National Forest are hereby modified to include the area denoted ‘Dennig Property Outside of National Forest Boundary’ on the map. Such map and legal description shall have the same force and effect as if included in this Act, except that the correction of clerical and typographical errors in such map and legal description may be made by the Secretary. “(b) Such modified boundaries shall be considered as the boundaries in existence as of January 1, 1965, for the purposes of section 7 of the Land and Water Conservation Fund Act ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–9). “SEC. 3. ELEVEN POINT WILD AND SCENIC RIVER.“The Secretary shall manage the lands, waters, and interests therein within the area referred to on the map as ‘The Eleven Point Wild and Scenic Corridor’ (hereinafter referred to as ‘the corridor’), pursuant to the provisions of the Wild and Scenic Rivers Act ([16 U.S.C. 1271–128](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1271–128&num=0&edition=prelim)7). Lands acquired pursuant to section 2 of this Act within the corridor shall not be counted against the average one-hundred-acre-per-mile fee limitation of Section 6(a)(1) of the Wild and Scenic Rivers Act [[16 U.S.C. 1277(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1277/a/1&num=0&edition=prelim)], nor shall such lands outside the corridor be subject to the provisions of Section 6(a)(2) of the Wild and Scenic Rivers Act. “SEC. 5. APPROPRIATIONS.“There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act.”
+Pub. L. 102–220, §§ 1–3, 5, Dec. 11, 1991, 105 Stat. 1674, 1675, as amended by Pub. L. 113–287, § 5(d)(13), Dec. 19, 2014, 128 Stat. 3265, provided that: “SECTION 1. SHORT TITLE.“This Act [enacting this section] may be cited as the ‘Greer Spring Acquisition and Protection Act of 1991’. “SEC. 2. ACQUISITION OF THE DENNIG TRACT.“(a) The Secretary of Agriculture (hereinafter referred to as the ‘Secretary’) is hereby authorized and directed, subject to appropriations, to acquire all of the lands, waters, and interests therein, on a willing seller basis only, within the area generally depicted on a map entitled ‘Dennig Tract’, dated November 5, 1991 (hereinafter referred to as ‘the map’). The map, together with a legal description of such lands, shall be on file and available for public inspection in the offices of the Forest Service, Department of Agriculture. The boundaries of the Mark Twain National Forest are hereby modified to include the area denoted ‘Dennig Property Outside of National Forest Boundary’ on the map. Such map and legal description shall have the same force and effect as if included in this Act, except that the correction of clerical and typographical errors in such map and legal description may be made by the Secretary. “(b) Such modified boundaries shall be considered as the boundaries in existence as of January 1, 1965, for the purposes of [section 100506 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100506&num=0&edition=prelim), United States Code. “SEC. 3. ELEVEN POINT WILD AND SCENIC RIVER.“The Secretary shall manage the lands, waters, and interests therein within the area referred to on the map as ‘The Eleven Point Wild and Scenic Corridor’ (hereinafter referred to as ‘the corridor’), pursuant to the provisions of the Wild and Scenic Rivers Act ([16 U.S.C. 1271–128](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1271–128&num=0&edition=prelim)7). Lands acquired pursuant to section 2 of this Act within the corridor shall not be counted against the average one-hundred-acre-per-mile fee limitation of Section 6(a)(1) of the Wild and Scenic Rivers Act [[16 U.S.C. 1277(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1277/a/1&num=0&edition=prelim)], nor shall such lands outside the corridor be subject to the provisions of Section 6(a)(2) of the Wild and Scenic Rivers Act. “SEC. 5. APPROPRIATIONS.“There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act.”
+
+[Pub. L. 113–287, § 5(d)(13), Dec. 19, 2014, 128 Stat. 3265, which directed amendment of section 2(b) of Pub. L. 102–220, set out above, by substituting “[section 100506 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100506&num=0&edition=prelim), United States Code” for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–9)”, was executed by making the substitution for “section 7 of the Land and Water Conservation Fund Act ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–9)” to reflect the probable intent of Congress.]
 
 
 <a id="section-539i"></a>
@@ -2710,7 +2692,9 @@ The Geothermal Steam Act of 1970, referred to in subsec. (b)(4), is Pub. L. 91�
 #### Interstate 90 Land Exchange
 Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 346(a), (e)–(g), (i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–204, 1501A–206, provided that: “(a) This section [enacting and amending provisions set out as notes below] shall be referred to as the ‘Interstate 90 Land Exchange Amendment’. “(e) Section 604(b) [section 101(e) [title VI, § 604(b)] of Pub. L. 105–277, set out below] is further amended by inserting the following before the colon: ‘except Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, and Township 21 North, Range 14 East, W.M., W½W½ of Section 16, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S½ of 16, W.M., which shall be retained by the United States’. The Appraisal shall be adjusted by subtracting the values determined for Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S½ of Section 16, W.M. during the Appraisal process in the context of the whole estate to be conveyed. “(f) After adjustment of the Appraisal, the values of the offered and selected lands, including the offered lands held in escrow, shall be equalized as follows:“(1) the appraised value of the offered lands, as such lands and appraised value have been adjusted hereby, minus the appraised value of the offered lands to be placed into escrow, shall be compared to the appraised value of the selected lands, as such lands and appraised value have been adjusted hereby, and the Secretary shall equalize such values by the payment of cash to Plum Creek at the time that deeds are exchanged, such cash to come from currently appropriated funds, or, if necessary, by reprogramming; and “(2) the Secretary shall compensate Plum Creek for the lands placed into escrow, based upon the values determined for each such parcel during the Appraisal process in the context of the whole estate to be conveyed, through the following, including any combination thereof:“(A) conveyance of any other lands under the jurisdiction of the Secretary acceptable to Plum Creek and the Secretary after compliance with all applicable Federal environmental and other laws; and “(B) to the extent sufficient acceptable lands are not available pursuant to paragraph (A) of this subsection, cash payments as and to the extent funds become available through appropriations, private sources, or, if necessary, by reprogramming. The Secretary shall promptly seek to identify lands acceptable to equalize values under paragraph (A) of this subsection and shall, not later than July 1, 2000, provide a report to the Congress outlining the results of such efforts. “(g) As funds or lands are provided to Plum Creek by the Secretary, Plum Creek shall release to the United States deeds for lands and interests in lands held in escrow based on the values determined during the Appraisal process in the context of the whole estate to be conveyed. Deeds shall be released for lands and interests in lands in the following order: Township 21 North, Range 12 East, Section 15, W.M., Township 21 North, Range 12 East, Section 23, W.M., Township 21 North, Range 12 East, Section 25, W.M., Township 19 North, Range 13 East, Section 7, Township 19 North, Range 15 East, Section 31, Township 19 North, Range 14 East, Section 25, Township 22 North, Range 11 East, Section 3, W.M., and Township 22 North, Range 11 East, Section 19, W.M. “(i) The deadline for the Report to Congress required by section 609(c) of the Interstate 90 Land Exchange Act of 1998 [section 101(e) [title VI, § 609(c)] of Pub. L. 105–277, set out below] is hereby extended. Such Report is due to the Congress 18 months from the date of the enactment of this Interstate 90 Land Exchange Amendment [Nov. 29, 1999].”
 
-Pub. L. 105–277, div. A, § 101(e) [title VI], Oct. 21, 1998, 112 Stat. 2681–231, 2681–326, as amended by Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 346(b)–(e), (h), (j)], Nov. 29, 1999, 113 Stat. 1535, 1501A–204 to 1501A–206, provided that: “SEC. 601. SHORT TITLE.“This Act [probably should be “this title” meaning Pub. L. 105–277, div. A, § 101(e) [title VI]] may be cited as the ‘Interstate 90 Land Exchange Act of 1998’. “SEC. 602. FINDINGS AND PURPOSE.“(a) Findings.—Congress finds that—“(1) certain parcels of private land located in central and southwest Washington are intermingled with National Forest System land owned by the United States and administered by the Secretary of Agriculture as parts of the Mt. Baker-Snoqualmie National Forest, Wenatchee National Forest, and Gifford Pinchot National Forest; “(2) the private land surface estate and some subsurface is owned by the Plum Creek Timber Company, L.P. in an intermingled checkerboard pattern, with the United States or Plum Creek owning alternate square mile sections of land or fractions of square mile sections; “(3) the checkerboard land ownership pattern in the area has frustrated sound and efficient land management on both private and National Forest lands by complicating fish and wildlife habitat management, watershed protection, recreation use, road construction and timber harvest, boundary administration, and protection and management of threatened and endangered species and old growth forest habitat; “(4) acquisition by the United States of certain parcels of land that have been offered by Plum Creek for addition to the Mt. Baker-Snoqualmie National Forest and Wenatchee National Forest will serve important public objectives, including—“(A) enhancement of public access, aesthetics and recreation opportunities within or near areas of very heavy public recreational use including—“(i) the Alpine Lakes Wilderness Area; “(ii) the Pacific Crest Trail; “(iii) Snoqualmie Pass; “(iv) Cle Elum Lake, Kachess Lake and Keechulus Lake; and “(v) other popular recreation areas along the Interstate 90 corridor east of the Seattle-Tacoma Metropolitan Area; “(B) protection and enhancement of old growth forests and habitat for threatened, endangered and sensitive species, including a net gain of approximately 28,500 acres of habitat for the northern spotted owl; “(C) consolidation of National Forest holdings for more efficient administration and to meet a broad array of ecosystem protection and other public land management goals, including net public gains of approximately 283 miles of stream ownership, 14 miles of the route of the Pacific Crest Trail, 20,000 acres of unroaded land, and 7,360 acres of riparian land; and “(D) a significant reduction in administrative costs to the United States through—“(i) consolidation of Federal land holdings for more efficient land management and planning; “(ii) elimination of approximately 300 miles of boundary identification and posting; “(iii) reduced right-of-way, special use, and other permit processing and issuance for roads and other facilities on National Forest System land; and “(iv) other administrative cost savings; “(5) Plum Creek has selected certain parcels of National Forest System land that are logical for consolidation into Plum Creek ownership utilizing a land exchange because the parcels—“(A) are intermingled with parcels owned by Plum Creek; and “(B)(i) are generally located in less environmentally sensitive areas than the Plum Creek offered land; and “(ii) have lower public recreation and other public values than the Plum Creek offered land; “(6) time is of the essence in consummating a land exchange because delays may force Plum Creek to road or log the offered land and thereby diminish the public values for which the offered land is to be acquired; and “(7) it is in the public interest to complete the land exchange at the earliest practicable date so that the offered land can be acquired and preserved by the United States for permanent public management, use, and enjoyment. “(b) Purpose.—It is the purpose of this Act to further the public interest by authorizing, directing, facilitating, and expediting the consummation of the Interstate 90 land exchange so as to ensure that the offered land is expeditiously acquired for permanent public use and enjoyment. “SEC. 603. DEFINITIONS.“In this Act:“(1) Offered land.—The term ‘offered land’ means all right, title and interest, including the surface and subsurface interests, in land described in section 604(a) to be conveyed into the public ownership of the United States under this Act. “(2) Plum creek.—The term ‘Plum Creek’ means Plum Creek Timber Company, L.P., a Delaware Limited Partnership, or its successors, heirs, or assigns. “(3) Secretary.—The term ‘Secretary’ means the Secretary of Agriculture. “(4) Selected land.—The term ‘selected land’ means all right, title and interest, including the surface and subsurface interests, unless Plum Creek agrees otherwise, in land described in section 604(b) to be conveyed into the private ownership of Plum Creek under this Act. “SEC. 604. LAND EXCHANGE.“(a) Condition and Conveyance of Offered Land.—The exchange directed by this Act shall be consummated if Plum Creek conveys title acceptable to the Secretary in and to the lands described in subsection (d), the offered lands described in paragraphs (1) and (2), or, if necessary, the lands and interests in land as provided in subsection (c) except title to offered lands and interests in lands described as follows: Township 21 North, Range 12 East, Section 15, W.M., Township 21 North, Range 12 East, Section 23, W.M., Township 21 North, Range 12 East, Section 25, W.M., Township 19 North, Range 13 East, Section 7, W.M., Township 19 North, Range 15 East, Section 31, W.M., Township 19 North, Range 14 East, Section 25, W.M., Township 22 North, Range 11 East, Section 3, W.M., and Township 22 North, Range 11 East, Section 19, W.M. must be placed in escrow by Plum Creek, according to terms and conditions acceptable to the Secretary and Plum Creek, for a 3-year period beginning on the later of the date of the enactment of this Act [Oct. 21, 1998] or consummation of the exchange. During the period the lands are held in escrow, Plum Creek shall not undertake any activities on these lands, except for fire suppression and road maintenance, without the approval of the Secretary, which shall not be unreasonably withheld.“(1) Certain land comprising approximately 8,808 acres and located within the exterior boundaries of the Mt. Baker-Snoqualmie National Forest, Washington, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998; and “(2) Certain land comprising approximately 53,576 acres and located within or adjacent to the exterior boundaries of the Wenatchee National Forest, Washington, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998 except the following parcels: Township 19 North, Range 15 East, Section 29, W.M., Township 18 North, Range 15 East, Section 3, W.M., Township 19 North, Range 14 East, Section 9, W.M., Township 21 North, Range 14 East, Section 7, W.M., Township 22 North, Range 12 East, Section 35, W.M., Township 22 North, Range 13 East, Section 3, W.M., Township 22 North, Range 13 East, Section 9, W.M., Township 22 North, Range 13 East, Section 11, W.M., Township 22 North, Range 13 East, Section 13, W.M., Township 22 North, Range 13 East, Section 15, W.M., Township 22 North, Range 13 East, Section 25, W.M., Township 22 North, Range 13 East, Section 33, W.M., Township 22 North, Range 13 East, Section 35, W.M., Township 22 North, Range 14 East, Section 7, W.M., Township 22 North, Range 14 East, Section 9, W.M., Township 22 North, Range 14 East, Section 11, W.M., Township 22 North, Range 14 East, Section 15, W.M., Township 22 North, Range 14 East, Section 17, W.M., Township 22 North, Range 14 East, Section 21, W.M., Township 22 North, Range 14 East, Section 31, W.M., Township 22 North, Range 14 East, Section 27, W.M. The appraisal approved by the Secretary of Agriculture on June 14, 1999 (the ‘Appraisal’) shall be adjusted by subtracting the values for the parcels described in the preceding sentence determined during the Appraisal process in the context of the whole estate to be conveyed. “(b) Conveyance of Selected Land by the United States.—Upon receipt of acceptable title to the offered land, as provided in section 604(a), and placement in escrow of acceptable title to Township 22 North, Range 11 East, Section 3, W.M., Township 22 North, Range 11 East, Section 19, W.M., Township 21 North, Range 12 East, Section 15, W.M., Township 21 North, Range 12 East, Section 23, W.M., Township 21 North, Range 12 East, Section 25, W.M., Township 19 North, Range 13 East, Section 7, W.M., Township 19 North, Range 15 East, Section 31, W.M., and Township 19 North, Range 14 East, Section 25, W.M., and lands and interests described in subsection (d), the Secretary shall simultaneously convey to Plum Creek all right, title and interest of the United States, subject to valid existing rights, in and to the following selected land except Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, and Township 21 North, Range 14 East, W.M., W½W½ of Section 16, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S½ of 16, W.M., which shall be retained by the United States:“(1) Certain land administered, as of the date of enactment of this Act [Oct. 21, 1998], by the Secretary of Agriculture as part of the Mt. Baker-Snoqualmie National Forest, Washington, and comprising approximately 5,697 acres, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998. “(2) Certain land administered, as of the date of enactment of this Act, by the Secretary of Agriculture as part of the Wenatchee National Forest, Washington, and comprising approximately 5,197 acres, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998. “(3) Certain land administered, as of the date of enactment of this Act, by the Secretary of Agriculture as part of the Gifford Pinchot National Forest, Washington, and comprising approximately 5,601 acres, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998. “(c) Offered Land Title.—If Plum Creek conveys title acceptable to the Secretary to less than all rights and interests in the offered lands, but conveys title acceptable to the Secretary to all rights and interests that Plum Creek owns and acquires under previous agreements in the lands described in subsection (d), the offered lands, and lands on the east and west sides of Cle Elum Lake, comprising approximately 252 acres, described as Township 21 North, Range 14 East, Section 5, and Lost Lake lands comprising approximately 272 acres, described as Township 21 North, Range 11 East, W½ of Section 3, the Secretary shall convey to Plum Creek all rights and interest in the selected land after the values of the offered and selected land are equalized. The values of the offered and selected lands shall be equalized as provided in section 605(c)–(e) without regard to the value of lands described in subsection (d) or the Cle Elum or Lost Lake lands. “(d) Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S½ of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act ([16 U.S.C. 1135](./chapter-023-national-wilderness-preservation-system.md#section-1135)). “SEC. 605. EXCHANGE VALUATION, APPRAISALS AND EQUALIZATION.“(a) Equal Value Exchange.—“(1) In general.—The values of the offered and selected land—“(A) shall be equal; or “(B) if the values are not equal, shall be equalized as set forth in subsections (c)–(e). “(2) Appraisal assumption.—In order to ensure the equitable and uniform appraisal of both the offered and selected land directed for exchange by this Act, all appraisals shall determine the highest and best use of the offered and selected land in accordance with applicable provisions of the Washington State Forest Practices Act and rules and regulations thereunder, including alternative measures for protecting critical habitat pursuant to a habitat conservation plan as provided in Washington Administrative Code 222–16–080–(6). “(3) Appraisals.—The values of the offered land and selected land shall be determined by appraisals utilizing nationally recognized appraisal standards, including applicable provisions of the Uniform Appraisal Standards for Federal Land Acquisitions (1992), the Uniform Standards of Professional Appraisal Practice, and section 206(d) of the Federal Land Policy and Management Act of 1976, as amended ([43 U.S.C. 1716(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1716/d&num=0&edition=prelim)). “(4) Approval by the Secretary.—The appraisals, if not already completed by the date of enactment of this Act [Oct. 21, 1998], shall be completed and submitted to the Secretary for approval not later than 180 days after the date of enactment of this Act: Provided, That all timber harvest cease no later than November 30, 1998, except for any cleanup, reforestation, or other post-harvest work which cannot be completed by November 30, 1998. A comprehensive summary of the appraisal consistent with 7 CFR Part 1.11 shall be made available for public inspection in the Office of the Supervisor, Wenatchee National Forest, not less than 30 days nor more than 45 days prior to the exchange of deeds. “(b) Appraisal Period.—After the final appraised values of the offered and selected lands, or any portion of the land, have been approved by the Secretary or otherwise determined under section 206(d) of the Federal Land Policy and Management Act ([43 U.S.C. 1716(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1716/d&num=0&edition=prelim)), the value shall not be reappraised or updated before consummation of the land exchange, except to account for any timber harvest that might occur after completion of the final appraisal, or for any adjustments under section 606(g). “(c) Equalization if Surplus of Offered Land.—“(1) In general.—If the final appraised value of the offered land or lands and interest in lands conveyed by Plum Creek under section 604(c), except for the Cle Elum and Lost Lake lands, exceeds the final appraised value of the selected land, Plum Creek shall delete offered land parcels from the exchange in the exact order each land Section (or offered portion thereof) is listed in paragraph (2) until the values are approximately equal. “(2) Order of deletion.—Offered land deletions under paragraph (1) shall be made in the following order:“(A) Township 22 North, Range 13 East, Section 31, Willamette Meridian; “(B) Township 21 North, Range 11 East, Section 35; “(C) Township 19 North, Range 11 East, Section 35; “(D) Township 19 North, Range 12 East, Section 1; “(E) Township 20 North, Range 11 East, Sections 1 and 13; “(F) Township 19 North, Range 12 East, Section 15; “(G) Township 20 North, Range 11 East, Section 11; “(H) Township 21 North, Range 11 East, Section 27; “(I) Township 19 North, Range 13 East, Sections 27 and 15; “(J) Township 21 North, Range 11 East, Sections 21 and 25; “(K) Township 19 North, Range 11 East, Section 23; “(L) Township 19 North, Range 13 East, Sections 21, 9 and 35; “(M) Township 20 North, Range 12 East, Sections 35 and 27; “(N) Township 19 North, Range 12 East, Section 11; “(O) Township 21 North, Range 11 East, Section 17; “(P) Township 21 North, Range 11 East, Section 5; “(Q) Township 18 North, Range 15 East, Section 3; “(R) Township 19 North, Range 14 East, Section 25; “(S) Township 19 North, Range 15 East, Sections 29 and 31; and “(T) Township 19 North, Range 13 East, Section 7. “(d) Equalization if Surplus of Selected Land.—“(1) In general.—If the final appraised value of the selected land exceeds the final appraised value of the offered land or lands and interest in lands conveyed by Plum Creek under section 604(c), except for the Cle Elum and Lost Lake lands, the Secretary shall delete selected land parcels from the exchange in the exact order each land Section (or selected portion thereof) is listed in paragraph (2) until the values are approximately equal. “(2) Order of deletion.—Selected land deletions under paragraph 1 shall be made in the following listed order:“(A) the portion of Township 20 North, Range 11 East, Section 30 lying east of the thread of Sawmill Creek; “(B) the portion of Township 19 North, Range 11 East, Section 6 lying east of the thread of Sawmill Creek; “(C) Township 20 North, Range 11 East, Section 32; “(D) Township 21 North, Range 14 East, Sections 28, 22, 36, 26 and 16; “(E) Township 18 North, Range 15 East, Sections 13, 12 and 2; “(F) Township 18 North, Range 15 East, Section 1; and “(G) Township 18 North, Range 15 East, Section 17, Willamette Meridian. “(e) Once the values of the offered and selected lands are equalized to the maximum extent practicable under subsections (c) or (d), any cash equalization balance due the Secretary or Plum Creek shall be made through cash equalization payments under subsection 206(b) of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1716(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1716/b&num=0&edition=prelim)). “(f) Use of Proceeds by the Secretary.—The amount of any cash equalization payment received by the Secretary under this section shall be retained by the Secretary and shall be used by the Secretary until fully expended to purchase land from willing sellers in the State of Washington for addition to the National Forest System. “SEC. 606. MISCELLANEOUS PROVISIONS.“(a) Status of Lands After Exchange.—“(1) Land acquired by the secretary.—“(A) In general.—Land acquired by the Secretary under this Act shall become part of the Mt. Baker-Snoqualmie, Gifford Pinchot or Wenatchee National Forests, as appropriate. “(B) Modification of boundaries.—“(1) If any land acquired by the Secretary lies outside the exterior boundaries of the national forests identified in subparagraph (A), the boundaries of the appropriate national forest are hereby modified to include such land. “(2) Nothing in this section shall limit the authority of the Secretary to adjust the boundaries of such National Forests pursuant to section 11 of the Act of March 1, 1911 (commonly known as the ‘Weeks Act’) [[16 U.S.C. 521](./chapter-002-national-forests.md#section-521)]. “(3) For purposes of section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–9](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4601–9&num=0&edition=prelim) [460l–9]) the boundaries of Mt. Baker-Snoqualmie, Wenatchee and Gifford Pinchot as modified by this Act shall be considered to be the boundaries of such forests as of January 1, 1965. “(C) Management.—Land acquired by the Secretary under this Act shall have the status of lands acquired under the Act of March 1, 1911 [act Mar. 1, 1911, ch. 186, 36 Stat. 961, see Tables for classification] and shall be managed in accordance with the laws, rules, regulations and guidelines applicable to the National Forest System. “(2) Land acquired by plum creek.—Land acquired by Plum Creek under this Act shall become private land for all purposes of law, unless the deed by which conveyance is made to Plum Creek contains a specific reservation. “(b) Post-Exchange Access to Land.—“(1) Finding.—Congress finds that Plum Creek and the Secretary should have adequate and timely post-exchange access to lands acquired pursuant to this Act over existing primary, secondary, or other national forest system roads as may be needed. “(2) Intention.—It is the intention of Congress that Plum Creek have access to all lands it acquires under this Act, and when such access requires construction of new roads, it shall be granted in compliance with the National Environmental Policy Act [of 1969] [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.], the Endangered Species Act [of 1973] [[16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.], the National Historic Preservation Act [[16 U.S.C. 470](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470) et seq.], and other applicable laws, rules, and regulations. “(3) Access within cost share agreement areas.—Within Cost Share Construction and Use Agreement Areas, Plum Creek and the Secretary will convey road access, at no cost, to the lands acquired by each party upon consummation of the exchange pursuant to this Act in accordance with the appropriate terms and procedures of said cost share construction and use agreements. “(4) Access outside cost share agreement areas.—Outside of Cost Share Construction and Use Agreement Areas, the Secretary shall grant Plum Creek road access easements at no cost in a form set out in Forest Service Handbook 2709.12, 35. In the case of new road construction, they shall conform to the Secretary’s rules and regulations 36 CFR 251, subpart B, for the roads identified on the map entitled ‘Plum Creek Access Road Needs’, dated September 1998, including mitigation under existing law. “(c) Access to Certain Lands Acquired by the United States.—Outside of Cost Share Construction and Use Agreement Areas, Plum Creek shall grant the Secretary road access easements at no cost on the locations identified by the Secretary in a format acceptable to the Secretary. “(d) Timing.—The Secretary and Plum Creek shall make the adjustments directed in section 604(a) and (b) and consummate the land exchange within 30 days of the enactment of the Interstate 90 Land Exchange Amendment [Nov. 29, 1999], unless the Secretary and Plum Creek mutually agree to extend the consummation date. “(e) Withdrawal of Selected Land.—Effective upon the date of enactment of this Act [Oct. 21, 1998], all selected land identified for exchange to Plum Creek under section 604(b) is hereby withdrawn from all forms of entry and appropriation under the U.S. mining and mineral leasing laws, including the Geothermal Steam Act of 1970 [[30 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) et seq.], until such time as the exchange is consummated, or until a particular parcel or parcels are deleted from the exchange under section 605(d). “(f) Withdrawal of Cle Elum River Lands.—Lands acquired by the Secretary under this Act that are located in Township 23 North, Range 14 East, and Township 22 North, Range 14 East, Willamette Meridian, shall upon the date of their acquisition be permanently withdrawn from all forms of entry and appropriation under the U.S. mining and mineral leasing laws, including the Geothermal Steam Act of 1970 [[30 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) et seq.]. “(g) Parcels Subject to Historic or Cultural Resource Restrictions.—“(1) Report to plum creek.—No later than 180 days after enactment of this Act [Oct. 21, 1998], the Secretary shall complete determinations and consultation under the National Historic Preservation Act [[16 U.S.C. 470](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470) et seq.] and submit a report to Plum Creek and other consulting parties under the National Historic Preservation Act listing by exact aliquot part description any parcel or parcels of selected land on which cultural properties have been identified and for which protection, use restrictions or mitigation requirements will be imposed. Such report shall include an exact description of each restriction or mitigation action required. “(2) Plum creek response.—Within 30 days of receipt of the Secretary’s report under paragraph (1), Plum Creek shall notify the Secretary as to: (i) those parcels it will accept subject to the identified use restrictions or mitigation requirements; and (ii) those parcels it will not accept because the restrictions or mitigation requirements are deemed by Plum Creek to be an unacceptable encumbrance on the land. “(3) Parcel deletion.—The Secretary shall delete from the selected land those parcels identified by Plum Creek as unacceptable for conveyance under paragraph (2). “(4) Appraisal adjustment.—The fair market value of any parcels deleted under paragraph (3), or any modification in fair market value caused by the use restrictions or mitigation requirements on land accepted by Plum Creek, shall be based on their contributory value to the final approved appraised value of the selected land and subtracted from such value prior to consummation of the exchange. “(h) Access Limitation.—The Secretary shall not grant any road easements that would access the offered lands listed in section 604(a) prior to consummation of the exchange: Provided, That this provision shall not apply should either party withdraw from the exchange. “SEC. 607. LAND PURCHASE.“(a) Finding.—The Congress finds that certain lands owned by Plum Creek in the vicinity of the offered lands (but which are not included in the land exchange under this Act, or are deleted under section 605(c)) are highly desirable for addition to the National Forest System, and that Plum Creek has indicated its willingness to sell certain such lands to the United States. It is the intention of Congress that such lands be acquired by the United States, subject to the availability of funds, by purchase at fair market value consistent with the land acquisition procedures of the Secretary, and with the consent of Plum Creek, in order to preserve their outstanding scenic and natural values for the benefit of future generations. “(b) Purchase Consultation.—In furtherance of subsection (a), the Secretary is authorized and directed to consult with Plum Creek to determine the precise lands Plum Creek is willing to sell. “(c) Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions. “SEC. 608. TIETON RIVER STUDY.“The Secretary is authorized and directed to consult with Plum Creek concerning opportunities for the United States to acquire by exchange or purchase Plum Creek lands along the Tieton River in Township 14 North, Range 15 East, Willamette Meridian. “SEC. 609. FUTURE LAND EXCHANGE OPPORTUNITY.“(a) Finding.—The Congress finds that certain lands which were identified for exchange to the United States in the I–90 Land Exchange process have been, or may be, deleted from the final exchange under this Act due to value equalization or other reasons. However, some or all of such deleted lands, or other Plum Creek lands, may possess attributes that merit their conveyance to the United States in a follow-up land exchange, including lands in or around the Carbon River, the Yakima River, the Pacific Crest Trail, Watch Mountain and Goat Mountain on the Gifford Pinchot National Forest, the Green River and the Manastash late successional reserve. “(b) Future Exchange.—In furtherance of subsection (a), the Secretary is authorized and directed to consult with Plum Creek in examining opportunities for the United States to acquire such deleted lands, or other Plum Creek lands in the State of Washington, in a future exchange. “(c) Report to Congress.—Not later than 18 months after the date of enactment of this Act [Oct. 21, 1998], the Secretary shall submit a report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources [now Committee on Natural Resources] of the United States House of Representatives briefly outlining future land exchange opportunities with Plum Creek, including those for which the Secretary is required to consult under section 608, which the Secretary determines merit detailed analysis and consideration. The Secretary should identify the most urgent acquisitions for purchase or exchange in the report. “SEC. 610. WILDERNESS STUDY AREA.“In furtherance of the purposes of the Wilderness Act [[16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.], if the land exchange directed by this Act is consummated, the area of land comprising approximately 15,000 acres, as generally depicted on a map entitled ‘Alpine Lakes Wilderness Study Area’, dated October 1998, shall be reviewed by the Secretary of Agriculture as to its suitability for preservation as wilderness. The Secretary shall submit a report and findings to the President, and the President shall submit his recommendations to the United States House of Representatives and United States Senate no later than three years after the first date on which deeds are exchanged to consummate the land exchange. Subject to valid existing rights and existing uses, such lands shall, until Congress determines otherwise or until December 31, 2003, be administered by the Secretary to maintain their wilderness character existing as of the date of enactment of this Act and potential for inclusion in the National Wilderness Preservation System, and shall be withdrawn from all forms of entry and appropriation under the U.S. mining and mineral leasing laws, including the Geothermal Steam Act of 1970 [[30 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) et seq.]. “SEC. 611. KELLY BUTTE SPECIAL MANAGEMENT AREA.“[Enacted this section.] “SEC. 612. EFFECT ON COUNTY REVENUES.“The Secretary shall consult with the appropriate Committees of Congress, and local elected officials in the counties in the State of Washington in which the offered lands are located, regarding options to minimize the adverse effect on county revenues of the transfer of the offered lands from private to Federal ownership.”
+Pub. L. 105–277, div. A, § 101(e) [title VI], Oct. 21, 1998, 112 Stat. 2681–231, 2681–326, as amended by Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 346(b)–(e), (h), (j)], Nov. 29, 1999, 113 Stat. 1535, 1501A–204 to 1501A–206; Pub. L. 113–287, § 5(d)(14), Dec. 19, 2014, 128 Stat. 3265, provided that: “SEC. 601. SHORT TITLE.“This Act [probably should be “this title” meaning Pub. L. 105–277, div. A, § 101(e) [title VI]] may be cited as the ‘Interstate 90 Land Exchange Act of 1998’. “SEC. 602. FINDINGS AND PURPOSE.“(a) Findings.—Congress finds that—“(1) certain parcels of private land located in central and southwest Washington are intermingled with National Forest System land owned by the United States and administered by the Secretary of Agriculture as parts of the Mt. Baker-Snoqualmie National Forest, Wenatchee National Forest, and Gifford Pinchot National Forest; “(2) the private land surface estate and some subsurface is owned by the Plum Creek Timber Company, L.P. in an intermingled checkerboard pattern, with the United States or Plum Creek owning alternate square mile sections of land or fractions of square mile sections; “(3) the checkerboard land ownership pattern in the area has frustrated sound and efficient land management on both private and National Forest lands by complicating fish and wildlife habitat management, watershed protection, recreation use, road construction and timber harvest, boundary administration, and protection and management of threatened and endangered species and old growth forest habitat; “(4) acquisition by the United States of certain parcels of land that have been offered by Plum Creek for addition to the Mt. Baker-Snoqualmie National Forest and Wenatchee National Forest will serve important public objectives, including—“(A) enhancement of public access, aesthetics and recreation opportunities within or near areas of very heavy public recreational use including—“(i) the Alpine Lakes Wilderness Area; “(ii) the Pacific Crest Trail; “(iii) Snoqualmie Pass; “(iv) Cle Elum Lake, Kachess Lake and Keechulus Lake; and “(v) other popular recreation areas along the Interstate 90 corridor east of the Seattle-Tacoma Metropolitan Area; “(B) protection and enhancement of old growth forests and habitat for threatened, endangered and sensitive species, including a net gain of approximately 28,500 acres of habitat for the northern spotted owl; “(C) consolidation of National Forest holdings for more efficient administration and to meet a broad array of ecosystem protection and other public land management goals, including net public gains of approximately 283 miles of stream ownership, 14 miles of the route of the Pacific Crest Trail, 20,000 acres of unroaded land, and 7,360 acres of riparian land; and “(D) a significant reduction in administrative costs to the United States through—“(i) consolidation of Federal land holdings for more efficient land management and planning; “(ii) elimination of approximately 300 miles of boundary identification and posting; “(iii) reduced right-of-way, special use, and other permit processing and issuance for roads and other facilities on National Forest System land; and “(iv) other administrative cost savings; “(5) Plum Creek has selected certain parcels of National Forest System land that are logical for consolidation into Plum Creek ownership utilizing a land exchange because the parcels—“(A) are intermingled with parcels owned by Plum Creek; and “(B)(i) are generally located in less environmentally sensitive areas than the Plum Creek offered land; and “(ii) have lower public recreation and other public values than the Plum Creek offered land; “(6) time is of the essence in consummating a land exchange because delays may force Plum Creek to road or log the offered land and thereby diminish the public values for which the offered land is to be acquired; and “(7) it is in the public interest to complete the land exchange at the earliest practicable date so that the offered land can be acquired and preserved by the United States for permanent public management, use, and enjoyment. “(b) Purpose.—It is the purpose of this Act to further the public interest by authorizing, directing, facilitating, and expediting the consummation of the Interstate 90 land exchange so as to ensure that the offered land is expeditiously acquired for permanent public use and enjoyment. “SEC. 603. DEFINITIONS.“In this Act:“(1) Offered land.—The term ‘offered land’ means all right, title and interest, including the surface and subsurface interests, in land described in section 604(a) to be conveyed into the public ownership of the United States under this Act. “(2) Plum creek.—The term ‘Plum Creek’ means Plum Creek Timber Company, L.P., a Delaware Limited Partnership, or its successors, heirs, or assigns. “(3) Secretary.—The term ‘Secretary’ means the Secretary of Agriculture. “(4) Selected land.—The term ‘selected land’ means all right, title and interest, including the surface and subsurface interests, unless Plum Creek agrees otherwise, in land described in section 604(b) to be conveyed into the private ownership of Plum Creek under this Act. “SEC. 604. LAND EXCHANGE.“(a) Condition and Conveyance of Offered Land.—The exchange directed by this Act shall be consummated if Plum Creek conveys title acceptable to the Secretary in and to the lands described in subsection (d), the offered lands described in paragraphs (1) and (2), or, if necessary, the lands and interests in land as provided in subsection (c) except title to offered lands and interests in lands described as follows: Township 21 North, Range 12 East, Section 15, W.M., Township 21 North, Range 12 East, Section 23, W.M., Township 21 North, Range 12 East, Section 25, W.M., Township 19 North, Range 13 East, Section 7, W.M., Township 19 North, Range 15 East, Section 31, W.M., Township 19 North, Range 14 East, Section 25, W.M., Township 22 North, Range 11 East, Section 3, W.M., and Township 22 North, Range 11 East, Section 19, W.M. must be placed in escrow by Plum Creek, according to terms and conditions acceptable to the Secretary and Plum Creek, for a 3-year period beginning on the later of the date of the enactment of this Act [Oct. 21, 1998] or consummation of the exchange. During the period the lands are held in escrow, Plum Creek shall not undertake any activities on these lands, except for fire suppression and road maintenance, without the approval of the Secretary, which shall not be unreasonably withheld.“(1) Certain land comprising approximately 8,808 acres and located within the exterior boundaries of the Mt. Baker-Snoqualmie National Forest, Washington, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998; and “(2) Certain land comprising approximately 53,576 acres and located within or adjacent to the exterior boundaries of the Wenatchee National Forest, Washington, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998 except the following parcels: Township 19 North, Range 15 East, Section 29, W.M., Township 18 North, Range 15 East, Section 3, W.M., Township 19 North, Range 14 East, Section 9, W.M., Township 21 North, Range 14 East, Section 7, W.M., Township 22 North, Range 12 East, Section 35, W.M., Township 22 North, Range 13 East, Section 3, W.M., Township 22 North, Range 13 East, Section 9, W.M., Township 22 North, Range 13 East, Section 11, W.M., Township 22 North, Range 13 East, Section 13, W.M., Township 22 North, Range 13 East, Section 15, W.M., Township 22 North, Range 13 East, Section 25, W.M., Township 22 North, Range 13 East, Section 33, W.M., Township 22 North, Range 13 East, Section 35, W.M., Township 22 North, Range 14 East, Section 7, W.M., Township 22 North, Range 14 East, Section 9, W.M., Township 22 North, Range 14 East, Section 11, W.M., Township 22 North, Range 14 East, Section 15, W.M., Township 22 North, Range 14 East, Section 17, W.M., Township 22 North, Range 14 East, Section 21, W.M., Township 22 North, Range 14 East, Section 31, W.M., Township 22 North, Range 14 East, Section 27, W.M. The appraisal approved by the Secretary of Agriculture on June 14, 1999 (the ‘Appraisal’) shall be adjusted by subtracting the values for the parcels described in the preceding sentence determined during the Appraisal process in the context of the whole estate to be conveyed. “(b) Conveyance of Selected Land by the United States.—Upon receipt of acceptable title to the offered land, as provided in section 604(a), and placement in escrow of acceptable title to Township 22 North, Range 11 East, Section 3, W.M., Township 22 North, Range 11 East, Section 19, W.M., Township 21 North, Range 12 East, Section 15, W.M., Township 21 North, Range 12 East, Section 23, W.M., Township 21 North, Range 12 East, Section 25, W.M., Township 19 North, Range 13 East, Section 7, W.M., Township 19 North, Range 15 East, Section 31, W.M., and Township 19 North, Range 14 East, Section 25, W.M., and lands and interests described in subsection (d), the Secretary shall simultaneously convey to Plum Creek all right, title and interest of the United States, subject to valid existing rights, in and to the following selected land except Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, and Township 21 North, Range 14 East, W.M., W½W½ of Section 16, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S½ of 16, W.M., which shall be retained by the United States:“(1) Certain land administered, as of the date of enactment of this Act [Oct. 21, 1998], by the Secretary of Agriculture as part of the Mt. Baker-Snoqualmie National Forest, Washington, and comprising approximately 5,697 acres, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998. “(2) Certain land administered, as of the date of enactment of this Act, by the Secretary of Agriculture as part of the Wenatchee National Forest, Washington, and comprising approximately 5,197 acres, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998. “(3) Certain land administered, as of the date of enactment of this Act, by the Secretary of Agriculture as part of the Gifford Pinchot National Forest, Washington, and comprising approximately 5,601 acres, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998. “(c) Offered Land Title.—If Plum Creek conveys title acceptable to the Secretary to less than all rights and interests in the offered lands, but conveys title acceptable to the Secretary to all rights and interests that Plum Creek owns and acquires under previous agreements in the lands described in subsection (d), the offered lands, and lands on the east and west sides of Cle Elum Lake, comprising approximately 252 acres, described as Township 21 North, Range 14 East, Section 5, and Lost Lake lands comprising approximately 272 acres, described as Township 21 North, Range 11 East, W½ of Section 3, the Secretary shall convey to Plum Creek all rights and interest in the selected land after the values of the offered and selected land are equalized. The values of the offered and selected lands shall be equalized as provided in section 605(c)–(e) without regard to the value of lands described in subsection (d) or the Cle Elum or Lost Lake lands. “(d) Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S½ of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act ([16 U.S.C. 1135](./chapter-023-national-wilderness-preservation-system.md#section-1135)). “SEC. 605. EXCHANGE VALUATION, APPRAISALS AND EQUALIZATION.“(a) Equal Value Exchange.—“(1) In general.—The values of the offered and selected land—“(A) shall be equal; or “(B) if the values are not equal, shall be equalized as set forth in subsections (c)–(e). “(2) Appraisal assumption.—In order to ensure the equitable and uniform appraisal of both the offered and selected land directed for exchange by this Act, all appraisals shall determine the highest and best use of the offered and selected land in accordance with applicable provisions of the Washington State Forest Practices Act and rules and regulations thereunder, including alternative measures for protecting critical habitat pursuant to a habitat conservation plan as provided in Washington Administrative Code 222–16–080–(6). “(3) Appraisals.—The values of the offered land and selected land shall be determined by appraisals utilizing nationally recognized appraisal standards, including applicable provisions of the Uniform Appraisal Standards for Federal Land Acquisitions (1992), the Uniform Standards of Professional Appraisal Practice, and section 206(d) of the Federal Land Policy and Management Act of 1976, as amended ([43 U.S.C. 1716(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1716/d&num=0&edition=prelim)). “(4) Approval by the Secretary.—The appraisals, if not already completed by the date of enactment of this Act [Oct. 21, 1998], shall be completed and submitted to the Secretary for approval not later than 180 days after the date of enactment of this Act: Provided, That all timber harvest cease no later than November 30, 1998, except for any cleanup, reforestation, or other post-harvest work which cannot be completed by November 30, 1998. A comprehensive summary of the appraisal consistent with 7 CFR Part 1.11 shall be made available for public inspection in the Office of the Supervisor, Wenatchee National Forest, not less than 30 days nor more than 45 days prior to the exchange of deeds. “(b) Appraisal Period.—After the final appraised values of the offered and selected lands, or any portion of the land, have been approved by the Secretary or otherwise determined under section 206(d) of the Federal Land Policy and Management Act ([43 U.S.C. 1716(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1716/d&num=0&edition=prelim)), the value shall not be reappraised or updated before consummation of the land exchange, except to account for any timber harvest that might occur after completion of the final appraisal, or for any adjustments under section 606(g). “(c) Equalization if Surplus of Offered Land.—“(1) In general.—If the final appraised value of the offered land or lands and interest in lands conveyed by Plum Creek under section 604(c), except for the Cle Elum and Lost Lake lands, exceeds the final appraised value of the selected land, Plum Creek shall delete offered land parcels from the exchange in the exact order each land Section (or offered portion thereof) is listed in paragraph (2) until the values are approximately equal. “(2) Order of deletion.—Offered land deletions under paragraph (1) shall be made in the following order:“(A) Township 22 North, Range 13 East, Section 31, Willamette Meridian; “(B) Township 21 North, Range 11 East, Section 35; “(C) Township 19 North, Range 11 East, Section 35; “(D) Township 19 North, Range 12 East, Section 1; “(E) Township 20 North, Range 11 East, Sections 1 and 13; “(F) Township 19 North, Range 12 East, Section 15; “(G) Township 20 North, Range 11 East, Section 11; “(H) Township 21 North, Range 11 East, Section 27; “(I) Township 19 North, Range 13 East, Sections 27 and 15; “(J) Township 21 North, Range 11 East, Sections 21 and 25; “(K) Township 19 North, Range 11 East, Section 23; “(L) Township 19 North, Range 13 East, Sections 21, 9 and 35; “(M) Township 20 North, Range 12 East, Sections 35 and 27; “(N) Township 19 North, Range 12 East, Section 11; “(O) Township 21 North, Range 11 East, Section 17; “(P) Township 21 North, Range 11 East, Section 5; “(Q) Township 18 North, Range 15 East, Section 3; “(R) Township 19 North, Range 14 East, Section 25; “(S) Township 19 North, Range 15 East, Sections 29 and 31; and “(T) Township 19 North, Range 13 East, Section 7. “(d) Equalization if Surplus of Selected Land.—“(1) In general.—If the final appraised value of the selected land exceeds the final appraised value of the offered land or lands and interest in lands conveyed by Plum Creek under section 604(c), except for the Cle Elum and Lost Lake lands, the Secretary shall delete selected land parcels from the exchange in the exact order each land Section (or selected portion thereof) is listed in paragraph (2) until the values are approximately equal. “(2) Order of deletion.—Selected land deletions under paragraph 1 shall be made in the following listed order:“(A) the portion of Township 20 North, Range 11 East, Section 30 lying east of the thread of Sawmill Creek; “(B) the portion of Township 19 North, Range 11 East, Section 6 lying east of the thread of Sawmill Creek; “(C) Township 20 North, Range 11 East, Section 32; “(D) Township 21 North, Range 14 East, Sections 28, 22, 36, 26 and 16; “(E) Township 18 North, Range 15 East, Sections 13, 12 and 2; “(F) Township 18 North, Range 15 East, Section 1; and “(G) Township 18 North, Range 15 East, Section 17, Willamette Meridian. “(e) Once the values of the offered and selected lands are equalized to the maximum extent practicable under subsections (c) or (d), any cash equalization balance due the Secretary or Plum Creek shall be made through cash equalization payments under subsection 206(b) of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1716(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1716/b&num=0&edition=prelim)). “(f) Use of Proceeds by the Secretary.—The amount of any cash equalization payment received by the Secretary under this section shall be retained by the Secretary and shall be used by the Secretary until fully expended to purchase land from willing sellers in the State of Washington for addition to the National Forest System. “SEC. 606. MISCELLANEOUS PROVISIONS.“(a) Status of Lands After Exchange.—“(1) Land acquired by the secretary.—“(A) In general.—Land acquired by the Secretary under this Act shall become part of the Mt. Baker-Snoqualmie, Gifford Pinchot or Wenatchee National Forests, as appropriate. “(B) Modification of boundaries.—“(1) If any land acquired by the Secretary lies outside the exterior boundaries of the national forests identified in subparagraph (A), the boundaries of the appropriate national forest are hereby modified to include such land. “(2) Nothing in this section shall limit the authority of the Secretary to adjust the boundaries of such National Forests pursuant to section 11 of the Act of March 1, 1911 (commonly known as the ‘Weeks Act’) [[16 U.S.C. 521](./chapter-002-national-forests.md#section-521)]. “(3) For purposes of [section 100506 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100506&num=0&edition=prelim), United States Code, the boundaries of Mt. Baker-Snoqualmie, Wenatchee and Gifford Pinchot as modified by this Act shall be considered to be the boundaries of such forests as of January 1, 1965. “(C) Management.—Land acquired by the Secretary under this Act shall have the status of lands acquired under the Act of March 1, 1911 [act Mar. 1, 1911, ch. 186, 36 Stat. 961, see Tables for classification] and shall be managed in accordance with the laws, rules, regulations and guidelines applicable to the National Forest System. “(2) Land acquired by plum creek.—Land acquired by Plum Creek under this Act shall become private land for all purposes of law, unless the deed by which conveyance is made to Plum Creek contains a specific reservation. “(b) Post-Exchange Access to Land.—“(1) Finding.—Congress finds that Plum Creek and the Secretary should have adequate and timely post-exchange access to lands acquired pursuant to this Act over existing primary, secondary, or other national forest system roads as may be needed. “(2) Intention.—It is the intention of Congress that Plum Creek have access to all lands it acquires under this Act, and when such access requires construction of new roads, it shall be granted in compliance with the National Environmental Policy Act [of 1969] [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.], the Endangered Species Act [of 1973] [[16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.], division A of subtitle III of title 54, United States Code, and other applicable laws, rules, and regulations. “(3) Access within cost share agreement areas.—Within Cost Share Construction and Use Agreement Areas, Plum Creek and the Secretary will convey road access, at no cost, to the lands acquired by each party upon consummation of the exchange pursuant to this Act in accordance with the appropriate terms and procedures of said cost share construction and use agreements. “(4) Access outside cost share agreement areas.—Outside of Cost Share Construction and Use Agreement Areas, the Secretary shall grant Plum Creek road access easements at no cost in a form set out in Forest Service Handbook 2709.12, 35. In the case of new road construction, they shall conform to the Secretary’s rules and regulations 36 CFR 251, subpart B, for the roads identified on the map entitled ‘Plum Creek Access Road Needs’, dated September 1998, including mitigation under existing law. “(c) Access to Certain Lands Acquired by the United States.—Outside of Cost Share Construction and Use Agreement Areas, Plum Creek shall grant the Secretary road access easements at no cost on the locations identified by the Secretary in a format acceptable to the Secretary. “(d) Timing.—The Secretary and Plum Creek shall make the adjustments directed in section 604(a) and (b) and consummate the land exchange within 30 days of the enactment of the Interstate 90 Land Exchange Amendment [Nov. 29, 1999], unless the Secretary and Plum Creek mutually agree to extend the consummation date. “(e) Withdrawal of Selected Land.—Effective upon the date of enactment of this Act [Oct. 21, 1998], all selected land identified for exchange to Plum Creek under section 604(b) is hereby withdrawn from all forms of entry and appropriation under the U.S. mining and mineral leasing laws, including the Geothermal Steam Act of 1970 [[30 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) et seq.], until such time as the exchange is consummated, or until a particular parcel or parcels are deleted from the exchange under section 605(d). “(f) Withdrawal of Cle Elum River Lands.—Lands acquired by the Secretary under this Act that are located in Township 23 North, Range 14 East, and Township 22 North, Range 14 East, Willamette Meridian, shall upon the date of their acquisition be permanently withdrawn from all forms of entry and appropriation under the U.S. mining and mineral leasing laws, including the Geothermal Steam Act of 1970 [[30 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) et seq.]. “(g) Parcels Subject to Historic or Cultural Resource Restrictions.—“(1) Report to plum creek.—No later than 180 days after enactment of this Act [Oct. 21, 1998], the Secretary shall complete determinations and consultation under division A of subtitle III of title 54, United States Code, and submit a report to Plum Creek and other consulting parties under the National Historic Preservation Act listing by exact aliquot part description any parcel or parcels of selected land on which cultural properties have been identified and for which protection, use restrictions or mitigation requirements will be imposed. Such report shall include an exact description of each restriction or mitigation action required. “(2) Plum creek response.—Within 30 days of receipt of the Secretary’s report under paragraph (1), Plum Creek shall notify the Secretary as to: (i) those parcels it will accept subject to the identified use restrictions or mitigation requirements; and (ii) those parcels it will not accept because the restrictions or mitigation requirements are deemed by Plum Creek to be an unacceptable encumbrance on the land. “(3) Parcel deletion.—The Secretary shall delete from the selected land those parcels identified by Plum Creek as unacceptable for conveyance under paragraph (2). “(4) Appraisal adjustment.—The fair market value of any parcels deleted under paragraph (3), or any modification in fair market value caused by the use restrictions or mitigation requirements on land accepted by Plum Creek, shall be based on their contributory value to the final approved appraised value of the selected land and subtracted from such value prior to consummation of the exchange. “(h) Access Limitation.—The Secretary shall not grant any road easements that would access the offered lands listed in section 604(a) prior to consummation of the exchange: Provided, That this provision shall not apply should either party withdraw from the exchange. “SEC. 607. LAND PURCHASE.“(a) Finding.—The Congress finds that certain lands owned by Plum Creek in the vicinity of the offered lands (but which are not included in the land exchange under this Act, or are deleted under section 605(c)) are highly desirable for addition to the National Forest System, and that Plum Creek has indicated its willingness to sell certain such lands to the United States. It is the intention of Congress that such lands be acquired by the United States, subject to the availability of funds, by purchase at fair market value consistent with the land acquisition procedures of the Secretary, and with the consent of Plum Creek, in order to preserve their outstanding scenic and natural values for the benefit of future generations. “(b) Purchase Consultation.—In furtherance of subsection (a), the Secretary is authorized and directed to consult with Plum Creek to determine the precise lands Plum Creek is willing to sell. “(c) Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions. “SEC. 608. TIETON RIVER STUDY.“The Secretary is authorized and directed to consult with Plum Creek concerning opportunities for the United States to acquire by exchange or purchase Plum Creek lands along the Tieton River in Township 14 North, Range 15 East, Willamette Meridian. “SEC. 609. FUTURE LAND EXCHANGE OPPORTUNITY.“(a) Finding.—The Congress finds that certain lands which were identified for exchange to the United States in the I–90 Land Exchange process have been, or may be, deleted from the final exchange under this Act due to value equalization or other reasons. However, some or all of such deleted lands, or other Plum Creek lands, may possess attributes that merit their conveyance to the United States in a follow-up land exchange, including lands in or around the Carbon River, the Yakima River, the Pacific Crest Trail, Watch Mountain and Goat Mountain on the Gifford Pinchot National Forest, the Green River and the Manastash late successional reserve. “(b) Future Exchange.—In furtherance of subsection (a), the Secretary is authorized and directed to consult with Plum Creek in examining opportunities for the United States to acquire such deleted lands, or other Plum Creek lands in the State of Washington, in a future exchange. “(c) Report to Congress.—Not later than 18 months after the date of enactment of this Act [Oct. 21, 1998], the Secretary shall submit a report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources [now Committee on Natural Resources] of the United States House of Representatives briefly outlining future land exchange opportunities with Plum Creek, including those for which the Secretary is required to consult under section 608, which the Secretary determines merit detailed analysis and consideration. The Secretary should identify the most urgent acquisitions for purchase or exchange in the report. “SEC. 610. WILDERNESS STUDY AREA.“In furtherance of the purposes of the Wilderness Act [[16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.], if the land exchange directed by this Act is consummated, the area of land comprising approximately 15,000 acres, as generally depicted on a map entitled ‘Alpine Lakes Wilderness Study Area’, dated October 1998, shall be reviewed by the Secretary of Agriculture as to its suitability for preservation as wilderness. The Secretary shall submit a report and findings to the President, and the President shall submit his recommendations to the United States House of Representatives and United States Senate no later than three years after the first date on which deeds are exchanged to consummate the land exchange. Subject to valid existing rights and existing uses, such lands shall, until Congress determines otherwise or until December 31, 2003, be administered by the Secretary to maintain their wilderness character existing as of the date of enactment of this Act and potential for inclusion in the National Wilderness Preservation System, and shall be withdrawn from all forms of entry and appropriation under the U.S. mining and mineral leasing laws, including the Geothermal Steam Act of 1970 [[30 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) et seq.]. “SEC. 611. KELLY BUTTE SPECIAL MANAGEMENT AREA.“[Enacted this section.] “SEC. 612. EFFECT ON COUNTY REVENUES.“The Secretary shall consult with the appropriate Committees of Congress, and local elected officials in the counties in the State of Washington in which the offered lands are located, regarding options to minimize the adverse effect on county revenues of the transfer of the offered lands from private to Federal ownership.”
+
+[Pub. L. 113–287, § 5(d)(14)(A), Dec. 19, 2014, 128 Stat. 3265, which directed substitution of “[section 100506 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100506&num=0&edition=prelim), United States Code,” for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–9)” in subsec. (a)(3) of section 606 of Pub. L. 105–277, set out above, was executed by making the substitution for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–9](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4601–9&num=0&edition=prelim))” in subsec. (a)(1)(B)(3) of section 606 of Pub. L. 105–277, to reflect the probable intent of Congress.]
 
 
 <a id="section-539l"></a>
@@ -2925,6 +2909,9 @@ Sections 539m to 539m–12 of this title, referred to in subsec. (b), was in the
 #### Effective Date
 Pub. L. 108–7, div. F, title IV, § 415, Feb. 20, 2003, 117 Stat. 294, provided that: “The provisions of this title [see Short Title note below] shall take effect immediately on enactment of this Act [Feb. 20, 2003].”
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–119, § 1, June 9, 2014, 128 Stat. 1185, provided that: “This Act [amending [section 539m–11 of this title](./chapter-002-national-forests.md#section-539m-11)] may be cited as the ‘Sandia Pueblo Settlement Technical Amendment Act’.”
+
 #### Short Title
 Pub. L. 108–7, div. F, title IV, § 401, Feb. 20, 2003, 117 Stat. 279, provided that: “This title [enacting this section and sections 539m–1 to 539m–12 of this title, amending [section 1746 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1746&num=0&edition=prelim), Public Lands, and enacting provisions set out as a note above] may be cited as the ‘T’uf Shur Bien Preservation Trust Area Act’.”
 
@@ -3104,9 +3091,27 @@ Sections 539m to 539m–12 of this title, referred to in text, was in the origin
 
 (3) **Funds received** — Any funds received by the Secretary as a result of the exchange shall be deposited in the fund established under [section 484a of this title](./chapter-002-national-forests.md#section-484a), and shall be available to purchase non-Federal land within or adjacent to the National Forests in the State of New Mexico.
 
-(4) **Treatment of land exchanged or conveyed** — All land exchanged or conveyed to the Pueblo is declared to be held in trust for the Pueblo by the United States and added to the Pueblo’s Reservation subject to all existing and outstanding rights and shall, as a condition of the conveyance, remain in its natural state and shall not be subject to commercial development of any kind. Land exchanged or conveyed to the Forest Service shall be subject to all limitations on use pertaining to the Area under sections 539m to 539m–12 of this title.
+(4) **Treatment of land exchanged or conveyed** — All land exchanged or conveyed to the Pueblo is declared to be held in trust for the Pueblo by the United States and added to the Pueblo’s Reservation subject to all existing and outstanding rights and shall, as a condition of the title to be conveyed, remain in its natural state and shall not be subject to commercial development of any kind. Land exchanged or conveyed to the Forest Service shall be subject to all limitations on use pertaining to the Area under sections 539m to 539m–12 of this title.
 
 (5) **Failure to make offer** — If the land exchange offer is not made by the date that is 180 days after February 20, 2003, the Secretary shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives, a report explaining the reasons for the failure to make the offer including an assessment of the need for any additional legislation that may be necessary for the exchange. If additional legislation is not necessary, the Secretary, consistent with this section, should proceed with the exchange pursuant to existing law.
+
+(6) **Failure to exchange**
+
+  (A) *In general* — If the land exchange authorized under paragraph (1) is not completed by the date that is 30 days after June 9, 2014, the Secretary, on request of the Pueblo and the Secretary of the Interior, shall transfer the National Forest land generally depicted as “Land to be Held in Trust” on the map entitled “Sandia Pueblo Settlement Technical Amendment Act” and dated October 18, 2013, to the Secretary of the Interior to be held in trust by the United States for the Pueblo—
+
+    (i) subject to the restriction enforced by the Secretary of the Interior that the land remain undeveloped, with the natural characteristics of the land to be preserved in perpetuity; and
+
+    (ii) consistent with subsection (c).
+
+  (B) *Other transfers* — After the transfer under subparagraph (A) is complete, the Secretary of the Interior, with the consent of the Pueblo, shall—
+
+    (i) transfer to the Secretary, consistent with [section 539m–9(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section539m–9/c&num=0&edition=prelim)—
+
+      (I) the La Luz tract generally depicted on the map entitled “Sandia Pueblo Settlement Technical Amendment Act” and dated October 18, 2013; and
+
+      (II) the conservation easement for the Piedra Lisa tract generally depicted on the map entitled “Sandia Pueblo Settlement Technical Amendment Act” and dated October 18, 2013; and
+
+    (ii) grant to the Secretary a right-of-way for the Piedra Lisa Trail within the Piedra Lisa tract generally depicted on the map entitled “Sandia Pueblo Settlement Technical Amendment Act” and dated October 18, 2013.
 
 **(c) Land acquisition and other compensation**
 
@@ -3144,6 +3149,10 @@ Sections 539m to 539m–12 of this title, referred to in subsecs. (a)(1)(B) and 
 The Equal Access to Justice Act, referred to in subsec. (d)(2), is title II of Pub. L. 96–481, Oct. 21, 1980, 94 Stat. 2325, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 504 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section504&num=0&edition=prelim), Government Organization and Employees, and Tables.
 
 #### Amendments
+2014—Subsec. (b)(4). Pub. L. 113–119, § 2(1), substituted “title to be conveyed” for “conveyance”.
+
+Subsec. (b)(6). Pub. L. 113–119, § 2(2), added par. (6).
+
 2009—Subsec. (b)(1). Pub. L. 111–11, § 3309(1), inserted “3,” after “sections”.
 
 Subsec. (b)(4). Pub. L. 111–11, § 3309(2), inserted “, as a condition of the conveyance,” before “remain” in first sentence.
@@ -3677,9 +3686,9 @@ Section is comprised of section 411 of div. F of Pub. L. 108–7. Subsec. (e) of
 #### References in Text
 Section 1206(a)(2), referred to in par. (1)(A), is section 1206(a)(2) of Pub. L. 111–11, title I, Mar. 30, 2009, 123 Stat. 1018, which is not classified to the Code.
 
-Section 1202, referred to in par. (1)(B), is section 1202 of Pub. L. 111–11, which enacted provisions listed in a table of National Memorials set out under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431) and enacted and amended provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132).
+Section 1202, referred to in par. (1)(B), is section 1202 of Pub. L. 111–11, which enacted provisions listed in a table of National Memorials set out under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs, and enacted and amended provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132).
 
-This subtitle, referred to in par. (3)(B), is subtitle C (§§ 1201–1207) of title I of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1007, which enacted this section and subchapter CXXXII of chapter 1 of this title, amended sections 544k and 1274 of this title, enacted provisions set out as notes under sections 460uuu and 1274 of this title, enacted provisions listed in a table of National Memorials set out under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431), and enacted and amended provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132). For complete classification of subtitle C to the Code, see Tables.
+This subtitle, referred to in par. (3)(B), is subtitle C (§§ 1201–1207) of title I of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1007, which enacted this section and subchapter CXXXII of chapter 1 of this title, amended sections 544k and 1274 of this title, enacted provisions set out as notes under sections 460uuu and 1274 of this title, enacted provisions listed in a table of National Memorials set out under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs, and enacted and amended provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132). For complete classification of subtitle C to the Code, see Tables.
 
 #### Definitions
 For definitions of terms used in this section, see section 1201 of Pub. L. 111–11, set out as a note under [section 460uuu of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460uuu).
@@ -3744,6 +3753,802 @@ The National Forest Management Act of 1976, referred to in subsec. (c)(1)(B), is
 For definitions of terms used in this section, see section 1801 of Pub. L. 111–11, set out as a note under [section 460vvv of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460vvv).
 
 
+<a id="section-539p"></a>
+## § 539p. Southeast Arizona land exchange and conservation
+**(a) Purpose** The purpose of this section is to authorize, direct, facilitate, and expedite the exchange of land between Resolution Copper and the United States.
+
+**(b) Definitions** In this section:
+
+(1) **Apache Leap** — The term “Apache Leap” means the approximately 807 acres of land depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Apache Leap” and dated March 2011.
+
+(2) **Federal land** — The term “Federal land” means the approximately 2,422 acres of land located in Pinal County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Oak Flat” and dated March 2011.
+
+(3) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+
+(4) **Non-Federal land** — The term “non-Federal land” means the parcels of land owned by Resolution Copper that are described in subsection (d)(1) and, if necessary to equalize the land exchange under subsection (c), subsection (c)(5)(B)(i)(I).
+
+(5) **Oak Flat Campground** — The term “Oak Flat Campground” means the approximately 50 acres of land comprising approximately 16 developed campsites depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Oak Flat Campground” and dated March 2011.
+
+(6) **Oak Flat Withdrawal Area** — The term “Oak Flat Withdrawal Area” means the approximately 760 acres of land depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Oak Flat Withdrawal Area” and dated March 2011.
+
+(7) **Resolution Copper** — The term “Resolution Copper” means Resolution Copper Mining, LLC, a Delaware limited liability company, including any successor, assign, affiliate, member, or joint venturer of Resolution Copper Mining, LLC.
+
+(8) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+
+(9) **State** — The term “State” means the State of Arizona.
+
+(10) **Town** — The term “Town” means the incorporated town of Superior, Arizona.
+
+(11) **Resolution mine plan of operations** — The term “Resolution mine plan of operations” means the mine plan of operations submitted to the Secretary by Resolution Copper in November, 2013, including any amendments or supplements.
+
+**(c) Land exchange**
+
+(1) **In general** — Subject to the provisions of this section, if Resolution Copper offers to convey to the United States all right, title, and interest of Resolution Copper in and to the non-Federal land, the Secretary is authorized and directed to convey to Resolution Copper, all right, title, and interest of the United States in and to the Federal land.
+
+(2) **Conditions on acceptance** — Title to any non-Federal land conveyed by Resolution Copper to the United States under this section shall be in a form that—
+
+  (A) is acceptable to the Secretary, for land to be administered by the Forest Service and the Secretary of the Interior, for land to be administered by the Bureau of Land Management; and
+
+  (B) conforms to the title approval standards of the Attorney General of the United States applicable to land acquisitions by the Federal Government.
+
+(3) **Consultation with Indian tribes**
+
+  (A) *In general* — The Secretary shall engage in government-to-government consultation with affected Indian tribes concerning issues of concern to the affected Indian tribes related to the land exchange.
+
+  (B) *Implementation* — Following the consultations under paragraph (A), the Secretary shall consult with Resolution Copper and seek to find mutually acceptable measures to—
+
+    (i) address the concerns of the affected Indian tribes; and
+
+    (ii) minimize the adverse effects on the affected Indian tribes resulting from mining and related activities on the Federal land conveyed to Resolution Copper under this section.
+
+(4) **Appraisals**
+
+  (A) *In general* — As soon as practicable after December 19, 2014, the Secretary and Resolution Copper shall select an appraiser to conduct appraisals of the Federal land and non-Federal land in compliance with the requirements of section 254.9 of title 36, Code of Federal Regulations.
+
+  (B) *Requirements*
+
+    (i) *In general* — Except as provided in clause (ii), an appraisal prepared under this paragraph shall be conducted in accordance with nationally recognized appraisal standards, including—
+
+      (I) the Uniform Appraisal Standards for Federal Land Acquisitions; and
+
+      (II) the Uniform Standards of Professional Appraisal Practice.
+
+    (ii) *Final appraised value* — After the final appraised values of the Federal land and non-Federal land are determined and approved by the Secretary, the Secretary shall not be required to reappraise or update the final appraised value—
+
+      (I) for a period of 3 years beginning on the date of the approval by the Secretary of the final appraised value; or
+
+      (II) at all, in accordance with section 254.14 of title 36, Code of Federal Regulations (or a successor regulation), after an exchange agreement is entered into by Resolution Copper and the Secretary.
+
+    (iii) *Improvements* — Any improvements made by Resolution Copper prior to entering into an exchange agreement shall not be included in the appraised value of the Federal land.
+
+    (iv) *Public review* — Before consummating the land exchange under this section, the Secretary shall make the appraisals of the land to be exchanged (or a summary thereof) available for public review.
+
+  (C) *Appraisal information* — The appraisal prepared under this paragraph shall include a detailed income capitalization approach analysis of the market value of the Federal land which may be utilized, as appropriate, to determine the value of the Federal land, and shall be the basis for calculation of any payment under subsection (e).
+
+(5) **Equal value land exchange**
+
+  (A) *In general* — The value of the Federal land and non-Federal land to be exchanged under this section shall be equal or shall be equalized in accordance with this paragraph.
+
+  (B) *Surplus of Federal land value*
+
+    (i) *In general* — If the final appraised value of the Federal land exceeds the value of the non-Federal land, Resolution Copper shall—
+
+      (I) convey additional non-Federal land in the State to the Secretary or the Secretary of the Interior, consistent with the requirements of this section and subject to the approval of the applicable Secretary;
+
+      (II) make a cash payment to the United States; or
+
+      (III) use a combination of the methods described in subclauses (I) and (II), as agreed to by Resolution Copper, the Secretary, and the Secretary of the Interior.
+
+    (ii) *Amount of payment* — The Secretary may accept a payment in excess of 25 percent of the total value of the land or interests conveyed, notwithstanding section 206(b) of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1716(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1716/b&num=0&edition=prelim)).
+
+    (iii) *Disposition and use of proceeds* — Any amounts received by the United States under this subparagraph shall be deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”; [16 U.S.C. 484a](./chapter-002-national-forests.md#section-484a)) and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
+
+  (C) *Surplus of non-Federal land* — If the final appraised value of the non-Federal land exceeds the value of the Federal land—
+
+    (i) the United States shall not make a payment to Resolution Copper to equalize the value; and
+
+    (ii) except as provided in subsection (h), the surplus value of the non-Federal land shall be considered to be a donation by Resolution Copper to the United States.
+
+(6) **Oak Flat Withdrawal Area**
+
+  (A) *Permits* — Subject to the provisions of this paragraph and notwithstanding any withdrawal of the Oak Flat Withdrawal Area from the mining, mineral leasing, or public land laws, the Secretary, upon enactment of this Act, shall issue to Resolution Copper—
+
+    (i) if so requested by Resolution Copper, within 30 days of such request, a special use permit to carry out mineral exploration activities under the Oak Flat Withdrawal Area from existing drill pads located outside the Area, if the activities would not disturb the surface of the Area; and
+
+    (ii) if so requested by Resolution Copper, within 90 days of such request, a special use permit to carry out mineral exploration activities within the Oak Flat Withdrawal Area (but not within the Oak Flat Campground), if the activities are conducted from a single exploratory drill pad which is located to reasonably minimize visual and noise impacts on the Campground.
+
+  (B) *Conditions* — Any activities undertaken in accordance with this paragraph shall be subject to such reasonable terms and conditions as the Secretary may require.
+
+  (C) *Termination* — The authorization for Resolution Copper to undertake mineral exploration activities under this paragraph shall remain in effect until the Oak Flat Withdrawal Area land is conveyed to Resolution Copper in accordance with this section.
+
+(7) **Costs** — As a condition of the land exchange under this section, Resolution Copper shall agree to pay, without compensation, all costs that are—
+
+  (A) associated with the land exchange and any environmental review document under paragraph (9); and
+
+  (B) agreed to by the Secretary.
+
+(8) **Use of Federal land** — The Federal land to be conveyed to Resolution Copper under this section shall be available to Resolution Copper for mining and related activities subject to and in accordance with applicable Federal, State, and local laws pertaining to mining and related activities on land in private ownership.
+
+(9) **Environmental compliance**
+
+  (A) *In general* — Except as otherwise provided in this section, the Secretary shall carry out the land exchange in accordance with the requirements of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
+
+  (B) *Environmental analysis* — Prior to conveying Federal land under this section, the Secretary shall prepare a single environmental impact statement under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), which shall be used as the basis for all decisions under Federal law related to the proposed mine and the Resolution mine plan of operations and any related major Federal actions significantly affecting the quality of the human environment, including the granting of any permits, rights-of-way, or approvals for the construction of associated power, water, transportation, processing, tailings, waste disposal, or other ancillary facilities.
+
+  (C) *Impacts on cultural and archeological resources* — The environmental impact statement prepared under subparagraph (B) shall—
+
+    (i) assess the effects of the mining and related activities on the Federal land conveyed to Resolution Copper under this section on the cultural and archeological resources that may be located on the Federal land; and
+
+    (ii) identify measures that may be taken, to the extent practicable, to minimize potential adverse impacts on those resources, if any.
+
+  (D) *Effect* — Nothing in this paragraph precludes the Secretary from using separate environmental review documents prepared in accordance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) or other applicable laws for exploration or other activities not involving—
+
+    (i) the land exchange; or
+
+    (ii) the extraction of minerals in commercial quantities by Resolution Copper on or under the Federal land.
+
+(10) **Title transfer** — Not later than 60 days after the date of publication of the final environmental impact statement, the Secretary shall convey all right, title, and interest of the United States in and to the Federal land to Resolution Copper.
+
+**(d) Conveyance and management of non-Federal land**
+
+(1) **Conveyance** — On receipt of title to the Federal land, Resolution Copper shall simultaneously convey—
+
+  (A) to the Secretary, all right, title, and interest that the Secretary determines to be acceptable in and to—
+
+    (i) the approximately 147 acres of land located in Gila County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Turkey Creek” and dated March 2011;
+
+    (ii) the approximately 148 acres of land located in Yavapai County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Tangle Creek” and dated March 2011;
+
+    (iii) the approximately 149 acres of land located in Maricopa County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Cave Creek” and dated March 2011;
+
+    (iv) the approximately 640 acres of land located in Coconino County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–East Clear Creek” and dated March 2011; and
+
+    (v) the approximately 110 acres of land located in Pinal County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Apache Leap South End” and dated March 2011; and
+
+  (B) to the Secretary of the Interior, all right, title, and interest that the Secretary of the Interior determines to be acceptable in and to—
+
+    (i) the approximately 3,050 acres of land located in Pinal County, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Lower San Pedro River” and dated July 6, 2011;
+
+    (ii) the approximately 160 acres of land located in Gila and Pinal Counties, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Dripping Springs” and dated July 6, 2011; and
+
+    (iii) the approximately 940 acres of land located in Santa Cruz County, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Appleton Ranch” and dated July 6, 2011.
+
+(2) **Management of acquired land**
+
+  (A) *Land acquired by the Secretary*
+
+    (i) *In general* — Land acquired by the Secretary under this section shall—
+
+      (I) become part of the national forest in which the land is located; and
+
+      (II) be administered in accordance with the laws applicable to the National Forest System.
+
+    (ii) *Boundary revision* — On the acquisition of land by the Secretary under this section, the boundaries of the national forest shall be modified to reflect the inclusion of the acquired land.
+
+    (iii) *Land and Water Conservation Fund* — For purposes of section 460l–9 of this title, the boundaries of a national forest in which land acquired by the Secretary is located shall be deemed to be the boundaries of that forest as in existence on January 1, 1965.
+
+  (B) *Land acquired by the Secretary of the Interior*
+
+    (i) *San Pedro National 11 So in original. The word “Riparian” probably should precede “National”. Conservation Area*
+
+      (I) *In general* — The land acquired by the Secretary of the Interior under paragraph (1)(B)(i) shall be added to, and administered as part of, the San Pedro National 1 Conservation Area in accordance with the laws (including regulations) applicable to the Conservation Area.
+
+      (II) *Management plan* — Not later than 2 years after the date on which the land is acquired, the Secretary of the Interior shall update the management plan for the San Pedro National 1 Conservation Area to reflect the management requirements of the acquired land.
+
+    (ii) *Dripping springs* — Land acquired by the Secretary of the Interior under paragraph (1)(B)(ii) shall be managed in accordance with the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.) and applicable land use plans.
+
+    (iii) *Las Cienegas National Conservation Area* — Land acquired by the Secretary of the Interior under paragraph (1)(B)(iii) shall be added to, and administered as part of, the Las Cienegas National Conservation Area in accordance with the laws (including regulations) applicable to the Conservation Area.
+
+**(e) Value adjustment payment to United States**
+
+(1) **Annual production reporting**
+
+  (A) *Report required* — As a condition of the land exchange under this section, Resolution Copper shall submit to the Secretary of the Interior an annual report indicating the quantity of locatable minerals produced during the preceding calendar year in commercial quantities from the Federal land conveyed to Resolution Copper under subsection (c). The first report is required to be submitted not later than February 15 of the first calendar year beginning after the date of commencement of production of valuable locatable minerals in commercial quantities from such Federal land. The reports shall be submitted February 15 of each calendar year thereafter.
+
+  (B) *Sharing reports with State* — The Secretary shall make each report received under subparagraph (A) available to the State.
+
+  (C) *Report contents* — The reports under subparagraph (A) shall comply with any recordkeeping and reporting requirements prescribed by the Secretary or required by applicable Federal laws in effect at the time of production.
+
+(2) **Payment on production** — If the cumulative production of valuable locatable minerals produced in commercial quantities from the Federal land conveyed to Resolution Copper under subsection (c) exceeds the quantity of production of locatable minerals from the Federal land used in the income capitalization approach analysis prepared under subsection (c)(4)(C), Resolution Copper shall pay to the United States, by not later than March 15 of each applicable calendar year, a value adjustment payment for the quantity of excess production at the same rate assumed for the income capitalization approach analysis prepared under subsection (c)(4)(C).
+
+(3) **State law unaffected** — Nothing in this subsection modifies, expands, diminishes, amends, or otherwise affects any State law relating to the imposition, application, timing, or collection of a State excise or severance tax.
+
+(4) **Use of funds**
+
+  (A) *Separate fund* — All funds paid to the United States under this subsection shall be deposited in a special fund established in the Treasury and shall be available, in such amounts as are provided in advance in appropriation Acts, to the Secretary and the Secretary of the Interior only for the purposes authorized by subparagraph (B).
+
+  (B) *Authorized use* — Amounts in the special fund established pursuant to subparagraph (A) shall be used for maintenance, repair, and rehabilitation projects for Forest Service and Bureau of Land Management assets.
+
+**(f) Withdrawal** Subject to valid existing rights, Apache Leap and any land acquired by the United States under this section are withdrawn from all forms of—
+
+(1) entry, appropriation, or disposal under the public land laws;
+
+(2) location, entry, and patent under the mining laws; and
+
+(3) disposition under the mineral leasing, mineral materials, and geothermal leasing laws.
+
+**(g) Apache Leap Special Management Area**
+
+(1) **Designation** — To further the purpose of this section, the Secretary shall establish a special management area consisting of Apache Leap, which shall be known as the “Apache Leap Special Management Area” (referred to in this subsection as the “special management area”).
+
+(2) **Purpose** — The purposes of the special management area are—
+
+  (A) to preserve the natural character of Apache Leap;
+
+  (B) to allow for traditional uses of the area by Native American people; and
+
+  (C) to protect and conserve the cultural and archeological resources of the area.
+
+(3) **Surrender of mining and extraction rights** — As a condition of the land exchange under subsection (c), Resolution Copper shall surrender to the United States, without compensation, all rights held under the mining laws and any other law to commercially extract minerals under Apache Leap.
+
+(4) **Management**
+
+  (A) *In general* — The Secretary shall manage the special management area in a manner that furthers the purposes described in paragraph (2).
+
+  (B) *Authorized activities* — The activities that are authorized in the special management area are—
+
+    (i) installation of seismic monitoring equipment on the surface and subsurface to protect the resources located within the special management area;
+
+    (ii) installation of fences, signs, or other measures necessary to protect the health and safety of the public; and
+
+    (iii) operation of an underground tunnel and associated workings, as described in the Resolution mine plan of operations, subject to any terms and conditions the Secretary may reasonably require.
+
+(5) **Plan**
+
+  (A) *In general* — Not later than 3 years after December 19, 2014, the Secretary, in consultation with affected Indian tribes, the Town, Resolution Copper, and other interested members of the public, shall prepare a management plan for the Apache Leap Special Management Area.
+
+  (B) *Considerations* — In preparing the plan under subparagraph (A), the Secretary shall consider whether additional measures are necessary to—
+
+    (i) protect the cultural, archaeological, or historical resources of Apache Leap, including permanent or seasonal closures of all or a portion of Apache Leap; and
+
+    (ii) provide access for recreation.
+
+(6) **Mining activities** — The provisions of this subsection shall not impose additional restrictions on mining activities carried out by Resolution Copper adjacent to, or outside of, the Apache Leap area beyond those otherwise applicable to mining activities on privately owned land under Federal, State, and local laws, rules and regulations.
+
+**(h) Conveyances to Town of Superior, Arizona**
+
+(1) **Conveyances** — On request from the Town and subject to the provisions of this subsection, the Secretary shall convey to the Town the following:
+
+  (A) Approximately 30 acres of land as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Fairview Cemetery” and dated March 2011.
+
+  (B) The reversionary interest and any reserved mineral interest of the United States in the approximately 265 acres of land located in Pinal County, Arizona, as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Reversionary Interest–Superior Airport” and dated March 2011.
+
+  (C) The approximately 250 acres of land located in Pinal County, Arizona, as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Superior Airport Contiguous Parcels” and dated March 2011.
+
+(2) **Payment** — The Town shall pay to the Secretary the market value for each parcel of land or interest in land acquired under this subsection, as determined by appraisals conducted in accordance with subsection (c)(4).
+
+(3) **Sisk Act** — Any payment received by the Secretary from the Town under this subsection shall be deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) ([16 U.S.C. 484a](./chapter-002-national-forests.md#section-484a)) and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
+
+(4) **Terms and conditions** — The conveyances under this subsection shall be subject to such terms and conditions as the Secretary may require.
+
+**(i) Miscellaneous provisions**
+
+(1) **Revocation of orders; withdrawal**
+
+  (A) *Revocation of orders* — Any public land order that withdraws the Federal land from appropriation or disposal under a public land law shall be revoked to the extent necessary to permit disposal of the land.
+
+  (B) *Withdrawal* — On December 19, 2014, if the Federal land or any Federal interest in the non-Federal land to be exchanged under subsection (c) is not withdrawn or segregated from entry and appropriation under a public land law (including mining and mineral leasing laws and the Geothermal Steam Act of 1970 ([30 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) et seq.)), the land or interest shall be withdrawn, without further action required by the Secretary concerned, from entry and appropriation. The withdrawal shall be terminated—
+
+    (i) on the date of consummation of the land exchange; or
+
+    (ii) if Resolution Copper notifies the Secretary in writing that it has elected to withdraw from the land exchange pursuant to section 206(d) of the Federal Land Policy and Management Act of 1976, as amended ([43 U.S.C. 1716(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1716/d&num=0&edition=prelim)).
+
+  (C) *Rights of Resolution Copper* — Nothing in this section shall interfere with, limit, or otherwise impair, the unpatented mining claims or rights currently held by Resolution Copper on the Federal land, nor in any way change, diminish, qualify, or otherwise impact Resolution Copper’s rights and ability to conduct activities on the Federal land under such unpatented mining claims and the general mining laws of the United States, including the permitting or authorization of such activities.
+
+(2) **Maps, estimates, and descriptions**
+
+  (A) *Minor errors* — The Secretary concerned and Resolution Copper may correct, by mutual agreement, any minor errors in any map, acreage estimate, or description of any land conveyed or exchanged under this section.
+
+  (B) *Conflict* — If there is a conflict between a map, an acreage estimate, or a description of land in this section, the map shall control unless the Secretary concerned and Resolution Copper mutually agree otherwise.
+
+  (C) *Availability* — On December 19, 2014, the Secretary shall file and make available for public inspection in the Office of the Supervisor, Tonto National Forest, each map referred to in this section.
+
+(3) **Public access in and around Oak Flat Campground** — As a condition of conveyance of the Federal land, Resolution Copper shall agree to provide access to the surface of the Oak Flat Campground to members of the public, including Indian tribes, to the maximum extent practicable, consistent with health and safety requirements, until such time as the operation of the mine precludes continued public access for safety reasons, as determined by Resolution Copper.
+
+### Statutory Notes
+
+#### References in Text
+Enactment of this Act, referred to in subsec. (c)(6)(A), means the enactment of Pub. L. 113–291, which was approved Dec. 19, 2014.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(9), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2)(B)(ii), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+
+The Geothermal Steam Act of 1970, referred to in subsec. (i)(1)(B), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) and Tables.
+
+
+<a id="section-539q"></a>
+## § 539q. Hermosa Creek watershed protection
+**(a) Definitions** In this section:
+
+(1) **City** — The term “City” means the city of Durango, Colorado.
+
+(2) **County** — The term “County” means La Plata County, Colorado.
+
+(3) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+
+(4) **Special Management Area** — The term “Special Management Area” means the Hermosa Creek Special Management Area designated by subsection (b)(1).
+
+(5) **State** — The term “State” means the State of Colorado.
+
+**(b) Designation of Hermosa Creek Special Management Area**
+
+(1) **Designation** — Subject to valid existing rights, certain Federal land in the San Juan National Forest comprising approximately 70,650 acres, as generally depicted on the map entitled “Proposed Hermosa Creek Special Management Area and Proposed Hermosa Creek Wilderness Area” and dated November 12, 2014, is designated as the “Hermosa Creek Special Management Area”.
+
+(2) **Purpose** — The purpose of the Special Management Area is to conserve and protect for the benefit of present and future generations the watershed, geological, cultural, natural, scientific, recreational, wildlife, riparian, historical, educational, and scenic resources of the Special Management Area.
+
+(3) **Administration**
+
+  (A) *In general* — The Secretary shall administer the Special Management Area—
+
+    (i) in a manner that conserves, protects, and manages the resources of the Special Management Area described in paragraph (2); and
+
+    (ii) in accordance with—
+
+      (I) the National Forest Management Act of 1976 ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.);
+
+      (II) this Act; and
+
+      (III) any other applicable laws.
+
+  (B) *Uses*
+
+    (i) *In general* — The Secretary shall allow only such uses of the Special Management Area as the Secretary determines would further the purposes 11 So in original. Probably should be “purpose”. described in paragraph (2).
+
+    (ii) *Motorized and mechanized vehicles*
+
+      (I) *In general* — Except as provided in subclause (II) and as needed for administrative purposes or to respond to an emergency, the use of motorized or mechanized vehicles in the Special Management Area shall be permitted only on roads and trails designated by the Secretary for use by those vehicles.
+
+      (II) *Oversnow vehicles* — The Secretary shall authorize the use of snowmobiles and other oversnow vehicles within the Special Management Area—
+
+        (aa) when there exists adequate snow coverage; and
+
+        (bb) subject to such terms and conditions as the Secretary may require.
+
+    (iii) *Grazing* — The Secretary shall permit grazing within the Special Management Area, if established before December 19, 2014, subject to all applicable laws (including regulations) and Executive orders.
+
+    (iv) *Prohibited activities* — Within the area of the Special Management Area identified as “East Hermosa Area” on the map entitled “Proposed Hermosa Creek Special Management Area and Proposed Hermosa Creek Wilderness Area” and dated November 12, 2014, the following activities shall be prohibited:
+
+      (I) New permanent or temporary road construction or the renovation of existing nonsystem roads, except as allowed under the final rule entitled “Special Areas; Roadless Area Conservation; Applicability to the National Forests in Colorado” (77 Fed. Reg. 39576 (July 3, 2012)).
+
+      (II) Projects undertaken for the purpose of harvesting commercial timber (other than activities relating to the harvest of merchantable products that are byproducts of activities conducted for ecological restoration or to further the purposes described in this section).
+
+(4) **State and Federal water management** — Nothing in this subsection affects the potential for development, operation, or maintenance of a water storage reservoir at the site in the Special Management Area that is identified in—
+
+  (A) pages 17 through 20 of the Statewide Water Supply Initiative studies prepared by the Colorado Water Conservation Board and issued by the State in November 2004; and
+
+  (B) page 27 of the Colorado Dam Site Inventory prepared by the Colorado Water Conservation Board and dated August 1996.
+
+(5) **Withdrawal**
+
+  (A) *In general* — Subject to valid rights in existence on December 19, 2014, and except as provided in subparagraph (B), the Federal land within the Special Management Area is withdrawn from—
+
+    (i) all forms of entry, appropriation, and disposal under the public land laws;
+
+    (ii) location, entry, and patent under the mining laws; and
+
+    (iii) operation of the mineral leasing, mineral materials, and geothermal leasing laws.
+
+  (B) *Exception* — The withdrawal under subparagraph (A) shall not apply to the areas identified as parcels A and B on the map entitled “Proposed Hermosa Creek Special Management Area and Proposed Hermosa Creek Wilderness Area” and dated November 12, 2014.
+
+(6) **Winter skiing and related winter activities** — Nothing in this subsection alters or limits—
+
+  (A) a permit held by a ski area;
+
+  (B) the implementation of the activities governed by a ski area permit; or
+
+  (C) the authority of the Secretary to modify or expand an existing ski area permit.
+
+(7) **Vegetation management** — Nothing in this subsection prevents the Secretary from conducting vegetation management projects within the Special Management Area—
+
+  (A) subject to—
+
+    (i) such reasonable regulations, policies, and practices as the Secretary determines to be appropriate; and
+
+    (ii) all applicable laws (including regulations); and
+
+  (B) in a manner consistent with—
+
+    (i) the purposes 1 described in paragraph (2); and
+
+    (ii) this subsection.
+
+(8) **Wildfire, insect, and disease management** — In accordance with this subsection, the Secretary may—
+
+  (A) carry out any measures that the Secretary determines to be necessary to manage wildland fire and treat hazardous fuels, insects, and diseases in the Special Management Area; and
+
+  (B) coordinate those measures with the appropriate State or local agency, as the Secretary determines to be necessary.
+
+(9) **Management plan** — Not later than 3 years after December 19, 2014, the Secretary shall develop a management plan for the long-term protection and management of the Special Management Area that—
+
+  (A) takes into account public input; and
+
+  (B) provides for recreational opportunities to occur within the Special Management Area, including skiing, biking, hiking, fishing, hunting, horseback riding, snowmobiling, motorcycle riding, off-highway vehicle use, snowshoeing, and camping.
+
+(10) **Trail and open area snowmobile usage** — Nothing in this subsection affects the use or status of trails authorized for motorized or mechanized vehicle or open area snowmobile use on December 19, 2014.
+
+(11) **State water rights** — Nothing in this subsection affects access to, use of, or allocation of any absolute or conditional water right that is—
+
+  (A) decreed under the laws of the State; and
+
+  (B) in existence on December 19, 2014.
+
+**(c) Hermosa Creek Wilderness**
+
+(1) **Omitted**
+
+(2) **Effective date** — Any reference contained in the Wilderness Act ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.) to the effective date of that Act shall be considered to be a reference to December 19, 2014, for purposes of administering the wilderness area designated by section 2(a)(22) of the Colorado Wilderness Act of 1993 ([16 U.S.C. 1132](./chapter-023-national-wilderness-preservation-system.md#section-1132) note; 107 Stat. 756; 114 Stat. 1955; 116 Stat. 1055) (as added by paragraph (1)).22 See Codification note below.
+
+(3) **Fire, insects, and diseases** — In accordance with section 4(d)(1) of the Wilderness Act ([16 U.S.C. 1133(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1133/d/1&num=0&edition=prelim)), within the wilderness areas designated by section 2(a)(22) of the Colorado Wilderness Act of 1993 ([16 U.S.C. 1132](./chapter-023-national-wilderness-preservation-system.md#section-1132) note; 107 Stat. 756; 114 Stat. 1955; 116 Stat. 1055) (as added by paragraph (1)),2 the Secretary may carry out any measure that the Secretary determines to be necessary to control fire, insects, and diseases, subject to such terms and conditions as the Secretary determines to be appropriate.
+
+**(d) Durango Area mineral withdrawal**
+
+(1) **Withdrawal** — Subject to valid existing rights, the land and mineral interests described in paragraph (2) are withdrawn from all forms of—
+
+  (A) entry, appropriation, and disposal under the public land laws;
+
+  (B) location, entry, and patent under the mining laws; and
+
+  (C) disposition under all laws relating to mineral leasing, geothermal leasing, or mineral materials.
+
+(2) **Description of land and mineral interests** — The land and mineral interests referred to in paragraph (1) are the Federal land and mineral interests generally depicted within the areas designated as “Withdrawal Areas” on the map entitled “Perins Peak & Animas City Mountain, Horse Gulch and Lake Nighthorse Mineral Withdrawal” and dated April 5, 2013.
+
+(3) **Public purpose conveyance** — Notwithstanding paragraph (1), the Secretary of the Interior may convey any portion of the land described in paragraph (2) that is administered by the Bureau of Land Management to the City, the County, or the State—
+
+  (A) pursuant to the Act of June 14, 1926 (commonly known as the “Recreation and Public Purposes Act”) ([43 U.S.C. 869](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section869&num=0&edition=prelim) et seq.); or
+
+  (B) by exchange in accordance with applicable laws (including regulations).
+
+**(e) Conveyance of Bureau of Land Management land to County**
+
+(1) **In general** — On the expiration of the permit numbered COC 64651 (09) and dated February 24, 2009, on request and agreement of the County, the Secretary of the Interior shall convey to the County, without consideration and subject to valid existing rights, all right, title, and interest of the United States in and to the land described in paragraph (2), subject to—
+
+  (A) paragraph (3);
+
+  (B) the condition that the County shall pay all administrative and other costs associated with the conveyance; and
+
+  (C) such other terms and conditions as the Secretary of the Interior determines to be necessary.
+
+(2) **Description of land** — The land referred to in paragraph (1) consists of approximately 82 acres of land managed by the Bureau of Land Management, Tres Rios District, Colorado, as generally depicted on the map entitled “La Plata County Grandview Conveyance” and dated May 5, 2014.
+
+(3) **Use of conveyed land** — The Federal land conveyed pursuant to this subsection may be used by the County for any public purpose, in accordance with the Act of June 14, 1926 (commonly known as the “Recreation and Public Purposes Act”) ([43 U.S.C. 869](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section869&num=0&edition=prelim) et seq.).
+
+(4) **Reversion** — If the County ceases to use a parcel of the Federal land conveyed pursuant to this subsection in accordance with paragraph (1), title to the parcel shall revert to the Secretary of the Interior, at the option of the Secretary of the Interior.
+
+**(f) Molas Pass Recreation Area; Wilderness Study Area release; Wilderness Study Area transfer of administrative jurisdiction**
+
+(1) **Molas Pass Recreation Area**
+
+  (A) *Designation* — The approximately 461 acres of land in San Juan County, Colorado, that is generally depicted as “Molas Pass Recreation Area” on the map entitled “Molas Pass Recreation Area and Molas Pass Wilderness Study Area” and dated November 13, 2014, is designated as the “Molas Pass Recreation Area”.
+
+  (B) *Use of snowmobiles* — The use of snowmobiles shall be authorized in the Molas Pass Recreation Area—
+
+    (i) during periods of adequate snow coverage;
+
+    (ii) in accordance with the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.) and other applicable laws (including regulations);
+
+    (iii) on designated trails for winter motorized travel and grooming;
+
+    (iv) in designated areas for open area motorized travel; and
+
+    (v) subject to such terms and conditions as the Secretary may require.
+
+  (C) *Other recreational opportunities* — In addition to the uses authorized under subparagraph (B), the Secretary may authorize other recreational uses in the Molas Pass Recreation Area.
+
+(2) **Molas Pass Wilderness Study Area**
+
+  (A) *Transfer of administrative jurisdiction* — Administrative jurisdiction over the Federal land generally depicted as “Molas Pass Wilderness Study Area” on the map entitled “Molas Pass Recreation Area and Molas Pass Wilderness Study Area”, and dated November 13, 2014, is transferred from the Bureau of Land Management to the Forest Service.
+
+  (B) *Administration* — The Federal land described in subparagraph (A) shall—
+
+    (i) be known as the “Molas Pass Wilderness Study Area”; and
+
+    (ii) be administered by the Secretary, so as to maintain the wilderness character and potential of the Federal land for inclusion in the National Wilderness Preservation System.
+
+(3) **Release**
+
+  (A) *Finding* — Congress finds that the land described in subparagraph (C) has been adequately studied for wilderness designation under section 603 of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1782](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1782&num=0&edition=prelim)).
+
+  (B) *Release* — Effective beginning on December 19, 2014, the land described in subparagraph (C)—
+
+    (i) shall not be subject to section 603(c) of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1782(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1782/c&num=0&edition=prelim));
+
+    (ii) shall be managed in accordance with land management plans adopted under section 202 of that Act ([43 U.S.C. 1712](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1712&num=0&edition=prelim)); and
+
+    (iii) shall not be subject to Secretarial Order 3310 issued on December 22, 2010.
+
+  (C) *Description of land* — The land referred to in subparagraphs (A) and (B) is the approximately 461 acres located in the West Needles Contiguous Wilderness Study Area of San Juan County, Colorado, that is generally depicted as “Molas Pass Recreation Area” on the map entitled “Molas Pass Recreation Area and Molas Pass Wilderness Study Area” and dated November 13, 2014.
+
+**(g) General provisions**
+
+(1) **Fish and wildlife** — Nothing in this section affects the jurisdiction or responsibility of the State with regard to fish and wildlife in the State.
+
+(2) **Maps and legal descriptions**
+
+  (A) *In general* — As soon as practicable after December 19, 2014, the Secretary or the Secretary of the Interior, as appropriate, shall prepare maps and legal descriptions of—
+
+    (i) the Special Management Area;
+
+    (ii) the wilderness area designated by the amendment made by subsection (c)(1); 2
+
+    (iii) the withdrawal pursuant to subsection (d);
+
+    (iv) the conveyance pursuant to subsection (e);
+
+    (v) the recreation area designated by subsection (f)(1); and
+
+    (vi) the wilderness study area designated by subsection (f)(2)(B)(i).
+
+  (B) *Force of law* — The maps and legal descriptions prepared under subparagraph (A) shall have the same force and effect as if included in this section, except that the Secretary concerned may correct any clerical or typographical errors in the maps and legal descriptions.
+
+  (C) *Public availability* — The maps and legal descriptions prepared under subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the Forest Service and the Bureau of Land Management.
+
+(3) **Adjacent management**
+
+  (A) *In general* — Nothing in this section establishes a protective perimeter or buffer zone around—
+
+    (i) the Special Management Area;
+
+    (ii) the wilderness area designated by an amendment made by subsection (c)(1); 2 or
+
+    (iii) the wilderness study area designated by subsection (f)(2)(B)(i).
+
+  (B) *Nonwilderness activities* — The fact that a nonwilderness activity or use can be seen or heard from areas within the wilderness area designated by an amendment made by subsection (c)(1) 2 or the wilderness study area designated by subsection (f)(2)(B)(i) shall not preclude the conduct of the activity or use outside the boundary of the wilderness area or wilderness study area.
+
+(4) **Military overflights** — Nothing in this section restricts or precludes—
+
+  (A) any low-level overflight of military aircraft over an area designated as a wilderness area under an amendment made by this section,2 including military overflights that can be seen, heard, or detected within the wilderness area;
+
+  (B) flight testing or evaluation; or
+
+  (C) the designation or establishment of—
+
+    (i) new units of special use airspace; or
+
+    (ii) any military flight training route over a wilderness area described in subparagraph (A).
+
+### Statutory Notes
+
+#### References in Text
+The National Forest Management Act of 1976, referred to in subsec. (b)(3)(A)(ii)(I), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
+
+This Act, referred to in subsec. (b)(3)(A)(ii)(II), is Pub. L. 113–291, Dec. 19, 2014, 128 Stat. 3292, known as the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015. For complete classification of this Act to the Code, see Tables.
+
+The Wilderness Act, referred to in subsec. (c)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+
+Section 2(a)(22) of the Colorado Wilderness Act of 1993, referred to in subsec. (c)(2), (3), is section 2(a)(22) of Pub. L. 103–77, as added by Pub. L. 113–291, div. B, title XXX, § 3062(c)(1), Dec. 19, 2014, 128 Stat. 3823, which is listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132).
+
+Act of June 14, 1926, referred to in subsecs. (d)(3)(A) and (e)(3), is act June 14, 1926, ch. 578, 44 Stat. 741, popularly known as the Recreation and Public Purposes Act, which is classified to sections 869 to 869–4 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 869 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section869&num=0&edition=prelim) and Tables.
+
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (f)(1)(B)(ii), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section is comprised of section 3062 of Pub. L. 113–291. Subsec. (c)(1) of section 3062 of Pub. L. 113–291 enacted section 2(a)(22) of Pub. L. 103–77, which is listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132).
+
+
+<a id="section-539r"></a>
+## § 539r. Rocky Mountain Front Conservation Management Area and wilderness additions
+**(a) Definitions** In this section:
+
+(1) **Conservation Management Area** — The term “Conservation Management Area” means the Rocky Mountain Front Conservation Management Area established by subsection (b)(1)(A).
+
+(2) **Decommission** — The term “decommission” means—
+
+  (A) to reestablish vegetation on a road; and
+
+  (B) to restore any natural drainage, watershed function, or other ecological processes that are disrupted or adversely impacted by the road by removing or hydrologically disconnecting the road prism.
+
+(3) **District** — The term “district” means the Rocky Mountain Ranger District of the Lewis and Clark National Forest.
+
+(4) **Map** — The term “map” means the map entitled “Rocky Mountain Front Heritage Act” and dated October 27, 2011.
+
+(5) **Nonmotorized recreation trail** — The term “nonmotorized recreation trail” means a trail designed for hiking, bicycling, or equestrian use.
+
+(6) **Secretary** — The term “Secretary” means—
+
+  (A) with respect to land under the jurisdiction of the Secretary of Agriculture, the Secretary of Agriculture; and
+
+  (B) with respect to land under the jurisdiction of the Secretary of the Interior, the Secretary of the Interior.
+
+(7) **State** — The term “State” means the State of Montana.
+
+**(b) Rocky Mountain Front Conservation Management Area**
+
+(1) **Establishment**
+
+  (A) *In general* — Subject to valid existing rights, there is established the Rocky Mountain Front Conservation Management Area in the State.
+
+  (B) *Area included* — The Conservation Management Area shall consist of approximately 195,073 acres of Federal land managed by the Forest Service and 13,087 acres of Federal land managed by the Bureau of Land Management in the State, as generally depicted on the map.
+
+  (C) *Incorporation of acquired land and interests* — Any land or interest in land that is located in the Conservation Management Area and is acquired by the United States from a willing seller shall—
+
+    (i) become part of the Conservation Management Area; and
+
+    (ii) be managed in accordance with—
+
+      (I) in the case of land managed by the Forest Service—
+
+        (aa) the Act of March 1, 1911 (commonly known as the “Weeks Law”); and
+
+        (bb) any laws (including regulations) applicable to the National Forest System;
+
+      (II) in the case of land managed, by the Bureau of Land Management, the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.);
+
+      (III) this subsection; and
+
+      (IV) any other applicable law (including regulations).
+
+(2) **Purposes** — The purposes of the Conservation Management Area are to conserve, protect, and enhance for the benefit and enjoyment of present and future generations the recreational, scenic, historical, cultural, fish, wildlife, roadless, and ecological values of the Conservation Management Area.
+
+(3) **Management**
+
+  (A) *In general* — The Secretary shall manage the Conservation Management Area—
+
+    (i) in a manner that conserves, protects, and enhances the resources of the Conservation Management Area; and
+
+    (ii) in accordance with—
+
+      (I) the laws (including regulations) and rules applicable to the National Forest System for land managed by the Forest Service;
+
+      (II) the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.) for land managed by the Bureau of Land Management;
+
+      (III) this subsection; and
+
+      (IV) any other applicable law (including regulations).
+
+  (B) *Uses*
+
+    (i) *In general* — The Secretary shall only allow such uses of the Conservation Management Area that the Secretary determines would further the purposes described in paragraph (2).
+
+    (ii) *Motorized vehicles*
+
+      (I) *In general* — The use of motorized vehicles in the Conservation Management Area shall be permitted only on existing roads, trails, and areas designated for use by such vehicles as of December 19, 2014.
+
+      (II) *New or temporary roads* — Except as provided in subclause (III), no new or temporary roads shall be constructed within the Conservation Management Area.
+
+      (III) *Exceptions* — Nothing in subclause (I) or (II) prevents the Secretary from—
+
+        (aa) rerouting or closing an existing road or trail to protect natural resources from degradation, as determined to be appropriate by the Secretary;
+
+        (bb) constructing a temporary road on which motorized vehicles are permitted as part of a vegetation management project in any portion of the Conservation Management Area located not more than ¼ mile from the Teton Road, South Teton Road, Sun River Road, Beaver Willow Road, or Benchmark Road;
+
+        (cc) authorizing the use of motorized vehicles for administrative purposes (including noxious weed eradication or grazing management); or
+
+        (dd) responding to an emergency.
+
+      (IV) *Decommissioning of temporary roads* — The Secretary shall decommission any temporary road constructed under subclause (III)(bb) not later than 3 years after the date on which the applicable vegetation management project is completed.
+
+    (iii) *Grazing* — The Secretary shall permit grazing within the Conservation Management Area, if established on December 19, 2014—
+
+      (I) subject to—
+
+        (aa) such reasonable regulations, policies, and practices as the Secretary determines appropriate; and
+
+        (bb) all applicable laws; and
+
+      (II) in a manner consistent with—
+
+        (aa) the purposes described in paragraph (2); and
+
+        (bb) the guidelines set forth in the report of the Committee on Interior and Insular Affairs of the House of Representatives accompanying H.R. 5487 of the 96th Congress (H. Rept. 96–617).
+
+    (iv) *Vegetation management* — Nothing in this section prevents the Secretary from conducting vegetation management projects within the Conservation Management Area—
+
+      (I) subject to—
+
+        (aa) such reasonable regulations, policies, and practices as the Secretary determines appropriate; and
+
+        (bb) all applicable laws (including regulations); and
+
+      (II) in a manner consistent with the purposes described in paragraph (2).
+
+(4) **Adjacent management**
+
+  (A) *In general* — The designation of the Conservation Management Area shall not create a protective perimeter or buffer zone around the Conservation Management Area.
+
+  (B) *Effect* — The fact that activities or uses can be seen or heard from areas within the Conservation Management Area shall not preclude the conduct of the activities or uses outside the boundary of the Conservation Management Area.
+
+**(c) Designation of wilderness additions**
+
+(1) **Omitted**
+
+(2) **Management of wilderness additions** — Subject to valid existing rights, the land designated as wilderness additions by paragraph (1) 11 See Codification note below. shall be administered by the Secretary in accordance with the Wilderness Act ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.), except that any reference in that Act to the effective date of that Act shall be deemed to be a reference to December 19, 2014.
+
+(3) **Livestock** — The grazing of livestock and the maintenance of existing facilities relating to grazing in the wilderness additions designated by this subsection, if established before December 19, 2014, shall be permitted to continue in accordance with—
+
+  (A) section 4(d)(4) of the Wilderness Act ([16 U.S.C. 1133(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1133/d/4&num=0&edition=prelim)); and
+
+  (B) the guidelines set forth in the report of the Committee on Interior and Insular Affairs of the House of Representatives accompanying H.R. 5487 of the 96th Congress (H. Rept. 96–617).
+
+(4) **Wildfire, insect, and disease management** — In accordance with section 4(d)(1) of the Wilderness Act ([16 U.S.C. 1133(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1133/d/1&num=0&edition=prelim)), within the wilderness additions designated by this subsection, the Secretary may take any measures that the Secretary determines to be necessary to control fire, insects, and diseases, including, as the Secretary determines appropriate, the coordination of those activities with a State or local agency.
+
+(5) **Adjacent management**
+
+  (A) *In general* — The designation of a wilderness addition by this subsection shall not create any protective perimeter or buffer zone around the wilderness area.
+
+  (B) *Nonwilderness activities* — The fact that nonwilderness activities or uses can be seen or heard from areas within a wilderness addition designated by this subsection shall not preclude the conduct of those activities or uses outside the boundary of the wilderness area.
+
+**(d) Maps and legal descriptions**
+
+(1) **In general** — As soon as practicable after December 19, 2014, the Secretary shall prepare maps and legal descriptions of the Conservation Management Area and the wilderness additions designated by subsections (b) and (c), respectively.
+
+(2) **Force of law** — The maps and legal descriptions prepared under paragraph (1) shall have the same force and effect as if included in this section, except that the Secretary may correct typographical errors in the map and legal descriptions.
+
+(3) **Public availability** — The maps and legal descriptions prepared under paragraph (1) shall be on file and available for public inspection in the appropriate offices of the Forest Service and Bureau of Land Management.
+
+**(e) Noxious weed management**
+
+(1) **In general** — Not later than 1 year after December 19, 2014, the Secretary of Agriculture shall prepare a comprehensive management strategy for preventing, controlling, and eradicating noxious weeds in the district.
+
+(2) **Contents** — The management strategy shall—
+
+  (A) include recommendations to protect wildlife, forage, and other natural resources in the district from noxious weeds;
+
+  (B) identify opportunities to coordinate noxious weed prevention, control, and eradication efforts in the district with State and local agencies, Indian tribes, nonprofit organizations, and others;
+
+  (C) identify existing resources for preventing, controlling, and eradicating noxious weeds in the district;
+
+  (D) identify additional resources that are appropriate to effectively prevent, control, or eradicate noxious weeds in the district; and
+
+  (E) identify opportunities to coordinate with county weed districts in Glacier, Pondera, Teton, and Lewis and Clark Counties in the State to apply for grants and enter into agreements for noxious weed control and eradication projects under the Noxious Weed Control and Eradication Act of 2004 ([7 U.S.C. 7781](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7781&num=0&edition=prelim) et seq.).
+
+(3) **Consultation** — In developing the management strategy required under paragraph (1), the Secretary shall consult with—
+
+  (A) the Secretary of the Interior;
+
+  (B) appropriate State, tribal, and local governmental entities; and
+
+  (C) members of the public.
+
+**(f) Nonmotorized recreation opportunities** Not later than 2 years after December 19, 2014, the Secretary of Agriculture, in consultation with interested parties, shall conduct a study to improve nonmotorized recreation trail opportunities (including mountain bicycling) on land not designated as wilderness within the district.
+
+**(g) Management of fish and wildlife; hunting and fishing** Nothing in this section affects the jurisdiction of the State with respect to fish and wildlife management (including the regulation of hunting and fishing) on public land in the State.
+
+**(h) Overflights**
+
+(1) **Jurisdiction of the Federal Aviation Administration** — Nothing in this section affects the jurisdiction of the Federal Aviation Administration with respect to the airspace above the wilderness or the Conservation Management Area.
+
+(2) **Benchmark airstrip** — Nothing in this section affects the continued use, maintenance, and repair of the Benchmark (3U7) airstrip.
+
+**(i) Release of wilderness study areas**
+
+(1) **Finding** — Congress finds that, for the purposes of section 603(c) of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1782(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1782/c&num=0&edition=prelim)), the Zook Creek and Buffalo Creek wilderness study areas in the State have been adequately studied for wilderness designation.
+
+(2) **Release** — The Zook Creek and Buffalo Creek wilderness study areas—
+
+  (A) are no longer subject to—
+
+    (i) section 603(c) of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1782(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1782/c&num=0&edition=prelim)); or
+
+    (ii) Secretarial Order 3310 issued on December 22, 2010; and
+
+  (B) shall be managed in accordance with the applicable land use plans adopted under section 202 of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1712](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1712&num=0&edition=prelim)).
+
+**(j) Assessment update**
+
+(1) **In general** — Not later than 5 years after December 19, 2014, the Secretary shall review and update the assessment for oil and gas potential for the following wilderness study areas in the State:
+
+  (A) Bridge Coulee.
+
+  (B) Musselshell Breaks.
+
+(2) **Report** — Not later than 30 days after the date on which the review is completed under paragraph (1), the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes the oil and gas potential for the wilderness study areas.
+
+### Statutory Notes
+
+#### References in Text
+Act of March 1, 1911, referred to in subsec. (b)(1)(C)(ii)(I)(aa), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(1)(C)(ii)(II), (3)(A)(ii)(II), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+
+The Wilderness Act, referred to in subsec. (c)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+
+The Noxious Weed Control and Eradication Act of 2004, referred to in subsec. (e)(2)(E), is subtitle E (§§451–457) of title IV of Pub. L. 106–224, as added by Pub. L. 108–412, §1, Oct. 30, 2004, 118 Stat. 2320, which is classified generally to subchapter V (§ 7781 et seq.) of chapter 104 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7701&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section is comprised of section 3065 of Pub. L. 113–291. Subsec. (c)(1) of section 3065 of Pub. L. 113–291 amended provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132).
+
+
 <a id="section-541"></a>
 ## § 541. Cascade Head Scenic-Research Area; establishment
 
@@ -3792,12 +4597,15 @@ The administration, protection, development, and regulation of use of the Area s
 <a id="section-541e"></a>
 ## § 541e. Availability of funds for acquisition of lands, etc., within added area
 
-Notwithstanding the provisions of section 460l–9(a)(1) of this title, moneys appropriated from the Land and Water Conservation Fund shall be available for the acquisition of any lands, waters, or interests therein within the area added to the Siuslaw National Forest by this subchapter.
+Notwithstanding the provisions of [section 200306(a)(2) of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200306/a/2&num=0&edition=prelim), moneys appropriated from the Land and Water Conservation Fund shall be available for the acquisition of any lands, waters, or interests therein within the area added to the Siuslaw National Forest by this subchapter.
 
 ### Statutory Notes
 
 #### References in Text
-The Land and Water Conservation Fund, referred to in text, was established by section 460l–5 of this title.
+The Land and Water Conservation Fund, referred to in text, was established by former section 460l–5 of this title. See [section 200302 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200302&num=0&edition=prelim), National Park Service and Related Programs.
+
+#### Amendments
+2014—Pub. L. 113–287 substituted “[section 200306(a)(2) of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200306/a/2&num=0&edition=prelim)” for “section 460l–9(a)(1) of this title”.
 
 
 <a id="section-541f"></a>
@@ -3857,7 +4665,7 @@ The Secretary of Agriculture shall administer, protect, and regulate use of the 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 96–550, Dec. 19, 1980, 94 Stat. 3221, which enacted sections 410ii to 410ii–7 and 542 to 542d of this title and enacted provisions set out as notes under sections 431 and 1132 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 96–550, Dec. 19, 1980, 94 Stat. 3221, which enacted sections 410ii to 410ii–7 and 542 to 542d of this title and enacted provisions set out as notes under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132) and [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-542c"></a>
@@ -3868,7 +4676,7 @@ The Secretary of Agriculture in furtherance of the purposes of this Act, is here
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 96–550, Dec. 19, 1980, 94 Stat. 3221, which enacted sections 410ii to 410ii–7 and 542 to 542d of this title and enacted provisions set out as notes under sections 431 and 1132 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 96–550, Dec. 19, 1980, 94 Stat. 3221, which enacted sections 410ii to 410ii–7 and 542 to 542d of this title and enacted provisions set out as notes under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132) and [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-542d"></a>
@@ -3917,7 +4725,12 @@ The area in the Mono Basin within and adjacent to the Inyo National Forest in th
 ## § 543a. Extension of National Forest boundary
 **(a)** The exterior boundary of the Inyo National Forest is hereby extended to include the area within the boundary of the Scenic Area. Any lands and interests therein acquired pursuant to [section 543b of this title](./chapter-002-national-forests.md#section-543b) shall become part of the National Forest System.
 
-**(b)** For the purposes of section 460l–9(a)(1) of this title, the boundary of the Inyo National Forest, as modified by this section, shall be treated as if it were the boundary of that forest on January 1, 1964.
+**(b)** For the purposes of [section 200306(a)(2) of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200306/a/2&num=0&edition=prelim), the boundary of the Inyo National Forest, as modified by this section, shall be treated as if it were the boundary of that forest on January 1, 1964.
+
+### Statutory Notes
+
+#### Codification
+In subsec. (b), “[section 200306(a)(2) of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200306/a/2&num=0&edition=prelim)” substituted for “section 7(a)(1) of the Land and Water Conservation Fund Act of 1965 (78 Stat. 897; [16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 through 460l–11)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 
 <a id="section-543b"></a>
@@ -3949,16 +4762,7 @@ The area in the Mono Basin within and adjacent to the Inyo National Forest in th
 
 (1) Except as otherwise provided in sections 543 to 543h of this title, the Secretary, acting through the Chief of the Forest Service, shall administer the Scenic Area as a separate unit within the boundary of the Inyo National Forest in accordance with the laws, rules, and regulations applicable to the National Forest System. All Bureau of Land Management administered lands that fall within the boundaries of the Scenic Area are hereby added to the Inyo National Forest and shall be administered in accordance with the laws, rules, and regulations applicable to the National Forest System.
 
-(2) In addition, the following parcels administered by the Bureau of Land Management are hereby added to the Inyo National Forest and shall be administered in accordance with the laws, rules, and regulations applicable to the National Forest System:township 1 south; range 26 east; Mount Diablo Meridian: east half of southwest quarter and south half of southeast quarter of section 10; and
-township 1 north; range 26 east; Mount Diablo Meridian:
-southwest quarter of northeast quarter and west half of southeast quarter of section 9;
-southwest quarter of southwest quarter of section 15;
-southwest quarter of northwest quarter and northwest quarter of southwest quarter of section 25;
-north half of southeast quarter of section 26, west half of northwest quarter and northwest quarter of southwest quarter of section 27;
-township 1 north; range 27 east; Mount Diablo Meridian:
-east half of southeast quarter of section 34;
-southwest quarter of northwest quarter of section 35; and
-west half of section 30 as intersected by Scenic Area Boundary.
+(2) In addition, the following parcels administered by the Bureau of Land Management are hereby added to the Inyo National Forest and shall be administered in accordance with the laws, rules, and regulations applicable to the National Forest System:township 1 south; range 26 east; Mount Diablo Meridian: east half of southwest quarter and south half of southeast quarter of section 10; and township 1 north; range 26 east; Mount Diablo Meridian: southwest quarter of northeast quarter and west half of southeast quarter of section 9; southwest quarter of southwest quarter of section 15; southwest quarter of northwest quarter and northwest quarter of southwest quarter of section 25; north half of southeast quarter of section 26, west half of northwest quarter and northwest quarter of southwest quarter of section 27; township 1 north; range 27 east; Mount Diablo Meridian: east half of southeast quarter of section 34; southwest quarter of northwest quarter of section 35; and west half of section 30 as intersected by Scenic Area Boundary.
 
 **(b) Water rights; protection of geologic, ecologic and cultural resources; recreational use of Scenic Area; related facilities and programs; scientific study and research; commercial timber harvesting**
 
@@ -4588,9 +5392,12 @@ Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 418, provided in part that: 
 
   (B) any timber stumpage proceeds collected under the exchange shall be retained by the Forest Service to complete the exchange.
 
-**(g) Boundaries** For the purposes of section 460l–9 of this title, the boundaries of the scenic area, including special management areas and the Dodson/Warrendale Special Purchase Unit shall be treated as if they were within the boundaries of the Mount Hood or Gifford Pinchot National Forests as of January 1, 1965.
+**(g) Boundaries** For the purposes of sections 100506(c) and 200306 of title 54, the boundaries of the scenic area, including special management areas and the Dodson/Warrendale Special Purchase Unit shall be treated as if they were within the boundaries of the Mount Hood or Gifford Pinchot National Forests as of January 1, 1965.
 
 ### Statutory Notes
+
+#### Codification
+In subsec. (g), “sections 100506(c) and 200306 of title 54” substituted for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–9)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
 2000—Subsecs. (e) to (g). Pub. L. 106–291 added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
@@ -4761,7 +5568,7 @@ Section 13 of Pub. L. 99–663, which enacted this section, consisted of subsecs
 
     (ii) The establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
 
-    (iii) Projects under the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 through 11) and the Coastal Zone Management Act of 1972 ([16 U.S.C. 1451](./chapter-033-coastal-zone-management.md#section-1451) et seq.).
+    (iii) Projects under chapter 2003 of title 54 and the Coastal Zone Management Act of 1972 ([16 U.S.C. 1451](./chapter-033-coastal-zone-management.md#section-1451) et seq.).
 
     (iv) Scientific research, including but not limited to aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
 
@@ -4786,8 +5593,6 @@ Act of June 9, 1916, referred to in subsec. (e)(2)(A)(ii), is act June 9, 1916, 
 
 Act of Feb. 26, 1919, referred to in subsec. (e)(2)(A)(ii), is act Feb. 26, 1919, ch. 47, 40 Stat. 1179, which is not classified to the Code.
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (e)(3)(D)(iii), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
-
 The Coastal Zone Management Act of 1972, referred to in subsec. (e)(3)(D)(iii), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451) and Tables.
 
 The Disaster Relief Act of 1974, referred to in subsec. (e)(3)(D)(v), was renamed The Robert T. Stafford Disaster Relief and Emergency Assistance Act, and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of The Robert T. Stafford Disaster Relief and Emergency Assistance Act. The Robert T. Stafford Disaster Relief and Emergency Assistance Act was renamed the Robert T. Stafford Disaster Relief and Emergency Assistance Act by Pub. L. 106–390, title III, § 301, Oct. 30, 2000, 114 Stat. 1572. Section 105(d) of Pub. L. 100–707 repealed sections 305 and 306 of the Act ([42 U.S.C. 5145](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5145&num=0&edition=prelim) and 5146) and redesignated sections 308 and 309 of the Act ([42 U.S.C. 5148](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5148&num=0&edition=prelim) and 5149), and any references thereto, as sections 305 and 306, respectively. For corresponding provisions to former sections 305 and 306 of the Act, see sections 5170a, 5170b, and 5192 of Title 42, The Public Health and Welfare.
@@ -4797,6 +5602,8 @@ Section 1362 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4103](https
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim), The Congress, and Tables.
 
 #### Amendments
+2014—Subsec. (e)(3)(D)(iii). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 through 11)”.
+
 2000—Subsec. (c)(3). Pub. L. 106–291 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Except as provided in subparagraph (B), no payment” for “No payment”, substituted “eighth full fiscal year” for “fifth full fiscal year”, and added subpar. (B).
 
 
@@ -4869,7 +5676,7 @@ The Congressional Budget and Impoundment Control Act of 1974, referred to in sub
 ## § 544n. Authorization of appropriations
 **(a) General authorizations** There are authorized to be appropriated for fiscal years after the fiscal year 1986 such sums as are described below; 11 So in original. The semicolon probably should be a colon.
 
-(1) For the purpose of acquisition of lands, water and interests therein pursuant to sections 544 to 544p of this title: $40,000,000: Provided, That of this amount no more than $10,000,000 shall be available to acquire lands, water, and interests therein pursuant to [section 544h of this title](./chapter-002-national-forests.md#section-544h). Such amounts are authorized to be appropriated from amounts covered into the Land and Water Conservation Fund notwithstanding any allocation, apportionment, or limitation contained in the Land and Water Conservation Fund ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 and following).
+(1) For the purpose of acquisition of lands, water and interests therein pursuant to sections 544 to 544p of this title: $40,000,000: Provided, That of this amount no more than $10,000,000 shall be available to acquire lands, water, and interests therein pursuant to [section 544h of this title](./chapter-002-national-forests.md#section-544h). Such amounts are authorized to be appropriated from amounts covered into the Land and Water Conservation Fund notwithstanding any allocation, apportionment, or limitation contained in chapter 2003 of title 54.
 
 (2) For the purpose of providing payments to local governments pursuant to section 544l(c) of this title: $2,000,000.
 
@@ -4887,8 +5694,8 @@ The Congressional Budget and Impoundment Control Act of 1974, referred to in sub
 
 ### Statutory Notes
 
-#### References in Text
-The Land and Water Conservation Fund ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 and following), referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
+#### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 and following)”.
 
 
 <a id="section-544o"></a>
@@ -5003,9 +5810,7 @@ Pub. L. 103–314, § 1, Aug. 26, 1994, 108 Stat. 1703, as amended by Pub. L. 10
 ### Statutory Notes
 
 #### References in Text
-The mining laws and the mineral leasing laws of the United States, referred to in subsec. (i), are classified generally to Title 30, Mineral Lands and Mining.
-
-The geothermal leasing laws of the United States, referred to in subsec. (i), are classified principally to chapter 23 (§ 1001 et seq.) of Title 30.
+The geothermal leasing laws of the United States, referred to in subsec. (i), are classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining.
 
 #### Amendments
 1996—Subsec. (a)(1). Pub. L. 104–127 substituted “Mount Pleasant National Scenic Area” for “George Washington National Forest Mount Pleasant Scenic Area”.
@@ -5342,14 +6147,14 @@ Pub. L. 106–431, § 1, Nov. 6, 2000, 114 Stat. 1905, provided that: “This Ac
 ## § 546a. Boundaries
 **(a) Saint Helena Island** The scenic area shall comprise all of Saint Helena Island, in Lake Michigan, Michigan, and all associated rocks, pinnacles, islands, and islets within one-eighth mile of the shore of Saint Helena Island.
 
-**(b) Boundaries of Hiawatha National Forest extended** Upon establishment of the scenic area, the boundaries of the Hiawatha National Forest shall be extended to include all of the lands within the scenic area. All such extended boundaries shall be deemed boundaries in existence as of January 1, 1965, for the purposes of section 460l–9 of this title.11 See References in Text note below.
+**(b) Boundaries of Hiawatha National Forest extended** Upon establishment of the scenic area, the boundaries of the Hiawatha National Forest shall be extended to include all of the lands within the scenic area. All such extended boundaries shall be deemed boundaries in existence as of January 1, 1965, for the purposes of [section 100506 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100506&num=0&edition=prelim).
 
 **(c) Payments to local governments** Solely for purposes of payments to local governments pursuant to [section 6902 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6902&num=0&edition=prelim), lands acquired by the United States under sections 546 to 546a–5 of this title shall be treated as entitlement lands.
 
 ### Statutory Notes
 
-#### References in Text
-Section 460l–9 of this title, referred to in subsec. (b), was in the original “section 8 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–9)” which was translated as if it referred to section 7 of the Land and Water Conservation Fund Act of 1965, to reflect the probable intent of Congress. Section 8 of the Act is classified to section 460l–10 of this title and does not relate to boundaries of National Forests in existence as of January 1, 1965.
+#### Amendments
+2014—Subsec. (b). Pub. L. 113–287 substituted “[section 100506 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100506&num=0&edition=prelim)” for “section 460l–9 of this title”.
 
 
 <a id="section-546a-1"></a>

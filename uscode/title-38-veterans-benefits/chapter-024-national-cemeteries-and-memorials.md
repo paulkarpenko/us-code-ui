@@ -676,7 +676,7 @@ Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided t
 
   (B) honor the memory of such person in a memorial area in a cemetery in the National Cemetery Administration (described in [section 2403(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2403/a&num=0&edition=prelim)) or in such an area in Arlington National Cemetery (described in [section 2409(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2409/a&num=0&edition=prelim)).
 
-(2) In the case of a person described in subsection (b)(1), (b)(2), or (b)(4), the prohibition under paragraph (1) shall not apply unless written notice of a conviction referred to in subsection (b)(1), (b)(2), or (b)(4), as the case may be, is received by the appropriate Federal official before such official approves an application for the interment or memorialization of such person. Such written notice shall be furnished to such official by the Attorney General, in the case of a Federal crime, or by an appropriate State official, in the case of a State crime.
+(2) In the case of a person described in subsection (b)(1), (b)(2), or (b)(4), the prohibition under paragraph (1) shall not apply unless written notice of a conviction referred to in subsection (b)(1), (b)(2), or (b)(4), as the case may be, is received by the appropriate Federal official before the interment or memorialization of such person. Such written notice shall be furnished to such official by the Attorney General, in the case of a Federal crime, or by an appropriate State official, in the case of a State crime.
 
 **(b)** A person referred to in subsection (a) is any of the following:
 
@@ -700,7 +700,59 @@ Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided t
 
 **(c)** A finding under subsection (b)(3) shall be made by the appropriate Federal official. Any such finding may only be made based upon a showing of clear and convincing evidence, after an opportunity for a hearing in a manner prescribed by the appropriate Federal official.
 
-**(d)** For purposes of this section:
+**(d)**
+
+(1) In a case described in subsection (e), the appropriate Federal official may reconsider a decision to—
+
+  (A) inter the remains of a person in a cemetery in the National Cemetery Administration or in Arlington National Cemetery; or
+
+  (B) honor the memory of a person in a memorial area in a cemetery in the National Cemetery Administration (described in [section 2403(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2403/a&num=0&edition=prelim)) or in such an area in Arlington National Cemetery (described in [section 2409(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2409/a&num=0&edition=prelim)).
+
+(2)
+
+  (A)
+
+    (i) In a case described in subsection (e)(1)(A), the appropriate Federal official shall provide notice to the deceased person’s next of kin or other person authorized to arrange burial or memorialization of the deceased person of the decision of the appropriate Federal official to disinter the remains of the deceased person or to remove a memorial headstone or marker memorializing the deceased person.
+
+    (ii) In a case described in subsection (e)(1)(B), if the appropriate Federal official finds, based upon a showing of clear and convincing evidence and after an opportunity for a hearing in a manner prescribed by the appropriate Federal official, that the person had committed a Federal capital crime or a State capital crime but had not been convicted of such crime by reason of such person not being available for trial due to death or flight to avoid prosecution, the appropriate Federal official shall provide notice to the deceased person’s next of kin or other person authorized to arrange burial or memorialization of the deceased person of the decision of the appropriate Federal official to disinter the remains of the deceased person or to remove a memorial headstone or marker memorializing the deceased person.
+
+  (B) Notice under subparagraph (A) shall be provided by the appropriate Federal official as follows:
+
+    (i) By the Secretary in accordance with [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104).
+
+    (ii) By the Secretary of Defense in accordance with such regulations as the Secretary of Defense shall prescribe for purposes of this subsection.
+
+(3)
+
+  (A) Notwithstanding any other provision of law, the next of kin or other person authorized to arrange burial or memorialization of the deceased person shall be allowed a period of 60 days from the date of the notice required by paragraph (2) to file a notice of disagreement with the Federal official that provided the notice.
+
+  (B)
+
+    (i) A notice of disagreement filed with the Secretary under subparagraph (A) shall be treated as a notice of disagreement filed under [section 7105 of this title](./chapter-071-board-of-veterans-appeals.md#section-7105) and shall initiate appellate review in accordance with the provisions of chapter 71 of this title.
+
+    (ii) A notice of disagreement filed with the Secretary of Defense under subparagraph (A) shall be decided in accordance with such regulations as the Secretary of Defense shall prescribe for purposes of this subsection.
+
+(4) When the decision of the appropriate Federal official to disinter the remains or remove a memorial headstone or marker of the deceased person becomes final either by failure to appeal the decision in accordance with paragraph (3)(A) or by final disposition of the appeal pursuant to paragraph (3)(B), the appropriate Federal official may take any of the following actions:
+
+  (A) Disinter the remains of the person from the cemetery in the National Cemetery Administration or in Arlington National Cemetery and provide for the reburial or other appropriate disposition of the disinterred remains in a place other than a cemetery in the National Cemetery Administration or in Arlington National Cemetery.
+
+  (B) Remove from a memorial area in a cemetery in the National Cemetery Administration or in Arlington National Cemetery any memorial headstone or marker placed to honor the memory of the person.
+
+**(e)**
+
+(1) A case described in this subsection is a case in which the appropriate federal 11 So in original. Probably should be capitalized. official receives—
+
+  (A) written notice of a conviction referred to in subsection (b)(1), (b)(2), or (b)(4) of a person described in paragraph (2); or
+
+  (B) information that a person described in paragraph (2) may have committed a Federal capital crime or a State capital crime but was not convicted of such crime by reason of such person not being available for trial due to death or flight to avoid prosecution.
+
+(2) A person described in this paragraph is a person—
+
+  (A) whose remains have been interred in a cemetery in the National Cemetery Administration or in Arlington National Cemetery; or
+
+  (B) whose memory has been honored in a memorial area in a cemetery in the National Cemetery Administration or in such an area in Arlington National Cemetery.
+
+**(f)** For purposes of this section:
 
 (1) The term “Federal capital crime” means an offense under Federal law for which a sentence of imprisonment for life or the death penalty may be imposed.
 
@@ -718,9 +770,13 @@ Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided t
 The Sex Offender Registration and Notification Act, referred to in subsec. (b)(4)(A), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2013—Subsec. (a)(2). Pub. L. 112–260, § 105(b), substituted “, (b)(2), or (b)(4)” for “or (b)(2)” in two places and struck out “capital” before “crime” in two places.
+2013—Subsec. (a)(2). Pub. L. 113–65, § 2(b), struck out “such official approves an application for” after “received by the appropriate Federal official before”.
+
+Pub. L. 112–260, § 105(b), substituted “, (b)(2), or (b)(4)” for “or (b)(2)” in two places and struck out “capital” before “crime” in two places.
 
 Subsec. (b)(4). Pub. L. 112–260, § 105(a), added par. (4).
+
+Subsecs. (d) to (f). Pub. L. 113–65, § 2(a), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
 2006—Subsec. (b)(1). Pub. L. 109–163, § 662(a)(1)(A), substituted “and whose conviction is final (other than a person whose sentence was commuted by the President)” for “for which the person was sentenced to death or life imprisonment”.
 
@@ -737,6 +793,8 @@ Subsec. (d)(2). Pub. L. 109–163, § 662(a)(2)(B), substituted “a sentence of
 Subsecs. (a)(1)(A), (B), (d)(3)(A). Pub. L. 105–368, § 403(d)(1), substituted “Administration” for “System”.
 
 #### Effective Date of 2013 Amendment
+Pub. L. 113–65, § 2(c), Dec. 20, 2013, 127 Stat. 671, provided that: “The amendments made by this section [amending this section] shall apply with respect to any interment or memorialization conducted by the Secretary of Veterans Affairs or the Secretary of the Army in a cemetery in the National Cemetery Administration or in Arlington National Cemetery after the date of the enactment of this Act [Dec. 20, 2013].”
+
 Pub. L. 112–260, title I, § 105(c), Jan. 10, 2013, 126 Stat. 2421, provided that: “The amendments made by this section [amending this section] shall apply with respect to interments and memorializations that occur on or after the date of the enactment of this Act [Jan. 10, 2013].”
 
 #### Effective Date of 2006 Amendment

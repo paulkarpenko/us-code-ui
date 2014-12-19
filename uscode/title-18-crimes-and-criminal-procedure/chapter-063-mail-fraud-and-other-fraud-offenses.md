@@ -102,7 +102,8 @@ Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
 (1) to defraud a financial institution; or
 
-(2) to obtain any of the moneys, funds, credits, assets, securities, or other property owned by, or under the custody or control of, a financial institution, by means of false or fraudulent pretenses, representations, or promises; shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
+(2) to obtain any of the moneys, funds, credits, assets, securities, or other property owned by, or under the custody or control of, a financial institution, by means of false or fraudulent pretenses, representations, or promises;
+shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
 ### Statutory Notes
 
@@ -201,7 +202,8 @@ Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
 (1) to defraud any person in connection with any commodity for future delivery, or any option on a commodity for future delivery, or any security of an issuer with a class of securities registered under section 12 of the Securities Exchange Act of 1934 ([15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)l) or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)o(d)); or
 
-(2) to obtain, by means of false or fraudulent pretenses, representations, or promises, any money or property in connection with the purchase or sale of any commodity for future delivery, or any option on a commodity for future delivery, or any security of an issuer with a class of securities registered under section 12 of the Securities Exchange Act of 1934 ([15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)l) or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)o(d)); shall be fined under this title, or imprisoned not more than 25 years, or both.
+(2) to obtain, by means of false or fraudulent pretenses, representations, or promises, any money or property in connection with the purchase or sale of any commodity for future delivery, or any option on a commodity for future delivery, or any security of an issuer with a class of securities registered under section 12 of the Securities Exchange Act of 1934 ([15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)l) or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)o(d));
+shall be fined under this title, or imprisoned not more than 25 years, or both.
 
 ### Statutory Notes
 

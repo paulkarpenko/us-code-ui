@@ -114,11 +114,11 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 (3) The payment agreed to under paragraph (2)(B) may not be required of a fellow who leaves the service of such agency to enter into the service of another agency in any branch of the United States Government unless the head of the agency that authorized the fellowship notifies the employee before the effective date of entry into the service of the other agency that payment will be required under this section.
 
-**(b) Status as Government employee** A fellow detailed under subsection (a) of this section is deemed, for the purpose of preserving allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore is deemed to comply with [section 5536 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5536&num=0&edition=prelim).
+**(b) Status as Government employee** A fellow detailed under subsection (a) is deemed, for the purpose of preserving allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore 11 So in original. Probably should be “therefor”. is deemed to comply with [section 5536 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5536&num=0&edition=prelim).
 
-**(c) Reimbursement** Fellows may be detailed under subsection (a) of this section without reimbursement to the United States by the Center.
+**(c) Reimbursement** Fellows may be detailed under subsection (a) without reimbursement to the United States by the Center.
 
-**(d) Allowances and benefits** A fellow detailed under subsection (a) of this section may be paid by the Center for allowances and benefits listed in [section 6102(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6102/4/B&num=0&edition=prelim).
+**(d) Allowances and benefits** A fellow detailed under subsection (a) may be paid by the Center for allowances and benefits listed in [section 6102(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6102/4/B&num=0&edition=prelim).
 
 ### Statutory Notes
 

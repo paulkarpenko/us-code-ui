@@ -16,7 +16,7 @@ source: >-
 
     (i) of a taxpayer in the case of a tax imposed by subtitle A (relating to income taxes),
 
-    (ii) of a decedent in the case of a tax imposed by chapter 11 (relating to estate taxes). or
+    (ii) of a decedent in the case of a tax imposed by chapter 11 (relating to estate taxes), or
 
     (iii) of a donor in the case of a tax imposed by chapter 12 (relating to gift taxes),
     in respect of the tax imposed by subtitle A or B.

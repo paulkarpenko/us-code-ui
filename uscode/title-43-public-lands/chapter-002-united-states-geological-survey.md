@@ -30,7 +30,7 @@ Pub. L. 102–285, § 10(a), May 18, 1992, 106 Stat. 171, provided that: “The 
 “United States Geological Survey” substituted for “Geological Survey” in subsecs. (a) and (b) pursuant to provision of title I of Pub. L. 102–154, which provided: “That the Geological Survey ([43 U.S.C. 31(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section31/a&num=0&edition=prelim)) shall hereafter [on and after Nov. 13, 1991] be designated the United States Geological Survey.”
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 #### Continental Scientific Drilling and Exploration
 Pub. L. 100–441, Sept. 22, 1988, 102 Stat. 1760, provided: “That this Act may be cited as the ‘Continental Scientific Drilling and Exploration Act’. “SEC. 2. PURPOSES.“The purpose of this Act is to—“(1) implement section 323 of the joint resolution entitled ‘Joint Resolution making continuing appropriations for the fiscal year 1985, and for other purposes’, approved October 12, 1984 (Public Law 98–473; 98 Stat. 1875) [set out below] which supports and encourages the development of a national Continental Scientific Drilling Program; “(2) enhance fundamental understanding of the composition, structure, dynamics, and evolution of the continental crust, and how such processes affect natural phenomena such as earthquakes, volcanic eruptions, transfer of geothermal energy, distribution of mineral deposits, the occurrence of fossil fuels, and the nature and extent of aquifers; “(3) advance basic earth sciences research and technological development; “(4) obtain critical data regarding the earth’s crust relating to isolation of hazardous wastes; and “(5) develop a long-range plan for implementation of the Continental Scientific Drilling Program. “SEC. 3. FINDINGS.“Congress finds that—“(1) because the earth provides energy, minerals, and water, and is used as a storage medium for municipal, chemical, and nuclear waste, an understanding of the processes and structures in the earth’s crust is essential to the well being of the United States; “(2) there is a need for developing long-range plans for a United States Continental Scientific Drilling Program; and “(3) the Continental Scientific Drilling Program would enhance—“(A) understanding of the crustal evolution of the earth and the mountain building processes; “(B) understanding of the mechanisms of earthquakes and volcanic eruptions and the development of improved techniques for prediction; “(C) understanding of the development and utilization of geothermal and other energy sources and the formation of and occurrence of mineral deposits; “(D) understanding of the migration of fluids in the earth’s crust for evaluation of waste contamination and the development of more effective techniques for the safe subsurface disposal of hazardous wastes; “(E) understanding and definition of the size, source, and more effective use of aquifers and other water resources; and “(F) evaluation and verification of surface geophysical techniques needed for exploring and monitoring the earth’s crust. “SEC. 4. IMPLEMENTATION OF CONTINENTAL SCIENTIFIC DRILLING PROGRAM.“The Secretary of the Department of Energy, the Secretary of the Department of the Interior through the United States Geological Survey, and the Director of the National Science Foundation shall implement the policies of section 323 of the joint resolution entitled ‘Joint Resolution making continuing appropriations for the fiscal year 1985, and for other purposes’, approved October 12, 1984 (Public Law 98–473; 98 Stat. 1875) [set out below] by—“(1) taking such action as necessary to assure an effective, cooperative effort in furtherance of the Continental Scientific Drilling Program of the United States; “(2) taking all reasonable administrative and financial measures to assure that the Interagency Accord on Continental Scientific Drilling continues to function effectively in support of such program; “(3) assuring the continuing effective operation of the Interagency Coordinating Group to further the objectives of such program; “(4) taking such action to assure that the Interagency Coordinating Group receives appropriate cooperation from any Federal agency that can contribute to the objectives of such program, without adversely affecting any program or activity of such agency; “(5) acting through the Interagency Coordinating Group, preparing and submitting to the Congress, within one hundred and eighty days after the enactment of this Act [Sept. 22, 1988] a report describing—“(A) long and short-term policy objectives and goals of the United States Continental Scientific Drilling Program; “(B) projected schedules of desirable scientific and engineering events that would advance United States objectives in the Continental Scientific Drilling Program; “(C) the levels of resources and funding for fiscal year 1989 that would be required by each participating Federal agency to carry out events pursuant to subparagraphs (A) and (B); “(D) the scientific, economic, technological, and social benefits expected to be realized through the implementation of such program at each level described in subparagraph (C); “(E) a recommended course for interaction with the international community in a cooperative effort to achieve the goals and purposes of this Act; “(F) the extent of participation or interest shown to date in the Continental Scientific Drilling Program by—“(i) any other governmental agency; “(ii) any academic institution; “(iii) any organization in the private sector; and “(iv) any governmental or other entity in the international community; “(G) a plan to develop beneficial cooperative relationships among the entities mentioned in subparagraph (F), to the extent that the Interagency Coordinating Group deems practicable; and “(H) any other information or recommendations that the Interagency Coordinating Group deems appropriate; and “(6) submitting to the Congress annually, beginning one year after the submission of a report under paragraph (5), a report describing the levels of resources and funding that would be required by each participating Federal agency for the next fiscal year to carry out events pursuant to paragraph (5)(A) and (B).”
@@ -478,7 +478,7 @@ A prior section 31e, Pub. L. 102–285, § 6, May 18, 1992, 106 Stat. 170; Pub. 
 ### Statutory Notes
 
 #### References in Text
-Executive Order 12906, referred to in subsec. (b)(1), is set out as a note under [section 1457 of this title](./chapter-031-department-of-the-interior.md#section-1457).
+Executive Order 12906, referred to in subsec. (b)(1), is set out as a note under [section 1457 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1457&num=0&edition=prelim).
 
 #### Amendments
 2009—Subsec. (a)(1). Pub. L. 111–11, § 11001(g)(1), substituted “geologic-map” for “geologic map”.
@@ -564,7 +564,7 @@ The Secretary of the Interior may authorize one of the geologists to act as Dire
 “United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under [section 31 of this title](./chapter-002-united-states-geological-survey.md#section-31).
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 
 <a id="section-33"></a>
@@ -586,7 +586,7 @@ The scientific employees of the United States Geological Survey shall be selecte
 “United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under [section 31 of this title](./chapter-002-united-states-geological-survey.md#section-31).
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 
 <a id="section-35"></a>
@@ -605,7 +605,7 @@ The purchase of professional and scientific books and periodicals needed for sta
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 
 <a id="section-36a"></a>
@@ -619,7 +619,7 @@ The Director of the United States Geological Survey, under the general supervisi
 “United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under [section 31 of this title](./chapter-002-united-states-geological-survey.md#section-31).
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 
 <a id="section-36b"></a>
@@ -713,7 +713,7 @@ The words “Except as otherwise provided in [section 260 of title 44](https://u
 “United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under [section 31 of this title](./chapter-002-united-states-geological-survey.md#section-31).
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 
 <a id="section-42"></a>
@@ -732,7 +732,7 @@ Joint Res. Feb. 18, 1897 superseded a provision contained in act June 11, 1896, 
 “United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under [section 31 of this title](./chapter-002-united-states-geological-survey.md#section-31).
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 
 <a id="section-42a"></a>
@@ -763,7 +763,7 @@ The Director of the United States Geological Survey shall, if the regular map wo
 “United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under [section 31 of this title](./chapter-002-united-states-geological-survey.md#section-31).
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 
 <a id="section-45"></a>
@@ -777,7 +777,7 @@ The Director of the United States Geological Survey on and after March 4, 1909 m
 1947—Act July 21, 1947, authorized production and sale of aerial or other photographs and reproductions of records on a reimbursement of appropriations basis.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 
 <a id="section-46"></a>
@@ -868,7 +868,7 @@ The provisions of law authorizing the making of topographic and geological surve
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 
 <a id="section-50"></a>
@@ -883,6 +883,10 @@ Section text is based on act July 31, 1953, ch. 298, title I, § 1, 67 Stat. 269
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 296.
+
+Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 993.
 
 Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2913.
 

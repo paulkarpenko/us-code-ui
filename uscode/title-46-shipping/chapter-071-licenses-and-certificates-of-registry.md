@@ -66,6 +66,12 @@ source: >-
 
 **(i)** The Secretary shall require the testing of an individual who applies for issuance or renewal of a license or certificate of registry under this chapter for use of a dangerous drug in violation of law or Federal regulation.
 
+**(j)** The Secretary may issue a license under this section in a class under subsection (c) to an applicant that—
+
+(1) has at least 3 months of qualifying service on vessels of the uniformed services (as that term is defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim)) of appropriate tonnage or horsepower within the 7-year period immediately preceding the date of application; and
+
+(2) satisfies all other requirements for such a license.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |
@@ -99,6 +105,8 @@ Subsection (f) authorizes the Secretary to issue certificates of registry to qua
 Sections 205(a)(3)(A) or (B) and 206(b)(7) of the National Driver Register Act of 1982, referred to in subsec. (g), are sections 205(a)(3)(A), (B) and 206(b)(7) of Pub. L. 97–364, which are set out as a note under [section 401 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section401&num=0&edition=prelim), Highways.
 
 #### Amendments
+2014—Subsec. (j). Pub. L. 113–281 added subsec. (j).
+
 1996—Subsec. (e)(3). Pub. L. 104–324 inserted “as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104)” after “1,600 gross tons”.
 
 1990—Subsecs. (g) to (i). Pub. L. 101–380 added subsecs. (g) to (i).

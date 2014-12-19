@@ -243,7 +243,8 @@ In the event of a participant’s death, the amount of such participant’s unus
 
 (3) The surviving child or children of the participant, in equal shares.
 
-(4) The surviving parent or parents of the participant, in equal shares. If there is no such person living, such amount shall be paid to such participant’s estate.
+(4) The surviving parent or parents of the participant, in equal shares.
+If there is no such person living, such amount shall be paid to such participant’s estate.
 
 ### Statutory Notes
 

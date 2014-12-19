@@ -392,7 +392,7 @@ George Bush.
 
 <a id="section-7508a"></a>
 ## § 7508A. Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions
-**(a) In general** In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(h)(3)(C)(i)) or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
+**(a) In general** In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(h)(3)(C)(i)) 11 See References in Text note below. or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
 
 (1) whether any of the acts described in paragraph (1) of section 7508(a) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date (determined by the Secretary) of such disaster or action),
 
@@ -405,6 +405,9 @@ George Bush.
 **(c) Special rules for overpayments** The rules of section 7508(b) shall apply for purposes of this section.
 
 ### Statutory Notes
+
+#### References in Text
+Par. (3) of section 165(h), referred to in subsec. (a), was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(27)(A), Dec. 19, 2014, 128 Stat. 4040. However, the term “federally declared disaster” is defined elsewhere in that section.
 
 #### Amendments
 2008—Subsec. (a). Pub. L. 110–343 substituted “federally declared disaster (as defined by section 165(h)(3)(C)(i))” for “Presidentially declared disaster (as defined in section 1033(h)(3))” in introductory provisions.
@@ -730,15 +733,11 @@ Pub. L. 94–455, title XX, § 2008(d)(1), Oct. 4, 1976, 90 Stat. 1892, as amend
 
     (iii) no interest shall be payable on amounts referred to in clauses (i) and (ii) of paragraph (2) or in the case of any nonqualified withdrawal arising from the application of the recapture provision of section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969.
 
-(4) **Interest rate** — For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any nonqualified withdrawal—
-
-  (A) made in a taxable year beginning in 1970 or 1971 is 8 percent, or
-
-  (B) made in a taxable year beginning after 1971, shall be determined and published jointly by the Secretary of the Treasury or his delegate and the applicable Secretary and shall bear a relationship to 8 percent which the Secretaries determine under joint regulations to be comparable to the relationship which the money rates and investment yields for the calendar year immediately preceding the beginning of the taxable year bear to the money rates and investment yields for the calendar year 1970.
+(4) **Interest rate** — For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any nonqualified withdrawal shall be determined and published jointly by the Secretary of the Treasury or his delegate and the applicable Secretary and shall bear a relationship to 8 percent which the Secretaries determine under joint regulations to be comparable to the relationship which the money rates and investment yields for the calendar year immediately preceding the beginning of the taxable year bear to the money rates and investment yields for the calendar year 1970.
 
 (5) **Amount not withdrawn from fund after 25 years from deposit taxed as nonqualified withdrawal**
 
-  (A) *In general* — The applicable percentage of any amount which remains in a capital construction fund at the close of the 26th, 27th, 28th, 29th, or 30th taxable year following the taxable year for which such amount was deposited shall be treated as a nonqualified withdrawal in accordance with the following table: If the amount remains in the fundThe applicable at the close of the—percentage is— 26th taxable year 20 percent 27th taxable year 40 percent 28th taxable year 60 percent 29th taxable year 80 percent 30th taxable year 100 percent.
+  (A) *In general* — The applicable percentage of any amount which remains in a capital construction fund at the close of the 26th, 27th, 28th, 29th, or 30th taxable year following the taxable year for which such amount was deposited shall be treated as a nonqualified withdrawal in accordance with the following table: If the amount remains in the fund at the close of the—The applicable percentage is— 26th taxable year20 percent 27th taxable year40 percent 28th taxable year60 percent 29th taxable year80 percent 30th taxable year100 percent.
 
   (B) *Earnings treated as deposits* — The earnings of any capital construction fund for any taxable year (other than net gains) shall be treated for purposes of this paragraph as an amount deposited for such taxable year.
 
@@ -783,6 +782,14 @@ Section 607(k) of the Merchant Marine Act, 1936, referred to in subsec. (i), was
 The date of the enactment of this section, referred to in subsec. (i), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 #### Amendments
+2014—Subsec. (g)(4). Pub. L. 113–295, which directed substitution of “any nonqualified withdrawal shall be determined” for “any nonqualified withdrawal” and all that followed through “ ‘shall be determined”, was executed by substituting “any nonqualified withdrawal shall be determined” for “any nonqualified withdrawal—
+
+“(A) made in a taxable year beginning in 1970 or 1971 is 8 percent, or
+
+“(B) made in a taxable year beginning after 1971, shall be determined”
+
+to reflect the probable intent of Congress.
+
 2013—Subsec. (g)(6)(A). Pub. L. 112–240 substituted “20 percent” for “15 percent” in concluding provisions.
 
 2006—Subsec. (a)(1). Pub. L. 109–304, § 17(e)(6)(A), substituted “chapter 535 of title 46 of the United States Code” for “section 607 of the Merchant Marine Act, 1936”.
@@ -800,6 +807,9 @@ Subsec. (g)(3)(C)(iii). Pub. L. 109–304, § 17(e)(6)(C), substituted “Mercha
 1988—Subsec. (g)(1). Pub. L. 100–647, § 1018(u)(23), substituted “not a qualified withdrawal” for “not qualified withdrawal”.
 
 Subsec. (g)(6)(A). Pub. L. 100–647, § 1002(m)(1), substituted “section 1(j)” for “section 1(i)”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2012, see section 102(d)(1) of Pub. L. 112–240, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -893,7 +903,7 @@ For purposes of paragraph (1)(A), the term “adjusted highest section 1 rate”
 
     (ii) dividend paid by the S corporation.
 
-(4) **Applicable percentage** — The applicable percentage is the percentage determined in accordance with the following table: If the applicable election year of the partnership or SThe applicable corporation begins during:percentage is: 1987 25 1988 50 1989 75 1990 or thereafter 100. Notwithstanding the preceding provisions of this paragraph, the applicable percentage for any partnership or S corporation shall be 100 percent unless more than 50 percent of such entity’s net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.
+(4) **Applicable percentage** — The applicable percentage is the percentage determined in accordance with the following table: If the applicable election year of the partnership or S corporation begins during:The applicable percentage is: 198725 198850 198975 1990 or thereafter100. Notwithstanding the preceding provisions of this paragraph, the applicable percentage for any partnership or S corporation shall be 100 percent unless more than 50 percent of such entity’s net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.
 
 (5) **Treatment of guaranteed payments**
 
@@ -1007,9 +1017,7 @@ If an income, estate, or gift tax charitable contribution is allowable for any p
 
 (1) **In general** — The tables prescribed by the Secretary for purposes of subsection (a) shall contain valuation factors for a series of interest rate categories.
 
-(2) **Initial table** — Not later than the day 3 months after the date of the enactment of this section, the Secretary shall prescribe initial tables for purposes of subsection (a). Such tables may be based on the same mortality experience as used for purposes of section 2031 on the date of the enactment of this section.
-
-(3) **Revision for recent mortality charges** — Not later than December 31, 1989, the Secretary shall revise the initial tables prescribed for purposes of subsection (a) to take into account the most recent mortality experience available as of the time of such revision. Such tables shall be revised not less frequently than once each 10 years thereafter to take into account the most recent mortality experience available as of the time of the revision.
+(2) **Revision for recent mortality charges** — The Secretary shall revise the initial tables prescribed for purposes of subsection (a) to take into account the most recent mortality experience available as of the time of such revision. Such tables shall be revised not less frequently than once each 10 years to take into account the most recent mortality experience available as of the time of the revision.
 
 **(d) Valuation date** For purposes of this section, the term “valuation date” means the date as of which the valuation is made.
 
@@ -1017,11 +1025,14 @@ If an income, estate, or gift tax charitable contribution is allowable for any p
 
 ### Statutory Notes
 
-#### References in Text
-The date of the enactment of this section, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
-
 #### Codification
 Another section 7520 was renumbered [section 7521 of this title](./chapter-077-miscellaneous-provisions.md#section-7521).
+
+#### Amendments
+2014—Subsec. (c)(2), (3). Pub. L. 113–295 redesignated par. (3) as (2), substituted “The Secretary” for “Not later than December 31, 1989, the Secretary” and struck out “thereafter” after “once each 10 years”, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Not later than the day 3 months after the date of the enactment of this section, the Secretary shall prescribe initial tables for purposes of subsection (a). Such tables may be based on the same mortality experience as used for purposes of section 2031 on the date of the enactment of this section.”
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date
 Pub. L. 100–647, title V, § 5031(c), Nov. 10, 1988, 102 Stat. 3669, provided that: “The amendments made by this section [enacting this section] shall apply in cases where the date as of which the valuation is to be made occurs on or after the 1st day of the 6th calendar month beginning after the date of the enactment of this Act [Nov. 10, 1988].”
@@ -1299,10 +1310,15 @@ Pub. L. 105–206, title III, § 3601(c), July 22, 1998, 112 Stat. 776, provided
 
 ### Statutory Notes
 
+#### Amendment of Subsection (e)(2)
+Pub. L. 113–128, title V, §§ 506, 512(r), July 22, 2014, 128 Stat. 1703, 1712, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (e)(2) of this section is amended by inserting “(as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act)” after “of 1998”. See 2014 Amendment note below.
+
 #### References in Text
 Section 173(f) of the Workforce Investment Act of 1998, referred to in subsec. (e)(2), is classified to [section 2918(f) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918/f&num=0&edition=prelim), Labor.
 
 #### Amendments
+2014—Subsec. (e)(2). Pub. L. 113–128 inserted “(as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act)” after “of 1998”.
+
 2011—Subsec. (b). Pub. L. 112–40, § 241(b)(2)(A), substituted “72.5 percent” for “65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)”.
 
 Subsec. (d)(2). Pub. L. 112–40, § 241(b)(2)(B), struck out “which is issued before February 13, 2011” after “in paragraph (1)” in introductory provisions.
@@ -1326,6 +1342,9 @@ Subsec. (d). Pub. L. 111–5, § 1899H(a), amended subsec. (d) generally. Prior 
 “(2) in the case of an eligible PBGC pension recipient (as defined in section 35(c)(4)), is certified by the Pension Benefit Guaranty Corporation (or by any other person or entity designated by the Secretary).”
 
 Subsec. (e). Pub. L. 111–5, § 1899B(a), added subsec. (e).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–40 applicable to coverage months beginning after Feb. 12, 2011, except that amendment by section 241(b)(2)(B) of Pub. L. 112–40 applicable to certificates issued after the date which is 30 days after Oct. 21, 2011, and amendment by section 241(b)(2)(D) of Pub. L. 112–40 applicable to coverage months beginning after the date which is 30 days after Oct. 21, 2011, see section 241(c) of Pub. L. 112–40, set out as a note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
@@ -1395,12 +1414,19 @@ Pub. L. 111–5, div. B, title I, § 1899B(c), Feb. 17, 2009, 123 Stat. 424, pro
 
 (3) **Average fee requirement** — The average fee charged under the program required by subsection (a) shall not be less than the amount determined under the following table: Average CategoryFee Employee plan ruling and opinion$250 Exempt organization ruling$350 Employee plan determination$300 Exempt organization determination$275 Chief counsel ruling$200.
 
+(4) **Certified professional employer organizations** — The fee charged under the program in connection with the certification by the Secretary of a professional employer organization under section 7705 shall be an annual fee not to exceed $1,000 per year.
+
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b)(4). Pub. L. 113–295 added par. (4).
+
 2007—Subsec. (c). Pub. L. 110–28 struck out heading and text of subsec. (c). Text read as follows: “No fee shall be imposed under this section with respect to requests made after September 30, 2014.”
 
 2004—Subsec. (c). Pub. L. 108–357 substituted “September 30, 2014” for “December 31, 2004”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 applicable with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as a note under [section 3302 of this title](./chapter-023-federal-unemployment-tax-act.md#section-3302).
 
 #### Effective Date of 2004 Amendment
 Pub. L. 108–357, title VIII, § 891(b), Oct. 22, 2004, 118 Stat. 1644, provided that: “The amendment made by this section [amending this section] shall apply to requests after the date of the enactment of this Act [Oct. 22, 2004].”

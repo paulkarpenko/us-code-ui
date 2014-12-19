@@ -69,7 +69,7 @@ source: >-
 The provisions of this title governing appointments in the competitive service, referred to in subsec. (a), are classified generally to section 3301 et seq. of this title.
 
 #### Amendments
-2013—Subsec. (a). Pub. L. 113–6, which directed substitution of “Before September 30, 2013” for “Before July 23, 2013”, was executed by making the substitution for “before July 23, 2013” to reflect the probable intent of Congress.
+2013—Subsec. (a). Pub. L. 113–6, which directed substitution of “Before September 30, 2013” for “Before July 23, 2013” wherever appearing, was executed by making the substitution for “before July 23, 2013” in introductory provisions to reflect the probable intent of Congress.
 
 2007—Subsec. (a). Pub. L. 110–161 substituted “before July 23, 2013” for “for a period of 10 years after the date of enactment of this section” in introductory provisions.
 

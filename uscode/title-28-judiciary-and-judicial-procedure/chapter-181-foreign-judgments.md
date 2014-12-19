@@ -79,7 +79,8 @@ In addition to removal allowed under section 1441, any action brought in a State
 
 (2) any plaintiff is a foreign state or a citizen or subject of a foreign state and any defendant is a citizen of a State; or
 
-(3) any plaintiff is a citizen of a State and any defendant is a foreign state or citizen or subject of a foreign state, may be removed by any defendant to the district court of the United States for the district and division embracing the place where such action is pending without regard to the amount in controversy between the parties.
+(3) any plaintiff is a citizen of a State and any defendant is a foreign state or citizen or subject of a foreign state,
+may be removed by any defendant to the district court of the United States for the district and division embracing the place where such action is pending without regard to the amount in controversy between the parties.
 
 
 <a id="section-4104"></a>

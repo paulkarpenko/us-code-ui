@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-230101"></a>
 ## § 230101. Organization
-**(a) Federal Charter.—** Veterans of Foreign Wars of the United States (in this chapter, the “corporation”), a national association of men who as soldiers, sailors, marines, and airmen served this Nation in wars, campaigns, and expeditions on foreign soil or in hostile waters, is a federally chartered corporation.
+**(a) Federal Charter.—** Veterans of Foreign Wars of the United States (in this chapter, the “corporation”), a national association of veterans who as soldiers, sailors, marines, and airmen served this Nation in wars, campaigns, and expeditions on foreign soil or in hostile waters, is a federally chartered corporation.
 
 **(b) Perpetual Existence.—** Except as otherwise provided, the corporation has perpetual existence.
 
@@ -25,6 +25,9 @@ Subsection (a) is substituted for the source provisions for consistency in the r
 
 In subsection (b), the words “perpetual existence” are substituted for “perpetual succession” for consistency in the revised title.
 
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–199 substituted “veterans” for “men”.
+
 
 <a id="section-230102"></a>
 ## § 230102. Purposes
@@ -35,7 +38,7 @@ The purposes of the corporation are fraternal, patriotic, historical, charitable
 
 (2) to assist worthy comrades;
 
-(3) to perpetuate the memory and history of our dead, and to assist their widows and orphans;
+(3) to perpetuate the memory and history of our dead, and to assist their surviving spouses and orphans;
 
 (4) to maintain true allegiance to the Government of the United States, and fidelity to its Constitution and laws;
 
@@ -53,6 +56,8 @@ The purposes of the corporation are fraternal, patriotic, historical, charitable
 | 230102 | 36:113. | May 28, 1936, ch. 471, § 3, 49 Stat. 1391. |
 
 #### Amendments
+2014—Par. (3). Pub. L. 113–199 substituted “surviving spouses” for “widows”.
+
 2002—Pub. L. 107–242 inserted “charitable,” before “and educational,” in introductory provisions.
 
 

@@ -2,7 +2,7 @@
 title: 6
 heading: DOMESTIC SECURITY
 positive_law: false
-sections: 408
+sections: 432
 chapters: 5
 ---
 # Title 6. DOMESTIC SECURITY

@@ -227,13 +227,15 @@ Pub. L. 111–203, title XIV, § 1495, July 21, 2010, 124 Stat. 2207, provided t
 
     (ii) any amount that is not in excess of the amount payable under policies in effect at the time of origination under section 203(c)(2)(A) of the National Housing Act ([12 U.S.C. 1709(c)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1709/c/2/A&num=0&edition=prelim)), provided that the premium, charge, or fee is required to be refundable on a pro-rated basis and the refund is automatically issued upon notification of the satisfaction of the underlying mortgage loan; and
 
-    (iii) any premium paid by the consumer after closing. (A) After the 2-year period beginning on the effective date of the regulations promulgated under section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than biennially after the first increase or decrease under this subparagraph, the Bureau may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Bureau determines that the increase or decrease is—
+    (iii) any premium paid by the consumer after closing.
 
-      (2)
+(2)
 
-        (i) consistent with the consumer protections against abusive lending provided by the amendments made by subtitle B of title I of the Riegle Community Development and Regulatory Improvement Act of 1994; and
+  (A) After the 2-year period beginning on the effective date of the regulations promulgated under section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than biennially after the first increase or decrease under this subparagraph, the Bureau may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Bureau determines that the increase or decrease is—
 
-        (ii) warranted by the need for credit.
+    (i) consistent with the consumer protections against abusive lending provided by the amendments made by subtitle B of title I of the Riegle Community Development and Regulatory Improvement Act of 1994; and
+
+    (ii) warranted by the need for credit.
 
   (B) An increase or decrease under subparagraph (A)—
 
@@ -243,9 +245,9 @@ Pub. L. 111–203, title XIV, § 1495, July 21, 2010, 124 Stat. 2207, provided t
 
   (C) In determining whether to increase or decrease the number of percentage points referred to in subparagraph (A), the Bureau shall consult with representatives of consumers, including low-income consumers, and lenders.
 
-    (3) The amount specified in paragraph (1)(B)(ii) shall be adjusted annually on January 1 by the annual percentage change in the Consumer Price Index, as reported on June 1 of the year preceding such adjustment.
+(3) The amount specified in paragraph (1)(B)(ii) shall be adjusted annually on January 1 by the annual percentage change in the Consumer Price Index, as reported on June 1 of the year preceding such adjustment.
 
-    (4) For purposes of paragraph (1)(B), points and fees shall include—
+(4) For purposes of paragraph (1)(B), points and fees shall include—
 
   (A) all items included in the finance charge, except interest or the time-price differential;
 
@@ -267,9 +269,9 @@ Pub. L. 111–203, title XIV, § 1495, July 21, 2010, 124 Stat. 2207, provided t
 
   (G) such other charges as the Bureau determines to be appropriate.
 
-    (5) *Calculation of points and fees for open-end consumer credit plans.—* — In the case of open-end consumer credit plans, points and fees shall be calculated, for purposes of this section and [section 1639 of this title](./chapter-041-consumer-credit-protection.md#section-1639), by adding the total points and fees known at or before closing, including the maximum prepayment penalties which may be charged or collected under the terms of the credit transaction, plus the minimum additional fees the consumer would be required to pay to draw down an amount equal to the total credit line.
+(5) **Calculation of points and fees for open-end consumer credit plans.—** — In the case of open-end consumer credit plans, points and fees shall be calculated, for purposes of this section and [section 1639 of this title](./chapter-041-consumer-credit-protection.md#section-1639), by adding the total points and fees known at or before closing, including the maximum prepayment penalties which may be charged or collected under the terms of the credit transaction, plus the minimum additional fees the consumer would be required to pay to draw down an amount equal to the total credit line.
 
-    (6) This subsection shall not be construed to limit the rate of interest or the finance charge that a person may charge a consumer for any extension of credit.
+(6) This subsection shall not be construed to limit the rate of interest or the finance charge that a person may charge a consumer for any extension of credit.
 
 **(cc)** 11 So in original. Two subsecs. (cc) have been enacted. The term “reverse mortgage transaction” means a nonrecourse transaction in which a mortgage, deed of trust, or equivalent consensual security interest is created against the consumer’s principal dwelling—
 
@@ -373,7 +375,7 @@ Subsec. (bb). Pub. L. 111–203, § 1431(a), which directed amendment of subsec.
 
 Pub. L. 111–203, § 1100(A)(1), redesignated subsec. (aa) as (bb). Former subsec. (bb) redesignated (cc).
 
-Subsec. (bb)(2)(B). Pub. L. 111–203, § 1431(b), which directed amendment of subsec. (aa)(2) by adding subpar. (B) and striking out former subpar. (B), was executed by making the amendment to subsec. (bb)(2) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, § 1100(A)(1). See above. Text of former subpar. (B) read as follows: which read as follows: “An increase or decrease under subparagraph (A) may not result in the number of percentage points referred to in subparagraph (A) being—
+Subsec. (bb)(2)(B). Pub. L. 111–203, § 1431(b), which directed amendment of subsec. (aa)(2) by adding subpar. (B) and striking out former subpar. (B), was executed by making the amendment to subsec. (bb)(2) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, § 1100(A)(1). See above. Text of former subpar. (B) read as follows: “An increase or decrease under subparagraph (A) may not result in the number of percentage points referred to in subparagraph (A) being—
 
 “(i) less that 8 percentage points; or
 
@@ -517,7 +519,7 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L. 93–495, set out as an Effective Date note under [section 1665a of this title](./chapter-041-consumer-credit-protection.md#section-1665a).
 
 #### Exceptions in Areas Where Major Disaster Exists
-Board of Governors of Federal Reserve System authorized to make exceptions to requirements of this subchapter for transactions within an area in which the President has determined that a major disaster exists, if Board determines that exception can reasonably be expected to alleviate hardships to the public that outweigh possible adverse effects, see section 2 of Pub. L. 103–76, set out as a note under [section 4008 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4008&num=0&edition=prelim), Banks and Banking.
+Board of Governors of Federal Reserve System authorized to make exceptions to requirements of this subchapter for transactions within an area in which the President has determined that a major disaster exists, if Board determines that exception can reasonably be expected to alleviate hardships to the public that outweigh possible adverse effects, see section 50002 of Pub. L. 105–18, set out as a note under [section 4008 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4008&num=0&edition=prelim), Banks and Banking, and similar provisions listed thereunder.
 
 #### Adjustments for Inflation
 Pub. L. 111–203, title X, § 1100E(b), July 21, 2010, 124 Stat. 2111, provided that: “On and after December 31, 2011, the Bureau [of Consumer Financial Protection] shall adjust annually the dollar amounts described in sections 104(3) and 181(1) of the Truth in Lending Act [[15 U.S.C. 1603(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1603/3&num=0&edition=prelim), 1667(1)] (as amended by this section), by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as published by the Bureau of Labor Statistics, rounded to the nearest multiple of $100, or $1,000, as applicable.”
@@ -808,7 +810,7 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
     (ii) require the full adjustment, but permit the creditor to make the required adjustment in partial payments over an extended period of time which the agency considers to be reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a) of this section), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act [[12 U.S.C. 1831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831&num=0&edition=prelim)o];
 
-  (B) the 22 So in original. Probably should be preceded by “if”. amount of the adjustment would be less than $1, except that if more than one year has elapsed since the date of the violation, the agency may require that such amount be paid into the Treasury of the United States, or
+  (B) the 11 So in original. Probably should be preceded by “if”. amount of the adjustment would be less than $1, except that if more than one year has elapsed since the date of the violation, the agency may require that such amount be paid into the Treasury of the United States, or
 
   (C) except where such disclosure error resulted from a willful violation which was intended to mislead the person to whom credit was extended, in the case of an open-end credit plan, more than two years after the violation, or in the case of any other extension of credit, as follows:
 
@@ -1002,7 +1004,8 @@ Whoever willfully and knowingly
 
 (2) uses any chart or table authorized by the Bureau under [section 1606 of this title](./chapter-041-consumer-credit-protection.md#section-1606) in such a manner as to consistently understate the annual percentage rate determined under [section 1606(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1606/a/1/A&num=0&edition=prelim), or
 
-(3) otherwise fails to comply with any requirement imposed under this subchapter, shall be fined not more than $5,000 or imprisoned not more than one year, or both.
+(3) otherwise fails to comply with any requirement imposed under this subchapter,
+shall be fined not more than $5,000 or imprisoned not more than one year, or both.
 
 ### Statutory Notes
 
@@ -4799,7 +4802,8 @@ Each lessor shall give a lessee prior to the consummation of the lease a dated w
 
 (10) Where the lease provides that the lessee shall be liable for the anticipated fair market value of the property on expiration of the lease, the fair market value of the property at the inception of the lease, the aggregate cost of the lease on expiration, and the differential between them; and
 
-(11) A statement of the conditions under which the lessee or lessor may terminate the lease prior to the end of the term and the amount or method of determining any penalty or other charge for delinquency, default, late payments, or early termination. The disclosures required under this section may be made in the lease contract to be signed by the lessee. The Bureau may provide by regulation that any portion of the information required to be disclosed under this section may be given in the form of estimates where the lessor is not in a position to know exact information.
+(11) A statement of the conditions under which the lessee or lessor may terminate the lease prior to the end of the term and the amount or method of determining any penalty or other charge for delinquency, default, late payments, or early termination.
+The disclosures required under this section may be made in the lease contract to be signed by the lessee. The Bureau may provide by regulation that any portion of the information required to be disclosed under this section may be given in the form of estimates where the lessor is not in a position to know exact information.
 
 ### Statutory Notes
 
@@ -5991,7 +5995,7 @@ The Federal Credit Union Act, referred to in subsec. (a)(6), is act June 26, 193
 
 [Section 1681m(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681m/a/3&num=0&edition=prelim), referred to in subsec. (b)(2)(B)(i), was redesignated [section 1681m(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681m/a/4&num=0&edition=prelim) by Pub. L. 111–203, title X, § 1100F(1)(A), July 21, 2010, 124 Stat. 2112.
 
-Executive Order No. 12958, referred to in subsec. (b)(4)(D)(i), which was formerly set out under [section 435 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435&num=0&edition=prelim), War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731, prior to [section 435 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435&num=0&edition=prelim) being reclassified and renumbered as [section 3161 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim).
+Executive Order No. 12958, referred to in subsec. (b)(4)(D)(i), which was formerly set out under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (g)(3)(B), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
@@ -6757,33 +6761,27 @@ Notwithstanding the provisions of [section 1681b of this title](./chapter-041-co
 
   (C) *Disclosures of credit scores not obtained from a consumer reporting agency* — A person that is subject to the provisions of this subsection and that uses a credit score, other than a credit score provided by a consumer reporting agency, may satisfy the obligation to provide a credit score by disclosing a credit score and associated key factors supplied by a consumer reporting agency.
 
-  (D) *Notice to home loan applicants* — A copy of the following notice, which shall include the name, address, and telephone number of each consumer reporting agency providing a credit score that was used:
-“notice to the home loan applicant
-“In connection with your application for a home loan, the lender must disclose to you the score that a consumer reporting agency distributed to users and the lender used in connection with your home loan, and the key factors affecting your credit scores.
-“The credit score is a computer generated summary calculated at the time of the request and based on information that a consumer reporting agency or lender has on file. The scores are based on data about your credit history and payment patterns. Credit scores are important because they are used to assist the lender in determining whether you will obtain a loan. They may also be used to determine what interest rate you may be offered on the mortgage. Credit scores can change over time, depending on your conduct, how your credit history and payment patterns change, and how credit scoring technologies change.
-“Because the score is based on information in your credit history, it is very important that you review the credit-related information that is being furnished to make sure it is accurate. Credit records may vary from one company to another.
-“If you have questions about your credit score or the credit information that is furnished to you, contact the consumer reporting agency at the address and telephone number provided with this notice, or contact the lender, if the lender developed or generated the credit score. The consumer reporting agency plays no part in the decision to take any action on the loan application and is unable to provide you with specific reasons for the decision on a loan application.
-“If you have questions concerning the terms of the loan, contact the lender.”.
+  (D) *Notice to home loan applicants* — A copy of the following notice, which shall include the name, address, and telephone number of each consumer reporting agency providing a credit score that was used: “notice to the home loan applicant “In connection with your application for a home loan, the lender must disclose to you the score that a consumer reporting agency distributed to users and the lender used in connection with your home loan, and the key factors affecting your credit scores. “The credit score is a computer generated summary calculated at the time of the request and based on information that a consumer reporting agency or lender has on file. The scores are based on data about your credit history and payment patterns. Credit scores are important because they are used to assist the lender in determining whether you will obtain a loan. They may also be used to determine what interest rate you may be offered on the mortgage. Credit scores can change over time, depending on your conduct, how your credit history and payment patterns change, and how credit scoring technologies change. “Because the score is based on information in your credit history, it is very important that you review the credit-related information that is being furnished to make sure it is accurate. Credit records may vary from one company to another. “If you have questions about your credit score or the credit information that is furnished to you, contact the consumer reporting agency at the address and telephone number provided with this notice, or contact the lender, if the lender developed or generated the credit score. The consumer reporting agency plays no part in the decision to take any action on the loan application and is unable to provide you with specific reasons for the decision on a loan application. “If you have questions concerning the terms of the loan, contact the lender.”.
 
-(E) **Actions not required under this subsection** — This subsection shall not require any person to—
+  (E) *Actions not required under this subsection* — This subsection shall not require any person to—
 
-  (i) explain the information provided pursuant to subsection (f) of this section;
+    (i) explain the information provided pursuant to subsection (f) of this section;
 
-  (ii) disclose any information other than a credit score or key factors, as defined in subsection (f) of this section;
+    (ii) disclose any information other than a credit score or key factors, as defined in subsection (f) of this section;
 
-  (iii) disclose any credit score or related information obtained by the user after a loan has closed;
+    (iii) disclose any credit score or related information obtained by the user after a loan has closed;
 
-  (iv) provide more than 1 disclosure per loan transaction; or
+    (iv) provide more than 1 disclosure per loan transaction; or
 
-  (v) provide the disclosure required by this subsection when another person has made the disclosure to the consumer for that loan transaction.
+    (v) provide the disclosure required by this subsection when another person has made the disclosure to the consumer for that loan transaction.
 
-(F) **No obligation for content**
+  (F) *No obligation for content*
 
-  (i) *In general* — The obligation of any person pursuant to this subsection shall be limited solely to providing a copy of the information that was received from the consumer reporting agency.
+    (i) *In general* — The obligation of any person pursuant to this subsection shall be limited solely to providing a copy of the information that was received from the consumer reporting agency.
 
-  (ii) *Limit on liability* — No person has liability under this subsection for the content of that information or for the omission of any information within the report provided by the consumer reporting agency.
+    (ii) *Limit on liability* — No person has liability under this subsection for the content of that information or for the omission of any information within the report provided by the consumer reporting agency.
 
-(G) **Person defined as excluding enterprise** — As used in this subsection, the term “person” does not include an enterprise (as defined in paragraph (6) of [section 4502 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4502&num=0&edition=prelim)).
+  (G) *Person defined as excluding enterprise* — As used in this subsection, the term “person” does not include an enterprise (as defined in paragraph (6) of [section 4502 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4502&num=0&edition=prelim)).
 
 (2) **Prohibition on disclosure clauses null and void**
 
@@ -8527,7 +8525,7 @@ if such refusal is required by or made pursuant to such program.
 
 (2) **Waiver** — The applicant may waive the 3 day requirement provided for in paragraph (1), except where otherwise required in law.
 
-(3) **Reimbursement** — “The applicant may be required to pay a reasonable fee to reimburse the creditor for the cost of the appraisal, except where otherwise required in law.
+(3) **Reimbursement** — The applicant may be required to pay a reasonable fee to reimburse the creditor for the cost of the appraisal, except where otherwise required in law.
 
 (4) **Free copy** — Notwithstanding paragraph (3), the creditor shall provide a copy of each written appraisal or valuation at no additional cost to the applicant.
 

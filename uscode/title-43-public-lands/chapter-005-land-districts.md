@@ -17,7 +17,7 @@ Upon the recommendation of the Secretary of the Interior, the President may orde
 R.S. § 2252 derived from act May 30, 1862, ch. 86, § 5, 12 Stat. 409.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 Words “the Commissioner of the General Land Office, approved by” omitted on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -36,7 +36,7 @@ Whenever the quantity of public land remaining unsold in any land district is re
 R.S. § 2248 derived from act June 12, 1840, ch. 36, § 2, 5 Stat. 385.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 
 <a id="section-123"></a>
@@ -50,7 +50,7 @@ The Secretary of the Interior may continue any land district in which is situate
 R.S. § 2249 derived from act Sept. 4, 1841, ch. 16, § 7, 5 Stat. 455.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 
 <a id="section-123a"></a>
@@ -131,7 +131,7 @@ In case of the division of existing land districts by the erection of new ones, 
 R.S. § 2254 derived from act May 31, 1872, ch. 241, 17 Stat. 192.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 
 <a id="section-129"></a>
@@ -142,13 +142,13 @@ The Secretary of the Interior is authorized to make a reasonable allowance for o
 ### Statutory Notes
 
 #### References in Text
-[Section 84 of this title](./chapter-004-district-land-offices.md#section-84), referred to in text, was repealed by Pub. L. 86–649, title II, § 202(b), July 14, 1960, 74 Stat. 507. See [section 1734 of this title](./chapter-035-federal-land-policy-and-management.md#section-1734).
+[Section 84 of this title](./chapter-004-district-land-offices.md#section-84), referred to in text, was repealed by Pub. L. 86–649, title II, § 202(b), July 14, 1960, 74 Stat. 507. See [section 1734 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1734&num=0&edition=prelim).
 
 #### Codification
 R.S. § 2255 derived from act Feb. 18, 1861, ch. 38, § 2, 12 Stat. 131.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 Words “by the register” following “to approve the employment” omitted on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -161,6 +161,6 @@ Public lands situated in States in which there are no land offices may be entere
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 “Bureau of Land Management” substituted for “General Land Office” and “Secretary of the Interior, or such officer as he may designate,” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).

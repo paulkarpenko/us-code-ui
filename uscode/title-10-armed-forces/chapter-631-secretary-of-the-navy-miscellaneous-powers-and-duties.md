@@ -579,8 +579,8 @@ When the Secretary of the Navy decides that an expenditure by the Department of 
 The words “anywhere in the world” are substituted for “abroad and at home”, and the words “decides that an expenditure should not be made public” are substituted for “may think it advisable not to specify”, for clarity and consistency.
 
 
-<a id="section-7233"></a>
-## § 7233. 11 So in original. No section 7232 has been enacted. Auxiliary vessels: extended lease authority
+<a id="section-7233-1"></a>
+## § 7233.1. Auxiliary vessels: extended lease authority
 **(a) Authorized Contracts.—** Subject to subsection (b), the Secretary of the Navy may enter into contracts with private United States shipyards for the construction of new surface vessels to be acquired on a long-term lease basis by the United States from the shipyard or other private person for any of the following:
 
 (1) The combat logistics force of the Navy.
@@ -636,7 +636,7 @@ The words “anywhere in the world” are substituted for “abroad and at home�
 ### Statutory Notes
 
 #### Effective Date
-Pub. L. 106–65, div. A, title X, § 1014(c), Oct. 5, 1999, 113 Stat. 742, provided that: “[Section 7233 of title 10](./chapter-631-secretary-of-the-navy-miscellaneous-powers-and-duties.md#section-7233), United States Code, as added by subsection (a), shall take effect on October 1, 1999.”
+Pub. L. 106–65, div. A, title X, § 1014(c), Oct. 5, 1999, 113 Stat. 742, provided that: “[Section 7233 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7233&num=0&edition=prelim), United States Code, as added by subsection (a), shall take effect on October 1, 1999.”
 
 
 <a id="section-7234"></a>

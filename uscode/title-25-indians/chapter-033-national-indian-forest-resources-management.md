@@ -577,7 +577,7 @@ The Indian Self-Determination Act, referred to in subsec. (c)(2)(B), is title I 
 ### Statutory Notes
 
 #### References in Text
-Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in subsecs. (b)(1) and (f)(1), is section § 101(e) [title III, § 347] of Pub. L. 105–277, div. A, as amended, which is set out as a note under [section 2104 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2104&num=0&edition=prelim), Conservation.
+Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in subsecs. (b)(1) and (f)(1), was section § 101(e) [title III, § 347] of Pub. L. 105–277, div. A, as amended, which was set out as a note under [section 2104 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2104&num=0&edition=prelim), Conservation, prior to repeal by Pub. L. 113–79, title VIII, § 8205(b), Feb. 7, 2014, 128 Stat. 921. Provisions similar to § 101(e) [title III, § 347] of Pub. L. 105–277, div. A, as amended, were enacted by Pub. L. 108–148, title VI, § 604, as added Pub. L. 113–79, title VIII, § 8205(a), Feb. 7, 2014, 128 Stat. 918 and are classified to [section 6591c of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6591c&num=0&edition=prelim), Conservation.
 
 This section, referred to in subsecs. (f) and (g), was in the original “this Act”, meaning Pub. L. 108–278, July 22, 2004, 118 Stat. 868, which enacted this section and provisions set out as a note under [section 3101 of this title](./chapter-033-national-indian-forest-resources-management.md#section-3101).
 

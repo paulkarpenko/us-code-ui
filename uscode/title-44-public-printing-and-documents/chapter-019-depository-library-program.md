@@ -18,21 +18,23 @@ Based on 44 U.S. Code, 1964 ed., § 81a (Pub. L. 87–579, § 1, Aug. 9, 1962, 7
 
 
 <a id="section-1902"></a>
-## § 1902. Availability of Government publications through Superintendent of Documents; lists of publications not ordered from Government Printing Office
+## § 1902. Availability of Government publications through Superintendent of Documents; lists of publications not ordered from Government Publishing Office
 
-Government publications, except those determined by their issuing components to be required for official use only or for strictly administrative or operational purposes which have no public interest or educational value and publications classified for reasons of national security, shall be made available to depository libraries through the facilities of the Superintendent of Documents for public information. Each component of the Government shall furnish the Superintendent of Documents a list of such publications it issued during the previous month, that were obtained from sources other than the Government Printing Office.
+Government publications, except those determined by their issuing components to be required for official use only or for strictly administrative or operational purposes which have no public interest or educational value and publications classified for reasons of national security, shall be made available to depository libraries through the facilities of the Superintendent of Documents for public information. Each component of the Government shall furnish the Superintendent of Documents a list of such publications it issued during the previous month, that were obtained from sources other than the Government Publishing Office.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 81b (Pub. L. 87–579, § 1, Aug. 9, 1962, 76 Stat. 352).
 
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in section catchline and text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+
 
 <a id="section-1903"></a>
 ## § 1903. Distribution of publications to depositories; notice to Government components; cost of printing and binding
 
-but not so-called cooperative publications which must necessarily be sold in order to be self-sustaining.
-The Superintendent of Documents shall currently inform the components of the Government ordering printing of publications as to the number of copies of their publications required for distribution to depository libraries. The cost of printing and binding those publications distributed to depository libraries obtained elsewhere than from the Government Printing Office, shall be borne by components of the Government responsible for their issuance; those requisitioned from the Government Printing Office shall be charged to appropriations provided the Superintendent of Documents for that purpose.
+Upon request of the Superintendent of Documents, components of the Government ordering the printing of publications shall either increase or decrease the number of copies of publications furnished for distribution to designated depository libraries and State libraries so that the number of copies delivered to the Superintendent of Documents is equal to the number of libraries on the list. The number thus delivered may not be restricted by any statutory limitation in force on August 9, 1962. Copies of publications furnished the Superintendent of Documents for distribution to designated depository libraries shall include—
 
 ### Statutory Notes
 
@@ -40,6 +42,9 @@ The Superintendent of Documents shall currently inform the components of the Gov
 Based on 44 U.S. Code, 1964 ed., § 85 (part) (Mar. 1, 1907, ch. 2284, § 4, 34 Stat. 1014; June 25, 1938, ch. 708, 52 Stat. 1206; Aug. 9, 1962, Pub. L. 87–579, § 5, 76 Stat. 354).
 
 The last paragraph of former section 85 will be found in section 1906 of the revision.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
 
 
 <a id="section-1904"></a>
@@ -175,29 +180,40 @@ Based on 44 U.S. Code, 1964 ed., § 85a (June 27, 1956, ch. 453, § 101, 70 Stat
 
 
 <a id="section-1914"></a>
-## § 1914. Implementation of depository library program by Public Printer
+## § 1914. Implementation of depository library program by Director of the Government Publishing Office
 
-The Public Printer, with the approval of the Joint Committee on Printing, as provided by [section 103 of this title](./chapter-001-joint-committee-on-printing.md#section-103), may use any measures he considers necessary for the economical and practical implementation of this chapter.
+The Director of the Government Publishing Office, with the approval of the Joint Committee on Printing, as provided by [section 103 of this title](./chapter-001-joint-committee-on-printing.md#section-103), may use any measures he considers necessary for the economical and practical implementation of this chapter.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 81c (Pub. L. 87–579, § 10, Aug. 9, 1962, 76 Stat. 356).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and text.
+
 
 <a id="section-1915"></a>
 ## § 1915. Highest State appellate court libraries as depository libraries
 
-Upon the request of the highest appellate court of a State, the Public Printer is authorized to designate the library of that court as a depository library. The provisions of [section 1911 of this title](./chapter-019-depository-library-program.md#section-1911) shall not apply to any library so designated.
+Upon the request of the highest appellate court of a State, the Director of the Government Publishing Office is authorized to designate the library of that court as a depository library. The provisions of [section 1911 of this title](./chapter-019-depository-library-program.md#section-1911) shall not apply to any library so designated.
+
+### Statutory Notes
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 
 <a id="section-1916"></a>
 ## § 1916. Designation of libraries of accredited law schools as depository libraries
-**(a)** Upon the request of any accredited law school, the Public Printer shall designate the library of such law school as a depository library. The Public Printer may not make such designation unless he determines that the library involved meets the requirements of this chapter, other than those requirements of the first undesignated paragraph of [section 1909 of this title](./chapter-019-depository-library-program.md#section-1909) which relate to the location of such library.
+**(a)** Upon the request of any accredited law school, the Director of the Government Publishing Office shall designate the library of such law school as a depository library. The Director of the Government Publishing Office may not make such designation unless he determines that the library involved meets the requirements of this chapter, other than those requirements of the first undesignated paragraph of [section 1909 of this title](./chapter-019-depository-library-program.md#section-1909) which relate to the location of such library.
 
 **(b)** For purposes of this section, the term “accredited law school” means any law school which is accredited by a nationally recognized accrediting agency or association approved by the Commissioner of Education for such purpose or accredited by the highest appellate court of the State in which the law school is located.
 
 ### Statutory Notes
+
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in two places.
 
 #### Effective Date
 Pub. L. 95–261, § 3, Apr. 17, 1978, 92 Stat. 199, provided that: “The amendments made by this Act [enacting this section] shall take effect on October 1, 1978.”

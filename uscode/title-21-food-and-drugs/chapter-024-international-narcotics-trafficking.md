@@ -121,6 +121,15 @@ Reference to the Director of Central Intelligence or the Director of the Central
 #### Delegation of Functions
 For delegation of Congressional reporting functions of President under subsec. (d) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46075, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
+#### Delegation of Functions Under Section 804(h)(2)(A) of the Foreign Narcotics Kingpin Designation Act
+Memorandum of President of the United States, May 31, 2013, 78 F.R. 33943, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate the functions conferred upon the President by section 804(h)(2)(A) of the Foreign Narcotics Kingpin Designation Act ([21 U.S.C. 1903(h)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1903/h/2/A&num=0&edition=prelim)), to the Secretary of the Treasury.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
 
 <a id="section-1904"></a>
 ## § 1904. Blocking assets and prohibiting transactions

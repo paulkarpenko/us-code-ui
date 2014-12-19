@@ -2,7 +2,7 @@
 title: 48
 heading: TERRITORIES AND INSULAR POSSESSIONS
 positive_law: false
-sections: 584
+sections: 585
 chapters: 20
 ---
 # Title 48. TERRITORIES AND INSULAR POSSESSIONS

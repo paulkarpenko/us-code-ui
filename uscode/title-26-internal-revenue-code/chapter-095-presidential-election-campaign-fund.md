@@ -63,7 +63,7 @@ For purposes of this chapter—
 ### Statutory Notes
 
 #### References in Text
-Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in par. (3), is classified to [section 437c(a)(1) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section437c/a/1&num=0&edition=prelim), The Congress.
+Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in par. (3), is classified to [section 30106(a)(1) of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30106/a/1&num=0&edition=prelim), Voting and Elections.
 
 #### Amendments
 2007—Par. (3). Pub. L. 110–172 substituted “section 306(a)(1)” for “section 309(a)(1)”.
@@ -82,7 +82,7 @@ Par. (11). Pub. L. 93–443, § 404(c)(3), substituted “Commission” for “C
 Pub. L. 94–283, title III, § 306(c), May 11, 1976, 90 Stat. 501, provided that: “The amendments made by this section [amending this section and sections 9003, 9032, and 9033 of this title] shall take effect on the date of enactment of this Act [May 11, 1976].”
 
 #### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-9003"></a>
@@ -138,7 +138,7 @@ Pub. L. 102–393, title V, § 534(b), Oct. 6, 1992, 106 Stat. 1764, provided th
 Amendment by Pub. L. 94–283 effective May 11, 1976, see section 306(c) of Pub. L. 94–283, set out as a note under [section 9002 of this title](./chapter-095-presidential-election-campaign-fund.md#section-9002).
 
 #### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–53 applicable with respect to taxable years beginning after Dec. 31, 1972, see section 6(d) of Pub. L. 93–53, set out as a note under [section 6096 of this title](./chapter-061-information-and-returns.md#section-6096).
@@ -177,7 +177,7 @@ Amendment by Pub. L. 93–53 applicable with respect to taxable years beginning 
 ### Statutory Notes
 
 #### References in Text
-Section 315(b)(1)(B) of the Federal Election Campaign Act of 1971, referred to in subsec. (a)(1), is classified to [section 441a(b)(1)(B) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441a/b/1/B&num=0&edition=prelim), The Congress.
+Section 315(b)(1)(B) of the Federal Election Campaign Act of 1971, referred to in subsec. (a)(1), is classified to [section 30116(b)(1)(B) of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30116/b/1/B&num=0&edition=prelim), Voting and Elections.
 
 #### Amendments
 2007—Subsec. (a)(1). Pub. L. 110–172 substituted “section 315(b)(1)(B)” for “section 320(b)(1)(B)”.
@@ -196,7 +196,7 @@ Subsec. (a)(3). Pub. L. 93–443, § 404(b)(2), substituted “allowed” for �
 Pub. L. 94–283, title III, § 301(b), May 11, 1976, 90 Stat. 498, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of applying section 9004(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as added by subsection (a), expenditures made by an individual after January 29, 1976, and before the date of the enactment of this Act [May 11, 1976] shall not be taken into account.”
 
 #### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-9005"></a>
@@ -217,7 +217,7 @@ Subsec. (a). Pub. L. 93–443, § 405(a), substituted provision for certificatio
 Subsec. (b). Pub. L. 93–443, § 404(c)(7), substituted “Commission” for “Comptroller General” wherever appearing and “it” for “him”.
 
 #### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-9006"></a>
@@ -226,11 +226,13 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 
 **(b) Payments from the fund** Upon receipt of a certification from the Commission under section 9005 for payment to the eligible candidates of a political party, the Secretary of the Treasury shall pay to such candidates out of the fund the amount certified by the Commission. Amounts paid to any such candidates shall be under the control of such candidates.
 
-**(c) Insufficient amounts in fund** If at the time of a certification by the Commission under section 9005 for payment to the eligible candidates of a political party, the Secretary determines that the moneys in the fund are not, or may not be, sufficient to satisfy the full entitlements of the eligible candidates of all political parties, he shall withhold from such payment such amount as he determines to be necessary to assure that the eligible candidates of each political party will receive their pro rata share of their full entitlement. Amounts withheld by reason of the preceding sentence shall be paid when the Secretary determines that there are sufficient moneys in the fund to pay such amounts, or portions thereof, to all eligible candidates from whom amounts have been withheld, but, if there are not sufficient moneys in the fund to satisfy the full entitlement of the eligible candidates of all political parties, the amounts so withheld shall be paid in such manner that the eligible candidates of each political party receive their pro rata share of their full entitlement. In any case in which the Secretary determines that there are insufficient moneys in the fund to make payments under subsection (b), section 9008(b)(3), and section 9037(b), moneys shall not be made available from any other source for the purpose of making such payments.
+**(c) Insufficient amounts in fund** If at the time of a certification by the Commission under section 9005 for payment to the eligible candidates of a political party, the Secretary determines that the moneys in the fund are not, or may not be, sufficient to satisfy the full entitlements of the eligible candidates of all political parties, he shall withhold from such payment such amount as he determines to be necessary to assure that the eligible candidates of each political party will receive their pro rata share of their full entitlement. Amounts withheld by reason of the preceding sentence shall be paid when the Secretary determines that there are sufficient moneys in the fund to pay such amounts, or portions thereof, to all eligible candidates from whom amounts have been withheld, but, if there are not sufficient moneys in the fund to satisfy the full entitlement of the eligible candidates of all political parties, the amounts so withheld shall be paid in such manner that the eligible candidates of each political party receive their pro rata share of their full entitlement. In any case in which the Secretary determines that there are insufficient moneys in the fund to make payments under subsection (b), section 9008(i)(2), and section 9037(b), moneys shall not be made available from any other source for the purpose of making such payments.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–94 substituted “section 9008(i)(2),” for “section 9008(b)(3),”.
+
 2007—Pub. L. 110–172, which directed substitution of “Commission” for “Comptroller General” wherever appearing, could not be executed, because “Comptroller General” did not appear subsequent to amendment by Pub. L. 93–443, § 404(c)(8). See 1974 Amendment note below.
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary”.
@@ -256,12 +258,12 @@ Subsec. (c). Pub. L. 93–53 substituted provisions for payment “out of the fu
 Subsec. (d). Pub. L. 93–53 substituted provisions for payments to eligible candidates when there are insufficient amounts in the fund, for former provisions respecting transfers from general account to separate accounts to remedy insufficient moneys to satisfy any unpaid entitlement of the eligible candidates.
 
 #### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 #### Additional Appropriations to Campaign Fund
 Pub. L. 93–443, title IV, § 403(b), Oct. 15, 1974, 88 Stat. 1291, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In addition to the amounts appropriated to the Presidential Election Campaign Fund established under section 9006 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to payments to eligible candidates) by the last sentence of subsection (a) of such section (as amended by subsection (a) of this section), there is appropriated to such fund an amount equal to the sum of the amounts designated for payment under section 6096 of such Code (relating to designation by individuals to the Presidential Election Campaign Fund) before January 1, 1975, not otherwise taken into account under the provisions of such section 9006, as amended by this section.”
 
-Provision effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Provision effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 #### Designation to the Presidential Election Campaign Fund
 Designation made under [section 6096 of this title](./chapter-061-information-and-returns.md#section-6096) (as in effect for taxable years beginning before Jan. 1, 1973) for the account of the candidates of any specified political party treated solely as a designation to the Presidential Election Campaign Fund, see section 6(d) of Pub. L. 93–53, set out as a note under [section 6096 of this title](./chapter-061-information-and-returns.md#section-6096).
@@ -310,7 +312,7 @@ Subsec. (c). Pub. L. 93–443, § 404(c)(11), substituted “Commission” for �
 1973—Subsec. (b)(3). Pub. L. 93–53 substituted section “9006(d)” for “9006(c)”.
 
 #### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–53 applicable with respect to taxable years beginning after Dec. 31, 1972, see section 6(d) of Pub. L. 93–53, set out as a note under [section 6096 of this title](./chapter-061-information-and-returns.md#section-6096).
@@ -356,12 +358,24 @@ Amendment by Pub. L. 93–53 applicable with respect to taxable years beginning 
 
 **(h) Repayments** The Commission shall have the same authority to require repayments from the national committee of a major party or a minor party as it has with respect to repayments from any eligible candidate under section 9007(b). The provisions of section 9007(c) and section 9007(d) shall apply with respect to any repayment required by the Commission under this subsection.
 
+**(i) Termination of payments for conventions; use of amounts for pediatric research initiative** Effective on the date of the enactment of the Gabriella Miller Kids First Research Act—
+
+(1) the entitlement of any major party or minor party to a payment under this section shall terminate; and
+
+(2) all amounts in each account maintained for the national committee of a major party or minor party under this section shall be transferred to a fund in the Treasury to be known as the “10-Year Pediatric Research Initiative Fund”, which shall be available only for the purpose provided in section 402A(a)(2) of the Public Health Service Act, and only to the extent and in such amounts as are provided in advance in appropriation Acts.
+
 ### Statutory Notes
 
 #### References in Text
-Sections 303 and 315 of the Federal Election Campaign Act of 1971, referred to in subsecs. (b)(5) and (g), are classified to sections 433 and 441a, respectively, of Title 2, The Congress.
+Sections 303 and 315 of the Federal Election Campaign Act of 1971, referred to in subsecs. (b)(5) and (g), are classified to sections 30103 and 30116, respectively, of Title 52, Voting and Elections.
+
+The date of the enactment of the Gabriella Miller Kids First Research Act, referred to in subsec. (i), is the date of enactment of Pub. L. 113–94, which was approved Apr. 3, 2014.
+
+Section 402A(a)(2) of the Public Health Service Act, referred to in subsec. (i)(2), is classified to [section 282a(a)(2) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282a/a/2&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2014—Subsec. (i). Pub. L. 113–94 added subsec. (i).
+
 1984—Subsec. (b)(1). Pub. L. 98–355, § 1(a), substituted “$4,000,000” for “$3,000,000”.
 
 Subsec. (b)(5). Pub. L. 98–355, § 1(b), substituted “section 315(b) and section 315(d)” for “section 320(b) and section 320(d)” and “section 315(c)” for “section 320(c)”.
@@ -372,16 +386,16 @@ Subsec. (b)(5). Pub. L. 98–355, § 1(b), substituted “section 315(b) and sec
 
 Subsec. (d)(4). Pub. L. 94–283, § 303, added par. (4).
 
-1974—Pub. L. 93–443 substituted provisions respecting payments for presidential nominating conventions for prior provisions respecting information on proposed expenses, subsec. (a) relating to reports by candidates, and subsec. (b) to publication of summaries, see [section 434 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section434&num=0&edition=prelim), The Congress.
+1974—Pub. L. 93–443 substituted provisions respecting payments for presidential nominating conventions for prior provisions respecting information on proposed expenses, subsec. (a) relating to reports by candidates, and subsec. (b) to publication of summaries.
 
 #### Effective Date of 1984 Amendment
 Pub. L. 98–355, § 1(c), July 11, 1984, 98 Stat. 394, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 1984.”
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 #### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-9009"></a>
@@ -390,15 +404,9 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 
 (1) the qualified campaign expenses (shown in such detail as the Commission determines necessary) incurred by the candidates of each political party and their authorized committees;
 
-(2) the amounts certified by it under section 9005 for payment to the eligible candidates of each political party;
+(2) the amounts certified by it under section 9005 for payment to the eligible candidates of each political party; and
 
-(3) the amount of payments, if any, required from such candidates under section 9007, and the reasons for each payment required; and
-
-(4) the expenses incurred by the national committee of a major party or minor party with respect to a presidential nominating convention;
-
-(5) the amounts certified by it under section 9008(g) for payment to each such committee; and
-
-(6) the amount of payments, if any, required from such committees under section 9008(h), and the reasons for each such payment.
+(3) the amount of payments, if any, required from such candidates under section 9007, and the reasons for each payment required.
 Each report submitted pursuant to this section shall be printed as a Senate document.
 
 **(b) Regulations, etc.** The Commission is authorized to prescribe such rules and regulations in accordance with the provisions of subsection (c), to conduct such examinations and audits (in addition to the examinations and audits required by section 9007(a)), to conduct such investigations, and to require the keeping and submission of such books, records, and information, as it deems necessary to carry out the functions and duties imposed on it by this chapter.
@@ -416,6 +424,18 @@ Each report submitted pursuant to this section shall be printed as a Senate docu
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a)(2). Pub. L. 113–94, § 2(c)(1)(A), inserted “and” at end.
+
+Subsec. (a)(3). Pub. L. 113–94, § 2(c)(1)(B), which directed substitution of period for semicolon at end, was executed by substituting period for “; and” at end, to reflect the probable intent of Congress.
+
+Subsec. (a)(4) to (6). Pub. L. 113–94, § 2(c)(1)(C), struck out pars. (4) to (6) which read as follows:
+
+“(4) the expenses incurred by the national committee of a major party or minor party with respect to a presidential nominating convention;
+
+“(5) the amounts certified by it under section 9008(g) for payment to each such committee; and
+
+“(6) the amount of payments, if any, required from such committees under section 9008(h), and the reasons for each such payment.”
+
 1976—Subsec. (c)(2). Pub. L. 94–283, § 304(a)(1), inserted provision for accelerated consideration by the House of Representatives of resolutions relating to rules or regulations reported out by committees of the House.
 
 Subsec. (c)(4). Pub. L. 94–283, § 304(a)(2), added par. (4).
@@ -427,7 +447,7 @@ Subsec. (b). Pub. L. 93–443, §§ 404(c)(13), 409(b), substituted “Commissio
 Subsec. (c). Pub. L. 93–443, § 409(a), added subsec. (c).
 
 #### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 168 of House Document No. 103–7.
@@ -462,7 +482,7 @@ Subsec. (d). Pub. L. 93–443, § 404(c)(18), substituted “Commission” and �
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under [section 1657 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1657&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 #### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-9011"></a>
@@ -488,14 +508,14 @@ Subsec. (b). Pub. L. 93–443, § 404(c)(21), substituted “Commission” for �
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under [section 1657 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1657&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 #### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-9012"></a>
 ## § 9012. Criminal penalties
 **(a) Excess expenses**
 
-(1) It shall be unlawful for an eligible candidate of a political party for President and Vice President in a presidential election or any of his authorized committees knowingly and willfully to incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under section 9004 with respect to such election. It shall be unlawful for the national committee of a major party or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of the expenditure limitation applicable with respect to such committee under section 9008(d), unless the incurring of such expenses is authorized by the Commission under section 9008(d)(3).
+(1) It shall be unlawful for an eligible candidate of a political party for President and Vice President in a presidential election or any of his authorized committees knowingly and willfully to incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under section 9004 with respect to such election.
 
 (2) Any person who violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year or both. In the case of a violation by an authorized committee, any officer or member of such committee who knowingly and willfully consents to such violation shall be fined not more than $5,000, or imprisoned not more than one year, or both.
 
@@ -515,9 +535,7 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 
   (B) to repay loans the proceeds of which were used, or otherwise to restore funds (other than contributions to defray qualified campaign expenses which were received and expended) which were used, to defray such qualified campaign expenses.
 
-(2) It shall be unlawful for the national committee of a major party or minor party which receives any payment under section 9008(b)(3) to use, or authorize the use of, such payment for any purpose other than a purpose authorized by section 9008(c).
-
-(3) Any person who violates paragraph (1) shall be fined not more than $10,000, or imprisoned not more than five years, or both.
+(2) Any person who violates paragraph (1) shall be fined not more than $10,000, or imprisoned not more than five years, or both.
 
 **(d) False statements, etc.**
 
@@ -531,11 +549,11 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 
 **(e) Kickbacks and illegal payments**
 
-(1) It shall be unlawful for any person knowingly and willfully to give or accept any kickback or any illegal payment in connection with any qualified campaign expense of eligible candidates or their authorized committees. It shall be unlawful for the national committee of a major party or minor party knowingly and willfully to give or accept any kickback or any illegal payment in connection with any expense incurred by such committee with respect to a presidential nominating convention.
+(1) It shall be unlawful for any person knowingly and willfully to give or accept any kickback or any illegal payment in connection with any qualified campaign expense of eligible candidates or their authorized committees.
 
 (2) Any person who violates paragraph (1) shall be fined not more than $10,000, or imprisoned not more than five years, or both.
 
-(3) In addition to the penalty provided by paragraph (2), any person who accepts any kickback or illegal payment in connection with any qualified campaign expense of eligible candidates or their authorized committees, or in connection with any expense incurred by the national committee of a major party or minor party with respect to a presidential nominating convention shall pay to the Secretary of the Treasury, for deposit in the general fund of the Treasury, an amount equal to 125 percent of the kickback or payment received.
+(3) In addition to the penalty provided by paragraph (2), any person who accepts any kickback or illegal payment in connection with any qualified campaign expense of eligible candidates or their authorized committees shall pay to the Secretary of the Treasury, for deposit in the general fund of the Treasury, an amount equal to 125 percent of the kickback or payment received.
 
 **(f) Unauthorized expenditures and contributions**
 
@@ -557,6 +575,14 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 For information regarding constitutionality of certain provisions of this section, as added by section 801 of Pub. L. 92–178, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–94, § 2(c)(2)(A), struck out at end “It shall be unlawful for the national committee of a major party or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of the expenditure limitation applicable with respect to such committee under section 9008(d), unless the incurring of such expenses is authorized by the Commission under section 9008(d)(3).”
+
+Subsec. (c)(2), (3). Pub. L. 113–94, § 2(c)(2)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “It shall be unlawful for the national committee of a major party or minor party which receives any payment under section 9008(b)(3) to use, or authorize the use of, such payment for any purpose other than a purpose authorized by section 9008(c).”
+
+Subsec. (e)(1). Pub. L. 113–94, § 2(c)(2)(C), struck out at end “It shall be unlawful for the national committee of a major party or minor party knowingly and willfully to give or accept any kickback or any illegal payment in connection with any expense incurred by such committee with respect to a presidential nominating convention.”
+
+Subsec. (e)(3). Pub. L. 113–94, § 2(c)(2)(D), struck out “, or in connection with any expense incurred by the national committee of a major party or minor party with respect to a presidential nominating convention” after “authorized committees”.
+
 1976—Subsec. (b)(1). Pub. L. 94–283 substituted “9006(c)” for “9006(d)”.
 
 Subsec. (e)(3). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary”.
@@ -574,7 +600,7 @@ Subsec. (e)(3). Pub. L. 93–443, § 406(b)(6), inserted requirement of payment,
 1973—Subsec. (b)(1). Pub. L. 93–53 substituted section “9006(d)” for “9006(c)”.
 
 #### Effective Date of 1974 Amendment
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–53 applicable with respect to taxable years beginning after Dec. 31, 1972, see section 6(d) of Pub. L. 93–53, set out as a note under [section 6096 of this title](./chapter-061-information-and-returns.md#section-6096).
@@ -588,4 +614,4 @@ The provisions of this chapter shall take effect on January 1, 1973.
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 9021, added by Pub. L. 92–178, title VIII, § 801, Dec. 10, 1971, 85 Stat. 572, established Presidential Election Campaign Fund Advisory Board, prior to repeal by Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1297. For effective date of repeal see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+A prior section 9021, added by Pub. L. 92–178, title VIII, § 801, Dec. 10, 1971, 85 Stat. 572, established Presidential Election Campaign Fund Advisory Board, prior to repeal by Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1297. For effective date of repeal see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.

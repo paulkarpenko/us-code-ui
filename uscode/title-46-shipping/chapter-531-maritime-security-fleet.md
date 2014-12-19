@@ -23,29 +23,27 @@ In this chapter:
 
   (B) commerce or trade between foreign countries.
 
-(5) **LASH vessel.—** — The term “LASH vessel” means a lighter aboard ship vessel.
+(5) **Participating fleet vessel.—** — The term “participating fleet vessel” means any vessel that—
 
-(6) **Participating fleet vessel.—** — The term “participating fleet vessel” means any vessel that—
-
-  (A) on October 1, 2005—
+  (A) on October 1, 2015—
 
     (i) meets the requirements of paragraph (1), (2), (3), or (4) of section 53102(c); and
 
-    (ii) is less than 25 years of age, or less than 30 years of age in the case of a LASH vessel; and
+    (ii) is less than 20 years of age if the vessel is a tank vessel, or is less than 25 years of age for all other vessel types; and
 
-  (B) on December 31, 2004, is covered by an operating agreement under subtitle B of title VI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1187 et seq.).11 See References in Text note below.
+  (B) on December 31, 2014, is covered by an operating agreement under this chapter.
 
-(7) **Person.—** — The term “person” includes corporations, partnerships, and associations existing under or authorized by the laws of the United States, or any State, Territory, District, or possession thereof, or of any foreign country.
+(6) **Person.—** — The term “person” includes corporations, partnerships, and associations existing under or authorized by the laws of the United States, or any State, Territory, District, or possession thereof, or of any foreign country.
 
-(8) **Product tank vessel.—** — The term “product tank vessel” means a double hulled tank vessel capable of carrying simultaneously more than 2 separated grades of refined petroleum products.
+(7) **Product tank vessel.—** — The term “product tank vessel” means a double hulled tank vessel capable of carrying simultaneously more than 2 separated grades of refined petroleum products.
 
-(9) **Secretary.—** — The term “Secretary” means the Secretary of Transportation.
+(8) **Secretary.—** — The term “Secretary” means the Secretary of Transportation.
 
-(10) **Tank vessel.—** — The term “tank vessel” has the meaning that term has under [section 2101 of this title](./chapter-021-general.md#section-2101).
+(9) **Tank vessel.—** — The term “tank vessel” has the meaning that term has under [section 2101 of this title](./chapter-021-general.md#section-2101).
 
-(11) **United states.—** — The term “United States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, the Virgin Islands.
+(10) **United states.—** — The term “United States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, the Virgin Islands.
 
-(12) **United states citizen trust.—**
+(11) **United states citizen trust.—**
 
   (A) Subject to subparagraph (C), the term “United States citizen trust” means a trust that is qualified under this paragraph.
 
@@ -59,33 +57,9 @@ In this chapter:
 
   (D) This paragraph shall not be considered to prohibit a person who is not a citizen of the United States from holding more than 25 percent of the beneficial interest in a trust.
 
-(13) **United states-documented vessel.—** — The term “United States-documented vessel” means a vessel documented under chapter 121 of this title.
+(12) **United states-documented vessel.—** — The term “United States-documented vessel” means a vessel documented under chapter 121 of this title.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 112–239, div. C, title XXXV, § 3508(a)(2)–(4), (j)(1), Jan. 2, 2013, 126 Stat. 2223, 2226, provided that, effective Dec. 31, 2014, this section is amended:
-
-(1) by striking paragraph (5);
-
-(2) by redesignating paragraphs (6) through (13) as paragraphs (5) through (12), respectively; and
-
-(3) by amending paragraph (5), as so redesignated, to read as follows:
-
-(5) Participating fleet vessel.—The term “participating fleet vessel” means any vessel that—
-
-(A) on October 1, 2015—
-
-(i) meets the requirements of paragraph (1), (2), (3), or (4) of section 53102(c); and
-
-(ii) is less than 20 years of age if the vessel is a tank vessel, or is less than 25 years of age for all other vessel types; and
-
-(B) on December 31, 2014, is covered by an operating agreement under this chapter.
-
-See 2013 Amendment notes below.
-
-#### References in Text
-The Merchant Marine Act, 1936, referred to in par. (6)(B), is act June 29, 1936, ch. 858, 49 Stat. 1985. Subtitle B of title VI of the Act was classified generally to part B (§ 1187 et seq.) of subchapter VI of chapter 27 of the former Appendix to this title prior to repeal by Pub. L. 108–136, div. C, title XXXV, § 3534(a)(1), Nov. 24, 2003, 117 Stat. 1818. For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under [section 101 of this title](./chapter-001-definitions.md#section-101) and Tables.
 
 #### Amendments
 2013—Par. (4). Pub. L. 112–239, § 3508(a)(1), amended par. (4) generally. Prior to amendment, par. (4) defined “foreign commerce”.
@@ -642,7 +616,7 @@ Subsec. (f). Pub. L. 109–304, § 13(a)(4)(B), substituted “approves” for �
 
   (A) $2,600,000 for each of fiscal years 2006, 2007, and 2008;
 
-  (B) $2,900,000, for each of fiscal years 2009, 2010, and 2011;
+  (B) $2,900,000,11 So in original. The comma probably should not appear. for each of fiscal years 2009, 2010, and 2011;
 
   (C) $3,100,000 for each of fiscal years 2012, 2013, 2014, 2015, 2016, 2017, and 2018;
 
@@ -666,7 +640,7 @@ Subsec. (f). Pub. L. 109–304, § 13(a)(4)(B), substituted “approves” for �
 
   (B) 20 years of age, in the case of a tank vessel; or
 
-  (C) 30 years of age, in the case of a LASH vessel.
+  (C) 30 years of age, in the case of a lighter aboard ship vessel.
 
 **(d) Reductions in Payments.—** With respect to payments under this chapter for a vessel covered by an operating agreement, the Secretary—
 
@@ -685,9 +659,6 @@ Subsec. (f). Pub. L. 109–304, § 13(a)(4)(B), substituted “approves” for �
 (3) **Participates in a noncontiguous domestic trade defined.—** — In this subsection the term “participates in a noncontiguous domestic trade” means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)(3)(C)
-Pub. L. 112–239, div. C, title XXXV, § 3508(f)(2), (j)(2), Jan. 2, 2013, 126 Stat. 2225, 2226, provided that, effective Dec. 31, 2014, subsection (c)(3)(C) of this section is amended by striking “a LASH vessel.” and inserting “a lighter aboard ship vessel.” See 2013 Amendment note below.
 
 #### Amendments
 2013—Subsec. (a)(1)(B) to (E). Pub. L. 112–239, § 3508(f)(1), added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: “$3,100,000 for each of fiscal years 2012 though 2025.”

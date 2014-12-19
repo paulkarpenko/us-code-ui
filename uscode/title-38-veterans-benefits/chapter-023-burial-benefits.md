@@ -141,7 +141,7 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 (1) who at the time of death was in receipt of compensation (or but for the receipt of retirement pay would have been entitled to compensation) or was in receipt of pension, or
 
-(2) who was a veteran of any war or was discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, whose body is held by a State (or a political subdivision of a State), and with respect to whom the Secretary determines—
+(2) with respect to whom the Secretary determines—
 
   (A) that there is no next of kin or other person claiming the body of the deceased veteran, and
 
@@ -151,9 +151,6 @@ the Secretary, in the Secretary’s discretion, having due regard to the circums
 **(b)** Except as hereafter provided in this subsection, no deduction shall be made from the burial allowance because of the veteran’s net assets at the time of the death of such veteran, or because of any contribution from any source toward the burial and funeral expenses (including transportation) unless the amount of expenses incurred is covered by the amount actually paid therefor by the United States, a State, any agency or political subdivision of the United States or of a State, or the employer of the deceased veteran. No claim shall be allowed (1) for more than the difference between the entire amount of the expenses incurred and the amount paid by any or all of the foregoing, or (2) when the burial allowance would revert to the funds of a public or private organization or would discharge such an organization’s obligation without payment. The burial allowance or any part thereof shall not be paid in any case where specific provision is otherwise made for payment of expenses of funeral, transportation, and interment under any other Act.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(2)
-Pub. L. 112–260, title I, § 104(b)(1), (3), Jan. 10, 2013, 126 Stat. 2420, provided that, effective on the date that is one year after Jan. 10, 2013, and applicable with respect to burials and funerals occurring on or after that date, subsection (a)(2) of this section is amended by striking “who was a veteran of any war or was discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, whose body is held by a State (or a political subdivision of a State), and”. See 2013 Amendment note below.
 
 #### Amendments
 2013—Subsec. (a)(2). Pub. L. 112–260 struck out “who was a veteran of any war or was discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, whose body is held by a State (or a political subdivision of a State), and” before “with respect to whom” in introductory provisions.
@@ -445,9 +442,6 @@ The death of any person who had a status which would, under the laws in effect o
 
 ### Statutory Notes
 
-#### Amendment of Section
-For delayed effective date of subsections (f) and (h)(4) of this section, see Effective Date of 2013 Amendment note below.
-
 #### Amendments
 2013—Subsecs. (f) to (h). Pub. L. 112–260, § 101(a)(1), (2), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
@@ -647,21 +641,9 @@ Section effective Sept. 1, 1973, or such earlier date as the President may presc
 
 <a id="section-2308"></a>
 ## § 2308. Transportation of deceased veteran to a national cemetery
+**(a) In General.—** The Secretary may pay, in addition to any amount paid pursuant to section 2302 or 2307 of this title, the cost of transportation of the deceased veteran described in subsection (b) for burial in a national cemetery. Such payment shall not exceed the cost of transportation to the national cemetery nearest the veteran’s last place of residence in which burial space is available.
 
-Where a veteran dies as the result of a service-connected disability, or is in receipt of (but for the receipt of retirement pay or pension under this title would have been entitled to) disability compensation, the Secretary may pay, in addition to any amount paid pursuant to section 2302 or 2307 of this title, the cost of transportation of the deceased veteran for burial in a national cemetery. Such payment shall not exceed the cost of transportation to the national cemetery nearest the veteran’s last place of residence in which burial space is available.
-
-### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 112–260, title I, § 104(b)(2), (3), Jan. 10, 2013, 126 Stat. 2420, provided that, effective on the date that is one year after Jan. 10, 2013, and applicable with respect to burials and funerals occurring on or after that date, this section is amended as follows:
-
-(1) by striking “Where a veteran” and all that follows through “compensation, the” and inserting “(a) In General.—The”;
-
-(2) by inserting “described in subsection (b)” after “of the deceased veteran”; and
-
-(3) by adding at the end the following:
-
-(b) Deceased Veteran Described.—A deceased veteran described in this subsection is any of the following veterans:
+**(b) Deceased Veteran Described.—** A deceased veteran described in this subsection is any of the following veterans:
 
 (1) A veteran who dies as the result of a service-connected disability.
 
@@ -669,7 +651,7 @@ Pub. L. 112–260, title I, § 104(b)(2), (3), Jan. 10, 2013, 126 Stat. 2420, pr
 
 (3) A veteran whom the Secretary determines is eligible for funeral expenses under [section 2302 of this title](./chapter-023-burial-benefits.md#section-2302) by virtue of the Secretary determining that the veteran has no next of kin or other person claiming the body of such veteran pursuant to subsection (a)(2)(A) of such section.
 
-See 2013 Amendment note below.
+### Statutory Notes
 
 #### Amendments
 2013—Pub. L. 112–260 designated existing provisions as subsec. (a), inserted heading, substituted “The Secretary” for “Where a veteran dies as the result of a service-connected disability, or is in receipt of (but for the receipt of retirement pay or pension under this title would have been entitled to) disability compensation, the Secretary”, inserted “described in subsection (b)” after “of the deceased veteran”, and added subsec. (b).

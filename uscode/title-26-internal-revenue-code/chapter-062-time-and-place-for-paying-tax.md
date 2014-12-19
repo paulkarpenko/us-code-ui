@@ -946,7 +946,7 @@ Subsec. (h). Pub. L. 94–455, §§ 1902(b)(2)(B), 1906(b)(13)(A), substituted �
 Subsec. (h). Pub. L. 93–625, § 7(d)(3), struck out par. (1) providing a cross reference for payment of interest at 4 percent per annum for period of an extension under [section 6601(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6601/j&num=0&edition=prelim), and redesignated pars. (2) and (3) as (1) and (2), respectively.
 
 #### Effective Date of 1976 Amendment
-Amendment by section 1902(b)(2)(B) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by section 1902(b)(2)(B) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 #### Effective Date of 1975 Amendment
 Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under [section 6621 of this title](./chapter-067-interest.md#section-6621).

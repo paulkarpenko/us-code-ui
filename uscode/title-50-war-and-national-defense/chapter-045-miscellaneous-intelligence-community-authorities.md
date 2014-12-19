@@ -2,7 +2,7 @@
 title: 50
 chapter: '45'
 heading: MISCELLANEOUS INTELLIGENCE COMMUNITY AUTHORITIES
-section_count: 37
+section_count: 40
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -23,7 +23,7 @@ source: >-
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 404b of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 404b of this title](./chapter-015-national-security.md#section-404b) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 2010—Pub. L. 111–259, § 805(d)(1), struck out “foreign” after “national” in section catchline.
@@ -52,7 +52,7 @@ The Director of Central Intelligence shall include the same level of budgetary d
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified as a note under section 403–1 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+Section was formerly classified as a note under [section 403–1 of this title](./chapter-015-national-security.md#section-403-1) prior to editorial reclassification as this section.
 
 #### Transfer of Functions
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
@@ -67,7 +67,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403–2a of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 403–2a of this title](./chapter-015-national-security.md#section-403-2a) prior to editorial reclassification and renumbering as this section.
 
 
 <a id="section-3304"></a>
@@ -108,7 +108,7 @@ Section was formerly classified to section 403–2a of chapter 15 of this title 
 Section 601, referred to in subsec. (c), means section 601 of Pub. L. 103–359, title VI, Oct. 14, 1994, 108 Stat. 3431, which is not classified to the Code.
 
 #### Codification
-Section was formerly classified to section 403–2b of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 403–2b of this title](./chapter-015-national-security.md#section-403-2b) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 2010—Subsecs. (a)(2), (b)(1), (2)(A), (B). Pub. L. 111–259, § 809(1), (2)(A), (B), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
@@ -135,7 +135,7 @@ Beginning with the fiscal year 2010 budget request, the Director of National Int
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 415a–2 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 415a–2 of this title](./chapter-015-national-security.md#section-415a-2) prior to editorial reclassification and renumbering as this section.
 
 #### Similar Provisions
 Provisions similar to those in this section were contained in the following appropriation acts:
@@ -174,7 +174,7 @@ Pub. L. 111–118, div. A, title VIII, § 8100, Dec. 19, 2009, 123 Stat. 3450.
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 415c of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 415c of this title](./chapter-015-national-security.md#section-415c) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 2010—Pub. L. 111–259 amended section generally. Prior to amendment, section related to availability to public of certain intelligence funding information.
@@ -201,7 +201,7 @@ Section was formerly classified to section 415c of chapter 15 of this title prio
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 413c of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 413c of this title](./chapter-015-national-security.md#section-413c) prior to editorial reclassification and renumbering as this section.
 
 
 <a id="section-3308"></a>
@@ -216,7 +216,7 @@ Section was formerly classified to section 413c of chapter 15 of this title prio
 
   (A) chapter 7 of title 31; and
 
-  (B) the National Security Act of 1947 ([50 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401&num=0&edition=prelim) et seq.).
+  (B) the National Security Act of 1947 ([50 U.S.C. 401](./chapter-015-national-security.md#section-401) et seq.).
 
 **(b) Confidentiality of information**
 
@@ -235,35 +235,39 @@ Section was formerly classified to section 413c of chapter 15 of this title prio
 ### Statutory Notes
 
 #### References in Text
-The National Security Act of 1947, referred to in subsec. (a)(3)(B), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (a)(3)(B), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
-Section was formerly classified to section 403–9 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 403–9 of this title](./chapter-015-national-security.md#section-403-9) prior to editorial reclassification and renumbering as this section.
 
 #### Definition
 For definition of “intelligence community”, see section 2 of Pub. L. 111–259, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
 
 
 <a id="section-3309"></a>
-## § 3309. Annual report on advisory committees
-(1) **In general** — The Director of National Intelligence and the Director of the Central Intelligence Agency shall each submit to the congressional intelligence committees an annual report on advisory committees created by each such Director. Each report shall include—
+## § 3309. Notification of establishment of advisory committee
 
-  (A) a description of each such advisory committee, including the subject matter of the committee; and
+The Director of National Intelligence and the Director of the Central Intelligence Agency shall each notify the congressional intelligence committees each time each such Director creates an advisory committee. Each notification shall include—
 
-  (B) a list of members of each such advisory committee.
+(1) a description of such advisory committee, including the subject matter of such committee;
 
-(2) **Report on reasons for odni exclusion of advisory committee from faca** — Each report submitted by the Director of National Intelligence in accordance with paragraph (1) shall include the reasons for a determination by the Director under section 4(b)(3) of the Federal Advisory Committee Act (5 U.S.C. App.), as added by subsection (a) of this section, that an advisory committee cannot comply with the requirements of such Act.
+(2) a list of members of such advisory committee; and
+
+(3) in the case of an advisory committee created by the Director of National Intelligence, the reasons for a determination by the Director under section 4(b)(3) of the Federal Advisory Committee Act (5 U.S.C. App.) that an advisory committee cannot comply with the requirements of such Act.
 
 ### Statutory Notes
 
 #### References in Text
-Section 4(b)(3) of the Federal Advisory Committee Act, referred to in par. (2), is section 4(b)(3) of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 4(b)(3) of the Federal Advisory Committee Act, referred to in par. (3), is section 4(b)(3) of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
-Section was formerly classified as a note under section 405 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+Section was formerly classified as a note under [section 405 of this title](./chapter-015-national-security.md#section-405) prior to editorial reclassification as this section.
+
+#### Amendments
+2014—Pub. L. 113–126 amended section generally. Prior to amendment, section related to annual report on advisory committees created by Director of National Intelligence and Director of the Central Intelligence Agency, contents of report, and inclusion of reasons for ODNI exclusion of advisory committee from Federal Advisory Committee Act.
 
 #### Definition
-For definition of “congressional intelligence committees” referred to in par. (1), see section 2 of Pub. L. 111–259, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+For definition of “congressional intelligence committees” referred to in text, see section 2 of Pub. L. 111–259, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
 
 
 <a id="section-3310"></a>
@@ -295,7 +299,7 @@ For definition of “congressional intelligence committees” referred to in par
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 404c of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 404c of this title](./chapter-015-national-security.md#section-404c) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 1999—Subsec. (d)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
@@ -308,6 +312,36 @@ Subsec. (d). Pub. L. 104–106, § 1502(c)(4)(C)(iii), added subsec. (d).
 
 #### Change of Name
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+
+<a id="section-3311"></a>
+## § 3311. Submittal to Congress by heads of elements of intelligence community of plans for orderly shutdown in event of absence of appropriations
+**(a) In general** Whenever the head of an applicable agency submits a plan to the Director of the Office of Management and Budget in accordance with section 124 of Office of Management and Budget Circular A–11, pertaining to agency operations in the absence of appropriations, or any successor circular of the Office that requires the head of an applicable agency to submit to the Director a plan for an orderly shutdown in the event of the absence of appropriations, such head shall submit a copy of such plan to the following:
+
+(1) The congressional intelligence committees.
+
+(2) The Subcommittee on Defense of the Committee on Appropriations of the Senate.
+
+(3) The Subcommittee on Defense of the Committee on Appropriations of the House of Representatives.
+
+(4) In the case of a plan for an element of the intelligence community that is within the Department of Defense, to—
+
+  (A) the Committee on Armed Services of the Senate; and
+
+  (B) the Committee on Armed Services of the House of Representatives.
+
+**(b) Head of an applicable agency defined** In this section, the term “head of an applicable agency” includes the following:
+
+(1) The Director of National Intelligence.
+
+(2) The Director of the Central Intelligence Agency.
+
+(3) Each head of each element of the intelligence community that is within the Department of Defense.
+
+### Statutory Notes
+
+#### Definition
+For definition of “congressional intelligence committees” referred to in subsec. (a)(1), see section 2 of Pub. L. 113–126, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
 
 
 <a id="section-3321"></a>
@@ -331,7 +365,7 @@ Committee on International Relations of House of Representatives changed to Comm
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403–1c of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 403–1c of this title](./chapter-015-national-security.md#section-403-1c) prior to editorial reclassification and renumbering as this section.
 
 #### Effective Date
 For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
@@ -368,7 +402,7 @@ Section effective not later than six months after Dec. 17, 2004, except as other
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403–1b of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 403–1b of this title](./chapter-015-national-security.md#section-403-1b) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 2012—Subsec. (b)(3), (4). Pub. L. 112–87 struck out pars. (3) and (4) which read as follows:
@@ -407,7 +441,7 @@ Pub. L. 108–487, title VI, § 613, Dec. 23, 2004, 118 Stat. 3959, as amended b
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403e–1 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 403e–1 of this title](./chapter-015-national-security.md#section-403e-1) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 1986—Subsecs. (c), (d). Pub. L. 99–569 added subsecs. (c) and (d).
@@ -431,7 +465,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403–7 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 403–7 of this title](./chapter-015-national-security.md#section-403-7) prior to editorial reclassification and renumbering as this section.
 
 #### Change of Name
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
@@ -448,7 +482,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403–8 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 403–8 of this title](./chapter-015-national-security.md#section-403-8) prior to editorial reclassification and renumbering as this section.
 
 
 <a id="section-3326"></a>
@@ -459,7 +493,7 @@ During the current fiscal year and hereafter, none of the funds appropriated for
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified as a note under section 414 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+Section was formerly classified as a note under [section 414 of this title](./chapter-015-national-security.md#section-414) prior to editorial reclassification as this section.
 
 
 <a id="section-3327"></a>
@@ -470,7 +504,7 @@ During the current fiscal year and thereafter, no funds may be made available th
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified as a note under section 414 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+Section was formerly classified as a note under [section 414 of this title](./chapter-015-national-security.md#section-414) prior to editorial reclassification as this section.
 
 #### Change of Name
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
@@ -499,7 +533,7 @@ No part of the funds appropriated in any act shall be used to pay (1) any person
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 407 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 407 of this title](./chapter-015-national-security.md#section-407) prior to editorial reclassification and renumbering as this section.
 
 
 <a id="section-3329"></a>
@@ -511,7 +545,7 @@ Section was formerly classified to section 407 of chapter 15 of this title prior
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403–2 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 403–2 of this title](./chapter-015-national-security.md#section-403-2) prior to editorial reclassification and renumbering as this section.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior authorization act: Pub. L. 102–88, title IV, § 404, Aug. 14, 1991, 105 Stat. 434.
@@ -520,9 +554,66 @@ Provisions similar to those in this section were contained in the following prio
 2010—Pub. L. 111–259 added subsec. (b), designated existing provisions as subsec. (a), inserted heading, substituted “Director of National Intelligence” for “Director of Central Intelligence” and “intelligence community” for “Intelligence Community”, and struck out at end “For purposes of this provision, the term ‘Intelligence Community’ has the same meaning as set forth in paragraph 3.4(f) of Executive Order 12333, dated December 4, 1981, or successor orders.”
 
 #### Enhanced Procurement Authority To Manage Supply Chain Risk
-Pub. L. 112–87, title III, § 309, Jan. 3, 2012, 125 Stat. 1883, provided that: “(a) Definitions.—In this section:“(1) Covered agency.—The term ‘covered agency’ means any element of the intelligence community other than an element within the Department of Defense. “(2) Covered item of supply.—The term ‘covered item of supply’ means an item of information technology (as that term is defined in [section 11101 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11101&num=0&edition=prelim), United States Code) that is purchased for inclusion in a covered system, and the loss of integrity of which could result in a supply chain risk for a covered system. “(3) Covered procurement.—The term ‘covered procurement’ means—“(A) a source selection for a covered system or a covered item of supply involving either a performance specification, as provided in [section 3306(a)(3)(B) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3306/a/3/B&num=0&edition=prelim), United States Code, or an evaluation factor, as provided in section 3306(b)(1) of such title, relating to supply chain risk; “(B) the consideration of proposals for and issuance of a task or delivery order for a covered system or a covered item of supply, as provided in [section 4106(d)(3) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4106/d/3&num=0&edition=prelim), United States Code, where the task or delivery order contract concerned includes a contract clause establishing a requirement relating to supply chain risk; or “(C) any contract action involving a contract for a covered system or a covered item of supply where such contract includes a clause establishing requirements relating to supply chain risk. “(4) Covered procurement action.—The term ‘covered procurement action’ means any of the following actions, if the action takes place in the course of conducting a covered procurement:“(A) The exclusion of a source that fails to meet qualifications standards established in accordance with the requirements of [section 3311 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3311&num=0&edition=prelim), United States Code, for the purpose of reducing supply chain risk in the acquisition of covered systems. “(B) The exclusion of a source that fails to achieve an acceptable rating with regard to an evaluation factor providing for the consideration of supply chain risk in the evaluation of proposals for the award of a contract or the issuance of a task or delivery order. “(C) The decision to withhold consent for a contractor to subcontract with a particular source or to direct a contractor for a covered system to exclude a particular source from consideration for a subcontract under the contract. “(5) Covered system.—The term ‘covered system’ means a national security system, as that term is defined in [section 3542(b) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3542/b&num=0&edition=prelim), United States Code. “(6) Supply chain risk.—The term ‘supply chain risk’ means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of such system. “(b) Authority.—Subject to subsection (c) and in consultation with the Director of National Intelligence, the head of a covered agency may, in conducting intelligence and intelligence-related activities—“(1) carry out a covered procurement action; and “(2) limit, notwithstanding any other provision of law, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action. “(c) Determination and Notification.—The head of a covered agency may exercise the authority provided in subsection (b) only after—“(1) any appropriate consultation with procurement or other relevant officials of the covered agency; “(2) making a determination in writing, which may be in classified form, that—“(A) use of the authority in subsection (b)(1) is necessary to protect national security by reducing supply chain risk; “(B) less intrusive measures are not reasonably available to reduce such supply chain risk; and “(C) in a case where the head of the covered agency plans to limit disclosure of information under subsection (b)(2), the risk to national security due to the disclosure of such information outweighs the risk due to not disclosing such information; “(3) notifying the Director of National Intelligence that there is a significant supply chain risk to the covered system concerned, unless the head of the covered agency making the determination is the Director of National Intelligence; and “(4) providing a notice, which may be in classified form, of the determination made under paragraph (2) to the congressional intelligence committees that includes a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why they were not reasonably available to reduce supply chain risk. “(d) Delegation.—The head of a covered agency may not delegate the authority provided in subsection (b) or the responsibility to make a determination under subsection (c) to an official below the level of the service acquisition executive for the agency concerned. “(e) Savings.—The authority under this section is in addition to any other authority under any other provision of law. The authority under this section shall not be construed to alter or effect the exercise of any other provision of law. “(f) Effective Date.—The requirements of this section shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 3, 2012] and shall apply to contracts that are awarded on or after such date. “(g) Sunset.—The authority provided in this section shall expire on the date that section 806 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; [10 U.S.C. 2304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim) note) expires.”
+Pub. L. 112–87, title III, § 309, Jan. 3, 2012, 125 Stat. 1883, provided that: “(a) Definitions.—In this section:“(1) Covered agency.—The term ‘covered agency’ means any element of the intelligence community other than an element within the Department of Defense. “(2) Covered item of supply.—The term ‘covered item of supply’ means an item of information technology (as that term is defined in [section 11101 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11101&num=0&edition=prelim), United States Code) that is purchased for inclusion in a covered system, and the loss of integrity of which could result in a supply chain risk for a covered system. “(3) Covered procurement.—The term ‘covered procurement’ means—“(A) a source selection for a covered system or a covered item of supply involving either a performance specification, as provided in [section 3306(a)(3)(B) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3306/a/3/B&num=0&edition=prelim), United States Code, or an evaluation factor, as provided in section 3306(b)(1) of such title, relating to supply chain risk; “(B) the consideration of proposals for and issuance of a task or delivery order for a covered system or a covered item of supply, as provided in [section 4106(d)(3) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4106/d/3&num=0&edition=prelim), United States Code, where the task or delivery order contract concerned includes a contract clause establishing a requirement relating to supply chain risk; or “(C) any contract action involving a contract for a covered system or a covered item of supply where such contract includes a clause establishing requirements relating to supply chain risk. “(4) Covered procurement action.—The term ‘covered procurement action’ means any of the following actions, if the action takes place in the course of conducting a covered procurement:“(A) The exclusion of a source that fails to meet qualifications standards established in accordance with the requirements of [section 3311 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3311&num=0&edition=prelim), United States Code, for the purpose of reducing supply chain risk in the acquisition of covered systems. “(B) The exclusion of a source that fails to achieve an acceptable rating with regard to an evaluation factor providing for the consideration of supply chain risk in the evaluation of proposals for the award of a contract or the issuance of a task or delivery order. “(C) The decision to withhold consent for a contractor to subcontract with a particular source or to direct a contractor for a covered system to exclude a particular source from consideration for a subcontract under the contract. “(5) Covered system.—The term ‘covered system’ means a national security system, as that term is defined in [former] [section 3542(b) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3542/b&num=0&edition=prelim), United States Code [see now [44 U.S.C. 3552(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552/b&num=0&edition=prelim)]. “(6) Supply chain risk.—The term ‘supply chain risk’ means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of such system. “(b) Authority.—Subject to subsection (c) and in consultation with the Director of National Intelligence, the head of a covered agency may, in conducting intelligence and intelligence-related activities—“(1) carry out a covered procurement action; and “(2) limit, notwithstanding any other provision of law, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action. “(c) Determination and Notification.—The head of a covered agency may exercise the authority provided in subsection (b) only after—“(1) any appropriate consultation with procurement or other relevant officials of the covered agency; “(2) making a determination in writing, which may be in classified form, that—“(A) use of the authority in subsection (b)(1) is necessary to protect national security by reducing supply chain risk; “(B) less intrusive measures are not reasonably available to reduce such supply chain risk; and “(C) in a case where the head of the covered agency plans to limit disclosure of information under subsection (b)(2), the risk to national security due to the disclosure of such information outweighs the risk due to not disclosing such information; “(3) notifying the Director of National Intelligence that there is a significant supply chain risk to the covered system concerned, unless the head of the covered agency making the determination is the Director of National Intelligence; and “(4) providing a notice, which may be in classified form, of the determination made under paragraph (2) to the congressional intelligence committees that includes a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why they were not reasonably available to reduce supply chain risk. “(d) Delegation.—The head of a covered agency may not delegate the authority provided in subsection (b) or the responsibility to make a determination under subsection (c) to an official below the level of the service acquisition executive for the agency concerned. “(e) Savings.—The authority under this section is in addition to any other authority under any other provision of law. The authority under this section shall not be construed to alter or effect the exercise of any other provision of law. “(f) Effective Date.—The requirements of this section shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 3, 2012] and shall apply to contracts that are awarded on or after such date. “(g) Sunset.—The authority provided in this section shall expire on the date that section 806 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; [10 U.S.C. 2304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim) note) expires.”
 
 [For definitions of “intelligence community” and “congressional intelligence committees” as used in section 309 of Pub. L. 112–87, set out above, see section 2 of Pub. L. 112–87, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
+
+
+<a id="section-3330"></a>
+## § 3330. Reports to the intelligence community on penetrations of networks and information systems of certain contractors
+**(a) Procedures for reporting penetrations** The Director of National Intelligence shall establish procedures that require each cleared intelligence contractor to report to an element of the intelligence community designated by the Director for purposes of such procedures when a network or information system of such contractor that meets the criteria established pursuant to subsection (b) is successfully penetrated.
+
+**(b) Networks and information systems subject to reporting** The Director of National Intelligence shall, in consultation with appropriate officials, establish criteria for covered networks to be subject to the procedures for reporting system penetrations under subsection (a).
+
+**(c) Procedure requirements**
+
+(1) **Rapid reporting** — The procedures established pursuant to subsection (a) shall require each cleared intelligence contractor to rapidly report to an element of the intelligence community designated pursuant to subsection (a) of each successful penetration of the network or information systems of such contractor that meet the criteria established pursuant to subsection (b). Each such report shall include the following:
+
+  (A) A description of the technique or method used in such penetration.
+
+  (B) A sample of the malicious software, if discovered and isolated by the contractor, involved in such penetration.
+
+  (C) A summary of information created by or for such element in connection with any program of such element that has been potentially compromised due to such penetration.
+
+(2) **Access to equipment and information by intelligence community personnel** — The procedures established pursuant to subsection (a) shall—
+
+  (A) include mechanisms for intelligence community personnel to, upon request, obtain access to equipment or information of a cleared intelligence contractor necessary to conduct forensic analysis in addition to any analysis conducted by such contractor;
+
+  (B) provide that a cleared intelligence contractor is only required to provide access to equipment or information as described in subparagraph (A) to determine whether information created by or for an element of the intelligence community in connection with any intelligence community program was successfully exfiltrated from a network or information system of such contractor and, if so, what information was exfiltrated; and
+
+  (C) provide for the reasonable protection of trade secrets, commercial or financial information, and information that can be used to identify a specific person (other than the name of the suspected perpetrator of the penetration).
+
+(3) **Limitation on dissemination of certain information** — The procedures established pursuant to subsection (a) shall prohibit the dissemination outside the intelligence community of information obtained or derived through such procedures that is not created by or for the intelligence community except—
+
+  (A) with the approval of the contractor providing such information;
+
+  (B) to the congressional intelligence committees or the Subcommittees on Defense of the Committees on Appropriations of the House of Representatives and the Senate for such committees and such Subcommittees to perform oversight; or
+
+  (C) to law enforcement agencies to investigate a penetration reported under this section.
+
+**(d) Issuance of procedures and establishment of criteria**
+
+(1) **In general** — Not later than 90 days after July 7, 2014, the Director of National Intelligence shall establish the procedures required under subsection (a) and the criteria required under subsection (b).
+
+(2) **Applicability date** — The requirements of this section shall apply on the date on which the Director of National Intelligence establishes the procedures required under this section.
+
+**(e) Coordination with the Secretary of Defense to prevent duplicate reporting** Not later than 180 days after July 7, 2014, the Director of National Intelligence and the Secretary of Defense shall establish procedures to permit a contractor that is a cleared intelligence contractor and a cleared defense contractor under section 941 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; [10 U.S.C. 2224](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2224&num=0&edition=prelim) note) to submit a single report that satisfies the requirements of this section and such section 941 for an incident of penetration of network or information system.
+
+**(f) Definitions** In this section:
+
+(1) **Cleared intelligence contractor** — The term “cleared intelligence contractor” means a private entity granted clearance by the Director of National Intelligence or the head of an element of the intelligence community to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of an element of the intelligence community.
+
+(2) **Covered network** — The term “covered network” means a network or information system of a cleared intelligence contractor that contains or processes information created by or for an element of the intelligence community with respect to which such contractor is required to apply enhanced protection.
+
+**(g) Savings clauses** Nothing in this section shall be construed to alter or limit any otherwise authorized access by government personnel to networks or information systems owned or operated by a contractor that processes or stores government data.
+
+### Statutory Notes
+
+#### References in Text
+Section 941 of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (e), is section 941 of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 1889, which is set out as a note under [section 2224 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2224&num=0&edition=prelim), Armed Forces.
+
+#### Definitions
+For definitions of “intelligence community” and “congressional intelligence committees”, referred to in text, see section 2 of Pub. L. 113–126, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
 
 
 <a id="section-3341"></a>
@@ -575,7 +666,13 @@ Pub. L. 112–87, title III, § 309, Jan. 3, 2012, 125 Stat. 1883, provided that
 
   (B) the Select Committee on Intelligence and the Committees on Armed Services, Homeland Security and Governmental Affairs, and the Judiciary of the Senate.
 
-**(b) Selection of entity** Not later than 90 days after December 17, 2004, the President shall select a single department, agency, or element of the executive branch to be responsible for—
+(9) **Access determination.—** — The term “access determination” means the determination regarding whether an employee—
+
+  (A) is eligible for access to classified information in accordance with Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information), or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with industry), or any successor thereto; and
+
+  (B) possesses a need to know under such an Order.
+
+**(b) Selection of entity** Except as otherwise provided, not later than 90 days after December 17, 2004, the President shall select a single department, agency, or element of the executive branch to be responsible for—
 
 (1) directing day-to-day oversight of investigations and adjudications for personnel security clearances, including for highly sensitive programs, throughout the United States Government;
 
@@ -585,9 +682,15 @@ Pub. L. 112–87, title III, § 309, Jan. 3, 2012, 125 Stat. 1883, provided that
 
 (4) ensuring reciprocal recognition of access to classified information among the agencies of the United States Government, including acting as the final authority to arbitrate and resolve disputes involving the reciprocity of security clearances and access to highly sensitive programs pursuant to subsection (d) of this section;
 
-(5) ensuring, to the maximum extent practicable, that sufficient resources are available in each agency to achieve clearance and investigative program goals; and
+(5) ensuring, to the maximum extent practicable, that sufficient resources are available in each agency to achieve clearance and investigative program goals;
 
-(6) reviewing and coordinating the development of tools and techniques for enhancing the conduct of investigations and granting of clearances.
+(6) reviewing and coordinating the development of tools and techniques for enhancing the conduct of investigations and granting of clearances; and
+
+(7) not later than 180 days after July 7, 2014, and consistent with subsection (j)—
+
+  (A) developing policies and procedures that permit, to the extent practicable, individuals alleging reprisal for having made a protected disclosure (provided the individual does not disclose classified information or other information contrary to law) to appeal any action affecting an employee’s access to classified information and to retain their government employment status while such challenge is pending; and
+
+  (B) developing and implementing uniform and consistent policies and procedures to ensure proper protections during the process for denying, suspending, or revoking a security clearance or access to classified information following a protected disclosure, including the ability to appeal such a denial, suspension, or revocation, except that there shall be no appeal of an agency’s suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts no longer than 1 year or the head of the agency or a designee of the head of the agency certifies that a longer suspension is needed before a final decision on denial or revocation to prevent imminent harm to the national security.
 
 **(c) Performance of security clearance investigations**
 
@@ -691,18 +794,120 @@ Pub. L. 112–87, title III, § 309, Jan. 3, 2012, 125 Stat. 1883, provided that
 
 **(i) Authorization of appropriations** There is authorized to be appropriated such sums as may be necessary for fiscal year 2005 and each fiscal year thereafter for the implementation, maintenance, and operation of the database required by subsection (e) of this section.
 
+**(j) Retaliatory revocation of security clearances and access determinations**
+
+(1) **In general** — Agency personnel with authority over personnel security clearance or access determinations shall not take or fail to take, or threaten to take or fail to take, any action with respect to any employee’s security clearance or access determination in retaliation for—
+
+  (A) any lawful disclosure of information to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose) or the head of the employing agency (or employee designated by the head of that agency for such purpose) by an employee that the employee reasonably believes evidences—
+
+    (i) a violation of any Federal law, rule, or regulation; or
+
+    (ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+
+  (B) any lawful disclosure to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee reasonably believes evidences—
+
+    (i) a violation of any Federal law, rule, or regulation; or
+
+    (ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+
+  (C) any lawful disclosure that complies with—
+
+    (i) subsections (a)(1), (d), and (h) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.);
+
+    (ii) subparagraphs (A), (D), and (H) of [section 3517(d)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3517/d/5&num=0&edition=prelim); or
+
+    (iii) subparagraphs (A), (D), and (I) of [section 3033(k)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3033/k/5&num=0&edition=prelim); and
+
+  (D) if the actions do not result in the employee or applicant unlawfully disclosing information specifically required by Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs, any lawful disclosure in conjunction with—
+
+    (i) the exercise of any appeal, complaint, or grievance right granted by any law, rule, or regulation;
+
+    (ii) testimony for or otherwise lawfully assisting any individual in the exercise of any right referred to in clause (i); or
+
+    (iii) cooperation with or disclosing information to the Inspector General of an agency, in accordance with applicable provisions of law in connection with an audit, inspection, or investigation conducted by the Inspector General.
+
+(2) **Rule of construction** — Consistent with the protection of sources and methods, nothing in paragraph (1) shall be construed to authorize the withholding of information from Congress or the taking of any personnel action against an employee who lawfully discloses information to Congress.
+
+(3) **Disclosures**
+
+  (A) *In general* — A disclosure shall not be excluded from paragraph (1) because—
+
+    (i) the disclosure was made to a person, including a supervisor, who participated in an activity that the employee reasonably believed to be covered by paragraph (1)(A)(ii);
+
+    (ii) the disclosure revealed information that had been previously disclosed;
+
+    (iii) the disclosure was not made in writing;
+
+    (iv) the disclosure was made while the employee was off duty; or
+
+    (v) of the amount of time which has passed since the occurrence of the events described in the disclosure.
+
+  (B) *Reprisals* — If a disclosure is made during the normal course of duties of an employee, the disclosure shall not be excluded from paragraph (1) if any employee who has authority to take, direct others to take, recommend, or approve any personnel action with respect to the employee making the disclosure, took, failed to take, or threatened to take or fail to take a personnel action with respect to that employee in reprisal for the disclosure.
+
+(4) **Agency adjudication**
+
+  (A) *Remedial procedure* — An employee or former employee who believes that he or she has been subjected to a reprisal prohibited by paragraph (1) may, within 90 days after the issuance of notice of such decision, appeal that decision within the agency of that employee or former employee through proceedings authorized by subsection (b)(7), except that there shall be no appeal of an agency’s suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts not longer than 1 year (or a longer period in accordance with a certification made under subsection (b)(7)).
+
+  (B) *Corrective action* — If, in the course of proceedings authorized under subparagraph (A), it is determined that the adverse security clearance or access determination violated paragraph (1), the agency shall take specific corrective action to return the employee or former employee, as nearly as practicable and reasonable, to the position such employee or former employee would have held had the violation not occurred. Such corrective action may include back pay and related benefits, travel expenses, and compensatory damages not to exceed $300,000.
+
+  (C) *Contributing factor* — In determining whether the adverse security clearance or access determination violated paragraph (1), the agency shall find that paragraph (1) was violated if a disclosure described in paragraph (1) was a contributing factor in the adverse security clearance or access determination taken against the individual, unless the agency demonstrates by a preponderance of the evidence that it would have taken the same action in the absence of such disclosure, giving the utmost deference to the agency’s assessment of the particular threat to the national security interests of the United States in the instant matter.
+
+(5) **Appellate review of security clearance access determinations by Director of National Intelligence**
+
+  (A) *Appeal* — Within 60 days after receiving notice of an adverse final agency determination under a proceeding under paragraph (4), an employee or former employee may appeal that determination in accordance with the procedures established under subparagraph (B).
+
+  (B) *Policies and procedures* — The Director of National Intelligence, in consultation with the Attorney General and the Secretary of Defense, shall develop and implement policies and procedures for adjudicating the appeals authorized by subparagraph (A).
+
+  (C) *Congressional notification* — Consistent with the protection of sources and methods, at the time the Director of National Intelligence issues an order regarding an appeal pursuant to the policies and procedures established by this paragraph, the Director of National Intelligence shall notify the congressional intelligence committees.
+
+(6) **Judicial review** — Nothing in this section shall be construed to permit or require judicial review of any—
+
+  (A) agency action under this section; or
+
+  (B) action of the appellate review procedures established under paragraph (5).
+
+(7) **Private cause of action** — Nothing in this section shall be construed to permit, authorize, or require a private cause of action to challenge the merits of a security clearance determination.
+
 ### Statutory Notes
 
 #### References in Text
-Executive Order 12968, referred to in subsec. (a)(3), is set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
+Executive Order 12968, referred to in subsec. (a)(3), (9)(A), is set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
 
-Executive Order 12958, referred to in subsec. (a)(4)(A), which was formerly set out as a note under [section 435 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435&num=0&edition=prelim), was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731, and was reclassified as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
+Executive Order 12958, referred to in subsec. (a)(4)(A), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
+
+Executive Order 10865, referred to in subsec. (a)(9)(A), is set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
+
+Section 8H of the Inspector General Act of 1978, referred to in subsec. (j)(1)(C)(i), is section 8H of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
-Section was formerly classified to section 435b of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 435b of this title](./chapter-015-national-security.md#section-435b) prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2014—Subsec. (a)(9). Pub. L. 113–126, § 602(c), added par. (9).
+
+Subsec. (b). Pub. L. 113–126, § 602(a)(1)(A), substituted “Except as otherwise provided, not” for “Not” in introductory provisions.
+
+Subsec. (b)(7). Pub. L. 113–293, § 310(1), inserted “, and consistent with subsection (j)” after “2014” in introductory provisions.
+
+Pub. L. 113–126, § 602(a)(1)(B)–(D), added par. (7).
+
+Subsec. (b)(7)(A). Pub. L. 113–293, § 310(2), substituted “alleging reprisal for having made a protected disclosure (provided the individual does not disclose classified information or other information contrary to law) to appeal any action affecting an employee’s access to classified information” for “to appeal a determination to suspend or revoke a security clearance or access to classified information”.
+
+Subsec. (b)(7)(B). Pub. L. 113–293, § 310(3), substituted “information following a protected disclosure,” for “information,”.
+
+Subsec. (j). Pub. L. 113–126, § 602(b), added subsec. (j).
 
 #### Change of Name
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Construction
+Pub. L. 113–126, title VI, § 602(e), July 7, 2014, 128 Stat. 1419, provided that: “Nothing in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3341)), as amended by this title, shall be construed to require the repeal or replacement of agency appeal procedures implementing Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information) [[50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note], or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with industry) [[50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note], or any successor thereto, that meet the requirements of paragraph (7) of section 3001(b) of such Act [[50 U.S.C. 3341(b)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3341/b/7&num=0&edition=prelim)], as added by this section.”
+
+#### Required Elements of Policies and Procedures
+Pub. L. 113–126, title VI, § 602(a)(2), July 7, 2014, 128 Stat. 1416, provided that: “The policies and procedures for appeal developed under paragraph (7) of section 3001(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 [[50 U.S.C. 3341(b)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3341/b/7&num=0&edition=prelim)], as added by subsection (a), shall provide for the Inspector General of the Intelligence Community, or the inspector general of the employing agency, to conduct fact-finding and report to the agency head or the designee of the agency head within 180 days unless the employee and the agency agree to an extension or the investigating inspector general determines in writing that a greater period of time is required. To the fullest extent possible, such fact-finding shall include an opportunity for the employee to present relevant evidence such as witness testimony.”
+
+#### Existing Rights Preserved
+Pub. L. 113–126, title VI, § 602(d), July 7, 2014, 128 Stat. 1419, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes under this section] or the amendments made by this section shall be construed to preempt, preclude, or otherwise prevent an individual from exercising rights, remedies, or avenues of redress currently provided under any other law, regulation, or rule.”
 
 #### Strategy for Security Clearance Reciprocity
 Pub. L. 112–277, title III, § 306, Jan. 14, 2013, 126 Stat. 2472, provided that: “(a) Strategy.—The President shall develop a strategy and a schedule for carrying out the requirements of section 3001(d) of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 435b(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435b/d&num=0&edition=prelim)) [now [50 U.S.C. 3341(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3341/d&num=0&edition=prelim)]. Such strategy and schedule shall include—“(1) a process for accomplishing the reciprocity required under such section for a security clearance issued by a department or agency of the Federal Government, including reciprocity for security clearances that are issued to both persons who are and who are not employees of the Federal Government; and “(2) a description of the specific circumstances under which a department or agency of the Federal Government may not recognize a security clearance issued by another department or agency of the Federal Government. “(b) Congressional Notification.—Not later than 180 days after the date of the enactment of this Act [Jan. 14, 2013], the President shall inform Congress of the strategy and schedule developed under subsection (a).”
@@ -724,7 +929,7 @@ This section, referred to in par. (1), is section 7601 of Pub. L. 108–458. See
 Section 3(h)(4) of the Presidential Transition Act of 1963, referred to in par. (1), is section 3(h)(4) of Pub. L. 88–277, which is set out in a note under [section 102 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim), The President.
 
 #### Codification
-Section was formerly classified as a note under section 435b of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+Section was formerly classified as a note under [section 435b of this title](./chapter-015-national-security.md#section-435b) prior to editorial reclassification as this section.
 
 Section is comprised of subsec. (c) of section 7601 of Pub. L. 108–458. Subsec. (a) of section 7601 amended provisions set out as a note under [section 102 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim), The President, subsec. (b) of section 7601 is not classified to the Code, and subsec. (d) of section 7601 is set out as a note under [section 102 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim).
 
@@ -813,10 +1018,10 @@ Par. (2). Pub. L. 111–283, § 2(c)(1)(B), substituted “eligible candidate”
 ### Statutory Notes
 
 #### References in Text
-Executive Order 12958, referred to in subsec. (a)(4), which was formerly set out as a note under [section 435 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435&num=0&edition=prelim), was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731, and was reclassified as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
+Executive Order 12958, referred to in subsec. (a)(4), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Codification
-Section was formerly classified to section 435c of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 435c of this title](./chapter-015-national-security.md#section-435c) prior to editorial reclassification and renumbering as this section.
 
 
 <a id="section-3344"></a>
@@ -847,7 +1052,7 @@ Executive Order 13526, referred to in subsec. (a), is set out as a note under [s
 Section 5(a)(3), referred to in subsec. (a)(1)(A), probably means section 5(a)(3) of Pub. L. 111–258.
 
 #### Codification
-Section was formerly classified to section 435d of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 435d of this title](./chapter-015-national-security.md#section-435d) prior to editorial reclassification and renumbering as this section.
 
 #### Definitions
 Pub. L. 111–258, § 3, Oct. 7, 2010, 124 Stat. 2648, provided that: “In this Act [see Short Title of 2010 Amendment note set out under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security]: “(1) Derivative classification and original classification.—The terms ‘derivative classification’ and ‘original classification’ have the meanings given those terms in Executive Order No. 13526 [[50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note]. “(2) Executive agency.—The term ‘Executive agency’ has the meaning given that term in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim), United States Code. “(3) Executive order no. 13526.—The term ‘Executive Order No. 13526’ means Executive Order No. 13526 (75 Fed. Reg. 707; relating to classified national security information) or any subsequent corresponding executive order.”
@@ -902,7 +1107,7 @@ Pub. L. 111–258, § 3, Oct. 7, 2010, 124 Stat. 2648, provided that: “In this
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 435a of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 435a of this title](./chapter-015-national-security.md#section-435a) prior to editorial reclassification and renumbering as this section.
 
 #### Change of Name
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
@@ -930,9 +1135,9 @@ Committee on International Relations of House of Representatives changed to Comm
 This section, referred to in subsec. (d), is section 1075 of H.R. 5408 of the 106th Congress, as introduced on Oct. 6, 2000, and as enacted into law by section 1 of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654. See Codification note below.
 
 #### Codification
-Section was formerly classified as a note under section 435 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+Section was formerly classified as a note under [section 435 of this title](./chapter-015-national-security.md#section-435) prior to editorial reclassification as this section.
 
-Section is comprised of subsecs. (a) to (d) of section 1075 of H.R. 5408 of the 106th Congress, as introduced on Oct. 6, 2000, and as enacted into law by section 1 of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654. Subsec. (a) of section 1075 amended former [section 230 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section230&num=0&edition=prelim), Armed Forces and subsec. (b) of section 1075 was not classified to the Code.
+Section is comprised of section 1075 of H.R. 5408 of the 106th Congress, as introduced on Oct. 6, 2000, and as enacted into law by section 1 of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654. Subsec. (a) of section 1075 amended former [section 230 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section230&num=0&edition=prelim), Armed Forces and subsec. (b) of section 1075 was not classified to the Code.
 
 
 <a id="section-3347"></a>
@@ -951,7 +1156,7 @@ Notwithstanding any other provision of law not specifically referencing this sec
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified as a note under section 435 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+Section was formerly classified as a note under [section 435 of this title](./chapter-015-national-security.md#section-435) prior to editorial reclassification as this section.
 
 
 <a id="section-3348"></a>
@@ -1031,16 +1236,61 @@ Section was formerly classified as a note under section 435 of chapter 15 of thi
 ### Statutory Notes
 
 #### References in Text
-Executive Order 12356, referred to in subsec. (g)(2), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which prescribed a uniform system for classifying, declassifying, and safeguarding national security information, and which was formerly set out as a note under [section 435 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435&num=0&edition=prelim), was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843, and was reclassified as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
+Executive Order 12356, referred to in subsec. (g)(2), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which prescribed a uniform system for classifying, declassifying, and safeguarding national security information, and which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843.
 
 #### Codification
-Section was formerly classified as a note under section 435 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+Section was formerly classified as a note under [section 435 of this title](./chapter-015-national-security.md#section-435) prior to editorial reclassification as this section.
 
 #### Amendments
 1999—Subsec. (g)(1)(B)(ii). Pub. L. 106–65 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the Department of Energy, with respect to special access programs carried out under the atomic energy defense activities of that department (for which the Secretary of Energy is required to submit reports under [section 2122a of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2122a&num=0&edition=prelim)); or”.
 
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as an Effective Date note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
+
+
+<a id="section-3349"></a>
+## § 3349. Notification regarding the authorized public disclosure of national intelligence
+**(a) Notification** In the event of an authorized disclosure of national intelligence or intelligence related to national security to the persons or entities described in subsection (b), the government official responsible for authorizing the disclosure shall submit to the congressional intelligence committees on a timely basis a notification of the disclosure if—
+
+(1) at the time of the disclosure—
+
+  (A) such intelligence is classified; or
+
+  (B) is declassified for the purpose of the disclosure; and
+
+(2) the disclosure will be made by an officer, employee, or contractor of the Executive branch.
+
+**(b) Persons or entities described** The persons or entities described in this subsection are as follows:
+
+(1) Media personnel.
+
+(2) Any person or entity, if the disclosure described in subsection (a) is made with the intent or knowledge that such information will be made publicly available.
+
+**(c) Content** Each notification required under subsection (a) shall—
+
+(1) provide the specific title and authority of the individual authorizing the disclosure;
+
+(2) if applicable, provide the specific title and authority of the individual who authorized the declassification of the intelligence disclosed; and
+
+(3) describe the intelligence disclosed, including the classification of the intelligence prior to its disclosure or declassification and the rationale for making the disclosure.
+
+**(d) Exception** The notification requirement in this section does not apply to a disclosure made—
+
+(1) pursuant to any statutory requirement, including to [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) (commonly referred to as the “Freedom of Information Act”);
+
+(2) in connection with a civil, criminal, or administrative proceeding;
+
+(3) as a result of a declassification review process under Executive Order 13526 ([former] [50 U.S.C. 435](./chapter-015-national-security.md#section-435) note) [now [50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note] or any successor order; or
+
+(4) to any officer, employee, or contractor of the Federal government or member of an advisory committee to an element of the intelligence community who possesses an active security clearance and a need to know the specific national intelligence or intelligence related to national security, as defined in [section 3003(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/5&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (e). Pub. L. 113–126 struck out subsec. (e). Text read as follows: “The notification requirements of this section shall cease to be effective for any disclosure described in subsection (a) that occurs on or after the date that is one year after January 14, 2013.”
+
+#### Definitions
+Pub. L. 112–277, § 2, Jan. 14, 2013, 126 Stat. 2469, provided that: “In this Act [see Tables for classification]: “(1) Congressional intelligence committees.—The term ‘congressional intelligence committees’ means—“(A) the Select Committee on Intelligence of the Senate; and “(B) the Permanent Select Committee on Intelligence of the House of Representatives. “(2) Intelligence community.—The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a/4&num=0&edition=prelim)) [now [50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)].”
 
 
 <a id="section-3361"></a>
@@ -1074,7 +1324,7 @@ Amendment by Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 404n of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 404n of this title](./chapter-015-national-security.md#section-404n) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 2004—Subsec. (a). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence, acting as the head of the intelligence community,”.
@@ -1102,7 +1352,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 404n–1 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 404n–1 of this title](./chapter-015-national-security.md#section-404n-1) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 2004—Subsec. (a). Pub. L. 108–458 substituted “Director of National Intelligence shall establish within the Central Intelligence Agency” for “Director of Central Intelligence, acting as the head of the intelligence community, shall establish in the Central Intelligence Agency”.
@@ -1170,10 +1420,10 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 ### Statutory Notes
 
 #### References in Text
-[Section 403–3 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–3&num=0&edition=prelim), referred to in subsec. (d)(2), was repealed and a new section 403–3 enacted by Pub. L. 108–458, title I, § 1011(a), Dec. 17, 2004, 118 Stat. 3643, without corresponding amendment to this section. [Section 403–3 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–3&num=0&edition=prelim) was subsequently editorially reclassified as [section 3025 of this title](./chapter-044-national-security.md#section-3025). The new section 3025 contains a subsec. (c) relating to the composition of the Office of the Director of National Intelligence.
+[Section 403–3 of this title](./chapter-015-national-security.md#section-403-3), referred to in subsec. (d)(2), was repealed and a new section 403–3 enacted by Pub. L. 108–458, title I, § 1011(a), Dec. 17, 2004, 118 Stat. 3643, without corresponding amendment to this section. [Section 403–3 of this title](./chapter-015-national-security.md#section-403-3) was subsequently editorially reclassified as [section 3025 of this title](./chapter-044-national-security.md#section-3025). The new section 3025 contains a subsec. (c) relating to the composition of the Office of the Director of National Intelligence.
 
 #### Codification
-Section was formerly classified to section 404n–2 of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+Section was formerly classified to [section 404n–2 of this title](./chapter-015-national-security.md#section-404n-2) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
 Subsecs. (d) to (h). Pub. L. 111–259 redesignated subsecs. (e) to (h) as (d) to (g), respectively, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows:
@@ -1229,7 +1479,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403–1a of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 403–1a of this title](./chapter-015-national-security.md#section-403-1a) prior to editorial reclassification and renumbering as this section.
 
 #### Effective Date
 For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
@@ -1263,7 +1513,7 @@ Pub. L. 108–458, title I, § 1020, Dec. 17, 2004, 118 Stat. 3672, provided tha
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 403–5d of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 403–5d of this title](./chapter-015-national-security.md#section-403-5d) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 2002—Par. (1). Pub. L. 107–296 inserted at end “Consistent with the responsibility of the Director of Central Intelligence to protect intelligence sources and methods, and the responsibility of the Attorney General to protect sensitive law enforcement information, it shall be lawful for information revealing a threat of actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power, domestic or international sabotage, domestic or international terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by an agent of a foreign power, within the United States or elsewhere, obtained as part of a criminal investigation to be disclosed to any appropriate Federal, State, local, or foreign government official for the purpose of preventing or responding to such a threat. Any official who receives information pursuant to this provision may use that information only as necessary in the conduct of that person’s official duties subject to any limitations on the unauthorized disclosure of such information, and any State, local, or foreign official who receives information pursuant to this provision may use that information only consistent with such guidelines as the Attorney General and Director of Central Intelligence shall jointly issue.”
@@ -1283,10 +1533,10 @@ Notwithstanding any other provision of law, the head of any department or agency
 ### Statutory Notes
 
 #### References in Text
-Subsection (a), referred to in text, is subsec. (a) of section 402 of Pub. L. 111–259, title IV, Oct. 7, 2010, 124 Stat. 2708, which amended section 403–1 of chapter 15 of this title prior to editorial reclassification and renumbering as section 3024 in chapter 44 of this title.
+Subsection (a), referred to in text, is subsec. (a) of section 402 of Pub. L. 111–259, title IV, Oct. 7, 2010, 124 Stat. 2708, which amended [section 403–1 of this title](./chapter-015-national-security.md#section-403-1) prior to editorial reclassification and renumbering as [section 3024 of this title](./chapter-044-national-security.md#section-3024).
 
 #### Codification
-Section was formerly classified as a note under section 403–1 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+Section was formerly classified as a note under [section 403–1 of this title](./chapter-015-national-security.md#section-403-1) prior to editorial reclassification as this section.
 
 
 <a id="section-3367"></a>
@@ -1297,7 +1547,7 @@ The Director of National Intelligence shall ensure that the intelligence communi
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified as a note under section 403–1 of chapter 15 of this title prior to editorial reclassification in chapter 45 of this title.
+Section was formerly classified as a note under [section 403–1 of this title](./chapter-015-national-security.md#section-403-1) prior to editorial reclassification as this section.
 
 
 <a id="section-3381"></a>
@@ -1384,14 +1634,14 @@ Section was formerly classified as a note under section 403–1 of chapter 15 of
 The Counterintelligence Enhancement Act of 2002, referred to in subsec. (d)(1)(B), is title IX of Pub. L. 107–306, Nov. 27, 2002, 116 Stat. 2432. Section 904(e)(2) of the Act was redesignated 904(d)(2) by Pub. L. 111–259, title IV, § 412(a)(2), Oct. 7, 2010, 124 Stat. 2725, and is classified to [section 3383(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3383/d/2&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
-Section was formerly classified to section 402a of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+Section was formerly classified to [section 402a of this title](./chapter-015-national-security.md#section-402a) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
 2004—Subsec. (c)(6)(C). Pub. L. 108–458, which directed amendment of subsec. (c)(6)(C) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, could not be executed because of the amendments by Pub. L. 107–306, § 903(a)(2), and Pub. L. 108–177. See 2002 and 2003 Amendment notes below.
 
 2003—Subsec. (e). Pub. L. 108–177, which directed the amendment of subsec. (c) by redesignating pars. (7) and (8) as (6) and (7), respectively, and striking out former par. (6), was executed by making the amendment to subsec. (e) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (e) by Pub. L. 107–306, § 903(a)(2), see below. Prior to amendment, par. (6) read as follows:
 
-“(6)(A) Not later each year than the date provided in [section 415b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section415b&num=0&edition=prelim), the Director of the Federal Bureau of Investigation shall submit to the congressional intelligence committees (as defined in [section 401a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a&num=0&edition=prelim)) a report with respect to compliance with paragraphs (1) and (2) during the previous calendar year.
+“(6)(A) Not later each year than the date provided in [section 415b of this title](./chapter-015-national-security.md#section-415b), the Director of the Federal Bureau of Investigation shall submit to the congressional intelligence committees (as defined in [section 401a of this title](./chapter-015-national-security.md#section-401a)) a report with respect to compliance with paragraphs (1) and (2) during the previous calendar year.
 
 “(B) Not later than February 1 each year, the Director shall, in accordance with applicable security procedures, submit to the Committees on the Judiciary of the Senate and House of Representatives a report with respect to compliance with paragraphs (1) and (2) during the previous calendar year.
 
@@ -1460,7 +1710,7 @@ Pub. L. 105–107, title III, § 308, Nov. 20, 1997, 111 Stat. 2253, as amended 
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 402b of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 402b of this title](./chapter-015-national-security.md#section-402b) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 2004—Subsec. (a)(1). Pub. L. 108–458, § 1072(d)(1)(B)(i), substituted “Director of National Intelligence” for “President”.
@@ -1544,7 +1794,7 @@ Pub. L. 107–306, title IX, § 901(b), Nov. 27, 2002, 116 Stat. 2432, provided 
 
 (2) Notwithstanding section 104(d) 11 See References in Text note below. or any other provision of law limiting the period of the detail of personnel on a nonreimbursable basis, the detail of an officer or employee of United States or a member of the Armed Forces under paragraph (1) on a nonreimbursable basis may be for any period in excess of one year that the National Counterintelligence Executive and the head of the department, agency, or element concerned consider appropriate.
 
-**(g) Treatment of activities under certain administrative laws** The files of the Office shall be treated as operational files of the Central Intelligence Agency for purposes of section 701 of the National Security Act of 1947 ([50 U.S.C. 431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section431&num=0&edition=prelim)) [now [50 U.S.C. 3141](./chapter-044-national-security.md#section-3141)] to the extent such files meet criteria under subsection (b) of that section for treatment of files as operational files of an element of the Agency.
+**(g) Treatment of activities under certain administrative laws** The files of the Office shall be treated as operational files of the Central Intelligence Agency for purposes of section 701 of the National Security Act of 1947 ([50 U.S.C. 431](./chapter-015-national-security.md#section-431)) [now [50 U.S.C. 3141](./chapter-044-national-security.md#section-3141)] to the extent such files meet criteria under subsection (b) of that section for treatment of files as operational files of an element of the Agency.
 
 **(h) Oversight by Congress** The location of the Office of the National Counterintelligence Executive within the Office of the Director of National Intelligence shall not be construed as affecting access by Congress, or any committee of Congress, to—
 
@@ -1559,10 +1809,10 @@ Pub. L. 107–306, title IX, § 901(b), Nov. 27, 2002, 116 Stat. 2432, provided 
 #### References in Text
 Section 104(d), referred to in subsec. (f)(2), is section 104(d) of Pub. L. 107–306, title I, Nov. 27, 2002, 116 Stat. 2387, which is not classified to the Code.
 
-The National Security Act of 1947, referred to in subsec. (i), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (i), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
-Section was formerly classified to section 402c of chapter 15 of this title prior to editorial reclassification and renumbering in chapter 45 of this title.
+Section was formerly classified to [section 402c of this title](./chapter-015-national-security.md#section-402c) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 2012—Subsec. (d)(1). Pub. L. 112–87 struck out “on an annual basis” after “to produce”.

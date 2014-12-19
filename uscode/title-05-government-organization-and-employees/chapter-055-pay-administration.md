@@ -174,7 +174,8 @@ The pay period for an individual in the service of the United States whose pay i
 
 (3) The 31st day of a calendar month is ignored in computing pay, except that one day’s pay is forfeited for one day’s unauthorized absence on the 31st day of a calendar month.
 
-(4) For each day of the month elapsing before entering the service, one day’s pay is deducted from the first month’s pay of the individual. This section does not apply to an employee whose pay is computed under [section 5504(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5504/b&num=0&edition=prelim).
+(4) For each day of the month elapsing before entering the service, one day’s pay is deducted from the first month’s pay of the individual.
+This section does not apply to an employee whose pay is computed under [section 5504(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5504/b&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -555,7 +556,8 @@ When—
 
 (1) a State statute provides for the payment of employee contributions to a State employee retirement system or to a State sponsored plan providing retirement, disability, or death benefits, by withholding sums from the pay of State employees and making returns of the sums withheld to State authorities or to the person or organization designated by State authorities to receive sums withheld for the program; and
 
-(2) individuals employed by the Army National Guard and the Air National Guard, except employees of the National Guard Bureau, are eligible for membership in a State employee retirement system or other State sponsored plan; the Secretary of Defense, under regulations prescribed by the President, shall enter into an agreement with the State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Department of Defense shall comply with the requirements of State statute as to the individuals named by paragraph (2) of this section who are eligible for membership in the State employee retirement system. The disbursing officials paying these individuals shall withhold and pay to the State employee retirement system or to the person or organization designated by State authorities to receive sums withheld for the program the employee contributions for these individuals. For the purpose of this section, “State” means a State or territory or possession of the United States including the Commonwealth of Puerto Rico.
+(2) individuals employed by the Army National Guard and the Air National Guard, except employees of the National Guard Bureau, are eligible for membership in a State employee retirement system or other State sponsored plan;
+the Secretary of Defense, under regulations prescribed by the President, shall enter into an agreement with the State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Department of Defense shall comply with the requirements of State statute as to the individuals named by paragraph (2) of this section who are eligible for membership in the State employee retirement system. The disbursing officials paying these individuals shall withhold and pay to the State employee retirement system or to the person or organization designated by State authorities to receive sums withheld for the program the employee contributions for these individuals. For the purpose of this section, “State” means a State or territory or possession of the United States including the Commonwealth of Puerto Rico.
 
 ### Statutory Notes
 
@@ -864,7 +866,7 @@ For the purpose of this subchapter—
 
   (C) the Library of Congress;
 
-  (D) the Government Printing Office; and
+  (D) the Government Publishing Office; and
 
   (E) the government of the District of Columbia;
 
@@ -899,6 +901,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 1979—Par. (3)(B). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
 
 1968—Par. (3)(B). Pub. L. 90–623 substituted “Commissioner” for “Board of Commissioners”.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in par. (1)(D) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under [section 305 of this title](./chapter-003-powers.md#section-305).
@@ -1136,7 +1141,7 @@ For the purpose of [section 5533 of this title](./chapter-055-pay-administration
 
 (3) “retired or retainer pay” means retired pay, as defined in [section 8311(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8311/3&num=0&edition=prelim), determined without regard to subparagraphs (B) through (D) of such section 8311(3); except that such term does not include an annuity payable to an eligible beneficiary of a member or former member of a uniformed service under chapter 73 of title 10;
 
-(4) “agency in the legislative branch” means the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Office of the Architect of the Capitol, the United States Botanic Garden, the Congressional Budget Office, and the United States Capitol Police;
+(4) “agency in the legislative branch” means the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Office of the Architect of the Capitol, the United States Botanic Garden, the Congressional Budget Office, and the United States Capitol Police;
 
 (5) “employee of the House of Representatives” means a congressional employee whose pay is disbursed by the Chief Administrative Officer of the House of Representatives;
 
@@ -1169,6 +1174,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 1991—Pars. (4) to (7). Pub. L. 102–190 added pars. (4) to (7).
 
 1978—Pub. L. 95–454 substituted “ ‘member’ ” for “ ‘officer’ ” in par. (1) and added par. (3).
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in par. (4) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–145 effective as though enacted as part of section 1018 of Pub. L. 108–7, see section 7(d) of Pub. L. 111–145, set out as a note under [section 2107 of this title](./chapter-021-definitions.md#section-2107).
@@ -1314,88 +1322,88 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 #### Effective Date of 1970 Amendment
-Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under [section 72a of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section72a&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under [section 4301 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4301&num=0&edition=prelim), The Congress.
 
 #### Effective Date of 1967 Amendments
 Amendment by Pub. L. 90–206 effective at beginning of first pay period which begins on or after Dec. 16, 1967, see section 220(a)(3) of Pub. L. 90–206, set out as a note under [section 603 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section603&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
-Amendment by Pub. L. 90–57, effective Aug. 1, 1967, see section 105(k) of Pub. L. 90–57, set out as an Effective Date note under [section 61–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61–1&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 90–57, effective Aug. 1, 1967, see section 105(k) of Pub. L. 90–57, set out as an Effective Date note under [section 4575 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575&num=0&edition=prelim), The Congress.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate
-2010—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2010, to the figure “$33,003”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim), The Congress.
+2010—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2010, to the figure “$33,003”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim), The Congress.
 
-2009—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2009, to the figure “$32,515”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 12, 2009, set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim), The Congress.
+2009—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2009, to the figure “$32,515”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 12, 2009, set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-2008—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2008, to the figure “$31,906”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 7, 2008, set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim), The Congress.
+2008—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2008, to the figure “$31,906”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 7, 2008, set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-2007—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2007, to the figure “$30,827”, see section 9 of Salary Directive of President pro tempore of the Senate, Feb. 16, 2007, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+2007—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2007, to the figure “$30,827”, see section 9 of Salary Directive of President pro tempore of the Senate, Feb. 16, 2007, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-2006—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2006, to the figure “$29,905”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 2006, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+2006—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2006, to the figure “$29,905”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 2006, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-2005—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2005, to the figure “$29,289”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 3, 2005, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+2005—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2005, to the figure “$29,289”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 3, 2005, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-2004—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2004, to the figure “$28,574”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+2004—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2004, to the figure “$28,574”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-2003—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2003, to the figure “$27,822”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 2002, as amended, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+2003—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2003, to the figure “$27,822”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 2002, as amended, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-2002—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2002, to the figure “$26,985”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2001, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+2002—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2002, to the figure “$26,985”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2001, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-2001—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2001, to the figure “$26,329”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2000, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+2001—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2001, to the figure “$26,329”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2000, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-2000—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2000, to the figure “$25,362”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 12, 1999, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+2000—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2000, to the figure “$25,362”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 12, 1999, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1999—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1999, to the figure “$24,433”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 16, 1998, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1999—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1999, to the figure “$24,433”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 16, 1998, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1998—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1998, to the figure “$23,698”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1997, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1998—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1998, to the figure “$23,698”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1997, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1997—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1997, to the figure “$23,165”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1996, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1997—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1997, to the figure “$23,165”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1996, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1995—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1995, to the figure “$22,200”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 28, 1994, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1995—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1995, to the figure “$22,200”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 28, 1994, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1993—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1993, to the figure “$21,764”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 17, 1992, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1993—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1993, to the figure “$21,764”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 17, 1992, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1992—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1992, to the figure “$20,987”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1991, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1992—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1992, to the figure “$20,987”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1991, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1991—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1991, to the figure “$20,141”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 1990, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1991—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1991, to the figure “$20,141”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 1990, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1990—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1990, to the figure “$19,347”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 21, 1989, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1990—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1990, to the figure “$19,347”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 21, 1989, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1989—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1989, to the figure “$18,674”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 9, 1988, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1989—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1989, to the figure “$18,674”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 9, 1988, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1988—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1988, to the figure “$17,938”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1988, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1988—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1988, to the figure “$17,938”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1988, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1987—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1987, to the figure “$17,586”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1986, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1987—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1987, to the figure “$17,586”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1986, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1985—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1985, to the figure “$17,073”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1985, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1985—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1985, to the figure “$17,073”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1985, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1984—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1984, to the figure “$16,495”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 1983, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1984—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1984, to the figure “$16,495”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 1983, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1982—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1982, to the figure “$15,860”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1982, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1982—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1982, to the figure “$15,860”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1982, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1980—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1980, to the figure “$14,551”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1980—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1980, to the figure “$14,551”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1979—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1979, to the figure “$13,337”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 13, 1979, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1979—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1979, to the figure “$13,337”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 13, 1979, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1978—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1978, to the figure “$12,480”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 9, 1978, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1978—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1978, to the figure “$12,480”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 9, 1978, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1977—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1977, to the figure “$11,830”, see section 9 of Salary Directive of President pro tempore of the Senate, Sept. 27, 1977, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1977—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1977, to the figure “$11,830”, see section 9 of Salary Directive of President pro tempore of the Senate, Sept. 27, 1977, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1976—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1976, to the figure “$11,050”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 8, 1976, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1976—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1976, to the figure “$11,050”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 8, 1976, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1973—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Jan. 1, 1973, to the figure “9,080”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 16, 1972, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1973—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Jan. 1, 1973, to the figure “9,080”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 16, 1972, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1972—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Jan. 1, 1972, to the figure “8,637”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 23, 1971, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1972—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Jan. 1, 1972, to the figure “8,637”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 23, 1971, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1971—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Feb. 1, 1971, to the figure “8,187”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 15, 1971, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1971—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Feb. 1, 1971, to the figure “8,187”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 15, 1971, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
 1970—Adjustment by President pro tempore of the Senate with respect to Senate, by Finance Clerk of House with respect to House of Representatives, and by Architect of Capitol with respect to Office of Architect of Capitol, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, of rates of pay of employees of legislative branch subject to section 214 of Pub. L. 90–206 with certain exceptions, by amounts of adjustment for corresponding rates for employees subject to the General Schedule, set out in [section 5332 of this title](./chapter-053-pay-rates-and-systems.md#section-5332), which had been made by section 2 of Pub. L. 91–231 raising such rates by 6 percent, see Pub. L. 91–231, formerly set out as a note under [section 5332 of this title](./chapter-053-pay-rates-and-systems.md#section-5332).
 
-1969—The figure “6,662” in subsection (c)(1)(A) of this section, as increased by Order of June 12, 1968, deemed, on and after July 1, 1969, to refer to the figure “7,287”, see section 4(d) of Salary Directive of President pro tempore of the Senate, June 17, 1969, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1969—The figure “6,662” in subsection (c)(1)(A) of this section, as increased by Order of June 12, 1968, deemed, on and after July 1, 1969, to refer to the figure “7,287”, see section 4(d) of Salary Directive of President pro tempore of the Senate, June 17, 1969, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-1968—The figure “6,256” in subsection (c)(1)(A) of this section deemed to refer, on and after July 1, 1968, to the figure “6,622”, see section 1(i) of Salary Directive of President pro tempore of the Senate, June 12, 1968, formerly set out as a note under [section 60a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60a–1&num=0&edition=prelim).
+1968—The figure “6,256” in subsection (c)(1)(A) of this section deemed to refer, on and after July 1, 1968, to the figure “6,622”, see section 1(i) of Salary Directive of President pro tempore of the Senate, June 12, 1968, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
 
 <a id="section-5534"></a>
@@ -1823,7 +1831,7 @@ Pub. L. 100–690, title VI, § 6401, Nov. 18, 1988, 102 Stat. 4370, as amended 
 
   (A) Notwithstanding paragraphs (1) and (2), for an employee of the Department of the Navy who is assigned to temporary duty to perform work aboard, or dockside in direct support of, the nuclear aircraft carrier that is forward deployed in Japan and who would be nonexempt under the Fair Labor Standards Act but for the application of the foreign area exemption in section 13(f) of that Act ([29 U.S.C. 213(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213/f&num=0&edition=prelim)), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
-  (B) Subparagraph (A) shall expire on September 30, 2014.
+  (B) Subparagraph (A) shall expire on September 30, 2015.
 
 **(b)** For the purpose of this subchapter—
 
@@ -1854,6 +1862,58 @@ Pub. L. 100–690, title VI, § 6401, Nov. 18, 1988, 102 Stat. 4370, as amended 
 (1) such subsection shall be deemed to apply to hours of work officially ordered or approved in excess of 106 hours in a biweekly pay period, or, if the agency establishes a weekly basis for overtime pay computation, in excess of 53 hours in an administrative workweek; and
 
 (2) the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay under section 5545b(b)(1)(A) or (c)(1)(B), as applicable, and such overtime hourly rate of pay may not be less than such hourly rate of basic pay in applying the limitation on the overtime rate provided in paragraph (2) of such subsection (a).
+
+**(g)** In applying subsection (a) with respect to a border patrol agent covered by section 5550, the following rules apply:
+
+(1) Notwithstanding the matter preceding paragraph (1) in subsection (a), for a border patrol agent who is assigned to the level 1 border patrol rate of pay under section 5550—
+
+  (A) hours of work in excess of 100 hours during a 14-day biweekly pay period shall be overtime work; and
+
+  (B) the border patrol agent—
+
+    (i) shall receive pay at the overtime hourly rate of pay (as determined in accordance with paragraphs (1) and (2) of subsection (a)) for hours of overtime work that are officially ordered or approved in advance of the workweek; and
+
+    (ii) except as provided in paragraphs (4) and (5), shall receive compensatory time off for an equal amount of time spent performing overtime work that is not overtime work described in clause (i).
+
+(2) Notwithstanding the matter preceding paragraph (1) in subsection (a), for a border patrol agent who is assigned to the level 2 border patrol rate of pay under section 5550—
+
+  (A) hours of work in excess of 90 hours during a 14-day biweekly pay period shall be overtime work; and
+
+  (B) the border patrol agent—
+
+    (i) shall receive pay at the overtime hourly rate of pay (as determined in accordance with paragraphs (1) and (2) of subsection (a)) for hours of overtime work that are officially ordered or approved in advance of the workweek; and
+
+    (ii) except as provided in paragraphs (4) and (5), shall receive compensatory time off for an equal amount of time spent performing overtime work that is not overtime work described in clause (i).
+
+(3) Notwithstanding the matter preceding paragraph (1) in subsection (a), for a border patrol agent who is assigned to the basic border patrol rate of pay under section 5550—
+
+  (A) hours of work in excess of 80 hours during a 14-day biweekly pay period shall be overtime work; and
+
+  (B) the border patrol agent—
+
+    (i) shall receive pay at the overtime hourly rate of pay (as determined in accordance with paragraphs (1) and (2) of subsection (a)) for hours of overtime work that are officially ordered or approved in advance of the workweek; and
+
+    (ii) except as provided in paragraphs (4) and (5), shall receive compensatory time off for an equal amount of time spent performing overtime work that is not overtime work described in clause (i).
+
+(4)
+
+  (A) Except as provided in subparagraph (B), during a 14-day biweekly pay period, a border patrol agent may not earn compensatory time off for more than 10 hours of overtime work.
+
+  (B) U.S. Customs and Border Protection may, as it determines appropriate, waive the limitation under subparagraph (A) for an individual border patrol agent for hours of irregular or occasional overtime work, but such waiver must be approved in writing in advance of the performance of any such work for which compensatory time off is earned under paragraph (1)(B)(ii), (2)(B)(ii), or (3)(B)(ii). If a waiver request by a border patrol agent is denied, the border patrol agent may not be ordered to perform the associated overtime work.
+
+(5) A border patrol agent—
+
+  (A) may not earn more than 240 hours of compensatory time off during a leave year;
+
+  (B) shall use any hours of compensatory time off not later than the end of the 26th pay period after the pay period during which the compensatory time off was earned;
+
+  (C) shall be required to use 1 hour of compensatory time off for each hour of regular time not worked for which the border patrol agent is not on paid leave or other paid time off or does not substitute time in accordance with section 5550(f);
+
+  (D) shall forfeit any compensatory time off not used in accordance with this paragraph and, regardless of circumstances, shall not be entitled to any cash value for compensatory time earned under section 5550;
+
+  (E) shall not receive credit towards the computation of the annuity of the border patrol agent for compensatory time, whether used or not; and
+
+  (F) shall not be credited with compensatory time off if the value of such time off would cause the aggregate premium pay of the border patrol agent to exceed the limitation established under section 5547 in the period in which it was earned.
 
 ### Statutory Notes
 
@@ -1887,6 +1947,10 @@ Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (c), i
 Section 37(a)(3) of the State Department Basic Authorities Act of 1956, referred to in subsec. (e), is classified to [section 2709(a)(3) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2709/a/3&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2014—Subsec. (a)(6)(B). Pub. L. 113–291 substituted “2015” for “2014”.
+
+Subsec. (g). Pub. L. 113–277 added subsec. (g).
+
 2011—Subsec. (a)(6). Pub. L. 111–383 added par. (6).
 
 2003—Subsec. (a)(2). Pub. L. 108–136 inserted “the greater of” before “one and one-half” and “or the hourly rate of basic pay of the employee” before “, and all that amount”.
@@ -1941,6 +2005,15 @@ Pub. L. 90–556, § 3, Oct. 10, 1968, 82 Stat. 969, provided that: “The amend
 
 #### Effective Date of 1967 Amendment
 Pub. L. 90–206, title II, § 220(a)(4), Dec. 16, 1967, 81 Stat. 639, provided that, except as otherwise expressly provided: “Sections 222 [enacting [section 5733 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5733) and amending this section, [section 5544 of this title](./chapter-055-pay-administration.md#section-5544), [section 3571 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3571&num=0&edition=prelim), The Postal Service], and 223 [enacting [section 5345 of this title](./chapter-053-pay-rates-and-systems.md#section-5345)] shall become effective thirty days after the date of enactment of this title [Dec. 16, 1967].”
+
+#### Regulations
+Pub. L. 113–277, § 2(h), Dec. 18, 2014, 128 Stat. 3005, provided that: “The Director of the Office of Personnel Management shall promulgate regulations to carry out this Act [see section 1 of Pub. L. 113–277, set out as a Short Title of 2014 Amendment note under [section 101 of this title](./chapter-001-organization.md#section-101)] and the amendments made by this Act.”
+
+#### Rules of Construction
+Pub. L. 113–277, § 2(f), Dec. 18, 2014, 128 Stat. 3004, provided that: “Nothing in this section [enacting [section 5550 of this title](./chapter-055-pay-administration.md#section-5550), amending this section and sections 5547 and 8331 of this title and [section 213 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213&num=0&edition=prelim), Labor, and enacting provisions set out as notes under this section and [section 5550 of this title](./chapter-055-pay-administration.md#section-5550)] or the amendments made by this section shall be construed to— “(1) limit the right of U.S. Customs and Border Protection to assign both scheduled and unscheduled work to a border patrol agent based on the needs of U.S. Customs and Border Protection in excess of the hours of work normally applicable under the election of the border patrol agent, regardless of what the border patrol agent might otherwise have elected; “(2) require compensation of a border patrol agent other than for hours during which the border patrol agent is actually performing work or using approved paid leave or other paid time off; or “(3) exempt a border patrol agent from any limitations on pay, earnings, or compensation, including the limitations under [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code.”
+
+#### Border Patrol Rate of Pay
+Pub. L. 113–277, § 2(a), Dec. 18, 2014, 128 Stat. 2995, provided that: “(a) Purpose.—The purposes of this Act [see section 1 of Pub. L. 113–277, set out as a Short Title of 2014 Amendment note under [section 101 of this title](./chapter-001-organization.md#section-101)] are—“(1) to strengthen U.S. Customs and Border Protection and ensure that border patrol agents are sufficiently ready to conduct necessary work and will perform overtime hours in excess of a 40-hour workweek based on the needs of U.S. Customs and Border Protection; and “(2) to ensure U.S. Customs and Border Protection has the flexibility to cover shift changes and retains the right to assign scheduled and unscheduled work for mission requirements and planning based on operational need.”
 
 
 <a id="section-5543"></a>
@@ -2545,7 +2618,7 @@ Pub. L. 97–276, § 151(h)(1), Oct. 2, 1982, 96 Stat. 1202, provided that: “(
 
 <a id="section-5547"></a>
 ## § 5547. Limitation on premium pay
-**(a)** An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, and 5546(a) and (b) only to the extent that the payment does not cause the aggregate of basic pay and such premium pay for any pay period for such employee to exceed the greater of—
+**(a)** An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, 5546(a) and (b), and 5550 only to the extent that the payment does not cause the aggregate of basic pay and such premium pay for any pay period for such employee to exceed the greater of—
 
 (1) the maximum rate of basic pay payable for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law); or
 
@@ -2571,6 +2644,8 @@ Pub. L. 97–276, § 151(h)(1), Oct. 2, 1982, 96 Stat. 1202, provided that: “(
 
 **(d)** This section shall not apply to any employee of the Federal Aviation Administration or the Department of Defense who is paid premium pay under section 5546a.
 
+**(e)** Any supplemental pay resulting from receipt of the level 1 border patrol rate of pay or the level 2 border patrol rate of pay under section 5550 shall be considered premium pay in applying this section.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -2594,6 +2669,10 @@ GS–15, referred to in subsecs. (a)(1) and (b)(2)(A), (3)(A), is contained in t
 Level V of the Executive Schedule, referred to in subsecs. (a)(2) and (b)(2)(B), (3)(B), is set out in [section 5316 of this title](./chapter-053-pay-rates-and-systems.md#section-5316).
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–277, § 2(g)(1)(A), struck out “and” before “5546(a) and (b)” and inserted “, and 5550” after “5546(a) and (b)”.
+
+Subsec. (e). Pub. L. 113–277, § 2(g)(1)(B), added subsec. (e).
+
 2001—Pub. L. 107–107 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
 “(a) An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, and 5546(a) and (b) of this title only to the extent that the payment does not cause his aggregate rate of pay for any pay period to exceed the maximum rate for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law). The first sentence of this subsection shall not apply to any employee of the Federal Aviation Administration or the Department of Defense who is paid premium pay under [section 5546a of this title](./chapter-055-pay-administration.md#section-5546a).
@@ -2715,7 +2794,8 @@ This subchapter does not prevent payment for overtime services or for Sunday or 
 
 (4) sections 2111 and 2112 of title 46; and
 
-(5) [section 154(f)(3) of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section154/f/3&num=0&edition=prelim). However, an employee may not receive premium pay under this subchapter for the same services for which he is paid under one of these statutes.
+(5) [section 154(f)(3) of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section154/f/3&num=0&edition=prelim).
+However, an employee may not receive premium pay under this subchapter for the same services for which he is paid under one of these statutes.
 
 ### Statutory Notes
 
@@ -2744,11 +2824,229 @@ Section 10703 of the Farm Security and Rural Investment Act of 2002, referred to
 
 
 <a id="section-5550"></a>
-## § 5550. Repealed. Pub. L. 102–378, § 2(44)(A), Oct. 2, 1992, 106 Stat. 1352]
+## § 5550. Border patrol rate of pay
+**(a) Definitions.—** In this section—
+
+(1) the term “basic border patrol rate of pay” means the hourly rate of basic pay of the applicable border patrol, as determined without regard to this section;
+
+(2) the term “border patrol agent” means an individual who is appointed to a position assigned to the Border Patrol Enforcement classification series 1896 or any successor series, consistent with classification standards established by the Office of Personnel Management;
+
+(3) the term “level 1 border patrol rate of pay” means the hourly rate of pay equal to 1.25 times the otherwise applicable hourly rate of basic pay of the applicable border patrol agent;
+
+(4) the term “level 2 border patrol rate of pay” means the hourly rate of pay equal to 1.125 times the otherwise applicable hourly rate of basic pay of the applicable border patrol agent; and
+
+(5) the term “work period” means a 14-day biweekly pay period.
+
+**(b) Receipt of Border Patrol Rate of Pay.—**
+
+(1) **Voluntary election.—**
+
+  (A) *In general.—* — Not later than 30 days before the first day of each year beginning after the date of enactment of this section, a border patrol agent shall make an election whether the border patrol agent shall, for that year, be assigned to—
+
+    (i) the level 1 border patrol rate of pay;
+
+    (ii) the level 2 border patrol rate of pay; or
+
+    (iii) the basic border patrol rate of pay, with additional overtime assigned as needed by U.S. Customs and Border Protection.
+
+  (B) *Regulations.—* — The Director of the Office of Personnel Management shall promulgate regulations establishing procedures for elections under subparagraph (A).
+
+  (C) *Information regarding election.—* — Not later than 60 days before the first day of each year beginning after the date of enactment of this section, U.S. Customs and Border Protection shall provide each border patrol agent with information regarding each type of election available under subparagraph (A) and how to make such an election.
+
+  (D) *Assignment in lieu of election.—* — Notwithstanding subparagraph (A)—
+
+    (i) a border patrol agent who fails to make a timely election under subparagraph (A) shall be assigned to the level 1 border patrol rate of pay;
+
+    (ii) a border patrol agent who is assigned a canine shall be assigned to the level 1 border patrol rate of pay;
+
+    (iii) if at any time U.S. Customs and Border Protection concludes that a border patrol agent is unable to perform overtime on a daily basis in accordance with this section, U.S. Customs and Border Protection shall assign the border patrol agent to the basic border patrol rate of pay until such time as U.S. Customs and Border Protection determines that the border patrol agent is able to perform scheduled overtime on a daily basis;
+
+    (iv) unless the analysis conducted under section 2(e) of the Border Patrol Agent Pay Reform Act of 2014 indicates that, in order to more adequately fulfill the operational requirements of U.S. Customs and Border Protection, such border patrol agents should be allowed to elect or be assigned to the level 1 border patrol rate of pay or the level 2 border patrol rate of pay, a border patrol agent shall be assigned to the basic border patrol rate of pay if the agent works—
+
+      (I) at U.S. Customs and Border Protection headquarters;
+
+      (II) as a training instructor at a U.S. Customs and Border Protection training facility;
+
+      (III) in an administrative position; or
+
+      (IV) as a fitness instructor; and
+
+    (v) a border patrol agent may be assigned to the level 1 border patrol rate of pay or the level 2 border patrol rate of pay in accordance with subparagraph (E).
+
+  (E) *Flexibility.—*
+
+    (i) *In general.—* — Except as provided in clauses (ii) and (iii), and notwithstanding any other provision of law, U.S. Customs and Border Protection shall take such action as is necessary, including the unilateral assignment of border patrol agents to the level 1 border patrol rate of pay or the level 2 border patrol rate of pay, to ensure that not more than 10 percent of the border patrol agents stationed at a location are assigned to the level 2 border patrol rate of pay or the basic border patrol rate of pay.
+
+    (ii) *Waiver.—* — U.S. Customs and Border Protection may waive the limitation under clause (i) on the percent of border patrol agents stationed at a location who are assigned to the level 2 border patrol rate of pay or the basic border patrol rate of pay if, based on the analysis conducted under section 2(e) of the Border Patrol Agent Pay Reform Act of 2014, U.S. Customs and Border Protection determines it may do so and adequately fulfill its operational requirements.
+
+    (iii) *Certain locations.—* — Clause (i) shall not apply to border patrol agents working at the headquarters of U.S. Customs and Border Protection or a training location of U.S. Customs and Border Protection.
+
+  (F) *Canine care.—* — For a border patrol agent assigned to provide care for a canine and assigned to the level 1 border patrol rate of pay in accordance with subparagraph (D)(ii)—
+
+    (i) that rate of pay covers all such care;
+
+    (ii) for the purposes of scheduled overtime under paragraph (2)(A)(ii), such care shall be counted as 1 hour of scheduled overtime on each regular workday without regard to the actual duration of such care or whether such care occurs on the regular workday; and
+
+    (iii) no other pay shall be paid to the border patrol agent for such care.
+
+  (G) *Pay assignment continuity.—*
+
+    (i) *In general.—* — Not later than 1 year after the date of enactment of the Border Patrol Agent Pay Reform Act of 2014, and in consultation with the Office of Personnel Management, U.S. Customs and Border Protection shall develop and implement a plan to ensure, to the greatest extent practicable, that the assignment of a border patrol agent under this section during the 3 years of service before the border patrol agent becomes eligible for immediate retirement are consistent with the average border patrol rate of pay level to which the border patrol agent has been assigned during the course of the career of the border patrol agent.
+
+    (ii) *Implementation.—* — Notwithstanding any other provision of law, U.S. Customs and Border Protection may take such action as is necessary, including the unilateral assignment of border patrol agents to the level 1 border patrol rate of pay, the level 2 border patrol rate of pay, or the basic border patrol rate of pay, to implement the plan developed under this subparagraph.
+
+    (iii) *Reporting.—* — U.S. Customs and Border Protection shall submit the plan developed under clause (i) to the appropriate committees of Congress.
+
+    (iv) *GAO review.—* — Not later than 6 months after U.S. Customs and Border Protection issues the plan required under clause (i), the Comptroller General of the United States shall submit to the appropriate committees of Congress a report on the effectiveness of the plan in ensuring that border patrol agents are not able to artificially enhance their retirement annuities.
+
+    (v) *Definition.—* — In this subparagraph, the term “appropriate committees of Congress” means—
+
+      (I) the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate; and
+
+      (II) the Committee on Homeland Security, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives.
+
+    (vi) *Rule of construction.—* — Nothing in this subparagraph shall be construed to limit the ability of U.S. Customs and Border Protection to assign border patrol agents to border patrol rates of pay as necessary to meet operational requirements.
+
+(2) **Level 1 border patrol rate of pay.—** — For a border patrol agent who is assigned to the level 1 border patrol rate of pay—
+
+  (A) the border patrol agent shall have a regular tour of duty consisting of 5 workdays per week with—
+
+    (i) 8 hours of regular time per workday, which may be interrupted by an unpaid off-duty meal break; and
+
+    (ii) 2 additional hours of scheduled overtime during each day the agent performs work under clause (i);
+
+  (B) for paid hours of regular time described in subparagraph (A)(i), the border patrol agent shall receive pay at the level 1 border patrol rate of pay;
+
+  (C) compensation for the hours of regularly scheduled overtime work described in subparagraph (A)(ii) is provided indirectly through the 25 percent supplement within the level 1 border patrol rate of pay, and the border patrol agent may not receive for such hours—
+
+    (i) any compensation in addition to the compensation under subparagraph (B) under this section or any other provision of law; or
+
+    (ii) any compensatory time off;
+
+  (D) the border patrol agent shall receive compensatory time off or pay at the overtime hourly rate of pay for hours of work in excess of 100 hours during a work period, as determined in accordance with section 5542(g);
+
+  (E) the border patrol agent shall be charged corresponding amounts of paid leave, compensatory time off, or other paid time off for each hour (or part thereof) the agent is absent from work during regular time (except that full days off for military leave shall be charged when required);
+
+  (F) if the border patrol agent is absent during scheduled overtime described in subparagraph (A)(ii)—
+
+    (i) the border patrol agent shall accrue an obligation to perform other overtime work for each hour (or part thereof) the border patrol agent is absent; and
+
+    (ii) any overtime work applied toward the obligation under clause (i) shall not be credited as overtime work under any other provision of law; and
+
+  (G) for the purposes of advanced training, the border patrol agent—
+
+    (i) shall be paid at the level 1 border patrol rate of pay for the first 60 days of advanced training in a calendar year; and
+
+    (ii) for any advanced training in addition to the advanced training described in clause (i), shall be paid at the basic border patrol rate of pay.
+
+(3) **Level 2 border patrol rate of pay.—** — For a border patrol agent who is assigned to the level 2 border patrol rate of pay—
+
+  (A) the border patrol agent shall have a regular tour of duty consisting of 5 workdays per week with—
+
+    (i) 8 hours of regular time per workday, which may be interrupted by an unpaid off-duty meal break; and
+
+    (ii) 1 additional hour of scheduled overtime during each day the agent performs work under clause (i);
+
+  (B) for paid hours of regular time described in subparagraph (A)(i), the border patrol agent shall receive pay at the level 2 border patrol rate of pay;
+
+  (C) compensation for the hours of regularly scheduled overtime work described in subparagraph (A)(ii) is provided indirectly through the 12.5 percent supplement within the level 2 border patrol rate of pay, and the border patrol agent may not receive for such hours—
+
+    (i) any compensation in addition to the compensation under subparagraph (B) under this section or any other provision of law; or
+
+    (ii) any compensatory time off;
+
+  (D) the border patrol agent shall receive compensatory time off or pay at the overtime hourly rate of pay for hours of work in excess of 90 hours during a work period, as determined in accordance with section 5542(g);
+
+  (E) the border patrol agent shall be charged corresponding amounts of paid leave, compensatory time off, or other paid time off for each hour (or part thereof) the agent is excused from work during regular time (except that full days off for military leave shall be charged when required);
+
+  (F) if the border patrol agent is absent during scheduled overtime described in subparagraph (A)(ii)—
+
+    (i) the border patrol agent shall accrue an obligation to perform other overtime work for each hour (or part thereof) the border patrol agent is absent; and
+
+    (ii) any overtime work applied toward the obligation under clause (i) shall not be credited as overtime work under any other provision of law; and
+
+  (G) for the purposes of advanced training, the border patrol agent—
+
+    (i) shall be paid at the level 2 border patrol rate of pay for the first 60 days of advanced training in a calendar year; and
+
+    (ii) for any advanced training in addition to the advanced training described in clause (i), shall be paid at the basic border patrol rate of pay.
+
+(4) **Basic border patrol rate of pay.—** — For a border patrol agent who is assigned to the basic border patrol rate of pay—
+
+  (A) the border patrol agent shall have a regular tour of duty consisting of 5 workdays per week with 8 hours of regular time per workday; and
+
+  (B) the border patrol agent shall receive compensatory time off or pay at the overtime hourly rate of pay for hours of work in excess of 80 hours during a work period, as determined in accordance with section 5542(g).
+
+**(c) Eligibility for Other Premium Pay.—** A border patrol agent—
+
+(1) shall receive premium pay for nightwork in accordance with subsections (a) and (b) of section 5545 and Sunday and holiday pay in accordance with section 5546, without regard to the rate of pay to which the border patrol agent is assigned under this section, except that—
+
+  (A) no premium pay for night, Sunday, or holiday work shall be provided for hours of regularly scheduled overtime work described in paragraph (2)(A)(ii) or (3)(A)(ii) of subsection (b), consistent with the requirements of paragraph (2)(C) or (3)(C) of subsection (b); and
+
+  (B) section 5546(d) shall not apply and instead eligibility for pay for, and the rate of pay for, any overtime work on a Sunday or a designated holiday shall be determined in accordance with this section and section 5542(g);
+
+(2) except as provided in paragraph (3) or section 5542(g), shall not be eligible for any other form of premium pay under this title; and
+
+(3) shall be eligible for hazardous duty pay in accordance with section 5545(d).
+
+**(d) Treatment as Basic Pay.—** Any pay in addition to the basic border patrol rate of pay for a border patrol agent resulting from application of the level 1 border patrol rate of pay or the level 2 border patrol rate of pay—
+
+(1) subject to paragraph (2), shall be treated as part of basic pay solely for—
+
+  (A) purposes of sections 5595(c), 8114(e), 8331(3)(I), and 8704(c);
+
+  (B) any other purpose that the Director of the Office of Personnel Management may by regulation prescribe; and
+
+  (C) any other purpose expressly provided for by law; and
+
+(2) shall not be treated as part of basic pay for the purposes of calculating overtime pay, night pay, Sunday pay, or holiday pay under section 5542, 5545, or 5546.
+
+**(e) Travel Time.—** Travel time to and from home and duty station by a border patrol agent shall not be considered hours of work under any provision of law.
+
+**(f) Leave Without Pay and Substitution of Hours.—**
+
+(1) **Regular time.—**
+
+  (A) *In general.—* — For a period of leave without pay during the regular time of a border patrol agent (as described in paragraph (2)(A)(i), (3)(A)(i), or (4)(A) of subsection (b)) within a work period, an equal period of work outside the regular time of the border patrol agent, but in the same work period—
+
+    (i) shall be substituted and paid for at the rate applicable for the regular time; and
+
+    (ii) shall not be credited as overtime hours for any purpose.
+
+  (B) *Priority for same day work.—* — In substituting hours of work under subparagraph (A), work performed on the same day as the period of leave without pay shall be substituted first.
+
+  (C) *Priority for regular time substitution.—* — Hours of work shall be substituted for regular time work under this paragraph before being substituted for scheduled overtime under paragraphs (2), (3), and (4).
+
+(2) **Overtime work.—**
+
+  (A) *In general.—* — For a period of absence during scheduled overtime (as described in paragraph (2)(F) or (3)(F) of subsection (b)) within a work period, an equal period of additional work in the same work period—
+
+    (i) shall be substituted and credited as scheduled overtime; and
+
+    (ii) shall not be credited as overtime hours under any other provision of law.
+
+  (B) *Priority for same day work.—* — In substituting hours of work under subparagraph (A), work performed on the same day as the period of absence shall be substituted first.
+
+(3) **Application of compensatory time.—** — If a border patrol agent does not have sufficient additional work in a work period to substitute for all periods of absence during scheduled overtime (as described in paragraph (2)(F) or (3)(F) of subsection (b)) within that work period, any accrued compensatory time off under section 5542(g) shall be applied to satisfy the hours obligation.
+
+(4) **Insufficient hours.—** — If a border patrol agent has a remaining hours obligation of scheduled overtime after applying paragraphs (2) and (3), any additional work in subsequent work periods that would otherwise be credited under section 5542(g) shall be applied towards the hours obligation until that obligation is satisfied.
+
+**(g) Authority To Require Overtime Work.—** Nothing in this section shall be construed to limit the authority of U.S. Customs and Border Protection to require a border patrol agent to perform hours of overtime work in accordance with the needs of U.S. Customs and Border Protection, including if needed in the event of a local or national emergency.
 
 ### Statutory Notes
 
-Section, added Pub. L. 92–392, § 10(a), Aug. 19, 1972, 86 Stat. 574, related to pay for Sunday and overtime work for employees of nonappropriated fund instrumentalities.
+#### References in Text
+The date of enactment of this section, referred to in subsecs. (b)(1)(A) and (C), is the date of enactment of Pub. L. 113–277, which was approved Dec. 18, 2014.
+
+Section 2(e) of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsecs. (b)(1)(D)(iv) and (b)(1)(E)(ii), is section 2(e) of Pub. L. 113–277, Dec. 18, 2014, 128 Stat. 3003, which related to comprehensive staffing analysis and is not classified to the Code.
+
+The date of enactment of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsec. (b)(1)(G)(i), is the date of enactment of Pub. L. 113–277, which was approved Dec. 18, 2014.
+
+#### Prior Provisions
+A prior section 5550, added Pub. L. 92–392, § 10(a), Aug. 19, 1972, 86 Stat. 574, related to pay for Sunday and overtime work for employees of nonappropriated fund instrumentalities, prior to repeal by Pub. L. 102–378, § 2(44)(A), Oct. 2, 1992, 106 Stat. 1352.
+
+#### Minimization of Overtime
+Pub. L. 113–277, § 2(c)(2), Dec. 18, 2014, 128 Stat. 3003, provided that: “U.S. Customs and Border Protection shall, to the maximum extent practicable, avoid the use of scheduled overtime work by border patrol agents.”
 
 
 <a id="section-5550a"></a>
@@ -3348,7 +3646,8 @@ Notwithstanding other statutes, any Federal income tax return of, or the payment
 
 (1) the fifteenth day of the third month in which he ceased (except because of death or incompetency) being in a missing status, unless before the end of that fifteenth day he is again in a missing status; or
 
-(2) the fifteenth day of the third month after the month in which an executor, administrator, or conservator of the estate of the taxpayer is appointed. That due date is prescribed subject to the power of the Secretary of the Treasury or his delegate to extend the time for filing the return or paying the tax, as in other cases, and to assess and collect the tax as provided by sections 6851, 6861, and 6871 of title 26 in cases in which the assessment or collection is jeopardized and in cases of bankruptcy or receivership.
+(2) the fifteenth day of the third month after the month in which an executor, administrator, or conservator of the estate of the taxpayer is appointed.
+That due date is prescribed subject to the power of the Secretary of the Treasury or his delegate to extend the time for filing the return or paying the tax, as in other cases, and to assess and collect the tax as provided by sections 6851, 6861, and 6871 of title 26 in cases in which the assessment or collection is jeopardized and in cases of bankruptcy or receivership.
 
 ### Statutory Notes
 
@@ -3620,7 +3919,7 @@ For the purpose of this subchapter—
 
   (iii) a regional bank for cooperatives; or
 
-  (iv) the Senate within the purview of [section 36a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section36a&num=0&edition=prelim); and
+  (iv) the Senate within the purview of [section 36a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section36a&num=0&edition=prelim); 11 See References in Text note below. and
 
 (2) “money due” means the pay and allowances due on account of the services of a deceased employee for the Government of the United States or the government of the District of Columbia. It includes, but is not limited to—
 
@@ -3666,6 +3965,8 @@ In paragraph (2), the definition of “money due” is substituted for “unpaid
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### References in Text
+[Section 36a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section36a&num=0&edition=prelim), referred to in par. (1)(iv), was editorially reclassified as [section 4592 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4592&num=0&edition=prelim), The Congress.
+
 [Section 5344 of this title](./chapter-053-pay-rates-and-systems.md#section-5344), referred to in par. (2)(I), was amended generally by Pub. L. 92–392 and provisions relating to retroactive pay formerly contained in section 5344(a)(2) are contained in section 5344(b)(2).
 
 #### Amendments
@@ -3755,11 +4056,11 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 (1) if, in his opinion, there exists, in connection with the claim, an indication of fraud, misrepresentation, fault, or lack of good faith on the part of the employee or any other person having an interest in obtaining a waiver of the claim;
 
-(2) except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office, after the expiration of three years immediately following the date on which the erroneous payment of pay was discovered or three years immediately following October 21, 1968, whichever is later;
+(2) except in the case of employees of the Government Publishing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office, after the expiration of three years immediately following the date on which the erroneous payment of pay was discovered or three years immediately following October 21, 1968, whichever is later;
 
-(3) except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of three years immediately following the date on which the erroneous payment of allowances was discovered or three years immediately following October 2, 1972, whichever is later;
+(3) except in the case of employees of the Government Publishing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of three years immediately following the date on which the erroneous payment of allowances was discovered or three years immediately following October 2, 1972, whichever is later;
 
-(4) in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment of pay or allowances was discovered or 3 years immediately following July 25, 1974, whichever is later; or
+(4) in the case of employees of the Government Publishing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment of pay or allowances was discovered or 3 years immediately following July 25, 1974, whichever is later; or
 
 (5) in the case of a claim involving an erroneous payment of travel, transportation or relocation expenses and allowances, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment was discovered.
 
@@ -3775,7 +4076,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 (1) an Executive agency;
 
-(2) the Government Printing Office;
+(2) the Government Publishing Office;
 
 (3) the Library of Congress;
 
@@ -3831,11 +4132,14 @@ Subsec. (b)(2). Pub. L. 92–453 inserted “if application for waiver is receiv
 
 Subsec. (b)(3). Pub. L. 92–453 added cl. (3).
 
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in subsecs. (b)(2) to (4) and (g)(2) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
 #### Effective Date of 2005 Amendment
 Pub. L. 109–55, title I, § 1100(b), Aug. 2, 2005, 119 Stat. 577, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2006 and each succeeding fiscal year.”
 
 #### Effective Date of 1996 Amendment
-Amendment by Pub. L. 104–316 effective 60 days after Oct. 19, 1996, see section 101(e)(2) of Pub. L. 104–316, set out as a note under [section 130c of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section130c&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 104–316 effective 60 days after Oct. 19, 1996, see section 101(e)(2) of Pub. L. 104–316, set out as a note under [section 4593 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4593&num=0&edition=prelim), The Congress.
 
 #### Effective Date of 1988 Amendment
 Pub. L. 100–702, title X, § 1009(b), Nov. 19, 1988, 102 Stat. 4668, provided that: “The amendments made by this section [amending this section] shall apply with respect to any claim arising before the date of the enactment of this Act [Nov. 19, 1988] which is pending on such date, and to any claim which arises on or after such date of enactment.”
@@ -3868,7 +4172,7 @@ This section deletes sections 5591, 5592, 5593, and 5594 of title 5, United Stat
 
   (B) the Library of Congress;
 
-  (C) the Government Printing Office;
+  (C) the Government Publishing Office;
 
   (D) the government of the District of Columbia;
 
@@ -3899,7 +4203,7 @@ This section deletes sections 5591, 5592, 5593, and 5594 of title 5, United Stat
 
   (viii) an employee of the Office of the Architect of the Capitol, who is employed on a temporary when actually employed basis;
 
-  (ix) an employee of the Government Printing Office, who is employed on a temporary when actually employed basis; or
+  (ix) an employee of the Government Publishing Office, who is employed on a temporary when actually employed basis; or
 
   (x) such other employee as may be excluded by regulations of the President or such other officer or agency as he may designate.
 
@@ -3908,7 +4212,7 @@ This section deletes sections 5591, 5592, 5593, and 5594 of title 5, United Stat
 (1) has been employed currently for a continuous period of at least 12 months; and
 
 (2) is involuntarily separated from the service, not by removal for cause on charges of misconduct, delinquency, or inefficiency;
-is entitled to be paid severance pay in regular pay periods by the agency from which separated. However, the Director of the Administrative Office of the United States Courts may prescribe regulations to effect the application and operation of this section to the agencies specified in subsection (a)(1)(E) of this section. The Architect of the Capitol may prescribe regulations to effect the application and operation of this section to the agency specified in subsection (a)(1)(F) of this section. The Public Printer may prescribe regulations to effect the application and operation of this section to the agency specified in subsection (a)(1)(C) of this section.
+is entitled to be paid severance pay in regular pay periods by the agency from which separated. However, the Director of the Administrative Office of the United States Courts may prescribe regulations to effect the application and operation of this section to the agencies specified in subsection (a)(1)(E) of this section. The Architect of the Capitol may prescribe regulations to effect the application and operation of this section to the agency specified in subsection (a)(1)(F) of this section. The Director of the Government Publishing Office may prescribe regulations to effect the application and operation of this section to the agency specified in subsection (a)(1)(C) of this section.
 
 **(c)** Severance pay consists of—
 
@@ -3979,7 +4283,7 @@ Total severance pay under this section may not exceed 1 year’s pay at the rate
 
 (3) If an employee fails to repay to an agency an amount required to be repaid under paragraph (2)(A), that amount is recoverable from the employee as a debt due the United States.
 
-(4) This subsection applies with respect to severance pay payable under this section for separations taking effect on or after February 10, 1996, and before October 1, 2014.
+(4) This subsection applies with respect to severance pay payable under this section for separations taking effect on or after February 10, 1996, and before October 1, 2018.
 
 **(j)**
 
@@ -4028,6 +4332,8 @@ Section 3(a) of the Panama Canal Act of 1979, referred to in subsec. (a)(2)(iii)
 Section 609(b)(1) of the Foreign Service Act of 1980, referred to in subsec. (a)(2)(vi), is classified to [section 4009(b)(1) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4009/b/1&num=0&edition=prelim).
 
 #### Amendments
+2013—Subsec. (i)(4). Pub. L. 113–66 substituted “October 1, 2018” for “October 1, 2014”.
+
 2008—Subsec. (i)(4). Pub. L. 110–417 substituted “2014” for “2010”.
 
 2006—Subsec. (h)(5). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
@@ -4074,6 +4380,11 @@ Subsec. (b). Pub. L. 101–474, § 5(k)(2), inserted at end “However, the Dire
 
 1978—Subsec. (a)(2)(i). Pub. L. 95–454 inserted reference to a member of the Senior Executive Service.
 
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (a)(1)(C), (2)(B)(ix) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
+“Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (b), on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
 #### Effective Date of 1999 Amendment
 Amendment by section 3243 of Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as an Effective Date note under [section 2401 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2401&num=0&edition=prelim), War and National Defense.
 
@@ -4109,7 +4420,7 @@ Pub. L. 107–314, div. A, title XI, § 1102(b), Dec. 2, 2002, 116 Stat. 2660, r
 
 (3) the Library of Congress;
 
-(4) the Government Printing Office;
+(4) the Government Publishing Office;
 
 (5) the government of the District of Columbia;
 
@@ -4195,6 +4506,9 @@ Subsec. (b)(3). Pub. L. 96–465, § 2306(2), inserted “and (with respect to m
 1978—Subsec. (b). Pub. L. 95–454 substituted provisions relating to corrective measures applicable to an employee who, on the basis of a timely appeal or an administrative determination, including a decision relative to an unfair labor practice or grievance, is found by an appropriate authority under applicable law, rule, regulation, or collective bargaining agreement to have been affected by an unjustified or unwarranted personnel action, for provisions relating to corrective measures applicable to an employee who, on the basis of an administrative determination or a timely appeal, is found by an appropriate authority under applicable law or regulation to have undergone an unjustified or unwarranted personnel action.
 
 1975—Subsec. (b)(2). Pub. L. 94–172 struck out in introductory clause provision relating to prohibition on leave credit cumulated in excess of maximum allowed under law or regulations, and added subpars. (A) and (B).
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (a)(4) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–68, title III, § 309, Nov. 12, 2001, 115 Stat. 592, provided that the amendment made by section 309 is effective for all personnel actions taken on or after Nov. 12, 2001.

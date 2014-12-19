@@ -117,7 +117,7 @@ Enforcement functions of Secretary or other official in Department of the Interi
 <a id="section-322"></a>
 ## § 322. Applicability of certain provisions to Pueblo Indians
 
-are extended over and made applicable to the Pueblo Indians of New Mexico and their lands, whether owned by the Pueblo Indians or held in trust or set aside for their use and occupancy by Executive order or otherwise, under such rules, regulations, and conditions as the Secretary of the Interior may prescribe.
+The provisions of the following statutes:
 
 ### Statutory Notes
 

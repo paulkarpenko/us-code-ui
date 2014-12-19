@@ -183,7 +183,8 @@ Sections 1 to 7 of this title shall not apply to conduct involving trade or comm
 
   (B) on export trade or export commerce with foreign nations, of a person engaged in such trade or commerce in the United States; and
 
-(2) such effect gives rise to a claim under the provisions of sections 1 to 7 of this title, other than this section. If sections 1 to 7 of this title apply to such conduct only because of the operation of paragraph (1)(B), then sections 1 to 7 of this title shall apply to such conduct only for injury to export business in the United States.
+(2) such effect gives rise to a claim under the provisions of sections 1 to 7 of this title, other than this section.
+If sections 1 to 7 of this title apply to such conduct only because of the operation of paragraph (1)(B), then sections 1 to 7 of this title shall apply to such conduct only for injury to export business in the United States.
 
 ### Statutory Notes
 
@@ -489,7 +490,8 @@ Monetary relief recovered in an action under [section 15c(a)(1) of this title](h
 
 (1) be distributed in such manner as the district court in its discretion may authorize; or
 
-(2) be deemed a civil penalty by the court and deposited with the State as general revenues; subject in either case to the requirement that any distribution procedure adopted afford each person a reasonable opportunity to secure his appropriate portion of the net monetary relief.
+(2) be deemed a civil penalty by the court and deposited with the State as general revenues;
+subject in either case to the requirement that any distribution procedure adopted afford each person a reasonable opportunity to secure his appropriate portion of the net monetary relief.
 
 ### Statutory Notes
 

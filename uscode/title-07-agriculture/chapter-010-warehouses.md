@@ -88,7 +88,7 @@ Pub. L. 106–472, title II, § 202, Nov. 9, 2000, 114 Stat. 2068, provided that
 
   (B) rules to determine security interests of persons affected by this chapter.
 
-**(i) Examination and audits** In addition to the authority provided under subsection (l) of this section, on request of the person, State agency, or commodity exchange, the Secretary may conduct an examination, audit, or similar activity with respect to—
+**(i) Examination and audits** In addition to the authority provided under subsection (l), on request of the person, State agency, or commodity exchange, the Secretary may conduct an examination, audit, or similar activity with respect to—
 
 (1) any person that is engaged in the business of storing an agricultural product that is subject to this chapter;
 
@@ -146,7 +146,7 @@ A prior section 3 of act Aug. 11, 1916, ch. 313, pt. C, was classified to [secti
 
 **(c) Treatment of fees** All fees collected under this section shall be credited to the account that incurs the costs of administering this chapter and shall be available to the Secretary without further appropriation and without fiscal year limitation.
 
-**(d) Interest** Funds collected under this section may be deposited in an interest-bearing account with a financial institution, and any interest earned on the account shall be credited under subsection (c) of this section.
+**(d) Interest** Funds collected under this section may be deposited in an interest-bearing account with a financial institution, and any interest earned on the account shall be credited under subsection (c).
 
 **(e) Efficiencies and cost effectiveness**
 
@@ -179,7 +179,7 @@ A prior section 5 of act Aug. 11, 1916, ch. 313, pt. C, was classified to [secti
 ## § 245. Bonding and other financial assurance requirements
 **(a) In general** As a condition of receiving a license or approval under this chapter (including regulations promulgated under this chapter), the person applying for the license or approval shall execute and file with the Secretary a bond, or provide such other financial assurance as the Secretary determines appropriate, to secure the person’s performance of the activities so licensed or approved.
 
-**(b) Service of process** To qualify as a suitable bond or other financial assurance under subsection (a) of this section, the surety, sureties, or financial institution shall be subject to service of process in suits on the bond or other financial assurance in the State, district, or territory in which the warehouse is located.
+**(b) Service of process** To qualify as a suitable bond or other financial assurance under subsection (a), the surety, sureties, or financial institution shall be subject to service of process in suits on the bond or other financial assurance in the State, district, or territory in which the warehouse is located.
 
 **(c) Additional assurances** If the Secretary determines that a previously approved bond or other financial assurance is insufficient, the Secretary may suspend or revoke the license or approval covered by the bond or other financial assurance if the person that filed the bond or other financial assurance does not provide such additional bond or other financial assurance as the Secretary determines appropriate.
 
@@ -248,7 +248,7 @@ A prior section 248, acts Aug. 11, 1916, ch. 313, pt. C, § 9, 39 Stat. 487; Mar
 ## § 249. Transfer of stored agricultural products
 **(a) In general** In accordance with regulations promulgated under this chapter, a warehouse operator may transfer a stored agricultural product from one warehouse to another warehouse for continued storage.
 
-**(b) Continued duty** The warehouse operator from which agricultural products have been transferred under subsection (a) of this section shall deliver to the rightful owner of such products, on request at the original warehouse, such products in the quantity and of the kind, quality, and grade called for by the receipt or other evidence of storage of the owner.
+**(b) Continued duty** The warehouse operator from which agricultural products have been transferred under subsection (a) shall deliver to the rightful owner of such products, on request at the original warehouse, such products in the quantity and of the kind, quality, and grade called for by the receipt or other evidence of storage of the owner.
 
 ### Statutory Notes
 

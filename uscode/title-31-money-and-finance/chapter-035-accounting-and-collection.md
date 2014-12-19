@@ -88,7 +88,7 @@ Pub. L. 101–576, title III, § 307, Nov. 15, 1990, 104 Stat. 2855, provided th
 ## § 3512. Executive agency accounting and other financial management reports and plans
 **(a)**
 
-(1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress a financial management status report and a governmentwide 5-year financial management plan.
+(1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress and make available on the website described under section 1122 a financial management status report and a governmentwide 5-year financial management plan.
 
 (2) A financial management status report under this subsection shall include—
 
@@ -261,6 +261,8 @@ The Federal Financial Management Improvement Act of 1996, referred to in subsec.
 The date of the enactment of this subsection, referred to in subsec. (a)(4)(A), is the date of enactment of Pub. L. 101–576, which added subsec. (a) and was approved Nov. 15, 1990.
 
 #### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–101, which directed the insertion of “and make available on the website described under section 1122” after “appropriate committees of Congress” was executed by making the insertion after “appropriate committees of the Congress” to reflect the probable intent of Congress.
+
 1996—Subsec. (a)(2)(E), (F). Pub. L. 104–208 added subpar. (E) and redesignated former subpar. (E) as (F).
 
 1994—Subsec. (c)(1). Pub. L. 103–272, § 4(f)(1)(J)(i), substituted “subsection (b)(3)” for “subsection (a)(3)” in introductory provisions.
@@ -1695,13 +1697,33 @@ Pub. L. 103–355, title I, § 1403(b)(4), Oct. 13, 1994, 108 Stat. 3290, provid
 
   (B) in the case of a filing of a paper at the Government Accountability Office or a Federal agency, such last day is a day on which weather or other conditions cause the closing of the Government Accountability Office or Federal agency, in which event the next day that is not a Saturday, Sunday, or legal holiday shall be included.
 
-**(c)** The Comptroller General may prescribe procedures for the electronic filing and dissemination of documents and information required under this subchapter. In prescribing such procedures, the Comptroller General shall consider the ability of all parties to achieve electronic access to such documents and records.
+**(c) Electronic Filing and Document Dissemination System.—**
+
+(1) **Establishment and operation of system.—** — The Comptroller General shall establish and operate an electronic filing and document dissemination system under which, in accordance with procedures prescribed by the Comptroller General—
+
+  (A) a person filing a protest under this subchapter may file the protest through electronic means; and
+
+  (B) all documents and information required with respect to the protest may be disseminated and made available to the parties to the protest through electronic means.
+
+(2) **Imposition of fees.—**
+
+  (A) *In general.—* — The Comptroller General may require each person who files a protest under this subchapter to pay a fee to support the establishment and operation of the electronic system under this subsection, without regard to whether or not the person uses the system with respect to the protest.
+
+  (B) *Amount.—* — The Comptroller General shall establish (and from time to time shall update) a schedule setting forth the amount of the fee to be paid under subparagraph (A).
+
+(3) **Treatment of amounts collected.—**
+
+  (A) *Establishment of account.—* — The Comptroller General shall maintain a separate account among the accounts of the Government Accountability Office for the electronic system under this subsection, and shall deposit all amounts received as fees under paragraph (2) into the account.
+
+  (B) *Use of amounts.—* — Amounts in the account maintained under this paragraph shall be available to the Comptroller General, without fiscal year limitation, solely to establish and operate the electronic system under this subsection.
 
 **(d)** The Comptroller General may use any authority available under chapter 7 of this title and this chapter to verify assertions made by parties in protests under this subchapter.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–76 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Comptroller General may prescribe procedures for the electronic filing and dissemination of documents and information required under this subchapter. In prescribing such procedures, the Comptroller General shall consider the ability of all parties to achieve electronic access to such documents and records.”
+
 2004—Subsec. (b)(2)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
 1994—Subsec. (a). Pub. L. 103–355, § 1404(c), substituted “The Comptroller General” for “Not later than January 15, 1985, the Comptroller General”.
@@ -1769,7 +1791,8 @@ Section, added Pub. L. 107–107, div. A, title VIII, § 831(a)(1), Dec. 28, 200
 (1) To reimburse the actual expenses incurred by the executive agency in the administration of the program.
 
 (2) To pay contractors for services under the program in accordance with the guidance issued under section 3561(c)(5) 1 of this title.
-[(b), (c). Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231.]
+
+**(b)** , (c). Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231.]
 
 ### Statutory Notes
 

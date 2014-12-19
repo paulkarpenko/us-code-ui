@@ -673,7 +673,7 @@ In subsection (e), the words “and education” are omitted as being included i
 In subsection (f)(1), the words “(relating to coordination of Federal information policy)” are omitted as surplus.
 
 #### Amendments
-2012—Subsec. (e)(2). Pub. L. 112–141 inserted “through a competitive process” after “shall be made” and struck out “hazmat employee” after “nonprofit”.
+2012—Subsec. (e)(2). Pub. L. 112–141 inserted “through a competitive process” after “shall be made” and struck out “hazmat employee” after “nonprofit” in introductory provisions.
 
 2005—Subsecs. (a) to (d). Pub. L. 109–59, § 7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions of subsecs. (a) to (c) and “Secretary shall” for “Secretary of Transportation shall” in introductory provisions of subsec. (d).
 
@@ -1170,7 +1170,7 @@ In subsection (e), the words “superseding or otherwise”, “application of�
 In subsection (f), the word “modify” is omitted as surplus and for consistency in the revised title. The words “issued by the Department of Transportation before November 16, 1990, and” are omitted as obsolete.
 
 #### Amendments
-2012—Subsec. (c). Pub. L. 112–141, § 33013(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+2012—Subsec. (c). Pub. L. 112–141 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 2005—Subsec. (a)(1). Pub. L. 109–59 substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 
@@ -1561,10 +1561,10 @@ Subsecs. (j), (k). Pub. L. 103–311, § 119(a), added subsecs. (j) and (k).
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Effective Date of 1996 Amendment
-Pub. L. 104–287, § 6(b), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by that section is effective Aug. 26, 1994.
+Pub. L. 104–287, § 6(b), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by section 6(b) is effective Aug. 26, 1994.
 
 #### Effective Date of 1994 Amendment
-Pub. L. 103–429, § 7(c), Oct. 31, 1994, 108 Stat. 4389, provided that the amendment made by that section is effective Aug. 26, 1994.
+Pub. L. 103–429, § 7(c), Oct. 31, 1994, 108 Stat. 4389, provided that the amendment made by section 7(c) is effective Aug. 26, 1994.
 
 
 <a id="section-5117"></a>
@@ -2373,23 +2373,39 @@ A prior section 5127 was renumbered [section 5128 of this title](./chapter-051-t
 ## § 5128. Authorization of appropriations
 **(a) In General.—** There are authorized to be appropriated to the Secretary to carry out this chapter (except sections 5107(e), 5108(g)(2), 5113, 5115, 5116, and 5119)—
 
-(1) $42,338,000 for fiscal year 2013; and
+(1) $42,338,000 for fiscal year 2013;
 
-(2) $42,762,000 for fiscal year 2014.
+(2) $42,762,000 for fiscal year 2014; and
 
-**(b) Hazardous Materials Emergency Preparedness Fund.—** From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend, during each of fiscal years 2013 and 2014—
+(3) $28,468,948 for the period beginning on October 1, 2014, and ending on May 31, 2015.
 
-(1) $188,000 to carry out section 5115;
+**(b) Hazardous Materials Emergency Preparedness Fund.—**
 
-(2) $21,800,000 to carry out subsections (a) and (b) of section 5116, of which not less than $13,650,000 shall be available to carry out section 5116(b);
+(1) **Fiscal years 2013 and 2014.—** — From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend, during each of fiscal years 2013 and 2014—
 
-(3) $150,000 to carry out section 5116(f);
+  (A) $188,000 to carry out section 5115;
 
-(4) $625,000 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+  (B) $21,800,000 to carry out subsections (a) and (b) of section 5116, of which not less than $13,650,000 shall be available to carry out section 5116(b);
 
-(5) $1,000,000 to carry out section 5116(j).
+  (C) $150,000 to carry out section 5116(f);
 
-**(c) Hazardous Materials Training Grants.—** From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(i), the Secretary may expend $4,000,000 for each of the fiscal years 2013 and 2014 to carry out section 5107(e).
+  (D) $625,000 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+
+  (E) $1,000,000 to carry out section 5116(j).
+
+(2) **Fiscal year 2015.—** — From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on May 31, 2015—
+
+  (A) $125,162 to carry out section 5115;
+
+  (B) $14,513,425 to carry out subsections (a) and (b) of section 5116, of which not less than $9,087,534 shall be available to carry out section 5116(b);
+
+  (C) $99,863 to carry out section 5116(f);
+
+  (D) $416,096 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+
+  (E) $665,753 to carry out section 5116(j).
+
+**(c) Hazardous Materials Training Grants.—** From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(i), the Secretary may expend $4,000,000 for each of the fiscal years 2013 and 2014 and $2,663,014 for the period beginning on October 1, 2014, and ending on May 31, 2015, to carry out section 5107(e).
 
 **(d) Credits to Appropriations.—**
 
@@ -2420,6 +2436,12 @@ In subsection (c), the text of 49 App.:1815(i)(3)(A) is omitted as obsolete.
 In subsection (c)(2), the words “relating to dissemination of the curriculum” are omitted as surplus.
 
 #### Amendments
+2014—Subsec. (a)(3). Pub. L. 113–159, § 1301(a), added par. (3).
+
+Subsec. (b). Pub. L. 113–159, § 1301(b), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and realigned margins, and added par. (2).
+
+Subsec. (c). Pub. L. 113–159, § 1301(c), inserted “and $2,663,014 for the period beginning on October 1, 2014, and ending on May 31, 2015,” after “2014”.
+
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2005 to 2008.
 
 2008—Pub. L. 110–244 substituted “Authorization” for “Authorizations” in section catchline.

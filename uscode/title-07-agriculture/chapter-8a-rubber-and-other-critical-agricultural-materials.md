@@ -72,7 +72,7 @@ In the second sentence of subsec. (a), the words “and the compensation of the 
 Subsecs. (e), (f). Act Oct. 20, 1942, § 6, added subsecs. (e) and (f).
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
 
 
 <a id="section-173"></a>
@@ -186,7 +186,7 @@ Subsec. (e). Pub. L. 98–284, § 3(b), struck out subsec. (e) which defined “
 
 **(b) Membership** The Joint Commission shall consist of the following members: Three individuals designated by the Secretary of Agriculture from among the staff of the Department of Agriculture; three individuals designated by the Secretary of Commerce from among the staff of the Department of Commerce; a representative of the Bureau of Indian Affairs of the Department of the Interior; a representative of the National Science Foundation; a representative of the Department of State; a representative of the Department of Defense; and a representative of the Federal Emergency Management Agency. Each of the members of the Joint Commission shall be an individual who, on behalf of the Department or agency which such individual represents, is engaged in the support of research, development, demonstration, and commercialization activities involving native latex and the production of other critical agricultural materials from native agricultural crops.
 
-**(c) Chairman** The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b) of this section.
+**(c) Chairman** The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b).
 
 **(d) Delegation of responsibilities to Joint Commission; transfer and use of appropriated funds** The Secretaries may delegate to the Joint Commission one or more of their responsibilities under this subchapter, and transfer to the Joint Commission funds appropriated to carry out the purposes of this subchapter as they deem appropriate to achieve the purposes of this subchapter, and the Joint Commission is authorized to carry out such functions and expend such funds to achieve the purposes of the subchapter.
 
@@ -213,7 +213,7 @@ Subsec. (e). Pub. L. 98–284, § 3(b), struck out subsec. (e) which defined “
 
 Subsec. (b). Pub. L. 98–284, § 4(b), struck out provision mandating that two of the designees of the Secretary of Commerce be Federal Cochairmen of Regional Commissions engaged in the support of native latex research, development, demonstration, or commercialization activities, inserted provisions for the appointment of a representative of the Department of State, a representative of the Department of Defense, and a representative of the Federal Emergency Management Agency, and inserted provisions that each of the members of the Joint Commission be an individual who, on behalf of the Department or agency which such individual represents, is engaged in the support of research, development, demonstration, and commercialization activities involving native latex and the production of other critical agricultural materials from native agricultural crops.
 
-Subsec. (c). Pub. L. 98–284, § 4(c), substituted “The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b) of this section” for “The Joint Commission shall be headed by a Chairman. The Secretary of Agriculture shall designate one of the two members from his Department to serve as Joint Commission Chairman during the first two-year period following November 4, 1978, and the Secretary of Commerce shall designate one of the two members from his Department as Joint Commission Chairman during the second two-year period following November 4, 1978. And the same process of designating Joint Commission Chairmen shall be followed in ensuing years”.
+Subsec. (c). Pub. L. 98–284, § 4(c), substituted “The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b)” for “The Joint Commission shall be headed by a Chairman. The Secretary of Agriculture shall designate one of the two members from his Department to serve as Joint Commission Chairman during the first two-year period following November 4, 1978, and the Secretary of Commerce shall designate one of the two members from his Department as Joint Commission Chairman during the second two-year period following November 4, 1978. And the same process of designating Joint Commission Chairmen shall be followed in ensuing years”.
 
 Subsec. (h). Pub. L. 98–284, § 4(d), substituted “manufacturing and commerce involving rubber and other critical agricultural materials” for “rubber manufacturing and commerce”.
 
@@ -249,7 +249,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **(c) Office of Critical Agricultural Materials** The Secretary of Agriculture shall establish within the Department of Agriculture an Office of Critical Agricultural Materials, as a central location where such Department can address research and development with respect to agricultural crops that have the potential of producing critical materials for strategic and industrial purposes.
 
-**(d) Authority of Secretary in carrying out demonstration project** Notwithstanding any other provision of law, in carrying out a demonstration project referred to in subsection (b)(9) of this section, the Secretary may—
+**(d) Authority of Secretary in carrying out demonstration project** Notwithstanding any other provision of law, in carrying out a demonstration project referred to in subsection (b)(9), the Secretary may—
 
 (1) enter into a contract or cooperative agreement with, or provide a grant to, any person, or public or private agency or organization, to participate in, carry out, support, or stimulate such project;
 
@@ -461,9 +461,13 @@ The Secretaries shall submit to the President and the Congress, no later than De
 
 <a id="section-178n"></a>
 ## § 178n. Administration and funding
-**(a) Authorization of appropriations to Secretary of Agriculture** There are authorized to be appropriated to the Secretary of Agriculture such sums as are necessary to carry out this subchapter in each of the fiscal years 1991 through 2012.
+**(a) Authorization of appropriations to Secretary of Agriculture** There are authorized to be appropriated to the Secretary of Agriculture to carry out this subchapter—
 
-**(b) Administration and management** No more than 3 per centum of funds authorized under subsection (a) of this section shall be available for administration and management of the program.
+(1) such sums as are necessary for each of fiscal years 1991 through 2013; and
+
+(2) $2,000,000 for each of fiscal years 2014 through 2018.
+
+**(b) Administration and management** No more than 3 per centum of funds authorized under subsection (a) shall be available for administration and management of the program.
 
 **(c) Contract authority as limited by amounts provided in appropriations acts** Notwithstanding any other provision of this subchapter the authority to enter into contracts shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriations Acts.
 
@@ -475,6 +479,8 @@ The Secretaries shall submit to the President and the Congress, no later than De
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–79 struck out “such sums as are necessary” after “Agriculture”, substituted “subchapter—” for “subchapter in each of the fiscal years 1991 through 2012.”, and added pars. (1) and (2).
+
 2008—Subsec. (a). Pub. L. 110–246, § 7401, substituted “2012” for “2007”.
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
@@ -496,4 +502,4 @@ Subsec. (b). Pub. L. 98–284, § 15(b), inserted “$2,500,000 for the fiscal y
 Subsec. (e). Pub. L. 98–284, § 15(c), added subsec. (e).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).

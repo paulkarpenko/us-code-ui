@@ -2,7 +2,7 @@
 title: 33
 chapter: '12'
 heading: RIVER AND HARBOR IMPROVEMENTS GENERALLY
-section_count: 111
+section_count: 114
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -371,7 +371,7 @@ Secretary means the Secretary of the Army, see [section 2201 of this title](./ch
 <a id="section-556"></a>
 ## § 556. Printing reports generally
 
-The Secretary of the Army shall cause the manuscript of the annual report of the Chief of Engineers and subordinate engineers, relating to the improvement of rivers and harbors, and the report of the Mississippi River Commission to be placed in the hands of the Public Printer on or before the 15th day of October in each year, and the Public Printer shall cause said reports to be printed with an accurate and comprehensive index thereof, on or before the first Monday in December in each year, for the use of Congress.
+The Secretary of the Army shall cause the manuscript of the annual report of the Chief of Engineers and subordinate engineers, relating to the improvement of rivers and harbors, and the report of the Mississippi River Commission to be placed in the hands of the Director of the Government Publishing Office on or before the 15th day of October in each year, and the Director of the Government Publishing Office shall cause said reports to be printed with an accurate and comprehensive index thereof, on or before the first Monday in December in each year, for the use of Congress.
 
 ### Statutory Notes
 
@@ -386,6 +386,8 @@ The second paragraph of this section is from the last paragraph of section 3 of 
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+
+“Director of the Government Publishing Office” substituted for “Public Printer” in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Compilation and Printing of Laws
 Act June 5, 1920, ch. 252, § 6, 41 Stat. 1014, as amended by act Mar. 3, 1925, ch. 467, § 4, 43 Stat. 1190, provided for compilation and printing of laws relating to improvement of rivers and harbors, passed between Mar. 4, 1913, until and including laws of second session of Sixty-eighth Congress.
@@ -713,7 +715,12 @@ The Federal Property and Administrative Services Act of 1949, referred to in tex
 <a id="section-569c"></a>
 ## § 569c. Services of volunteers
 
-The United States Army Chief of Engineers may accept the services of volunteers and provide for their incidental expenses to carry out any activity of the Army Corps of Engineers except policy-making or law or regulatory enforcement. Such volunteers shall not be employees of the United States Government except for the purposes of (1) chapter 171 of title 28, relating to tort claims, and (2) chapter 81 of title 5, relating to compensation for work injuries.
+The United States Army Chief of Engineers may accept the services of volunteers and provide for their incidental expenses, including expenses relating to uniforms, transportation, lodging, and the subsistence of those volunteers, to carry out any activity of the Army Corps of Engineers except policy-making or law or regulatory enforcement. Such volunteers shall not be employees of the United States Government except for the purposes of (1) chapter 171 of title 28, relating to tort claims, and (2) chapter 81 of title 5, relating to compensation for work injuries.
+
+### Statutory Notes
+
+#### Amendments
+2014—Pub. L. 113–121, which directed amendment in the first sentence of chapter IV of title I of Public Law 98–63 ([33 U.S.C. 569c](./chapter-012-river-and-harbor-improvements-generally.md#section-569c)) by inserting “, including expenses relating to uniforms, transportation, lodging, and the subsistence of those volunteers,” after “incidental expenses”, was executed by making the insertion in the first sentence of this section to reflect the probable intent of Congress.
 
 
 <a id="section-569d"></a>
@@ -883,9 +890,9 @@ The Civil Functions Appropriations Act, 1954, referred to in text, is act July 2
 
 <a id="section-577"></a>
 ## § 577. Small river and harbor improvement projects
-**(a) Allotment from appropriations for construction** The Secretary of the Army is authorized to allot from any appropriations hereafter made for rivers and harbors not to exceed $35,000,000 for any one fiscal year for the construction of small river and harbor improvement projects not specifically authorized by Congress which will result in substantial benefits to navigation and which can be operated consistently with appropriate and economic use of the waters of the Nation for other purposes, when in the opinion of the Chief of Engineers such work is advisable, if benefits are in excess of the cost.
+**(a) Allotment from appropriations for construction** The Secretary of the Army is authorized to allot from any appropriations hereafter made for rivers and harbors not to exceed $50,000,000 for any one fiscal year for the construction of small river and harbor improvement projects not specifically authorized by Congress which will result in substantial benefits to navigation and which can be operated consistently with appropriate and economic use of the waters of the Nation for other purposes, when in the opinion of the Chief of Engineers such work is advisable, if benefits are in excess of the cost.
 
-**(b) Limitation on allotment** Not more than $7,000,000 shall be allotted for the construction of a project under this section at any single locality and the amount allotted shall be sufficient to complete the Federal participation in the project under this section.
+**(b) Limitation on allotment** Not more than $10,000,000 shall be allotted for the construction of a project under this section at any single locality and the amount allotted shall be sufficient to complete the Federal participation in the project under this section.
 
 **(c) Lands, easements, and rights-of-way; indemnification; assurances of local cooperation** Local interests shall provide without cost to the United States all necessary lands, easements and rights-of-way for all projects to be constructed under the authority of this section. In addition, local interests may be required to hold and save the United States free from damages that may result from the construction and maintenance of the project and may be required to provide such additional local cooperation as the Chief of Engineers deems appropriate. A State, county, municipality or other responsible local entity shall give assurance satisfactory to the Chief of Engineers that such conditions of cooperation as are required will be accomplished.
 
@@ -898,6 +905,10 @@ The Civil Functions Appropriations Act, 1954, referred to in text, is act July 2
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–121, § 1030(b)(1), substituted “$50,000,000” for “$35,000,000”.
+
+Subsec. (b). Pub. L. 113–121, § 1030(b)(2), substituted “$10,000,000” for “$7,000,000”.
+
 2007—Subsec. (b). Pub. L. 110–114 substituted “$7,000,000” for “$4,000,000”.
 
 1986—Subsec. (a). Pub. L. 99–662 substituted “$35,000,000” for “$25,000,000”.
@@ -982,6 +993,44 @@ Section, Pub. L. 93–251, title I, § 12, Mar. 7, 1974, 88 Stat. 16; H. Res. 98
 
 (2) Notwithstanding section 3003 of Public Law 104–66 ([31 U.S.C. 1113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim) note; 109 Stat. 734), every year after the transmittal of the list under paragraph (1), the Secretary shall transmit to Congress a list of projects or separable elements of projects which have been authorized, but have received no obligations during the 5 full fiscal years preceding the transmittal of such list. Upon submission of such list to Congress, the Secretary shall notify each Senator in whose State, and each Member of the House of Representatives in whose district, a project (including any part thereof) on such list would be located. A project or separable element included in such list is not authorized after the date which is the last date of the fiscal year following the fiscal year in which the list is so transmitted if funds have not been obligated for the planning, design, or construction of such project or element during such period.
 
+(3) **Minimum funding list.—** — At the end of each fiscal year, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, and make available on a publicly accessible Internet site in a manner that is downloadable, searchable, and sortable, a list of—
+
+  (A) projects or separable elements of projects authorized for construction for which funding has been obligated during the current fiscal year or any of the 6 preceding fiscal years;
+
+  (B) the amount of funding obligated for each such project or separable element per fiscal year;
+
+  (C) the current phase of each such project or separable element of a project; and
+
+  (D) the amount required to complete the current phase of each such project or separable element.
+
+(4) **Comprehensive backlog report.—**
+
+  (A) *In general.—* — The Secretary shall compile and publish a complete list of all projects and separable elements of projects of the Corps of Engineers that are authorized for construction but have not been completed.
+
+  (B) *Required information.—* — The Secretary shall include on the list developed under subparagraph (A) for each project and separable element on that list—
+
+    (i) the date of authorization of the project or separable element, including any subsequent modifications to the original authorization;
+
+    (ii) the original budget authority for the project or separable element;
+
+    (iii) a brief description of the project or separable element;
+
+    (iv) the estimated date of completion of the project or separable element;
+
+    (v) the estimated cost of completion of the project or separable element; and
+
+    (vi) any amounts appropriated for the project or separable element that remain unobligated.
+
+  (C) *Publication.—*
+
+    (i) *In general.—* — Not later than 1 year after June 10, 2014, the Secretary shall submit a copy of the list developed under subparagraph (A) to—
+
+      (I) the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+      (II) the Director of the Office of Management and Budget.
+
+    (ii) *Public availability.—* — Beginning on the date the Secretary submits the report to Congress under clause (i), the Secretary shall make a copy of the list available on a publicly accessible Internet site in a manner that is downloadable, searchable, and sortable.
+
 **(c) Deauthorized list; publication in Federal Register** The Secretary shall publish in the Federal Register a list of any projects or separable elements that are deauthorized under this section.
 
 ### Statutory Notes
@@ -990,6 +1039,8 @@ Section, Pub. L. 93–251, title I, § 12, Mar. 7, 1974, 88 Stat. 16; H. Res. 98
 This Act, referred to in subsec. (a), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
 
 #### Amendments
+2014—Subsec. (b)(3), (4). Pub. L. 113–121 added pars. (3) and (4).
+
 2007—Subsec. (b)(2). Pub. L. 110–114, § 2046(3), which directed the substitution of “such period” for “such 30 month period” in last sentence, was executed by making the substitution for “such 30-month period” to reflect the probable intent of Congress.
 
 Pub. L. 110–114, § 2046(2), in last sentence, substituted “the last date of the fiscal year following the fiscal year in which” for “30 months after the date”.
@@ -1007,6 +1058,144 @@ Pub. L. 100–676, § 52(a), Nov. 17, 1988, 102 Stat. 4044, which provided that 
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-579b"></a>
+## § 579b. Deauthorization of inactive projects
+**(a) Purposes** The purposes of this section are—
+
+(1) to identify $18,000,000,000 in water resources development projects authorized by Congress that are no longer viable for construction due to—
+
+  (A) a lack of local support;
+
+  (B) a lack of available Federal or non-Federal resources; or
+
+  (C) an authorizing purpose that is no longer relevant or feasible;
+
+(2) to create an expedited and definitive process to deauthorize water resources development projects that are no longer viable for construction; and
+
+(3) to allow the continued authorization of water resources development projects that are viable for construction.
+
+**(b) Omitted**
+
+**(c) Interim deauthorization list**
+
+(1) **In general** — The Secretary shall develop an interim deauthorization list that identifies each water resources development project, or separable element of a project, authorized for construction before November 8, 2007, for which—
+
+  (A) construction was not initiated before June 10, 2014; or
+
+  (B) construction was initiated before June 10, 2014, but for which no funds, Federal or non-Federal, were obligated for construction of the project or separable element of the project during the current fiscal year or any of the 6 preceding fiscal years.
+
+(2) **Special rule for projects receiving funds for post-authorization study** — A project or separable element of a project may not be identified on the interim deauthorization list, or the final deauthorization list developed under subsection (d), if the project or separable element received funding for a post-authorization study during the current fiscal year or any of the 6 preceding fiscal years.
+
+(3) **Public comment and consultation**
+
+  (A) *In general* — The Secretary shall solicit comments from the public and the Governors of each applicable State on the interim deauthorization list developed under paragraph (1).
+
+  (B) *Comment period* — The public comment period shall be 90 days.
+
+(4) **Submission to Congress; publication** — Not later than 90 days after the date of submission of the list required by [section 579a(b)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section579a/b/4/A&num=0&edition=prelim) (as added by subsection (b)), the Secretary shall—
+
+  (A) submit the interim deauthorization list to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+  (B) publish the interim deauthorization list in the Federal Register.
+
+**(d) Final deauthorization list**
+
+(1) **In general** — The Secretary shall develop a final deauthorization list of each water resources development project, or separable element of a project, described in subsection (c)(1) that is identified pursuant to this subsection.
+
+(2) **Deauthorization amount**
+
+  (A) *In general* — The Secretary shall include on the final deauthorization list projects and separable elements of projects that have, in the aggregate, an estimated Federal cost to complete that is at least $18,000,000,000.
+
+  (B) *Determination of Federal cost to complete* — For purposes of subparagraph (A), the Federal cost to complete shall take into account any allowances authorized by [section 2280 of this title](./chapter-036-water-resources-development.md#section-2280), as applied to the most recent project schedule and cost estimate.
+
+(3) **Identification of projects**
+
+  (A) *Sequencing of projects*
+
+    (i) *In general* — The Secretary shall identify projects and separable elements of projects for inclusion on the final deauthorization list according to the order in which the projects and separable elements of the projects were authorized, beginning with the earliest authorized projects and separable elements of projects and ending once the last project or separable element of a project necessary to meet the aggregate amount under paragraph (2) is identified.
+
+    (ii) *Factors to consider* — The Secretary may identify projects and separable elements of projects in an order other than that established by clause (i) if the Secretary determines, on a case-by-case basis, that a project or separable element of a project is critical for interests of the United States, based on the possible impact of the project or separable element of the project on public health and safety, the national economy, or the environment.
+
+    (iii) *Consideration of public comments* — In making determinations under clause (ii), the Secretary shall consider any comments received under subsection (c)(3).
+
+  (B) *Appendix* — The Secretary shall include as part of the final deauthorization list an appendix that—
+
+    (i) identifies each project or separable element of a project on the interim deauthorization list developed under subsection (c) that is not included on the final deauthorization list; and
+
+    (ii) describes the reasons why the project or separable element is not included.
+
+(4) **Submission to Congress; publication** — Not later than 120 days after the date on which the public comment period under subsection (c)(3) expires, the Secretary shall—
+
+  (A) submit the final deauthorization list and the appendix to the final deauthorization list to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+  (B) publish the final deauthorization list and the appendix to the final deauthorization list in the Federal Register.
+
+**(e) Deauthorization; congressional review**
+
+(1) **In general** — After the expiration of the 180-day period beginning on the date of submission of the final deauthorization report under subsection (d), a project or separable element of a project identified in the report is hereby deauthorized, unless Congress passes a joint resolution disapproving the final deauthorization report prior to the end of such period.
+
+(2) **Non-Federal contributions**
+
+  (A) *In general* — A project or separable element of a project identified in the final deauthorization report under subsection (d) shall not be deauthorized under this subsection if, before the expiration of the 180-day period referred to in paragraph (1), the non-Federal interest for the project or separable element of the project provides sufficient funds to complete the project or separable element of the project.
+
+  (B) *Treatment of projects* — Notwithstanding subparagraph (A), each project and separable element of a project identified in the final deauthorization report shall be treated as deauthorized for purposes of the aggregate deauthorization amount specified in subsection (d)(2).
+
+**(f) General provisions**
+
+(1) **Definitions** — In this section:
+
+  (A) *Post-authorization study* — The term “post-authorization study” means—
+
+    (i) a feasibility report developed under [section 2282 of this title](./chapter-036-water-resources-development.md#section-2282);
+
+    (ii) a feasibility study, as defined in [section 2215(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2215/d&num=0&edition=prelim); or
+
+    (iii) a review conducted under [section 549a of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-549a), including an initial appraisal that—
+
+      (I) demonstrates a Federal interest; and
+
+      (II) requires additional analysis for the project or separable element.
+
+  (B) *Water resources development project* — The term “water resources development project” includes an environmental infrastructure assistance project or program of the Corps of Engineers.
+
+(2) **Treatment of project modifications** — For purposes of this section, if an authorized water resources development project or separable element of the project has been modified by an Act of Congress, the date of the authorization of the project or separable element shall be deemed to be the date of the most recent such modification.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 6001 of Pub. L. 113–121. Subsec. (b) of section 6001 of Pub. L. 113–121 amended [section 579a of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-579a).
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-579c"></a>
+## § 579c. Backlog prevention
+**(a) Project deauthorization**
+
+(1) **In general** — A water resources development project, or separable element of such a project, authorized for construction by this Act shall not be authorized after the last day of the 7-year period beginning on June 10, 2014, unless funds have been obligated for construction of such project during that period.
+
+(2) **Identification of projects** — Not later than 60 days after the expiration of the 7-year period referred to in paragraph (1), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that identifies the projects deauthorized under paragraph (1).
+
+**(b) Report to Congress** Not later than 60 days after the expiration of the 12-year period beginning on June 10, 2014, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, and make available to the public, a report that contains—
+
+(1) a list of any water resources development projects authorized by this Act for which construction has not been completed during that period;
+
+(2) a description of the reasons the projects were not completed;
+
+(3) a schedule for the completion of the projects based on expected levels of appropriations; and
+
+(4) a 5-year and 10-year projection of construction backlog and any recommendations to Congress regarding how to mitigate current problems and the backlog.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is Pub. L. 113–121, June 10, 2014, 128 Stat. 1193, known as the Water Resources Reform and Development Act of 2014. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201) and Tables.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
 <a id="section-581"></a>
@@ -1297,6 +1486,32 @@ Department of War designated Department of the Army and title of Secretary of Wa
 Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Operating snag and dredge boats on upper Mississippi, Illinois, and Minnesota Rivers (fiscal year) (8–962.60)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 
 
+<a id="section-605a"></a>
+## § 605a. Mississippi River forecasting improvements
+(1) **In general** — The Secretary, in consultation with the Secretary of the department in which the Coast Guard is operating, the Director of the United States Geological Survey, the Administrator of the National Oceanic and Atmospheric Administration, and the Director of the National Weather Service, as applicable, shall improve forecasting on the Mississippi River by—
+
+  (A) updating forecasting technology deployed on the Mississippi River and its tributaries through—
+
+    (i) the construction of additional automated river gages;
+
+    (ii) the rehabilitation of existing automated and manual river gages; and
+
+    (iii) the replacement of manual river gages with automated gages, as the Secretary determines to be necessary;
+
+  (B) constructing additional sedimentation ranges on the Mississippi River and its tributaries; and
+
+  (C) deploying additional automatic identification system base stations at river gage sites.
+
+(2) **Prioritization** — In carrying out this section, the Secretary shall prioritize the sections of the Mississippi River on which additional and more reliable information would have the greatest impact on maintaining navigation on the Mississippi River.
+
+(3) **Report** — Not later than 1 year after June 10, 2014, the Secretary shall submit to Congress and make publicly available a report on the activities carried out by the Secretary under this section.
+
+### Statutory Notes
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
 <a id="section-606"></a>
 ## § 606. Removal of snags, and so forth, from Ohio River
 
@@ -1374,15 +1589,69 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 <a id="section-610"></a>
 ## § 610. Control of aquatic plant growths
-**(a) In general** There is hereby authorized a comprehensive program to provide for control and progressive eradication of noxious aquatic plant growths from the navigable waters, tributary streams, connecting channels, and other allied waters of the United States, in the combined interest of navigation, flood control, drainage, agriculture, fish and wildlife conservation, public health, and related purposes, including continued research for development of the most effective and economic control measures, to be administered by the Chief of Engineers, under the direction of the Secretary of the Army, in cooperation with other Federal and State agencies. Local interests shall agree to hold and save the United States free from claims that may occur from control operations and to participate to the extent of 30 per centum of the cost of such operations. Costs for research and planning undertaken pursuant to the authorities of this section shall be borne fully by the Federal Government.
+**(a) In general**
 
-**(b) Appropriations** There are authorized to be appropriated such amounts, not in excess of $15,000,000 annually, as may be necessary to carry out the provisions of this section. Any such funds employed for control operations shall be allocated by the Chief of Engineers on a priority basis, based upon the urgency and need of each area, and the availability of local funds.
+(1) **In general** — There is hereby authorized a comprehensive program to provide for prevention, control, and progressive eradication of noxious aquatic plant growths and aquatic invasive species from the navigable waters, tributary streams, connecting channels, and other allied waters of the United States, in the combined interest of navigation, flood control, drainage, agriculture, fish and wildlife conservation, public health, and related purposes, including continued research for development of the most effective and economic control measures, to be administered by the Chief of Engineers, under the direction of the Secretary of the Army, in cooperation with other Federal and State agencies.
+
+(2) **Local interests** — Local interests shall agree to hold and save the United States free from claims that may occur from control operations and to participate to the extent of 30 per centum of the cost of such operations.
+
+(3) **Federal costs** — Costs for research and planning undertaken pursuant to the authorities of this section shall be borne fully by the Federal Government.
+
+**(b) Appropriations** There are authorized to be appropriated such amounts, not in excess of $40,000,000, of which $20,000,000 shall be made available to implement subsection (d), annually, as may be necessary to carry out the provisions of this section. Any such funds employed for control operations shall be allocated by the Chief of Engineers on a priority basis, based upon the urgency and need of each area, and the availability of local funds.
 
 **(c) Support** In carrying out the program under this section, the Secretary is encouraged to use contracts, cooperative agreements, and grants with colleges and universities and other non-Federal entities.
+
+**(d) Watercraft inspection stations**
+
+(1) **In general** — In carrying out this section, the Secretary may establish watercraft inspection stations in the Columbia River Basin to be located in the States of Idaho, Montana, Oregon, and Washington at locations, as determined by the Secretary, with the highest likelihood of preventing the spread of aquatic invasive species at reservoirs operated and maintained by the Secretary.
+
+(2) **Cost share** — The non-Federal share of the cost of constructing, operating, and maintaining watercraft inspection stations described in paragraph (1) (including personnel costs) shall be—
+
+  (A) 50 percent; and
+
+  (B) provided by the State or local governmental entity in which such inspection station is located.
+
+(3) **Coordination** — In carrying out this subsection, the Secretary shall consult and coordinate with—
+
+  (A) the States described in paragraph (1);
+
+  (B) Indian tribes; and
+
+  (C) other Federal agencies, including—
+
+    (i) the Department of Agriculture;
+
+    (ii) the Department of Energy;
+
+    (iii) the Department of Homeland Security;
+
+    (iv) the Department of Commerce; and
+
+    (v) the Department of the Interior.
+
+**(e) Monitoring and contingency planning** In carrying out this section, the Secretary may—
+
+(1) carry out risk assessments of water resources facilities;
+
+(2) monitor for aquatic invasive species;
+
+(3) establish watershed-wide plans for expedited response to an infestation of aquatic invasive species; and
+
+(4) monitor water quality, including sediment cores and fish tissue samples.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–121, § 1039(d)(1)(A)–(C), designated first, second, and third sentences as pars. (1) to (3), respectively, and inserted headings.
+
+Subsec. (a)(1). Pub. L. 113–121, § 1039(d)(1)(D)(ii), inserted “and aquatic invasive species” after “noxious aquatic plant growths”.
+
+Pub. L. 113–121, § 1039(d)(1)(D)(i), which directed substitution of “prevention, control, and progressive” for “control and progressive,”, was executed by making the substitution for “control and progressive” to reflect the probable intent of Congress.
+
+Subsec. (b). Pub. L. 113–121, § 1039(d)(2), substituted “$40,000,000, of which $20,000,000 shall be made available to implement subsection (d), annually” for “$15,000,000 annually”.
+
+Subsecs. (d), (e). Pub. L. 113–121, § 1039(d)(3), added subsecs. (d) and (e).
+
 1999—Subsec. (a). Pub. L. 106–53, § 205(1), substituted “noxious aquatic plant growths from” for “water-hyacinth, alligatorweed, Eurasian water milfoil, melaleuca, and other obnoxious aquatic plant growths, from” in first sentence.
 
 Subsec. (b). Pub. L. 106–53, § 205(2), substituted “$15,000,000” for “$12,000,000” in first sentence.

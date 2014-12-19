@@ -182,7 +182,7 @@ the Secretary shall not issue a license under this chapter until he has examined
 
 **(h) Term of license** A license issued under this chapter remains in effect unless suspended or revoked by the Secretary or until surrendered by the licensee.
 
-**(i) Liquefied natural gas facilities** To promote the security of the United States, the Secretary shall give top priority to the processing of a license under this chapter for liquefied natural gas facilities that will be supplied with liquefied natural gas by United States flag vessels.
+**(i) Liquefied natural gas facilities** To promote the security of the United States, the Secretary shall give top priority to the processing of a license under this chapter for liquefied natural gas facilities that will be supplied with or that will supply liquefied natural gas by United States flag vessels.
 
 ### Statutory Notes
 
@@ -197,9 +197,11 @@ The Coastal Zone Management Act of 1972, referred to in subsec. (c)(9), is title
 
 This chapter, referred to first three times in subsec. (e)(1) and first time in subsec. (f), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 93–627, which is classified generally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–627 does not contain titles.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Subsec. (i). Pub. L. 113–281 inserted “or that will supply” after “be supplied with”.
+
 2006—Subsec. (i). Pub. L. 109–241 added subsec. (i).
 
 2002—Subsec. (a). Pub. L. 107–295 inserted “or natural gas” after “oil”.
@@ -237,7 +239,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### LNG Tankers
-Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, provided that: “The Secretary of Transportation shall develop and implement a program to promote the transportation of liquefied natural gas to the United States on United States flag vessels.”
+Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, as amended by Pub. L. 113–281, title III, § 307(b), Dec. 18, 2014, 128 Stat. 3045, provided that: “The Secretary of Transportation shall develop and implement a program to promote the transportation of liquefied natural gas to and from the United States on United States flag vessels.”
 
 
 <a id="section-1504"></a>
@@ -726,7 +728,8 @@ The President of the United States is authorized and requested to enter into neg
 
 (1) the need for intergovernmental understandings, agreements, or treaties to protect the interests of the people of Canada, Mexico, and the United States and of any party or parties involved with the construction or operation of deepwater ports; and
 
-(2) the desirability of undertaking joint studies and investigations designed to insure protection of the environment and to eliminate any legal and regulatory uncertainty, to assure that the interests of the people of Canada, Mexico, and the United States are adequately met. The President shall report to the Congress the actions taken, the progress achieved, the areas of disagreement, and the matters about which more information is needed, together with his recommendations for further action.
+(2) the desirability of undertaking joint studies and investigations designed to insure protection of the environment and to eliminate any legal and regulatory uncertainty, to assure that the interests of the people of Canada, Mexico, and the United States are adequately met.
+The President shall report to the Congress the actions taken, the progress achieved, the areas of disagreement, and the matters about which more information is needed, together with his recommendations for further action.
 
 
 <a id="section-1522"></a>

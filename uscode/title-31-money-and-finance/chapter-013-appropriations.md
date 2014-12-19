@@ -219,18 +219,19 @@ Necessary amounts are appropriated for the following:
 
 (5) to make payments required under contracts made under section 103(b) of the Housing Act of 1949 ([42 U.S.C. 1453(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1453/b&num=0&edition=prelim)) for projects or programs for which amounts had been committed before January 1, 1975, and for which amounts have not been appropriated.
 
-(6) to pay the interest on the fund derived from the bequest of James Smithson, for the construction of buildings and expenses of the Smithsonian Institution, at the rates determined under section 5590 of the Revised Statutes ([20 U.S.C. 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section54&num=0&edition=prelim)). annual contributions for assisted housing
+(6) to pay the interest on the fund derived from the bequest of James Smithson, for the construction of buildings and expenses of the Smithsonian Institution, at the rates determined under section 5590 of the Revised Statutes ([20 U.S.C. 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section54&num=0&edition=prelim)).
+annual contributions for assisted housing
 
-  (7) to make payments required under contracts made under section 5 of the United States Housing Act of 1937, as amended ([42 U.S.C. 1437c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437c&num=0&edition=prelim)).
-  college housing grants
+(7) to make payments required under contracts made under section 5 of the United States Housing Act of 1937, as amended ([42 U.S.C. 1437c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437c&num=0&edition=prelim)).
+college housing grants
 
-  (8) to make payments required under contracts made under title IV of the Housing Act of 1950, as amended ([12 U.S.C. 1749](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1749&num=0&edition=prelim) et seq.).
-  rent supplement program
+(8) to make payments required under contracts made under title IV of the Housing Act of 1950, as amended ([12 U.S.C. 1749](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1749&num=0&edition=prelim) et seq.).
+rent supplement program
 
-  (9) to make payments required under contracts under section 101 of the Housing and Urban Development Act of 1965, as amended ([12 U.S.C. 1701s](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701s&num=0&edition=prelim)).
-  homeownership and rental housing assistance
+(9) to make payments required under contracts under section 101 of the Housing and Urban Development Act of 1965, as amended ([12 U.S.C. 1701s](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701s&num=0&edition=prelim)).
+homeownership and rental housing assistance
 
-  (10) to make payments required under contracts under sections 235 and 236, respectively, of the National Housing Act, as amended ([12 U.S.C. 1715z](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1715z&num=0&edition=prelim), 1715z–1).
+(10) to make payments required under contracts under sections 235 and 236, respectively, of the National Housing Act, as amended ([12 U.S.C. 1715z](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1715z&num=0&edition=prelim), 1715z–1).
 
 ### Statutory Notes
 
@@ -780,7 +781,7 @@ In subsection (c), the words “officers and employees of the United States Gove
 
 (1) refunds to the limit of liability of an individual tax account; and
 
-(2) refunds due from credit provisions of the Internal Revenue Code of 1986 ([26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 25A, 35, 36, 36A, 36B, 168(k)(4)(F), 53(e), 54B(h), 6428, or 6431, of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
+(2) refunds due from credit provisions of the Internal Revenue Code of 1986 ([26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 25A, 35, 36, 36A, 36B, 168(k)(4)(F), 53(e), 54B(h), or 6431 of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
 
 ### Statutory Notes
 
@@ -799,7 +800,7 @@ Act of March 30, 1928, referred to in subsec. (a)(2)(C), is act Mar. 30, 1928, c
 
 The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code, and Tables.
 
-Sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, 6428, and 6431 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, 6428, and 6431, respectively, of Title 26, Internal Revenue Code.
+Sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, and 6431 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, and 6431, respectively, of Title 26, Internal Revenue Code. [Section 36A of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36A&num=0&edition=prelim) was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(5)(A), Dec. 19, 2014, 128 Stat. 4037. Subsec. (e) of [section 53 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section53&num=0&edition=prelim) was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038.
 
 Section 3081(b)(2) of the Housing Assistance Tax Act of 2008, referred to in subsec. (b)(2), is section 3081(b)(2) of Pub. L. 110–289, div. C, title III, July 30, 2008, 122 Stat. 2906, which is not classified to the Code.
 
@@ -807,6 +808,8 @@ Section 3081(b)(2) of the Housing Assistance Tax Act of 2008, referred to in sub
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (b)(2). Pub. L. 113–295 substituted “or 6431” for “6428, or 6431,”.
+
 2010—Subsec. (b)(2). Pub. L. 111–148, § 10909(b)(2)(P), (c), as amended by Pub. L. 111–312, temporarily inserted “36C,” after “36B,”. See Effective and Termination Dates of 2010 Amendment note below.
 
 Pub. L. 111–148, § 1401(d)(1), inserted “36B,” after “36A,”.
@@ -833,6 +836,9 @@ Pub. L. 110–185 inserted “or 6428” after “section 35”.
 
 1986—Subsec. (b)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code.
+
 #### Effective and Termination Dates of 2010 Amendment
 Amendment by section 1401(d)(1) of Pub. L. 111–148 applicable to taxable years ending after Dec. 31, 2013, see section 1401(e) of Pub. L. 111–148, set out as an Effective Date note under [section 36B of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B&num=0&edition=prelim), Internal Revenue Code.
 
@@ -841,7 +847,7 @@ Amendment by section 10909(b)(2)(P) of Pub. L. 111–148 inapplicable to taxable
 Amendment by section 10909(b)(2)(P) of Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d) of Pub. L. 111–148, set out as a note under [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2009 Amendment
-Amendment by section 1001(e)(2) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1001(f) of Pub. L. 111–5, set out as an Effective Date note under [section 36A of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36A&num=0&edition=prelim), Internal Revenue Code.
+Amendment by section 1001(e)(2) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1001(f) of Pub. L. 111–5, set out as a note under [section 6211 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6211&num=0&edition=prelim), Internal Revenue Code.
 
 Amendment by section 1004(b)(8) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under [section 24 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section24&num=0&edition=prelim), Internal Revenue Code.
 
@@ -1013,9 +1019,13 @@ Pub. L. 100–463, title VIII, § 8086, Oct. 1, 1988, 102 Stat. 2270–32.
 Pub. L. 100–202, § 101(b) [title VIII, § 8119], Dec. 22, 1987, 101 Stat. 1329–43, 1329–84.
 
 #### Maximum Purchase Price of Motor Vehicles; Exceptions
-Pub. L. 112–74, div. C, title VII, § 702, Dec. 23, 2011, 125 Stat. 928, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection [sic] 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement, and undercover surveillance vehicles), is hereby fixed at $13,197 except station wagons for which the maximum shall be $13,631: Provided, That these limits may be exceeded by not to exceed $3,700 for police-type vehicles, and by not to exceed $4,000 for special heavy-duty vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on emerging motor vehicle technology, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
+Pub. L. 113–235, div. E, title VII, § 702, Dec. 16, 2014, 128 Stat. 2379, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection [sic] 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $13,197 except station wagons for which the maximum shall be $13,631: Provided, That these limits may be exceeded by not to exceed $3,700 for police-type vehicles, and by not to exceed $4,000 for special heavy-duty vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on emerging motor vehicle technology, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. E, title VII, § 702, Jan. 17, 2014, 128 Stat. 230.
+
+Pub. L. 112–74, div. C, title VII, § 702, Dec. 23, 2011, 125 Stat. 928.
 
 Pub. L. 111–117, div. C, title VII, § 702, Dec. 16, 2009, 123 Stat. 3205.
 

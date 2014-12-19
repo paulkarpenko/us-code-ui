@@ -980,7 +980,7 @@ Pub. L. 103–160, div. A, title V, § 562(b), Nov. 30, 1993, 107 Stat. 1669, pr
 
 (1) Under regulations prescribed by the Secretary of Defense, the Secretary of a military department shall ensure that a member of the armed forces under the jurisdiction of the Secretary who has been deployed overseas in support of a contingency operation during the previous 24 months, and who is diagnosed by a physician, clinical psychologist, psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse as experiencing post-traumatic stress disorder or traumatic brain injury or who otherwise reasonably alleges, based on the service of the member while deployed, the influence of such a condition, receives a medical examination to evaluate a diagnosis of post-traumatic stress disorder or traumatic brain injury.
 
-(2) A member covered by paragraph (1) shall not be administratively separated under conditions other than honorable until the results of the medical examination have been reviewed by appropriate authorities responsible for evaluating, reviewing, and approving the separation case, as determined by the Secretary concerned.
+(2) A member covered by paragraph (1) shall not be administratively separated under conditions other than honorable, including an administrative separation in lieu of court-martial, until the results of the medical examination have been reviewed by appropriate authorities responsible for evaluating, reviewing, and approving the separation case, as determined by the Secretary concerned.
 
 (3) In a case involving post-traumatic stress disorder, the medical examination shall be performed by a clinical psychologist, psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse. In cases involving traumatic brain injury, the medical examination may be performed by a physician, clinical psychologist, psychiatrist, or other health care professional, as appropriate.
 
@@ -998,6 +998,8 @@ A prior section 1177, added Pub. L. 103–337, div. A, title V, § 560(a)(1), Oc
 
 #### Amendments
 2013—Subsec. (a)(1). Pub. L. 112–239, § 518(1), substituted “psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse” for “or psychiatrist”.
+
+Subsec. (a)(2). Pub. L. 113–66 inserted “, including an administrative separation in lieu of court-martial,” after “honorable”.
 
 Subsec. (a)(3). Pub. L. 112–239, § 518(2), substituted “, psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse” for “or psychiatrist”.
 

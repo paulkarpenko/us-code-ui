@@ -252,11 +252,11 @@ Pub. L. 112–81, div. A, title V, § 511(e), Dec. 31, 2011, 125 Stat. 1393, pro
 
 (1) In addition to the Chief and Vice Chief of the National Guard Bureau, there shall be assigned to the National Guard Bureau—
 
-  (A) two general officers selected by the Secretary of the Army from officers of the Army National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Army National Guard, with the other serving as Deputy Director, Army National Guard; and
+  (A) two general officers selected by the Secretary of the Army (after consultation with the Chief of the National Guard Bureau) from officers of the Army National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Army National Guard, with the other serving as Deputy Director, Army National Guard; and
 
-  (B) two general officers selected by the Secretary of the Air Force from officers of the Air National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Air National Guard, with the other serving as Deputy Director, Air National Guard.
+  (B) two general officers selected by the Secretary of the Air Force (after consultation with the Chief of the National Guard Bureau) from officers of the Air National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Air National Guard, with the other serving as Deputy Director, Air National Guard.
 
-(2) The officers so selected shall assist the Chief of the National Guard Bureau in carrying out the functions of the National Guard Bureau as they relate to their respective branches.
+(2) The Director and Deputy Director, Army National Guard, and the Director and Deputy Director, Air National Guard, shall assist the Chief of the National Guard Bureau in carrying out the functions of the National Guard Bureau as they relate to their respective branches.
 
 (3)
 
@@ -270,20 +270,21 @@ Pub. L. 112–81, div. A, title V, § 511(e), Dec. 31, 2011, 125 Stat. 1393, pro
 
   (C) An officer on active duty for service as the Director, Army National Guard, or the Director, Air National Guard, shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
 
-  (D) Until December 31, 2006, the Secretary of Defense may waive clause (ii) of subparagraph (B) with respect to the appointment of an officer as Director, Army National Guard, or as Director, Air National Guard, if the Secretary of the military department concerned requests the waiver and, in the judgment of the Secretary of Defense—
-
-    (i) the officer is qualified for service in the position; and
-
-    (ii) the waiver is necessary for the good of the service.
-    Any such waiver shall be made on a case-by-case basis.
-
-  (E) The Director, Army National Guard, and the Director, Air National Guard, are appointed for a period of four years, but may be removed for cause at any time. An officer serving as either Director may be reappointed for one additional four-year period.
+  (D) The Director, Army National Guard, and the Director, Air National Guard, are appointed for a period of four years, but may be removed for cause at any time. An officer serving as either Director may be reappointed for one additional four-year period.
 
 **(b) Other Officers.—** There are in the National Guard Bureau a legal counsel, a comptroller, and an inspector general, each of whom shall be appointed by the Chief of the National Guard Bureau. They shall perform such duties as the Chief may prescribe.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a)(1)(A). Pub. L. 113–291, § 512(a)(1), inserted “(after consultation with the Chief of the National Guard Bureau)” after “selected by the Secretary of the Army”.
+
+Subsec. (a)(1)(B). Pub. L. 113–291, § 512(a)(2), inserted “(after consultation with the Chief of the National Guard Bureau)” after “selected by the Secretary of the Air Force”.
+
+Subsec. (a)(2). Pub. L. 113–291, § 512(b), substituted “The Director and Deputy Director, Army National Guard, and the Director and Deputy Director, Air National Guard,” for “The officers so selected”.
+
+Subsec. (a)(3)(D), (E). Pub. L. 113–291, § 512(c), redesignated subpar. (E) as (D) and struck out former subpar. (D). Prior to amendment, subpar. (D) related to waiver of subsec. (a)(3)(B)(ii) with respect to the appointment of an officer as Director, Army National Guard, or as Director, Air National Guard.
+
 2011—Subsec. (a)(1). Pub. L. 112–81 substituted “Chief and Vice Chief” for “Chief of the National Guard Bureau and the Director of the Joint Staff”.
 
 2004—Subsec. (a)(1). Pub. L. 108–375, § 508(b)(4), substituted “Chief of the National Guard Bureau and the Director of the Joint Staff of the National Guard Bureau” for “Chief and Vice Chief of the National Guard Bureau” in introductory provisions.
@@ -297,6 +298,9 @@ Subsec. (a)(3)(D). Pub. L. 108–375, § 536(a), substituted “December 31, 200
 Subsec. (a)(3). Pub. L. 106–398, § 1 [[div. A], title V, § 507(e)(2)], added par. (3).
 
 1999—Subsec. (a)(1)(A), (B). Pub. L. 106–65 inserted “or, if appointed to that position in accordance with [section 12505(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12505/a/2&num=0&edition=prelim), the grade of lieutenant general,” after “major general”.
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–291, div. A, title V, § 512(d), Dec. 19, 2014, 128 Stat. 3358, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to assignments to the National Guard Bureau under [section 10506 of title 10](./chapter-1011-national-guard-bureau.md#section-10506), United States Code, that occur after the date of the enactment of this Act [Dec. 19, 2014].”
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under [section 3038 of this title](./chapter-305-the-army-staff.md#section-3038).

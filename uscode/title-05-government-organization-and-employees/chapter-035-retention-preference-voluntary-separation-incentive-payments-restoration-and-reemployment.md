@@ -150,7 +150,7 @@ In computing length of service, a competing employee—
 
 (4) The regulations prescribed under this section shall incorporate the authority provided in this subsection.
 
-(5) No authority under paragraph (1) may be exercised after September 30, 2014.
+(5) No authority under paragraph (1) may be exercised after September 30, 2018.
 
 ### Statutory Notes
 
@@ -174,6 +174,8 @@ Section 10(b) of the Agricultural Adjustment Act, referred to in subsec. (a)(C)(
 The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act is classified to [section 2864(a)(2)(A) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/a/2/A&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
 
 #### Amendments
+2013—Subsec. (f)(5). Pub. L. 113–66 substituted “September 30, 2018” for “September 30, 2014”.
+
 2008—Subsec. (f)(5). Pub. L. 110–417 substituted “September 30, 2014” for “September 30, 2010”.
 
 2006—Subsec. (f)(5). Pub. L. 109–163 substituted “September 30, 2010” for “September 30, 2005”.
@@ -375,7 +377,7 @@ In this subchapter, the term—
 2011—Par. (1). Pub. L. 112–74 substituted “section 105 (other than the Government Accountability Office)” for “section 105”.
 
 #### Effective Date of 2011 Amendment
-Amendment by Pub. L. 112–74 applicable to voluntary separation incentive payments made during fiscal year 2012 or any succeeding fiscal year, see section 1401(c) of Pub. L. 112–74, set out as a note under [section 60q of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60q&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 112–74 applicable to voluntary separation incentive payments made during fiscal year 2012 or any succeeding fiscal year, see section 1401(c) of Pub. L. 112–74, set out as a note under [section 4505 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4505&num=0&edition=prelim), The Congress.
 
 #### Effective Date
 Pub. L. 107–296, title XIII, § 1313(a)(4), Nov. 25, 2002, 116 Stat. 2294, provided that: “This subsection [enacting this subchapter and provisions set out as notes under this section] shall take effect 60 days after the date of enactment of this Act [Nov. 25, 2002].”
@@ -957,8 +959,8 @@ Section 309 of the Foreign Service Act of 1980, referred to in text, is classifi
 Section effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as a note under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 
-<a id="section-3598"></a>
-## § 3598. 11 Another section 3598 is set out after this section. Federal Bureau of Investigation Reserve Service
+<a id="section-3598-1"></a>
+## § 3598.1. Federal Bureau of Investigation Reserve Service
 **(a) Establishment.—** The Director of the Federal Bureau of Investigation may provide for the establishment and training of a Federal Bureau of Investigation Reserve Service (hereinafter in this section referred to as the “FBI Reserve Service”) for temporary reemployment of employees in the Bureau during periods of emergency, as determined by the Director.
 
 **(b) Membership.—** Membership in the FBI Reserve Service shall be limited to individuals who previously served as full-time employees of the Bureau.
@@ -972,8 +974,8 @@ Section effective Feb. 15, 1981, except as otherwise provided, see section 2403 
 **(f) Limitation on Membership.—** Membership of the FBI Reserve Service is not to exceed 500 members at any given time.
 
 
-<a id="section-3598"></a>
-## § 3598. 11 Another section 3598 is set out preceding this section. Federal Bureau of Investigation Reserve Service
+<a id="section-3598-1"></a>
+## § 3598.1. Federal Bureau of Investigation Reserve Service
 **(a) Establishment.—** The Director of the Federal Bureau of Investigation may provide for the establishment and training of a Federal Bureau of Investigation Reserve Service (hereinafter in this section referred to as the “FBI Reserve Service”) for temporary reemployment of employees in the Bureau during periods of emergency, as determined by the Director.
 
 **(b) Membership.—** Membership in the FBI Reserve Service shall be limited to individuals who previously served as full-time employees of the Bureau.

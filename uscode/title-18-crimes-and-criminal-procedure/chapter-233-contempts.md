@@ -41,5 +41,3 @@ Former [section 111 of Title 29](https://uscode.house.gov/view.xhtml?req=granule
 
 <a id="section-3693"></a>
 ## § 3693. Summary disposition or jury trial; notice—(Rule)
-
-See Federal Rules of Criminal Procedure

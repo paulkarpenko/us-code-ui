@@ -496,7 +496,8 @@ If a court of competent jurisdiction enters a final judgment on the merits thatâ
 
 (2) is no longer subject to appeal; and
 
-(3) substantially limits or impairs the essential elements of sections 116 through 126 of this title, then sections 116 through 126 of this title are invalid and have no legal effect as of the date of entry of such judgment.
+(3) substantially limits or impairs the essential elements of sections 116 through 126 of this title,
+then sections 116 through 126 of this title are invalid and have no legal effect as of the date of entry of such judgment.
 
 ### Statutory Notes
 

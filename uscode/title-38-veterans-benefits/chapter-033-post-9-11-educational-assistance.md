@@ -215,7 +215,7 @@ Barack Obama.
 
     (ii) before completion of service on active duty of an aggregate of 6 months, is discharged or released from active duty as described in subsection (c).
 
-(9) An individual who is the child of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
+(9) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
 
 **(c) Covered Discharges and Releases.—** A discharge or release from active duty of an individual described in this subsection is a discharge or release as follows:
 
@@ -253,11 +253,23 @@ Barack Obama.
 
 (1) **In general.—** — Educational assistance payable by reason of paragraph (9) of subsection (b) shall be known as the “Marine Gunnery Sergeant John David Fry scholarship”.
 
-(2) **Definition of child.—** — For purposes of that paragraph, the term “child” includes a married individual or an individual who is above the age of twenty-three years.
+(2) **Limitation.—** — The entitlement of an individual to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) because the individual was a spouse of a person described in such paragraph shall expire on the earlier of—
+
+  (A) the date that is 15 years after the date on which the person died; or
+
+  (B) the date on which the individual remarries.
+
+(3) **Election on receipt of certain benefits.—** — A surviving spouse entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
+
+(4) **Definition of child.—** — For purposes of that paragraph, the term “child” includes a married individual or an individual who is above the age of twenty-three years.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b)(9). Pub. L. 113–146, § 701(a), inserted “or spouse” after “child”.
+
+Subsec. (f)(2) to (4). Pub. L. 113–146, § 701(b), added pars. (2) and (3) and redesignated former par. (2) as (4).
+
 2011—Subsec. (c)(4). Pub. L. 111–377, § 101(b), substituted “A discharge or release from active duty in the Armed Forces after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service” for “A discharge or release from active duty in the Armed Forces” in introductory provisions.
 
 Subsec. (d)(2). Pub. L. 111–377, § 101(c), inserted “or [section 182 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section182&num=0&edition=prelim)” before period at end.
@@ -265,6 +277,9 @@ Subsec. (d)(2). Pub. L. 111–377, § 101(c), inserted “or [section 182 of tit
 2009—Subsec. (b)(9). Pub. L. 111–32, § 1002(a)(1), added par. (9).
 
 Subsec. (f). Pub. L. 111–32, § 1002(a)(2), added subsec. (f).
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–146, title VII, § 701(d), Aug. 7, 2014, 128 Stat. 1796, provided that: “The amendments made by this section [amending this section and [section 3321 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3321)] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after January 1, 2015.”
 
 #### Effective Date of 2011 Amendment
 Pub. L. 111–377, title I, § 101(d)(4), (5), Jan. 4, 2011, 124 Stat. 4108, provided that: “(4) Honorable service requirement.—The amendment made by subsection (b) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 4, 2011], and shall apply with respect to discharges and releases from the Armed Forces that occur on or after that date. “(5) Service in connection with attendance at coast guard academy.—The amendment made by subsection (c) [amending this section] shall take effect on the date of the enactment of this Act, and shall apply with respect to individuals entering into agreements on service in the Coast Guard on or after that date.”
@@ -1043,14 +1058,19 @@ Amendment by section 201(b) of Pub. L. 111–377 effective Aug. 1, 2011, and app
 
 (3) **Determination of last discharge or release.—** — For purposes of subsection (a), an individual’s last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service, unless the individual is discharged or released as described in section 3311(b)(2).
 
-(4) **Applicability to children of deceased members.—** — The period during which an individual entitled to educational assistance by reason of section 3311(b)(9) may use such individual’s entitlement expires at the end of the 15-year period beginning on the date of such individual’s eighteenth birthday.
+(4) **Applicability to children of deceased members.—** — The period during which a child entitled to educational assistance by reason of section 3311(b)(9) may use such child’s entitlement expires at the end of the 15-year period beginning on the date of such child’s eighteenth birthday.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b)(4). Pub. L. 113–146 substituted “a child” for “an individual” and in two places “such child’s” for “such individual’s”.
+
 2010—Subsec. (b)(2). Pub. L. 111–275 substituted “[section 3312 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3312)” for “3312”.
 
 2009—Subsec. (b)(4). Pub. L. 111–32 added par. (4).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–146 applicable with respect to a quarter, semester, or term, as applicable, commencing on or after Jan. 1, 2015, see section 701(d) of Pub. L. 113–146, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–32 effective Aug. 1, 2009, see section 1002(d)(1) of Pub. L. 111–32, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).

@@ -375,9 +375,9 @@ In subsection (d)(2), the reference to fiscal years 1988–1992 and the words �
 The date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, referred to in subsec. (h)(2), is the date of enactment of Pub. L. 105–155, which was approved Feb. 11, 1998.
 
 #### Amendments
-2012—Subsec. (a). Pub. L. 112–95, § 901(a)(1), substituted “of this title and, for each of fiscal years 2012 through 2015, under subsection (g)” for “of this title’ in introductory provisions.
+2012—Subsec. (a). Pub. L. 112–95, § 901(a)(1), substituted “of this title and, for each of fiscal years 2012 through 2015, under subsection (g)” for “of this title” in introductory provisions.
 
-Subsec. (a)(1) to (15). Pub. L. 112–95, § 901(a)(2)–(5), redesignated pars. (9) to (15) as (1) to (7), respectively, in par. (3)(K), inserted “and” at end, in par. (3)(L), struck out “and” at end, added par. (8) which authorized appropriations of $168,000,000 for each of fiscal years 2012 to 2015, and struck out former pars. (1) to (8), which related to appropriations for fiscal years 1995 to 2002.
+Subsec. (a)(1) to (15). Pub. L. 112–95, § 901(a)(2)–(5), redesignated pars. (9) to (15) as (1) to (7), respectively, inserted “and” at end of par. (3)(K), struck out “and” at end of par. (3)(L), added par. (8), and struck out former pars. (1) to (8) which related to appropriations for fiscal years 1995 to 2002.
 
 Subsec. (a)(16). Pub. L. 112–95, § 901(a)(5), struck out par. (16) which read as follows: ”$64,092,459 for the period beginning on October 1, 2011, and ending on February 17, 2012.”
 
@@ -491,7 +491,7 @@ In this section, references to the aggregate amounts for fiscal years ending bef
 Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to [section 9502 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
-2012—Pub. L. 112–95 amended section generally. Prior to amendment, section listed amounts available out of the Airport and Airway Trust Fund for fiscal year 2004 through the period beginning Oct. 1, 2011, and ending on Feb. 17, 2012.
+2012—Pub. L. 112–95 amended section generally. Prior to amendment, section listed amounts available out of the Airport and Airway Trust Fund for fiscal years 2004 through 2011 and for the period beginning on Oct. 1, 2011, and ending on Feb. 17, 2012.
 
 Par. (9). Pub. L. 112–91 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “$1,181,270,492 for the period beginning on October 1, 2011, and ending on January 31, 2012.”
 
@@ -592,7 +592,8 @@ Pub. L. 106–181, title I, § 159, Apr. 5, 2000, 114 Stat. 90, provided that: �
 (1) direct costs the Secretary incurs to flight check, operate, and maintain air navigation facilities referred to in [section 44502(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44502/a/1/A&num=0&edition=prelim) safely and efficiently; and
 
 (2) the costs of services provided under international agreements related to the joint financing of air navigation services assessed against the United States Government.
-[(b), (c). Repealed. Pub. L. 106–181, title I, § 106(d)(2), Apr. 5, 2000, 114 Stat. 73.]
+
+**(b)** , (c). Repealed. Pub. L. 106–181, title I, § 106(d)(2), Apr. 5, 2000, 114 Stat. 73.]
 
 ### Statutory Notes
 
@@ -799,7 +800,8 @@ On the effective date of a general appropriations Act providing appropriations f
 
 (1) the amount authorized to be appropriated under section 48101 for such fiscal year; exceeds
 
-(2) the amounts appropriated for programs funded under such section for such fiscal year. Any contract authority made available by this section shall be subject to an obligation limitation.
+(2) the amounts appropriated for programs funded under such section for such fiscal year.
+Any contract authority made available by this section shall be subject to an obligation limitation.
 
 ### Statutory Notes
 

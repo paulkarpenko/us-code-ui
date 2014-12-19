@@ -700,7 +700,32 @@ The State approving agency, upon determining that an educational institution has
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 113—146, title VII, § 702, Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113–175, title IV, § 409(i), Sept. 26, 2014, 128 Stat. 1908, provided that, applicable with respect to educational assistance provided for pursuit of a program of education during a quarter, semester, or term, as applicable, that begins after July 1, 2015, this section is amended by adding at the end the following new subsection:
+
+(c)(1) Notwithstanding any other provision of this chapter and subject to paragraphs (3) through (6), the Secretary shall disapprove a course of education provided by a public institution of higher learning if the institution charges tuition and fees for that course for covered individuals who are pursuing the course with educational assistance under chapter 30 or 33 of this title while living in the State in which the institution is located at a rate that is higher than the rate the institution charges for tuition and fees for that course for residents of the State in which the institution is located, regardless of the covered individual’s State of residence.
+
+(2) For purposes of this subsection, a covered individual is any individual as follows:
+
+(A) A veteran who was discharged or released from a period of not fewer than 90 days of service in the active military, naval, or air service less than three years before the date of enrollment in the course concerned.
+
+(B) An individual who is entitled to assistance under section 3311(b)(9) or 3319 of this title by virtue of such individual’s relationship to a veteran described in subparagraph (A).
+
+(3) If after enrollment in a course of education that is subject to disapproval under paragraph (1) by reason of paragraph (2)(A) or (2)(B) a covered individual pursues one or more courses of education at the same public institution of higher learning while remaining continuously enrolled (other than during regularly scheduled breaks between courses, semesters or terms) at that institution of higher learning, any course so pursued by the covered individual at that institution of higher learning while so continuously enrolled shall also be subject to disapproval under paragraph (1).
+
+(4) It shall not be grounds to disapprove a course of education under paragraph (1) if a public institution of higher learning requires a covered individual pursuing a course of education at the institution to demonstrate an intent, by means other than satisfying a physical presence requirement, to establish residency in the State in which the institution is located, or to satisfy other requirements not relating to the establishment of residency, in order to be charged tuition and fees for that course at a rate that is equal to or less than the rate the institution charges for tuition and fees for that course for residents of the State.
+
+(5) The Secretary may waive such requirements of paragraph (1) as the Secretary considers appropriate.
+
+(6) Disapproval under paragraph (1) shall apply only with respect to educational assistance under chapters 30 and 33 of this title.
+
+See 2014 Amendment notes below.
+
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–146 added subsec. (c).
+
+Subsec. (c)(1). Pub. L. 113–175 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter and subject to paragraphs (3) through (6), the Secretary shall disapprove a course of education provided by a public institution of higher learning to a covered individual pursuing a course of education with educational assistance under chapter 30 or 33 of this title while living in the State in which the public institution of higher learning is located if the institution charges tuition and fees for that course for the covered individual at a rate that is higher than the rate the institution charges for tuition and fees for that course for residents of the State in which the institution is located, regardless of the covered individual’s State of residence.”
+
 2011—Subsec. (a). Pub. L. 111–377 inserted “the Secretary or” after “disapproved by” in two places.
 
 1991—Pub. L. 102–83 renumbered [section 1779 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1779&num=0&edition=prelim) as this section.
@@ -708,6 +733,9 @@ The State approving agency, upon determining that an educational institution has
 1989—Subsec. (b). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing and “Secretary’s” for “Administrator’s”.
 
 1976—Subsec. (b). Pub. L. 94–502 substituted “the Administrator’s disapproval” for “his disapproval”.
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–146, title VII, § 702(b), Aug. 7, 2014, 128 Stat. 1797, provided that: “Subsection (c) of [section 3679 of title 38](./chapter-036-administration-of-educational-benefits.md#section-3679), United States Code (as added by subsection (a) of this section), shall apply with respect to educational assistance provided for pursuit of a program of education during a quarter, semester, or term, as applicable, that begins after July 1, 2015.”
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub. L. 111–377, set out as a note under [section 3034 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3034).
@@ -1159,7 +1187,7 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 **(b)** The Secretary, prior to making payment of a reporting fee to an educational institution, as provided for in subsection (c) of this section, shall require such institution to certify that it has exercised reasonable diligence in determining whether such institution or any course offered by such institution approved for the enrollment of veterans or eligible persons meets all of the applicable requirements of chapters 31, 34, 35, and 36 of this title and that it will, without delay, report any failure to meet any such requirement to the Secretary.
 
-**(c)** The Secretary may pay to any educational institution, or to the sponsor of a program of apprenticeship, furnishing education or training under either this chapter or chapter 31, 34, or 35 of this title, a reporting fee which will be in lieu of any other compensation or reimbursement for reports or certifications which such educational institution or joint apprenticeship training committee is required to submit to the Secretary by law or regulation. Such reporting fee shall be computed for each calendar year by multiplying $12 by the number of eligible veterans or eligible persons enrolled under this chapter or chapter 31, 34, or 35 of this title, or $15 in the case of those eligible veterans and eligible persons whose educational assistance checks are directed in care of each institution for temporary custody and delivery and are delivered at the time of registration as provided under [section 3680(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3680/d/4&num=0&edition=prelim), during the calendar year. The reporting fee shall be paid to such educational institution or joint apprenticeship training committee as soon as feasible after the end of the calendar year for which it is applicable. No reporting fee payable to an educational institution under this subsection shall be subject to offset by the Secretary against any liability of such institution for any overpayment for which such institution may be administratively determined to be liable under [section 3685 of this title](./chapter-036-administration-of-educational-benefits.md#section-3685) unless such liability is not contested by such institution or has been upheld by a final decree of a court of appropriate jurisdiction. Any reporting fee paid an educational institution or joint apprenticeship training committee after the date of the enactment of the Post-9/11 Veterans Educational Assistance Improvements Act of 2011 11 See References in Text note below. shall be utilized by such institution or committee solely for the making of certifications required under this chapter or chapter 31, 34, or 35 of this title or for otherwise supporting programs for veterans. The reporting fee payable under this subsection shall be paid from amounts appropriated for readjustment benefits.
+**(c)** The Secretary may pay to any educational institution, or to the sponsor of a program of apprenticeship, furnishing education or training under either this chapter or chapter 31, 34, or 35 of this title, a reporting fee which will be in lieu of any other compensation or reimbursement for reports or certifications which such educational institution or joint apprenticeship training committee is required to submit to the Secretary by law or regulation. Such reporting fee shall be computed for each calendar year by multiplying $12 11 See Restoration of Prior Reporting Fee Multipliers note below. by the number of eligible veterans or eligible persons enrolled under this chapter or chapter 31, 34, or 35 of this title, or $15 1 in the case of those eligible veterans and eligible persons whose educational assistance checks are directed in care of each institution for temporary custody and delivery and are delivered at the time of registration as provided under [section 3680(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3680/d/4&num=0&edition=prelim), during the calendar year. The reporting fee shall be paid to such educational institution or joint apprenticeship training committee as soon as feasible after the end of the calendar year for which it is applicable. No reporting fee payable to an educational institution under this subsection shall be subject to offset by the Secretary against any liability of such institution for any overpayment for which such institution may be administratively determined to be liable under [section 3685 of this title](./chapter-036-administration-of-educational-benefits.md#section-3685) unless such liability is not contested by such institution or has been upheld by a final decree of a court of appropriate jurisdiction. Any reporting fee paid an educational institution or joint apprenticeship training committee after the date of the enactment of the Post-9/11 Veterans Educational Assistance Improvements Act of 2011 22 See References in Text note below. shall be utilized by such institution or committee solely for the making of certifications required under this chapter or chapter 31, 34, or 35 of this title or for otherwise supporting programs for veterans. The reporting fee payable under this subsection shall be paid from amounts appropriated for readjustment benefits.
 
 **(d)** Not later than 90 days after the date of the enactment of this subsection, the Secretary shall ensure that the Department provides personnel of educational institutions who are charged with submitting reports or certifications to the Secretary under this section with assistance in preparing and submitting such reports or certifications.
 
@@ -1257,6 +1285,9 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 
 #### Effective Date of 1967 Amendment
 Amendment by Pub. L. 90–77 effective first day of first month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+
+#### Restoration of Prior Reporting Fee Multipliers
+Pub. L. 113–175, title IV, § 406, Sept. 26, 2014, 128 Stat. 1905, provided that: “During the one-year period beginning on the date of the enactment of this Act [Sept. 26, 2014], the second sentence of section 3684(c) shall be applied— “(1) by substituting ‘$9’ for ‘$12’; and “(2) by substituting ‘$13’ for ‘$15’.”
 
 
 <a id="section-3684a"></a>
@@ -1938,7 +1969,7 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 **(b)** The Secretary shall consult with and seek the advice of the committee from time to time with respect to the administration of this chapter, chapters 30, 32, 33, and 35 of this title, and chapter 1606 of title 10. The committee may make such reports and recommendations as it considers desirable to the Secretary and the Congress.
 
-**(c)** The committee shall remain in existence until December 31, 2013.
+**(c)** The committee shall remain in existence until December 31, 2015.
 
 ### Statutory Notes
 
@@ -1946,6 +1977,10 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 Provisions similar to those comprising this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1190, which was classified to former [section 1662 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1662&num=0&edition=prelim), prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–175 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (c). Pub. L. 113–59 substituted “December 31, 2014” for “December 31, 2013”.
+
 2010—Subsec. (c). Pub. L. 111–275 substituted “December 31, 2013” for “December 31, 2009”.
 
 2008—Subsecs. (a), (b). Pub. L. 110–252 inserted “33,” after “32,”.
@@ -2054,7 +2089,7 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 (3) The War Orphans’ Educational Assistance Act of 1956.
 
-(4) Chapters 30, 32, 33, 34, 35, and 36.
+(4) Chapters 30, 32, 33, 34, and 36.
 
 (5) Chapters 107, 1606, 1607, and 1611 of title 10.
 
@@ -2066,18 +2101,9 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 **(b)** No person may receive assistance under chapter 31 of this title in combination with assistance under any of the provisions of law cited in subsection (a) of this section in excess of 48 months (or the part-time equivalent thereof) unless the Secretary determines that additional months of benefits under chapter 31 of this title are necessary to accomplish the purposes of a rehabilitation program (as defined in [section 3101(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3101/5&num=0&edition=prelim)) in the individual case.
 
+**(c)** The aggregate period for which any person may receive assistance under chapter 35 of this title, on the one hand, and any of the provisions of law referred to in subsection (a), on the other hand, may not exceed 81 months (or the part-time equivalent thereof).
+
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 112–154, title IV, § 401(a), (b), Aug. 6, 2012, 126 Stat. 1188, provided that effective on Oct. 1, 2013, section is amended as follows:
-
-(1) in subsection (a)(4), by striking “35,”; and
-
-(2) by adding at the end the following new subsection:
-
-(c) The aggregate period for which any person may receive assistance under chapter 35 of this title, on the one hand, and any of the provisions of law referred to in subsection (a), on the other hand, may not exceed 81 months (or the part-time equivalent thereof).
-
-See 2012 Amendment notes below.
 
 #### References in Text
 Parts VII and VIII, Veterans Regulation numbered 1(a), referred to in subsec. (a)(1), are Parts VII and VIII as added by acts Mar. 24, 1943, ch. 22, § 2, 57 Stat. 43 and June 22, 1944, ch. 268, title II, § 400(b), 58 Stat. 287 to Veterans Regulation numbered 1(a) promulgated by Ex. Ord. No. 6156, June 6, 1933, which had been classified as parts VII and VIII of chapter 12A of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which were repealed by Pub. L. 85–857, § 14(67), Sept. 2, 1958, 72 Stat. 1272.

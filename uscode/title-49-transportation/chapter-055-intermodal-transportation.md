@@ -78,7 +78,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 <a id="section-5503"></a>
 ## § 5503. Office of Intermodalism
-**(a) Establishment.—** There is established in the Research and Innovative Technology Administration an Office of Intermodalism.
+**(a) Establishment.—** There is established in the Office of the Assistant Secretary for Research and Technology of the Department of Transportation an Office of Intermodalism.
 
 **(b) Director.—** The head of the Office is a Director who shall be appointed by the Secretary.
 
@@ -182,6 +182,9 @@ Pub. L. 109–59, § 4149(2), redesignated subsec. (f) as (h) relating to admini
 “(C) public and private investment in intermodal transportation facilities and services.
 
 “(2) The Director shall make information from the data base available to the public.”
+
+#### Change of Name
+“Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in subsec. (a) on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under [section 112 of this title](./chapter-001-organization.md#section-112).
 
 
 <a id="section-5504"></a>
@@ -344,7 +347,7 @@ Pub. L. 109–59, § 4149(2), redesignated subsec. (f) as (h) relating to admini
 
   (B) submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing that review and evaluation.
 
-(3) **Program evaluation and oversight.—** — For each of fiscal years 2013 and 2014, the Secretary shall expend not more than 1 ½ percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
+(3) **Program evaluation and oversight.—** — For each of fiscal years 2013 and 2014, the Secretary shall expend not more than 1½ percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
 
 **(e) Limitation on Availability of Amounts.—** Amounts made available to the Secretary to carry out this section shall remain available for obligation by the Secretary for a period of 3 years after the last day of the fiscal year for which the amounts are appropriated.
 

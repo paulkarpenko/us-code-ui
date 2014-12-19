@@ -88,7 +88,7 @@ For short title of this subchapter as the “American Servicemembers’ Protecti
 
   (B) ensures that no person described in subparagraph (A) will be arrested, detained, prosecuted, or imprisoned by or on behalf of the International Criminal Court.
 
-**(b) Authority to extend waiver of section 7424** The President is authorized to waive the prohibitions and requirements of [section 7424 of this title](./chapter-081-international-criminal-court.md#section-7424) for successive periods of 1 year each upon the expiration of a previous waiver pursuant to subsection (a) of this section or this subsection. A waiver under this subsection may be issued only if the President at least 15 days in advance of exercising such authority—
+**(b) Authority to extend waiver of section 7424** The President is authorized to waive the prohibitions and requirements of [section 7424 of this title](./chapter-081-international-criminal-court.md#section-7424) for successive periods of 1 year each upon the expiration of a previous waiver pursuant to subsection (a) or this subsection. A waiver under this subsection may be issued only if the President at least 15 days in advance of exercising such authority—
 
 (1) notifies the appropriate congressional committees of the intention to exercise such authority; and
 
@@ -114,7 +114,7 @@ For short title of this subchapter as the “American Servicemembers’ Protecti
 
 (2) determines and reports to the appropriate congressional committees that—
 
-  (A) a waiver pursuant to subsection (a) or (b) of this section of the prohibitions and requirements of [section 7424 of this title](./chapter-081-international-criminal-court.md#section-7424) is in effect;
+  (A) a waiver pursuant to subsection (a) or (b) of the prohibitions and requirements of [section 7424 of this title](./chapter-081-international-criminal-court.md#section-7424) is in effect;
 
   (B) there is reason to believe that the named individual committed the crime or crimes that are the subject of the International Criminal Court’s investigation or prosecution;
 
@@ -128,7 +128,7 @@ For short title of this subchapter as the “American Servicemembers’ Protecti
 
     (iii) Individuals who were covered United States persons or covered allied persons.
 
-**(d) Termination of waiver pursuant to subsection (c)** Any waiver or waivers exercised pursuant to subsection (c) of this section of the prohibitions and requirements of sections 7423 and 7425 of this title shall terminate at any time that a waiver pursuant to subsection (a) or (b) of this section of the prohibitions and requirements of [section 7424 of this title](./chapter-081-international-criminal-court.md#section-7424) expires and is not extended pursuant to subsection (b) of this section.
+**(d) Termination of waiver pursuant to subsection (c)** Any waiver or waivers exercised pursuant to subsection (c) of the prohibitions and requirements of sections 7423 and 7425 of this title shall terminate at any time that a waiver pursuant to subsection (a) or (b) of the prohibitions and requirements of [section 7424 of this title](./chapter-081-international-criminal-court.md#section-7424) expires and is not extended pursuant to subsection (b).
 
 **(e) Termination of prohibitions of this subchapter** The prohibitions and requirements of sections 7423, 7424, and 7425 of this title shall cease to apply, and the authority of [section 7427 of this title](./chapter-081-international-criminal-court.md#section-7427) shall terminate, if the United States becomes a party to the International Criminal Court pursuant to a treaty made under article II, section 2, clause 2 of the Constitution of the United States.
 
@@ -173,9 +173,9 @@ Subsec. (e). Pub. L. 110–181, § 1212(b)(1)(E), substituted “and 7425” for
 ## § 7424. Restriction on United States participation in certain United Nations peacekeeping operations
 **(a) Policy** Effective beginning on the date on which the Rome Statute enters into force pursuant to Article 126 of the Rome Statute, the President should use the voice and vote of the United States in the United Nations Security Council to ensure that each resolution of the Security Council authorizing any peacekeeping operation under chapter VI of the charter of the United Nations or peace enforcement operation under chapter VII of the charter of the United Nations permanently exempts, at a minimum, members of the Armed Forces of the United States participating in such operation from criminal prosecution or other assertion of jurisdiction by the International Criminal Court for actions undertaken by such personnel in connection with the operation.
 
-**(b) Restriction** Members of the Armed Forces of the United States may not participate in any peacekeeping operation under chapter VI of the charter of the United Nations or peace enforcement operation under chapter VII of the charter of the United Nations, the creation of which is authorized by the United Nations Security Council on or after the date that the Rome Statute enters into effect pursuant to Article 126 of the Rome Statute, unless the President has submitted to the appropriate congressional committees a certification described in subsection (c) of this section with respect to such operation.
+**(b) Restriction** Members of the Armed Forces of the United States may not participate in any peacekeeping operation under chapter VI of the charter of the United Nations or peace enforcement operation under chapter VII of the charter of the United Nations, the creation of which is authorized by the United Nations Security Council on or after the date that the Rome Statute enters into effect pursuant to Article 126 of the Rome Statute, unless the President has submitted to the appropriate congressional committees a certification described in subsection (c) with respect to such operation.
 
-**(c) Certification** The certification referred to in subsection (b) of this section is a certification by the President that—
+**(c) Certification** The certification referred to in subsection (b) is a certification by the President that—
 
 (1) members of the Armed Forces of the United States are able to participate in the peacekeeping or peace enforcement operation without risk of criminal prosecution or other assertion of jurisdiction by the International Criminal Court because, in authorizing the operation, the United Nations Security Council permanently exempted, at a minimum, members of the Armed Forces of the United States participating in the operation from criminal prosecution or other assertion of jurisdiction by the International Criminal Court for actions undertaken by them in connection with the operation;
 
@@ -188,7 +188,7 @@ Subsec. (e). Pub. L. 110–181, § 1212(b)(1)(E), substituted “and 7425” for
 ## § 7425. Prohibition on direct or indirect transfer of classified national security information and law enforcement information to the International Criminal Court
 **(a) In general** Not later than the date on which the Rome Statute enters into force, the President shall ensure that appropriate procedures are in place to prevent the transfer of classified national security information and law enforcement information to the International Criminal Court for the purpose of facilitating an investigation, apprehension, or prosecution.
 
-**(b) Indirect transfer** The procedures adopted pursuant to subsection (a) of this section shall be designed to prevent the transfer to the United Nations and to the government of any country that is party to the International Criminal Court of classified national security information and law enforcement information that specifically relates to matters known to be under investigation or prosecution by the International Criminal Court, except to the degree that satisfactory assurances are received from the United Nations or that government, as the case may be, that such information will not be made available to the International Criminal Court for the purpose of facilitating an investigation, apprehension, or prosecution.
+**(b) Indirect transfer** The procedures adopted pursuant to subsection (a) shall be designed to prevent the transfer to the United Nations and to the government of any country that is party to the International Criminal Court of classified national security information and law enforcement information that specifically relates to matters known to be under investigation or prosecution by the International Criminal Court, except to the degree that satisfactory assurances are received from the United Nations or that government, as the case may be, that such information will not be made available to the International Criminal Court for the purpose of facilitating an investigation, apprehension, or prosecution.
 
 **(c) Construction** The provisions of this section shall not be construed to prohibit any action permitted under [section 7427 of this title](./chapter-081-international-criminal-court.md#section-7427).
 
@@ -203,9 +203,9 @@ Section, Pub. L. 107–206, title II, § 2007, Aug. 2, 2002, 116 Stat. 905, proh
 
 <a id="section-7427"></a>
 ## § 7427. Authority to free members of the Armed Forces of the United States and certain other persons detained or imprisoned by or on behalf of the International Criminal Court
-**(a) Authority** The President is authorized to use all means necessary and appropriate to bring about the release of any person described in subsection (b) of this section who is being detained or imprisoned by, on behalf of, or at the request of the International Criminal Court.
+**(a) Authority** The President is authorized to use all means necessary and appropriate to bring about the release of any person described in subsection (b) who is being detained or imprisoned by, on behalf of, or at the request of the International Criminal Court.
 
-**(b) Persons authorized to be freed** The authority of subsection (a) of this section shall extend to the following persons:
+**(b) Persons authorized to be freed** The authority of subsection (a) shall extend to the following persons:
 
 (1) Covered United States persons.
 
@@ -213,7 +213,7 @@ Section, Pub. L. 107–206, title II, § 2007, Aug. 2, 2002, 116 Stat. 905, proh
 
 (3) Individuals detained or imprisoned for official actions taken while the individual was a covered United States person or a covered allied person, and in the case of a covered allied person, upon the request of such government.
 
-**(c) Authorization of legal assistance** When any person described in subsection (b) of this section is arrested, detained, investigated, prosecuted, or imprisoned by, on behalf of, or at the request of the International Criminal Court, the President is authorized to direct any agency of the United States Government to provide—
+**(c) Authorization of legal assistance** When any person described in subsection (b) is arrested, detained, investigated, prosecuted, or imprisoned by, on behalf of, or at the request of the International Criminal Court, the President is authorized to direct any agency of the United States Government to provide—
 
 (1) legal representation and other legal assistance to that person (including, in the case of a person entitled to assistance under [section 1037 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1037&num=0&edition=prelim), representation and other assistance in the manner provided in that section);
 
@@ -221,7 +221,7 @@ Section, Pub. L. 107–206, title II, § 2007, Aug. 2, 2002, 116 Stat. 905, proh
 
 (3) defense of the interests of the United States through appearance before the International Criminal Court pursuant to Article 18 or 19 of the Rome Statute, or before the courts or tribunals of any country.
 
-**(d) Bribes and other inducements not authorized** This section does not authorize the payment of bribes or the provision of other such incentives to induce the release of a person described in subsection (b) of this section.
+**(d) Bribes and other inducements not authorized** This section does not authorize the payment of bribes or the provision of other such incentives to induce the release of a person described in subsection (b).
 
 
 <a id="section-7428"></a>
@@ -232,9 +232,9 @@ Section, Pub. L. 107–206, title II, § 2007, Aug. 2, 2002, 116 Stat. 905, proh
 
 (2) evaluating the degree to which members of the Armed Forces of the United States engaged in military operations undertaken by or pursuant to that alliance may be exposed to greater risks as a result of being placed under the command or operational control of foreign military officers subject to the jurisdiction of the International Criminal Court.
 
-**(b) Description of measures to achieve enhanced protection for members of the Armed Forces of the United States** Not later than 1 year after August 2, 2002, the President should transmit to the appropriate congressional committees a description of modifications to command and operational control arrangements within military alliances to which the United States is a party that could be made in order to reduce any risks to members of the Armed Forces of the United States identified pursuant to subsection (a)(2) of this section.
+**(b) Description of measures to achieve enhanced protection for members of the Armed Forces of the United States** Not later than 1 year after August 2, 2002, the President should transmit to the appropriate congressional committees a description of modifications to command and operational control arrangements within military alliances to which the United States is a party that could be made in order to reduce any risks to members of the Armed Forces of the United States identified pursuant to subsection (a)(2).
 
-**(c) Submission in classified form** The report under subsection (a) of this section, and the description of measures under subsection (b) of this section, or appropriate parts thereof, may be submitted in classified form.
+**(c) Submission in classified form** The report under subsection (a), and the description of measures under subsection (b), or appropriate parts thereof, may be submitted in classified form.
 
 
 <a id="section-7429"></a>
@@ -249,7 +249,7 @@ Funds withheld from the United States share of assessments to the United Nations
 
 **(b) Notification to Congress**
 
-(1) **In general** — Subject to paragraph (2), not later than 15 days after the President takes or directs an action or actions described in subsection (a) of this section that would otherwise be prohibited under section 7423 or 7425 of this title, the President shall submit a notification of such action to the appropriate congressional committees. A notification under this paragraph shall include a description of the action, a determination that the action is in the national interest of the United States, and a justification for the action.
+(1) **In general** — Subject to paragraph (2), not later than 15 days after the President takes or directs an action or actions described in subsection (a) that would otherwise be prohibited under section 7423 or 7425 of this title, the President shall submit a notification of such action to the appropriate congressional committees. A notification under this paragraph shall include a description of the action, a determination that the action is in the national interest of the United States, and a justification for the action.
 
 (2) **Exception** — If the President determines that a full notification under paragraph (1) could jeopardize the national security of the United States or compromise a United States law enforcement activity, not later than 15 days after the President takes or directs an action or actions referred to in paragraph (1) the President shall notify the appropriate congressional committees that an action has been taken and a determination has been made pursuant to this paragraph. The President shall provide a full notification under paragraph (1) not later than 15 days after the reasons for the determination under this paragraph no longer apply.
 
@@ -298,7 +298,7 @@ As used in this subchapter and in [section 7402 of this title](./chapter-081-int
 ### Statutory Notes
 
 #### References in Text
-Executive Order 12958, referred to in par. (2), which was formerly set out as a note under [section 435 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435&num=0&edition=prelim), War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731, and was reclassified as a note under [section 3161 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3161&num=0&edition=prelim).
+Executive Order 12958, referred to in par. (2), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Amendments
 2008—Par. (13). Pub. L. 110–181 struck out par. (13) which defined “United States military assistance”.

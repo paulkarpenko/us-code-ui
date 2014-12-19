@@ -2,7 +2,7 @@
 title: 49
 chapter: '449'
 heading: SECURITY
-section_count: 40
+section_count: 43
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -228,9 +228,7 @@ The date of enactment of the Implementing Recommendations of the 9/11 Commission
 Subsection (b) of section 1602 of the Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (g)(5), is section 1602(b) of Pub. L. 110–53, title XVI, Aug. 3, 2007, 121 Stat. 479, which is not classified to the Code.
 
 #### Amendments
-2012—Subsec. (d). Pub. L. 112–218, § 2(b), substituted “explosives” for “explosive” wherever appearing.
-
-Pub. L. 112–218, § 2(b),which directed amendment of this section by substituting “explosives” for “explosive” wherever appearing, was executed by substituting “Explosives” for “Explosive” in subsec. (d) heading, to reflect the probable intent of Congress.
+2012—Subsec. (d). Pub. L. 112–218, § 2(b), which directed substitution of “explosives” for “explosive” wherever appearing in this section, was executed in subsec. (d) by making such substitution wherever appearing in text as well as by substituting “Explosives” for “Explosive” in heading, to reflect the probable intent of Congress.
 
 Subsec. (d)(4). Pub. L. 112–218, § 2(a), added par. (4).
 
@@ -667,6 +665,12 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
 (4) **Report to congress.—** — The Assistant Secretary shall submit to the appropriate committees of Congress a report on the implementation of the plan.
 
+**(n) Passenger Exit Points From Sterile Area.—**
+
+(1) **In general.—** — The Secretary of Homeland Security shall ensure that the Transportation Security Administration is responsible for monitoring passenger exit points from the sterile area of airports at which the Transportation Security Administration provided such monitoring as of December 1, 2013.
+
+(2) **Sterile area defined.—** — In this section, the term “sterile area” has the meaning given that term in section 1540.5 of title 49, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -707,6 +711,8 @@ The date of enactment of this Act, referred to in subsec. (j)(1), probably means
 Section 607 of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (j)(2)(F), is section 607 of Pub. L. 108–176, which is set out as a note below.
 
 #### Amendments
+2013—Subsec. (n). Pub. L. 113–67 added subsec. (n).
+
 2012—Subsec. (m). Pub. L. 112–86 added subsec. (m).
 
 2009—Subsec. (j)(2)(C)(v). Pub. L. 111–83 added cl. (v).
@@ -2253,6 +2259,44 @@ Pub. L. 108–458, title IV, § 4014, Dec. 17, 2004, 118 Stat. 3720, directed th
 The Federal Information Security Management Act of 2002, referred to in subsec. (b)(4)(E), is title X of Pub. L. 107–296, Nov. 25, 116 Stat. 2259. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security, and Tables.
 
 
+<a id="section-44927"></a>
+## § 44927. Expedited screening for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans
+**(a) Passenger Screening.—** The Assistant Secretary, in consultation with the Secretary of Defense, the Secretary of Veterans Affairs, and organizations identified by the Secretaries of Defense and Veteran 11 So in original. Probably should be “Veterans”. Affairs that advocate on behalf of severely injured or disabled members of the Armed Forces and severely injured or disabled veterans, shall develop and implement a process to support and facilitate the ease of travel and to the extent possible provide expedited passenger screening services for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans through passenger screening. The process shall be designed to offer the individual private screening to the maximum extent practicable.
+
+**(b) Operations Center.—** As part of the process under subsection (a), the Assistant Secretary shall maintain an operations center to provide support and facilitate the movement of severely injured or disabled members of the Armed Forces and severely injured or disabled veterans through passenger screening prior to boarding a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation.
+
+**(c) Protocols.—** The Assistant Secretary shall—
+
+(1) establish and publish protocols, in consultation with the Secretary of Defense, the Secretary of Veterans Affairs, and the organizations identified under subsection (a), under which a severely injured or disabled member of the Armed Forces or severely injured or disabled veteran, or the family member or other representative of such member or veteran, may contact the operations center maintained under subsection (b) and request the expedited passenger screening services described in subsection (a) for that member or veteran; and
+
+(2) upon receipt of a request under paragraph (1), require the operations center to notify the appropriate Federal Security Director of the request for expedited passenger screening services, as described in subsection (a), for that member or veteran.
+
+**(d) Training.—** The Assistant Secretary shall integrate training on the protocols established under subsection (c) into the training provided to all employees who will regularly provide the passenger screening services described in subsection (a).
+
+**(e) Rule of Construction.—** Nothing in this section shall affect the authority of the Assistant Secretary to require additional screening of a severely injured or disabled member of the Armed Forces, a severely injured or disabled veteran, or their accompanying family members or nonmedical attendants, if intelligence, law enforcement, or other information indicates that additional screening is necessary.
+
+**(f) Report.—** Not later than 1 year after the date of enactment of this section, and annually thereafter, the Assistant Secretary shall submit to Congress a report on the implementation of this section. Each report shall include each of the following:
+
+(1) Information on the training provided under subsection (d).
+
+(2) Information on the consultations between the Assistant Secretary and the organizations identified under subsection (a).
+
+(3) The number of people who accessed the operations center during the period covered by the report.
+
+(4) Such other information as the Assistant Secretary determines is appropriate.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 113–27, which was approved Aug. 9, 2013.
+
+
+<a id="section-44928"></a>
+## § 44928. Honor Flight program
+
+The Administrator of the Transportation Security Administration shall establish, in collaboration with the Honor Flight Network or other not-for-profit organization that honors veterans, a process for providing expedited and dignified passenger screening services for veterans traveling on an Honor Flight Network private charter, or such other not-for-profit organization that honors veterans, to visit war memorials built and dedicated to honor the service of such veterans.
+
+
 <a id="section-44931-44932"></a>
 ## § 44931, 44932. Repealed. Pub. L. 107–71, title I, § 101(f)(6), Nov. 19, 2001, 115 Stat. 603]
 
@@ -3039,31 +3083,21 @@ Pub. L. 107–71, title I, § 113(c), Nov. 19, 2001, 115 Stat. 622, provided tha
   (I) The costs of training pilots and flight attendants under sections 44918 and 44921.
   The amount of such costs shall be determined by the Under Secretary and shall not be subject to judicial review. For purposes of subparagraph (A), the term “Federal law enforcement personnel” includes State and local law enforcement officers who are deputized under section 44922.
 
-(2) **Air carrier fees.—**
-
-  (A) *Authority.—* — In addition to the fee imposed pursuant to paragraph (1), and only to the extent that the Under Secretary estimates that such fee will be insufficient to pay for the costs of providing civil aviation security services described in paragraph (1), the Under Secretary may impose a fee on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation to pay for the difference between any such costs and the amount collected from such fee, as estimated by the Under Secretary at the beginning of each fiscal year. The estimates of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: Provided, That such judicial review shall be pursuant to [section 46110 of title 49](./chapter-461-investigations-and-proceedings.md#section-46110), United States Code: Provided further, That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.
-
-  (B) *Limitations.—*
-
-    (i) *Overall limit.—* — The amounts of fees collected under this paragraph for each fiscal year may not exceed, in the aggregate, the amounts paid in calendar year 2000 by carriers described in subparagraph (A) for screening passengers and property, as determined by the Under Secretary.
-
-    (ii) *Per-carrier limit.—* — The amount of fees collected under this paragraph from an air carrier described in subparagraph (A) for each of fiscal years 2002, 2003, and 2004 may not exceed the amount paid in calendar year 2000 by that carrier for screening passengers and property, as determined by the Under Secretary.
-
-    (iii) *Adjustment of per-carrier limit.—* — For fiscal year 2005 and subsequent fiscal years, the per-carrier limitation under clause (ii) may be determined by the Under Secretary on the basis of market share or any other appropriate measure in lieu of actual screening costs in calendar year 2000.
-
-    (iv) *Finality of determinations.—* — Determinations of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: Provided, That such judicial review shall be pursuant to [section 46110 of title 49](./chapter-461-investigations-and-proceedings.md#section-46110), United States Code: Provided further, That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.
-
-  (C) *Special rule for fiscal year 2002.—* — The amount of fees collected under this paragraph from any carrier for fiscal year 2002 may not exceed the amounts paid by that carrier for screening passengers and property for a period of time in calendar year 2000 proportionate to the period of time in fiscal year 2002 during which fees are collected under this paragraph.
+(2) Repealed. Pub. L. 113–67, div. A, title VI, § 601(a)(1), Dec. 26, 2013, 127 Stat. 1187.]
 
 **(b) Schedule of Fees.—** In imposing fees under subsection (a), the Under Secretary shall ensure that the fees are reasonably related to the Transportation Security Administration’s costs of providing services rendered.
 
-**(c) Limitation on Fee.—** Fees imposed under subsection (a)(1) may not exceed $2.50 per enplanement in air transportation or intrastate air transportation that originates at an airport in the United States, except that the total amount of such fees may not exceed $5.00 per one-way trip.
+**(c) Limitation on Fee.—**
+
+(1) **Amount.—** — Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States, except that the fee imposed per round trip shall not exceed $11.20.
+
+(2) **Definition of round trip.—** — In this subsection, the term “round trip” means a trip on an air travel itinerary that terminates or has a stopover at the origin point (or co-terminal).
 
 **(d) Imposition of Fee.—**
 
-(1) **In general.—** — Notwithstanding [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim) and the procedural requirements of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), the Under Secretary shall impose the fee under subsection (a)(1), and may impose a fee under subsection (a)(2), through the publication of notice of such fee in the Federal Register and begin collection of the fee within 60 days of the date of enactment of this Act, or as soon as possible thereafter.
+(1) **In general.—** — Notwithstanding [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim) and the procedural requirements of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), the Under Secretary shall impose the fee under subsection (a)(1) through the publication of notice of such fee in the Federal Register and begin collection of the fee within 60 days of the date of enactment of this Act, or as soon as possible thereafter.
 
-(2) **Special rules passenger fees.—** — A fee imposed under subsection (a)(1) through the procedures under subsection (d) shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
+(2) **Special rules passenger fees.—** — A fee imposed under subsection (a)(1) through the procedures under subsection (d) 11 So in original. Probably should be “paragraph (1)”. shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
 
 (3) **Subsequent modification of fee.—** — After imposing a fee in accordance with paragraph (1), the Under Secretary may modify, from time to time through publication of notice in the Federal Register, the imposition or collection of such fee, or both.
 
@@ -3095,15 +3129,35 @@ Pub. L. 107–71, title I, § 113(c), Nov. 19, 2001, 115 Stat. 622, provided tha
 
 **(h) Exemptions.—** The Under Secretary may exempt from the passenger fee imposed under subsection (a)(1) any passenger enplaning at an airport in the United States that does not receive screening services under section 44901 for that segment of the trip for which the passenger does not receive screening.
 
-**(i) Checkpoint Screening Security Fund.—**
+**(i) Deposit of Receipts in General Fund.—**
 
-(1) **Establishment.—** — There is established in the Department of Homeland Security a fund to be known as the “Checkpoint Screening Security Fund”.
+(1) **In general.—** — Beginning in fiscal year 2014, out of fees received in a fiscal year under subsection (a)(1), after amounts are made available in the fiscal year under section 44923(h), the next funds derived from such fees in the fiscal year, in the amount specified for the fiscal year in paragraph (4), shall be credited as offsetting receipts and deposited in the general fund of the Treasury.
 
-(2) **Deposits.—** — In fiscal year 2008, after amounts are made available under section 44923(h), the next $250,000,000 derived from fees received under subsection (a)(1) shall be available to be deposited in the Fund.
+(2) **Fee levels.—** — The Secretary of Homeland Security shall impose the fee authorized by subsection (a)(1) so as to collect in a fiscal year at least the amount specified in paragraph (4) for the fiscal year for making deposits under paragraph (1).
 
-(3) **Fees.—** — The Secretary of Homeland Security shall impose the fee authorized by subsection (a)(1) so as to collect at least $250,000,000 in fiscal year 2008 for deposit into the Fund.
+(3) **Relationship to other provisions.—** — Subsections (b) and (f) shall not apply to amounts to be used for making deposits under this subsection.
 
-(4) **Availability of amounts.—** — Amounts in the Fund shall be available until expended by the Administrator of the Transportation Security Administration for the purchase, deployment, installation, research, and development of equipment to improve the ability of security screening personnel at screening checkpoints to detect explosives.
+(4) **Fiscal year amounts.—** — For purposes of paragraphs (1) and (2), the fiscal year amounts are as follows:
+
+  (A) $390,000,000 for fiscal year 2014.
+
+  (B) $1,190,000,000 for fiscal year 2015.
+
+  (C) $1,250,000,000 for fiscal year 2016.
+
+  (D) $1,280,000,000 for fiscal year 2017.
+
+  (E) $1,320,000,000 for fiscal year 2018.
+
+  (F) $1,360,000,000 for fiscal year 2019.
+
+  (G) $1,400,000,000 for fiscal year 2020.
+
+  (H) $1,440,000,000 for fiscal year 2021.
+
+  (I) $1,480,000,000 for fiscal year 2022.
+
+  (J) $1,520,000,000 for fiscal year 2023.
 
 ### Statutory Notes
 
@@ -3114,6 +3168,16 @@ The date of enactment of this Act, referred to in subsec. (d)(1), probably means
 Pub. L. 107–71, title I, § 118(a), Nov. 19, 2001, 115 Stat. 625, which directed the addition of section 44940 at end of subchapter II of chapter 449 without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–294 amended subsec. (c) generally. Prior to amendment, text read as follows: “Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States.”
+
+2013—Subsec. (a)(2). Pub. L. 113–67, § 601(a)(1), struck out par. (2) which related to fees on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation.
+
+Subsec. (c). Pub. L. 113–67, § 601(b), amended subsec. (c) generally. Prior to amendment, text read as follows: “Fees imposed under subsection (a)(1) may not exceed $2.50 per enplanement in air transportation or intrastate air transportation that originates at an airport in the United States, except that the total amount of such fees may not exceed $5.00 per one-way trip.”
+
+Subsec. (d)(1). Pub. L. 113–67, § 601(a)(2), struck out “, and may impose a fee under subsection (a)(2),” after “under subsection (a)(1)”.
+
+Subsec. (i). Pub. L. 113–67, § 601(c), amended subsec. (i) generally. Prior to amendment, subsec. (i) related to the Checkpoint Screening Security Fund.
+
 2007—Subsec. (a)(2)(A), (B)(iv). Pub. L. 110–161, which directed amendment of subsec. (a)(2) “by striking the period in the last sentence of subparagraph (A) and the clause (iv) of subparagraph B and adding the following, ‘except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: Provided, That such judicial review shall be pursuant to [section 46110 of title 49](./chapter-461-investigations-and-proceedings.md#section-46110), United States Code: Provided further, That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.’ ”, was executed by substituting the quoted language directed to be added for the period at the end of last sentence of subpar. (A) and for the period at the end of cl. (iv) of subpar. (B), to reflect the probable intent of Congress.
 
 Subsec. (d)(4). Pub. L. 110–53, § 1601(1), inserted “, other than subsection (i),” before “except to”.
@@ -3126,6 +3190,12 @@ Subsec. (a)(1)(H), (I). Pub. L. 108–176, § 605(b)(1), added subpars. (H) and 
 
 Subsec. (d)(4). Pub. L. 108–176, § 605(b)(2), substituted “appropriations Act or in section 44923” for “appropriations Act”.
 
+#### Effective Date of 2014 Amendment
+Pub. L. 113–294, § 1(b), Dec. 19, 2014, 128 Stat. 4009, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a trip in air transportation or intrastate air transportation that is purchased on or after the date of the enactment of this Act [Dec. 19, 2014].”
+
+#### Effective Date of 2013 Amendment
+Pub. L. 113–67, div. A, title VI, § 601(a)(3), Dec. 26, 2013, 127 Stat. 1187, provided that: “The repeal made by paragraph (1) [amending this section] and the amendment made by paragraph (2) [amending this section] shall each take effect on October 1, 2014.”
+
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under [section 106 of this title](./chapter-001-organization.md#section-106).
 
@@ -3134,6 +3204,12 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).
+
+#### Imposition of Fee Increase
+Pub. L. 113–67, div. A, title VI, § 601(d), Dec. 26, 2013, 127 Stat. 1188, provided that: “The Secretary of Homeland Security shall implement the fee increase authorized by the amendment made by subsection (b) [amending this section]— “(1) beginning on July 1, 2014; and “(2) through the publication of notice of such fee in the Federal Register, notwithstanding [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim), United States Code, and the procedural requirements of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code.”
+
+#### Continued Availability of Existing Balances
+Pub. L. 113–67, div. A, title VI, § 601(e), Dec. 26, 2013, 127 Stat. 1188, provided that: “The amendments made by this section [amending this section] shall not affect the availability of funds made available under [section 44940(i) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44940/i&num=0&edition=prelim), United States Code, before the date of enactment of this Act [Dec. 26, 2013].”
 
 
 <a id="section-44941"></a>
@@ -3251,3 +3327,103 @@ Pub. L. 107–71, title I, § 131(c), Nov. 19, 2001, 115 Stat. 635, provided tha
 
 #### Annual Report
 Pub. L. 108–334, title V, § 515(b), Oct. 18, 2004, 118 Stat. 1318, provided that: “Not later than 180 days after the date of enactment of this Act [Oct. 18, 2004] and annually thereafter, the Administrator of the Transportation Security Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives; the Committee on Appropriations of the House of Representatives; the Committee on Commerce, Science and Transportation of the Senate; and the Committee on Appropriations of the Senate, a report that contains a detailed description of the amount of unclaimed money recovered in total and at each individual airport, and specifically how the unclaimed money is being used to provide civil aviation security.”
+
+
+<a id="section-44946"></a>
+## § 44946. Aviation Security Advisory Committee
+**(a) Establishment.—** The Assistant Secretary shall establish within the Transportation Security Administration an aviation security advisory committee.
+
+**(b) Duties.—**
+
+(1) **In general.—** — The Assistant Secretary shall consult the Advisory Committee, as appropriate, on aviation security matters, including on the development, refinement, and implementation of policies, programs, rulemaking, and security directives pertaining to aviation security, while adhering to sensitive security guidelines.
+
+(2) **Recommendations.—**
+
+  (A) *In general.—* — The Advisory Committee shall develop, at the request of the Assistant Secretary, recommendations for improvements to aviation security.
+
+  (B) *Recommendations of subcommittees.—* — Recommendations agreed upon by the subcommittees established under this section shall be approved by the Advisory Committee before transmission to the Assistant Secretary.
+
+(3) **Periodic reports.—** — The Advisory Committee shall periodically submit to the Assistant Secretary—
+
+  (A) reports on matters identified by the Assistant Secretary; and
+
+  (B) reports on other matters identified by a majority of the members of the Advisory Committee.
+
+(4) **Annual report.—** — The Advisory Committee shall submit to the Assistant Secretary an annual report providing information on the activities, findings, and recommendations of the Advisory Committee, including its subcommittees, for the preceding year. Not later than 6 months after the date that the Secretary receives the annual report, the Secretary shall publish a public version describing the Advisory Committee’s activities and such related matters as would be informative to the public consistent with the policy of [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim).
+
+(5) **Feedback.—** — Not later than 90 days after receiving recommendations transmitted by the Advisory Committee under paragraph (4), the Assistant Secretary shall respond in writing to the Advisory Committee with feedback on each of the recommendations, an action plan to implement any of the recommendations with which the Assistant Secretary concurs, and a justification for why any of the recommendations have been rejected.
+
+(6) **Congressional notification.—** — Not later than 30 days after providing written feedback to the Advisory Committee under paragraph (5), the Assistant Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives on such feedback, and provide a briefing upon request.
+
+(7) **Report to congress.—** — Prior to briefing the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives under paragraph (6), the Assistant Secretary shall submit to such committees a report containing information relating to the recommendations transmitted by the Advisory Committee in accordance with paragraph (4).
+
+**(c) Membership.—**
+
+(1) **Appointment.—**
+
+  (A) *In general.—* — Not later than 180 days after the date of enactment of the Aviation Security Stakeholder Participation Act of 2014, the Assistant Secretary shall appoint the members of the Advisory Committee.
+
+  (B) *Composition.—* — The membership of the Advisory Committee shall consist of individuals representing not more than 34 member organizations. Each organization shall be represented by 1 individual (or the individual’s designee).
+
+  (C) *Representation.—* — The membership of the Advisory Committee shall include representatives of air carriers, all-cargo air transportation, indirect air carriers, labor organizations representing air carrier employees, labor organizations representing transportation security officers, aircraft manufacturers, airport operators, airport construction and maintenance contractors, labor organizations representing employees of airport construction and maintenance contractors, general aviation, privacy organizations, the travel industry, airport-based businesses (including minority-owned small businesses), businesses that conduct security screening operations at airports, aeronautical repair stations, passenger advocacy groups, the aviation security technology industry (including screening technology and biometrics), victims of terrorist acts against aviation, and law enforcement and security experts.
+
+(2) **Term of office.—**
+
+  (A) *Terms.—* — The term of each member of the Advisory Committee shall be 2 years. A member of the Advisory Committee may be reappointed.
+
+  (B) *Removal.—* — The Assistant Secretary may review the participation of a member of the Advisory Committee and remove such member for cause at any time.
+
+(3) **Prohibition on compensation.—** — The members of the Advisory Committee shall not receive pay, allowances, or benefits from the Government by reason of their service on the Advisory Committee.
+
+(4) **Meetings.—**
+
+  (A) *In general.—* — The Assistant Secretary shall require the Advisory Committee to meet at least semiannually and may convene additional meetings as necessary.
+
+  (B) *Public meetings.—* — At least 1 of the meetings described in subparagraph (A) shall be open to the public.
+
+  (C) *Attendance.—* — The Advisory Committee shall maintain a record of the persons present at each meeting.
+
+(5) **Member access to sensitive security information.—** — Not later than 60 days after the date of a member’s appointment, the Assistant Secretary shall determine if there is cause for the member to be restricted from possessing sensitive security information. Without such cause, and upon the member voluntarily signing a non-disclosure agreement, the member may be granted access to sensitive security information that is relevant to the member’s advisory duties. The member shall protect the sensitive security information in accordance with part 1520 of title 49, Code of Federal Regulations.
+
+(6) **Chairperson.—** — A stakeholder representative on the Advisory Committee who is elected by the appointed membership of the Advisory Committee shall chair the Advisory Committee.
+
+**(d) Subcommittees.—**
+
+(1) **Membership.—** — The Advisory Committee chairperson, in coordination with the Assistant Secretary, may establish within the Advisory Committee any subcommittee that the Assistant Secretary and Advisory Committee determine to be necessary. The Assistant Secretary and the Advisory Committee shall create subcommittees to address aviation security issues, including the following:
+
+  (A) *Air cargo security.—* — The implementation of the air cargo security programs established by the Transportation Security Administration to screen air cargo on passenger aircraft and all-cargo aircraft in accordance with established cargo screening mandates.
+
+  (B) *General aviation.—* — General aviation facilities, general aviation aircraft, and helicopter operations at general aviation and commercial service airports.
+
+  (C) *Perimeter and access control.—* — Recommendations on airport perimeter security, exit lane security and technology at commercial service airports, and access control issues.
+
+  (D) *Security technology.—* — Security technology standards and requirements, including their harmonization internationally, technology to screen passengers, passenger baggage, carry-on baggage, and cargo, and biometric technology.
+
+(2) **Risk-based security.—** — All subcommittees established by the Advisory Committee chairperson in coordination with the Assistant Secretary shall consider risk-based security approaches in the performance of their functions that weigh the optimum balance of costs and benefits in transportation security, including for passenger screening, baggage screening, air cargo security policies, and general aviation security matters.
+
+(3) **Meetings and reporting.—** — Each subcommittee shall meet at least quarterly and submit to the Advisory Committee for inclusion in the annual report required under subsection (b)(4) information, including recommendations, regarding issues within the subcommittee.
+
+(4) **Subcommittee chairs.—** — Each subcommittee shall be co-chaired by a Government official and an industry official.
+
+**(e) Subject Matter Experts.—** Each subcommittee under this section shall include subject matter experts with relevant expertise who are appointed by the respective subcommittee chairpersons.
+
+**(f) Nonapplicability of FACA.—** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee and its subcommittees.
+
+**(g) Definitions.—** In this section:
+
+(1) **Advisory committee.—** — The term “Advisory Committee” means the aviation security advisory committee established under subsection (a).
+
+(2) **Assistant secretary.—** — The term “Assistant Secretary” means the Assistant Secretary of Homeland Security (Transportation Security Administration).
+
+(3) **Perimeter security.—**
+
+  (A) *In general.—* — The term “perimeter security” means procedures or systems to monitor, secure, and prevent unauthorized access to an airport, including its airfield and terminal.
+
+  (B) *Inclusions.—* — The term “perimeter security” includes the fence area surrounding an airport, access gates, and access controls.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the Aviation Security Stakeholder Participation Act of 2014, referred to in subsec. (c)(1)(A), is the date of enactment of Pub. L. 113–238, which was approved Dec. 18, 2014.
+
+The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.

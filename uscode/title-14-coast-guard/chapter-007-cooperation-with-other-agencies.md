@@ -2,7 +2,7 @@
 title: 14
 chapter: '7'
 heading: COOPERATION WITH OTHER AGENCIES
-section_count: 14
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -276,6 +276,9 @@ Experience since the war has indicated the necessity for making provision for th
 
 This section authorizes the designation, with the consent of the State Department, of Coast Guard officers to be officially attached to diplomatic missions of the United States. Although Coast Guard advice on Coast Guard matters is always available to our diplomatic missions, in those locations where such advice and information are frequently sought, it is felt that the most effective utilization of Coast Guard services would be achieved by having Coast Guard officers attached to such missions. Provision for customs officers to be attached to diplomatic missions is contained in the act of March 4, 1923, as amended, 42 Stat. 1453 (title 19, U.S.C., 1946 ed., § 6). Before the transfer in 1939 of the Foreign Agriculture Service to the State Department, representatives of the Bureau of Agricultural Economics of the Department of Agriculture stationed abroad were agricultural attachés. Act of June 5, 1930, 46 Stat. 498 (title 7, U.S.C., 1946 ed., § 542(a)). 81st Congress, House Report No. 557.
 
+#### Official Representation Items in Support of the Coast Guard Attaché Program
+Pub. L. 113–126, title III, § 312, July 7, 2014, 128 Stat. 1399, provided that: “Notwithstanding any other limitation on the amount of funds that may be used for official representation items, the Secretary of Homeland Security may use funds made available to the Secretary through the National Intelligence Program for necessary expenses for intelligence analysis and operations coordination activities for official representation items in support of the Coast Guard Attaché Program.”
+
 
 <a id="section-151"></a>
 ## § 151. Contracts with Government-owned establishments for work and material
@@ -302,3 +305,44 @@ The Coast Guard Exchange System, or a morale, welfare, and recreation system of 
 ## § 153. Appointment of judges
 
 The Secretary may appoint civilian employees of the department in which the Coast Guard is operating as appellate military judges, available for assignment to the Coast Guard Court of Criminal Appeals as provided for in [section 866(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section866/a&num=0&edition=prelim).
+
+
+<a id="section-154"></a>
+## § 154. Arctic maritime domain awareness
+**(a) In General.—** The Commandant shall improve maritime domain awareness in the Arctic—
+
+(1) by promoting interagency cooperation and coordination;
+
+(2) by employing joint, interagency, and international capabilities; and
+
+(3) by facilitating the sharing of information, intelligence, and data related to the Arctic maritime domain between the Coast Guard and departments and agencies listed in subsection (b).
+
+**(b) Coordination.—** The Commandant shall seek to coordinate the collection, sharing, and use of information, intelligence, and data related to the Arctic maritime domain between the Coast Guard and the following:
+
+(1) The Department of Homeland Security.
+
+(2) The Department of Defense.
+
+(3) The Department of Transportation.
+
+(4) The Department of State.
+
+(5) The Department of the Interior.
+
+(6) The National Aeronautics and Space Administration.
+
+(7) The National Oceanic and Atmospheric Administration.
+
+(8) The Environmental Protection Agency.
+
+(9) The National Science Foundation.
+
+(10) The Arctic Research Commission.
+
+(11) Any Federal agency or commission or State the Commandant determines is appropriate.
+
+**(c) Cooperation.—** The Commandant and the head of a department or agency listed in subsection (b) may by agreement, on a reimbursable basis or otherwise, share personnel, services, equipment, and facilities to carry out the requirements of this section.
+
+**(d) 5-year Strategic Plan.—** Not later than January 1, 2016 and every 5 years thereafter, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a 5-year strategic plan to guide interagency and international intergovernmental cooperation and coordination for the purpose of improving maritime domain awareness in the Arctic.
+
+**(e) Definitions.—** In this section the term “Arctic” has the meaning given that term in section 112 of the Arctic Research and Policy Act of 1984 ([15 U.S.C. 4111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4111&num=0&edition=prelim)).

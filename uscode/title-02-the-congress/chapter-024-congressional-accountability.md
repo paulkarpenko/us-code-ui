@@ -2,7 +2,7 @@
 title: 2
 chapter: '24'
 heading: CONGRESSIONAL ACCOUNTABILITY
-section_count: 45
+section_count: 46
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -162,20 +162,20 @@ The Rehabilitation Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–
 
 **(b) Remedy**
 
-(1) **Civil rights** — The remedy for a violation of subsection (a)(1) of this section shall be—
+(1) **Civil rights** — The remedy for a violation of subsection (a)(1) shall be—
 
   (A) such remedy as would be appropriate if awarded under section 706(g) of the Civil Rights Act of 1964 ([42 U.S.C. 2000e–5(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5/g&num=0&edition=prelim)); and
 
   (B) such compensatory damages as would be appropriate if awarded under [section 1981 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1981&num=0&edition=prelim), or as would be appropriate if awarded under sections 1981a(a)(1), 1981a(b)(2), and, irrespective of the size of the employing office, 1981a(b)(3)(D) of title 42.
 
-(2) **Age discrimination** — The remedy for a violation of subsection (a)(2) of this section shall be—
+(2) **Age discrimination** — The remedy for a violation of subsection (a)(2) shall be—
 
   (A) such remedy as would be appropriate if awarded under section 15(c) of the Age Discrimination in Employment Act of 1967 ([29 U.S.C. 633a(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section633a/c&num=0&edition=prelim)); and
 
   (B) such liquidated damages as would be appropriate if awarded under section 7(b) of such Act ([29 U.S.C. 626(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section626/b&num=0&edition=prelim)).
   In addition, the waiver provisions of section 7(f) of such Act ([29 U.S.C. 626(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section626/f&num=0&edition=prelim)) shall apply to covered employees.
 
-(3) **Disabilities discrimination** — The remedy for a violation of subsection (a)(3) of this section shall be—
+(3) **Disabilities discrimination** — The remedy for a violation of subsection (a)(3) shall be—
 
   (A) such remedy as would be appropriate if awarded under section 505(a)(1) of the Rehabilitation Act of 1973 ([29 U.S.C. 794a(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794a/a/1&num=0&edition=prelim)) or section 107(a) of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12117(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12117/a&num=0&edition=prelim)); and
 
@@ -190,6 +190,11 @@ The Rehabilitation Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–
 #### Codification
 Section is comprised of section 201 of Pub. L. 104–1. Subsec. (c) of section 201 of Pub. L. 104–1 amended [section 633a of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section633a&num=0&edition=prelim), Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare.
 
+#### Coverage of House of Representatives and the Agencies of the Legislative Branch
+Pub. L. 102–166, title I, § 117, Nov. 21, 1991, 105 Stat. 1080, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that: “(a) Coverage of the House of Representatives.—“(1) In general.—Notwithstanding any provision of title VII of the Civil Rights Act of 1964 ([42 U.S.C. 2000e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim) et seq.) or of other law, the purposes of such title shall, subject to paragraph (2), apply in their entirety to the House of Representatives. “(2) Employment in the house.—“(A) Application.—The rights and protections under title VII of the Civil Rights Act of 1964 ([42 U.S.C. 2000e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim) et seq.) shall, subject to subparagraph (B), apply with respect to any employee in an employment position in the House of Representatives and any employing authority of the House of Representatives. “(B) Administration.—“(i) In general.—In the administration of this paragraph, the remedies and procedures made applicable pursuant to the resolution described in clause (ii) shall apply exclusively. “(ii) Resolution.—The resolution referred to in clause (i) is the Fair Employment Practices Resolution (House Resolution 558 of the One Hundredth Congress, as agreed to October 4, 1988), as incorporated into the Rules of the House of Representatives of the One Hundred Second Congress as Rule LI, or any other provision that continues in effect the provisions of such resolution. “(C) Exercise of rulemaking power.—The provisions of subparagraph (B) are enacted by the House of Representatives as an exercise of the rulemaking power of the House of Representatives, with full recognition of the right of the House to change its rules, in the same manner, and to the same extent as in the case of any other rule of the House. “(b) Instrumentalities of Congress.—“(1) In general.—The rights and protections under this title [see Tables for classification] and title VII of the Civil Rights Act of 1964 ([42 U.S.C. 2000e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim) et seq.) shall, subject to paragraph (2), apply with respect to the conduct of each instrumentality of the Congress. “(2) Establishment of remedies and procedures by instrumentalities.—The chief official of each instrumentality of the Congress shall establish remedies and procedures to be utilized with respect to the rights and protections provided pursuant to paragraph (1). Such remedies and procedures shall apply exclusively, except for the employees who are defined as Senate employees, in [former] section 301(c)(1) [former [42 U.S.C. 2000e–16a(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–16a/c/1&num=0&edition=prelim)]. “(3) Report to congress.—The chief official of each instrumentality of the Congress shall, after establishing remedies and procedures for purposes of paragraph (2), submit to the Congress a report describing the remedies and procedures. “(4) Definition of instrumentalities.—For purposes of this section, instrumentalities of the Congress include the following: the Architect of the Capitol, the Congressional Budget Office, the Government Accountability Office, the Government Publishing Office, the Office of Technology Assessment, and the United States Botanic Garden. “(5) Construction.—Nothing in this section shall alter the enforcement procedures for individuals protected under section 717 of title VII for [of] the Civil Rights Act of 1964 ([42 U.S.C. 2000e–16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–16&num=0&edition=prelim)).”
+
+[Section effective Nov. 21, 1991, except as otherwise provided, see section 402(a) of Pub. L. 102–166, set out as an Effective Date of 1991 Amendment note under [section 1981 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1981&num=0&edition=prelim), The Public Health and Welfare.]
+
 
 <a id="section-1312"></a>
 ## § 1312. Rights and protections under Family and Medical Leave Act of 1993
@@ -203,7 +208,7 @@ Section is comprised of section 201 of Pub. L. 104–1. Subsec. (c) of section 2
 
   (B) the term “eligible employee” as used in the Family and Medical Leave Act of 1993 means a covered employee who has been employed in any employing office for 12 months and for at least 1,250 hours of employment during the previous 12 months.
 
-**(b) Remedy** The remedy for a violation of subsection (a) of this section shall be such remedy, including liquidated damages, as would be appropriate if awarded under paragraph (1) of section 107(a) of the Family and Medical Leave Act of 1993 ([29 U.S.C. 2617(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2617/a/1&num=0&edition=prelim)).
+**(b) Remedy** The remedy for a violation of subsection (a) shall be such remedy, including liquidated damages, as would be appropriate if awarded under paragraph (1) of section 107(a) of the Family and Medical Leave Act of 1993 ([29 U.S.C. 2617(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2617/a/1&num=0&edition=prelim)).
 
 **(c) Omitted**
 
@@ -211,13 +216,13 @@ Section is comprised of section 201 of Pub. L. 104–1. Subsec. (c) of section 2
 
 (1) **In general** — The Board shall, pursuant to [section 1384 of this title](./chapter-024-congressional-accountability.md#section-1384), issue regulations to implement the rights and protections under this section.
 
-(2) **Agency regulations** — The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+(2) **Agency regulations** — The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 **(e) Effective date**
 
-(1) **In general** — Subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
+(1) **In general** — Subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
-(2) **Government Accountability Office and Library of Congress** — Subsection (c) of this section shall be effective 1 year after transmission to the Congress of the study under [section 1371 of this title](./chapter-024-congressional-accountability.md#section-1371).
+(2) **Government Accountability Office and Library of Congress** — Subsection (c) shall be effective 1 year after transmission to the Congress of the study under [section 1371 of this title](./chapter-024-congressional-accountability.md#section-1371).
 
 ### Statutory Notes
 
@@ -239,17 +244,17 @@ Section is comprised of section 202 of Pub. L. 104–1. Subsec. (c) of section 2
 
 (1) **In general** — The rights and protections established by subsections (a)(1) and (d) of section 6, section 7, and section 12(c) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206&num=0&edition=prelim) (a)(1) and (d), 207, 212(c)) shall apply to covered employees.
 
-(2) **Interns** — For the purposes of this section, the term “covered employee” does not include an intern as defined in regulations under subsection (c) of this section.
+(2) **Interns** — For the purposes of this section, the term “covered employee” does not include an intern as defined in regulations under subsection (c).
 
-(3) **Compensatory time** — Except as provided in regulations under subsection (c)(3) of this section and in subsection (c)(4) of this section, covered employees may not receive compensatory time in lieu of overtime compensation.
+(3) **Compensatory time** — Except as provided in regulations under subsection (c)(3) and in subsection (c)(4), covered employees may not receive compensatory time in lieu of overtime compensation.
 
-**(b) Remedy** The remedy for a violation of subsection (a) of this section shall be such remedy, including liquidated damages, as would be appropriate if awarded under section 16(b) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 216(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section216/b&num=0&edition=prelim)).
+**(b) Remedy** The remedy for a violation of subsection (a) shall be such remedy, including liquidated damages, as would be appropriate if awarded under section 16(b) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 216(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section216/b&num=0&edition=prelim)).
 
 **(c) Regulations to implement section**
 
 (1) **In general** — The Board shall, pursuant to [section 1384 of this title](./chapter-024-congressional-accountability.md#section-1384), issue regulations to implement this section.
 
-(2) **Agency regulations** — Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+(2) **Agency regulations** — Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 (3) **Irregular work schedules** — The Board shall issue regulations for covered employees whose work schedules directly depend on the schedule of the House of Representatives or the Senate that shall be comparable to the provisions in the Fair Labor Standards Act of 1938 [[29 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) et seq.] that apply to employees who have irregular work schedules.
 
@@ -257,7 +262,7 @@ Section is comprised of section 202 of Pub. L. 104–1. Subsec. (c) of section 2
 
 **(d) Omitted**
 
-**(e) Effective date** Subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
+**(e) Effective date** Subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
 ### Statutory Notes
 
@@ -272,6 +277,9 @@ Section is comprised of section 203 of Pub. L. 104–1. Subsec. (d) of section 2
 
 Subsec. (c)(4). Pub. L. 104–197, § 312(b), added par. (4).
 
+#### Application of Rights and Protections of Fair Labor Standards Act of 1938 to Congressional and Architect of the Capitol Employees
+Pub. L. 101–157, § 8, Nov. 17, 1989, 103 Stat. 944, provided that: “(a) House Employees.—“(1) In general.—Not later than 180 days after the date the minimum wage rate prescribed by section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/1&num=0&edition=prelim)) is increased pursuant to the amendment made by section 2, the rights and protections under the Fair Labor Standards Act of 1938 ([29 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) et seq.) shall apply with respect to any employee in an employment position in the House of Representatives and to any employing authority of the House of Representatives. “(2) Administration.—In the administration of this subsection, the remedies and procedures under the Fair Employment Practices Resolution shall be applied. As used in this paragraph, the term “Fair Employment Practices Resolution” means House Resolution 558, One Hundredth Congress, agreed to October 4, 1988, as continued in effect by House Resolution 15, One Hundred First Congress, agreed to January 3, 1989. “(b) Architect of the Capitol Employees.—Not later than 180 days after the date the minimum wage rate prescribed by section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/1&num=0&edition=prelim)) is increased pursuant to the amendment made by section 2, the rights and protections under the Fair Labor Standards Act of 1938 ([29 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) et seq.) shall apply with respect to individuals employed under the Office of the Architect of the Capitol.”
+
 
 <a id="section-1314"></a>
 ## § 1314. Rights and protections under Employee Polygraph Protection Act of 1988
@@ -281,19 +289,19 @@ Subsec. (c)(4). Pub. L. 104–197, § 312(b), added par. (4).
 
 (2) **Definitions** — For purposes of this section, the term “covered employee” shall include employees of the Government Accountability Office and the Library of Congress and the term “employing office” shall include the Government Accountability Office and the Library of Congress.
 
-(3) **Capitol Police** — Nothing in this section shall preclude the Capitol Police from using lie detector tests in accordance with regulations under subsection (c) of this section.
+(3) **Capitol Police** — Nothing in this section shall preclude the Capitol Police from using lie detector tests in accordance with regulations under subsection (c).
 
-**(b) Remedy** The remedy for a violation of subsection (a) of this section shall be such remedy as would be appropriate if awarded under section 6(c)(1) of the Employee Polygraph Protection Act of 1988 ([29 U.S.C. 2005(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2005/c/1&num=0&edition=prelim)).
+**(b) Remedy** The remedy for a violation of subsection (a) shall be such remedy as would be appropriate if awarded under section 6(c)(1) of the Employee Polygraph Protection Act of 1988 ([29 U.S.C. 2005(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2005/c/1&num=0&edition=prelim)).
 
 **(c) Regulations to implement section**
 
 (1) **In general** — The Board shall, pursuant to [section 1384 of this title](./chapter-024-congressional-accountability.md#section-1384), issue regulations to implement this section.
 
-(2) **Agency regulations** — The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+(2) **Agency regulations** — The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 **(d) Effective date**
 
-(1) **In general** — Except as provided in paragraph (2), subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
+(1) **In general** — Except as provided in paragraph (2), subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
 (2) **Government Accountability Office and Library of Congress** — This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under [section 1371 of this title](./chapter-024-congressional-accountability.md#section-1371).
 
@@ -313,17 +321,17 @@ Subsec. (d)(2). Pub. L. 108–271 substituted “Government Accountability Offic
 
 (2) **Definitions** — For purposes of this section, the term “covered employee” shall include employees of the Government Accountability Office and the Library of Congress and the term “employing office” shall include the Government Accountability Office and the Library of Congress.
 
-**(b) Remedy** The remedy for a violation of subsection (a) of this section shall be such remedy as would be appropriate if awarded under paragraphs (1), (2), and (4) of section 5(a) of the Worker Adjustment and Retraining Notification Act ([29 U.S.C. 2104(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2104/a/1&num=0&edition=prelim), (2), and (4)).
+**(b) Remedy** The remedy for a violation of subsection (a) shall be such remedy as would be appropriate if awarded under paragraphs (1), (2), and (4) of section 5(a) of the Worker Adjustment and Retraining Notification Act ([29 U.S.C. 2104(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2104/a/1&num=0&edition=prelim), (2), and (4)).
 
 **(c) Regulations to implement section**
 
 (1) **In general** — The Board shall, pursuant to [section 1384 of this title](./chapter-024-congressional-accountability.md#section-1384), issue regulations to implement this section.
 
-(2) **Agency regulations** — The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+(2) **Agency regulations** — The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 **(d) Effective date**
 
-(1) **In general** — Except as provided in paragraph (2), subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
+(1) **In general** — Except as provided in paragraph (2), subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
 (2) **Government Accountability Office and Library of Congress** — This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under [section 1371 of this title](./chapter-024-congressional-accountability.md#section-1371).
 
@@ -355,17 +363,17 @@ Subsec. (d)(2). Pub. L. 108–271 substituted “Government Accountability Offic
 
   (C) the term “employing office” includes the Government Accountability Office and the Library of Congress.
 
-**(b) Remedy** The remedy for a violation of subsection (a) of this section shall be such remedy as would be appropriate if awarded under [section 4323(d) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4323/d&num=0&edition=prelim).
+**(b) Remedy** The remedy for a violation of subsection (a) shall be such remedy as would be appropriate if awarded under [section 4323(d) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4323/d&num=0&edition=prelim).
 
 **(c) Regulations to implement section**
 
 (1) **In general** — The Board shall, pursuant to [section 1384 of this title](./chapter-024-congressional-accountability.md#section-1384), issue regulations to implement this section.
 
-(2) **Agency regulations** — The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+(2) **Agency regulations** — The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 **(d) Effective date**
 
-(1) **In general** — Except as provided in paragraph (2), subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
+(1) **In general** — Except as provided in paragraph (2), subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
 (2) **Government Accountability Office and Library of Congress** — This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under [section 1371 of this title](./chapter-024-congressional-accountability.md#section-1371).
 
@@ -422,7 +430,7 @@ Section was enacted as part of the Veterans Employment Opportunities Act of 1998
 ## § 1317. Prohibition of intimidation or reprisal
 **(a) In general** It shall be unlawful for an employing office to intimidate, take reprisal against, or otherwise discriminate against, any covered employee because the covered employee has opposed any practice made unlawful by this chapter, or because the covered employee has initiated proceedings, made a charge, or testified, assisted, or participated in any manner in a hearing or other proceeding under this chapter.
 
-**(b) Remedy** The remedy available for a violation of subsection (a) of this section shall be such legal or equitable remedy as may be appropriate to redress a violation of subsection (a) of this section.
+**(b) Remedy** The remedy available for a violation of subsection (a) shall be such legal or equitable remedy as may be appropriate to redress a violation of subsection (a).
 
 ### Statutory Notes
 
@@ -456,35 +464,35 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 **(b) Discrimination in public services and accommodations**
 
-(1) **Rights and protections** — The rights and protections against discrimination in the provision of public services and accommodations established by sections 201 through 230, 302, 303, and 309 of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12131–121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12131–121&num=0&edition=prelim)50, 12182, 12183, and 12189) shall apply to the entities listed in subsection (a) of this section.
+(1) **Rights and protections** — The rights and protections against discrimination in the provision of public services and accommodations established by sections 201 through 230, 302, 303, and 309 of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12131–121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12131–121&num=0&edition=prelim)50, 12182, 12183, and 12189) shall apply to the entities listed in subsection (a).
 
-(2) **Definitions** — For purposes of the application of title II of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12131&num=0&edition=prelim) et seq.) under this section, the term “public entity” means any entity listed in subsection (a) of this section that provides public services, programs, or activities.
+(2) **Definitions** — For purposes of the application of title II of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12131&num=0&edition=prelim) et seq.) under this section, the term “public entity” means any entity listed in subsection (a) that provides public services, programs, or activities.
 
-**(c) Remedy** The remedy for a violation of subsection (b) of this section shall be such remedy as would be appropriate if awarded under section 203 or 308(a) of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12133](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12133&num=0&edition=prelim), 12188(a)), except that, with respect to any claim of employment discrimination asserted by any covered employee, the exclusive remedy shall be under [section 1311 of this title](./chapter-024-congressional-accountability.md#section-1311).
+**(c) Remedy** The remedy for a violation of subsection (b) shall be such remedy as would be appropriate if awarded under section 203 or 308(a) of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12133](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12133&num=0&edition=prelim), 12188(a)), except that, with respect to any claim of employment discrimination asserted by any covered employee, the exclusive remedy shall be under [section 1311 of this title](./chapter-024-congressional-accountability.md#section-1311).
 
 **(d) Available procedures**
 
-(1) **Charge filed with General Counsel** — A qualified individual with a disability, as defined in section 201(2) of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12131(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12131/2&num=0&edition=prelim)), who alleges a violation of subsection (b) of this section by an entity listed in subsection (a) of this section, may file a charge against any entity responsible for correcting the violation with the General Counsel within 180 days of the occurrence of the alleged violation. The General Counsel shall investigate the charge.
+(1) **Charge filed with General Counsel** — A qualified individual with a disability, as defined in section 201(2) of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12131(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12131/2&num=0&edition=prelim)), who alleges a violation of subsection (b) by an entity listed in subsection (a), may file a charge against any entity responsible for correcting the violation with the General Counsel within 180 days of the occurrence of the alleged violation. The General Counsel shall investigate the charge.
 
-(2) **Mediation** — If, upon investigation under paragraph (1), the General Counsel believes that a violation of subsection (b) of this section may have occurred and that mediation may be helpful in resolving the dispute, the General Counsel may request, but not participate in, mediation under subsections (b) through (d) of [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403) between the charging individual and any entity responsible for correcting the alleged violation.
+(2) **Mediation** — If, upon investigation under paragraph (1), the General Counsel believes that a violation of subsection (b) may have occurred and that mediation may be helpful in resolving the dispute, the General Counsel may request, but not participate in, mediation under subsections (b) through (d) of [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403) between the charging individual and any entity responsible for correcting the alleged violation.
 
-(3) **Complaint, hearing, Board review** — If mediation under paragraph (2) has not succeeded in resolving the dispute, and if the General Counsel believes that a violation of subsection (b) of this section may have occurred, the General Counsel may file with the Office a complaint against any entity responsible for correcting the violation. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of [section 1405 of this title](./chapter-024-congressional-accountability.md#section-1405) and any person who has filed a charge under paragraph (1) may intervene as of right, with the full rights of a party. The decision of the hearing officer shall be subject to review by the Board pursuant to [section 1406 of this title](./chapter-024-congressional-accountability.md#section-1406).
+(3) **Complaint, hearing, Board review** — If mediation under paragraph (2) has not succeeded in resolving the dispute, and if the General Counsel believes that a violation of subsection (b) may have occurred, the General Counsel may file with the Office a complaint against any entity responsible for correcting the violation. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of [section 1405 of this title](./chapter-024-congressional-accountability.md#section-1405) and any person who has filed a charge under paragraph (1) may intervene as of right, with the full rights of a party. The decision of the hearing officer shall be subject to review by the Board pursuant to [section 1406 of this title](./chapter-024-congressional-accountability.md#section-1406).
 
 (4) **Judicial review** — A charging individual who has intervened under paragraph (3) or any respondent to the complaint, if aggrieved by a final decision of the Board under paragraph (3), may file a petition for review in the United States Court of Appeals for the Federal Circuit, pursuant to [section 1407 of this title](./chapter-024-congressional-accountability.md#section-1407).
 
-(5) **Compliance date** — If new appropriated funds are necessary to comply with an order requiring correction of a violation of subsection (b) of this section, compliance shall take place as soon as possible, but no later than the fiscal year following the end of the fiscal year in which the order requiring correction becomes final and not subject to further review.
+(5) **Compliance date** — If new appropriated funds are necessary to comply with an order requiring correction of a violation of subsection (b), compliance shall take place as soon as possible, but no later than the fiscal year following the end of the fiscal year in which the order requiring correction becomes final and not subject to further review.
 
 **(e) Regulations to implement section**
 
 (1) **In general** — The Board shall, pursuant to [section 1384 of this title](./chapter-024-congressional-accountability.md#section-1384), issue regulations to implement this section.
 
-(2) **Agency regulations** — The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Attorney General and the Secretary of Transportation to implement the statutory provisions referred to in subsection (b) of this section except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+(2) **Agency regulations** — The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Attorney General and the Secretary of Transportation to implement the statutory provisions referred to in subsection (b) except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
-(3) **Entity responsible for correction** — The regulations issued under paragraph (1) shall include a method of identifying, for purposes of this section and for categories of violations of subsection (b) of this section, the entity responsible for correction of a particular violation.
+(3) **Entity responsible for correction** — The regulations issued under paragraph (1) shall include a method of identifying, for purposes of this section and for categories of violations of subsection (b), the entity responsible for correction of a particular violation.
 
 **(f) Periodic inspections; report to Congress; initial study**
 
-(1) **Periodic inspections** — On a regular basis, and at least once each Congress, the General Counsel shall inspect the facilities of the entities listed in subsection (a) of this section to ensure compliance with subsection (b) of this section.
+(1) **Periodic inspections** — On a regular basis, and at least once each Congress, the General Counsel shall inspect the facilities of the entities listed in subsection (a) to ensure compliance with subsection (b).
 
 (2) **Report** — On the basis of each periodic inspection, the General Counsel shall, at least once every Congress, prepare and submit a report—
 
@@ -492,7 +500,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
   (B) containing the results of the periodic inspection, describing any steps necessary to correct any violation of this section, assessing any limitations in accessibility to and usability by individuals with disabilities associated with each violation, and the estimated cost and time needed for abatement.
 
-(3) **Initial period for study and corrective action** — The period from January 23, 1995, until December 31, 1996, shall be available to the Office of the Architect of the Capitol and other entities subject to this section to identify any violations of subsection (b) of this section, to determine the costs of compliance, and to take any necessary corrective action to abate any violations. The Office shall assist the Office of the Architect of the Capitol and other entities listed in subsection (a) of this section by arranging for inspections and other technical assistance at their request. Prior to July 1, 1996, the General Counsel shall conduct a thorough inspection under paragraph (1) and shall submit the report under paragraph (2) for the One Hundred Fourth Congress.
+(3) **Initial period for study and corrective action** — The period from January 23, 1995, until December 31, 1996, shall be available to the Office of the Architect of the Capitol and other entities subject to this section to identify any violations of subsection (b), to determine the costs of compliance, and to take any necessary corrective action to abate any violations. The Office shall assist the Office of the Architect of the Capitol and other entities listed in subsection (a) by arranging for inspections and other technical assistance at their request. Prior to July 1, 1996, the General Counsel shall conduct a thorough inspection under paragraph (1) and shall submit the report under paragraph (2) for the One Hundred Fourth Congress.
 
 (4) **Detailed personnel** — The Attorney General, the Secretary of Transportation, and the Architectural and Transportation Barriers Compliance Board may, on request of the Executive Director, detail to the Office such personnel as may be necessary to advise and assist the Office in carrying out its duties under this section.
 
@@ -500,16 +508,16 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 **(h) Effective date**
 
-(1) **In general** — Subsections (b), (c), and (d) of this section shall be effective on January 1, 1997.
+(1) **In general** — Subsections (b), (c), and (d) shall be effective on January 1, 1997.
 
-(2) **Government Accountability Office, Government Printing Office, and Library of Congress** — Subsection (g) of this section shall be effective 1 year after transmission to the Congress of the study under [section 1371 of this title](./chapter-024-congressional-accountability.md#section-1371).
+(2) **Government Accountability Office, Government Publishing Office, and Library of Congress** — Subsection (g) shall be effective 1 year after transmission to the Congress of the study under [section 1371 of this title](./chapter-024-congressional-accountability.md#section-1371).
 
 ### Statutory Notes
 
 #### References in Text
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title II of the Act is classified generally to subchapter II (§ 12131 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
-Subsection (g) of this section, referred to in subsec. (h)(2), amended [section 12209 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12209&num=0&edition=prelim).
+Subsection (g), referred to in subsec. (h)(2), amended [section 12209 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12209&num=0&edition=prelim).
 
 #### Codification
 Section is comprised of section 210 of Pub. L. 104–1. Subsec. (g) of section 210 of Pub. L. 104–1 amended [section 12209 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12209&num=0&edition=prelim), The Public Health and Welfare.
@@ -520,6 +528,9 @@ Section is comprised of section 210 of Pub. L. 104–1. Subsec. (g) of section 2
 Subsec. (a)(7). Pub. L. 110–279 substituted “the Botanic Garden” for “the Senate Restaurants and the Botanic Garden”.
 
 2004—Subsec. (h)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in heading of subsec. (h)(2) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–437 effective first day of first pay period (applicable to employees transferred under [section 2241 of this title](./chapter-031-capitol-visitor-center.md#section-2241)) on or after 30 days after Oct. 20, 2008, see section 422(d) of Pub. L. 110–437, set out as a note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
@@ -543,7 +554,7 @@ Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remain
 
   (D) the term “employee” includes employees of the Government Accountability Office and the Library of Congress.
 
-**(b) Remedy** The remedy for a violation of subsection (a) of this section shall be an order to correct the violation, including such order as would be appropriate if issued under section 13(a) of the Occupational Safety and Health Act of 1970 ([29 U.S.C. 662(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section662/a&num=0&edition=prelim)).
+**(b) Remedy** The remedy for a violation of subsection (a) shall be an order to correct the violation, including such order as would be appropriate if issued under section 13(a) of the Occupational Safety and Health Act of 1970 ([29 U.S.C. 662(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section662/a&num=0&edition=prelim)).
 
 **(c) Procedures**
 
@@ -551,7 +562,7 @@ Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remain
 
 (2) **Citations, notices, and notifications** — For purposes of this section, the General Counsel shall exercise the authorities granted to the Secretary of Labor in sections 9 and 10 of the Occupational Safety and Health Act of 1970 ([29 U.S.C. 658](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section658&num=0&edition=prelim) and 659), to issue—
 
-  (A) a citation or notice to any employing office responsible for correcting a violation of subsection (a) of this section; or
+  (A) a citation or notice to any employing office responsible for correcting a violation of subsection (a); or
 
   (B) a notification to any employing office that the General Counsel believes has failed to correct a violation for which a citation has been issued within the period permitted for its correction.
 
@@ -561,19 +572,19 @@ Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remain
 
 (5) **Judicial review** — The General Counsel or employing office aggrieved by a final decision of the Board under paragraph (3) or (4), may file a petition for review with the United States Court of Appeals for the Federal Circuit pursuant to [section 1407 of this title](./chapter-024-congressional-accountability.md#section-1407).
 
-(6) **Compliance date** — If new appropriated funds are necessary to correct a violation of subsection (a) of this section for which a citation is issued, or to comply with an order requiring correction of such a violation, correction or compliance shall take place as soon as possible, but not later than the end of the fiscal year following the fiscal year in which the citation is issued or the order requiring correction becomes final and not subject to further review.
+(6) **Compliance date** — If new appropriated funds are necessary to correct a violation of subsection (a) for which a citation is issued, or to comply with an order requiring correction of such a violation, correction or compliance shall take place as soon as possible, but not later than the end of the fiscal year following the fiscal year in which the citation is issued or the order requiring correction becomes final and not subject to further review.
 
 **(d) Regulations to implement section**
 
 (1) **In general** — The Board shall, pursuant to [section 1384 of this title](./chapter-024-congressional-accountability.md#section-1384), issue regulations to implement this section.
 
-(2) **Agency regulations** — The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+(2) **Agency regulations** — The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
-(3) **Employing office responsible for correction** — The regulations issued under paragraph (1) shall include a method of identifying, for purposes of this section and for different categories of violations of subsection (a) of this section, the employing office responsible for correction of a particular violation.
+(3) **Employing office responsible for correction** — The regulations issued under paragraph (1) shall include a method of identifying, for purposes of this section and for different categories of violations of subsection (a), the employing office responsible for correction of a particular violation.
 
 **(e) Periodic inspections; report to Congress**
 
-(1) **Periodic inspections** — On a regular basis, and at least once each Congress, the General Counsel, exercising the same authorities of the Secretary of Labor as under subsection (c)(1) of this section, shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Office of Congressional Accessibility Services, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, the Office of Technology Assessment, the Library of Congress, and the Government Accountability Office to report on compliance with subsection (a) of this section.
+(1) **Periodic inspections** — On a regular basis, and at least once each Congress, the General Counsel, exercising the same authorities of the Secretary of Labor as under subsection (c)(1), shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Office of Congressional Accessibility Services, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, the Office of Technology Assessment, the Library of Congress, and the Government Accountability Office to report on compliance with subsection (a).
 
 (2) **Report** — On the basis of each periodic inspection, the General Counsel shall prepare and submit a report—
 
@@ -581,15 +592,15 @@ Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remain
 
   (B) containing the results of the periodic inspection, identifying the employing office responsible for correcting the violation of this section uncovered by such inspection, describing any steps necessary to correct any violation of this section, and assessing any risks to employee health and safety associated with any violation.
 
-(3) **Action after report** — If a report identifies any violation of this section, the General Counsel shall issue a citation or notice in accordance with subsection (c)(2)(A) of this section.
+(3) **Action after report** — If a report identifies any violation of this section, the General Counsel shall issue a citation or notice in accordance with subsection (c)(2)(A).
 
 (4) **Detailed personnel** — The Secretary of Labor may, on request of the Executive Director, detail to the Office such personnel as may be necessary to advise and assist the Office in carrying out its duties under this section.
 
-**(f) Initial period for study and corrective action** The period from January 23, 1995, until December 31, 1996, shall be available to the Office of the Architect of the Capitol and other employing offices to identify any violations of subsection (a) of this section, to determine the costs of compliance, and to take any necessary corrective action to abate any violations. The Office shall assist the Office of the Architect of the Capitol and other employing offices by arranging for inspections and other technical assistance at their request. Prior to July 1, 1996, the General Counsel shall conduct a thorough inspection under subsection (e)(1) of this section and shall submit the report under subsection (e)(2) of this section for the One Hundred Fourth Congress.
+**(f) Initial period for study and corrective action** The period from January 23, 1995, until December 31, 1996, shall be available to the Office of the Architect of the Capitol and other employing offices to identify any violations of subsection (a), to determine the costs of compliance, and to take any necessary corrective action to abate any violations. The Office shall assist the Office of the Architect of the Capitol and other employing offices by arranging for inspections and other technical assistance at their request. Prior to July 1, 1996, the General Counsel shall conduct a thorough inspection under subsection (e)(1) and shall submit the report under subsection (e)(2) for the One Hundred Fourth Congress.
 
 **(g) Effective date**
 
-(1) **In general** — Except as provided in paragraph (2), subsections (a), (b), (c), and (e)(3) of this section shall be effective on January 1, 1997.
+(1) **In general** — Except as provided in paragraph (2), subsections (a), (b), (c), and (e)(3) shall be effective on January 1, 1997.
 
 (2) **Government Accountability Office and Library of Congress** — This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under [section 1371 of this title](./chapter-024-congressional-accountability.md#section-1371).
 
@@ -617,7 +628,7 @@ Amendment by Pub. L. 110–437 effective first day of first pay period (applicab
 
 (2) **“Agency” defined** — For purposes of the application under this section of the sections referred to in paragraph (1), the term “agency” shall be deemed to include an employing office.
 
-**(b) Remedy** The remedy for a violation of subsection (a) of this section shall be such remedy, including a remedy under [section 7118(a)(7) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7118/a/7&num=0&edition=prelim), as would be appropriate if awarded by the Federal Labor Relations Authority to remedy a violation of any provision made applicable by subsection (a) of this section.
+**(b) Remedy** The remedy for a violation of subsection (a) shall be such remedy, including a remedy under [section 7118(a)(7) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7118/a/7&num=0&edition=prelim), as would be appropriate if awarded by the Federal Labor Relations Authority to remedy a violation of any provision made applicable by subsection (a).
 
 **(c) Authorities and procedures for implementation and enforcement**
 
@@ -633,7 +644,7 @@ Amendment by Pub. L. 110–437 effective first day of first pay period (applicab
 
 (1) **In general** — The Board shall, pursuant to [section 1384 of this title](./chapter-024-congressional-accountability.md#section-1384), issue regulations to implement this section.
 
-(2) **Agency regulations** — Except as provided in subsection (e) of this section, the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Federal Labor Relations Authority to implement the statutory provisions referred to in subsection (a) of this section except—
+(2) **Agency regulations** — Except as provided in subsection (e), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Federal Labor Relations Authority to implement the statutory provisions referred to in subsection (a) except—
 
   (A) to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section; or
 
@@ -671,9 +682,9 @@ Amendment by Pub. L. 110–437 effective first day of first pay period (applicab
 
 **(f) Effective date**
 
-(1) **In general** — Except as provided in paragraph (2), subsections (a) and (b) of this section shall be effective on October 1, 1996.
+(1) **In general** — Except as provided in paragraph (2), subsections (a) and (b) shall be effective on October 1, 1996.
 
-(2) **Certain offices** — With respect to the offices listed in subsection (e)(2) of this section, to the covered employees of such offices, and to representatives of such employees, subsections (a) and (b) of this section shall be effective on the effective date of regulations under subsection (e) of this section.
+(2) **Certain offices** — With respect to the offices listed in subsection (e)(2), to the covered employees of such offices, and to representatives of such employees, subsections (a) and (b) shall be effective on the effective date of regulations under subsection (e).
 
 ### Statutory Notes
 
@@ -716,12 +727,12 @@ The Worker Adjustment and Retraining Notification Act, referred to in subsec. (f
 
 
 <a id="section-1371"></a>
-## § 1371. Study and recommendations regarding Government Accountability Office, Government Printing Office, and Library of Congress
+## § 1371. Study and recommendations regarding General Accounting Office, Government Printing Office, and Library of Congress
 **(a) In general** The Board shall undertake a study of—
 
-(1) the application of the laws listed in subsection (b) of this section to—
+(1) the application of the laws listed in subsection (b) to—
 
-  (A) the Government Accountability Office;
+  (A) the General Accounting Office;
 
   (B) the Government Printing Office; and
 
@@ -755,7 +766,7 @@ The Worker Adjustment and Retraining Notification Act, referred to in subsec. (f
 
 (12) Chapter 43 (relating to veterans’ employment and reemployment) of title 38.
 
-**(c) Contents of study and recommendations** The study under this section shall evaluate whether the rights, protections, and procedures, including administrative and judicial relief, applicable to the entities listed in paragraph (1) of subsection (a) of this section and their employees are comprehensive and effective and shall include recommendations for any improvements in regulations or legislation, including proposed regulatory or legislative language.
+**(c) Contents of study and recommendations** The study under this section shall evaluate whether the rights, protections, and procedures, including administrative and judicial relief, applicable to the entities listed in paragraph (1) of subsection (a) and their employees are comprehensive and effective and shall include recommendations for any improvements in regulations or legislation, including proposed regulatory or legislative language.
 
 **(d) Deadline and delivery of study** Not later than December 31, 1996—
 
@@ -787,16 +798,17 @@ The Employee Polygraph Protection Act of 1988, referred to in subsec. (b)(10), i
 The Worker Adjustment and Retraining Notification Act, referred to in subsec. (b)(11), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2101&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline.
-
-Subsec. (a)(1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
-
 1995—Subsec. (a). Pub. L. 104–53, § 309(a), substituted “Board” for “Administrative Conference of the United States” in introductory provisions.
 
 Subsec. (d)(1). Pub. L. 104–53, § 309(b), substituted “Board” for “Administrative Conference of the United States” and struck out “and shall submit the study and recommendations to the Board” before semicolon.
 
+#### Change of Name
+General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under [section 702 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section702&num=0&edition=prelim), Money and Finance.
+
+Government Printing Office redesignated Government Publishing Office. See section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
 #### Effective Date of 1995 Amendment
-Pub. L. 104–53, title III, § 309(c), Nov. 19, 1995, 109 Stat. 538, provided that: “The amendments made by this section [amending this section] shall take effect only if the Administrative Conference of the United States ceases to exist prior to the completion and submission of the study to the Board as required by section 230 of the Congressional Accountability Act of 1995 ([2 U.S.C. 1371](./chapter-024-congressional-accountability.md#section-1371)). [See provision of title II of Pub. L. 104–52, set out as a note preceding [section 591 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section591&num=0&edition=prelim), Government Organization and Employees.]”
+Pub. L. 104–53, title III, § 309(c), Nov. 19, 1995, 109 Stat. 538, provided that: “The amendments made by this section [amending this section] shall take effect only if the Administrative Conference of the United States ceases to exist prior to the completion and submission of the study to the Board as required by section 230 of the Congressional Accountability Act of 1995 ([2 U.S.C. 1371](./chapter-024-congressional-accountability.md#section-1371)). [See provision of title IV of Pub. L. 104–52, set out as a note preceding [section 591 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section591&num=0&edition=prelim), Government Organization and Employees.]”
 
 
 <a id="section-1381"></a>
@@ -815,7 +827,7 @@ Pub. L. 104–53, title III, § 309(c), Nov. 19, 1995, 109 Stat. 538, provided t
 
   (A) *Lobbying* — No individual who engages in, or is otherwise employed in, lobbying of the Congress and who is required under the Federal Regulation of Lobbying Act 11 See References in Text note below. to register with the Clerk of the House of Representatives or the Secretary of the Senate shall be eligible for appointment to, or service on, the Board.
 
-  (B) *Incompatible office* — No member of the Board appointed under subsection (b) of this section may hold or may have held the position of Member of the House of Representatives or Senator, may hold the position of officer or employee of the House of Representatives, Senate, or instrumentality or other entity of the legislative branch (other than the Office), or may have held such a position (other than the position of an officer or employee of the General Accounting Office Personnel Appeals Board,22 See Change of Name note below. an officer or employee of the Office of Fair Employment Practices of the House of Representatives, or officer or employee of the Office of Senate Fair Employment Practices) within 4 years of the date of appointment.
+  (B) *Incompatible office* — No member of the Board appointed under subsection (b) may hold or may have held the position of Member of the House of Representatives or Senator, may hold the position of officer or employee of the House of Representatives, Senate, or instrumentality or other entity of the legislative branch (other than the Office), or may have held such a position (other than the position of an officer or employee of the General Accounting Office Personnel Appeals Board,22 See Change of Name note below. an officer or employee of the Office of Fair Employment Practices of the House of Representatives, or officer or employee of the Office of Senate Fair Employment Practices) within 4 years of the date of appointment.
 
 (3) **Vacancies** — A vacancy on the Board shall be filled in the manner in which the original appointment was made.
 
@@ -830,11 +842,11 @@ Pub. L. 104–53, title III, § 309(c), Nov. 19, 1995, 109 Stat. 538, provided t
   (B) 2 shall have a term of office of 4 years, and
 
   (C) 2 shall have a term of office of 5 years, 1 of whom shall be the Chair,
-  as designated at the time of appointment by the persons specified in subsection (b) of this section.
+  as designated at the time of appointment by the persons specified in subsection (b).
 
 **(f) Removal**
 
-(1) **Authority** — Any member of the Board may be removed from office by a majority decision of the appointing authorities described in subsection (b) of this section, but only for—
+(1) **Authority** — Any member of the Board may be removed from office by a majority decision of the appointing authorities described in subsection (b), but only for—
 
   (A) disability that substantially prevents the member from carrying out the duties of the member,
 
@@ -844,7 +856,7 @@ Pub. L. 104–53, title III, § 309(c), Nov. 19, 1995, 109 Stat. 538, provided t
 
   (D) malfeasance, including a felony or conduct involving moral turpitude, or
 
-  (E) holding an office or employment or engaging in an activity that disqualifies the individual from service as a member of the Board under subsection (d)(2) of this section.
+  (E) holding an office or employment or engaging in an activity that disqualifies the individual from service as a member of the Board under subsection (d)(2).
 
 (2) **Statement of reasons for removal** — In removing a member of the Board, the Speaker of the House of Representatives and the President pro tempore of the Senate shall state in writing to the member of the Board being removed the specific reasons for the removal.
 
@@ -866,7 +878,7 @@ Pub. L. 104–53, title III, § 309(c), Nov. 19, 1995, 109 Stat. 538, provided t
 
 (1) carry out a program of education for Members of Congress and other employing authorities of the legislative branch of the Federal Government respecting the laws made applicable to them and a program to inform individuals of their rights under laws applicable to the legislative branch of the Federal Government;
 
-(2) in carrying out the program under paragraph (1), distribute the telephone number and address of the Office, procedures for action under subchapter IV of this chapter, and any other information appropriate for distribution, distribute such information to employing offices in a manner suitable for posting, provide such information to new employees of employing offices, distribute such information to the residences of covered employees, and conduct seminars and other activities designed to educate employing offices and covered employees; and
+(2) in carrying out the program under paragraph (1), distribute the telephone number and address of the Office, procedures for action under subchapter IV, and any other information appropriate for distribution, distribute such information to employing offices in a manner suitable for posting, provide such information to new employees of employing offices, distribute such information to covered employees by the end of each fiscal year, and conduct seminars and other activities designed to educate employing offices and covered employees; and
 
 (3) compile and publish statistics on the use of the Office by covered employees, including the number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a complaint, the basis for the complaint, and the action taken on the complaint.
 
@@ -886,6 +898,8 @@ This chapter, referred to in subsec. (h)(3), was in the original “this Act”,
 The Ethics in Government Act of 1978, referred to in subsec. (k), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
+2014—Subsec. (h)(2). Pub. L. 113–235 substituted “covered employees by the end of each fiscal year” for “the residences of covered employees”.
+
 2007—Subsec. (d)(2)(B). Pub. L. 110–164 substituted “legislative branch (other than the Office),” for “legislative branch,”.
 
 Subsec. (g)(1). Pub. L. 110–161 added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Each member of the Board shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim) for each day (including travel time) during which such member is engaged in the performance of the duties of the Board. The rate of pay of a member may be prorated based on the portion of the day during which the member is engaged in the performance of Board duties.”
@@ -1027,18 +1041,18 @@ Pub. L. 109–38, § 1, July 27, 2005, 119 Stat. 408, provided that: “(a) Exec
 ## § 1383. Procedural rules
 **(a) In general** The Executive Director shall, subject to the approval of the Board, adopt rules governing the procedures of the Office, including the procedures of hearing officers, which shall be submitted for publication in the Congressional Record. The rules may be amended in the same manner.
 
-**(b) Procedure** The Executive Director shall adopt rules referred to in subsection (a) of this section in accordance with the principles and procedures set forth in [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim). The Executive Director shall publish a general notice of proposed rulemaking under [section 553(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/b&num=0&edition=prelim), but, instead of publication of a general notice of proposed rulemaking in the Federal Register, the Executive Director shall transmit such notice to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Before adopting rules, the Executive Director shall provide a comment period of at least 30 days after publication of a general notice of proposed rulemaking. Upon adopting rules, the Executive Director shall transmit notice of such action together with a copy of such rules to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Rules shall be considered issued by the Executive Director as of the date on which they are published in the Congressional Record.
+**(b) Procedure** The Executive Director shall adopt rules referred to in subsection (a) in accordance with the principles and procedures set forth in [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim). The Executive Director shall publish a general notice of proposed rulemaking under [section 553(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/b&num=0&edition=prelim), but, instead of publication of a general notice of proposed rulemaking in the Federal Register, the Executive Director shall transmit such notice to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Before adopting rules, the Executive Director shall provide a comment period of at least 30 days after publication of a general notice of proposed rulemaking. Upon adopting rules, the Executive Director shall transmit notice of such action together with a copy of such rules to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Rules shall be considered issued by the Executive Director as of the date on which they are published in the Congressional Record.
 
 
 <a id="section-1384"></a>
 ## § 1384. Substantive regulations
 **(a) Regulations**
 
-(1) **In general** — The procedures applicable to the regulations of the Board issued for the implementation of this chapter, which shall include regulations the Board is required to issue under subchapter II of this chapter (including regulations on the appropriate application of exemptions under the laws made applicable in subchapter II of this chapter) are as prescribed in this section.
+(1) **In general** — The procedures applicable to the regulations of the Board issued for the implementation of this chapter, which shall include regulations the Board is required to issue under subchapter II (including regulations on the appropriate application of exemptions under the laws made applicable in subchapter II) are as prescribed in this section.
 
 (2) **Rulemaking procedure** — Such regulations of the Board—
 
-  (A) shall be adopted, approved, and issued in accordance with subsection (b) of this section; and
+  (A) shall be adopted, approved, and issued in accordance with subsection (b); and
 
   (B) shall consist of 3 separate bodies of regulations, which shall apply, respectively, to—
 
@@ -1048,9 +1062,9 @@ Pub. L. 109–38, § 1, July 27, 2005, 119 Stat. 408, provided that: “(a) Exec
 
     (iii) all other covered employees and employing offices.
 
-**(b) Adoption by Board** The Board shall adopt the regulations referred to in subsection (a)(1) of this section in accordance with the principles and procedures set forth in [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) and as provided in the following provisions of this subsection:
+**(b) Adoption by Board** The Board shall adopt the regulations referred to in subsection (a)(1) in accordance with the principles and procedures set forth in [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) and as provided in the following provisions of this subsection:
 
-(1) **Proposal** — The Board shall publish a general notice of proposed rulemaking under [section 553(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/b&num=0&edition=prelim), but, instead of publication of a general notice of proposed rulemaking in the Federal Register, the Board shall transmit such notice to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Such notice shall set forth the recommendations of the Deputy Director for the Senate in regard to regulations under subsection (a)(2)(B)(i) of this section, the recommendations of the Deputy Director for the House of Representatives in regard to regulations under subsection (a)(2)(B)(ii) of this section, and the recommendations of the Executive Director for regulations under subsection (a)(2)(B)(iii) of this section.
+(1) **Proposal** — The Board shall publish a general notice of proposed rulemaking under [section 553(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/b&num=0&edition=prelim), but, instead of publication of a general notice of proposed rulemaking in the Federal Register, the Board shall transmit such notice to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Such notice shall set forth the recommendations of the Deputy Director for the Senate in regard to regulations under subsection (a)(2)(B)(i), the recommendations of the Deputy Director for the House of Representatives in regard to regulations under subsection (a)(2)(B)(ii), and the recommendations of the Executive Director for regulations under subsection (a)(2)(B)(iii).
 
 (2) **Comment** — Before adopting regulations, the Board shall provide a comment period of at least 30 days after publication of a general notice of proposed rulemaking.
 
@@ -1060,9 +1074,9 @@ Pub. L. 109–38, § 1, July 27, 2005, 119 Stat. 408, provided that: “(a) Exec
 
 **(c) Approval of regulations**
 
-(1) **In general** — Regulations referred to in paragraph (2)(B)(i) of subsection (a) of this section may be approved by the Senate by resolution or by the Congress by concurrent resolution or by joint resolution. Regulations referred to in paragraph (2)(B)(ii) of subsection (a) of this section may be approved by the House of Representatives by resolution or by the Congress by concurrent resolution or by joint resolution. Regulations referred to in paragraph (2)(B)(iii) may be approved by Congress by concurrent resolution or by joint resolution.
+(1) **In general** — Regulations referred to in paragraph (2)(B)(i) of subsection (a) may be approved by the Senate by resolution or by the Congress by concurrent resolution or by joint resolution. Regulations referred to in paragraph (2)(B)(ii) of subsection (a) may be approved by the House of Representatives by resolution or by the Congress by concurrent resolution or by joint resolution. Regulations referred to in paragraph (2)(B)(iii) may be approved by Congress by concurrent resolution or by joint resolution.
 
-(2) **Referral** — Upon receipt of a notice of adoption of regulations under subsection (b)(3) of this section, the presiding officers of the House of Representatives and the Senate shall refer such notice, together with a copy of such regulations, to the appropriate committee or committees of the House of Representatives and of the Senate. The purpose of the referral shall be to consider whether such regulations should be approved, and, if so, whether such approval should be by resolution of the House of Representatives or of the Senate, by concurrent resolution or by joint resolution.
+(2) **Referral** — Upon receipt of a notice of adoption of regulations under subsection (b)(3), the presiding officers of the House of Representatives and the Senate shall refer such notice, together with a copy of such regulations, to the appropriate committee or committees of the House of Representatives and of the Senate. The purpose of the referral shall be to consider whether such regulations should be approved, and, if so, whether such approval should be by resolution of the House of Representatives or of the Senate, by concurrent resolution or by joint resolution.
 
 (3) **Joint referral and discharge in the Senate** — The presiding officer of the Senate may refer the notice of issuance of regulations, or any resolution of approval of regulations, to one committee or jointly to more than one committee. If a committee of the Senate acts to report a jointly referred measure, any other committee of the Senate must act within 30 calendar days of continuous session, or be automatically discharged.
 
@@ -1072,7 +1086,7 @@ Pub. L. 109–38, § 1, July 27, 2005, 119 Stat. 408, provided that: “(a) Exec
 
 **(d) Issuance and effective date**
 
-(1) **Publication** — After approval of regulations under subsection (c) of this section, the Board shall submit the regulations to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal.
+(1) **Publication** — After approval of regulations under subsection (c), the Board shall submit the regulations to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal.
 
 (2) **Date of issuance** — The date of issuance of regulations shall be the date on which they are published in the Congressional Record under paragraph (1).
 
@@ -1101,7 +1115,7 @@ Pub. L. 109–38, § 1, July 27, 2005, 119 Stat. 408, provided that: “(a) Exec
 #### References in Text
 This chapter, referred to in subsec. (a)(1) after “implementation of”, was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 
-Subchapter II of this chapter, referred to in subsec. (a)(1), was in the original “title II”, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to subchapter II of this chapter. For complete classification of title II to the Code, see Tables.
+Subchapter II, referred to in subsec. (a)(1), was in the original “title II”, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to subchapter II of this chapter. For complete classification of title II to the Code, see Tables.
 
 
 <a id="section-1385"></a>
@@ -1134,10 +1148,33 @@ The Executive Director may, within the limits of available appropriations, dispo
 Pub. L. 111–68, div. A, title I, § 1101(c), Oct. 1, 2009, 123 Stat. 2031, provided that: “The amendments made by this section [enacting this section] shall apply with respect to fiscal year 2010, and each fiscal year thereafter.”
 
 
+<a id="section-1387"></a>
+## § 1387. Semiannual report of disbursements
+**(a) Reports required** Not later than 60 days after the last day of each semiannual period of a fiscal year, the Executive Director of the Office of Compliance shall submit to the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and the Committees on Appropriations of the House of Representatives and Senate, with respect to that period, a detailed, itemized report of the disbursements for the operations of the Office of Compliance.
+
+**(b) Contents**
+
+(1) **In general** — The report required by subsection (a) shall include—
+
+  (A) the identification of each person who receives a payment from the Office of Compliance, except that in the case of an individual, the identification shall be provided in a manner that does not identify the individual by name;
+
+  (B) the quantity and price of any item furnished to the Office of Compliance;
+
+  (C) a description of any service rendered to the Office of Compliance, together with a statement of the time required for the service, and the name, title, and amount paid to each person who renders the service;
+
+  (D) a statement of all amounts appropriated to, or received or expended by, the Office of Compliance and any unexpended balances of such amounts; and
+
+  (E) such additional information as may be required by regulation of the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, or the Committees on Appropriations of the House of Representatives or Senate.
+
+(2) **Exception for confidential information** — The Executive Director of the Office of Compliance may exclude from any report required by subsection (a) any information the disclosure of which would violate confidentiality policies of the Office of Compliance.
+
+**(c) Effective date** This section shall apply with respect to the semiannual periods of October 1 through March 31 and April 1 through September 30 of each fiscal year, beginning with fiscal year 2014.
+
+
 <a id="section-1401"></a>
 ## § 1401. Procedure for consideration of alleged violations
 
-Except as otherwise provided, the procedure for consideration of alleged violations of part A of subchapter II of this chapter consists of—
+Except as otherwise provided, the procedure for consideration of alleged violations of part A of subchapter II consists of—
 
 (1) counseling as provided in [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402);
 
@@ -1148,17 +1185,17 @@ Except as otherwise provided, the procedure for consideration of alleged violati
   (A) a formal complaint and hearing as provided in [section 1405 of this title](./chapter-024-congressional-accountability.md#section-1405), subject to Board review as provided in [section 1406 of this title](./chapter-024-congressional-accountability.md#section-1406), and judicial review in the United States Court of Appeals for the Federal Circuit as provided in [section 1407 of this title](./chapter-024-congressional-accountability.md#section-1407), or
 
   (B) a civil action in a district court of the United States as provided in [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408).
-  In the case of an employee of the Office of the Architect of the Capitol or of the Capitol Police, the Executive Director, after receiving a request for counseling under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402), may recommend that the employee use the grievance procedures of the Architect of the Capitol or the Capitol Police for resolution of the employee’s grievance for a specific period of time, which shall not count against the time available for counseling or mediation.
+In the case of an employee of the Office of the Architect of the Capitol or of the Capitol Police, the Executive Director, after receiving a request for counseling under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402), may recommend that the employee use the grievance procedures of the Architect of the Capitol or the Capitol Police for resolution of the employee’s grievance for a specific period of time, which shall not count against the time available for counseling or mediation.
 
 ### Statutory Notes
 
 #### References in Text
-Part A of subchapter II of this chapter, referred to in text, was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+Part A of subchapter II, referred to in text, was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 
 <a id="section-1402"></a>
 ## § 1402. Counseling
-**(a) In general** To commence a proceeding, a covered employee alleging a violation of a law made applicable under part A of subchapter II of this chapter shall request counseling by the Office. The Office shall provide the employee with all relevant information with respect to the rights of the employee. A request for counseling shall be made not later than 180 days after the date of the alleged violation.
+**(a) In general** To commence a proceeding, a covered employee alleging a violation of a law made applicable under part A of subchapter II shall request counseling by the Office. The Office shall provide the employee with all relevant information with respect to the rights of the employee. A request for counseling shall be made not later than 180 days after the date of the alleged violation.
 
 **(b) Period of counseling** The period for counseling shall be 30 days unless the employee and the Office agree to reduce the period. The period shall begin on the date the request for counseling is received.
 
@@ -1167,7 +1204,7 @@ Part A of subchapter II of this chapter, referred to in text, was in the origina
 ### Statutory Notes
 
 #### References in Text
-Part A of subchapter II of this chapter, referred to in subsec. (a), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+Part A of subchapter II, referred to in subsec. (a), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 
 <a id="section-1403"></a>
@@ -1221,7 +1258,7 @@ and about which mediation was conducted.
 
 (1) conducted in closed session on the record by the hearing officer;
 
-(2) commenced no later than 60 days after filing of the complaint under subsection (a) of this section, except that the Office may, for good cause, extend up to an additional 30 days the time for commencing a hearing; and
+(2) commenced no later than 60 days after filing of the complaint under subsection (a), except that the Office may, for good cause, extend up to an additional 30 days the time for commencing a hearing; and
 
 (3) conducted, except as specifically provided in this chapter and to the greatest extent practicable, in accordance with the principles and procedures set forth in sections 554 through 557 of title 5.
 
@@ -1239,7 +1276,7 @@ and about which mediation was conducted.
 
   (B) *Service of process* — Process in an action or contempt proceeding pursuant to subparagraph (A) may be served in any judicial district in which the person refusing or failing to comply, or threatening to refuse or not to comply, resides, transacts business, or may be found, and subpoenas for witnesses who are required to attend such proceedings may run into any other district.
 
-**(g) Decision** The hearing officer shall issue a written decision as expeditiously as possible, but in no case more than 90 days after the conclusion of the hearing. The written decision shall be transmitted by the Office to the parties. The decision shall state the issues raised in the complaint, describe the evidence in the record, contain findings of fact and conclusions of law, contain a determination of whether a violation has occurred, and order such remedies as are appropriate pursuant to subchapter II of this chapter. The decision shall be entered in the records of the Office. If a decision is not appealed under [section 1406 of this title](./chapter-024-congressional-accountability.md#section-1406) to the Board, the decision shall be considered the final decision of the Office.
+**(g) Decision** The hearing officer shall issue a written decision as expeditiously as possible, but in no case more than 90 days after the conclusion of the hearing. The written decision shall be transmitted by the Office to the parties. The decision shall state the issues raised in the complaint, describe the evidence in the record, contain findings of fact and conclusions of law, contain a determination of whether a violation has occurred, and order such remedies as are appropriate pursuant to subchapter II. The decision shall be entered in the records of the Office. If a decision is not appealed under [section 1406 of this title](./chapter-024-congressional-accountability.md#section-1406) to the Board, the decision shall be considered the final decision of the Office.
 
 **(h) Precedents** A hearing officer who conducts a hearing under this section shall be guided by judicial decisions under the laws made applicable by [section 1302 of this title](./chapter-024-congressional-accountability.md#section-1302) and by Board decisions under this chapter.
 
@@ -1250,7 +1287,7 @@ This chapter, referred to in subsecs. (c)(2)(A), (d)(3), and (h), was in the ori
 
 Rule 45(b) of the Federal Rules of Civil Procedure, referred to in subsec. (f)(1), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-Subchapter II of this chapter, referred to in subsec. (g), was in the original “title II”, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to subchapter II of this chapter. For complete classification of title II to the Code, see Tables.
+Subchapter II, referred to in subsec. (g), was in the original “title II”, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to subchapter II of this chapter. For complete classification of title II to the Code, see Tables.
 
 
 <a id="section-1406"></a>
@@ -1267,7 +1304,7 @@ Subchapter II of this chapter, referred to in subsec. (g), was in the original �
 
 (3) unsupported by substantial evidence.
 
-**(d) Record** In making determinations under subsection (c) of this section, the Board shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
+**(d) Record** In making determinations under subsection (c), the Board shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
 
 **(e) Decision** The Board shall issue a written decision setting forth the reasons for its decision. The decision may affirm, reverse, or remand to the hearing officer for further proceedings. A decision that does not require further proceedings before a hearing officer shall be entered in the records of the Office as a final decision.
 
@@ -1278,7 +1315,7 @@ Subchapter II of this chapter, referred to in subsec. (g), was in the original �
 
 (1) **Judicial review** — The United States Court of Appeals for the Federal Circuit shall have jurisdiction over any proceeding commenced by a petition of—
 
-  (A) a party aggrieved by a final decision of the Board under [section 1406(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1406/e&num=0&edition=prelim) in cases arising under part A of subchapter II of this chapter,
+  (A) a party aggrieved by a final decision of the Board under [section 1406(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1406/e&num=0&edition=prelim) in cases arising under part A of subchapter II,
 
   (B) a charging individual or a respondent before the Board who files a petition under [section 1331(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1331/d/4&num=0&edition=prelim),
 
@@ -1287,21 +1324,21 @@ Subchapter II of this chapter, referred to in subsec. (g), was in the original �
   (D) the General Counsel or a respondent before the Board who files a petition under [section 1351(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1351/c/3&num=0&edition=prelim).
   The court of appeals shall have exclusive jurisdiction to set aside, suspend (in whole or in part), to determine the validity of, or otherwise review the decision of the Board.
 
-(2) **Enforcement** — The United States Court of Appeals for the Federal Circuit shall have jurisdiction over any petition of the General Counsel, filed in the name of the Office and at the direction of the Board, to enforce a final decision under section 1405(g) or 1406(e) of this title with respect to a violation of part A, B, C, or D of subchapter II of this chapter.
+(2) **Enforcement** — The United States Court of Appeals for the Federal Circuit shall have jurisdiction over any petition of the General Counsel, filed in the name of the Office and at the direction of the Board, to enforce a final decision under section 1405(g) or 1406(e) of this title with respect to a violation of part A, B, C, or D of subchapter II.
 
 **(b) Procedures**
 
 (1) **Respondents**
 
-  (A) In any proceeding commenced by a petition filed under subsection (a)(1)(A) or (B) of this section, or filed by a party other than the General Counsel under subsection (a)(1)(C) or (D) of this section, the Office shall be named respondent and any party before the Board may be named respondent by filing a notice of election with the court within 30 days after service of the petition.
+  (A) In any proceeding commenced by a petition filed under subsection (a)(1)(A) or (B), or filed by a party other than the General Counsel under subsection (a)(1)(C) or (D), the Office shall be named respondent and any party before the Board may be named respondent by filing a notice of election with the court within 30 days after service of the petition.
 
-  (B) In any proceeding commenced by a petition filed by the General Counsel under subsection (a)(1)(C) or (D) of this section, the prevailing party in the final decision entered under [section 1406(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1406/e&num=0&edition=prelim) shall be named respondent, and any other party before the Board may be named respondent by filing a notice of election with the court within 30 days after service of the petition.
+  (B) In any proceeding commenced by a petition filed by the General Counsel under subsection (a)(1)(C) or (D), the prevailing party in the final decision entered under [section 1406(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1406/e&num=0&edition=prelim) shall be named respondent, and any other party before the Board may be named respondent by filing a notice of election with the court within 30 days after service of the petition.
 
-  (C) In any proceeding commenced by a petition filed under subsection (a)(2) of this section, the party under section 1405 or 1406 of this title that the General Counsel determines has failed to comply with a final decision under section 1405(g) or 1406(e) of this title shall be named respondent.
+  (C) In any proceeding commenced by a petition filed under subsection (a)(2), the party under section 1405 or 1406 of this title that the General Counsel determines has failed to comply with a final decision under section 1405(g) or 1406(e) of this title shall be named respondent.
 
 (2) **Intervention** — Any party that participated in the proceedings before the Board under [section 1406 of this title](./chapter-024-congressional-accountability.md#section-1406) and that was not made respondent under paragraph (1) may intervene as of right.
 
-**(c) Law applicable** Chapter 158 of title 28 shall apply to judicial review under paragraph (1) of subsection (a) of this section, except that—
+**(c) Law applicable** Chapter 158 of title 28 shall apply to judicial review under paragraph (1) of subsection (a), except that—
 
 (1) with respect to [section 2344 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2344&num=0&edition=prelim), service of a petition in any proceeding in which the Office is a respondent shall be on the General Counsel rather than on the Attorney General;
 
@@ -1311,7 +1348,7 @@ Subchapter II of this chapter, referred to in subsec. (g), was in the original �
 
 (4) the Office shall be an “agency” as that term is used in chapter 158 of title 28.
 
-**(d) Standard of review** To the extent necessary for decision in a proceeding commenced under subsection (a)(1) of this section and when presented, the court shall decide all relevant questions of law and interpret constitutional and statutory provisions. The court shall set aside a final decision of the Board if it is determined that the decision was—
+**(d) Standard of review** To the extent necessary for decision in a proceeding commenced under subsection (a)(1) and when presented, the court shall decide all relevant questions of law and interpret constitutional and statutory provisions. The court shall set aside a final decision of the Board if it is determined that the decision was—
 
 (1) arbitrary, capricious, an abuse of discretion, or otherwise not consistent with law;
 
@@ -1319,12 +1356,12 @@ Subchapter II of this chapter, referred to in subsec. (g), was in the original �
 
 (3) unsupported by substantial evidence.
 
-**(e) Record** In making determinations under subsection (d) of this section, the court shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
+**(e) Record** In making determinations under subsection (d), the court shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
 
 ### Statutory Notes
 
 #### References in Text
-Parts A, B, C, and D of subchapter II of this chapter, referred to in subsec. (a), were in the original references to parts A (§§ 201–207), B (§ 210), C (§ 215), and D (§ 220), respectively, of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, 13, 16, 19, which are classified principally to parts A, B, C, and D, respectively, of subchapter II of this chapter. For complete classification of parts A, B, C, and D to the Code, see Tables.
+Parts A, B, C, and D of subchapter II, referred to in subsec. (a), were in the original references to parts A (§§ 201–207), B (§ 210), C (§ 215), and D (§ 220), respectively, of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, 13, 16, 19, which are classified principally to parts A, B, C, and D, respectively, of subchapter II of this chapter. For complete classification of parts A, B, C, and D to the Code, see Tables.
 
 
 <a id="section-1408"></a>
@@ -1396,7 +1433,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 ## § 1412. Expedited review of certain appeals
 **(a) In general** An appeal may be taken directly to the Supreme Court of the United States from any interlocutory or final judgment, decree, or order of a court upon the constitutionality of any provision of this chapter.
 
-**(b) Jurisdiction** The Supreme Court shall, if it has not previously ruled on the question, accept jurisdiction over the appeal referred to in subsection (a) of this section, advance the appeal on the docket, and expedite the appeal to the greatest extent possible.
+**(b) Jurisdiction** The Supreme Court shall, if it has not previously ruled on the question, accept jurisdiction over the appeal referred to in subsection (a), advance the appeal on the docket, and expedite the appeal to the greatest extent possible.
 
 ### Statutory Notes
 
@@ -1423,9 +1460,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 <a id="section-1415"></a>
 ## § 1415. Payments
-**(a) Awards and settlements** Except as provided in subsection (c) of this section, only funds which are appropriated to an account of the Office in the Treasury of the United States for the payment of awards and settlements may be used for the payment of awards and settlements under this chapter. There are authorized to be appropriated for such account such sums as may be necessary to pay such awards and settlements. Funds in the account are not available for awards and settlements involving the Government Accountability Office, the Government Printing Office, or the Library of Congress.
+**(a) Awards and settlements** Except as provided in subsection (c), only funds which are appropriated to an account of the Office in the Treasury of the United States for the payment of awards and settlements may be used for the payment of awards and settlements under this chapter. There are appropriated for such account such sums as may be necessary to pay such awards and settlements. Funds in the account are not available for awards and settlements involving the Government Accountability Office, the Government Publishing Office, or the Library of Congress.
 
-**(b) Compliance** Except as provided in subsection (c) of this section, there are authorized to be appropriated such sums as may be necessary for administrative, personnel, and similar expenses of employing offices which are needed to comply with this chapter.
+**(b) Compliance** Except as provided in subsection (c), there are authorized to be appropriated such sums as may be necessary for administrative, personnel, and similar expenses of employing offices which are needed to comply with this chapter.
 
 **(c) OSHA, accommodation, and access requirements** Funds to correct violations of section 1311(a)(3), 1331, or 1341 of this title may be paid only from funds appropriated to the employing office or entity responsible for correcting such violations. There are authorized to be appropriated such sums as may be necessary for such funds.
 
@@ -1435,7 +1472,15 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–76 substituted “There are appropriated for such account such sums as may be necessary to pay such awards and settlements.” for “There are authorized to be appropriated for such account such sums as may be necessary to pay such awards and settlements.”
+
 2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (a) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–76, div. I, title I, § 1101(b), Jan. 17, 2014, 128 Stat. 425, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
 
 
 <a id="section-1416"></a>
@@ -1444,7 +1489,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 **(b) Mediation** All mediation shall be strictly confidential.
 
-**(c) Hearings and deliberations** Except as provided in subsections (d), (e), and (f) of this section, all proceedings and deliberations of hearing officers and the Board, including any related records, shall be confidential. This subsection shall not apply to proceedings under [section 1341 of this title](./chapter-024-congressional-accountability.md#section-1341), but shall apply to the deliberations of hearing officers and the Board under that section.
+**(c) Hearings and deliberations** Except as provided in subsections (d), (e), and (f), all proceedings and deliberations of hearing officers and the Board, including any related records, shall be confidential. This subsection shall not apply to proceedings under [section 1341 of this title](./chapter-024-congressional-accountability.md#section-1341), but shall apply to the deliberations of hearing officers and the Board under that section.
 
 **(d) Release of records for judicial action** The records of hearing officers and the Board may be made public if required for the purpose of judicial review under [section 1407 of this title](./chapter-024-congressional-accountability.md#section-1407).
 
@@ -1477,9 +1522,9 @@ The provisions of sections 1302(b)(3) and 1384(c) of this title are enacted—
 (2) domicile; or
 
 (3) political compatibility with the employing office;
-of an employee referred to in subsection (b) of this section with respect to employment decisions.
+of an employee referred to in subsection (b) with respect to employment decisions.
 
-**(b) “Employee” defined** For purposes of subsection (a) of this section, the term “employee” means—
+**(b) “Employee” defined** For purposes of subsection (a), the term “employee” means—
 
 (1) an employee on the staff of the leadership of the House of Representatives or the leadership of the Senate;
 
@@ -1534,7 +1579,8 @@ The Judicial Conference of the United States shall prepare a report for submissi
 
 (10) the Rehabilitation Act of 1973 ([29 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) et seq.); and
 
-(11) chapter 43 (relating to veterans’ employment and reemployment) of title 38. The report shall be submitted to Congress not later than December 31, 1996, and shall include any recommendations the Judicial Conference may have for legislation to provide to employees of the judicial branch the rights, protections, and procedures under the listed laws, including administrative and judicial relief, that are comparable to those available to employees of the legislative branch under subchapters I through IV of this chapter.
+(11) chapter 43 (relating to veterans’ employment and reemployment) of title 38.
+The report shall be submitted to Congress not later than December 31, 1996, and shall include any recommendations the Judicial Conference may have for legislation to provide to employees of the judicial branch the rights, protections, and procedures under the listed laws, including administrative and judicial relief, that are comparable to those available to employees of the legislative branch under subchapters I through IV of this chapter.
 
 ### Statutory Notes
 

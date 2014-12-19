@@ -80,7 +80,7 @@ As used in this chapter:
 
 **(b) Results of testing**
 
-(1) **Submission of results** — The laboratory shall submit the results of the tests conducted under subsection (a) of this section to the Secretary on forms provided by the Secretary, on or before the date determined by the Secretary.
+(1) **Submission of results** — The laboratory shall submit the results of the tests conducted under subsection (a) to the Secretary on forms provided by the Secretary, on or before the date determined by the Secretary.
 
 (2) **Evaluation of tests** — The Secretary shall evaluate the results of such tests achieved by the laboratory and shall determine whether such laboratory is capable of undertaking an accurate analysis of chemical residues in agricultural products.
 
@@ -114,22 +114,22 @@ As used in this chapter:
 
 (3) for which the chemical residue tolerance has been revoked or the chemical residue is otherwise not permitted by the Environmental Protection Agency.
 
-**(b) Timing of report** A laboratory shall submit the report required under subsection (a) of this section to the Secretary, the Secretary of Health and Human Services, and the owner of such food as soon as practicable after the completion of the analysis of such food.
+**(b) Timing of report** A laboratory shall submit the report required under subsection (a) to the Secretary, the Secretary of Health and Human Services, and the owner of such food as soon as practicable after the completion of the analysis of such food.
 
 **(c) Guidelines** The Secretary shall adopt standardized reporting guidelines to be applied to laboratories under this section and shall provide such guidelines to laboratories accredited under this chapter, as well as other sources of information regarding applicable pesticide chemical tolerances.
 
 
 <a id="section-138f"></a>
 ## § 138f. Fees
-**(a) In general** At the time that an application for accreditation is received by the Secretary and annually thereafter, a laboratory seeking accreditation by the Secretary under the authority of this chapter, the Federal Meat Inspection Act ([21 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section601&num=0&edition=prelim) et seq.), or the Poultry Products Inspection Act ([21 U.S.C. 451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section451&num=0&edition=prelim) et seq.) shall pay to the Secretary a nonrefundable accreditation fee. All fees collected by the Secretary shall be credited to the account from which the expenses of the laboratory accreditation program are paid and, subject to subsection (e) of this section, shall be available immediately and remain available until expended to pay the expenses of the laboratory accreditation program.
+**(a) In general** At the time that an application for accreditation is received by the Secretary and annually thereafter, a laboratory seeking accreditation by the Secretary under the authority of this chapter, the Federal Meat Inspection Act ([21 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section601&num=0&edition=prelim) et seq.), or the Poultry Products Inspection Act ([21 U.S.C. 451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section451&num=0&edition=prelim) et seq.) shall pay to the Secretary a nonrefundable accreditation fee. All fees collected by the Secretary shall be credited to the account from which the expenses of the laboratory accreditation program are paid and, subject to subsection (e), shall be available immediately and remain available until expended to pay the expenses of the laboratory accreditation program.
 
-**(b) Amount of fee** The fee required under this section shall be established by the Secretary in an amount that will offset the cost of the laboratory accreditation programs administered by the Secretary under the statutory authorities set forth in subsection (a) of this section.
+**(b) Amount of fee** The fee required under this section shall be established by the Secretary in an amount that will offset the cost of the laboratory accreditation programs administered by the Secretary under the statutory authorities set forth in subsection (a).
 
-**(c) Reimbursement of expenses** Each laboratory that is accredited under a statutory authority set forth in subsection (a) of this section or that has applied for accreditation under such authority shall reimburse the Secretary for reasonable travel and other expenses necessary to perform onsite inspections of the laboratory.
+**(c) Reimbursement of expenses** Each laboratory that is accredited under a statutory authority set forth in subsection (a) or that has applied for accreditation under such authority shall reimburse the Secretary for reasonable travel and other expenses necessary to perform onsite inspections of the laboratory.
 
-**(d) Adjustment of fees** The Secretary may, on an annual basis, adjust the fees imposed under this section as necessary to support the full costs of the laboratory accreditation programs carried out under the statutory authorities set forth in subsection (a) of this section.
+**(d) Adjustment of fees** The Secretary may, on an annual basis, adjust the fees imposed under this section as necessary to support the full costs of the laboratory accreditation programs carried out under the statutory authorities set forth in subsection (a).
 
-**(e) Appropriations prerequisite** No fees collected under this section may be used to offset the cost of laboratory accreditation without appropriations made under subsection (f) of this section.
+**(e) Appropriations prerequisite** No fees collected under this section may be used to offset the cost of laboratory accreditation without appropriations made under subsection (f).
 
 **(f) Authorization of appropriations** There are authorized to be appropriated each fiscal year such sums as may be necessary for laboratory accreditation services under this section.
 

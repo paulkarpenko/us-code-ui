@@ -16,9 +16,6 @@ The President may proclaim duty-free treatment (or other preferential treatment)
 #### Amendments
 2002—Pub. L. 107–210 inserted “(or other preferential treatment)” after “treatment”.
 
-#### Termination of Preferential Treatment
-Preferential treatment under this chapter to expire after June 30, 2007, see [section 3206 of this title](./chapter-020-andean-trade-preference.md#section-3206).
-
 #### Short Title of 2008 Amendment
 Pub. L. 110–191, § 1, Feb. 29, 2008, 122 Stat. 646, provided that: “This Act [amending sections 58c, 3203, and 3206 of this title and enacting provisions set out as a note under [section 6655 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6655&num=0&edition=prelim), Internal Revenue Code] may be cited as the ‘Andean Trade Preference Extension Act of 2008’.”
 
@@ -30,6 +27,9 @@ Pub. L. 107–210, div. C, title XXXI, § 3101, Aug. 6, 2002, 116 Stat. 1023, pr
 
 #### Short Title
 Pub. L. 102–182, title II, § 201, Dec. 4, 1991, 105 Stat. 1236, provided that: “This title [enacting this chapter] may be cited as the ‘Andean Trade Preference Act’.”
+
+#### Termination of Preferential Treatment
+For termination of preferential treatment, see [section 3206 of this title](./chapter-020-andean-trade-preference.md#section-3206).
 
 #### Findings
 Pub. L. 107–210, div. C, title XXXI, § 3102, Aug. 6, 2002, 116 Stat. 1023, provided that: “Congress makes the following findings: “(1) Since the Andean Trade Preference Act [[19 U.S.C. 3201](./chapter-020-andean-trade-preference.md#section-3201) et seq.] was enacted in 1991, it has had a positive impact on United States trade with Bolivia, Colombia, Ecuador, and Peru. Two-way trade has doubled, with the United States serving as the leading source of imports and leading export market for each of the Andean beneficiary countries. This has resulted in increased jobs and expanded export opportunities in both the United States and the Andean region. “(2) The Andean Trade Preference Act has been a key element in the United States counternarcotics strategy in the Andean region, promoting export diversification and broad-based economic development that provides sustainable economic alternatives to drug-crop production, strengthening the legitimate economies of Andean countries and creating viable alternatives to illicit trade in coca. “(3) Notwithstanding the success of the Andean Trade Preference Act, the Andean region remains threatened by political and economic instability and fragility, vulnerable to the consequences of the drug war and fierce global competition for its legitimate trade. “(4) The continuing instability in the Andean region poses a threat to the security interests of the United States and the world. This problem has been partially addressed through foreign aid, such as Plan Colombia, enacted by Congress in 2000. However, foreign aid alone is not sufficient. Enhancement of legitimate trade with the United States provides an alternative means for reviving and stabilizing the economies in the Andean region. “(5) The Andean Trade Preference Act constitutes a tangible commitment by the United States to the promotion of prosperity, stability, and democracy in the beneficiary countries. “(6) Renewal and enhancement of the Andean Trade Preference Act will bolster the confidence of domestic private enterprise and foreign investors in the economic prospects of the region, ensuring that legitimate private enterprise can be the engine of economic development and political stability in the region. “(7) Each of the Andean beneficiary countries is committed to conclude negotiation of a Free Trade Area of the Americas by the year 2005, as a means of enhancing the economic security of the region. “(8) Temporarily enhancing trade benefits for Andean beneficiary countries will promote the growth of free enterprise and economic opportunity in these countries and serve the security interests of the United States, the region, and the world.”
@@ -398,11 +398,11 @@ Peru, Proc. No. 6585, Aug. 11, 1993, 58 F.R. 43239.
         (bb) is making substantial progress toward implementing and following,
       procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the NAFTA.
 
-      (II) *Country described* — A country is described in this subclause if it is an ATPDEA beneficiary country—
+  (II) *Country described* — A country is described in this subclause if it is an ATPDEA beneficiary country—
 
-        (aa) from which the article is exported; or
+    (aa) from which the article is exported; or
 
-        (bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (1), (3), or (4).
+    (bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (1), (3), or (4).
 
   (B) *Certificate of Origin* — The Certificate of Origin that otherwise would be required pursuant to the provisions of subparagraph (A) shall not be required in the case of an article imported under paragraph (1), (3), or (4) if such Certificate of Origin would not be required under Article 503 of the NAFTA (as implemented pursuant to United States law), if the article were imported from Mexico.
 
@@ -567,7 +567,7 @@ Pub. L. 110–191, § 2(b)(2), substituted “December 31, 2008” for “Decemb
 
 2007—Subsec. (b)(3)(B)(iii)(II). Pub. L. 110–42, § 2(1)(A), substituted “The” for “Subject to [section 3206 of this title](./chapter-020-andean-trade-preference.md#section-3206), the” and “5 succeeding 1-year periods” for “4 succeeding 1-year periods”.
 
-Subsec. (b)(3)(B)(iii)(III). Pub. L. 110–42, § 2(1)(B), substituted “means—”for “means” and “; and” for period, inserted item (aa) designation, and added item (bb).
+Subsec. (b)(3)(B)(iii)(III). Pub. L. 110–42, § 2(1)(B), substituted “means—” for “means” and “; and” for period, inserted item (aa) designation, and added item (bb).
 
 Subsec. (b)(3)(B)(v)(II). Pub. L. 110–42, § 2(2), substituted “During” for “Subject to [section 3206 of this title](./chapter-020-andean-trade-preference.md#section-3206), during” and “4 succeeding 1-year periods” for “3 succeeding 1-year periods”.
 
@@ -718,9 +718,11 @@ For purposes of this section, industries in the Commonwealth of Puerto Rico and 
 
 
 <a id="section-3205"></a>
-## § 3205. Impact study by Secretary of Labor
+## § 3205. Repealed. Pub. L. 113–188, title XII, § 1201, Nov. 26, 2014, 128 Stat. 2023
 
-The Secretary of Labor, in consultation with other appropriate Federal agencies, shall undertake a continuing review and analysis of the impact that the implementation of the provisions of this chapter has with respect to United States labor; and shall make an annual written report to Congress on the results of such review and analysis.
+### Statutory Notes
+
+Section, Pub. L. 102–182, title II, § 207, Dec. 4, 1991, 105 Stat. 1244, required impact studies and annual reports from the Secretary of Labor.
 
 
 <a id="section-3206"></a>

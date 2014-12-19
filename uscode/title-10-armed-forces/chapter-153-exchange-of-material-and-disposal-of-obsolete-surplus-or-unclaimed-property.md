@@ -568,9 +568,7 @@ Another section 2582 was renumbered [section 2583 of this title](./chapter-153-e
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (f). Pub. L. 112–239, § 371(a)(2), added subsec. (f). Former subsec. (f) redesignated (g).
-
-Subsec. (g). Pub. L. 112–239, § 371(a)(1), which directed the amendment of this section by redesignating subsecs. (f) and (g) as (g) and (h), respectively, was executed by redesignating subsec. (f) as (g) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 112–81, § 1061(20). See 2011 Amendment note below.
+2013—Subsecs. (f), (g). Pub. L. 112–239, § 371(a), as amended by Pub. L. 113–66, § 1091(b)(2), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 2011—Subsec. (a)(2). Pub. L. 112–81, § 351(1), inserted “, including circumstances under which the handler of a military working dog is killed in action, dies of wounds received in action, or is medically retired as a result of injuries received in action,” after “extraordinary circumstances”.
 
@@ -605,3 +603,6 @@ Pub. L. 109–163, § 599(c), inserted “of Defense” after “Secretary”.
 Subsec. (g). Pub. L. 109–364, § 352(a)(6), added subsec. (g).
 
 2001—Pub. L. 107–107 renumbered [section 2582 of this title](./chapter-153-exchange-of-material-and-disposal-of-obsolete-surplus-or-unclaimed-property.md#section-2582) as this section.
+
+#### Effective Date of 2013 Amendment
+Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(2) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.

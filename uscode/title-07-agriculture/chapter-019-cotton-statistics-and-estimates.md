@@ -109,7 +109,7 @@ Pub. L. 102–237, § 120(a), amended first sentence generally. Prior to amendme
 1981—Pub. L. 97–35 substituted provisions effective for fiscal years ending Sept. 30, 1982, 1983, and 1984, requiring the Secretary to make classification services available to producers, and to set and collect fees, for provisions authorizing the Secretary to determine and make available classification procedures.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 #### Effective and Termination Dates of 1991 Amendment
 Pub. L. 102–237, title I, § 120(e), Dec. 13, 1991, 105 Stat. 1842, provided that subsections (a), (b), and (c) of that section, and the amendments made by subsections (a), (b), and (c) to this section, were effective for the period beginning on Dec. 13, 1991, and ending on September 30, 1996, prior to repeal by Pub. L. 107–171, title X, § 10801(b)(3), May 13, 2002, 116 Stat. 525.
@@ -193,7 +193,7 @@ The Secretary of Agriculture may cooperate with any department or agency of the 
 1996—Pub. L. 104–127 inserted at end “The Secretary of Agriculture shall maintain until at least January 1, 1999, all cotton classing office locations in the State of Missouri that existed on January 1, 1996.”
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
 
 
 <a id="section-475"></a>

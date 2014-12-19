@@ -36,12 +36,7 @@ Pub. L. 105–206, title III, § 3421, July 22, 1998, 112 Stat. 758, provided th
 
 (2) **Special rule for tax due in September**
 
-  (A) *Amounts considered collected* — In the case of a person required to make deposits of the tax imposed by—
-
-    (i) section 4251, or
-
-    (ii) effective on January 1, 1997, section 4261 or 4271,
-    with respect to amounts considered collected by such person during any semimonthly period, the amount of such tax included in bills rendered or tickets sold during the period beginning on September 1 and ending on September 11 shall be deposited not later than September 29.
+  (A) *Amounts considered collected* — In the case of a person required to make deposits of the tax imposed by sections 4251, 4261, or 4271 with respect to amounts considered collected by such person during any semimonthly period, the amount of such tax included in bills rendered or tickets sold during the period beginning on September 1 and ending on September 11 shall be deposited not later than September 29.
 
   (B) *Special rule where September 29 is on Saturday or Sunday* — If September 29 falls on a Saturday or Sunday, the due date under subparagraph (A) shall be—
 
@@ -53,7 +48,7 @@ Pub. L. 105–206, title III, § 3421, July 22, 1998, 112 Stat. 758, provided th
 
 **(f) Time for deposit of certain excise taxes**
 
-(1) **General rule** — Except as otherwise provided in this subsection and subsection (e), if any person is required under regulations to make deposits of taxes under subtitle D with respect to semimonthly periods, such person shall make deposits of such taxes for the period beginning on September 16 and ending on September 26 not later than September 29. In the case of taxes imposed by sections 4261 and 4271, this paragraph shall not apply to periods before January 1, 1997.
+(1) **General rule** — Except as otherwise provided in this subsection and subsection (e), if any person is required under regulations to make deposits of taxes under subtitle D with respect to semimonthly periods, such person shall make deposits of such taxes for the period beginning on September 16 and ending on September 26 not later than September 29.
 
 (2) **Taxes on ozone depleting chemicals** — If any person is required under regulations to make deposits of taxes under subchapter D of chapter 38 with respect to semimonthly periods, in lieu of paragraph (1), such person shall make deposits of such taxes for—
 
@@ -80,61 +75,35 @@ Pub. L. 105–206, title III, § 3421, July 22, 1998, 112 Stat. 758, provided th
 
   (B) *Exemptions* — The regulations prescribed under subparagraph (A) may contain such exemptions as the Secretary may deem appropriate.
 
-(2) **Phase-in requirements**
-
-  (A) *In general* — Except as provided in subparagraph (B), the regulations referred to in paragraph (1)—
-
-    (i) shall contain appropriate procedures to assure that an orderly conversion from the Federal tax deposit system to the electronic fund transfer system is accomplished, and
-
-    (ii) may provide for a phase-in of such electronic fund transfer system by classes of taxpayers based on the aggregate undeposited taxes of such taxpayers at the close of specified periods and any other factors the Secretary may deem appropriate.
-
-  (B) *Phase-in requirements* — The phase-in of the electronic fund transfer system shall be designed in such manner as may be necessary to ensure that—
-
-    (i) during each fiscal year beginning after September 30, 1993, at least the applicable required percentage of the total depository taxes imposed by chapters 21, 22, and 24 shall be collected by means of electronic fund transfer, and
-
-    (ii) during each fiscal year beginning after September 30, 1993, at least the applicable required percentage of the total other depository taxes shall be collected by means of electronic fund transfer.
-
-  (C) *Applicable required percentage*
-
-    (i) In the case of the depository taxes imposed by chapters 21, 22, and 24, the applicable required percentage is—
-
-      (I) 3 percent for fiscal year 1994,
-
-      (II) 16.9 percent for fiscal year 1995,
-
-      (III) 20.1 percent for fiscal year 1996,
-
-      (IV) 58.3 percent for fiscal years 1997 and 1998, and
-
-      (V) 94 percent for fiscal year 1999 and all fiscal years thereafter.
-
-    (ii) In the case of other depository taxes, the applicable required percentage is—
-
-      (I) 3 percent for fiscal year 1994,
-
-      (II) 20 percent for fiscal year 1995,
-
-      (III) 30 percent for fiscal year 1996,
-
-      (IV) 60 percent for fiscal years 1997 and 1998, and
-
-      (V) 94 percent for fiscal year 1999 and all fiscal years thereafter.
-
-(3) **Definitions** — For purposes of this subsection—
+(2) **Definitions** — For purposes of this subsection—
 
   (A) *Depository tax* — The term “depository tax” means any tax if the Secretary is authorized to require deposits of such tax.
 
   (B) *Electronic fund transfer* — The term “electronic fund transfer” means any transfer of funds, other than a transaction originated by check, draft, or similar paper instrument, which is initiated through an electronic terminal, telephonic instrument, or computer or magnetic tape so as to order, instruct, or authorize a financial institution or other financial intermediary to debit or credit an account.
 
-(4) **Coordination with other electronic fund transfer requirements**
-
-  (A) *Coordination with certain excise taxes* — In determining whether the requirements of subparagraph (B) of paragraph (2) are met, taxes required to be paid by electronic fund transfer under sections 5061(e) and 5703(b) shall be disregarded.
-
-  (B) *Additional requirement* — Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirements of the second sentence of paragraph (1)(A) of this subsection are satisfied.
+(3) **Coordination with other electronic fund transfer requirements** — Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirements of the second sentence of paragraph (1)(A) of this subsection are satisfied.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (e)(2). Pub. L. 113–295, § 221(a)(110)(A), substituted “imposed by sections 4251, 4261, or 4271 with respect to” for “imposed by—
+
+“(i) section 4251, or
+
+“(ii) effective on January 1, 1997, section 4261 or 4271,
+
+with respect to”.
+
+Subsec. (f)(1). Pub. L. 113–295, § 221(a)(110)(B), struck out last sentence which read as follows: “In the case of taxes imposed by sections 4261 and 4271, this paragraph shall not apply to periods before January 1, 1997.”
+
+Subsec. (h)(2). Pub. L. 113–295, § 221(a)(110)(C)(i), redesignated par. (3) as (2) and struck out former par. (2) which related to phase-in of the electronic fund transfer system.
+
+Subsec. (h)(3), (4). Pub. L. 113–295, § 221(a)(110)(C), redesignated par. (4) as (3) and amended it generally. Prior to amendment, text read as follows:
+
+“(A) Coordination with certain excise taxes.—In determining whether the requirements of subparagraph (B) of paragraph (2) are met, taxes required to be paid by electronic fund transfer under sections 5061(e) and 5703(b) shall be disregarded.
+
+“(B) Additional requirement.—Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirements of the second sentence of paragraph (1)(A) of this subsection are satisfied.”
+
 2010—Subsec. (d). Pub. L. 111–237 amended subsec. (d) generally. Prior to amendment, text read as follows: “The taxes imposed by subsections (a) and (b) of section 4161 (relating to taxes on sporting goods) shall be due and payable on the date for filing the return for such taxes.”
 
 Subsec. (i). Pub. L. 111–226 struck out subsec. (i). Text read as follows: “For treatment of earned income advance amounts as payment of withholding and FICA taxes, see section 3507(d).”
@@ -192,6 +161,9 @@ Subsec. (b). Pub. L. 94–455, § 1906(a)(17), (b)(13)(A), substituted “sectio
 Subsec. (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 1956—Subsec. (b). Act June 29, 1956, inserted reference to section 4481 of chapter 36.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–237, § 2(b), Aug. 16, 2010, 124 Stat. 2497, provided that: “The amendment made by subsection (a) [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after the date of the enactment of this Act [Aug. 16, 2010].”
@@ -1582,7 +1554,7 @@ Section applicable to collection actions initiated after the date which is 180 d
 
   (C) any annuity or pension payment under the Railroad Retirement Act or benefit under the Railroad Unemployment Insurance Act.
 
-(3) **Increase in levy for certain payments** — Paragraph (1) shall be applied by substituting “100 percent” for “15 percent” in the case of any specified payment due to a vendor of property, goods, or services sold or leased to the Federal Government.
+(3) **Increase in levy for certain payments** — Paragraph (1) shall be applied by substituting “100 percent” for “15 percent” in the case of any specified payment due to a vendor of property, goods, or services sold or leased to the Federal Government and by substituting “30 percent” for “15 percent” in the case of any specified payment due to a Medicare provider or supplier under title XVIII of the Social Security Act.
 
 **(i) No levy during pendency of proceedings for refund of divisible tax**
 
@@ -1681,7 +1653,11 @@ The Railroad Retirement Act, referred to in subsec. (h)(2)(C), is act Aug. 29, 1
 
 The Railroad Unemployment Insurance Act, referred to in subsec. (h)(2)(C), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§ 351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 367 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section367&num=0&edition=prelim) and Tables.
 
+The Social Security Act, referred to in subsec. (h)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2014—Subsec. (h)(3). Pub. L. 113–295 inserted “and by substituting ‘30 percent’ for ‘15 percent’ in the case of any specified payment due to a Medicare provider or supplier under title XVIII of the Social Security Act” before period at end.
+
 2011—Subsec. (h)(3). Pub. L. 112–56 substituted “property, goods, or services” for “goods or services”.
 
 2004—Subsec. (h)(3). Pub. L. 108–357 added par. (3).
@@ -1739,6 +1715,9 @@ Subsec. (d)(3). Pub. L. 94–455, § 1209(d)(1), added par. (3).
 1971—Subsecs. (d), (e). Pub. L. 92–178 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1966—Subsec. (b). Pub. L. 89–719 inserted sentence providing that a levy shall extend only to property possessed and obligations existing at the time thereof.
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–295, div. B, title II, § 209(b), Dec. 19, 2014, 128 Stat. 4074, provided that: “The amendment made by this section [amending this section] shall apply to payments made after 180 days after the date of the enactment of this Act [Dec. 19, 2014].”
 
 #### Effective Date of 2011 Amendment
 Pub. L. 112–56, title III, § 301(b), Nov. 21, 2011, 125 Stat. 733, provided that: “The amendment made by this section [amending this section] shall apply to levies issued after the date of the enactment of this Act [Nov. 21, 2011].”

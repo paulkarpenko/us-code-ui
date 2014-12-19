@@ -435,9 +435,7 @@ The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch.
 
   (B) require any person, by general or special order, to submit answers in writing to interrogatories, requests for reports or for other information, and such answers shall be made within such reasonable period, and under oath or otherwise as the President may determine; and
 
-    (c) 11 So in original. Probably should be “(C)”. secure, upon request, any information from any Federal agency.
-
-(2) **Enforcement of subpenas and orders** — The appropriate United States district court may, upon petition of the Attorney General at the request of the President, in the case of refusal to obey a subpena or order of the President issued under this subsection, issue an order requiring compliance therewith, and any failure to obey an order of the court may be punished by the court as a contempt thereof.
+**(c)** 11 So in original. Probably should be “(C)”. secure, upon request, any information from any Federal agency. (2) Enforcement of subpenas and ordersThe appropriate United States district court may, upon petition of the Attorney General at the request of the President, in the case of refusal to obey a subpena or order of the President issued under this subsection, issue an order requiring compliance therewith, and any failure to obey an order of the court may be punished by the court as a contempt thereof.
 
 **(b) Reporting of prices and volumes** In issuing any order under section 3362 or 3363 of this title, the President shall require that the prices and volumes of natural gas delivered, transported, or contracted for pursuant to such order shall be reported to him on a weekly basis. Such reports shall be made available to the Congress.
 
@@ -1013,7 +1011,7 @@ In order to obtain information for the purpose of carrying out its functions und
 
     (i) authorized under section 3362(a) or 3371(b) of this title; or
 
-    (ii) pursuant to any assigned authorized under [section 3372(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3372/a&num=0&edition=prelim).
+    (ii) pursuant to any assigned 11 So in original. Probably should be “assignment”. authorized under [section 3372(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3372/a&num=0&edition=prelim).
 
   (C) *Natural-gas company* — For purposes of the Natural Gas Act [[15 U.S.C. 717](./chapter-15b-natural-gas.md#section-717) et seq.], the term “natural-gas company” (as defined in section 2(6) of such Act [[15 U.S.C. 717a(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717a/6&num=0&edition=prelim) et seq.]) shall not include any person by reason of, or with respect to, any sale of natural gas if the provisions of the Natural Gas Act and the jurisdiction of the Commission do not apply to such sale solely by reason of subparagraph (A) or (B) of this paragraph.
 

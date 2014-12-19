@@ -73,7 +73,7 @@ Whoever, in the special maritime and territorial jurisdiction of the United Stat
   (A) incapable of appraising the nature of the conduct; or
 
   (B) physically incapable of declining participation in, or communicating unwillingness to engage in, that sexual act;
-  or attempts to do so, shall be fined under this title and imprisoned for any term of years or for life.
+or attempts to do so, shall be fined under this title and imprisoned for any term of years or for life.
 
 ### Statutory Notes
 

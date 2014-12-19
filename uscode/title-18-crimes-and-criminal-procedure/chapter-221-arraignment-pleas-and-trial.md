@@ -9,8 +9,6 @@ source: >-
 <a id="section-3431"></a>
 ## § 3431. Term of court; power of court unaffected by expiration—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 ### Statutory Notes
 
 #### References in Text
@@ -47,13 +45,9 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 <a id="section-3433"></a>
 ## § 3433. Arraignment—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3434"></a>
 ## § 3434. Presence of defendant—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3435"></a>
@@ -74,64 +68,42 @@ Necessary changes were made in phraseology.
 <a id="section-3436"></a>
 ## § 3436. Consolidation of indictments or informations—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3437"></a>
 ## § 3437. Severance—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3438"></a>
 ## § 3438. Pleas—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3439"></a>
 ## § 3439. Demurrers and special pleas in bar or abatement abolished; relief on motion—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3440"></a>
 ## § 3440. Defenses and objections determined on motion—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3441"></a>
 ## § 3441. Jury; number of jurors; waiver—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3442"></a>
 ## § 3442. Jurors, examination, peremptory challenges; alternates—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3443"></a>
 ## § 3443. Instructions to jury—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3444"></a>
 ## § 3444. Disability of judge—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3445"></a>
 ## § 3445. Motion for judgment of acquittal—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3446"></a>
 ## § 3446. New trial—(Rule)
-
-See Federal Rules of Criminal Procedure

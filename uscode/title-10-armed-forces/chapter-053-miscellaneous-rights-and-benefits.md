@@ -2,7 +2,7 @@
 title: 10
 chapter: '53'
 heading: MISCELLANEOUS RIGHTS AND BENEFITS
-section_count: 43
+section_count: 44
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -196,9 +196,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(b) Prohibition of Retaliatory Personnel Actions.—**
 
-(1) No person may take (or threaten to take) an unfavorable personnel action, or withhold (or threaten to withhold) a favorable personnel action, as a reprisal against a member of the armed forces for making or preparing—
+(1) No person may take (or threaten to take) an unfavorable personnel action, or withhold (or threaten to withhold) a favorable personnel action, as a reprisal against a member of the armed forces for making or preparing or being perceived as making or preparing—
 
-  (A) a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted; or
+  (A) a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted;
 
   (B) a communication that is described in subsection (c)(2) and that is made (or prepared to be made) to—
 
@@ -208,25 +208,43 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
     (iii) a member of a Department of Defense audit, inspection, investigation, or law enforcement organization;
 
-    (iv) any person or organization in the chain of command; or
+    (iv) any person or organization in the chain of command;
 
-    (v) any other person or organization designated pursuant to regulations or other established administrative procedures for such communications.
+    (v) a court-martial proceeding; or
 
-(2) Any action prohibited by paragraph (1) (including the threat to take any unfavorable action and the withholding or threat to withhold any favorable action) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection.
+    (vi) any other person or organization designated pursuant to regulations or other established administrative procedures for such communications; or
+
+  (C) testimony, or otherwise participating in or assisting in an investigation or proceeding related to a communication under subparagraph (A) or (B), or filing, causing to be filed, participating in, or otherwise assisting in an action brought under this section.
+
+(2) Any action prohibited by paragraph (1) (including the threat to take any unfavorable action, the withholding or threat to withhold any favorable action, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection.
 
 **(c) Inspector General Investigation of Allegations of Prohibited Personnel Actions.—**
 
-(1) If a member of the armed forces submits to an Inspector General an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall take the action required under paragraph (3).
+(1) If a member of the armed forces submits to an Inspector General an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall take the action required under paragraph (4).
 
 (2) A communication described in this paragraph is a communication in which a member of the armed forces complains of, or discloses information that the member reasonably believes constitutes evidence of, any of the following:
 
-  (A) A violation of law or regulation, including a law or regulation prohibiting sexual harassment or unlawful discrimination.
+  (A) A violation of law or regulation, including a law or regulation prohibiting rape, sexual assault, or other sexual misconduct in violation of sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice), sexual harassment, or unlawful discrimination.
 
   (B) Gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 
   (C) A threat by another member of the armed forces or employee of the Federal Government that indicates a determination or intent to kill or cause serious bodily injury to members of the armed forces or civilians or damage to military, Federal, or civilian property.
 
-(3)
+(3) A communication described in paragraph (2) shall not be excluded from the protections provided in this section because—
+
+  (A) the communication was made to a person who participated in an activity that the member reasonably believed to be covered by paragraph (2);
+
+  (B) the communication revealed information that had previously been disclosed;
+
+  (C) of the member’s motive for making the communication;
+
+  (D) the communication was not made in writing;
+
+  (E) the communication was made while the member was off duty; and
+
+  (F) the communication was made during the normal course of duties of the member.
+
+(4)
 
   (A) An Inspector General receiving an allegation as described in paragraph (1) shall expeditiously determine, in accordance with regulations prescribed under subsection (h), whether there is sufficient evidence to warrant an investigation of the allegation.
 
@@ -238,19 +256,23 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
   (E) In the case of an investigation under subparagraph (D) within the Department of Defense, the results of the investigation shall be determined by, or approved by, the Inspector General of the Department of Defense (regardless of whether the investigation itself is conducted by the Inspector General of the Department of Defense or by an Inspector General within a military department).
 
-(4) Neither an initial determination under paragraph (3)(A) nor an investigation under paragraph (3)(D) is required in the case of an allegation made more than 60 days after the date on which the member becomes aware of the personnel action that is the subject of the allegation.
+(5) Neither an initial determination under paragraph (4)(A) nor an investigation under paragraph (4)(D) is required in the case of an allegation made more than one year after the date on which the member becomes aware of the personnel action that is the subject of the allegation.
 
-(5) The Inspector General of the Department of Defense, or the Inspector General of the Department of Homeland Security (in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy), shall ensure that the Inspector General conducting the investigation of an allegation under this subsection is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.
+(6) The Inspector General of the Department of Defense, or the Inspector General of the Department of Homeland Security (in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy), shall ensure that the Inspector General conducting the investigation of an allegation under this subsection is one or both of the following:
 
-**(d) Inspector General Investigation of Underlying Allegations.—** Upon receiving an allegation under subsection (c), the Inspector General receiving the allegation shall conduct a separate investigation of the information that the member making the allegation believes constitutes evidence of wrongdoing (as described in subparagraph (A) or (B) of subsection (c)(2)) if there previously has not been such an investigation or if the Inspector General determines that the original investigation was biased or otherwise inadequate. In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned.
+  (A) Outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.
+
+  (B) At least one organization higher in the chain of command than the organization of the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.
+
+**(d) Inspector General Investigation of Underlying Allegations.—** Upon receiving an allegation under subsection (c), the Inspector General receiving the allegation shall conduct a separate investigation of the information that the member making the allegation believes constitutes evidence of wrongdoing (as described in subparagraph (A), (B), or (C) of subsection (c)(2)) if there previously has not been such an investigation or if the Inspector General determines that the original investigation was biased or otherwise inadequate. In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned.
 
 **(e) Reports on Investigations.—**
 
-(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to the Secretary, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E).
+(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to such Secretaries, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E).
 
 (2) In the copy of the report transmitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim). However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.
 
-(3) If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
+(3) If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
 
   (A) of that determination (including the reasons why the report may not be submitted within that time); and
 
@@ -258,7 +280,23 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 (4) The report on the results of the investigation shall contain a thorough review of the facts and circumstances relevant to the allegation and the complaint or disclosure and shall include documents acquired during the course of the investigation, including summaries of interviews conducted. The report may include a recommendation as to the disposition of the complaint.
 
-**(f) Correction of Records When Prohibited Action Taken.—**
+**(f) Action in Case of Violations.—**
+
+(1) Not later than 30 days after receiving a report from the Inspector General under subsection (e), the Secretary of Homeland Security or the Secretary of the military department concerned, as applicable, shall determine whether there is sufficient basis to conclude whether a personnel action prohibited by subsection (b) has occurred.
+
+(2) If the Secretary concerned determines under paragraph (1) that a personnel action prohibited by subsection (b) has occurred, the Secretary shall—
+
+  (A) order such action as is necessary to correct the record of a personnel action prohibited by subsection (b); and
+
+  (B) take any appropriate disciplinary action against the individual who committed such prohibited personnel action.
+
+(3) If the Secretary concerned determines under paragraph (1) that an order for corrective or disciplinary action is not appropriate, not later than 30 days after making the determination, such Secretary shall—
+
+  (A) provide to the Secretary of Defense and the member or former member a notice of the determination and the reasons for not taking action; and
+
+  (B) when appropriate, refer the report to the appropriate board for the correction of military records for further review under subsection (g).
+
+**(g) Correction of Records When Prohibited Action Taken.—**
 
 (1) A board for the correction of military records acting under [section 1552 of this title](./chapter-079-correction-of-military-records.md#section-1552), in resolving an application for the correction of records made by a member or former member of the armed forces who has alleged a personnel action prohibited by subsection (b), on the request of the member or former member or otherwise, may review the matter.
 
@@ -270,13 +308,13 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
   (C) may receive oral argument, examine and cross-examine witnesses, take depositions, and, if appropriate, conduct an evidentiary hearing.
 
-(3) If the board elects to hold an administrative hearing, the member or former member who filed the application described in paragraph (1)—
+(3) If the board holds an administrative hearing, the member or former member who filed the application described in paragraph (1)—
 
   (A) may be provided with representation by a judge advocate if—
 
     (i) the Inspector General, in the report under subsection (e)(1), finds that there is probable cause to believe that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in subsection (c)(2);
 
-    (ii) the Judge Advocate General concerned determines that the case is unusually complex or otherwise requires judge advocate assistance to ensure proper presentation of the legal issues in the case; and
+    (ii) the Judge Advocate General concerned determines that the member or former member would benefit from judge advocate assistance to ensure proper presentation of the legal issues in the case; and
 
     (iii) the member is not represented by outside counsel chosen by the member; and
 
@@ -288,11 +326,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 (6) If the Board determines that a personnel action prohibited by subsection (b) has occurred, the Board may recommend to the Secretary concerned that the Secretary take appropriate disciplinary action against the individual who committed such personnel action.
 
-**(g) Review by Secretary of Defense.—** Upon the completion of all administrative review under subsection (f), the member or former member of the armed forces (except for a member or former member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) who made the allegation referred to in subsection (c)(1), if not satisfied with the disposition of the matter, may submit the matter to the Secretary of Defense. The Secretary shall make a decision to reverse or uphold the decision of the Secretary of the military department concerned in the matter within 90 days after receipt of such a submittal.
+**(h) Review by Secretary of Defense.—** Upon the completion of all administrative review under subsection (f), the member or former member of the armed forces (except for a member or former member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) who made the allegation referred to in subsection (c)(1), if not satisfied with the disposition of the matter, may submit the matter to the Secretary of Defense. The Secretary shall make a decision to reverse or uphold the decision of the Secretary of the military department concerned in the matter within 90 days after receipt of such a submittal.
 
-**(h) Regulations.—** The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
+**(i) Regulations.—** The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
 
-**(i) Definitions.—** In this section:
+**(j) Definitions.—** In this section:
 
 (1) The term “Member of Congress” includes any Delegate or Resident Commissioner to Congress.
 
@@ -319,6 +357,32 @@ The words “prevented”, “directly or indirectly”, “concerning any subje
 The Inspector General Act of 1978, referred to in subsec. (b)(1)(B)(ii), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2013—Subsec. (b)(1). Pub. L. 113–66, § 1714(a)(1)(A), substituted “preparing or being perceived as making or preparing—” for “preparing—” in introductory provisions.
+
+Subsec. (b)(1)(B)(v), (vi). Pub. L. 113–66, § 1714(a)(1)(C), added cl. (v) and redesignated former cl. (v) as (vi).
+
+Subsec. (b)(1)(C). Pub. L. 113–66, § 1714(a)(1)(B), (C)(ii), (D), added subpar. (C).
+
+Subsec. (b)(2). Pub. L. 113–66, § 1714(a)(2), substituted a comma for “and” after “unfavorable action” and inserted “, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade” after “favorable action”.
+
+Subsec. (c)(1). Pub. L. 113–66, § 1714(b)(1), substituted “paragraph (4)” for “paragraph (3)”.
+
+Subsec. (c)(2)(A). Pub. L. 113–66, § 1715, substituted “rape, sexual assault, or other sexual misconduct in violation of sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice), sexual harassment, or” for “sexual harassment or”.
+
+Subsec. (c)(3) to (6). Pub. L. 113–66, § 1714(b)(2)–(5), added par. (3), redesignated former pars. (3) to (5) as (4) to (6), respectively, in par. (5), substituted “paragraph (4)(A)” for “paragraph (3)(A)”, “paragraph (4)(D)” for “paragraph (3)(D)”, and “one year” for “60 days”, and in par. (6), substituted “one or both of the following:” and subpars. (A) and (B) for “outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
+
+Subsec. (d). Pub. L. 113–66, § 1714(c), substituted “subparagraph (A), (B), or (C) of subsection (c)(2)” for “subparagraph (A) or (B) of subsection (c)(2)”.
+
+Subsec. (e)(1). Pub. L. 113–66, § 1714(d)(1), substituted “subsection (c)(4)(E)” for “subsection (c)(3)(E)” in two places and “transmitted to such Secretaries” for “transmitted to the Secretary” and inserted “and the Secretary of the military department concerned” after “the Secretary of Defense”.
+
+Subsec. (e)(3). Pub. L. 113–66, § 1714(d)(2), inserted “and the Secretary of the military department concerned” after “the Secretary of Defense” in introductory provisions.
+
+Subsec. (f). Pub. L. 113–66, § 1714(e)(2), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 113–66, § 1714(e)(1), (f), redesignated subsec. (f) as (g), and in par. (3), substituted “board holds” for “board elects to hold” in introductory provisions and “the member or former member would benefit from” for “the case is unusually complex or otherwise requires” in subpar. (A)(ii). Former subsec. (g) redesignated (h).
+
+Subsecs. (h) to (j). Pub. L. 113–66, § 1714(e)(1), redesignated subsecs. (g) to (i) as (h) to (j), respectively.
+
 2011—Subsec. (c)(2)(C). Pub. L. 112–81 added subpar. (C).
 
 2008—Subsec. (b)(2). Pub. L. 110–181 inserted “unfavorable” before “action and the withholding”.
@@ -549,32 +613,11 @@ Lyndon B. Johnson.
 
 
 <a id="section-1036"></a>
-## § 1036. Escorts for dependents of members: transportation and travel allowances
-
-Under regulations to be prescribed by the Secretary concerned, round trip transportation and travel allowances may be paid to any person for travel performed or to be performed under competent orders as an escort for dependents of a member of the armed forces, if the travel is performed not later than one year after the member—
-
-(1) dies;
-
-(2) is missing; or
-
-(3) is otherwise unable to accompany his dependents; and it has been determined that travel by the dependents is necessary and that they are incapable of traveling alone because of age, mental or physical incapacity, or other extraordinary circumstances. Such allowances may be paid in advance.
+## § 1036. Repealed. Pub. L. 113–66, div. A, title VI, § 621(a)(2)(A), Dec. 26, 2013, 127 Stat. 783]
 
 ### Statutory Notes
 
-#### Amendments
-1983—Pub. L. 98–94 inserted sentence allowing the payment of allowances in advance.
-
-#### Effective Date of 1983 Amendment
-Pub. L. 98–94, title IX, § 913(c), Sept. 24, 1983, 97 Stat. 640, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 1040 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1040)] shall apply to travel performed by escorts or attendants of dependents on or after the date of the enactment of this Act [Sept. 24, 1983].”
-
-#### Back Payments: Validation; Application; Limitations; Accountability of Disbursing Officers; Regulations
-Pub. L. 86–160, §§ 4–7, Aug. 14, 1959, 73 Stat. 359, provided that: “Sec. 4. Travel and transportation allowances paid before the effective date of this Act [Aug. 14, 1959] to persons ordered by competent authority to escort dependents of members of the uniformed services are hereby validated, if they would have been authorized under section 1 of this Act [enacting this section]. “Sec. 5. Any person who was ordered by competent authority after January 1, 1950, and before the effective date of this Act [Aug. 14, 1959] to escort dependents of members of the uniformed services and who has not been paid travel and transportation allowances, or who has repaid the United States the amount so paid to him, is entitled to be paid the amount otherwise authorized by section 1 of this Act [enacting this section], if application for such payment is made not later than one year after the effective date of this Act [Aug. 14, 1959]. “Sec. 6. The Comptroller General of the United States, or his designee, shall relieve disbursing officers, including special disbursing agents, from accountability or responsibility for any payments described in section 4 of this Act, and shall allow credits in the settlement of the accounts of those disbursing officers or agents for payments which are found to be free from fraud or collusion. “Sec. 7. No regulations under section 1 of this Act [enacting this section] relating to the military departments shall be prescribed by the Secretary of a military department unless such regulations are first approved under procedures prescribed by the Secretary of Defense. Regulations of the Secretaries of the Treasury, Commerce, and Health, Education, and Welfare [now Health and Human Services] under section 1, 2, or 3 of this Act [enacting this section and amending [section 857a of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section857a&num=0&edition=prelim), Navigation and Navigable Waters, and [section 213a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section213a&num=0&edition=prelim), The Public Health and Welfare] shall, to the extent practicable, agree with regulations so approved.”
-
-#### Public Health Service
-Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see [section 213a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section213a&num=0&edition=prelim), The Public Health and Welfare.
-
-#### National Oceanic and Atmospheric Administration
-Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary’s designee, see [section 3071 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3071&num=0&edition=prelim), Navigation and Navigable Waters.
+Section, added Pub. L. 86–160, § 1(1), Aug. 14, 1959, 73 Stat. 358; amended Pub. L. 98–94, title IX, § 913(a), Sept. 24, 1983, 97 Stat. 640, provided for transportation and travel allowances for escorts for dependents of members.
 
 
 <a id="section-1037"></a>
@@ -649,7 +692,7 @@ Pub. L. 87–165, § 2, Aug. 25, 1961, 75 Stat. 401, provided that: “Section 1
 ## § 1040. Transportation of dependent patients
 **(a)**
 
-(1) Except as provided in subsection (b), if a dependent accompanying a member of the uniformed services who is stationed outside the United States or in Alaska or Hawaii and who is on active duty for a period of more than 30 days requires medical attention which is not available in the locality, transportation of the dependents at the expense of the United States is authorized to the nearest appropriate medical facility in which adequate medical care is available. On his recovery or when it is administratively determined that the patient should be removed from the medical facility involved, the dependent may be transported at the expense of the United States to the duty station of the member or to such other place determined to be appropriate under the circumstances. If a dependent is unable to travel unattended, round-trip transportation and travel expenses may be furnished necessary attendants. In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States. Travel expenses authorized by this section may include reimbursement for necessary local travel in the vicinity of the medical facility involved. The transportation and travel expenses authorized by this section may be paid in advance.
+(1) Except as provided in subsection (b), if a dependent accompanying a member of the uniformed services who is stationed outside the United States or in Alaska or Hawaii and who is on active duty for a period of more than 30 days requires medical attention which is not available in the locality, transportation of the dependents at the expense of the United States is authorized to the nearest appropriate medical facility in which adequate medical care is available. On his recovery or when it is administratively determined that the patient should be removed from the medical facility involved, the dependent may be transported at the expense of the United States to the duty station of the member or to such other place determined to be appropriate under the circumstances. If a dependent is unable to travel unattended, travel and transportation allowances may be furnished to necessary attendants. The dependents and any attendants shall be furnished such travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section464&num=0&edition=prelim). Travel expenses authorized by this section may include reimbursement for necessary local travel in the vicinity of the medical facility involved. The transportation and travel expenses authorized by this section may be paid in advance.
 
 (2)
 
@@ -673,8 +716,6 @@ Pub. L. 87–165, § 2, Aug. 25, 1961, 75 Stat. 401, provided that: “Section 1
 
 **(c)** In this section, the term “dependent” has the meaning given that term in [section 1072 of this title](./chapter-055-medical-and-dental-care.md#section-1072).
 
-**(d)** Transportation and travel expenses authorized by this section shall be furnished in accordance with joint regulations to be prescribed by the Secretary of Transportation, the Secretary of Defense, the Secretary of Commerce, and the Secretary of Health and Human Services, which shall require the use of transportation facilities of the United States insofar as practicable.
-
 ### Statutory Notes
 
 #### Codification
@@ -683,6 +724,12 @@ Another section 1040 was renumbered [section 1041 of this title](./chapter-053-m
 Another section 1040, related to free postage from combat zones, was added by Pub. L. 89–132, § 9(a), Aug. 21, 1965, 79 Stat. 548, prior to repeal by Pub. L. 89–315, § 3(a), Nov. 1, 1965, 79 Stat. 1164. See section 3401 et seq. of Title 39, Postal Service.
 
 #### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–291 substituted “37.” for “37..”.
+
+2013—Subsec. (a)(1). Pub. L. 113–66, § 621(b)(1), substituted “travel and transportation allowances may be furnished to necessary attendants. The dependents and any attendants shall be furnished such travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section464&num=0&edition=prelim).” for “round-trip transportation and travel expenses may be furnished necessary attendants. In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States”.
+
+Subsec. (d). Pub. L. 113–66, § 621(b)(2), struck out subsec. (d) which read as follows: “Transportation and travel expenses authorized by this section shall be furnished in accordance with joint regulations to be prescribed by the Secretary of Transportation, the Secretary of Defense, the Secretary of Commerce, and the Secretary of Health and Human Services, which shall require the use of transportation facilities of the United States insofar as practicable.”
+
 2011—Subsec. (a). Pub. L. 112–81 designated existing provisions as par. (1) and added par. (2).
 
 1986—Subsec. (a). Pub. L. 99–661 substituted “In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States. Travel expenses authorized by this section may include reimbursement for necessary local travel in the vicinity of the medical facility involved. The transportation and travel expenses authorized by this section may be paid in advance” for “, and such expenses may be paid in advance”.
@@ -704,7 +751,7 @@ Pub. L. 99–661, div. A, title VI, § 616(b), Nov. 14, 1986, 100 Stat. 3880, pr
 Pub. L. 98–525, title VI, § 611, Oct. 19, 1984, 98 Stat. 2538, provided that the amendment made by that section is effective Oct. 1, 1984.
 
 #### Effective Date of 1983 Amendment
-Amendment by Pub. L. 98–94 applicable to travel performed by escorts or attendants of dependents on or after Sept. 24, 1983, see section 913(c) of Pub. L. 98–94, set out as a note under [section 1036 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1036).
+Pub. L. 98–94, title IX, § 913(c), Sept. 24, 1983, 97 Stat. 640, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 1036 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1036)] shall apply to travel performed by escorts or attendants of dependents on or after the date of the enactment of this Act [Sept. 24, 1983].”
 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -769,20 +816,26 @@ Active commissioned service in the National Oceanic and Atmospheric Administrati
 
 (1) Notwithstanding any law regarding the licensure of attorneys, a judge advocate or civilian attorney who is authorized to provide military legal assistance is authorized to provide that assistance in any jurisdiction, subject to such regulations as may be prescribed by the Secretary concerned.
 
-(2) Military legal assistance may be provided only by a judge advocate or a civilian attorney who is a member of the bar of a Federal court or of the highest court of a State.
+(2) Military legal assistance may be provided only by a judge advocate or a civilian attorney who is a member of the bar of a Federal court or of the highest court of a State and, for purposes of service as a Special Victims’ Counsel under [section 1044e of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), meets the additional qualifications specified in subsection (d)(2) of such section.
 
 (3) In this subsection, the term “military legal assistance” includes—
 
   (A) legal assistance provided under this section; and
 
-  (B) legal assistance contemplated by sections 1044a, 1044b, 1044c, and 1044d of this title.
+  (B) legal assistance contemplated by sections 1044a, 1044b, 1044c, 1044d, 1044e, and 1565b(a)(1)(A) of this title.
 
 **(e)** The Secretary concerned shall define “dependent” for the purposes of this section.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (d)(2). Pub. L. 113–291 substituted “such section.” for “such section..”.
+
 2013—Subsec. (b). Pub. L. 112–239 inserted “, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps,” after “jurisdiction of the Secretary”.
+
+Subsec. (d)(2). Pub. L. 113–66, § 1716(a)(3)(A), inserted before period at end “and, for purposes of service as a Special Victims’ Counsel under [section 1044e of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), meets the additional qualifications specified in subsection (d)(2) of such section.”
+
+Subsec. (d)(3)(B). Pub. L. 113–66, § 1716(a)(3)(B), substituted “1044d, 1044e, and 1565b(a)(1)(A)” for “and 1044d”.
 
 2009—Subsec. (a)(4). Pub. L. 111–84 substituted “the Secretary), for a period of time (prescribed by the Secretary)” for “the Secretary of Defense), for a period of time, prescribed by the Secretary of Defense,”.
 
@@ -981,6 +1034,123 @@ Pub. L. 104–106, div. A, title VII, § 749(b), Feb. 10, 1996, 110 Stat. 389, p
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
+
+<a id="section-1044e"></a>
+## § 1044e. Special Victims’ Counsel for victims of sex-related offenses
+**(a) Designation; Purposes.—**
+
+(1) The Secretary concerned shall designate legal counsel (to be known as “Special Victims’ Counsel”) for the purpose of providing legal assistance to an individual described in paragraph (2) who is the victim of an alleged sex-related offense, regardless of whether the report of that offense is restricted or unrestricted.
+
+(2) An individual described in this paragraph is any of the following:
+
+  (A) An individual eligible for military legal assistance under [section 1044 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044).
+
+  (B) An individual who is—
+
+    (i) not covered under subparagraph (A);
+
+    (ii) a member of a reserve component of the armed forces; and
+
+    (iii) a victim of an alleged sex-related offense as described in paragraph (1)—
+
+      (I) during a period in which the individual served on active duty, full-time National Guard duty, or inactive-duty training; or
+
+      (II) during any period, regardless of the duty status of the individual, if the circumstances of the alleged sex-related offense have a nexus to the military service of the victim, as determined under regulations prescribed by the Secretary of Defense.
+
+**(b) Types of Legal Assistance Authorized.—** The types of legal assistance authorized by subsection (a) include the following:
+
+(1) Legal consultation regarding potential criminal liability of the victim stemming from or in relation to the circumstances surrounding the alleged sex-related offense and the victim’s right to seek military defense services.
+
+(2) Legal consultation regarding the Victim Witness Assistance Program, including—
+
+  (A) the rights and benefits afforded the victim;
+
+  (B) the role of the Victim Witness Assistance Program liaison and what privileges do or do not exist between the victim and the liaison; and
+
+  (C) the nature of communication made to the liaison in comparison to communication made to a Special Victims’ Counsel or a legal assistance attorney under [section 1044 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044).
+
+(3) Legal consultation regarding the responsibilities and support provided to the victim by the Sexual Assault Response Coordinator, a unit or installation Sexual Assault Victim Advocate, or domestic abuse advocate, to include any privileges that may exist regarding communications between those persons and the victim.
+
+(4) Legal consultation regarding the potential for civil litigation against other parties (other than the United States).
+
+(5) Legal consultation regarding the military justice system, including (but not limited to)—
+
+  (A) the roles and responsibilities of the trial counsel, the defense counsel, and investigators;
+
+  (B) any proceedings of the military justice process in which the victim may observe;
+
+  (C) the Government’s authority to compel cooperation and testimony; and
+
+  (D) the victim’s responsibility to testify, and other duties to the court.
+
+(6) Representing the victim at any proceedings in connection with the reporting, military investigation, and military prosecution of the alleged sex-related offense.
+
+(7) Legal consultation regarding eligibility and requirements for services available from appropriate agencies or offices for emotional and mental health counseling and other medical services;
+
+(8) Legal consultation and assistance—
+
+  (A) in personal civil legal matters in accordance with [section 1044 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044);
+
+  (B) in any proceedings of the military justice process in which a victim can participate as a witness or other party;
+
+  (C) in understanding the availability of, and obtaining any protections offered by, civilian and military protecting or restraining orders; and
+
+  (D) in understanding the eligibility and requirements for, and obtaining, any available military and veteran benefits, such as transitional compensation benefits found in [section 1059 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1059) and other State and Federal victims’ compensation programs.
+
+(9) Such other legal assistance as the Secretary of Defense (or, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) may authorize in the regulations prescribed under subsection (h).
+
+**(c) Nature of Relationship.—** The relationship between a Special Victims’ Counsel and a victim in the provision of legal advice and assistance shall be the relationship between an attorney and client.
+
+**(d) Qualifications.—** An individual may not be designated as a Special Victims’ Counsel under this section unless the individual—
+
+(1) meets the qualifications specified in [section 1044(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044/d/2&num=0&edition=prelim); and
+
+(2) is certified as competent to be designated as a Special Victims’ Counsel by the Judge Advocate General of the armed force in which the judge advocate is a member or by which the civilian attorney is employed, and within the Marine Corps, by the Staff Judge Advocate to the Commandant of the Marine Corps.
+
+**(e) Administrative Responsibility.—**
+
+(1) Consistent with the regulations prescribed under subsection (h), the Judge Advocate General (as defined in [section 801(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section801/1&num=0&edition=prelim)) under the jurisdiction of the Secretary concerned, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps, is responsible for the establishment and supervision of individuals designated as Special Victims’ Counsel.
+
+(2) The Secretary of Defense (and, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) shall conduct a periodic evaluation of the Special Victims’ Counsel programs operated under this section.
+
+**(f) Availability of Special Victims’ Counsel.—**
+
+(1) An individual described in subsection (a)(2) who is the victim of an alleged sex-related offense shall be offered the option of receiving assistance from a Special Victims’ Counsel upon report of an alleged sex-related offense or at the time the victim seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, a healthcare provider, or any other personnel designated by the Secretary concerned for purposes of this subsection.
+
+(2) The assistance of a Special Victims’ Counsel under this subsection shall be available to an individual described in subsection (a)(2) regardless of whether the individual elects unrestricted or restricted reporting of the alleged sex-related offense. The individual shall also be informed that the assistance of a Special Victims’ Counsel may be declined, in whole or in part, but that declining such assistance does not preclude the individual from subsequently requesting the assistance of a Special Victims’ Counsel.
+
+**(g) Alleged Sex-related Offense Defined.—** In this section, the term “alleged sex-related offense” means any allegation of—
+
+(1) a violation of section 920, 920a, 920b, 920c, or 925 of this title (article 120, 120a, 120b, 120c, or 125 of the Uniform Code of Military Justice); or
+
+(2) an attempt to commit an offense specified in a paragraph (1) as punishable under [section 880 of this title](./chapter-047-uniform-code-of-military-justice.md#section-880) (article 80 of the Uniform Code of Military Justice).
+
+**(h) Regulations.—** The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall prescribe regulations to carry out this section.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–291, § 533(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary concerned shall designate legal counsel (to be known as ‘Special Victims’ Counsel’) for the purpose of providing legal assistance to an individual eligible for military legal assistance under [section 1044 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044) who is the victim of an alleged sex-related offense, regardless of whether the report of that offense is restricted or unrestricted.”
+
+Subsec. (b)(4). Pub. L. 113–291, § 531(c)(1), substituted “the United States” for “the Department of Defense”.
+
+Subsec. (b)(6). Pub. L. 113–291, § 534(a), substituted “Representing the victim” for “Accompanying the victim”.
+
+Subsec. (d)(2). Pub. L. 113–291, § 531(c)(2), inserted “, and within the Marine Corps, by the Staff Judge Advocate to the Commandant of the Marine Corps” before period at end.
+
+Subsec. (e)(1). Pub. L. 113–291, § 531(c)(3), inserted “concerned” after “jurisdiction of the Secretary”.
+
+Subsec. (f). Pub. L. 113–291, § 533(b), substituted “described in subsection (a)(2)” for “eligible for military legal assistance under [section 1044 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044)” in pars. (1) and (2).
+
+#### Enhancement of Victims’ Rights in Connection With Prosecution of Certain Sex-related Offenses
+Pub. L. 113–291, div. A, title V, § 534(b)–(e), Dec. 19, 2014, 128 Stat. 3367, 3368, provided that: “(b) Consultation Regarding Victim’s Preference in Prosecution Venue.—“(1) Consultation process required.—The Secretary of Defense shall establish a process to ensure consultation with the victim of an alleged sex-related offense that occurs in the United States to solicit the victim’s preference regarding whether the offense should be prosecuted by court-martial or in a civilian court with jurisdiction over the offense. “(2) Convening authority consideration of preference.—The preference expressed by the victim of an alleged sex-related offense under paragraph (1) regarding the prosecution of the offense, while not binding, should be considered by the convening authority in making the determination regarding whether to refer the charge or specification for the offense to a court-martial for trial. “(3) Notice to appropriate jurisdiction of victim’s preference for civilian prosecution.—If the victim of an alleged sex-related offense expresses a preference under paragraph (1) for prosecution of the offense in a civilian court, the convening authority described in paragraph (2) shall ensure that the civilian authority with jurisdiction over the offense is notified of the victim’s preference for civilian prosecution. “(4) Notice to victim of status of civilian prosecution when victim expresses preference for civilian prosecution.—Following notification of the civilian authority with jurisdiction over an alleged sex-related offense of the preference of the victim of the offense for prosecution of the offense in a civilian court, the convening authority shall be responsible for notifying the victim if the convening authority learns of any decision by the civilian authority to prosecute or not prosecute the offence in a civilian court. “(c) Modification of Manual for Courts-Martial.—Not later than 180 days after the date of the enactment of this Act [Dec. 19, 2014], Part III of the Manual for Courts-Martial shall be modified to provide that when a victim of an alleged sex-related offense has a right to be heard in connection with the prosecution of the alleged sex-related such offense, the victim may exercise that right through counsel, including through a Special Victims’ Counsel under [section 1044e of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), United States Code (as amended by subsection (a)). “(d) Notice to Counsel on Scheduling of Proceedings.—The Secretary concerned shall establish policies and procedures designed to ensure that any counsel of the victim of an alleged sex-related offense, including a Special Victims’ Counsel under [section 1044e of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), United States Code (as amended by subsection (a)), is provided prompt and adequate notice of the scheduling of any hearing, trial, or other proceeding in connection with the prosecution of such offense in order to permit such counsel the opportunity to prepare for such proceeding. “(e) Definitions.—In this section:“(1) The term ‘alleged sex-related offense’ has the meaning given that term in [section 1044e(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044e/g&num=0&edition=prelim), United States Code. “(2) The term ‘Secretary concerned’ has the meaning given that term in section 101(a)(9) of such title.”
+
+#### Implementation
+Pub. L. 113–66, div. A, title XVII, § 1716(a)(4), Dec. 26, 2013, 127 Stat. 969, provided that: “[Section 1044e of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), United States Code, as added by paragraph (1), shall be implemented within 180 days after the date of the enactment of this Act [Dec. 26, 2013].”
+
+#### Enhanced Training Requirement
+Pub. L. 113–66, div. A, title XVII, § 1716(b), Dec. 26, 2013, 127 Stat. 969, provided that: “The Secretary of each military department, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, shall implement, consistent with the guidelines provided under [section 1044e of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), United States Code, as added by subsection (a), in-depth and advanced training for all military and civilian attorneys providing legal assistance under section 1044 or 1044e of such title to support victims of alleged sex-related offenses.”
 
 
 <a id="section-1045"></a>
@@ -1593,15 +1763,15 @@ Pub. L. 111–383, div. A, title XII, § 1206, Jan. 7, 2011, 124 Stat. 4387, pro
 
 <a id="section-1051a"></a>
 ## § 1051a. Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses
-**(a) Authority.—** The Secretary of Defense may provide administrative services and support for the performance of duties by a liaison officer of another nation involved in a military operation with the United States while the liaison officer is assigned temporarily as follows:
+**(a) Authority.—** Subject to subsection (d), the Secretary of Defense may provide administrative services and support for the performance of duties by a liaison officer of another nation while the liaison officer is assigned temporarily as follows:
 
-(1) To the headquarters of a combatant command, component command, or subordinate operational command of the United States in connection with the planning for, or conduct of, a military operation.
+(1) To the headquarters of a combatant command, component command, or subordinate operational command of the United States.
 
-(2) To the headquarters of the combatant command assigned by the Secretary of Defense the mission of joint warfighting experimentation and joint forces training.
+(2) To the Joint Staff.
 
 **(b) Travel, Subsistence, and Medical Care Expenses.—**
 
-(1) The Secretary may pay the expenses specified in paragraph (2) of a liaison officer of a developing country in connection with the assignment of that officer to the headquarters of a combatant command as described in subsection (a), if the assignment is requested by the commander of the combatant command.
+(1) The Secretary may pay the expenses specified in paragraph (2) of a liaison officer of a developing country in connection with the assignment of that officer as described in subsection (a), if the assignment is requested by the commander of the combatant command or by the Chairman of the Joint Chiefs of Staff, as appropriate.
 
 (2) Expenses of a liaison officer that may be paid under paragraph (1) in connection with an assignment described in that paragraph are the following:
 
@@ -1617,15 +1787,43 @@ Pub. L. 111–383, div. A, title XII, § 1206, Jan. 7, 2011, 124 Stat. 4387, pro
 
     (iii) medical care is not otherwise available to the liaison officer pursuant to any treaty or other international agreement.
 
-(3) The Secretary may pay the mission-related travel expenses of a liaison officer described in subsection (a) if such travel is in support of the national interests of the United States and the commander of the headquarters to which the liaison officer is temporarily assigned directs round-trip travel from the assigned headquarters to one or more locations.
+(3) The Secretary may pay the mission-related travel expenses of a liaison officer described in subsection (a) if such travel meets each of the following conditions:
 
-**(c) Reimbursement.—** To the extent that the Secretary determines appropriate, the Secretary may provide the services and support authorized by subsection (a) and the expenses authorized by subsection (b) with or without reimbursement from (or on behalf of) the recipients.
+  (A) The travel is in support of the national interests of the United States.
 
-**(d) Definition.—** In this section, the term “administrative services and support” includes base or installation support services, office space, utilities, copying services, fire and police protection, and computer support.
+  (B) The commander of the relevant combatant command or the Chairman of the Joint Chiefs of Staff, as applicable, directs round-trip travel from the assigned location to one or more travel locations.
+
+**(c) Reimbursement.—** The Secretary may provide the services and support authorized by subsection (a) and the expenses authorized by subsection (b) with or without reimbursement from (or on behalf of) the recipients. The terms of reimbursement shall be specified in the appropriate agreement used to assign the liaison officer to a combatant command or to the Joint Staff.
+
+**(d) Limitation and Oversight.—**
+
+(1) The amount of unreimbursed support for any liaison officer supported under subsection (b)(1) in any fiscal year may not exceed $200,000 (in fiscal year 2014 constant dollars).
+
+(2) The Chairman of the Joint Chiefs of Staff shall be responsible for implementing the authority under this section.
+
+**(e) Secretary of State Coordination.—** The authority of the Secretary of Defense to provide administrative services and support under subsection (a) for the performance of duties by a liaison officer of another nation may be exercised only with respect to a liaison officer of another nation whose assignment as described in that subsection is accepted by the Secretary of Defense with the coordination of the Secretary of State.
+
+**(f) Definition.—** In this section, the term “administrative services and support” includes base or installation support services, office space, utilities, copying services, fire and police protection, training programs conducted to familiarize, orient, or certify liaison personnel regarding unique aspects of the assignments of the liaison personnel, and computer support.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–291, § 1203(a)(1), in introductory provisions, substituted “Subject to subsection (d), the Secretary of Defense” for “The Secretary of Defense” and struck out “involved in a military operation with the United States” after “another nation”.
+
+Subsec. (a)(1). Pub. L. 113–291, § 1203(a)(2), struck out “in connection with the planning for, or conduct of, a military operation” before period at end.
+
+Subsec. (a)(2). Pub. L. 113–291, § 1203(a)(3), substituted “To the Joint Staff.” for “To the headquarters of the combatant command assigned by the Secretary of Defense the mission of joint warfighting experimentation and joint forces training.”
+
+Subsec. (b)(1). Pub. L. 113–291, § 1203(b)(1), struck out “to the headquarters of a combatant command” after “that officer” and inserted “or by the Chairman of the Joint Chiefs of Staff, as appropriate” before period at end.
+
+Subsec. (b)(3). Pub. L. 113–291, § 1203(b)(2), substituted “if such travel meets each of the following conditions:” for “if such travel is in support of the national interests of the United States and the commander of the headquarters to which the liaison officer is temporarily assigned directs round-trip travel from the assigned headquarters to one or more locations.” and added subpars. (A) and (B).
+
+Subsec. (c). Pub. L. 113–291, § 1203(c), substituted “The” for “To the extent that the Secretary determines appropriate, the” and inserted at end “The terms of reimbursement shall be specified in the appropriate agreement used to assign the liaison officer to a combatant command or to the Joint Staff.”
+
+Subsecs. (d), (e). Pub. L. 113–291, § 1203(d)(2), (e), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
+
+Subsec. (f). Pub. L. 113–291, § 1203(d)(1), (f), redesignated subsec. (d) as (f) and inserted “training programs conducted to familiarize, orient, or certify liaison personnel regarding unique aspects of the assignments of the liaison personnel,” after “police protection,”.
+
 2009—Subsec. (a). Pub. L. 111–84 substituted “assigned temporarily as follows:” for “assigned temporarily”, designated remainder of existing provisions as par. (1) and realigned margins, substituted “To the headquarters” for “to the headquarters”, and added par. (2).
 
 2008—Pub. L. 110–181, § 1203(e)(1), amended section catchline generally, substituting “Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses” for “Coalition liaison officers: administrative services and support; travel, subsistence, and other personal expenses”.
@@ -1808,17 +2006,11 @@ Pub. L. 99–661, div. A, title VI, § 662(c), Nov. 14, 1986, 100 Stat. 3894, pr
 
 
 <a id="section-1053a"></a>
-## § 1053a. Expenses incurred in connection with leave canceled due to contingency operations: reimbursement
-**(a) Authorization To Reimburse.—** The Secretary concerned may reimburse a member of the armed forces under the jurisdiction of the Secretary for travel and related expenses (to the extent not otherwise reimbursable under law) incurred by the member as a result of the cancellation of previously approved leave when the leave is canceled in connection with the member’s participation in a contingency operation and the cancellation occurs within 48 hours of the time the leave would have commenced.
-
-**(b) Regulations.—** The Secretary of Defense shall prescribe regulations to establish the criteria for the applicability of subsection (a).
-
-**(c) Conclusiveness of Settlement.—** The settlement of an application for reimbursement under subsection (a) is final and conclusive.
+## § 1053a. Repealed. Pub. L. 113–66, div. A, title VI, § 621(c)(2)(A), Dec. 26, 2013, 127 Stat. 784
 
 ### Statutory Notes
 
-#### Effective Date
-Pub. L. 106–398, § 1 [[div. A], title V, § 579(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–141, provided that: “[Section 1053a of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1053a), United States Code, as added by subsection (a), shall apply with respect to any travel and related expenses incurred by a member in connection with leave canceled after the date of the enactment of this Act [Oct. 30, 2000].”
+Section, added Pub. L. 106–398, § 1 [[div. A], title V, § 579(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–141, related to reimbursement for expenses incurred in connection with leave canceled due to contingency operations.
 
 
 <a id="section-1054"></a>
@@ -2073,7 +2265,7 @@ Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, pr
 
 (3) If there is no spouse or former spouse who is (or but for subsection (g) would be) eligible under paragraph (1), such compensation shall be paid to the dependent children of the individual described in subsection (b).
 
-(4) For purposes of this subsection, an individual’s status as a “dependent child” shall be determined as of the date on which the individual described in subsection (b) is convicted of the dependent-abuse offense or, in a case described in subsection (b)(2), as of the date on which the individual described in subsection (b) is separated from active duty.
+(4) For purposes of this subsection, an individual’s status as a “dependent child” shall be determined as of the date on which the individual described in subsection (b) is convicted of the dependent-abuse offense or, in a case described in subsection (b)(2), as of the date on which the separation action is initiated by a commander of the individual described in subsection (b).
 
 **(e) Commencement and Duration of Payment.—**
 
@@ -2154,6 +2346,8 @@ Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, pr
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (d)(4). Pub. L. 113–291 substituted “as of the date on which the separation action is initiated by a commander of the individual described in subsection (b)” for “as of the date on which the individual described in subsection (b) is separated from active duty”.
+
 2013—Subsec. (f)(4). Pub. L. 112–239, § 564(a)(1), added par. (4).
 
 Subsec. (l). Pub. L. 112–239, § 564(a)(2), substituted “or eligible spouse at the time of the dependent-abuse offense resulting in the separation of the former member or who was carried during pregnancy at the time of the dependent-abuse offense resulting in the separation of the former member and was subsequently born alive to the eligible spouse or former spouse” for “at the time of the dependent-abuse offense resulting in the separation of the former member” in introductory provisions.

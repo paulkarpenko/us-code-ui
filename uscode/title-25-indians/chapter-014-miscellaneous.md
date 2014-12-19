@@ -2,7 +2,7 @@
 title: 25
 chapter: '14'
 heading: MISCELLANEOUS
-section_count: 894
+section_count: 896
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25&num=0&edition=prelim
 ---
@@ -84,7 +84,7 @@ Act of April 16, 1934, referred to in subsec. (a)(1)(A), is act Apr. 16, 1934, c
 
 Act of August 5, 1954, referred to in subsec. (a)(1)(C), is act Aug. 5, 1954, ch. 658, 68 Stat. 674, as amended, which is classified generally to subchapter I (§ 2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
-This subchapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§ 450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+This subchapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 The Federal Tort Claims Act, referred to in subsec. (c)(1), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
@@ -322,6 +322,90 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 Subsec. (f)(2)(B). Pub. L. 111–291, § 831(2), substituted “not more than $602,619,000” for “50 percent”.
 
 
+<a id="section-443d"></a>
+## § 443d. Service of traditional foods in public facilities
+**(a) Purposes** The purposes of this section are—
+
+(1) to provide access to traditional foods in food service programs;
+
+(2) to encourage increased consumption of traditional foods to decrease health disparities among Indians, particularly Alaska Natives; and
+
+(3) to provide alternative food options for food service programs.
+
+**(b) Definitions** In this section:
+
+(1) **Alaska Native** — The term “Alaska Native” means a person who is a member of any Native village, Village Corporation, or Regional Corporation (as those terms are defined in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim)).
+
+(2) **Commissioner** — The term “Commissioner” means the Commissioner of Food and Drugs.
+
+(3) **Food service program** — The term “food service program” includes—
+
+  (A) food service at residential child care facilities that have a license from an appropriate State agency;
+
+  (B) any child nutrition program (as that term is defined in [section 1769f(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1769f/b&num=0&edition=prelim));
+
+  (C) food service at hospitals, clinics, and long-term care facilities; and
+
+  (D) senior meal programs.
+
+(4) **Indian; Indian tribe** — The terms “Indian” and “Indian tribe” have the meanings given those terms in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b)).
+
+(5) **Traditional food**
+
+  (A) *In general* — The term “traditional food” means food that has traditionally been prepared and consumed by an Indian tribe.
+
+  (B) *Inclusions* — The term “traditional food” includes—
+
+    (i) wild game meat;
+
+    (ii) fish;
+
+    (iii) seafood;
+
+    (iv) marine mammals;
+
+    (v) plants; and
+
+    (vi) berries.
+
+(6) **Tribal organization** — The term “tribal organization” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b)).
+
+**(c) Program** The Secretary and the Commissioner shall allow the donation to and serving of traditional food through food service programs at public facilities and nonprofit facilities, including facilities operated by Indian tribes and facilities operated by tribal organizations, that primarily serve Indians if the operator of the food service program—
+
+(1) ensures that the food is received whole, gutted, gilled, as quarters, or as a roast, without further processing;
+
+(2) makes a reasonable determination that—
+
+  (A) the animal was not diseased;
+
+  (B) the food was butchered, dressed, transported, and stored to prevent contamination, undesirable microbial growth, or deterioration; and
+
+  (C) the food will not cause a significant health hazard or potential for human illness;
+
+(3) carries out any further preparation or processing of the food at a different time or in a different space from the preparation or processing of other food for the applicable program to prevent cross-contamination;
+
+(4) cleans and sanitizes food-contact surfaces of equipment and utensils after processing the traditional food;
+
+(5) labels donated traditional food with the name of the food;
+
+(6) stores the traditional food separately from other food for the applicable program, including through storage in a separate freezer or refrigerator or in a separate compartment or shelf in the freezer or refrigerator;
+
+(7) follows Federal, State, local, county, tribal, or other non-Federal law regarding the safe preparation and service of food in public or nonprofit facilities; and
+
+(8) follows other such criteria as established by the Secretary and Commissioner.
+
+**(d) Liability**
+
+(1) **In general** — The United States, an Indian tribe, and a tribal organization shall not be liable in any civil action for any damage, injury, or death caused to any person by the donation to or serving of traditional foods through food service programs.
+
+(2) **Rule of construction** — Nothing in paragraph (1) alters any liability or other obligation of the United States under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 1450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1450&num=0&edition=prelim) 11 So in original. Probably should be “450”. et seq.).
+
+### Statutory Notes
+
+#### References in Text
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
+
 <a id="section-444-to-449"></a>
 ## § 444 to 449. Repealed. Aug. 5, 1954, ch. 658, § 5, 68 Stat. 675
 
@@ -355,6 +439,11 @@ Repeal effective July 1, 1959, see section 6 of act Aug. 5, 1954, set out as an 
 
 **(e) Effect of circulars, policies, manuals, guidances, and rules** Unless expressly agreed to by the participating Indian tribe in the compact or funding agreement, the participating Indian tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the Indian Health Service, except for the eligibility provisions of [section 450j(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j/g&num=0&edition=prelim) and regulations promulgated under this section.
 
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsec. (b)(1), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 
 <a id="section-450a"></a>
 ## § 450a. Appeals
@@ -371,6 +460,11 @@ In any appeal (including civil actions) involving decisions made by the Secretar
 **(a) In general** There are authorized to be appropriated such sums as may be necessary to carry out this part.
 
 **(b) Availability of appropriations** Notwithstanding any other provision of this subchapter, the provision of funds under this subchapter shall be subject to the availability of appropriations and the Secretary is not required to reduce funding for programs, projects, or activities serving a tribe in order to make funds available to another tribe or tribal organization under this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 
 <a id="section-450b"></a>
@@ -639,7 +733,7 @@ In this part:
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsec. (h)(3), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§ 450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+This subchapter, referred to in subsec. (h)(3), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 #### Amendments
 2004—Pub. L. 108–267, § 1(b)(2), substituted “National Fund for Excellence in American Indian Education” for “American Indian Education Foundation” in section catchline.
@@ -843,6 +937,135 @@ Sec. 10. Judicial Review. This order is intended only to improve the internal ma
 
 William J. Clinton.
 
+#### Ex. Ord. No. 13647. Establishing the White House Council on Native American Affairs
+Ex. Ord. No. 13647, June 26, 2013, 78 F.R. 39539, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote and sustain prosperous and resilient Native American tribal governments, it is hereby ordered as follows:
+
+Section 1. Policy. The United States recognizes a government-to-government relationship, as well as a unique legal and political relationship, with federally recognized tribes. This relationship is set forth in the Constitution of the United States, treaties, statutes, Executive Orders, administrative rules and regulations, and judicial decisions. Honoring these relationships and respecting the sovereignty of tribal nations is critical to advancing tribal self-determination and prosperity.
+
+As we work together to forge a brighter future for all Americans, we cannot ignore a history of mistreatment and destructive policies that have hurt tribal communities. The United States seeks to continue restoring and healing relations with Native Americans and to strengthen its partnership with tribal governments, for our more recent history demonstrates that tribal self-determination—the ability of tribal governments to determine how to build and sustain their own communities—is necessary for successful and prospering communities. We further recognize that restoring tribal lands through appropriate means helps foster tribal self-determination.
+
+This order establishes a national policy to ensure that the Federal Government engages in a true and lasting government-to-government relationship with federally recognized tribes in a more coordinated and effective manner, including by better carrying out its trust responsibilities. This policy is established as a means of promoting and sustaining prosperous and resilient tribal communities. Greater engagement and meaningful consultation with tribes is of paramount importance in developing any policies affecting tribal nations.
+
+To honor treaties and recognize tribes’ inherent sovereignty and right to self-government under U.S. law, it is the policy of the United States to promote the development of prosperous and resilient tribal communities, including by:
+
+(a) promoting sustainable economic development, particularly energy, transportation, housing, other infrastructure, entrepreneurial, and workforce development to drive future economic growth and security;
+
+(b) supporting greater access to, and control over, nutrition and healthcare, including special efforts to confront historic health disparities and chronic diseases;
+
+(c) supporting efforts to improve the effectiveness and efficiency of tribal justice systems and protect tribal communities;
+
+(d) expanding and improving lifelong educational opportunities for American Indians and Alaska Natives, while respecting demands for greater tribal control over tribal education, consistent with Executive Order 13592 of December 2, 2011 (Improving American Indian and Alaska Native Educational Opportunities and Strengthening Tribal Colleges and Universities); and
+
+(e) protecting tribal lands, environments, and natural resources, and promoting respect for tribal cultures.
+
+Sec. 2. Establishment. There is established the White House Council on Native American Affairs (Council). The Council shall improve coordination of Federal programs and the use of resources available to tribal communities.
+
+Sec. 3. Membership. (a) The Secretary of the Interior shall serve as the Chair of the Council, which shall also include the heads of the following executive departments, agencies, and offices:
+
+(i) the Department of State;
+
+(ii) the Department of the Treasury;
+
+(iii) the Department of Defense;
+
+(iv) the Department of Justice;
+
+(v) the Department of Agriculture;
+
+(vi) the Department of Commerce;
+
+(vii) the Department of Labor;
+
+(viii) the Department of Health and Human Services;
+
+(ix) the Department of Housing and Urban Development;
+
+(x) the Department of Transportation;
+
+(xi) the Department of Energy;
+
+(xii) the Department of Education;
+
+(xiii) the Department of Veterans Affairs;
+
+(xiv) the Department of Homeland Security;
+
+(xv) the Social Security Administration;
+
+(xvi) the Office of Personnel Management;
+
+(xvii) the Office of the United States Trade Representative;
+
+(xviii) the Office of Management and Budget;
+
+(xix) the Environmental Protection Agency;
+
+(xx) the Small Business Administration;
+
+(xxi) the Council of Economic Advisers;
+
+(xxii) the Office of National Drug Control Policy;
+
+(xxiii) the Domestic Policy Council;
+
+(xxiv) the National Economic Council;
+
+(xxv) the Office of Science and Technology Policy;
+
+(xxvi) the Council on Environmental Quality;
+
+(xxvii) the White House Office of Public Engagement and Intergovernmental Affairs;
+
+(xxviii) the Advisory Council on Historic Preservation;
+
+(xxix) the Denali Commission;
+
+(xxx) the White House Office of Cabinet Affairs; and
+
+(xxxi) such other executive departments, agencies, and offices as the Chair may, from time to time, designate.
+
+(b) A member of the Council may designate a senior-level official, who is a full-time officer or employee of the Federal Government, to perform his or her functions.
+
+(c) The Department of the Interior shall provide funding and administrative support for the Council to the extent permitted by law and within existing appropriations.
+
+(d) The Council shall coordinate its policy development through the Domestic Policy Council.
+
+(e) The Council shall coordinate its outreach to federally recognized tribes through the White House Office of Public Engagement and Intergovernmental Affairs.
+
+(f) The Council shall meet three times a year, with any additional meetings convened as deemed necessary by the Chair.
+
+The Chair may invite other interested agencies and offices to attend meetings as appropriate.
+
+Sec. 4. Mission and Function of the Council. The Council shall work across executive departments, agencies, and offices to coordinate development of policy recommendations to support tribal self-governance and improve the quality of life for Native Americans, and shall coordinate the United States Government’s engagement with tribal governments and their communities. The Council shall:
+
+(a) make recommendations to the President, through the Director of the Domestic Policy Council, concerning policy priorities, including improving the effectiveness of Federal investments in Native American communities, where appropriate, to increase the impact of Federal resources and create greater opportunities to help improve the quality of life for Native Americans;
+
+(b) coordinate, through the Director of the Office of Public Engagement and Intergovernmental Affairs, Federal engagement with tribal governments and Native American stakeholders regarding issues important to Native Americans, including with tribal consortia, small businesses, education and training institutions including tribal colleges and universities, health-care providers, trade associations, research and grant institutions, law enforcement, State and local governments, and community and non-profit organizations;
+
+(c) coordinate a more effective and efficient process for executive departments, agencies, and offices to honor the United States commitment to tribal consultation as set forth in Executive Order 13175 of November 6, 2000 (Consultation and Coordination With Indian Tribal Governments), and my memorandum of November 5, 2009 (Tribal Consultation); and
+
+(d) assist the White House Office of Public Engagement and Intergovernmental Affairs in organizing the White House Tribal Nations Conference each year by bringing together leaders invited from all federally recognized Indian tribes and senior officials from the Federal Government to provide for direct government-to-government discussion of the Federal Government’s Indian country policy priorities.
+
+Sec. 5. General Provisions. (a) The heads of executive departments, agencies, and offices shall assist and provide information to the Council, consistent with applicable law, as may be necessary to carry out the functions of the Council.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) For purposes of this order, “federally recognized tribe” means an Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, [25 U.S.C. 479a](./chapter-014-miscellaneous.md#section-479a).
+
+(e) For purposes of this order, “American Indian and Alaska Native” means a member of an Indian tribe, as membership is defined by the tribe.
+
+(f) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.
+
 #### Government-to-Government Relations With Native American Tribal Governments
 Memorandum of President of the United States, Apr. 29, 1994, 59 F.R. 22951, provided:
 
@@ -964,7 +1187,7 @@ For purposes of this subchapter, the term—
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§ 450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim), and Tables.
 
@@ -1029,6 +1252,8 @@ Subsec. (j). Pub. L. 100–581, § 208(b), substituted “the Secretary for the 
 ### Statutory Notes
 
 #### References in Text
+This subchapter, referred to in subsecs. (a)(1) and (f)(1), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 [Section 450j–1(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j–1/a/3&num=0&edition=prelim), referred to in subsec. (d), was repealed and a new subsec. (a)(3) of section 450j–1 was added by Pub. L. 103–413, title I, § 102(14)(C), Oct. 25, 1994, 108 Stat. 4257. See [section 450j–1(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j–1/a/4&num=0&edition=prelim).
 
 #### Amendments
@@ -1050,11 +1275,13 @@ Subsec. (f). Pub. L. 100–472, § 208, redesignated section 450l of this title 
 <a id="section-450j-1"></a>
 ## § 450j–1. Criminal activities involving grants, contracts, etc.; penalties
 
-Whoever, being an officer, director, agent, or employee of, or connected in any capacity with, any recipient of a contract, subcontract, grant, or subgrant pursuant to this subchapter or the Act of April 16, 1934 (48 Stat. 596), as amended [[25 U.S.C. 452](./chapter-014-miscellaneous.md#section-452) et seq.], embezzles, willfully misapplies, steals, or obtains by fraud any of the money, funds assets, or property which are the subject of such a grant, subgrant, contract, or subcontract, shall be fined not more than $10,000 or imprisoned for not more than two years, or both, but if the amount so embezzled, misapplied, stolen, or obtained by fraud does not exceed $100, he shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+Whoever, being an officer, director, agent, or employee of, or connected in any capacity with, any recipient of a contract, subcontract, grant, or subgrant pursuant to this subchapter or the Act of April 16, 1934 (48 Stat. 596), as amended [[25 U.S.C. 452](./chapter-014-miscellaneous.md#section-452) et seq.], embezzles, willfully misapplies, steals, or obtains by fraud any of the money, funds, assets, or property which are the subject of such a grant, subgrant, contract, or subcontract, shall be fined not more than $10,000 or imprisoned for not more than two years, or both, but if the amount so embezzled, misapplied, stolen, or obtained by fraud does not exceed $100, he shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
 ### Statutory Notes
 
 #### References in Text
+This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 Act of April 16, 1934, referred to in text, is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O’Malley Act, which is classified generally to section 452 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 452 of this title](./chapter-014-miscellaneous.md#section-452) and Tables.
 
 
@@ -1080,6 +1307,8 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a), is set out 
 Act of April 16, 1934, referred to in subsec. (b), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O’Malley Act, which is classified generally to section 452 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 452 of this title](./chapter-014-miscellaneous.md#section-452) and Tables.
 
 #### Codification
+This subchapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494), as amended” and “[section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim)” substituted for “section 2 of the Act of June 13, 1934 (48 Stat. 948, [40 U.S.C. 276c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276c&num=0&edition=prelim))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
@@ -1096,6 +1325,8 @@ The provisions of this subchapter shall not be subject to the requirements of ch
 ### Statutory Notes
 
 #### References in Text
+This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 [Section 450g of this title](./chapter-014-miscellaneous.md#section-450g), referred to in text, was in the original “section 103 of this Act”, meaning section 103 of Pub. L. 93–638, the Indian Self-Determination Act. Section 103(a) and (b) and the first sentence of section 103(c) of Pub. L. 93–638, were repealed, and the remainder of section 103(c) of Pub. L. 93–638, was redesignated as section 102(d) of Pub. L. 93–638 ([section 450f(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450f/d&num=0&edition=prelim)), by Pub. L. 100–472, title II, § 201(b)(1), Oct. 5, 1988, 102 Stat. 2289. Section 104 of Pub. L. 93–638 was renumbered as section 103 of Pub. L. 93–638 by section 202(a) of Pub. L. 100–472, and is classified to [section 450h of this title](./chapter-014-miscellaneous.md#section-450h).
 
 #### Amendments
@@ -1208,6 +1439,8 @@ Section, Pub. L. 93–638, title I, § 103, Jan. 4, 1975, 88 Stat. 2206; Pub. L.
 
 #### References in Text
 [Section 450g of this title](./chapter-014-miscellaneous.md#section-450g), referred to in subsec. (b)(2), was in the original “section 103 of this Act”, meaning section 103 of Pub. L. 93–638, the Indian Self-Determination Act. Section 103(a) and (b) and the first sentence of section 103(c) of Pub. L. 93–638 were repealed, and the remainder of section 103(c) of Pub. L. 93–638 was redesignated as section 102(d) of Pub. L. 93–638 ([section 450f(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450f/d&num=0&edition=prelim)) by Pub. L. 100–472, title II, § 201(b)(1), Oct. 5, 1988, 102 Stat. 2289. Section 104 of Pub. L. 93–638 was renumbered as section 103 of Pub. L. 93–638 by section 202(a) of Pub. L. 100–472, and is classified to this section.
+
+This subchapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 #### Prior Provisions
 A prior section 103 of Pub. L. 93–638 was classified to [section 450g of this title](./chapter-014-miscellaneous.md#section-450g) and was repealed in part and transferred in part by Pub. L. 100–472, title II, § 201(b)(1), Oct. 5, 1988, 102 Stat. 2289.
@@ -1477,6 +1710,8 @@ as based on the cost of comparable private rental housing in the nearest establi
 ### Statutory Notes
 
 #### References in Text
+This subchapter, referred to in subsecs. (a)(3)(A)(iii), (C)(i), (d)(1), (e), (f)(3), (k), (l)(1), and (m)(1), (4)(C)(i), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(III), was section 9(c) of act Aug. 2, 1946, ch. 744, 60 Stat. 809, which amended section 5 of former Title 41, Public Contracts, and was repealed by Pub. L. 111–350, § 7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
 
 The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
@@ -1557,7 +1792,7 @@ Subsec. (g). Pub. L. 100–472, § 204(f), redesignated former subsec. (f) as (g
 Subsec. (h). Pub. L. 100–472, § 204(g), (h), redesignated former subsec. (g) as (h), substituted “sections 450f and 450h” for “sections 450f, 450g, and 450h”, and “Health and Human Services” for “Health, Education, and Welfare”. Former subsec. (h), which related to minimum amount of funds under terms of contracts, was struck out.
 
 #### Continued Availability of Certain Funds
-Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 105 Stat. 2681–231, 2681–246, provided in part that: “hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] or grants authorized by the Indian Education Amendments of 1988 ([25 U.S.C. 2001](./chapter-022-bureau-of-indian-affairs-programs.md#section-2001) and 2008A [probably means prior versions of [25 U.S.C. 2001](./chapter-022-bureau-of-indian-affairs-programs.md#section-2001) and 2008a]) shall remain available until expended by the contractor or grantee”.
+Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part that: “hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] or grants authorized by the Indian Education Amendments of 1988 ([25 U.S.C. 2001](./chapter-022-bureau-of-indian-affairs-programs.md#section-2001) and 2008A [probably means prior versions of [25 U.S.C. 2001](./chapter-022-bureau-of-indian-affairs-programs.md#section-2001) and 2008a]) shall remain available until expended by the contractor or grantee”.
 
 
 <a id="section-452"></a>
@@ -1696,6 +1931,9 @@ Notwithstanding any other provision in this subchapter, the provision of funds u
 
 ### Statutory Notes
 
+#### References in Text
+This subchapter, referred to in subsecs. (a)(1), (3), (b), (c), (k)(11), and (n), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 #### Prior Provisions
 A prior section 106 of Pub. L. 93–638 was renumbered section 105 by Pub. L. 100–472 and is classified to [section 450j of this title](./chapter-014-miscellaneous.md#section-450j).
 
@@ -1743,6 +1981,9 @@ Before, on, and after October 21, 1998, and notwithstanding any other provision 
 #### References in Text
 The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to this part (§ 450f et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
+#### Codification
+Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1999, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the Indian Self-Determination and Education Assistance Act which comprises this subchapter.
+
 
 <a id="section-454"></a>
 ## § 454. Department of the Interior: availability of funds for Indian self-determination or self-governance contract or grant support costs
@@ -1755,6 +1996,9 @@ Notwithstanding any other provision of law, including but not limited to the Ind
 The Indian Self-Determination Act of 1975, referred to in text, probably means the Indian Self-Determination Act, title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to this part (§ 450f et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 This title, referred to in text, is title I of the Department of the Interior and Related Agencies Appropriations Act, 2000, as enacted by Pub. L. 106–113, div. B, § 1000(a)(3), Nov. 29, 1999, 113 Stat. 1535, 1501A–135. For complete classification of this title to the Code, see Tables.
+
+#### Codification
+Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 2000, and not as part of the Indian Self-Determination and Education Assistance Act which comprises this subchapter.
 
 #### Similar Provisions
 Similar provisions were contained in Pub. L. 105–277, div. A, § 101(e) [title I, § 114], Oct. 21, 1998, 112 Stat. 2681–231, 2681–255.
@@ -1805,6 +2049,8 @@ Similar provisions were contained in Pub. L. 105–277, div. A, § 101(e) [title
 ### Statutory Notes
 
 #### References in Text
+This subchapter, referred to in subsecs. (a), (b), (d)(2)(A), (D), and (e), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 The Indian Self-Determination Contract Reform Act of 1994, referred to in subsec. (d)(2)(C), is title I of Pub. L. 103–413, Oct. 25, 1994, 108 Stat. 4250, which enacted section 450l of this title, amended this section and sections 450b, 450c, 450e, 450f, 450j, 450j–1, 450m, and 450m–1 of this title, and enacted provisions set out as a note under [section 450 of this title](./chapter-014-miscellaneous.md#section-450). For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 #### Codification
@@ -1871,6 +2117,8 @@ Pub. L. 104–287, § 6(e), Oct. 11, 1996, 110 Stat. 3399, provided that: “Eff
 ### Statutory Notes
 
 #### References in Text
+This subchapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 The Indian Self-Determination and Education Assistance Act, referred to in section 1(a), (b)(6)(B)(i), (11) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to this subchapter (§ 450 et seq.). Title I of the Act is classified principally to this part (§ 450f et seq.). Section 102(a) of the Act is classified to [section 450f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450f/a&num=0&edition=prelim). Section 108(b) of the Act is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 The Indian Civil Rights Act of 1968, referred to in section 1(b)(13) of the provisions of subsec. (c) setting out the model agreement, is title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, which is classified generally to subchapter I (§ 1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Tables.
@@ -1897,94 +2145,177 @@ Pub. L. 104–134, title I, § 101(c) [title III, § 311], Apr. 26, 1996, 110 St
 
 <a id="section-457"></a>
 ## § 457. AGREEMENT BETWEEN THE SECRETARY AND THE ______ TRIBAL GOVERNMENT.
+**(a) Authority and Purpose.—**
 
-“(a) Authority and Purpose.—
-“(1) Authority.—This agreement, denoted a Self-Determination Contract (referred to in this agreement as the ‘Contract’), is entered into by the Secretary of the Interior or the Secretary of Health and Human Services (referred to in this agreement as the ‘Secretary’), for and on behalf of the United States pursuant to title I of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) and by the authority of the ______ tribal government or tribal organization (referred to in this agreement as the ‘Contractor’). The provisions of title I of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) are incorporated in this agreement.
-“(2) Purpose.—Each provision of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) and each provision of this Contract shall be liberally construed for the benefit of the Contractor to transfer the funding and the following related functions, services, activities, and programs (or portions thereof), that are otherwise contractable under section 102(a) of such Act, including all related administrative functions, from the Federal Government to the Contractor: (List functions, services, activities, and programs).
-“(b) Terms, Provisions, and Conditions.—
-“(1) Term.—Pursuant to section 105(c)(1) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450j(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j/c/1&num=0&edition=prelim)), the term of this contract shall be __ years. Pursuant to section 105(d)(1) of such Act ([25 U.S.C. 450j(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j/d&num=0&edition=prelim)), upon the election by the Contractor, the period of this Contract shall be determined on the basis of a calendar year, unless the Secretary and the Contractor agree on a different period in the annual funding agreement incorporated by reference in subsection (f)(2).
-“(2) Effective date.—This Contract shall become effective upon the date of the approval and execution by the Contractor and the Secretary, unless the Contractor and the Secretary agree on an effective date other than the date specified in this paragraph.
-“(3) Program standard.—The Contractor agrees to administer the program, services, functions and activities (or portions thereof) listed in subsection (a)(2) of the Contract in conformity with the following standards: (list standards).
-“(4) Funding amount.—Subject to the availability of appropriations, the Secretary shall make available to the Contractor the total amount specified in the annual funding agreement incorporated by reference in subsection (f)(2). Such amount shall not be less than the applicable amount determined pursuant to section 106(a) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450j–1](./chapter-014-miscellaneous.md#section-450j-1)).
-“(5) Limitation of costs.—The Contractor shall not be obligated to continue performance that requires an expenditure of funds in excess of the amount of funds awarded under this Contract. If, at any time, the Contractor has reason to believe that the total amount required for performance of this Contract or a specific activity conducted under this Contract would be greater than the amount of funds awarded under this Contract, the Contractor shall provide reasonable notice to the appropriate Secretary. If the appropriate Secretary does not take such action as may be necessary to increase the amount of funds awarded under this Contract, the Contractor may suspend performance of the Contract until such time as additional funds are awarded.
-“(6) Payment.—
-“(A) In general.—Payments to the Contractor under this Contract shall—
-“(i) be made as expeditiously as practicable; and
-“(ii) include financial arrangements to cover funding during periods covered by joint resolutions adopted by Congress making continuing appropriations, to the extent permitted by such resolutions.
-“(B) Quarterly, semiannual, lump-sum, and other methods of payment.—
-“(i) In general.—Pursuant to section 108(b) of the Indian Self-Determination and Education Assistance Act, and notwithstanding any other provision of law, for each fiscal year covered by this Contract, the Secretary shall make available to the Contractor the funds specified for the fiscal year under the annual funding agreement incorporated by reference pursuant to subsection (f)(2) by paying to the Contractor, on a quarterly basis, one-quarter of the total amount provided for in the annual funding agreement for that fiscal year, in a lump-sum payment or as semiannual payments, or any other method of payment authorized by law, in accordance with such method as may be requested by the Contractor and specified in the annual funding agreement.
-“(ii) Method of quarterly payment.—If quarterly payments are specified in the annual funding agreement incorporated by reference pursuant to subsection (f)(2), each quarterly payment made pursuant to clause (i) shall be made on the first day of each quarter of the fiscal year, except that in any case in which the Contract year coincides with the Federal fiscal year, payment for the first quarter shall be made not later than the date that is 10 calendar days after the date on which the Office of Management and Budget apportions the appropriations for the fiscal year for the programs, services, functions, and activities subject to this Contract.
-“(iii) Applicability.—Chapter 39 of title 31, United States Code, shall apply to the payment of funds due under this Contract and the annual funding agreement referred to in clause (i).
-“(7) Records and monitoring.—
-“(A) In general.—Except for previously provided copies of tribal records that the Secretary demonstrates are clearly required to be maintained as part of the recordkeeping system of the Department of the Interior or the Department of Health and Human Services (or both), records of the Contractor shall not be considered Federal records for purposes of chapter 5 of title 5, United States Code.
-“(B) Recordkeeping system.—The Contractor shall maintain a recordkeeping system and, upon reasonable advance request, provide reasonable access to such records to the Secretary.
-“(C) Responsibilities of contractor.—The Contractor shall be responsible for managing the day-to-day operations conducted under this Contract and for monitoring activities conducted under this Contract to ensure compliance with the Contract and applicable Federal requirements. With respect to the monitoring activities of the Secretary, the routine monitoring visits shall be limited to not more than one performance monitoring visit for this Contract by the head of each operating division, departmental bureau, or departmental agency, or duly authorized representative of such head unless—
-“(i) the Contractor agrees to one or more additional visits; or
-“(ii) the appropriate official determines that there is reasonable cause to believe that grounds for reassumption of the Contract, suspension of Contract payments, or other serious Contract performance deficiency may exist.
-No additional visit referred to in clause (ii) shall be made until such time as reasonable advance notice that includes a description of the nature of the problem that requires the additional visit has been given to the Contractor.
-“(8) Property.—
-“(A) In general.—As provided in section 105(f) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450j(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j/f&num=0&edition=prelim)), at the request of the Contractor, the Secretary may make available, or transfer to the Contractor, all reasonably divisible real property, facilities, equipment, and personal property that the Secretary has used to provide or administer the programs, services, functions, and activities covered by this Contract. A mutually agreed upon list specifying the property, facilities, and equipment so furnished shall also be prepared by the Secretary, with the concurrence of the Contractor, and periodically revised by the Secretary, with the concurrence of the Contractor.
-“(B) Records.—The Contractor shall maintain a record of all property referred to in subparagraph (A) or other property acquired by the Contractor under section 105(f)(2)(A) of such Act for purposes of replacement.
-“(C) Joint use agreements.—Upon the request of the Contractor, the Secretary and the Contractor shall enter into a separate joint use agreement to address the shared use by the parties of real or personal property that is not reasonably divisible.
-“(D) Acquisition of property.—The Contractor is granted the authority to acquire such excess property as the Contractor may determine to be appropriate in the judgment of the Contractor to support the programs, services, functions, and activities operated pursuant to this Contract.
-“(E) Confiscated or excess property.—The Secretary shall assist the Contractor in obtaining such confiscated or excess property as may become available to tribes, tribal organizations, or local governments.
-“(F) Screener identification card.—A screener identification card (General Services Administration form numbered 2946) shall be issued to the Contractor not later than the effective date of this Contract. The designated official shall, upon request, assist the Contractor in securing the use of the card.
-“(G) Capital equipment.—The Contractor shall determine the capital equipment, leases, rentals, property, or services the Contractor requires to perform the obligations of the Contractor under this subsection, and shall acquire and maintain records of such capital equipment, property rentals, leases, property, or services through applicable procurement procedures of the Contractor.
-“(9) Availability of funds.—Notwithstanding any other provision of law, any funds provided under this Contract—
-“(A) shall remain available until expended; and
-“(B) with respect to such funds, no further—
-“(i) approval by the Secretary, or
-“(ii) justifying documentation from the Contractor,
-shall be required prior to the expenditure of such funds.
-“(10) Transportation.—Beginning on the effective date of this Contract, the Secretary shall authorize the Contractor to obtain interagency motor pool vehicles and related services for performance of any activities carried out under this Contract.
-“(11) Federal program guidelines, manuals, or policy directives.—Except as specifically provided in the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) the Contractor is not required to abide by program guidelines, manuals, or policy directives of the Secretary, unless otherwise agreed to by the Contractor and the Secretary, or otherwise required by law.
-“(12) Disputes.—
-“(A) Third-party mediation defined.—For the purposes of this Contract, the term ‘third-party mediation’ means a form of mediation whereby the Secretary and the Contractor nominate a third party who is not employed by or significantly involved with the Secretary of the Interior, the Secretary of Health and Human Services, or the Contractor, to serve as a third-party mediator to mediate disputes under this Contract.
-“(B) Alternative procedures.—In addition to, or as an alternative to, remedies and procedures prescribed by section 110 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450m–1](./chapter-014-miscellaneous.md#section-450m-1)), the parties to this Contract may jointly—
-“(i) submit disputes under this Contract to third-party mediation;
-“(ii) submit the dispute to the adjudicatory body of the Contractor, including the tribal court of the Contractor;
-“(iii) submit the dispute to mediation processes provided for under the laws, policies, or procedures of the Contractor; or
-“(iv) use the administrative dispute resolution processes authorized in subchapter IV of chapter 5 of title 5, United States Code.
-“(C) Effect of decisions.—The Secretary shall be bound by decisions made pursuant to the processes set forth in subparagraph (B), except that the Secretary shall not be bound by any decision that significantly conflicts with the interests of Indians or the United States.
-“(13) Administrative procedures of contractor.—Pursuant to the Indian Civil Rights Act of 1968 ([25 U.S.C. 1301](./chapter-015-constitutional-rights-of-indians.md#section-1301) et seq.), the laws, policies, and procedures of the Contractor shall provide for administrative due process (or the equivalent of administrative due process) with respect to programs, services, functions, and activities that are provided by the Contractor pursuant to this Contract.
-“(14) Successor annual funding agreement.—
-“(A) In general.—Negotiations for a successor annual funding agreement, provided for in subsection (f)(2), shall begin not later than 120 days prior to the conclusion of the preceding annual funding agreement. Except as provided in section 105(c)(2) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450j(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j/c/2&num=0&edition=prelim)) the funding for each such successor annual funding agreement shall only be reduced pursuant to section 106(b) of such Act ([25 U.S.C. 450j–1(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j–1/b&num=0&edition=prelim)).
-“(B) Information.—The Secretary shall prepare and supply relevant information, and promptly comply with any request by the Contractor for information that the Contractor reasonably needs to determine the amount of funds that may be available for a successor annual funding agreement, as provided for in subsection (f)(2) of this Contract.
-“(15) Contract requirements; approval by secretary.—
-“(A) In general.—Except as provided in subparagraph (B), for the term of the Contract, section 2103 of the Revised Statutes ([25 U.S.C. 81](./chapter-003-agreements-with-indians.md#section-81)), section 16 of the Act of June 18, 1934 (48 Stat. 987, chapter 576; [25 U.S.C. 476](./chapter-014-miscellaneous.md#section-476)), and the Act of July 3, 1952 ([25 U.S.C. 82a](./chapter-003-agreements-with-indians.md#section-82a)), shall not apply to any contract entered into in connection with this Contract.
-“(B) Requirements.—Each Contract entered into by the Contractor with a third party in connection with performing the obligations of the Contractor under this Contract shall—
-“(i) be in writing;
-“(ii) identify the interested parties, the authorities of such parties, and purposes of the Contract;
-“(iii) state the work to be performed under the Contract; and
-“(iv) state the process for making any claim, the payments to be made, and the terms of the Contract, which shall be fixed.
-“(c) Obligation of the Contractor.—
-“(1) Contract performance.—Except as provided in subsection (d)(2), the Contractor shall perform the programs, services, functions, and activities as provided in the annual funding agreement under subsection (f)(2) of this Contract.
-“(2) Amount of funds.—The total amount of funds to be paid under this Contract pursuant to section 106(a) shall be determined in an annual funding agreement entered into between the Secretary and the Contractor, which shall be incorporated into this Contract.
-“(3) Contracted programs.—Subject to the availability of appropriated funds, the Contractor shall administer the programs, services, functions, and activities identified in this Contract and funded through the annual funding agreement under subsection (f)(2).
-“(4) Trust services for individual indians.—
-“(A) In general.—To the extent that the annual funding agreement provides funding for the delivery of trust services to individual Indians that have been provided by the Secretary, the Contractor shall maintain at least the same level of service as the Secretary provided for such individual Indians, subject to the availability of appropriated funds for such services.
-“(B) Trust services to individual indians.—For the purposes of this paragraph only, the term ‘trust services for individual Indians’ means only those services that pertain to land or financial management connected to individually held allotments.
-“(5) Fair and uniform services.—The Contractor shall provide services under this Contract in a fair and uniform manner and shall provide access to an administrative or judicial body empowered to adjudicate or otherwise resolve complaints, claims, and grievances brought by program beneficiaries against the Contractor arising out of the performance of the Contract.
-“(d) Obligation of the United States.—
-“(1) Trust responsibility.—
-“(A) In general.—The United States reaffirms the trust responsibility of the United States to the ______ Indian tribe(s) to protect and conserve the trust resources of the Indian tribe(s) and the trust resources of individual Indians.
-“(B) Construction of contract.—Nothing in this Contract may be construed to terminate, waive, modify, or reduce the trust responsibility of the United States to the tribe(s) or individual Indians. The Secretary shall act in good faith in upholding such trust responsibility.
-“(2) Good faith.—To the extent that health programs are included in this Contract, and within available funds, the Secretary shall act in good faith in cooperating with the Contractor to achieve the goals set forth in the Indian Health Care Improvement Act ([25 U.S.C. 1601](./chapter-018-indian-health-care.md#section-1601) et seq.).
-“(3) Programs retained.—As specified in the annual funding agreement, the United States hereby retains the programs, services, functions, and activities with respect to the tribe(s) that are not specifically assumed by the Contractor in the annual funding agreement under subsection (f)(2).
-“(e) Other Provisions.—
-“(1) Designated officials.—Not later than the effective date of this Contract, the United States shall provide to the Contractor, and the Contractor shall provide to the United States, a written designation of a senior official to serve as a representative for notices, proposed amendments to the Contract, and other purposes for this Contract.
-“(2) Contract modifications or amendment.—
-“(A) In general.—Except as provided in subparagraph (B), no modification to this Contract shall take effect unless such modification is made in the form of a written amendment to the Contract, and the Contractor and the Secretary provide written consent for the modification.
-“(B) Exception.—The addition of supplemental funds for programs, functions, and activities (or portions thereof) already included in the annual funding agreement under subsection (f)(2), and the reduction of funds pursuant to section 106(b)(2), shall not be subject to subparagraph (A).
-“(3) Officials not to benefit.—No Member of Congress, or resident commissioner, shall be admitted to any share or part of any contract executed pursuant to this Contract, or to any benefit that may arise from such contract. This paragraph may not be construed to apply to any contract with a third party entered into under this Contract if such contract is made with a corporation for the general benefit of the corporation.
-“(4) Covenant against contingent fees.—The parties warrant that no person or selling agency has been employed or retained to solicit or secure any contract executed pursuant to this Contract upon an agreement or understanding for a commission, percentage, brokerage, or contingent fee, excepting bona fide employees or bona fide established commercial or selling agencies maintained by the Contractor for the purpose of securing business.
-“(f) Attachments.—
-“(1) Approval of contract.—Unless previously furnished to the Secretary, the resolution of the ______ Indian tribe(s) authorizing the contracting of the programs, services, functions, and activities identified in this Contract is attached to this Contract as attachment 1.
-“(2) Annual funding agreement.—
-“(A) In general.—The annual funding agreement under this Contract shall only contain—
-“(i) terms that identify the programs, services, functions, and activities to be performed or administered, the general budget category assigned, the funds to be provided, and the time and method of payment; and
-“(ii) such other provisions, including a brief description of the programs, services, functions, and activities to be performed (including those supported by financial resources other than those provided by the Secretary), to which the parties agree.
-“(B) Incorporation by reference.—The annual funding agreement is hereby incorporated in its entirety in this Contract and attached to this Contract as attachment 2.”
+(1) **Authority.—** — This agreement, denoted a Self-Determination Contract (referred to in this agreement as the ‘Contract’), is entered into by the Secretary of the Interior or the Secretary of Health and Human Services (referred to in this agreement as the ‘Secretary’), for and on behalf of the United States pursuant to title I of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) and by the authority of the ______ tribal government or tribal organization (referred to in this agreement as the ‘Contractor’). The provisions of title I of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) are incorporated in this agreement.
+
+(2) **Purpose.—** — Each provision of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) and each provision of this Contract shall be liberally construed for the benefit of the Contractor to transfer the funding and the following related functions, services, activities, and programs (or portions thereof), that are otherwise contractable under section 102(a) of such Act, including all related administrative functions, from the Federal Government to the Contractor: (List functions, services, activities, and programs).
+
+**(b) Terms, Provisions, and Conditions.—**
+
+(1) **Term.—** — Pursuant to section 105(c)(1) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450j(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j/c/1&num=0&edition=prelim)), the term of this contract shall be __ years. Pursuant to section 105(d)(1) of such Act ([25 U.S.C. 450j(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j/d&num=0&edition=prelim)), upon the election by the Contractor, the period of this Contract shall be determined on the basis of a calendar year, unless the Secretary and the Contractor agree on a different period in the annual funding agreement incorporated by reference in subsection (f)(2).
+
+(2) **Effective date.—** — This Contract shall become effective upon the date of the approval and execution by the Contractor and the Secretary, unless the Contractor and the Secretary agree on an effective date other than the date specified in this paragraph.
+
+(3) **Program standard.—** — The Contractor agrees to administer the program, services, functions and activities (or portions thereof) listed in subsection (a)(2) of the Contract in conformity with the following standards: (list standards).
+
+(4) **Funding amount.—** — Subject to the availability of appropriations, the Secretary shall make available to the Contractor the total amount specified in the annual funding agreement incorporated by reference in subsection (f)(2). Such amount shall not be less than the applicable amount determined pursuant to section 106(a) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450j–1](./chapter-014-miscellaneous.md#section-450j-1)).
+
+(5) **Limitation of costs.—** — The Contractor shall not be obligated to continue performance that requires an expenditure of funds in excess of the amount of funds awarded under this Contract. If, at any time, the Contractor has reason to believe that the total amount required for performance of this Contract or a specific activity conducted under this Contract would be greater than the amount of funds awarded under this Contract, the Contractor shall provide reasonable notice to the appropriate Secretary. If the appropriate Secretary does not take such action as may be necessary to increase the amount of funds awarded under this Contract, the Contractor may suspend performance of the Contract until such time as additional funds are awarded.
+
+(6) **Payment.—**
+
+  (A) *In general.—* — Payments to the Contractor under this Contract shall—
+
+    (i) be made as expeditiously as practicable; and
+
+    (ii) include financial arrangements to cover funding during periods covered by joint resolutions adopted by Congress making continuing appropriations, to the extent permitted by such resolutions.
+
+  (B) *Quarterly, semiannual, lump-sum, and other methods of payment.—*
+
+    (i) *In general.—* — Pursuant to section 108(b) of the Indian Self-Determination and Education Assistance Act, and notwithstanding any other provision of law, for each fiscal year covered by this Contract, the Secretary shall make available to the Contractor the funds specified for the fiscal year under the annual funding agreement incorporated by reference pursuant to subsection (f)(2) by paying to the Contractor, on a quarterly basis, one-quarter of the total amount provided for in the annual funding agreement for that fiscal year, in a lump-sum payment or as semiannual payments, or any other method of payment authorized by law, in accordance with such method as may be requested by the Contractor and specified in the annual funding agreement.
+
+    (ii) *Method of quarterly payment.—* — If quarterly payments are specified in the annual funding agreement incorporated by reference pursuant to subsection (f)(2), each quarterly payment made pursuant to clause (i) shall be made on the first day of each quarter of the fiscal year, except that in any case in which the Contract year coincides with the Federal fiscal year, payment for the first quarter shall be made not later than the date that is 10 calendar days after the date on which the Office of Management and Budget apportions the appropriations for the fiscal year for the programs, services, functions, and activities subject to this Contract.
+
+    (iii) *Applicability.—* — Chapter 39 of title 31, United States Code, shall apply to the payment of funds due under this Contract and the annual funding agreement referred to in clause (i).
+
+(7) **Records and monitoring.—**
+
+  (A) *In general.—* — Except for previously provided copies of tribal records that the Secretary demonstrates are clearly required to be maintained as part of the recordkeeping system of the Department of the Interior or the Department of Health and Human Services (or both), records of the Contractor shall not be considered Federal records for purposes of chapter 5 of title 5, United States Code.
+
+  (B) *Recordkeeping system.—* — The Contractor shall maintain a recordkeeping system and, upon reasonable advance request, provide reasonable access to such records to the Secretary.
+
+  (C) *Responsibilities of contractor.—* — The Contractor shall be responsible for managing the day-to-day operations conducted under this Contract and for monitoring activities conducted under this Contract to ensure compliance with the Contract and applicable Federal requirements. With respect to the monitoring activities of the Secretary, the routine monitoring visits shall be limited to not more than one performance monitoring visit for this Contract by the head of each operating division, departmental bureau, or departmental agency, or duly authorized representative of such head unless—
+
+    (i) the Contractor agrees to one or more additional visits; or
+
+    (ii) the appropriate official determines that there is reasonable cause to believe that grounds for reassumption of the Contract, suspension of Contract payments, or other serious Contract performance deficiency may exist.
+    No additional visit referred to in clause (ii) shall be made until such time as reasonable advance notice that includes a description of the nature of the problem that requires the additional visit has been given to the Contractor.
+
+(8) **Property.—**
+
+  (A) *In general.—* — As provided in section 105(f) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450j(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j/f&num=0&edition=prelim)), at the request of the Contractor, the Secretary may make available, or transfer to the Contractor, all reasonably divisible real property, facilities, equipment, and personal property that the Secretary has used to provide or administer the programs, services, functions, and activities covered by this Contract. A mutually agreed upon list specifying the property, facilities, and equipment so furnished shall also be prepared by the Secretary, with the concurrence of the Contractor, and periodically revised by the Secretary, with the concurrence of the Contractor.
+
+  (B) *Records.—* — The Contractor shall maintain a record of all property referred to in subparagraph (A) or other property acquired by the Contractor under section 105(f)(2)(A) of such Act for purposes of replacement.
+
+  (C) *Joint use agreements.—* — Upon the request of the Contractor, the Secretary and the Contractor shall enter into a separate joint use agreement to address the shared use by the parties of real or personal property that is not reasonably divisible.
+
+  (D) *Acquisition of property.—* — The Contractor is granted the authority to acquire such excess property as the Contractor may determine to be appropriate in the judgment of the Contractor to support the programs, services, functions, and activities operated pursuant to this Contract.
+
+  (E) *Confiscated or excess property.—* — The Secretary shall assist the Contractor in obtaining such confiscated or excess property as may become available to tribes, tribal organizations, or local governments.
+
+  (F) *Screener identification card.—* — A screener identification card (General Services Administration form numbered 2946) shall be issued to the Contractor not later than the effective date of this Contract. The designated official shall, upon request, assist the Contractor in securing the use of the card.
+
+  (G) *Capital equipment.—* — The Contractor shall determine the capital equipment, leases, rentals, property, or services the Contractor requires to perform the obligations of the Contractor under this subsection, and shall acquire and maintain records of such capital equipment, property rentals, leases, property, or services through applicable procurement procedures of the Contractor.
+
+(9) **Availability of funds.—** — Notwithstanding any other provision of law, any funds provided under this Contract—
+
+  (A) shall remain available until expended; and
+
+  (B) with respect to such funds, no further—
+
+    (i) approval by the Secretary, or
+
+    (ii) justifying documentation from the Contractor,
+  shall be required prior to the expenditure of such funds.
+
+(10) **Transportation.—** — Beginning on the effective date of this Contract, the Secretary shall authorize the Contractor to obtain interagency motor pool vehicles and related services for performance of any activities carried out under this Contract.
+
+(11) **Federal program guidelines, manuals, or policy directives.—** — Except as specifically provided in the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) the Contractor is not required to abide by program guidelines, manuals, or policy directives of the Secretary, unless otherwise agreed to by the Contractor and the Secretary, or otherwise required by law.
+
+(12) **Disputes.—**
+
+  (A) *Third-party mediation defined.—* — For the purposes of this Contract, the term ‘third-party mediation’ means a form of mediation whereby the Secretary and the Contractor nominate a third party who is not employed by or significantly involved with the Secretary of the Interior, the Secretary of Health and Human Services, or the Contractor, to serve as a third-party mediator to mediate disputes under this Contract.
+
+  (B) *Alternative procedures.—* — In addition to, or as an alternative to, remedies and procedures prescribed by section 110 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450m–1](./chapter-014-miscellaneous.md#section-450m-1)), the parties to this Contract may jointly—
+
+    (i) submit disputes under this Contract to third-party mediation;
+
+    (ii) submit the dispute to the adjudicatory body of the Contractor, including the tribal court of the Contractor;
+
+    (iii) submit the dispute to mediation processes provided for under the laws, policies, or procedures of the Contractor; or
+
+    (iv) use the administrative dispute resolution processes authorized in subchapter IV of chapter 5 of title 5, United States Code.
+
+  (C) *Effect of decisions.—* — The Secretary shall be bound by decisions made pursuant to the processes set forth in subparagraph (B), except that the Secretary shall not be bound by any decision that significantly conflicts with the interests of Indians or the United States.
+
+(13) **Administrative procedures of contractor.—** — Pursuant to the Indian Civil Rights Act of 1968 ([25 U.S.C. 1301](./chapter-015-constitutional-rights-of-indians.md#section-1301) et seq.), the laws, policies, and procedures of the Contractor shall provide for administrative due process (or the equivalent of administrative due process) with respect to programs, services, functions, and activities that are provided by the Contractor pursuant to this Contract.
+
+(14) **Successor annual funding agreement.—**
+
+  (A) *In general.—* — Negotiations for a successor annual funding agreement, provided for in subsection (f)(2), shall begin not later than 120 days prior to the conclusion of the preceding annual funding agreement. Except as provided in section 105(c)(2) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450j(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j/c/2&num=0&edition=prelim)) the funding for each such successor annual funding agreement shall only be reduced pursuant to section 106(b) of such Act ([25 U.S.C. 450j–1(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j–1/b&num=0&edition=prelim)).
+
+  (B) *Information.—* — The Secretary shall prepare and supply relevant information, and promptly comply with any request by the Contractor for information that the Contractor reasonably needs to determine the amount of funds that may be available for a successor annual funding agreement, as provided for in subsection (f)(2) of this Contract.
+
+(15) **Contract requirements; approval by secretary.—**
+
+  (A) *In general.—* — Except as provided in subparagraph (B), for the term of the Contract, section 2103 of the Revised Statutes ([25 U.S.C. 81](./chapter-003-agreements-with-indians.md#section-81)), section 16 of the Act of June 18, 1934 (48 Stat. 987, chapter 576; [25 U.S.C. 476](./chapter-014-miscellaneous.md#section-476)), and the Act of July 3, 1952 ([25 U.S.C. 82a](./chapter-003-agreements-with-indians.md#section-82a)), shall not apply to any contract entered into in connection with this Contract.
+
+  (B) *Requirements.—* — Each Contract entered into by the Contractor with a third party in connection with performing the obligations of the Contractor under this Contract shall—
+
+    (i) be in writing;
+
+    (ii) identify the interested parties, the authorities of such parties, and purposes of the Contract;
+
+    (iii) state the work to be performed under the Contract; and
+
+    (iv) state the process for making any claim, the payments to be made, and the terms of the Contract, which shall be fixed.
+
+**(c) Obligation of the Contractor.—**
+
+(1) **Contract performance.—** — Except as provided in subsection (d)(2), the Contractor shall perform the programs, services, functions, and activities as provided in the annual funding agreement under subsection (f)(2) of this Contract.
+
+(2) **Amount of funds.—** — The total amount of funds to be paid under this Contract pursuant to section 106(a) shall be determined in an annual funding agreement entered into between the Secretary and the Contractor, which shall be incorporated into this Contract.
+
+(3) **Contracted programs.—** — Subject to the availability of appropriated funds, the Contractor shall administer the programs, services, functions, and activities identified in this Contract and funded through the annual funding agreement under subsection (f)(2).
+
+(4) **Trust services for individual indians.—**
+
+  (A) *In general.—* — To the extent that the annual funding agreement provides funding for the delivery of trust services to individual Indians that have been provided by the Secretary, the Contractor shall maintain at least the same level of service as the Secretary provided for such individual Indians, subject to the availability of appropriated funds for such services.
+
+  (B) *Trust services to individual indians.—* — For the purposes of this paragraph only, the term ‘trust services for individual Indians’ means only those services that pertain to land or financial management connected to individually held allotments.
+
+(5) **Fair and uniform services.—** — The Contractor shall provide services under this Contract in a fair and uniform manner and shall provide access to an administrative or judicial body empowered to adjudicate or otherwise resolve complaints, claims, and grievances brought by program beneficiaries against the Contractor arising out of the performance of the Contract.
+
+**(d) Obligation of the United States.—**
+
+(1) **Trust responsibility.—**
+
+  (A) *In general.—* — The United States reaffirms the trust responsibility of the United States to the ______ Indian tribe(s) to protect and conserve the trust resources of the Indian tribe(s) and the trust resources of individual Indians.
+
+  (B) *Construction of contract.—* — Nothing in this Contract may be construed to terminate, waive, modify, or reduce the trust responsibility of the United States to the tribe(s) or individual Indians. The Secretary shall act in good faith in upholding such trust responsibility.
+
+(2) **Good faith.—** — To the extent that health programs are included in this Contract, and within available funds, the Secretary shall act in good faith in cooperating with the Contractor to achieve the goals set forth in the Indian Health Care Improvement Act ([25 U.S.C. 1601](./chapter-018-indian-health-care.md#section-1601) et seq.).
+
+(3) **Programs retained.—** — As specified in the annual funding agreement, the United States hereby retains the programs, services, functions, and activities with respect to the tribe(s) that are not specifically assumed by the Contractor in the annual funding agreement under subsection (f)(2).
+
+**(e) Other Provisions.—**
+
+(1) **Designated officials.—** — Not later than the effective date of this Contract, the United States shall provide to the Contractor, and the Contractor shall provide to the United States, a written designation of a senior official to serve as a representative for notices, proposed amendments to the Contract, and other purposes for this Contract.
+
+(2) **Contract modifications or amendment.—**
+
+  (A) *In general.—* — Except as provided in subparagraph (B), no modification to this Contract shall take effect unless such modification is made in the form of a written amendment to the Contract, and the Contractor and the Secretary provide written consent for the modification.
+
+  (B) *Exception.—* — The addition of supplemental funds for programs, functions, and activities (or portions thereof) already included in the annual funding agreement under subsection (f)(2), and the reduction of funds pursuant to section 106(b)(2), shall not be subject to subparagraph (A).
+
+(3) **Officials not to benefit.—** — No Member of Congress, or resident commissioner, shall be admitted to any share or part of any contract executed pursuant to this Contract, or to any benefit that may arise from such contract. This paragraph may not be construed to apply to any contract with a third party entered into under this Contract if such contract is made with a corporation for the general benefit of the corporation.
+
+(4) **Covenant against contingent fees.—** — The parties warrant that no person or selling agency has been employed or retained to solicit or secure any contract executed pursuant to this Contract upon an agreement or understanding for a commission, percentage, brokerage, or contingent fee, excepting bona fide employees or bona fide established commercial or selling agencies maintained by the Contractor for the purpose of securing business.
+
+**(f) Attachments.—**
+
+(1) **Approval of contract.—** — Unless previously furnished to the Secretary, the resolution of the ______ Indian tribe(s) authorizing the contracting of the programs, services, functions, and activities identified in this Contract is attached to this Contract as attachment 1.
+
+(2) **Annual funding agreement.—**
+
+  (A) *In general.—* — The annual funding agreement under this Contract shall only contain—
+
+    (i) terms that identify the programs, services, functions, and activities to be performed or administered, the general budget category assigned, the funds to be provided, and the time and method of payment; and
+
+    (ii) such other provisions, including a brief description of the programs, services, functions, and activities to be performed (including those supported by financial resources other than those provided by the Secretary), to which the parties agree.
+
+  (B) *Incorporation by reference.—* — The annual funding agreement is hereby incorporated in its entirety in this Contract and attached to this Contract as attachment 2.”
 
 
 <a id="section-458"></a>
@@ -2024,6 +2355,8 @@ Pub. L. 100–581 which directed amendment of this section by substituting “in
 ### Statutory Notes
 
 #### References in Text
+This subchapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 The Equal Access to Justice Act, referred to in subsec. (c), is Pub. L. 96–481, title II, Oct. 21, 1980, 94 Stat. 2325. For complete classification of this Act to the Code, see Short Title note set out under [section 504 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section504&num=0&edition=prelim), Government Organization and Employees, and Tables.
 
 The Interior Board of Contract Appeals established pursuant to section 8 of such Act ([41 U.S.C. 607](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section607&num=0&edition=prelim)), referred to in subsec. (d), terminated effective 1 year after Jan. 6, 2006, pursuant to section 847(g) of Pub. L. 109–163, set out as an Effective Date of 2006 Amendment note under [section 5372a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5372a&num=0&edition=prelim), Government Organization and Employees. Any reference to such Board to be treated as referring to the Civilian Board of Contract Appeals pursuant to Pub. L. 109–163, div. A, title VIII, § 847(e), Jan. 6, 2006, 119 Stat. 3394, formerly set out in a note under section 607 of former Title 41, Public Contracts. The Civilian Board of Contract Appeals was established by section 42 of Pub. L. 93–400 which was classified to section 438 of former Title 41 prior to being repealed and restated as [section 7105(b) of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section7105/b&num=0&edition=prelim), Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
@@ -2075,7 +2408,7 @@ The Secretary is authorized and directed to provide funds, pursuant to this subc
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§ 450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 Act of April 16, 1934, referred to in text, is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O’Malley Act, which is classified generally to section 452 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 452 of this title](./chapter-014-miscellaneous.md#section-452) and Tables.
 
@@ -2091,6 +2424,8 @@ The assistance provided in this subchapter for the education of Indians in the p
 ### Statutory Notes
 
 #### References in Text
+This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title IX of the Act is classified generally to subchapter IX (§ 7801 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 #### Amendments
@@ -2358,6 +2693,11 @@ Title III, referred to in subsec. (f), means title III of Pub. L. 93–638, as a
 
 **(h) Nonduplication** For the period for which, and to the extent to which, funding is provided under this part or under the compact or funding agreement, the Indian tribe shall not be entitled to contract with the Secretary for such funds under [section 450f of this title](./chapter-014-miscellaneous.md#section-450f), except that such Indian tribe shall be eligible for new programs on the same basis as other Indian tribes.
 
+### Statutory Notes
+
+#### References in Text
+Part A of this subchapter, referred to in subsec. (g)(2), (3), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§ 450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 
 <a id="section-458aaa-16"></a>
 ## § 458aaa–16. Provisions relating to the Secretary
@@ -2494,14 +2834,14 @@ Section 3 of the Tribal Self-Governance Amendments of 2000, referred to in subse
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsecs. (c) and (d), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§ 450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+This subchapter, referred to in subsecs. (c) and (d), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 The Indian Health Care Improvement Act, referred to in subsec. (j), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-018-indian-health-care.md#section-1601) and Tables.
 
 
 <a id="section-458aaa-18"></a>
 ## § 458aaa–18. Construction projects
-**(a) In general** Indian tribes participating in tribal self-governance may carry out construction projects under this part if they elect to assume all Federal responsibilities under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), the National Historic Preservation Act ([16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.), and related provisions of law that would apply if the Secretary were to undertake a construction project, by adopting a resolution—
+**(a) In general** Indian tribes participating in tribal self-governance may carry out construction projects under this part if they elect to assume all Federal responsibilities under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), division A of subtitle III of title 54, and related provisions of law that would apply if the Secretary were to undertake a construction project, by adopting a resolution—
 
 (1) designating a certifying officer to represent the Indian tribe and to assume the status of a responsible Federal official under such laws; and
 
@@ -2526,7 +2866,7 @@ The Indian Health Care Improvement Act, referred to in subsec. (j), is Pub. L. 9
 #### References in Text
 The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (a), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see [section 470(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470/a&num=0&edition=prelim) and Tables.
+This subchapter, referred to in subsec. (g), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 Reorganization Plan numbered 14, of 1950, referred to in subsec. (g), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -2534,6 +2874,9 @@ Reorganization Plan numbered 14, of 1950, referred to in subsec. (g), is set out
 In subsec. (g), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494)”, “sections 3141–3144, 3146, and 3147 of title 40 are” substituted for “the Act of March 3, 1931, is”, and “[section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim)” substituted for “section 2 of the Act of June 13, 1934 (48 Stat. 948)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 In subsec. (h), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement Policy Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–287, which directed substitution of “division A of subtitle III of title 54” for “the National Historic Preservation Act ([16 U.S.C. 470et](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470et&num=0&edition=prelim) seq.)”, was executed by making the substitution for “the National Historic Preservation Act ([16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.)” in introductory provisions to reflect the probable intent of Congress.
 
 
 <a id="section-458aaa-2"></a>
@@ -2691,7 +3034,7 @@ Act of April 16, 1934, referred to in subsec. (b)(1)(A), is act Apr. 16, 1934, c
 
 The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (b)(4)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1801) and Tables.
 
-This subchapter, referred to in subsecs. (e)(1), (g)(3), and (j), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§ 450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+This subchapter, referred to in subsecs. (e)(1), (g)(3), and (j), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 Title III of this Act, referred to in subsecs. (g)(2) and (l), is title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, which was set out as a note under [section 450f of this title](./chapter-014-miscellaneous.md#section-450f) prior to repeal by Pub. L. 106–260, § 10, Aug. 18, 2000, 114 Stat. 734.
 
@@ -2764,6 +3107,9 @@ The Secretary shall identify, in the annual budget request of the President to t
 
 ### Statutory Notes
 
+#### References in Text
+This subchapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 #### Amendments
 1998—Subsec. (c). Pub. L. 105–277 inserted “450c(d),” after “sections”.
 
@@ -2793,6 +3139,11 @@ Nothing in this subchapter shall be construed as—
 (1) affecting, modifying, diminishing, or otherwise impairing the sovereign immunity from suit enjoyed by an Indian tribe; or
 
 (2) authorizing or requiring the termination of any existing trust responsibility of the United States with respect to the Indian people.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 
 <a id="section-458bb"></a>
@@ -2862,6 +3213,11 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 **(c) References** All references in this subchapter to [section 501 of this title](./chapter-014-miscellaneous.md#section-501) are hereby deemed to include [section 82a of this title](./chapter-003-agreements-with-indians.md#section-82a).
 
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 
 <a id="section-458ccc-1"></a>
 ## § 458ccc–1. Facilitation
@@ -2903,6 +3259,8 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### References in Text
 Title III, referred to in subsec. (c), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, § 209, Oct. 5, 1988, 102 Stat. 2296, and amended, which was set out as a note under [section 450f of this title](./chapter-014-miscellaneous.md#section-450f) prior to repeal by Pub. L. 106–260, § 10, Aug. 18, 2000, 114 Stat. 734.
+
+This subchapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 
 <a id="section-458ccc-2"></a>
@@ -2985,6 +3343,11 @@ Pub. L. 93–638, title II, § 203, Jan. 4, 1975, 88 Stat. 2214, provided for a 
 
 ### Statutory Notes
 
+#### References in Text
+Part A of this subchapter, referred to in subsec. (a)(2), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§ 450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
+This subchapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 #### Change of Name
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
@@ -2997,6 +3360,11 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **(c) Obligations of the United States** The Indian Health Service under this subchapter shall neither bill nor charge those Indians who may have the economic means to pay for services, nor require any Indian tribe to do so.
 
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+
 
 <a id="section-458ddd-2"></a>
 ## § 458ddd–2. Application of other sections of this subchapter
@@ -3008,6 +3376,8 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### References in Text
 Section 314 of Pub. L. 101–512, referred to in subsec. (a), is section 314 of Pub. L. 101–512, as amended, which is set out as a note under [section 450f of this title](./chapter-014-miscellaneous.md#section-450f).
+
+Part A of this subchapter, referred to in subsec. (b), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§ 450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
 
 
 <a id="section-458e"></a>
@@ -3603,7 +3973,7 @@ Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of
 <a id="section-474"></a>
 ## § 474. Continuation of allowances
 
-The Secretary of the Interior is directed to continue the allowance of the articles enumerated in section 17 of the Act of March 2, 1889 (23 Stat. L. 894), or their commuted cash value under the Act of June 10, 1896 (29 Stat. L. 334), to all Sioux Indians who would be eligible, but for the provisions of this Act, to receive allotments of lands in severalty under section 19 of the Act of May 29, 1908 (25 Stat. L. 451), or under any prior Act, and who have the prescribed status of the head of a family or single person over the age of eighteen years, and his approval shall be final and conclusive, claims therefor to be paid as formerly from the permanent appropriation made by said section 17 and carried on the books of the Treasury for this purpose. No person shall receive in his own right more than one allowance of the benefits, and application must be made and approved during the lifetime of the allottee or the right shall lapse. Such benefits shall continue to be paid upon such reservation until such such time as the lands available therein for allotment on June 18, 1934, would have been exhausted by the award to each person receiving such benefits of an allotment of eighty acres of such land.
+The Secretary of the Interior is directed to continue the allowance of the articles enumerated in section 17 of the Act of March 2, 1889 (23 Stat. L. 894), or their commuted cash value under the Act of June 10, 1896 (29 Stat. L. 334), to all Sioux Indians who would be eligible, but for the provisions of this Act, to receive allotments of lands in severalty under section 19 of the Act of May 29, 1908 (25 Stat. L. 451), or under any prior Act, and who have the prescribed status of the head of a family or single person over the age of eighteen years, and his approval shall be final and conclusive, claims therefor to be paid as formerly from the permanent appropriation made by said section 17 and carried on the books of the Treasury for this purpose. No person shall receive in his own right more than one allowance of the benefits, and application must be made and approved during the lifetime of the allottee or the right shall lapse. Such benefits shall continue to be paid upon such reservation until such time as the lands available therein for allotment on June 18, 1934, would have been exhausted by the award to each person receiving such benefits of an allotment of eighty acres of such land.
 
 ### Statutory Notes
 
@@ -3922,14 +4292,14 @@ The Secretary of the Interior is authorized to prescribe such regulations as may
 
 **(c) Nontaxability** Title to lands, or any interests therein, acquired pursuant to this Act for the Spokane Tribe or individual enrolled members thereof, shall be taken in the name of the United States of America in trust for the tribe or individual Indian, and shall be nontaxable as other tribal and allotted Indian trust lands of the Spokane Reservation.
 
-**(d) Lands held by mortgage or deed of trust** That any tribal land that may be sold pursuant to this Act may, with the approval of the Secretary of the Interior, be encumbered by a mortgage or deed of trust and shall be subject to foreclosure or sale pursuant to the terms of such a mortgage or deed of trust in accordance with the laws of the State of Washington. The United States shall be an indispensable party to any such proceeding with the right of removal of the clause to the United States district court for the district in which the land is located, following the procedure in [section 1446 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1446&num=0&edition=prelim): Provided, That the United States shall have the right to appeal from any order of remand in the case.
+**(d) Lands held by mortgage or deed of trust** That any tribal land that may be sold pursuant to this Act may, with the approval of the Secretary of the Interior, be encumbered by a mortgage or deed of trust and shall be subject to foreclosure or sale pursuant to the terms of such a mortgage or deed of trust in accordance with the laws of the State of Washington. The United States shall be an indispensable party to any such proceeding with the right of removal of the cause to the United States district court for the district in which the land is located, following the procedure in [section 1446 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1446&num=0&edition=prelim): Provided, That the United States shall have the right to appeal from any order of remand in the case.
 
 **(e) Acquisition and sale procedures; land purchase and consolidation program** The acquisition and sale of lands for the Spokane Tribe pursuant to this Act shall be upon request of the business council of the Spokane Tribe, evidenced by a resolution adopted in accordance with the constitution and bylaws of the tribe, and shall be in accordance with a land purchase and consolidation plan approved by the Secretary of the Interior, and except as it may otherwise be authorized or prescribed by the Secretary, shall be limited to lands situated within the boundary of the Spokane Reservation. Such acquisition by the Spokane Tribe, or individual members thereof, may be achieved by exchange of lands with Indians or non-Indians as well as outright purchase, with adjusting payments to approximate equal value. Moneys or credits received by the tribe in the sale of lands shall be used for the purchase of other lands, or for such other purpose as may be consistent with the land purchase and consolidation program, approved by the Secretary of the Interior.
 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (c), (d), and (e), is Pub. L. 90–335, June 10, 1968, 82 Stat. 174, as amended, which enacted this section and amended [section 415 of this title](./chapter-012-lease-sale-or-surrender-of-allotted-or-unallotted-lands.md#section-415). For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (b) to (e), is Pub. L. 90–335, June 10, 1968, 82 Stat. 174, as amended, which enacted this section and amended [section 415 of this title](./chapter-012-lease-sale-or-surrender-of-allotted-or-unallotted-lands.md#section-415). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section is comprised of subsecs. (a) to (e) of section 1 of Pub. L. 90–335. Subsec. (f) of section 1 of Pub. L. 90–335 amended [section 415 of this title](./chapter-012-lease-sale-or-surrender-of-allotted-or-unallotted-lands.md#section-415).
@@ -3940,20 +4310,18 @@ Section is comprised of subsecs. (a) to (e) of section 1 of Pub. L. 90–335. Su
 
 <a id="section-488"></a>
 ## § 488. Loans to purchasers of highly fractioned land
-**(a) In general** The Secretary of Agriculture is authorized to make loans from the Farmers Home Administration Direct Loan Account created by section 1988(c) 11 See References in Text note below. of title 7, and to make and insure loans as provided in sections 1928 1 and 1929 of title 7, to any Indian tribe recognized by the Secretary of the Interior or tribal corporation established pursuant to the Indian Reorganization Act ([25 U.S.C. 477](./chapter-014-miscellaneous.md#section-477)), which does not have adequate uncommitted funds, to acquire lands or interests therein within the tribe’s reservation as determined by the Secretary of the Interior, or within a community in Alaska incorporated by the Secretary pursuant to the Indian Reorganization Act [[25 U.S.C. 461](./chapter-014-miscellaneous.md#section-461) et seq.], for use of the tribe or the corporation or the members of either. Such loans shall be limited to such Indian tribes or tribal corporations as have reasonable prospects of success in their proposed operations and as are unable to obtain sufficient credit elsewhere at reasonable rates and terms to finance the purposes authorized in sections 488 to 494 of this title.
+**(a) In general** The Secretary of Agriculture is authorized to make direct loans in a manner consistent with direct loans pursuant to subtitle D of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1981](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1981&num=0&edition=prelim) et seq.), to any Indian tribe recognized by the Secretary of the Interior or tribal corporation established pursuant to the Indian Reorganization Act ([25 U.S.C. 477](./chapter-014-miscellaneous.md#section-477)), which does not have adequate uncommitted funds, to acquire lands or interests therein within the tribe’s reservation as determined by the Secretary of the Interior, or within a community in Alaska incorporated by the Secretary pursuant to the Indian Reorganization Act [[25 U.S.C. 461](./chapter-014-miscellaneous.md#section-461) et seq.], for use of the tribe or the corporation or the members of either. Such loans shall be limited to such Indian tribes or tribal corporations as have reasonable prospects of success in their proposed operations and as are unable to obtain sufficient credit elsewhere at reasonable rates and terms to finance the purposes authorized in sections 488 to 494 of this title.
 
 **(b) Highly fractionated land**
 
-(1) **In general** — Subject to paragraph (2), the Secretary of Agriculture may make and insure loans in accordance with [section 1929 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1929&num=0&edition=prelim) to eligible purchasers of highly fractionated land pursuant to [section 2204(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2204/c&num=0&edition=prelim).
+(1) **In general** — Subject to paragraph (2), the Secretary of Agriculture may make and insure loans in accordance with [section 1929 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1929&num=0&edition=prelim) to eligible purchasers of highly fractionated land or to intermediaries in order to establish revolving loan funds for the purchase of highly fractionated land under that section.
 
 (2) **Exclusion** — [Section 491 of this title](./chapter-014-miscellaneous.md#section-491) shall not apply to trust land, restricted tribal land, or tribal corporation land that is mortgaged in accordance with paragraph (1).
 
 ### Statutory Notes
 
 #### References in Text
-[Section 1988(c) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1988/c&num=0&edition=prelim), referred to in subsec. (a), was repealed by Pub. L. 104–127, title VII, § 749(a)(1), Apr. 4, 1996, 110 Stat. 1129.
-
-[Section 1928 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1928&num=0&edition=prelim), referred to in subsec. (a), was amended generally by Pub. L. 104–127, title VI, § 605, Apr. 4, 1996, 110 Stat. 1086, and, as so amended, no longer contains provisions relating to insurance of loans.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitle D of the Act is classified principally to subchapter IV (§ 1981 et seq.) of chapter 50 of Title 7, Agriculture. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
 Tribal corporation established by the Indian Reorganization Act ([25 U.S.C. 477](./chapter-014-miscellaneous.md#section-477)), referred to in subsec. (a), means a tribal corporation established under act June 18, 1934, ch. 576, § 17, 48 Stat. 988, which is classified to [section 477 of this title](./chapter-014-miscellaneous.md#section-477).
 
@@ -3963,10 +4331,25 @@ The Indian Reorganization Act, referred to in subsec. (a), is act June 18, 1934,
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–79, § 5402(1), in first sentence, substituted “direct loans in a manner consistent with direct loans pursuant to subtitle D of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1981](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1981&num=0&edition=prelim) et seq.)” for “loans from the Farmers Home Administration Direct Loan Account created by [section 1988(c) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1988/c&num=0&edition=prelim), and to make and insure loans as provided in sections 1928 and 1929 of title 7”.
+
+Subsec. (b)(1). Pub. L. 113–79, § 5402(2), substituted “or to intermediaries in order to establish revolving loan funds for the purchase of highly fractionated land under that section” for “pursuant to [section 2204(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2204/c&num=0&edition=prelim)”.
+
 2008—Pub. L. 110–246, § 5501, inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+
+<a id="section-488a"></a>
+## § 488a. Removal of duplicative appraisals
+
+Notwithstanding any other law (including regulations), in making loans under [section 488 of this title](./chapter-014-miscellaneous.md#section-488), borrowers who are Indian tribes, members of Indian tribes, or tribal corporations shall only be required to obtain 1 appraisal under an appraisal standard recognized as of February 7, 2014, by the Secretary or the Secretary of the Interior.
+
+### Statutory Notes
+
+#### Definition of “Secretary”
+“Secretary” as meaning the Secretary of Agriculture, see [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
 
 
 <a id="section-489"></a>
@@ -5167,7 +5550,7 @@ In no event shall any portion of the Shoshone judgment fund become liable, payab
 <a id="section-581"></a>
 ## § 581. Disposition of funds
 
-The funds on deposit in the Treasury of the United States to the credit of the Shoshone Nation or Tribe of Indians and the Shoshone-Bannock Tribes that were appropriated by the Act of June 19, 1968 (82 Stat. 239), to pay a judgment in the sum of $15,700,000 entered by the Indian Claims Commission in consolidated dockets numbered 326–D, 326–E, 326–F, 326–G, 326–H, 366, and 367, and the interest thereon, after deducting attorneys’ fees, litigation expenses, and other appropriation deductions, shall be apportioned by the Secretary of the Interior to the Shoshone Tribe of the Wind River Reservation, Wyoming, the Shoshone-Bannock Tribes of the Fort Hall Reservation, Idaho, and the Northwest Band of Shoshone Indians (hereinafter the “three groups”), as set forth in sections 581 to 590 of this title.
+The funds on deposit in the Treasury of the United States to the credit of the Shoshone Nation or Tribe of Indians and the Shoshone-Bannock Tribes that were appropriated by the Act of June 19, 1968 (82 Stat. 239), to pay a judgment in the sum of $15,700,000 entered by the Indian Claims Commission in consolidated dockets numbered 326–D, 326–E, 326–F, 326–G, 326–H, 366, and 367, and the interest thereon, after deducting attorneys’ fees, litigation expenses, and other appropriate deductions, shall be apportioned by the Secretary of the Interior to the Shoshone Tribe of the Wind River Reservation, Wyoming, the Shoshone-Bannock Tribes of the Fort Hall Reservation, Idaho, and the Northwest Band of Shoshone Indians (hereinafter the “three groups”), as set forth in sections 581 to 590 of this title.
 
 ### Statutory Notes
 
@@ -5206,16 +5589,7 @@ For the purpose of apportioning the award in accordance with sections 581 to 590
 
 (1) They were born prior to and alive on December 18, 1971;
 
-(2) Either their names appear on one of the following Indian census rolls of the Washakie Sub-Agency of the Fort Hall jurisdiction:
-
-  (a) Roll dated January 1, 1937, by F. A. Gross, Superintendent of the Fort Hall Reservation.
-
-  (b) Roll dated January 1, 1940, by F. A. Gross, Superintendent of the Fort Hall Reservation.
-
-  (c) Roll dated March 10, 1954.
-
-  (d) Roll dated April 21, 1964.
-  or they possess one-quarter Shoshone Indian blood and they are descendants of those appearing on at least one of said rolls;
+(2) Either their names appear on one of the following Indian census rolls of the Washakie Sub-Agency of the Fort Hall jurisdiction: (a) Roll dated January 1, 1937, by F. A. Gross, Superintendent of the Fort Hall Reservation. (b) Roll dated January 1, 1940, by F. A. Gross, Superintendent of the Fort Hall Reservation. (c) Roll dated March 10, 1954. (d) Roll dated April 21, 1964. or they possess one-quarter Shoshone Indian blood and they are descendants of those appearing on at least one of said rolls;
 
 (3) They are not recognized as members of the Shoshone-Bannock Tribes of the Fort Hall Reservation, the Shoshone Tribe of the Wind River Reservation, or any other Indian Tribe; and
 
@@ -5772,7 +6146,8 @@ In order to further the purposes of existing treaties with the Navajo Indians, t
 
 (13) Housing and necessary facilities and equipment, $820,000.
 
-(14) Common service facilities, $500,000. Funds so appropriated shall be available for administration, investigations, plans, construction, and all other objects necessary for or appropriate to the carrying out of the provisions of this subchapter. Such further sums as may be necessary for or appropriate to the annual operation and maintenance of the projects herein enumerated are also authorized to be appropriated. Funds appropriated under these authorizations shall be in addition to funds made available for use on the Navajo and Hopi Reservations, or with respect to Indians of the Navajo Tribes, out of appropriations heretofore or hereafter granted for the benefit, care, or assistance of Indians in general, or made pursuant to other authorizations now in effect.
+(14) Common service facilities, $500,000.
+Funds so appropriated shall be available for administration, investigations, plans, construction, and all other objects necessary for or appropriate to the carrying out of the provisions of this subchapter. Such further sums as may be necessary for or appropriate to the annual operation and maintenance of the projects herein enumerated are also authorized to be appropriated. Funds appropriated under these authorizations shall be in addition to funds made available for use on the Navajo and Hopi Reservations, or with respect to Indians of the Navajo Tribes, out of appropriations heretofore or hereafter granted for the benefit, care, or assistance of Indians in general, or made pursuant to other authorizations now in effect.
 
 ### Statutory Notes
 
@@ -6237,7 +6612,7 @@ Select Committee on Indian Affairs of the Senate redesignated Committee on India
 
   (A) all powers and duties of the Bureau of Indian Affairs derived from Public Law 99–190 (99 Stat. at 1236) that relate to the relocation of members of the Navajo Tribe from lands partitioned to the Hopi Tribe, and
 
-  (B) all funds appropriated for activities relating to such relocation pursuant to Public Law 99–190 (99 Stat. at 1236): Provided, That such funds shall be used by the Commissioner for the purpose for which such funds were appropriated to the Bureau of Indian Affairs. (B) 11 So in original. The period followed by the designation “(B)” probably should not appear. : Provided further, That for administrative purposes such funds shall be maintained in a separate account.
+  (B) all funds appropriated for activities relating to such relocation pursuant to Public Law 99–190 (99 Stat. at 1236): Provided, That such funds shall be used by the Commissioner for the purpose for which such funds were appropriated to the Bureau of Indian Affairs. (B) 11 So in original. The period and designation “(B)” probably should not appear. : Provided further, That for administrative purposes such funds shall be maintained in a separate account.
 
 **(d) Powers of Commissioner**
 
@@ -6401,7 +6776,7 @@ Subsec. (g). Pub. L. 100–666, § 10, added subsec. (g).
 
 <a id="section-640d-16"></a>
 ## § 640d–16. Title, possession, and enjoyment of lands
-**(a) Covered lands; jurisdiction of respective tribes over nonmembers** Nothing in this subchapter shall effect the title, possession, and enjoyment of lands heretofore allotted to Hopi and Navajo individuals for which patents have been issued. Such Hopi individuals living on the Navajo Reservation shall be subject to the jurisdiction of the Navajo Tribe and such Navajo individuals living on the Hopi Reservation shall be subject to the jurisdiction of the Hopi Tribe.
+**(a) Covered lands; jurisdiction of respective tribes over nonmembers** Nothing in this subchapter shall affect the title, possession, and enjoyment of lands heretofore allotted to Hopi and Navajo individuals for which patents have been issued. Such Hopi individuals living on the Navajo Reservation shall be subject to the jurisdiction of the Navajo Tribe and such Navajo individuals living on the Hopi Reservation shall be subject to the jurisdiction of the Hopi Tribe.
 
 **(b) Relocation of Federal employees** Nothing in this subchapter shall require the relocation from any area partitioned pursuant to this subchapter of the household of any Navajo or Hopi individual who is employed by the Federal Government within such area or to prevent such employees or their households from residing in such areas in the future: Provided, That any such Federal employee who would, except for the provisions of this subsection, be relocated under the terms of this subchapter may elect to be so relocated.
 
@@ -6847,7 +7222,7 @@ The Hopi Tribal Council shall have the following powers:
 
 **(a) Sale of lands** To sell any part of the lands within the Hopi Industrial Park.
 
-**(b) Mortgages or deeds of trust; law governing mortgage foreclosure or sale; United States as party; removal of cases; appeals** To execute mortgages upon, or deeds of trust to, the lands within said Hopi Industrial Park. Such lands shall be subject to foreclosure or sale pursuant to the terms of such mortgage or deed to trust in accordance with the laws of the State of Arizona. The United States shall be an indispensable party to, and may be joined in, any such proceeding involving said lands with the right to remove the action to the United States district court for the district in which the land is situated, according to the procedure in [section 1446 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1446&num=0&edition=prelim), and the United States shall have the right to appeal from any order of remand entered in such action.
+**(b) Mortgages or deeds of trust; law governing mortgage foreclosure or sale; United States as party; removal of cases; appeals** To execute mortgages upon, or deeds of trust to, the lands within said Hopi Industrial Park. Such lands shall be subject to foreclosure or sale pursuant to the terms of such mortgage or deed of trust in accordance with the laws of the State of Arizona. The United States shall be an indispensable party to, and may be joined in, any such proceeding involving said lands with the right to remove the action to the United States district court for the district in which the land is situated, according to the procedure in [section 1446 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1446&num=0&edition=prelim), and the United States shall have the right to appeal from any order of remand entered in such action.
 
 **(c) Pledge of revenue or other income to secure indebtedness for development of park; law governing action to enforce pledge; United States as party** To pledge any revenue or other income from lands within said Hopi Industrial Park, and the improvements situated thereon, and any other revenue or income that may be available to the Hopi Tribe without regard to source, to secure any indebtedness of the Hopi Tribe incurred in the development of said Hopi Industrial Park, and any action to enforce said pledge shall be in accordance with the laws of the State of Arizona, and the United States shall be an indispensable party thereto to the same extent and under the same conditions as hereinbefore provided in the case of mortgage foreclosures.
 
@@ -7103,48 +7478,7 @@ Subject to the provisions of the Southern Ute Indian tribal constitution and the
 ### Statutory Notes
 
 #### Southern Ute Indian Reservation in Colorado; Confirmation of Reservation Boundaries
-Pub. L. 98–290, May 21, 1984, 98 Stat. 201, provided that:
-
-#### “congressional purpose
-“Section 1. The purposes of this Act are—
-
-“(1) to resolve uncertainty over the boundaries of the Southern Ute Indian Reservation and the status of unrestricted land on such reservation, and
-
-“(2) to avoid long and costly litigation over issues dependent on reservation or Indian country status.
-
-#### “indian trust land defined
-“Sec. 2. For purposes of this Act, the term ‘Indian trust land’ means any land within the boundaries of the Southern Ute Indian Reservation which—
-
-“(1) is held by the United States in trust for the benefit of the Southern Ute Indian Tribe or individual Indians, or
-
-“(2) is owned by the United States and reserved for use or actually used in the administration of Indian affairs.
-
-Any right-of-way bounded on both sides by Indian trust land shall be Indian trust land. Any other right-of-way shall not be Indian trust land.
-
-#### “boundaries of the southern ute indian reservation defined
-“Sec. 3. The Southern Ute Indian Reservation in the State of Colorado is declared to have the following boundaries:
-
-“(1) Bounded on the north by the southern boundary of the lands—
-
-“(A) ceded to the United States by certain bands of Ute Indians under the Articles of Convention entered into on September 13, 1873, and ratified by the Act approved April 29, 1874 (18 Stat. 36), and
-
-“(B) described in article I of such Articles of Convention.
-
-“(2) Bounded on the south by the boundary line between the States of Colorado and New Mexico as described in article II of the treaty between the United States and the Ute Indians concluded March 2, 1868, and proclaimed November 6, 1868 (15 Stat. 619).
-
-“(3) Bounded on the west by the eastern boundary of the Ute Mountain Ute Indian Reservation.
-
-“(4) Bounded on the east by the southernmost 15 miles of the eastern boundary of the lands reserved to the Ute Indians by article II of the treaty between the United States and the Ute Indians concluded March 2, 1868, and proclaimed November 6, 1868 (15 Stat. 619), except that the lands east of such boundary in township 32 north, range 1 west, New Mexico principal meridian, that are held by the United States in trust for the benefit of the Southern Ute Indian Tribe are part of the Southern Ute Indian Reservation.
-
-#### “jurisdiction over reservation
-“Sec. 4. (a) Such territorial jurisdiction as the Southern Ute Indian Tribe has over persons other than Indians and the property of such persons shall be limited to Indian trust lands within the reservation.
-
-“(b) Any person who is not an Indian and the property of any such person shall be subject to the jurisdiction of the United States under [section 1152 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1152&num=0&edition=prelim), United States Code, only on Indian trust land.
-
-“(c) Any law of the United States related to the sale, possession, introduction, or manufacture of alcoholic beverages or to trading with Indians within Indian country, or within the Indian reservation, shall apply, with respect to the Southern Ute Indian Reservation, only on Indian trust land.
-
-#### “jurisdiction over incorporated municipalities within the reservation
-“Sec. 5. The State of Colorado shall exercise criminal and civil jurisdiction within the boundaries of the town of Ignacio, Colorado, and any other municipality which may be incorporated under the laws of Colorado within the Southern Ute Indian Reservation, as if such State had assumed jurisdiction pursuant to the Act of August 15, 1953 (67 Stat. 588), as amended by the Act of April 11, 1968 (82 Stat. 79) [see [28 U.S.C. 1360](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1360&num=0&edition=prelim) note].”
+Pub. L. 98–290, May 21, 1984, 98 Stat. 201, provided that: “congressional purpose“Section 1. The purposes of this Act are—“(1) to resolve uncertainty over the boundaries of the Southern Ute Indian Reservation and the status of unrestricted land on such reservation, and “(2) to avoid long and costly litigation over issues dependent on reservation or Indian country status. “indian trust land defined“Sec. 2. For purposes of this Act, the term ‘Indian trust land’ means any land within the boundaries of the Southern Ute Indian Reservation which—“(1) is held by the United States in trust for the benefit of the Southern Ute Indian Tribe or individual Indians, or “(2) is owned by the United States and reserved for use or actually used in the administration of Indian affairs. Any right-of-way bounded on both sides by Indian trust land shall be Indian trust land. Any other right-of-way shall not be Indian trust land. “boundaries of the southern ute indian reservation defined“Sec. 3. The Southern Ute Indian Reservation in the State of Colorado is declared to have the following boundaries:“(1) Bounded on the north by the southern boundary of the lands—“(A) ceded to the United States by certain bands of Ute Indians under the Articles of Convention entered into on September 13, 1873, and ratified by the Act approved April 29, 1874 (18 Stat. 36), and “(B) described in article I of such Articles of Convention. “(2) Bounded on the south by the boundary line between the States of Colorado and New Mexico as described in article II of the treaty between the United States and the Ute Indians concluded March 2, 1868, and proclaimed November 6, 1868 (15 Stat. 619). “(3) Bounded on the west by the eastern boundary of the Ute Mountain Ute Indian Reservation. “(4) Bounded on the east by the southernmost 15 miles of the eastern boundary of the lands reserved to the Ute Indians by article II of the treaty between the United States and the Ute Indians concluded March 2, 1868, and proclaimed November 6, 1868 (15 Stat. 619), except that the lands east of such boundary in township 32 north, range 1 west, New Mexico principal meridian, that are held by the United States in trust for the benefit of the Southern Ute Indian Tribe are part of the Southern Ute Indian Reservation. “jurisdiction over reservation“Sec. 4. (a) Such territorial jurisdiction as the Southern Ute Indian Tribe has over persons other than Indians and the property of such persons shall be limited to Indian trust lands within the reservation. “(b) Any person who is not an Indian and the property of any such person shall be subject to the jurisdiction of the United States under [section 1152 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1152&num=0&edition=prelim), United States Code, only on Indian trust land. “(c) Any law of the United States related to the sale, possession, introduction, or manufacture of alcoholic beverages or to trading with Indians within Indian country, or within the Indian reservation, shall apply, with respect to the Southern Ute Indian Reservation, only on Indian trust land. “jurisdiction over incorporated municipalities within the reservation“Sec. 5. The State of Colorado shall exercise criminal and civil jurisdiction within the boundaries of the town of Ignacio, Colorado, and any other municipality which may be incorporated under the laws of Colorado within the Southern Ute Indian Reservation, as if such State had assumed jurisdiction pursuant to the Act of August 15, 1953 (67 Stat. 588), as amended by the Act of April 11, 1968 (82 Stat. 79) [see [28 U.S.C. 1360](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1360&num=0&edition=prelim) note].”
 
 
 <a id="section-669"></a>
@@ -7178,7 +7512,7 @@ The Court of Claims, referred to in text, and the Court of Customs and Patent Ap
 <a id="section-672"></a>
 ## § 672. Division of trust funds; ratification of resolution; crediting of shares; release of United States from liability in certain cases
 
-The Secretary of the Interior is authorized and directed to divide the trust funds belonging to the Confederated Bands of Ute Indians and deposited in the United States Treasury pursuant to [section 399 of this title](./chapter-012-lease-sale-or-surrender-of-allotted-or-unallotted-lands.md#section-399), [section 315j of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section315j&num=0&edition=prelim), and the Act of June 28, 1938 (52 Stat. 1211), as amended, including the interest thereon, by crediting 60 per centum to the Ute Indian Tribe of the Uintah and Ouray Reservation, consisting of the Uintah, Uncompahgre, and White River Utes, and 40 per centum to the Southern Utes, consisting of the Southern Utes of the Southern Ute Reservation and the Ute Mountain Tribe of the Ute Mountain Reservation. The resolution adopted June 1, 1950, by the members of the Uncompahgre, White River, and Uintah bands of Ute Indians compromising and settling all existing controversies between themselves as to ownership and distribution of any judgments which may be obtained against the United States and as to ownership of land within the Uintah and Ouray Reservation and income issuing therefrom by providing that the same shall become the tribal property of all the Indians of the Ute Indian Tribe of the Uintah and Ouray Reservation without regard to band derivation is ratified, approved and confirmed. The funds apportioned to the Southern Utes under this section shall be divided between the Southern Utes of the Southern Ute Reservation and the Ute Mountain Tribe of the Ute Mountain Reservation as agreed between said tribes. The shares of the respective groups shall be credited to the existing accounts established pursuant to sections 155 and 161a to 161d of this title. None of the funds involved herein shall be credited or distributed to the Ute Indian Tribe of the Uintah and Ouray Reservation, consisting of the Uintah, Uncompahgre, and White Rivers Utes, until the Uncompahgre and White River Banks present to the Secretary of the Interior a release satisfactory to him, relieving the United States of any liability resulting from the inclusion of the Uintah Band in the disposition or use of said trust funds.
+The Secretary of the Interior is authorized and directed to divide the trust funds belonging to the Confederated Bands of Ute Indians and deposited in the United States Treasury pursuant to [section 399 of this title](./chapter-012-lease-sale-or-surrender-of-allotted-or-unallotted-lands.md#section-399), [section 315j of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section315j&num=0&edition=prelim), and the Act of June 28, 1938 (52 Stat. 1211), as amended, including the interest thereon, by crediting 60 per centum to the Ute Indian Tribe of the Uintah and Ouray Reservation, consisting of the Uintah, Uncompahgre, and White River Utes, and 40 per centum to the Southern Utes, consisting of the Southern Utes of the Southern Ute Reservation and the Ute Mountain Tribe of the Ute Mountain Reservation. The resolution adopted June 1, 1950, by the members of the Uncompahgre, White River, and Uintah bands of Ute Indians compromising and settling all existing controversies between themselves as to ownership and distribution of any judgments which may be obtained against the United States and as to ownership of land within the Uintah and Ouray Reservation and income issuing therefrom by providing that the same shall become the tribal property of all the Indians of the Ute Indian Tribe of the Uintah and Ouray Reservation without regard to band derivation is ratified, approved and confirmed. The funds apportioned to the Southern Utes under this section shall be divided between the Southern Utes of the Southern Ute Reservation and the Ute Mountain Tribe of the Ute Mountain Reservation as agreed between said tribes. The shares of the respective groups shall be credited to the existing accounts established pursuant to sections 155 and 161a to 161d of this title. None of the funds involved herein shall be credited or distributed to the Ute Indian Tribe of the Uintah and Ouray Reservation, consisting of the Uintah, Uncompahgre, and White River Utes, until the Uncompahgre and White River Bands present to the Secretary of the Interior a release satisfactory to him, relieving the United States of any liability resulting from the inclusion of the Uintah Band in the disposition or use of said trust funds.
 
 ### Statutory Notes
 
@@ -7231,7 +7565,7 @@ Act of August 27, 1954, referred to in text, is act Aug. 27, 1954, ch. 1009, 68 
 <a id="section-676b"></a>
 ## § 676b. Distribution of judgment fund; deductions; availability for certain uses
 
-The unexpended balance of funds on deposit in the Treasury to the credit of the Confederated Bands of Ute Indians appropriated by the Act of May 13, 1966 (80 Stat. 141), pursuant to the final judgment entered in Court of Claims case numbered 47567; and the funds on deposit to the credit of the Ute Tribe of the Uintah and Ouray Reservation, for and on behalf of the Uncompahgre Band of Ute Indians, that were appropriated by the Act of April 30, 1965 (79 Stat. 81), to pay a judgment by the Indians Claims Commission in docket numbered 349; and the interest thereon, less attorney fees and litigation expenses, shall be available for use by the respective tribes in accordance with the Act of August 21, 1951 (65 Stat. 193; [25 U.S.C. 672](./chapter-014-miscellaneous.md#section-672)), the Act of August 12, 1953 (67 Stat. 540; [25 U.S.C. 674](./chapter-014-miscellaneous.md#section-674)), the Act of June 28, 1954 (68 Stat. 300; [25 U.S.C. 676](./chapter-014-miscellaneous.md#section-676)), and the Act of August 27, 1954 (68 Stat. 868; [25 U.S.C. 677](./chapter-014-miscellaneous.md#section-677)), as amended.
+The unexpended balance of funds on deposit in the Treasury to the credit of the Confederated Bands of Ute Indians appropriated by the Act of May 13, 1966 (80 Stat. 141), pursuant to the final judgment entered in Court of Claims case numbered 47567; and the funds on deposit to the credit of the Ute Tribe of the Uintah and Ouray Reservation, for and on behalf of the Uncompahgre Band of Ute Indians, that were appropriated by the Act of April 30, 1965 (79 Stat. 81), to pay a judgment by the Indian Claims Commission in docket numbered 349; and the interest thereon, less attorney fees and litigation expenses, shall be available for use by the respective tribes in accordance with the Act of August 21, 1951 (65 Stat. 193; [25 U.S.C. 672](./chapter-014-miscellaneous.md#section-672)), the Act of August 12, 1953 (67 Stat. 540; [25 U.S.C. 674](./chapter-014-miscellaneous.md#section-674)), the Act of June 28, 1954 (68 Stat. 300; [25 U.S.C. 676](./chapter-014-miscellaneous.md#section-676)), and the Act of August 27, 1954 (68 Stat. 868; [25 U.S.C. 677](./chapter-014-miscellaneous.md#section-677)), as amended.
 
 ### Statutory Notes
 
@@ -7380,23 +7714,6 @@ Hereunder, referred to in text, means act Aug. 27, 1954, ch. 1009, 68 Stat. 868,
 ## § 677l. Distribution to individual members of mixed-blood group; preparation and approval of plan; assistance; provisions permitted in plan
 
 After the adoption of a plan for the division of the assets between the two groups, a plan for distribution of the assets of the mixed-blood group to the individual members thereof shall be prepared and ratified by a majority of said group, within the period of six months from such adoption and presented to the Secretary for approval. The Secretary is authorized to provide such reasonable assistance, including necessary technical service of Government employees at Fort Duchesne, Utah, and arranging for necessary consultations with representatives of Federal departments and agencies, officials of the State of Utah and political subdivisions thereof, as may be required by the mixed-blood group in the preparation of such plan.
-The plan for division of the assets among the members of the mixed-blood group may include:
-
-(1) Complete disposition of all cash assets of said group, reserving, however, sufficient funds to cover—
-
-  (i) the proportionate share of said mixed-blood group in and to all expenses incurred in effecting the purposes of this subchapter, including, but not limited to, the necessary expense incurred under this section and [section 677m of this title](./chapter-014-miscellaneous.md#section-677m);
-
-  (ii) the just and proportionate share of the mixed-bloods in the expense incurred in the prosecution of the claims of the tribe, or the bands thereof, against the United States; and
-
-  (iii) the determinable and estimated administrative costs and expenses of any mixed-blood organization authorized by this subchapter, including lawful and reasonable salaries and fees of authorized agents, officers and employees of said mixed-blood group.
-
-(2) Partition of the lands of the mixed-blood group, excepting all gas, oil, and mineral rights, to corporations, partnerships, or other legal entities, and to trustees, and the individual members of said groups, quality and quantity relatively considered, according to the respective rights and interests of the parties, located so as to embrace, as far as practicable, any improvements lawfully made by the person or persons receiving such land. The value of the improvements made, under a valid lease or assignment from the tribe, shall be excluded from the valuation in making allotments to the lessee or assignee, and the land must be valued without regard to such improvements unless the lease or assignment, under which said improvements were made, provided that such improvements should become the property of the tribe. In the making of any partition due consideration shall be given to all of the rights and interests of the person or persons receiving the property, and all of the rights and interests of the other members of the tribe. Two or more of the members of said mixed-blood group may obtain their share of property as tenants in common, as joint tenants, or in any other lawful manner when such members agree among themselves as to the manner in which they desire to receive such title. When it appears that an equitable partition cannot be made among the members of said mixed-blood group without prejudice to the rights and interests of some of them, and yet a partition is directed by the group, the members of said group may voluntarily determine compensation to be made by one party to another on account of the inequity. In all cases where equity is agreed upon by the members of said mixed-blood group, such compensatory adjustment among the parties, according to the principles of equity, must be approved by the Secretary. In the event of a failure to agree upon an equitable compensatory adjustment among the parties the Secretary shall make such adjustment and his decision shall be final.
-
-(3) Organization of corporations for the grazing of livestock, handling of water and water rights, and the shares therein may be issued to the members of said group in proportion to their interests in the assets of such corporations. When, in the opinion of said mixed-blood group, it is to the best interest of said group to transfer a portion of the assets of said group to a corporation or other legal entity for any purpose, the Secretary is authorized to make such transfer.
-
-(4) A transfer of assets to one or more trustees designated by said group who shall hold title to all or any part of the property of said group for management or liquidation purposes under terms and conditions prescribed by said mixed-blood group. The Secretary is authorized to make such transfer, and approve the trustees, and the terms and conditions of the trust.
-
-(5) Sale of any portion of the assets of said group subject to the approval of the Secretary. In addition to the sales herein otherwise authorized, authority is granted to the authorized representatives of said group to sell any property of said group when, in the opinion of the majority of said mixed-blood group, a practicable partition cannot be made, or for any other reason it is deemed to the best interests of the group, and the proceeds of such sales shall be distributed equitably among the members of said mixed-blood group; after deducting reasonable cost of sale and distribution.
 
 
 <a id="section-677m"></a>
@@ -7488,7 +7805,7 @@ Within three months after August 27, 1954, the business committee of the tribe r
 <a id="section-677x"></a>
 ## § 677x. Citizenship status unaffected
 
-Nothing in this subchapter, shall affect the status of the members of the tribe as citizens of the United States.
+Nothing in this subchapter shall affect the status of the members of the tribe as citizens of the United States.
 
 
 <a id="section-677y"></a>
@@ -7642,7 +7959,7 @@ For the purposes of this subchapter:
 
 **(b)** “Secretary” means the Secretary of the Interior.
 
-**(c)** “Lands” means real property interest therein, or improvements thereon, and includes water rights.
+**(c)** “Lands” means real property, interest therein, or improvements thereon, and includes water rights.
 
 **(d)** “Tribal property” means any real or personal property, including water rights, or any interest in real or personal property, that belongs to the tribe and either is held by the United States in trust for the tribe or is subject to a restriction against alienation imposed by the United States.
 
@@ -7907,7 +8224,7 @@ Act of August 13, 1954, referred to in subsec. (b), is act Aug. 13, 1954, ch. 73
 ### Statutory Notes
 
 #### Authority To Erect Permanent Improvements on Land Acquired for Confederated Tribes of Siletz Indians of Oregon
-Pub. L. 97–38, Aug. 14, 1981, 95 Stat. 938, provided: “That, notwithstanding any other provision of law or regulation, the Attorney General shall approve any deed or other instrument which— “(1) conveys to the United States the land described in section 2 of the Act entitled ‘An Act to establish a reservation for the Confederated Tribes of Siletz Indians of Oregon’, approved September 4, 1980 (94 Stat. 1073) [set out below], and “(2) incorporates by reference the terms of the agreement entered into on September 18, 1980, by the city of Siletz, Oregon, the Confederated Tribes of Siletz Indians of Oregon, and the United States of America. The Secretary of the Interior or the Confederated Tribes of Siletz Indians of Oregon may erect permanent improvements, improvements of a substantial value, or any other improvements authorized by law on such land after such land is conveyed to the United States.”
+Pub. L. 97–38, Aug. 14, 1981, 95 Stat. 938, provided: “That, notwithstanding any other provision of law or regulation, the Attorney General shall approve any deed or other instrument which—“(1) conveys to the United States the land described in section 2 of the Act entitled ‘An Act to establish a reservation for the Confederated Tribes of Siletz Indians of Oregon’, approved September 4, 1980 (94 Stat. 1073) [set out below], and “(2) incorporates by reference the terms of the agreement entered into on September 18, 1980, by the city of Siletz, Oregon, the Confederated Tribes of Siletz Indians of Oregon, and the United States of America. The Secretary of the Interior or the Confederated Tribes of Siletz Indians of Oregon may erect permanent improvements, improvements of a substantial value, or any other improvements authorized by law on such land after such land is conveyed to the United States.”
 
 #### Establishment of Reservation for Confederated Tribes of Siletz Indians of Oregon
 Pub. L. 96–340, Sept. 4, 1980, 94 Stat. 1072, as amended by Pub. L. 103–435, § 3, Nov. 2, 1994, 108 Stat. 4567; Pub. L. 105–256, § 7, Oct. 14, 1998, 112 Stat. 1897, established a reservation for the Confederated Tribes of Siletz Indians of Oregon, particularly describing, subject to all valid liens, rights-of-way, agreements, licenses, permits, and easements as of Sept. 4, 1980, the parcel of land, consisting of approximately 3,630 acres in the State of Oregon as well as other parcels of land to be conveyed to the Secretary of the Interior, to be held in trust for the Confederated Tribes of Siletz Indians of Oregon, with all parcels of land subject to the provisions of section 461 et seq. of this title and the right of the Secretary of the Interior to establish, without compensation to such tribes, reasonable rights-of-way and easements to provide access to other Federal lands, no new or additional hunting, fishing, or trapping rights beyond the rights declared in the final judgment of the United States District Court in the action entitled Confederated Tribes of Siletz Indians of Oregon against State of Oregon, entered on May 2, 1980, be deemed, granted, or restored to the tribe or any member of the tribe, and civil and criminal jurisdiction, in accordance with [section 1360 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1360&num=0&edition=prelim), Judiciary and Judicial Procedure, and [section 1162 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1162&num=0&edition=prelim), Crimes and Criminal Procedure, to reside with the State of Oregon with respect to the reservation and any individual on the reservation.
@@ -8275,15 +8592,7 @@ In subsecs. (a) and (b), “on October 17, 1984,” the date of enactment of Pub
 
 **(b) Criteria for enrollment**
 
-(1) Until a tribal constitution and bylaws are adopted, a person shall be a member of the Tribe and his name shall be placed on the membership roll if the individual is living and if—
-
-  (a) that individual’s name was listed on the Tribe’s Census Roll of 1940;
-
-  (b) that individual was entitled to be listed on the Tribe’s Census Roll of January 1, 1940 but was not so listed. Any person placed on the membership roll must be listed on the January 1, 1940 Census Roll of the Grand Ronde-Siletz Indian Agency of nonreservation Indians as Coos, Lower Umpqua, or Siuslaw, be a descendant of such a person, or be a descendant of public domain allotee 11 So in original. Probably should be “allottee”. of Western Oregon who was a member of one of these three tribes.
-
-  (c) that individual is a direct lineal descendant of an individual, living or dead, identified by subparagraph (a) or (b); and
-
-  (d) that individual or the lineal ancestor through whom he qualifies for membership under subparagraph (c) has never been an enrolled member of, or qualified for the payment of any money for the taking of land or otherwise through, any other Indian tribe, either federally recognized or acknowledged or not federally recognized or acknowledged.
+(1) Until a tribal constitution and bylaws are adopted, a person shall be a member of the Tribe and his name shall be placed on the membership roll if the individual is living and if— (a) that individual’s name was listed on the Tribe’s Census Roll of 1940; (b) that individual was entitled to be listed on the Tribe’s Census Roll of January 1, 1940 but was not so listed. Any person placed on the membership roll must be listed on the January 1, 1940 Census Roll of the Grand Ronde-Siletz Indian Agency of nonreservation Indians as Coos, Lower Umpqua, or Siuslaw, be a descendant of such a person, or be a descendant of public domain allotee 11 So in original. Probably should be “allottee”. of Western Oregon who was a member of one of these three tribes. (c) that individual is a direct lineal descendant of an individual, living or dead, identified by subparagraph (a) or (b); and (d) that individual or the lineal ancestor through whom he qualifies for membership under subparagraph (c) has never been an enrolled member of, or qualified for the payment of any money for the taking of land or otherwise through, any other Indian tribe, either federally recognized or acknowledged or not federally recognized or acknowledged.
 
 (2) Until a tribal constitution and bylaws are adopted, a person shall be eligible for membership if the individual is living and meets the criteria established in subsections (b)(1)(a), (b) and (c) of this section. Such individual may submit an application for enrollment to the Interim Council for consideration and decision and the Interim Council shall place on the roll the name of all individuals who submitted an application and are meeting the criteria established under subsections (b)(1)(a), (b) and (c) of this section: Provided, That the Interim Council may reject the application of any person who is found to be a member or who is claiming membership in another Indian tribe. Nothing in this subchapter shall bar unsuccessful applicants for enrollment before the Interim Council from submitting an application for enrollment to the Tribe after the adoption of a tribal constitution and bylaws.
 
@@ -8787,7 +9096,7 @@ For the purposes of this subchapter—
 
 **(d)** “Individual Indian” means any individual Indian whose name appears on the final roll prepared pursuant to [section 743 of this title](./chapter-014-miscellaneous.md#section-743).
 
-**(e)** “Tribal property” means any real or personal property, including water rights, or any interest in real or personal property, that belongs to the tribe and either is held by the United States in trust for the tribe or is subject to a restriction against alienation imposed by the United States,
+**(e)** “Tribal property” means any real or personal property, including water rights, or any interest in real or personal property, that belongs to the tribe and either is held by the United States in trust for the tribe or is subject to a restriction against alienation imposed by the United States.
 
 
 <a id="section-743"></a>
@@ -9171,7 +9480,7 @@ The Secretary is authorized to prescribe the necessary rules and regulations to 
 
 <a id="section-781"></a>
 ## § 781. Distribution of funds
-**(a) Allotment equalization payments** The Secretary of the Interior is authorized and directed to use any funds on deposit in the Treasury of the United States to the credit of the Creek Nation to complete allotment equalization payments to persons with claims thereto that were filed and adjudicated in accordance with the provisions of section 18 in the Act of June 30, 1919 (41 Stat. 3, 24.)
+**(a) Allotment equalization payments** The Secretary of the Interior is authorized and directed to use any funds on deposit in the Treasury of the United States to the credit of the Creek Nation to complete allotment equalization payments to persons with claims thereto that were filed and adjudicated in accordance with the provisions of section 18 in the Act of June 30, 1919 (41 Stat. 3, 24).
 
 **(b) Per capita payments to enrollees, heirs, or legatees** The Secretary of the Interior is authorized to distribute per capita to the members of the Creek Nation whose names appear on the final rolls approved under the Act of April 26, 1906 (34 Stat. 137), or to their heirs or legatees, any funds heretofore or hereafter deposited in the Treasury of the United States to the credit of the Creek Nation that are not used for the purposes of subsection (a) of this section and that are not needed, in the judgment of the Secretary, for other tribal purposes except the proceeds of any final judgment entered in Docket No. 21, pending before the Indian Claims Commission, in which the Creek Nation (Oklahoma) is plaintiff, and McGhee et al., on behalf of the Creek Nation East of the Mississippi are intervenors, and the United States is defendant.
 
@@ -9261,7 +9570,8 @@ The Secretary of the Interior shall prepare a roll of all persons who meet the f
 
 (5) Any emigration or muster rolls of Creek Indians;
 
-(6) Any lists of self-emigrant Creek claimants (including those contained in Senate Ex. Doc. 198, 50:1, 1888, and H.R. Ex. Doc. 238, 51:2, 1891). Applications for enrollment must be filed with the Area Director of the Bureau of Indian Affairs, Muskogee, Oklahoma, in the manner and within the time limits prescribed for that purpose. The determination of the Secretary regarding the eligibility of an applicant shall be final.
+(6) Any lists of self-emigrant Creek claimants (including those contained in Senate Ex. Doc. 198, 50:1, 1888, and H.R. Ex. Doc. 238, 51:2, 1891).
+Applications for enrollment must be filed with the Area Director of the Bureau of Indian Affairs, Muskogee, Oklahoma, in the manner and within the time limits prescribed for that purpose. The determination of the Secretary regarding the eligibility of an applicant shall be final.
 
 
 <a id="section-788b"></a>
@@ -9273,6 +9583,8 @@ After the deduction of attorney fees, litigation expenses, the costs of distribu
 
 #### References in Text
 Act of April 30, 1965, referred to in text, is act Apr. 30, 1965, Pub. L. 89–16, 79 Stat. 81, known as the Second Supplemental Appropriations Act, 1965. That portion of the act which appropriated the funds referred to was not classified to the Code.
+
+The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 
 #### Distribution of Certain Undistributed Judgment Funds Awarded to Creek Nation
 Pub. L. 98–390, Aug. 21, 1984, 98 Stat. 1356, provided: “That, notwithstanding Public Law 90–506 [[25 U.S.C. 788e](./chapter-014-miscellaneous.md#section-788e) et seq.] and any other provision of law, any funds appropriated by Public Law 89–697 [Oct. 27, 1966, 80 Stat. 1057] in satisfaction of a judgment awarded the Muscogee (Creek) Nation of Oklahoma in docket numbered 276 of the Indian Claims Commission which have not been distributed on the date of enactment of this Act [Aug. 21, 1984] (including all interest and investment income accrued thereon) shall be distributed by the Secretary of the Interior to the Muscogee (Creek) Nation of Oklahoma as needed to make expenditures for any plan or program authorized by ordinance of such Nation. “Sec. 2. (a) Notwithstanding Public Law 90–504 [[25 U.S.C. 788a](./chapter-014-miscellaneous.md#section-788a) et seq.] and any other provision of law, any funds appropriated by Public Law 89–16 [Apr. 30, 1965, 79 Stat. 81] in satisfaction of a judgment awarded the Creek Nation of Indians in docket numbered 21 of the Indian Claims Commission which have not been distributed on the date of enactment of this Act [Aug. 21, 1984] (including all interest and investment income accrued thereon) shall be used and distributed in accordance with the provisions of this section. “(b)(1) The Secretary of the Interior (hereinafter in this section referred to as the ‘Secretary’) shall allocate—“(A) 81.6196 per centum of the funds described in subsection (a) to the Muscogee (Creek) Nation of Oklahoma, and “(B) 18.3804 per centum of the funds described in subsection (a) to the Eastern Creeks. “(2) The funds allocated to the Muscogee (Creek) Nation of Oklahoma under paragraph (1) shall be distributed to such Nation by the Secretary as needed to make expenditures for any plan or program authorized by ordinance of such Nation. “(3)(A) The funds allocated to the Eastern Creeks under paragraph (1) shall be held in trust and invested by the Secretary for the benefit of the Eastern Creeks. “Sec. 3. (a) If one or more of the Eastern Creek entities that have filed a petition for Federal acknowledgement are acknowledged to be an Indian tribe on or before December 30, 1984, such tribe or tribes shall be deemed to be a successor entity to the original Eastern Creek group for purposes of distribution of the residual funds in docket numbered 21, and the funds held in trust for the benefit of the Eastern Creeks under section 2 of this Act (including all interest and income accrued thereon) shall be distributed to such tribe or tribes by the Secretary as needed to make any expenditures for any plan or program authorized by ordinance or resolution of such tribe or tribes. “(b) If more than one tribal entity is recognized by the Secretary, such funds shall be prorated between the tribes on the basis of their respective base membership rolls on the date of acknowledgement. “(c) If none of the Eastern Creeks which have filed a petition for acknowledgement are recognized as an Indian tribe by the Secretary prior to December 30, 1984, the funds held in trust for the Eastern Creeks under this Act (including all interest and income accrued thereon) shall be distributed by the Secretary in the form of per capita payments in addition to any amount appropriated in satisfaction of a judgment awarded the Eastern Creeks in docket numbered 275 of the Indian Claims Commission. “Sec. 4. If Federal recognition as an Indian tribe is extended to any Eastern Creek entity prior to distribution of the funds awarded in docket numbered 272 and 275, such tribe or tribes shall be entitled to amend the existing distribution plans for these awards by filing with the Secretary an alternative distribution plan for its proportionate share of funds in these dockets.”
@@ -9514,6 +9826,8 @@ The Secretary is authorized and directed to withdraw the funds on deposit in the
 #### References in Text
 Act of May 19, 1956, referred to in text, is act May 19, 1956, ch. 313, 70 Stat. 161, 176, known as the Second Supplemental Appropriation Act, 1956. That portion of the act which appropriated the funds referred to was not classified to the Code.
 
+The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
+
 
 <a id="section-873"></a>
 ## § 873. Per capita payments
@@ -9699,7 +10013,7 @@ Pub. L. 93–197, § 1, Dec. 22, 1973, 87 Stat. 770, provided: “That this Act 
 
 **(b) Repeal of provisions terminating Federal supervision; reinstatement of tribal rights and privileges** The Act of June 17, 1954 (68 Stat. 250; [25 U.S.C. 891–902](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section891–902&num=0&edition=prelim)) as amended, is hereby repealed and there are hereby reinstated all rights and privileges of the tribe or its members under Federal treaty, statute, or otherwise which may have been diminished or lost pursuant to such Act.
 
-**(c) Continuation of tribal rights and privileges** Nothing contained in this subchapter shall diminish any rights or privileges enjoyed by the tribe or its members now or prior to June 17, 1954, under Federal treaty, statute, or otherwise, which are now inconsistent with the provisions of this subchapter.
+**(c) Continuation of tribal rights and privileges** Nothing contained in this subchapter shall diminish any rights or privileges enjoyed by the tribe or its members now or prior to June 17, 1954, under Federal treaty, statute, or otherwise, which are not inconsistent with the provisions of this subchapter.
 
 **(d) Continuation of property or contractual rights or obligations and tax obligations** Except as specifically provided in this subchapter, nothing contained in this subchapter shall alter any property rights or obligations, any contractual rights or obligations, including existing fishing rights, or any obligations for taxes already levied.
 
@@ -9808,6 +10122,8 @@ The Secretary shall distribute on a pro rata basis to the persons whose names ap
 
 #### References in Text
 Act of August 26, 1954, referred to in text, is act Aug. 26, 1954, ch. 935, 68 Stat. 801, known as the Supplemental Appropriation Act, 1955. That portion of the act which appropriated the funds referred to was not classified to the Code.
+
+The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 
 
 <a id="section-913"></a>
@@ -10412,7 +10728,7 @@ The Secretary of the Interior (hereinafter called the “Secretary”) is author
 ### Statutory Notes
 
 #### Short Title
-Pub. L. 86–339, Sept. 21, 1959, 73 Stat. 602, as amended, which enacted this subchapter, is popularly known as the “Aqua Caliente Equalization Act of 1959”.
+Pub. L. 86–339, Sept. 21, 1959, 73 Stat. 602, as amended, which enacted this subchapter, is popularly known as the “Agua Caliente Equalization Act of 1959”.
 
 #### Expiration of Restriction on Distribution of Revenues From Mineral Springs Parcel
 Pub. L. 105–308, Oct. 30, 1998, 112 Stat. 2932, provided that: “SECTION 1. FINDINGS.“Congress finds that—“(1) among its purposes, the Act entitled ‘An Act to provide for the equalization of allotments on the Agua Caliente (Palm Springs) Reservation in California, and for other purposes’, approved September 21, 1959, commonly known as the ‘Agua Caliente Equalization Act of 1959’ ([25 U.S.C. 951](./chapter-014-miscellaneous.md#section-951) et seq.) (referred to in this section as the ‘Act’) was intended to provide for a reasonable degree of equalization of the value of allotments made to members of the Agua Caliente Band of Cahuilla Indians; “(2) the Act was enacted in response to litigation in Federal courts in Segundo, et al. v. United States, 123 F. Supp. 554 (1954); “(3) the case referred to in paragraph (2) was appealed under the case name United States v. Pierce, 235 F. 2d 885 (1956) and that case affirmed the entitlement of certain members of the Band to allotments of approximately equal value to lands allotted to other members of the Band; “(4)(A) to achieve the equalization referred to in paragraph (3), section 3 of the Act ([25 U.S.C. 953](./chapter-014-miscellaneous.md#section-953)) provided for the allotment or sale of all remaining tribal lands, with the exception of several specifically designated parcels, including 2 parcels in the Mineral Springs area known as parcel A and parcel B; “(B) section 3 of the Act restricted the distribution of any net rents, profits, or other revenues derived from parcel B to members of the Band and their heirs entitled to equalization of the value of the allotments of those members; “(C) from 1959 through 1984, each annual budget of the Band, as approved by the Bureau of Indian Affairs, provided for expenditure of all revenues derived from both parcel A and parcel B solely for tribal governmental purposes; and “(D) as a result of the annual budgets referred to in subparagraph (C), no net revenues from parcel B were available for distribution to tribal members entitled to equalization under section 3 of the Act referred to in paragraph (1); “(5) by letter of December 6, 1961, the Director of the Sacramento Area Office of the Bureau of Indian Affairs informed the regional solicitor of the Bureau of Indian Affairs that the equalization of allotments on the Agua Caliente Reservation with respect to those members of the Band who were eligible for equalization had been completed using all available excess tribal land in a manner consistent with—“(A) the decree of the court in the case referred to in paragraph (2); and “(B) the Act; “(6) in 1968, the files of the Department of the Interior with respect to the case referred to in paragraph (3), the closure of which was contingent upon completion of the equalization program, were retired to the Federal Record Center, where they were subsequently destroyed; “(7) on March 16, 1983, the Secretary of the Interior published notice in the Federal Register that full equalization had been achieved within the meaning of section 7 of the Act ([25 U.S.C. 957](./chapter-014-miscellaneous.md#section-957)); “(8) section 7 of the Act states that ‘allotments in accordance with the provisions of this Act shall be deemed complete and full equalization of allotments on the Agua Caliente Reservation’; and “(9) the regulations governing the equalization of allotments under the Act referred to in paragraph (1) were rescinded by the Secretary, effective March 31, 1983. “SEC. 2. DEFINITIONS.“In this Act:“(1) Band.—The term ‘Band’ means the Agua Caliente Band. “(2) Parcel b.—The term ‘parcel B’ means the parcel of land in the Mineral Springs area referred to as ‘parcel B’ in section 3(b) of the Act entitled ‘An Act to provide for the equalization of allotments on the Agua Caliente (Palm Springs) Reservation in California, and for other purposes’, approved September 21, 1959, commonly known as the ‘Agua Caliente Equalization Act of 1959’ ([25 U.S.C. 953(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section953/b&num=0&edition=prelim)). “(3) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “SEC. 3. EQUALIZATION OF ALLOTMENTS.“(a) In General.—The full equalization of allotments within the meaning of section 7 of the Act entitled ‘An Act to provide for the equalization of allotments on the Agua Caliente (Palm Springs) Reservation in California, and for other purposes’, approved September 21, 1959, commonly known as the ‘Agua Caliente Equalization Act of 1959’ ([25 U.S.C. 957](./chapter-014-miscellaneous.md#section-957)) is deemed to have been completed. “(b) Expiration of Entitlement.—By reason of the achievement of the full equalization of allotments described in subsection (a), the entitlement of holders of equalized allotments to distribution of net revenues from parcel B under section 3(b) of the Act entitled ‘An Act to provide for the equalization of allotments on the Agua Caliente (Palm Springs) Reservation in California, and for other purposes’, approved September 21, 1959, commonly known as the ‘Agua Caliente Equalization Act of 1959’ ([25 U.S.C. 953(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section953/b&num=0&edition=prelim)) shall be deemed to have expired. “SEC. 4. REMOVAL OF RESTRICTION.“(a) In General.—[Amended [section 953(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section953/b&num=0&edition=prelim).] “(b) Applicability.—The amendment made by subsection (a) shall apply as if this section had been enacted on March 31, 1983. “(c) Subsequent Distributions.—Any per capita distribution of tribal revenues of the Band made after the date of enactment of this Act [Oct. 30, 1998] shall be made to all members of the Band in equal amounts.”
@@ -11309,6 +11625,11 @@ The Secretary of the Interior is authorized to prescribe rules and regulations t
 
 The Secretary of the Interior shall take the necessary steps to provide for the distribution and use of the money appropriated to the Miami Indians of Indiana and Oklahoma in satisfaction of judgments awarded by the Indian Claims Commission in dockets numbered 67 and 124, 124–A, and 251 as hereinafter provided.
 
+### Statutory Notes
+
+#### References in Text
+The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
+
 
 <a id="section-1112"></a>
 ## § 1112. Advances or expenditures from funds of Miami Tribe of Oklahoma; persons entitled
@@ -11950,7 +12271,7 @@ Act of July 22, 1969, referred to in text, is act July 22, 1969, Pub. L. 91–47
 
 <a id="section-1223"></a>
 ## § 1223. Distribution of shares
-**(a) Payments to enrollees, next of kin, or legatees** Except as provided is subsection (b) of this section, the Secretary shall distribute a share payable to a living enrollee directly to such enrollee and the Secretary shall distribute a per capita share of a deceased enrollee directly to his heirs or legatees upon proof of death and inheritance satisfactory to the Secretary, whose findings upon such proof shall be final and conclusive.
+**(a) Payments to enrollees, next of kin, or legatees** Except as provided in subsection (b) of this section, the Secretary shall distribute a share payable to a living enrollee directly to such enrollee and the Secretary shall distribute a per capita share of a deceased enrollee directly to his heirs or legatees upon proof of death and inheritance satisfactory to the Secretary, whose findings upon such proof shall be final and conclusive.
 
 **(b) Payments to minors or persons under legal disability** A share payable to a person under twenty-one years of age or to a person under legal disability shall be paid in accordance with such procedures, including the establishment of trusts, as the Secretary determines will adequately protect the best interest of such person.
 
@@ -12412,7 +12733,7 @@ The State of Texas shall exercise jurisdiction over civil causes of action and c
 ## § 1300b–16. Provision of Federal Indian services
 **(a) Eligibility for Federal Indian services** Notwithstanding any other provision of law authorizing the provision of special programs and services by the United States to Indians because of their status as Indians, the Band and its members in Maverick County, Texas shall be eligible for such programs and services without regard to the existence of a reservation, the residence of members of the Band on or near a reservation, or the compilation of the roll pursuant to [section 1300b–13(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1300b–13/a&num=0&edition=prelim).
 
-**(b) Cooperation with Mexican Government and joint funding agreements for meeting special agricultural needs of the Band** In providing services pursuant to subsection (a) of this section, the Secretary and the head of each department and agency shall consult and cooperate with appropriate officials or agencies of the Mexican Government to the greatest extent possible to ensure that such services meet the special tricultural needs of the Band and its members. Such consultation and cooperation may include, whenever practicable, joint funding agreements between such agency or department of the United States and the appropriate agencies and officials of the Mexican Government.
+**(b) Cooperation with Mexican Government and joint funding agreements for meeting special tricultural needs of the Band** In providing services pursuant to subsection (a) of this section, the Secretary and the head of each department and agency shall consult and cooperate with appropriate officials or agencies of the Mexican Government to the greatest extent possible to ensure that such services meet the special tricultural needs of the Band and its members. Such consultation and cooperation may include, whenever practicable, joint funding agreements between such agency or department of the United States and the appropriate agencies and officials of the Mexican Government.
 
 
 <a id="section-1300b-2"></a>
@@ -12747,7 +13068,7 @@ Section is comprised of section 7 of Pub. L. 105–387. Subsec. (d) of section 7
 
 <a id="section-1300d-3"></a>
 ## § 1300d–3. Upper Council Sioux
-**(a) Membership rolls; applications** The Devils Lake Sioux Tribe of North Dakota, and the Sisseton and Wahpeton Sioux Tribe of South Dakota, shall bring current their membership rolls of October 25, 1972. The Assiniboine and Sioux Tribes of the Fort Peck Reservation, Montana, shall prepare rolls of their members who are lineal descendants of the Sisseton and Wahpeton Mississippi Sioux Tribe, who were born on or prior to and are living on October 25, 1972, and who are entitled to enrollment on their respective membership rolls in accordance with the applicable rules and regulations of the tribe or group involved, using available, records and rolls at the local agency and area offices, and any other available records and rolls. Applications for enrollment must be filed with each group named in this section and such rolls shall be subject to approval of the Secretary of the Interior. The Secretary’s determination on all applications for enrollment shall be final.
+**(a) Membership rolls; applications** The Devils Lake Sioux Tribe of North Dakota, and the Sisseton and Wahpeton Sioux Tribe of South Dakota, shall bring current their membership rolls of October 25, 1972. The Assiniboine and Sioux Tribes of the Fort Peck Reservation, Montana, shall prepare rolls of their members who are lineal descendants of the Sisseton and Wahpeton Mississippi Sioux Tribe, who were born on or prior to and are living on October 25, 1972, and who are entitled to enrollment on their respective membership rolls in accordance with the applicable rules and regulations of the tribe or group involved, using available records and rolls at the local agency and area offices, and any other available records and rolls. Applications for enrollment must be filed with each group named in this section and such rolls shall be subject to approval of the Secretary of the Interior. The Secretary’s determination on all applications for enrollment shall be final.
 
 **(b) Roll of lineal descendants; applications** Subject to the Mississippi Sioux Tribes Judgment Fund Distribution Act of 1998 [[25 U.S.C. 1300d–21](./chapter-014-miscellaneous.md#section-1300d-21) et seq.], the Secretary of the Interior shall prepare a roll of the lineal descendants of the Sisseton and Wahpeton Mississippi Sioux Tribe who were born on or prior to and are living on October 25, 1972, whose names or the name of a lineal ancestor appears on any available records and rolls acceptable to the Secretary, and who are not members of any of the organized groups listed in subsection (a) of this section. Applications for enrollment must be filed with the Area Director, Bureau of Indian Affairs, Aberdeen, South Dakota. The Secretary’s determination on all applications for enrollment shall be final.
 
@@ -13215,7 +13536,7 @@ Act of June 18, 1934, referred to in subsec. (a), popularly known as the Indian 
 ## § 1300h–5. Land acquisition; establishment of Federal reservation
 **(a)** The Keweenaw Bay Indian Community is hereby authorized to convey, by deed to the United States in trust for the Band, all lands located in Gogebic County, Michigan, which, on September 8, 1988, are held in trust by the United States for the benefit of said community. The Secretary is hereby authorized and directed to approve and accept the deed with the expressed consent of the Keweenaw Bay Indian Community and the Band. Upon acceptance of the deed, all lands described therein shall constitute the reservation of the Band.
 
-**(b)** The Secretary may place such other land into trust for the benefit of the Band pursuant to the provisions of the Act of June 18, 1934 (48 Stat. 84) [[25 U.S.C. 461](./chapter-014-miscellaneous.md#section-461) et seq.], or any other Act: Provided, That any such land placed in trust which is located in Gogebic County, shall become part of the reservation.
+**(b)** The Secretary may place such other land into trust for the benefit of the Band pursuant to the provisions of the Act of June 18, 1934 (48 Stat. 84) 11 So in original. Probably should be “984)”. [[25 U.S.C. 461](./chapter-014-miscellaneous.md#section-461) et seq.], or any other Act: Provided, That any such land placed in trust which is located in Gogebic County, shall become part of the reservation.
 
 ### Statutory Notes
 
@@ -13552,7 +13873,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 **(d) Lump sum payment option**
 
-(1) Any person on the Settlement Roll may elect to receive a lump sum payment from the Settlement Fund and the Secretary shall pay to each such person the amount of $15,000 out of the Settlement Fund: Provided, That such individual completes a sworn affidavit certifying that he or she has been afforded the opportunity to participate in counseling which the Secretary, in consultation with the Hoopa Tribal Council or Yurok Transition Team, shall provide. Such counseling shall provide a comprehensive explanation of the effects of such election on the individual making such election, and on the tribal enrollment rights of that persons children and descendants who would otherwise be eligible for membership in either the Hoopa or Yurok Tribe.
+(1) Any person on the Settlement Roll may elect to receive a lump sum payment from the Settlement Fund and the Secretary shall pay to each such person the amount of $15,000 out of the Settlement Fund: Provided, That such individual completes a sworn affidavit certifying that he or she has been afforded the opportunity to participate in counseling which the Secretary, in consultation with the Hoopa Tribal Council or Yurok Transition Team, shall provide. Such counseling shall provide a comprehensive explanation of the effects of such election on the individual making such election, and on the tribal enrollment rights of that persons 11 So in original. Probably should be “person’s”. children and descendants who would otherwise be eligible for membership in either the Hoopa or Yurok Tribe.
 
 (2) The option to elect a lump sum payment under this section is provided solely as a mechanism to resolve the complex litigation and other special circumstances of the Hoopa Valley Reservation and the tribes of the reservation, and shall not be construed or treated as a precedent for any future legislation.
 

@@ -88,9 +88,8 @@ Pub. L. 96–499, title XI, § 1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–3
 
 1987—Subsec. (b)(2). Pub. L. 100–203 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘applicable percentage’ means—
 
-| “With respect to amount paid pur- |  |
+| “With respect to amount paid pursuant to bills first rendered: | The percentage is: |
 | --- | --- |
-| suant to bills first rendered: | The percentage is: |
 | During 1983, 1984, 1985, 1986, or 1987 | 3 |
 | During 1988 or thereafter | 0.” |
 
@@ -102,7 +101,7 @@ Pub. L. 96–499, title XI, § 1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–3
 
 | “Amounts paid pursuant to bills first rendered— | Percent— |
 | --- | --- |
-| “Before January 1, 1973 | 10 |
+| Before January 1, 1973 | 10 |
 | During 1973 | 9 |
 | During 1974 | 8 |
 | During 1975 | 7 |
@@ -467,15 +466,11 @@ For effective date of amendment made by Pub. L. 85–859, see section 133(b) of 
 
       (I) is not located within 75 miles of another airport which is not described in clause (i),
 
-      (II) is receiving essential air service subsidies as of the date of the enactment of this paragraph, or
+      (II) is receiving essential air service subsidies as of the date of Bthe enactment of this paragraph, or
 
       (III) is not connected by paved roads to another airport.
 
-  (C) *No phasein of reduced ticket tax* — In the case of transportation beginning before October 1, 1999—
-
-    (i) *In general* — Paragraph (5) shall not apply to any domestic segment beginning or ending at an airport which is a rural airport for the calendar year in which such segment begins or ends (as the case may be).
-
-    (ii) *Transportation involving multiple segments* — In the case of transportation involving more than 1 domestic segment at least 1 of which does not begin or end at a rural airport, the 7.5 percent rate applicable by reason of clause (i) shall be applied by taking into account only an amount which bears the same ratio to the amount paid for such transportation as the number of specified miles in domestic segments which begin or end at a rural airport bears to the total number of specified miles in such transportation.
+  (C) *Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(104)(A), Dec. 19, 2014, 128 Stat. 4053]*
 
 (2) **Amounts paid outside the United States** — In the case of amounts paid outside the United States for taxable transportation, the taxes imposed by subsections (a) and (b) shall apply only if such transportation begins and ends in the United States.
 
@@ -506,11 +501,7 @@ For effective date of amendment made by Pub. L. 85–859, see section 133(b) of 
 
   (D) *Special rule for amounts paid for domestic segments beginning after 2002* — If an amount is paid during a calendar year for a domestic segment beginning in a later calendar year, then the rate of tax under subsection (b) on such amount shall be the rate in effect for the calendar year in which such amount is paid.
 
-(5) **Rates of ticket tax for transportation beginning before October 1, 1999** — Subsection (a) shall be applied by substituting for “7.5 percent”—
-
-  (A) “9 percent” in the case of transportation beginning after September 30, 1997, and before October 1, 1998, and
-
-  (B) “8 percent” in the case of transportation beginning after September 30, 1998, and before October 1, 1999.
+(5) **Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(104)(B), Dec. 19, 2014, 128 Stat. 4053]**
 
 **(f) Exemption for certain uses** No tax shall be imposed under subsection (a) or (b) on air transportation—
 
@@ -558,6 +549,10 @@ The Airport and Airway Development Act of 1970, referred to in subsec. (f), is t
 The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (k)(1)(A)(i), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Amendments
+2014—Subsec. (e)(1)(C). Pub. L. 113–295, § 221(a)(104)(A), struck out subpar. (C), which provided for no phasein of reduced ticket tax for certain transportation
+
+Subsec. (e)(5). Pub. L. 113–295, § 221(a)(104)(B), struck out par. (5), which related to rates of ticket tax for transportation beginning before October 1, 1999.
+
 2012—Subsec. (j). Pub. L. 112–95, § 1103(c), added subsec. (j). Former subsec. (j) redesignated (k).
 
 Subsec. (j)(1)(A)(ii). Pub. L. 112–95, § 1101(b)(1), substituted “September 30, 2015” for “February 17, 2012”.
@@ -724,10 +719,13 @@ Subsec. (b). Act July 25, 1956, § 1, substituted “taxable transportation (as 
 
 Subsec. (d). Act July 25, 1956, § 4(b), substituted “Except as provided in section 4264, the” for “The”.
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective Date of 2012 Amendment
 Amendment by section 1101(b)(1) of Pub. L. 112–95 effective Feb. 18, 2012, see section 1101(c) of Pub. L. 112–95, set out as an Effective and Termination Dates of 2012 Amendment note under [section 4081 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4081).
 
-Pub. L. 112–95, title XI, § 1103(d)(3), Feb. 14, 2012, 126 Stat. 151, provided that: The amendments made by subsection (c) [amending this section] shall apply to taxable transportation provided after March 31, 2012.”
+Pub. L. 112–95, title XI, § 1103(d)(3), Feb. 14, 2012, 126 Stat. 151, provided that: “The amendments made by subsection (c) [amending this section] shall apply to taxable transportation provided after March 31, 2012.”
 
 Amendment by Pub. L. 112–91 effective Feb. 1, 2012, see section 2(c) of Pub. L. 112–91, set out as an Effective and Termination Dates of 2012 Amendment note under [section 4081 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4081).
 
@@ -1205,8 +1203,13 @@ Section 4273, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to registr
 
 <a id="section-4281"></a>
 ## § 4281. Small aircraft on nonestablished lines
+**(a) In general** The taxes imposed by sections 4261 and 4271 shall not apply to transportation by an aircraft having a maximum certificated takeoff weight of 6,000 pounds or less, except when such aircraft is operated on an established line or when such aircraft is a jet aircraft.
 
-The taxes imposed by sections 4261 and 4271 shall not apply to transportation by an aircraft having a maximum certificated takeoff weight of 6,000 pounds or less, except when such aircraft is operated on an established line or when such aircraft is a jet aircraft. For purposes of the preceding sentence, the term “maximum certificated takeoff weight” means the maximum such weight contained in the type certificate or airworthiness certificate. For purposes of this section, an aircraft shall not be considered as operated on an established line at any time during which such aircraft is being operated on a flight the sole purpose of which is sightseeing.
+**(b) Maximum certificated takeoff weight** For purposes of this section, the term “maximum certificated takeoff weight” means the maximum such weight contained in the type certificate or airworthiness certificate.
+
+**(c) Sightseeing** For purposes of this section, an aircraft shall not be considered as operated on an established line at any time during which such aircraft is being operated on a flight the sole purpose of which is sightseeing.
+
+**(d) Jet aircraft** For purposes of this section, the term “jet aircraft” shall not include any aircraft which is a rotorcraft or propeller aircraft.
 
 ### Statutory Notes
 
@@ -1214,11 +1217,16 @@ The taxes imposed by sections 4261 and 4271 shall not apply to transportation by
 A prior section 4281, act Aug. 16, 1954, ch. 736, 68A Stat. 508, related to tax on transportation of oil by pipeline, prior to repeal by Pub. L. 85–475, § 4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under [section 6415 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6415).
 
 #### Amendments
+2014—Pub. L. 113–295 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The taxes imposed by sections 4261 and 4271 shall not apply to transportation by an aircraft having a maximum certificated takeoff weight of 6,000 pounds or less, except when such aircraft is operated on an established line or when such aircraft is a jet aircraft. For purposes of the preceding sentence, the term ‘maximum certificated takeoff weight’ means the maximum such weight contained in the type certificate or airworthiness certificate. For purposes of this section, an aircraft shall not be considered as operated on an established line at any time during which such aircraft is being operated on a flight the sole purpose of which is sightseeing.”
+
 2012—Pub. L. 112–95 inserted “or when such aircraft is a jet aircraft” after “an established line” in first sentence.
 
 2005—Pub. L. 109–59 inserted at end “For purposes of this section, an aircraft shall not be considered as operated on an established line at any time during which such aircraft is being operated on a flight the sole purpose of which is sightseeing.”
 
 1982—Pub. L. 97–248 struck out “(as defined in section 4492(b))” after “certificated takeoff weight”, and inserted provision defining “maximum certificated takeoff weight”.
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–295, div. A, title II, § 204(b), Dec. 19, 2014, 128 Stat. 4025, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in section 1107 of the FAA Modernization and Reform Act of 2012 [Pub. L. 112–95].”
 
 #### Effective Date of 2012 Amendment
 Pub. L. 112–95, title XI, § 1107(b), Feb. 14, 2012, 126 Stat. 154, provided that: “The amendment made by this section [amending this section] shall apply to taxable transportation provided after March 31, 2012.”
@@ -1324,11 +1332,13 @@ Repeal effective on first day of first month which begins more than 90 days afte
 <a id="section-4293"></a>
 ## § 4293. Exemption for United States and possessions
 
-The Secretary of the Treasury may authorize exemption from the taxes imposed by subchapter A of chapter 31, section 4041, section 4051, chapter 32 (other than the taxes imposed by sections 4064 and 4121) and subchapter B of chapter 33, as to any particular article, or service or class of articles or services, to be purchased for the exclusive use of the United States, if he determines that the imposition of such taxes with respect to such articles or services, or class of articles or services will cause substantial burden or expense which can be avoided by granting tax exemption and that full benefit of such exemption, if granted, will accrue to the United States.
+The Secretary of the Treasury may authorize exemption from the taxes imposed by section 4041, section 4051, chapter 32 (other than the taxes imposed by sections 4064 and 4121) and subchapter B of chapter 33, as to any particular article, or service or class of articles or services, to be purchased for the exclusive use of the United States, if he determines that the imposition of such taxes with respect to such articles or services, or class of articles or services will cause substantial burden or expense which can be avoided by granting tax exemption and that full benefit of such exemption, if granted, will accrue to the United States.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Pub. L. 113–295 struck out “subchapter A of chapter 31,” after “imposed by”.
+
 1990—Pub. L. 101–508 inserted “subchapter A of chapter 31,” before “section 4041”.
 
 1988—Pub. L. 100–647 inserted reference to [section 4051 of this title](./chapter-031-retail-excise-taxes.md#section-4051).
@@ -1343,8 +1353,11 @@ Pub. L. 95–227 inserted “(other than the tax imposed by section 4121)” aft
 
 1970—Pub. L. 91–258 substituted “subchapter B” for “subchapters B and C”.
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective Date of 1990 Amendment
-Amendment by Pub. L. 101–508 effective Jan. 1, 1991, with exception for contracts binding on Sept. 30, 1990, and at all times thereafter, see section 11221(f) of Pub. L. 101–508, set out as an Effective Date note under [section 4001 of this title](./chapter-031-retail-excise-taxes.md#section-4001).
+Amendment by Pub. L. 101–508 effective Jan. 1, 1991, with exception for contracts binding on Sept. 30, 1990, and at all times thereafter, see section 11221(f) of Pub. L. 101–508, set out as a note under [section 4221 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4221).
 
 #### Effective Date of 1988 Amendment
 Pub. L. 100–647, title VI, § 6103(b), Nov. 10, 1988, 102 Stat. 3711, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 10, 1988].”

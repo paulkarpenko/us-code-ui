@@ -90,7 +90,7 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 <a id="section-304"></a>
 ## § 304. Enlistment oath
 
-The oath may be taken before any officer of the National Guard of the State or Territory, or of Puerto Rico, or the District of Columbia, as the case may be, or before any other person authorized by the law of the jurisdiction concerned to administer oaths of enlistment in the National Guard.
+Each person enlisting in the National Guard shall sign an enlistment contract and subscribe to the following oath:
 
 ### Statutory Notes
 

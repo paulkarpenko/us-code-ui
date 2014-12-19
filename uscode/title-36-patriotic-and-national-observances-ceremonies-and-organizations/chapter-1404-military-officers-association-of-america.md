@@ -20,7 +20,8 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (a), is
 
 <a id="section-140402"></a>
 ## § 140402. Purposes
-**(a) 11 So in original. No subsec. (b) has been enacted. General.—** The purposes of the corporation are as provided in its bylaws and articles of incorporation and include—
+
+The purposes of the corporation are as provided in its bylaws and articles of incorporation and include—
 
 (1) to inculcate and stimulate love of the United States and the flag;
 
@@ -39,6 +40,11 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (a), is
 (8) to present and support legislative proposals that provide for the fair and equitable treatment of members of the Armed Forces, including the National Guard and Reserves, military retirees, family members, survivors, and veterans; and
 
 (9) to encourage recruitment and appointment in the Armed Forces.
+
+### Statutory Notes
+
+#### Amendments
+2014—Pub. L. 113–237 struck out subsec. (a) designation and heading “General.” before “The purposes” in introductory provisions.
 
 
 <a id="section-140403"></a>

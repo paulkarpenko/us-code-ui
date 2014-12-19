@@ -401,7 +401,8 @@ Upon a determination by the Secretary concerned that a member of the armed force
 
 (4) based upon accepted medical principles, the disability is or may be of a permanent nature; and
 
-(5) the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and, in the case of a disability incurred before October 5, 1999, was the proximate result of performing active duty or inactive-duty training or of traveling directly to or from the place at which such duty is performed. However, if the member is eligible for transfer to the inactive status list under [section 1209 of this title](./chapter-061-retirement-or-separation-for-physical-disability.md#section-1209), and so elects, he shall be transferred to that list instead of being separated.
+(5) the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and, in the case of a disability incurred before October 5, 1999, was the proximate result of performing active duty or inactive-duty training or of traveling directly to or from the place at which such duty is performed.
+However, if the member is eligible for transfer to the inactive status list under [section 1209 of this title](./chapter-061-retirement-or-separation-for-physical-disability.md#section-1209), and so elects, he shall be transferred to that list instead of being separated.
 
 ### Statutory Notes
 
@@ -981,6 +982,9 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date of 1976 Amendment
 Pub. L. 94–225, § 2(b), Mar. 4, 1976, 90 Stat. 202, provided that: “The amendments made by subsection (a) of this section [amending this section] shall apply with respect to unfitness determinations made on or after the date of the enactment of this Act [Mar. 4, 1976] by the Secretaries of the military departments concerned for purposes of sections 1201, 1202, and 1203 of title 10, United States Code.”
 
+#### Applicability of Subsection (d)
+Subsec. (d) of this section inapplicable with respect to flag officers of the Coast Guard during any period in which the Coast Guard is not operating as a service in the Navy, see [section 296 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section296&num=0&edition=prelim), Coast Guard.
+
 #### Ex. Ord. No. 10122. Regulations Governing Disability Pay, Hospitalization and Reexamination
 Ex. Ord. No. 10122, Apr. 14, 1950, 15 F.R. 2173, as amended by Ex. Ord. 10400, Sept. 27, 1952, 17 F.R. 8648; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Ex. Ord. No. 11733, July 30, 1973, 38 F.R. 20431 provided:
 
@@ -1076,17 +1080,16 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
   (C) Each release from active duty under subparagraph (B) shall be thoroughly documented.
 
-(3) The requirements in paragraph (1) shall expire on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010.
+(3) The requirements in paragraph (1) shall expire on October 28, 2014.
 
 ### Statutory Notes
 
 #### 1962 Act
 Sections 1218 and 1219 are restated, without substantive change, to conform to the style adopted for title 10.
 
-#### References in Text
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
-
 #### Amendments
+2014—Subsec. (d)(3). Pub. L. 113–291 substituted “on October 28, 2014” for “on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010”.
+
 2009—Subsec. (d). Pub. L. 111–84 added subsec. (d).
 
 1989—Subsec. (a)(1). Pub. L. 101–189, § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.

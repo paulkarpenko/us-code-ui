@@ -14,7 +14,7 @@ The Secretary of the Interior, hereinafter called the Secretary, conjointly with
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 #### Authorization of Appropriations
 Section 8 of act July 25, 1947, authorized appropriation of such sums as might be necessary to carry out the purposes of this chapter.
@@ -23,7 +23,7 @@ Section 8 of act July 25, 1947, authorized appropriation of such sums as might b
 <a id="section-364a"></a>
 ## § 364a. Board on Geographic Names; establishment and membership; appointment and term of office
 
-There is established a Board on Geographic Names, hereinafter called the Board. The membership of the Board shall include one representative from each of the Departments of State, Defense, Interior, Agriculture, and Commerce, and from the Government Printing Office, the United States Postal Service, and the Library of Congress. The Board may also include representatives from such Federal agencies as the Secretary, upon recommendation of the Board, shall from time to time find desirable, even though these agencies are in the departments otherwise represented on the Board. The members of the Board shall be appointed by the respective heads of the departments or independent agencies that they represent. Each member shall be appointed for a two-year term but may be reappointed to successive terms. The members of the Board shall serve without additional compensation. The Board shall nominate a Chairman to be appointed by the Secretary, and shall establish such working committees as are found desirable.
+There is established a Board on Geographic Names, hereinafter called the Board. The membership of the Board shall include one representative from each of the Departments of State, Defense, Interior, Agriculture, and Commerce, and from the Government Publishing Office, the United States Postal Service, and the Library of Congress. The Board may also include representatives from such Federal agencies as the Secretary, upon recommendation of the Board, shall from time to time find desirable, even though these agencies are in the departments otherwise represented on the Board. The members of the Board shall be appointed by the respective heads of the departments or independent agencies that they represent. Each member shall be appointed for a two-year term but may be reappointed to successive terms. The members of the Board shall serve without additional compensation. The Board shall nominate a Chairman to be appointed by the Secretary, and shall establish such working committees as are found desirable.
 
 ### Statutory Notes
 
@@ -31,7 +31,9 @@ There is established a Board on Geographic Names, hereinafter called the Board. 
 1949—Act Aug. 10, 1949, established Department of Defense as an Executive Department and reduced Departments of the Army, Navy, and Air Force to status of military departments in Department of Defense.
 
 #### Change of Name
-“United States Postal Service” substituted in text for “Post Office Department” pursuant to Pub. L. 91–375, §§ 4(a), 6(o), Aug. 12, 1970, 84 Stat. 773, 783, which are set out as notes preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service, and under [section 201 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section201&num=0&edition=prelim), respectively, which abolished Post Office Department, transferred its functions to United States Postal Service, and provided that references in other laws to Post Office Department be considered a reference to United States Postal Service.
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
+“United States Postal Service” substituted for “Post Office Department” in text on authority of Pub. L. 91–375, §§ 4(a), 6(o), Aug. 12, 1970, 84 Stat. 773, 783, which are set out as notes preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service, and under [section 201 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section201&num=0&edition=prelim), respectively, which abolished Post Office Department, transferred its functions to United States Postal Service, and provided that references in other laws to Post Office Department be considered a reference to United States Postal Service.
 
 
 <a id="section-364b"></a>
@@ -48,7 +50,7 @@ The Secretary shall cause such studies and investigations to be made and such re
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 #### Termination of Advisory Committees
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.

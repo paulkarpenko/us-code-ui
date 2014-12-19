@@ -28,7 +28,7 @@ source: >-
 
 (2) For purposes of pay (other than the rate of pay of the Counsel and Deputy Counsel) and employment benefits, right, and privileges, all personnel of the Office shall be treated as employees of the Senate.
 
-**(c) Consultants** In carrying out the functions of the Office, the Counsel may procure the temporary (not to exceed one year) or intermittent services of individual consultants (including outside counsel), or organizations thereof, in the same manner and under the same conditions as a standing committee of the Senate may procure such services under [section 72a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section72a/i&num=0&edition=prelim).
+**(c) Consultants** In carrying out the functions of the Office, the Counsel may procure the temporary (not to exceed one year) or intermittent services of individual consultants (including outside counsel), or organizations thereof, in the same manner and under the same conditions as a standing committee of the Senate may procure such services under [section 4301(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4301/i&num=0&edition=prelim).
 
 **(d) Policies and procedures** The Counsel may establish such policies and procedures as may be necessary to carry out the provisions of this chapter.
 
@@ -39,16 +39,16 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b)(1), (d), and (e), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 118a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-118a), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
+This chapter, referred to in subsecs. (b)(1), (d), and (e), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 5504 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5504), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 
 #### Effective Date
-Pub. L. 95–521, title VII, § 717, Oct. 26, 1978, 92 Stat. 1885, provided that: “This title [enacting this chapter, [section 118a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-118a), [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section] shall take effect on January 3, 1979.”
+Pub. L. 95–521, title VII, § 717, Oct. 26, 1978, 92 Stat. 1885, provided that: “This title [enacting this chapter, [section 5504 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5504), [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section] shall take effect on January 3, 1979.”
 
 #### Separability
-Pub. L. 95–521, title VII, § 715, Oct. 26, 1978, 92 Stat. 1884, provided that: “If any part of this title or any amendment made by this title [enacting this chapter, [section 118a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-118a), [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section] is held invalid, the remainder of the title and any amendment made by this title shall not be affected thereby. If any provision of any part of this title or of any amendment made by this title, or the application thereof to any person or circumstance is held invalid, the provisions of other parts and of any amendment made by this title and their application to other persons or circumstances shall not be affected thereby.”
+Pub. L. 95–521, title VII, § 715, Oct. 26, 1978, 92 Stat. 1884, provided that: “If any part of this title or any amendment made by this title [enacting this chapter, [section 5504 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5504), [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section] is held invalid, the remainder of the title and any amendment made by this title shall not be affected thereby. If any provision of any part of this title or of any amendment made by this title, or the application thereof to any person or circumstance is held invalid, the provisions of other parts and of any amendment made by this title and their application to other persons or circumstances shall not be affected thereby.”
 
 #### Increases in Compensation
-Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under [section 60a–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60a-1).
+Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
 
 
 <a id="section-288a"></a>
@@ -70,7 +70,7 @@ Increases in compensation for Senate officers and employees under authority of F
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 118a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-118a), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
+This chapter, referred to in subsec. (b), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 5504 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5504), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 
 
 <a id="section-288b"></a>
@@ -92,22 +92,22 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 
 <a id="section-288c"></a>
 ## § 288c. Defending the Senate, committee, subcommittee, member, officer, or employee of Senate
-**(a)** Except as otherwise provided in subsection (b) of this section, when directed to do so pursuant to [section 288b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section288b/a&num=0&edition=prelim), the Counsel shall—
+**(a)** Except as otherwise provided in subsection (b), when directed to do so pursuant to [section 288b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section288b/a&num=0&edition=prelim), the Counsel shall—
 
 (1) defend the Senate, a committee, subcommittee, Member, officer, or employee of the Senate in any civil action pending in any court of the United States or of a State or political subdivision thereof, in which the Senate, such committee, subcommittee, Member, officer, or employee is made a party defendant and in which there is placed in issue the validity of any proceeding of, or action, including issuance of any subpena or order, taken by the Senate, or such committee, subcommittee, Member, officer, or employee in its or his official or representative capacity; or
 
 (2) defend the Senate or a committee, subcommittee, Member, officer, or employee of the Senate in any proceeding with respect to any subpena or order directed to the Senate or such committee, subcommittee, Member, officer, or employee in its or his official or representative capacity.
 
-**(b)** Representation of a Member, officer, or employee under subsection (a) of this section shall be undertaken by the Counsel only upon the consent of such Member, officer, or employee.
+**(b)** Representation of a Member, officer, or employee under subsection (a) shall be undertaken by the Counsel only upon the consent of such Member, officer, or employee.
 
 
 <a id="section-288d"></a>
 ## § 288d. Enforcement of Senate subpena or order
 **(a) Institution of civil actions** When directed to do so pursuant to [section 288b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section288b/b&num=0&edition=prelim), the Counsel shall bring a civil action under any statute conferring jurisdiction on any court of the United States (including [section 1365 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1365&num=0&edition=prelim)), to enforce, to secure a declaratory judgment concerning the validity of, or to prevent a threatened failure or refusal to comply with, any subpena or order issued by the Senate or a committee or a subcommittee of the Senate authorized to issue a subpena or order.
 
-**(b) Actions in name of committees and subcommittees** Any directive to the Counsel to bring a civil action pursuant to subsection (a) of this section in the name of a committee or subcommittee of the Senate shall, for such committee or subcommittee, constitute authorization to bring such action within the meaning of any statute conferring jurisdiction on any court of the United States.
+**(b) Actions in name of committees and subcommittees** Any directive to the Counsel to bring a civil action pursuant to subsection (a) in the name of a committee or subcommittee of the Senate shall, for such committee or subcommittee, constitute authorization to bring such action within the meaning of any statute conferring jurisdiction on any court of the United States.
 
-**(c) Consideration of resolutions authorizing actions** It shall not be in order in the Senate to consider a resolution to direct the Counsel to bring a civil action pursuant to subsection (a) of this section in the name of a committee or subcommittee unless—
+**(c) Consideration of resolutions authorizing actions** It shall not be in order in the Senate to consider a resolution to direct the Counsel to bring a civil action pursuant to subsection (a) in the name of a committee or subcommittee unless—
 
 (1) such resolution is reported by a majority of the members voting, a majority being present, of such committee or committee of which such subcommittee is a subcommittee, and
 
@@ -121,13 +121,13 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 
   (D) the comparative effectiveness of bringing a civil action under this section, certification of a criminal action for contempt of Congress, and initiating a contempt proceeding before the Senate.
 
-**(d) Rules of Senate** The provisions of subsection (c) of this section are enacted—
+**(d) Rules of Senate** The provisions of subsection (c) are enacted—
 
 (1) as an exercise of the rulemaking power of the Senate, and, as such, they shall be considered as part of the rules of the Senate, and such rules shall supersede any other rule of the Senate only to the extent that rule is inconsistent therewith; and
 
 (2) with full recognition of the constitutional right of the Senate to change such rules (so far as relating to the procedure in the Senate) at any time, in the same manner, and to the same extent as in the case of any other rule of the Senate.
 
-**(e) Committee reports** A report filed pursuant to subsection (c)(2) of this section shall not be receivable in any court of law to the extent such report is in compliance with such subsection.
+**(e) Committee reports** A report filed pursuant to subsection (c)(2) shall not be receivable in any court of law to the extent such report is in compliance with such subsection.
 
 **(f) Omitted**
 
@@ -150,7 +150,7 @@ Subsec. (f) of this section amended title 28 by adding section 1364 and by addin
 ## § 288e. Intervention or appearance
 **(a) Actions or proceedings** When directed to do so pursuant to [section 288b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section288b/c&num=0&edition=prelim), the Counsel shall intervene or appear as amicus curiae in the name of the Senate, or in the name of an officer, committee, subcommittee, or chairman of a committee or subcommittee of the Senate in any legal action or proceeding pending in any court of the United States or of a State or political subdivision thereof in which the powers and responsibilities of Congress under the Constitution of the United States are placed in issue. The Counsel shall be authorized to intervene only if standing to intervene exists under section 2 of article III of the Constitution of the United States.
 
-**(b) Notification; publication** The Counsel shall notify the Joint Leadership Group of any legal action or proceeding in which the Counsel is of the opinion that intervention or appearance as amicus curiae under subsection (a) of this section is in the interest of the Senate. Such notification shall contain a description of the legal action or proceeding together with the reasons that the Counsel is of the opinion that intervention or appearance as amicus curiae is in the interest of the Senate. The Joint Leadership Group shall cause said notification to be published in the Congressional Record for the Senate.
+**(b) Notification; publication** The Counsel shall notify the Joint Leadership Group of any legal action or proceeding in which the Counsel is of the opinion that intervention or appearance as amicus curiae under subsection (a) is in the interest of the Senate. Such notification shall contain a description of the legal action or proceeding together with the reasons that the Counsel is of the opinion that intervention or appearance as amicus curiae is in the interest of the Senate. The Joint Leadership Group shall cause said notification to be published in the Congressional Record for the Senate.
 
 **(c) Powers and responsibilities of Congress** The Counsel shall limit any intervention or appearance as amicus curiae in an action or proceeding to issues relating to the powers and responsibilities of Congress.
 
@@ -184,7 +184,7 @@ When directed to do so pursuant to [section 288b(d) of this title](https://uscod
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(3) and (c), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 118a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-118a), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
+This chapter, referred to in subsecs. (a)(3) and (c), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 5504 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5504), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 
 #### Amendments
 2004—Subsec. (a)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
@@ -212,7 +212,7 @@ In performing any function under this chapter, the Counsel shall defend vigorous
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 118a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-118a), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 5504 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5504), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 
 
 <a id="section-288i"></a>
@@ -221,7 +221,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **(b) Solution; publication in Congressional Record; review** Upon receipt of such notification, the members of the Joint Leadership Group shall recommend the action to be taken to avoid or resolve the conflict or inconsistency. If such recommendation is made by a two-thirds vote, the Counsel shall take such steps as may be necessary to resolve the conflict or inconsistency as recommended. If not, the members of the Joint Leadership Group shall cause the notification of conflict or inconsistency and recommendation with respect to resolution thereof to be published in the Congressional Record of the Senate. If the Senate does not direct the Counsel within fifteen days from the date of publication in the Record to resolve the conflict in another manner, the Counsel shall take such action as may be necessary to resolve the conflict or inconsistency as recommended. Any instruction or determination made pursuant to this subsection shall not be reviewable in any court of law.
 
-**(c) Computation of period following publication** For purposes of the computation of the fifteen day period in subsection (b) of this section—
+**(c) Computation of period following publication** For purposes of the computation of the fifteen day period in subsection (b)—
 
 (1) continuity of session is broken only by an adjournment of Congress sine die; and
 
@@ -232,7 +232,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 118a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-118a), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 5504 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5504), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 
 
 <a id="section-288j"></a>
@@ -260,7 +260,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 118a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-118a), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
+This chapter, referred to in subsec. (b), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 5504 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5504), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 
 
 <a id="section-288k"></a>
@@ -283,7 +283,7 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 2002—Subsec. (b). Pub. L. 107–273 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Attorney General shall notify the Counsel with respect to any proceeding in which the United States is a party of any determination by the Attorney General or Solicitor General not to appeal any court decision affecting the constitutionality of an Act or joint resolution of Congress within such time as will enable the Senate to direct the Counsel to intervene as a party in such proceeding pursuant to [section 288e of this title](./chapter-9d-office-of-senate-legal-counsel.md#section-288e).”
 
 #### Effective Date of 2003 Amendment
-Amendment by Pub. L. 108–7 effective as if included in the enactment of the 21st Century Department of Justice Appropriations Authorization Act, Pub. L. 107–273, see section 110(c) of Pub. L. 108–7, set out as a note under [section 130f of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-130f).
+Amendment by Pub. L. 108–7 effective as if included in the enactment of the 21st Century Department of Justice Appropriations Authorization Act, Pub. L. 107–273, see section 110(c) of Pub. L. 108–7, set out as a note under [section 5571 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5571).
 
 
 <a id="section-288l"></a>
@@ -297,13 +297,13 @@ Amendment by Pub. L. 108–7 effective as if included in the enactment of the 21
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b) and (c), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 118a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-118a), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 5504 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5504), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 
 
 <a id="section-288m"></a>
 ## § 288m. Contingent fund
 
-The expenses of the Office shall be paid from the contingent fund of the Senate in accordance with [section 68 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-68), and upon vouchers approved by the Counsel.
+The expenses of the Office shall be paid from the contingent fund of the Senate in accordance with [section 6503 of this title](./chapter-065-senate-officers-and-administration.md#section-6503), and upon vouchers approved by the Counsel.
 
 
 <a id="section-288n"></a>

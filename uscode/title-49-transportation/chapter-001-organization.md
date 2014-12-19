@@ -823,17 +823,7 @@ Pub. L. 112–141, div. C, title I, § 31401, July 6, 2012, 126 Stat. 772, provi
 
     (iii) *Quorum.—* — Three members of the Committee shall constitute a quorum. A majority of members present and voting shall be required for the Committee to take action.
 
-  (H) *Reports.—*
-
-    (i) *Annual.—* — The Committee shall each year report with respect to the conduct of its responsibilities under this title to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
-
-    (ii) *Additional report.—* — If a determination by the Committee under subparagraph (D)(i) that the organization and operation of the air traffic control system are not allowing the Administration to carry out its mission, the Committee shall report such determination to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
-
-    (iii) *Action of administrator on report.—* — Not later than 60 days after the date of a report of the Committee under this subparagraph, the Administrator shall take action with respect to such report. If the Administrator overturns a recommendation of the Committee, the Administrator shall report such action to the President, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
-
-    (iv) *Comptroller general’s report.—* — Not later than April 30, 2003, the Comptroller General of the United States shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the success of the Committee in improving the performance of the air traffic control system.
-
-  (I) *Authorization.—* — There are authorized to be appropriated to the Committee such sums as may be necessary for the Committee to carry out its activities.
+  (H) *Authorization.—* — There are authorized to be appropriated to the Committee such sums as may be necessary for the Committee to carry out its activities.
 
 (8) **Air traffic control system defined.—** — In this section, the term “air traffic control system” has the meaning such term has under section 40102(a).
 
@@ -1075,6 +1065,8 @@ The date of enactment of the Vision 100—Century of Aviation Reauthorization Ac
 The Ethics in Government Act of 1978, referred to in subsec. (p)(6)(I)(i), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
+2014—Subsec. (p)(7)(H), (I). Pub. L. 113–188 redesignated subpar. (I) as (H) and struck out former subsec. (H) which related to reports and other actions by the Air Traffic Services Committee, Administrator, and Comptroller General.
+
 2012—Subsec. (b). Pub. L. 112–166, § 2(k)(2)(A), substituted “, who shall be appointed” for “. The Administration has a Deputy Administrator. They are appointed”.
 
 Subsec. (d)(1). Pub. L. 112–166, § 2(k)(2)(B), substituted “The Administration has a Deputy Administrator, who shall be appointed by the President. In making an appointment, the President shall consider the fitness of the appointee to efficiently carry out the duties and powers of the office. The Deputy Administrator shall” for “The Deputy Administrator must”.
@@ -1802,8 +1794,8 @@ Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as
 
 
 <a id="section-112"></a>
-## § 112. Research and Innovative Technology Administration
-**(a) Establishment.—** The Research and Innovative Technology Administration shall be an administration in the Department of Transportation.
+## § 112. Office of the Assistant Secretary for Research and Technology of the Department of Transportation
+**(a) Establishment.—** The Office of the Assistant Secretary for Research and Technology of the Department of Transportation shall be an administration in the Department of Transportation.
 
 **(b) Administrator.—**
 
@@ -1881,13 +1873,20 @@ Subsec. (e). Pub. L. 108–426, § 4(a)(4), struck out heading and text of subse
 
 1994—Subsec. (e). Pub. L. 103–429 substituted “October 24, 1992” for “the date of the enactment of this section”.
 
+#### Change of Name
+“Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in section catchline and subsec. (a) on authority of title I of div. L. of Pub. L. 113–76, set out in part as a note below.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### National Highway Traffic Safety Administration Programs Administered by Secretary of Transportation
-Pub. L. 108–426, § 4(b), Nov. 30, 2004, 118 Stat. 2425, provided that: “(1) In general.—Nothing in this Act [see Short Title of 2004 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101)] shall grant any authority to the Research and Innovative Technology Administration over research and other programs, activities, standards, or regulations administered by the Secretary of Transportation through the National Highway Traffic Safety Administration. “(2) Applicability.—Paragraph (1) shall not apply to the research and other programs, activities, standards, or regulations provided for in highway and traffic safety programs, administered by the Secretary through the National Highway Traffic Safety Administration, in title 23, United States Code, and chapter 303 of title 49, United States Code, as in effect on the date of enactment of this Act [Nov. 30, 2004].”
+Pub. L. 108–426, § 4(b), Nov. 30, 2004, 118 Stat. 2425, as amended by Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574, provided that: “(1) In general.—Nothing in this Act [see Short Title of 2004 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101)] shall grant any authority to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation over research and other programs, activities, standards, or regulations administered by the Secretary of Transportation through the National Highway Traffic Safety Administration. “(2) Applicability.—Paragraph (1) shall not apply to the research and other programs, activities, standards, or regulations provided for in highway and traffic safety programs, administered by the Secretary through the National Highway Traffic Safety Administration, in title 23, United States Code, and chapter 303 of title 49, United States Code, as in effect on the date of enactment of this Act [Nov. 30, 2004].”
 
-#### Transfer of Duties and Powers of Research and Special Programs Administration
+#### Transfer of Duties and Powers
+Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574, provided in part: “That notwithstanding any other provision of law, the powers and duties, functions, authorities and personnel of the Research and Innovative Technology Administration are hereby transferred to the Office of the Assistant Secretary for Research and Technology in the Office of the Secretary: Provided further, That notwithstanding [section 102 of title 49](./chapter-001-organization.md#section-102) and [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), United States Code, there shall be an Assistant Secretary for Research and Technology within the Office of the Secretary, appointed by the President with the advice and consent of the Senate, to lead such office: Provided further, That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.”
+
+[Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2696, provided in part: “That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.” ]
+
 Pub. L. 108–426, § 4(d), Nov. 30, 2004, 118 Stat. 2426, provided that: “The authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of title 49, United States Code, is transferred to the Administrator of the Research and Innovative Technology Administration.”
 
 For transfer of authority of the Research and Special Programs Administration exercised under chapters 51, 57, 61, 601, and 603 of this title to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under [section 108 of this title](./chapter-001-organization.md#section-108).

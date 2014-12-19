@@ -21,7 +21,7 @@ For the purpose of this chapter—
 
   (D) the Library of Congress;
 
-  (E) the Government Printing Office; and
+  (E) the Government Publishing Office; and
 
   (F) the government of the District of Columbia;
 
@@ -76,6 +76,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 1982—Par. (1)(C). Pub. L. 97–258 substituted “chapter 91” for “sections 846–852 or 856–859”.
 
 1967—Par. (2)(B). Pub. L. 90–206 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in par. (1)(E) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 1967 Amendment
 Amendment by Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as an Effective Date note under [section 3110 of this title](./chapter-031-authority-for-employment.md#section-3110).

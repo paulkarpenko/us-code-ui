@@ -927,16 +927,18 @@ Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for “
   (B) is enrolled in a graduate training program, fails to complete such training program, and does not receive a waiver from the Secretary under subsection (b)(1)(B)(ii) of this section,
   shall be liable, in lieu of any service obligation arising under such contract, to the United States for the amount which has been paid on such individual’s behalf under the contract.
 
-(2) If, for any reason not specified in paragraph (1), an individual breaches his written contract under this section by failing either to begin, or complete, such individual’s period of obligated service in accordance with subsection (f) of this section, the United States shall be entitled to recover from such individual an amount to be determined in accordance with the following formula: A=3Z(t-s/t) in which—
+(2) If, for any reason not specified in paragraph (1), an individual breaches his written contract under this section by failing either to begin, or complete, such individual’s period of obligated service in accordance with subsection (f) of this section, the United States shall be entitled to recover from such individual an amount to be determined in accordance with the following formula:
+A=3Z(t-s/t)
+in which—
 
-  (A) “A” is the amount the United States is entitled to recover;
+(A) “A” is the amount the United States is entitled to recover;
 
-  (B) “Z” is the sum of the amounts paid under this section to, or on behalf of, the individual and the interest on such amounts which would be payable if, at the time the amounts were paid, they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States;
+(B) “Z” is the sum of the amounts paid under this section to, or on behalf of, the individual and the interest on such amounts which would be payable if, at the time the amounts were paid, they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States;
 
-  (C) “t” is the total number of months in the individual’s period of obligated service in accordance with subsection (f) of this section; and
+(C) “t” is the total number of months in the individual’s period of obligated service in accordance with subsection (f) of this section; and
 
-  (D) “s” is the number of months of such period served by such individual in accordance with this section.
-  Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to [section 1395ccc of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ccc&num=0&edition=prelim).
+(D) “s” is the number of months of such period served by such individual in accordance with this section.
+Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to [section 1395ccc of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ccc&num=0&edition=prelim).
 
 (3)
 
@@ -6566,7 +6568,8 @@ The Service shall provide funds for health care programs and facilities operated
 
 (3) for cost-of-living increases for employees, and
 
-(4) for any other expenses relating to the provision of health services, on the same basis as such funds are provided to programs and facilities operated directly by the Service.
+(4) for any other expenses relating to the provision of health services,
+on the same basis as such funds are provided to programs and facilities operated directly by the Service.
 
 ### Statutory Notes
 

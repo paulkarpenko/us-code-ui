@@ -290,6 +290,9 @@ Subsec. (b)(1) to (3). Pub. L. 112–239, § 2851(b), added pars. (1) and (2) an
 
 Subsec. (d). Pub. L. 112–239, § 2851(c), added subsec. (d).
 
+#### Notification of Necessary Assessments or Studies
+Pub. L. 113–66, div. A, title X, § 1074(b), Dec. 26, 2013, 127 Stat. 870, provided that: “The Secretary of the Army, when making a congressional notification in accordance with [section 993 of title 10](./chapter-050-miscellaneous-command-responsibilities.md#section-993), United States Code, shall include the Secretary’s assessment of whether or not the changes covered by the notification require an Environmental Assessment or Environmental Impact Statement in accordance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), and, if an assessment or study is required, the plan for conducting such assessment or study.”
+
 
 <a id="section-994"></a>
 ## § 994. Military working dogs: veterinary care for retired military working dogs

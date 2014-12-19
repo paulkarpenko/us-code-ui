@@ -124,7 +124,7 @@ Subsec. (c). Pub. L. 97–34, § 402(a), (b)(1), designated existing provision a
 Pub. L. 112–240, title I, § 101(c)(3), Jan. 2, 2013, 126 Stat. 2318, provided that: “(A) In general.—Except as otherwise provided by in this paragraph, the amendments made by this subsection [amending this section and [section 2010 of this title](./chapter-011-estate-tax.md#section-2010)] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2012. “(B) Technical correction.—The amendment made by paragraph (2) [amending [section 2010 of this title](./chapter-011-estate-tax.md#section-2010)] shall take effect as if included in the amendments made by section 303 of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 [Pub. L. 111–312].”
 
 #### Effective Date of 2010 Amendment
-Pub. L. 111–312, title III, § 302(f), Dec. 17, 2010, 124 Stat. 3302, provided that: “Except as otherwise provided in this subsection [probably should be “section”], the amendments made by this section [amending this section and sections 2010, 2502, 2505 and 2511 of this title] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2009.”
+Pub. L. 111–312, title III, § 302(f), Dec. 17, 2010, 124 Stat. 3302, as amended by Pub. L. 113–295, div. A, title II, § 206(b)(2), Dec. 19, 2014, 128 Stat. 4027, provided that: “Except as otherwise provided in this section, the amendments made by this section [amending this section and sections 2010, 2502, 2505 and 2511 of this title] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2009.”
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–16, title V, § 511(f)(1), (2), June 7, 2001, 115 Stat. 71, provided that: “(1) Subsections (a) and (b).—The amendments made by subsections (a) and (b) [amending this section] shall apply to estates of decedents dying, and gifts made, after December 31, 2001. “(2) Subsection (c).—The amendment made by subsection (c) [amending this section] shall apply to estates of decedents dying, and gifts made, after December 31, 2002.”
@@ -297,107 +297,14 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 
 <a id="section-2011"></a>
-## § 2011. Credit for State death taxes
-**(a) In general** The tax imposed by section 2001 shall be credited with the amount of any estate, inheritance, legacy, or succession taxes actually paid to any State or the District of Columbia, in respect of any property included in the gross estate (not including any such taxes paid with respect to the estate of a person other than the decedent).
-
-**(b) Amount of credit**
-
-(1) **In general** — Except as provided in paragraph (2), the credit allowed by this section shall not exceed the appropriate amount stated in the following table: If the adjusted taxable estate is:The maximum tax credit shall be: Not over $90,0008⁄10ths of 1% of the amount by which the adjusted taxable estate exceeds $40,000. Over $90,000 but not over $140,000$400 plus 1.6% of the excess over $90,000. Over $140,000 but not over $240,000$1,200 plus 2.4% of the excess over $140,000. Over $240,000 but not over $440,000$3,600 plus 3.2% of the excess over $240,000. Over $440,000 but not over $640,000$10,000 plus 4% of the excess over $440,000. Over $640,000 but not over $840,000$18,000 plus 4.8% of the excess over $640,000. Over $840,000 but not over $1,040,000$27,600 plus 5.6% of the excess over $840,000. Over $1,040,000 but not over $1,540,000$38,800 plus 6.4% of the excess over $1,040,000. Over $1,540,000 but not over $2,040,000$70,800 plus 7.2% of the excess over $1,540,000. Over $2,040,000 but not over $2,540,000$106,800 plus 8% of the excess over $2,040,000. Over $2,540,000 but not over $3,040,000$146,800 plus 8.8% of the excess over $2,540,000 Over $3,040,000 but not over $3,540,000$190,800 plus 9.6% of the excess over $3,040,000. Over $3,540,000 but not over $4,040,000$238,800 plus 10.4% of the excess over $3,540,000. Over $4,040,000 but not over $5,040,000$290,800 plus 11.2% of the excess over $4,040,000. Over $5,040,000 but not over $6,040,000$402,800 plus 12% of the excess over $5,040,000. Over $6,040,000 but not over $7,040,000$522,800 plus 12.8% of the excess over $6,040,000. Over $7,040,000 but not over $8,040,000$650,800 plus 13.6% of the excess over $7,040,000. Over $8,040,000 but not over $9,040,000$786,800 plus 14.4% of the excess over $8,040,000. Over $9,040,000 but not over $10,040,000$930,800 plus 15.2% of the excess over $9,040,000. Over $10,040,000$1,082,800 plus 16% of the excess over $10,040,000.
-
-(2) **Reduction of maximum credit**
-
-  (A) *In general* — In the case of estates of decedents dying after December 31, 2001, the credit allowed by this section shall not exceed the applicable percentage of the credit otherwise determined under paragraph (1).
-
-  (B) *Applicable percentage* — In the case of estates of decedentsThe applicable dying during:percentage is: 200275 percent 200350 percent 200425 percent.
-
-(3) **Adjusted taxable estate** — For purposes of this section, the term “adjusted taxable estate” means the taxable estate reduced by $60,000.
-
-**(c) Period of limitations on credit** The credit allowed by this section shall include only such taxes as were actually paid and credit therefor claimed within 4 years after the filing of the return required by section 6018, except that—
-
-(1) If a petition for redetermination of a deficiency has been filed with the Tax Court within the time prescribed in section 6213(a), then within such 4-year period or before the expiration of 60 days after the decision of the Tax Court becomes final.
-
-(2) If, under section 6161 or 6166, an extension of time has been granted for payment of the tax shown on the return, or of a deficiency, then within such 4-year period or before the date of the expiration of the period of the extension.
-
-(3) If a claim for refund or credit of an overpayment of tax imposed by this chapter has been filed within the time prescribed in section 6511, then within such 4-year period or before the expiration of 60 days from the date of mailing by certified mail or registered mail by the Secretary to the taxpayer of a notice of the disallowance of any part of such claim, or before the expiration of 60 days after a decision by any court of competent jurisdiction becomes final with respect to a timely suit instituted upon such claim, whichever is later.
-Refund based on the credit may (despite the provisions of sections 6511 and 6512) be made if claim therefor is filed within the period above provided. Any such refund shall be made without interest.
-
-**(d) Limitation in cases involving deduction under section 2053(d)** In any case where a deduction is allowed under section 2053(d) for an estate, succession, legacy, or inheritance tax imposed by a State or the District of Columbia upon a transfer for public, charitable, or religious uses described in section 2055 or 2106(a)(2), the allowance of the credit under this section shall be subject to the following conditions and limitations:
-
-(1) The taxes described in subsection (a) shall not include any estate, succession, legacy, or inheritance tax for which such deduction is allowed under section 2053(d).
-
-(2) The credit shall not exceed the lesser of—
-
-  (A) the amount stated in subsection (b) on an adjusted taxable estate determined by allowing such deduction authorized by section 2053(d), or
-
-  (B) that proportion of the amount stated in subsection (b) on an adjusted taxable estate determined without regard to such deduction authorized by section 2053(d) as (i) the amount of the taxes described in subsection (a), as limited by the provisions of paragraph (1) of this subsection, bears to (ii) the amount of the taxes described in subsection (a) before applying the limitation contained in paragraph (1) of this subsection.
-
-(3) If the amount determined under subparagraph (B) of paragraph (2) is less than the amount determined under subparagraph (A) of that paragraph, then for purposes of subsection (d) such lesser amount shall be the maximum credit provided by subsection (b).
-
-**(e) Limitation based on amount of tax** The credit provided by this section shall not exceed the amount of the tax imposed by section 2001, reduced by the amount of the unified credit provided by section 2010.
-
-**(f) Termination** This section shall not apply to the estates of decedents dying after December 31, 2004.
+## § 2011. Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(95)(A)(i), Dec. 19, 2014, 128 Stat. 4051]
 
 ### Statutory Notes
 
-#### Amendments
-2002—Subsecs. (d) to (g). Pub. L. 107–134 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The basic estate tax and the estate tax imposed by the Revenue Act of 1926 shall be 125 percent of the amount determined to be the maximum credit provided by subsection (b). The additional estate tax shall be the difference between the tax imposed by section 2001 or 2101 and the basic estate tax.”
+Section, act Aug. 16, 1954, ch. 736, 68A Stat. 374; Feb. 20, 1956, ch. 63, § 3, 70 Stat. 24; Pub. L. 85–866, title I, §§ 65(a), 102(c)(1), Sept. 2, 1958, 72 Stat. 1657, 1674; Pub. L. 86–175, § 3, Aug. 21, 1959, 73 Stat. 397; Pub. L. 94–455, title XIX, §§ 1902(a)(12)(B), 1906(b)(13)(A), title XX, §§ 2001(c)(1)(A), 2004(f)(3), Oct. 4, 1976, 90 Stat. 1806, 1834, 1849, 1872; Pub. L. 97–34, title IV, § 422(e)(2), Aug. 13, 1981, 95 Stat. 316; Pub. L. 107–16, title V, §§ 531(a), 532(a), June 7, 2001, 115 Stat. 72, 73; Pub. L. 107–134, title I, § 103(b)(1), Jan. 23, 2002, 115 Stat. 2431, related to credit for State death taxes.
 
-2001—Subsec. (b). Pub. L. 107–16, § 531(a), designated existing provisions as pars. (1) and (3), inserted headings, in par. (1) substituted “Except as provided in paragraph (2), the credit allowed” for “The credit allowed”, and added par. (2).
-
-Subsec. (g). Pub. L. 107–16, § 532(a), added subsec. (g).
-
-1981—Subsec. (c)(2). Pub. L. 97–34 struck out reference to section 6166A.
-
-1976—Subsec. (a). Pub. L. 94–455, § 1902(a)(12)(B), struck out “or Territory” after “State”.
-
-Subsec. (b). Pub. L. 94–455, § 2001(c)(1)(A)(i), (ii), substituted “adjusted taxable estate” for “taxable estate” in two places in table and inserted provision that, for purposes of this section, “adjusted taxable estate” means the taxable estate reduced by $60,000.
-
-Subsec. (c)(2). Pub. L. 94–455, § 2004(f)(3), substituted “section 6161, 6166, or 6166A” for “section 6161”.
-
-Subsec. (c)(3). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
-
-Subsec. (e). Pub. L. 94–455, §§ 1902(a)(12)(B), 2001(c)(1)(A)(iii), substituted “adjusted taxable estate” for “taxable estate” in par. (2) and struck out “or Territory” after “imposed by a State” in provisions preceding par. (1).
-
-Subsec. (f). Pub. L. 94–455, § 2001(c)(1)(A)(iv), added subsec. (f).
-
-1959—Subsec. (e). Pub. L. 86–175 substituted “imposed by a State or Territory or the District of Columbia upon a transfer” for “imposed upon a transfer” in introduction, “such deduction” for “a deduction” in par. (1) and “such deduction” for “the deduction” in two places in par. (2).
-
-1958—Subsec. (a). Pub. L. 85–866, § 102(c)(1), struck out “or any possession of the United States,” after “District of Columbia,”.
-
-Subsec. (c)(3). Pub. L. 85–866, § 65(a), added par. (3).
-
-1956—Subsec. (e). Act Feb. 20, 1956, added subsec. (e).
-
-#### Effective Date of 2002 Amendment
-Pub. L. 107–134, title I, § 103(d), Jan. 23, 2002, 115 Stat. 2431, provided that: “(1) Effective date.—The amendments made by this section [amending this section and sections 2053 and 2201 of this title] shall apply to estates of decedents—“(A) dying on or after September 11, 2001; and “(B) in the case of individuals dying as a result of the April 19, 1995, terrorist attack, dying on or after April 19, 1995. “(2) Waiver of limitations.—If refund or credit of any overpayment of tax resulting from the amendments made by this section is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act [Jan. 23, 2002] by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.”
-
-#### Effective Date of 2001 Amendment
-Pub. L. 107–16, title V, § 531(b), June 7, 2001, 115 Stat. 73, as amended by Pub. L. 108–311, title IV, § 408(b)(6), Oct. 4, 2004, 118 Stat. 1192, provided that: “The amendments made by this section [amending this section] shall apply to estates of decedents dying after December 31, 2001.”
-
-Pub. L. 107–16, title V, § 532(d), June 7, 2001, 115 Stat. 75, provided that: “The amendments made by this section [enacting [section 2058 of this title](./chapter-011-estate-tax.md#section-2058) and amending this section and sections 2012 to 2016, 2053, 2056A, 2102, 2106, 2107, 2201, 2604, 6511, and 6612 of this title] shall apply to estates of decedents dying, and generation-skipping transfers, after December 31, 2004.”
-
-#### Effective Date of 1981 Amendment
-Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1) of Pub. L. 97–34, set out as a note under [section 6166 of this title](./chapter-062-time-and-place-for-paying-tax.md#section-6166).
-
-#### Effective Date of 1976 Amendment
-Pub. L. 94–455, title XIX, § 1902(c)(1), Oct. 4, 1976, 90 Stat. 1806, as amended by Pub. L. 95–600, title VII, § 703(j)(12), Nov. 6, 1978, 92 Stat. 2942, provided that: “The amendments made by paragraphs (1) through (8), and paragraphs (12)(A), (B), and (C), of subsection (a) and by subsection (b) [amending this section and sections 2012, 2013, 2016, 2038, 2053, 2055, 2056, 2106, 2107, 2108, 2201, 6167, and 6503 of this title, repealing [section 2202 of this title](./chapter-011-estate-tax.md#section-2202), and enacting provisions set out as a note under [section 2201 of this title](./chapter-011-estate-tax.md#section-2201)] shall apply in the case of estates of decedents dying after the date of the enactment of this Act [Oct. 4, 1976], and the amendment made by paragraph (9) of subsection (a) [amending [section 2204 of this title](./chapter-011-estate-tax.md#section-2204)] shall apply in the case of estates of decedents dying after December 31, 1970.”
-
-Amendment by section 1902(a)(12)(B) of Pub. L. 94–455 applicable with respect to gifts made after Dec. 31, 1976, see section 1902(c)(2) of Pub. L. 94–455, set out as a note under [section 2501 of this title](./chapter-012-gift-tax.md#section-2501).
-
-Amendment by section 2001(c)(1)(A) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under [section 2001 of this title](./chapter-011-estate-tax.md#section-2001).
-
-Amendment by section 2004(f)(3) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2004(g) of Pub. L. 94–455, set out as an Effective Date note under [section 6166 of this title](./chapter-062-time-and-place-for-paying-tax.md#section-6166).
-
-#### Effective Date of 1959 Amendment
-Amendment by Pub. L. 86–175 applicable with respect to estates of decedents dying on or after July 1, 1955, see section 4 of Pub. L. 86–175, set out as a note under [section 2053 of this title](./chapter-011-estate-tax.md#section-2053).
-
-#### Effective Date of 1958 Amendment
-Pub. L. 85–866, title I, § 65(c), Sept. 2, 1958, 72 Stat. 1657, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to estates of decedents dying after August 16, 1954. The amendment made by subsection (b) [amending this section] shall apply with respect to estates of decedents dying after February 10, 1939, and on or before August 16, 1954.”
-
-Pub. L. 85–866, title I, § 102(d), Sept. 2, 1958, 72 Stat. 1675, provided that: “The amendments made by this section (other than by subsection (b)) [enacting [section 2208 of this title](./chapter-011-estate-tax.md#section-2208) and amending this section and sections 2104 and 2053 of this title] shall apply to the estates of decedents dying after the date of the enactment of this Act [Sept. 2, 1958]. The amendment made by subsection (b) [amending [section 2501 of this title](./chapter-012-gift-tax.md#section-2501)] shall apply to gifts made after the date of the enactment of this Act.”
-
-#### Effective Date of 1956 Amendment
-Amendment by act Feb. 20, 1956, applicable to the estates of all decedents dying after Dec. 31, 1953, see section 4 of act Feb. 20, 1956, set out as a note under [section 2053 of this title](./chapter-011-estate-tax.md#section-2053).
+#### Effective Date of Repeal
+Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 
 <a id="section-2012"></a>
@@ -450,13 +357,13 @@ Subsec. (d). Pub. L. 91–614, § 102(d)(2)(B), substituted “such quarter or y
 Subsec. (d)(1). Pub. L. 91–614, § 102(d)(2)(A), substituted “the calendar quarter (or calendar year if the gift was made before January 1, 1971)” for “the year”.
 
 #### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Pub. L. 107–16, title V, § 532(d), June 7, 2001, 115 Stat. 75, provided that: “The amendments made by this section [enacting [section 2058 of this title](./chapter-011-estate-tax.md#section-2058) and amending this section and sections 2011, 2013 to 2016, 2053, 2056A, 2102, 2106, 2107, 2201, 2604, 6511, and 6612 of this title] shall apply to estates of decedents dying, and generation-skipping transfers, after December 31, 2004.”
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, but inapplicable under certain conditions under will executed before date which is 30 days after Aug. 13, 1981, or under trust created by such date, see section 403(e) of Pub. L. 97–34, set out as a note under [section 2056 of this title](./chapter-011-estate-tax.md#section-2056).
 
 #### Effective Date of 1976 Amendment
-Amendment by section 1902(a)(1) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Pub. L. 94–455, title XIX, § 1902(c)(1), Oct. 4, 1976, 90 Stat. 1806, as amended by Pub. L. 95–600, title VII, § 703(j)(12), Nov. 6, 1978, 92 Stat. 2942, provided that: “The amendments made by paragraphs (1) through (8), and paragraphs (12)(A), (B), and (C), of subsection (a) and by subsection (b) [amending this section and sections 2011, 2013, 2016, 2038, 2053, 2055, 2056, 2106, 2107, 2108, 2201, 6167, and 6503 of this title, repealing [section 2202 of this title](./chapter-011-estate-tax.md#section-2202), and enacting provisions set out as a note under [section 2201 of this title](./chapter-011-estate-tax.md#section-2201)] shall apply in the case of estates of decedents dying after the date of the enactment of this Act [Oct. 4, 1976], and the amendment made by paragraph (9) of subsection (a) [amending [section 2204 of this title](./chapter-011-estate-tax.md#section-2204)] shall apply in the case of estates of decedents dying after December 31, 1970.”
 
 Amendment by section 2001(a)(3), (c)(1)(B) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under [section 2001 of this title](./chapter-011-estate-tax.md#section-2001).
 
@@ -527,7 +434,7 @@ Subsec. (f). Pub. L. 94–455, § 2003(c), added subsec. (f).
 Subsec. (g). Pub. L. 94–455, § 2006(b)(2), added subsec. (g).
 
 #### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1996, see section 1073(c) of Pub. L. 105–34, set out as an Effective Date of Repeal note under [section 4980A of this title](./chapter-043-qualified-pension-etc-plans.md#section-4980a).
@@ -537,6 +444,9 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of [section 2611 of this title](./chapter-013-tax-on-generation-skipping-transfers.md#section-2611)) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under [section 2601 of this title](./chapter-013-tax-on-generation-skipping-transfers.md#section-2601).
+
+#### Effective Date of 1976 Amendment
+Amendment by section 1902(a)(2) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 
 <a id="section-2014"></a>
@@ -617,7 +527,7 @@ Subsec. (h). Pub. L. 89–809 added subsec. (h).
 1958—Subsec. (f). Pub. L. 85–866 added subsec. (f).
 
 #### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 #### Effective Date of 1966 Amendment
 Amendment by Pub. L. 89–809 applicable with respect to estates of decedents dying after Nov. 13, 1966, see section 106(b)(4) of Pub. L. 89–809, set out as a note under [section 901 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-901).
@@ -626,7 +536,7 @@ Amendment by Pub. L. 89–809 applicable with respect to estates of decedents dy
 Amendment by Pub. L. 86–175 applicable with respect to estates of decedents dying on or after July 1, 1955, see section 4 of Pub. L. 86–175, set out as a note under [section 2053 of this title](./chapter-011-estate-tax.md#section-2053).
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–866 applicable to estates of decedents dying after Sept. 2, 1958, see section 102(d) of Pub. L. 85–866, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Pub. L. 85–866, title I, § 102(d), Sept. 2, 1958, 72 Stat. 1675, provided that: “The amendments made by this section (other than by subsection (b)) [enacting [section 2208 of this title](./chapter-011-estate-tax.md#section-2208) and amending this section and sections 2011 and 2053 of this title] shall apply to the estates of decedents dying after the date of the enactment of this Act [Sept. 2, 1958]. The amendment made by subsection (b) [amending [section 2501 of this title](./chapter-012-gift-tax.md#section-2501)] shall apply to gifts made after the date of the enactment of this Act.”
 
 
 <a id="section-2015"></a>
@@ -642,7 +552,7 @@ Where an election is made under section 6163(a) to postpone payment of the tax i
 1958—Pub. L. 85–866 substituted “the time for payment of the tax imposed by section 2001 or 2101 as postponed and extended under section 6163” for “60 days after the termination of the precedent interest or interests in the property”.
 
 #### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 #### Effective Date of 1958 Amendment
 Pub. L. 85–866, title I, § 66(a)(3), Sept. 2, 1958, 72 Stat. 1658, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and section 927 of I.R.C. 1939] shall apply in the case of any reversionary or remainder interest in property only if the precedent interest or interests in the property did not terminate before the beginning of the 60-day period which ends on the date of the enactment of this Act [Sept. 2, 1958].”
@@ -666,7 +576,10 @@ If any tax claimed as a credit under section 2014 is recovered from any foreign 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under [section 25B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25b).
 
 #### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
+
+#### Effective Date of 1976 Amendment
+Amendment by section 1902(a)(12)(C) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 
 <a id="section-2031"></a>
@@ -681,11 +594,11 @@ Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and gene
 
   (A) the applicable percentage of the value of land subject to a qualified conservation easement, reduced by the amount of any deduction under section 2055(f) with respect to such land, or
 
-  (B) the exclusion limitation.
+  (II) 11 So in original. Probably should be “(B)”. $500,000.
 
-(2) **Applicable percentage** — For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land 11 So in original. No closing parenthesis was enacted. (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
+(2) **Applicable percentage** — For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land 22 So in original. No closing parenthesis was enacted. (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
 
-(3) **Exclusion limitation** — For purposes of paragraph (1), the exclusion limitation is the limitation determined in accordance with the following table: In the case of estates ofThe exclusion decedents dying during:limitation is: 1998$100,000 1999$200,000 2000$300,000 2001$400,000 2002 or thereafter$500,000.
+(3) **Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(96), Dec. 19, 2014, 128 Stat. 4051]**
 
 (4) **Treatment of certain indebtedness**
 
@@ -750,13 +663,22 @@ Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and gene
 
 (9) **Treatment of easements granted after death** — In any case in which the qualified conservation easement is granted after the date of the decedent’s death and on or before the due date (including extensions) for filing the return of tax imposed by section 2001, the deduction under section 2055(f) with respect to such easement shall be allowed to the estate but only if no charitable deduction is allowed under chapter 1 to any person with respect to the grant of such easement.
 
-(10) **Application of this section to interests in partnerships, corporations, and trusts** — This section shall apply to an interest in a partnership, corporation, or trust if at least 30 percent of the entity is owned (directly or indirectly) by the decedent, as determined under the rules described in section 2057(e)(3).
+(10) **Application of this section to interests in partnerships, corporations, and trusts** — This section shall apply to an interest in a partnership, corporation, or trust if at least 30 percent of the entity is owned (directly or indirectly) by the decedent, as determined under the rules described in section 2057(e)(3) (as in effect before its repeal).
 
 **(d) Cross reference** For executor’s right to be furnished on request a statement regarding any valuation made by the Secretary within the gross estate, see section 7517.
 
 ### Statutory Notes
 
+#### References in Text
+Section 2057, referred to in subsec. (c)(10), was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(97)(A), Dec. 19, 2014, 128 Stat. 4051, effective Dec. 19, 2014.
+
 #### Amendments
+2014—Subsec. (c)(1). Pub. L. 113–295, § 221(a)(96), substituted “(II) $500,000.” for “(B) the exclusion limitation.”
+
+Subsec. (c)(3). Pub. L. 113–295, § 221(a)(96), struck out par. (3), which set out table of exclusion limitations.
+
+Subsec. (c)(10). Pub. L. 113–295, § 221(a)(97)(B), inserted “(as in effect before its repeal)” before period at end.
+
 2001—Subsec. (c)(2). Pub. L. 107–16, § 551(b), inserted at end “The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).”
 
 Subsec. (c)(8)(A)(i). Pub. L. 107–16, § 551(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “which is located—
@@ -780,6 +702,9 @@ Pub. L. 105–206, § 6007(g)(1), redesignated par. (9) as (10).
 1976—Subsec. (c). Pub. L. 94–455 added subsec. (c).
 
 1962—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside the United States.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–16, title V, § 551(c), June 7, 2001, 115 Stat. 86, provided that: “The amendments made by this section [amending this section] shall apply to estates of decedents dying after December 31, 2000.”
@@ -1537,7 +1462,7 @@ Subsecs. (b), (c). Pub. L. 95–600, § 702(i)(1), added subsec. (b) and redesig
 Pub. L. 101–508, title XI, § 11601(c), Nov. 5, 1990, 104 Stat. 1388–491, provided that: “The amendments made by this section [amending this section and sections 2207B and 2501 of this title] shall apply in the case of property transferred after December 17, 1987.”
 
 #### Effective Date of 1988 Amendment
-Pub. L. 100–647, title III, § 3031(h), Nov. 10, 1988, 102 Stat. 3639, provided that: “(1) In general.—Except as provided in this subsection, any amendment made by this section [enacting [section 2207B of this title](./chapter-011-estate-tax.md#section-2207b) and amending this section and [section 2501 of this title](./chapter-012-gift-tax.md#section-2501)] shall take effect as if included in the provisions of the Revenue Act of 1987 [Pub. L. 100–203, title X] to which such amendment relates. “(2) Subsection (a).—The amendments made by subsection (a) [amending this section and [section 2501 of this title](./chapter-012-gift-tax.md#section-2501)] shall apply in cases where the transfer referred to in section 2036(c)(1)(B) of the 1986 Code is on or after June 21, 1988. “(3) Subsection (f).—If an amount is included in the gross estate of a decedent under section 2036 of the 1986 Code other than solely by reason of section 2036(c) of the 1986 Code, the amendments made by subsection (f) [enacting [section 2207B of this title](./chapter-011-estate-tax.md#section-2207b)] shall apply to such amount only with respect to property transferred after the date of the enactment of this Act [Nov. 10, 1988]. “(4) Correction period.—If section 2036(c)(1) of the 1986 Code would (but for this paragraph) apply to any interest arising from a transaction entered into during the period beginning after December 17, 1987, and ending before January 1, 1990, such section shall not apply to such interest if—“(A) during such period, such actions are taken as are necessary to have such section 2036(c)(1) not apply to such transaction (and any such interest), or “(B) the original transferor and his spouse on January 1, 1990 (or, if earlier, the date of the original transferor’s death), does not hold any interest in the enterprise involved. “(5) Clarification of effective date.—For purposes of section 10402(b) of the Revenue Act of 1987 [Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note below], with respect to property transferred on or before December 17, 1987—“(A) any failure to exercise a right of conversion, “(B) any failure to pay dividends, and “(c) [sic] failures to exercise other rights specified in regulations, shall not be treated as a subsequent transfer.”
+Pub. L. 100–647, title III, § 3031(h), Nov. 10, 1988, 102 Stat. 3639, provided that: “(1) In general.—Except as provided in this subsection, any amendment made by this section [enacting [section 2207B of this title](./chapter-011-estate-tax.md#section-2207b) and amending this section and [section 2501 of this title](./chapter-012-gift-tax.md#section-2501)] shall take effect as if included in the provisions of the Revenue Act of 1987 [Pub. L. 100–203, title X] to which such amendment relates. “(2) Subsection (a).—The amendments made by subsection (a) [amending this section and [section 2501 of this title](./chapter-012-gift-tax.md#section-2501)] shall apply in cases where the transfer referred to in section 2036(c)(1)(B) of the 1986 Code is on or after June 21, 1988. “(3) Subsection (f).—If an amount is included in the gross estate of a decedent under section 2036 of the 1986 Code other than solely by reason of section 2036(c) of the 1986 Code, the amendments made by subsection (f) [enacting [section 2207B of this title](./chapter-011-estate-tax.md#section-2207b)] shall apply to such amount only with respect to property transferred after the date of the enactment of this Act [Nov. 10, 1988]. “(4) Correction period.—If section 2036(c)(1) of the 1986 Code would (but for this paragraph) apply to any interest arising from a transaction entered into during the period beginning after December 17, 1987, and ending before January 1, 1990, such section shall not apply to such interest if—“(A) during such period, such actions are taken as are necessary to have such section 2036(c)(1) not apply to such transaction (and any such interest), or “(B) the original transferor and his spouse on January 1, 1990 (or, if earlier, the date of the original transferor’s death), does not hold any interest in the enterprise involved. “(5) Clarification of effective date.—For purposes of section 10402(b) of the Revenue Act of 1987 [Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note below], with respect to property transferred on or before December 17, 1987—“(A) any failure to exercise a right of conversion, “(B) any failure to pay dividends, and“(c) [sic] failures to exercise other rights specified in regulations, shall not be treated as a subsequent transfer.”
 
 #### Effective Date of 1987 Amendment
 Pub. L. 100–203, title X, § 10402(b), Dec. 22, 1987, 101 Stat. 1330–432, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to estates of decedents dying after December 31, 1987, but only in the case of property transferred after December 17, 1987.” [For clarification of this note, see section 3031(h)(5) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note above.]
@@ -1602,7 +1527,7 @@ Subsec. (c). Pub. L. 94–455, § 1902(a)(3), struck out subsec. (c) which cover
 1959—Subsec. (c). Pub. L. 86–141 added subsec. (c).
 
 #### Effective Date of 1976 Amendment
-Amendment by section 1902(a)(3) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by section 1902(a)(3) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 Amendment by section 2001(c)(1)(K)(i), (ii) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976 but not to transfers made before Jan. 1, 1977, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under [section 2001 of this title](./chapter-011-estate-tax.md#section-2001).
 
@@ -2040,10 +1965,10 @@ Subsec. (e). Pub. L. 98–369, § 425(a)(2), substituted “For provisions treat
 1956—Subsecs. (d), (e). Act Feb. 20, 1956, added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–134 applicable to estates of decedents dying on or after Sept. 11, 2001, and, in the case of individuals dying as a result of the Apr. 19, 1995, terrorist attack, dying on or after Apr. 19, 1995, with provisions relating to waiver of limitations, see section 103(d) of Pub. L. 107–134, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Pub. L. 107–134, title I, § 103(d), Jan. 23, 2002, 115 Stat. 2431, provided that: “(1) Effective date.—The amendments made by this section [amending this section and sections 2011 and 2201 of this title] shall apply to estates of decedents—“(A) dying on or after September 11, 2001; and “(B) in the case of individuals dying as a result of the April 19, 1995, terrorist attack, dying on or after April 19, 1995. “(2) Waiver of limitations.—If refund or credit of any overpayment of tax resulting from the amendments made by this section is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act [Jan. 23, 2002] by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.”
 
 #### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 #### Effective Date of 1997 Amendment
 Amendment by section 503(b)(1) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1997, with special rule in case of estate of any decedent dying before Jan. 1, 1998, with respect to which there is an election under [section 6166 of this title](./chapter-062-time-and-place-for-paying-tax.md#section-6166), see section 503(d) of Pub. L. 105–34, set out as a note under [section 163 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-163).
@@ -2058,11 +1983,14 @@ Amendment by section 425(a)(2) of Pub. L. 98–369 applicable to estates of dece
 
 Pub. L. 98–369, div. A, title X, § 1027(c), July 18, 1984, 98 Stat. 1032, provided that: “The amendments made by this section [amending this section and [section 2056 of this title](./chapter-011-estate-tax.md#section-2056)] shall take effect as if included in the amendment made by section 403 of the Economic Recovery Tax Act of 1981 [section 403 of Pub. L. 97–34, see Effective Date of 1981 Amendment note set out under [section 2056 of this title](./chapter-011-estate-tax.md#section-2056)].”
 
+#### Effective Date of 1976 Amendment
+Amendment by section 1902(a)(12)(B) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
+
 #### Effective Date of 1959 Amendment
 Pub. L. 86–175, § 4, Aug. 21, 1959, 73 Stat. 397, provided that: “The amendments made by the preceding sections of this Act [amending this section and sections 2011 and 2014 of this title] shall apply with respect to the estates of decedents dying on or after July 1, 1955.”
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–866 applicable to estates of decedents dying after Sept. 2, 1958, see section 102(d) of Pub. L. 85–866, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 85–866 applicable to estates of decedents dying after Sept. 2, 1958, see section 102(d) of Pub. L. 85–866, set out as a note under [section 2014 of this title](./chapter-011-estate-tax.md#section-2014).
 
 #### Effective Date of 1956 Amendment
 Act Feb. 20, 1956, ch. 63, § 4, 70 Stat. 25, as amended by act Oct. 22, 1986, Pub. L. 99–514, § 2, 100 Stat. 2095, provided that: “The amendments to the Internal Revenue Code of 1986 [formerly I.R.C. 1954] made by sections 2 and 3 of this Act [amending this section and [section 2011 of this title](./chapter-011-estate-tax.md#section-2011)], and provisions having the same effect as this amendment, which shall be considered to be included in chapter 3 of the Internal Revenue Code of 1939, shall apply to the estates of all decedents dying after December 31, 1953.”
@@ -2353,9 +2281,7 @@ Amendment by section 1307(d)(1)(B)(ii), (C) of Pub. L. 94–455, applicable to e
 
 Amendment by section 1313(b)(2) of Pub. L. 94–455 applicable on day following Oct. 4, 1976, see section 1313(d) of Pub. L. 94–455, set out as a note under [section 501 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-501).
 
-Amendment by section 1902(a)(4) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
-
-Amendment by section 1902(a)(12)(A) of Pub. L. 94–455 applicable with respect to gifts made after Dec. 31, 1976, see section 1902(c)(2) of Pub. L. 94–455, set out as a note under [section 2501 of this title](./chapter-012-gift-tax.md#section-2501).
+Amendment by section 1902(a)(4), (12)(A) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 Amendment by section 2009(b)(4)(B), (C) of Pub. L. 94–455 applicable with respect to transfers creating an interest in person disclaiming made after Dec. 31, 1976, see section 2009(e)(2) of Pub. L. 94–455, set out as a note under [section 2518 of this title](./chapter-012-gift-tax.md#section-2518).
 
@@ -2643,6 +2569,8 @@ Pub. L. 97–34, title IV, § 403(e), Aug. 13, 1981, 95 Stat. 305, as amended by
 Pub. L. 95–600, title VII, § 702(g)(3), Nov. 6, 1978, 92 Stat. 2930, provided that: “The amendment made by this subsection [amending this section] shall apply to the estates of decedents dying after December 31, 1976.”
 
 #### Effective Date of 1976 Amendment
+Amendment by section 1902(a)(12)(A) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
+
 Pub. L. 94–455, title XX, § 2002(d)(1), Oct. 4, 1976, 90 Stat. 1856, provided that: “(1)(A) Except as provided in subparagraph (B), the amendment made by subsection (a) [amending this section] shall apply with respect to the estates of decedents dying after December 31, 1976. “(B) If—“(i) the decedent dies after December 31, 1976, and before January 1, 1979, “(ii) by reason of the death of the decedent property passes from the decedent or is acquired from the decedent under a will executed before January 1, 1977, or a trust created before such date, which contains a formula expressly providing that the spouse is to receive the maximum amount of property qualifying for the marital deduction allowable by Federal law, “(iii) the formula referred to in clause (ii) was not amended at any time after December 31, 1976, and before the death of the decedent, and “(iv) the State does not enact a statute applicable to such estate which construes this type of formula as referring to the marital deduction allowable by Federal law as amended by subsection (a), then the amendment made by subsection (a) shall not apply to the estate of such decedent.”
 
 Amendment by section 2009(b)(4)(D), (E) of Pub. L. 94–455 applicable with respect to transfers creating an interest in person disclaiming made after Dec. 31, 1976, see section 2009(e)(2) of Pub. L. 94–455, set out as an Effective Date note under [section 2518 of this title](./chapter-012-gift-tax.md#section-2518).
@@ -2826,7 +2754,7 @@ Subsec. (c)(2). Pub. L. 101–239, § 7815(d)(10), substituted “Except as prov
 Subsec. (e). Pub. L. 101–239, § 7815(d)(13), added subsec. (e).
 
 #### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 #### Effective Date of 1997 Amendment
 Pub. L. 105–34, title XIII, § 1312(b), Aug. 5, 1997, 111 Stat. 1045, provided that: “The amendment made by this section [amending this section] shall apply to estates of decedents dying after the date of the enactment of this Act [Aug. 5, 1997].”
@@ -2852,288 +2780,19 @@ For provisions directing that in the case of the estate of, or gift by, an indiv
 
 
 <a id="section-2057"></a>
-## § 2057. Family-owned business interests
-**(a) General rule**
-
-(1) **Allowance of deduction** — For purposes of the tax imposed by section 2001, in the case of an estate of a decedent to which this section applies, the value of the taxable estate shall be determined by deducting from the value of the gross estate the adjusted value of the qualified family-owned business interests of the decedent which are described in subsection (b)(2).
-
-(2) **Maximum deduction** — The deduction allowed by this section shall not exceed $675,000.
-
-(3) **Coordination with unified credit**
-
-  (A) *In general* — Except as provided in subparagraph (B), if this section applies to an estate, the applicable exclusion amount under section 2010 shall be $625,000.
-
-  (B) *Increase in unified credit if deduction is less than $675,000* — If the deduction allowed by this section is less than $675,000, the amount of the applicable exclusion amount under section 2010 shall be increased (but not above the amount which would apply to the estate without regard to this section) by the excess of $675,000 over the amount of the deduction allowed.
-
-**(b) Estates to which section applies**
-
-(1) **In general** — This section shall apply to an estate if—
-
-  (A) the decedent was (at the date of the decedent’s death) a citizen or resident of the United States,
-
-  (B) the executor elects the application of this section and files the agreement referred to in subsection (h),
-
-  (C) the sum of—
-
-    (i) the adjusted value of the qualified family-owned business interests described in paragraph (2), plus
-
-    (ii) the amount of the gifts of such interests determined under paragraph (3),
-    exceeds 50 percent of the adjusted gross estate, and
-
-  (D) during the 8-year period ending on the date of the decedent’s death there have been periods aggregating 5 years or more during which—
-
-    (i) such interests were owned by the decedent or a member of the decedent’s family, and
-
-    (ii) there was material participation (within the meaning of section 2032A(e)(6)) by the decedent or a member of the decedent’s family in the operation of the business to which such interests relate.
-
-(2) **Includible qualified family-owned business interests** — The qualified family-owned business interests described in this paragraph are the interests which—
-
-  (A) are included in determining the value of the gross estate, and
-
-  (B) are acquired by any qualified heir from, or passed to any qualified heir from, the decedent (within the meaning of section 2032A(e)(9)).
-
-(3) **Includible gifts of interests** — The amount of the gifts of qualified family-owned business interests determined under this paragraph is the sum of—
-
-  (A) the amount of such gifts from the decedent to members of the decedent’s family taken into account under section 2001(b)(1)(B), plus
-
-  (B) the amount of such gifts otherwise excluded under section 2503(b),
-  to the extent such interests are continuously held by members of such family (other than the decedent’s spouse) between the date of the gift and the date of the decedent’s death.
-
-**(c) Adjusted gross estate** For purposes of this section, the term “adjusted gross estate” means the value of the gross estate—
-
-(1) reduced by any amount deductible under paragraph (3) or (4) of section 2053(a), and
-
-(2) increased by the excess of—
-
-  (A) the sum of—
-
-    (i) the amount of gifts determined under subsection (b)(3), plus
-
-    (ii) the amount (if more than de minimis) of other transfers from the decedent to the decedent’s spouse (at the time of the transfer) within 10 years of the date of the decedent’s death, plus
-
-    (iii) the amount of other gifts (not included under clause (i) or (ii)) from the decedent within 3 years of such date, other than gifts to members of the decedent’s family otherwise excluded under section 2503(b), over
-
-  (B) the sum of the amounts described in clauses (i), (ii), and (iii) of subparagraph (A) which are otherwise includible in the gross estate.
-For purposes of the preceding sentence, the Secretary may provide that de minimis gifts to persons other than members of the decedent’s family shall not be taken into account.
-
-**(d) Adjusted value of the qualified family-owned business interests** For purposes of this section, the adjusted value of any qualified family-owned business interest is the value of such interest for purposes of this chapter (determined without regard to this section), reduced by the excess of—
-
-(1) any amount deductible under paragraph (3) or (4) of section 2053(a), over
-
-(2) the sum of—
-
-  (A) any indebtedness on any qualified residence of the decedent the interest on which is deductible under section 163(h)(3), plus
-
-  (B) any indebtedness to the extent the taxpayer establishes that the proceeds of such indebtedness were used for the payment of educational and medical expenses of the decedent, the decedent’s spouse, or the decedent’s dependents (within the meaning of section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), plus
-
-  (C) any indebtedness not described in subparagraph (A) or (B), to the extent such indebtedness does not exceed $10,000.
-
-**(e) Qualified family-owned business interest**
-
-(1) **In general** — For purposes of this section, the term “qualified family-owned business interest” means—
-
-  (A) an interest as a proprietor in a trade or business carried on as a proprietorship, or
-
-  (B) an interest in an entity carrying on a trade or business, if—
-
-    (i) at least—
-
-      (I) 50 percent of such entity is owned (directly or indirectly) by the decedent and members of the decedent’s family,
-
-      (II) 70 percent of such entity is so owned by members of 2 families, or
-
-      (III) 90 percent of such entity is so owned by members of 3 families, and
-
-    (ii) for purposes of subclause (II) or (III) of clause (i), at least 30 percent of such entity is so owned by the decedent and members of the decedent’s family.
-  For purposes of the preceding sentence, a decedent shall be treated as engaged in a trade or business if any member of the decedent’s family is engaged in such trade or business.
-
-(2) **Limitation** — Such term shall not include—
-
-  (A) any interest in a trade or business the principal place of business of which is not located in the United States,
-
-  (B) any interest in an entity, if the stock or debt of such entity or a controlled group (as defined in section 267(f)(1)) of which such entity was a member was readily tradable on an established securities market or secondary market (as defined by the Secretary) at any time within 3 years of the date of the decedent’s death,
-
-  (C) any interest in a trade or business not described in section 542(c)(2), if more than 35 percent of the adjusted ordinary gross income of such trade or business for the taxable year which includes the date of the decedent’s death would qualify as personal holding company income (as defined in section 543(a) without regard to paragraph (2)(B) thereof) if such trade or business were a corporation,
-
-  (D) that portion of an interest in a trade or business that is attributable to—
-
-    (i) cash or marketable securities, or both, in excess of the reasonably expected day-to-day working capital needs of such trade or business, and
-
-    (ii) any other assets of the trade or business (other than assets used in the active conduct of a trade or business described in section 542(c)(2)), which produce, or are held for the production of, personal holding company income (as defined in subparagraph (C)) or income described in section 954(c)(1) (determined without regard to subparagraph (A) thereof and by substituting “trade or business” for “controlled foreign corporation”).
-  In the case of a lease of property on a net cash basis by the decedent to a member of the decedent’s family, income from such lease shall not be treated as personal holding company income for purposes of subparagraph (C), and such property shall not be treated as an asset described in subparagraph (D)(ii), if such income and property would not be so treated if the lessor had engaged directly in the activities engaged in by the lessee with respect to such property.
-
-(3) **Rules regarding ownership**
-
-  (A) *Ownership of entities* — For purposes of paragraph (1)(B)—
-
-    (i) *Corporations* — Ownership of a corporation shall be determined by the holding of stock possessing the appropriate percentage of the total combined voting power of all classes of stock entitled to vote and the appropriate percentage of the total value of shares of all classes of stock.
-
-    (ii) *Partnerships* — Ownership of a partnership shall be determined by the owning of the appropriate percentage of the capital interest in such partnership.
-
-  (B) *Ownership of tiered entities* — For purposes of this section, if by reason of holding an interest in a trade or business, a decedent, any member of the decedent’s family, any qualified heir, or any member of any qualified heir’s family is treated as holding an interest in any other trade or business—
-
-    (i) such ownership interest in the other trade or business shall be disregarded in determining if the ownership interest in the first trade or business is a qualified family-owned business interest, and
-
-    (ii) this section shall be applied separately in determining if such interest in any other trade or business is a qualified family-owned business interest.
-
-  (C) *Individual ownership rules* — For purposes of this section, an interest owned, directly or indirectly, by or for an entity described in paragraph (1)(B) shall be considered as being owned proportionately by or for the entity’s shareholders, partners, or beneficiaries. A person shall be treated as a beneficiary of any trust only if such person has a present interest in such trust.
-
-**(f) Tax treatment of failure to materially participate in business or dispositions of interests**
-
-(1) **In general** — There is imposed an additional estate tax if, within 10 years after the date of the decedent’s death and before the date of the qualified heir’s death—
-
-  (A) the material participation requirements described in section 2032A(c)(6)(B) are not met with respect to the qualified family-owned business interest which was acquired (or passed) from the decedent,
-
-  (B) the qualified heir disposes of any portion of a qualified family-owned business interest (other than by a disposition to a member of the qualified heir’s family or through a qualified conservation contribution under section 170(h)),
-
-  (C) the qualified heir loses United States citizenship (within the meaning of section 877) or with respect to whom an event described in subparagraph (A) or (B) of section 877(e)(1) 11 See References in Text note below. occurs, and such heir does not comply with the requirements of subsection (g), or
-
-  (D) the principal place of business of a trade or business of the qualified family-owned business interest ceases to be located in the United States.
-
-(2) **Additional estate tax**
-
-  (A) *In general* — The amount of the additional estate tax imposed by paragraph (1) shall be equal to—
-
-    (i) the applicable percentage of the adjusted tax difference attributable to the qualified family-owned business interest, plus
-
-    (ii) interest on the amount determined under clause (i) at the underpayment rate established under section 6621 for the period beginning on the date the estate tax liability was due under this chapter and ending on the date such additional estate tax is due.
-
-  (B) *Applicable percentage* — For purposes of this paragraph, the applicable percentage shall be determined under the following table: If the event described in paragraph (1) occurs in the following year ofThe applicable material participation:percentage is: 1 through 6100 780 860 940 1020.
-
-  (C) *Adjusted tax difference* — For purposes of subparagraph (A)—
-
-    (i) *In general* — The adjusted tax difference attributable to a qualified family-owned business interest is the amount which bears the same ratio to the adjusted tax difference with respect to the estate (determined under clause (ii)) as the value of such interest bears to the value of all qualified family-owned business interests described in subsection (b)(2).
-
-    (ii) *Adjusted tax difference with respect to the estate* — For purposes of clause (i), the term “adjusted tax difference with respect to the estate” means the excess of what would have been the estate tax liability but for the election under this section over the estate tax liability. For purposes of this clause, the term “estate tax liability” means the tax imposed by section 2001 reduced by the credits allowable against such tax.
-
-(3) **Use in trade or business by family members** — A qualified heir shall not be treated as disposing of an interest described in subsection (e)(1)(A) by reason of ceasing to be engaged in a trade or business so long as the property to which such interest relates is used in a trade or business by any member of such individual’s family.
-
-**(g) Security requirements for noncitizen qualified heirs**
-
-(1) **In general** — Except upon the application of subparagraph (F) of subsection (i)(3), if a qualified heir is not a citizen of the United States, any interest under this section passing to or acquired by such heir (including any interest held by such heir at a time described in subsection (f)(1)(C)) shall be treated as a qualified family-owned business interest only if the interest passes or is acquired (or is held) in a qualified trust.
-
-(2) **Qualified trust** — The term “qualified trust” means a trust—
-
-  (A) which is organized under, and governed by, the laws of the United States or a State, and
-
-  (B) except as otherwise provided in regulations, with respect to which the trust instrument requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation.
-
-**(h) Agreement** The agreement referred to in this subsection is a written agreement signed by each person in being who has an interest (whether or not in possession) in any property designated in such agreement consenting to the application of subsection (f) with respect to such property.
-
-**(i) Other definitions and applicable rules** For purposes of this section—
-
-(1) **Qualified heir** — The term “qualified heir”—
-
-  (A) has the meaning given to such term by section 2032A(e)(1), and
-
-  (B) includes any active employee of the trade or business to which the qualified family-owned business interest relates if such employee has been employed by such trade or business for a period of at least 10 years before the date of the decedent’s death.
-
-(2) **Member of the family** — The term “member of the family” has the meaning given to such term by section 2032A(e)(2).
-
-(3) **Applicable rules** — Rules similar to the following rules shall apply:
-
-  (A) Section 2032A(b)(4) (relating to decedents who are retired or disabled).
-
-  (B) Section 2032A(b)(5) (relating to special rules for surviving spouses).
-
-  (C) Section 2032A(c)(2)(D) (relating to partial dispositions).
-
-  (D) Section 2032A(c)(3) (relating to only 1 additional tax imposed with respect to any 1 portion).
-
-  (E) Section 2032A(c)(4) (relating to due date).
-
-  (F) Section 2032A(c)(5) (relating to liability for tax; furnishing of bond).
-
-  (G) Section 2032A(c)(7) (relating to no tax if use begins within 2 years; active management by eligible qualified heir treated as material participation).
-
-  (H) Paragraphs (1) and (3) of section 2032A(d) (relating to election; agreement).
-
-  (I) Section 2032A(e)(10) (relating to community property).
-
-  (J) Section 2032A(e)(14) (relating to treatment of replacement property acquired in section 1031 or 1033 transactions).
-
-  (K) Section 2032A(f) (relating to statute of limitations).
-
-  (L) Section 2032A(g) (relating to application to interests in partnerships, corporations, and trusts).
-
-  (M) Subsections (h) and (i) of section 2032A.
-
-  (N) Section 6166(b)(3) (relating to farmhouses and certain other structures taken into account).
-
-  (O) Subparagraphs (B), (C), and (D) of section 6166(g)(1) (relating to acceleration of payment).
-
-  (P) Section 6324B (relating to special lien for additional estate tax).
-
-**(j) Termination** This section shall not apply to the estates of decedents dying after December 31, 2003.
+## § 2057. Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(97)(A), Dec. 19, 2014, 128 Stat. 4051]
 
 ### Statutory Notes
 
-#### References in Text
-Section 877(e)(1), referred to in subsec. (f)(1)(C), was amended generally by Pub. L. 110–245, title III, § 301(c)(2)(A), June 17, 2008, 122 Stat. 1646, and, as so amended, no longer contains subparagraphs.
+Section, added Pub. L. 105–34, title V, § 502(a), Aug. 5, 1997, 111 Stat. 847, § 2033A; renumbered § 2057 and amended Pub. L. 105–206, title VI, § 6007(b)(1)(A)–(D), (2)–(7), July 22, 1998, 112 Stat. 807–809; Pub. L. 107–16, title V, § 521(d), June 7, 2001, 115 Stat. 72; Pub. L. 108–311, title II, § 207(23), Oct. 4, 2004, 118 Stat. 1178, related to deduction for qualified family-owned business interests of a decedent.
 
 #### Prior Provisions
 A prior section 2057, added Pub. L. 99–514, title XI, § 1172(a), Oct. 22, 1986, 100 Stat. 2513; amended Pub. L. 100–203, title X, §§ 10411(a), 10412(a), Dec. 22, 1987, 101 Stat. 1330–432, 1330–433; Pub. L. 100–647, title I, § 1011B(g)(3), Nov. 10, 1988, 102 Stat. 3490, related to sales of employer securities to employee stock ownership plans or worker-owned cooperatives, prior to repeal by Pub. L. 101–239, title VII, § 7304(a)(1), (3), Dec. 19, 1989, 103 Stat. 2352, 2353, applicable to estates of decedents dying after Dec. 19, 1989.
 
 Another prior section 2057, added Pub. L. 94–455, title XX, § 2007(a), Oct. 4, 1976, 90 Stat. 1890; amended Pub. L. 95–600, title VII, § 702(l)(1), (2), Nov. 6, 1978, 92 Stat. 2934, 2935, related to bequests, etc., to certain minor children, prior to repeal by Pub. L. 97–34, title IV, § 427(a), (c), Aug. 13, 1981, 95 Stat. 3181, applicable to estates of decedents dying after Dec. 31, 1981.
 
-#### Amendments
-2004—Subsec. (d)(2)(B). Pub. L. 108–311 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
-
-2001—Subsec. (j). Pub. L. 107–16 added subsec. (j).
-
-1998—Pub. L. 105–206, § 6007(b)(1)(A), (B), renumbered [section 2033A of this title](./chapter-011-estate-tax.md#section-2033a) as this section and substituted “interests” for “exclusion” in section catchline.
-
-Subsec. (a). Pub. L. 105–206, § 6007(b)(1)(B), substituted “General rule” for “In general” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of an estate of a decedent to which this section applies, the value of the gross estate shall not include the lesser of—
-
-“(1) the adjusted value of the qualified family-owned business interests of the decedent otherwise includible in the estate, or
-
-“(2) the excess of $1,300,000 over the applicable exclusion amount under section 2010(c) with respect to such estate.”
-
-Subsec. (b)(2)(A). Pub. L. 105–206, § 6007(b)(1)(C), struck out “(without regard to this section)” after “gross estate”.
-
-Subsec. (b)(3). Pub. L. 105–206, § 6007(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The amount of the gifts of qualified family-owned business interests determined under this paragraph is the excess of—
-
-“(A) the sum of—
-
-“(i) the amount of such gifts from the decedent to members of the decedent’s family taken into account under subsection 2001(b)(1)(B), plus
-
-“(ii) the amount of such gifts otherwise excluded under section 2503(b),
-
-to the extent such interests are continuously held by members of such family (other than the decedent’s spouse) between the date of the gift and the date of the decedent’s death, over
-
-“(B) the amount of such gifts from the decedent to members of the decedent’s family otherwise included in the gross estate.”
-
-Subsec. (c). Pub. L. 105–206, § 6007(b)(1)(D), struck out “(determined without regard to this section)” after “the gross estate” in introductory provisions.
-
-Subsec. (e)(1). Pub. L. 105–206, § 6007(b)(5)(A), inserted concluding provisions.
-
-Subsec. (e)(2). Pub. L. 105–206, § 6007(b)(3)(C), inserted concluding provisions.
-
-Subsec. (e)(2)(C). Pub. L. 105–206, § 6007(b)(3)(A), substituted “(as defined in section 543(a) without regard to paragraph (2)(B) thereof) if such trade or business were a corporation” for “(as defined in section 543(a))”.
-
-Subsec. (e)(2)(D)(ii). Pub. L. 105–206, § 6007(b)(3)(B), substituted “personal holding company income (as defined in subparagraph (C)) or income described” for “income of which is described in section 543(a) or”.
-
-Subsec. (f)(2)(A)(i). Pub. L. 105–206, § 6007(b)(4)(A), struck out “(as determined under rules similar to the rules of section 2032A(c)(2)(B))” after “business interest”.
-
-Subsec. (f)(2)(C). Pub. L. 105–206, § 6007(b)(4)(B), added subpar. (C).
-
-Subsec. (f)(3). Pub. L. 105–206, § 6007(b)(5)(B), added par. (3).
-
-Subsec. (g)(1). Pub. L. 105–206, § 6007(b)(6), struck out “or (M)” after “subparagraph (F)”.
-
-Subsec. (i)(3)(L) to (P). Pub. L. 105–206, § 6007(b)(7), added subpars. (L) and (M) and redesignated former subpars. (L) to (N) as (N) to (P), respectively.
-
-#### Effective Date of 2004 Amendment
-Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under [section 2 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-2).
-
-#### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2003, see section 521(e)(3) of Pub. L. 107–16, set out as a note under [section 2010 of this title](./chapter-011-estate-tax.md#section-2010).
-
-#### Effective Date of 1998 Amendment
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
-#### Effective Date
-Pub. L. 105–34, title V, § 502(c), Aug. 5, 1997, 111 Stat. 852, provided that: “The amendments made by this section [enacting this section] shall apply to estates of decedents dying after December 31, 1997.”
+#### Effective Date of Repeal
+Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 
 <a id="section-2058"></a>
@@ -3162,7 +2821,7 @@ Notwithstanding sections 6511 and 6512, refund based on the deduction may be mad
 ### Statutory Notes
 
 #### Effective Date
-Section applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Section applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 
 <a id="section-2101"></a>
@@ -3271,7 +2930,7 @@ Subsec. (c)(3). Pub. L. 100–647, § 5032(b)(2), amended par. (3) generally, su
 1966—Pub. L. 89–809 redesignated existing provisions as subsec. (a), inserted reference to special limitation provided in subsec. (b), and added subsec. (b).
 
 #### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under [section 2001 of this title](./chapter-011-estate-tax.md#section-2001).
@@ -3303,11 +2962,13 @@ For the purpose of the tax imposed by section 2101, the value of the gross estat
 (1) a United States person, or
 
 (2) the United States, a State or any political subdivision thereof, or the District of Columbia,
-owned and held by a nonresident not a citizen of the United States shall be deemed property within the United States. With respect to estates of decedents dying after December 31, 1969, deposits with a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business, shall, for purposes of this subchapter, be deemed property within the United States. This subsection shall not apply to a debt obligation to which section 2105(b) applies.
+owned and held by a nonresident not a citizen of the United States shall be deemed property within the United States. Deposits with a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business, shall, for purposes of this subchapter, be deemed property within the United States. This subsection shall not apply to a debt obligation to which section 2105(b) applies.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–295 substituted “Deposits” for “With respect to estates of decedents dying after December 31, 1969, deposits” in concluding provisions.
+
 2010—Subsec. (c). Pub. L. 111–226, in concluding provisions, struck out before period at end “or to a debt obligation of a domestic corporation if any interest on such obligation, were such interest received by the decedent at the time of his death, would be treated by reason of section 861(a)(1)(A) as income from sources without the United States”.
 
 1996—Subsec. (c). Pub. L. 104–188 substituted “section 861(a)(1)(A)” for “subparagraph (A), (C), or (D) of section 861(a)(1)” in concluding provisions.
@@ -3323,6 +2984,9 @@ owned and held by a nonresident not a citizen of the United States shall be deem
 1969—Subsec. (c). Pub. L. 91–172 substituted “December 31, 1969” for “December 31, 1972” in provisions deeming deposit with a domestic branch of a foreign corporation if such branch is engaged in the commercial banking business to be property within the United States.
 
 1966—Subsec. (c). Pub. L. 89–809 added subsec. (c).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–226 applicable to taxable years beginning after Dec. 31, 2010, with certain exceptions, see section 217(d) of Pub. L. 111–226, set out as a note under [section 861 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-861).
@@ -3465,13 +3129,15 @@ Amendment by Pub. L. 89–809 applicable with respect to estates of decedents dy
 
 (3) **Marital deduction** — The amount which would be deductible with respect to property situated in the United States at the time of the decedent’s death under the principles of section 2056.
 
-(4) **State death taxes** — The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term “State death taxes” means the taxes described in section 2011(a).
+(4) **State death taxes** — The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term “State death taxes” means the taxes described in 2058(a).11 So in original. Probably should be preceeded by “section”.
 
 **(b) Condition of allowance of deductions** No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case of a nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a)(4). Pub. L. 113–295 substituted “2058(a)” for “section 2011(a)”.
+
 2001—Subsec. (a)(4). Pub. L. 107–16 added par. (4).
 
 1989—Subsec. (a)(3). Pub. L. 101–239 struck out “allowed where spouse is citizen” after “deduction” in heading.
@@ -3506,8 +3172,11 @@ Subsec. (a)(2)(E). Pub. L. 91–172, § 201(d)(2), substituted substantive provi
 
 1958—Subsec. (a)(2)(E). Pub. L. 85–866 substituted “503” for “504”.
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 #### Effective Date of 1989 Amendment
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -3525,7 +3194,7 @@ Amendment by Pub. L. 99–514 applicable to transfers and contributions made aft
 For effective date of amendment by Pub. L. 97–473, see section 204(3) of Pub. L. 97–473, set out as an Effective Date note under [section 7871 of this title](./chapter-080-general-rules.md#section-7871).
 
 #### Effective Date of 1976 Amendment
-Amendment by section 1902(a)(5) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by section 1902(a)(5), (12)(A) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 Amendment by section 2001(c)(1)(F) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under [section 2001 of this title](./chapter-011-estate-tax.md#section-2001).
 
@@ -3622,7 +3291,7 @@ Subsec. (e). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate�
 Amendment by Pub. L. 108–357 applicable to individuals who expatriate after June 3, 2004, see section 804(f) of Pub. L. 108–357, set out as a note under [section 877 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-877).
 
 #### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under [section 26 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-26).
@@ -3631,7 +3300,7 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 Amendment by Pub. L. 104–191 applicable to individuals losing United States citizenship on or after Feb. 6, 1995, and to long-term residents of the United States with respect to whom an event described in section 877(e)(1)(A) or (B) of this title occurs on or after Feb. 6, 1995, with special rule for certain individuals who performed an act of expatriation specified in section 1481(a)(1)–(4) of Title 8, Aliens and Nationality, before Feb. 6, 1995, see section 511(g) of Pub. L. 104–191, set out as a note under [section 877 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-877).
 
 #### Effective Date of 1976 Amendment
-Amendment by section 1902(a)(6) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by section 1902(a)(6) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 Amendment by section 2001(c)(1)(E)(ii) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under [section 2001 of this title](./chapter-011-estate-tax.md#section-2001).
 
@@ -3664,7 +3333,7 @@ the President shall proclaim that the tax on the transfer of the estate of every
 Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1976 Amendment
-Amendment by section 1902(a)(6) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by section 1902(a)(6) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 #### Effective Date
 Section applicable with respect to estates of decedents dying after Nov. 13, 1966, see section 108(i) of Pub. L. 89–809, set out as an Effective Date of 1966 Amendment note under [section 2101 of this title](./chapter-011-estate-tax.md#section-2101).
@@ -3709,10 +3378,10 @@ Pub. L. 107–16, § 532(c)(9)(A), which struck out “as defined in section 201
 Pub. L. 108–121, title I, § 110(c)(3), Nov. 11, 2003, 117 Stat. 1343, provided that: “The amendments made by this subsection [amending this section] shall apply to estates of decedents dying after December 31, 2002.”
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–134 applicable to estates of decedents dying on or after Sept. 11, 2001, and, in the case of individuals dying as a result of the Apr. 19, 1995, terrorist attack, dying on or after Apr. 19, 1995, with provisions relating to waiver of limitations, see section 103(d) of Pub. L. 107–134, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 107–134 applicable to estates of decedents dying on or after Sept. 11, 2001, and, in the case of individuals dying as a result of the Apr. 19, 1995, terrorist attack, dying on or after Apr. 19, 1995, with provisions relating to waiver of limitations, see section 103(d) of Pub. L. 107–134, set out as a note under [section 2053 of this title](./chapter-011-estate-tax.md#section-2053).
 
 #### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 #### Effective Date of 1976 Amendment
 Pub. L. 94–455, title XIX, § 1902(a)(7)(B), Oct. 4, 1976, 90 Stat. 1805, provided that: “The amendment made by subsection (A) [amending section 6(b)(1) of Pub. L. 93–597] is effective July 1, 1973.”
@@ -3729,7 +3398,7 @@ Pub. L. 93–597, § 6(c), Jan. 2, 1975, 88 Stat. 1953, provided that: “The am
 Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 401; June 25, 1959, Pub. L. 86–70, § 22(a), 73 Stat. 146; July 12, 1960, Pub. L. 86–624, § 18(b), 74 Stat. 416, related to the presumption that missionaries duly commissioned and serving under boards of foreign missions are residents of the State or the District of Columbia wherein they resided at the time of their commission and departure for service.
 
 #### Effective Date of Repeal
-Repeal applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Repeal applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 
 <a id="section-2203"></a>
@@ -3778,7 +3447,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 Pub. L. 95–600, title VII, § 702(p)(2), Nov. 6, 1978, 92 Stat. 2937, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to the estates of decedents dying after December 31, 1976.”
 
 #### Effective Date of 1976 Amendment
-Amendment by section 1902(a)(9) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Dec. 31, 1970, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by section 1902(a)(9) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Dec. 31, 1970, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 Amendment by section 2004(d)(4) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2004(g) of Pub. L. 94–455, set out as a note under [section 6166 of this title](./chapter-062-time-and-place-for-paying-tax.md#section-6166).
 
@@ -3907,7 +3576,7 @@ A decedent who was a citizen of the United States and a resident of a possession
 ### Statutory Notes
 
 #### Effective Date
-Section applicable to estates of decedents dying after Sept. 2, 1958, see section 102(d) of Pub. L. 85–866, set out as an Effective Date of 1958 Amendment note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Section applicable to estates of decedents dying after Sept. 2, 1958, see section 102(d) of Pub. L. 85–866, set out as an Effective Date of 1958 Amendment note under [section 2014 of this title](./chapter-011-estate-tax.md#section-2014).
 
 
 <a id="section-2209"></a>

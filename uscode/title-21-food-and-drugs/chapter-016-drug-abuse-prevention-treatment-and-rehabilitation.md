@@ -147,7 +147,8 @@ Whenever the Attorney General determines that there is evidence that—
 
 (1) a drug or other substance, which is not a controlled substance (as defined in [section 802(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/6&num=0&edition=prelim)), has a potential for abuse, or
 
-(2) a controlled substance should be transferred or removed from a schedule under [section 812 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-812), he shall, prior to initiating any proceeding under [section 811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section811/a&num=0&edition=prelim), give the President timely notice of such determination. Information forwarded to the Attorney General pursuant to [section 811(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section811/f&num=0&edition=prelim) shall also be forwarded by the Secretary of Health and Human Services to the President.
+(2) a controlled substance should be transferred or removed from a schedule under [section 812 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-812),
+he shall, prior to initiating any proceeding under [section 811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section811/a&num=0&edition=prelim), give the President timely notice of such determination. Information forwarded to the Attorney General pursuant to [section 811(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section811/f&num=0&edition=prelim) shall also be forwarded by the Secretary of Health and Human Services to the President.
 
 ### Statutory Notes
 

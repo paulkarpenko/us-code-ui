@@ -1646,7 +1646,7 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
 **(b) Federal Credit Union Act; temporary increase in share insurance**
 
-(1) **Increased amount** — Effective only during the period beginning on October 3, 2008, and ending on December 31, 2013, section 207(k)(5) of the Federal Credit Union Act ([12 U.S.C. 1787(k)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1787/k/5&num=0&edition=prelim)) shall apply with “$250,000” substituted for “$100,000”.
+(1) **Increased amount** — Effective only during the period beginning on October 3, 2008, and ending on December 31, 2013, section 207(k)(5) 11 See References in Text note below. of the Federal Credit Union Act ([12 U.S.C. 1787(k)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1787/k/5&num=0&edition=prelim)) shall apply with “$250,000” substituted for “$100,000”.
 
 (2) **Borrowing limits temporarily lifted** — During the period beginning on October 3, 2008, and ending on December 31, 2013, the National Credit Union Administration Board may request from the Secretary, and the Secretary shall approve, a loan or loans in an amount or amounts necessary to carry out this subsection, without regard to the limitations on such borrowing under section 203(d)(1) of the Federal Credit Union Act ([12 U.S.C. 1783(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1783/d/1&num=0&edition=prelim)).
 
@@ -1655,6 +1655,8 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 ### Statutory Notes
 
 #### References in Text
+Section 207(k)(5) of the Federal Credit Union Act, referred to in subsec. (b)(1), was redesignated section 207(k)(6) of the Act by Pub. L. 113–252, § 2(3), Dec. 18, 2014, 128 Stat. 2893.
+
 That Act, referred to in subsec. (c), means the Federal Deposit Insurance Act, act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
 The Federal Credit Union Act, referred to in subsec. (c), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.

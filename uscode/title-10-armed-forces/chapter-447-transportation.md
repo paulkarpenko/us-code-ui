@@ -35,7 +35,7 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 266, related to use of transport
 
 ### Statutory Notes
 
-Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 268, related to transportation of motor vehicles for members on permanent change of station. See [section 2634 of this title](./chapter-157-transportation.md#section-2634).
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 268, related to transportation of motor vehicles for members on permanent change of station.
 
 
 <a id="section-4749"></a>

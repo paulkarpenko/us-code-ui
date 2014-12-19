@@ -41,7 +41,7 @@ In paragraph (3), the word “individual” is substituted for “person” beca
 In paragraph (4)(A), the words “the outer Continental Shelf” are substituted for “Outer Continental Shelf lands” for consistency with the definition in 43:1331 and for consistency with the more common usage generally found in subchapter III of chapter 29 of title 43. The words “Eniwetok Atoll, Kwajalein Atoll” are omitted because they are part of the Marshall Islands and therefore no longer part of the United States. The words “Canton Island” are omitted because it is part of Kiribati and therefore no longer part of the United States.
 
 #### References in Text
-The Outer Continental Shelf Lands Act, referred to in par. (4)(A), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in par. (4)(A), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 
 <a id="section-6702"></a>

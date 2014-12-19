@@ -84,17 +84,16 @@ Pub. L. 100–456, div. A, title III, § 344(c), Sept. 29, 1988, 102 Stat. 1962,
 
 (1) Nothing in this section shall be construed as authority to withhold any information from the Committees on Armed Services of the Senate and House of Representatives on the grounds that providing the information to those committees would constitute the unauthorized disclosure of classified information, information relating to intelligence sources and methods, or sensitive law enforcement information.
 
-(2) Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to the Congress, including the requirement under section 501 of the National Security Act of 1947 ([50 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section413&num=0&edition=prelim)).11 See References in Text note below.
+(2) Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to the Congress, including the requirement under section 501 of the National Security Act of 1947 ([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim)).
 
 ### Statutory Notes
 
-#### References in Text
-The National Security Act of 1947, referred to in subsec. (d)(2), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 501 of the Act is now classified to [section 3091 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
-
 #### Amendments
+2014—Subsec. (d)(2). Pub. L. 113–291 substituted “([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim))” for “([50 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section413&num=0&edition=prelim))”.
+
 2009—Subsec. (a). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(12). See 2008 Amendment note below.
 
-2008—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417(a)(12) amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(12), was repealed by Pub. L. 111–84. See 2009 Amendment note above.
+2008—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417, § 932(a)(12), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(12), was repealed by Pub. L. 111–84. See 2009 Amendment note above.
 
 #### Effective Date of 2009 Amendment
 Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided in part that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.

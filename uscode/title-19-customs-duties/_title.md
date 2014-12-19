@@ -2,7 +2,7 @@
 title: 19
 heading: CUSTOMS DUTIES
 positive_law: false
-sections: 1004
+sections: 1005
 chapters: 27
 ---
 # Title 19. CUSTOMS DUTIES

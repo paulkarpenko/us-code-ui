@@ -29,7 +29,7 @@ source: >-
 ### Statutory Notes
 
 #### Effective Date
-Pub. L. 111–203, title V, § 512, July 21, 2010, 124 Stat. 1589, provided that: “Except as otherwise specifically provided in this subtitle [see Short Title note above], this subtitle shall take effect upon the expiration of the 12-month period beginning on the date of the enactment of this subtitle [July 21, 2010].”
+Pub. L. 111–203, title V, § 512, July 21, 2010, 124 Stat. 1589, provided that: “Except as otherwise specifically provided in this subtitle [see Short Title note below], this subtitle shall take effect upon the expiration of the 12-month period beginning on the date of the enactment of this subtitle [July 21, 2010].”
 
 #### Short Title
 Pub. L. 111–203, title V, § 511, July 21, 2010, 124 Stat. 1589, provided that: “This subtitle [subtitle B (§§ 511–542) of title V of Pub. L. 111–203, enacting this chapter and provisions set out as a note under this section] may be cited as the ‘Nonadmitted and Reinsurance Reform Act of 2010’.”

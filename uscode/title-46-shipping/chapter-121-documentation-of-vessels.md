@@ -390,7 +390,7 @@ Pub. L. 108–293, title VI, § 608(b), Aug. 9, 2004, 118 Stat. 1056, provided t
 
     (ii) is eligible for a fishery endorsement under this section; and
 
-    (iii) in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–625 et seq.), is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2887); or
+    (iii) in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–625 et seq.), is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2887); 22 So in original. The semicolon probably should be preceded by another closing parenthesis. or
 
   (D) the vessel is a fish tender vessel that is not engaged in the harvesting or processing of fish.
 

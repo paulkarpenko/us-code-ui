@@ -351,12 +351,12 @@ Subsec. (d). Pub. L. 87–61, § 203(b)(2)(B), made conforming changes to refer 
 Subsec. (e). Pub. L. 87–61, § 203(b)(1), substituted “before October 1, 1972” for “after June 30, 1956, and before July 1, 1972”.
 
 #### Effective Date of 2012 Amendment
-Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
-Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as an Effective and Termination Dates of 2012 Amendment note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as an Effective and Termination Dates of 2012 Amendment note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2011 Amendment
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2005 Amendment
 Pub. L. 109–14, § 9(d), May 31, 2005, 119 Stat. 336, provided that: “The amendments made by this section [amending this section and sections 4482, 4483, 9503, and 9504 of this title] shall take effect on the date of the enactment of this Act [May 31, 2005].”
@@ -473,16 +473,16 @@ Subsec. (c)(4). Pub. L. 94–280 substituted “1979” for “1977” wherever 
 #### Effective and Termination Dates of 2012 Amendment
 Pub. L. 112–141, div. D, title I, § 40102(b)(2)(B), July 6, 2012, 126 Stat. 845, provided that: “The amendment made by this paragraph [amending this section] shall take effect as if included in the amendments made by section 142 of the Surface Transportation Extension Act of 2011, Part II [Pub. L. 112–30].”
 
-Amendment by section 40102(b)(1)(B) of Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by section 40102(b)(1)(B) of Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
-Amendment by Pub. L. 112–140 effective as if included in section 402 of Pub. L. 112–102, see section 402(f)(2) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–140 effective as if included in section 402 of Pub. L. 112–102, see section 402(f)(2) of Pub. L. 112–140, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
-Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2011 Amendment
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 1983 Amendment
 Amendment by section 513(c), (e) of Pub. L. 97–424 effective July 1, 1984, see section 513(f) of Pub. L. 97–424, set out as a note under [section 4481 of this title](./chapter-036-certain-other-excise-taxes.md#section-4481).
@@ -565,7 +565,8 @@ Amendment by section 513(c) of Pub. L. 97–424 effective July 1, 1984, in the c
 (1) the exclusive use of such vehicle during any taxable period is the transportation, to and from a point located on a forested site, of products harvested from such forested site, and
 
 (2) such vehicle is registered (under the laws of the State in which such vehicle is required to be registered) as a highway motor vehicle used in the transportation of harvested forest products.
-[(f) Repealed. Pub. L. 108–357, title VIII, § 867(d), Oct. 22, 2004, 118 Stat. 1622]
+
+**(f) Repealed. Pub. L. 108–357, title VIII, § 867(d), Oct. 22, 2004, 118 Stat. 1622]**
 
 **(g) Exemption for mobile machinery** No tax shall be imposed by section 4481 on the use of any vehicle described in section 4053(8).
 
@@ -632,16 +633,16 @@ Subsec. (e). Pub. L. 97–424, § 516(b)(3), added subsec. (e).
 Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(B), inserted “of the Treasury” after “Secretary”.
 
 #### Effective and Termination Dates of 2012 Amendment
-Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
-Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
-Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2011 Amendment
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–280 effective Jan. 1, 2007, and applicable to taxable periods beginning on or after July 1, 2007, see section 1207(g) of Pub. L. 109–280, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).

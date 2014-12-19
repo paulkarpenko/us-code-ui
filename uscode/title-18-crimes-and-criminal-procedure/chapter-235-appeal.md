@@ -57,8 +57,6 @@ Pub. L. 91–644, title III, § 14(b), Jan. 2, 1971, 84 Stat. 1890, provided tha
 <a id="section-3732"></a>
 ## § 3732. Taking of appeal; notice; time—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 ### Statutory Notes
 
 #### References in Text
@@ -67,8 +65,6 @@ Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, e
 
 <a id="section-3733"></a>
 ## § 3733. Assignment of errors—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 ### Statutory Notes
 
@@ -79,8 +75,6 @@ Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1947, e
 <a id="section-3734"></a>
 ## § 3734. Bill of exceptions abolished—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 ### Statutory Notes
 
 #### References in Text
@@ -89,8 +83,6 @@ Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, e
 
 <a id="section-3735"></a>
 ## § 3735. Bail on appeal or certiorari—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 ### Statutory Notes
 
@@ -103,8 +95,6 @@ Rule 46 was amended as part of the Bail Reform Act in 1966 and in 1972, and some
 <a id="section-3736"></a>
 ## § 3736. Certiorari—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 ### Statutory Notes
 
 #### References in Text
@@ -113,8 +103,6 @@ Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, e
 
 <a id="section-3737"></a>
 ## § 3737. Record—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 ### Statutory Notes
 
@@ -125,8 +113,6 @@ Rules 37 and 39 of the Federal Rules of Criminal Procedure were abrogated Dec. 4
 <a id="section-3738"></a>
 ## § 3738. Docketing appeal and record—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 ### Statutory Notes
 
 #### References in Text
@@ -135,8 +121,6 @@ Rule 39 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, e
 
 <a id="section-3739"></a>
 ## § 3739. Supervision—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 ### Statutory Notes
 
@@ -147,8 +131,6 @@ Rule 39 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, e
 <a id="section-3740"></a>
 ## § 3740. Argument—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 ### Statutory Notes
 
 #### References in Text
@@ -157,8 +139,6 @@ Rule 39 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, e
 
 <a id="section-3741"></a>
 ## § 3741. Harmless error and plain error—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3742"></a>

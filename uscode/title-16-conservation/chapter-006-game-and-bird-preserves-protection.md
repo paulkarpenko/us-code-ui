@@ -2,7 +2,7 @@
 title: 16
 chapter: '6'
 heading: GAME AND BIRD PRESERVES; PROTECTION
-section_count: 130
+section_count: 121
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -88,7 +88,7 @@ Repeal of laws inconsistent with act Sept. 14, 1950, see note set out under [sec
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a) and (b), is act Sept. 14, 1950, which is classified to sections 406d–1 to 406d–5, 531a, 451a, 482m, 673b, 673c of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a) and (b), is act Sept. 14, 1950, which is classified to sections 406d–1 to 406d–5, and 531a of this title, former [section 451a of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-451a), and sections 482m, 673b, 673c of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Repeal of Inconsistent Laws
 Repeal of laws inconsistent with act Sept. 14, 1950, see note set out under [section 406d–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-406d-1).
@@ -248,9 +248,6 @@ Upon recommendation of the Secretary of Agriculture, the Secretary of the Interi
 Subject to the conditions herein provided, mining locations may be made under the general mining laws of the United States on lands of the United States situated within the exterior boundaries of that portion of the Harney National Forest designated as the Norbeck Wildlife Preserve, South Dakota, created pursuant to the provisions of sections 675 to 678 of this title. A locator shall have the right to occupy and use so much of the surface of the land covered by the location as may be reasonably necessary to carry on prospecting and mining, including the taking of mineral deposits and timber required by or in the mining operations, and no permit shall be required or charge made for such use or occupancy: Provided, however, That the mining operations herein authorized shall be subject to such rules and regulations as the Secretary of Agriculture may deem necessary in furtherance of the purposes for which the said preserve was established: Provided further, That the cutting and removal of timber, except where clearing is necessary in connection with mining operations or to provide space for buildings or structures used in connection with mining operations, shall be conducted in accordance with the marking rules and timber sale practices applicable to the Harney National Forest, and no use of the surface of the claim or the resources therefrom not reasonably required for carrying on mining and prospecting shall be allowed except under the national-forest rules and regulations, nor shall the locator prevent or obstruct other occupancy of the surface or use of surface resources under authority of national-forest regulations, or permits issued thereunder, if such occupancy or use is not in conflict with mineral development: Provided further, That the Secretary of Agriculture in his discretion may prohibit the location of mining claims within six hundred and sixty feet of any Federal, State, or county road, and within such other areas where the location of mining claims would not be in the public interest: And provided further, That no patent shall be issued by the United States on any location filed pursuant to the authority contained in this section.
 
 ### Statutory Notes
-
-#### References in Text
-The general mining laws of the United States, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
 
 #### Change of Name
 “Custer State Park Game Sanctuary” changed to “Norbeck Wildlife Preserve” by act Oct. 6, 1949.
@@ -993,7 +990,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 <a id="section-698c"></a>
 ## § 698c. Administration of Big Thicket Preserve
-**(a) Natural and ecological integrity** The area within the boundaries depicted on the map referred to in [section 698 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-698) shall be known as the Big Thicket National Preserve. Such lands shall be administered by the Secretary as a unit of the National Park System in a manner which will assure their natural and ecological integrity in perpetuity in accordance with the provisions of sections 698 to 698e of this title and with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
+**(a) Natural and ecological integrity** The area within the boundaries depicted on the map referred to in [section 698 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-698) shall be known as the Big Thicket National Preserve. Such lands shall be administered by the Secretary as a unit of the National Park System in a manner which will assure their natural and ecological integrity in perpetuity in accordance with the provisions of sections 698 to 698e of this title and with the provisions of sections 1, 2, 3, and 4 11 See References in Text note below. of this title, as amended and supplemented.
 
 **(b) Limitation on construction of roads, campgrounds, etc.; rules and regulations for use of Federal lands and waters** In the interest of maintaining the ecological integrity of the preserve, the Secretary shall limit the construction of roads, vehicular campgrounds, employee housing, and other public use and administrative facilities and he shall promulgate and publish such rules and regulations in the Federal Register as he deems necessary and appropriate to limit and control the use of, and activities on, Federal lands and waters with respect to:
 
@@ -1008,6 +1005,11 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 (5) such other uses as the Secretary determines must be limited or controlled in order to carry out the purposes of sections 698 to 698e of this title.
 
 **(c) Hunting, fishing, and trapping authorized in accordance with applicable Federal and State laws; consultation with appropriate State agency prior to implementation of regulations restricting activities** The Secretary shall permit hunting, fishing, and trapping on lands and waters under his jurisdiction within the preserve in accordance with the applicable laws of the United States and the State of Texas, except that he may designate zones where and periods when, no hunting, fishing, trapping, or entry may be permitted for reasons of public safety, administration, floral and faunal protection and management, or public use and enjoyment. Except in emergencies, any regulations prescribing such restrictions relating to hunting, fishing, or trapping shall be put into effect only after consultation with the appropriate State agency having jurisdiction over hunting, fishing and trapping activities.
+
+### Statutory Notes
+
+#### References in Text
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs.
 
 
 <a id="section-698d"></a>
@@ -1115,7 +1117,7 @@ Pub. L. 100–301, § 4(f)(2)(B), which directed insertion of “or January 1, 1
 
 <a id="section-698i"></a>
 ## § 698i. Administration of Big Cypress Preserve; applicability of other laws; rules and regulations for use of lands and waters; transportation facilities; consultation and cooperation with Secretary of Transportation
-**(a)** The area within the boundaries depicted on the map referred to in [section 698f of this title](./chapter-006-game-and-bird-preserves-protection.md#section-698f) shall be known as the Big Cypress National Preserve. Such lands shall be administered by the Secretary as a unit of the National Park System in a manner which will assure their natural and ecological integrity in perpetuity in accordance with the provisions of sections 698f to 698m–4 of this title and with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
+**(a)** The area within the boundaries depicted on the map referred to in [section 698f of this title](./chapter-006-game-and-bird-preserves-protection.md#section-698f) shall be known as the Big Cypress National Preserve. Such lands shall be administered by the Secretary as a unit of the National Park System in a manner which will assure their natural and ecological integrity in perpetuity in accordance with the provisions of sections 698f to 698m–4 of this title and with the provisions of sections 1, 2, 3, and 4 11 See References in Text note below. of this title, as amended and supplemented.
 
 **(b)** In administering the preserve, the Secretary shall develop and publish in the Federal Register such rules and regulations as he deems necessary and appropriate to limit or control the use of Federal lands and waters with respect to:
 
@@ -1133,7 +1135,12 @@ Pub. L. 100–301, § 4(f)(2)(B), which directed insertion of “or January 1, 1
 
 (7) new construction of any kind, and
 
-(8) such other uses as the Secretary determines must be limited or controlled in order to carry out the purposes of sections 698f to 698m–4 of this title: Provided, That the Secretary shall consult and cooperate with the Secretary of Transportation to assure that necessary transportation facilities shall be located within existing or reasonably expanded rights-of-way and constructed within the reserve 11 So in original. Probably should be “preserve”. in a manner consistent with the purposes of sections 698f to 698m–4 of this title.
+(8) such other uses as the Secretary determines must be limited or controlled in order to carry out the purposes of sections 698f to 698m–4 of this title: Provided, That the Secretary shall consult and cooperate with the Secretary of Transportation to assure that necessary transportation facilities shall be located within existing or reasonably expanded rights-of-way and constructed within the reserve 22 So in original. Probably should be “preserve”. in a manner consistent with the purposes of sections 698f to 698m–4 of this title.
+
+### Statutory Notes
+
+#### References in Text
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs.
 
 
 <a id="section-698j"></a>
@@ -1224,7 +1231,8 @@ Not later than two years after April 29, 1988, the Secretary shall submit to the
 
 (4) the status of land acquisition; and
 
-(5) a determination, made in conjunction with the State of Florida, of the adequacy of the number, location, and design of the recreational access points on I–75/Alligator Alley for access to the Big Cypress National Preserve, including the Addition. The determination required by paragraph (5) shall incorporate the results of any related studies of the State of Florida Department of Transportation and other Florida State agencies. Any recommendation for significant changes in the approved recreational access points, including any proposed additions, shall be accompanied by an assessment of the environmental impact of such changes.
+(5) a determination, made in conjunction with the State of Florida, of the adequacy of the number, location, and design of the recreational access points on I–75/Alligator Alley for access to the Big Cypress National Preserve, including the Addition.
+The determination required by paragraph (5) shall incorporate the results of any related studies of the State of Florida Department of Transportation and other Florida State agencies. Any recommendation for significant changes in the approved recreational access points, including any proposed additions, shall be accompanied by an assessment of the environmental impact of such changes.
 
 
 <a id="section-698m-4"></a>
@@ -1262,7 +1270,7 @@ Not later than two years after April 29, 1988, the Secretary shall submit to the
 ## § 698n. Timucuan Ecological and Historic Preserve
 **(a) Establishment**
 
-(1) **In general** — There is established in the St. Johns River Valley, Florida, where the Timucuan Indians lived in prehistoric and historic times, the Timucuan Ecological and Historic Preserve (hereafter in sections 698n to 698p of this title referred to as the “Preserve”). The Preserve shall comprise the lands, waters, and interests therein within the boundaries generally depicted on a map of Duval County, Florida, entitled “Timucuan Ecological and Historic Preserve” numbered NA–TEHP 80,003–A and dated July 1987. The map shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior. The Secretary of the Interior may make minor revisions in the boundary of the Preserve in accordance with section 460l–9(c) of this title. The Preserve shall also include within its boundaries all that land consisting of approximately 500 acres adjacent to Fort Caroline National Memorial and known as the Theodore Roosevelt Preserve, being land formerly owned by one Willie Brown and donated by him to The Nature Conservancy.
+(1) **In general** — There is established in the St. Johns River Valley, Florida, where the Timucuan Indians lived in prehistoric and historic times, the Timucuan Ecological and Historic Preserve (hereafter in sections 698n to 698p of this title referred to as the “Preserve”). The Preserve shall comprise the lands, waters, and interests therein within the boundaries generally depicted on a map of Duval County, Florida, entitled “Timucuan Ecological and Historic Preserve” numbered NA–TEHP 80,003–A and dated July 1987. The map shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior. The Secretary of the Interior may make minor revisions in the boundary of the Preserve in accordance with [section 100506(c) of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100506/c&num=0&edition=prelim). The Preserve shall also include within its boundaries all that land consisting of approximately 500 acres adjacent to Fort Caroline National Memorial and known as the Theodore Roosevelt Preserve, being land formerly owned by one Willie Brown and donated by him to The Nature Conservancy.
 
 (2) **Modification of boundary**
 
@@ -1276,11 +1284,17 @@ Not later than two years after April 29, 1988, the Secretary shall submit to the
 
 **(b) Land acquisition** The Secretary of the Interior (hereinafter in sections 698n to 698p of this title referred to as the “Secretary”) is authorized to acquire lands and interests therein within the Preserve by donation, purchase with donated or appropriated funds, or exchange, but no lands other than wetlands or interests therein may be acquired without the consent of the owner. For purposes of this subsection, the term “wetlands” has the same meaning as provided by [section 3902 of this title](./chapter-059-wetlands-resources.md#section-3902). Lands, interests in lands, and improvements thereon within the boundaries of the Preserve which are owned by the State of Florida or any political subdivision thereof may be acquired only by donation or exchange. On lands acquired for inclusion within the Preserve, the Secretary shall not impair any legal riparian right of access nor shall he preclude the continued use of any legal right of way.
 
-**(c) Administration** The Secretary shall administer those lands acquired for inclusion within the Preserve in such a manner as to protect the natural ecology of such land and water areas in accordance with sections 698n to 698p of this title and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title. The Secretary shall permit boating, boating-related activities, hunting, and fishing within the Preserve in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting or fishing shall be permitted for reasons of public safety.
+**(c) Administration** The Secretary shall administer those lands acquired for inclusion within the Preserve in such a manner as to protect the natural ecology of such land and water areas in accordance with sections 698n to 698p of this title and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 11 See References in Text note below. of this title. The Secretary shall permit boating, boating-related activities, hunting, and fishing within the Preserve in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting or fishing shall be permitted for reasons of public safety.
 
 **(d) Development of multiunit residential/resort project** Nothing in sections 698n to 698p of this title shall affect development of a multiunit residential/resort project currently proposed for Fort George Island, nor shall any provision of sections 698n to 698p of this title be construed to affect any Federal, State or local law applicable to such project.
 
 ### Statutory Notes
+
+#### References in Text
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs.
+
+#### Codification
+In subsec. (a)(1), “[section 100506(c) of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100506/c&num=0&edition=prelim)” substituted for “section 7(c) of the Land and Water Conservation Fund Act of 1965” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
 2004—Subsec. (a). Pub. L. 108–321 designated existing provisions as par. (1), inserted heading, substituted “There is” for “There is hereby”, and added par. (2).
@@ -1355,9 +1369,9 @@ Pub. L. 102–427, § 1, Oct. 21, 1992, 106 Stat. 2179, provided that: “This A
 ## § 698r. Administration
 **(a) In general** The Preserve shall be administered by the Secretary in accordance with sections 698q to 698t of this title and in accordance with the laws generally applicable to units of the National Park System, including—
 
-(1) sections 1, 2, 3, and 4 of this title; and
+(1) sections 1, 2, 3, and 4 11 See References in Text note below. of this title; and
 
-(2) sections 461 to 467 of this title.
+(2) sections 461 to 467 1 of this title.
 
 **(b) Hunting and fishing**
 
@@ -1390,6 +1404,13 @@ Pub. L. 102–427, § 1, Oct. 21, 1992, 106 Stat. 2179, provided that: “This A
 (2) **Consideration of public comment** — In preparing and implementing the plan described in paragraph (1), the Secretary shall give full consideration to the views and comments of the individuals, groups, and agencies described in paragraph (1).
 
 **(g) Green Pitcher Plant** Upon the transfer by Alabama Power Company to the United States of any lands within the boundaries of the Preserve that contain the Green Pitcher Plant (Sarracenia oreophila), all rights and obligations of Alabama Power Company under the agreement entered into between the company and the Department of the Interior (including the United States Fish and Wildlife Service) on May 12, 1983, in settlement of the action brought on September 24, 1980, against the Secretary and the Director of the Fish and Wildlife Service in the United States District Court for the Northern District of Alabama (Civil Action No. CV 80–C–1242–M), shall be extinguished.
+
+### Statutory Notes
+
+#### References in Text
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a)(1), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs.
+
+Sections 461 to 467 of this title, referred to in subsec. (a)(2), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
 
 <a id="section-698s"></a>
@@ -1446,7 +1467,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (3) the study concludes that the Spring Hill Ranch—
 
-  (A) is a nationally significant example of the once vast tallgrass ecosystem, and includes buildings listed on the National Register of Historic Places pursuant to [section 470a of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470a) that represent outstanding examples of Second Empire and other 19th Century architectural styles; and
+  (A) is a nationally significant example of the once vast tallgrass ecosystem, and includes buildings listed on the National Register of Historic Places pursuant to [section 302101 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section302101&num=0&edition=prelim) that represent outstanding examples of Second Empire and other 19th Century architectural styles; and
 
   (B) is suitable and feasible as a potential addition to the National Park System; and
 
@@ -1467,6 +1488,9 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 (2) to preserve and interpret for the public the historic and cultural values represented on the Spring Hill Ranch.
 
 ### Statutory Notes
+
+#### Codification
+In subsec. (a)(3)(A), “[section 302101 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section302101&num=0&edition=prelim)” substituted for “[section 470a of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470a)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
 2000—Subsec. (a)(4)(A). Pub. L. 106–176 substituted “to acquire” for “to purchase”.
@@ -1503,7 +1527,7 @@ In sections 698u to 698u–7 of this title:
 
 <a id="section-698u-3"></a>
 ## § 698u–3. Administration of National Preserve
-**(a) In general** The Secretary shall administer the Preserve in accordance with sections 698u to 698u–7 of this title, the cooperative agreements described in subsection (f)(1) of this section, and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+**(a) In general** The Secretary shall administer the Preserve in accordance with sections 698u to 698u–7 of this title, the cooperative agreements described in subsection (f)(1) of this section, and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 11 See References in Text note below. of this title and sections 461 to 467 1 of this title.
 
 **(b) Application of regulations** With the consent of a private owner of land within the boundaries of the Preserve, the regulations issued by the Secretary concerning the National Park Service that provide for the proper use, management, and protection of persons, property, and natural and cultural resources shall apply to the private land.
 
@@ -1519,7 +1543,7 @@ In sections 698u to 698u–7 of this title:
 
   (B) The indemnification provision authorized by subparagraph (A) shall not include claims for personal injury or property damage proximately caused by the wanton or willful misconduct of the landowner.
 
-**(e) Unit of National Park System** The Preserve shall be a unit of the National Park System for all purposes, including the purpose of exercising authority to charge entrance and admission fees under section 460l–6a of this title.
+**(e) Unit of National Park System** The Preserve shall be a unit of the National Park System for all purposes, including the purpose of exercising authority to charge entrance and admission fees under [section 100904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904&num=0&edition=prelim).
 
 **(f) Agreement and donations**
 
@@ -1566,7 +1590,14 @@ In sections 698u to 698u–7 of this title:
 ### Statutory Notes
 
 #### References in Text
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs.
+
+Sections 461 to 467 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+
 The Federal Tort Claims Act, referred to in subsec. (d)(1), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+
+#### Codification
+In subsec. (e), “[section 100904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904&num=0&edition=prelim)” substituted for “section 4 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–6a)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
 2000—Subsec. (d)(1). Pub. L. 106–176, § 122(3)(A), made technical amendment to reference in original act which appears in text as reference to sections 698u to 698u–7 of this title.
@@ -1668,596 +1699,333 @@ Nothing in sections 698u to 698u–7 of this title shall give the Secretary auth
 There are authorized to be appropriated to the Department of the Interior such sums as are necessary to carry out sections 698u to 698u–7 of this title.
 
 
-<a id="section-698v"></a>
-## § 698v. Findings and purposes
-**(a) Findings** Congress finds that—
-
-(1) the Baca ranch comprises most of the Valles Caldera in central New Mexico, and constitutes a unique land mass, with significant scientific, cultural, historic, recreational, ecological, wildlife, fisheries, and productive values;
-
-(2) the Valles Caldera is a large resurgent lava dome with potential geothermal activity;
-
-(3) the land comprising the Baca ranch was originally granted to the heirs of Don Luis Maria Cabeza de Vaca in 1860;
-
-(4) historical evidence, in the form of old logging camps and other artifacts, and the history of territorial New Mexico indicate the importance of this land over many generations for domesticated livestock production and timber supply;
-
-(5) the careful husbandry of the Baca ranch by the current owners, including selective timbering, limited grazing and hunting, and the use of prescribed fire, have preserved a mix of healthy range and timber land with significant species diversity, thereby serving as a model for sustainable land development and use;
-
-(6) the Baca ranch’s natural beauty and abundant resources, and its proximity to large municipal populations, could provide numerous recreational opportunities for hiking, fishing, camping, cross-country skiing, and hunting;
-
-(7) the Forest Service documented the scenic and natural values of the Baca ranch in its 1993 study entitled “Report on the Study of the Baca Location No. 1, Santa Fe National Forest, New Mexico”, as directed by Public Law 101–556;
-
-(8) the Baca ranch can be protected for current and future generations by continued operation as a working ranch under a unique management regime which would protect the land and resource values of the property and surrounding ecosystem while allowing and providing for the ranch to eventually become financially self-sustaining;
-
-(9) the current owners have indicated that they wish to sell the Baca ranch, creating an opportunity for Federal acquisition and public access and enjoyment of these lands;
-
-(10) certain features on the Baca ranch have historical and religious significance to Native Americans which can be preserved and protected through Federal acquisition of the property;
-
-(11) the unique nature of the Valles Caldera and the potential uses of its resources with different resulting impacts warrants a management regime uniquely capable of developing an operational program for appropriate preservation and development of the land and resources of the Baca ranch in the interest of the public;
-
-(12) an experimental management regime should be provided by the establishment of a Trust capable of using new methods of public land management that may prove to be cost-effective and environmentally sensitive; and
-
-(13) the Secretary may promote more efficient management of the Valles Caldera and the watershed of the Santa Clara Creek through the assignment of purchase rights of such watershed to the Pueblo of Santa Clara.
-
-**(b) Purposes** The purposes of sections 698v to 698v–10 of this title are—
-
-(1) to authorize Federal acquisition of the Baca ranch;
-
-(2) to protect and preserve for future generations the scientific, scenic, historic, and natural values of the Baca ranch, including rivers and ecosystems and archaeological, geological, and cultural resources;
-
-(3) to provide opportunities for public recreation;
-
-(4) to establish a demonstration area for an experimental management regime adapted to this unique property which incorporates elements of public and private administration in order to promote long term financial sustainability consistent with the other purposes enumerated in this subsection; and
-
-(5) to provide for sustained yield management of Baca ranch for timber production and domesticated livestock grazing insofar as is consistent with the other purposes stated herein.
+<a id="section-698v-to-698v-10"></a>
+## § 698v to 698v–10. Repealed. Pub. L. 113–291, div. B, title XXX, § 3043(d)(1), Dec. 19, 2014, 128 Stat. 3798
 
 ### Statutory Notes
 
-#### References in Text
-Pub. L. 101–556, referred to in subsec. (a)(7), is Pub. L. 101–556, Nov. 15, 1990, 104 Stat. 2762, which is not classified to the Code.
+Section 698v, Pub. L. 106–248, title I, § 102, July 25, 2000, 114 Stat. 598, set forth findings and purposes of sections 698v to 698v–10 of this title.
 
-#### Short Title of 2005 Amendment
-Pub. L. 109–132, § 1, Dec. 20, 2005, 119 Stat. 2570, provided that: “This Act [amending sections 698v–2 and 698v–4 to 698v–6 of this title] may be cited as the ‘Valles Caldera Preservation Act of 2005’.”
+Section 698v–1, Pub. L. 106–248, title I, § 103, July 25, 2000, 114 Stat. 599, defined terms in sections 698v to 698v–10 of this title.
+
+Section 698v–2, Pub. L. 106–248, title I, § 104, July 25, 2000, 114 Stat. 600; Pub. L. 109–132, § 2(a), Dec. 20, 2005, 119 Stat. 2570; Pub. L. 113–287, § 5(d)(20), Dec. 19, 2014, 128 Stat. 3266, related to acquisition of lands. Pursuant to [section 698v–11(d)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–11/d/2/B&num=0&edition=prelim), subsec. (g) of section 698v–2 remains in effect. For text of subsec. (g), see note under [section 698v–11 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-698v-11).
+
+Section 698v–3, Pub. L. 106–248, title I, § 105, July 25, 2000, 114 Stat. 602, related to establishment and management of Valles Caldera National Preserve.
+
+Section 698v–4, Pub. L. 106–248, title I, § 106, July 25, 2000, 114 Stat. 603; Pub. L. 109–132, § 2(b)–(d), Dec. 20, 2005, 119 Stat. 2570, 2571, related to establishment and purposes of Valles Caldera Trust.
+
+Section 698v–5, Pub. L. 106–248, title I, § 107, July 25, 2000, 114 Stat. 606; Pub. L. 109–132, § 3, Dec. 20, 2005, 119 Stat. 2571, related to Board of Trustees of Trust.
+
+Section 698v–6, Pub. L. 106–248, title I, § 108, July 25, 2000, 114 Stat. 607; Pub. L. 109–54, title IV, § 432(a), Aug. 2, 2005, 119 Stat. 556; Pub. L. 109–132, § 4, Dec. 20, 2005, 119 Stat. 2571, related to management of land and resources of Preserve.
+
+Section 698v–7, Pub. L. 106–248, title I, § 109, July 25, 2000, 114 Stat. 610, related to authorities of the Secretary of Agriculture.
+
+Section 698v–8, Pub. L. 106–248, title I, § 110, July 25, 2000, 114 Stat. 611, related to termination of Trust.
+
+Section 698v–9, Pub. L. 106–248, title I, § 111, July 25, 2000, 114 Stat. 612, related to limitations on funding.
+
+Section 698v–10, Pub. L. 106–248, title I, § 112, July 25, 2000, 114 Stat. 612; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, related to Government Accountability Office studies.
+
+See [section 698v–11 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-698v-11).
+
+#### Effective Date of Repeal
+Repeal effective on the termination of the Valles Caldera Trust, see [section 698v–11(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–11/d/1&num=0&edition=prelim).
 
 #### Short Title
-Pub. L. 106–248, title I, § 101, July 25, 2000, 114 Stat. 598, provided that: “This title [enacting this section and sections 698v–1 to 698v–10 of this title] may be cited as the ‘Valles Caldera Preservation Act’.”
+Pub. L. 106–248, title I, § 101, July 25, 2000, 114 Stat. 598, which provided that title I of Pub. L. 106–248 (enacting sections 698v to 698v–10 of this title) could be cited as the “Valles Caldera Preservation Act”, was repealed by Pub. L. 113–291, div. B, title XXX, § 3043(d)(1), Dec. 19, 2014, 128 Stat. 3798, effective on the termination of the Valles Caldera Trust.
+
+#### Termination of Valles Caldera Trust
+Valles Caldera Trust to terminate 180 days after December 19, 2014, unless Secretary determines that the date be extended to facilitate the transitional management of the Preserve, see [section 698v–11(c)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–11/c/4/A&num=0&edition=prelim).
 
 
-<a id="section-698v-1"></a>
-## § 698v–1. Definitions
+<a id="section-698v-11"></a>
+## § 698v–11. Valles Caldera National Preserve, New Mexico
+**(a) Definitions** In this section:
 
-In sections 698v to 698v–10 of this title:
+(1) **Eligible employee** — The term “eligible employee” means a person who was a full-time or part-time employee of the Trust during the 180-day period immediately preceding December 19, 2014.
 
-(1) **Baca ranch** — The term “Baca ranch” means the lands and facilities described in [section 698v–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/a&num=0&edition=prelim).
+(2) **Fund** — The term “Fund” means the Valles Caldera Fund established by section 106(h)(2) of the Valles Caldera Preservation Act.
 
-(2) **Board of Trustees** — The terms “Board of Trustees” and “Board” mean the Board of Trustees as described in [section 698v–5 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-698v-5).
+(3) **Preserve** — The term “Preserve” means the Valles Caldera National Preserve in the State.
 
-(3) **Committees of Congress** — The term “Committees of Congress” means the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives.
+(4) **Secretary** — The term “Secretary” means the Secretary of the Interior.
 
-(4) **Financially self-sustaining** — The term “financially self-sustaining” means management and operating expenditures equal to or less than proceeds derived from fees and other receipts for resource use and development and interest on invested funds. Management and operating expenditures shall include Trustee expenses, salaries and benefits of staff, administrative and operating expenses, improvements to and maintenance of lands and facilities of the Preserve, and other similar expenses. Funds appropriated to the Trust by Congress, either directly or through the Secretary, for the purposes of sections 698v to 698v–10 of this title shall not be considered.
+(5) **State** — The term “State” means the State of New Mexico.
 
-(5) **Multiple use and sustained yield** — The term “multiple use and sustained yield” has the combined meaning of the terms “multiple use” and “sustained yield of the several products and services”, as defined under the Multiple-Use Sustained-Yield Act of 1960 ([16 U.S.C. 531](./chapter-002-national-forests.md#section-531)).
+(6) **Trust** — The term “Trust” means the Valles Caldera Trust established by section 106(a) of the Valles Caldera Preservation Act.
 
-(6) **Preserve** — The term “Preserve” means the Valles Caldera National Preserve established under [section 698v–3 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-698v-3).
+**(b) Designation of Valles Caldera National Preserve as a unit of the National Park System**
 
-(7) **Secretary** — Except where otherwise provided, the term “Secretary” means the Secretary of Agriculture.
+(1) **In general** — To protect, preserve, and restore the fish, wildlife, watershed, natural, scientific, scenic, geologic, historic, cultural, archaeological, and recreational values of the area, the Valles Caldera National Preserve is designated as a unit of the National Park System.
 
-(8) **Trust** — The term “Trust” means the Valles Caldera Trust established under [section 698v–4 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-698v-4).
+(2) **Boundary**
+
+  (A) *In general* — The boundary of the Preserve shall consist of approximately 89,900 acres of land as depicted on the map entitled “Valles Caldera National Preserve Proposed Boundary”, numbered P80/102,036C, and dated November 4, 2014.
+
+  (B) *Availability of map* — The map described in subparagraph (A) shall be on file and available for public inspection in appropriate offices of the National Park Service.
+
+(3) **Management**
+
+  (A) *Applicable law* — The Secretary shall administer the Preserve in accordance with—
+
+    (i) this section; and
+
+    (ii) the laws generally applicable to units of the National Park System, including—
+
+      (I) the National Park Service Organic Act ([16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1) et seq.); 11 See References in Text note below. and
+
+      (II) the Act of August 21, 1935 ([16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461) et seq.).1
+
+  (B) *Management coordination* — The Secretary may coordinate the management and operations of the Preserve with the Bandelier National Monument.
+
+  (C) *Management plan*
+
+    (i) *In general* — Not later than 3 fiscal years after the date on which funds are made available to implement this subparagraph, the Secretary shall prepare a management plan for the Preserve.
+
+    (ii) *Applicable law* — The management plan shall be prepared in accordance with—
+
+      (I) [section 100502 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim); and
+
+      (II) any other applicable laws.
+
+    (iii) *Consultation* — The management plan shall be prepared in consultation with—
+
+      (I) the Secretary of Agriculture;
+
+      (II) State and local governments;
+
+      (III) Indian tribes and pueblos, including the Pueblos of Jemez, Santa Clara, and San Ildefonso; and
+
+      (IV) the public.
+
+(4) **Acquisition of land**
+
+  (A) *In general* — The Secretary may acquire land and interests in land within the boundaries of the Preserve by—
+
+    (i) purchase from a willing seller with donated or appropriated funds; or
+
+    (ii) donation.
+
+  (B) *Prohibition of condemnation* — No land or interest in land within the boundaries of the Preserve may be acquired by condemnation.
+
+  (C) *Administration of acquired land* — On acquisition of any land or interests in land under subparagraph (A), the acquired land or interests in land shall be administered as part of the Preserve.
+
+(5) **Science and education program**
+
+  (A) *In general* — The Secretary shall—
+
+    (i) until the date on which a management plan is completed in accordance with paragraph (3)(C), carry out the science and education program for the Preserve established by the Trust; and
+
+    (ii) beginning on the date on which a management plan is completed in accordance with paragraph (3)(C), establish a science and education program for the Preserve that—
+
+      (I) allows for research and interpretation of the natural, historic, cultural, geologic and other scientific features of the Preserve;
+
+      (II) provides for improved methods of ecological restoration and science-based adaptive management of the Preserve; and
+
+      (III) promotes outdoor educational experiences in the Preserve.
+
+  (B) *Science and education center* — As part of the program established under subparagraph (A)(ii), the Secretary may establish a science and education center outside the boundaries of the Preserve in Jemez Springs, New Mexico.
+
+(6) **Grazing** — The Secretary shall allow the grazing of livestock within the Preserve to continue—
+
+  (A) at levels and locations determined by the Secretary to be appropriate, consistent with this section; and
+
+  (B) to the extent the use furthers scientific research or interpretation of the ranching history of the Preserve.
+
+(7) **Hunting, fishing, and trapping**
+
+  (A) *In general* — Except as provided in subparagraph (B), the Secretary shall permit hunting, fishing, and trapping on land and water within the Preserve in accordance with applicable Federal and State law.
+
+  (B) *Administrative exceptions* — The Secretary may designate areas in which, and establish limited periods during which, no hunting, fishing, or trapping shall be permitted under subparagraph (A) for reasons of public safety, administration, or compliance with applicable law.
+
+  (C) *Agency agreement* — Except in an emergency, regulations closing areas within the Preserve to hunting, fishing, or trapping under this paragraph shall be made in consultation with the appropriate agency of the State having responsibility for fish and wildlife administration.
+
+  (D) *Savings clause* — Nothing in this section affects any jurisdiction or responsibility of the State with respect to fish and wildlife in the Preserve.
+
+(8) **Ecological restoration**
+
+  (A) *In general* — The Secretary shall undertake activities to improve the health of forest, grassland, and riparian areas within the Preserve, including any activities carried out in accordance with title IV of the Omnibus Public Land Management Act of 2009 ([16 U.S.C. 7301](./chapter-092-forest-landscape-restoration.md#section-7301) et seq.).
+
+  (B) *Agreements* — The Secretary may enter into agreements with adjacent pueblos to coordinate activities carried out under subparagraph (A) on the Preserve and adjacent pueblo land.
+
+(9) **Withdrawal** — Subject to valid existing rights, all land and interests in land within the boundaries of the Preserve are withdrawn from—
+
+  (A) entry, disposal, or appropriation under the public land laws;
+
+  (B) location, entry, and patent under the mining laws; and
+
+  (C) operation of the mineral leasing laws, geothermal leasing laws, and mineral materials laws.
+
+(10) **Volcanic domes and other peaks**
+
+  (A) *In general* — Except as provided in subparagraph (C), for the purposes of preserving the natural, cultural, religious, archaeological, and historic resources of the volcanic domes and other peaks in the Preserve described in subparagraph (B) within the area of the domes and peaks above 9,600 feet in elevation or 250 feet below the top of the dome, whichever is lower—
+
+    (i) no roads or buildings shall be constructed; and
+
+    (ii) no motorized access shall be allowed.
+
+  (B) *Description of volcanic domes* — The volcanic domes and other peaks referred to in subparagraph (A) are—
+
+    (i) Redondo Peak;
+
+    (ii) Redondito;
+
+    (iii) South Mountain;
+
+    (iv) San Antonio Mountain;
+
+    (v) Cerro Seco;
+
+    (vi) Cerro San Luis;
+
+    (vii) Cerros Santa Rosa;
+
+    (viii) Cerros del Abrigo;
+
+    (ix) Cerro del Medio;
+
+    (x) Rabbit Mountain;
+
+    (xi) Cerro Grande;
+
+    (xii) Cerro Toledo;
+
+    (xiii) Indian Point;
+
+    (xiv) Sierra de los Valles; and
+
+    (xv) Cerros de los Posos.
+
+  (C) *Exception* — Subparagraph (A) shall not apply in cases in which construction or motorized access is necessary for administrative purposes (including ecological restoration activities or measures required in emergencies to protect the health and safety of persons in the area).
+
+(11) **Traditional cultural and religious sites**
+
+  (A) *In general* — The Secretary, in consultation with Indian tribes and pueblos, shall ensure the protection of traditional cultural and religious sites in the Preserve.
+
+  (B) *Access* — The Secretary, in accordance with Public Law 95–341 (commonly known as the “American Indian Religious Freedom Act”) ([42 U.S.C. 1996](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim))—
+
+    (i) shall provide access to the sites described in subparagraph (A) by members of Indian tribes or pueblos for traditional cultural and customary uses; and
+
+    (ii) may, on request of an Indian tribe or pueblo, temporarily close to general public use 1 or more specific areas of the Preserve to protect traditional cultural and customary uses in the area by members of the Indian tribe or pueblo.
+
+  (C) *Prohibition on motorized access* — The Secretary shall maintain prohibitions on the use of motorized or mechanized travel on Preserve land located adjacent to the Santa Clara Indian Reservation, to the extent the prohibition was in effect on December 19, 2014.
+
+(12) **Caldera rim trail**
+
+  (A) *In general* — Not later than 3 years after December 19, 2014, the Secretary, in consultation with the Secretary of Agriculture, affected Indian tribes and pueblos, and the public, shall study the feasibility of establishing a hiking trail along the rim of the Valles Caldera on—
+
+    (i) land within the Preserve; and
+
+    (ii) National Forest System land that is adjacent to the Preserve.
+
+  (B) *Agreements* — On the request of an affected Indian tribe or pueblo, the Secretary and the Secretary of Agriculture shall seek to enter into an agreement with the Indian tribe or pueblo with respect to the Caldera Rim Trail that provides for the protection of—
+
+    (i) cultural and religious sites in the vicinity of the trail; and
+
+    (ii) the privacy of adjacent pueblo land.
+
+(13) **Valid existing rights** — Nothing in this section affects valid existing rights.
+
+**(c) Transfer of administrative jurisdiction**
+
+(1) **In general** — Administrative jurisdiction over the Preserve is transferred from the Secretary of Agriculture and the Trust to the Secretary, to be administered as a unit of the National Park System, in accordance with subsection (b).
+
+(2) **Exclusion from Santa Fe National Forest** — The boundaries of the Santa Fe National Forest are modified to exclude the Preserve.
+
+(3) **Interim management**
+
+  (A) *Memorandum of agreement* — Not later than 90 days after December 19, 2014, the Secretary and the Trust shall enter into a memorandum of agreement to facilitate the orderly transfer to the Secretary of the administration of the Preserve.
+
+  (B) *Existing management plans* — Notwithstanding the repeal made by subsection (d)(1), until the date on which the Secretary completes a management plan for the Preserve in accordance with subsection (b)(3)(C), the Secretary may administer the Preserve in accordance with any management activities or plans adopted by the Trust under the Valles Caldera Preservation Act, to the extent the activities or plans are consistent with subsection (b)(3)(A).
+
+  (C) *Public use* — The Preserve shall remain open to public use during the interim management period, subject to such terms and conditions as the Secretary determines to be appropriate.
+
+(4) **Valles Caldera Trust**
+
+  (A) *Termination* — The Trust shall terminate 180 days after December 19, 2014, unless the Secretary determines that the termination date should be extended to facilitate the transitional management of the Preserve.
+
+  (B) *Assets and liabilities*
+
+    (i) *Assets* — On termination of the Trust—
+
+      (I) all assets of the Trust shall be transferred to the Secretary; and
+
+      (II) any amounts appropriated for the Trust shall remain available to the Secretary for the administration of the Preserve.
+
+    (ii) *Assumption of obligations*
+
+      (I) *In general* — On termination of the Trust, the Secretary shall assume all contracts, obligations, and other liabilities of the Trust.
+
+      (II) *New liabilities*
+
+        (aa) *Budget* — Not later than 90 days after December 19, 2014, the Secretary and the Trust shall prepare a budget for the interim management of the Preserve.
+
+        (bb) *Written concurrence required* — The Trust shall not incur any new liabilities not authorized in the budget prepared under item (aa) without the written concurrence of the Secretary.
+
+  (C) *Personnel*
+
+    (i) *Hiring* — The Secretary and the Secretary of Agriculture may hire employees of the Trust on a noncompetitive basis for comparable positions at the Preserve or other areas or offices under the jurisdiction of the Secretary or the Secretary of Agriculture.
+
+    (ii) *Salary* — Any employees hired from the Trust under clause (i) shall be subject to the provisions of chapter 51, and subchapter III of chapter 53, title 5, relating to classification and General Schedule pay rates.
+
+    (iii) *Interim retention of eligible employees* — For a period of not less than 180 days beginning on December 19, 2014, all eligible employees of the Trust shall be—
+
+      (I) retained in the employment of the Trust;
+
+      (II) considered to be placed on detail to the Secretary; and
+
+      (III) subject to the direction of the Secretary.
+
+    (iv) *Termination for cause* — Nothing in this subparagraph precludes the termination of employment of an eligible employee for cause during the period described in clause (iii).
+
+  (D) *Records* — The Secretary shall have access to all records of the Trust pertaining to the management of the Preserve.
+
+  (E) *Valles Caldera Fund*
+
+    (i) *In general* — Effective on December 19, 2014, the Secretary shall assume the powers of the Trust over the Fund.
+
+    (ii) *Availability and use* — Any amounts in the Fund as of December 19, 2014, shall be available to the Secretary for use, without further appropriation, for the management of the Preserve.
+
+**(d) Repeal of Valles Caldera Preservation Act**
+
+(1) **Repeal** — On the termination of the Trust, the Valles Caldera Preservation Act is repealed.
+
+(2) **Effect of repeal** — Notwithstanding the repeal made by paragraph (1)—
+
+  (A) the authority of the Secretary of Agriculture to acquire mineral interests under section 104(e) of the Valles Caldera Preservation Act is transferred to the Secretary and any proceeding for the condemnation of, or payment of compensation for, an outstanding mineral interest pursuant to the transferred authority shall continue;
+
+  (B) the provisions in section 104(g) 22 Text of section 104(g) is set out below. of the Valles Caldera Preservation Act relating to the Pueblo of Santa Clara shall remain in effect; and
+
+  (C) the Fund shall not be terminated until all amounts in the Fund have been expended by the Secretary.
+
+(3) **Boundaries** — The repeal of the Valles Caldera Preservation Act shall not affect the boundaries as of December 19, 2014, (including maps and legal descriptions) of—
+
+  (A) the Preserve;
+
+  (B) the Santa Fe National Forest (other than the modification made by subsection (c)(2));
+
+  (C) Bandelier National Monument; and
+
+  (D) any land conveyed to the Pueblo of Santa Clara.
 
 ### Statutory Notes
 
 #### References in Text
-The Multiple-Use Sustained-Yield Act of 1960, referred to in par. (5), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
+The Valles Caldera Preservation Act, referred to in subsecs. (a)(2), (6), (c)(3)(B), and (d), is title I of Pub. L. 106–248, July 25, 2000, 114 Stat. 598, which was classified to sections 698 to 698v–10 of this title, prior to repeal by subsec. (d)(1) of this section. Sections 104 and 106 of the Act were classified to sections 698v–2 and 698v–4 of this title, respectively. For complete classification of this Act to the Code, see Tables.
 
-#### Change of Name
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+The National Park Service Organic Act ([16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1) et seq.), referred to in subsec. (b)(3)(A)(ii)(I), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and [section 1457 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1457&num=0&edition=prelim), Public Lands, and enacted provisions set out as a note under [section 1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1). Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Short Title of 1916 Act note set out under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim) and Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
+Act of August 21, 1935 ([16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461) et seq.), referred to in subsec. (b)(3)(A)(ii)(II), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the “Historic Sites, Buildings and Antiquities Act”, which enacted sections 461 to 467 of this title. The Act was repealed and restated as sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, and [section 1866(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), Crimes and Criminal Procedure, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-<a id="section-698v-10"></a>
-## § 698v–10. Government Accountability Office study
-**(a) Initial study** Three years after the assumption of management by the Trust, the Government Accountability Office shall conduct an interim study of the activities of the Trust and shall report the results of the study to the Committees of Congress. The study shall include, but shall not be limited to, details of programs and activities operated by the Trust and whether it met its obligations under sections 698v to 698v–10 of this title.
+The Omnibus Public Land Management Act of 2009, referred to in subsec. (b)(8)(A), is Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 991. Title IV of the Act is classified generally to chapter 92 (§ 7301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under [section 1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1) and Tables.
 
-**(b) Second study** Seven years after the assumption of management by the Trust, the Government Accountability Office shall conduct a study of the activities of the Trust and shall report the results of the study to the Committees of Congress. The study shall provide an assessment of any failure to meet obligations that may be identified under subsection (a) of this section, and further evaluation on the ability of the Trust to meet its obligations under sections 698v to 698v–10 of this title.
-
-### Statutory Notes
-
-#### Amendments
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and two places in text.
-
-
-<a id="section-698v-2"></a>
-## § 698v–2. Acquisition of lands
-**(a) Acquisition of Baca ranch**
-
-(1) **In general** — In compliance with [section 471a of this title](./chapter-002-national-forests.md#section-471a), the Secretary is authorized to acquire all or part of the rights, title, and interests in and to approximately 94,761 acres of the Baca ranch, comprising the lands, facilities, and structures referred to as the Baca Location No. 1, and generally depicted on a plat entitled “Independent Resurvey of the Baca Location No. 1”, made by L.A. Osterhoudt, W.V. Hall, and Charles W. Devendorf, U.S. Cadastral Engineers, June 30, 1920–August 24, 1921, under special instructions for Group No. 107 dated February 12, 1920, in New Mexico.
-
-(2) **Source of funds** — The acquisition under paragraph (1) may be made by purchase through appropriated or donated funds, by exchange, by contribution, or by donation of land. Funds appropriated to the Secretary from the Land and Water Conservation Fund shall be available for this purpose.
-
-(3) **Basis of sale** — The acquisition under paragraph (1) shall be based on an appraisal done in conformity with the Uniform Appraisal Standards for Federal Land Acquisitions and—
-
-  (A) in the case of purchase, such purchase shall be on a willing seller basis for no more than the fair market value of the land or interests therein acquired; and
-
-  (B) in the case of exchange, such exchange shall be for lands, or interests therein, of equal value, in conformity with the existing exchange authorities of the Secretary.
-
-(4) **Deed** — The conveyance of the offered lands to the United States under this subsection shall be by general warranty or other deed acceptable to the Secretary and in conformity with applicable title standards of the Attorney General.
-
-**(b) Addition of land to Bandelier National Monument** Upon acquisition of the Baca ranch under subsection (a) of this section, the Secretary of the Interior shall assume administrative jurisdiction over those lands within the boundaries of the Bandelier National Monument as modified under section 3 of Public Law 105–376 (112 Stat. 3389).
-
-**(c) Plat and maps**
-
-(1) **Plat and maps prevail** — In case of any conflict between a plat or a map and acreages, the plat or map shall prevail.
-
-(2) **Minor corrections** — The Secretary and the Secretary of the Interior may make minor corrections in the boundaries of the Upper Alamo watershed as depicted on the map referred to in section 3 of Public Law 105–376 (112 Stat. 3389).
-
-(3) **Boundary modification** — Upon the conveyance of any lands to any entity other than the Secretary, the boundary of the Preserve shall be modified to exclude such lands.
-
-(4) **Final maps** — Within 180 days of the date of acquisition of the Baca ranch under subsection (a) of this section, the Secretary and the Secretary of the Interior shall submit to the Committees of Congress a final map of the Preserve and a final map of Bandelier National Monument, respectively.
-
-(5) **Public availability** — The plat and maps referred to in the 11 So in original. Probably should be “this”. subsection shall be kept and made available for public inspection in the offices of the Chief, Forest Service, and Director, National Park Service, in Washington, D.C., and Supervisor, Santa Fe National Forest, and Superintendent, Bandelier National Monument, in the State of New Mexico.
-
-**(d) Watershed management report** The Secretary, acting through the Forest Service, in cooperation with the Secretary of the Interior, acting through the National Park Service, shall—
-
-(1) prepare a report of management alternatives which may—
-
-  (A) provide more coordinated land management within the area known as the upper watersheds of Alamo, Capulin, Medio, and Sanchez Canyons, including the areas known as the Dome Diversity Unit and the Dome Wilderness;
-
-  (B) allow for improved management of elk and other wildlife populations ranging between the Santa Fe National Forest and the Bandelier National Monument; and
-
-  (C) include proposed boundary adjustments between the Santa Fe National Forest and the Bandelier National Monument to facilitate the objectives under subparagraphs (A) and (B); and
-
-(2) submit the report to the Committees of Congress within 120 days of July 25, 2000.
-
-**(e) Outstanding mineral interests**
-
-(1) **In general** — The acquisition of the Baca ranch by the Secretary shall be subject to all outstanding valid existing mineral interests.
-
-(2) **Acquisition** — The Secretary is authorized and directed to negotiate with the owners of any fractional interest in the subsurface estate for the acquisition of such fractional interest for not to exceed its fair market value, as determined by appraisal done in conformity with the Uniform Appraisal Standards for Federal Land Acquisitions.
-
-(3) **Administration** — Any such interests acquired within the boundaries of the Upper Alamo watershed, as referred to in subsection (b) of this section, shall be administered by the Secretary of the Interior as part of Bandelier National Monument.
-
-(4) **Available funds** — Any such interests shall be acquired with available funds.
-
-(5) **Declaration of taking**
-
-  (A) *In general* — If negotiations to acquire the interests are unsuccessful by the date that is 60 days after Dec. 20, 2005, the Secretary shall acquire the interests pursuant to [section 3114 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3114&num=0&edition=prelim).
-
-  (B) *Source of funds* — Any difference between the sum of money estimated to be just compensation by the Secretary and the amount awarded shall be paid from the permanent judgment appropriation under [section 1304 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1304&num=0&edition=prelim).
-
-**(f) Boundaries of the Baca ranch** For purposes of section 460l–9 of this title, the boundaries of the Baca ranch shall be treated as if they were National Forest boundaries existing as of January 1, 1965.
-
-**(g) Pueblo of Santa Clara**
-
-(1) **In general** — The Secretary may assign to the Pueblo of Santa Clara rights to acquire for fair market value portions of the Baca ranch. The portion that may be assigned shall be determined by mutual agreement between the Pueblo and the Secretary based on optimal management considerations for the Preserve including manageable land line locations, public access, and retention of scenic and natural values. All appraisals shall be done in conformity with the Uniform Appraisal Standards for Federal Land Acquisition.
-
-(2) **Status of land acquired** — As of the date of acquisition, the fee title lands, and any mineral estate underlying such lands, acquired under this subsection by the Pueblo of Santa Clara are deemed transferred into trust in the name of the United States for the benefit of the Pueblo of Santa Clara and such lands and mineral estate are declared to be part of the existing Santa Clara Indian Reservation.
-
-(3) **Mineral estate** — Any mineral estate acquired by the United States pursuant to subsection (e) of this section underlying fee title lands acquired by the Pueblo of Santa Clara shall not be developed without the consent of the Secretary of the Interior and the Pueblo of Santa Clara.
-
-(4) **Savings** — Any reservations, easements, and covenants contained in an assignment agreement entered into under paragraph (1) shall not be affected by the acquisition of the Baca ranch by the United States, the assumption of management by the Valles Caldera Trust, or the lands acquired by the Pueblo being taken into trust.
-
-### Statutory Notes
-
-#### References in Text
-Section 3 of Pub. L. 105–376, referred to in subsecs. (b) and (c)(2), appears in the item for Bandelier National Monument, New Mexico, in the table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431).
-
-#### Amendments
-2005—Subsec. (e). Pub. L. 109–132 designated existing provisions as pars. (1) to (3), inserted par. headings, struck out “on a willing seller basis” after “such fractional interest” in par. (2), and added pars. (4) and (5).
-
-
-<a id="section-698v-3"></a>
-## § 698v–3. The Valles Caldera National Preserve
-**(a) Establishment** Upon the date of acquisition of the Baca ranch under [section 698v–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/a&num=0&edition=prelim), there is hereby established the Valles Caldera National Preserve as a unit of the National Forest System which shall include all Federal lands and interests in land acquired under sections 698v–2(a) and 698v–2(e) of this title, except those lands and interests in land administered or held in trust by the Secretary of the Interior under sections 698v–2(b) and 698v–2(g) of this title, and shall be managed in accordance with the purposes and requirements of sections 698v to 698v–10 of this title.
-
-**(b) Purposes** The purposes for which the Preserve is established are to protect and preserve the scientific, scenic, geologic, watershed, fish, wildlife, historic, cultural, and recreational values of the Preserve, and to provide for multiple use and sustained yield of renewable resources within the Preserve, consistent with sections 698v to 698v–10 of this title.
-
-**(c) Management authority** Except for the powers of the Secretary enumerated in sections 698v to 698v–10 of this title, the Preserve shall be managed by the Valles Caldera Trust established by [section 698v–4 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-698v-4).
-
-**(d) Eligibility for payment in lieu of taxes** Lands acquired by the United States under [section 698v–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/a&num=0&edition=prelim) shall constitute entitlement lands for purposes of the Payment in Lieu of Taxes Act ([31 U.S.C. 6901–690](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6901–690&num=0&edition=prelim)4).
-
-**(e) Withdrawals**
-
-(1) **In general** — Upon acquisition of all interests in minerals within the boundaries of the Baca ranch under [section 698v–2(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/e&num=0&edition=prelim), subject to valid existing rights, the lands comprising the Preserve are thereby withdrawn from disposition under all laws pertaining to mineral leasing, including geothermal leasing.
-
-(2) **Materials for roads and facilities** — Nothing in sections 698v to 698v–10 of this title shall preclude the Secretary, prior to assumption of management of the Preserve by the Trust, and the Trust thereafter, from allowing the utilization of common varieties of mineral materials such as sand, stone, and gravel as necessary for construction and maintenance of roads and facilities within the Preserve.
-
-**(f) Fish and game** Nothing in sections 698v to 698v–10 of this title shall be construed as affecting the responsibilities of the State of New Mexico with respect to fish and wildlife, including the regulation of hunting, fishing, and trapping within the Preserve, except that the Trust may, in consultation with the Secretary and the State of New Mexico, designate zones where and establish periods when no hunting, fishing, or trapping shall be permitted for reasons of public safety, administration, the protection of nongame species and their habitats, or public use and enjoyment.
-
-**(g) Redondo Peak**
-
-(1) **In general** — For the purposes of preserving the natural, cultural, religious, and historic resources on Redondo Peak upon acquisition of the Baca ranch under [section 698v–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/a&num=0&edition=prelim), except as provided in paragraph (2), within the area of Redondo Peak above 10,000 feet in elevation—
-
-  (A) no roads, structures, or facilities shall be constructed; and
-
-  (B) no motorized access shall be allowed.
-
-(2) **Exceptions** — Nothing in this subsection shall preclude—
-
-  (A) the use and maintenance of roads and trails existing as of July 25, 2000;
-
-  (B) the construction, use and maintenance of new trails, and the relocation of existing roads, if located to avoid Native American religious and cultural sites; and
-
-  (C) motorized access necessary to administer the area by the Trust (including measures required in emergencies involving the health or safety of persons within the area).
-
-### Statutory Notes
-
-#### References in Text
-The Payment in Lieu of Taxes Act, referred to in subsec. (d), is the popular name for Pub. L. 94–565, Oct. 20, 1976, 90 Stat. 2662, as amended, which was classified generally to sections 1601 to 1607 of former Title 31, Money and Finance. Sections 1601 to 1607 of former Title 31 were repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as sections 6901 to 6904 and 6906 of Title 31, Money and Finance.
-
-The laws pertaining to mineral leasing, referred to in subsec. (e)(1), are classified generally to Title 30, Mineral Lands and Mining.
-
-Laws pertaining to geothermal leasing, referred to in subsec. (e)(1), are classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining.
-
-
-<a id="section-698v-4"></a>
-## § 698v–4. The Valles Caldera Trust
-**(a) Establishment** There is hereby established a wholly owned government corporation known as the Valles Caldera Trust which is empowered to conduct business in the State of New Mexico and elsewhere in the United States in furtherance of its corporate purposes.
-
-**(b) Corporate purposes** The purposes of the Trust are—
-
-(1) to provide management and administrative services for the Preserve;
-
-(2) to establish and implement management policies which will best achieve the purposes and requirements of sections 698v to 698v–10 of this title;
-
-(3) to receive and collect funds from private and public sources and to make dispositions in support of the management and administration of the Preserve; and
-
-(4) to cooperate with Federal, State, and local governmental units, and with Indian tribes and Pueblos, to further the purposes for which the Preserve was established.
-
-**(c) Necessary powers** The Trust shall have all necessary and proper powers for the exercise of the authorities vested in it.
-
-**(d) Staff**
-
-(1) **In general** — The Trust is authorized to appoint and fix the compensation and duties of an executive director and such other officers and employees as it deems necessary without regard to the provisions of title 5 governing appointments in the competitive service, and may pay them without regard to the provisions of chapter 51, and subchapter III of chapter 53, title 5, relating to classification and General Schedule pay rates. No employee of the Trust shall be paid at a rate in excess of that payable to the Supervisor of the Santa Fe National Forest or the Superintendent of the Bandelier National Monument, whichever is greater.
-
-(2) **Federal employees**
-
-  (A) *In general* — Except as provided in sections 698v to 698v–10 of this title, employees of the Trust shall be Federal employees as defined by title 5 and shall be subject to all rights and obligations applicable thereto.
-
-  (B) *Use of Federal employees* — At the request of the Trust, the employees of any Federal agency may be provided for implementation of sections 698v to 698v–10 of this title. Such employees detailed to the Trust for more than 30 days shall be provided on a reimbursable basis.
-
-**(e) Government Corporation**
-
-(1) **In general** — The Trust shall be a Government Corporation subject to chapter 91 of title 31 (commonly referred to as the Government Corporation Control Act). Financial statements of the Trust shall be audited annually in accordance with [section 9105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9105&num=0&edition=prelim).
-
-(2) **Reports** — Not later than January 15 of each year, the Trust shall submit to the Secretary and the Committees of Congress a comprehensive and detailed report of its operations, activities, and accomplishments for the prior year including information on the status of ecological, cultural, and financial resources being managed by the Trust, and benefits provided by the Preserve to local communities. The report shall also include a section that describes the Trust’s goals for the current year.
-
-(3) **Annual budget**
-
-  (A) *In general* — The Trust shall prepare an annual budget with the goal of achieving a financially self-sustaining operation within 15 full fiscal years after the date of acquisition of the Baca ranch under [section 698v–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/a&num=0&edition=prelim).
-
-  (B) *Budget request* — The Secretary shall provide necessary assistance (including detailees as necessary) to the Trust for the timely formulation and submission of the annual budget request for appropriations, as authorized under [section 698v–9(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–9/a&num=0&edition=prelim), to support the administration, operation, and maintenance of the Preserve.
-
-(4) **Obligations and expenditures** — Subject to the laws applicable to Government corporations, the Trust shall determine—
-
-  (A) the character of, and the necessity for, any obligations and expenditures of the Trust; and
-
-  (B) the manner in which obligations and expenditures shall be incurred, allowed, and paid.
-
-**(f) Taxes** The Trust and all properties administered by the Trust shall be exempt from all taxes and special assessments of every kind by the State of New Mexico, and its political subdivisions including the counties of Sandoval and Rio Arriba.
-
-**(g) Donations** The members of the Board of Trustees, the executive director, and one additional employee of the Trust in an executive position designated by the Board of Trustees or the executive director may solicit and accept donations of funds, property, supplies, or services from individuals, foundations, corporations, and other private or public entities for the purposes of carrying out its duties. The Secretary, prior to assumption of management of the Preserve by the Trust, and the Trust thereafter, may accept donations from such entities notwithstanding that such donors may conduct business with the Department of Agriculture or any other department or agency of the United States.
-
-**(h) Proceeds**
-
-(1) **In general** — Notwithstanding sections 1341 and 3302 of title 31, all monies received from donations under subsection (g) of this section, from claims, judgments, or settlements arising from activities occurring on the Baca Ranch or the Preserve after October 27, 1999, or from the management of the Preserve shall be retained and shall be available, without further appropriation, for the administration, preservation, restoration, operation and maintenance, improvement, repair, and related expenses incurred with respect to properties under its management jurisdiction.
-
-(2) **Fund** — There is hereby established in the Treasury of the United States a special interest bearing fund entitled “Valles Caldera Fund” which shall be available, without further appropriation for any purpose consistent with the purposes of sections 698v to 698v–10 of this title. At the option of the Trust, or the Secretary in accordance with [section 698v–8 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-698v-8), the Secretary of the Treasury shall invest excess monies of the Trust in such account, which shall bear interest at rates determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturity.
-
-**(i) Restrictions on disposition of receipts** Any funds received by the Trust, or the Secretary in accordance with [section 698v–7(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–7/b&num=0&edition=prelim), from the management of the Preserve shall not be subject to partial distribution to the State under—
-
-(1) the Act of May 23, 1908, entitled “an Act making appropriations for the Department of Agriculture for the fiscal year ending June thirtieth, nineteen hundred and nine” (35 Stat. 260, chapter 192; [16 U.S.C. 500](./chapter-002-national-forests.md#section-500));
-
-(2) section 13 of the Act of March 1, 1911 (36 Stat. 963, chapter 186; [16 U.S.C. 500](./chapter-002-national-forests.md#section-500)); or
-
-(3) any other law.
-
-**(j) Suits** The Trust may sue and be sued in its own name to the same extent as the Federal Government. For purposes of such suits, the residence of the Trust shall be the State of New Mexico. The Trust shall be represented by the Attorney General in any litigation arising out of the activities of the Trust, except that the Trust may retain private attorneys to provide advice and counsel.
-
-**(k) Bylaws** The Trust shall adopt necessary bylaws to govern its activities.
-
-**(l) Insurance and bond** The Trust shall require that all holders of leases from, or parties in contract with, the Trust that are authorized to occupy, use, or develop properties under the management jurisdiction of the Trust, procure proper insurance against any loss in connection with such properties, or activities authorized in such lease or contract, as is reasonable and customary.
-
-**(m) Name and insignia** The Trust shall have the sole and exclusive right to use the words “Valles Caldera Trust”, and any seal, emblem, or other insignia adopted by the Board of Trustees. Without express written authority of the Trust, no person may use the words “Valles Caldera Trust” as the name under which that person shall do or purport to do business, for the purpose of trade, or by way of advertisement, or in any manner that may falsely suggest any connection with the Trust.
-
-### Statutory Notes
-
-#### Amendments
-2005—Subsec. (e)(4). Pub. L. 109–132, § 2(b), added par. (4).
-
-Subsec. (g). Pub. L. 109–132, § 2(c), substituted “The members of the Board of Trustees, the executive director, and one additional employee of the Trust in an executive position designated by the Board of Trustees or the executive director may solicit” for “The Trust may solicit”.
-
-Subsec. (h)(1). Pub. L. 109–132, § 2(d), substituted “subsection (g) of this section, from claims, judgments, or settlements arising from activities occurring on the Baca Ranch or the Preserve after October 27, 1999,” for “subsection (g) of this section”.
-
-
-<a id="section-698v-5"></a>
-## § 698v–5. Board of Trustees
-**(a) In general** The Trust shall be governed by a 9-member Board of Trustees consisting of the following:
-
-(1) **Voting trustees** — The voting Trustees shall be—
-
-  (A) the Supervisor of the Santa Fe National Forest, United States Forest Service;
-
-  (B) the Superintendent of the Bandelier National Monument, National Park Service; and
-
-  (C) seven individuals, appointed by the President, in consultation with the congressional delegation from the State of New Mexico. The seven individuals shall have specific expertise or represent an organization or government entity as follows—
-
-    (i) one trustee shall have expertise in aspects of domesticated livestock management, production, and marketing, including range management and livestock business management;
-
-    (ii) one trustee shall have expertise in the management of game and nongame wildlife and fish populations, including hunting, fishing, and other recreational activities;
-
-    (iii) one trustee shall have expertise in the sustainable management of forest lands for commodity and noncommodity purposes;
-
-    (iv) one trustee shall be active in a nonprofit conservation organization concerned with the activities of the Forest Service;
-
-    (v) one trustee shall have expertise in financial management, budget and program analysis, and small business operations;
-
-    (vi) one trustee shall have expertise in the cultural and natural history of the region; and
-
-    (vii) one trustee shall be active in State or local government in New Mexico, with expertise in the customs of the local area.
-
-(2) **Qualifications** — Of the trustees appointed by the President—
-
-  (A) none shall be employees of the Federal Government; and
-
-  (B) at least five shall be residents of the State of New Mexico.
-
-**(b) Initial appointments** The President shall make the initial appointments to the Board of Trustees within 90 days after acquisition of the Baca ranch under [section 698v–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/a&num=0&edition=prelim).
-
-**(c) Terms**
-
-(1) **In general** — Appointed trustees shall each serve a term of 4 years, except that of the trustees first appointed, four shall serve for a term of 4 years, and three shall serve for a term of 2 years.
-
-(2) **Vacancies** — Any vacancy among the appointed trustees shall be filled in the same manner in which the original appointment was made, and any trustee appointed to fill a vacancy shall serve for the remainder of that term for which his or her predecessor was appointed.
-
-(3) **Limitations** — No appointed trustee may serve more than 8 years in consecutive terms.
-
-**(d) Quorum** A majority of trustees shall constitute a quorum of the Board for the conduct of business.
-
-**(e) Organization and compensation**
-
-(1) **In general** — The Board shall organize itself in such a manner as it deems most appropriate to effectively carry out the activities of the Trust.
-
-(2) **Compensation of trustees** — Except as provided in paragraph (3), trustees shall serve without pay, but may be reimbursed from the funds of the Trust for the actual and necessary travel and subsistence expenses incurred by them in the performance of their duties.
-
-(3) **Chair**
-
-  (A) *Selection* — Trustees shall select a chair from the membership of the Board.
-
-  (B) *Compensation* — On request of the chair, the chair may be compensated at a rate determined by the Board of Trustees, but not to exceed the daily equivalent of the annual rate of pay for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim) for each day (including travel time) in which the chair is engaged in the performance of duties of the Board of Trustees.
-
-  (C) *Maximum rate of pay* — The total amount of compensation paid to the chair for a fiscal year under subparagraph (B) shall not exceed 25 percent of the annual rate of pay for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
-
-**(f) Liability of trustees** Appointed trustees shall not be considered Federal employees by virtue of their membership on the Board, except for purposes of the Federal Tort Claims Act, the Ethics in Government Act, and the provisions of chapter 11 of title 18.
-
-**(g) Meetings**
-
-(1) **Location and timing of meetings** — The Board shall meet in sessions open to the public at least three times per year in New Mexico. Upon a majority vote made in open session, and a public statement of the reasons therefore, the Board may close any other meetings to the public: Provided, That any final decision of the Board to adopt or amend the comprehensive management program under [section 698v–6(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–6/d&num=0&edition=prelim) or to approve any activity related to the management of the land or resources of the Preserve shall be made in open public session.
-
-(2) **Public information** — In addition to other requirements of applicable law, the Board shall establish procedures for providing appropriate public information and periodic opportunities for public comment regarding the management of the Preserve.
-
-### Statutory Notes
-
-#### References in Text
-The Federal Tort Claims Act, referred to in subsec. (f), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
-
-The Ethics in Government Act, referred to in subsec. (f), probably means the Ethics in Government Act of 1978, Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
-
-#### Amendments
-2005—Subsec. (e)(2). Pub. L. 109–132, § 3(1), substituted “Except as provided in paragraph (3), trustees” for “Trustees”.
-
-Subsec. (e)(3). Pub. L. 109–132, § 3(2), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) and (C).
-
-#### Compensation for Trustees
-Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 968, provided in part: “That notwithstanding the limitations of 107(e)(2) of the Valles Caldera Preservation Act (Public Law 106–248) [[16 U.S.C. 698v–5(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–5/e/2&num=0&edition=prelim)], for fiscal years 2001 and 2002, the members of the Board of Trustees of the Valles Caldera Trust may receive, upon request, compensation for each day (including travel time) that they are engaged in the performance of the functions of the Board. Compensation shall not exceed the daily equivalent of the annual rate in effect for members of the Senior Executive Service at the ES–1 level, and shall be in addition to any reimbursement for travel, subsistence and other necessary expenses incurred by them in the performance of their duties. Members of the Board who are officers or employees of the United States shall not receive any additional compensation by reason of service on the Board”.
-
-
-<a id="section-698v-6"></a>
-## § 698v–6. Resource management
-**(a) Assumption of management** The Trust shall assume all authority provided by sections 698v to 698v–10 of this title to manage the Preserve upon a determination by the Secretary, which to the maximum extent practicable shall be made within 60 days after the appointment of the Board, that—
-
-(1) the Board is duly appointed, and able to conduct business; and
-
-(2) provision has been made for essential management services.
-
-**(b) Management responsibilities** Upon assumption of management of the Preserve under subsection (a) of this section, the Trust shall manage the land and resources of the Preserve and the use thereof including, but not limited to such activities as—
-
-(1) administration of the operations of the Preserve;
-
-(2) preservation and development of the land and resources of the Preserve;
-
-(3) interpretation of the Preserve and its history for the public;
-
-(4) management of public use and occupancy of the Preserve; and
-
-(5) maintenance, rehabilitation, repair, and improvement of property within the Preserve.
-
-**(c) Authorities**
-
-(1) **In general** — The Trust shall develop programs and activities at the Preserve, and shall have the authority to negotiate directly and enter into such agreements, leases, contracts and other arrangements with any person, firm, association, organization, corporation or governmental entity, including without limitation, entities of Federal, State, and local governments, and consultation with Indian tribes and Pueblos, as are necessary and appropriate to carry out its authorized activities or fulfill the purposes of sections 698v to 698v–10 of this title. Any such agreements may be entered into without regard to [section 1302 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1302&num=0&edition=prelim).
-
-(2) **Procedures** — The Trust shall establish procedures for entering into lease agreements and other agreements for the use and occupancy of facilities of the Preserve. The procedures shall ensure reasonable competition, and set guidelines for determining reasonable fees, terms, and conditions for such agreements.
-
-(3) **Limitations**
-
-  (A) *In general* — The Trust may not dispose of any real property in, or convey any water rights appurtenant to the Preserve.
-
-  (B) *Maximum duration* — The Trust may not convey any easement, or enter into any contract, lease, or other agreement related to use and occupancy of property within the Preserve for a period greater than 10 years.
-
-  (C) *Termination* — The easement, contract, lease, or other agreement shall provide that, upon termination of the Trust, such easement, contract, lease or agreement is terminated.
-
-  (D) *Exclusions* — For the purposes of this paragraph, the disposal of real property does not include the sale or other disposal of forage, forest products, or marketable renewable resources.
-
-(4) **Application of procurement laws**
-
-  (A) *In general* — Notwithstanding any other provision of law, Federal laws and regulations governing procurement by Federal agencies shall not apply to the Trust, with the exception of laws and regulations related to Federal Government contracts governing health and safety requirements, wage rates, and civil rights.
-
-  (B) *Procedures* — The Trust, in consultation with the Administrator of Federal Procurement Policy, Office of Management and Budget, shall establish and adopt procedures applicable to the Trust’s procurement of goods and services, including the award of contracts on the basis of contractor qualifications, price, commercially reasonable buying practices, and reasonable competition.
-
-**(d) Management program** Within two years after assumption of management responsibilities for the Preserve, the Trust shall, in accordance with subsection (f) of this section, develop a comprehensive program for the management of lands, resources, and facilities within the Preserve to carry out the purposes under [section 698v–3(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–3/b&num=0&edition=prelim). To the extent consistent with such purposes, such program shall provide for—
-
-(1) operation of the Preserve as a working ranch, consistent with paragraphs (2) through (4);
-
-(2) the protection and preservation of the scientific, scenic, geologic, watershed, fish, wildlife, historic, cultural and recreational values of the Preserve;
-
-(3) multiple use and sustained yield of renewable resources within the Preserve;
-
-(4) public use of and access to the Preserve for recreation;
-
-(5) renewable resource utilization and management alternatives that, to the extent practicable—
-
-  (A) benefit local communities and small businesses;
-
-  (B) enhance coordination of management objectives with those on surrounding National Forest System land; and
-
-  (C) provide cost savings to the Trust through the exchange of services, including but not limited to labor and maintenance of facilities, for resources or services provided by the Trust; and
-
-(6) optimizing the generation of income based on existing market conditions, to the extent that it does not unreasonably diminish the long-term scenic and natural values of the area, or the multiple use and sustained yield capability of the land.
-
-**(e) Public use and recreation**
-
-(1) **In general** — The Trust shall give thorough consideration to the provision of appropriate opportunities for public use and recreation that are consistent with the other purposes under [section 698v–3(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–3/b&num=0&edition=prelim). The Trust is expressly authorized to construct and upgrade roads and bridges, and provide other facilities for activities including, but not limited to camping and picnicking, hiking, and cross country skiing. Roads, trails, bridges, and recreational facilities constructed within the Preserve shall meet public safety standards applicable to units of the National Forest System and the State of New Mexico.
-
-(2) **Fees** — Notwithstanding any other provision of law, the Trust is authorized to assess reasonable fees for admission to, and the use and occupancy of, the Preserve: Provided, That admission fees and any fees assessed for recreational activities shall be implemented only after public notice and a period of not less than 60 days for public comment.
-
-(3) **Public access** — Upon the acquisition of the Baca ranch under [section 698v–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/a&num=0&edition=prelim), and after an interim planning period of no more than two years, the public shall have reasonable access to the Preserve for recreation purposes. The Secretary, prior to assumption of management of the Preserve by the Trust, and the Trust thereafter, may reasonably limit the number and types of recreational admissions to the Preserve, or any part thereof, based on the capability of the land, resources, and facilities. The use of reservation or lottery systems is expressly authorized to implement this paragraph.
-
-**(f) Applicable laws**
-
-(1) **In general** — The Trust, and the Secretary in accordance with [section 698v–7(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–7/b&num=0&edition=prelim), shall administer the Preserve in conformity with sections 698v to 698v–10 of this title and all laws pertaining to the National Forest System, except the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.).
-
-(2) **Environmental laws** — The Trust shall be deemed a Federal agency for the purposes of compliance with Federal environmental laws.
-
-(3) **Criminal laws** — All criminal laws relating to Federal property shall apply to the same extent as on adjacent units of the National Forest System.
-
-(4) **Reports on applicable rules and regulations** — The Trust may submit to the Secretary and the Committees of Congress a compilation of applicable rules and regulations which in the view of the Trust are inappropriate, incompatible with sections 698v to 698v–10 of this title, or unduly burdensome.
-
-(5) **Consultation with tribes and Pueblos** — The Trust is authorized and directed to cooperate and consult with Indian tribes and Pueblos on management policies and practices for the Preserve which may affect them. The Trust is authorized to allow the use of lands within the Preserve for religious and cultural uses by Native Americans and, in so doing, may set aside places and times of exclusive use consistent with the American Indian Religious Freedom Act [[42 U.S.C. 1996](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim), 1996a] and other applicable statutes.
-
-(6) **No administrative appeal** — The administrative appeals regulations of the Secretary shall not apply to activities of the Trust and decisions of the Board.
-
-**(g) Law enforcement and fire management**
-
-(1) **Law enforcement**
-
-  (A) *In general* — The Secretary shall provide law enforcement services under a cooperative agreement with the Trust to the extent generally authorized in other units of the National Forest System.
-
-  (B) *Federal agency* — The Trust shall be deemed a Federal agency for purposes of the law enforcement authorities of the Secretary (within the meaning of [section 559g of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-559g)).
-
-(2) **11 So in original. Two pars. (2) have been enacted. Fire management**
-
-  (A) *Non-reimbursable services*
-
-    (i) *Development of plan* — The Secretary shall, in consultation with the Trust, develop a plan to carry out fire preparedness, suppression, and emergency rehabilitation services on the Preserve.
-
-    (ii) *Consistency with management program* — The plan shall be consistent with the management program developed pursuant to subsection (d) of this section.
-
-    (iii) *Cooperative agreement* — To the extent generally authorized at other units of the National Forest System, the Secretary shall provide the services to be carried out pursuant to the plan under a cooperative agreement entered into between the Secretary and the Trust.
-
-  (B) *Reimbursable services* — To the extent generally authorized at other units of the National Forest System, the Secretary may provide presuppression and nonemergency rehabilitation and restoration services for the Trust at any time on a reimbursable basis.
-
-(2) **1 Fire management**
-
-  (A) *Non-reimbursable services*
-
-    (i) *Development of plan* — Subject to the availability of appropriations under [section 698v–9(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–9/a&num=0&edition=prelim), the Secretary shall, in consultation with the Trust, develop a plan to carry out fire preparedness, suppression, and emergency rehabilitation services on the Preserve.
-
-    (ii) *Consistency with management program* — The plan shall be consistent with the management program developed pursuant to subsection (d) of this section.
-
-    (iii) *Cooperative agreement* — To the extent generally authorized at other units of the National Forest System, the Secretary shall provide the services to be carried out pursuant to the plan under a cooperative agreement entered into between the Secretary and the Trust.
-
-  (B) *Reimbursable services* — To the extent generally authorized at other units of the National Forest System and subject to the availability of appropriations under [section 698v–9(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–9/a&num=0&edition=prelim), the Secretary shall provide presuppression and nonemergency rehabilitation and restoration services for the Trust at any time on a reimbursable basis.
-
-### Statutory Notes
-
-#### References in Text
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
-
-The American Indian Religious Freedom Act, referred to in subsec. (f)(5), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
+Public Law 95–341, referred to in subsec. (b)(11)(B), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, popularly known as the American Indian Religious Freedom Act, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
 
 #### Codification
-“[Section 1302 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1302&num=0&edition=prelim)” substituted in subsec. (c)(1) for “section 321 of the Act of June 30, 1932 ([40 U.S.C. 303b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303b&num=0&edition=prelim))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (b)(3)(C)(ii)(I), “[section 100502 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim)” substituted for “section 12(b) of Public Law 91–383 (commonly known as the ‘National Park Service General Authorities Act’) ([16 U.S.C. 1a–7(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–7/b&num=0&edition=prelim))”, meaning “section 12(b) of Public Law 91–383 (commonly known as the ‘National Park System General Authorities Act’) ([16 U.S.C. 1a–7(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–7/b&num=0&edition=prelim))”, on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
-#### Amendments
-2005—Subsec. (c)(3). Pub. L. 109–132, § 4(a), designated existing provisions as subpars. (A) to (C), inserted subpar. headings, in subpar. (C), substituted “The easement” for “Any such easement”, and added subpar. (D).
-
-Subsec. (g). Pub. L. 109–54, § 432(a)(3), and Pub. L. 109–132, § 4(b)(3), which both directed amendment of subsec. (g) by substituting slightly different pars. (2) for “At the request of the Trust, the Secretary may provide fire presuppression, fire suppression, and rehabilitation services: Provided, That the Trust shall reimburse the Secretary for salaries and expenses of fire management personnel, commensurate with services provided.” at end, were executed by adding the par. (2) from Pub. L. 109–132 first and the par. (2) from Pub. L. 109–54 second.
-
-Pub. L. 109–54, § 432(a)(1), (2), and Pub. L. 109–132, § 4(b)(1), (2), amended subsec. (g) identically inserting par. (1) designation and heading at beginning of subsec., subpar. (A) designation and heading at beginning of first sentence, and subpar. (B) designation and heading at beginning of second sentence.
-
-#### Effective Date of 2005 Amendment
-Pub. L. 109–54, title IV, § 432(b), Aug. 2, 2005, 119 Stat. 557, provided that: “The amendments made by subsection (a) [amending this section] take effect as of January 1, 2005.”
-
-
-<a id="section-698v-7"></a>
-## § 698v–7. Authorities of the Secretary
-**(a) In general** Notwithstanding the assumption of management of the Preserve by the Trust, the Secretary is authorized to—
-
-(1) issue any rights-of-way, as defined in the Federal Land Policy and Management Act of 1976 [[43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.], of over 10 years duration, in cooperation with the Trust, including, but not limited to, road and utility rights-of-way, and communication sites;
-
-(2) issue orders under and enforce prohibitions generally applicable on other units of the National Forest System, in cooperation with the Trust;
-
-(3) exercise the authorities of the Secretary under the Wild and Scenic Rivers Act ([16 U.S.C. 1278](./chapter-028-wild-and-scenic-rivers.md#section-1278), et seq.) and the Federal Power Act ([16 U.S.C. 797](./chapter-012-federal-regulation-and-development-of-power.md#section-797), et seq.), in cooperation with the Trust;
-
-(4) acquire the mineral rights referred to in [section 698v–2(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/e&num=0&edition=prelim);
-
-(5) provide law enforcement and fire management services under [section 698v–6(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–6/g&num=0&edition=prelim);
-
-(6) at the request of the Trust, exchange land or interests in land within the Preserve under laws generally applicable to other units of the National Forest System, or otherwise dispose of land or interests in land within the Preserve under sections 521c through 521i of this title;
-
-(7) in consultation with the Trust, refer civil and criminal cases pertaining to the Preserve to the Department of Justice for prosecution;
-
-(8) retain title to and control over fossils and archaeological artifacts found within the Preserve;
-
-(9) at the request of the Trust, construct and operate a visitors’ center in or near the Preserve, subject to the availability of appropriated funds;
-
-(10) conduct the assessment of the Trust’s performance, and, if the Secretary determines it necessary, recommend to Congress the termination of the Trust, under [section 698v–8(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–8/b/2&num=0&edition=prelim); and
-
-(11) conduct such other activities for which express authorization is provided to the Secretary by sections 698v to 698v–10 of this title.
-
-**(b) Interim management**
-
-(1) **In general** — The Secretary shall manage the Preserve in accordance with sections 698v to 698v–10 of this title during the interim period from the date of acquisition of the Baca ranch under [section 698v–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/a&num=0&edition=prelim) to the date of assumption of management of the Preserve by the Trust under [section 698v–6 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-698v-6). The Secretary may enter into any agreement, lease, contract, or other arrangement on the same basis as the Trust under [section 698v–6(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–6/c/1&num=0&edition=prelim): Provided, That any agreement, lease, contract, or other arrangement entered into by the Secretary shall not exceed two years in duration unless expressly extended by the Trust upon its assumption of management of the Preserve.
-
-(2) **Use of the fund** — All monies received by the Secretary from the management of the Preserve during the interim period under paragraph (1) shall be deposited into the “Valles Caldera Fund” established under [section 698v–4(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–4/h/2&num=0&edition=prelim), and such monies in the fund shall be available to the Secretary, without further appropriation, for the purpose of managing the Preserve in accordance with the responsibilities and authorities provided to the Trust under [section 698v–6 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-698v-6).
-
-**(c) Secretarial authority** The Secretary retains the authority to suspend any decision of the Board with respect to the management of the Preserve if he finds that the decision is clearly inconsistent with sections 698v to 698v–10 of this title. Such authority shall only be exercised personally by the Secretary, and may not be delegated. Any exercise of this authority shall be in writing to the Board, and notification of the decision shall be given to the Committees of Congress. Any suspended decision shall be referred back to the Board for reconsideration.
-
-**(d) Access** The Secretary shall at all times have access to the Preserve for administrative purposes.
-
-### Statutory Notes
-
-#### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
-
-The Wild and Scenic Rivers Act, referred to in subsec. (a)(3), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, as amended, which is classified generally to chapter 28 (§ 1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1271 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1271) and Tables.
-
-The Federal Power Act, referred to in subsec. (a)(3), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
-
-
-<a id="section-698v-8"></a>
-## § 698v–8. Termination of the Trust
-**(a) In general** The Valles Caldera Trust shall terminate at the end of the twentieth full fiscal year following acquisition of the Baca ranch under [section 698v–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/a&num=0&edition=prelim).
-
-**(b) Recommendations**
-
-(1) **Board**
-
-  (A) If after the fourteenth full fiscal years 11 So in original. Probably should be “year”. from the date of acquisition of the Baca ranch under [section 698v–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/a&num=0&edition=prelim), the Board believes the Trust has met the goals and objectives of the comprehensive management program under [section 698v–6(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–6/d&num=0&edition=prelim), but has not become financially self-sustaining, the Board may submit to the Committees of Congress, a recommendation for authorization of appropriations beyond that provided under sections 698v to 698v–10 of this title.
-
-  (B) During the eighteenth full fiscal year from the date of acquisition of the Baca ranch under [section 698v–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/a&num=0&edition=prelim), the Board shall submit to the Secretary its recommendation that the Trust be either extended or terminated including the reasons for such recommendation.
-
-(2) **Secretary** — Within 120 days after receipt of the recommendation of the Board under paragraph (1)(B), the Secretary shall submit to the Committees of Congress the Board’s recommendation on extension or termination along with the recommendation of the Secretary with respect to the same and stating the reasons for such recommendation.
-
-**(c) Effect of termination** In the event of termination of the Trust, the Secretary shall assume all management and administrative functions over the Preserve, and it shall thereafter be managed as a part of the Santa Fe National Forest, subject to all laws applicable to the National Forest System.
-
-**(d) Assets** In the event of termination of the Trust, all assets of the Trust shall be used to satisfy any outstanding liabilities, and any funds remaining shall be transferred to the Secretary for use, without further appropriation, for the management of the Preserve.
-
-**(e) Valles Caldera Fund** In the event of termination, the Secretary shall assume the powers of the Trust over funds under [section 698v–4(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–4/h&num=0&edition=prelim), and the Valles Caldera Fund shall not terminate. Any balances remaining in the fund shall be available to the Secretary, without further appropriation, for any purpose consistent with the purposes of sections 698v to 698v–10 of this title.
-
-
-<a id="section-698v-9"></a>
-## § 698v–9. Limitations on funding
-**(a) Authorization of appropriations** There is hereby authorized to be appropriated to the Secretary and the Trust such funds as are necessary for them to carry out the purposes of sections 698v to 698v–10 of this title for each of the 15 full fiscal years after the date of acquisition of the Baca ranch under [section 698v–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/a&num=0&edition=prelim).
-
-**(b) Schedule of appropriations** Within two years after the first meeting of the Board, the Trust shall submit to Congress a plan which includes a schedule of annual decreasing appropriated funds that will achieve, at a minimum, the financially self-sustained operation of the Trust within 15 full fiscal years after the date of acquisition of the Baca ranch under [section 698v–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/a&num=0&edition=prelim).
+#### Continuation of Section 104(g) of the Valles Caldera Preservation Act
+Pursuant to section (d)(2)(B) of this section, provisions in section 104(g) of the Valles Caldera Preservation Act, formerly classified to [section 698v–2(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/g&num=0&edition=prelim), remain in effect. Section 104(g) of the Act reads as follows: “(g) Pueblo of Santa Clara.—“(1) In general.—The Secretary may assign to the Pueblo of Santa Clara rights to acquire for fair market value portions of the Baca ranch. The portion that may be assigned shall be determined by mutual agreement between the Pueblo and the Secretary based on optimal management considerations for the Preserve including manageable land line locations, public access, and retention of scenic and natural values. All appraisals shall be done in conformity with the Uniform Appraisal Standards for Federal Land Acquisition. “(2) Status of land acquired.—As of the date of acquisition, the fee title lands, and any mineral estate underlying such lands, acquired under this subsection by the Pueblo of Santa Clara are deemed transferred into trust in the name of the United States for the benefit of the Pueblo of Santa Clara and such lands and mineral estate are declared to be part of the existing Santa Clara Indian Reservation. “(3) Mineral estate.—Any mineral estate acquired by the United States pursuant to section 104(e) [former [16 U.S.C. 698v–2(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section698v–2/e&num=0&edition=prelim)] underlying fee title lands acquired by the Pueblo of Santa Clara shall not be developed without the consent of the Secretary of the Interior and the Pueblo of Santa Clara. “(4) Savings.—Any reservations, easements, and covenants contained in an assignment agreement entered into under paragraph (1) shall not be affected by the acquisition of the Baca ranch by the United States, the assumption of management by the Valles Caldera Trust, or the lands acquired by the Pueblo being taken into trust.”
 
 
 <a id="section-698w"></a>
@@ -2272,7 +2040,7 @@ The Federal Power Act, referred to in subsec. (a)(3), is act June 10, 1920, ch. 
 
   (B) the Act of June 8, 1906, (commonly referred to as the “Antiquities Act”; 34 Stat. 225; [16 U.S.C. 431](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431)); and
 
-  (C) the laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title.
+  (C) the laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 11 See References in Text note below. of this title.
 
 (2) **Hunting** — The Secretary of the Interior shall permit hunting on lands within the Craters of the Moon National Preserve in accordance with the applicable laws of the United States and the State of Idaho. The Secretary, in consultation with the State of Idaho, may designate zones where, and establish periods when, no hunting may be permitted for reasons of public safety, protection of the area’s resources, administration, or public use and enjoyment. Except in emergencies, any regulations prescribing such restrictions relating to hunting shall be put into effect only after consultation with the State of Idaho.
 
@@ -2281,7 +2049,9 @@ The Federal Power Act, referred to in subsec. (a)(3), is act June 10, 1920, ch. 
 #### References in Text
 Presidential Proclamation 7373, referred to in subsecs. (a) and (b)(1)(A), appears in the item for Craters of the Moon National Monument, Idaho, in the table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431).
 
-Act of June 8, 1906, referred to in subsec. (b)(1)(B), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431) and Tables.
+Act of June 8, 1906, referred to in subsec. (b)(1)(B), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906. For complete classification of this Act to the Code, see Short Title of 1906 Act note set out under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs, and Tables.
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (b)(1)(C), were repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs.
 
 #### Codification
-Section is comprised of section 1 of Pub. L. 107–213. Section 1 also enacted provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431).
+Section is comprised of section 1 of Pub. L. 107–213. Section 1 also enacted provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs.

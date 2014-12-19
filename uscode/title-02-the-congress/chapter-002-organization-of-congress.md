@@ -82,7 +82,7 @@ He shall forfeit his office upon failure to maintain the qualifications required
 The District of Columbia Election Act, referred to in subsecs. (a) and (b)(1), is act Aug. 12, 1955, ch. 862, 69 Stat. 699, as amended, which is not classified to the Code.
 
 #### Effective Date
-Pub. L. 91–405, title II, § 206(b), Sept. 22, 1970, 84 Stat. 855, provided that: “This title and the amendments made by this title [enacting this section and [section 25b of this title](./chapter-002-organization-of-congress.md#section-25b) and amending [section 2106 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2106&num=0&edition=prelim), Government Organization and Employees, sections 4342, 6954, and 9342 of Title 10, Armed Forces, sections 201, 203, 204, 591, 594, and 595 of Title 18, Crimes and Criminal Procedure, and [section 1973i of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973i&num=0&edition=prelim), The Public Health and Welfare] shall take effect on the date of its enactment [Sept. 22, 1970].”
+Pub. L. 91–405, title II, § 206(b), Sept. 22, 1970, 84 Stat. 855, provided that: “This title and the amendments made by this title [enacting this section and [section 25b of this title](./chapter-002-organization-of-congress.md#section-25b) and amending [section 2106 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2106&num=0&edition=prelim), Government Organization and Employees, sections 4342, 6954, and 9342 of Title 10, Armed Forces, sections 201, 203, 204, 591, 594, and 595 of Title 18, Crimes and Criminal Procedure, and [section 10307 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section10307&num=0&edition=prelim), Voting and Elections] shall take effect on the date of its enactment [Sept. 22, 1970].”
 
 
 <a id="section-25b"></a>
@@ -132,15 +132,18 @@ R.S. § 34 derived from act Apr. 3, 1794, ch. 17, 1 Stat. 353.
 
 (1) subject to the approval of the Speaker, appoint (as employees of the House of Representatives) clerical and other personnel and fix their respective rates of pay; and
 
-(2) utilize the services of personnel of the Library of Congress and the Government Printing Office.
+(2) utilize the services of personnel of the Library of Congress and the Government Publishing Office.
 
 ### Statutory Notes
 
 #### References in Text
 The Legislative Branch Appropriation Act, 1966, referred to in subsec. (a), is Pub. L. 89–90, July 27, 1965, 79 Stat. 265. For complete classification of this Act to the Code, see Tables.
 
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (c)(2) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
 #### Effective Date
-Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 
 <a id="section-28a"></a>
@@ -170,12 +173,12 @@ The Legislative Branch Appropriation Act, 1966, referred to in text, is Pub. L. 
 
 
 <a id="section-28c"></a>
-## § 28c. Distribution of Precedents by Public Printer
-**(a) Delivery to Members of Ninety-fifth Congress; marking of volumes** The Public Printer shall deliver one set of the Precedents to each Senator or Representative in, or Delegate or Resident Commissioner to, the Ninety-fifth Congress. The name of the Member to whom the set is delivered shall be legibly stamped on the front cover of each volume of the set.
+## § 28c. Distribution of Precedents by Director of the Government Publishing Office
+**(a) Delivery to Members of Ninety-fifth Congress; marking of volumes** The Director of the Government Publishing Office shall deliver one set of the Precedents to each Senator or Representative in, or Delegate or Resident Commissioner to, the Ninety-fifth Congress. The name of the Member to whom the set is delivered shall be legibly stamped on the front cover of each volume of the set.
 
 **(b) Members of Congress following Ninety-fifth Congress not already having sets of Precedents; necessity of written request to Superintendent of Documents for set** Each Senator or Representative in, or Delegate or Resident Commissioner to, each Congress following the Ninety-fifth Congress who has not theretofore received a set of the Precedents shall be entitled to receive one set of the Precedents, upon transmitting a written request for such set to the Superintendent of Documents.
 
-**(c) Additional distribution of sets** The Public Printer shall make the following distribution of sets of the Precedents:
+**(c) Additional distribution of sets** The Director of the Government Publishing Office shall make the following distribution of sets of the Precedents:
 
 (1) to the office of the Vice President, to the office of the speaker of the House of Representatives, and to the office of the President pro tempore of the Senate, each, five sets;
 
@@ -212,10 +215,13 @@ The Legislative Branch Appropriation Act, 1966, referred to in text, is Pub. L. 
 
 Subsec. (c)(5). Pub. L. 104–186, § 202(3)(B), substituted “and to the Sergeant at Arms of the House of Representatives, each two sets” for “, to the Sergeant at Arms of the House of Representatives, and to the Doorkeeper of the House of Representatives, each, two sets”.
 
+#### Change of Name
+“Director of the Government Publishing Office” substituted for “Public Printer” in subsecs. (a) and (c) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
 
 <a id="section-28d"></a>
-## § 28d. Distribution of Precedents by Public Printer for official use; particular distribution; marking and ownership of sets
-**(a)** The Public Printer shall make the following distribution of sets of the Precedents;
+## § 28d. Distribution of Precedents by Director of the Government Publishing Office for official use; particular distribution; marking and ownership of sets
+**(a)** The Director of the Government Publishing Office shall make the following distribution of sets of the Precedents;
 
 (1) to each standing or joint committee of the Congress which is in existence on October 18, 1976, or which is established after October 18, 1976, four sets;
 
@@ -233,7 +239,12 @@ Subsec. (c)(5). Pub. L. 104–186, § 202(3)(B), substituted “and to the Serge
 
 (8) to the office of the Official Reporter of Debates of the Senate, three sets.
 
-**(b)** Each set of Precedents distributed by the Public Printer under subsection (a) of this section shall be for official use. Each such set shall be legibly stamped on the front cover “Property of the United States Government.” Each such set, upon delivery, shall become and remain the property of the United States, and may not be removed from the building in which is located the designated library or office, as the case may be.
+**(b)** Each set of Precedents distributed by the Director of the Government Publishing Office under subsection (a) of this section shall be for official use. Each such set shall be legibly stamped on the front cover “Property of the United States Government.” Each such set, upon delivery, shall become and remain the property of the United States, and may not be removed from the building in which is located the designated library or office, as the case may be.
+
+### Statutory Notes
+
+#### Change of Name
+“Director of the Government Publishing Office” substituted for “Public Printer” in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 
 <a id="section-28e"></a>
@@ -244,14 +255,17 @@ Subsec. (c)(5). Pub. L. 104–186, § 202(3)(B), substituted “and to the Serge
 
 
 <a id="section-29"></a>
-## § 29. Condensed and simplified versions of House prec­edents; other useful materials in summary form; form and distribution to Members of Congress, Resident Commissioner from Puerto Rico, and others; appointment and compensation of personnel; utilization of services of personnel of Federal agencies
+## § 29. Condensed and simplified versions of House precedents; other useful materials in summary form; form and distribution to Members of Congress, Resident Commissioner from Puerto Rico, and others; appointment and compensation of personnel; utilization of services of personnel of Federal agencies
 
-The Parliamentarian of the House of Representatives shall prepare, compile, and maintain on a current basis and in cumulative form, for each Congress commencing with the Ninety-third Congress a condensed and, insofar as practicable, up-to-date version of all of the parliamentary precedents of the House of Representatives which have current use and application in the House, together with informative text prepared by the Parliamentarian and other useful related material in summary form. The Parliamentarian shall have such matter printed for each Congress on pages of such size and in such type and format as he considers advisable to promote the usefulness of such matter to the Members of the House and shall provide a printed copy thereof to each Member in each Congress, including the Resident Commissioner from Puerto Rico, and may make such other distribution of such printed copies as he considers advisable. In carrying out this section, the Parliamentarian may appoint and fix the pay of personnel and utilize the services of personnel of the Library of Congress and the Government Printing Office.
+The Parliamentarian of the House of Representatives shall prepare, compile, and maintain on a current basis and in cumulative form, for each Congress commencing with the Ninety-third Congress a condensed and, insofar as practicable, up-to-date version of all of the parliamentary precedents of the House of Representatives which have current use and application in the House, together with informative text prepared by the Parliamentarian and other useful related material in summary form. The Parliamentarian shall have such matter printed for each Congress on pages of such size and in such type and format as he considers advisable to promote the usefulness of such matter to the Members of the House and shall provide a printed copy thereof to each Member in each Congress, including the Resident Commissioner from Puerto Rico, and may make such other distribution of such printed copies as he considers advisable. In carrying out this section, the Parliamentarian may appoint and fix the pay of personnel and utilize the services of personnel of the Library of Congress and the Government Publishing Office.
 
 ### Statutory Notes
 
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
 #### Effective Date
-Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 
 <a id="section-29a"></a>
@@ -268,15 +282,15 @@ Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) 
 
 (1)
 
-  (A) Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under subsection (a) of this section, and each incumbent Member reelected to the ensuing Congress who attends any such caucus or conference convening after the adjournment sine die of the Congress in the year involved, shall be paid for one round trip between his or her place of residence in the district which he or she represents and Washington, District of Columbia, for the purpose of attending such caucus or conference. Payment shall be made through the issuance of a transportation request form to each such Member-elect or incumbent Member by the Finance Office of the House before such caucus or conference.
+  (A) Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under subsection (a), and each incumbent Member reelected to the ensuing Congress who attends any such caucus or conference convening after the adjournment sine die of the Congress in the year involved, shall be paid for one round trip between his or her place of residence in the district which he or she represents and Washington, District of Columbia, for the purpose of attending such caucus or conference. Payment shall be made through the issuance of a transportation request form to each such Member-elect or incumbent Member by the Finance Office of the House before such caucus or conference.
 
-  (B) Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under subsection (a) of this section shall in addition be reimbursed on a per diem or other basis for expenses incurred in connection with his or her attendance at such caucus or conference.
+  (B) Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under subsection (a) shall in addition be reimbursed on a per diem or other basis for expenses incurred in connection with his or her attendance at such caucus or conference.
 
 (2) Payments and reimbursements to Members-elect under paragraph (1) shall be made as provided (with respect to Members) in the regulations prescribed by the Committee on House Oversight with respect to travel and other expenses of committees and Members. Reimbursements shall be paid on special voucher forms prescribed by the Committee on House Oversight.
 
 **(c) Availability of applicable accounts of House** The applicable accounts of the House of Representatives are made available to carry out the purposes of this section.
 
-**(d) Orientation programs for new Members** With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (b) and (c) of this section shall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new members 11 So in original. Probably should be capitalized. in the same manner as such provisions apply to the attendance of the Member or Member-elect at the organizational caucus or conference.
+**(d) Orientation programs for new Members** With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (b) and (c) shall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new members 11 So in original. Probably should be capitalized. in the same manner as such provisions apply to the attendance of the Member or Member-elect at the organizational caucus or conference.
 
 ### Statutory Notes
 
@@ -302,7 +316,7 @@ Subsec. (c). Pub. L. 104–186, § 202(4)(B), substituted “applicable accounts
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 2004 Amendment
-Pub. L. 108–447, div. G, title I, § 107(d), Dec. 8, 2004, 118 Stat. 3177, provided that: “The amendments made by this section [amending this section and [section 43b–2 of this title](./chapter-003-compensation-and-allowances-of-members.md#section-43b-2)] shall apply with respect to the One Hundred Tenth Congress and each succeeding Congress.”
+Pub. L. 108–447, div. G, title I, § 107(d), Dec. 8, 2004, 118 Stat. 3177, provided that: “The amendments made by this section [amending this section and [section 5343 of this title](./chapter-053-house-of-representatives-members.md#section-5343)] shall apply with respect to the One Hundred Tenth Congress and each succeeding Congress.”
 
 #### Effective Date
 Pub. L. 93–554 provided that the enactment of House Resolution No. 988, Ninety-third Congress, into permanent law is effective Jan. 2, 1975.
@@ -320,74 +334,12 @@ Section 29c, based on clause 10, rule I, of the Rules of the House of Representa
 
 
 <a id="section-29d"></a>
-## § 29d. Committee on Standards of Official Conduct of House of Representatives
-**(a) Omitted**
-
-**(b) Committee composition** The respective party caucus or conference of the House of Representatives shall each nominate to the House of Representatives at the beginning of each Congress 7 members to serve on the Committee on Standards of Official Conduct.
-
-**(c) Investigative subcommittees** The Committee on Standards of Official Conduct shall adopt rules providing—
-
-(1) for the establishment of a 4 or 6-member investigative subcommittee (with equal representation from the majority and minority parties) whenever the committee votes to undertake any investigation;
-
-(2) that the senior majority and minority members on an investigative subcommittee shall serve as the chairman and ranking minority member of the subcommittee; and
-
-(3) that the chairman and ranking minority member of the full committee may only serve as non-voting, ex officio members on an investigative subcommittee.
-Clause 5(d) of rule XI 11 See References in Text note below. of the Rules of the House of Representatives shall not apply to any investigative subcommittee.
-
-**(d) Adjudicatory subcommittees** The Committee on Standards of Official Conduct shall adopt rules providing—
-
-(1) that upon the completion of an investigation, an investigative subcommittee shall report its findings and recommendations to the committee;
-
-(2) that, if an investigative subcommittee by majority vote of its membership adopts a statement of alleged violation, the remaining members of the committee shall comprise an adjudicatory subcommittee to hold a disciplinary hearing on the violation alleged in the statement;
-
-(3) that any statement of alleged violation and any written response thereto shall be made public at the first meeting or hearing on the matter which is open to the public after the respondent has been given full opportunity to respond to the statement in accordance with committee rules, but, if no public hearing or meeting is held on the matter, the statement of alleged violation and any written response thereto shall be included in the committee’s final report to the House of Representatives as required by clause 4(e)(1)(B) of rule X 1 of the Rules of the House of Representatives;
-
-(4) that a quorum for an adjudicatory subcommittee for the purpose of taking testimony and conducting any business shall consist of a majority of the membership of the subcommittee plus one; and
-
-(5) that an adjudicatory subcommittee shall determine, after receiving evidence, whether the counts in the statement have been proved and shall report its findings to the committee.
-Clause 5(d) of rule XI 1 of the Rules of the House of Representatives shall not apply to any adjudicatory subcommittee.
-
-**(e) to (h) Omitted**
-
-**(i) Advice and education**
-
-(1) The Committee on Standards of Official Conduct shall establish within the committee an Office on Advice and Education (hereinafter in this subsection referred to as the “Office”) under the supervision of the chairman.
-
-(2) The Office shall be headed by a director who shall be appointed by the chairman, in consultation with the ranking minority member, and shall be comprised of such staff as the chairman determines is necessary to carry out the responsibilities of the Office.
-
-(3) The primary responsibilities of the Office shall include:
-
-  (A) Providing information and guidance to Members, officers and employees of the House regarding any laws, rules, regulations, and other standards of conduct applicable to such individuals in their official capacities, and any interpretations and advisory opinions of the committee.
-
-  (B) Submitting to the chairman and ranking minority member of the committee any written request from any such Member, officer or employee for an interpretation of applicable laws, rules, regulations, or other standards of conduct, together with any recommendations thereon.
-
-  (C) Recommending to the committee for its consideration formal advisory opinions of general applicability.
-
-  (D) Developing and carrying out, subject to the approval of the chairman, periodic educational briefings for Members, officers and employees of the House on those laws, rules, regulations, or other standards of conduct applicable to them.
-
-(4) No information provided to the Committee on Standards of Official Conduct by a Member, officer or employee of the House of Representatives when seeking advice regarding prospective conduct of such Member, officer or employee may be used as the basis for initiating an investigation under clause 4(e)(1)(B) of rule X 1 of the Rules of the House of Representatives, if such Member, officer or employee acts in accordance with the written advice of the committee.
-
-**(j) Effective date** This section shall take effect immediately before noon January 3, 1991, except that subsections (g), (h), and (i) shall take effect on January 1, 1990.
+## § 29d. Transferred
 
 ### Statutory Notes
 
-#### References in Text
-The Rules of the House of Representatives for the One Hundred Sixth Congress were adopted and amended generally by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Provisions formerly appearing in clause 5(d) of rule XI, referred to in subsecs. (c) and (d), are now contained in clause 6(d) of rule X. Provisions formerly appearing in clause 4(e)(1)(B) of rule X, referred to in subsecs. (d)(3) and (i)(4), are now contained in clause 3(a)(2) of rule XI.
-
 #### Codification
-Section is comprised of section 803 of Pub. L. 101–194. Subsecs. (a) and (e) to (h) of section 803 amended the Rules of the House of Representatives which are not classified to the Code.
-
-#### Change of Name
-Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
-#### Acceptance of Gifts; Amendments to Advisory Opinions
-Pub. L. 101–194, title VIII, § 801(e), Nov. 30, 1989, 103 Stat. 1772, provided that: “The Committee on Standards of Official Conduct of the House of Representatives shall amend its advisory opinions relating to the acceptance of gifts (1) to prohibit lodging received as personal hospitality in excess of 30 days in any calendar year from any individual unless a written waiver is granted by the committee and (2) to exempt gifts of food and beverages consumed not in connection with gifts of lodging from coverage under clause 4 of rule XLIII [now clause 4 of rule XXIII] of the Rules of the House of Representatives.”
-
-#### Noncampaign Use of Campaign Vehicles
-Pub. L. 101–194, title VIII, § 802(e), Nov. 30, 1989, 103 Stat. 1773, provided that: “The Committee on Standards of Official Conduct [now Committee on Ethics] of the House of Representatives shall issue an advisory opinion to provide for appropriate conditions for the incidental noncampaign use of vehicles owned or leased by a campaign committee of a Member of the House of Representatives.”
-
-#### Restrictions on Reimbursable Travel Expenses
-Pub. L. 101–194, title VIII, § 805, Nov. 30, 1989, 103 Stat. 1778, provided that: “(a) Restrictions.—The Committee on Standards of Official Conduct [now Committee on Ethics] of the House of Representatives shall amend its advisory opinions relating to the acceptance of necessary travel expenses incurred on or after January 1, 1990, in connection with speaking engagements and similar events to—“(1) prohibit the acceptance of such expenses for more than 4 consecutive days in the case of domestic travel and 7 consecutive days (excluding travel days) in the case of foreign travel; and “(2) permit the acceptance of travel expenses for the spouse or other family member in connection with any substantial participation event or fact-finding activity. “(b) Exemption Authority.—The Committee on Standards of Official Conduct [now Committee on Ethics] of the House of Representatives is authorized to grant prior written exemptions from the limitations contained in subsection (a)(1) in exceptional circumstances.”
+Section 29d was editorially reclassified as [section 4711 of this title](./chapter-047-congressional-ethics.md#section-4711).
 
 
 <a id="section-30"></a>
@@ -419,8 +371,7 @@ Section is from the Legislative Branch Appropriations Act, 1991.
 
 (1) following the objection to a unanimous consent to proceeding to, and, or passage of, a measure or matter on their behalf, submits the notice of intent in writing to the appropriate leader or their designee; and
 
-(2) not later than 6 session days after the submission under paragraph (1), submits for inclusion in the Congressional Record and in the applicable calendar section described in subsection (b) the following notice:
-“I, Senator ____, intend to object to proceedings to ____, dated ____ for the following reasons ____.”.
+(2) not later than 6 session days after the submission under paragraph (1), submits for inclusion in the Congressional Record and in the applicable calendar section described in subsection (b) the following notice:“I, Senator ____, intend to object to proceedings to ____, dated ____ for the following reasons ____.”.
 
 **(b) Calendar**
 
@@ -441,7 +392,7 @@ Section is from the Legislative Branch Appropriations Act, 1991.
 ### Statutory Notes
 
 #### Effective Date
-Pub. L. 110–81, title V, § 556, Sept. 14, 2007, 121 Stat. 774, provided that: “Except as otherwise provided in this title [enacting this section, sections 31–3, 72a–1h, 72a–1i, 104f, and 104g of this title, and provisions set out as notes under this section and [section 31–3 of this title](./chapter-003-compensation-and-allowances-of-members.md#section-31-3)], this title shall take effect on the date of enactment of this title [Sept. 14, 2007].”
+Pub. L. 110–81, title V, § 556, Sept. 14, 2007, 121 Stat. 774, provided that: “Except as otherwise provided in this title [enacting this section, sections 4722, 4723, 4726, 4727, and 4728 of this title, and provisions set out as notes under this section and [section 4726 of this title](./chapter-047-congressional-ethics.md#section-4726)], this title shall take effect on the date of enactment of this title [Sept. 14, 2007].”
 
 #### Exercise of Rulemaking Powers
 Pub. L. 110–81, title V, § 555, Sept. 14, 2007, 121 Stat. 774, provided that: “The Senate adopts the provisions of this title [see Effective Date note above]— “(1) as an exercise of the rulemaking power of the Senate; and “(2) with full recognition of the constitutional right of the Senate to change those rules at any time, in the same manner, and to the same extent as in the case of any other rule of the Senate.”

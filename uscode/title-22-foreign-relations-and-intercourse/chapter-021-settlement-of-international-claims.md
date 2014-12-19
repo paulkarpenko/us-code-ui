@@ -491,7 +491,7 @@ For provisions transferring Foreign Claims Settlement Commission of the United S
 
 **(d) Payment of balance to Yugoslav Government; certification of adjudication costs; finality of certification** The Secretary of the Treasury, upon the concurrence of the Secretary of State, is authorized and directed, out of the sum covered into the Yugoslav Claims Fund pursuant to subsection (b) of this section, after completing the payments of such funds pursuant to subsection (c) of this section, to make payment of the balance of any sum remaining in such fund to the Government of the Federal People’s Republic of Yugoslavia to the extent required under article 1(c) of the Yugoslav Claims Agreement of 1948. The Secretary of State shall certify to the Secretary of the Treasury the total cost of adjudication, not borne by the claimants, attributable to the Yugoslav Claims Agreement of 1948. Such certification shall be final and conclusive and shall not be subject to review by any other official, or department, agency, or establishment of the United States.
 
-**(e) Payments; priorities** Except as provided in subsection (f) of this section, the Secretary of the Treasury is authorized and directed out of sums covered, subsequent to July 24, 1968, into any special fund created pursuant to this section to make payment on account of awards certified by the Commission pursuant to this subchapter with respect to claims included within the terms of a claims settlement agreement concluded between the Government of the United States and a foreign government as described in [section 1623(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1623/a&num=0&edition=prelim), as follows and in the following order of priority:
+**(e) Payments; priorities** Except as provided in subsection (f), the Secretary of the Treasury is authorized and directed out of sums covered, subsequent to July 24, 1968, into any special fund created pursuant to this section to make payment on account of awards certified by the Commission pursuant to this subchapter with respect to claims included within the terms of a claims settlement agreement concluded between the Government of the United States and a foreign government as described in [section 1623(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1623/a&num=0&edition=prelim), as follows and in the following order of priority:
 
 (1) Payment in the amount of $1,000 or the principal amount of the award, whichever is less;
 
@@ -501,7 +501,7 @@ For provisions transferring Foreign Claims Settlement Commission of the United S
 
 **(f) People’s Republic of China; claim payment priorities**
 
-(1) Out of sums covered after May 11, 1979, into the special fund created pursuant to this section to receive funds paid by the People’s Republic of China, the Secretary of the Treasury is authorized and directed to make payments on account of awards certified by the Commission pursuant to subchapter V of this chapter with respect to claims included within the terms of the Agreement Between the Government of the United States of America and the Government of the People’s Republic of China Concerning the Settlement of Claims, signed on May 11, 1979, in the following order of priority:
+(1) Out of sums covered after May 11, 1979, into the special fund created pursuant to this section to receive funds paid by the People’s Republic of China, the Secretary of the Treasury is authorized and directed to make payments on account of awards certified by the Commission pursuant to subchapter V with respect to claims included within the terms of the Agreement Between the Government of the United States of America and the Government of the People’s Republic of China Concerning the Settlement of Claims, signed on May 11, 1979, in the following order of priority:
 
   (A) Payment in the amount of $1,000 or the principal amount of the award, whichever is less.
 
@@ -511,11 +511,11 @@ For provisions transferring Foreign Claims Settlement Commission of the United S
 
 (2)
 
-  (A) For the purpose of computing the payments to be made under paragraph (1) to any claimant which was an incorporated business enterprise on the date of nationalization or other taking of property, the award certified by the Commission under subchapter V of this chapter shall be reduced by the amount of Federal tax benefits derived by such claimant on account of the losses upon which such claim was based, but in no case shall such payments be reduced below the amount paid to such claimant on account of such claim before October 13, 1980. For purposes of this subparagraph, such Federal tax benefits shall be the amount by which the claimant’s taxes in any prior taxable year or years under chapters 1, 2A, 2B, 2D, and 2E of the Internal Revenue Code of 1939, or subtitle A of the Internal Revenue Code of 1986, were decreased with respect to the loss or losses upon which the claim was based. The sum of the amounts which would otherwise be payable but for this paragraph which are not paid to any such claimant shall be aggregated, and the Secretary of the Treasury is authorized and directed to make payments out of such aggregated sums in accordance with subparagraph (B).
+  (A) For the purpose of computing the payments to be made under paragraph (1) to any claimant which was an incorporated business enterprise on the date of nationalization or other taking of property, the award certified by the Commission under subchapter V shall be reduced by the amount of Federal tax benefits derived by such claimant on account of the losses upon which such claim was based, but in no case shall such payments be reduced below the amount paid to such claimant on account of such claim before October 13, 1980. For purposes of this subparagraph, such Federal tax benefits shall be the amount by which the claimant’s taxes in any prior taxable year or years under chapters 1, 2A, 2B, 2D, and 2E of the Internal Revenue Code of 1939, or subtitle A of the Internal Revenue Code of 1986, were decreased with respect to the loss or losses upon which the claim was based. The sum of the amounts which would otherwise be payable but for this paragraph which are not paid to any such claimant shall be aggregated, and the Secretary of the Treasury is authorized and directed to make payments out of such aggregated sums in accordance with subparagraph (B).
 
   (B) To the extent that there remain unpaid principal balances on awards to claimants which were, on the date of nationalization or other taking of property, nonprofit organizations operated exclusively for the promotion of social welfare, religious, charitable, or educational purposes (after payments made to such nonprofit organizations pursuant to subparagraphs (A) and (B) of paragraph (1) are taken into account), the Secretary of the Treasury is authorized and directed to make payments from time to time on account of the unpaid principal balance of each remaining award to such nonprofit organizations which bear to such unpaid principal balance the same proportion as the total sums aggregated pursuant to subparagraph (A) at the times such payments are made bear to the aggregate unpaid principal balance of all such awards to nonprofit organizations.
 
-**(g) Authority to invest and recover expenses from funds** The Secretary of the Treasury is authorized and directed to invest the amounts held respectively in the “special funds” established by this section in public debt securities with maturities suitable for the needs of the separate accounts and bearing interest at rates determined by the Secretary, taking into consideration the average market yield on outstanding marketable obligations of the United States of comparable maturities. The interest earned on the amounts in each special fund shall be used to make payments, in accordance with subsection (c) of this section, on awards payable from that special fund.
+**(g) Authority to invest and recover expenses from funds** The Secretary of the Treasury is authorized and directed to invest the amounts held respectively in the “special funds” established by this section in public debt securities with maturities suitable for the needs of the separate accounts and bearing interest at rates determined by the Secretary, taking into consideration the average market yield on outstanding marketable obligations of the United States of comparable maturities. The interest earned on the amounts in each special fund shall be used to make payments, in accordance with subsection (c), on awards payable from that special fund.
 
 ### Statutory Notes
 
@@ -542,7 +542,7 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 
 1986—Subsec. (f)(2)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1980—Subsec. (e). Pub. L. 96–445, § 1(1), substituted “Except as provided in subsection (f) of this section, the Secretary of the Treasury” for “The Secretary of the Treasury”.
+1980—Subsec. (e). Pub. L. 96–445, § 1(1), substituted “Except as provided in subsection (f), the Secretary of the Treasury” for “The Secretary of the Treasury”.
 
 Subsec. (f). Pub. L. 96–445, § 1(2), added subsec. (f).
 
@@ -732,7 +732,8 @@ Prior to covering the net proceeds of liquidation of any property into the Treas
 
 (1) the amount of his administrative expenses attributable to the performance of his functions under this subchapter with respect to such property and the proceeds thereof. The amount so determined, together with an amount not exceeding that expended or incurred for the conservation, preservation, or maintenance of such property and the proceeds thereof, and for taxes in respect of same, shall be deducted and retained by the designee from the proceeds otherwise covered into the Treasury; and
 
-(2) that the time for the institution of a suit under [section 1631f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1631f/a&num=0&edition=prelim), for the filing of a notice of claim under [section 1631f(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1631f/b&num=0&edition=prelim), and for the filing of debt claims under [section 1631g of this title](./chapter-021-settlement-of-international-claims.md#section-1631g) has elapsed. The determinations of the designee under this section shall be final and conclusive.
+(2) that the time for the institution of a suit under [section 1631f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1631f/a&num=0&edition=prelim), for the filing of a notice of claim under [section 1631f(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1631f/b&num=0&edition=prelim), and for the filing of debt claims under [section 1631g of this title](./chapter-021-settlement-of-international-claims.md#section-1631g) has elapsed.
+The determinations of the designee under this section shall be final and conclusive.
 
 
 <a id="section-1631m"></a>
@@ -1012,7 +1013,7 @@ There are authorized to be appropriated such sums as may be necessary to enable 
 <a id="section-1641q"></a>
 ## § 1641q. Applicability of administrative provisions of subchapter I
 
-The following provisions of subchapter I of this chapter shall be applicable to this subchapter: Subsections (b), (c), (d), (e), (h), and (j) of [section 1623 of this title](./chapter-021-settlement-of-international-claims.md#section-1623); and subsections (c), (d), (e), and (f) of [section 1626 of this title](./chapter-021-settlement-of-international-claims.md#section-1626).
+The following provisions of subchapter I shall be applicable to this subchapter: Subsections (b), (c), (d), (e), (h), and (j) of [section 1623 of this title](./chapter-021-settlement-of-international-claims.md#section-1623); and subsections (c), (d), (e), and (f) of [section 1626 of this title](./chapter-021-settlement-of-international-claims.md#section-1626).
 
 
 <a id="section-1642"></a>
@@ -1164,7 +1165,7 @@ The Secretary of State is authorized and directed to transfer or otherwise make 
 <a id="section-1642o"></a>
 ## § 1642o. Applicability of administrative provisions of subchapter I
 
-To the extent they are not inconsistent with the provisions of this subchapter, the following provisions of subchapter I of this chapter shall be applicable to this subchapter: Subsections (b), (c), (d), (e), (h), and (j) of [section 1623 of this title](./chapter-021-settlement-of-international-claims.md#section-1623); subsections (c), (d), (e), and (f) of [section 1626 of this title](./chapter-021-settlement-of-international-claims.md#section-1626).
+To the extent they are not inconsistent with the provisions of this subchapter, the following provisions of subchapter I shall be applicable to this subchapter: Subsections (b), (c), (d), (e), (h), and (j) of [section 1623 of this title](./chapter-021-settlement-of-international-claims.md#section-1623); subsections (c), (d), (e), and (f) of [section 1626 of this title](./chapter-021-settlement-of-international-claims.md#section-1626).
 
 
 <a id="section-1642p"></a>
@@ -1219,7 +1220,7 @@ For provisions transferring Foreign Claims Settlement Commission of the United S
 ## § 1643b. Receipt of claims; determination of amount and validity
 **(a) Claims for property loss** The Commission shall receive and determine in accordance with applicable substantive law, including international law, the amount and validity of claims by nationals of the United States against the Government of Cuba, or the Chinese Communist regime, arising since January 1, 1959, in the case of claims against the Government of Cuba, or since October 1, 1949, in the case of claims against the Chinese Communist regime, for losses resulting from the nationalization, expropriation, intervention, or other taking of, or special measures directed against, property including any rights or interests therein owned wholly or partially, directly or indirectly at the time by nationals of the United States, if such claims are submitted to the Commission within such period specified by the Commission by notice published in the Federal Register (which period shall not be more than eighteen months after such publication) within sixty days after October 16, 1964, or sixty days after November 6, 1966, with respect to claims against the Chinese Communist regime, or of legislation making appropriations to the Commission for payment of administrative expenses incurred in carrying out its functions with respect to each respective claims program authorized, under this subchapter, whichever date is later. In making the determination with respect to the validity and amount of claims and value of properties, rights, or interests taken, the Commission shall take into account the basis of valuation most appropriate to the property and equitable to the claimant, including but not limited to, (i) fair market value, (ii) book value, (iii) going concern value, or (iv) cost of replacement.
 
-**(b) Claims for disability or death** The Commission shall receive and determine in accordance with applicable substantive law, including international law, the amount and validity of claims by nationals of the United States against the Government of Cuba, or the Chinese Communist regime, arising since January 1, 1959, in the case of claims against the Government of Cuba, or since October 1, 1949, in the case of claims against the Chinese Communist regime, for disability or death resulting from actions taken by or under the authority of the Government of Cuba, or the Chinese Communist regime, if such claims are submitted to the Commission within the period established by the Commission under subsection (a) of this section, or within six months after the date the claims first arose (as determined by the Commission), whichever date last occurs.
+**(b) Claims for disability or death** The Commission shall receive and determine in accordance with applicable substantive law, including international law, the amount and validity of claims by nationals of the United States against the Government of Cuba, or the Chinese Communist regime, arising since January 1, 1959, in the case of claims against the Government of Cuba, or since October 1, 1949, in the case of claims against the Chinese Communist regime, for disability or death resulting from actions taken by or under the authority of the Government of Cuba, or the Chinese Communist regime, if such claims are submitted to the Commission within the period established by the Commission under subsection (a), or within six months after the date the claims first arose (as determined by the Commission), whichever date last occurs.
 
 ### Statutory Notes
 
@@ -1329,9 +1330,9 @@ Section effective Aug. 1, 1996, or date determined pursuant to suspension author
 
 <a id="section-1643m"></a>
 ## § 1643m. Exclusivity of Foreign Claims Settlement Commission certification procedure
-**(a)** Subject to subsection (b) of this section, neither any national of the United States who was eligible to file a claim under [section 1643b of this title](./chapter-021-settlement-of-international-claims.md#section-1643b) but did not timely file such claim under that section, nor any person who was ineligible to file a claim under [section 1643b of this title](./chapter-021-settlement-of-international-claims.md#section-1643b), nor any national of Cuba, including any agency, instrumentality, subdivision, or enterprise of the Government of Cuba or any local government of Cuba, nor any successor thereto, whether or not recognized by the United States, shall have a claim to, participate in, or otherwise have an interest in, the compensation proceeds or nonmonetary compensation paid or allocated to a national of the United States by virtue of a claim certified by the Commission under [section 1643f of this title](./chapter-021-settlement-of-international-claims.md#section-1643f), nor shall any district court of the United States have jurisdiction to adjudicate any such claim.
+**(a)** Subject to subsection (b), neither any national of the United States who was eligible to file a claim under [section 1643b of this title](./chapter-021-settlement-of-international-claims.md#section-1643b) but did not timely file such claim under that section, nor any person who was ineligible to file a claim under [section 1643b of this title](./chapter-021-settlement-of-international-claims.md#section-1643b), nor any national of Cuba, including any agency, instrumentality, subdivision, or enterprise of the Government of Cuba or any local government of Cuba, nor any successor thereto, whether or not recognized by the United States, shall have a claim to, participate in, or otherwise have an interest in, the compensation proceeds or nonmonetary compensation paid or allocated to a national of the United States by virtue of a claim certified by the Commission under [section 1643f of this title](./chapter-021-settlement-of-international-claims.md#section-1643f), nor shall any district court of the United States have jurisdiction to adjudicate any such claim.
 
-**(b)** Nothing in subsection (a) of this section shall be construed to detract from or otherwise affect any rights in the shares of capital stock of nationals of the United States owning claims certified by the Commission under [section 1643f of this title](./chapter-021-settlement-of-international-claims.md#section-1643f).
+**(b)** Nothing in subsection (a) shall be construed to detract from or otherwise affect any rights in the shares of capital stock of nationals of the United States owning claims certified by the Commission under [section 1643f of this title](./chapter-021-settlement-of-international-claims.md#section-1643f).
 
 ### Statutory Notes
 
@@ -1358,11 +1359,7 @@ Section 119 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of
 
 As used in this subchapter—
 
-(1) The term “national of the United States” means—
-
-  (a) a natural person who is a citizen of the United States;
-
-  (b) a corporation or other legal entity which is organized under the laws of the United States or of any State, the District of Columbia, or the Commonwealth of Puerto Rico, if natural persons who are citizens of the United States own, directly or indirectly, 50 per centum or more of the outstanding capital stock or other beneficial interest of such corporation or entity. The term does not include aliens.
+(1) The term “national of the United States” means— (a) a natural person who is a citizen of the United States; (b) a corporation or other legal entity which is organized under the laws of the United States or of any State, the District of Columbia, or the Commonwealth of Puerto Rico, if natural persons who are citizens of the United States own, directly or indirectly, 50 per centum or more of the outstanding capital stock or other beneficial interest of such corporation or entity. The term does not include aliens.
 
 (2) The term “Commission” means the Foreign Claims Settlement Commission of the United States.
 
@@ -1570,7 +1567,7 @@ With respect to any claim under [section 1645b of this title](./chapter-021-sett
 
 (2) After payment has been made in full of the principal amounts of all awards pursuant to paragraph (1), pro rata payments may be made on account of any interest that may be allowed on such awards.
 
-**(c) Regulations** Payments or applications for payments under subsection (b) of this section shall be made in accordance with such regulations as the Secretary of the Treasury may prescribe.
+**(c) Regulations** Payments or applications for payments under subsection (b) shall be made in accordance with such regulations as the Secretary of the Treasury may prescribe.
 
 
 <a id="section-1645j"></a>
@@ -1601,7 +1598,7 @@ No remuneration on account of services rendered on behalf of any claimant, in co
 ## § 1645n. Applicability of other statutory provisions
 **(a)** To the extent they are not inconsistent with the provisions of this subchapter, the following provisions of subchapter I of this chapter shall be applicable to this subchapter; subsections (b), (c), (d), (e), and (h) of [section 1623 of this title](./chapter-021-settlement-of-international-claims.md#section-1623) and subsections (c), (d), (e), and (f) of [section 1626 of this title](./chapter-021-settlement-of-international-claims.md#section-1626). Any reference in such provisions to “this subchapter” shall be deemed to be a reference to those provisions and to this subchapter.
 
-**(b)** Except as otherwise provided in this subchapter and in those provisions of subchapter I of this chapter referred to in subsection (a) of this section, the Commission shall comply with the provisions of subchapter II of chapter 5, and the provisions of chapter 7, of title 5.
+**(b)** Except as otherwise provided in this subchapter and in those provisions of subchapter I referred to in subsection (a), the Commission shall comply with the provisions of subchapter II of chapter 5, and the provisions of chapter 7, of title 5.
 
 
 <a id="section-1645o"></a>

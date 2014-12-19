@@ -75,7 +75,7 @@ Pub. L. 100–204, title I, § 153(a)–(d), Dec. 22, 1987, 101 Stat. 1353, auth
 
 (7) “United States” means, when used in a geographic sense, the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 
-**(b)** Determinations with respect to the meaning and applicability of the terms used in subsection (a) of this section shall be committed to the discretion of the Secretary.
+**(b)** Determinations with respect to the meaning and applicability of the terms used in subsection (a) shall be committed to the discretion of the Secretary.
 
 ### Statutory Notes
 
@@ -160,7 +160,7 @@ Any new spending authority provided by amendment by section 173(a)(2) of Pub. L.
 
 (4) to assist in resolving a dispute affecting United States interests and involving a foreign mission or sending State, or
 
-(5) subject to subsection (f) of this section, to implement an exchange of property between the Government of the United States and the government of a foreign country, such property to be used by each government in the respective receiving state for, or in connection with, diplomatic or consular establishments,
+(5) subject to subsection (f), to implement an exchange of property between the Government of the United States and the government of a foreign country, such property to be used by each government in the respective receiving state for, or in connection with, diplomatic or consular establishments,
 then the Secretary may require a foreign mission (A) to obtain benefits from or through the Secretary on such terms and conditions as the Secretary may approve, or (B) to forego the acceptance, use, or relation of any benefit or to comply with such terms and conditions as the Secretary may determine as a condition to the execution or performance in the United States of any contract or other agreement, the acquisition, retention, or use of any real property, or the application for or acceptance of any benefit (including any benefit from or authorized by any Federal, State, or municipal governmental authority, or any entity providing public services).
 
 **(c) Surcharge or fee; waiver of recourse** Terms and conditions established by the Secretary under this section may include—
@@ -175,11 +175,11 @@ then the Secretary may require a foreign mission (A) to obtain benefits from or 
 
 **(f) In-kind exchange of properties with foreign government; transfer of funds; reciprocal agreement; regulations**
 
-(1) Upon a determination in each specific case by the Secretary of State or the Secretary’s designee that the purpose of the Foreign Service Buildings Act, 1926 [[22 U.S.C. 292](./chapter-008-foreign-service-buildings.md#section-292) et seq.], can best be met on the basis of an in-kind exchange of properties with a foreign country pursuant to subsection (b)(5) of this section, the Secretary of State may transfer funds made available under the heading “Acquisition and Maintenance of Buildings Abroad” (including funds held in the Foreign Service Buildings Fund) for such purpose to the Working Capital Fund, as provided in [section 4308(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4308/h/1&num=0&edition=prelim). Except for funds that may be provided by a foreign government for the purchase of property, only funds transferred under the preceding sentence may be used for the purposes of subsection (b)(5) of this section.
+(1) Upon a determination in each specific case by the Secretary of State or the Secretary’s designee that the purpose of the Foreign Service Buildings Act, 1926 [[22 U.S.C. 292](./chapter-008-foreign-service-buildings.md#section-292) et seq.], can best be met on the basis of an in-kind exchange of properties with a foreign country pursuant to subsection (b)(5), the Secretary of State may transfer funds made available under the heading “Acquisition and Maintenance of Buildings Abroad” (including funds held in the Foreign Service Buildings Fund) for such purpose to the Working Capital Fund, as provided in [section 4308(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4308/h/1&num=0&edition=prelim). Except for funds that may be provided by a foreign government for the purchase of property, only funds transferred under the preceding sentence may be used for the purposes of subsection (b)(5).
 
-(2) The Secretary of State may acquire property in the United States for the purposes of subsection (b)(5) of this section only in the context of a specific reciprocal agreement with a specified foreign government. Property acquired by the United States in the foreign country through such an exchange shall benefit the United States at least to the same extent as the property acquired in the United States benefits the foreign government.
+(2) The Secretary of State may acquire property in the United States for the purposes of subsection (b)(5) only in the context of a specific reciprocal agreement with a specified foreign government. Property acquired by the United States in the foreign country through such an exchange shall benefit the United States at least to the same extent as the property acquired in the United States benefits the foreign government.
 
-(3) The Secretary of State shall prescribe regulations for the implementation of any in-kind exchange of properties pursuant to subsection (b)(5) of this section.
+(3) The Secretary of State shall prescribe regulations for the implementation of any in-kind exchange of properties pursuant to subsection (b)(5).
 
 (4) At least 15 days before entering into any reciprocal agreement for the exchange of property with another foreign government, the Secretary of State shall notify the Committee on Foreign Affairs and the Committee on Public Works and Transportation of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
@@ -262,6 +262,9 @@ the Secretary shall impose a surcharge or fee on the foreign mission of which su
 #### Amendments
 1994—Subsecs. (a), (b). Pub. L. 103–236 substituted “Secretary” for “Director” wherever appearing.
 
+#### Effective Date of 1994 Amendment
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a).
+
 
 <a id="section-4304b"></a>
 ## § 4304b. Crimes committed by diplomats
@@ -281,7 +284,7 @@ the Secretary shall impose a surcharge or fee on the foreign mission of which su
 
   (E) Each case involving a United States citizen under subparagraph (D) in which the United States has been requested by the government of a receiving state to waive the immunity from criminal jurisdiction of the United States citizen.
 
-  (F) Whether the Secretary has made the notifications referred to in subsection (c) of this section during the period covered by the report.
+  (F) Whether the Secretary has made the notifications referred to in subsection (c) during the period covered by the report.
 
 (3) **“Serious criminal offense” defined** — For the purposes of this section, the term “serious criminal offense” means—
 
@@ -397,13 +400,13 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 **(c) Filing of application with Board of Zoning Adjustment; publication of notice; public participation; final determination**
 
-(1) If a foreign mission wishes to locate a chancery in an area described in subsection (b)(2) of this section, or wishes to appeal an administrative decision relating to a chancery based in whole or in part upon any zoning map or regulation, it shall file an application with the Board of Zoning Adjustment which shall publish notice of that application in the District of Columbia Register.
+(1) If a foreign mission wishes to locate a chancery in an area described in subsection (b)(2), or wishes to appeal an administrative decision relating to a chancery based in whole or in part upon any zoning map or regulation, it shall file an application with the Board of Zoning Adjustment which shall publish notice of that application in the District of Columbia Register.
 
 (2) Regulations issued to carry out this section shall provide appropriate opportunities for participation by the public in proceedings concerning the location, replacement, or expansion of chanceries.
 
 (3) A final determination concerning the location, replacement, or expansion of a chancery shall be made not later than six months after the date of the filing of an application with respect to such location, replacement, or expansion. Such determination shall not be subject to the administrative proceedings of any other agency or official except as provided in this chapter.
 
-**(d) Criteria for determination** Any determination concerning the location of a chancery under subsection (b)(2) of this section, or concerning an appeal of an administrative decision with respect to a chancery based in whole or in part upon any zoning regulation or map, shall be based solely on the following criteria:
+**(d) Criteria for determination** Any determination concerning the location of a chancery under subsection (b)(2), or concerning an appeal of an administrative decision with respect to a chancery based in whole or in part upon any zoning regulation or map, shall be based solely on the following criteria:
 
 (1) The international obligation of the United States to facilitate the provision of adequate and secure facilities for foreign missions in the Nation’s Capital.
 
@@ -419,7 +422,7 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 **(e) Consistency of regulations, proceedings, and other actions; review and comment by National Planning Commission**
 
-(1) Regulations, proceedings, and other actions of the National Capital Planning Commission, the Zoning Commission for the District of Columbia, and the Board of Zoning Adjustment affecting the location, replacement, or expansion of chanceries shall be consistent with this section (including the criteria set out in subsection (d) of this section) and shall reflect the policy of this chapter.
+(1) Regulations, proceedings, and other actions of the National Capital Planning Commission, the Zoning Commission for the District of Columbia, and the Board of Zoning Adjustment affecting the location, replacement, or expansion of chanceries shall be consistent with this section (including the criteria set out in subsection (d)) and shall reflect the policy of this chapter.
 
 (2) Proposed actions of the Zoning Commission concerning implementation of this section shall be referred to the National Capital Planning Commission for review and comment.
 
@@ -618,7 +621,7 @@ Pub. L. 99–93, title I, § 126(e), Aug. 16, 1985, 99 Stat. 418, provided that:
 
 **(b) Temporary lodging** For the purposes of this section, the term “residence” does not include such temporary lodging as may be permitted under regulations issued by the Secretary.
 
-**(c) Waiver** The Secretary may waive subsection (a) of this section with respect to all foreign missions of a country (and may revoke such a waiver) 30 days after providing written notification of such a waiver, together with the reasons for such waiver (or revocation of such a waiver), to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+**(c) Waiver** The Secretary may waive subsection (a) with respect to all foreign missions of a country (and may revoke such a waiver) 30 days after providing written notification of such a waiver, together with the reasons for such waiver (or revocation of such a waiver), to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 **(d) Report** Not later than 180 days after December 22, 1987, the Secretary of State shall submit a report to the Congress concerning the implementation of this section and shall submit such other reports to the Congress concerning changes in implementation as may be necessary.
 
@@ -643,9 +646,9 @@ Pub. L. 100–204, title I, § 128(b), Dec. 22, 1987, 101 Stat. 1343, provided t
 
 <a id="section-4316"></a>
 ## § 4316. Application of travel restrictions to personnel of certain countries and organizations
-**(a) Requirement for restrictions** The Secretary shall apply the same generally applicable restrictions to the travel while in the United States of the individuals described in subsection (b) of this section as are applied under this chapter to the members of the missions of the Soviet Union in the United States.
+**(a) Requirement for restrictions** The Secretary shall apply the same generally applicable restrictions to the travel while in the United States of the individuals described in subsection (b) as are applied under this chapter to the members of the missions of the Soviet Union in the United States.
 
-**(b) Individuals subject to restrictions** The restrictions required by subsection (a) of this section shall be applied with respect to those individuals who (as determined by the Secretary) are—
+**(b) Individuals subject to restrictions** The restrictions required by subsection (a) shall be applied with respect to those individuals who (as determined by the Secretary) are—
 
 (1) the personnel of an international organization, if the individual is a national of any foreign country whose government engages in intelligence activities in the United States that are harmful to the national security of the United States;
 
@@ -654,7 +657,7 @@ Pub. L. 100–204, title I, § 128(b), Dec. 22, 1987, 101 Stat. 1343, provided t
 (3) the family members or dependents of an individual described in paragraphs (1) and (2);
 and who are not nationals or permanent resident aliens of the United States.
 
-**(c) Waivers** The Secretary, after consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) of this section if the Secretary determines that the national security and foreign policy interests of the United States so require.
+**(c) Waivers** The Secretary, after consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) if the Secretary determines that the national security and foreign policy interests of the United States so require.
 
 **(d) Repealed. Pub. L. 103–236, title I, § 139(3), Apr. 30, 1994, 108 Stat. 397**
 

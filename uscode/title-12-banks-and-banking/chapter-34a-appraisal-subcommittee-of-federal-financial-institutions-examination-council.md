@@ -200,7 +200,8 @@ Each Federal financial institutions regulatory agency and the Resolution Trust C
 
 (2) that such appraisals shall be written appraisals; and
 
-(3) that such appraisals shall be subject to appropriate review for compliance with the Uniform Standards of Professional Appraisal Practice. Each such agency or instrumentality may require compliance with additional standards if it makes a determination in writing that such additional standards are required in order to properly carry out its statutory responsibilities.
+(3) that such appraisals shall be subject to appropriate review for compliance with the Uniform Standards of Professional Appraisal Practice.
+Each such agency or instrumentality may require compliance with additional standards if it makes a determination in writing that such additional standards are required in order to properly carry out its statutory responsibilities.
 
 ### Statutory Notes
 

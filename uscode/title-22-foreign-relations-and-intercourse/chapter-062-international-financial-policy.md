@@ -14,7 +14,7 @@ This subchapter may be cited as the “Exchange Rates and International Economic
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 3001–3006) of title III of Pub. L. 100–418, which enacted this subchapter and amended [section 225a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section225a&num=0&edition=prelim), Banks and Banking. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 3001–3006) of title III of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1372, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 
 <a id="section-5302"></a>
@@ -82,7 +82,7 @@ Pub. L. 100–418, title I, § 1124, Aug. 23, 1988, 102 Stat. 1146, provided tha
 ## § 5305. Reporting requirements
 **(a) Reports required** In furtherance of the purpose of this chapter, the Secretary, after consultation with the Chairman of the Board, shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, on or before October 15 of each year, a written report on international economic policy, including exchange rate policy. The Secretary shall provide a written update of developments six months after the initial report. In addition, the Secretary shall appear, if requested, before both committees to provide testimony on these reports.
 
-**(b) Contents of report** Each report submitted under subsection (a) of this section shall contain—
+**(b) Contents of report** Each report submitted under subsection (a) shall contain—
 
 (1) an analysis of currency market developments and the relationship between the United States dollar and the currencies of our major trade competitors;
 
@@ -124,6 +124,11 @@ As used in this subchapter:
 
 (2) **Board** — The term “Board” means the Board of Governors of the Federal Reserve System.
 
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 3001–3006) of title III of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1372, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+
 
 <a id="section-5321"></a>
 ## § 5321. Short title
@@ -133,7 +138,7 @@ This subchapter may be cited as the “International Debt Management Act of 1988
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 3101–3123) of title III of Pub. L. 100–418, which enacted this subchapter and amended [section 3912 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3912&num=0&edition=prelim), Banks and Banking. For complete classification of subtitle B to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 3101–3123) of title III of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1375, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
 
 <a id="section-5322"></a>
@@ -173,6 +178,11 @@ The purposes of this subchapter are—
 
 (3) to increase the stability of the world financial system and ensure the safety and soundness of United States depository institutions.
 
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 3101–3123) of title III of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1375, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
+
 
 <a id="section-5324"></a>
 ## § 5324. Statement of policy
@@ -208,7 +218,7 @@ It is the policy of the United States that—
 
   (C) assist the creditor banks in the voluntary disposition of their Third World loan portfolio.
 
-**(b) Objectives** In any discussions initiated under subsection (a) of this section, the Secretary should include the following specific proposals:
+**(b) Objectives** In any discussions initiated under subsection (a), the Secretary should include the following specific proposals:
 
 (1) That any loan restructuring assistance provided by such an authority to any debtor nation should involve substantial commitments by the debtor to (A) economic policies designed to improve resource utilization and minimize capital flight, and (B) preparation of an economic management plan calculated to provide sustained economic growth and to allow the debtor to meet its restructured debt obligations.
 
@@ -220,9 +230,9 @@ It is the policy of the United States that—
 
 (5) That such an authority should have a defined termination date and a clear proposal for the restoration of creditworthiness to debtor countries within this timeframe.
 
-**(c) Interim reports** At the end of the 6-month period beginning on August 23, 1988, and at the end of the 12-month period beginning on August 23, 1988, the Secretary of the Treasury shall submit a report on the progress being made on the study or in discussions described in subsection (a) of this section to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate, and shall consult with such committees after submitting each such report.
+**(c) Interim reports** At the end of the 6-month period beginning on August 23, 1988, and at the end of the 12-month period beginning on August 23, 1988, the Secretary of the Treasury shall submit a report on the progress being made on the study or in discussions described in subsection (a) to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate, and shall consult with such committees after submitting each such report.
 
-**(d) Final report** On the conclusion of the study or of discussions described in subsection (a) of this section, the Secretary shall transmit a report containing a detailed description thereof to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate, together with such recommendations for legislation which the Secretary may determine to be necessary or appropriate for the establishment of the International Debt Management Authority.
+**(d) Final report** On the conclusion of the study or of discussions described in subsection (a), the Secretary shall transmit a report containing a detailed description thereof to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate, together with such recommendations for legislation which the Secretary may determine to be necessary or appropriate for the establishment of the International Debt Management Authority.
 
 ### Statutory Notes
 
@@ -239,7 +249,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 (2) the United States Executive Director to the International Bank for Reconstruction and Development to determine the amount of, and alternative methods by which, liquid assets controlled by such Bank and not currently committed to any loan program which, subject to action by its Board of Governors, could be pledged as collateral for obtaining financing for the activities of the authority specified in [section 5331 of this title](./chapter-062-international-financial-policy.md#section-5331).
 The Secretary of the Treasury shall include a report on the results of the review in the first report submitted under [section 5331(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5331/c&num=0&edition=prelim).
 
-**(b) Construction of section** Subsection (a) of this section shall not be construed to affect any provision of the Articles of Agreement of the International Monetary Fund or of the International Bank for Reconstruction and Development or any agreement entered into under either of such Agreements.
+**(b) Construction of section** Subsection (a) shall not be construed to affect any provision of the Articles of Agreement of the International Monetary Fund or of the International Bank for Reconstruction and Development or any agreement entered into under either of such Agreements.
 
 
 <a id="section-5333"></a>
@@ -253,11 +263,6 @@ The Secretary of the Treasury shall include a report on the results of the revie
 ## § 5341. Short title
 
 This subchapter may be cited as the “Primary Dealers Act of 1988”.
-
-### Statutory Notes
-
-#### References in Text
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle F (§§ 3501, 3502) of title III of Pub. L. 100–418, which enacted this subchapter.
 
 
 <a id="section-5342"></a>
@@ -300,7 +305,7 @@ This subchapter, referred to in text, was in the original “this subtitle”, m
 
     (ii) in conjunction with a person of a foreign country, such company informed the Federal Reserve Bank of New York of the intention of such person to acquire control of such company.
 
-**(c) Exception for countries having or negotiating bilateral agreements with United States** Subsection (b) of this section shall not apply to any person of a foreign country if—
+**(c) Exception for countries having or negotiating bilateral agreements with United States** Subsection (b) shall not apply to any person of a foreign country if—
 
 (1) that country, as of January 1, 1987, was negotiating a bilateral agreement with the United States under the authority of [section 2112(b)(4)(A) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2112/b/4/A&num=0&edition=prelim); or
 
@@ -315,11 +320,6 @@ This subchapter, referred to in text, was in the original “this subtitle”, m
 ## § 5351. Short title
 
 This subchapter may be cited as the “Financial Reports Act of 1988”.
-
-### Statutory Notes
-
-#### References in Text
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle G (§§ 3601–3604) of title III of Pub. L. 100–418, which enacted this subchapter.
 
 
 <a id="section-5352"></a>

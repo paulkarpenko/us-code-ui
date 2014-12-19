@@ -9,12 +9,15 @@ source: >-
 <a id="section-1301"></a>
 ## § 1301. Agriculture, Department of: report of Secretary
 
-In addition to the usual number, there shall be printed of part 1, one thousand copies for the Senate, two thousand copies for the House of Representatives, and three thousand copies for the Department of Agriculture; and of part 2, one hundred and ten thousand copies for the use of the Senate, three hundred and sixty thousand copies for the use of the House of Representatives, and thirty thousand copies for the use of the Department of Agriculture, the illustrations for part 2 to be subject to the approval of the Secretary of Agriculture, and executed under the supervision of the Public Printer, in accordance with directions of the Joint Committee on Printing, and the title of each of the parts shall show that each part is complete in itself.
+The annual report of the Secretary of Agriculture shall be submitted and printed in two parts, as follows:
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 241 (Jan. 12, 1895, ch. 23, § 73, 28 Stat. 612).
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in last par.
 
 #### Unavailability of Department Funds To Produce Part 2 of Annual Report
 Funds available to Department of Agriculture not to be used to produce part 2 of annual report of Secretary (known as the Yearbook of Agriculture), see title I of Pub. L. 103–111, 107 Stat. 1048, set out as a note under [section 2207 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2207&num=0&edition=prelim), Agriculture.
@@ -58,12 +61,15 @@ Based on 44 U.S. Code, 1964 ed., § 245 (Jan. 12, 1895, ch. 23, § 73, 28 Stat. 
 <a id="section-1305"></a>
 ## § 1305. Attorney General: opinions
 
-The Public Printer shall from time to time print an edition of one thousand copies of the opinions of the Attorney General, which shall be, as to size, quality of paper, printing, and binding, of uniform style and appearance, as nearly as practicable, with volume 8 of opinions, published in the year 1868. Each volume shall contain proper headnotes, a complete and full index, and such footnotes as the Attorney General approves. The volumes shall be distributed in the manner the Attorney General prescribes.
+The Director of the Government Publishing Office shall from time to time print an edition of one thousand copies of the opinions of the Attorney General, which shall be, as to size, quality of paper, printing, and binding, of uniform style and appearance, as nearly as practicable, with volume 8 of opinions, published in the year 1868. Each volume shall contain proper headnotes, a complete and full index, and such footnotes as the Attorney General approves. The volumes shall be distributed in the manner the Attorney General prescribes.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 296a (R.S. § 383).
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 
 <a id="section-1306"></a>
@@ -350,12 +356,15 @@ Geological Survey redesignated United States Geological Survey by provision of t
 <a id="section-1320a"></a>
 ## § 1320A. Historical societies’ publications
 
-Notwithstanding any other provision of law, and with the approval of the Joint Committee on Printing, the Public Printer shall provide for such printing services and distribution with respect to publications of the United States Capitol Historical Society, the Supreme Court Historical Society, or the White House Historical Association as such Society or Association may request: Provided, That such Society or Association reimburses the Public Printer for the actual expenses incurred by him in providing for such services and distribution.
+Notwithstanding any other provision of law, and with the approval of the Joint Committee on Printing, the Director of the Government Publishing Office shall provide for such printing services and distribution with respect to publications of the United States Capitol Historical Society, the Supreme Court Historical Society, or the White House Historical Association as such Society or Association may request: Provided, That such Society or Association reimburses the Director of the Government Publishing Office for the actual expenses incurred by him in providing for such services and distribution.
 
 ### Statutory Notes
 
 #### Codification
 Section is based on section 304(a) of H.R. 7593, as passed the House of Representatives, July 21, 1980, and incorporated by reference in section 101(c) of Pub. L. 96–536, to be effective as if enacted into law.
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in two places.
 
 
 <a id="section-1321"></a>
@@ -474,12 +483,15 @@ Based on 44 U.S. Code, 1964 ed., § 273 (Mar. 4, 1907, No. 24, 34 Stat. 1424).
 <a id="section-1330"></a>
 ## § 1330. Monthly Summary Statement of Imports and Exports
 
-There shall be printed monthly by the Public Printer thirty-five hundred copies of the Monthly Summary Statement of Imports and Exports and other statistical information prepared by the Secretary of Commerce, five hundred for the Senate, one thousand for the House of Representatives, and two thousand for the Department of Commerce.
+There shall be printed monthly by the Director of the Government Publishing Office thirty-five hundred copies of the Monthly Summary Statement of Imports and Exports and other statistical information prepared by the Secretary of Commerce, five hundred for the Senate, one thousand for the House of Representatives, and two thousand for the Department of Commerce.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 298 (Dec. 18, 1895, No. 1, 29 Stat. 459; Feb. 14, 1903, ch. 552, § 4, 32 Stat. 826; Aug. 23, 1912, ch. 350, § 1, 37 Stat. 407; 1950 Reorg. Plan No. 5, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263).
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 
 <a id="section-1331"></a>
@@ -594,14 +606,17 @@ Based on 44 U.S. Code, 1964 ed., § 285 (R.S. § 3810; Jan. 12, 1895, ch. 23, §
 
 
 <a id="section-1340"></a>
-## § 1340. Public Printer: annual report
+## § 1340. Director of the Government Publishing Office: annual report
 
-In addition to the usual number of the annual report of the Public Printer, one thousand copies shall be printed to be distributed under his direction.
+In addition to the usual number of the annual report of the Director of the Government Publishing Office, one thousand copies shall be printed to be distributed under his direction.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 288 (Jan. 12, 1895, ch. 23, § 73, 28 Stat. 618).
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and text.
 
 
 <a id="section-1341"></a>

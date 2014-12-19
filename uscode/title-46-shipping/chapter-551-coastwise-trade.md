@@ -2,7 +2,7 @@
 title: 46
 chapter: '551'
 heading: COASTWISE TRADE
-section_count: 21
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -340,7 +340,7 @@ Pub. L. 100–329, § 3, June 7, 1988, 102 Stat. 589, provided that: “Notwiths
 Pub. L. 100–329, § 4, June 7, 1988, 102 Stat. 589, provided that: “For purposes of the first paragraph of section 805(a) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1223(a)) [now [46 U.S.C. 58101](./chapter-581-restrictions-and-penalties.md#section-58101)], a vessel described in section 3(2) of this Act [set out as a note above] is not a vessel engaged in domestic intercoastal or coastwise service, but the prohibitions in the second paragraph apply to that vessel.”
 
 #### Certificate of Documentation to Vessel Transporting Valueless Material in Coastwise Trade, or Dredged Material, Whether or Not of Value; Issuance, Endorsement, Etc.
-Pub. L. 100–329, § 5, June 7, 1988, 102 Stat. 589, provided that: “Notwithstanding the provisions of section 1 of this Act [amending section 883 of the former Appendix to this title, from which this section was derived], the Secretary of the department in which the Coast Guard is operating may issue a certificate of documentation under section 12106 [see section 12112] of title 46, United States Code, to a vessel that— “(1) is engaged in transporting only valueless material in the coastwise trade or transporting dredged material, whether or not of value, (A) from a point or place on the high seas within the Exclusive Economic Zone as defined in the Presidential Proclamation of March 10, 1983 [[16 U.S.C. 1453](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453&num=0&edition=prelim) note], to a point or place in the United States or to another point or place on the high seas within such Exclusive Economic Zone or (B) from a point or place within the United States to a point or place on the high seas within such Exclusive Economic Zone; “(2) had a certificate of documentation issued under section 12105 [see section 12111] of that title on October 1, 1987; “(3) had been sold foreign or placed under a foreign registry before that certificate was issued; and “(4) was built in the United States; except that such certificate of documentation shall be endorsed to restrict the use of such vessel to the transportation of valueless material in the coastwise trade, and to the transportation of dredged material, whether or not of value, (i) from a point or place on the high seas within such Exclusive Economic Zone to a point or place in the United States or to another point or place on the high seas within such Exclusive Economic Zone, or (ii) from a point or place within the United States to a point or place on the high seas within such Exclusive Economic Zone.”
+Pub. L. 100–329, § 5, June 7, 1988, 102 Stat. 589, provided that: “Notwithstanding the provisions of section 1 of this Act [amending section 883 of the former Appendix to this title, from which this section was derived], the Secretary of the department in which the Coast Guard is operating may issue a certificate of documentation under section 12106 [see section 12112] of title 46, United States Code, to a vessel that—“(1) is engaged in transporting only valueless material in the coastwise trade or transporting dredged material, whether or not of value, (A) from a point or place on the high seas within the Exclusive Economic Zone as defined in the Presidential Proclamation of March 10, 1983 [[16 U.S.C. 1453](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453&num=0&edition=prelim) note], to a point or place in the United States or to another point or place on the high seas within such Exclusive Economic Zone or (B) from a point or place within the United States to a point or place on the high seas within such Exclusive Economic Zone; “(2) had a certificate of documentation issued under section 12105 [see section 12111] of that title on October 1, 1987; “(3) had been sold foreign or placed under a foreign registry before that certificate was issued; and “(4) was built in the United States; except that such certificate of documentation shall be endorsed to restrict the use of such vessel to the transportation of valueless material in the coastwise trade, and to the transportation of dredged material, whether or not of value, (i) from a point or place on the high seas within such Exclusive Economic Zone to a point or place in the United States or to another point or place on the high seas within such Exclusive Economic Zone, or (ii) from a point or place within the United States to a point or place on the high seas within such Exclusive Economic Zone.”
 
 
 <a id="section-55111"></a>
@@ -581,3 +581,29 @@ The Secretary of Homeland Security may prescribe regulations for the transshipme
 | 55121(b) | 46 App.:289b. | Pub. L. 87–77, June 30, 1961, 75 Stat. 196; Pub. L. 97–31, § 12(22), Aug. 6, 1981, 95 Stat. 155. |
 
 In subsection (a), the Secretary of Homeland Security is substituted for the Commissioner of Customs because the functions of the Customs Service and of the Secretary of the Treasury relating thereto were transferred to the Secretary of Homeland Security by section 403(1) of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2178). The functions of the Commissioner of Customs previously were vested in the Secretary of the Treasury under [section 321(c) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section321/c&num=0&edition=prelim). For prior related transfers of functions, see the transfer of functions note under 46 App. U.S.C. 289a.
+
+
+<a id="section-55122"></a>
+## § 55122. Floating dry docks
+**(a) In General.—** [Section 55102 of this title](./chapter-551-coastwise-trade.md#section-55102) does not apply to the movement of a floating dry dock if—
+
+(1) the floating dry dock—
+
+  (A) is being used to launch or raise a vessel in connection with the construction, maintenance, or repair of that vessel;
+
+  (B) is owned and operated by—
+
+    (i) a shipyard located in the United States that is an eligible owner specified under [section 12103(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12103/b&num=0&edition=prelim); or
+
+    (ii) an affiliate of such a shipyard; and
+
+  (C) was owned or contracted for purchase by such shipyard or affiliate prior to the date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015; and
+
+(2) the movement occurs within 5 nautical miles of the shipyard or affiliate that owns and operates such floating dry dock.
+
+**(b) Definition.—** In this section, the term “floating dry dock” means equipment with wing walls and a fully submersible deck.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015, referred to in subsec. (a)(1)(C), is the date of enactment of Pub. L. 113–291, which was approved Dec. 19, 2014.

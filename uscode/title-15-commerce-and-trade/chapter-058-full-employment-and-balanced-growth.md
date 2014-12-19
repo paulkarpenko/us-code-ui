@@ -257,6 +257,15 @@ For definition of “this chapter”, referred to in subsec. (b), see References
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 113–128, title V, §§ 506, 512(m), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended:
+
+(1) in subsection (b), in the matter preceding paragraph (1), by striking “the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” and inserting “the Secretary of Labor shall, as appropriate, fully utilize the authority provided under title I of the Workforce Innovation and Opportunity Act”; and
+
+(2) in subsection (c)(1), by striking “the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of title I of the Workforce Investment Act of 1998” and inserting “the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of activities under title I of the Workforce Innovation and Opportunity Act”.
+
+See 2014 Amendment notes below.
+
 #### References in Text
 For definition of “this chapter”, referred to in subsecs. (a) and (d)(2), see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
 
@@ -267,6 +276,10 @@ The Job Training Partnership Act, referred to in subsec. (b), is Pub. L. 97–30
 The Workforce Investment Act of 1998, referred to in subsecs. (b) and (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–128, § 512(m)(1), substituted “the Secretary of Labor shall, as appropriate, fully utilize the authority provided under title I of the Workforce Innovation and Opportunity Act” for “the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 113–128, § 512(m)(2), substituted “the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of activities under title I of the Workforce Innovation and Opportunity Act” for “the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of title I of the Workforce Investment Act of 1998”.
+
 1998—Subsec. (b). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(10)(A)], which directed the amendment of subsec. (b) by substituting “the Job Training Partnership Act and” for “CETA” in introductory provisions, could not be executed because “CETA” did not appear in introductory provisions subsequent to amendment by Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(i)(I)]. See below.
 
 Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(i)(I)], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “CETA” in introductory provisions.
@@ -276,6 +289,9 @@ Subsec. (b)(1). Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(i)(II
 Subsec. (c)(1). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(10)(B)], struck out “activities carried out under the Job Training Partnership Act or” before “title I of the Workforce Investment Act of 1998”.
 
 Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(ii)], substituted “activities carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “CETA”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(12)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(10)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.

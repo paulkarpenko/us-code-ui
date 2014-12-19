@@ -13,7 +13,7 @@ source: >-
 
 In this chapter—
 
-(1) **Federal agency.—** — The term “federal agency” has the same meaning given that term in [section 102 of this title](./chapter-011-general.md#section-102).
+(1) **Federal agency.—** — The term “federal agency” has the same meaning given that term in [section 102 of this title](./chapter-1-1-another-chapter-1-is-set-out-in-subtitle-v-of-this-title-chapter-1-chapter-1-1-another-chapter-1-is-set-out-in-subtitle-v-of-this-title-chapter-1.md#section-102).
 
 (2) **TTY.—** — The term “TTY” means a text-telephone used in the transmission of coded signals through the nationwide telecommunications system.
 

@@ -202,7 +202,7 @@ A prior section 3502, Pub. L. 102–486, title XXVI, § 2602, Oct. 24, 1992, 106
 
   (D) by a Native Corporation for the development and implementation of corporate policies and the development of technical infrastructure to protect the environment under applicable law; and
 
-    (2) by an Indian tribe for the training of employees that—
+(2) by an Indian tribe for the training of employees that—
 
   (A) are engaged in the development of energy resources on Indian land; or
 

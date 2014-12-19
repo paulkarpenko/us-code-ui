@@ -32,7 +32,7 @@ Pub. L. 112–141, div. E, title II, § 52011(b), July 6, 2012, 126 Stat. 895, p
 
 <a id="section-6302"></a>
 ## § 6302. Bureau of Transportation Statistics
-**(a) Establishment.—** There is established in the Research and Innovative Technology Administration the Bureau of Transportation Statistics.
+**(a) Establishment.—** There is established in the Office of the Assistant Secretary for Research and Technology of the Department of Transportation the Bureau of Transportation Statistics.
 
 **(b) Director.—**
 
@@ -135,6 +135,9 @@ Executive Order 12906, referred to in subsec. (b)(3)(B)(vii), is Ex. Ord. No. 12
 
 The Government Performance and Results Act of 1993, referred to in subsec. (b)(3)(B)(ix)(I), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1101&num=0&edition=prelim) and Tables.
 
+#### Change of Name
+“Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in subsec. (a) on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under [section 112 of this title](./chapter-001-organization.md#section-112).
+
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
@@ -210,9 +213,12 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 (2) **Contracts, grants, and agreements.—** — The Library may initiate and support specific information and data management, access, and exchange activities in connection with matters relating to the Department’s strategic goals, knowledge networking, and national and international cooperation, by entering into contracts or other agreements or awarding grants for the conduct of such activities.
 
-(3) **Amounts.—** — Any amounts received by the Library as payment for library products and services or other activities shall be made available to the Director to carry out this section, deposited in the Research and Innovative Technology Administration’s general fund account, and remain available until expended.
+(3) **Amounts.—** — Any amounts received by the Library as payment for library products and services or other activities shall be made available to the Director to carry out this section, deposited in the Office of the Assistant Secretary for Research and Technology of the Department of Transportation’s general fund account, and remain available until expended.
 
 ### Statutory Notes
+
+#### Change of Name
+“Office of the Assistant Secretary for Research and Technology of the Department of Transportation’s” substituted for “Research and Innovative Technology Administration’s” in subsec. (c)(3) on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under [section 112 of this title](./chapter-001-organization.md#section-112).
 
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.

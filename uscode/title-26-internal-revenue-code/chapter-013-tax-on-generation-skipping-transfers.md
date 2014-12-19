@@ -93,23 +93,14 @@ Section applicable to generation-skipping transfers (within the meaning of [sect
 
 
 <a id="section-2604"></a>
-## § 2604. Credit for certain State taxes
-**(a) General rule** If a generation-skipping transfer (other than a direct skip) occurs at the same time as and as a result of the death of an individual, a credit against the tax imposed by section 2601 shall be allowed in an amount equal to the generation-skipping transfer tax actually paid to any State in respect to any property included in the generation-skipping transfer.
-
-**(b) Limitation** The aggregate amount allowed as a credit under this section with respect to any transfer shall not exceed 5 percent of the amount of the tax imposed by section 2601 on such transfer.
-
-**(c) Termination** This section shall not apply to the generation-skipping transfers after December 31, 2004.
+## § 2604. Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(95)(B)(i), Dec. 19, 2014, 128 Stat. 4051]
 
 ### Statutory Notes
 
-#### Amendments
-2001—Subsec. (c). Pub. L. 107–16 added subsec. (c).
+Section, added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2718; amended Pub. L. 107–16, title V, § 532(c)(10), June 7, 2001, 115 Stat. 75, related to credit for certain State generation-skipping transfer taxes.
 
-#### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
-
-#### Effective Date
-Section applicable to generation-skipping transfers (within the meaning of [section 2611 of this title](./chapter-013-tax-on-generation-skipping-transfers.md#section-2611)) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under [section 2601 of this title](./chapter-013-tax-on-generation-skipping-transfers.md#section-2601).
+#### Effective Date of Repeal
+Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 
 <a id="section-2611"></a>
@@ -971,7 +962,7 @@ Section applicable to generation-skipping transfers (within the meaning of [sect
 ## § 2654. Special rules
 **(a) Basis adjustment**
 
-(1) **In general** — Except as provided in paragraph (2), if property is transferred in a generation-skipping transfer, the basis of such property shall be increased (but not above the fair market value of such property) by an amount equal to that portion of the tax imposed by section 2601 (computed without regard to section 2604) with respect to the transfer which is attributable to the excess of the fair market value of such property over its adjusted basis immediately before the transfer. The preceding shall be applied after any basis adjustment under section 1015 with respect to the transfer.
+(1) **In general** — Except as provided in paragraph (2), if property is transferred in a generation-skipping transfer, the basis of such property shall be increased (but not above the fair market value of such property) by an amount equal to that portion of the tax imposed by section 2601 with respect to the transfer which is attributable to the excess of the fair market value of such property over its adjusted basis immediately before the transfer. The preceding shall be applied after any basis adjustment under section 1015 with respect to the transfer.
 
 (2) **Certain transfers at death** — If property is transferred in a taxable termination which occurs at the same time as and as a result of the death of an individual, the basis of such property shall be adjusted in a manner similar to the manner provided under section 1014(a); except that, if the inclusion ratio with respect to such property is less than 1, any increase or decrease in basis shall be limited by multiplying such increase or decrease (as the case may be) by the inclusion ratio.
 
@@ -994,6 +985,8 @@ The preceding sentence shall not apply if the trustee has knowledge of facts suf
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–295 struck out “(computed without regard to section 2604)” after “section 2601”.
+
 1998—Subsec. (b). Pub. L. 105–206 inserted at end “For purposes of this subsection, a trust shall be treated as part of an estate during any period that the trust is so treated under section 645.”
 
 1989—Subsec. (a)(1). Pub. L. 101–239 inserted at end “The preceding shall be applied after any basis adjustment under section 1015 with respect to the transfer.”
@@ -1001,6 +994,9 @@ The preceding sentence shall not apply if the trustee has knowledge of facts suf
 1988—Subsec. (a)(2). Pub. L. 100–647, § 1014(g)(12), inserted “or decrease” after “any increase” and “or decrease (as the case may be)” after “such increase”.
 
 Subsec. (b). Pub. L. 100–647, § 1014(g)(13), substituted “Certain trusts” for “Separate shares” in heading and amended text generally. Prior to amendment, text read as follows: “Substantially separate and independent shares of different beneficiaries in a trust shall be treated as separate trusts.”
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates (see section 1305 of Pub. L. 105–34), see section 6024 of Pub. L. 105–206, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).

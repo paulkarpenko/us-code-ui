@@ -2,7 +2,7 @@
 title: 6
 chapter: '5'
 heading: BORDER INFRASTRUCTURE AND TECHNOLOGY MODERNIZATION
-section_count: 5
+section_count: 4
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6&num=0&edition=prelim
 ---
@@ -27,69 +27,14 @@ In this chapter:
 Pub. L. 110–161, div. E, title VI, § 601, Dec. 26, 2007, 121 Stat. 2094, provided that: “This title [enacting this chapter] may be cited as the ‘Border Infrastructure and Technology Modernization Act of 2007’.”
 
 
-<a id="section-1402"></a>
-## § 1402. Port of Entry Infrastructure Assessment Study
-**(a) Requirement to update** Not later than January 31 of every other year, the Commissioner, in consultation with the Administrator of General Services shall—
-
-(1) review—
-
-  (A) the Port of Entry Infrastructure Assessment Study prepared by the United States Customs Service, the Immigration and Naturalization Service, and the General Services Administration in accordance with the matter relating to the ports of entry infrastructure assessment set forth in the joint explanatory statement on page 67 of conference report 106–319, accompanying Public Law 106–58; and
-
-  (B) the nationwide strategy to prioritize and address the infrastructure needs at the land ports of entry prepared by the Department of Homeland Security and the General Services Administration in accordance with the committee recommendations on page 22 of Senate report 108–86, accompanying Public Law 108–90;
-
-(2) update the assessment of the infrastructure needs of all United States land ports of entry; and
-
-(3) submit an updated assessment of land port of entry infrastructure needs to the Committees on Appropriations of the Senate and the House of Representatives, the Senate Committee on Environment and Public Works, the Senate Committee on Homeland Security and Governmental Affairs, the House Committee on Transportation and Infrastructure, and the House Committee on Homeland Security.
-
-**(b) Consultation** In preparing the updated studies required under subsection (a), the Commissioner and the Administrator of General Services shall consult with the Director of the Office of Management and Budget, the Secretary, and affected State and local agencies on the northern and southern borders of the United States.
-
-**(c) Content** Each updated study required in subsection (a) shall—
-
-(1) identify port of entry infrastructure and technology improvement projects that would enhance border security and facilitate the flow of legitimate commerce if implemented;
-
-(2) include the projects identified in the National Land Border Security Plan required by [section 1403 of this title](./chapter-005-border-infrastructure-and-technology-modernization.md#section-1403); and
-
-(3) prioritize the projects described in paragraphs (1) and (2) based on the ability of a project—
-
-  (A) to enhance the ability of U.S. Customs and Border Protection to achieve its mission and to support operations;
-
-  (B) to fulfill security requirements; and
-
-  (C) facilitate trade across the borders of the United States.
-
-**(d) Project implementation** The Commissioner, as appropriate, shall—
-
-(1) implement the infrastructure and technology improvement projects described in subsection (c) in the order of priority assigned to each project under subsection (c)(3); or
-
-(2) forward the prioritized list of infrastructure and technology improvement projects to the Administrator of General Services for implementation in the order of priority assigned to each project under subsection (c)(3).
-
-**(e) Divergence from priorities** The Commissioner may diverge from the priority order if the Commissioner determines that significantly changed circumstances, including immediate security needs, changes in infrastructure in Mexico or Canada, or similar concerns, compellingly alter the need for a project in the United States.
+<a id="section-1402-1403"></a>
+## § 1402, 1403. Repealed. Pub. L. 113–188, title X, § 1001(b), Nov. 26, 2014, 128 Stat. 2022
 
 ### Statutory Notes
 
-#### References in Text
-Public Law 106–58, referred to in subsec. (a)(1)(A), is Pub. L. 106–58, Sept. 29, 1999, 113 Stat. 430, known as the Treasury and General Government Appropriations Act, 2000. For complete classification of this Act to the Code, see Tables.
+Section 1402, Pub. L. 110–161, div. E, title VI, § 603, Dec. 26, 2007, 121 Stat. 2094, related to the Port of Entry Infrastructure Assessment Study.
 
-Public Law 108–90, referred to in subsec. (a)(1)(B), is Pub. L. 108–90, Oct. 1, 2003, 117 Stat. 1137, known as the Department of Homeland Security Appropriations Act, 2004. For complete classification of this Act to the Code, see Tables.
-
-
-<a id="section-1403"></a>
-## § 1403. National Land Border Security Plan
-**(a) Requirement for plan** Not later than January 31 of every other year, the Secretary, acting through the Commissioner, shall prepare a National Land Border Security Plan and submit such plan to the Committees on Appropriations of the Senate and the House of Representatives, the Senate Committee on Environment and Public Works, the Senate Committee on Homeland Security and Governmental Affairs, the Senate Committee on the Judiciary, the House Committee on Transportation and Infrastructure, the House Committee on Homeland Security, and the House Committee on the Judiciary.
-
-**(b) Consultation** In preparing the plan required under subsection (a), the Commissioner shall consult with other appropriate Federal agencies, State and local law enforcement agencies, and private entities that are involved in international trade across the northern or southern border.
-
-**(c) Vulnerability assessment**
-
-(1) **In general** — The plan required under subsection (a) shall include a vulnerability, risk, and threat assessment of each port of entry located on the northern border or the southern border.
-
-(2) **Port security coordinators** — The Secretary, acting through the Commissioner, may establish one or more port security coordinators at each port of entry located on the northern border or the southern border—
-
-  (A) to assist in conducting a vulnerability assessment at such port; and
-
-  (B) to provide other assistance with the preparation of the plan required under subsection (a).
-
-**(d) Coordination with the Secure Border Initiative** The plan required under subsection (a) shall include a description of activities undertaken during the previous year as part of the Secure Border Initiative and actions planned for the coming year as part of the Secure Border Initiative.
+Section 1403, Pub. L. 110–161, div. E, title VI, § 604, Dec. 26, 2007, 121 Stat. 2095, related to the National Land Border Security Plan.
 
 
 <a id="section-1404"></a>
@@ -102,7 +47,7 @@ Public Law 108–90, referred to in subsec. (a)(1)(B), is Pub. L. 108–90, Oct.
 
 (1) **Number** — The Commissioner shall carry out the demonstration program at not less than three sites and not more than five sites.
 
-(2) **Location** — Of the sites selected under subsection (c)—
+(2) **Location** — Of the sites selected under subsection (c)— 11 So in original. Probably should be “paragraph (1)—”.
 
   (A) at least one shall be located on the northern border of the United States; and
 

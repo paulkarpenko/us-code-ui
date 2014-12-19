@@ -81,7 +81,7 @@ Pub. L. 106–102, title V, § 510, Nov. 12, 1999, 113 Stat. 1445, provided that
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsecs. (a) and (c), was in the original “this subtitle”, meaning subtitle A (§ 501 et seq.) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which enacted this subchapter and amended [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s). For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in subsecs. (a) and (c), was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 The Right to Financial Privacy Act of 1978, referred to in subsec. (e)(5), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401&num=0&edition=prelim) and Tables.
 
@@ -159,6 +159,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Amendments
 2006—Pub. L. 109–351 designated concluding provisions of subsec. (a) as (b), inserted heading, substituted “Disclosures required by subsection (a)” for “Such disclosures”, redesignated former subsec. (b) as (c), and added subsecs. (d) and (e).
 
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
+
 
 <a id="section-6804"></a>
 ## § 6804. Rulemaking
@@ -183,6 +186,8 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 ### Statutory Notes
 
 #### References in Text
+This subchapter, referred to in subsecs. (a)(1) and (b), was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+
 The Consumer Financial Protection Act of 2010, referred to in subsec. (a)(1)(A), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B (§§ 1021–1029A) of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitle B to the Code, see Tables.
 
 #### Amendments
@@ -236,6 +241,8 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### References in Text
 The Consumer Financial Protection Act of 2010, referred to in subsec. (a), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
+
+This subchapter, referred to in subsecs. (a), (c), and (d), was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 Section 25 of the Federal Reserve Act, referred to in subsec. (a)(1)(B), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25A of the Federal Reserve Act is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12.
 
@@ -294,7 +301,7 @@ The Fair Credit Reporting Act, referred to in text, is title VI of Pub. L. 90–
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which enacted this subchapter and amended [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s). For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 #### Amendments
 2010—Subsec. (b). Pub. L. 111–203 substituted “Bureau of Consumer Financial Protection” for “Federal Trade Commission”.
@@ -414,6 +421,8 @@ As used in this subchapter:
 ### Statutory Notes
 
 #### References in Text
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+
 The Commodity Exchange Act, referred to in par. (3)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
 The Farm Credit Act of 1971, referred to in par. (3)(C), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.

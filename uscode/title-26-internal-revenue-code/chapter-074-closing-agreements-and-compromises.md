@@ -87,13 +87,15 @@ Notwithstanding the foregoing provisions of this subsection, no such opinion sha
 
 (2) which allow a taxpayer to appeal any rejection of such offer or agreement to the Internal Revenue Service Office of Appeals.
 
-**(f) 11 So in original. Two subsecs. (f) have been enacted. Deemed acceptance of offer not rejected within certain period** Any offer-in-compromise submitted under this section shall be deemed to be accepted by the Secretary if such offer is not rejected by the Secretary before the date which is 24 months after the date of the submission of such offer. For purposes of the preceding sentence, any period during which any tax liability which is the subject of such offer-in-compromise is in dispute in any judicial proceeding shall not be taken into account in determining the expiration of the 24-month period.
+**(f) Deemed acceptance of offer not rejected within certain period** Any offer-in-compromise submitted under this section shall be deemed to be accepted by the Secretary if such offer is not rejected by the Secretary before the date which is 24 months after the date of the submission of such offer. For purposes of the preceding sentence, any period during which any tax liability which is the subject of such offer-in-compromise is in dispute in any judicial proceeding shall not be taken into account in determining the expiration of the 24-month period.
 
-**(f) 1 Frivolous submissions, etc.** Notwithstanding any other provision of this section, if the Secretary determines that any portion of an application for an offer-in-compromise or installment agreement submitted under this section or section 6159 meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may treat such portion as if it were never submitted and such portion shall not be subject to any further administrative or judicial review.
+**(g) Frivolous submissions, etc.** Notwithstanding any other provision of this section, if the Secretary determines that any portion of an application for an offer-in-compromise or installment agreement submitted under this section or section 6159 meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may treat such portion as if it were never submitted and such portion shall not be subject to any further administrative or judicial review.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsecs. (f), (g). Pub. L. 113–295 redesignated subsec. (f) relating to frivolous submissions as (g).
+
 2006—Subsec. (c). Pub. L. 109–222, § 509(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 109–222, § 509(a), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).

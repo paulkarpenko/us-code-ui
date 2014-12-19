@@ -10,14 +10,14 @@ source: >-
 ## § 6801. Authorization of appropriations
 **(a) In general** In addition to any other funds authorized to be appropriated for multilateral or bilateral programs related to HIV/AIDS or economic development, there is authorized to be appropriated to the Secretary of the Treasury $150,000,000 for each of the fiscal years 2001 and 2002 for payment to the Trust Fund.
 
-**(b) Allocation of funds** Of the amounts authorized to be appropriated by subsection (a) of this section for the fiscal years 2001 and 2002, $50,000,000 are authorized to be available each such fiscal year only for programs that benefit orphans.
+**(b) Allocation of funds** Of the amounts authorized to be appropriated by subsection (a) for the fiscal years 2001 and 2002, $50,000,000 are authorized to be available each such fiscal year only for programs that benefit orphans.
 
 
 <a id="section-6802"></a>
 ## § 6802. Certification requirement
 **(a) In general** Prior to the initial obligation or expenditure of funds appropriated pursuant to [section 6841 of this title](./chapter-076-assistance-to-countries-with-large-populations-having-hiv-aids.md#section-6841), the Secretary of the Treasury shall certify that adequate procedures and standards have been established to ensure accountability for and monitoring of the use of funds contributed to the Trust Fund, including the cost of administering the Trust Fund.
 
-**(b) Transmittal of certification** The certification required by subsection (a) of this section, and the bases for that certification, shall be submitted by the Secretary of the Treasury to Congress.
+**(b) Transmittal of certification** The certification required by subsection (a), and the bases for that certification, shall be submitted by the Secretary of the Treasury to Congress.
 
 
 <a id="section-6811"></a>
@@ -191,7 +191,7 @@ Pub. L. 106–264, title I, § 101, Aug. 19, 2000, 114 Stat. 749, provided that:
 
 **(b) Authority to solicit and accept contributions** The Trust Fund should be authorized to solicit and accept contributions from governments, the private sector, and nongovernmental entities of all kinds.
 
-**(c) Accountability of funds and criteria for programs** As part of the negotiations described in [section 6821(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6821/a&num=0&edition=prelim), the Secretary of the Treasury shall, consistent with subsection (d) of this section—
+**(c) Accountability of funds and criteria for programs** As part of the negotiations described in [section 6821(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6821/a&num=0&edition=prelim), the Secretary of the Treasury shall, consistent with subsection (d)—
 
 (1) take such actions as are necessary to ensure that the Bank or the Association will have in effect adequate procedures and standards to account for and monitor the use of funds contributed to the Trust Fund, including the cost of administering the Trust Fund; and
 
@@ -247,11 +247,11 @@ Pub. L. 106–264, title I, § 101, Aug. 19, 2000, 114 Stat. 749, provided that:
 
 **(b) GAO report on Trust Fund effectiveness** Not later than 2 years after August 19, 2000, the Comptroller General of the United States shall submit to the appropriate committees of the Congress a report evaluating the effectiveness of the Trust Fund, including—
 
-(1) the effectiveness of the programs, projects, and activities described in subsection (a)(2)(B) of this section in reducing the worldwide spread of AIDS; and
+(1) the effectiveness of the programs, projects, and activities described in subsection (a)(2)(B) in reducing the worldwide spread of AIDS; and
 
 (2) an assessment of the merits of continued United States financial contributions to the Trust Fund.
 
-**(c) Appropriate committees defined** In subsection (a) of this section, the term “appropriate committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations, the Committee on Banking and Financial Services, and the Committee on Appropriations of the House of Representatives.
+**(c) Appropriate committees defined** In subsection (a), the term “appropriate committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations, the Committee on Banking and Financial Services, and the Committee on Appropriations of the House of Representatives.
 
 ### Statutory Notes
 

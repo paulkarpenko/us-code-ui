@@ -2,7 +2,7 @@
 title: 10
 chapter: '23'
 heading: MISCELLANEOUS STUDIES AND REPORTS
-section_count: 12
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -102,9 +102,37 @@ Pub. L. 107–314, div. A, title V, § 562, Dec. 2, 2002, 116 Stat. 2554, provid
 Pub. L. 103–337, div. A, title V, § 554(b), Oct. 5, 1994, 108 Stat. 2773, required Secretary of Defense to submit first report under former subsec. (c) of this section not later than May 1, 1995.
 
 
+<a id="section-481a"></a>
+## § 481a. Workplace and gender relations issues: surveys of Department of Defense civilian employees
+**(a) In General.—**
+
+(1) The Secretary of Defense shall carry out every other fiscal year a survey of civilian employees of the Department of Defense to solicit information on gender issues, including issues relating to gender-based assault, harassment, and discrimination, and the climate in the Department for forming professional relationships between male and female civilian employees of the Department.
+
+(2) Each survey under this section shall be known as a “Department of Defense Civilian Employee Workplace and Gender Relations Survey”.
+
+**(b) Elements.—** Each survey conducted under this section shall be conducted so as to solicit information on the following:
+
+(1) Indicators of positive and negative trends for professional and personal relationships between male and female civilian employees of the Department of Defense.
+
+(2) The specific types of assault on civilian employees of the Department by other personnel of the Department (including contractor personnel) that have occurred, and the number of times each respondent has been so assaulted during the preceding fiscal year.
+
+(3) The effectiveness of Department policies designed to improve professional relationships between male and female civilian employees of the Department.
+
+(4) The effectiveness of current processes for complaints on and investigations into gender-based assault, harassment, and discrimination involving civilian employees of the Department.
+
+(5) Any other issues relating to assault, harassment, or discrimination involving civilian employees of the Department that the Secretary considers appropriate.
+
+**(c) Report to Congress.—** Upon the completion of a survey under this section, the Secretary shall submit to Congress a report containing the results of the survey.
+
+### Statutory Notes
+
+#### Initial Survey
+Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518, provided that: “The Secretary of Defense shall carry out the first survey required by [section 481a of title 10](./chapter-023-miscellaneous-studies-and-reports.md#section-481a), United States Code (as added by this subsection), during fiscal year 2016.”
+
+
 <a id="section-482"></a>
 ## § 482. Quarterly reports: personnel and unit readiness
-**(a) Quarterly Reports Required.—** Not later than 45 days after the end of each calendar-year quarter, the Secretary of Defense shall submit to Congress a report regarding military readiness. The report for a quarter shall contain the information required by subsections (b), (d), (e), and (f).
+**(a) Quarterly Reports Required.—** Not later than 45 days after the end of each calendar-year quarter, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components. Each report shall contain the information required by subsections (b), (d), (e), (f), (g), (h), and (i).
 
 **(b) Readiness Problems and Remedial Actions.—** Each report shall specifically describe—
 
@@ -126,83 +154,153 @@ Pub. L. 103–337, div. A, title V, § 554(b), Oct. 5, 1994, 108 Stat. 2773, req
 
 (3) as part of any regularly established process of periodic readiness reviews for the Department of Defense as a whole.
 
-**(d) Comprehensive Readiness Indicators for Active Components.—** Each report shall also include information regarding each of the active components of the armed forces (and an evaluation of such information) with respect to each of the following readiness indicators:
+**(d) Prepositioned Stocks.—** Each report shall also include a military department-level or agency-level assessment of the readiness of prepositioned stocks, including—
 
-(1) **Personnel strength.—**
+(1) an assessment of the fill and materiel readiness of stocks by geographic location;
 
-  (A) Personnel status, including the extent to which members of the armed forces are serving in positions outside of their military occupational specialty, serving in grades other than the grades for which they are qualified, or both.
+(2) an overall assessment by military department or Defense Agency of the ability of the respective stocks to meet operation and contingency plans; and
 
-  (B) Historical data and projected trends in personnel strength and status.
+(3) a mitigation plan for any shortfalls or gaps identified under paragraph (1) or (2) and a timeline associated with corrective action.
 
-(2) **Personnel turbulence.—**
+**(e) Readiness of National Guard to Perform Civil Support Missions.—**
 
-  (A) Recruit quality.
-
-  (B) Borrowed manpower.
-
-  (C) Personnel stability.
-
-(3) **Other personnel matters.—**
-
-  (A) Personnel morale.
-
-  (B) Recruiting status.
-
-(4) **Training.—**
-
-  (A) Training unit readiness and proficiency.
-
-  (B) Operations tempo.
-
-  (C) Training funding.
-
-  (D) Training commitments and deployments.
-
-(5) **Logistics—equipment fill.—**
-
-  (A) Deployed equipment.
-
-  (B) Equipment availability.
-
-  (C) Equipment that is not mission capable.
-
-  (D) Age of equipment.
-
-  (E) Condition of nonpacing items.
-
-(6) **Logistics—equipment maintenance.—**
-
-  (A) Maintenance backlog.
-
-(7) **Logistics—supply.—**
-
-  (A) Availability of ordnance and spares.
-
-  (B) Status of prepositioned equipment.
-
-**(e) Unit Readiness Indicators.—** Each report shall also include information regarding the readiness of each active component unit of the armed forces at the battalion, squadron, or an equivalent level (or a higher level) that received a readiness rating of C–3 (or below) for any month of the calendar-year quarter covered by the report. With respect to each such unit, the report shall separately provide the following information:
-
-(1) The unit designation and level of organization.
-
-(2) The overall readiness rating for the unit for the quarter and each month of the quarter.
-
-(3) The resource area or areas (personnel, equipment and supplies on hand, equipment condition, or training) that adversely affected the unit’s readiness rating for the quarter.
-
-(4) The reasons why the unit received a readiness rating of C–3 (or below).
-
-**(f) Readiness of National Guard to Perform Civil Support Missions.—**
-
-(1) Each report shall also include an assessment of the readiness of the National Guard to perform tasks required to support the National Response Plan for support to civil authorities.
+(1) Each report shall also include an assessment of the readiness of the National Guard to perform tasks required to support the National Response Framework for support to civil authorities.
 
 (2) Any information in an assessment under this subsection that is relevant to the National Guard of a particular State shall also be made available to the Governor of that State.
 
 (3) The Secretary shall ensure that each State Governor has an opportunity to provide to the Secretary an independent evaluation of that State’s National Guard, which the Secretary shall include with each assessment submitted under this subsection.
 
-**(g) Classification of Reports.—** A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
+**(f) Combatant Command Assigned Mission Assessments.—**
+
+(1) Each report shall also include an assessment by each commander of a geographic or functional combatant command of the ability of the command to successfully execute each of the assigned missions of the command. Each such assessment for a combatant command shall also include a list of the mission essential tasks for each assigned mission of the command and an assessment of the ability of the command to successfully complete each task within prescribed timeframes.
+
+(2) For purposes of this subsection, the term “assigned mission” means any contingency response program plan, theater campaign plan, or named operation that is approved and assigned by the Joint Chiefs of Staff.
+
+(3) The assessment included in the report under paragraph (1) by the Commander of the United States Strategic Command shall include a separate assessment prepared by the Commander of United States Cyber Command relating to the readiness of United States Cyber Command and the readiness of the cyber force of each of the military departments.
+
+**(g) Risk Assessment of Dependence on Contractor Support.—** Each report shall also include an assessment by the Chairman of the Joint Chiefs of Staff of the level of risk incurred by using contract support in contingency operations as required under Department of Defense Instruction 1100.22, “Policies and Procedures for Determining Workforce Mix”.
+
+**(h) Combat Support and Related Agencies Assessment.—**
+
+(1) Each report shall also include an assessment by the Secretary of Defense of the military readiness of the combat support and related agencies, including, for each such agency—
+
+  (A) a determination with respect to the responsiveness and readiness of the agency to support operating forces in the event of a war or threat to national security, including—
+
+    (i) a list of mission essential tasks and an assessment of the ability of the agency to successfully perform those tasks;
+
+    (ii) an assessment of how the ability of the agency to accomplish the tasks referred to in subparagraph (A) affects the ability of the military departments and the unified and geographic combatant commands to execute operations and contingency plans by number;
+
+    (iii) any readiness deficiencies and actions recommended to address such deficiencies; and
+
+    (iv) key indicators and other relevant information related to any deficiency or other problem identified;
+
+  (B) any recommendations that the Secretary considers appropriate.
+
+(2) In this subsection, the term “combat support and related agencies” means any of the following Defense Agencies:
+
+  (A) The Defense Information Systems Agency.
+
+  (B) The Defense Intelligence Agency.
+
+  (C) The Defense Logistics Agency.
+
+  (D) The National Geospatial-Intelligence Agency (but only with respect to combat support functions that the agencies perform for the Department of Defense).
+
+  (E) The Defense Contract Management Agency.
+
+  (F) The Defense Threat Reduction Agency.
+
+  (G) The National Reconnaissance Office.
+
+  (H) The National Security Agency (but only with respect to combat support functions that the agencies perform for the Department of Defense) and Central Security Service.
+
+  (I) Any other Defense Agency designated as a combat support agency by the Secretary of Defense.
+
+**(i) Major Exercise Assessments.—**
+
+(1) Each report under this section shall also include information on each major exercise conducted by a geographic or functional combatant command or military department, including—
+
+  (A) a list of exercises by name for the period covered by the report;
+
+  (B) the cost and location of each such exercise; and
+
+  (C) a list of participants by country or military department.
+
+(2) In this subsection, the term “major exercise” means a named major training event, an integrated or joint exercise, or a unilateral major exercise.
+
+**(j) Classification of Reports.—** A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–291, § 321(1), substituted “the military readiness of the active and reserve components.” for “military readiness.” and “subsections (b), (d), (e), (f), (g), (h), and (i).” for “subsections (b), (d), (f), (g), (h), (i), (j), and (k), and the reports for the second and fourth quarters of a calendar year shall also contain the information required by subsection (e).”
+
+Subsec. (d). Pub. L. 113–291, § 321(2), (3), added subsec. (d) and struck out former subsec. (d) which related to comprehensive readiness indicators for active components.
+
+Subsec. (e). Pub. L. 113–291, § 321(4), (5), redesignated subsec. (g) as (e) and substituted “National Response Framework” for “National Response Plan” in par. (1).
+
+Pub. L. 113–291, § 321(2), struck out subsec. (e) which related to logistics indicators.
+
+Subsec. (f). Pub. L. 113–291, § 321(2), (4), redesignated subsec. (h) as (f) and struck out former subsec. (f) which related to unit readiness indicators.
+
+Subsec. (f)(3). Pub. L. 113–291, § 321(6), added par. (3).
+
+Subsec. (g). Pub. L. 113–291, § 321(4), redesignated subsec. (i) as (g). Former subsec. (g) redesignated (e).
+
+Subsec. (h). Pub. L. 113–291, § 321(7), inserted “and Related” after “Support” in heading and substituted “combat support and related agencies” for “combat support agencies” in introductory provisions of par. (1) and for “combat support agency” in introductory provisions of par. (2).
+
+Pub. L. 113–291, § 321(4), redesignated subsec. (j) as (h). Former subsec. (h) redesignated (f).
+
+Subsec. (i). Pub. L. 113–291, § 321(8), added subsec. (i). Former subsec. (i) redesignated (g).
+
+Subsec. (j). Pub. L. 113–291, § 321(4), redesignated subsec. (l) as (j). Former subsec. (j) redesignated (h).
+
+Subsec. (k). Pub. L. 113–291, § 321(2), struck out subsec. (k) which related to major exercise assessments.
+
+Subsec. (l). Pub. L. 113–291, § 321(4), redesignated subsec. (l) as (j).
+
+2013—Subsec. (a). Pub. L. 113–66, § 331(a)(1), substituted “Each report” for “The report for a quarter” and “(f), (g), (h), (i), (j), and (k), and the reports for the second and fourth quarters of a calendar year shall also contain the information required by subsection (e)” for “(e), and (f)”.
+
+Subsec. (d)(1)(A). Pub. L. 113–66, § 331(a)(2)(A)(i), substituted “, including an assessment of the manning of units (authorized versus assigned numbers of personnel) for units not scheduled for deployment and the timing of the arrival of personnel into units preparing for deployments.” for “, including the extent to which members of the armed forces are serving in positions outside of their military occupational specialty, serving in grades other than the grades for which they are qualified, or both.”
+
+Subsec. (d)(1)(B). Pub. L. 113–66, § 331(a)(2)(A)(ii), inserted “unit” before “personnel strength”.
+
+Subsec. (d)(2). Pub. L. 113–66, § 331(a)(2)(B), amended par. (2) generally. Prior to amendment, text read as follows:
+
+“(A) Recruit quality.
+
+“(B) Borrowed manpower.
+
+“(C) Personnel stability.”
+
+Subsec. (d)(3), (4). Pub. L. 113–66, § 331(a)(2)(C), (D), redesignated par. (4) as (3), substituted “Mission rehearsals” for “Training commitments” in subpar. (D), and struck out former par. (3). Prior to amendment, text of par. (3) read as follows:
+
+“(A) Personnel morale.
+
+“(B) Recruiting status.”
+
+Subsec. (d)(5) to (7). Pub. L. 113–66, § 331(a)(5)(A), redesignated pars. (5) to (7) of subsec. (d) as pars. (1) to (3), respectively, of subsec. (e).
+
+Subsec. (e). Pub. L. 113–66, § 331(a)(4), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (e)(1). Pub. L. 113–66, § 331(a)(5)(A), redesignated par. (5) of subsec. (d) as par. (1) of subsec. (e).
+
+Subsec. (e)(1)(E). Pub. L. 113–66, § 331(a)(5)(B), struck out subpar. (E) which read as follows: “Condition of nonpacing items.”
+
+Subsec. (e)(2). Pub. L. 113–66, § 331(a)(5)(A), redesignated par. (6) of subsec. (d) as par. (2) of subsec. (e).
+
+Subsec. (e)(2)(A). Pub. L. 113–66, § 331(a)(5)(C)(i), substituted “Depot maintenance” for “Maintenance”.
+
+Subsec. (e)(2)(B). Pub. L. 113–66, § 331(a)(5)(C)(ii), added subpar. (B).
+
+Subsec. (e)(3). Pub. L. 113–66, § 331(a)(5)(A), redesignated par. (7) of subsec. (d) as par. (3) of subsec. (e).
+
+Subsecs. (f), (g). Pub. L. 113–66, § 331(a)(3), redesignated subsecs. (e) and (f) as (f) and (g), respectively. Former subsec. (g) redesignated (l).
+
+Subsecs. (h) to (k). Pub. L. 113–66, § 331(a)(6), added subsecs. (h) to (k).
+
+Subsec. (l). Pub. L. 113–66, § 331(a)(3), redesignated subsec. (g) as (l).
+
 2008—Subsec. (a). Pub. L. 110–181, § 351(b)(1), substituted “(e), and (f)” for “and (e)”.
 
 Subsecs. (f), (g). Pub. L. 110–181, § 351(b)(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g).
@@ -237,99 +335,11 @@ Pub. L. 105–85, div. A, title III, § 322(d), Nov. 18, 1997, 111 Stat. 1675, p
 
 
 <a id="section-483"></a>
-## § 483. Reports on transfers from high-priority readiness appropriations
-**(a) Annual Reports.—** Not later than the date on which the President submits the budget for a fiscal year to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report on transfers during the preceding fiscal year from funds available for each covered budget activity.
-
-**(b) Midyear Reports.—** Not later than June 1 of each fiscal year, the Secretary of Defense shall submit to the congressional committees specified in subsection (a) a report on transfers, during the first six months of that fiscal year, from funds available for each covered budget activity.
-
-**(c) Matters To Be Included.—** In each report under subsection (a) or (b), the Secretary of Defense shall include for each covered budget activity the following:
-
-(1) A statement, for the period covered by the report, of—
-
-  (A) the total amount of transfers into funds available for that activity;
-
-  (B) the total amount of transfers from funds available for that activity; and
-
-  (C) the net amount of transfers into, or out of, funds available for that activity.
-
-(2) A detailed explanation of the transfers into, and out of, funds available for that activity during the period covered by the report, including identification of the sources from which funds were transferred into that activity and identification of the recipients of the funds transferred out of that activity.
-
-**(d) Covered Budget Activity Defined.—** In this section, the term “covered budget activity” means each of the following:
-
-(1) The budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Army, appropriation that are designated as follows:
-
-  (A) All subactivities under the category of Land Forces.
-
-  (B) Land Forces Depot Maintenance.
-
-  (C) Base Support.
-
-  (D) Maintenance of Real Property.
-
-(2) The Air Operations budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Navy, appropriation that are designated as follows:
-
-  (A) Mission and Other Flight Operations.
-
-  (B) Fleet Air Training.
-
-  (C) Aircraft Depot Maintenance.
-
-  (D) Base Support.
-
-  (E) Maintenance of Real Property.
-
-(3) The Ship Operations budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Navy, appropriation that are designated as follows:
-
-  (A) Mission and Other Ship Operations.
-
-  (B) Ship Operational Support and Training.
-
-  (C) Ship Depot Maintenance.
-
-  (D) Base Support.
-
-  (E) Maintenance of Real Property.
-
-(4) The Expeditionary Forces budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Marine Corps, appropriation that are designated as follows:
-
-  (A) Operational Forces.
-
-  (B) Depot Maintenance.
-
-  (C) Base Support.
-
-  (D) Maintenance of Real Property.
-
-(5) The Air Operations and Combat Related Operations budget activity groups (known as “subactivities”) within the Operating Forces budget activity of the annual Operation and Maintenance, Air Force, appropriation that are designated as follows:
-
-  (A) Primary Combat Forces.
-
-  (B) Primary Combat Weapons.
-
-  (C) Air Operations Training.
-
-  (D) Depot Maintenance.
-
-  (E) Base Support.
-
-  (F) Maintenance of Real Property.
-
-  (G) Combat Enhancement Forces.
-
-  (H) Combat Communications.
-
-(6) The Mobility Operations budget activity group (known as a “subactivity”) within the Mobilization budget activity of the annual Operation and Maintenance, Air Force, appropriation that is designated as Airlift Operations.
+## § 483. Repealed. Pub. L. 113–66, div. A, title X, § 1084(a)(1)(A), Dec. 26, 2013, 127 Stat. 871]
 
 ### Statutory Notes
 
-#### Amendments
-2000—Subsec. (c)(2). Pub. L. 106–398, § 1 [[div. A], title III, § 372(b)], inserted before period “, including identification of the sources from which funds were transferred into that activity and identification of the recipients of the funds transferred out of that activity”.
-
-Subsec. (d)(5)(G), (H). Pub. L. 106–398, § 1 [[div. A], title III, § 372(c)], added subpars. (G) and (H).
-
-Subsec. (e). Pub. L. 106–398, § 1 [[div. A], title III, § 372(a)], struck out heading and text of subsec. (e). Text read as follows: “The requirements specified in subsections (a) and (b) shall terminate upon the submission of the annual report under subsection (a) covering fiscal year 2000.”
-
-1999—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+Section, added Pub. L. 105–85, div. A, title III, § 323(a), Nov. 18, 1997, 111 Stat. 1675; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [[div. A], title III, § 372], Oct. 30, 2000, 114 Stat. 1654, 1654A–80, related to reports on transfers from high-priority readiness appropriations.
 
 
 <a id="section-484"></a>
@@ -347,11 +357,23 @@ Pub. L. 112–239, div. A, title IX, § 939(b), Jan. 2, 2013, 126 Stat. 1888, pr
 
 
 <a id="section-485"></a>
-## § 485. Repealed. Pub. L. 112–81, div. A, title X, § 1061(7)(A), Dec. 31, 2011, 125 Stat. 1583]
+## § 485. Quarterly counterterrorism operations briefings
+**(a) Briefings Required.—** The Secretary of Defense shall provide to the congressional defense committees quarterly briefings outlining Department of Defense counterterrorism operations and related activities.
+
+**(b) Elements.—** Each briefing under subsection (a) shall include each of the following:
+
+(1) A global update on activity within each geographic combatant command and how such activity supports the respective theater campaign plan.
+
+(2) An overview of authorities and legal issues, including limitations.
+
+(3) An overview of interagency activities and initiatives.
+
+(4) Any other matters the Secretary considers appropriate.
 
 ### Statutory Notes
 
-Section, added Pub. L. 105–261, div. A, title IX, § 923(b)(1), Oct. 17, 1998, 112 Stat. 2105; amended Pub. L. 106–65, div. A, title IX, § 931, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 726, 774; Pub. L. 107–107, div. A, title IX, § 922, Dec. 28, 2001, 115 Stat. 1198; Pub. L. 110–417, [div. A], title II, § 241(a), Oct. 14, 2008, 122 Stat. 4395, related to biennial reports on joint and service concept development and experimentation.
+#### Prior Provisions
+A prior section 485, added Pub. L. 105–261, div. A, title IX, § 923(b)(1), Oct. 17, 1998, 112 Stat. 2105; amended Pub. L. 106–65, div. A, title IX, § 931, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 726, 774; Pub. L. 107–107, div. A, title IX, § 922, Dec. 28, 2001, 115 Stat. 1198; Pub. L. 110–417, [div. A], title II, § 241(a), Oct. 14, 2008, 122 Stat. 4395, related to biennial reports on joint and service concept development and experimentation, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(7)(A), Dec. 31, 2011, 125 Stat. 1583.
 
 
 <a id="section-486"></a>
@@ -371,37 +393,51 @@ Section, added Pub. L. 106–65, div. A, title IX, § 923(b)(1), Oct. 5, 1999, 1
 
 
 <a id="section-488"></a>
-## § 488. Management of electromagnetic spectrum: biennial strategic plan
-**(a) Requirement for Strategic Plan.—** Every other year, and in time for submission to Congress under subsection (b), the Secretary of Defense shall prepare a strategic plan for the management of the electromagnetic spectrum to ensure the accessibility and efficient use of that spectrum needed to support the mission of the Department of Defense.
+## § 488. Management of electromagnetic spectrum
+**(a) Requirement for Strategic Plan.—** Every three years, the Secretary of Defense, in consultation with the Director of National Intelligence and the Secretary of Commerce, shall prepare a strategic plan for the management of the electromagnetic spectrum to ensure the accessibility and efficient use of that spectrum needed to support the national security of the United States. Each such strategic plan shall include each of the following:
 
-**(b) Submission of Plan to Congress.—** The Secretary of Defense shall submit to Congress the strategic plan most recently prepared under subsection (a) at the same time that the President submits to Congress the budget for an even-numbered fiscal year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
+(1) An inventory of the uses of the electromagnetic spectrum for national security purposes and other purposes.
+
+(2) An estimate of the need for electromagnetic spectrum for national security and other purposes over each of the periods specified in subsection (b).
+
+(3) Any other matters that the Secretary of Defense, in consultation with the Director of National Intelligence and the Secretary of Commerce, considers appropriate for the strategic plan.
+
+**(b) Periods Covered by Strategic Plan.—** Each strategic plan prepared under subsection (a) shall cover each of the following periods (counting from the date of the issuance of the plan):
+
+(1) Zero to five years.
+
+(2) Five to ten years.
+
+(3) Ten to thirty years.
+
+**(c) Submission of Plan to Congress.—**
+
+(1) The Secretary of Defense shall submit to Congress the strategic plan most recently prepared under subsection (a) at the same time that the President submits to Congress the budget for an even-numbered fiscal year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
+
+(2) Each strategic plan submitted under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–291 inserted a comma after “Every three years” in introductory provisions.
+
+2013—Pub. L. 113–66, § 1072(b)(1), struck out “: biennial strategic plan” after “spectrum” in section catchline.
+
+Subsec. (a). Pub. L. 113–66, § 1072(a)(1), substituted “three years” for “other year, and in time for submission to Congress under subsection (b),”, inserted “, in consultation with the Director of National Intelligence and the Secretary of Commerce,” after “Secretary of Defense”, substituted “the national security of the United States. Each such strategic plan shall include each of the following:” for “the mission of the Department of Defense.”, and added pars. (1) to (3).
+
+Subsec. (b). Pub. L. 113–66, § 1072(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 113–66, § 1072(a)(3), designated existing provisions as par. (1) and added par. (2).
+
+Pub. L. 113–66, § 1072(a)(2), redesignated subsec. (b) as (c).
 
 
 <a id="section-489"></a>
-## § 489. Annual report on Department of Defense operation and financial support for military museums
-**(a) Report Required.—** As part of the budget materials submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), but in no case later than March 15 of each year, the Secretary of Defense shall submit a report identifying all military museums that, during the most recently completed fiscal year—
+## § 489. Repealed. Pub. L. 113–291, div. A, title III, § 331(a), Dec. 19, 2014, 128 Stat. 3344]
 
-(1) were operated by the Secretary of Defense or the Secretary of a military department;
+### Statutory Notes
 
-(2) were otherwise supported using funds appropriated to the Department of Defense; or
-
-(3) were located on property under the jurisdiction of the Department of Defense, although neither operated by the Department of Defense nor supported using funds appropriated to the Department of Defense.
-
-**(b) Information on Individual Museums.—** For each museum identified in a report under this section, the Secretary of Defense shall include in the report the following:
-
-(1) The purpose and functions of the museum and the justification for the museum.
-
-(2) A description of the facilities dedicated to the museum, including the location, size, and type of facilities and whether the facilities are included or eligible for inclusion on the National Register of Historic Places.
-
-(3) An itemized listing of the funds appropriated to the Department of Defense that were obligated to support the museum during the fiscal year covered by the report and a description of the process used to determine the annual allocation of Department of Defense funds for the museum.
-
-(4) An itemized listing of any other Federal funds, funds from a nonappropriated fund instrumentality account of the Department of Defense, and non-Federal funds obligated to support the museum.
-
-(5) The management structure of the museum, including identification of the persons responsible for preparing the budget for the museum and for making acquisition and management decisions for the museum.
-
-(6) The number of civilian employees of the Department of Defense and members of the armed forces who served full-time or part-time at the museum and their role in the management structure of the museum.
-
-**(c) Information on Support Priorities.—** Each report under this section shall also include a separate description of the procedures used by the Secretary of Defense, in the case of museums identified in the report that are operated or supported by the Secretary of Defense, and the Secretary of a military department, in the case of museums identified in the report that are operated or supported by that Secretary, to prioritize funding and personnel support to the museums. The Secretary of Defense shall include a description of any such procedures applicable to the entire Department of Defense.
+Section, added Pub. L. 108–375, div. A, title X, § 1033(a), Oct. 28, 2004, 118 Stat. 2047, related to annual report on Department of Defense operation and financial support for military museums.
 
 
 <a id="section-490"></a>

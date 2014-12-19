@@ -14,7 +14,7 @@ source: >-
 Section, R.S. § 446; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, provided that there shall be in the Department of the Interior a Director of the Bureau of Land Management. Provision for a Bureau of Land Management in the Department of the Interior and for the structure of such Bureau is contained in section 403 of the 1946 Reorg. Plan No. 3, which is set out below.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 For transfer of records, property, personnel, and funds, see sections 1001 to 1003 of Reorg. Plan No. 3 of 1946, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -43,7 +43,7 @@ The Secretary of the Interior or such officer as he may designate shall perform 
 R.S. § 453 derived from acts Apr. 25, 1812, ch. 68, § 1, 2 Stat. 716; July 4, 1836, ch. 352, § 1, 5 Stat. 107; June 6, 1874, ch. 223, 18 Stat. 62; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 317.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 “The Secretary of the Interior or such officer as he may designate shall perform” substituted for “The Commissioner of the General Land Office shall perform, under the direction of the Secretary of the Interior,” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -89,7 +89,7 @@ It shall be the duty of such officers or employees of the Bureau of Land Managem
 R.S. § 459 derived from acts Apr. 25, 1812, ch. 68, § 8, 2 Stat. 717; July 4, 1836, ch. 352, § 4, 5 Stat. 111.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 “Bureau of Land Management” substituted for “General Land Office” and references to the Commissioner were changed to Secretary of the Interior or such officer as he may designate on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -142,7 +142,7 @@ The officers, clerks, and employees in the Bureau of Land Management are prohibi
 R.S. § 452 derived from acts Apr. 25, 1812, ch. 68, § 10, 2 Stat. 717; July 4, 1836, ch. 352, § 14, 5 Stat. 112.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 “Bureau of Land Management” substituted for “General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -158,7 +158,7 @@ The Secretary of the Interior or such officer as he may designate shall retain t
 R.S. § 454 derived from act Apr. 25, 1812, ch. 68, §§ 4, 5, 2 Stat. 717.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 “Bureau of Land Management” substituted for “General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -171,7 +171,7 @@ Whenever the officer, as the Secretary of the Interior may designate, of any Uni
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 References to Commissioner of General Land Office and registers of United States Land Offices changed to Secretary of the Interior or such officer as he may designate and “Bureau of Land Management” substituted for “General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -187,7 +187,7 @@ All returns relative to the public lands shall be made to the Secretary of the I
 R.S. § 456 derived from act Apr. 25, 1812, ch. 68, § 9, 2 Stat. 717.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 “Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -203,7 +203,7 @@ All patents for public lands shall be issued and signed by the Secretary of the 
 A prior section 15, R.S. § 458; 1940 Reorg. Plan No. III, § 4 eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to issuance of patents, prior to repeal by section 2(c) of act June 17, 1948.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 
 <a id="section-16"></a>
@@ -223,7 +223,7 @@ The Secretary of the Interior or such officer as he may designate shall, when re
 R.S. § 455 derived from act Apr. 25, 1812, ch. 68, § 6, 2 Stat. 717.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 “Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” and “Bureau of Land Management” for “his office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -239,7 +239,7 @@ Whenever any person claiming to be interested in or entitled to land, under any 
 R.S. § 460 derived from acts Jan. 23, 1823, ch. 6, 3 Stat. 721; July 4, 1836, ch. 352, § 7, 5 Stat. 111.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 “Bureau of Land Management” substituted for “General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -263,7 +263,7 @@ For Department of the Interior record provisions and Government records and pape
 
 ### Statutory Notes
 
-Section, act June 5, 1920, ch. 235, 41 Stat. 908, related to cost of photolithographic copies of plats. See [section 1460 of this title](./chapter-031-department-of-the-interior.md#section-1460).
+Section, act June 5, 1920, ch. 235, 41 Stat. 908, related to cost of photolithographic copies of plats. See [section 1460 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1460&num=0&edition=prelim).
 
 
 <a id="section-23"></a>

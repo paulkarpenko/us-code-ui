@@ -2,7 +2,7 @@
 title: 19
 chapter: '4'
 heading: TARIFF ACT OF 1930
-section_count: 303
+section_count: 304
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19&num=0&edition=prelim
 ---
@@ -12,7 +12,7 @@ source: >-
 ### Statutory Notes
 
 #### Publication of Harmonized Tariff Schedule
-The Harmonized Tariff Schedule of the United States is not published in the Code. A current version of the Harmonized Tariff Schedule is maintained and published periodically by the United States International Trade Commission and is available at http://www.usitc.gov/tata/hts and for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402.
+The Harmonized Tariff Schedule of the United States is not published in the Code. A current version of the Harmonized Tariff Schedule is maintained and published periodically by the United States International Trade Commission and is available at http://www.usitc.gov/tata/hts/index.htm and for sale by the Superintendent of Documents, U.S. Government Publishing Office, Washington, D.C. 20402.
 
 #### Reference to Tariff Schedules To Be Treated as Reference to Harmonized Tariff Schedule
 Reference in any law to “Tariff Schedules of the United States”, “the Tariff Schedules”, “such Schedules”, and any other general reference to the old Schedules to be treated as reference to Harmonized Tariff Schedule, see [section 3012 of this title](./chapter-018-implementation-of-harmonized-tariff-schedule.md#section-3012).
@@ -246,6 +246,17 @@ Pub. L. 103–182, title II, § 207(b), Dec. 8, 1993, 107 Stat. 2097, provided t
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
 
 
+<a id="section-1304a"></a>
+## § 1304a. Technical assistance to CBP
+
+The Secretary of Agriculture shall make available to U.S. Customs and Border Protection technical assistance related to the identification of produce represented as grown in the United States when it is not in fact grown in the United States.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Agricultural Act of 2014, and not as part of the Tariff Act of 1930 which comprises this chapter.
+
+
 <a id="section-1305"></a>
 ## § 1305. Immoral articles; importation prohibited
 **(a) Prohibition of importation** All persons are prohibited from importing into the United States from any foreign country any book, pamphlet, paper, writing, advertisement, circular, print, picture, or drawing containing any matter advocating or urging treason or insurrection against the United States, or forcible resistance to any law of the United States, or containing any threat to take the life of or inflict bodily harm upon any person in the United States, or any obscene book, pamphlet, paper, writing, advertisement, circular, print, picture, drawing, or other representation, figure, or image on or of paper or other material, or any cast, instrument, or other article which is obscene or immoral, or any drug or medicine or any article whatever for causing unlawful abortion, or any lottery ticket, or any printed paper that may be used as a lottery ticket, or any advertisement of any lottery. No such articles whether imported separately or contained in packages with other goods entitled to entry, shall be admitted to entry; and all such articles and, unless it appears to the satisfaction of the appropriate customs officer that the obscene or other prohibited articles contained in the package were inclosed therein without the knowledge or consent of the importer, owner, agent, or consignee, the entire contents of the package in which such articles are contained, shall be subject to seizure and forfeiture as hereinafter provided: Provided, That the drugs hereinbefore mentioned, when imported in bulk and not put up for any of the purposes hereinbefore specified, are excepted from the operation of this subdivision: Provided further, That the Secretary of the Treasury may, in his discretion, admit the so-called classics or books of recognized and established literary or scientific merit, but may, in his discretion, admit such classics or books only when imported for noncommercial purposes: Provided further, That effective January 1, 1993, this section shall not apply to any lottery ticket, printed paper that may be used as a lottery ticket, or advertisement of any lottery, that is printed in Canada for use in connection with a lottery conducted in the United States.
@@ -454,12 +465,6 @@ Pub. L. 100–418, title I, § 1906, Aug. 23, 1988, 102 Stat. 1313, related to C
 
 **(d) Publication of names of certain violators** The designated authorities shall, at least once each year, publish in the Federal Register a list of the names of any producer, manufacturer, supplier, seller, importer, or exporter, whether or not located within the customs territory of the United States or subject to the jurisdiction of the United States, against whom a final administrative determination with respect to the assessment of a civil penalty for a knowing and intentional or a grossly negligent violation has been made under this section.
 
-**(e) Reports** In order to enable Congress to engage in active, continuing oversight of this section, the designated authorities shall provide the following:
-
-(1) **Plan for enforcement** — Within 3 months after November 9, 2000, the designated authorities shall submit to Congress a plan for the enforcement of the provisions of this section, including training and procedures to ensure that United States Government personnel are equipped with state-of-the-art technologies to identify potential dog or cat fur products and to determine the true content of such products.
-
-(2) **Report on enforcement efforts** — Not later than 1 year after November 9, 2000, and on an annual basis thereafter, the designated authorities shall submit a report to Congress on the efforts of the United States Government to enforce the provisions of this section and the adequacy of the resources to do so. The report shall include an analysis of the training of United States Government personnel to identify dog and cat fur products effectively and to take appropriate action to enforce this section. The report shall include the findings of the designated authorities as to whether any government has engaged in a pattern or practice of support for trade in products the importation of which are prohibited under this section.
-
 ### Statutory Notes
 
 #### References in Text
@@ -467,6 +472,9 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(
 
 #### Prior Provisions
 A prior section 1308, acts June 17, 1930, ch. 497, title III, § 308, 46 Stat. 690; June 25, 1938, ch. 679, § 4, 52 Stat. 1079; Aug. 8, 1953, ch. 397, § 10(a)(1), (b) to (f), 67 Stat. 512; Aug. 28, 1954, ch. 1045, § 1, 68 Stat. 914; Aug. 28, 1957, Pub. L. 85–211, § 3, 71 Stat. 487; Apr. 16, 1958, Pub. L. 85–379, 72 Stat. 88; May 16, 1958, Pub. L. 85–414, § 1, 72 Stat. 118, prescribed articles for temporary free importation under bond for exportation, prior to repeal by Pub. L. 87–456, title III, § 301(a), title V, § 501(a), May 24, 1962, 76 Stat. 75, 78, effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
+
+#### Amendments
+2014—Subsec. (e). Pub. L. 113–188 struck out subsec. (e) which related to submissions of a plan for enforcement and annual reports on enforcement efforts.
 
 #### Effective Date
 Pub. L. 106–476, title I, § 1443(c), Nov. 9, 2000, 114 Stat. 2167, provided that: “The amendments made by this section [enacting this section and amending [section 69 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section69&num=0&edition=prelim), Commerce and Trade] shall take effect on the date of the enactment of this Act [Nov. 9, 2000].”
@@ -541,28 +549,6 @@ Provisions similar to those in this section were contained in act Oct. 3, 1913, 
 ## § 1311. Bonded manufacturing warehouses
 
 All articles manufactured in whole or in part of imported materials, or of materials subject to internal-revenue tax, and intended for exportation without being charged with duty, and without having an internal-revenue stamp affixed thereto, shall, under such regulations as the Secretary of the Treasury may prescribe, in order to be so manufactured and exported, be made and manufactured in bonded warehouses similar to those known and designated in Treasury Regulations as bonded warehouses, class six: Provided, That the manufacturer of such articles shall first give satisfactory bonds for the faithful observance of all the provisions of law and of such regulations as shall be prescribed by the Secretary of the Treasury: Provided further, That the manufacture of distilled spirits from grain, starch, molasses, or sugar, including all dilutions or mixtures of them or either of them, shall not be permitted in such manufacturing warehouses.
-Whenever goods manufactured in any bonded warehouse established under the provisions of the preceding paragraph shall be exported directly therefrom or shall be duly laden for transportation and immediate exportation under the supervision of the proper officer who shall be duly designated for that purpose, such goods shall be exempt from duty and from the requirements relating to revenue stamps.
-No flour, manufactured in a bonded manufacturing warehouse from wheat imported after ninety days after June 17, 1930, shall be withdrawn from such warehouse for exportation without payment of a duty on such imported wheat equal to any reduction in duty which by treaty will apply in respect of such flour in the country to which it is to be exported.
-Any materials used in the manufacture of such goods, and any packages, coverings, vessels, brands, and labels used in putting up the same may, under the regulations of the Secretary of the Treasury, be conveyed without the payment of revenue tax or duty into any bonded manufacturing warehouse, and imported goods may, under the aforesaid regulations, be transferred without the exaction of duty from any bonded warehouse into any bonded manufacturing warehouse; but this privilege shall not be held to apply to implements, machinery, or apparatus to be used in the construction or repair of any bonded manufacturing warehouse or for the prosecution of the business carried on therein.
-Articles or materials received into such bonded manufacturing warehouse or articles manufactured therefrom may be withdrawn or removed therefrom for direct shipment and exportation or for transportation and immediate exportation in bond to foreign countries or to the Philippine Islands under the supervision of the officer duly designated therefor by the appropriate customs officer of the port, who shall certify to such shipment and exportation, or ladening for transportation, as the case may be, describing the articles by their mark or otherwise, the quantity, the date of exportation, and the name of the vessel: Provided, That the by-products incident to the processes of manufacture, including waste derived from cleaning rice in bonded warehouses under the Act of March 24, 1874, ch. 65, 18 Stat. 24, in said bonded warehouses may be withdrawn for domestic consumption on the payment of duty equal to the duty which would be assessed and collected by law if such waste or by-products were imported from a foreign country: Provided, That all waste material may be destroyed under Government supervision. All labor performed and services rendered under these provisions shall be under the supervision of a duly designated officer of the customs and at the expense of the manufacturer.
-A careful account shall be kept by the appropriate customs officer of all merchandise delivered by him to any bonded manufacturing warehouse, and a sworn monthly return, verified by the customs officers in charge, shall be made by the manufacturer containing a detailed statement of all imported merchandise used by him in the manufacture of exported articles.
-Before commencing business the proprietor of any manufacturing warehouse shall file with the Secretary of the Treasury a list of all the articles intended to be manufactured in such warehouse, and state the formula of manufacture and the names and quantities of the ingredients to be used therein.
-Articles manufactured under these provisions may be withdrawn under such regulations as the Secretary of the Treasury may prescribe for transportation and delivery into any bonded warehouse for the sole purpose of export therefrom: Provided, That cigars manufactured in whole of tobacco imported from any one country, made and manufactured in such bonded manufacturing warehouses, may be withdrawn for home consumption upon the payment of the duties on such tobacco in its condition as imported under such regulations as the Secretary of the Treasury may prescribe, and the payment of the internal-revenue tax accruing on such cigars in their condition as withdrawn, and the boxes or packages containing such cigars shall be stamped to indicate their character, origin of tobacco from which made, and place of manufacture.
-The provisions of section 3433 of the Revised Statutes shall, so far as may be practicable, apply to any bonded manufacturing warehouse established under this chapter and to the merchandise conveyed therein.
-Distilled spirits and wines which are rectified in bonded manufacturing warehouses, class six, and distilled spirits which are reduced in proof and bottled in such warehouses, shall be deemed to have been manufactured within the meaning of this section, and may be withdrawn as hereinbefore provided, and likewise for shipment in bond to Puerto Rico, subject to the provisions of this section, and under such regulations as the Secretary of the Treasury may prescribe, there to be withdrawn for consumption or be rewarehoused and subsequently withdrawn for consumption: Provided, That upon withdrawal in Puerto Rico for consumption, the duties imposed by the customs laws of the United States shall be collected on all imported merchandise (in its condition as imported) and imported containers used in the manufacture and putting up of such spirits and wines in such warehouses.
-No article manufactured in a bonded warehouse from materials that are goods subject to NAFTA drawback, as defined in [section 3333(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim), may be withdrawn from warehouse for exportation to a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim), without assessment of a duty on the materials in their condition and quantity, and at their weight, at the time of importation into the United States. The duty shall be paid before the 61st day after the date of exportation, except that upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the article, the customs duty may be waived or reduced (subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim)) in an amount that does not exceed the lesser of—
-
-(1) the total amount of customs duties paid or owed on the materials on importation into the United States, or
-
-(2) the total amount of customs duties paid on the article to the NAFTA country. If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no article manufactured in a bonded warehouse, except to the extent that such article is made from an article that is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, may be withdrawn from such warehouse for exportation to Canada during the period such Agreement is in operation without payment of a duty on such imported merchandise in its condition, and at the rate of duty in effect, at the time of importation. No article manufactured in a bonded warehouse from materials that are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, may be withdrawn from warehouse for exportation to Chile without assessment of a duty on the materials in their condition and quantity, and at their weight, at the time of importation into the United States. The duty shall be paid before the 61st day after the date of exportation, except that the duty may be waived or reduced by—
-
-  (1) 100 percent during the 8-year period beginning on January 1, 2004;
-
-  (2) 75 percent during the 1-year period beginning on January 1, 2012;
-
-  (3) 50 percent during the 1-year period beginning on January 1, 2013; and
-
-  (4) 25 percent during the 1-year period beginning on January 1, 2014.
 
 ### Statutory Notes
 
@@ -3578,7 +3564,7 @@ Functions of all officers of Department of the Treasury and functions of all age
 
   (I) was supplied free or at reduced cost by the buyer of the merchandise for use in connection with the production or the sale for export to the United States of the merchandise; and
 
-    (II) is not an assist because undertaken within the United States.
+  (II) is not an assist because undertaken within the United States.
 
 (3) The term “packing costs” means the cost of all containers and coverings of whatever nature and of packing, whether for labor or materials, used in placing merchandise in condition, packed ready for shipment to the United States.
 
@@ -3601,7 +3587,7 @@ Functions of all officers of Department of the Treasury and functions of all age
 
   (I) was supplied free or at reduced cost by the buyer of the merchandise for use in connection with the production or the sale for export to the United States of the merchandise; and
 
-    (II) is not an assist because undertaken within the United States.
+  (II) is not an assist because undertaken within the United States.
 
 (5) The term “sufficient information”, when required under this section for determining—
 
@@ -3775,6 +3761,79 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Ex. Ord. No. 13659. Streamlining the Export/Import Process for America’s Businesses
+Ex. Ord. No. 13659, Feb. 19, 2014, 79 F.R. 10657, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to reduce supply chain barriers to commerce while continuing to protect our national security, public health and safety, the environment, and natural resources, it is hereby ordered as follows:
+
+Section 1. Policy. The United States is the world’s largest economy and the largest trading Nation. Trade is critical to the Nation’s prosperity—fueling economic growth, supporting good jobs at home, raising living standards, and helping Americans provide for their families with affordable goods and services. It is the policy of the United States to promote commerce through the effective implementation of an ambitious 21st century trade agenda and vigorous enforcement of our Nation’s laws relating to trade, security, public health and safety, the environment, and natural resources. In support of these goals, and to ensure that our Nation is well-positioned to compete in an open, fair, and growing world economy, the Federal Government must increase efforts to improve the technologies, policies, and other controls governing the movement of goods across our national borders.
+
+In particular, we must increase efforts to complete the development of efficient and cost-effective trade processing infrastructure, such as the International Trade Data System (ITDS), to modernize and simplify the way that executive departments and agencies (agencies) interact with traders. We must also improve the broader trade environment through the development of innovative policies and operational processes that promote effective application of regulatory controls, collaborative arrangements with stakeholders, and a reduction of unnecessary procedural requirements that add costs to both agencies and industry and undermine our Nation’s economic competitiveness. By demonstrating our commitment to utilizing technology, coordinating government processes, fulfilling international obligations, and embracing innovative approaches to promote new opportunities for trade facilitation in the 21st century, we can lead by example and partner with other countries willing to adopt similar programs. This will encourage compliance with applicable laws and, more broadly, result in a more prosperous, safe, secure, and sustainable trading environment for all.
+
+Sec. 2. Policy Coordination. Policy coordination, guidance, dispute resolution, and periodic reviews for the functions and programs set forth in this order shall be provided through the interagency process established in Presidential Policy Directive–1 of February 13, 2009 (Organization of the National Security Council System), or any successor.
+
+Sec. 3. International Trade Data System. The ITDS, as described in section 405 of the Security and Accountability for Every Port Act of 2006 (the “SAFE Port Act”) (Public Law 109–347), is an electronic information exchange capability, or “single window,” through which businesses will transmit data required by participating agencies for the importation or exportation of cargo. To enhance Federal coordination associated with the development of the ITDS and to provide necessary transparency to businesses, agencies, and other potential users:
+
+(a) by December 31, 2016, participating agencies shall have capabilities, agreements, and other requirements in place to utilize the ITDS and supporting systems, such as the Automated Commercial Environment, as the primary means of receiving from users the standard set of data and other relevant documentation (exclusive of applications for permits, licenses, or certifications) required for the release of imported cargo and clearance of cargo for export;
+
+(b) by December 31, 2016, the Department of Homeland Security shall confirm to the Secretary of the Treasury and the ITDS Board of Directors (Board), which serves as the Interagency Steering Committee established under section 405 of the SAFE Port Act, that the ITDS has the operational capabilities to enable users to:
+
+(i) transmit a harmonized set of import and export data elements, to be collected, stored, and shared, via a secure single window, to fulfill U.S. Government requirements for the release and clearance of goods; and
+
+(ii) transition from paper-based requirements and procedures to faster and more cost-effective electronic submissions to, and communications with, agencies;
+
+(c) the Board shall, in consultation with ITDS participating agencies, define the standard set of data elements to be collected, stored, and shared in the ITDS; and continue to periodically review those data elements in order to update the standard set of data elements, as necessary;
+
+(d) the Board shall continue to assist the Secretary of the Treasury in overseeing the implementation of, and participation in, the ITDS, including the establishment of the ITDS capabilities and requirements associated with the collection from users and distribution to relevant agencies of standard electronic import and export data; and
+
+(e) the Board shall make publicly available a timeline outlining the development and delivery of the secure ITDS capabilities, as well as agency implementation plans and schedules. Agencies shall take such steps as are necessary to meet the timeline, including timely completion of all appropriate agreements, including memoranda of understanding, and other required documents that establish procedures and guidelines for the secure exchange and safeguarding of data among agencies and, as appropriate, with other Federal Government entities.
+
+Sec. 4. Establishment of the Border Interagency Executive Council. (a) There is established the Border Interagency Executive Council (BIEC), an interagency working group to be chaired by the Secretary of Homeland Security or a senior-level designee from the Department. The BIEC shall also have a Vice Chair, selected every 2 years from among the members of the BIEC by a process determined by the members. The BIEC shall develop policies and processes to enhance coordination across customs, transport security, health and safety, sanitary, conservation, trade, and phytosanitary agencies with border management authorities and responsibilities to measurably improve supply chain processes and improve identification of illicit shipments.
+
+(b) The Department of Homeland Security shall provide funding and administrative support for the BIEC, to the extent permitted by law.
+
+(c) In addition to the Chair and Vice Chair, the BIEC shall include designated senior-level representatives from agencies that provide approval before goods can be imported and exported, including the Departments of State, the Treasury, Defense, the Interior, Agriculture, Commerce, Health and Human Services, Transportation, and Homeland Security, the Environmental Protection Agency, and other agencies with border management interests or authorities, as determined by the Chair and Vice Chair. The BIEC shall also include appropriate representatives from the Executive Office of the President.
+
+Sec. 5. Functions of the BIEC. The BIEC shall:
+
+(a) develop common risk management principles and methods to inform agency operations associated with the review and release of cargo at the border and encourage compliance with applicable law;
+
+(b) develop policies and processes to orchestrate, improve, and accelerate agency review of electronic trade data transmitted through relevant systems and provide coordinated and streamlined responses back to users to facilitate trade and support and advance compliance with applicable laws and international agreements, including (in coordination with, and as recommendations to, the Board) policies and processes designed to assist the Secretary of the Treasury, as appropriate, with activities related to the ITDS;
+
+(c) identify opportunities to streamline Federal Government systems and reduce costs through the elimination of redundant capabilities or through enhanced utilization of the Automated Commercial Environment capabilities as a means of improving supply chain management processes;
+
+(d) assess, in collaboration with the Board, the business need, feasibility, and potential benefits of developing or encouraging the private-sector development of web-based interfaces to electronic data systems, including the ITDS, for individuals and small businesses;
+
+(e) engage with and consider the advice of industry and other relevant stakeholders regarding opportunities to improve supply chain management processes, with the goal of promoting economic competitiveness through enhanced trade facilitation and enforcement;
+
+(f) encourage other countries to develop similar single window systems to facilitate the sharing of relevant data, as appropriate, across governmental systems and with trading partners; and
+
+(g) assess, in consultation with the Department of the Treasury, opportunities to facilitate electronic payment of duties, taxes, fees, and charges due at importation. The Federal Government endorses electronic payment of duties, taxes, fees, and charges due at importation, and currently allows payment electronically through various systems.
+
+Sec. 6. Regulatory Review. To support the Federal Government’s rapid development of the ITDS that, to the greatest extent possible, relies upon the collection, exchange, and processing of electronic data, each agency that utilizes the ITDS shall:
+
+(a) as part of the retrospective review report due to the Office of Information and Regulatory Affairs (OIRA) on July 14, 2014, pursuant to Executive Order 13610 of May 10, 2012 (Identifying and Reducing Regulatory Burdens), unless directed otherwise through subsequent guidance from OIRA, determine whether any regulations should be modified to achieve the requirements set forth in this order; and
+
+(b) promptly initiate rulemaking proceedings to implement necessary regulatory modifications identified pursuant to subsection (a) of this section.
+
+Sec. 7. Reports. (a) Within 180 days of the date of this order, agencies with border management interests or authorities shall report to the Board on their anticipated use of international standards for product classification and identification.
+
+(b) By July 1, 2014, and every year thereafter until July 2016, the BIEC, in consultation with the Board, shall provide to the President, through the Assistant to the President for Homeland Security and Counterterrorism, a report on the implementation of section 5 of this order.
+
+Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law, and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) Independent agencies are strongly encouraged to comply with the requirements of this order.
+
+Barack Obama.
 
 
 <a id="section-1412"></a>
@@ -5002,7 +5061,7 @@ Pub. L. 96–467, § 14(b), Oct. 17, 1980, 94 Stat. 2226, provided in part that:
 Pub. L. 96–39, title VI, § 601(a), July 26, 1979, 93 Stat. 267, provided that the amendment made by section 601(a)(3) is effective upon a Presidential proclamation authorized to be made after Sept. 30, 1979, when the conditions under [section 2503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2503/b&num=0&edition=prelim) on acceptance of the Agreement on Trade in Civil Aircraft are fulfilled.
 
 #### Entries Made in Connection With Arrival of Vessels On or After October 1, 1979, and Before December 28, 1980
-Pub. L. 96–609, title I, § 115(b), Dec. 28, 1980, 94 Stat. 3558, provided that: “Upon request therefor filed with the customs officer concerned on or before the 90th day after the date of the enactment of this Act [Dec. 28, 1980], the entry of any article to which section 466(a) of the Tariff Act of 1930 [subsec. (a) of this section] applied and— “(1) that was made on or after October 1, 1979, and before the date of the enactment of this Act; and “(2) with respect to which there would have been no duty if the amendment made by subsection (a) [adding subsec. (g) of this section] applied to such entry or withdrawal; shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 [[section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514)] or any other provision of law, be liquidated or reliquidated as though such entry or withdrawal had been made on the date of the enactment of this Act.”
+Pub. L. 96–609, title I, § 115(b), Dec. 28, 1980, 94 Stat. 3558, provided that: “Upon request therefor filed with the customs officer concerned on or before the 90th day after the date of the enactment of this Act [Dec. 28, 1980], the entry of any article to which section 466(a) of the Tariff Act of 1930 [subsec. (a) of this section] applied and—“(1) that was made on or after October 1, 1979, and before the date of the enactment of this Act; and “(2) with respect to which there would have been no duty if the amendment made by subsection (a) [adding subsec. (g) of this section] applied to such entry or withdrawal; shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 [[section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514)] or any other provision of law, be liquidated or reliquidated as though such entry or withdrawal had been made on the date of the enactment of this Act.”
 
 #### Entries Made in Connection With Arrivals of Vessels On or After January 5, 1971; Entries in Connection With the Arrival of Shrimp Vessels After January 1, 1969, and Before January 5, 1971
 Pub. L. 91–654, § 2, Jan. 5, 1971, 84 Stat. 1945, provided that: “(a) The amendment made by the first section of this Act [amending this section] shall apply with respect to entries made in connection with arrivals of vessels on or after the date of the enactment of this Act [Jan. 5, 1971]. “(b) Upon request therefor filed with the customs officer concerned on or before the ninetieth day after the date of the enactment of this Act, any entry in connection with the arrival of a vessel used primarily for the catching of shrimp—“(1) which was made after January 1, 1969, and before the date of the enactment of this Act, and “(2) with respect to which there would have been no duty if the amendment made by the first section of this Act applied to such entry, shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 [[section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514)] or any other provision of law, be liquidated or reliquidated as though such entry had been made on the day after the date of the enactment of this Act.”
@@ -5330,7 +5389,8 @@ The return of articles from space shall not be considered an importation, and an
 
 (2) such articles were maintained or utilized while in space solely on board such spacecraft or aboard another spacecraft which meets the requirements of paragraph (1)(A) through (C) of this section; and
 
-(3) such articles were returned to the customs territory directly from space aboard such spacecraft or aboard another spacecraft which meets the requirements of paragraph (1)(A) through (C) of this section; without regard to whether such articles have been advanced in value or improved in condition by any process of manufacture or other means while in space.
+(3) such articles were returned to the customs territory directly from space aboard such spacecraft or aboard another spacecraft which meets the requirements of paragraph (1)(A) through (C) of this section;
+without regard to whether such articles have been advanced in value or improved in condition by any process of manufacture or other means while in space.
 
 ### Statutory Notes
 
@@ -5782,7 +5842,8 @@ Except as otherwise provided by law, no individual returning to the United State
 
 (1) entitled to the admission of his or her baggage and effects free of duty without entry; or
 
-(2) entitled to expedited customs examination and clearance of his or her baggage and effects. Paragraph (2) shall not apply to individuals in special circumstances (including being seriously ill or infirm, having been summoned by news of affliction or disaster, and accompanying the body of a deceased relative). For purposes of this section, the term “baggage and effects” means any article which was in the possession of the individual while abroad and is being imported in connection with his or her arrival and is intended for his or her bona fide personal or household use. Such term does not include any article imported as an accommodation to others or for sale or other commercial use.
+(2) entitled to expedited customs examination and clearance of his or her baggage and effects.
+Paragraph (2) shall not apply to individuals in special circumstances (including being seriously ill or infirm, having been summoned by news of affliction or disaster, and accompanying the body of a deceased relative). For purposes of this section, the term “baggage and effects” means any article which was in the possession of the individual while abroad and is being imported in connection with his or her arrival and is intended for his or her bona fide personal or household use. Such term does not include any article imported as an accommodation to others or for sale or other commercial use.
 
 ### Statutory Notes
 
@@ -8496,7 +8557,8 @@ Under such regulations and subject to such terms and conditions as the Secretary
 
 (2) any contract carrier authorized to operate as such by any agency of the United States, and
 
-(3) any freight forwarder authorized to operate as such by any agency of the United States, upon application, may, in the discretion of the Secretary, be designated as a carrier of bonded merchandise for the final release of which from customs custody a permit has not been issued. A private carrier, upon application, may, in the discretion of the Secretary, be designated under the preceding sentence as a carrier of bonded merchandise, subject to such regulations and, in the case of each applicant, to such special terms and conditions as the Secretary may prescribe to safeguard the revenues of the United States with respect to the transportation of bonded merchandise by such applicant.
+(3) any freight forwarder authorized to operate as such by any agency of the United States,
+upon application, may, in the discretion of the Secretary, be designated as a carrier of bonded merchandise for the final release of which from customs custody a permit has not been issued. A private carrier, upon application, may, in the discretion of the Secretary, be designated under the preceding sentence as a carrier of bonded merchandise, subject to such regulations and, in the case of each applicant, to such special terms and conditions as the Secretary may prescribe to safeguard the revenues of the United States with respect to the transportation of bonded merchandise by such applicant.
 
 ### Statutory Notes
 
@@ -9041,7 +9103,7 @@ Merchandise shall only be withdrawn from a bonded warehouse in such quantity and
       (III) 50 percent during the 1-year period beginning on January 1, 2013, and
 
       (IV) 25 percent during the 1-year period beginning on January 1, 2014.
-  Merchandise may be withdrawn from bonded warehouse for consumption, or for exportation to Canada if the duty exemption under paragraph (4) of the preceding sentence does not apply, upon the payment of duties accruing thereon, in its condition and quantity, and at its weight, at the time of withdrawal from warehouse, with such additions to or deductions from the final appraised value as may be necessary by reason of change in condition. The basis for the assessment of duties on such merchandise so withdrawn for consumption shall be the adjusted final appraised value, and if the rate of duty is based upon or regulated in any manner by the value of the merchandise, such rate shall be based upon or regulated by such adjusted final appraised value. The scouring or carbonizing of wool shall not be considered a process of manufacture within the provisions of this section. Under such regulations as the Secretary of the Treasury shall prescribe, imported merchandise which has been entered and which has remained in continuous customs custody may be manipulated in accordance with the provisions of this section under customs supervision and at the risk and expense of the consignee, but elsewhere than in a bonded warehouse, in cases where neither the protection of the revenue nor the proper conduct of customs business requires that such manipulation be done in bonded warehouse.
+Merchandise may be withdrawn from bonded warehouse for consumption, or for exportation to Canada if the duty exemption under paragraph (4) of the preceding sentence does not apply, upon the payment of duties accruing thereon, in its condition and quantity, and at its weight, at the time of withdrawal from warehouse, with such additions to or deductions from the final appraised value as may be necessary by reason of change in condition. The basis for the assessment of duties on such merchandise so withdrawn for consumption shall be the adjusted final appraised value, and if the rate of duty is based upon or regulated in any manner by the value of the merchandise, such rate shall be based upon or regulated by such adjusted final appraised value. The scouring or carbonizing of wool shall not be considered a process of manufacture within the provisions of this section. Under such regulations as the Secretary of the Treasury shall prescribe, imported merchandise which has been entered and which has remained in continuous customs custody may be manipulated in accordance with the provisions of this section under customs supervision and at the risk and expense of the consignee, but elsewhere than in a bonded warehouse, in cases where neither the protection of the revenue nor the proper conduct of customs business requires that such manipulation be done in bonded warehouse.
 
 ### Statutory Notes
 
@@ -9177,7 +9239,8 @@ The cartage of merchandise entered for warehouse shall be done by—
 
 (1) cartmen appointed and licensed by the Customs Service; or
 
-(2) carriers designated under [section 1551 of this title](./chapter-004-tariff-act-of-1930.md#section-1551) to carry bonded merchandise; who shall give bond, in a penal sum to be fixed by the Customs Service, for the protection of the Government against any loss of, or damage to, the merchandise while being so carted. The cartage of merchandise designated for examination at the appraiser’s stores and of merchandise taken into custody by the customs officer as unclaimed shall be performed by such persons as may be designated, under contract or otherwise, by the Secretary of the Treasury, and under such regulations for the protection of the owners thereof and of the revenue as the Secretary of the Treasury shall prescribe.
+(2) carriers designated under [section 1551 of this title](./chapter-004-tariff-act-of-1930.md#section-1551) to carry bonded merchandise;
+who shall give bond, in a penal sum to be fixed by the Customs Service, for the protection of the Government against any loss of, or damage to, the merchandise while being so carted. The cartage of merchandise designated for examination at the appraiser’s stores and of merchandise taken into custody by the customs officer as unclaimed shall be performed by such persons as may be designated, under contract or otherwise, by the Secretary of the Treasury, and under such regulations for the protection of the owners thereof and of the revenue as the Secretary of the Treasury shall prescribe.
 
 ### Statutory Notes
 
@@ -12380,7 +12443,7 @@ Pub. L. 100–418, title I, § 1337, Aug. 23, 1988, 102 Stat. 1211, as amended b
 Pub. L. 98–573, title VI, § 626, Oct. 30, 1984, 98 Stat. 3042, as amended by Pub. L. 99–514, title XVIII, § 1886(b), Oct. 22, 1986, 100 Stat. 2922, provided that: “(a) Except as provided in subsections (b) and (c), this Act [probably should be “this title”], and the amendments made by it [enacting sections 1671h, 1677–1, and 1677h of this title, amending this section and sections 1671b to 1671e, 1673c, 1673d, 1677a to 1677f, and 1677g of this title, and repealing sections 1673h and 1673i of this title], shall take effect on the date of the enactment of this Act [Oct. 30, 1984]. “(b)(1) The amendments made by sections 602, 609, 611, 612, and 620 [enacting sections 1676, 1676a, and 1677f–1 of this title and amending this section and sections 1514, 1671c, 1671d, 1673, 1673a, 1673c, 1673d, 1675, 1677, and 1677b of this title, [section 2631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2631&num=0&edition=prelim), Judiciary and Judicial Procedure, and provisions set out as a note under this section] shall apply with respect to investigations initiated by petition or by the administering authority under subtitles A and B of title VII of the Tariff Act of 1930 [parts I and II of this subtitle], and to reviews begun under section 751 of that Act [[section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675)], on or after such effective date. “(2) The amendments made by section 623 [amending [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a) and sections 2636 and 2647 of Title 28] shall apply with respect to civil actions pending on, or filed on or after, the date of the enactment of this Act [Oct. 30, 1984]. “(3) The administering authority may delay implementation of any of the amendments referred to in subsections (a) and (b)(1) with respect to any investigation in progress on the date of enactment of this Act [Oct. 30, 1984] if the administering authority determines that immediate implementation would prevent compliance with a statutory deadline in title VII of the Tariff Act of 1930 [this subtitle] that is applicable to that investigation. “(4) The amendment made by section 621 [amending [section 1677g of this title](./chapter-004-tariff-act-of-1930.md#section-1677g)] shall apply with respect to merchandise that is unliquidated on or after November 4, 1984. “(c)(1) No provision of title VII of the Tariff Act of 1930 [this subtitle] shall be interpreted to prevent the refiling of a petition under section 702 or 732 of that title [sections 1671a and 1673a of this title] that was filed before the date of the enactment of this title, if the purpose of such refiling is to avail the petitioner of the amendment made by section 612(a)(1) [amending [section 1677(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/4/A&num=0&edition=prelim)]. “(2) The amendment made by section 612(a)(1) shall not apply with respect to petitions filed (or refiled under paragraph (1)) under section 702 or 732 of the Tariff Act of 1930 after September 30, 1986.”
 
 #### Effective Date
-Pub. L. 96–39, title I, § 107, July 26, 1979, 93 Stat. 193, provided that: “Except as otherwise provided in this title, this title and the amendments made by it [enacting this subtitle, amending sections 1303, 1337, 2033, and 2251 of this title, repealing sections 160 to 171 of this title, and enacting provisions set out as notes under this section and sections 160 and 1303 of this title] shall take effect on January 1, 1980, if— “(1) the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade (relating to subsidies and countervailing measures), and “(2) the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade (relating to antidumping measures), approved by the Congress under section 2(a) of this Act [[section 2503(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2503/a&num=0&edition=prelim)] have entered into force with respect to the United States as of that date.”
+Pub. L. 96–39, title I, § 107, July 26, 1979, 93 Stat. 193, provided that: “Except as otherwise provided in this title, this title and the amendments made by it [enacting this subtitle, amending sections 1303, 1337, 2033, and 2251 of this title, repealing sections 160 to 171 of this title, and enacting provisions set out as notes under this section and sections 160 and 1303 of this title] shall take effect on January 1, 1980, if—“(1) the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade (relating to subsidies and countervailing measures), and “(2) the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade (relating to antidumping measures), approved by the Congress under section 2(a) of this Act [[section 2503(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2503/a&num=0&edition=prelim)] have entered into force with respect to the United States as of that date.”
 
 [These agreements entered into force with respect to the United States on Dec. 17, 1979.]
 
@@ -12568,11 +12631,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
     (ii) a developing country with respect to which the Trade Representative has notified the administering authority that the country has eliminated its export subsidies on an expedited basis within the meaning of Article 27.11 of the Subsidies Agreement,
     subparagraph (B) shall be applied by substituting “3 percent” for “2 percent”.
 
-  (D) *Limitations on application of subparagraph (C).—* — (C)(ii) countries.—In the case of a country described in subparagraph (C)(ii), the provisions of subparagraph (C) shall not apply after the earlier of—
+  (D) *Limitations on application of subparagraph (C).—*
 
     (i) *In general.—* — In the case of a country described in subparagraph (C)(i), the provisions of subparagraph (C) shall not apply after the date that is 8 years after the date the WTO Agreement enters into force.
 
-    (ii) *Special rule for subparagraph*
+    (ii) *Special rule for subparagraph (C)(ii) countries.—* — In the case of a country described in subparagraph (C)(ii), the provisions of subparagraph (C) shall not apply after the earlier of—
 
       (I) the date that is 8 years after the date the WTO Agreement enters into force, or
 
@@ -13285,7 +13348,7 @@ If—
 
   (B) the establishment of an industry in the United States is materially retarded,
   by reason of imports of that merchandise or by reason of sales (or the likelihood of sales) of that merchandise for importation,
-  then there shall be imposed upon such merchandise an antidumping duty, in addition to any other duty imposed, in an amount equal to the amount by which the normal value exceeds the export price (or the constructed export price) for the merchandise. For purposes of this section and [section 1673d(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673d/b/1&num=0&edition=prelim), a reference to the sale of foreign merchandise includes the entering into of any leasing arrangement regarding the merchandise that is equivalent to the sale of the merchandise.
+then there shall be imposed upon such merchandise an antidumping duty, in addition to any other duty imposed, in an amount equal to the amount by which the normal value exceeds the export price (or the constructed export price) for the merchandise. For purposes of this section and [section 1673d(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673d/b/1&num=0&edition=prelim), a reference to the sale of foreign merchandise includes the entering into of any leasing arrangement regarding the merchandise that is equivalent to the sale of the merchandise.
 
 ### Statutory Notes
 
@@ -14465,7 +14528,7 @@ Section repealed effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573
 
   (C) *“Transition order” defined* — For purposes of this section, the term “transition order” means—
 
-    (i) a countervailing duty order under this subtitle or under section 1303 22 See References in Text note below. of this title,
+    (i) a countervailing duty order under this subtitle or under section 1303 1 of this title,
 
     (ii) an antidumping duty order under this subtitle or a finding under the Antidumping Act, 1921, or
 
@@ -16703,14 +16766,14 @@ Amendment by section 261(d)(1)(B)(iv) of Pub. L. 103–465 effective on the effe
 
   (C) a finding issued under the Antidumping Act, 1921, or
 
-  (D) a countervailing duty order issued under [section 1671e of this title](./chapter-004-tariff-act-of-1930.md#section-1671e) or section 1303 22 See References in Text note below. of this title,
+  (D) a countervailing duty order issued under [section 1671e of this title](./chapter-004-tariff-act-of-1930.md#section-1671e) or section 1303 1 of this title,
   shall include articles altered in form or appearance in minor respects (including raw agricultural products that have undergone minor processing), whether or not included in the same tariff classification.
 
 (2) **Exception** — Paragraph (1) shall not apply with respect to altered merchandise if the administering authority determines that it would be unnecessary to consider the altered merchandise within the scope of the investigation, order, or finding.
 
 **(d) Later-developed merchandise**
 
-(1) **In general** — For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 2 of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 2 of this title as a result of such investigation, the administering authority shall consider whether—
+(1) **In general** — For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 1 of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 1 of this title as a result of such investigation, the administering authority shall consider whether—
 
   (A) the later-developed merchandise has the same general physical characteristics as the merchandise with respect to which the order was originally issued (hereafter in this paragraph referred to as the “earlier product”),
 
@@ -16985,7 +17048,8 @@ In the case of an agricultural product processed from a raw agricultural product
 
 (1) the demand for the prior stage product is substantially dependent on the demand for the latter stage product, and
 
-(2) the processing operation adds only limited value to the raw commodity, countervailable subsidies found to be provided to either producers or processors of the product shall be deemed to be provided with respect to the manufacture, production, or exportation of the processed product.
+(2) the processing operation adds only limited value to the raw commodity,
+countervailable subsidies found to be provided to either producers or processors of the product shall be deemed to be provided with respect to the manufacture, production, or exportation of the processed product.
 
 ### Statutory Notes
 

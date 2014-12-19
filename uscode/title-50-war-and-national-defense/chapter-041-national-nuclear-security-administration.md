@@ -2,7 +2,7 @@
 title: 50
 chapter: '41'
 heading: NATIONAL NUCLEAR SECURITY ADMINISTRATION
-section_count: 36
+section_count: 37
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -24,18 +24,27 @@ source: >-
 
 (6) To support United States leadership in science and technology.
 
-**(c) Operations and activities to be carried out consistent with certain principles** In carrying out the mission of the Administration, the Administrator shall ensure that all operations and activities of the Administration are consistent with the principles of protecting the environment and safeguarding the safety and health of the public and of the workforce of the Administration.
+**(c) Operations and activities to be carried out consistently with certain principles** In carrying out the mission of the Administration, the Administrator shall ensure that all operations and activities of the Administration are consistent with the principles of—
+
+(1) protecting the environment;
+
+(2) safeguarding the safety and health of the public and of the workforce of the Administration; and
+
+(3) ensuring the security of the nuclear weapons, nuclear material, and classified information in the custody of the Administration.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out below and Tables.
 
+#### Amendments
+2013—Subsec. (c). Pub. L. 113–66 amended subsec. (c) generally. Prior to amendment, text read as follows: “In carrying out the mission of the Administration, the Administrator shall ensure that all operations and activities of the Administration are consistent with the principles of protecting the environment and safeguarding the safety and health of the public and of the workforce of the Administration.”
+
 #### Effective Date
-Pub. L. 106–65, div. C, title XXXII, § 3299, Oct. 5, 1999, 113 Stat. 971, provided that: “(a) In General.—Except as provided in subsection (b), the provisions of this title [see Short Title note below] shall take effect on March 1, 2000. “(b) Exceptions.—(1) Sections 3202, 3204, 3251, 3295, and 3297 [enacting sections 2451 and former 2483 of this title and sections 7144a to 7144c of Title 42, amending [section 7132 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7132&num=0&edition=prelim), and enacting provisions set out as a note below] shall take effect on the date of the enactment of this Act [Oct. 5, 1999]. “(2) Sections 3234 and 3235 [enacting sections 2424 and 2425 of this title] shall take effect on the date of the enactment of this Act. During the period beginning on the date of the enactment of this Act and ending on the effective date of this title, the Secretary of Energy shall carry out those sections and any reference in those sections to the Administrator and the Administration shall be treated as references to the Secretary and the Department of Energy, respectively.”
+Pub. L. 106–65, div. C, title XXXII, § 3299, Oct. 5, 1999, 113 Stat. 971, provided that: “(a) In General.—Except as provided in subsection (b), the provisions of this title [see Short Title note below] shall take effect on March 1, 2000. “(b) Exceptions.—(1) Sections 3202, 3204, 3251, 3295, and 3297 [enacting section 2451 and former [section 2483 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2483&num=0&edition=prelim) and sections 7144a to 7144c of Title 42, The Public Health and Welfare, amending [section 7132 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7132&num=0&edition=prelim), and enacting provisions set out as a note below] shall take effect on the date of the enactment of this Act [Oct. 5, 1999]. “(2) Sections 3234 and 3235 [enacting sections 2424 and 2425 of this title] shall take effect on the date of the enactment of this Act. During the period beginning on the date of the enactment of this Act and ending on the effective date of this title, the Secretary of Energy shall carry out those sections and any reference in those sections to the Administrator and the Administration shall be treated as references to the Secretary and the Department of Energy, respectively.”
 
 #### Short Title
-Pub. L. 106–65, div. C, title XXXII, § 3201, Oct. 5, 1999, 113 Stat. 953, provided that: “This title [enacting this chapter and sections 7144 to 7144c of Title 42, The Public Health and Welfare, amending sections 5314, 5315, 5595, and 8905a of Title 5, Government Organization and Employees, and sections 7132, 7133, and 7158 of Title 42, repealing sections 2122a, 7143, and 7271b of Title 42, enacting provisions set out as notes under this section, and amending provisions set out as a note under [section 435 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435&num=0&edition=prelim)] may be cited as the ‘National Nuclear Security Administration Act’.”
+Pub. L. 106–65, div. C, title XXXII, § 3201, Oct. 5, 1999, 113 Stat. 953, provided that: “This title [enacting this chapter and sections 7144 to 7144c of Title 42, The Public Health and Welfare, amending sections 5314, 5315, 5595, and 8905a of Title 5, Government Organization and Employees, and sections 7132, 7133, and 7158 of Title 42, repealing sections 2122a, 7143, and 7271b of Title 42, enacting provisions set out as notes under this section, and amending provisions set out as a note under [section 435 of this title](./chapter-015-national-security.md#section-435)] may be cited as the ‘National Nuclear Security Administration Act’.”
 
 #### Preparation of Infrastructure Plan for the Nuclear Weapons Complex
 Pub. L. 107–107, div. B, title XXX, § 3008, Dec. 28, 2001, 115 Stat. 1352, provided that: “(a) Infrastructure Plan for Nuclear Weapons Complex.—“(1) Preparation and submission.—Not later than the date on which the budget for the Department of Energy for fiscal year 2004 is submitted to Congress, the Secretary of Energy shall submit to Congress an infrastructure plan for the nuclear weapons complex adequate to support the nuclear weapons stockpile, the naval reactors program, and nonproliferation and national security activities. “(2) Special considerations.—In preparing the infrastructure plan, the Secretary shall take into consideration the following:“(A) The Department of Defense Nuclear Posture Review required pursuant to section 1041 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–262 [former [10 U.S.C. 118](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118&num=0&edition=prelim) note]). “(B) Any efficiencies and security benefits of consolidation of facilities of the nuclear weapons complex. “(C) The necessity to have a residual production capability. “(b) Recommendations Regarding Realignments and Closures.—On the basis of the infrastructure plan prepared under subsection (a), the Secretary shall make such recommendations regarding the need to close or realign facilities of the nuclear weapons complex as the Secretary considers appropriate, including the Secretary’s recommendations on whether to establish a process by which a round of closures and realignments would be carried out and any additional legislative authority necessary to implement the recommendations. The Secretary shall submit the recommendations as part of the infrastructure plan under subsection (a). “(c) Definitions.—In this section:“(1) The terms ‘Secretary’ and ‘Secretary of Energy’ mean the Secretary of Energy, acting after consideration of the recommendations of the Administrator for Nuclear Security. “(2) The term ‘nuclear weapons complex’ means the national security laboratories and nuclear weapons production facilities (as such terms are defined in section 3281 of the National Nuclear Security Administration Act ([50 U.S.C. 2471](./chapter-041-national-nuclear-security-administration.md#section-2471))) and the facilities of the Naval Nuclear Propulsion Program provided for under the Naval Nuclear Propulsion Executive Order (as such term is defined in section 3216 of such Act ([50 U.S.C. 2406](./chapter-041-national-nuclear-security-administration.md#section-2406))).”
@@ -101,7 +110,7 @@ Pub. L. 106–65, div. C, title XXXII, § 3298, Oct. 5, 1999, 113 Stat. 971, pro
 
 (19) Liaison with other elements of the Department of Energy and with other Federal agencies, State, tribal, and local governments, and the public.
 
-**(c) Procurement authority** The Administrator is the senior procurement executive for the Administration for the purposes of [section 414(3) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section414/3&num=0&edition=prelim).11 See References in Text note below.
+**(c) Procurement authority** The Administrator is the senior procurement executive for the Administration for the purposes of [section 1702(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim).
 
 **(d) Policy authority** The Administrator may establish Administration-specific policies, unless disapproved by the Secretary of Energy.
 
@@ -115,11 +124,10 @@ Pub. L. 106–65, div. C, title XXXII, § 3298, Oct. 5, 1999, 113 Stat. 971, pro
 
 ### Statutory Notes
 
-#### References in Text
-[Section 414 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section414&num=0&edition=prelim), referred to in subsec. (c), was amended generally by Pub. L. 108–136, div. A, title XIV, § 1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, the substance of par. (3) was restated in subsec. (c)(1) of section 414. [Section 414(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section414/c&num=0&edition=prelim) was subsequently repealed and restated as [section 1702(c) of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim), Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim).
-
 #### Amendments
 2013—Subsec. (a)(2). Pub. L. 112–239 made technical amendment to reference in original act which appears in text as reference to [section 7132 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7132&num=0&edition=prelim).
+
+Subsec. (c). Pub. L. 113–66 substituted “[section 1702(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim)” for “[section 414(3) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section414/3&num=0&edition=prelim)”.
 
 2008—Subsec. (b)(18), (19). Pub. L. 110–417 added par. (18) and redesignated former par. (18) as (19).
 
@@ -258,7 +266,11 @@ Notwithstanding the authority granted by [section 7253 of title 42](https://usco
 
 **(b) Status of contractor personnel** Each officer or employee of a contractor of the Administration shall not be responsible to, or subject to the authority, direction, or control of, any officer, employee, or agent of the Department of Energy who is not an employee of the Administration, except for the Secretary of Energy consistent with [section 7132(c)(3) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7132/c/3&num=0&edition=prelim).
 
-**(c) Construction of section** Subsections (a) and (b) of this section may not be interpreted to in any way preclude or interfere with the communication of technical findings derived from, and in accord with, duly authorized activities between (1) the head, or any contractor employee, of a national security laboratory or of a nuclear weapons production facility, and (2) the Department of Energy, the President, or Congress.
+**(c) Construction of section** Subsections (a) and (b) of this section may not be interpreted to in any way preclude or interfere with the communication of technical findings derived from, and in accord with, duly authorized activities between—
+
+(1) the head, or any contractor employee, of a national security laboratory or of a nuclear weapons production facility; and
+
+(2) the Department of Energy, the President, or Congress.
 
 **(d) Prohibition on dual office holding** Except in accordance with sections 2402(a)(2) and 2406(a)(1) of this title:
 
@@ -278,6 +290,10 @@ Notwithstanding the authority granted by [section 7253 of title 42](https://usco
 Section was formerly classified to [section 2403 of this title](./chapter-041-national-nuclear-security-administration.md#section-2403).
 
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–291 substituted “activities between—” for “activities between” before par. (1) designation and “; and” for “, and” at end of par. (1) and realigned margins of pars. (1) and (2).
+
+2013—Subsecs. (a)(1)(A), (b). Pub. L. 113–66 made technical amendment to reference in original act which appears in text as reference to [section 7132(c)(3) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7132/c/3&num=0&edition=prelim).
+
 2009—Subsec. (e). Pub. L. 111–84 amended Pub. L. 109–364, § 3117(a). See 2006 Amendment note below.
 
 2006—Subsec. (e). Pub. L. 109–364, § 3117(a), which, in par. (2), directed repeal of subsec. (e) effective Sept. 30, 2010, was amended generally by Pub. L. 111–84, and as so amended, no longer contains a par. (2) or amends this section.
@@ -289,6 +305,94 @@ Pub. L. 109–364, § 3117(d), added subsec. (e).
 Subsec. (b). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3157(2)], struck out “, in carrying out any function of the Administration,” after “contractor of the Administration”.
 
 Subsec. (d). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3157(3)], added subsec. (d).
+
+
+<a id="section-2411"></a>
+## § 2411. Director for Cost Estimating and Program Evaluation
+**(a) Establishment**
+
+(1) There is in the Administration a Director for Cost Estimating and Program Evaluation (in this section referred to as the “Director”).
+
+(2) The position of the Director shall be a Senior Executive Service position (as defined in [section 3132(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a&num=0&edition=prelim)).
+
+**(b) Duties**
+
+(1) The Director shall be the principal advisor to the Administrator, the Deputy Secretary of Energy, and the Secretary of Energy with respect to cost estimation and program evaluation for the Administration.
+
+(2) The Administrator may not delegate responsibility for receiving or acting on communications from the Director with respect to cost estimation and program evaluation for the Administration.
+
+**(c) Activities for cost estimation**
+
+(1) The Director shall be the responsible for the following activities relating to cost estimation:
+
+  (A) Advising the Administrator on policies and procedures for cost analysis and estimation by the Administration, including the determination of confidence levels with respect to cost estimates.
+
+  (B) Reviewing cost estimates and evaluating the performance baseline for each major atomic energy defense acquisition program.
+
+  (C) Advising the Administrator on policies and procedures for developing technology readiness assessments for major atomic energy defense acquisition programs that are consistent with the guidelines of the Department of Energy for technology readiness assessments.
+
+  (D) Reviewing technology readiness assessments for such programs to ensure that such programs are meeting levels of confidence associated with appropriate overall system performance.
+
+  (E) As directed by the Administrator, conducting independent cost estimates for such programs.
+
+(2) A review, evaluation, or cost estimate conducted under subparagraph (B), (D), or (E) of paragraph (1) shall be considered an inherently governmental function, but the Director may use data collected by a national security laboratory or a management and operating contractor of the Administration in conducting such a review, evaluation, or cost estimate.
+
+(3) The Director shall submit in writing to the Administrator the following:
+
+  (A) The certification of the Director with respect to each review, evaluation, and cost estimate conducted under subparagraph (B), (D), or (E) of paragraph (1).
+
+  (B) A statement of the confidence level of the Director with respect to each such review, evaluation, and cost estimate, including an identification of areas of uncertainty, risk, and opportunity discovered in conducting each such review, evaluation, and cost estimate.
+
+**(d) Activities for program evaluation**
+
+(1) The Director shall be responsible for the following activities relating to program evaluation:
+
+  (A) Reviewing and commenting on policies and procedures for setting requirements for the future-years nuclear security program under [section 2453 of this title](./chapter-041-national-nuclear-security-administration.md#section-2453) and for prioritizing and estimating the funding required by the Administration for that program.
+
+  (B) Reviewing the future-years nuclear security program on an annual basis to ensure that the program is accurate and thorough.
+
+  (C) Advising the Administrator on policies and procedures for analyses of alternatives for major atomic energy defense acquisition programs.
+
+  (D) As part of the planning, programming, and budgeting process of the Administration under sections 2451 and 2452 of this title, analyzing the planning phase of that process, advising on programmatic and fiscal year guidance, and managing the program review phase of that process.
+
+  (E) Developing and managing the submittal of the Selected Acquisition Reports and independent cost estimates on nuclear weapons systems undergoing major life extension under [section 2537 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2537).
+
+  (F) Reviewing cost and schedule baselines for projects under [section 2753 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2753) and managing notifications to the congressional defense committees of cost overruns under that section.
+
+(2) A review conducted under paragraph (1)(B) shall be considered an inherently governmental function, but the Director may use data collected by a national security laboratory or a management and operating contractor of the Administration in conducting such a review.
+
+(3) The Director shall submit to Congress a report on any major programmatic deviations from the future-years nuclear security program discovered in conducting a review under paragraph (1)(B) at or about the time the budget of the President is submitted to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) for the next fiscal year.
+
+**(e) Data collection and accessibility** The Administrator, acting through the Director, shall, as appropriate, seek to use procedures, processes, and policies for collecting cost data and making that data accessible that are similar to the procedures, processes, and policies used by the Defense Cost Analysis Resource Center of the Office of Cost Assessment and Program Evaluation of the Department of Defense for those purposes.
+
+**(f) Staff** The Administrator shall ensure that the Director has sufficient numbers of personnel who have competence in technical matters, budgetary matters, cost estimation, technology readiness analysis, and other appropriate matters to carry out the functions required by this section.
+
+**(g) Reports by Director** The Director shall submit to Congress at or about the time that the budget of the President is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) for each of fiscal years 2015 through 2018, a report that includes the following:
+
+(1) A description of activities conducted by the Director during the calendar year preceding the submission of the report that are related to the duties and activities described in this section.
+
+(2) A list of all major atomic energy defense acquisition programs and a concise description of the status of each such program and project in meeting cost and critical schedule milestones.
+
+**(h) Definitions** In this section:
+
+(1) **Administration** — The term “Administration”, with respect to any authority, duty, or responsibility provided by this section, does not include the Office of Naval Reactors.
+
+(2) **Major atomic energy defense acquisition program**
+
+  (A) *In general* — Except as provided in subparagraph (B), the term “major atomic energy defense acquisition program” means an atomic energy defense acquisition program of the Administration—
+
+    (i) the total project cost of which is more than $500,000,000; or
+
+    (ii) the total lifetime cost of which is more than $1,000,000,000.
+
+  (B) *Exclusion of capital assets acquisition projects* — The term “major atomic energy defense acquisition program” does not include a project covered by Department of Energy Order 413.3 (or a successor order) for the acquisition of capital assets for atomic energy defense activities.
+
+(3) **Performance baseline** — The term “performance baseline”, with respect to a major atomic energy defense acquisition program, means the key parameters with respect to performance, scope, cost, and schedule for the project budget of the program.
+
+### Statutory Notes
+
+#### Amendments
+Subsec. (h)(1) to (3). Pub. L. 113–291, § 3117, added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 
 <a id="section-2421"></a>
@@ -354,14 +458,17 @@ The Administrator shall establish appropriate procedures to ensure that any indi
 ## § 2425. Government access to information on Administration computers
 **(a) Procedures required** The Administrator shall establish procedures to govern access to information on Administration computers. Those procedures shall, at a minimum, provide that any individual who has access to information on an Administration computer shall be required as a condition of such access to provide to the Administrator written consent which permits access by an authorized investigative agency to any Administration computer used in the performance of the duties of such employee during the period of that individual’s access to information on an Administration computer and for a period of three years thereafter.
 
-**(b) Expectation of privacy in Administration computers** Notwithstanding any other provision of law (including any provision of law enacted by the Electronic Communications Privacy Act of 1986), no user of an Administration computer shall have any expectation of privacy in the use of that computer.
+**(b) Expectation of privacy in Administration computers** Notwithstanding any other provision of law (including any provision of law enacted by the Electronic Communications Privacy Act of 1986 (Public Law 99–508; 100 Stat. 1848)), no user of an Administration computer shall have any expectation of privacy in the use of that computer.
 
 **(c) Definition** For purposes of this section, the term “authorized investigative agency” means an agency authorized by law or regulation to conduct a counterintelligence investigation or investigations of persons who are proposed for access to classified information to ascertain whether such persons satisfy the criteria for obtaining and retaining access to such information.
 
 ### Statutory Notes
 
 #### References in Text
-The Electronic Communications Privacy Act of 1986, referred to in subsec. (b), is Pub. L. 99–508, Oct. 21, 1986, 100 Stat. 1848, as amended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 2510 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
+The Electronic Communications Privacy Act of 1986, referred to in subsec. (b), is Pub. L. 99–508, Oct. 21, 1986, 100 Stat. 1848. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 2510 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
+
+#### Amendments
+2013—Subsec. (b). Pub. L. 113–66 inserted “(Public Law 99–508; 100 Stat. 1848)” after “of 1986”.
 
 
 <a id="section-2426"></a>
@@ -382,7 +489,13 @@ The Electronic Communications Privacy Act of 1986, referred to in subsec. (b), i
 
     (iii) The actual cost of the program for each fiscal year during which the program has been conducted before the fiscal year during which that budget is submitted.
 
-    (iv) The estimated total cost of the program and the estimated cost of the program for (I) the current fiscal year, (II) the fiscal year for which the budget is submitted, and (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
+    (iv) The estimated total cost of the program and the estimated cost of the program for—
+
+      (I) the current fiscal year;
+
+      (II) the fiscal year for which the budget is submitted; and
+
+      (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
 
 **(b) Annual report on new special access programs**
 
@@ -427,11 +540,14 @@ The Electronic Communications Privacy Act of 1986, referred to in subsec. (b), i
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 2122a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2122a&num=0&edition=prelim), The Public Health and Welfare, prior to repeal by Pub. L. 106–65, § 3294(e)(1)(A).
 
+#### Amendments
+2014—Subsec. (a)(2)(B)(iv). Pub. L. 113–291 substituted “program for—” for “program for” before subcl. (I) designation, “year;” for “year,” at end of subcl. (I), and “; and” for “, and” at end of subcl. (II) and realigned margins of subcls. (I) to (III).
+
 
 <a id="section-2441"></a>
 ## § 2441. Authority to establish certain contracting, program management, scientific, engineering, and technical positions
 
-The Administrator may, for the purposes of carrying out the responsibilities of the Administrator under this chapter, establish not more than 600 contracting, program management, scientific, engineering, and technical positions in the Administration, appoint individuals to such positions, and fix the compensation of such individuals. Subject to the limitations in the preceding sentence, the authority of the Administrator to make appointments and fix compensation with respect to positions in the Administration under this section shall be equivalent to, and subject to the limitations of, the authority under [section 2201(d) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/d&num=0&edition=prelim) to make appointments and fix compensation with respect to officers and employees described in such section. To ensure that the excepted positions established under this section are used, the Administrator, to the extent practicable, shall appoint an individual to such an excepted position to replace the vacancy of a nonexcepted position.
+The Administrator may, for the purposes of carrying out the responsibilities of the Administrator under this chapter, establish not more than 600 contracting, program management, scientific, engineering, and technical positions in the Administration, appoint individuals to such positions, and fix the compensation of such individuals. Subject to the limitations in the preceding sentence, the authority of the Administrator to make appointments and fix compensation with respect to positions in the Administration under this section shall be equivalent to, and subject to the limitations of, the authority under [section 2201(d) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/d&num=0&edition=prelim) to make appointments and fix compensation with respect to officers and employees described in such section. To ensure that the positions established under this section are used, the Administrator, to the extent practicable, shall appoint an individual to such a position to replace the vacancy of a position not established under this section.
 
 ### Statutory Notes
 
@@ -439,16 +555,18 @@ The Administrator may, for the purposes of carrying out the responsibilities of 
 This chapter, referred to in text, was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401) and Tables.
 
 #### Amendments
-2013—Pub. L. 112–239, in section catchline, inserted “contracting, program management,” before “scientific” and, in text, substituted “600 contracting, program management, scientific” for “300 scientific” and inserted at end “To ensure that the excepted positions established under this section are used, the Administrator, to the extent practicable, shall appoint an individual to such an excepted position to replace the vacancy of a nonexcepted position.”
+2013—Pub. L. 113–66, in last sentence, substituted “positions established” for “excepted positions established”, “a position” for “an excepted position”, and “position not established under this section” for “nonexcepted position”.
+
+Pub. L. 112–239, in section catchline, inserted “contracting, program management,” before “scientific” and, in text, substituted “600 contracting, program management, scientific” for “300 scientific” and inserted at end “To ensure that the excepted positions established under this section are used, the Administrator, to the extent practicable, shall appoint an individual to such an excepted position to replace the vacancy of a nonexcepted position.”
 
 
 <a id="section-2441a"></a>
 ## § 2441a. Authorized personnel levels of the Office of the Administrator
 **(a) Full-time equivalent personnel levels**
 
-(1) **Total number** — By October 1, 2014, the total number of employees of the Office of the Administrator may not exceed 1,825.
+(1) **Total number** — By October 1, 2015, the total number of employees of the Office of the Administrator may not exceed 1,690.
 
-(2) **Excess** — For fiscal year 2015 and each fiscal year thereafter, the Administrator may not exceed the total number of employees authorized under paragraph (1) unless, during each fiscal year in which such total number exceeds 1,825, the Administrator submits to the congressional defense committees a report justifying such excess.
+(2) **Excess** — For fiscal year 2016 and each fiscal year thereafter, the Administrator may not exceed the total number of employees authorized under paragraph (1) unless, during each fiscal year in which such total number exceeds 1,690, the Administrator submits to the congressional defense committees a report justifying such excess.
 
 **(b) Counting rule**
 
@@ -469,6 +587,17 @@ This chapter, referred to in text, was in the original “this title”, meaning
 **(c) Voluntary early retirement** In accordance with [section 3523 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3523&num=0&edition=prelim), the Administrator may offer voluntary separation or retirement incentives to meet the total number of employees authorized under subsection (a).
 
 **(d) Use of IPA** The Administrator shall ensure that the expertise of the national security laboratories and the nuclear weapons production facilities is made available to the Administration, the Department of Energy, the Department of Defense, other Federal agencies, and Congress through the temporary assignment of personnel from such laboratories and facilities pursuant to the Intergovernmental Personnel Act Mobility Program and other similar programs.
+
+**(e) Office of the Administrator employees** In this section, the term “Office of the Administrator”, with respect to the employees of the Administration, includes employees whose funding is derived from an account of the Administration titled “Federal Salaries and Expenses”.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–291, § 3116(a)(1), substituted “2015” for “2014” and “1,690” for “1,825”.
+
+Subsec. (a)(2). Pub. L. 113–291, § 3116(a)(2), substituted “2016” for “2015” and “1,690” for “1,825”.
+
+Subsec. (e). Pub. L. 113–291, § 3116(b), added subsec. (e).
 
 
 <a id="section-2442"></a>
@@ -568,7 +697,7 @@ Congressional defense committees has the meaning given that term in [section 101
 
 <a id="section-2451"></a>
 ## § 2451. Separate treatment in budget
-**(a) President’s budget** In each budget submitted by the President to the Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), amounts requested for the Administration shall be set forth separately within the other amounts requested for the Department of Energy.
+**(a) President’s budget** In each budget submitted by the President to Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), amounts requested for the Administration shall be set forth separately within the other amounts requested for the Department of Energy.
 
 **(b) Budget justification materials**
 
@@ -579,7 +708,9 @@ Congressional defense committees has the meaning given that term in [section 101
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (b). Pub. L. 112–239 designated existing provisions as par. (1) and added par. (2).
+2013—Subsec. (a). Pub. L. 113–66 substituted “Congress” for “the Congress”.
+
+Subsec. (b). Pub. L. 112–239 designated existing provisions as par. (1) and added par. (2).
 
 #### Ten-Year Plan for Use and Funding of Certain Department of Energy Facilities
 Pub. L. 111–84, div. C, title XXXI, § 3141, Oct. 28, 2009, 123 Stat. 2715, provided that: “(a) In General.—The Administrator for Nuclear Security and the Under Secretary for Science of the Department of Energy shall jointly develop a plan to use and fund, over a ten-year period, the following facilities of the Department of Energy:“(1) The National Ignition Facility at the Lawrence Livermore National Laboratory, California. “(2) The Los Alamos Neutron Science Center at the Los Alamos National Laboratory, New Mexico. “(3) The Z Machine at the Sandia National Laboratories, New Mexico. “(4) The Microsystems and Engineering Sciences Application Facility at the Sandia National Laboratories, New Mexico. “(b) Submittal of Plan.—Not later than 45 days after the date of the enactment of this Act [Oct. 28, 2009], the Administrator for Nuclear Security and the Under Secretary for Science of the Department of Energy shall submit to the appropriate congressional committees the plan required by subsection (a). “(c) Requirement to Specify Source of Facility Funding in Budget Requests.—In any budget request for the Department of Energy for a fiscal year that is submitted to Congress after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Energy shall identify for that fiscal year the portion of the funding for each facility specified in subsection (a) that is to be provided by the National Nuclear Security Administration and by the Office of Science of the Department of Energy. “(d) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Science and Technology [now Committee on Science, Space, and Technology] of the House of Representatives; and “(2) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate.”
@@ -624,7 +755,7 @@ Pub. L. 106–398, § 1 [div. C, title XXXI, § 3158(b), (c)], Oct. 30, 2000, 11
 
 **(b) Elements** Each future-years nuclear security program shall contain the following:
 
-(1) A detailed description of the program elements (and the projects, activities, and construction projects associated with each such program element) during the applicable five-fiscal year period for at least each of the following:
+(1) A detailed description of the program elements (and the projects, activities, and construction projects associated with each such program element) during the applicable five-fiscal-year period for at least each of the following:
 
   (A) For defense programs—
 
@@ -648,19 +779,17 @@ Pub. L. 106–398, § 1 [div. C, title XXXI, § 3158(b), (c)], Oct. 30, 2000, 11
 
 (2) A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support each program element specified pursuant to paragraph (1).
 
-(3) A detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal year period will help ensure that the nuclear weapons stockpile is safe and reliable, as determined in accordance with the criteria established under [section 2522(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2522/a&num=0&edition=prelim).
+(3) A detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help ensure that the nuclear weapons stockpile is safe and reliable, as determined in accordance with the criteria established under [section 2522(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2522/a&num=0&edition=prelim).
 
-(4) A description of the anticipated workload requirements for each Administration site during that five-fiscal year period.
+(4) A description of the anticipated workload requirements for each Administration site during that five-fiscal-year period.
 
-(5) A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support the programs required to implement the plan to transform the nuclear security enterprise under [section 2534 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2534), together with a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help ensure that those programs are implemented. The statement shall assume year-to-year funding profiles that account for increases only for projected inflation.
-
-(6) A plan, developed in consultation with the Director of the Office of Health, Safety, and Security of the Department of Energy, for the research and development, deployment, and lifecycle sustainment of the technologies employed within the nuclear security enterprise to address physical and cyber security threats during the applicable five-fiscal year period, together with—
+(5) A plan, developed in consultation with the Director of the Office of Health, Safety, and Security of the Department of Energy, for the research and development, deployment, and lifecycle sustainment of the technologies employed within the nuclear security enterprise to address physical and cyber security threats during the applicable five-fiscal-year period, together with—
 
   (A) for each site in the nuclear security enterprise, a description of the technologies deployed to address the physical and cyber security threats posed to that site;
 
-  (B) for each site and for the nuclear security enterprise, the methods used by the National Nuclear Security Administration to establish priorities among investments in physical and cyber security technologies; and
+  (B) for each site and for the nuclear security enterprise, the methods used by the Administration to establish priorities among investments in physical and cyber security technologies; and
 
-  (C) a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal year period will help carry out that plan.
+  (C) a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help carry out that plan.
 
 **(c) Consistency in budgeting**
 
@@ -677,9 +806,13 @@ Pub. L. 106–398, § 1 [div. C, title XXXI, § 3158(b), (c)], Oct. 30, 2000, 11
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (b)(3). Pub. L. 112–239, § 3132(d)(2), substituted “[section 2522(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2522/a&num=0&edition=prelim)” for “section 3158 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([42 U.S.C. 2121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2121&num=0&edition=prelim) note)”.
+2013—Subsec. (b). Pub. L. 113–66, § 3145(f)(1), substituted “five-fiscal-year” for “five-fiscal year” wherever appearing.
 
-Subsec. (b)(5), (6). Pub. L. 112–239, § 3132(a)(1), substituted “nuclear security enterprise” for “nuclear weapons complex” wherever appearing.
+Subsec. (b)(3). Pub. L. 112–239, § 3132(d)(2), substituted “[section 2522(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2522/a&num=0&edition=prelim)” for “section 3158 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([42 U.S.C. 2121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2121&num=0&edition=prelim) note)”.
+
+Subsec. (b)(5), (6). Pub. L. 113–66, § 3145(f)(2), (3), redesignated par. (6) as (5), struck out “National Nuclear Security” before “Administration” in subpar. (B), and struck out former par. (5) which read as follows: “A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support the programs required to implement the plan to transform the nuclear security enterprise under [section 2534 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2534), together with a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help ensure that those programs are implemented. The statement shall assume year-to-year funding profiles that account for increases only for projected inflation.”
+
+Pub. L. 112–239, § 3132(a)(1), substituted “nuclear security enterprise” for “nuclear weapons complex” wherever appearing.
 
 2008—Subsec. (b)(6). Pub. L. 110–181 added par. (6).
 
@@ -802,12 +935,12 @@ This chapter, referred to in subsec. (c), was in the original “this title”, 
 <a id="section-2462"></a>
 ## § 2462. Compliance with Federal Acquisition Regulation
 
-The Administrator shall establish procedures to ensure that the mission and programs of the Administration are executed in full compliance with all applicable provisions of the Federal Acquisition Regulation issued pursuant to division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41.
+The Administrator shall establish procedures to ensure that the mission and programs of the Administration are executed in full compliance with all applicable provisions of the Federal Acquisition Regulation issued pursuant to [section 1303(a)(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim).
 
 ### Statutory Notes
 
-#### Codification
-In text, “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement Policy Act ([41 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section401&num=0&edition=prelim) et seq.)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+#### Amendments
+2013—Pub. L. 113–66 substituted “[section 1303(a)(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim)” for “the Office of Federal Procurement Policy Act ([41 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section401&num=0&edition=prelim) et seq.)”, which had been translated as “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” based on the enactment of Title 41, Public Contracts, by Pub. L. 111–350.
 
 
 <a id="section-2463"></a>
@@ -819,7 +952,12 @@ The Administrator shall, in cooperation with the Secretary of Defense, establish
 <a id="section-2464"></a>
 ## § 2464. Use of capabilities of national security laboratories by entities outside the Administration
 
-The Secretary, in consultation with the Administrator, shall establish appropriate procedures to provide for the use, in a manner consistent with the national security mission of the Administration under [section 2401(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2401/b&num=0&edition=prelim), of the capabilities of the national security laboratories by elements of the Department of Energy not within the Administration, other Federal agencies, and other appropriate entities, including the use of those capabilities to support efforts to defend against weapons of mass destruction.
+The Secretary of Energy, in consultation with the Administrator, shall establish appropriate procedures to provide for the use, in a manner consistent with the national security mission of the Administration under [section 2401(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2401/b&num=0&edition=prelim), of the capabilities of the national security laboratories by elements of the Department of Energy not within the Administration, other Federal agencies, and other appropriate entities, including the use of those capabilities to support efforts to defend against weapons of mass destruction.
+
+### Statutory Notes
+
+#### Amendments
+2013—Pub. L. 113–66 inserted “of Energy” after “Secretary”.
 
 
 <a id="section-2465"></a>
@@ -859,9 +997,9 @@ For purposes of this chapter:
 
   (E) The Nevada National Security Site, Nevada.
 
-  (F) Any facility of the Department of Energy that the Secretary of Energy, in consultation with the Administrator and the Congress, determines to be consistent with the mission of the Administration.
+  (F) Any facility of the Department of Energy that the Secretary of Energy, in consultation with the Administrator and Congress, determines to be consistent with the mission of the Administration.
 
-(3) The term “classified information” means any information that has been determined pursuant to Executive Order No. 12333 of December 4, 1981 ([former] [50 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401&num=0&edition=prelim) note) [now [50 U.S.C. 3001](./chapter-044-national-security.md#section-3001) note], Executive Order No. 12958 of April 17, 1995 ([former] [50 U.S.C. 435](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435&num=0&edition=prelim) note) [now [50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note], or successor orders, to require protection against unauthorized disclosure and that is so designated.
+(3) The term “classified information” means any information that has been determined pursuant to Executive Order No. 12333 of December 4, 1981 ([former] [50 U.S.C. 401](./chapter-015-national-security.md#section-401) note) [now [50 U.S.C. 3001](./chapter-044-national-security.md#section-3001) note], Executive Order No. 12958 of April 17, 1995 ([former] [50 U.S.C. 435](./chapter-015-national-security.md#section-435) note), or successor orders, to require protection against unauthorized disclosure and that is so designated.
 
 (4) The term “Restricted Data” has the meaning given such term in [section 2014(y) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/y&num=0&edition=prelim).
 
@@ -878,12 +1016,16 @@ For purposes of this chapter:
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401) and Tables.
 
+Executive Order No. 12958, referred to in par. (3), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
+
 #### Amendments
 2013—Par. (2)(C). Pub. L. 112–239, § 3132(d)(3)(A), substituted “Y–12 National Security Complex” for “Y–12 Plant”.
 
 Par. (2)(D). Pub. L. 112–239, § 3132(d)(3)(B), struck out “tritium operations facilities at the” before “Savannah River Site”.
 
 Par. (2)(E). Pub. L. 112–239, § 3132(d)(4), substituted “Nevada National Security Site” for “Nevada Test Site”.
+
+Par. (2)(F). Pub. L. 113–66 substituted “Congress” for “the Congress”.
 
 Par. (6). Pub. L. 112–239, § 3132(a)(3), added par. (6).
 
@@ -929,7 +1071,11 @@ Par. (6). Pub. L. 112–239, § 3132(a)(3), added par. (6).
 #### Amendments
 2013—Subsec. (c). Pub. L. 112–239, § 3132(b)(1)(A), substituted “of the Administration” for “specified in subsection (a)”.
 
-Subsecs. (d), (e). Pub. L. 112–239, § 3132(b)(1)(B), added subsecs. (d) and (e).
+Subsec. (d). Pub. L. 112–239, § 3132(b)(1)(B), added subsec. (d).
+
+Subsec. (d)(1). Pub. L. 113–66 realigned margins of concluding provisions.
+
+Subsec. (e). Pub. L. 112–239, § 3132(b)(1)(B), added subsec. (e).
 
 #### Construction
 Pub. L. 112–239, div. C, title XXXI, § 3132(b)(3), Jan. 2, 2013, 126 Stat. 2186, provided that: “Nothing in section 3291 of the National Nuclear Security Administration Act ([50 U.S.C. 2481](./chapter-041-national-nuclear-security-administration.md#section-2481)), as amended by paragraph (1), may be construed to affect any function or activity transferred by the Secretary of Energy to the Administrator for Nuclear Security before the date of the enactment of this Act [Jan. 2, 2013].”

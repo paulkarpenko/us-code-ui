@@ -28,6 +28,9 @@ Thereafter, Hamilton uses the phrases “money unit of the United States” and 
 
 Thus, the phrase “money of account” did not mean, by itself, that dollars or fractions of dollars must be equal to something having intrinsic or “substantive” value. This concept is supported by earlier writings of Thomas Jefferson in his “Notes on the Establishment of a Money Unit, and of a Coinage for the United States” (1784), and the 1782 report to the President of the Continental Congress on the coinage of the United States by the Superintendent of Finances, Robert Morris, which was apparently prepared by the Assistant Superintendent, Gouverneur Morris. See Paul L. Ford, The Writings of Thomas Jefferson, vol. III (G.P. Putnam’s Sons, 1894) pp. 446–457; William G. Sumner, The Financier and the Finances of the American Revolution, vol. II (Burt Franklin, 1891, reprinted 1970) pp. 36–47; and George T. Curtis, History of the Constitution, vol. I (Harper and Brothers, 1859) p. 443, n2. The words “or units” and “and all accounts in the public offices and all proceedings in the courts shall be kept and had in conformity to this regulation” are omitted as surplus.
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–118, § 1, June 9, 2014, 128 Stat. 1183, provided that: “This Act [amending provisions listed in a table of Commemorative Medals set out under [section 5111 of this title](./chapter-051-coins-and-currency.md#section-5111)] may be cited as the ‘Gold Medal Technical Corrections Act of 2014’.”
+
 #### Short Title of 2010 Amendment
 Pub. L. 111–303, § 1, Dec. 14, 2010, 124 Stat. 3275, provided that: “This Act [amending [section 5112 of this title](./chapter-051-coins-and-currency.md#section-5112)] may be cited as the ‘American Eagle Palladium Bullion Coin Act of 2010’.”
 
@@ -203,6 +206,20 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 Provisions authorizing commemorative medals were contained in the following acts:
 
+Pub. L. 113–210, Dec. 16, 2014, 128 Stat. 2077, recognizing Jack Nicklaus.
+
+Pub. L. 113–120, June 10, 2014, 128 Stat. 1187, recognizing the 65th Infantry Regiment of the United States Army, known as the “Borinqueneers”.
+
+Pub. L. 113–116, June 9, 2014, 128 Stat. 1179, recognizing the Monuments Men.
+
+Pub. L. 113–114, June 9, 2014, 128 Stat. 1175, recognizing Shimon Peres.
+
+Pub. L. 113–108, May 30, 2014, 128 Stat. 1164, recognizing World War II members of the Civil Air Patrol.
+
+Pub. L. 113–106, May 23, 2014, 128 Stat. 1160, recognizing the World War II members of the 17th Bombardment Group (Medium) who became known as the “Doolittle Tokyo Raiders”.
+
+Pub. L. 113–105, May 23, 2014, 128 Stat. 1157, recognizing the American Fighter Aces.
+
 Pub. L. 113–16, July 12, 2013, 127 Stat. 477, recognizing the First Special Service Force.
 
 Pub. L. 113–11, May 24, 2013, 127 Stat. 446, recognizing Addie Mae Collins, Denise McNair, Carole Robertson, and Cynthia Wesley.
@@ -211,7 +228,7 @@ Pub. L. 112–148, July 26, 2012, 126 Stat. 1140, recognizing Raoul Wallenberg.
 
 Pub. L. 112–76, Dec. 23, 2011, 125 Stat. 1275, recognizing the fallen heroes who perished as a result of the terrorist attacks on the United States on Sept. 11, 2001.
 
-Pub. L. 112–59, Nov. 23, 2011, 125 Stat. 749, recognizing the Montford Point Marines.
+Pub. L. 112–59, Nov. 23, 2011, 125 Stat. 749; Pub. L. 113–118, § 3, June 9, 2014, 128 Stat. 1183, recognizing the Montford Point Marines.
 
 Pub. L. 111–254, Oct. 5, 2010, 124 Stat. 2637, recognizing the 100th Infantry Battalion, the 442nd Regimental Combat Team, and the Military Intelligence Service, United States Army, for service during World War II.
 
@@ -243,9 +260,9 @@ Pub. L. 109–287, Sept. 27, 2006, 120 Stat. 1231, recognizing the Fourteenth Da
 
 Pub. L. 109–213, Apr. 11, 2006, 120 Stat. 322, recognizing the Tuskegee Airmen.
 
-Pub. L. 108–447, div. B, title I, § 124, Dec. 8, 2004, 118 Stat. 2871, as amended by Pub. L. 109–13, div. A, title VI, § 6060, May 11, 2005, 119 Stat. 297, recognizing members of public safety agencies killed in the terrorist attacks in the United States on Sept. 11, 2001.
+Pub. L. 108–447, div. B, title I, § 124, Dec. 8, 2004, 118 Stat. 2871; Pub. L. 109–13, div. A, title VI, § 6060, May 11, 2005, 119 Stat. 297, recognizing members of public safety agencies killed in the terrorist attacks in the United States on Sept. 11, 2001.
 
-Pub. L. 108–368, Oct. 25, 2004, 118 Stat. 1746, recognizing Reverend Doctor Martin Luther King, Jr., and his widow Coretta Scott King.
+Pub. L. 108–368, Oct. 25, 2004, 118 Stat. 1746; Pub. L. 113–118, § 2, June 9, 2014, 128 Stat. 1183, recognizing Reverend Doctor Martin Luther King, Jr., and his widow Coretta Scott King.
 
 Pub. L. 108–180, Dec. 15, 2003, 117 Stat. 2645, recognizing Reverend Joseph A. DeLaine, Harry and Eliza Briggs, and Levi Pearson.
 
@@ -1244,13 +1261,17 @@ Pub. L. 99–185, § 2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: “The S
 #### Commemorative Coins
 Provisions authorizing commemorative coins were contained in the following acts:
 
+Pub. L. 113–291, div. B, title XXX, § 3055, Dec. 19, 2014, 128 Stat. 3808.—National Park Service 100th anniversary.
+
+Pub. L. 113–212, Dec. 16, 2014, 128 Stat. 2082.—World War I American Veterans Centennial.
+
 Pub. L. 112–209, Dec. 18, 2012, 126 Stat. 1510.—March of Dimes.
 
 Pub. L. 112–201, Dec. 4, 2012, 126 Stat. 1479.—Mark Twain.
 
 Pub. L. 112–181, Oct. 5, 2012, 126 Stat. 1416.—Lions Clubs International century of service.
 
-Pub. L. 112–152, Aug. 3, 2012, 126 Stat. 1155; Pub. L. 113–10, May 17, 2013, 127 Stat. 445.—National Baseball Hall of Fame.
+Pub. L. 112–152, Aug. 3, 2012, 126 Stat. 1155; Pub. L. 113–10, § 1, May 17, 2013, 127 Stat. 445.—National Baseball Hall of Fame.
 
 Pub. L. 112–104, Apr. 2, 2012, 126 Stat. 286.—United States Marshals Service 225th anniversary.
 
@@ -1637,7 +1658,7 @@ In subsection (c)(3), the words “may be expended” are substituted for “an 
 In subsection (d)(1), the words “including every obligation of and to the United States” are omitted as surplus. The text of 31:463(b)(words after semicolon) is omitted as unnecessary because of the restatement.
 
 #### Constitutionality
-For information regarding constitutionality of section 1 of act June 5, 1933, cited as a source for provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of section 1 of act June 5, 1933, cited in the Historical and Revision Notes as a source for provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 1997—Subsec. (d)(2). Pub. L. 105–61 struck out at end “This paragraph shall apply to any obligation issued on or before October 27, 1977, notwithstanding any assignment or novation of such obligation after October 27, 1977, unless all parties to the assignment or novation specifically agree to include a gold clause in the new agreement. Nothing in the preceding sentence shall be construed to affect the enforceability of a Gold Clause contained in any obligation issued after October 27, 1977 if the enforceability of that Gold Clause has been finally adjudicated before the date of enactment of the Economic Growth and Regulatory Paperwork Reduction Act of 1996.”

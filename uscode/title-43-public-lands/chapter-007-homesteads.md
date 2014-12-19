@@ -23,7 +23,7 @@ Section 164, R.S. § 2291; June 6, 1912, ch. 153, 37 Stat. 123, related to issua
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-165"></a>
@@ -32,7 +32,7 @@ Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, p
 ### Statutory Notes
 
 #### Codification
-Section, act Mar. 3, 1891, ch. 561, § 7, 26 Stat. 1098, which related to suspension of entries for correction of clerical errors, was transferred to [section 1165 of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1165).
+Section, act Mar. 3, 1891, ch. 561, § 7, 26 Stat. 1098, which related to suspension of entries for correction of clerical errors, was transferred to [section 1165 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1165&num=0&edition=prelim).
 
 
 <a id="section-166-to-175"></a>
@@ -64,7 +64,7 @@ Section 175, R.S. § 2296; Apr. 28, 1922, ch. 155, 42 Stat. 502, related to exem
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-176"></a>
@@ -78,7 +78,7 @@ Section, act Mar. 2, 1895, ch. 174, §§ 1–3, 28 Stat. 744, provided for appoi
 Pub. L. 94–579, title VII, § 705(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 705(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-177"></a>
@@ -106,7 +106,7 @@ Section 180, act Jan. 26, 1901, ch. 180, 31 Stat. 740, related to extension of r
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-181"></a>
@@ -152,7 +152,7 @@ Section 191, R.S. §§ 2310, 2311, related to entry, etc., rights, of Stockbridg
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-201-to-208"></a>
@@ -180,7 +180,7 @@ Section 208, act June 3, 1924, ch. 240, 43 Stat. 357, authorized acquisition of 
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-209"></a>
@@ -239,7 +239,7 @@ Section 224, acts Apr. 28, 1904, ch. 1801, §§ 1–3, 33 Stat. 547, 548; Mar. 2
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-231-to-240"></a>
@@ -287,7 +287,7 @@ Section 240, acts June 16, 1898, ch. 458, 30 Stat. 473; Aug. 29, 1916, ch. 420, 
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-241-242"></a>
@@ -313,7 +313,7 @@ Section 243a, act Mar. 3, 1933, ch. 198, 47 Stat. 1424, related to extension of 
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-251-to-256b"></a>
@@ -341,7 +341,7 @@ Section 256b, act Aug. 27, 1935, ch. 770, 49 Stat. 909, related to final proof b
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-261"></a>
@@ -355,7 +355,7 @@ Section, acts Sept. 30, 1890, No. 59, 26 Stat. 684; Oct. 28, 1921, ch. 114, § 1
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-262"></a>
@@ -377,7 +377,7 @@ Section, acts June 16, 1880, ch. 244, §§ 1–4, 21 Stat. 287; Apr. 18, 1904, N
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-270"></a>
@@ -391,7 +391,7 @@ Section, acts May 14, 1898, ch. 299, § 1, 30 Stat. 409; Mar. 3, 1903, ch. 1002,
 Pub. L. 94–579, title VII, § 703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-270-1-to-270-3"></a>
@@ -417,7 +417,7 @@ Section, acts Mar. 8, 1922, ch. 96, § 1, 42 Stat. 415; Aug. 23, 1958, Pub. L. 8
 Pub. L. 94–579, title VII, § 703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-270-12"></a>
@@ -442,7 +442,7 @@ Section was formerly classified to [section 377 of Title 48](https://uscode.hous
 Pub. L. 94–579, title VII, § 703(c), Oct. 21, 1976, 90 Stat. 2791, provided that the amendment made by section 703(c) is effective on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976.
 
 #### Savings Provision
-Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-270-13-to-270-17"></a>
@@ -464,7 +464,7 @@ Section 270–17, act Apr. 13, 1926, ch. 121, § 3, 44 Stat. 244, related to dis
 Pub. L. 94–579, title VII, § 703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-270-4"></a>
@@ -478,7 +478,7 @@ Section, acts May 14, 1898, ch. 299, § 10, 30 Stat. 413; Oct. 28, 1921, ch. 114
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-270-5-to-270-10"></a>
@@ -502,7 +502,7 @@ Section 270–10, act July 8, 1916, ch. 228, § 2, as added June 28, 1918, ch. 1
 Pub. L. 94–579, title VII, § 703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-271-to-284"></a>
@@ -544,7 +544,7 @@ Section 284, act Sept. 27, 1944, ch. 421, § 5, as added June 3, 1948, ch. 399, 
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-291-to-298"></a>
@@ -572,7 +572,7 @@ Section 298, act Dec. 29, 1916, ch. 9, § 8, 39 Stat. 864, set forth provisions 
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-299"></a>
@@ -599,7 +599,7 @@ Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, p
 
   (B) explore for minerals or locate a mining claim on any portion of such lands; or
 
-  (C) file an application to acquire any interest in any portion of such lands pursuant to [section 1719 of this title](./chapter-035-federal-land-policy-and-management.md#section-1719).
+  (C) file an application to acquire any interest in any portion of such lands pursuant to [section 1719 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1719&num=0&edition=prelim).
   If, within such 90-day period, the person who filed a notice under this paragraph files a plan of operations with the Secretary pursuant to subsection (f) of this section, such 90-day period shall be extended until the approval or disapproval of the plan by the Secretary pursuant to subsection (f) of this section.
 
 (3) **Notice to surface owner** — Any person who has filed a notice of intention to locate a mining claim under paragraph (2) for any lands subject to this subchapter shall provide written notice of such filing, by registered or certified mail with return receipt, to the surface owner (as evidenced by local tax records) of the lands covered by the notice under paragraph (2). The notice shall be provided at least 30 days before entering such lands and shall contain each of the following:
@@ -738,7 +738,7 @@ Pub. L. 103–23, § 1(c), Apr. 16, 1993, 107 Stat. 65, provided that: “The am
 Pub. L. 103–23, § 1(d), Apr. 16, 1993, 107 Stat. 65, provided that: “The Secretary of the Interior shall issue final regulations to implement the amendments made by this Act [amending this section] not later than the effective date of this Act [see Effective Date of 1993 Amendment note above]. Failure to promulgate these regulations by reason of any appeal or judicial review shall not delay the effective date as specified in paragraph (c).”
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 Words “officer designated by the Secretary of the Interior” substituted for “register” and “Secretary of the Interior or such officer as he may designate” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
@@ -759,7 +759,7 @@ Section, acts Dec. 29, 1916, ch. 9, § 10, 39 Stat. 865; Jan. 29, 1929, ch. 114,
 Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 704(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-301"></a>
@@ -779,4 +779,4 @@ Section, act Mar. 4, 1923, ch. 245, § 2, 42 Stat. 1445, related to additional e
 Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).

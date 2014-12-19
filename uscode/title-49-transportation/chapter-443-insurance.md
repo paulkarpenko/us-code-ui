@@ -73,7 +73,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 **(f) Extension of Policies.—**
 
-(1) **In general.—** — The Secretary shall extend through September 30, 2013, and may extend through December 31, 2013, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
+(1) **In general.—** — The Secretary shall extend through December 11, 2014, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
 
 (2) **Special rules.—** — Notwithstanding paragraph (1)—
 
@@ -116,6 +116,14 @@ The date of enactment of this paragraph, referred to in subsec. (b)(4), is the d
 The date of enactment of this subsection, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 107–296, which was approved Nov. 25, 2002.
 
 #### Amendments
+2014—Subsec. (f)(1). Pub. L. 113–235 substituted “December 11, 2014” for “the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015”.
+
+Pub. L. 113–164 substituted “the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015” for “September 30, 2014”.
+
+Pub. L. 113–76 substituted “September 30, 2014” for “the date specified in section 106(3) of the Continuing Appropriations Act, 2014”.
+
+2013—Subsec. (f)(1). Pub. L. 113–46 substituted “the date specified in section 106(3) of the Continuing Appropriations Act, 2014” for “September 30, 2013, and may extend through December 31, 2013”.
+
 2012—Subsec. (f)(1). Pub. L. 112–95 substituted “shall extend through September 30, 2013, and may extend through December 31, 2013, the termination date” for “shall extend through February 17, 2012, and may extend through May 17, 2012, the termination date”.
 
 Pub. L. 112–91 substituted “February 17, 2012,” for “January 31, 2012,” and “May 17, 2012,” for “April 30, 2012,”.
@@ -243,19 +251,23 @@ William J. Clinton.
 #### Provision of Aviation Insurance Coverage for Commercial Air Carrier Service in Domestic and International Operations
 Memorandum for the Secretary of Transportation
 
-Memorandum of President of the United States, Sept. 27, 2012, 77 F.R. 60035, provided:
+Memorandum of President of the United States, Dec. 27, 2013, 79 F.R. 527, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States, including [49 U.S.C. 44301–443](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44301–443&num=0&edition=prelim)10, I hereby:
 
 1. Determine that the continuation of U.S. air transportation is necessary in the interest of air commerce, national security, and the foreign policy of the United States.
 
-2. Approve provision by the Secretary of Transportation of insurance or reinsurance to U.S.-certificated air carriers against loss or damage arising out of any risk from the operation of an aircraft, in the manner and to the extent provided in chapter 443 of title 49, U.S. Code, until September 30, 2013, if he determines that such insurance or reinsurance cannot be obtained on reasonable terms from any company authorized to conduct an insurance business in a State of the United States.
+2. Approve provision by the Secretary of Transportation of insurance or reinsurance to U.S.-certificated air carriers against loss or damage arising out of any risk from the operation of an aircraft, in the manner and to the extent provided in chapter 443 of title 49, United States Code, until January 15, 2014, if he determines that such insurance or reinsurance cannot be obtained on reasonable terms from any company authorized to conduct an insurance business in a State of the United States.
 
-3. Delegate to the Secretary of Transportation the authority, vested in me by [49 U.S.C. 44306(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44306/c&num=0&edition=prelim), to extend this approval and determination beyond September 30, 2013, to December 31, 2013, if he finds that the continued operation of aircraft to be insured or reinsured is necessary in the interest of air commerce or national security or to carry out the foreign policy of the United States Government, if he also determines that such insurance or reinsurance cannot be obtained on reasonable terms from any company authorized to conduct an insurance business in a State of the United States.You are directed to bring this determination immediately to the attention of all air carriers, as defined in [49 U.S.C. 40102(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a/2&num=0&edition=prelim), and to arrange for its publication in the Federal Register.
+3. Delegate to the Secretary of Transportation the authority, vested in me by [49 U.S.C. 44306(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44306/c&num=0&edition=prelim), to extend this approval and determination through December 31, 2014, or until any date prior to December 31, 2014, provided that the Congress further extends the date contained in section 44310 and further provided that he not use this delegation to extend this determination and approval beyond the dates authorized under any such provision of law with an ending effective date prior to December 31, 2014.
+
+You are directed to bring this determination immediately to the attention of all air carriers, as defined in [49 U.S.C. 40102(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a/2&num=0&edition=prelim), and to arrange for its publication in the Federal Register.
 
 Barack Obama.
 
 Prior Presidential documents related to provision of insurance to U.S.-flag commercial air service were contained in the following:
+
+Memorandum of President of the United States, Sept. 27, 2012, 77 F.R. 60035.
 
 Memorandum of President of the United States, Sept. 28, 2011, 76 F.R. 61247.
 
@@ -312,7 +324,7 @@ Determination of President of the United States, No. 01–29, Sept. 23, 2001, 66
 
 (6) loss or damage of an aircraft manufacturer resulting from operation of an aircraft by an air carrier and involving war or terrorism.
 
-**(b) Air Carrier Liability for Third Party Claims Arising Out of Acts of Terrorism.—** For acts of terrorism committed on or to an air carrier during the period beginning on September 22, 2001, and ending on December 31, 2013, the Secretary may certify that the air carrier was a victim of an act of terrorism and in the Secretary’s judgment, based on the Secretary’s analysis and conclusions regarding the facts and circumstances of each case, shall not be responsible for losses suffered by third parties (as referred to in section 205.5(b)(1) of title 14, Code of Federal Regulations) that exceed $100,000,000, in the aggregate, for all claims by such parties arising out of such act. If the Secretary so certifies, the air carrier shall not be liable for an amount that exceeds $100,000,000, in the aggregate, for all claims by such parties arising out of such act, and the Government shall be responsible for any liability above such amount. No punitive damages may be awarded against an air carrier (or the Government taking responsibility for an air carrier under this subsection) under a cause of action arising out of such act. The Secretary may extend the provisions of this subsection to an aircraft manufacturer (as defined in section 44301) of the aircraft of the air carrier involved.
+**(b) Air Carrier Liability for Third Party Claims Arising Out of Acts of Terrorism.—** For acts of terrorism committed on or to an air carrier during the period beginning on September 22, 2001, and ending on December 11, 2014, the Secretary may certify that the air carrier was a victim of an act of terrorism and in the Secretary’s judgment, based on the Secretary’s analysis and conclusions regarding the facts and circumstances of each case, shall not be responsible for losses suffered by third parties (as referred to in section 205.5(b)(1) of title 14, Code of Federal Regulations) that exceed $100,000,000, in the aggregate, for all claims by such parties arising out of such act. If the Secretary so certifies, the air carrier shall not be liable for an amount that exceeds $100,000,000, in the aggregate, for all claims by such parties arising out of such act, and the Government shall be responsible for any liability above such amount. No punitive damages may be awarded against an air carrier (or the Government taking responsibility for an air carrier under this subsection) under a cause of action arising out of such act. The Secretary may extend the provisions of this subsection to an aircraft manufacturer (as defined in section 44301) of the aircraft of the air carrier involved.
 
 ### Statutory Notes
 
@@ -327,6 +339,14 @@ In this section, before clause (1), the words “persons, property, or interest�
 The text of section 201(b)(2) of Pub. L. 107–42, which was transferred and redesignated so as to appear as subsec. (b) of this section and amended by Pub. L. 107–296, was based on Pub. L. 107–42, title II, § 201(b)(2), Sept. 22, 2001, 115 Stat. 235, formerly included in a note set out under [section 40101 of this title](./chapter-401-general-provisions.md#section-40101).
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–235 substituted “December 11, 2014” for “the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015”.
+
+Pub. L. 113–164 substituted “the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015” for “September 30, 2014”.
+
+Pub. L. 113–76 substituted “September 30, 2014” for “the date specified in section 106(3) of the Continuing Appropriations Act, 2014”.
+
+2013—Subsec. (b). Pub. L. 113–46 substituted “the date specified in section 106(3) of the Continuing Appropriations Act, 2014” for “December 31, 2013”.
+
 2012—Subsec. (b). Pub. L. 112–95 substituted “ending on December 31, 2013, the Secretary may certify” for “ending on May 17, 2012, the Secretary may certify”.
 
 Pub. L. 112–91 substituted “May 17, 2012,” for “April 30, 2012,”.
@@ -540,7 +560,7 @@ Pub. L. 108–176, title I, § 106(e), Dec. 12, 2003, 117 Stat. 2499, provided t
 Pub. L. 107–296, title XII, § 1203, Nov. 25, 2002, 116 Stat. 2287, provided that the amendment made by section 1203 is effective Nov. 19, 2001.
 
 #### Delegation of Authority
-Authority of President under subsec. (c) of this section delegated to Secretary of Transportation, with certain conditions, by Memorandum of President of the United States, Sept. 27, 2012, 77 F.R. 60035, set out as a note under [section 44302 of this title](./chapter-443-insurance.md#section-44302).
+Authority of President under subsec. (c) of this section delegated to Secretary of Transportation, with certain conditions, by Memorandum of President of the United States, Dec. 27, 2013, 79 F.R. 527, set out as a note under [section 44302 of this title](./chapter-443-insurance.md#section-44302).
 
 
 <a id="section-44307"></a>
@@ -659,7 +679,7 @@ Subsec. (b)(2). Pub. L. 105–137, § 4(b), struck out “and” at end of subpa
 
     (ii) the person has paid to the insured party, with the approval of the Secretary of Transportation, an amount for a physical damage loss that the Secretary has determined is a loss covered by insurance issued under this chapter (other than section 44305(b)).
 
-(2) **Limitation.—** — A civil action involving the same matter (except the action authorized by this subsection) may not be brought against an agent, officer, or employee of the Government carrying out this chapter.
+(2) **Limitation.—** — A civil action involving the same matter (except the action authorized by this subsection) may not be brought against an agent, officer, or employee of the Government carrying out this chapter. A civil action shall not be instituted against the United States under this chapter unless the claimant first presents the claim to the Secretary of Transportation and such claim is finally denied by the Secretary in writing and notice of the denial of such claim is sent by certified or registered mail.
 
 (3) **Procedure.—** — To the extent applicable, the procedure in an action brought under [section 1346(a)(2) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1346/a/2&num=0&edition=prelim), United States Code, applies to an action under this subsection.
 
@@ -669,7 +689,21 @@ Subsec. (b)(2). Pub. L. 105–137, § 4(b), struck out “and” at end of subpa
 
 (2) An interested person may be joined as a party to a civil action brought under subsection (a) of this section initially or on motion of either party to the action.
 
-**(c) Time Requirements.—** When an insurance claim is made under this chapter, the period during which, under [section 2401 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2401&num=0&edition=prelim), a civil action must be brought under subsection (a) of this section is suspended until 60 days after the Secretary of Transportation denies the claim. The claim is deemed to be administratively denied if the Secretary does not act on the claim not later than 6 months after filing, unless the Secretary makes a different agreement with the claimant when there is good cause for an agreement.
+**(c) Time Requirements.—**
+
+(1) Except as provided under paragraph (2), an insurance claim made under this chapter against the United States shall be forever barred unless it is presented in writing to the Secretary of Transportation within two years after the date on which the loss event occurred. Any civil action arising out of the denial of such a claim shall be filed by not later than six months after the date of the mailing, by certified or registered mail, of notice of final denial of the claim by the Secretary.
+
+(2)
+
+  (A) For claims based on liability to persons with whom the insured has no privity of contract, an insurance claim made under the authority of this chapter against the United States shall be forever barred unless it is presented in writing to the Secretary of Transportation by not later than the earlier of—
+
+    (i) the date that is 60 days after the date on which final judgment is entered by a tribunal of competent jurisdiction; or
+
+    (ii) the date that is six years after the date on which the loss event occurred.
+
+  (B) Any civil action arising out of the denial of such claim shall be filed by not later than six months after the date of mailing, by certified or registered mail, of notice of final denial of the claim by the Secretary.
+
+(3) A claim made under this chapter shall be deemed to be administratively denied if the Secretary fails to make a final disposition of the claim before the date that is 6 months after the date on which the claim is presented to the Secretary, unless the Secretary makes a different agreement with the claimant when there is good cause for an agreement.
 
 **(d) Interpleader.—**
 
@@ -705,13 +739,21 @@ In subsection (d)(2), the words “in which the action is brought” are added f
 In subsection (d)(3), the words “in a civil action under this subsection” are substituted for “in any such suit” for clarity.
 
 #### Amendments
+2014—Subsec. (a)(2). Pub. L. 113–291, § 1074(a)(1), inserted second sentence.
+
+Subsec. (c). Pub. L. 113–291, § 1074(a)(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “When an insurance claim is made under this chapter, the period during which, under [section 2401 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2401&num=0&edition=prelim), a civil action must be brought under subsection (a) of this section is suspended until 60 days after the Secretary of Transportation denies the claim. The claim is deemed to be administratively denied if the Secretary does not act on the claim not later than 6 months after filing, unless the Secretary makes a different agreement with the claimant when there is good cause for an agreement.”
+
 1998—Subsec. (a). Pub. L. 105–277 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “A person may bring a civil action in a district court of the United States against the United States Government when a loss insured under this chapter is in dispute. A civil action involving the same matter (except the action authorized by this subsection) may not be brought against an agent, officer, or employee of the Government carrying out this chapter. To the extent applicable, the procedure in an action brought under [section 1346(a)(2) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1346/a/2&num=0&edition=prelim) applies to an action under this subsection.”
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–291, div. A, title X, § 1074(b), Dec. 19, 2014, 128 Stat. 3519, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a claim arising after the date of the enactment of this Act [Dec. 19, 2014].”
 
 
 <a id="section-44310"></a>
 ## § 44310. Ending effective date
+**(a) In General.—** The authority of the Secretary of Transportation to provide insurance and reinsurance under any provision of this chapter other than section 44305 is not effective after December 11, 2014.
 
-The authority of the Secretary of Transportation to provide insurance and reinsurance under this chapter is not effective after December 31, 2013.
+**(b) Insurance of United States Government Property.—** The authority of the Secretary of Transportation to provide insurance and reinsurance for a department, agency, or instrumentality of the United States Government under section 44305 is not effective after December 31, 2018.
 
 ### Statutory Notes
 
@@ -723,6 +765,16 @@ The authority of the Secretary of Transportation to provide insurance and reinsu
 The words “is not effective after” are substituted for “shall expire at the termination of” for clarity and consistency in the revised title.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–235 substituted “December 11, 2014” for “the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015”.
+
+Pub. L. 113–164 substituted “the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015” for “September 30, 2014”.
+
+Pub. L. 113–76 substituted “September 30, 2014” for “the date specified in section 106(3) of the Continuing Appropriations Act, 2014”.
+
+2013—Pub. L. 113–66 designated existing provisions as subsec. (a) and inserted heading, substituted “any provision of this chapter other than section 4430” for “this chapter”, and added subsec. (b).
+
+Pub. L. 113–46 substituted “the date specified in section 106(3) of the Continuing Appropriations Act, 2014” for “December 31, 2013”.
+
 2008—Pub. L. 110–181 substituted “December 31, 2013” for “March 30, 2008”.
 
 2003—Pub. L. 108–176 substituted “March 30, 2008” for “December 31, 2004”.

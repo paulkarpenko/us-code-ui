@@ -2,7 +2,7 @@
 title: 38
 chapter: '74'
 heading: VETERANS HEALTH ADMINISTRATION—PERSONNEL
-section_count: 38
+section_count: 39
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -366,7 +366,22 @@ Amendment by section 302(c) of Pub. L. 108–170 effective at end of 180-day per
 
   (C) Notwithstanding the provisions of subsection (d) of [section 5307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307&num=0&edition=prelim), the Secretary may make any certification under that subsection instead of the Office of Personnel Management and without concurrence of the Office of Management and Budget.
 
-**(b)** The grades for positions provided for in paragraph (1) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) shall be as follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:physician and dentist schedule Physician grade. Dentist grade. nurse schedule Nurse V. Nurse IV. Nurse III. Nurse II. Nurse I. clinical podiatrist, chiropractor, and optometrist schedule Chief grade. Senior grade. Intermediate grade. Full grade. Associate grade.
+**(b)** The grades for positions provided for in paragraph (1) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) shall be as follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:
+physician and dentist schedule
+Physician grade.
+Dentist grade.
+nurse schedule
+Nurse V.
+Nurse IV.
+Nurse III.
+Nurse II.
+Nurse I.
+clinical podiatrist, chiropractor, and optometrist schedule
+Chief grade.
+Senior grade.
+Intermediate grade.
+Full grade.
+Associate grade.
 
 **(c)** Notwithstanding the provisions of [section 7425(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7425/a&num=0&edition=prelim), a person appointed under [section 7306 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7306) who is not eligible for pay under subchapter III shall be deemed to be a career appointee for the purposes of sections 4507 and 5384 of title 5.
 
@@ -729,6 +744,18 @@ The Secretary shall reimburse any full-time board-certified physician or dentist
 Pub. L. 102–40, title I, § 103(b), May 7, 1991, 105 Stat. 199, provided that: “[Section 7411 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7411), United States Code, as added by subsection (a), shall apply with respect to expenses incurred for continuing professional education that is pursued after September 30, 1991.”
 
 
+<a id="section-7412"></a>
+## § 7412. Annual determination of staffing shortages; recruitment and appointment for needed occupations
+**(a) In General.—** Not later than September 30 of each year, the Inspector General of the Department shall determine, and the Secretary shall publish in the Federal Register, the five occupations of personnel of this title of the Department covered under [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) for which there are the largest staffing shortages throughout the Department as calculated over the five-year period preceding the determination.
+
+**(b) Recruitment and Appointment.—** Notwithstanding sections 3304 and 3309 through 3318 of title 5, the Secretary may, upon a determination by the Inspector General under paragraph (1) 11 So in original. Probably means subsec. (a). that there is a staffing shortage throughout the Department with respect to a particular occupation, recruit and directly appoint, during the fiscal year after the fiscal year during which such determination is made, qualified personnel to serve in that particular occupation for the Department.
+
+### Statutory Notes
+
+#### Deadline for First Determination
+Pub. L. 113–146, title III, § 301(a)(3), Aug. 7, 2014, 128 Stat. 1784, provided that: “Notwithstanding the deadline under [section 7412 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7412), United States Code, as added by paragraph (1), for the annual determination of staffing shortages in the Veterans Health Administration, the Inspector General of the Department of Veterans Affairs shall make the first determination required under such section, and the Secretary of Veterans Affairs shall publish in the Federal Register such determination, by not later than the date that is 180 days after the date of the enactment of this Act [Aug. 7, 2014].”
+
+
 <a id="section-7421"></a>
 ## § 7421. Personnel administration: in general
 **(a)** Notwithstanding any law, Executive order, or regulation, the Secretary shall prescribe by regulation the hours and conditions of employment and leaves of absence of employees appointed under any provision of this chapter in positions in the Veterans Health Administration listed in subsection (b).
@@ -957,7 +984,7 @@ Provisions similar to those in this section were contained in sections 4107(i) a
 
 (2) The Physician and Dentist Base and Longevity Pay Schedule is composed of 15 rates of base pay designated, from the lowest rate of pay to the highest rate of pay, as base pay steps 1 through 15.
 
-(3) The rate of base pay payable to a physician or dentist is based on the total number of the years of the service of the physician or dentist in the Veterans Health Administration as follows: For a physician or dentistThe rate of base pay is with total service of:the rate payable for: two years or lessstep 1 more than 2 years and not more than 4 yearsstep 2 more than 4 years and not more than 6 yearsstep 3 more than 6 years and not more than 8 yearsstep 4 more than 8 years and not more than 10 yearsstep 5 more than 10 years and not more than 12 yearsstep 6 more than 12 years and not more than 14 yearsstep 7 more than 14 years and not more than 16 yearsstep 8 more than 16 years and not more than 18 yearsstep 9 more than 18 years and not more than 20 yearsstep 10 more than 20 years and not more than 22 yearsstep 11 more than 22 years and not more than 24 yearsstep 12 more than 24 years and not more than 26 yearsstep 13 more than 26 years and not more than 28 yearsstep 14 more than 28 yearsstep 15.
+(3) The rate of base pay payable to a physician or dentist is based on the total number of the years of the service of the physician or dentist in the Veterans Health Administration as follows: For a physician or dentist with total service of:The rate of base pay is the rate payable for: two years or lessstep 1 more than 2 years and not more than 4 yearsstep 2 more than 4 years and not more than 6 yearsstep 3 more than 6 years and not more than 8 yearsstep 4 more than 8 years and not more than 10 yearsstep 5 more than 10 years and not more than 12 yearsstep 6 more than 12 years and not more than 14 yearsstep 7 more than 14 years and not more than 16 yearsstep 8 more than 16 years and not more than 18 yearsstep 9 more than 18 years and not more than 20 yearsstep 10 more than 20 years and not more than 22 yearsstep 11 more than 22 years and not more than 24 yearsstep 12 more than 24 years and not more than 26 yearsstep 13 more than 26 years and not more than 28 yearsstep 14 more than 28 yearsstep 15.
 
 (4) At the same time as rates of basic pay are increased for a year under [section 5303 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5303&num=0&edition=prelim), the Secretary shall increase the amount of base pay payable under this subsection for that year by a percentage equal to the percentage by which rates of basic pay are increased under such section for that year.
 

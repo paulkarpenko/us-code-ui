@@ -11,7 +11,7 @@ source: >-
 
 In this chapter:
 
-(1) The term “acquisition” has the meaning provided in section 4(16) 11 See References in Text note below. of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(16)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/16&num=0&edition=prelim)).
+(1) The term “acquisition” has the meaning provided in [section 131 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section131&num=0&edition=prelim).
 
 (2) The term “defense acquisition system” means the workforce engaged in carrying out the acquisition of property and services for the Department of Defense; the management structure responsible for directing and overseeing the acquisition of property and services for the Department of Defense; and the statutory, regulatory, and policy framework that guides the acquisition of property and services for the Department of Defense.
 
@@ -21,11 +21,11 @@ In this chapter:
 
 ### Statutory Notes
 
-#### References in Text
-Section 4(16) of the Office of Federal Procurement Policy Act, referred to in par. (1), means section 4(16) of Pub. L. 93–400, which was classified to section 403(16) of former Title 41, Public Contracts, and was repealed and restated as [section 131 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section131&num=0&edition=prelim), Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim).
-
 #### Prior Provisions
 A prior section 2545 was renumbered [section 2555 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2555).
+
+#### Amendments
+2014—Par. (1). Pub. L. 113–291 substituted “[section 131 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section131&num=0&edition=prelim)” for “section 4(16) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(16)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/16&num=0&edition=prelim))”.
 
 #### Short Title of 2011 Amendment
 Pub. L. 111–383, div. A, title VIII, § 860, Jan. 7, 2011, 124 Stat. 4287, provided that: “This subtitle [subtitle F (§§ 860–896) of title VIII of div. A of Pub. L. 111–383, enacting this chapter and sections 139e, 1701a, 1722b, 1748, 1762, and 2508 of this title, amending sections 101, 1723, 1746, 2302, 2500, 2501, 2505, and 2506 of this title, enacting provisions set out as notes under sections 1723, 1748, 2222, 2302, 2306a, 2330, and 2501 of this title, amending provisions set out as notes under [section 2371 of this title](./chapter-139-research-and-development.md#section-2371) and [section 637 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637&num=0&edition=prelim), Commerce and Trade, and repealing provisions set out as notes under sections 1701 and 1723 of this title] may be cited as the ‘Improve Acquisition Act of 2010’.”

@@ -282,7 +282,7 @@ Subsec. (b)(2). Pub. L. 99–224, § 2(a)(3), struck out “of pay or allowances
 Pub. L. 109–364, div. A, title VI, § 671(c), Oct. 17, 2006, 120 Stat. 2270, provided that: “The amendments made by this section [amending this section and [section 716 of Title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section716&num=0&edition=prelim), National Guard] shall take effect on March 1, 2007.”
 
 #### Effective Date of 1996 Amendment
-Amendment by Pub. L. 104–316 effective 60 days after Oct. 19, 1996, see section 101(e) of Pub. L. 104–316, set out as a note under [section 130c of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section130c&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 104–316 effective 60 days after Oct. 19, 1996, see section 101(e) of Pub. L. 104–316, set out as a note under [section 4593 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4593&num=0&edition=prelim), The Congress.
 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–224 applicable to any claim arising out of an erroneous payment of travel and transportation allowances made on or after Dec. 28, 1985, see section 4 of Pub. L. 99–224, set out as a note under [section 5584 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5584&num=0&edition=prelim), Government Organization and Employees.

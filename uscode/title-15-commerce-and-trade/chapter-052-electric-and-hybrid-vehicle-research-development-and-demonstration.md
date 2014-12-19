@@ -189,7 +189,7 @@ The Secretary of Energy, acting through appropriate agencies and contractors, sh
 
 (2) for demonstration maintenance projects, including maintenance organization and equipment needs and model training projects for maintenance procedures; and
 
-(3) for the dissemination of data on electric and hybrid vehicle safety and operating characteristics (including nontechnical descriptive data which shall be made available by the Government Printing Office) (A) to Federal, State, and local consumer affairs agencies and groups; (B) to Federal, State, and local agricultural and rural agencies and groups; and (C) to the public.
+(3) for the dissemination of data on electric and hybrid vehicle safety and operating characteristics (including nontechnical descriptive data which shall be made available by the Government Publishing Office) (A) to Federal, State, and local consumer affairs agencies and groups; (B) to Federal, State, and local agricultural and rural agencies and groups; and (C) to the public.
 
 **(e) Displacement of private procurement; reports to congressional committees; reduction of number purchased**
 
@@ -211,6 +211,9 @@ The Secretary of Energy, acting through appropriate agencies and contractors, sh
 Subsec. (b)(4). Pub. L. 95–238, § 601(b), substituted provisions relating to transmission of standards developed under par. (1) and all revised standards established in connection with the demonstrations specified in subsec. (c)(2) of this section, for provisions relating to transmission of standards developed under par. (1) as revised and currently in effect prior to contracts for the production of vehicles under subsec. (c)(2) of this section.
 
 Subsec. (c). Pub. L. 95–238, § 601(c), in par. (1) substituted provisions relating to the first contracts for purchase or lease of vehicles and delivery of such vehicles, for provisions relating to contracts for the purchase or lease of 2,500 vehicles and delivery of such vehicles within 39 months after Sept. 17, 1976, in par. (2) substituted provisions relating to contracts for the purchase or lease of additional vehicles which satisfy amended performance standards and are improvements in the state-of-the-art and criteria for demonstrations, for provisions relating to contracts for the purchase or lease of 5,000 advanced vehicles and delivery of such vehicles within 72 months after Sept. 17, 1976, with an extention of the delivery period for 6 additional months, and added pars. (3) and (4).
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (d)(3) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Transfer of Functions
 “Secretary of Energy” substituted for “Administrator” in subsecs. (a), (b)(1), (2), (d), and (e) pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under [section 2502 of this title](./chapter-052-electric-and-hybrid-vehicle-research-development-and-demonstration.md#section-2502).
@@ -358,7 +361,8 @@ The Postmaster General of the United States Postal Service, the Administrator of
 
 (1) carry out a study of the practicability of using electric and hybrid vehicles in the performance of some or all of the functions of their agencies; and
 
-(2) arrange for the introduction of electric and hybrid vehicles into their fleets as soon as possible. For competitive procurement purposes in purchasing such vehicles, life-cycle costing and any beneficial air pollution control characteristics of electric and hybrid vehicles shall be fully taken into account. If the head of the agency involved determines that electric or hybrid vehicles are technologically practicable, but that they are not completely economically competitive with conventional vehicles, the Secretary of Energy may, for purposes of the demonstration program described in [section 2506 of this title](./chapter-052-electric-and-hybrid-vehicle-research-development-and-demonstration.md#section-2506), pay to such agency the incremental costs of the electric or hybrid vehicles, including differential operating costs.
+(2) arrange for the introduction of electric and hybrid vehicles into their fleets as soon as possible.
+For competitive procurement purposes in purchasing such vehicles, life-cycle costing and any beneficial air pollution control characteristics of electric and hybrid vehicles shall be fully taken into account. If the head of the agency involved determines that electric or hybrid vehicles are technologically practicable, but that they are not completely economically competitive with conventional vehicles, the Secretary of Energy may, for purposes of the demonstration program described in [section 2506 of this title](./chapter-052-electric-and-hybrid-vehicle-research-development-and-demonstration.md#section-2506), pay to such agency the incremental costs of the electric or hybrid vehicles, including differential operating costs.
 
 ### Statutory Notes
 

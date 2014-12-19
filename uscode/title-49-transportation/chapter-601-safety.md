@@ -491,7 +491,7 @@ Pub. L. 112–90, § 1(c), Jan. 3, 2012, 125 Stat. 1904, provided that: “(1) A
 
 (3) **Limitation.—** — Nothing in this subsection authorizes the Secretary to prescribe standards for the movement of oil through production, refining, or manufacturing facilities or through oil production flow lines located on the grounds of wells.
 
-**(p) Limitation on Incorporation of Documents by Reference.—** Beginning 1 year after the date of enactment of this subsection, the Secretary may not issue guidance or a regulation pursuant to this chapter that incorporates by reference any documents or portions thereof unless the documents or portions thereof are made available to the public, free of charge, on an Internet Web site.
+**(p) Limitation on Incorporation of Documents by Reference.—** Beginning 3 years after the date of enactment of this subsection, the Secretary may not issue a regulation pursuant to this chapter that incorporates by reference any documents or portions thereof unless the documents or portions thereof are made available to the public, free of charge.
 
 ### Statutory Notes
 
@@ -563,6 +563,8 @@ The date of enactment of this paragraph, referred to in subsec. (i)(2)(B), and t
 The date of the enactment of this subsection, referred to in subsec. (m), is the date of enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.
 
 #### Amendments
+2013—Subsec. (p). Pub. L. 113–30 substituted “3 years” for “1 year” and struck out “guidance or” before “a regulation” and “, on an Internet Web site” before period at end.
+
 2012—Subsec. (a)(2)(A). Pub. L. 112–90, § 18(b), substituted “any or all of the owners or operators” for “owners and operators”.
 
 Subsec. (i). Pub. L. 112–90, § 15, designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
@@ -2974,19 +2976,7 @@ The date of enactment of this subsection, referred to in subsec. (d)(1), is the 
 
 **(b) Prohibited Uses.—** Funds provided under this section to grant recipients and their contractors may not be used for lobbying, for direct advocacy for or against a pipeline construction or expansion project, or in direct support of litigation.
 
-**(c) Annual Report.—**
-
-(1) **In general.—** — Not later than 90 days after the last day of each fiscal year for which grants are made by the Secretary under this section, the Secretary shall report to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives on grants made under this section in the preceding fiscal year.
-
-(2) **Contents.—** — The report shall include—
-
-  (A) a listing of the identity and location of each recipient of a grant under this section in the preceding fiscal year and the amount received by the recipient;
-
-  (B) a description of the purpose for which each grant was made; and
-
-  (C) a description of how each grant was used by the recipient.
-
-**(d) Authorization of Appropriations.—** There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $1,500,000 for each of fiscal years 2012 through 2015. Such amounts shall not be derived from user fees collected under section 60301.
+**(c) Authorization of Appropriations.—** There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $1,500,000 for each of fiscal years 2012 through 2015. Such amounts shall not be derived from user fees collected under section 60301.
 
 ### Statutory Notes
 
@@ -2994,6 +2984,8 @@ The date of enactment of this subsection, referred to in subsec. (d)(1), is the 
 Public Law 93–153, referred to in subsec. (a)(1), is Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 576, as amended. Title II of the Act, known as the Trans-Alaska Pipeline Authorization Act, is classified generally to chapter 34 (§ 1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1651 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1651&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Subsecs. (c), (d). Pub. L. 113–188 redesignated subsec. (d) as (c) and struck out former subsec. (c) which required annual reports on grants made under this section.
+
 2012—Subsec. (a)(1). Pub. L. 112–90, § 32(e)(1), substituted “$100,000” for “$50,000”.
 
 Subsec. (b). Pub. L. 112–90, § 32(e)(2), inserted “to grant recipients and their contractors” after “this section” and “, for direct advocacy for or against a pipeline construction or expansion project,” after “for lobbying”.
@@ -3181,13 +3173,15 @@ The Minerals Management Service was abolished and functions divided among the Of
 ## § 60134. State damage prevention programs
 **(a) In General.—** The Secretary may make a grant to a State authority (including a municipality with respect to intrastate gas pipeline transportation) to assist in improving the overall quality and effectiveness of a damage prevention program of the State authority under subsection (e) if the State authority—
 
-(1) has in effect an annual certification under section 60105 or an agreement under section 60106; and
+(1) has in effect an annual certification under section 60105 or an agreement under section 60106;
 
 (2)
 
   (A) has in effect an effective damage prevention program that meets the requirements of subsection (b); or
 
-  (B) demonstrates that it has made substantial progress toward establishing such a program, and that such program will meet the requirements of subsection (b).
+  (B) demonstrates that it has made substantial progress toward establishing such a program, and that such program will meet the requirements of subsection (b); and
+
+(3) does not provide any exemptions to municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
 
 **(b) Damage Prevention Program Elements.—** An effective damage prevention program includes the following elements:
 
@@ -3224,19 +3218,6 @@ The Minerals Management Service was abolished and functions divided among the Of
 **(i) Authorization of Appropriations.—** There is authorized to be appropriated to the Secretary to provide grants under this section $1,500,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)
-Pub. L. 112–90, § 3(b), (c), Jan. 3, 2012, 125 Stat. 1906, provided that, effective 2 years after Jan. 3, 2012, subsec. (a) is amended as follows:
-
-(1) in paragraph (1) by striking “and” after the semicolon;
-
-(2) in paragraph (2)(B) by striking “(b).” and inserting “(b); and”; and
-
-(3) by adding at the end the following:
-
-(3) does not provide any exemptions to municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
-
-See 2012 Amendment note below.
 
 #### Amendments
 2012—Subsec. (a)(3). Pub. L. 112–90, § 3(b), added par. (3).

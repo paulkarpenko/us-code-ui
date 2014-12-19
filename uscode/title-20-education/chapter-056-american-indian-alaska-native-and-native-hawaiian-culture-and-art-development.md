@@ -682,7 +682,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 (2) the Archeological Resources Protection Act of 1979 ([16 U.S.C. 470aa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470aa&num=0&edition=prelim) et seq.), and
 
-(3) the National Historic Preservation Act ([16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.).
+(3) division A of subtitle III of title 54.
 
 **(b) Criminal laws** All Federal criminal laws relating to larceny, embezzlement, or conversion of the funds or the property of the United States shall apply to the funds and property of the Institute.
 
@@ -699,11 +699,11 @@ Public Law 95–341, popularly known as the American Indian Religious Freedom Ac
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470aa&num=0&edition=prelim) and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16. For complete classification of this Act to the Code, see [section 470(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470/a&num=0&edition=prelim) and Tables.
-
 This chapter, referred to in subsec. (c)(1), was in the original “this Act” and was translated as reading “this title”, meaning title XV of Pub. L. 99–498 to reflect the probable intent of Congress.
 
 #### Amendments
+2014—Subsec. (a)(3). Pub. L. 113–287 substituted “division A of subtitle III of title 54” for “the National Historic Preservation Act ([16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.)”.
+
 1992—Subsec. (c). Pub. L. 102–325 designated existing provisions as par. (1) and added par. (2).
 
 1990—Subsec. (c). Pub. L. 101–644 added subsec. (c).

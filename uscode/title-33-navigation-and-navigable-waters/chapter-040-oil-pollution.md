@@ -210,7 +210,7 @@ The Deepwater Port Act of 1974, referred to in pars. (6) and (32)(C), (D), is Pu
 
 Presidential Proclamation Numbered 5030, referred to in par. (8), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under [section 1453 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453&num=0&edition=prelim), Conservation.
 
-The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in par. (23), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
@@ -1152,9 +1152,9 @@ Specific functions of President under subsec. (e) of this section delegated to S
 
 <a id="section-2716a"></a>
 ## § 2716a. Financial responsibility civil penalties
-**(a) Administrative** Any person who, after notice and an opportunity for a hearing, is found to have failed to comply with the requirements of [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716) or the regulations issued under that section, or with a denial or detention order issued under subsection (c)(2) of that section, shall be liable to the United States for a civil penalty, not to exceed $25,000 per day of violation. The amount of the civil penalty shall be assessed by the President by written notice. In determining the amount of the penalty, the President shall take into account the nature, circumstances, extent, and gravity of the violation, the degree of culpability, any history of prior violation, ability to pay, and such other matters as justice may require. The President may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which had been imposed under this paragraph. If any person fails to pay an assessed civil penalty after it has become final, the President may refer the matter to the Attorney General for collection.
+**(a) Administrative** Any person who, after notice and an opportunity for a hearing, is found to have failed to comply with the requirements of [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716) or the regulations issued under that section, or with a denial or detention order issued under subsection (c)(2) 11 So in original. Probably should be “subsection (b)(2)”. of that section, shall be liable to the United States for a civil penalty, not to exceed $25,000 per day of violation. The amount of the civil penalty shall be assessed by the President by written notice. In determining the amount of the penalty, the President shall take into account the nature, circumstances, extent, and gravity of the violation, the degree of culpability, any history of prior violation, ability to pay, and such other matters as justice may require. The President may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which had been imposed under this paragraph. If any person fails to pay an assessed civil penalty after it has become final, the President may refer the matter to the Attorney General for collection.
 
-**(b) Judicial** In addition to, or in lieu of, assessing a penalty under subsection (a) of this section, the President may request the Attorney General to secure such relief as necessary to compel compliance with this 11 So in original. The word “this” probably should not appear. [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716), including a judicial order terminating operations. The district courts of the United States shall have jurisdiction to grant any relief as the public interest and the equities of the case may require.
+**(b) Judicial** In addition to, or in lieu of, assessing a penalty under subsection (a) of this section, the President may request the Attorney General to secure such relief as necessary to compel compliance with this 22 So in original. The word “this” probably should not appear. [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716), including a judicial order terminating operations. The district courts of the United States shall have jurisdiction to grant any relief as the public interest and the equities of the case may require.
 
 ### Statutory Notes
 
@@ -1607,7 +1607,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
   (C) may be adjusted periodically upon the mutual consent of the owners or operators of terminal facilities or crude oil tankers operating in Prince William Sound and the Prince William Sound terminal facilities Council.
 
-(3) **Cook Inlet Program** — The owners or operators of terminal facilities, offshore facilities, or crude oil tankers operating in Cook Inlet shall provide, on an annual basis, an aggregate amount of not more than $1,000,000, as determined by the Secretary. Such amount—
+(3) **Cook Inlet Program** — The owners or operators of terminal facilities, offshore facilities, or crude oil tankers operating in Cook Inlet shall provide, on an annual basis, an aggregate amount of not less than $1,400,000, as determined by the Secretary. Such amount—
 
   (A) shall provide for the establishment and operation of the environmental oversight and monitoring program in Cook Inlet;
 
@@ -1658,6 +1658,8 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (k)(3). Pub. L. 113–281 substituted “not less than $1,400,000” for “not more than $1,000,000” in introductory provisions.
+
 2006—Subsec. (m)(4). Pub. L. 109–241 substituted “of the department in which the Coast Guard is operating.” for “of Transportation.”
 
 #### Change of Name

@@ -182,7 +182,7 @@ source: >-
 
   (D) The head of the element of the intelligence community concerned may release an employee, in whole or in part, from the obligation to reimburse the United States under an agreement under subparagraph (A) when, in the discretion of the head of the element, the head of the element determines that equity or the interests of the United States so require.
 
-**(k) Employment of Program Participants**
+**(k) Employment of program participants**
 
 (1) **Appointment authority** — The Secretary of Defense, the Secretary of Homeland Security, the Secretary of State, or the head of a Federal agency or office identified by the Secretary of Defense under subsection (g) as having national security responsibilities—
 
@@ -377,7 +377,7 @@ Pub. L. 108–487, title VI, § 602(d), Dec. 23, 2004, 118 Stat. 3953, provided 
 
   (C) recommending effective ways to increase public awareness of the need for foreign languages skills and career paths in the Federal Government that use those skills; and
 
-  (D) overseeing the Corps efforts to work with Executive agencies and State and Local governments to respond to interagency plans and agreements to address overall foreign language shortfalls and to utilize personnel to address the various types of crises that warrant foreign language skills.
+  (D) overseeing the Corps efforts to work with Executive agencies and State and Local 11 So in original. Probably should not be capitalized. governments to respond to interagency plans and agreements to address overall foreign language shortfalls and to utilize personnel to address the various types of crises that warrant foreign language skills.
 
 ### Statutory Notes
 

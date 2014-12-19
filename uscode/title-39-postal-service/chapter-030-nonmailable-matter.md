@@ -665,7 +665,8 @@ The Postmaster General shall submit semi­annual reports to the Inspector Genera
 
 (5) the number of cases in which the authority described in section 3016 was used, and a comprehensive statement describing how that authority was used in each of those cases; and
 
-(6) such other information relating to the investigative activities of the Postal Service as the Inspector General may require. The information in a report submitted under this section to the Inspector General with respect to a reporting period shall be included as part of the semiannual report prepared by the Inspector General under section 5 of the Inspector General Act of 1978 for the same reporting period. Nothing in this section shall be considered to permit or require that any report by the Postmaster General under this section include any information relating to activities of the Inspector General.
+(6) such other information relating to the investigative activities of the Postal Service as the Inspector General may require.
+The information in a report submitted under this section to the Inspector General with respect to a reporting period shall be included as part of the semiannual report prepared by the Inspector General under section 5 of the Inspector General Act of 1978 for the same reporting period. Nothing in this section shall be considered to permit or require that any report by the Postmaster General under this section include any information relating to activities of the Inspector General.
 
 ### Statutory Notes
 
@@ -710,7 +711,7 @@ Pub. L. 106–168, title I, § 110(b)(2), (3), Dec. 12, 1999, 113 Stat. 1817, pr
 ### Statutory Notes
 
 #### References in Text
-The Act of Aug. 20, 1912, referred to in subsec. (d), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, as amended, which was classified generally to chapter 8 (§ 151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, § 438(a)(1), June 20, 2000, 114 Stat. 454. Sections 6 and 8 of the Act were classified to sections 152 and 161, respectively, of Title 7. For complete classification of this Act to the Code, see Tables.
+The Act of Aug. 20, 1912, referred to in subsec. (d), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, commonly known as the Plant Quarantine Act, which was classified generally to chapter 8 (§ 151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, § 438(a)(1), June 20, 2000, 114 Stat. 454. Sections 6 and 8 of the Plant Quarantine Act, referred to in subsecs. (a)(1), (c), and (d)(2), were classified to sections 152 and 161, respectively, of Title 7. For complete classification of this Act to the Code, see Tables.
 
 #### Effective Date
 Pub. L. 100–574, § 4, Oct. 31, 1988, 102 Stat. 2894, provided that: “(a) In General.—This Act and the amendments made by this Act [enacting this section and sections 1716B and 1716C of Title 18, Crimes and Criminal Procedure] shall become effective on the earlier of—“(1) the 366th day after the date of the enactment of this Act [Oct. 31, 1988]; or “(2) the first date as of which all rules and regulations required to be prescribed under the amendments made by this Act have first been published in the Federal Register. [For publication of regulations, see 54 F.R. 49978, Dec. 4, 1989.] “(b) Regulations.—Nothing in this section shall prevent the United States Postal Service from taking any action which may be necessary to prepare and issue, as soon as possible after the date of the enactment of this Act, any rules and regulations which the Postal Service is required to prescribe under any of the amendments made by this Act.”

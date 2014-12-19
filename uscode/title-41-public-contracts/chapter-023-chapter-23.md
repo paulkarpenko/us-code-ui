@@ -525,6 +525,18 @@ Pub. L. 111–350, § 6(f)(2), Jan. 4, 2011, 124 Stat. 3855, provided that: “T
 
 (7) To the maximum extent practicable, information similar to the information covered by paragraphs (1) to (4) in connection with the award or performance of a contract or grant with a State government.
 
+(8) Whether the person is included on any of the following lists maintained by the Office of Foreign Assets Control of the Department of the Treasury:
+
+  (A) The specially designated nationals and blocked persons list (commonly known as the “SDN list”).
+
+  (B) The sectoral sanctions identification list.
+
+  (C) The foreign sanctions evaders list.
+
+  (D) The list of persons sanctioned under the Iran Sanctions Act of 1996 (Public Law 104–172; [50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note) that do not appear on the SDN list (commonly known as the “Non-SDN Iranian Sanctions Act list”).
+
+  (E) The list of foreign financial institutions subject to part 561 of title 31, Code of Federal Regulations.
+
 **(d) Requirements Relating to Database Information.—**
 
 (1) **Direct input and update.—** — The Administrator of General Services shall design and maintain the database in a manner that allows the appropriate Federal agency officials to directly input and update information in the database relating to actions that the officials have taken with regard to contractors or grant recipients.
@@ -581,6 +593,8 @@ In subsection (f)(2), the words “the information submitted under paragraph (1)
 Section 1704(b) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (c)(1)(E)(ii), is section 1704(b) of Pub. L. 112–239, which is classified to [section 7104b(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7104b/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2014—Subsec. (c)(8). Pub. L. 113–291 added par. (8).
+
 2013—Subsec. (c)(1)(E). Pub. L. 112–239, § 1704(d)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E), as added by Pub. L. 111–383, § 834(d), read as follows: “(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 ([10 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim) note).” See Amendments Not Shown in Text note above.
 
 Subsec. (d)(3). Pub. L. 112–239, § 852, added par. (3).

@@ -17,7 +17,8 @@ The purposes of this chapter are—
 
 (3) to minimize risks to excavators; and
 
-(4) to prevent disruption of vital public services, by reducing the incidence of damage to underground facilities during excavation through the voluntary adoption and efficient implementation by all States of State one-call notification programs that meet the minimum standards set forth under section 6103.
+(4) to prevent disruption of vital public services,
+by reducing the incidence of damage to underground facilities during excavation through the voluntary adoption and efficient implementation by all States of State one-call notification programs that meet the minimum standards set forth under section 6103.
 
 ### Statutory Notes
 
@@ -44,13 +45,17 @@ In this chapter, the following definitions apply:
 
 <a id="section-6103"></a>
 ## § 6103. Minimum standards for State one-call notification programs
-**(a) Minimum Standards.—** In order to qualify for a grant under section 6106, a State one-call notification program shall, at a minimum, provide for—
+**(a) Minimum Standards.—**
 
-(1) appropriate participation by all underground facility operators, including all government operators;
+(1) **In general.—** — In order to qualify for a grant under section 6106, a State one-call notification program, at a minimum, shall provide for—
 
-(2) appropriate participation by all excavators, including all government and contract excavators; and
+  (A) appropriate participation by all underground facility operators, including all government operators;
 
-(3) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.
+  (B) appropriate participation by all excavators, including all government and contract excavators; and
+
+  (C) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.
+
+(2) **Exemptions prohibited.—** — In order to qualify for a grant under section 6106, a State one-call notification program may not exempt municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
 
 **(b) Appropriate Participation.—** In determining the appropriate extent of participation required for types of underground facilities or excavators under subsection (a), a State shall assess, rank, and take into consideration the risks to the public safety, the environment, excavators, and vital public services associated with—
 
@@ -79,23 +84,6 @@ In this chapter, the following definitions apply:
 (5) citation of violations.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)
-Pub. L. 112–90, § 3(a), (c), Jan. 3, 2012, 125 Stat. 1906, provided that, effective 2 years after Jan. 3, 2012, subsection (a) of this section is amended to read as follows:
-
-(a) Minimum Standards.—
-
-(1) In general.—In order to qualify for a grant under section 6106, a State one-call notification program, at a minimum, shall provide for—
-
-(A) appropriate participation by all underground facility operators, including all government operators;
-
-(B) appropriate participation by all excavators, including all government and contract excavators; and
-
-(C) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.
-
-(2) Exemptions prohibited.—In order to qualify for a grant under section 6106, a State one-call notification program may not exempt municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
-
-See 2012 Amendment note below.
 
 #### Amendments
 2012—Subsec. (a). Pub. L. 112–90, § 3(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “In order to qualify for a grant under section 6106, a State one-call notification program shall, at a minimum, provide for—

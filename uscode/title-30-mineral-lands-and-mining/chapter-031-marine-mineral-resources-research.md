@@ -127,7 +127,7 @@ Pub. L. 106–193, May 2, 2000, 114 Stat. 234, known as the Methane Hydrate Rese
 
 **(b) Competitive review**
 
-(1) **In general** — An entity shall not be eligible to receive a grant or contract, or participate in a cooperative agreement, under subsection (a) of this section unless—
+(1) **In general** — An entity shall not be eligible to receive a grant or contract, or participate in a cooperative agreement, under subsection (a) unless—
 
   (A) the entity submits a proposal to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require; and
 
@@ -217,7 +217,7 @@ October 19, 1996, referred to in subsec. (a)(2)(C), was in the original “the d
 
 (4) promote the efficient identification, assessment, exploration, and management of marine mineral resources in an environmentally sound manner.
 
-**(e) Allocation of funds** In distributing funds to the centers designated under subsection (a) of this section, the Secretary shall, to the extent practicable, allocate an equal amount to each center.
+**(e) Allocation of funds** In distributing funds to the centers designated under subsection (a), the Secretary shall, to the extent practicable, allocate an equal amount to each center.
 
 **(f) Limitations**
 

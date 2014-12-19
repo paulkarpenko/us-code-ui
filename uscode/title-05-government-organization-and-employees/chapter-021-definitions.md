@@ -184,7 +184,7 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 **(b)** An individual who is employed at the United States Naval Academy in the midshipmen’s laundry, the midshipmen’s tailor shop, the midshipmen’s cobbler and barber shops, and the midshipmen’s store, except an individual employed by the Academy dairy (if any), and whose employment in such a position began before October 1, 1996, and has been uninterrupted in such a position since that date is deemed an employee.
 
-**(c)** An employee paid from nonappropriated funds of the Army and Air Force Exchange Service, Army and Air Force Motion Picture Service, Navy Ship’s Stores Ashore, Navy exchanges, Marine Corps exchanges, Coast Guard exchanges, and other instrumentalities of the United States under the jurisdiction of the armed forces conducted for the comfort, pleasure, contentment, and mental and physical improvement of personnel of the armed forces is deemed not an employee for the purpose of—
+**(c)** An employee paid from nonappropriated funds of the Army and Air Force Exchange Service, Navy Ships Stores Program, Navy exchanges, Marine Corps exchanges, Coast Guard exchanges, and other instrumentalities of the United States under the jurisdiction of the armed forces conducted for the comfort, pleasure, contentment, and mental and physical improvement of personnel of the armed forces is deemed not an employee for the purpose of—
 
 (1) laws administered by the Office of Personnel Management, except—
 
@@ -232,6 +232,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2013—Subsec. (c). Pub. L. 113–66 substituted “Navy Ships Stores Program” for “Army and Air Force Motion Picture Service, Navy Ship’s Stores Ashore” in introductory provisions.
+
 2006—Subsec. (e). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 1997—Subsec. (b). Pub. L. 105–85 inserted “(if any)” after “Academy dairy”.
@@ -377,7 +379,7 @@ Pub. L. 111–145, § 7(d), Mar. 4, 2010, 124 Stat. 56, provided that: “The am
 Amendment by Pub. L. 110–437 effective first day of first pay period (applicable to employees transferred under [section 2241 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2241&num=0&edition=prelim), The Congress) on or after 30 days after Oct. 20, 2008, see section 422(d) of Pub. L. 110–437, set out as a note under [section 1301 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1301&num=0&edition=prelim).
 
 #### Effective Date of 1970 Amendment
-Amendment by Pub. L. 91–510 effective immediately prior to noon on June. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under [section 72a of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section72a&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 91–510 effective immediately prior to noon on June. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under [section 4301 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4301&num=0&edition=prelim), The Congress.
 
 
 <a id="section-2108"></a>

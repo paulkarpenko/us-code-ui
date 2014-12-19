@@ -191,7 +191,7 @@ In this chapter:
 
 (6) **Territorial sea** — The term “territorial sea” means the belt of sea measured from the baseline of the United States determined in accordance with international law, as set forth in Presidential Proclamation Number 5928, dated December 27, 1988.
 
-(7) **Nongovernmental entities** — The term “nongovernmental entities” includes nongovernmental organizations, members of the academic community, and private sector organizations that provide products and services associated with measuring, locating, and preparing maps, charts, surveys, aerial photographs, satellite imagines, or other graphical or digital presentations depicting natural or manmade physical features, phenomena, and legal boundaries of the Earth.
+(7) **Nongovernmental entities** — The term “nongovernmental entities” includes nongovernmental organizations, members of the academic community, and private sector organizations that provide products and services associated with measuring, locating, and preparing maps, charts, surveys, aerial photographs, satellite imagines,22 So in original. Probably should be “images,”. or other graphical or digital presentations depicting natural or manmade physical features, phenomena, and legal boundaries of the Earth.
 
 (8) **Outer Continental Shelf** — The term “Outer Continental Shelf” means all submerged lands lying seaward and outside of lands beneath navigable waters (as that term is defined in [section 1301 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim)), and of which the subsoil and seabed appertain to the United States and are subject to its jurisdiction and control.
 

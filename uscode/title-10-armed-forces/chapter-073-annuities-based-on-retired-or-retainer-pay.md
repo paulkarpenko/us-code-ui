@@ -107,7 +107,7 @@ Pub. L. 88–130, § 3(q), Sept. 24, 1963, 77 Stat. 192, rendered election, chan
 Pub. L. 87–381, § 7, Oct. 4, 1961, 75 Stat. 812, provided that: “Any person who, before the date of enactment of this Act [Oct. 4, 1961], has filed a change or revocation, subject to [section 1431(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1431/c&num=0&edition=prelim), United States Code [subsec. (c) of this section], of an election made under section 1431(b) of that title [subsec. (b) of this section], which change or revocation would be ineffective if the first day for which retired or retainer pay is granted were to be the date of enactment of this Act [Oct. 4, 1961], shall have that change or revocation become effective on that date, or three years after the date upon which it was filed, whichever is later.”
 
 #### Provisions Applicable to Certain Persons Retiring After October 4, 1961, for Disability
-Pub. L. 87–381, § 8, Oct. 4, 1961, 75 Stat. 812, provided that: “Any person who— “(1) made an election before the date of enactment of this Act [Oct. 4, 1961], which would be effective if he retired on the day before such date; and “(2) hereafter retires for physical disability before completing 18 years of service for which he is entitled to credit in the computation of his basic pay— shall be considered as having applicable to him all of the provisions of chapter 73 of title 10, United States Code [this chapter], existing on the date preceding the date of enactment of this Act [Oct. 4, 1961], except that any revocation or change of an election is not effective until three years after the date of filing such revocation or change, or the date of enactment of this Act [Oct. 4, 1961], whichever is later.”
+Pub. L. 87–381, § 8, Oct. 4, 1961, 75 Stat. 812, provided that: “Any person who—“(1) made an election before the date of enactment of this Act [Oct. 4, 1961], which would be effective if he retired on the day before such date; and “(2) hereafter retires for physical disability before completing 18 years of service for which he is entitled to credit in the computation of his basic pay— shall be considered as having applicable to him all of the provisions of chapter 73 of title 10, United States Code [this chapter], existing on the date preceding the date of enactment of this Act [Oct. 4, 1961], except that any revocation or change of an election is not effective until three years after the date of filing such revocation or change, or the date of enactment of this Act [Oct. 4, 1961], whichever is later.”
 
 #### Change or Revocation of Election by Certain Colonels and Lieutenant Colonels
 Pub. L. 86–616, § 11, July 12, 1960, 74 Stat. 396, provided that: “Notwithstanding [section 1431 of title 10](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1431), United States Code [this section], a change or revocation of an election made under that section by an officer who is retired under section 10 of this Act [set out as a note under [section 3297 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3297&num=0&edition=prelim)] is effective if made at such a time that it would have been effective had he been retired on the earliest date prescribed for an officer of his kind by section 3916, 3921, 8916, or 8921 of title 10, as appropriate.”
@@ -243,7 +243,7 @@ Only the following persons are eligible to be made the beneficiaries of, or to r
   (D) living on the date when the member is retired or becomes entitled to retired or retainer pay or, if the member was already retired or entitled to retired or retainer pay on November 1, 1953, living on that date; and
 
   (E) born on or before the date prescribed in clause (D).
-  For the purposes of clause (2)(B), a child is considered to be pursuing a full-time course of study or training during an interval between school years that does not exceed one hundred and fifty days if he has demonstrated to the satisfaction of the Secretary concerned that he has a bonafide intention of commencing, resuming, or continuing to pursue a full-time course of study or training in a recognized educational institution immediately after that interval.
+For the purposes of clause (2)(B), a child is considered to be pursuing a full-time course of study or training during an interval between school years that does not exceed one hundred and fifty days if he has demonstrated to the satisfaction of the Secretary concerned that he has a bonafide intention of commencing, resuming, or continuing to pursue a full-time course of study or training in a recognized educational institution immediately after that interval.
 
 ### Statutory Notes
 
@@ -950,6 +950,8 @@ Pub. L. 95–397, title II, § 208, Sept. 30, 1978, 92 Stat. 848, as amended by 
 
   (B) whether the election is being made pursuant to a written agreement previously entered into voluntarily by such person as a part of, or incident to, a proceeding of divorce, dissolution, or annulment and (if so) whether such voluntary written agreement has been incorporated in, or ratified or approved by, a court order.
 
+(6) **Special needs trusts for sole benefit of certain dependent children.—** — A person who has established a supplemental or special needs trust under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act ([42 U.S.C. 1396p(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396p/d/4&num=0&edition=prelim)) for the sole benefit of a dependent child considered disabled under section 1614(a)(3) of that Act ([42 U.S.C. 1382c(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382c/a/3&num=0&edition=prelim)) who is incapable of self-support because of mental or physical incapacity may elect to provide an annuity to that supplemental or special needs trust.
+
 **(c) Persons on Temporary Disability Retired List.—** The application of the Plan to a person whose name is on the temporary disability retired list terminates when his name is removed from that list and he is no longer entitled to disability retired pay.
 
 **(d) Coverage for Survivors of Members Who Die on Active Duty.—**
@@ -968,9 +970,9 @@ Pub. L. 95–397, title II, § 208, Sept. 30, 1978, 92 Stat. 848, as amended by 
 
 (2) **Dependent children.—**
 
-  (A) *Annuity when no eligible surviving spouse.—* — In the case of a member described in paragraph (1), the Secretary concerned shall pay an annuity under this subchapter to the member’s dependent children under [section 1450(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/2&num=0&edition=prelim) as applicable.
+  (A) *Annuity when no eligible surviving spouse.—* — In the case of a member described in paragraph (1), the Secretary concerned shall pay an annuity under this subchapter to the member’s dependent children under subsection (a)(2) or (a)(4) of [section 1450 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1450) as applicable.
 
-  (B) *Optional annuity when there is an eligible surviving spouse.—* — In the case of a member described in paragraph (1) who dies after October 7, 2001, and for whom there is a surviving spouse eligible for an annuity under paragraph (1), the Secretary may pay an annuity under this subchapter to the member’s dependent children under [section 1450(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/3&num=0&edition=prelim), if applicable, instead of paying an annuity to the surviving spouse under paragraph (1), if the Secretary concerned, in consultation with the surviving spouse, determines it appropriate to provide an annuity for the dependent children under this paragraph instead of an annuity for the surviving spouse under paragraph (1).
+  (B) *Optional annuity when there is an eligible surviving spouse.—* — In the case of a member described in paragraph (1) who dies after October 7, 2001, and for whom there is a surviving spouse eligible for an annuity under paragraph (1), the Secretary may pay an annuity under this subchapter to the member’s dependent children under subsection (a)(3) or (a)(4) of [section 1450 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1450), if applicable, instead of paying an annuity to the surviving spouse under paragraph (1), if the Secretary concerned, in consultation with the surviving spouse, determines it appropriate to provide an annuity for the dependent children under this paragraph instead of an annuity for the surviving spouse under paragraph (1).
 
 (3) **Mandatory former spouse annuity.—** — If a member described in paragraph (1) is required under a court order or spousal agreement to provide an annuity to a former spouse upon becoming eligible to be a participant in the Plan or has made an election under subsection (b) to provide an annuity to a former spouse, the Secretary—
 
@@ -1006,7 +1008,7 @@ Pub. L. 95–397, title II, § 208, Sept. 30, 1978, 92 Stat. 848, as amended by 
 
   (B) is a member of a reserve component not described in subparagraph (A) and dies from an injury or illness incurred or aggravated in the line of duty during inactive-duty training.
 
-(2) **Dependent child annuity.—** — The Secretary concerned shall pay an annuity under this subchapter to the dependent child of a person described in paragraph (1) if there is no surviving spouse or if the person’s surviving spouse subsequently dies.
+(2) **Dependent child annuity.—** — The Secretary concerned shall pay an annuity under this subchapter to the dependent child, or to a special needs trust pursuant to [section 1450(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/4&num=0&edition=prelim), of a person described in paragraph (1) if there is no surviving spouse or if the person’s surviving spouse subsequently dies.
 
 (3) **Mandatory former spouse annuity.—** — If a person described in paragraph (1) is required under a court order or spousal agreement to provide an annuity to a former spouse upon becoming eligible to be a participant in the Plan or has made an election under subsection (b) to provide an annuity to a former spouse, the Secretary—
 
@@ -1040,6 +1042,14 @@ Pub. L. 95–397, title II, § 208, Sept. 30, 1978, 92 Stat. 848, as amended by 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b)(6). Pub. L. 113–291, § 624(a)(2)(B)(i), added par. (6).
+
+Subsec. (d)(2)(A). Pub. L. 113–291, § 624(a)(2)(B)(ii)(I), substituted “subsection (a)(2) or (a)(4) of section 1450” for “section 1450(a)(2)”.
+
+Subsec. (d)(2)(B). Pub. L. 113–291, § 624(a)(2)(B)(ii)(II), substituted “subsection (a)(3) or (a)(4) of section 1450” for “section 1450(a)(3)”.
+
+Subsec. (f)(2). Pub. L. 113–291, § 624(a)(2)(B)(iii), inserted “, or to a special needs trust pursuant to [section 1450(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/4&num=0&edition=prelim),” after “dependent child”.
+
 2006—Subsec. (b)(1)(E). Pub. L. 109–364, § 643(a)(1), inserted “or under subparagraph (G) of this paragraph” before period at end.
 
 Subsec. (b)(1)(G). Pub. L. 109–364, § 643(a)(2), added subpar. (G).
@@ -1352,7 +1362,9 @@ Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuitie
 
 (3) **Dependent children.—** — The dependent children in equal shares if the person to whom [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448) applies (with the concurrence of the person’s spouse, if required under [section 1448(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/a/3&num=0&edition=prelim)) elected to provide an annuity for dependent children but not for the spouse or former spouse.
 
-(4) **Natural person designated under “insurable interest” coverage.—** — The natural person designated under [section 1448(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/b/1&num=0&edition=prelim), unless the election to provide an annuity to the natural person has been changed as provided in subsection (f).
+(4) **Special needs trusts for sole benefit of certain dependent children.—** — Notwithstanding subsection (i), a supplemental or special needs trust established under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act ([42 U.S.C. 1396p(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396p/d/4&num=0&edition=prelim)) for the sole benefit of a dependent child considered disabled under section 1614(a)(3) of that Act ([42 U.S.C. 1382c(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382c/a/3&num=0&edition=prelim)) who is incapable of self-support because of mental or physical incapacity.
+
+(5) **Natural person designated under “insurable interest” coverage.—** — The natural person designated under [section 1448(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/b/1&num=0&edition=prelim), unless the election to provide an annuity to the natural person has been changed as provided in subsection (f).
 
 **(b) Termination of Annuity for Death, Remarriage Before Age 55, Etc.—**
 
@@ -1446,17 +1458,13 @@ Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuitie
 
 **(h) Treatment of Annuities Under Other Laws.—** Except as provided in [section 1451 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1451), an annuity under this section is in addition to any other payment to which a person is entitled under any other provision of law. Such annuity shall be considered as income under laws administered by the Secretary of Veterans Affairs.
 
-**(i) Annuities Exempt From Certain Legal Process.—** Except as provided in subsection (l)(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
+**(i) Annuities Exempt From Certain Legal Process.—** Except as provided in subsection (a)(4) or (l)(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
 
 **(j) Effective Date of Reserve-Component Annuities.—**
 
-(1) **Persons making section 1448**
+(1) **Persons making section 1448(e) designation.—** — A reserve-component annuity shall be effective in accordance with the designation made under [section 1448(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/e&num=0&edition=prelim) by the person providing the annuity.
 
-  (e) *designation.—* — A reserve-component annuity shall be effective in accordance with the designation made under [section 1448(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/e&num=0&edition=prelim) by the person providing the annuity.
-
-(2) **Persons dying before making section 1448**
-
-  (e) *designation.—* — An annuity payable under [section 1448(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/f&num=0&edition=prelim) shall be effective on the day after the date of the death of the person upon whose service the right to the annuity is based.
+(2) **Persons dying before making section 1448(e) designation.—** — An annuity payable under [section 1448(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/f&num=0&edition=prelim) shall be effective on the day after the date of the death of the person upon whose service the right to the annuity is based.
 
 **(k) Adjustment of Spouse or Former Spouse Annuity Upon Loss of Dependency and Indemnity Compensation.—**
 
@@ -1551,6 +1559,10 @@ Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuitie
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a)(4), (5). Pub. L. 113–291, § 624(a)(1), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (i). Pub. L. 113–291, § 624(a)(2)(A), inserted “(a)(4) or” after “subsection”.
+
 2013—Subsec. (d). Pub. L. 112–239 inserted “or chapter 84 of such title” after “chapter 83 of title 5”, “or 8416(a)” after “8339(j)”, and “or 8442(a)” after “8341(b)”.
 
 2009—Subsec. (m)(2)(F) to (I). Pub. L. 111–31, § 201(a), added subpars. (F) to (I) and struck out former subpar. (F) which read as follows: “for months after fiscal year 2013, $100.”
@@ -1727,7 +1739,7 @@ Pub. L. 106–65, div. A, title VI, § 657, Oct. 5, 1999, 113 Stat. 668, as amen
 ## § 1451. Amount of annuity
 **(a) Computation of Annuity for a Spouse, Former Spouse, or Child.—**
 
-(1) **Standard annuity.—** — In the case of a standard annuity provided to a beneficiary under [section 1450(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a&num=0&edition=prelim) (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
+(1) **Standard annuity.—** — In the case of a standard annuity provided to a beneficiary under [section 1450(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a&num=0&edition=prelim) (other than under section 1450(a)(4) 11 See References in Text note below.), the monthly annuity payable to the beneficiary shall be determined as follows:
 
   (A) *Beneficiary under 62 years of age.—* — If the beneficiary is under 62 years of age or is a dependent child when becoming entitled to the annuity, the monthly annuity shall be the amount equal to 55 percent of the base amount.
 
@@ -1747,7 +1759,7 @@ Pub. L. 106–65, div. A, title VI, § 657, Oct. 5, 1999, 113 Stat. 668, as amen
 
     (ii) *Rule if beneficiary eligible for social security offset computation.—* — If the beneficiary is eligible to have the annuity computed under subsection (e) and if computation of the annuity under that subsection is more favorable to the beneficiary than computation under clause (i), the annuity shall be computed under that subsection rather than under clause (i).
 
-(2) **Reserve-component annuity.—** — In the case of a reserve-component annuity provided to a beneficiary under [section 1450(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a&num=0&edition=prelim) (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
+(2) **Reserve-component annuity.—** — In the case of a reserve-component annuity provided to a beneficiary under [section 1450(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a&num=0&edition=prelim) (other than under section 1450(a)(4) 1), the monthly annuity payable to the beneficiary shall be determined as follows:
 
   (A) *Beneficiary under 62 years of age.—* — If the beneficiary is under 62 years of age or is a dependent child when becoming entitled to the annuity, the monthly annuity shall be the amount equal to a percentage of the base amount that—
 
@@ -1767,9 +1779,9 @@ Pub. L. 106–65, div. A, title VI, § 657, Oct. 5, 1999, 113 Stat. 668, as amen
 
 **(b) Insurable Interest Beneficiary.—**
 
-(1) **Standard annuity.—** — In the case of a standard annuity provided to a beneficiary under [section 1450(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/4&num=0&edition=prelim), the monthly annuity payable to the beneficiary shall be the amount equal to 55 percent of the retired pay of the person who elected to provide the annuity after the reduction in that pay in accordance with [section 1452(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1452/c&num=0&edition=prelim).
+(1) **Standard annuity.—** — In the case of a standard annuity provided to a beneficiary under section 1450(a)(4) 1 of this title, the monthly annuity payable to the beneficiary shall be the amount equal to 55 percent of the retired pay of the person who elected to provide the annuity after the reduction in that pay in accordance with [section 1452(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1452/c&num=0&edition=prelim).
 
-(2) **Reserve-component annuity.—** — In the case of a reserve-component annuity provided to a beneficiary under [section 1450(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/4&num=0&edition=prelim), the monthly annuity payable to the beneficiary shall be the amount equal to a percentage of the retired pay of the person who elected to provide the annuity after the reduction in such pay in accordance with [section 1452(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1452/c&num=0&edition=prelim) that—
+(2) **Reserve-component annuity.—** — In the case of a reserve-component annuity provided to a beneficiary under section 1450(a)(4) 1 of this title, the monthly annuity payable to the beneficiary shall be the amount equal to a percentage of the retired pay of the person who elected to provide the annuity after the reduction in such pay in accordance with [section 1452(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1452/c&num=0&edition=prelim) that—
 
   (A) is less than 55 percent; and
 
@@ -1901,6 +1913,8 @@ Pub. L. 106–65, div. A, title VI, § 657, Oct. 5, 1999, 113 Stat. 668, as amen
 ### Statutory Notes
 
 #### References in Text
+[Section 1450(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/4&num=0&edition=prelim), referred to in subsecs. (a)(1), (2) and (b)(1), (2), was redesignated [section 1450(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/5&num=0&edition=prelim) by Pub. L. 113–291, div. A, title VI, § 624(a)(1)(A), Dec. 19, 2014, 128 Stat. 3403.
+
 The Social Security Act, referred to in subsec. (e)(3)(A), (4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 6413(c) of the Internal Revenue Code of 1986, referred to in subsec. (e)(4)(B)(ii), is classified to [section 6413(c) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6413/c&num=0&edition=prelim), Internal Revenue Code.
@@ -2095,7 +2109,7 @@ Pub. L. 101–189, div. A, title XIV, § 1403(b)–(d), Nov. 29, 1989, 103 Stat.
 
 **(c) Reduction for Insurable Interest Coverage.—**
 
-(1) **Required reduction in retired pay.—** — The retired pay of a person who has elected to provide an annuity to a person designated by him under [section 1450(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/4&num=0&edition=prelim) shall be reduced as follows:
+(1) **Required reduction in retired pay.—** — The retired pay of a person who has elected to provide an annuity to a person designated by him under section 1450(a)(4) 11 See References in Text note below. of this title shall be reduced as follows:
 
   (A) *Standard annuity.—* — In the case of a person providing a standard annuity, the reduction shall be by 10 percent plus 5 percent for each full five years the individual designated is younger than that person.
 
@@ -2103,7 +2117,7 @@ Pub. L. 101–189, div. A, title XIV, § 1403(b)–(d), Nov. 29, 1989, 103 Stat.
 
 (2) **Limitation on total reduction.—** — The total reduction under paragraph (1) may not exceed 40 percent.
 
-(3) **Duration of reduction.—** — The reduction in retired pay prescribed by this subsection shall continue during the lifetime of the person designated under [section 1450(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/4&num=0&edition=prelim) or until the person receiving retired pay changes his election under [section 1450(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/f&num=0&edition=prelim).
+(3) **Duration of reduction.—** — The reduction in retired pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) 1 of this title or until the person receiving retired pay changes his election under [section 1450(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/f&num=0&edition=prelim).
 
 (4) **Rule for computation.—** — Computation of a member’s retired pay for purposes of this subsection shall be made without regard to any reduction under [section 1409(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b/2&num=0&edition=prelim).
 
@@ -2186,6 +2200,8 @@ Pub. L. 101–189, div. A, title XIV, § 1403(b)–(d), Nov. 29, 1989, 103 Stat.
 ### Statutory Notes
 
 #### References in Text
+[Section 1450(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/4&num=0&edition=prelim), referred to in subsec. (c)(1), (3), was redesignated [section 1450(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/5&num=0&edition=prelim) by Pub. L. 113–291, div. A, title VI, § 624(a)(1)(A), Dec. 19, 2014, 128 Stat. 3403.
+
 Section 631(b) of Public Law 104–106 (110 Stat. 364), referred to in subsec. (h)(2)(A), was set out as a note under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a) prior to repeal by Pub. L. 104–201, div. A, title VI, § 631(b), Sept. 23, 1996, 110 Stat. 2549.
 
 #### Amendments
@@ -2348,13 +2364,15 @@ Subsec. (b). Pub. L. 104–316 struck out “and the Comptroller General” afte
 
 **(c) Procedure for Depositing Certain Receipts.—** Regulations prescribed under this section shall establish procedures for depositing the amounts referred to in sections 1448(g), 1450(k)(2), and 1452(d) of this title.
 
-**(d) Payments to Guardians and Fiduciaries.—**
+**(d) Payments to Guardians, Fiduciaries, and Special Needs Trusts.—**
 
 (1) **In general.—** — Regulations prescribed under this section shall provide procedures for the payment of an annuity under this subchapter in the case of—
 
-  (A) a person for whom a guardian or other fiduciary has been appointed; and
+  (A) a person for whom a guardian or other fiduciary has been appointed;
 
-  (B) a minor, mentally incompetent, or otherwise legally disabled person for whom a guardian or other fiduciary has not been appointed.
+  (B) a minor, mentally incompetent, or otherwise legally disabled person for whom a guardian or other fiduciary has not been appointed; and
+
+  (C) a dependent child incapable of self-support because of mental or physical incapacity for whom a supplemental or special needs trust has been established under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act ([42 U.S.C. 1396p(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396p/d/4&num=0&edition=prelim)).
 
 (2) **Authorized procedures.—** — The regulations under paragraph (1) may include provisions for the following:
 
@@ -2362,27 +2380,47 @@ Subsec. (b). Pub. L. 104–316 struck out “and the Comptroller General” afte
 
   (B) In the case of an annuitant referred to in paragraph (1)(B), payment of the annuity to any person who, in the judgment of the Secretary concerned, is responsible for the care of the annuitant.
 
-  (C) Subject to subparagraphs (D) and (E), a requirement for the payee of an annuity to spend or invest the amounts paid on behalf of the annuitant solely for benefit of the annuitant.
+  (C) In the case of an annuitant referred to in paragraph (1)(C), payment of the annuity to the supplemental or special needs trust established for the annuitant.
 
-  (D) Authority for the Secretary concerned to permit the payee to withhold from the annuity payment such amount, not in excess of 4 percent of the annuity, as the Secretary concerned considers a reasonable fee for the fiduciary services of the payee when a court appointment order provides for payment of such a fee to the payee for such services or the Secretary concerned determines that payment of a fee to such payee is necessary in order to obtain the fiduciary services of the payee.
+  (D) Subject to subparagraphs (E) and (F), a requirement for the payee of an annuity to spend or invest the amounts paid on behalf of the annuitant solely for benefit of the annuitant.
 
-  (E) Authority for the Secretary concerned to require the payee to provide a surety bond in an amount sufficient to protect the interests of the annuitant and to pay for such bond out of the annuity.
+  (E) Authority for the Secretary concerned to permit the payee to withhold from the annuity payment such amount, not in excess of 4 percent of the annuity, as the Secretary concerned considers a reasonable fee for the fiduciary services of the payee when a court appointment order provides for payment of such a fee to the payee for such services or the Secretary concerned determines that payment of a fee to such payee is necessary in order to obtain the fiduciary services of the payee.
 
-  (F) A requirement for the payee of an annuity to maintain and, upon request, to provide to the Secretary concerned an accounting of expenditures and investments of amounts paid to the payee.
+  (F) Authority for the Secretary concerned to require the payee to provide a surety bond in an amount sufficient to protect the interests of the annuitant and to pay for such bond out of the annuity.
 
-  (G) In the case of an annuitant referred to in paragraph (1)(B)—
+  (G) A requirement for the payee of an annuity to maintain and, upon request, to provide to the Secretary concerned an accounting of expenditures and investments of amounts paid to the payee.
 
-    (i) procedures for determining incompetency and for selecting a payee to represent the annuitant for the purposes of this section, including provisions for notifying the annuitant of the actions being taken to make such a determination and to select a representative payee, an opportunity for the annuitant to review the evidence being considered, and an opportunity for the annuitant to submit additional evidence before the determination is made; and
+  (H) In the case of an annuitant referred to in paragraph (1)(B) or (1)(C)—
 
-    (ii) standards for determining incompetency, including standards for determining the sufficiency of medical evidence and other evidence.
+    (i) procedures for determining incompetency and for selecting a payee to represent the annuitant for the purposes of this section, including provisions for notifying the annuitant of the actions being taken to make such a determination and to select a representative payee, an opportunity for the annuitant to review the evidence being considered, and an opportunity for the annuitant to submit additional evidence before the determination is made;
 
-  (H) Provisions for any other matter that the President considers appropriate in connection with the payment of an annuity in the case of a person referred to in paragraph (1).
+    (ii) standards for determining incompetency, including standards for determining the sufficiency of medical evidence and other evidence; and
 
-(3) **Legal effect of payment to guardian or fiduciary.—** — An annuity paid to a person on behalf of an annuitant in accordance with the regulations prescribed pursuant to paragraph (1) discharges the obligation of the United States for payment to the annuitant of the amount of the annuity so paid.
+    (iii) procedures for determining when annuity payments to a supplemental or special needs trust shall end based on the death or marriage of the dependent child for which the trust was established.
+
+  (I) Provisions for any other matter that the President considers appropriate in connection with the payment of an annuity in the case of a person referred to in paragraph (1).
+
+(3) **Legal effect of payment to guardian, fiduciary, or trust.—** — An annuity paid to a person on behalf of an annuitant in accordance with the regulations prescribed pursuant to paragraph (1) discharges the obligation of the United States for payment to the annuitant of the amount of the annuity so paid.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (d). Pub. L. 113–291, § 624(b)(1), substituted “, Fiduciaries, and Special Needs Trusts” for “and Fiduciaries” in heading.
+
+Subsec. (d)(1)(C). Pub. L. 113–291, § 624(b)(2), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (d)(2)(C). Pub. L. 113–291, § 624(b)(3)(B), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (d)(2)(D). Pub. L. 113–291, § 624(b)(3)(A), (C), redesignated subpar. (C) as (D) and substituted “subparagraphs (E) and (F)” for “subparagraphs (D) and (E)”.
+
+Subsec. (d)(2)(E) to (G). Pub. L. 113–291, § 624(b)(3)(A), redesignated subpars. (D) to (F) as (E) to (G), respectively. Former subpar. (G) redesignated (H).
+
+Subsec. (d)(2)(H). Pub. L. 113–291, § 624(b)(3)(A), (D), redesignated subpar. (G) as (H), inserted “or (1)(C)” after “(1)(B)” in introductory provisions, and added cl. (iii).
+
+Subsec. (d)(2)(I). Pub. L. 113–291, § 624(b)(3)(A), redesignated subpar. (H) as (I).
+
+Subsec. (d)(3). Pub. L. 113–291, § 624(b)(4), substituted “, fiduciary, or trust” for “or fiduciary” in heading.
+
 1996—Pub. L. 104–201 amended section generally, revising and restating provisions relating to regulations to carry out this subchapter.
 
 1991—Subsecs. (a) to (d). Pub. L. 102–190 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).

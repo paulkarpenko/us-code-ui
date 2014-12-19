@@ -194,7 +194,7 @@ Changes were made in phraseology.
 ## § 676. Printing and binding
 **(a)** The printing and binding for the Supreme Court, including the printing and binding of individual copies, advance pamphlet installments, and bound volumes, of its decisions, whether requisitioned or ordered by the Court or any of its officers or by any other office or agency, and whether paid for by, or charged to the appropriation for, the Court or any other office or agency, shall be done by the printer or printers whom the Court or the Chief Justice of the United States may select, unless it shall otherwise order.
 
-**(b)** Whenever advance pamphlet installments and bound volumes of the Court’s decisions are printed by a private printer, an adequate number of copies for distribution in accordance with the requirements of [section 411 of this title](./chapter-019-distribution-of-reports-and-digests.md#section-411) and for sale to the public shall be provided and made available for these purposes in such manner and at such prices as may be determined from time to time by the Supreme Court or the Chief Justice of the United States, in lieu of compliance by the Public Printer and the Superintendent of Documents with the requirements of sections 411 and 412 of this title with respect to such copies. Pending distribution or sale, such copies shall be the property of the United States and shall be held in the custody of the marshal or such other person, organization, or agency, as the Supreme Court or the Chief Justice of the United States may designate.
+**(b)** Whenever advance pamphlet installments and bound volumes of the Court’s decisions are printed by a private printer, an adequate number of copies for distribution in accordance with the requirements of [section 411 of this title](./chapter-019-distribution-of-reports-and-digests.md#section-411) and for sale to the public shall be provided and made available for these purposes in such manner and at such prices as may be determined from time to time by the Supreme Court or the Chief Justice of the United States, in lieu of compliance by the Director of the Government Publishing Office and the Superintendent of Documents with the requirements of sections 411 and 412 of this title with respect to such copies. Pending distribution or sale, such copies shall be the property of the United States and shall be held in the custody of the marshal or such other person, organization, or agency, as the Supreme Court or the Chief Justice of the United States may designate.
 
 ### Statutory Notes
 
@@ -212,6 +212,9 @@ This section corrects a grammatical error in subsection (a) of [section 676 of t
 1951—Subsec. (b). Act Oct. 31, 1951, inserted “of this title” in two places.
 
 1949—Subsec. (a). Act May 24, 1949, inserted “whom” between “printers” and “the Court”.
+
+#### Change of Name
+“Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (b) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 
 <a id="section-677"></a>

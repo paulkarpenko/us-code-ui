@@ -774,11 +774,13 @@ Pub. L. 104–201, div. A, title V, § 554, Sept. 23, 1996, 110 Stat. 2527, dire
 
 (5) Virginia Polytechnic Institute and State University.
 
-(6) North Georgia College and State University.
+(6) The University of North Georgia.
 
 ### Statutory Notes
 
 #### Amendments
+2013—Subsec. (f)(6). Pub. L. 113–66 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “North Georgia College and State University.”
+
 1999—Subsec. (e)(1). Pub. L. 106–65 struck out at end “This paragraph shall apply to a member of the program at a senior military college who graduates from the college after March 31, 1997.”
 
 1997—Pub. L. 105–85, § 544(f)(1), substituted “Support for” for “Detail of officers to” in section catchline.

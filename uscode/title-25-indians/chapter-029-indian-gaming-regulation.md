@@ -41,7 +41,7 @@ The purpose of this chapter is—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
 
 
 <a id="section-2703"></a>
@@ -110,6 +110,9 @@ For purposes of this chapter—
 (10) The term “Secretary” means the Secretary of the Interior.
 
 ### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
 
 #### Amendments
 1992—Par. (7)(E). Pub. L. 102–497 struck out “or Montana” after “Wisconsin”.
@@ -242,6 +245,8 @@ Pub. L. 101–121, title I, § 118, Oct. 23, 1989, 103 Stat. 722, provided that:
 ### Statutory Notes
 
 #### References in Text
+This chapter, referred to in subsecs. (b)(4), (10) and (d)(1), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
+
 The Government Performance and Results Act of 1993, referred to in subsec. (d), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1101&num=0&edition=prelim) and Tables.
 
 #### Codification
@@ -265,6 +270,9 @@ Subsec. (c) of this section, which required the Commission to submit a report to
 
 ### Statutory Notes
 
+#### References in Text
+This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
@@ -274,11 +282,21 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 The Commission may secure from any department or agency of the United States information necessary to enable it to carry out this chapter. Upon the request of the Chairman, the head of such department or agency shall furnish such information to the Commission, unless otherwise prohibited by law.
 
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
+
 
 <a id="section-2709"></a>
 ## § 2709. Interim authority to regulate gaming
 
 Notwithstanding any other provision of this chapter, the Secretary shall continue to exercise those authorities vested in the Secretary on the day before October 17, 1988, relating to supervision of Indian gaming until such time as the Commission is organized and prescribes regulations. The Secretary shall provide staff and support assistance to facilitate an orderly transition to regulation of Indian gaming by the Commission.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
 
 
 <a id="section-2710"></a>
@@ -539,6 +557,9 @@ Notwithstanding any other provision of this chapter, the Secretary shall continu
 
 ### Statutory Notes
 
+#### References in Text
+This chapter, referred to in subsecs. (a), (d)(7)(B)(iv), (vii)(I), (8)(B)(i), (C), and (e), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
+
 #### Constitutionality
 For information regarding constitutionality of certain provisions of section 11 of Pub. L. 100–497, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
@@ -607,6 +628,11 @@ For information regarding constitutionality of certain provisions of section 11 
 
 **(i) Investigation fee** The Commission shall require a potential contractor to pay a fee to cover the cost of the investigation necessary to reach a determination required in subsection (e) of this section.
 
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsecs. (a)(3), (e)(1)(C), (3), (g), and (h), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
+
 
 <a id="section-2712"></a>
 ## § 2712. Review of existing ordinances and contracts
@@ -628,6 +654,11 @@ For information regarding constitutionality of certain provisions of section 11 
 
 (3) If the Chairman determines that a contract submitted under subsection (a) of this section, or the management contractor under a contract submitted under subsection (a) of this section, does not meet the requirements of [section 2711 of this title](./chapter-029-indian-gaming-regulation.md#section-2711), the Chairman shall provide written notification to the parties to such contract of necessary modifications and the parties shall have not more than 120 days to come into compliance. If a management contract has been approved by the Secretary prior to October 17, 1988, the parties shall have not more than 180 days after notification of necessary modifications to come into compliance.
 
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
+
 
 <a id="section-2713"></a>
 ## § 2713. Civil penalties
@@ -648,6 +679,11 @@ For information regarding constitutionality of certain provisions of section 11 
 **(c) Appeal from final decision** A decision of the Commission to give final approval of a fine levied by the Chairman or to order a permanent closure pursuant to this section shall be appealable to the appropriate Federal district court pursuant to chapter 7 of title 5.
 
 **(d) Regulatory authority under tribal law** Nothing in this chapter precludes an Indian tribe from exercising regulatory authority provided under tribal law over a gaming establishment within the Indian tribe’s jurisdiction if such regulation is not inconsistent with this chapter or with any rules or regulations adopted by the Commission.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsecs. (a)(1), (3), (b)(1), and (d), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
 
 
 <a id="section-2714"></a>
@@ -678,6 +714,11 @@ Decisions made by the Commission pursuant to sections 2710, 2711, 2712, and 2713
 **(b) Provision to law enforcement officials** The Commission shall, when such information indicates a violation of Federal, State, or tribal statutes, ordinances, or resolutions, provide such information to the appropriate law enforcement officials.
 
 **(c) Attorney General** The Attorney General shall investigate activities associated with gaming authorized by this chapter which may be a violation of Federal law.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
 
 
 <a id="section-2717"></a>
@@ -714,6 +755,9 @@ Decisions made by the Commission pursuant to sections 2710, 2711, 2712, and 2713
 (3) The request for appropriations pursuant to paragraph (2) shall be subject to the approval of the Secretary and shall be included as a part of the budget request of the Department of the Interior.
 
 ### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (a)(1), (2), (4), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
 
 #### Amendments
 2006—Subsec. (a)(2)(B). Pub. L. 109–221 added subpar. (B) and struck out former subpar. (B) which read as follows: “The total amount of all fees imposed during any fiscal year under the schedule established under paragraph (1) shall not exceed $8,000,000.”
@@ -803,11 +847,21 @@ Subsec. (b). Pub. L. 105–83, § 123(b)(2), added subsec. (b) and struck out fo
 
 (2) The provisions of this subsection shall apply notwithstanding any other provision of law enacted before, on, or after October 17, 1988, unless such other provision of law specifically cites this subsection.
 
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsecs. (a) and (d)(1), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
+
 
 <a id="section-2720"></a>
 ## § 2720. Dissemination of information
 
 Consistent with the requirements of this chapter, sections 1301, 1302, 1303 and 1304 of title 18 shall not apply to any gaming conducted by an Indian tribe pursuant to this chapter.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
 
 
 <a id="section-2721"></a>
@@ -818,4 +872,4 @@ In the event that any section or provision of this chapter, or amendment made by
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.

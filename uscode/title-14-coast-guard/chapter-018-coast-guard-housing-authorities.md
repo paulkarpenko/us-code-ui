@@ -6,8 +6,8 @@ section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
-<a id="section-680"></a>
-## § 680. Definitions
+<a id="section-680-1"></a>
+## § 680.1. Definitions
 
 In this chapter:
 
@@ -116,6 +116,10 @@ Section, added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 
 
 (3) Proceeds from the conveyance of property under [section 685 of this title](./chapter-018-coast-guard-housing-authorities.md#section-685) for the purpose of carrying out activities under this chapter with respect to military family housing and military unaccompanied housing.
 
+(4) Monies received under section 93(a)(13).
+
+(5) Amounts received under section 672a(b).
+
 **(c) Use of Amounts in Fund.—**
 
 (1) In such amounts as provided in appropriations Acts, and except as provided in subsection (d), the Secretary may use amounts in the Coast Guard Housing Fund to carry out activities under this chapter with respect to military family housing and military unaccompanied housing, including—
@@ -135,6 +139,8 @@ Section, added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b)(4), (5). Pub. L. 113–281 added pars. (4) and (5).
+
 2010—Subsec. (b)(2). Pub. L. 111–281, § 221(a)(6)(A)(i), substituted “or military unaccompanied” for “or unaccompanied”.
 
 Subsec. (b)(3). Pub. L. 111–281, § 221(a)(6)(A)(ii), substituted “military family housing and” for “military family and” and struck out “or lease” after “conveyance” and “or facilities” after “property”.

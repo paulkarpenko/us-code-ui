@@ -51,7 +51,11 @@ Subsec. (b)(1). Pub. L. 112–158, § 403(d), inserted “, 105A(a), or 105B(a)�
 #### Delegation of Functions
 Ex. Ord. No. 13553, §§ 5–7, Sept. 28, 2010, 77 Stat. 60568, 60569, authorized the Secretary of the Treasury, in consultation with the Secretary of State, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to impose or maintain sanctions pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.) under [section 8514(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8514/a&num=0&edition=prelim); authorized the Secretary of State, in consultation with the Secretary of Homeland Security on certain admissibility matters, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to impose or maintain visa sanctions under [section 8514(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8514/a&num=0&edition=prelim); and authorized the Secretary of State, in consultation with the Secretary of the Treasury, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to include a person on the list required by [section 8514(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8514/b&num=0&edition=prelim).
 
-For other delegation of functions of President under this section, see Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under [section 8501 of this title](./chapter-092-comprehensive-iran-sanctions-accountability-and-divestment.md#section-8501).
+Other delegations of functions vested in the President by this section were contained in the following:
+
+Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under [section 8801 of this title](./chapter-095-iran-freedom-and-counterproliferation.md#section-8801).
+
+Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under [section 8501 of this title](./chapter-092-comprehensive-iran-sanctions-accountability-and-divestment.md#section-8501).
 
 
 <a id="section-8511"></a>
@@ -127,9 +131,9 @@ The Presidential Memorandum of November 21, 1996 (Delegation of Responsibilities
 
 I hereby delegate functions vested in the President by CISADA, as follows:
 
-• section 102(h)(5) to the Secretary of State;
+• section 102(h)(5) [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note] to the Secretary of State;
 
-• section 103(b)(3) to the Secretary of State and the Secretary of the Treasury, consistent with Executive Orders 13224 and 13382, as amended, and any other relevant Executive Orders;
+• section 103(b)(3) [[22 U.S.C. 8512(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8512/b/3&num=0&edition=prelim)] to the Secretary of State and the Secretary of the Treasury, consistent with Executive Orders 13224 and 13382, as amended, and any other relevant Executive Orders;
 
 • section 103(d)(1) to the Secretary of the Treasury, in consultation with the Secretary of State and, as appropriate, other agencies;
 
@@ -137,17 +141,17 @@ I hereby delegate functions vested in the President by CISADA, as follows:
 
 • section 103(d)(2)(B) to the Secretary of State, in consultation with the Secretary of the Treasury and the Secretary of Commerce;
 
-• section 106 to the Secretary of State, in consultation with the Secretary of Commerce;
+• section 106 [[22 U.S.C. 8515](./chapter-092-comprehensive-iran-sanctions-accountability-and-divestment.md#section-8515)] to the Secretary of State, in consultation with the Secretary of Commerce;
 
-• section 110 to the Secretary of State;
+• section 110 [[22 U.S.C. 8518](./chapter-092-comprehensive-iran-sanctions-accountability-and-divestment.md#section-8518)] to the Secretary of State;
 
-• section 111(a) to the Secretary of State, in consultation with the Secretary of the Treasury and the President of the Export-Import Bank;
+• section 111(a) [[22 U.S.C. 8519(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8519/a&num=0&edition=prelim)] to the Secretary of State, in consultation with the Secretary of the Treasury and the President of the Export-Import Bank;
 
 • section 111(b) to the President of the Export Import Bank, in consultation with the Secretary of State and the Secretary of the Treasury;
 
-• section 115 to the Secretary of State, in consultation with the Attorney General and the Secretary of the Treasury;
+• section 115 [124 Stat. 1341] to the Secretary of State, in consultation with the Attorney General and the Secretary of the Treasury;
 
-• sections 303(a) and 303(b) to the Secretary of State, in consultation with the Secretary of Commerce;
+• sections 303(a) and 303(b) [[22 U.S.C. 8543(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8543/a&num=0&edition=prelim), (b)] to the Secretary of State, in consultation with the Secretary of Commerce;
 
 • section 303(c) to the Secretary of Commerce with regard to exports governed by the Export Administration Regulations, and to the Secretary of State with regard to exports governed by the International Traffic in Arms Regulations;
 
@@ -155,9 +159,9 @@ I hereby delegate functions vested in the President by CISADA, as follows:
 
 • section 303(e) to the Secretary of State, in consultation with the Secretary of Commerce;
 
-• section 304 to the Secretary of State, in consultation with the Secretary of Commerce;
+• section 304 [124 Stat. 1349] to the Secretary of State, in consultation with the Secretary of Commerce;
 
-• section 401(b) to the Secretary of State, in consultation with the Secretary of the Treasury and, as appropriate, other agencies, with respect to the waiver of sanctions under section 103(b); to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the application of the prohibition under section 106(a); and to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the imposition of the licensing requirement under section 303(c).
+• section 401(b) [[22 U.S.C. 8551(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8551/b&num=0&edition=prelim)] to the Secretary of State, in consultation with the Secretary of the Treasury and, as appropriate, other agencies, with respect to the waiver of sanctions under section 103(b); to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the application of the prohibition under section 106(a); and to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the imposition of the licensing requirement under section 303(c).
 
 Any reference in this memorandum to provisions of any Act related to the subject of this memorandum shall be deemed to include references to any hereafter-enacted provision of law that is the same or substantially the same as such provisions.
 
@@ -618,8 +622,28 @@ Pub. L. 112–158, title V, § 504(b), Aug. 10, 2012, 126 Stat. 1262, provided t
 #### Delegation of Functions
 Ex. Ord. No. 13599, Feb. 5, 2012, 77 F.R. 6659, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense, provided in section 10 that the Secretary of the Treasury, in consultation with the Secretary of State, is authorized to exercise the functions and authorities conferred upon the President by subsecs. (d)(1)(A) and (g)(1) of this section and to redelegate such functions and authorities consistent with applicable law; and provided in section 11 that the Secretary of State, in consultation with the Secretary of the Treasury, the Secretary of Energy, and the Director of National Intelligence, is authorized to exercise the functions and authorities conferred upon the President by subsec. (d)(4)(D) of this section and that the Secretary of State, in consultation with the Secretary of the Treasury, is authorized to exercise the functions and authorities conferred upon the President by subsecs. (e)(1), (2) and (g)(1) of this section and to redelegate all such functions and authorities consistent with applicable law.
 
+Memorandum of President of the United States, Jan. 20, 2014, 79 F.R.6453, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, I hereby delegate to the Secretary of State, in consultation with the Secretary of the Treasury, the authority conferred upon the President by section 1245(d)(5) of the Fiscal Year (FY) 2012 National Defense Authorization Act (NDAA).
+
+Any reference in this memorandum to provisions of the FY 2012 NDAA related to the subject of this memorandum shall be deemed to include references to any hereafter enacted provisions of law that is the same or substantially the same as such provisions.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
 #### Presidential Determinations Relating to Petroleum or Petroleum Products from Iran
 The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
+
+Determination of President of the United States, No. 2015–02, Nov. 21, 2014, 79 F.R. 71619.
+
+Determination of President of the United States, No. 2014–11, June 4, 2014, 79 F.R. 33841.
+
+Determination of President of the United States, No. 2014–03, Nov. 29, 2013, 78 F.R. 76717.
+
+Determination of President of the United States, No. 2013–10, June 5, 2013, 78 F.R. 35537.
 
 Determination of President of the United States, No. 2013–03, Dec. 7, 2012, 77 F.R. 76213.
 
@@ -815,6 +839,11 @@ Ex. Ord. No. 13553, §§ 5–7, Sept. 28, 2010, 75 F.R. 60568, 60569, authorized
   (B) *Public availability* — The unclassified portion of the list required by paragraph (1) shall be made available to the public and posted on the websites of the Department of the Treasury and the Department of State.
 
 **(c) Good defined** In this section, the term “good” has the meaning given that term in [section 8801(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8801/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Delegation of Functions
+For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under [section 8801 of this title](./chapter-095-iran-freedom-and-counterproliferation.md#section-8801).
 
 
 <a id="section-8516"></a>

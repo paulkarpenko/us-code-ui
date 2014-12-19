@@ -359,6 +359,8 @@ Pub. L. 109–163, div. A, title V, § 521(c), Jan. 6, 2006, 119 Stat. 3240, pro
 
 (2) Enrollment of a dependent described in paragraph (1) pursuant to such paragraph shall be on a tuition basis.
 
+(3) Any payments received by the Secretary of Defense under this subsection shall be credited to the account designated by the Secretary for the operation of the virtual educational program under this subsection. Payments so credited shall be merged with other funds in the account and shall be available, to the extent provided in advance in appropriation Acts, for the same purposes and the same period as other funds in the account.
+
 ### Statutory Notes
 
 #### References in Text
@@ -372,6 +374,8 @@ Section 6(a) of Public Law 81–874 ([20 U.S.C. 241(a)](https://uscode.house.gov
 
 #### Amendments
 2013—Subsecs. (k), (l). Pub. L. 112–239 added subsecs. (k) and (l).
+
+Subsec. (l)(3). Pub. L. 113–66 added par. (3).
 
 2011—Subsec. (a)(3). Pub. L. 111–383 added par. (3).
 
@@ -409,6 +413,9 @@ Subsec. (c)(2)(D). Pub. L. 105–261, § 371(c)(2), added subpar. (D).
 
 Subsec. (e)(4). Pub. L. 104–106 added par. (4).
 
+#### Effective Date of 2013 Amendment
+Pub. L. 113–66, div. A, title V, § 553(b), Dec. 26, 2013, 127 Stat. 764, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to tuition payments received under section 2164(l) of title 10, United States Code, for enrollments authorized by such section, after the date of the enactment of this Act [Dec. 26, 2013], in the virtual elementary and secondary education program of the Department of Defense education program.”
+
 #### Effective Date of 1998 Amendment
 Pub. L. 105–261, div. A, title III, § 371(c)(3), Oct. 17, 1998, 112 Stat. 1989, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to academic years beginning on or after the date of the enactment of this Act [Oct. 17, 1998].”
 
@@ -436,7 +443,8 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 (5) The Information Resources Management College.
 
 (6) Any other educational institution of the Department of Defense that the Secretary considers appropriate and designates as an institution of the university.
-[(c) Repealed. Pub. L. 109–364, div. A, title IX, § 904(b)(2)(B), Oct. 17, 2006, 120 Stat. 2353.]
+
+**(c)** Repealed. Pub. L. 109–364, div. A, title IX, § 904(b)(2)(B), Oct. 17, 2006, 120 Stat. 2353.]
 
 **(d) Source of Funds for Professional Development Education Operations.—** Funding for the professional development education operations of the National Defense University shall be provided from funds made available to the Secretary of Defense from the annual appropriation “Operation and Maintenance, Defense-wide”.
 

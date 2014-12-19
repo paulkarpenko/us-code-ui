@@ -21,7 +21,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 <a id="section-5402"></a>
 ## § 5402. Certain uses of excess foreign currencies
-**(a) Authority to use** During fiscal year 1990, the Administrator of the Agency for International Development may use, for the purposes described in subsection (b) of this section, such sums of foreign currencies described in subsection (c) of this section as the Administrator may determine, subject to subsection (f) of this section.
+**(a) Authority to use** During fiscal year 1990, the Administrator of the Agency for International Development may use, for the purposes described in subsection (b), such sums of foreign currencies described in subsection (c) as the Administrator may determine, subject to subsection (f).
 
 **(b) Purposes for which currency may be used** Foreign currencies may be used under this section—
 
@@ -266,7 +266,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (c)(2), is Pub. L. 87
 
 (2) shall emphasize feed grains.
 
-**(d) Consistency with budget requirements** Subsection (c) of this section should not be construed to authorize or require any budgetary obligations or outlays that are inconsistent with House Concurrent Resolution 106 of the 101st Congress (setting forth the congressional budget for the United States Government for fiscal year 1990).
+**(d) Consistency with budget requirements** Subsection (c) should not be construed to authorize or require any budgetary obligations or outlays that are inconsistent with House Concurrent Resolution 106 of the 101st Congress (setting forth the congressional budget for the United States Government for fiscal year 1990).
 
 ### Statutory Notes
 
@@ -286,9 +286,9 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 ## § 5422. Debt-for-equity swaps and other special techniques
 **(a) Reduction of debt burden** The President shall take all appropriate actions to explore and encourage innovative approaches to the reduction of the government-to-government and commercial debt burden of East European countries which have taken substantive steps toward political democracy and economic pluralism.
 
-**(b) Authority for discounted sales of debt** Notwithstanding any other provision of law, the President may undertake the discounted sale, to private purchasers, of United States Government debt obligations of an East European country which has taken substantive steps toward political democracy and economic pluralism, subject to subsection (c) of this section.
+**(b) Authority for discounted sales of debt** Notwithstanding any other provision of law, the President may undertake the discounted sale, to private purchasers, of United States Government debt obligations of an East European country which has taken substantive steps toward political democracy and economic pluralism, subject to subsection (c).
 
-**(c) Condition** An obligation may be sold under subsection (b) of this section only if the sale will facilitate so-called debt-for-equity or debt-for-development swaps wherein such newly privatized debt is exchanged by the new holder of the obligation for—
+**(c) Condition** An obligation may be sold under subsection (b) only if the sale will facilitate so-called debt-for-equity or debt-for-development swaps wherein such newly privatized debt is exchanged by the new holder of the obligation for—
 
 (1) local currencies, policy commitments, or other assets needed for development or other economic activities, or
 
@@ -309,18 +309,18 @@ Functions of President under this section delegated to Secretary of the Treasury
 (2) policies and practices conducive to private sector development in Poland and Hungary,
 through loans, grants, equity investments, feasibility studies, technical assistance, training, insurance, guarantees, and other measures.
 
-**(b) Authorization of appropriations** To carry out the purposes specified in subsection (a) of this section, there are authorized to be appropriated to the President—
+**(b) Authorization of appropriations** To carry out the purposes specified in subsection (a), there are authorized to be appropriated to the President—
 
 (1) $240,000,000 to support the Polish-American Enterprise Fund; and
 
 (2) $60,000,000 to support the Hungarian-American Enterprise Fund.
 Such amounts are authorized to be made available until expended.
 
-**(c) Nonapplicability of other laws** The funds appropriated under subsection (b) of this section may be made available to the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and used for the purposes of this section notwithstanding any other provision of law.
+**(c) Nonapplicability of other laws** The funds appropriated under subsection (b) may be made available to the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and used for the purposes of this section notwithstanding any other provision of law.
 
 **(d) Designation of Enterprise Funds**
 
-(1) **Designation** — The President is authorized to designate two private, nonprofit organizations as eligible to receive funds and support pursuant to this section upon determining that such organizations have been established for the purposes specified in subsection (a) of this section. For purposes of this chapter, the organizations so designated shall be referred to as the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund (hereinafter in this section referred to as the “Enterprise Funds”).
+(1) **Designation** — The President is authorized to designate two private, nonprofit organizations as eligible to receive funds and support pursuant to this section upon determining that such organizations have been established for the purposes specified in subsection (a). For purposes of this chapter, the organizations so designated shall be referred to as the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund (hereinafter in this section referred to as the “Enterprise Funds”).
 
 (2) **Consultation with Congress** — The President shall consult with the leadership of each House of Congress before designating an organization pursuant to paragraph (1).
 
@@ -336,11 +336,11 @@ Such amounts are authorized to be made available until expended.
 
 (5) **Private character of Enterprise Funds** — Nothing in this section shall be construed to make an Enterprise Fund an agency or establishment of the United States Government, or to make the officers, employees, or members of the Board of Directors of an Enterprise Fund officers or employees of the United States for purposes of title 5.
 
-**(e) Grants to Enterprise Funds** Funds appropriated to the President pursuant to subsection (b) of this section shall be granted to the Enterprise Funds by the Agency for International Development to enable the Enterprise Funds to carry out the purposes specified in subsection (a) of this section and for the administrative expenses of each Enterprise Fund.
+**(e) Grants to Enterprise Funds** Funds appropriated to the President pursuant to subsection (b) shall be granted to the Enterprise Funds by the Agency for International Development to enable the Enterprise Funds to carry out the purposes specified in subsection (a) and for the administrative expenses of each Enterprise Fund.
 
 **(f) Eligible programs and projects**
 
-(1) **In general** — The Enterprise Funds may provide assistance pursuant to this section only for programs and projects which are consistent with the purposes set forth in subsection (a) of this section.
+(1) **In general** — The Enterprise Funds may provide assistance pursuant to this section only for programs and projects which are consistent with the purposes set forth in subsection (a).
 
 (2) **Employee stock ownership plans** — Funds available to the Enterprise Funds may be used to encourage the establishment of Employee Stock Ownership Plans (ESOPs) in Poland and Hungary.
 
@@ -356,7 +356,7 @@ Such amounts are authorized to be made available until expended.
 
 **(g) Matters to be considered by Enterprise Funds** In carrying out this section, each Enterprise Fund shall take into account such considerations as internationally recognized worker rights and other internationally recognized human rights, environmental factors, United States economic and employment effects, and the likelihood of commercial viability of the activity receiving assistance from the Enterprise Fund.
 
-**(h) Retention of interest** An Enterprise Fund may hold funds granted to it pursuant to this section in interest-bearing accounts, prior to the disbursement of such funds for purposes specified in subsection (a) of this section, and may retain for such program purposes any interest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
+**(h) Retention of interest** An Enterprise Fund may hold funds granted to it pursuant to this section in interest-bearing accounts, prior to the disbursement of such funds for purposes specified in subsection (a), and may retain for such program purposes any interest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
 
 **(i) Use of United States private venture capital** In order to maximize the effectiveness of the activities of the Enterprise Funds, each Enterprise Fund may conduct public offerings or private placements for the purpose of soliciting and accepting United States venture capital which may be used, separately or together with funds made available pursuant to this section, for any lawful investment purpose that the Board of Directors of the Enterprise Fund may determine in carrying out this section. Financial returns on Enterprise Fund investments that include a component of private venture capital may be distributed, at such times and in such amounts as the Board of Directors of the Enterprise Fund may determine, to the investors of such capital.
 
@@ -420,9 +420,9 @@ Functions of President under this section relating to Enterprise Funds for Polan
 
 (2) provide technical assistance to Poland and Hungary to facilitate adjustment during the period of economic transition and reform.
 
-**(b) Types of technical assistance authorized** In carrying out subsection (a) of this section, the Secretary is authorized to provide technical assistance regarding policies and programs for training and retraining, job search and employment services, unemployment insurance, occupational safety and health protection, labor-management relations, labor statistics, analysis of productivity constraints, entrepreneurial support for small businesses, market-driven systems of wage and income determinations, job creation, employment security, the observance of internationally recognized worker rights (including freedom of association and the right to organize and bargain collectively), and other matters that the Secretary may deem appropriate regarding free labor markets and labor organizations.
+**(b) Types of technical assistance authorized** In carrying out subsection (a), the Secretary is authorized to provide technical assistance regarding policies and programs for training and retraining, job search and employment services, unemployment insurance, occupational safety and health protection, labor-management relations, labor statistics, analysis of productivity constraints, entrepreneurial support for small businesses, market-driven systems of wage and income determinations, job creation, employment security, the observance of internationally recognized worker rights (including freedom of association and the right to organize and bargain collectively), and other matters that the Secretary may deem appropriate regarding free labor markets and labor organizations.
 
-**(c) Administrative authorities** In carrying out subsection (a) of this section, the Secretary is authorized to do the following:
+**(c) Administrative authorities** In carrying out subsection (a), the Secretary is authorized to do the following:
 
 (1) Solicit and accept in the name of the Department of Labor, and employ or dispose of in furtherance of the purposes of this section, any money or property, real, personal, or mixed, tangible or intangible, received by gift, devise, bequest, or otherwise. Gifts and donations of property which are no longer required for the discharge of the purposes of this section shall be reported to the Administrator of General Services for transfer, donation, or other disposal in accordance with chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
@@ -461,7 +461,7 @@ In subsec. (c)(1), “chapters 1 to 11 of title 40 and division C (except sectio
 ## § 5425. Technical training for private sector development in Poland and Hungary
 **(a) Technical training program** The Agency for International Development shall develop and implement a program for extending basic agribusiness, commercial, entrepreneurial, financial, scientific, and technical skills to the people of Poland and Hungary to enable them to better meet their needs and develop a market economy. This program shall include management training and agricultural extension activities.
 
-**(b) Participation by Enterprise Funds and other agencies and organizations** In carrying out subsection (a) of this section, the Agency for International Development may utilize the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and other appropriate Government and private agencies, programs, and organizations such as—
+**(b) Participation by Enterprise Funds and other agencies and organizations** In carrying out subsection (a), the Agency for International Development may utilize the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and other appropriate Government and private agencies, programs, and organizations such as—
 
 (1) the Department of Agriculture;
 
@@ -475,7 +475,7 @@ In subsec. (c)(1), “chapters 1 to 11 of title 40 and division C (except sectio
 
 (6) other United States, Polish, and Hungarian private and voluntary organizations and private sector entities.
 
-**(c) Nonapplicability of other provisions of law** Assistance provided pursuant to subsection (a) of this section under the authorities of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.] may be provided notwithstanding any other provision of law.
+**(c) Nonapplicability of other provisions of law** Assistance provided pursuant to subsection (a) under the authorities of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.] may be provided notwithstanding any other provision of law.
 
 **(d) Authorization of appropriations** For purposes of implementing this section, there are authorized to be appropriated $10,000,000 for the 3-year period beginning October 1, 1989, to carry out chapter 1 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) and following; relating to development assistance), in addition to amounts otherwise available for such purposes.
 
@@ -485,6 +485,8 @@ In subsec. (c)(1), “chapters 1 to 11 of title 40 and division C (except sectio
 
 #### References in Text
 The Foreign Assistance Act of 1961, referred to in subsecs. (c) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapter 1 of part I of the Foreign Assistance Act of 1961 is classified generally to part I (§ 2151 et seq.) of subchapter I of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title. For provisions deeming references to part I of subchapter I to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293), see [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+
+This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5401) and Tables.
 
 Section 1107 of the Food Security Act of 1985, referred to in subsec. (e), is section 1107 of Pub. L. 99–198, which is set out as a note under [section 1736 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1736&num=0&edition=prelim), Agriculture.
 
@@ -512,7 +514,7 @@ The Peace Corps Act, referred to in text, is Pub. L. 87–293, Sept. 22, 1961, 7
 
 <a id="section-5441"></a>
 ## § 5441. Use of Polish currency generated by agricultural assistance
-**(a) Additional assistance for Poland** A portion of the agricultural commodities described in subsection (c) of this section may be made available and sold or bartered in Poland to generate local currencies to be used—
+**(a) Additional assistance for Poland** A portion of the agricultural commodities described in subsection (c) may be made available and sold or bartered in Poland to generate local currencies to be used—
 
 (1) to complement the assistance for Poland authorized by sections 5413(b), 5421, and 5423 of this title, and
 
@@ -521,9 +523,9 @@ notwithstanding [section 1431(b)(7) of title 7](https://uscode.house.gov/view.xh
 
 **(b) Emphasis on agricultural development** The uses of local currencies generated under this section should emphasize the development of agricultural infrastructure, agriculture-related training, and other aspects of agricultural development in Poland.
 
-**(c) Commodities subject to requirements** Subsection (a) of this section applies with respect to agricultural commodities made available for Poland for fiscal years 1990, 1991, and 1992 under [section 1431(b) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1431/b&num=0&edition=prelim), the Food for Peace Act ([7 U.S.C. 1691](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1691&num=0&edition=prelim) and following), and section 1736o of title 7.
+**(c) Commodities subject to requirements** Subsection (a) applies with respect to agricultural commodities made available for Poland for fiscal years 1990, 1991, and 1992 under [section 1431(b) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1431/b&num=0&edition=prelim), the Food for Peace Act ([7 U.S.C. 1691](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1691&num=0&edition=prelim) and following), and section 1736o of title 7.
 
-**(d) Other uses not precluded** The uses of agricultural commodities and local currencies specified in subsection (a) of this section are in addition to other uses authorized by law.
+**(d) Other uses not precluded** The uses of agricultural commodities and local currencies specified in subsection (a) are in addition to other uses authorized by law.
 
 ### Statutory Notes
 
@@ -549,7 +551,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **(b) Omitted**
 
-**(c) Definitions** For purposes of subsection (a) of this section—
+**(c) Definitions** For purposes of subsection (a)—
 
 (1) the term “credit union” means a member-owned, nonprofit, cooperative depository institution—
 
@@ -675,7 +677,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 **(d) EPA activities in Hungary** The Administrator shall work with other United States and Hungarian officials and private parties to establish and support a regional center in Budapest for facilitating cooperative environmental activities between governmental experts and public and private organizations from the United States and Eastern and Western Europe.
 
-**(e) Funding of EPA activities** To enable the Environmental Protection Agency to carry out subsections (b), (c), and (d) of this section, there are authorized to be appropriated $10,000,000 for the 3-year period beginning October 1, 1989, to carry out chapter 1 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) and following; relating to development assistance) or chapter 4 of Part 11 So in original. Probably should not be capitalized. II of that Act ([22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) and following; relating to the economic support fund). These funds may be used to carry out those subsections notwithstanding any provision of law relating to the use of foreign assistance funds.
+**(e) Funding of EPA activities** To enable the Environmental Protection Agency to carry out subsections (b), (c), and (d), there are authorized to be appropriated $10,000,000 for the 3-year period beginning October 1, 1989, to carry out chapter 1 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) and following; relating to development assistance) or chapter 4 of Part 11 So in original. Probably should not be capitalized. II of that Act ([22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) and following; relating to the economic support fund). These funds may be used to carry out those subsections notwithstanding any provision of law relating to the use of foreign assistance funds.
 
 **(f) Department of Energy activities relating to fossil fuels**
 
@@ -758,7 +760,7 @@ Functions of President under this section delegated to Secretary of Commerce by 
 ## § 5471. Encouraging voluntary assistance for Poland and Hungary
 **(a) Encouraging private contributions** It is the sense of the Congress that the President should take all possible steps to encourage across the Nation a massive outpouring of private contributions of money and nonperishable foods, to be collected by civic, religious, school, and youth organizations, for assistance to Poland and to refugees from Romania who are in Hungary.
 
-**(b) Transportation to Poland of private contributions** In further 11 So in original. Probably should be “furtherance”. of subsection (a) of this section, the President—
+**(b) Transportation to Poland of private contributions** In further 11 So in original. Probably should be “furtherance”. of subsection (a), the President—
 
 (1) using all available authorities, including [section 402 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section402&num=0&edition=prelim) (relating to transportation of humanitarian relief supplies), should use resources of the Department of Defense (including the National Guard) to transport nonfinancial private contributions to Poland,22 So in original. The comma probably should be a semicolon.
 
@@ -785,7 +787,7 @@ It is the sense of the Congress that, to the extent practicable—
 ## § 5473. Report on initial steps taken by United States and on Poland’s requirement for agricultural assistance
 **(a) Initial report** Not later than 60 days after November 28, 1989, the President shall submit a report to the Congress—
 
-(1) describing the steps taken by the United States Government pursuant to subchapter I of this chapter, in particular sections 11 So in original. Probably should be “section”. 5412(a) and (b) of this title;
+(1) describing the steps taken by the United States Government pursuant to subchapter I, in particular sections 11 So in original. Probably should be “section”. 5412(a) and (b) of this title;
 
 (2) assessing Poland’s requirements for additional agricultural assistance during fiscal year 1990 and its requirements for agricultural assistance during fiscal years 1991 and 1992; and
 
@@ -850,14 +852,14 @@ The first report submitted pursuant to [section 5474 of this title](./chapter-06
 
 (3) clear-cut delineation of such United States actions at an early date is integral to United States leadership of this effort.
 
-**(b) Initial SEED Program report** Accordingly, the first report pursuant to subsection (c) 11 See References in Text note below. of this section shall be a comprehensive report that includes a full description of all SEED Actions taken pursuant to each provision of this chapter since November 28, 1989.
+**(b) Initial SEED Program report** Accordingly, the first report pursuant to subsection (c) 11 See References in Text note below. shall be a comprehensive report that includes a full description of all SEED Actions taken pursuant to each provision of this chapter since November 28, 1989.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5401) and Tables.
 
-Subsection (c) of this section, referred to in subsec. (b), was repealed by Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217.
+Subsection (c), referred to in subsec. (b), was repealed by Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217.
 
 #### Amendments
 2011—Subsec. (c). Pub. L. 112–74 struck out subsec. (c), which required President to submit annual SEED Program report.
@@ -931,6 +933,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 For the purpose of paying administrative expenses incurred in connection with carrying out its functions under this chapter, the Agency for International Development may use up to $500,000 each fiscal year of the funds made available to the Agency under this chapter.
 
 ### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5401) and Tables.
 
 #### Administrative Expenses of Agency for International Development for Fiscal Year 1991; Supersedure of Section
 Pub. L. 101–513, title II, (d), Nov. 5, 1990, 104 Stat. 1994, provided that: “Up to $1,000,000 of the funds appropriated under this heading [“Assistance for Eastern Europe”] may be used for the administrative expenses incurred by the Agency for International Development in connection with administering programs for Eastern Europe: Provided, That the authority of this subsection shall supersede for fiscal year 1991 the provisions of section 803 of the Support for East European Democracy (SEED) Act of 1989 [[22 U.S.C. 5493](./chapter-063-support-for-east-european-democracy-seed.md#section-5493)].

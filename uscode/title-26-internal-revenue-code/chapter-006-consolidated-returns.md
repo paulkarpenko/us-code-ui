@@ -251,9 +251,9 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
   (A) *In general* — If—
 
-    (i) a corporation is included (or required to be included) in a consolidated return filed by an affiliated group for a taxable year which includes any period after December 31, 1984, and
+    (i) a corporation is included (or required to be included) in a consolidated return filed by an affiliated group, and
 
-    (ii) such corporation ceases to be a member of such group in a taxable year beginning after December 31, 1984,
+    (ii) such corporation ceases to be a member of such group,
     with respect to periods after such cessation, such corporation (and any successor of such corporation) may not be included in any consolidated return filed by the affiliated group (or by another affiliated group with the same common parent or a successor of such common parent) before the 61st month beginning after its first taxable year in which it ceased to be a member of such affiliated group.
 
   (B) *Secretary may waive application of subparagraph (A)* — The Secretary may waive the application of subparagraph (A) to any corporation for any period subject to such conditions as the Secretary may prescribe.
@@ -333,6 +333,8 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 Section 805(b)(2)(A) and (3) of the Tax Reform Act of 1984, referred to in subsec. (f)(1), (2), is section 805(b)(2)(A) and (3) of Pub. L. 98–369, which is set out as a note under [section 991 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-991).
 
 #### Amendments
+2014—Subsec. (a)(3)(A). Pub. L. 113–295 struck out “for a taxable year which includes any period after December 31, 1984” after “affiliated group” in cl. (i) and struck out “in a taxable year beginning after December 31, 1984” after “such group” in cl. (ii).
+
 1996—Subsec. (b)(8). Pub. L. 104–188, § 1308(d)(2), added par. (8).
 
 Subsec. (c)(2)(B)(i). Pub. L. 104–188, § 1702(h)(6), inserted “section” before “243(b)(2)”.
@@ -384,6 +386,9 @@ Subsec. (b)(8). Pub. L. 86–376 struck out par. (8) which excepted an electing 
 1958—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
 
 1956—Subsec. (b)(2), Act Mar. 13, 1956, inserted reference to section 811.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 1996 Amendment
 Amendment by section 1308(d)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under [section 641 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-641).
@@ -468,18 +473,16 @@ Pub. L. 94–455, title XV, § 1507(c)(2), Oct. 4, 1976, 90 Stat. 1740, as amend
 ## § 1551. Disallowance of the benefits of the graduated corporate rates and accumulated earnings credit
 **(a) In general** If—
 
-(1) any corporation transfers, on or after January 1, 1951, and on or before June 12, 1963, all or part of its property (other than money) to a transferee corporation,
+(1) any corporation transfers, directly or indirectly, all or part of its property (other than money) to a transferee corporation, or
 
-(2) any corporation transfers, directly or indirectly, after June 12, 1963, all or part of its property (other than money) to a transferee corporation, or
-
-(3) five or fewer individuals who are in control of a corporation transfer, directly or indirectly, after June 12, 1963, property (other than money) to a transferee corporation,
+(2) five or fewer individuals who are in control of a corporation transfer, directly or indirectly, property (other than money) to a transferee corporation,
 and the transferee corporation was created for the purpose of acquiring such property or was not actively engaged in business at the time of such acquisition, and if after such transfer the transferor or transferors are in control of such transferee corporation during any part of the taxable year of such transferee corporation, then for such taxable year of such transferee corporation the Secretary may (except as may be otherwise determined under subsection (c)) disallow the benefits of the rates contained in section 11(b) which are lower than the highest rate specified in such section, or the accumulated earnings credit provided in paragraph (2) or (3) of section 535(c), unless such transferee corporation shall establish by the clear preponderance of the evidence that the securing of such benefits or credit was not a major purpose of such transfer.
 
 **(b) Control** For purposes of subsection (a), the term “control” means—
 
-(1) With respect to a transferee corporation described in subsection (a)(1) or (2), the ownership by the transferor corporation, its shareholders, or both, of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock; or
+(1) With respect to a transferee corporation described in subsection (a)(1), the ownership by the transferor corporation, its shareholders, or both, of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock; or
 
-(2) With respect to each corporation described in subsection (a)(3), the ownership by the five or fewer individuals described in such subsection of stock possessing—
+(2) With respect to each corporation described in subsection (a)(2), the ownership by the five or fewer individuals described in such subsection of stock possessing—
 
   (A) at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock of each corporation, and
 
@@ -491,6 +494,12 @@ For purposes of this subsection, section 1563(e) shall apply in determining the 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–295, § 221(a)(94)(A), redesignated pars. (2) and (3) as (1) and (2), respectively, struck out “after June 12, 1963,” after “indirectly,” in pars. (1) and (2), as so redesignated, and struck out former par. (1) which read as follows: “any corporation transfers, on or after January 1, 1951, and on or before June 12, 1963, all or part of its property (other than money) to a transferee corporation,”.
+
+Subsec. (b)(1). Pub. L. 113–295, § 221(a)(94)(B)(i), struck out “or (2)” after “(a)(1)”.
+
+Subsec. (b)(2). Pub. L. 113–295, § 221(a)(94)(B)(ii), substituted “(a)(2)” for “(a)(3)”.
+
 1986—Subsec. (c). Pub. L. 99–514 substituted “section 269(c)” for “section 269(b)”.
 
 1981—Subsec. (a). Pub. L. 97–34 struck out “$150,000” before “accumulated earnings credit”.
@@ -506,6 +515,9 @@ Subsec. (a). Pub. L. 95–600, § 301(b)(18)(A), in provisions following par. (3
 1964—Pub. L. 88–272 amended section generally, and among other changes, designated provisions as subsecs. (a) to (c), included among corporations who are disallowed surtax exemption and accumulated earnings credit, corporations, and five or fewer individuals in charge of a corporation who, directly or indirectly, transfer property in contravention of subsec. (a) after June 12, 1963, substituted provisions permitting the Secretary or his delegate to disallow the exemption or the earnings credit, for provisions which disallowed the exemption and the credit except as otherwise determined by the Secretary of his delegate, provisions that for purposes of determining ownership of stock, section 1563(e) shall apply, for provisions which determined ownership in accordance with section 544, and defined control, with respect to corporations described in subsec. (a)(3), to include the additional test as stated in subsec. (b)(2)(B).
 
 1958—Pub. L. 85–866 substituted “$100,000” for “$60,000”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 232(c) of Pub. L. 97–34, set out as a note under [section 535 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-535).
@@ -563,12 +575,12 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 (1) amounts in each taxable income bracket in the tax table in section 11(b)(1) which do not aggregate more than the maximum amount in such bracket to which a corporation which is not a component member of a controlled group is entitled,
 
-(2) one $250,000 ($150,000 if any component member is a corporation described in section 535(c)(2)(B)) amount for purposes of computing the accumulated earnings credit under section 535(c)(2) and (3),
+(2) one $250,000 ($150,000 if any component member is a corporation described in section 535(c)(2)(B)) amount for purposes of computing the accumulated earnings credit under section 535(c)(2) and (3), and
 
-(3) one $40,000 exemption amount for purposes of computing the amount of the minimum tax, and
+(3) one $40,000 exemption amount for purposes of computing the amount of the minimum tax.
 
-(4) one $2,000,000 amount for purposes of computing the tax imposed by section 59A.
-The amounts specified in paragraph (1), the amount specified in paragraph (3), and the amount specified in paragraph (4) shall be divided equally among the component members of such group on such December 31 unless all of such component members consent (at such time and in such manner as the Secretary shall by regulations prescribe) to an apportionment plan providing for an unequal allocation of such amounts. The amounts specified in paragraph (2) shall be divided equally among the component members of such group on such December 31 unless the Secretary prescribes regulations permitting an unequal allocation of such amounts. Notwithstanding paragraph (1), in applying the last 2 sentences of section 11(b)(1) to such component members, the taxable income of all such component members shall be taken into account and any increase in tax under such last 2 sentences shall be divided among such component members in the same manner as amounts under paragraph (1). In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).
+(4) Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(12)(H)(i), Dec. 19, 2014, 128 Stat. 4038]
+The amounts specified in paragraph (1) and the amount specified in paragraph (3) shall be divided equally among the component members of such group on such December 31 unless all of such component members consent (at such time and in such manner as the Secretary shall by regulations prescribe) to an apportionment plan providing for an unequal allocation of such amounts. The amounts specified in paragraph (2) shall be divided equally among the component members of such group on such December 31 unless the Secretary prescribes regulations permitting an unequal allocation of such amounts. Notwithstanding paragraph (1), in applying the last 2 sentences of section 11(b)(1) to such component members, the taxable income of all such component members shall be taken into account and any increase in tax under such last 2 sentences shall be divided among such component members in the same manner as amounts under paragraph (1). In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).
 
 **(b) Certain short taxable years** If a corporation has a short taxable year which does not include a December 31 and is a component member of a controlled group of corporations with respect to such taxable year, then for purposes of this subtitle—
 
@@ -580,6 +592,10 @@ of such corporation for such taxable year shall be the amount specified in subse
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–295, § 221(a)(12)(H)(ii), substituted “and the amount specified in paragraph (3)” for “, the amount specified in paragraph (3), and the amount specified in paragraph (4)” in concluding provisions.
+
+Subsec. (a)(2) to (4). Pub. L. 113–295, § 221(a)(12)(H)(i), inserted “and” at end of par. (2), substituted a period for “, and” at end of par. (3), and struck out par. (4) which read as follows: “one $2,000,000 amount for purposes of computing the tax imposed by section 59A.”
+
 1996—Subsec. (a). Pub. L. 104–188 in closing provisions substituted “last 2 sentences” for “last sentence” in two places.
 
 1988—Subsec. (a). Pub. L. 100–647 substituted “section 11(b)(1)” for “section 11(b)” in par. (1) and in penultimate sentence.
@@ -617,6 +633,9 @@ Pub. L. 94–12, § 303(c)(1), substituted “$50,000” for “$25,000”.
 Subsec. (a)(2). Pub. L. 94–12, § 304(b), substituted “$150,000” for “$100,000”.
 
 1969—Pub. L. 91–172 provided, with respect to taxable years beginning after Dec. 31, 1974, that a controlled group of corporations is limited to one $25,000 surtax exemption under section 11(d), one $100,000 amount for purposes of computing the accumulated earnings credit under section 535(c)(2) and (3), and one $25,000 amount for purposes of computing the limitation on the small business deduction of life insurance companies under sections 804(a)(4) and 809(d)(10).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§ 13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under [section 39 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-39).
@@ -850,12 +869,14 @@ Pub. L. 91–172, title IV, § 401(g), Dec. 30, 1969, 83 Stat. 604, authorized a
 (5) **Brother-sister controlled group definition for provisions other than this part**
 
   (A) *In general* — Except as specifically provided in an applicable provision, subsection (a)(2) shall be applied to an applicable provision as if it read as follows:
-  “(2) Brother-sister controlled group
-  “Two or more corporations if 5 or fewer persons who are individuals, estates, or trusts own (within the meaning of subsection (d)(2) stock possessing—
-“(A) at least 80 percent of the total combined voting power of all classes of stock entitled to vote, or at least 80 percent of the total value of shares of all classes of stock, of each corporation, and
-“(B) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.”
 
-(B) **Applicable provision** — For purposes of this paragraph, an applicable provision is any provision of law (other than this part) which incorporates the definition of controlled group of corporations under subsection (a).
+(2) **Brother-sister controlled group** — “Two or more corporations if 5 or fewer persons who are individuals, estates, or trusts own (within the meaning of subsection (d)(2) stock possessing—
+
+  (A) at least 80 percent of the total combined voting power of all classes of stock entitled to vote, or at least 80 percent of the total value of shares of all classes of stock, of each corporation, and
+
+  (B) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.”
+
+  (B) *Applicable provision* — For purposes of this paragraph, an applicable provision is any provision of law (other than this part) which incorporates the definition of controlled group of corporations under subsection (a).
 
 ### Statutory Notes
 

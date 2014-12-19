@@ -10,7 +10,7 @@ source: >-
 ## § 4701. Definitions
 **(a)** For the purpose of this chapter—
 
-(1) “agency” means an Executive agency and the Government Printing Office, but does not include—
+(1) “agency” means an Executive agency and the Government Publishing Office, but does not include—
 
   (A) a Government corporation;
 
@@ -42,6 +42,9 @@ source: >-
 1990—Subsec. (a)(1). Pub. L. 101–474 struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
 
 1979—Subsec. (b). Pub. L. 96–54 substituted “chapter” for “subchapter” and “[28 U.S.C. 509](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim)” for “[5 U.S.C. 5108](./chapter-051-classification.md#section-5108)”.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (a)(1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under [section 193 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section193&num=0&edition=prelim), Armed Forces.

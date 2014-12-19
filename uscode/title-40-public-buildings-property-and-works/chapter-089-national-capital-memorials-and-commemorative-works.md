@@ -34,7 +34,7 @@ The purposes of this chapter are—
 2003—Par. (2). Pub. L. 108–126 substituted “Columbia and its environs, and to encourage the location of commemorative works within the urban fabric of the District of Columbia;” for “Columbia;”.
 
 #### Effective Date of 2003 Amendment
-Pub. L. 108–126, title II, § 205, Nov. 17, 2003, 117 Stat. 1353, provided that: “Except for the provision in the amendment made by section 202(b) [amending [section 8908 of this title](./chapter-089-national-capital-memorials-and-commemorative-works.md#section-8908)] prohibiting a visitor center from being located in the Reserve (as defined in [section 8902 of title 40](./chapter-089-national-capital-memorials-and-commemorative-works.md#section-8902), United States Code), nothing in this title [see Short Title of 2003 Amendment note set out under [section 101 of this title](./chapter-011-general.md#section-101)] shall apply to a commemorative work for which a site was approved in accordance with chapter 89 of title 40, United States Code, prior to the date of enactment of this title [Nov. 17, 2003].”
+Pub. L. 108–126, title II, § 205, Nov. 17, 2003, 117 Stat. 1353, provided that: “Except for the provision in the amendment made by section 202(b) [amending [section 8908 of this title](./chapter-089-national-capital-memorials-and-commemorative-works.md#section-8908)] prohibiting a visitor center from being located in the Reserve (as defined in [section 8902 of title 40](./chapter-089-national-capital-memorials-and-commemorative-works.md#section-8902), United States Code), nothing in this title [see Short Title of 2003 Amendment note set out under [section 101 of this title](./chapter-1-1-another-chapter-1-is-set-out-in-subtitle-v-of-this-title-chapter-1-chapter-1-1-another-chapter-1-is-set-out-in-subtitle-v-of-this-title-chapter-1.md#section-101)] shall apply to a commemorative work for which a site was approved in accordance with chapter 89 of title 40, United States Code, prior to the date of enactment of this title [Nov. 17, 2003].”
 
 #### Findings
 Pub. L. 108–126, title II, § 202(a), Nov. 17, 2003, 117 Stat. 1349, provided that: “Congress finds that— “(1) the great cross-axis of the Mall in the District of Columbia, which generally extends from the United States Capitol to the Lincoln Memorial, and from the White House to the Jefferson Memorial, is a substantially completed work of civic art; and “(2) to preserve the integrity of the Mall, a reserve area should be designated within the core of the great cross-axis of the Mall where the siting of new commemorative works is prohibited.”
@@ -150,15 +150,15 @@ Amendments by Pub. L. 108–126 not applicable to a commemorative work for which
 
 | Commemorative Works |
 | --- |
-| Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763; Pub. L. 108–7, div. F, title I, § 142, Feb. 20, 2003, 117 Stat. 244; Pub. L. 111–169, § 1, May 24, 2010, 124 Stat. 1192. |
+| Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763; Pub. L. 108–7, div. F, title I, § 142, Feb. 20, 2003, 117 Stat. 244; Pub. L. 111–169, § 1, May 24, 2010, 124 Stat. 1192; Pub. L. 113–291, div. B, title XXX, § 3094, Dec. 19, 2014, 128 Stat. 3880. |
 | African-Americans Civil War Union Memorial.—Pub. L. 102–412, Oct. 14, 1992, 106 Stat. 2104. |
 | Air Force Memorial.—Pub. L. 103–163, Dec. 2, 1993, 107 Stat. 1973; Pub. L. 106–302, Oct. 13, 2000, 114 Stat. 1062; Pub. L. 107–107, div. B, title XXVIII, § 2863(a)–(e), Dec. 28, 2001, 115 Stat. 1330–1332. |
 | American Armored Force Memorial.—Pub. L. 99–620, Nov. 6, 1986, 100 Stat. 3493. |
 | Benjamin Banneker Memorial.—Pub. L. 105–355, title V, § 512, Nov. 6, 1998, 112 Stat. 3266. |
-| Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, § 101(h) [title I, § 118], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, § 101(h) [title I, § 118], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–558, Oct. 27, 1986, 100 Stat. 3144, repealed by Pub. L. 112–239, div. B, title XXVIII, § 2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 99–590, title VIII, §§ 801, 802, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 100–265, Mar. 25, 1988, 102 Stat. 39, repealed by Pub. L. 112–239, div. B, title XXVIII, § 2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 103–321, § 1(a)(1), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–333, div. I, title V, § 506, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 105–345, § 1, Nov. 2, 1998, 112 Stat. 3205; Pub. L. 106–442, Nov. 6, 2000, 114 Stat. 1926; Pub. L. 112–239, div. B, title XXVIII, § 2860, Jan. 2, 2013, 126 Stat. 2164. |
+| Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, § 101(h) [title I, § 118], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, § 101(h) [title I, § 118], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–558, Oct. 27, 1986, 100 Stat. 3144, repealed by Pub. L. 112–239, div. B, title XXVIII, § 2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 99–590, title VIII, §§ 801, 802, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 100–265, Mar. 25, 1988, 102 Stat. 39, repealed by Pub. L. 112–239, div. B, title XXVIII, § 2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 103–321, § 1(a)(1), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–333, div. I, title V, § 506, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 105–345, § 1, Nov. 2, 1998, 112 Stat. 3205; Pub. L. 106–442, Nov. 6, 2000, 114 Stat. 1926; Pub. L. 112–239, div. B, title XXVIII, § 2860, Jan. 2, 2013, 126 Stat. 2164; Pub. L. 113–176, Sept. 26, 2014, 128 Stat. 1910. |
 | Brigadier General Francis Marion Commemorative Work.—Pub. L. 110–229, title III, § 331, May 8, 2008, 122 Stat. 781. |
 | Disabled Veterans’ LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358; Pub. L. 109–396, title II, § 201, Dec. 15, 2006, 120 Stat. 2713; Pub. L. 110–106, § 1, Oct. 25, 2007, 121 Stat. 1022. |
-| Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, § 8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, § 8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, § 332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, § 1413, Mar. 26, 2013, 127 Stat. 421. |
+| Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, § 8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, § 8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, § 332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, § 1413, Mar. 26, 2013, 127 Stat. 421; Pub. L. 113–76, div. G, title IV, § 437(a), Jan. 17, 2014, 128 Stat. 347; Pub. L. 113–235, div. F, title IV, § 423(a), Dec. 16, 2014, 128 Stat. 2449. |
 | Francis Scott Key Memorial.—Pub. L. 99–531, Oct. 27, 1986, 100 Stat. 3022. |
 | Frederick Douglass Memorial and Gardens.—Pub. L. 106–479, Nov. 9, 2000, 114 Stat. 2184. |
 | George Mason Memorial.—Pub. L. 101–358, Aug. 10, 1990, 104 Stat. 419; Pub. L. 102–277, Apr. 28, 1992, 106 Stat. 127; Pub. L. 105–182, § 1, June 19, 1998, 112 Stat. 516. |
@@ -168,7 +168,9 @@ Amendments by Pub. L. 108–126 not applicable to a commemorative work for which
 | Lincoln Memorial, “I Have a Dream Speech” Commemorative Plaque.—Pub. L. 106–365, Oct. 27, 2000, 114 Stat. 1409; Pub. L. 108–352, § 4, Oct. 21, 2004, 118 Stat. 1395. |
 | Mahatma Gandhi Memorial.—Pub. L. 105–284, § 1, Oct. 26, 1998, 112 Stat. 2701. |
 | Martin Luther King, Jr., Memorial.—Pub. L. 104–333, div. I, title V, § 508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, § 1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, § 108, Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–125, § 1, Nov. 11, 2003, 117 Stat. 1347; Pub. L. 109–54, title I, § 134(c), Aug. 2, 2005, 119 Stat. 527; Pub. L. 110–453, title III, § 301, Dec. 2, 2008, 122 Stat. 5034; Pub. L. 111–88, div. A, title I, § 129, Oct. 30, 2009, 123 Stat. 2933. |
+| National Desert Storm and Desert Shield Memorial.—Pub. L. 113–291, div. B, title XXX, § 3093(a), Dec. 19, 2014, 128 Stat. 3879. |
 | National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L. 103–321, § 1(a)(3), (b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 105–202, July 16, 1998, 112 Stat. 676. |
+| Peace Corps Memorial.—Pub. L. 113–78, Jan. 24, 2014, 128 Stat. 647. |
 | Thomas Paine Memorial.—Pub. L. 102–407, Oct. 13, 1992, 106 Stat. 1991; Pub. L. 102–459, Oct. 23, 1992, 106 Stat. 2268; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 142], Nov. 29, 1999, 113 Stat. 1535, 1501A–171. |
 | Tomas G. Masaryk Memorial.—Pub. L. 107–61, Nov. 5, 2001, 115 Stat. 410. |
 | Ukrainian Famine-Genocide Victims Memorial.—Pub. L. 109–340, Oct. 13, 2006, 120 Stat. 1864. |
@@ -176,6 +178,7 @@ Amendments by Pub. L. 108–126 not applicable to a commemorative work for which
 | Vietnam Women’s Memorial.—Pub. L. 100–660, Nov. 15, 1988, 102 Stat. 3922; Pub. L. 101–187, Nov. 28, 1989, 103 Stat. 1350. |
 | Women in Military Service for America Memorial.—Pub. L. 99–500, § 101(h) [title I, § 117], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, § 101(h) [title I, § 117], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–590, title IX, §§ 901, 902, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 99–610, Nov. 6, 1986, 100 Stat. 3477; Pub. L. 103–321, § 1(a)(2), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 103–337, div. B, title XXVIII, § 2855, Oct. 5, 1994, 108 Stat. 3073. |
 | World War II Memorial.—Pub. L. 103–32, May 25, 1993, 107 Stat. 90; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–58, title VI, § 652, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–117, title VI, § 601(b), Nov. 30, 1999, 113 Stat. 1578; Pub. L. 107–11, May 28, 2001, 115 Stat. 19. |
+| World War II Memorial Prayer Plaque.—Pub. L. 113–123, June 30, 2014, 128 Stat. 1377. |
 
 
 <a id="section-8904"></a>
@@ -257,7 +260,39 @@ Advisory commissions established after Jan. 5, 1973, to terminate not later than
 
 (6) **Site-specific guidelines.—** — The National Capital Planning Commission and the Commission of Fine Arts may develop such criteria or guidelines specific to each site that are mutually agreed upon to ensure that the design of the commemorative work carries out the purposes of this chapter.
 
-(7) **Donor contributions.—** — Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site.
+**(c) Donor Contributions.—**
+
+(1) **Acknowledgment of donor contribution.—** — Except as otherwise provided in this subsection, the Secretary of the Interior or Administrator of General Services, as applicable, may permit a sponsor to acknowledge donor contributions at the commemorative work.
+
+(2) **Requirements.—** — An acknowledgment under paragraph (1) shall—
+
+  (A) be displayed—
+
+    (i) inside an ancillary structure associated with the commemorative work; or
+
+    (ii) as part of a manmade landscape feature at the commemorative work; and
+
+  (B) conform to applicable National Park Service or General Services Administration guidelines for donor recognition, as applicable.
+
+(3) **Limitations.—** — An acknowledgment under paragraph (1) shall—
+
+  (A) be limited to an appropriate statement or credit recognizing the contribution;
+
+  (B) be displayed in a form in accordance with National Park Service and General Services Administration guidelines;
+
+  (C) be displayed for a period of up to 10 years, with the display period to be commensurate with the level of the contribution, as determined in accordance with the plan and guidelines described in subparagraph (B);
+
+  (D) be freestanding; and
+
+  (E) not be affixed to—
+
+    (i) any landscape feature at the commemorative work; or
+
+    (ii) any object in a museum collection.
+
+(4) **Cost.—** — The sponsor shall bear all expenses related to the display of donor acknowledgments under paragraph (1).
+
+(5) **Applicability.—** — This subsection shall apply to any commemorative work dedicated after January 1, 2010.
 
 ### Statutory Notes
 
@@ -268,6 +303,10 @@ Advisory commissions established after Jan. 5, 1973, to terminate not later than
 | 8905(b) | 40:1007(b). |  |
 
 #### Amendments
+2014—Subsec. (b)(7). Pub. L. 113–291, § 3054(c)(1), struck out par. (7) which read as follows: “Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site.”
+
+Subsec. (c). Pub. L. 113–291, § 3054(c)(2), added subsec. (c).
+
 2003—Subsec. (a). Pub. L. 108–126, § 203(e)(1)(A), substituted “sponsor” for “person” wherever appearing.
 
 Subsec. (a)(1). Pub. L. 108–126, § 203(e)(1)(B), inserted “Advisory” before “Commission” and substituted “design concepts” for “designs”.

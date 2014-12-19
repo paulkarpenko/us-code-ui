@@ -168,11 +168,6 @@ the Secretary shall notify the Attorney General and the Attorney General shall b
 
 **(d) Existing rights** Nothing in this chapter shall be deemed to affect the full operation of the mining and mineral leasing laws of the United States, or otherwise affect valid existing rights.
 
-### Statutory Notes
-
-#### References in Text
-The mining laws and mineral leasing laws of the United States, referred to in subsec. (d), are classified generally to Title 30, Mineral Lands and Mining.
-
 
 <a id="section-4309"></a>
 ## § 4309. Savings provision

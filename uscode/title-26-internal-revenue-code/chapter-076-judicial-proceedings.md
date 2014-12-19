@@ -1637,7 +1637,7 @@ Amendment by section 953 of Pub. L. 91–172 to take effect on Dec. 30, 1969, se
 Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
 
 #### Effective Date of 1955 Amendment
-Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under [section 31 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section31&num=0&edition=prelim), The Congress.
+Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under [section 4501 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4501&num=0&edition=prelim), The Congress.
 
 #### Salary Increases
 1987—Salaries of judges increased to $89,500 per annum, on recommendation of the President of the United States, see note set out under [section 358 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section358&num=0&edition=prelim), The Congress.
@@ -1875,7 +1875,7 @@ The times and places of the sessions of the Tax Court and of its divisions shall
 
 (1) Any judge shall retire upon attaining the age of 70.
 
-(2) Any judge who meets the age and service requirements set forth in the following table may retire: And the years of service as The judge has a judge are attained age:at least: 6515 6614 6713 6812 6911 7010.
+(2) Any judge who meets the age and service requirements set forth in the following table may retire: The judge has attained age:And the years of service as a judge are at least: 6515 6614 6713 6812 6911 7010.
 
 (3) Any judge who is not reappointed following the expiration of the term of his office may retire upon the completion of such term, if (A) he has served as a judge of the Tax Court for 15 years or more and (B) not earlier than 9 months preceding the date of the expiration of the term of his office and not later than 6 months preceding such date, he advised the President in writing that he was willing to accept reappointment to the Tax Court.
 
@@ -1970,7 +1970,7 @@ The chief judge shall transmit to the Office of Personnel Management a copy of e
 
     (i) the individual shall be treated as not having filed an election under section 7448(b), and
 
-    (ii) section 7448(g) shall not apply, and the amount credited to such individual’s account (together with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to such individual,
+    (ii) section 7448(g) shall not apply, and the amount credited to such individual’s account (together with interest at 3 percent per annum, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to such individual,
 
   (C) no credit shall be allowed for any service as a judge of the Tax Court unless with respect to such service either there has been deducted and withheld the amount required by the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
 
@@ -2008,6 +2008,8 @@ The chief judge shall transmit to the Office of Personnel Management a copy of e
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (i)(3)(B)(ii). Pub. L. 113–295 substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
+
 2006—Subsec. (j). Pub. L. 109–280 added subsec. (j).
 
 1988—Subsec. (d). Pub. L. 100–647 inserted at end “In computing the rate of the retired pay under paragraph (1) of this subsection for any individual who is entitled thereto, any period during which such individual performs services under subsection (c) on a substantially full-time basis shall be treated as a period during which he has served as a judge.”
@@ -2056,6 +2058,9 @@ Subsec. (h). Pub. L. 91–172, § 954(d), added subsec. (h).
 
 1966—Subsec. (d). Pub. L. 89–354 substituted “during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period” for “at a rate which bears the same ratio to the rate of the salary payable to him as judge at the time he ceases to be a judge” and “the rate of such salary for such period” for “the rate of such salary” wherever appearing.
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective Date of 2006 Amendment
 Pub. L. 109–280, title VIII, § 853(b), Aug. 17, 2006, 120 Stat. 1017, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 17, 2006], except that United States Tax Court judges may only begin to participate in the Thrift Savings Plan at the next open season beginning after such date.”
 
@@ -2074,7 +2079,7 @@ Pub. L. 92–41, § 4(c)(1), July 1, 1971, 85 Stat. 99, as amended by Pub. L. 99
 #### Effective Date of 1969 Amendment
 Amendment by sections 954(c), (e) and 960(c), (d) of Pub. L. 91–172 effective Dec. 30, 1969, see section 962(a) of Pub. L. 91–172, set out as a note under [section 7441 of this title](./chapter-076-judicial-proceedings.md#section-7441).
 
-Pub. L. 91–172, title IX, § 962(d), Dec. 30, 1969, 83 Stat. 736, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a), (b), and (d) of section 954 [amending this section] shall apply to— “(1) all judges of the Tax Court retiring on or after the date of enactment of this Act [Dec. 30, 1969], and “(2) all individuals performing judicial duties pursuant to section 7447(c) or receiving retired pay pursuant to section 7447(d) on the day preceding the date of enactment of this Act [Dec. 30, 1969]. Any individual who has served as a judge of the Tax Court for 18 years or more by the end of one year after the date of the enactment of this Act [Dec. 30, 1969] may retire in accordance with the provisions of section 7447 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] as in effect on the day preceding the date of the enactment of this Act. Any individual who is a judge of the Tax Court on the date of the enactment of this Act may retire under the provisions of section 7447 of such Code upon the completion of the term of his office, if he is not reappointed as a judge of the Tax Court and gives notice to the President within the time prescribed by section 7447(b) of such Code (or if his term expires within 6 months after the date of enactment of this Act, gives notice to the President before the expiration of 3 months after the date of enactment of this Act), and shall receive retired pay at a rate which bears the same ratio to the rate of the salary payable to a judge as the number of years he has served as a judge of the Tax Court bears to 15; except that the rate of such retired pay shall not exceed the rate of the salary of a judge of the Tax Court. For purposes of the preceding sentence the years of service as a judge of the Tax Court shall be determined in the manner set forth in section 7447(d) of such Code.”
+Pub. L. 91–172, title IX, § 962(d), Dec. 30, 1969, 83 Stat. 736, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a), (b), and (d) of section 954 [amending this section] shall apply to—“(1) all judges of the Tax Court retiring on or after the date of enactment of this Act [Dec. 30, 1969], and “(2) all individuals performing judicial duties pursuant to section 7447(c) or receiving retired pay pursuant to section 7447(d) on the day preceding the date of enactment of this Act [Dec. 30, 1969]. Any individual who has served as a judge of the Tax Court for 18 years or more by the end of one year after the date of the enactment of this Act [Dec. 30, 1969] may retire in accordance with the provisions of section 7447 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] as in effect on the day preceding the date of the enactment of this Act. Any individual who is a judge of the Tax Court on the date of the enactment of this Act may retire under the provisions of section 7447 of such Code upon the completion of the term of his office, if he is not reappointed as a judge of the Tax Court and gives notice to the President within the time prescribed by section 7447(b) of such Code (or if his term expires within 6 months after the date of enactment of this Act, gives notice to the President before the expiration of 3 months after the date of enactment of this Act), and shall receive retired pay at a rate which bears the same ratio to the rate of the salary payable to a judge as the number of years he has served as a judge of the Tax Court bears to 15; except that the rate of such retired pay shall not exceed the rate of the salary of a judge of the Tax Court. For purposes of the preceding sentence the years of service as a judge of the Tax Court shall be determined in the manner set forth in section 7447(d) of such Code.”
 
 #### Effective Date of 1966 Amendment
 Pub. L. 89–354, § 2, Feb. 2, 1966, 80 Stat. 5, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by the first section of this Act [amending this section and section 1106 of I.R.C. 1939] shall apply with respect to retired pay accruing under section 1106 of the Internal Revenue Code of 1939 or section 7447 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] on or after the first day of the first calendar month which begins after the date of enactment of this Act [Feb. 2, 1966].”
@@ -2092,7 +2097,7 @@ Pub. L. 95–472, § 2(b), Oct. 17, 1978, 92 Stat. 1333, as amended by Pub. L. 9
 
 (1) The term “Tax Court” means the United States Tax Court.
 
-(2) The term “judge” means the chief judge or a judge of the Tax Court, including any individual receiving retired pay (or compensation in lieu of retired pay) under section 7447 or under section 1106 of the Internal Revenue Code of 1939 whether or not performing judicial duties pursuant to section 7447(c) or pursuant to section 1106(d) of the Internal Revenue Code of 1939.
+(2) The term “judge” means the chief judge or a judge of the Tax Court, including any individual receiving retired pay (or compensation in lieu of retired pay) under section 7447 whether or not performing judicial duties pursuant to section 7447(c).
 
 (3) The term “chief judge” means the chief judge of the Tax Court.
 
@@ -2148,7 +2153,7 @@ Pub. L. 95–472, § 2(b), Oct. 17, 1978, 92 Stat. 1333, as amended by Pub. L. 9
 
 **(f) Crediting of deposits** The amount deposited by or deducted and withheld from the salary of each judge or special trial judge electing to bring himself within the purview of this section for credit to the survivors annuity fund shall be credited to an individual account of such judge or special trial judge.
 
-**(g) Termination** If the service of any judge or special trial judge electing under subsection (b) terminates other than pursuant to the provisions of section 7447 or other than pursuant to section 1106 of the Internal Revenue Code of 1939 or if any judge or special trial judge ceases to be married after making the election under subsection (b) and revokes (in a writing filed as provided in subsection (b)) such election, the amount credited to his individual account, together with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year, to the date of his relinquishment of office, shall be returned to him. For the purpose of this section, the service of any judge or special trial judge electing under subsection (b) who is not reappointed following expiration of his term but who, at the time of such expiration, is eligible for and elects to receive retired pay under section 7447 shall be deemed to have terminated pursuant to said section.
+**(g) Termination** If the service of any judge or special trial judge electing under subsection (b) terminates other than pursuant to the provisions of section 7447 or if any judge or special trial judge ceases to be married after making the election under subsection (b) and revokes (in a writing filed as provided in subsection (b)) such election, the amount credited to his individual account, together with interest at 3 percent per annum, compounded on December 31 of each year, to the date of his relinquishment of office, shall be returned to him. For the purpose of this section, the service of any judge or special trial judge electing under subsection (b) who is not reappointed following expiration of his term but who, at the time of such expiration, is eligible for and elects to receive retired pay under section 7447 shall be deemed to have terminated pursuant to said section.
 
 **(h) Entitlement to annuity** In case any judge or special trial judge electing under subsection (b) shall die while a judge or special trial judge after having rendered at least 5 years of civilian service computed as prescribed in subsection (n), for the last 5 years of which the salary deductions provided for by subsection (c)(1) or the deposits required by subsection (d) have actually been made or the salary deductions required by the civil service retirement laws have actually been made—
 
@@ -2176,7 +2181,7 @@ The annuity payable to a surviving spouse under this subsection shall be termina
   (A) a judge or special trial judge electing under subsection (b) shall die while in office (whether in regular active service, retired from such service under section 7447, or receiving any annuity under chapter 83 or 84 of title 5, United States Code,),22 So in original. before having rendered 5 years of civilian service computed as prescribed in subsection (n), or after having rendered 5 years of such civilian service but without a survivor or survivors entitled to annuity benefits provided by subsection (h), or
 
   (B) the right of all persons entitled to annuity under subsection (h) based on the service of such judge or special trial judge shall terminate before a valid claim therefor shall have been established,
-  the total amount credited to the individual account of such judge or special trial judge, with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year, to the date of the death of such judge or special trial judge, shall be paid, upon the establishment of a valid claim therefor, to the person or persons surviving at the date title to the payment arises, in the following order of precedence, and such payment shall be a bar to recovery by any other person:
+  the total amount credited to the individual account of such judge or special trial judge, with interest at 3 percent per annum, compounded on December 31 of each year, to the date of the death of such judge or special trial judge, shall be paid, upon the establishment of a valid claim therefor, to the person or persons surviving at the date title to the payment arises, in the following order of precedence, and such payment shall be a bar to recovery by any other person:
 
   (i) to the beneficiary or beneficiaries whom the judge or special trial judge may have designated by a writing filed prior to his death with the chief judge, except that in the case of the chief judge such designation shall be by a writing filed by him, prior to his death, as prescribed by the Tax Court;
 
@@ -2191,7 +2196,7 @@ The annuity payable to a surviving spouse under this subsection shall be termina
   (vi) if none of the above, to such other next of kin of such judge or special trial judge as may be determined by the chief judge to be entitled under the laws of the domicile of such judge or special trial judge at the time of his death.
   Determination as to the surviving spouse, child, or parent of a judge or special trial judge for the purposes of this paragraph shall be made by the chief judge without regard to the definitions in paragraphs (8) and (9) of subsection (a).
 
-(2) In any case in which the annuities of all persons entitled to annuity based upon the service of a judge or special trial judge shall terminate before the aggregate amount of annuity paid equals the total amount credited to the individual account of such judge or special trial judge, with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year, to the date of the death of such judge or special trial judge, the difference shall be paid, upon establishment of a valid claim therefor, in the order of precedence prescribed in paragraph (1).
+(2) In any case in which the annuities of all persons entitled to annuity based upon the service of a judge or special trial judge shall terminate before the aggregate amount of annuity paid equals the total amount credited to the individual account of such judge or special trial judge, with interest at 3 percent per annum, compounded on December 31 of each year, to the date of the death of such judge or special trial judge, the difference shall be paid, upon establishment of a valid claim therefor, in the order of precedence prescribed in paragraph (1).
 
 (3) Any accrued annuity remaining unpaid upon the termination (other than by death) of the annuity of any person based upon the service of a judge or special trial judge shall be paid to such person. Any accrued annuity remaining unpaid upon the death of any person receiving annuity based upon the service of a judge or special trial judge shall be paid, upon the establishment of a valid claim therefor, in the following order of precedence:
 
@@ -2222,13 +2227,17 @@ The annuity payable to a surviving spouse under this subsection shall be termina
 ### Statutory Notes
 
 #### References in Text
-Section 1106 of the Internal Revenue Code of 1939, referred to in subsecs. (a)(2) and (g), was classified to section 1106 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1). See, also, [section 7851(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7851/e&num=0&edition=prelim) for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
-
 Section 7443B, referred to in subsec. (a)(5), (6), was repealed by Pub. L. 110–458, title I, § 108(l), Dec. 23, 2008, 122 Stat. 5110.
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
 #### Amendments
+2014—Subsec. (a)(2). Pub. L. 113–295, § 221(a)(116)(A), struck out “or under section 1106 of the Internal Revenue Code of 1939” after “under section 7447” and “or pursuant to section 1106(d) of the Internal Revenue Code of 1939” after “pursuant to section 7447(c)”.
+
+Subsec. (g). Pub. L. 113–295, § 221(a)(116)(B), (C), struck out “or other than pursuant to section 1106 of the Internal Revenue Code of 1939” after “other than pursuant to the provisions of section 7447” and substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
+
+Subsec. (j)(1), (2). Pub. L. 113–295, § 221(a)(116)(C), substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
+
 2006—Pub. L. 109–280, § 854(c)(3), which directed amendment of subsec. (u) of this section by inserting “or special trial judge” after “judge” and “or special trial judge’s” after “judge’s” wherever appearing, could not be executed because no subsec. (u) has been enacted.
 
 Pub. L. 109–280, § 854(c)(1), inserted “and special trial judges” after “children of judges” in section catchline.
@@ -2328,6 +2337,9 @@ Subsec. (m). Pub. L. 91–172, § 955(b)(3), substituted “[section 2107 of tit
 Subsec. (n). Pub. L. 91–172, §§ 955(b)(2), 960(e), substituted “[section 8332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8332&num=0&edition=prelim) of the United States Code” for “section 3 of the Civil Service Retirement Act ([5 U.S.C. 2253](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2253&num=0&edition=prelim))” and inserted reference to service as a judge of the Tax Court of the United States.
 
 Subsec. (r). Pub. L. 91–172, § 955(b)(1), (4), substituted “civil service retirement laws” for “Civil Service Retirement Act” and substituted “an election filed under section 7447(e)” for “a waiver filed under section 7447(g)(3)”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–280, title VIII, § 851(b), Aug. 17, 2006, 120 Stat. 1016, provided that: “The amendment made by this section [amending this section] shall apply with respect to increases made under [section 8340(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8340/b&num=0&edition=prelim), United States Code, in annuities payable under subchapter III of chapter 83 of that title, taking effect after the date of the enactment of this Act [Aug. 17, 2006].”
@@ -2696,7 +2708,12 @@ Pub. L. 98–369, div. A, title IV, § 465(b), July 18, 1984, 98 Stat. 825, prov
 <a id="section-7462"></a>
 ## § 7462. Publication of reports
 
-The Tax Court shall provide for the publication of its reports at the Government Printing Office in such form and manner as may be best adapted for public information and use, and such authorized publication shall be competent evidence of the reports of the Tax Court therein contained in all courts of the United States and of the several States without any further proof or authentication thereof. Such reports shall be subject to sale in the same manner and upon the same terms as other public documents.
+The Tax Court shall provide for the publication of its reports at the Government Publishing Office in such form and manner as may be best adapted for public information and use, and such authorized publication shall be competent evidence of the reports of the Tax Court therein contained in all courts of the United States and of the several States without any further proof or authentication thereof. Such reports shall be subject to sale in the same manner and upon the same terms as other public documents.
+
+### Statutory Notes
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 
 <a id="section-7463"></a>

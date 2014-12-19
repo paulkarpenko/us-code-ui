@@ -354,7 +354,9 @@ There is authorized to be appropriated to carry out this subchapter amounts as f
 
 (5) $250,000,000 for fiscal year 2013.
 
-(6) $150,000,000 for fiscal year 2014 and each subsequent fiscal year.
+(6) $250,000,000 for fiscal year 2014.
+
+(7) $250,000,000 for fiscal year 2015 and each subsequent fiscal year.
 
 ### Statutory Notes
 
@@ -368,6 +370,10 @@ A prior section 2014 was renumbered [section 4214 of this title](./chapter-042-e
 Another prior section 2014 was renumbered [section 4105 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4105).
 
 #### Amendments
+2014—Par. (7). Pub. L. 113–175 substituted “$250,000,000” for “$150,000,000”.
+
+2013—Pars. (6), (7). Pub. L. 113–37 added pars. (6) and (7) and struck out former par. (6) which read as follows: “$150,000,000 for fiscal year 2014 and each subsequent fiscal year.”
+
 2012—Pars. (5), (6). Pub. L. 112–154 added pars. (5) and (6) and struck out former par. (5) which read as follows: “$150,000,000 for fiscal year 2013 and each subsequent fiscal year.”
 
 2011—Pub. L. 112–37 substituted “subchapter amounts as follows:” for “subchapter $150,000,000 for fiscal year 2007 and each fiscal year thereafter.” and added at end pars. (1) to (5).
@@ -385,6 +391,9 @@ Another prior section 2014 was renumbered [section 4105 of this title](./chapter
 “(4) $99,000,000 for fiscal year 2005.”
 
 2004—Par. (4). Pub. L. 108–422 substituted “$99,000,000” for “$75,000,000”.
+
+#### Effective Date of 2013 Amendment
+Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under [section 322 of this title](./chapter-003-department-of-veterans-affairs.md#section-322).
 
 
 <a id="section-2021"></a>
@@ -415,7 +424,7 @@ Another prior section 2014 was renumbered [section 4105 of this title](./chapter
 
   (E) $50,000,000 for fiscal year 2006.
 
-  (F) $50,000,000 for each of fiscal years 2007 through 2013.
+  (F) $50,000,000 for each of fiscal years 2007 through 2015.
 
 (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
@@ -425,6 +434,10 @@ Another prior section 2014 was renumbered [section 4105 of this title](./chapter
 A prior section 2021 was renumbered [section 4301 of this title](./chapter-043-employment-and-reemployment-rights-of-members-of-the-uniformed-services.md#section-4301) and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.
 
 #### Amendments
+2014—Subsec. (e)(1)(F). Pub. L. 113–175 substituted “2015” for “2014”.
+
+2013—Subsec. (e)(1)(F). Pub. L. 113–37 substituted “2014” for “2013”.
+
 2012—Subsec. (e)(1)(F). Pub. L. 112–154 substituted “2013” for “2012”.
 
 2011—Subsec. (e)(1)(F). Pub. L. 112–37 substituted “2012” for “2011”.
@@ -432,6 +445,9 @@ A prior section 2021 was renumbered [section 4301 of this title](./chapter-043-e
 2010—Subsec. (e)(1)(F). Pub. L. 111–275 substituted “2011” for “2009”.
 
 2006—Subsec. (e)(1)(F). Pub. L. 109–233 added subpar. (F).
+
+#### Effective Date of 2013 Amendment
+Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under [section 322 of this title](./chapter-003-department-of-veterans-affairs.md#section-322).
 
 
 <a id="section-2021a"></a>
@@ -444,7 +460,7 @@ A prior section 2021 was renumbered [section 4301 of this title](./chapter-043-e
 
 (1) The Secretary of Labor shall collect such information as that Secretary considers appropriate to monitor and evaluate the distribution and expenditure of funds appropriated to carry out this section. The information shall include data with respect to the results or outcomes of the services provided to each homeless veteran under this section.
 
-  (2) Information under paragraph (1) shall be furnished in such form and manner as the Secretary of Labor may specify.
+(2) Information under paragraph (1) shall be furnished in such form and manner as the Secretary of Labor may specify.
 
 **(d) Administration Through the Assistant Secretary of Labor for Veterans’ Employment and Training.—** The Secretary of Labor shall carry out this section through the Assistant Secretary of Labor for Veterans’ Employment and Training.
 
@@ -542,11 +558,11 @@ A prior section 2022 was renumbered [section 4302 of this title](./chapter-043-e
 
   (B) The Secretaries may, as part of the program, furnish to officials of penal institutions outreach information with respect to referral and counseling services for presentation to veterans in the custody of such officials during the 18-month period that precedes such date of release or discharge.
 
-(3) The Secretaries may enter into contracts to carry out the referral and counseling services required under the program with entities or organizations that meet such requirements as the Secretaries may establish.
+(3) The Secretaries may make grants to carry out the referral and counseling services required under the program with entities or organizations that meet such requirements as the Secretaries may establish.
 
 (4) In developing the program, the Secretaries shall consult with officials of the Bureau of Prisons, officials of penal institutions of States and political subdivisions of States, and such other officials as the Secretaries determine appropriate.
 
-**(d) Duration.—** The authority of the Secretaries to provide referral and counseling services under the demonstration program shall cease on September 30, 2013.
+**(d) Duration.—** The authority of the Secretaries to enter into a contract to provide referral and counseling services under the demonstration program shall cease on September 30, 2015.
 
 **(e) Definition.—** In this section, the term “eligible veteran” means a veteran who—
 
@@ -560,7 +576,13 @@ A prior section 2022 was renumbered [section 4302 of this title](./chapter-043-e
 Prior sections 2023 to 2027 were renumbered sections 4303 to 4307 of this title, respectively, and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.
 
 #### Amendments
-2013—Subsec. (d). Pub. L. 112–239 substituted “September 30, 2013” for “September 30, 2012”.
+2014—Subsec. (c)(3). Pub. L. 113–175, § 203(b), substituted “make grants” for “enter into contracts”.
+
+Subsec. (d). Pub. L. 113–175, § 203(a), substituted “September 30, 2015” for “September 30, 2014”.
+
+2013—Subsec. (d). Pub. L. 113–37 inserted “to enter into a contract” before “to provide” and substituted “September 30, 2014” for “September 30, 2013”.
+
+Pub. L. 112–239 substituted “September 30, 2013” for “September 30, 2012”.
 
 2008—Pub. L. 110–387, § 602(d)(2), amended section catchline generally. Prior to amendment, catchline read as follows: “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness”.
 
@@ -574,6 +596,9 @@ Subsec. (d). Pub. L. 110–387, § 602(c), substituted “September 30, 2012.”
 
 2007—Subsec. (d). Pub. L. 110–28 substituted “shall cease on September 30, 2007” for “shall cease on the date that is four years after the date of the commencement of the program”.
 
+#### Effective Date of 2013 Amendment
+Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under [section 322 of this title](./chapter-003-department-of-veterans-affairs.md#section-322).
+
 
 <a id="section-2031"></a>
 ## § 2031. General treatment
@@ -585,11 +610,15 @@ Subsec. (d). Pub. L. 110–387, § 602(c), substituted “September 30, 2012.”
 
 (3) therapeutic transitional housing assistance under [section 2032 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2032), in conjunction with work therapy under subsection (a) or (b) of [section 1718 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1718) and outpatient care.
 
-**(b)** The authority of the Secretary under subsection (a) expires on December 31, 2013.
+**(b)** The authority of the Secretary under subsection (a) expires on September 30, 2015.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–175 substituted “September 30, 2015” for “December 31, 2014”.
+
+2013—Subsec. (b). Pub. L. 113–59 substituted “December 31, 2014” for “December 31, 2013”.
+
 2012—Subsec. (a). Pub. L. 112–154 substituted “and to” for “, including” in introductory provisions.
 
 Subsec. (b). Pub. L. 112–191 substituted “December 31, 2013” for “December 31, 2012”.
@@ -671,11 +700,15 @@ Subsec. (b). Pub. L. 107–95, § 5(f), substituted “December 31, 2006” for 
 
 **(c)** The program shall include the services of such employees of the Veterans Benefits Administration as the Secretary determines appropriate at sites under the jurisdiction of the Secretary at which services are provided to homeless veterans.
 
-**(d)** The program under this section shall terminate on December 31, 2013.
+**(d)** The program under this section shall terminate on September 30, 2015.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (d). Pub. L. 113–175 substituted “September 30, 2015” for “December 31, 2014”.
+
+2013—Subsec. (d). Pub. L. 113–59 substituted “December 31, 2014” for “December 31, 2013”.
+
 2012—Subsec. (d). Pub. L. 112–191 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (d). Pub. L. 112–37 substituted “December 31, 2012” for “December 31, 2011”.
@@ -793,11 +826,15 @@ Subsec. (b)(6). Pub. L. 107–95, § 6(b)(2), added par. (6).
 
   (C) may waive the collection of a fee under [section 3729 of this title](./chapter-037-housing-and-small-business-loans.md#section-3729) in any case in which the Secretary determines that such a waiver would be appropriate.
 
-**(c)** The Secretary may not enter into agreements under subsection (a) after December 31, 2013.
+**(c)** The Secretary may not enter into agreements under subsection (a) after September 30, 2015.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–175 substituted “September 30, 2015” for “December 31, 2014”.
+
+2013—Subsec. (c). Pub. L. 113–59 substituted “December 31, 2014” for “December 31, 2013”.
+
 2012—Subsec. (c). Pub. L. 112–191 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (c). Pub. L. 112–37 substituted “December 31, 2012” for “December 31, 2011”.
@@ -973,7 +1010,7 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
   (D) $100,000,000 for fiscal year 2012.
 
-  (E) $300,000,000 for fiscal year 2013.
+  (E) $300,000,000 for each of fiscal years 2013 through 2015.
 
 (2) Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
 
@@ -1025,6 +1062,10 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 Pub. L. 112–37, § 12, Oct. 5, 2011, 125 Stat. 397, which directed amendment of “section 2044” without specifying the Code title to be amended, was executed to this section, which is [section 2044 of Title 38](./chapter-020-benefits-for-homeless-veterans.md#section-2044), Veterans’ Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
 
 #### Amendments
+2014—Subsec. (e)(1)(E). Pub. L. 113–175 substituted “fiscal years 2013 through 2015” for “fiscal years 2013 and 2014”.
+
+2013—Subsec. (e)(1)(E). Pub. L. 113–37 substituted “for each of fiscal years 2013 and 2014” for “for fiscal year 2013”.
+
 2012—Subsec. (e)(1)(E). Pub. L. 112–154 added subpar. (E).
 
 2011—Subsec. (e)(1). Pub. L. 112–37, § 12(b), substituted “subsections” for “subsection” in introductory provisions. See Codification note above.
@@ -1034,6 +1075,9 @@ Subsec. (e)(1)(D). Pub. L. 112–37, § 12(a)(1), added subpar. (D). See Codific
 Subsec. (e)(3). Pub. L. 112–37, § 12(a)(2), substituted “2012” for “2011”. See Codification note above.
 
 2010—Subsec. (e)(3). Pub. L. 111–275 substituted “fiscal years” for “fiscal year”.
+
+#### Effective Date of 2013 Amendment
+Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under [section 322 of this title](./chapter-003-department-of-veterans-affairs.md#section-322).
 
 #### Purpose
 Pub. L. 110–387, title VI, § 604(a), Oct. 10, 2008, 122 Stat. 4132, provided that: “The purpose of this section [enacting this section] is to facilitate the provision of supportive services for very low-income veteran families in permanent housing.”
@@ -1212,13 +1256,17 @@ Subsec. (a). Pub. L. 107–95, § 5(d)(2)(C), substituted “[section 2051 of th
 
 **(d) Funding.—**
 
-(1) From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2013, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
+(1) From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2015, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
 
 (2) The Secretary shall ensure that funds for grants under this section are designated for the first three years of operation of the program under this section as a special purpose program for which funds are not allocated through the Veterans Equitable Resource Allocation system.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (d)(1). Pub. L. 113–175 substituted “2015” for “2014”.
+
+2013—Subsec. (d)(1). Pub. L. 113–37 substituted “2007 through 2014” for “2007 through 2013”.
+
 2012—Subsec. (a). Pub. L. 112–154, § 303(a), substituted “to entities eligible for grants and per diem payments under sections 2011 and 2012 of this title” for “to grant and per diem providers” and “by those facilities and entities” for “by those facilities and providers”.
 
 Subsec. (b)(1). Pub. L. 112–154, § 303(b)(1), struck out “, including women who have care of minor dependents” at end.
@@ -1232,6 +1280,9 @@ Subsec. (d)(1). Pub. L. 112–154, § 305(d), which directed amendment of subsec
 2011—Subsec. (c)(1). Pub. L. 112–37 substituted “2012” for “2011”.
 
 2006—Subsec. (c)(1). Pub. L. 109–461 substituted “Medical Services” for “Medical Care” and “fiscal years 2007 through 2011” for “fiscal years 2003, 2004, and 2005”.
+
+#### Effective Date of 2013 Amendment
+Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under [section 322 of this title](./chapter-003-department-of-veterans-affairs.md#section-322).
 
 #### Study of Outcome Effectiveness of Grant Program for Homeless Veterans With Special Needs
 Pub. L. 107–95, § 7, Dec. 21, 2001, 115 Stat. 919, required the Secretary of Veterans Affairs to conduct a study of the effectiveness during fiscal year 2002 through fiscal year 2004 of the grant program under this section in meeting the needs of homeless veterans with special needs and to submit to Congress a report on the study not later than Mar. 31, 2005.
@@ -1460,7 +1511,7 @@ The Secretary may authorize homeless veterans receiving care through vocational 
 
 (4) The Secretary shall submit with each annual report submitted to the Congress pursuant to [section 529 of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-529) a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to that section.
 
-**(d) Termination.—** The Committee shall cease to exist December 31, 2013.
+**(d) Termination.—** The Committee shall cease to exist December 31, 2015.
 
 ### Statutory Notes
 
@@ -1468,6 +1519,10 @@ The Secretary may authorize homeless veterans receiving care through vocational 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(F), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title II of the Act is classified generally to subchapter II (§ 11311 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Subsec. (d). Pub. L. 113–175 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (d). Pub. L. 113–59 substituted “December 31, 2014” for “December 31, 2013”.
+
 2012—Subsec. (d). Pub. L. 112–191 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (d). Pub. L. 112–37 substituted “December 31, 2012” for “December 30, 2011”.

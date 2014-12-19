@@ -6,84 +6,6 @@ section_count: 154
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25&num=0&edition=prelim
 ---
-<a id="section-1779f"></a>
-## § § 1779f. Release of other tribal claims and filing of claims
-**(a) Extinguishment of other tribal claims**
-
-(1) **In general** — As of December 13, 2002—
-
-  (A) all right, title, and interest of any Indian nation or tribe other than any Indian Nation defined in [section 1779b of this title](./chapter-019-indian-land-claims-settlements.md#section-1779b) (referred to in this section and [section 1779g of this title](./chapter-019-indian-land-claims-settlements.md#section-1779g) as a “claimant tribe”) in or to the Disclaimed Drybed Lands, and any such right, title, or interest held by the United States on behalf of such a claimant tribe, shall be considered to be extinguished in accordance with [section 177 of title 25](./chapter-005-protection-of-indians.md#section-177);
-
-  (B) if any party other than a claimant tribe holds transferred interests in or to the Disclaimed Drybed Lands in violation of [section 177 of title 25](./chapter-005-protection-of-indians.md#section-177), Congress approves and ratifies those transfers of interests to the extent that the transfers are in accordance with other applicable law; and
-
-  (C) the documents described in [section 1779c(b)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779c/b/1/D&num=0&edition=prelim) shall serve to identify the geographic scope of the interests extinguished by subparagraph (A).
-
-(2) **Quiet title actions**
-
-  (A) *In general* — Notwithstanding any other provision of law, after December 13, 2002, neither the United States (or any department or agency of the United States) nor any Indian Nation shall be included as a party to any civil action brought by any private person or private entity to quiet title to, or determine ownership of an interest in or to, the Disclaimed Drybed Lands.
-
-  (B) *Future actions* — As of December 13, 2002, the United States shall have no obligation to bring any civil action to quiet title to, or to recover any land or funds relating to, the Drybed Lands (including any lands that are Wetbed Lands as of December 13, 2002, but that are located at any time after that date above the mean high water mark of the Arkansas River).
-
-  (C) *No breach of trust* — The failure or declination by the United States to initiate any civil action to quiet title to or manage any Drybed Lands under this paragraph shall not—
-
-    (i) constitute a breach of trust by the United States; or
-
-    (ii) be compensable to a claimant tribe in any manner.
-
-**(b) Claims of other Indian tribes**
-
-(1) **Limited period for filing claims**
-
-  (A) *In general* — Not later than 180 days after December 13, 2002, any claimant tribe that claims that any title, interest, or entitlement held by the claimant tribe has been extinguished by operation of [section 1779c(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779c/a&num=0&edition=prelim) or subsection (a) of this section may file a claim against the United States relating to the extinguishment in the United States Court of Federal Claims.
-
-  (B) *Failure to file* — After the date described in subparagraph (A), a claimant tribe described in that subparagraph shall be barred from filing any claim described in that subparagraph.
-
-(2) **Special holding account**
-
-  (A) *Establishment* — There is established in the Treasury, in addition to the accounts established by [section 1779d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779d/a&num=0&edition=prelim), an interest-bearing special holding account for the benefit of the Indian Nations.
-
-  (B) *Deposits* — Notwithstanding any other provision of this subchapter or any other law, of any funds that would otherwise be deposited in a tribal trust account established by [section 1779d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779d/a&num=0&edition=prelim), 10 percent shall—
-
-    (i) be deposited in the special holding account established by subparagraph (A); and
-
-    (ii) be held in that account for distribution under paragraph (3).
-
-(3) **Distribution of funds**
-
-  (A) *In general* — Funds deposited in the special holding account established by paragraph (2)(A) shall be distributed in accordance with subparagraphs (B) through (D).
-
-  (B) *Claim filed* — If a claim under paragraph (1)(A) is filed by the deadline specified in that paragraph, on final adjudication of that claim—
-
-    (i) if the final judgment awards to a claimant an amount that does not exceed the amount of funds in the special holding account under paragraph (2) attributable to the Indian Nation from the allocation of which under [section 1779c(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779c/d&num=0&edition=prelim) the funds in the special holding account are derived—
-
-      (I) that amount shall be distributed from the special holding account to the claimant tribe that filed the claim; and
-
-      (II) any remaining amount in the special holding account attributable to the claim shall be transferred to the appropriate tribal trust account for the Indian Nation established by [section 1779d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779d/a&num=0&edition=prelim); and
-
-    (ii) if the final judgment awards to a claimant an amount that exceeds the amount of funds in the special holding account attributable to the Indian Nation from the allocation of which under [section 1779c(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779c/d&num=0&edition=prelim) the funds in the special holding account are derived—
-
-      (I) the balance of funds in the special holding account attributable to the Indian Nation shall be distributed to the claimant tribe that filed the claim; and
-
-      (II) payment of the remainder of the judgment amount awarded to the claimant tribe shall be made from the permanent judgment appropriation established pursuant to [section 1304 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1304&num=0&edition=prelim).
-
-  (C) *No claims filed* — If no claims under paragraph (1)(A) are filed by the deadline specified in that paragraph—
-
-    (i) any funds held in the special holding account under paragraph (2) and attributed to that Indian Nation shall be deposited in the appropriate tribal trust account established by section 1779d(a) 11 See References in Text note below. of this title; and
-
-    (ii) after the date that is 180 days after December 13, 2002, paragraph (2)(B) shall not apply to appropriations attributed to that Indian Nation.
-
-**(c) Declaration with respect to scope of rights, title, and interests** Congress declares that—
-
-(1) subsection (b) of this section is intended only to establish a process by which alleged claims may be resolved; and
-
-(2) nothing in this section acknowledges, enhances, or establishes any prior right, title, or interest of any claimant tribe in or to the Arkansas Riverbed.
-
-### Statutory Notes
-
-#### References in Text
-[Section 1779d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779d/a&num=0&edition=prelim), referred to in subsec. (b)(3)(C)(i), was in the original “section 6(a)” and was translated as reading “section 606(a)”, meaning section 606(a) of Pub. L. 107–331, to reflect the probable intent of Congress, because Pub. L. 107–331 does not contain a section 6, and section 1779d(a) establishes three tribal trust fund accounts.
-
-
 <a id="section-1701"></a>
 ## § 1701. Congressional findings and declaration of policy
 
@@ -482,86 +404,7 @@ The Secretary is authorized and directed to expend, at the request of the affect
 “Sections 3113 and 3114(a) to (d) of title 40” substituted in subsec. (e) for “section 1 of the Act of August 1, 1888 (25 Stat. 357), as amended, and section 1 of the Act of February 26, 1931 (46 Stat. 1421)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Houlton Band of Maliseet Indians Supplementary Claims Settlement
-Pub. L. 99–566, Oct. 27, 1986, 100 Stat. 3184, provided: “That this Act may be cited as the ‘Houlton Band of Maliseet Indians Supplementary Claims Settlement Act of 1986’.
-
-#### “definitions
-“Sec. 2. For purposes of this Act—
-
-“(1) The term ‘Houlton Band Tax Fund’ means the fund established under section 3.
-
-“(2) The term ‘Houlton Band trust land’ means land or natural resources acquired by the Secretary of the Interior and held in trust by the United States for the benefit of the Houlton Band of Maliseet Indians in accordance with section 5(d) of the Maine Indian Claims Settlement Act of 1980 ([25 U.S.C. 1724(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1724/d&num=0&edition=prelim); 94 Stat. 1789).
-
-“(3) The term ‘amended Maine Implementing Act’ means the Maine Implementing Act (defined in section 3(e) of the Maine Indian Claims Settlement Act of 1980 ([25 U.S.C. 1722(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1722/e&num=0&edition=prelim); 94 Stat. 1787)) as amended by—
-
-“(A) the ‘Act to amend the Maine Implementing Act with respect to the Houlton Band of Maliseet Indians’, enacted by the State of Maine in chapter 675 of the Public Laws of 1981, and
-
-“(B) the State of Maine in chapter 672 of the Public Laws of 1985.
-
-“(4) The term ‘Secretary’ means the Secretary of the Interior.
-
-“(5) The term ‘Houlton Band of Maliseet Indians’ has the meaning given to such term by section 3(a) of the Maine Indian Claims Settlement Act of 1980 ([25 U.S.C. 1722(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1722/a&num=0&edition=prelim)).
-
-#### “houlton band tax fund
-“Sec. 3. (a) There is hereby established in the United States Treasury a fund to be known as the Houlton Band Tax Fund in which shall be deposited $200,000 in accordance with the provisions of this Act.
-
-“(b)(1) Income accrued on the land acquisition fund established for the Houlton Band of Maliseet Indians pursuant to subsections (c) and (d)(1) of section 5 of the Maine Indian Claims Settlement Act of 1980 ([25 U.S.C. 1724](./chapter-019-indian-land-claims-settlements.md#section-1724); 94 Stat. 1789) shall be transferred to the Houlton Band Tax Fund. No transfer shall be made under this subsection if such transfer would diminish such land acquisition fund to a balance of less than $900,000.
-
-“(2) Whenever funds are transferred to the Houlton Band Tax Fund pursuant to paragraph (1), the Secretary shall publish notice of such transfer in the Federal Register. Such notice shall specify when the full amount of $200,000 has been transferred to the Houlton Band Tax Fund.
-
-“(c) The Secretary shall manage the Houlton Band Tax Fund in accordance with the first section of the Act of June 24, 1938 ([25 U.S.C. 162a](./chapter-004-performance-by-united-states-of-obligations-to-indians.md#section-162a)), and shall utilize the principal and interest of such Fund only as provided in subsection (d) and for no other purpose.
-
-“(d) Notwithstanding the provisions of [section 3727 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3727&num=0&edition=prelim), United States Code, the Secretary shall pay out of the Houlton Band Tax Fund all valid claims for taxes, payments in lieu of property taxes, and fees, together with any interest and penalties thereon—
-
-“(1) for which the Houlton Band of Maliseet Indians are determined to be liable under the terms of section 6208–A(2) of the amended Maine Implementing Act,
-
-“(2) which are final and not subject to further administrative or judicial review, and
-
-“(3) which have been certified by the Commissioner of Finance and Administration of the State of Maine as valid claims (within the meaning of section 6208–A(2) of the amended Maine Implementing Act) that meet the requirements of this subsection.
-
-“(e) Notwithstanding any other provision of law, if—
-
-“(1) the Houlton Band of Maliseet Indians is liable to the State of Maine or any county, district, municipality, city, town, village, plantation, or any other political subdivision thereof for any tax, payment in lieu of property tax, or fees, together with any interest or penalties thereon, and
-
-“(2) there are insufficient funds in the Houlton Band Tax Fund to pay such tax, payment, or fee (together with any interest or penalties thereon) in full,
-
-the deficiency shall be paid by the Houlton Band of Maliseet Indians only from income-producing property owned by such Band which is not held in trust for such Band by the United States, and such Band shall not be required to pay such tax, payment, or fee (or any interest or penalty thereon) from any other source.
-
-“(f) The Secretary shall, after consultation with the Commissioner of Finance and Administration of the State of Maine and the Houlton Band of Maliseet Indians, prescribe written procedures governing the filing and payment of claims under this section and section 6208–A of the amended Maine Implementing Act.
-
-#### “houlton band trust land
-“Sec. 4. (a) Subject to the provisions of section 3 of this Act, the Secretary is authorized and directed to expend, at the request of the Houlton Band of Maliseet Indians, the principal of, and income accruing on, the land acquisition fund established for such Band under subsections (c) and (d)(1) of section 5 of the Maine Indian Claims Settlement Act of 1980 ([25 U.S.C. 1724](./chapter-019-indian-land-claims-settlements.md#section-1724); 94 Stat. 1789) for the purposes of acquiring land or natural resources for such Band and for no other purpose. Land or natural resources so acquired within the State of Maine for such Band shall be held in trust by the United States for the benefit of such Band.
-
-“(b)(1) Land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of the Houlton Band of Maliseet Indians may be alienated only by—
-
-“(A) takings for public use pursuant to the laws of the State of Maine as provided in subsection (c),
-
-“(B) takings for public use pursuant to the laws of the United States,
-
-“(C) transfers authorized by section 5(g)(3) of the Maine Indian Claims Settlement Act of 1980 ([25 U.S.C. 1724(g)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1724/g/3&num=0&edition=prelim); 94 Stat. 1791), or
-
-“(D) transfers made pursuant to an Act or joint resolution of Congress.
-
-All other transfers of land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of such Band shall be void ab initio and without any validity in law or equity.
-
-“(2) The provisions of paragraph (1) shall not prohibit or limit transfers of individual use assignments of land or natural resources from one member of the Houlton Band of Maliseet Indians to another member of such Band.
-
-“(c)(1) Land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of the Houlton Band of Maliseet Indians may be condemned for public purposes by the State of Maine, or any political subdivision thereof, only upon such terms and conditions as shall be agreed upon in writing between the State and such Band after the date of enactment of this Act [Oct. 27, 1986].
-
-“(2) The consent of the United States is hereby given to the State of Maine to further amend the amended Maine Implementing Act for the purpose of embodying the agreement described in paragraph (1).
-
-“(d)(1) Lands and natural resources may be acquired by the Secretary for the Houlton Band of Maliseet Indians only if the Secretary has, at any time prior to such acquisition—
-
-“(A) transmitted a letter to the Secretary of State of the State of Maine stating that the Houlton Band Tax Fund contains $200,000, and
-
-“(B) provided the Secretary of State of the State of Maine with a copy of the procedures for filing and payment of claims prescribed under section 3(f).
-
-“(2)(A) No land or natural resources may be acquired by the Secretary for the Houlton Band of Maliseet Indians until the Secretary—
-
-“(i) files with the Secretary of State of the State of Maine a certified copy of the deed, contract, or other conveyance setting forth the location and boundaries of the land or natural resources to be acquired by the Secretary, or
-
-“(ii) files with the Secretary of State of the State of Maine a certified copy of any instrument setting forth the location and boundaries of the land or natural resources to be acquired.
-
-“(B) For purposes of subparagraph (A), filing with the Secretary of State of the State of Maine may be made by mail and, if such method of filing is used, shall be considered to be completed on the date on which the document is properly mailed to the Secretary of State of the State of Maine.”
+Pub. L. 99–566, Oct. 27, 1986, 100 Stat. 3184, provided: “That this Act may be cited as the ‘Houlton Band of Maliseet Indians Supplementary Claims Settlement Act of 1986’. “definitions“Sec. 2. For purposes of this Act—“(1) The term ‘Houlton Band Tax Fund’ means the fund established under section 3. “(2) The term ‘Houlton Band trust land’ means land or natural resources acquired by the Secretary of the Interior and held in trust by the United States for the benefit of the Houlton Band of Maliseet Indians in accordance with section 5(d) of the Maine Indian Claims Settlement Act of 1980 ([25 U.S.C. 1724(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1724/d&num=0&edition=prelim); 94 Stat. 1789). “(3) The term ‘amended Maine Implementing Act’ means the Maine Implementing Act (defined in section 3(e) of the Maine Indian Claims Settlement Act of 1980 ([25 U.S.C. 1722(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1722/e&num=0&edition=prelim); 94 Stat. 1787)) as amended by—“(A) the ‘Act to amend the Maine Implementing Act with respect to the Houlton Band of Maliseet Indians’, enacted by the State of Maine in chapter 675 of the Public Laws of 1981, and “(B) the State of Maine in chapter 672 of the Public Laws of 1985. “(4) The term ‘Secretary’ means the Secretary of the Interior. “(5) The term ‘Houlton Band of Maliseet Indians’ has the meaning given to such term by section 3(a) of the Maine Indian Claims Settlement Act of 1980 ([25 U.S.C. 1722(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1722/a&num=0&edition=prelim)). “houlton band tax fund“Sec. 3. (a) There is hereby established in the United States Treasury a fund to be known as the Houlton Band Tax Fund in which shall be deposited $200,000 in accordance with the provisions of this Act. “(b)(1) Income accrued on the land acquisition fund established for the Houlton Band of Maliseet Indians pursuant to subsections (c) and (d)(1) of section 5 of the Maine Indian Claims Settlement Act of 1980 ([25 U.S.C. 1724](./chapter-019-indian-land-claims-settlements.md#section-1724); 94 Stat. 1789) shall be transferred to the Houlton Band Tax Fund. No transfer shall be made under this subsection if such transfer would diminish such land acquisition fund to a balance of less than $900,000. “(2) Whenever funds are transferred to the Houlton Band Tax Fund pursuant to paragraph (1), the Secretary shall publish notice of such transfer in the Federal Register. Such notice shall specify when the full amount of $200,000 has been transferred to the Houlton Band Tax Fund. “(c) The Secretary shall manage the Houlton Band Tax Fund in accordance with the first section of the Act of June 24, 1938 ([25 U.S.C. 162a](./chapter-004-performance-by-united-states-of-obligations-to-indians.md#section-162a)), and shall utilize the principal and interest of such Fund only as provided in subsection (d) and for no other purpose. “(d) Notwithstanding the provisions of [section 3727 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3727&num=0&edition=prelim), United States Code, the Secretary shall pay out of the Houlton Band Tax Fund all valid claims for taxes, payments in lieu of property taxes, and fees, together with any interest and penalties thereon—“(1) for which the Houlton Band of Maliseet Indians are determined to be liable under the terms of section 6208–A(2) of the amended Maine Implementing Act, “(2) which are final and not subject to further administrative or judicial review, and “(3) which have been certified by the Commissioner of Finance and Administration of the State of Maine as valid claims (within the meaning of section 6208–A(2) of the amended Maine Implementing Act) that meet the requirements of this subsection. “(e) Notwithstanding any other provision of law, if—“(1) the Houlton Band of Maliseet Indians is liable to the State of Maine or any county, district, municipality, city, town, village, plantation, or any other political subdivision thereof for any tax, payment in lieu of property tax, or fees, together with any interest or penalties thereon, and “(2) there are insufficient funds in the Houlton Band Tax Fund to pay such tax, payment, or fee (together with any interest or penalties thereon) in full, the deficiency shall be paid by the Houlton Band of Maliseet Indians only from income-producing property owned by such Band which is not held in trust for such Band by the United States, and such Band shall not be required to pay such tax, payment, or fee (or any interest or penalty thereon) from any other source. “(f) The Secretary shall, after consultation with the Commissioner of Finance and Administration of the State of Maine and the Houlton Band of Maliseet Indians, prescribe written procedures governing the filing and payment of claims under this section and section 6208–A of the amended Maine Implementing Act. “houlton band trust land“Sec. 4. (a) Subject to the provisions of section 3 of this Act, the Secretary is authorized and directed to expend, at the request of the Houlton Band of Maliseet Indians, the principal of, and income accruing on, the land acquisition fund established for such Band under subsections (c) and (d)(1) of section 5 of the Maine Indian Claims Settlement Act of 1980 ([25 U.S.C. 1724](./chapter-019-indian-land-claims-settlements.md#section-1724); 94 Stat. 1789) for the purposes of acquiring land or natural resources for such Band and for no other purpose. Land or natural resources so acquired within the State of Maine for such Band shall be held in trust by the United States for the benefit of such Band. “(b)(1) Land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of the Houlton Band of Maliseet Indians may be alienated only by—“(A) takings for public use pursuant to the laws of the State of Maine as provided in subsection (c), “(B) takings for public use pursuant to the laws of the United States, “(C) transfers authorized by section 5(g)(3) of the Maine Indian Claims Settlement Act of 1980 ([25 U.S.C. 1724(g)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1724/g/3&num=0&edition=prelim); 94 Stat. 1791), or “(D) transfers made pursuant to an Act or joint resolution of Congress. All other transfers of land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of such Band shall be void ab initio and without any validity in law or equity. “(2) The provisions of paragraph (1) shall not prohibit or limit transfers of individual use assignments of land or natural resources from one member of the Houlton Band of Maliseet Indians to another member of such Band. “(c)(1) Land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of the Houlton Band of Maliseet Indians may be condemned for public purposes by the State of Maine, or any political subdivision thereof, only upon such terms and conditions as shall be agreed upon in writing between the State and such Band after the date of enactment of this Act [Oct. 27, 1986]. “(2) The consent of the United States is hereby given to the State of Maine to further amend the amended Maine Implementing Act for the purpose of embodying the agreement described in paragraph (1). “(d)(1) Lands and natural resources may be acquired by the Secretary for the Houlton Band of Maliseet Indians only if the Secretary has, at any time prior to such acquisition—“(A) transmitted a letter to the Secretary of State of the State of Maine stating that the Houlton Band Tax Fund contains $200,000, and “(B) provided the Secretary of State of the State of Maine with a copy of the procedures for filing and payment of claims prescribed under section 3(f). “(2)(A) No land or natural resources may be acquired by the Secretary for the Houlton Band of Maliseet Indians until the Secretary—“(i) files with the Secretary of State of the State of Maine a certified copy of the deed, contract, or other conveyance setting forth the location and boundaries of the land or natural resources to be acquired by the Secretary, or “(ii) files with the Secretary of State of the State of Maine a certified copy of any instrument setting forth the location and boundaries of the land or natural resources to be acquired. “(B) For purposes of subparagraph (A), filing with the Secretary of State of the State of Maine may be made by mail and, if such method of filing is used, shall be considered to be completed on the date on which the document is properly mailed to the Secretary of State of the State of Maine.”
 
 
 <a id="section-1725"></a>
@@ -622,7 +465,7 @@ In subsec. (d)(2), “[section 3727 of title 31](https://uscode.house.gov/view.x
 
 **(b) Consideration and determination of petition by Secretary** Any petition to assume jurisdiction over Indian child custody proceedings by the Passamaquoddy Tribe or the Penobscot Nation shall be considered and determined by the Secretary in accordance with sections 108(b) and (c) of the Act [[25 U.S.C. 1918(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1918/b&num=0&edition=prelim) and (c)].
 
-**(c) Actions or proceedings within existing jurisdiction unaffected** Assumption or jurisdiction under this section shall not affect any action or proceeding over which a court has already assumed jurisdiction.
+**(c) Actions or proceedings within existing jurisdiction unaffected** Assumption of jurisdiction under this section shall not affect any action or proceeding over which a court has already assumed jurisdiction.
 
 **(d) Reservations within [section 1903(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1903/10&num=0&edition=prelim)** For the purposes of this section, the Passamaquoddy Indian Reservation and the Penobscot Indian Reservation are “reservations” within section 4(10) of the Act [[25 U.S.C. 1903(10)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1903/10&num=0&edition=prelim)].
 
@@ -2005,7 +1848,8 @@ Amounts may not be expended from—
 
 (1) the $30,000,000 and the $5,000,000 provided by the United States under [section 1774d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1774d/b&num=0&edition=prelim), and
 
-(2) the $16,000,000 and $9,000,000 provided by the State under [section 1774d(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1774d/c&num=0&edition=prelim), until after the authorized officials of the Seneca Nation execute new leases with all lessees who accept the Seneca Nation’s offer of a new lease, as filed with the Secretary under [section 1774b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1774b/a&num=0&edition=prelim), and execute appropriate documents relinquishing all claims for payment of annual rents prior to February 20, 1991, with respect to such leases.
+(2) the $16,000,000 and $9,000,000 provided by the State under [section 1774d(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1774d/c&num=0&edition=prelim),
+until after the authorized officials of the Seneca Nation execute new leases with all lessees who accept the Seneca Nation’s offer of a new lease, as filed with the Secretary under [section 1774b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1774b/a&num=0&edition=prelim), and execute appropriate documents relinquishing all claims for payment of annual rents prior to February 20, 1991, with respect to such leases.
 
 
 <a id="section-1774f"></a>
@@ -3208,6 +3052,84 @@ The River and Harbor Act of 1946, as amended by the Flood Control Act of 1948 an
 **(b) Limitations** Notwithstanding subsection (a) of this section, the total fees payable to attorneys under such contracts with an Indian Nation shall not exceed 10 percent of that Indian Nation’s allocation of funds appropriated under [section 1779c(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779c/c&num=0&edition=prelim).
 
 
+<a id="section-1779f"></a>
+## § 1779f. Release of other tribal claims and filing of claims
+**(a) Extinguishment of other tribal claims**
+
+(1) **In general** — As of December 13, 2002—
+
+  (A) all right, title, and interest of any Indian nation or tribe other than any Indian Nation defined in [section 1779b of this title](./chapter-019-indian-land-claims-settlements.md#section-1779b) (referred to in this section and [section 1779g of this title](./chapter-019-indian-land-claims-settlements.md#section-1779g) as a “claimant tribe”) in or to the Disclaimed Drybed Lands, and any such right, title, or interest held by the United States on behalf of such a claimant tribe, shall be considered to be extinguished in accordance with [section 177 of title 25](./chapter-005-protection-of-indians.md#section-177);
+
+  (B) if any party other than a claimant tribe holds transferred interests in or to the Disclaimed Drybed Lands in violation of [section 177 of title 25](./chapter-005-protection-of-indians.md#section-177), Congress approves and ratifies those transfers of interests to the extent that the transfers are in accordance with other applicable law; and
+
+  (C) the documents described in [section 1779c(b)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779c/b/1/D&num=0&edition=prelim) shall serve to identify the geographic scope of the interests extinguished by subparagraph (A).
+
+(2) **Quiet title actions**
+
+  (A) *In general* — Notwithstanding any other provision of law, after December 13, 2002, neither the United States (or any department or agency of the United States) nor any Indian Nation shall be included as a party to any civil action brought by any private person or private entity to quiet title to, or determine ownership of an interest in or to, the Disclaimed Drybed Lands.
+
+  (B) *Future actions* — As of December 13, 2002, the United States shall have no obligation to bring any civil action to quiet title to, or to recover any land or funds relating to, the Drybed Lands (including any lands that are Wetbed Lands as of December 13, 2002, but that are located at any time after that date above the mean high water mark of the Arkansas River).
+
+  (C) *No breach of trust* — The failure or declination by the United States to initiate any civil action to quiet title to or manage any Drybed Lands under this paragraph shall not—
+
+    (i) constitute a breach of trust by the United States; or
+
+    (ii) be compensable to a claimant tribe in any manner.
+
+**(b) Claims of other Indian tribes**
+
+(1) **Limited period for filing claims**
+
+  (A) *In general* — Not later than 180 days after December 13, 2002, any claimant tribe that claims that any title, interest, or entitlement held by the claimant tribe has been extinguished by operation of [section 1779c(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779c/a&num=0&edition=prelim) or subsection (a) of this section may file a claim against the United States relating to the extinguishment in the United States Court of Federal Claims.
+
+  (B) *Failure to file* — After the date described in subparagraph (A), a claimant tribe described in that subparagraph shall be barred from filing any claim described in that subparagraph.
+
+(2) **Special holding account**
+
+  (A) *Establishment* — There is established in the Treasury, in addition to the accounts established by [section 1779d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779d/a&num=0&edition=prelim), an interest-bearing special holding account for the benefit of the Indian Nations.
+
+  (B) *Deposits* — Notwithstanding any other provision of this subchapter or any other law, of any funds that would otherwise be deposited in a tribal trust account established by [section 1779d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779d/a&num=0&edition=prelim), 10 percent shall—
+
+    (i) be deposited in the special holding account established by subparagraph (A); and
+
+    (ii) be held in that account for distribution under paragraph (3).
+
+(3) **Distribution of funds**
+
+  (A) *In general* — Funds deposited in the special holding account established by paragraph (2)(A) shall be distributed in accordance with subparagraphs (B) through (D).
+
+  (B) *Claim filed* — If a claim under paragraph (1)(A) is filed by the deadline specified in that paragraph, on final adjudication of that claim—
+
+    (i) if the final judgment awards to a claimant an amount that does not exceed the amount of funds in the special holding account under paragraph (2) attributable to the Indian Nation from the allocation of which under [section 1779c(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779c/d&num=0&edition=prelim) the funds in the special holding account are derived—
+
+      (I) that amount shall be distributed from the special holding account to the claimant tribe that filed the claim; and
+
+      (II) any remaining amount in the special holding account attributable to the claim shall be transferred to the appropriate tribal trust account for the Indian Nation established by [section 1779d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779d/a&num=0&edition=prelim); and
+
+    (ii) if the final judgment awards to a claimant an amount that exceeds the amount of funds in the special holding account attributable to the Indian Nation from the allocation of which under [section 1779c(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779c/d&num=0&edition=prelim) the funds in the special holding account are derived—
+
+      (I) the balance of funds in the special holding account attributable to the Indian Nation shall be distributed to the claimant tribe that filed the claim; and
+
+      (II) payment of the remainder of the judgment amount awarded to the claimant tribe shall be made from the permanent judgment appropriation established pursuant to [section 1304 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1304&num=0&edition=prelim).
+
+  (C) *No claims filed* — If no claims under paragraph (1)(A) are filed by the deadline specified in that paragraph—
+
+    (i) any funds held in the special holding account under paragraph (2) and attributed to that Indian Nation shall be deposited in the appropriate tribal trust account established by section 1779d(a) 11 See References in Text note below. of this title; and
+
+    (ii) after the date that is 180 days after December 13, 2002, paragraph (2)(B) shall not apply to appropriations attributed to that Indian Nation.
+
+**(c) Declaration with respect to scope of rights, title, and interests** Congress declares that—
+
+(1) subsection (b) of this section is intended only to establish a process by which alleged claims may be resolved; and
+
+(2) nothing in this section acknowledges, enhances, or establishes any prior right, title, or interest of any claimant tribe in or to the Arkansas Riverbed.
+
+### Statutory Notes
+
+#### References in Text
+[Section 1779d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1779d/a&num=0&edition=prelim), referred to in subsec. (b)(3)(C)(i), was in the original “section 6(a)” and was translated as reading “section 606(a)”, meaning section 606(a) of Pub. L. 107–331, to reflect the probable intent of Congress, because Pub. L. 107–331 does not contain a section 6, and section 1779d(a) establishes three tribal trust fund accounts.
+
+
 <a id="section-1779g"></a>
 ## § 1779g. Effect on claims
 
@@ -3377,7 +3299,7 @@ Act of October 19, 1973, referred to in subsec. (b)(6), is Pub. L. 93–134, Oct
 
 (2) **Use of funds** — Funds deposited in a Sisk Act fund pursuant to this subchapter shall not be subject to transfer or reprogramming for wildlands fire management or any other emergency purposes, or used to reimburse any other account.
 
-(3) **Acquisitions of land** — In expending funds to exercise its rights under the Settlement Agreement and the Los Alamos Agreement with respect to the acquisition of the Settlement Area Land, the County’s acquisitions of the Water System Land, and the Northern Tier Land (if the Pueblo exercises an option to purchase the Northern Tier Land as provided in [section 1708j(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1708j/b/2/A&num=0&edition=prelim), 11 So in original. Probably should be “title),”. the Pueblo shall use only funds in the Settlement Fund and shall not augment those funds from any other source.
+(3) **Acquisitions of land** — In expending funds to exercise its rights under the Settlement Agreement and the Los Alamos Agreement with respect to the acquisition of the Settlement Area Land, the County’s acquisitions of the Water System Land, and the Northern Tier Land (if the Pueblo exercises an option to purchase the Northern Tier Land as provided in [section 1780j(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1780j/b/2/A&num=0&edition=prelim), 11 So in original. Probably should be “title),”. the Pueblo shall use only funds in the Settlement Fund and shall not augment those funds from any other source.
 
 **(d) Valid existing rights and reservations**
 
@@ -3581,7 +3503,7 @@ Subject to valid existing rights, the land referenced in the notices of withdraw
 
 (4) **Adequate access provided by Pueblo of Santa Clara** — If adequate administrative and inholder access is provided over the Santa Clara Indian Reservation under paragraph (2), the Secretary of the Interior—
 
-  (A) shall vacate the inholder access over that portion of Forest Development Road 416 referenced in [section 1780e(e)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1780e/e/5&num=0&edition=prelim); but
+  (A) shall vacate the inholder access over that portion of Forest Development Road 416 referenced in section 1780e(e)(5) 11 So in original. Probably should be a reference to section 1780e(d)(5). of this title; but
 
   (B) shall not vacate the reservations over the Northern Tier Land for administrative access under subsection (c)(2).
 

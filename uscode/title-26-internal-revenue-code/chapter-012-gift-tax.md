@@ -131,7 +131,7 @@ Pub. L. 89–809, title I, § 109(c), Nov. 13, 1966, 80 Stat. 1575, provided tha
 Pub. L. 86–779, § 4(e)(3), Sept. 14, 1960, 74 Stat. 1000, provided that: “The amendments made by subsection (d) [amending this section] shall apply with respect to gifts made after the date of the enactment of this Act [Sept. 14, 1960].”
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–866 applicable to gifts made after September 2, 1958, see section 102(d) of Pub. L. 85–866, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 85–866 applicable to gifts made after September 2, 1958, see section 102(d) of Pub. L. 85–866, set out as a note under [section 2014 of this title](./chapter-011-estate-tax.md#section-2014).
 
 #### Election To Have Amendments by Title IV of the Economic Recovery Tax Act of 1981 Not Apply
 Pub. L. 97–448, title I, § 104(d)(3), Jan. 12, 1983, 96 Stat. 2383, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “(A) In the case of any decedent—“(i) who dies before August 13, 1984, and “(ii) who made a gift (before August 13, 1981, and during the 3-year period ending on the date of the decedent’s death) on which tax imposed by chapter 12 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] has been paid before April 16, 1982, such decedent’s executor may make an election to have subtitle B of such Code (relating to estate and gift taxes) applied with respect to such decedent without regard to any of the amendments made by title IV of the Economic Recovery Tax Act of 1981 [Pub. L. 97–34, title IV]. “(B) An election under subparagraph (A) shall be made at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe. “(C) An election under subparagraph (A), once made, shall be irrevocable.”
@@ -228,7 +228,8 @@ Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 3
   (A) pass to the donee on his attaining the age of 21 years, and
 
   (B) in the event the donee dies before attaining the age of 21 years, be payable to the estate of the donee or as he may appoint under a general power of appointment as defined in section 2514(c).
-[(d) Repealed. Pub. L. 97–34, title III, § 311(h)(5), Aug. 13, 1981, 95 Stat. 282]
+
+**(d) Repealed. Pub. L. 97–34, title III, § 311(h)(5), Aug. 13, 1981, 95 Stat. 282]**
 
 **(e) Exclusion for certain transfers for educational expenses or medical expenses**
 
@@ -647,7 +648,8 @@ Where a husband and wife enter into a written agreement relative to their marita
 
 (1) to either spouse in settlement of his or her marital or property rights, or
 
-(2) to provide a reasonable allowance for the support of issue of the marriage during minority, shall be deemed to be transfers made for a full and adequate consideration in money or money’s worth.
+(2) to provide a reasonable allowance for the support of issue of the marriage during minority,
+shall be deemed to be transfers made for a full and adequate consideration in money or money’s worth.
 
 ### Statutory Notes
 
@@ -1141,7 +1143,7 @@ For provisions directing that in the case of the estate of, or gift by, an indiv
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
 #### Special Rule for Certain Transfers in October 1984
-Pub. L. 99–514, title XVIII, § 1879(n)(3), Oct. 22, 1986, 100 Stat. 2910, provided that: “An election under section 2523(f) of the Internal Revenue Code of 1954 [now 1986] with respect to an interest in property which— “(A) was transferred during October 1984, and “(B) was transferred pursuant to a trust instrument stating that the grantor’s intention was that the property of the trust would constitute qualified terminable interest property as to which a Federal gift tax marital deduction would be allowed upon the grantor’s election, shall be made on the return of tax imposed by section 2501 of such Code for the calendar year 1984 which is filed on or before the due date of such return or, if a timely return is not filed, on the first such return filed after the due date of such return and before December 31, 1986.”
+Pub. L. 99–514, title XVIII, § 1879(n)(3), Oct. 22, 1986, 100 Stat. 2910, provided that: “An election under section 2523(f) of the Internal Revenue Code of 1954 [now 1986] with respect to an interest in property which—“(A) was transferred during October 1984, and “(B) was transferred pursuant to a trust instrument stating that the grantor’s intention was that the property of the trust would constitute qualified terminable interest property as to which a Federal gift tax marital deduction would be allowed upon the grantor’s election, shall be made on the return of tax imposed by section 2501 of such Code for the calendar year 1984 which is filed on or before the due date of such return or, if a timely return is not filed, on the first such return filed after the due date of such return and before December 31, 1986.”
 
 
 <a id="section-2524"></a>

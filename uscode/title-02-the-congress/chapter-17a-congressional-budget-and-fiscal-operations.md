@@ -12,7 +12,7 @@ source: >-
 
 **(b) Study** The Director and the Director of the Congressional Budget Office shall each study whether the accounting for Federal deposit insurance programs should be on a cash basis on the same basis as loan guarantees, or on a different basis. Each Director shall report findings and recommendations to the President and the Congress on or before May 31, 1991.
 
-**(c) Access to data** For the purposes of subsection (b) of this section, the Office of Management and Budget and the Congressional Budget Office shall have access to all agency data that may facilitate these studies.
+**(c) Access to data** For the purposes of subsection (b), the Office of Management and Budget and the Congressional Budget Office shall have access to all agency data that may facilitate these studies.
 
 ### Statutory Notes
 
@@ -20,7 +20,7 @@ source: >-
 A prior section 506 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, amended [section 105 of Title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section105&num=0&edition=prelim), General Provisions, and enacted provisions set out as a note under [section 105 of Title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section105&num=0&edition=prelim), prior to the general revision of title V of Pub. L. 93–344 by Pub. L. 101–508.
 
 #### Amendments
-1997—Pub. L. 105–33 struck out subsec. (a) designation and heading, redesignated pars. (1) to (3) of former subsec. (a) as subsecs. (a) to (c), respectively, inserted subsec. headings, and substituted “subsection (b) of this section” for “paragraph (2)” in subsec. (c).
+1997—Pub. L. 105–33 struck out subsec. (a) designation and heading, redesignated pars. (1) to (3) of former subsec. (a) as subsecs. (a) to (c), respectively, inserted subsec. headings, and substituted “subsection (b)” for “paragraph (2)” in subsec. (c).
 
 
 <a id="section-622"></a>
@@ -109,7 +109,7 @@ Pub. L. 100–119, title II, § 201, Sept. 29, 1987, 101 Stat. 784, provided tha
 Pub. L. 100–119, title II, § 203, Sept. 29, 1987, 101 Stat. 784, provided that: “It is the sense of the Congress that the Congress should undertake a coordinated effort to identify problems and develop specific recommendations to reform the financial management systems of the United States Government, including consideration of the use of generally accepted accounting principles.”
 
 #### Exercise of Congressional Rulemaking Power
-Pub. L. 93–344, title IX, § 904, July 12, 1974, 88 Stat. 331, as amended by Pub. L. 99–177, title II, § 271(a), Dec. 12, 1985, 99 Stat. 1094; Pub. L. 101–508, title XIII, §§ 13112(a)(11), 13208(a), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 104–130, § 4(c), Apr. 9, 1996, 110 Stat. 1212; Pub. L. 105–33, title X, § 10119, Aug. 5, 1997, 111 Stat. 695; Pub. L. 112–25, title I, § 105(c), Aug. 2, 2011, 125 Stat. 247, provided that: “(a) The provisions of this title and of titles I, III, IV, and V and the provisions of sections 701, 703, and 1017 [enacting this chapter (except subchapter IV) and sections 190a–3 and 688 of this title, amending the Rules of the House of Representatives and the Standing Rules of the Senate, and sections 190b and 190d of this title, and enacting provisions set out as notes under this section and sections 190a–1 and 632 of this title] are enacted by the Congress—“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and “(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House. “(b) Any provision of title III or IV [enacting subchapters I and II of this chapter] may be waived or suspended in the Senate by a majority vote of the Members voting, a quorum being present, or by the unanimous consent of the Senate. “(c) Waivers.—“(1) Permanent.—Sections 305(b)(2), 305(c)(4), 306, 310(d)(2), 313, 904(c), and 904(d) of this Act [sections 636(b)(2), (c)(4), 637, 641(d)(2), and 644 of this title and subsecs. (c) and (d) of this note] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn. “(2) Temporary.—Sections 301(i), 302(c), 302(f), 310(g), 311(a), 312(b), 312(c), and 314(e) of this Act [sections 632(i), 633(c), (f), 641(g), 642(a), 643(b), (c), and 645(e) of this title] and sections 258(a)(4)(C), 258A(b)(3)(C)(I) [(i)], 258B(f)(1), 258B(h)(1), 258(h)(3) [258B(h)(3)], 258C(a)(5), and 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985 [sections 907a(a)(4)(C), 907b(b)(3)(C)(i), 907c(f)(1), (h)(1), (3), and 907d(a)(5), (b)(1) of this title] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn. “(d) Appeals.—“(1) Procedure.—Appeals in the Senate from the decisions of the Chair relating to any provision of title III or IV [enacting subchapters I and II of this chapter] or section 1017 [[section 688 of this title](./chapter-17b-impoundment-control.md#section-688)] shall, except as otherwise provided therein, be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the resolution, concurrent resolution, reconciliation bill, or rescission bill, as the case may be. “(2) Permanent.—An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under sections 305(b)(2), 305(c)(4), 306, 310(d)(2), 313, 904(c), and 904(d) of this Act [sections 636(b)(2), (c)(4), 637, 641(d)(2), 644 of this title and subsecs. (c) and (d) of this note]. “(3) Temporary.—An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under sections 301(i), 302(c), 302(f), 310(g), 311(a), 312(b), and 312(c) of this Act and sections 258(a)(4)(C), 258A(b)(3)(C)(I) [(i)], 258B(f)(1), 258B(h)(1), 258(h)(3) [258B(h)(3)], 258C(a)(5), and 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985. “(e) Expiration of Certain Supermajority Voting Requirements.—Subsections (c)(2) and (d)(3) shall expire on September 30, 2002.”
+Pub. L. 93–344, title IX, § 904, July 12, 1974, 88 Stat. 331, as amended by Pub. L. 99–177, title II, § 271(a), Dec. 12, 1985, 99 Stat. 1094; Pub. L. 101–508, title XIII, §§ 13112(a)(11), 13208(a), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 104–130, § 4(c), Apr. 9, 1996, 110 Stat. 1212; Pub. L. 105–33, title X, § 10119, Aug. 5, 1997, 111 Stat. 695; Pub. L. 112–25, title I, § 105(c), Aug. 2, 2011, 125 Stat. 247; Pub. L. 113–67, div. A, title I, § 122(16), (17), Dec. 26, 2013, 127 Stat. 1176, provided that: “(a) The provisions of this title and of titles I, III, IV, and V and the provisions of sections 701, 703, and 1017 [enacting this chapter (except subchapter IV) and sections 190a–3 and 688 of this title, amending the Rules of the House of Representatives and the Standing Rules of the Senate, and sections 190b and 190d of this title, and enacting provisions set out as notes under this section and sections 190a–1 and 632 of this title] are enacted by the Congress—“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and “(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House. “(b) Any provision of title III or IV [enacting subchapters I and II of this chapter] may be waived or suspended in the Senate by a majority vote of the Members voting, a quorum being present, or by the unanimous consent of the Senate. “(c) Waivers.—“(1) Permanent.—Sections 305(b)(2), 305(c)(4), 306, 310(d)(2), 313, 904(c), and 904(d) of this Act [sections 636(b)(2), (c)(4), 637, 641(d)(2), and 644 of this title and subsecs. (c) and (d) of this note] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn. “(2) Temporary.—Sections 301(i), 302(c), 302(f), 310(g), 311(a), 312(b), 312(c), 314(e), and 314(f) of this Act [sections 632(i), 633(c), (f), 641(g), 642(a), 643(b), (c), and 645(e), (f) of this title] and sections 258(a)(4)(C), 258A(b)(3)(C)(i), 258B(f)(1), 258B(h)(1), 258B(h)(3), 258C(a)(5), and 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985 [sections 907a(a)(4)(C), 907b(b)(3)(C)(i), 907c(f)(1), (h)(1), (3), and 907d(a)(5), (b)(1) of this title] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn. “(d) Appeals.—“(1) Procedure.—Appeals in the Senate from the decisions of the Chair relating to any provision of title III or IV [enacting subchapters I and II of this chapter] or section 1017 [[section 688 of this title](./chapter-17b-impoundment-control.md#section-688)] shall, except as otherwise provided therein, be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the resolution, concurrent resolution, reconciliation bill, or rescission bill, as the case may be. “(2) Permanent.—An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under sections 305(b)(2), 305(c)(4), 306, 310(d)(2), 313, 904(c), and 904(d) of this Act [sections 636(b)(2), (c)(4), 637, 641(d)(2), 644 of this title and subsecs. (c) and (d) of this note]. “(3) Temporary.—An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under sections 301(i), 302(c), 302(f), 310(g), 311(a), 312(b), 312(c), 314(e), and 314(f) of this Act and sections 258(a)(4)(C), 258A(b)(3)(C)(i), 258B(f)(1), 258B(h)(1), 258B(h)(3), 258C(a)(5), and 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985. “(e) Expiration of Certain Supermajority Voting Requirements.—Subsections (c)(2) and (d)(3) shall expire on September 30, 2002.”
 
 [Amendment of section 904 of Pub. L. 93–344, set out above, by Pub. L. 104–130 was reversed pursuant to section 5 of Pub. L. 104–130, set out as an Effective and Termination Dates note under [section 691 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section691&num=0&edition=prelim).]
 
@@ -253,7 +253,7 @@ Amendment by sections 201(a)(1) and 232(b) of Pub. L. 99–177 effective Dec. 12
 
 (4) developing techniques of human resource accounting and other means of providing noneconomic as well as economic evaluation measures.
 
-**(b)** The Committee on the Budget of each House shall, from time to time, report to its House the results of the study carried on by it under subsection (a) of this section, together with its recommendations.
+**(b)** The Committee on the Budget of each House shall, from time to time, report to its House the results of the study carried on by it under subsection (a), together with its recommendations.
 
 **(c)** Nothing in this section shall preclude studies to improve the budgetary process by any other committee of the House of Representatives or the Senate or any joint committee of the Congress.
 
@@ -304,14 +304,14 @@ Pub. L. 112–25, title I, § 106, Aug. 2, 2011, 125 Stat. 247, provided that: �
 
 (5) the public debt;
 
-(6) For 11 So in original. Probably should not be capitalized. purposes of Senate enforcement under this subchapter, outlays of the old-age, survivors, and disability insurance program established under title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.] for the fiscal year of the resolution and for each of the 4 succeeding fiscal years; and
+(6) for purposes of Senate enforcement under this subchapter, outlays of the old-age, survivors, and disability insurance program established under title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.] for the fiscal year of the resolution and for each of the 4 succeeding fiscal years; and
 
-(7) For 1 purposes of Senate enforcement under this subchapter, revenues of the old-age, survivors, and disability insurance program established under title II of the Social Security Act (and the related provisions of the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.]) for the fiscal year of the resolution and for each of the 4 succeeding fiscal years.
-The concurrent resolution shall not include the outlays and revenue totals of the old age,22 So in original. Probably should be “old-age,”. survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.
+(7) for purposes of Senate enforcement under this subchapter, revenues of the old-age, survivors, and disability insurance program established under title II of the Social Security Act (and the related provisions of the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.]) for the fiscal year of the resolution and for each of the 4 succeeding fiscal years.
+The concurrent resolution shall not include the outlays and revenue totals of the old-age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.
 
 **(b) Additional matters in concurrent resolution** The concurrent resolution on the budget may—
 
-(1) set forth, if required by subsection (f) of this section, the calendar year in which, in the opinion of the Congress, the goals for reducing unemployment set forth in section 4(b) of the Employment Act of 1946 [[15 U.S.C. 1022a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1022a/b&num=0&edition=prelim)] should be achieved;
+(1) set forth, if required by subsection (f), the calendar year in which, in the opinion of the Congress, the goals for reducing unemployment set forth in section 4(b) of the Employment Act of 1946 [[15 U.S.C. 1022a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1022a/b&num=0&edition=prelim)] should be achieved;
 
 (2) include reconciliation directives described in [section 641 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-641);
 
@@ -331,11 +331,11 @@ The concurrent resolution shall not include the outlays and revenue totals of th
 
 **(c) Consideration of procedures or matters which have effect of changing any rule of House** If the Committee on the Budget of the House of Representatives reports any concurrent resolution on the budget which includes any procedure or matter which has the effect of changing any rule of the House of Representatives, such concurrent resolution shall then be referred to the Committee on Rules with instructions to report it within five calendar days (not counting any day on which the House is not in session). The Committee on Rules shall have jurisdiction to report any concurrent resolution referred to it under this paragraph with an amendment or amendments changing or striking out any such procedure or matter.
 
-**(d) Views and estimates of other committees** Within 6 weeks after the President submits a budget under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), or at such time as may be requested by the Committee on the Budget, each committee of the House of Representatives having legislative jurisdiction shall submit to the Committee on the Budget of the House and each committee of the Senate having legislative jurisdiction shall submit to the Committee on the Budget of the Senate its views and estimates (as determined by the committee making such submission) with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within the jurisdiction or functions of such committee. The Joint Economic Committee shall submit to the Committees on the Budget of both Houses its recommendations as to the fiscal policy appropriate to the goals of the Employment Act of 1946 [[15 U.S.C. 1021](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1021&num=0&edition=prelim) et seq.]. Any other committee of the House of Representatives or the Senate may submit to the Committee on the Budget of its House, and any joint committee of the Congress may submit to the Committees on the Budget of both Houses, its views and estimates with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within its jurisdiction or functions. Any Committee 33 So in original. Probably should not be capitalized. of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.
+**(d) Views and estimates of other committees** Within 6 weeks after the President submits a budget under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), or at such time as may be requested by the Committee on the Budget, each committee of the House of Representatives having legislative jurisdiction shall submit to the Committee on the Budget of the House and each committee of the Senate having legislative jurisdiction shall submit to the Committee on the Budget of the Senate its views and estimates (as determined by the committee making such submission) with respect to all matters set forth in subsections (a) and (b) which relate to matters within the jurisdiction or functions of such committee. The Joint Economic Committee shall submit to the Committees on the Budget of both Houses its recommendations as to the fiscal policy appropriate to the goals of the Employment Act of 1946 [[15 U.S.C. 1021](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1021&num=0&edition=prelim) et seq.]. Any other committee of the House of Representatives or the Senate may submit to the Committee on the Budget of its House, and any joint committee of the Congress may submit to the Committees on the Budget of both Houses, its views and estimates with respect to all matters set forth in subsections (a) and (b) which relate to matters within its jurisdiction or functions. Any Committee 11 So in original. Probably should not be capitalized. of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.
 
 **(e) Hearings and report**
 
-(1) **In general** — In developing the concurrent resolution on the budget referred to in subsection (a) of this section for each fiscal year, the Committee on the Budget of each House shall hold hearings and shall receive testimony from Members of Congress and such appropriate representatives of Federal departments and agencies, the general public, and national organizations as the committee deems desirable. Each of the recommendations as to short-term and medium-term goals set forth in the report submitted by the members of the Joint Economic Committee under subsection (d) of this section may be considered by the Committee on the Budget of each House as part of its consideration of such concurrent resolution, and its report may reflect its views thereon, including its views on how the estimates of revenues and levels of budget authority and outlays set forth in such concurrent resolution are designed to achieve any goals it is recommending.
+(1) **In general** — In developing the concurrent resolution on the budget referred to in subsection (a) for each fiscal year, the Committee on the Budget of each House shall hold hearings and shall receive testimony from Members of Congress and such appropriate representatives of Federal departments and agencies, the general public, and national organizations as the committee deems desirable. Each of the recommendations as to short-term and medium-term goals set forth in the report submitted by the members of the Joint Economic Committee under subsection (d) may be considered by the Committee on the Budget of each House as part of its consideration of such concurrent resolution, and its report may reflect its views thereon, including its views on how the estimates of revenues and levels of budget authority and outlays set forth in such concurrent resolution are designed to achieve any goals it is recommending.
 
 (2) **Required contents of report** — The report accompanying the resolution shall include—
 
@@ -369,7 +369,7 @@ The concurrent resolution shall not include the outlays and revenue totals of th
 
 (2) After the Congress has expressed its opinion pursuant to paragraph (1) as to the year in which the goals for reducing unemployment set forth in section 4(b) of the Employment Act of 1946 [[15 U.S.C. 1022a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1022a/b&num=0&edition=prelim)] can be achieved, if, pursuant to section 4(e) of such Act [[15 U.S.C. 1022a(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1022a/e&num=0&edition=prelim)], the President recommends in the Economic Report that such goals be achieved in a year which is different from the year in which the Congress has expressed its opinion that such goals should be achieved, either in its action pursuant to paragraph (1) or in its most recent action pursuant to this paragraph, the concurrent resolution on the budget for the fiscal year beginning after the date on which such Economic Report is received by the Congress may set forth the year in which, in the opinion of the Congress, such goals can be achieved.
 
-(3) It shall be in order to amend the provision of such resolution setting forth such year only if the amendment thereto also proposes to alter the estimates, amounts, and levels (as described in subsection (a) of this section) set forth in such resolution in germane fashion in order to be consistent with the economic goals (as described in sections 3(a)(2) and 4(b) of the Employment Act of 1946 [[15 U.S.C. 1022(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1022/a/2&num=0&edition=prelim), 1022a(b)]) which such amendment proposes can be achieved by the year specified in such amendment.
+(3) It shall be in order to amend the provision of such resolution setting forth such year only if the amendment thereto also proposes to alter the estimates, amounts, and levels (as described in subsection (a)) set forth in such resolution in germane fashion in order to be consistent with the economic goals (as described in sections 3(a)(2) and 4(b) of the Employment Act of 1946 [[15 U.S.C. 1022(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1022/a/2&num=0&edition=prelim), 1022a(b)]) which such amendment proposes can be achieved by the year specified in such amendment.
 
 **(g) Economic assumptions**
 
@@ -400,6 +400,10 @@ The Congressional Budget Act of 1974, referred to in subsec. (g)(3), is titles I
 Section was formerly classified to [section 1322 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1322&num=0&edition=prelim) prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+2013—Subsec. (a). Pub. L. 113–67, § 122(2), substituted “old-age” for “old age” in concluding provisions.
+
+Subsec. (a)(6), (7). Pub. L. 113–67, § 122(1), substituted “for purposes” for “For purposes”.
+
 1997—Subsec. (a). Pub. L. 105–33, § 10105(a), in introductory provisions, substituted “and for at least each of the 4 ensuing fiscal years” for “, and planning levels for each of the two ensuing fiscal years,”.
 
 Subsec. (a)(1), (4). Pub. L. 105–33, § 10105(b), substituted “and outlays” for “, budget outlays, direct loan obligations, and primary loan guarantee commitments”.
@@ -510,13 +514,13 @@ Pub. L. 93–344, title IX, § 906, July 12, 1974, 88 Stat. 332, provided for ap
 
   (B) As soon as practicable after an allocation under paragraph (1) is submitted under this section, the Committee on Appropriations shall make suballocations and report those suballocations to the House of Representatives.
 
-**(b) Suballocations by Appropriations Committees** As soon as practicable after a concurrent resolution on the budget is agreed to, the Committee on Appropriations of each House (after consulting with the Committee on Appropriations of the other House) shall suballocate each amount allocated to it for the budget year under subsection (a) of this section among its subcommittees. Each Committee on Appropriations shall promptly report to its House suballocations made or revised under this subsection. The Committee on Appropriations of the House of Representatives shall further divide among its subcommittees the divisions made under subsection (a)(3)(B) of this section and promptly report those divisions to the House.
+**(b) Suballocations by Appropriations Committees** As soon as practicable after a concurrent resolution on the budget is agreed to, the Committee on Appropriations of each House (after consulting with the Committee on Appropriations of the other House) shall suballocate each amount allocated to it for the budget year under subsection (a) among its subcommittees. Each Committee on Appropriations shall promptly report to its House suballocations made or revised under this subsection. The Committee on Appropriations of the House of Representatives shall further divide among its subcommittees the divisions made under subsection (a)(3)(B) and promptly report those divisions to the House.
 
-**(c) Point of order** After the Committee on Appropriations has received an allocation pursuant to subsection (a) of this section for a fiscal year, it shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report within the jurisdiction of that committee providing new budget authority for that fiscal year, until that committee makes the suballocations required by subsection (b) of this section.
+**(c) Point of order** After the Committee on Appropriations has received an allocation pursuant to subsection (a) for a fiscal year, it shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report within the jurisdiction of that committee providing new budget authority for that fiscal year, until that committee makes the suballocations required by subsection (b).
 
-**(d) Subsequent concurrent resolutions** In the case of a concurrent resolution on the budget referred to in [section 635 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-635), the allocations under subsection (a) of this section and the subdivisions under subsection (b) of this section shall be required only to the extent necessary to take into account revisions made in the most recently agreed to concurrent resolution on the budget.
+**(d) Subsequent concurrent resolutions** In the case of a concurrent resolution on the budget referred to in [section 635 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-635), the allocations under subsection (a) and the subdivisions under subsection (b) shall be required only to the extent necessary to take into account revisions made in the most recently agreed to concurrent resolution on the budget.
 
-**(e) Alteration of allocations** At any time after a committee reports the allocations required to be made under subsection (b) of this section, such committee may report to its House an alteration of such allocations. Any alteration of such allocations must be consistent with any actions already taken by its House on legislation within the committee’s jurisdiction.
+**(e) Alteration of allocations** At any time after a committee reports the allocations required to be made under subsection (b), such committee may report to its House an alteration of such allocations. Any alteration of such allocations must be consistent with any actions already taken by its House on legislation within the committee’s jurisdiction.
 
 **(f) Legislation subject to point of order**
 
@@ -527,19 +531,19 @@ Pub. L. 93–344, title IX, § 906, July 12, 1974, 88 Stat. 332, provided for ap
   (B) the adoption and enactment of such amendment; or
 
   (C) the enactment of such bill or resolution in the form recommended in such conference report,
-  would cause the applicable allocation of new budget authority made under subsection (a) or (b) of this section for the first fiscal year or the total of fiscal years to be exceeded.
+  would cause the applicable allocation of new budget authority made under subsection (a) or (b) for the first fiscal year or the total of fiscal years to be exceeded.
 
 (2) **In the Senate** — After a concurrent resolution on the budget is agreed to, it shall not be in order in the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause—
 
-  (A) in the case of any committee except the Committee on Appropriations, the applicable allocation of new budget authority or outlays under subsection (a) of this section for the first fiscal year or the total of fiscal years to be exceeded; or
+  (A) in the case of any committee except the Committee on Appropriations, the applicable allocation of new budget authority or outlays under subsection (a) for the first fiscal year or the total of fiscal years to be exceeded; or
 
-  (B) in the case of the Committee on Appropriations, the applicable suballocation of new budget authority or outlays under subsection (b) of this section to be exceeded.
+  (B) in the case of the Committee on Appropriations, the applicable suballocation of new budget authority or outlays under subsection (b) to be exceeded.
 
 **(g) Pay-as-you-go exception in the House**
 
 (1) **In general**
 
-  (A) Subsection (f)(1) of this section and, after April 15, [section 634(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section634/a&num=0&edition=prelim) shall not apply to any bill or joint resolution, as reported, amendment thereto, or conference report thereon if, for each fiscal year covered by the most recently agreed to concurrent resolution on the budget—
+  (A) Subsection (f)(1) and, after April 15, [section 634(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section634/a&num=0&edition=prelim) shall not apply to any bill or joint resolution, as reported, amendment thereto, or conference report thereon if, for each fiscal year covered by the most recently agreed to concurrent resolution on the budget—
 
     (i) the enactment of that bill or resolution as reported;
 
@@ -559,7 +563,7 @@ Pub. L. 93–344, title IX, § 906, July 12, 1974, 88 Stat. 332, provided for ap
 
 (2) **Revised allocations**
 
-  (A) As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under [section 642(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section642/a&num=0&edition=prelim) but for the exception provided in paragraph (1)(B), the chairman of the committee 11 So in original. Probably should be capitalized. on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
+  (A) As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under [section 642(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section642/a&num=0&edition=prelim) but for the exception provided in paragraph (1)(B), the chairman of the Committee on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) and revised functional levels and budget aggregates to reflect that bill.
 
   (B) Such revised allocations, functional levels, and budget aggregates shall be considered for the purposes of this Act as allocations, functional levels, and budget aggregates contained in the most recently agreed to concurrent resolution on the budget.
 
@@ -572,6 +576,8 @@ This Act, referred to in subsec. (g)(2)(B), means Pub. L. 93–344, July 12, 197
 Section was formerly classified to [section 1323 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1323&num=0&edition=prelim) prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+2013—Subsec. (g)(2)(A). Pub. L. 113–67 substituted “Committee on the Budget” for “committee on the Budget”.
+
 1997—Subsec. (a). Pub. L. 105–33, § 10106(a), added subsec. (a) and struck out former subsec. (a) which required inclusion of certain allocations to committees of the House of Representatives and of the Senate in the joint explanatory statement accompanying a conference report on a concurrent resolution on the budget.
 
 Subsec. (b). Pub. L. 105–33, § 10106(a), added subsec. (b) and struck out former subsec. (b) which required committees of each House to subdivide among their subcommittees the allocations of budget outlays and new budget authority allocated to them in joint explanatory statement accompanying conference report on concurrent resolution on budget and required further subdivisions of such allocations by subcommittees.
@@ -584,7 +590,7 @@ Subsec. (c). Pub. L. 105–33, § 10106(b), reenacted heading without change and
 
 within the jurisdiction of any committee which has received an appropriate allocation of such authority pursuant to subsection (a) of this section for such fiscal year, unless and until such committee makes the allocation or subdivisions required by subsection (b) of this section, in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year.”
 
-Subsec. (f)(1). Pub. L. 105–33, § 10106(c)(1), substituted “providing new budget authority for any fiscal year” for “providing new budget authority for such fiscal year or new entitlement authority effective during such fiscal year” in introductory provisions and “applicable allocation of new budget authority made under subsection (a) or (b) of this section for the first fiscal year or the total of fiscal years to be exceeded.” for “appropriate allocation made pursuant to subsection (b) of this section for such fiscal year of new discretionary budget authority or new entitlement authority to be exceeded.” in concluding provisions.
+Subsec. (f)(1). Pub. L. 105–33, § 10106(c)(1), substituted “providing new budget authority for any fiscal year” for “providing new budget authority for such fiscal year or new entitlement authority effective during such fiscal year” in introductory provisions and “applicable allocation of new budget authority made under subsection (a) or (b) for the first fiscal year or the total of fiscal years to be exceeded.” for “appropriate allocation made pursuant to subsection (b) of this section for such fiscal year of new discretionary budget authority or new entitlement authority to be exceeded.” in concluding provisions.
 
 Subsec. (f)(2). Pub. L. 105–33, § 10106(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text provided that consideration in the Senate was not in order for certain bills, joint resolutions, amendments, motions, or conference reports that provided for budget outlays, new budget authority, or new spending authority in excess of certain allocations.
 
@@ -655,7 +661,7 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 (5) in the Senate only, first provides for an increase or decrease in outlays for that fiscal year.
 
-**(b) Exceptions in House** In the House of Representatives, subsection (a) of this section does not apply—
+**(b) Exceptions in House** In the House of Representatives, subsection (a) does not apply—
 
 (1)
 
@@ -728,7 +734,7 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 ## § 639. Provisions relating to consideration of concurrent resolutions on the budget
 **(a) Procedure in House after report of Committee; debate**
 
-(1) When a concurrent resolution on the budget has been reported by the Committee on the Budget of the House of Representatives and has been referred to the appropriate calendar of the House, it shall be in order on any day thereafter, subject to clause 2(l)(6) of rule XI 11 See References in Text note below. of the Rules of the House of Representatives, to move to proceed to the consideration of the concurrent resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(1) When a concurrent resolution on the budget has been reported by the Committee on the Budget of the House of Representatives and has been referred to the appropriate calendar of the House, it shall be in order on any day thereafter, subject to clause 4 of rule XIII of the Rules of the House of Representatives, to move to proceed to the consideration of the concurrent resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 (2) General debate on any concurrent resolution on the budget in the House of Representatives shall be limited to not more than 10 hours, which shall be divided equally between the majority and minority parties, plus such additional hours of debate as are consumed pursuant to paragraph (3). A motion further to limit debate is not debatable. A motion to recommit the concurrent resolution is not in order, and it is not in order to move to reconsider the vote by which the concurrent resolution is agreed to or disagreed to.
 
@@ -736,7 +742,7 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 (4) Only if a concurrent resolution on the budget reported by the Committee on the Budget of the House sets forth the economic goals (as described in sections 1022(a)(2) and 1022a(b) of title 15) which the estimates, amounts, and levels (as described in [section 632(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section632/a&num=0&edition=prelim)) set forth in such resolution are designed to achieve, shall it be in order to offer to such resolution an amendment relating to such goals, and such amendment shall be in order only if it also proposes to alter such estimates, amounts, and levels in germane fashion in order to be consistent with the goals proposed in such amendment.
 
-(5) Consideration of any concurrent resolution on the budget by the House of Representatives shall be in the Committee of the Whole, and the resolution shall be considered for amendment under the five-minute rule in accordance with the applicable provisions of rule XXIII 1 of the Rules of the House of Representatives. After the Committee rises and reports the resolution back to the House, the previous question shall be considered as ordered on the resolution and any amendments thereto to final passage without intervening motion; except that it shall be in order at any time prior to final passage (notwithstanding any other rule or provision of law) to adopt an amendment (or a series of amendments) changing any figure or figures in the resolution as so reported to the extent necessary to achieve mathematical consistency.
+(5) Consideration of any concurrent resolution on the budget by the House of Representatives shall be in the Committee of the Whole, and the resolution shall be considered for amendment under the five-minute rule in accordance with the applicable provisions of rule XVIII of the Rules of the House of Representatives. After the Committee rises and reports the resolution back to the House, the previous question shall be considered as ordered on the resolution and any amendments thereto to final passage without intervening motion; except that it shall be in order at any time prior to final passage (notwithstanding any other rule or provision of law) to adopt an amendment (or a series of amendments) changing any figure or figures in the resolution as so reported to the extent necessary to achieve mathematical consistency.
 
 (6) Debate in the House of Representatives on the conference report on any concurrent resolution on the budget shall be limited to not more than 5 hours, which shall be divided equally between the majority and minority parties. A motion further to limit debate is not debatable. A motion to recommit the conference report is not in order, and it is not in order to move to reconsider the vote by which the conference report is agreed to or disagreed to.
 
@@ -744,7 +750,7 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 **(b) Procedure in Senate after report of Committee; debate; amendments**
 
-(1) Debate in the Senate on any concurrent resolution on the budget, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 50 hours, except that with respect to any concurrent resolution referred to in section 635(a) 1 of this title all such debate shall be limited to not more than 15 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
+(1) Debate in the Senate on any concurrent resolution on the budget, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 50 hours, except that with respect to any concurrent resolution referred to in [section 635 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-635) all such debate shall be limited to not more than 15 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
 (2) Debate in the Senate on any amendment to a concurrent resolution on the budget shall be limited to 2 hours, to be equally divided between, and controlled by, the mover and the manager of the concurrent resolution, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the concurrent resolution, except that in the event the manager of the concurrent resolution is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee. No amendment that is not germane to the provisions of such concurrent resolution shall be received. Such leaders, or either of them, may, from the time under their control on the passage of the concurrent resolution, allot additional time to any Senator during the consideration of any amendment, debatable motion, or appeal.
 
@@ -775,16 +781,18 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 ### Statutory Notes
 
 #### References in Text
-The Rules of the House of Representatives for the One Hundred Sixth Congress were adopted and amended generally by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Provisions formerly appearing in clause 2(l)(6) of rule XI, referred to in subsec. (a)(1), are now contained in clause 4 of rule XIII. Provisions formerly appearing in rule XXIII, referred to in subsec. (a)(5), are now contained in rule XVIII.
-
-[Section 635(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section635/a&num=0&edition=prelim), referred to in subsec. (b)(1), was redesignated [section 635 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-635) by Pub. L. 105–33, title X, § 10108(1), Aug. 5, 1997, 111 Stat. 684.
-
 This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and [section 190a–3 of this title](./chapter-006-congressional-and-committee-procedure-investigations.md#section-190a-3) and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, [section 105 of Title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section105&num=0&edition=prelim), General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, [section 105 of Title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section105&num=0&edition=prelim), and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-621) and Tables.
 
 #### Codification
 Section was formerly classified to [section 1326 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1326&num=0&edition=prelim) prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+2013—Subsec. (a)(1). Pub. L. 113–67, § 122(4), substituted “clause 4 of rule XIII” for “clause 2(l)(6) of rule XI”.
+
+Subsec. (a)(5). Pub. L. 113–67, § 122(5), substituted “provisions of rule XVIII” for “provisions of rule XXIII”.
+
+Subsec. (b)(1). Pub. L. 113–67, § 122(6), substituted “section 635” for “section 635(a)”.
+
 1997—Subsec. (a)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “When the Committee on the Budget of the House of Representatives has reported any concurrent resolution on the budget, it is in order at any time after the fifth day (excluding Saturdays, Sundays, and legal holidays) following the day on which the report upon such resolution by the Committee on the Budget has been available to Members of the House and, if applicable, after the first day (excluding Saturdays, Sundays, and legal holidays) following the day on which a report upon such resolution by the Committee on Rules pursuant to [section 632(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section632/c&num=0&edition=prelim) has been available to Members of the House (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the concurrent resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.”
 
 1990—Subsec. (c)(1). Pub. L. 101–508, § 13209(1), struck out at beginning “The conference report on any concurrent resolution on the budget shall be in order in the Senate at any time after the third day (excluding Saturdays, Sundays, and legal holidays) following the day on which such conference report is reported and is available to Members of the Senate.” and inserted “on any concurrent resolution on the budget (or a reconciliation bill or resolution)” after “consideration of the conference report”.
@@ -817,8 +825,9 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 <a id="section-640"></a>
 ## § 640. Legislation dealing with Congressional budget must be handled by Budget Committees
+**(a) In the Senate** In the Senate, no bill, resolution, amendment, motion, or conference report, dealing with any matter which is within the jurisdiction of the Committee on the Budget shall be considered unless it is a bill or resolution which has been reported by the Committee on the Budget (or from the consideration of which such committee has been discharged) or unless it is an amendment to such a bill or resolution.
 
-No bill, resolution, amendment, motion, or conference report, dealing with any matter which is within the jurisdiction of the Committee on the Budget of either House shall be considered in that House unless it is a bill or resolution which has been reported by the Committee on the Budget of that House (or from the consideration of which such committee has been discharged) or unless it is an amendment to such a bill or resolution.
+**(b) In the House of Representatives** In the House of Representatives, no bill or joint resolution, or amendment thereto, or conference report thereon, dealing with any matter which is within the jurisdiction of the Committee on the Budget shall be considered unless it is a bill or joint resolution which has been reported by the Committee on the Budget (or from the consideration of which such committee has been discharged) or unless it is an amendment to such a bill or joint resolution.
 
 ### Statutory Notes
 
@@ -826,6 +835,8 @@ No bill, resolution, amendment, motion, or conference report, dealing with any m
 Section was formerly classified to [section 1327 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1327&num=0&edition=prelim) prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+2013—Pub. L. 113–67 designated existing provisions as subsec. (a) and inserted heading, substituted “In the Senate, no” for “No”, struck out “of either House” after “jurisdiction of the Committee on the Budget”, “in that House” after “shall be considered”, and “of that House” after “reported by the Committee on the Budget”, and added subsec. (b).
+
 1990—Pub. L. 101–508 substituted “bill, resolution, amendment, motion, or conference report” for “bill or resolution, and no amendment to any bill or resolution”.
 
 1985—Pub. L. 99–177 reenacted section without change.
@@ -881,9 +892,9 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
   (A) shall be made available on at least a monthly basis, but in any case frequently enough to provide Members of each House an accurate representation of the current status of congressional consideration of the budget;
 
-  (B) shall include, but are not limited to, summaries of tabulations provided under subsection (b)(1) of this section; and
+  (B) shall include, but are not limited to, summaries of tabulations provided under subsection (b)(1); and
 
-  (C) shall be based on information provided under subsection (b)(1) of this section without substantive revision.
+  (C) shall be based on information provided under subsection (b)(1) without substantive revision.
   The chairman of the Committee on the Budget of the House of Representatives shall submit such reports to the Speaker.
 
 **(c) Five-year projection of Congressional budget action** As soon as practicable after the beginning of each fiscal year, the Director of the Congressional Budget Office shall issue a report projecting for the period of 5 fiscal years beginning with such fiscal year—
@@ -904,6 +915,8 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 Section was formerly classified to [section 1329 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1329&num=0&edition=prelim) prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+2013—Subsec. (d). Pub. L. 113–67 made technical amendment to heading in original Act.
+
 2010—Subsec. (a). Pub. L. 111–139, § 4(b)(1)(B), struck out “Reports on” before “Legislation” in heading.
 
 Subsec. (a)(3). Pub. L. 111–139, § 4(b)(1)(A), added par. (3).
@@ -992,7 +1005,7 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 (4) specify and direct any combination of the matters described in paragraphs (1), (2), and (3) (including a direction to achieve deficit reduction).
 
-**(b) Legislative procedure** If a concurrent resolution containing directives to one or more committees to determine and recommend changes in laws, bills, or resolutions is agreed to in accordance with subsection (a) of this section, and—
+**(b) Legislative procedure** If a concurrent resolution containing directives to one or more committees to determine and recommend changes in laws, bills, or resolutions is agreed to in accordance with subsection (a), and—
 
 (1) only one committee of the House or the Senate is directed to determine and recommend changes, that committee shall promptly make such determination and recommendations and report to its House reconciliation legislation containing such recommendations; or
 
@@ -1001,17 +1014,17 @@ For purposes of this subsection, a reconciliation resolution is a concurrent res
 
 **(c) Compliance with reconciliation directions**
 
-(1) Any committee of the House of Representatives or the Senate that is directed, pursuant to a concurrent resolution on the budget, to determine and recommend changes of the type described in paragraphs (1) and (2) of subsection (a) of this section with respect to laws within its jurisdiction, shall be deemed to have complied with such directions—
+(1) Any committee of the House of Representatives or the Senate that is directed, pursuant to a concurrent resolution on the budget, to determine and recommend changes of the type described in paragraphs (1) and (2) of subsection (a) with respect to laws within its jurisdiction, shall be deemed to have complied with such directions—
 
   (A) if—
 
-    (i) the amount of the changes of the type described in paragraph (1) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under such paragraph by more than 11 So in original. Probably should be “than—”.
+    (i) the amount of the changes of the type described in paragraph (1) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under that paragraph by more than—
 
       (I) in the Senate, 20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; or
 
       (II) in the House of Representatives, 20 percent of the sum of the absolute value of the changes the committee was directed to make under paragraph (1) and the absolute value of the changes the committee was directed to make under paragraph (2); and
 
-    (ii) the amount of the changes of the type described in paragraph (2) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under that paragraph by more than 1
+    (ii) the amount of the changes of the type described in paragraph (2) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under that paragraph by more than—
 
       (I) in the Senate, 20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; or
 
@@ -1043,9 +1056,9 @@ For purposes of this subsection, a reconciliation resolution is a concurrent res
 
 **(e) Procedure in Senate**
 
-(1) Except as provided in paragraph (2), the provisions of [section 636 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-636) for the consideration in the Senate of concurrent resolutions on the budget and conference reports thereon shall also apply to the consideration in the Senate of reconciliation bills reported under subsection (b) of this section and conference reports thereon.
+(1) Except as provided in paragraph (2), the provisions of [section 636 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-636) for the consideration in the Senate of concurrent resolutions on the budget and conference reports thereon shall also apply to the consideration in the Senate of reconciliation bills reported under subsection (b) and conference reports thereon.
 
-(2) Debate in the Senate on any reconciliation bill reported under subsection (b) of this section, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours.
+(2) Debate in the Senate on any reconciliation bill reported under subsection (b), and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours.
 
 **(f) Completion of reconciliation process** It shall not be in order in the House of Representatives to consider any resolution providing for an adjournment period of more than three calendar days during the month of July until the House of Representatives has completed action on the reconciliation legislation for the fiscal year beginning on October 1 of the calendar year to which the adjournment resolution pertains, if reconciliation legislation is required to be reported by the concurrent resolution on the budget for such fiscal year.
 
@@ -1060,6 +1073,10 @@ The Social Security Act, referred to in subsec. (g), is act Aug. 14, 1935, ch. 5
 Section was formerly classified to [section 1331 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1331&num=0&edition=prelim) prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+2013—Subsec. (c)(1)(A)(i). Pub. L. 113–67, which directed amendment of cl. (i) by substituting “under that paragraph by more than—” for “under that paragraph by more than”, was executed by making the substitution for “under such paragraph by more than” to reflect the probable intent of Congress.
+
+Subsec. (c)(1)(A)(ii). Pub. L. 113–67 substituted “under that paragraph by more than—” for “under that paragraph by more than”.
+
 1997—Subsec. (c)(1)(A)(i). Pub. L. 105–33, § 10111(1), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and”.
 
 Subsec. (c)(1)(A)(ii). Pub. L. 105–33, § 10111(2), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; and”.
@@ -1096,7 +1113,7 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 ## § 645. Budget-related legislation must be within appropriate levels
 **(a) Enforcement of budget aggregates**
 
-(1) **In House of Representatives** — Except as provided by subsection (c) of this section, after the Congress has completed action on a concurrent resolution on the budget for a fiscal year, it shall not be in order in the House of Representatives to consider any bill, joint resolution, amendment, motion, or conference report providing new budget authority or reducing revenues, if—
+(1) **In House of Representatives** — Except as provided by subsection (c), after the Congress has completed action on a concurrent resolution on the budget for a fiscal year, it shall not be in order in the House of Representatives to consider any bill, joint resolution, amendment, motion, or conference report providing new budget authority or reducing revenues, if—
 
   (A) the enactment of that bill or resolution as reported;
 
@@ -1115,11 +1132,11 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 **(b) Social security levels**
 
-(1) **In general** — For purposes of subsection (a)(3) of this section, social security surpluses equal the excess of social security revenues over social security outlays in a fiscal year or years with such an excess and social security deficits equal the excess of social security outlays over social security revenues in a fiscal year or years with such an excess.
+(1) **In general** — For purposes of subsection (a)(3), social security surpluses equal the excess of social security revenues over social security outlays in a fiscal year or years with such an excess and social security deficits equal the excess of social security outlays over social security revenues in a fiscal year or years with such an excess.
 
-(2) **Tax treatment** — For purposes of subsection (a)(3) of this section, no provision of any legislation involving a change in chapter 1 of the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.] shall be treated as affecting the amount of social security revenues or outlays unless that provision changes the income tax treatment of social security benefits.
+(2) **Tax treatment** — For purposes of subsection (a)(3), no provision of any legislation involving a change in chapter 1 of the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.] shall be treated as affecting the amount of social security revenues or outlays unless that provision changes the income tax treatment of social security benefits.
 
-**(c) Exception in House of Representatives** Subsection (a)(1) of this section shall not apply in the House of Representatives to any bill, joint resolution, or amendment that provides new budget authority for a fiscal year or to any conference report on any such bill or resolution, if—
+**(c) Exception in House of Representatives** Subsection (a)(1) shall not apply in the House of Representatives to any bill, joint resolution, or amendment that provides new budget authority for a fiscal year or to any conference report on any such bill or resolution, if—
 
 (1) the enactment of that bill or resolution as reported;
 
@@ -1174,7 +1191,7 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 <a id="section-645a"></a>
 ## § 645a. Determinations and points of order
-**(a) Budget Committee determinations** For purposes of this subchapter and subchapter II of this chapter, the levels of new budget authority, outlays, direct spending, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or the Senate, as applicable.
+**(a) Budget Committee determinations** For purposes of this subchapter and subchapter II, the levels of new budget authority, outlays, direct spending, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or the Senate, as applicable.
 
 **(b) Discretionary spending point of order in Senate**
 
@@ -1208,7 +1225,7 @@ This Act, referred to in subsecs. (d) to (f), means Pub. L. 93–344, July 12, 1
 
 <a id="section-651"></a>
 ## § 651. Extraneous matter in reconciliation legislation
-**(a) In general** When the Senate is considering a reconciliation bill or a reconciliation resolution pursuant to [section 641 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-641) (whether that bill or resolution originated in the Senate or the House) or [section 907d of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-907d), upon a point of order being made by any Senator against material extraneous to the instructions to a committee which is contained in any title or provision of the bill or resolution or offered as an amendment to the bill or resolution, and the point of order is sustained by the Chair, any part of said title or provision that contains material extraneous to the instructions to said Committee as defined in subsection (b) of this section shall be deemed stricken from the bill and may not be offered as an amendment from the floor.
+**(a) In general** When the Senate is considering a reconciliation bill or a reconciliation resolution pursuant to [section 641 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-641) (whether that bill or resolution originated in the Senate or the House) or [section 907d of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-907d), upon a point of order being made by any Senator against material extraneous to the instructions to a committee which is contained in any title or provision of the bill or resolution or offered as an amendment to the bill or resolution, and the point of order is sustained by the Chair, any part of said title or provision that contains material extraneous to the instructions to said Committee as defined in subsection (b) shall be deemed stricken from the bill and may not be offered as an amendment from the floor.
 
 **(b) Extraneous provisions**
 
@@ -1224,7 +1241,7 @@ This Act, referred to in subsecs. (d) to (f), means Pub. L. 93–344, July 12, 1
 
 **(d) Conference reports** When the Senate is considering a conference report on, or an amendment between the Houses in relation to, a reconciliation bill or reconciliation resolution pursuant to [section 641 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-641), upon—
 
-(1) a point of order being made by any Senator against extraneous material meeting the definition of subsections (b)(1)(A), (b)(1)(B), (b)(1)(D), (b)(1)(E), or (b)(1)(F) of this section, and
+(1) a point of order being made by any Senator against extraneous material meeting the definition of subsections (b)(1)(A), (b)(1)(B), (b)(1)(D), (b)(1)(E), or (b)(1)(F), and
 
 (2) such point of order being sustained,
 such material contained in such conference report or amendment shall be deemed stricken, and the Senate shall proceed, without intervening action or motion, to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable for two hours. In any case in which such point of order is sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
@@ -1249,7 +1266,7 @@ Pub. L. 101–508, § 13214(b)(1), redesignated section 20001 of Pub. L. 99–27
 
 Subsec. (a). Pub. L. 101–508, § 13214(a)(1)(A), inserted heading “In general”.
 
-Pub. L. 101–508, § 13214(b)(4)(B), substituted “subsection (b) of this section” for “subsection (d) of this section”.
+Pub. L. 101–508, § 13214(b)(4)(B), substituted “subsection (b)” for “subsection (d)”.
 
 Pub. L. 101–508, § 13214(b)(4)(A), made technical amendment to reference to [section 641 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-641) to reflect change in reference to corresponding section of original act.
 
@@ -1273,7 +1290,7 @@ Subsec. (b)(2)(C). Pub. L. 101–508, § 13214(b)(4)(C), inserted “or” after
 
 Subsec. (c). Pub. L. 101–508, § 13214(b)(4)(F), which directed the substitution of “this subsection” for “this resolution” in par. (2), was executed to last sentence of subsec. (c) as the probable intent of Congress.
 
-Pub. L. 101–508, § 13214(b)(4)(E), substituted “(b)(1)(A), (b)(1)(B), (b)(1)(D), (b)(1)(E), or (b)(1)(F) of this section” for “(d)(1)(A) or (d)(1)(D) of section 20001 of the Consolidated Omnibus Budget Reconciliation Act of 1985”.
+Pub. L. 101–508, § 13214(b)(4)(E), substituted “(b)(1)(A), (b)(1)(B), (b)(1)(D), (b)(1)(E), or (b)(1)(F)” for “(d)(1)(A) or (d)(1)(D) of section 20001 of the Consolidated Omnibus Budget Reconciliation Act of 1985”.
 
 Pub. L. 101–508, § 13214(b)(4)(D), substituted “When” for “when”.
 
@@ -1310,7 +1327,7 @@ Subsec. (d)(3). Pub. L. 99–509, § 7006(a)(4), added par. (3).
 ## § 652. Adjustments
 **(a) Adjustments** After the reporting of a bill or joint resolution or the offering of an amendment thereto or the submission of a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate may make appropriate budgetary adjustments of new budget authority and the outlays flowing therefrom in the same amount as required by [section 901(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/b&num=0&edition=prelim).
 
-**(b) Application of adjustments** The adjustments made pursuant to subsection (a) of this section for legislation shall—
+**(b) Application of adjustments** The adjustments made pursuant to subsection (a) for legislation shall—
 
 (1) apply while that legislation is under consideration;
 
@@ -1318,7 +1335,7 @@ Subsec. (d)(3). Pub. L. 99–509, § 7006(a)(4), added par. (3).
 
 (3) be published in the Congressional Record as soon as practicable.
 
-**(c) Reporting revised suballocations** Following any adjustment made under subsection (a) of this section, the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations under [section 633(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section633/b&num=0&edition=prelim) to carry out this section.
+**(c) Reporting revised suballocations** Following any adjustment made under subsection (a), the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations under [section 633(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section633/b&num=0&edition=prelim) to carry out this section.
 
 **(d) Emergencies in the House of Representatives**
 
@@ -1326,11 +1343,9 @@ Subsec. (d)(3). Pub. L. 99–509, § 7006(a)(4), added par. (3).
 
 (2)
 
-  (A) In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
+  (A) In the House of Representatives, a proposal to strike a designation under paragraph (1) shall be excluded from an evaluation of budgetary effects for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
 
-  (B) In the House of Representatives, a proposal to strike a designation under subparagraph (A) shall be excluded from an evaluation of budgetary effects for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
-
-  (C) An amendment offered under subparagraph (B) that also proposes to reduce each amount appropriated or otherwise made available by the pending measure that is not required to be appropriated or otherwise made available shall be in order at any point in the reading of the pending measure.
+  (B) An amendment offered under subparagraph (A) that also proposes to reduce each amount appropriated or otherwise made available by the pending measure that is not required to be appropriated or otherwise made available shall be in order at any point in the reading of the pending measure.
 
 **(e) Senate point of order against an emergency designation**
 
@@ -1353,6 +1368,8 @@ Subsec. (d)(3). Pub. L. 99–509, § 7006(a)(4), added par. (3).
 ### Statutory Notes
 
 #### Amendments
+2013—Subsec. (d)(2). Pub. L. 113–67 redesignated subpar. (B) as (A) and substituted “under paragraph (1)” for “under subparagraph (A)”, redesignated subpar. (C) as (B) and substituted “under subparagraph (A)” for “under subparagraph (B)”, and struck out former subpar. (A) which read as follows: “In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.”
+
 2011—Subsec. (a). Pub. L. 112–25, § 105(a)(1), added subsec. (a) and struck out former subsec. (a) which related to general adjustment provisions and described the matters to be adjusted.
 
 Subsecs. (b) to (d). Pub. L. 112–25, § 105(a)(2), (3), added subsec. (d), redesignated former subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to amounts of adjustments.
@@ -1372,7 +1389,12 @@ Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provi
 <a id="section-653"></a>
 ## § 653. Effect of adoption of special order of business in House of Representatives
 
-For purposes of a reported bill or joint resolution considered in the House of Representatives pursuant to a special order of business, the term “as reported” in this subchapter or subchapter II of this chapter shall be considered to refer to the text made in order as an original bill or joint resolution for the purpose of amendment or to the text on which the previous question is ordered directly to passage, as the case may be.
+For purposes of a reported bill or joint resolution considered in the House of Representatives pursuant to a special order of business, the term “as reported” in this subchapter or subchapter II shall be considered to refer to the text made in order as an original bill or joint resolution for the purpose of amendment or to the text on which the previous question is ordered directly to passage, as the case may be. In the case of a reported bill or joint resolution considered pursuant to a special order of business, a point of order under [section 634 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-634) shall be determined on the basis of the text made in order as an original bill or joint resolution for the purpose of amendment or to the text on which the previous question is ordered directly to passage, as the case may be.
+
+### Statutory Notes
+
+#### Amendments
+2013—Pub. L. 113–67 inserted at end “In the case of a reported bill or joint resolution considered pursuant to a special order of business, a point of order under [section 634 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-634) shall be determined on the basis of the text made in order as an original bill or joint resolution for the purpose of amendment or to the text on which the previous question is ordered directly to passage, as the case may be.”
 
 
 <a id="section-654"></a>
@@ -1390,23 +1412,25 @@ unless that bill, joint resolution, amendment, motion, or conference report also
 
 (1) **Point of order.—** — It shall not be in order in either the House of Representatives or the Senate to consider any bill or joint resolution (in the House of Representatives only, as reported), amendment, motion, or conference report that provides new entitlement authority that is to become effective during the current fiscal year.
 
-(2) If any committee of the House of Representatives or the Senate reports any bill or resolution which provides new entitlement authority which is to become effective during a fiscal year and the amount of new budget authority which will be required for such fiscal year if such bill or resolution is enacted as so reported exceeds the appropriate allocation of new budget authority reported under [section 633(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section633/b&num=0&edition=prelim) in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year, such bill or resolution shall then be referred to the Committee on Appropriations of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be, with instructions to report it, with the committee’s recommendations, within 15 calendar days (not counting any day on which that House is not in session) beginning with the day following the day on which it is so referred. If the Committee on Appropriations of either House fails to report a bill or resolution referred to it under this paragraph within such 15-day period, the committee shall automatically be discharged from further consideration of such bill or resolution and such bill or resolution shall be placed on the appropriate calendar.
+(2) If any committee of the House of Representatives or the Senate reports any bill or resolution which provides new entitlement authority which is to become effective during a fiscal year and the amount of new budget authority which will be required for such fiscal year if such bill or resolution is enacted as so reported exceeds the appropriate allocation of new budget authority reported under [section 633(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section633/a&num=0&edition=prelim) in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year, such bill or resolution shall then be referred to the Committee on Appropriations of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be, with instructions to report it, with the committee’s recommendations, within 15 calendar days (not counting any day on which that House is not in session) beginning with the day following the day on which it is so referred. If the Committee on Appropriations of either House fails to report a bill or resolution referred to it under this paragraph within such 15-day period, the committee shall automatically be discharged from further consideration of such bill or resolution and such bill or resolution shall be placed on the appropriate calendar.
 
 (3) The Committee on Appropriations of each House shall have jurisdiction to report any bill or resolution referred to it under paragraph (2) with an amendment which limits the total amount of new spending authority provided in such bill or resolution.
 
 **(c) Exceptions**
 
-(1) Subsections (a) and (b) of this section shall not apply to new authority described in those subsections if outlays from that new authority will flow—
+(1) Subsections (a) and (b) shall not apply to new authority described in those subsections if outlays from that new authority will flow—
 
   (A) from a trust fund established by the Social Security Act (as in effect on July 12, 1974) [[42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq.]; or
 
   (B) from any other trust fund, 90 percent or more of the receipts of which consist or will consist of amounts (transferred from the general fund of the Treasury) equivalent to amounts of taxes (related to the purposes for which such outlays are or will be made) received in the Treasury under specified provisions of the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.].
 
-(2) Subsections (a) and (b) of this section shall not apply to new authority described in those subsections to the extent that—
+(2) Subsections (a) and (b) shall not apply to new authority described in those subsections to the extent that—
 
   (A) the outlays resulting therefrom are made by an organization which is (i) a mixed-ownership Government corporation (as defined in [section 9101(2) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9101/2&num=0&edition=prelim)), or (ii) a wholly owned Government corporation (as defined in [section 9101(3) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9101/3&num=0&edition=prelim)) which is specifically exempted by law from compliance with any or all of the provisions of chapter 91 of title 31, as of December 12, 1985; or
 
   (B) the outlays resulting therefrom consist exclusively of the proceeds of gifts or bequests made to the United States for a specific purpose.
+
+(3) In the House of Representatives, subsections (a) and (b) shall not apply to new authority described in those subsections to the extent that a provision in a bill or joint resolution, or an amendment thereto or a conference report thereon, establishes prospectively for a Federal office or position a specified or minimum level of compensation to be funded by annual discretionary appropriations.
 
 ### Statutory Notes
 
@@ -1421,6 +1445,10 @@ In subsec. (c)(2)(A), “[section 9101(2) of title 31](https://uscode.house.gov/
 Section was formerly classified to [section 1351 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1351&num=0&edition=prelim) prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+2013—Subsec. (b)(2). Pub. L. 113–67, § 122(12), substituted “section 633(a)” for “section 633(b)”.
+
+Subsec. (c)(3). Pub. L. 113–67, § 122(13), added par. (3).
+
 1997—Pub. L. 105–33, § 10116(a)(1)(A), substituted “Budget-related legislation not subject to appropriations” for “Bills providing new spending authority” as section catchline.
 
 Subsec. (a). Pub. L. 105–33, § 10116(a)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, as reported to its House which provides new spending authority described in subsection (c)(2)(A) or (B) of this section, unless that bill, resolution, conference report, or amendment also provides that such new spending authority as described in subsection (c)(2)(A) or (B) of this section is to be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
@@ -1479,7 +1507,8 @@ The Director of the Congressional Budget Office shall, to the extent practicable
 
 (2) a comparison of the estimates of costs described in paragraph (1) with any available estimates of costs made by such committee or by any Federal agency; and
 
-(3) a description of each method for establishing a Federal financial commitment contained in such bill or resolution. The estimates, comparison, and description so submitted shall be included in the report accompanying such bill or resolution if timely submitted to such committee before such report is filed.
+(3) a description of each method for establishing a Federal financial commitment contained in such bill or resolution.
+The estimates, comparison, and description so submitted shall be included in the report accompanying such bill or resolution if timely submitted to such committee before such report is filed.
 
 ### Statutory Notes
 
@@ -1635,7 +1664,7 @@ For purposes of this part:
 
       (I) a condition of Federal assistance; or
 
-      (II) a duty arising from participation in a voluntary Federal program, except as provided in subparagraph (B)); 11 So in original. Second closing parenthesis probably should not appear. or
+      (II) a duty arising from participation in a voluntary Federal program, except as provided in subparagraph (B); or
 
     (ii) would reduce or eliminate the amount of authorization of appropriations for—
 
@@ -1682,6 +1711,9 @@ For purposes of this part:
 #### References in Text
 The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
+#### Amendments
+2013—Par. (5)(A)(i)(II). Pub. L. 113–67 substituted “subparagraph (B)” for “subparagraph (B))”.
+
 #### Effective Date
 Part effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
 
@@ -1713,11 +1745,11 @@ The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531,
 
 <a id="section-658e"></a>
 ## § 658e. Duties of Congressional committees
-**(a) In general** When a committee of authorization of the Senate or the House of Representatives reports a bill or joint resolution of public character that includes any Federal mandate, the report of the committee accompanying the bill or joint resolution shall contain the information required by subsections (c) and (d) of this section.
+**(a) In general** When a committee of authorization of the Senate or the House of Representatives reports a bill or joint resolution of public character that includes any Federal mandate, the report of the committee accompanying the bill or joint resolution shall contain the information required by subsections (c) and (d).
 
 **(b) Submission of bills to Director** When a committee of authorization of the Senate or the House of Representatives orders reported a bill or joint resolution of a public character, the committee shall promptly provide the bill or joint resolution to the Director of the Congressional Budget Office and shall identify to the Director any Federal mandates contained in the bill or resolution.
 
-**(c) Reports on Federal mandates** Each report described under subsection (a) of this section shall contain—
+**(c) Reports on Federal mandates** Each report described under subsection (a) shall contain—
 
 (1) an identification and description of any Federal mandates in the bill or joint resolution, including the direct costs to State, local, and tribal governments, and to the private sector, required to comply with the Federal mandates;
 
@@ -1725,7 +1757,7 @@ The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531,
 
 (3) a statement of the degree to which a Federal mandate affects both the public and private sectors and the extent to which Federal payment of public sector costs or the modification or termination of the Federal mandate as provided under [section 658d(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section658d/a/2&num=0&edition=prelim) would affect the competitive balance between State, local, or tribal governments and the private sector including a description of the actions, if any, taken by the committee to avoid any adverse impact on the private sector or the competitive balance between the public sector and the private sector.
 
-**(d) Intergovernmental mandates** If any of the Federal mandates in the bill or joint resolution are Federal intergovernmental mandates, the report required under subsection (a) of this section shall also contain—
+**(d) Intergovernmental mandates** If any of the Federal mandates in the bill or joint resolution are Federal intergovernmental mandates, the report required under subsection (a) shall also contain—
 
 (1)
 
@@ -1787,7 +1819,7 @@ The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531,
 
 (3) **Estimate not feasible** — If the Director determines that it is not feasible to make a reasonable estimate that would be required under paragraphs (1) and (2), the Director shall not make the estimate, but shall report in the statement that the reasonable estimate cannot be made and shall include the reasons for that determination in the statement.
 
-**(c) Legislation falling below direct costs thresholds** If the Director estimates that the direct costs of a Federal mandate will not equal or exceed the thresholds specified in subsections (a) and (b) of this section, the Director shall so state and shall briefly explain the basis of the estimate.
+**(c) Legislation falling below direct costs thresholds** If the Director estimates that the direct costs of a Federal mandate will not equal or exceed the thresholds specified in subsections (a) and (b), the Director shall so state and shall briefly explain the basis of the estimate.
 
 **(d) Amended bills and joint resolutions; conference reports** If a bill or joint resolution is passed in an amended form (including if passed by one House as an amendment in the nature of a substitute for the text of a bill or joint resolution from the other House) or is reported by a committee of conference in amended form, and the amended form contains a Federal mandate not previously considered by either House or which contains an increase in the direct cost of a previously considered Federal mandate, then the committee of conference shall ensure, to the greatest extent practicable, that the Director shall prepare a statement as provided in this subsection or a supplemental statement for the bill or joint resolution in that amended form.
 
@@ -1809,7 +1841,7 @@ The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531,
 
   (B) the bill, joint resolution, amendment, motion, or conference report includes an authorization for appropriations in an amount equal to or exceeding the direct costs of such mandate, and—
 
-    (i) identifies a specific dollar amount of the direct costs of such mandate for each year up to 10 years during which such mandate shall be in effect under the bill, joint resolution, amendment, motion or conference report, and such estimate is consistent with the estimate determined under subsection (e) of this section for each fiscal year;
+    (i) identifies a specific dollar amount of the direct costs of such mandate for each year up to 10 years during which such mandate shall be in effect under the bill, joint resolution, amendment, motion or conference report, and such estimate is consistent with the estimate determined under subsection (e) for each fiscal year;
 
     (ii) identifies any appropriation bill that is expected to provide for Federal funding of the direct cost referred to under clause (i); and
 
@@ -1831,11 +1863,11 @@ The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531,
 
         (cc) in the case that such mandate that has not yet taken effect, continue not to be effective unless Congress provides otherwise by law.
 
-**(b) Rule of construction** The provisions of subsection (a)(2)(B)(iii) of this section shall not be construed to prohibit or otherwise restrict a State, local, or tribal government from voluntarily electing to remain subject to the original Federal intergovernmental mandate, complying with the programmatic or financial responsibilities of the original Federal intergovernmental mandate and providing the funding necessary consistent with the costs of Federal agency assistance, monitoring, and enforcement.
+**(b) Rule of construction** The provisions of subsection (a)(2)(B)(iii) shall not be construed to prohibit or otherwise restrict a State, local, or tribal government from voluntarily electing to remain subject to the original Federal intergovernmental mandate, complying with the programmatic or financial responsibilities of the original Federal intergovernmental mandate and providing the funding necessary consistent with the costs of Federal agency assistance, monitoring, and enforcement.
 
 **(c) Committee on Appropriations**
 
-(1) **Application** — The provisions of subsection (a) of this section—
+(1) **Application** — The provisions of subsection (a)—
 
   (A) shall not apply to any bill or resolution reported by the Committee on Appropriations of the Senate or the House of Representatives; except
 
@@ -2047,7 +2079,7 @@ A prior section 503 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, w
 
 (3) authority is otherwise provided in appropriation Acts.
 
-**(c) Exemption for mandatory programs** Subsections (b) and (e) of this section shall not apply to a direct loan or loan guarantee program that—
+**(c) Exemption for mandatory programs** Subsections (b) and (e) shall not apply to a direct loan or loan guarantee program that—
 
 (1) constitutes an entitlement (such as the guaranteed student loan program or the veterans’ home loan guaranty program); or
 
@@ -2090,7 +2122,7 @@ Subsec. (e). Pub. L. 105–33, § 10117(b)(5), amended heading and text of subse
 
 **(b) Authorization for financing accounts** In order to implement the accounting required by this subchapter, the President is authorized to establish such non-budgetary accounts as may be appropriate.
 
-**(c) Treasury transactions with financing accounts** The Secretary of the Treasury shall borrow from, receive from, lend to, or pay to the financing accounts such amounts as may be appropriate. The Secretary of the Treasury may prescribe forms and denominations, maturities, and terms and conditions for the transactions described above, except that the rate of interest charged by the Secretary on lending to financing accounts (including amounts treated as lending to financing accounts by the Federal Financing Bank (hereinafter in this subsection referred to as the “Bank”) pursuant to section 655(b) 11 See References in Text note below. of this title) and the rate of interest paid to financing accounts on uninvested balances in financing accounts shall be the same as the rate determined pursuant to [section 661a(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5/E&num=0&edition=prelim). For guaranteed loans financed by the Bank and treated as direct loans by a Federal agency pursuant to section 655(b) 1 of this title, any fee or interest surcharge (the amount by which the interest rate charged exceeds the rate determined pursuant to [section 661a(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5/E&num=0&edition=prelim)) that the Bank charges to a private borrower pursuant to [section 2285(c) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2285/c&num=0&edition=prelim) shall be considered a cash flow to the Government for the purposes of determining the cost of the direct loan pursuant to [section 661a(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5&num=0&edition=prelim). All such amounts shall be credited to the appropriate financing account. The Bank is authorized to require reimbursement from a Federal agency to cover the administrative expenses of the Bank that are attributable to the direct loans financed for that agency. All such payments by an agency shall be considered administrative expenses subject to [section 661c(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661c/g&num=0&edition=prelim). This subsection shall apply to transactions related to direct loan obligations or loan guarantee commitments made on or after October 1, 1991. The authorities described above shall not be construed to supersede or override the authority of the head of a Federal agency to administer and operate a direct loan or loan guarantee program. All of the transactions provided in this subsection shall be subject to the provisions of subchapter II of chapter 15 of title 31. Cash balances of the financing accounts in excess of current requirements shall be maintained in a form of uninvested funds and the Secretary of the Treasury shall pay interest on these funds.
+**(c) Treasury transactions with financing accounts** The Secretary of the Treasury shall borrow from, receive from, lend to, or pay to the financing accounts such amounts as may be appropriate. The Secretary of the Treasury may prescribe forms and denominations, maturities, and terms and conditions for the transactions described above, except that the rate of interest charged by the Secretary on lending to financing accounts (including amounts treated as lending to financing accounts by the Federal Financing Bank (hereinafter in this subsection referred to as the “Bank”) pursuant to [section 655(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section655/b&num=0&edition=prelim)) and the rate of interest paid to financing accounts on uninvested balances in financing accounts shall be the same as the rate determined pursuant to [section 661a(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5/E&num=0&edition=prelim). For guaranteed loans financed by the Bank and treated as direct loans by a Federal agency pursuant to [section 655(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section655/b&num=0&edition=prelim), any fee or interest surcharge (the amount by which the interest rate charged exceeds the rate determined pursuant to [section 661a(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5/E&num=0&edition=prelim)) that the Bank charges to a private borrower pursuant to [section 2285(c) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2285/c&num=0&edition=prelim) shall be considered a cash flow to the Government for the purposes of determining the cost of the direct loan pursuant to [section 661a(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5&num=0&edition=prelim). All such amounts shall be credited to the appropriate financing account. The Bank is authorized to require reimbursement from a Federal agency to cover the administrative expenses of the Bank that are attributable to the direct loans financed for that agency. All such payments by an agency shall be considered administrative expenses subject to [section 661c(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661c/g&num=0&edition=prelim). This subsection shall apply to transactions related to direct loan obligations or loan guarantee commitments made on or after October 1, 1991. The authorities described above shall not be construed to supersede or override the authority of the head of a Federal agency to administer and operate a direct loan or loan guarantee program. All of the transactions provided in this subsection shall be subject to the provisions of subchapter II of chapter 15 of title 31. Cash balances of the financing accounts in excess of current requirements shall be maintained in a form of uninvested funds and the Secretary of the Treasury shall pay interest on these funds.
 
 **(d) Authorization for liquidating accounts**
 
@@ -2128,13 +2160,12 @@ Subsec. (e). Pub. L. 105–33, § 10117(b)(5), amended heading and text of subse
 
 ### Statutory Notes
 
-#### References in Text
-[Section 655(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section655/b&num=0&edition=prelim), referred to in subsec. (c), was in the original “section 406(b)” and was translated as reading “section 405(b)”, meaning section 405(b) of Pub. L. 93–344, to reflect the probable intent of Congress because of context and because section 406 does not contain a subsec. (b).
-
 #### Prior Provisions
 A prior section 505 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, repealed sections 66 and 81 of this title.
 
 #### Amendments
+2013—Subsec. (c). Pub. L. 113–67 made technical amendment to reference in original act which appears in text as reference to [section 655(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section655/b&num=0&edition=prelim).
+
 1997—Subsec. (c). Pub. L. 105–33, § 10117(c)(2), substituted “supersede” for “supercede”.
 
 Pub. L. 105–33, § 10117(c)(1), inserted before period at end of second sentence “, except that the rate of interest charged by the Secretary on lending to financing accounts (including amounts treated as lending to financing accounts by the Federal Financing Bank (hereinafter in this subsection referred to as the ‘Bank’) pursuant to [section 655(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section655/b&num=0&edition=prelim)) and the rate of interest paid to financing accounts on uninvested balances in financing accounts shall be the same as the rate determined pursuant to [section 661a(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5/E&num=0&edition=prelim). For guaranteed loans financed by the Bank and treated as direct loans by a Federal agency pursuant to [section 655(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section655/b&num=0&edition=prelim), any fee or interest surcharge (the amount by which the interest rate charged exceeds the rate determined pursuant to [section 661a(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5/E&num=0&edition=prelim)) that the Bank charges to a private borrower pursuant to [section 2285(c) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2285/c&num=0&edition=prelim) shall be considered a cash flow to the Government for the purposes of determining the cost of the direct loan pursuant to [section 661a(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5&num=0&edition=prelim). All such amounts shall be credited to the appropriate financing account. The Bank is authorized to require reimbursement from a Federal agency to cover the administrative expenses of the Bank that are attributable to the direct loans financed for that agency. All such payments by an agency shall be considered administrative expenses subject to [section 661c(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661c/g&num=0&edition=prelim). This subsection shall apply to transactions related to direct loan obligations or loan guarantee commitments made on or after October 1, 1991”.

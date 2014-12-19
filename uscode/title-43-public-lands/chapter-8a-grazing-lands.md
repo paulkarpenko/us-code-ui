@@ -46,7 +46,7 @@ The Secretary of the Interior is authorized to issue or cause to be issued permi
 1947—Act Aug. 6, 1947, provided for method to be used by Secretary of the Interior in fixing amount of grazing fees and by assessing a separate grazing fee and a range-improvement fee.
 
 #### Savings Provision
-Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-315c"></a>
@@ -94,7 +94,7 @@ Section 315g–1, Pub. L. 87–524, July 9, 1962, 76 Stat. 140, authorized lands
 Pub. L. 94–579, title VII, § 705(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 705(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-315h"></a>
@@ -126,7 +126,7 @@ Except as provided in sections 315h and 315j of this title, all moneys received 
 1936—Act June 26, 1936, substituted “under this subchapter during any fiscal year” for “from each grazing district during any fiscal year”, wherever appearing, “in which the grazing districts or lands producing such moneys are situated” for “in which said grazing district is situated” wherever appearing, and inserted in proviso “or leased tract” after “grazing district” wherever appearing.
 
 #### Savings Provision
-Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-315j"></a>
@@ -271,7 +271,7 @@ Section, act Aug. 24, 1937, ch. 744, 50 Stat. 748, authorized issuance of patent
 Pub. L. 94–579, title VII, § 705(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 705(a) is effective on and after Oct. 21, 1976.
 
 #### Savings Provision
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim).
 
 
 <a id="section-315q"></a>
@@ -541,7 +541,7 @@ Section was formerly classified to [section 471n of Title 48](https://uscode.hou
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, § 8, Sept. 6, 1966, 80 Stat. 632, 655.
 
 #### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 
 <a id="section-316o"></a>

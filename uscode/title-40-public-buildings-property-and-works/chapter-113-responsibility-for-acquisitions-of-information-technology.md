@@ -2,7 +2,7 @@
 title: 40
 chapter: '113'
 heading: RESPONSIBILITY FOR ACQUISITIONS OF INFORMATION TECHNOLOGY
-section_count: 13
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40&num=0&edition=prelim
 ---
@@ -27,9 +27,65 @@ In fulfilling the responsibility to administer the functions assigned under chap
 
 **(c) Use of Budget Process.—**
 
-(1) **Analyzing, tracking, and evaluating capital investments.—** — As part of the budget process, the Director shall develop a process for analyzing, tracking, and evaluating the risks, including information security risks, and results of all major capital investments made by an executive agency for information systems. The process shall cover the life of each system and shall include explicit criteria for analyzing the projected and actual costs, benefits, and risks, including information security risks, associated with the investments.
+(1) **Definitions.—** — In this subsection:
 
-(2) **Report to congress.—** — At the same time that the President submits the budget for a fiscal year to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Director shall submit to Congress a report on the net program performance benefits achieved as a result of major capital investments made by executive agencies for information systems and how the benefits relate to the accomplishment of the goals of the executive agencies.
+  (A) The term “covered agency” means an agency listed in section 901(b)(1) or 901(b)(2) of title 31.
+
+  (B) The term “major information technology investment” means an investment within a covered agency information technology investment portfolio that is designated by the covered agency as major, in accordance with capital planning guidance issued by the Director.
+
+  (C) The term “national security system” has the meaning provided in [section 3542 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3542&num=0&edition=prelim). 11 See References in Text note below.
+
+(2) **Analyzing, tracking, and evaluating capital investments.—** — As part of the budget process, the Director shall develop a process for analyzing, tracking, and evaluating the risks, including information security risks, and results of all major capital investments made by an executive agency for information systems. The process shall cover the life of each system and shall include explicit criteria for analyzing the projected and actual costs, benefits, and risks, including information security risks, associated with the investments.
+
+(3) **Public availability.—**
+
+  (A) *In general.—* — The Director shall make available to the public a list of each major information technology investment, without regard to whether the investments are for new information technology acquisitions or for operations and maintenance of existing information technology, including data on cost, schedule, and performance.
+
+  (B) *Agency information.—*
+
+    (i) The Director shall issue guidance to each covered agency for reporting of data required by subparagraph (A) that provides a standardized data template that can be incorporated into existing, required data reporting formats and processes. Such guidance shall integrate the reporting process into current budget reporting that each covered agency provides to the Office of Management and Budget, to minimize additional workload. Such guidance shall also clearly specify that the investment evaluation required under subparagraph (C) adequately reflect the investment’s cost and schedule performance and employ incremental development approaches in appropriate cases.
+
+    (ii) The Chief Information Officer of each covered agency shall provide the Director with the information described in subparagraph (A) on at least a semi-annual basis for each major information technology investment, using existing data systems and processes.
+
+  (C) *Investment evaluation.—* — For each major information technology investment listed under subparagraph (A), the Chief Information Officer of the covered agency, in consultation with other appropriate agency officials, shall categorize the investment according to risk, in accordance with guidance issued by the Director.
+
+  (D) *Continuous improvement.—* — If either the Director or the Chief Information Officer of a covered agency determines that the information made available from the agency’s existing data systems and processes as required by subparagraph (B) is not timely and reliable, the Chief Information Officer, in consultation with the Director and the head of the agency, shall establish a program for the improvement of such data systems and processes.
+
+  (E) *Waiver or limitation authority.—* — The applicability of subparagraph (A) may be waived or the extent of the information may be limited by the Director, if the Director determines that such a waiver or limitation is in the national security interests of the United States.
+
+  (F) *Additional limitation.—* — The requirements of subparagraph (A) shall not apply to national security systems or to telecommunications or information technology that is fully funded by amounts made available—
+
+    (i) under the National Intelligence Program, defined by section 3(6) of the National Security Act of 1947 ([50 U.S.C. 3003(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/6&num=0&edition=prelim));
+
+    (ii) under the Military Intelligence Program or any successor program or programs; or
+
+    (iii) jointly under the National Intelligence Program and the Military Intelligence Program (or any successor program or programs).
+
+(4) **Risk management.—** — For each major information technology investment listed under paragraph (3)(A) that receives a high risk rating, as described in paragraph (3)(C), for 4 consecutive quarters—
+
+  (A) the Chief Information Officer of the covered agency and the program manager of the investment within the covered agency, in consultation with the Administrator of the Office of Electronic Government, shall conduct a review of the investment that shall identify—
+
+    (i) the root causes of the high level of risk of the investment;
+
+    (ii) the extent to which these causes can be addressed; and
+
+    (iii) the probability of future success;
+
+  (B) the Administrator of the Office of Electronic Government shall communicate the results of the review under subparagraph (A) to—
+
+    (i) the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate;
+
+    (ii) the Committee on Oversight and Government Reform and the Committee on Appropriations of the House of Representatives; and
+
+    (iii) the committees of the Senate and the House of Representatives with primary jurisdiction over the agency;
+
+  (C) in the case of a major information technology investment of the Department of Defense, the assessment required by subparagraph (A) may be accomplished in accordance with [section 2445c of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445c&num=0&edition=prelim), provided that the results of the review are provided to the Administrator of the Office of Electronic Government upon request and to the committees identified in subsection (B); and
+
+  (D) for a covered agency other than the Department of Defense, if on the date that is one year after the date of completion of the review required under subsection (A), the investment is rated as high risk under paragraph (3)(C), the Director shall deny any request for additional development, modernization, or enhancement funding for the investment until the date on which the Chief Information Officer of the covered agency determines that the root causes of the high level of risk of the investment have been addressed, and there is sufficient capability to deliver the remaining planned increments within the planned cost and schedule.
+
+(5) **22 So in original. Two pars. (5) have been enacted. Sunset of certain provisions.—** — Paragraphs (1), (3), and (4) shall not be in effect on and after the date that is 5 years after the date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015.
+
+(5) **2 Report to congress.—** — At the same time that the President submits the budget for a fiscal year to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Director shall submit to Congress a report on the net program performance benefits achieved as a result of major capital investments made by executive agencies for information systems and how the benefits relate to the accomplishment of the goals of the executive agencies.
 
 **(d) Information Technology Standards.—** The Director shall oversee the development and implementation of standards and guidelines pertaining to federal computer systems by the Secretary of Commerce through the National Institute of Standards and Technology under [section 11331 of this title](./chapter-113-responsibility-for-acquisitions-of-information-technology.md#section-11331) and section 20 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278g–3&num=0&edition=prelim)).
 
@@ -54,7 +110,14 @@ In fulfilling the responsibility to administer the functions assigned under chap
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 11302 | 40:1412. | Pub. L. 104–106, div. E, title LI, § 5112, Feb. 10, 1996, 110 Stat. 680. |
 
+#### References in Text
+[Section 3542 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3542&num=0&edition=prelim), referred to in subsec. (c)(1)(C), was repealed by Pub. L. 113–283, § 2(a), Dec. 18, 2014, 128 Stat. 3073. See [section 3552 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552&num=0&edition=prelim), Public Printing and Documents.
+
+The date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015, referred to in subsec. (c)(5), is the date of enactment of Pub. L. 113–291, which was approved Dec. 19, 2014.
+
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–291 added pars. (1), (3), (4), and par. (5) relating to sunset of certain provisions and redesignated former pars. (1) and (2) as par. (2) and par. (5) relating to report to Congress, respectively.
+
 2004—Subsec. (b). Pub. L. 108–458, § 8401(1), inserted “security,” after “use,”.
 
 Subsec. (c)(1). Pub. L. 108–458, § 8401(2), inserted “, including information security risks,” after “evaluating the risks” and “costs, benefits, and risks”.
@@ -297,9 +360,111 @@ The head of an executive agency may use amounts available to the agency for over
 | 11318 | 40:1428. | Pub. L. 104–106, div. E, title LI, § 5128, Feb. 10, 1996, 110 Stat. 687. |
 
 
+<a id="section-11319"></a>
+## § 11319. Resources, planning, and portfolio management
+**(a) Definitions.—** In this section:
+
+(1) The term “covered agency” means each agency listed in section 901(b)(1) or 901(b)(2) of title 31.
+
+(2) The term “information technology” has the meaning given that term under capital planning guidance issued by the Office of Management and Budget.
+
+**(b) Additional Authorities for Chief Information Officers.—**
+
+(1) **Planning, programming, budgeting, and execution authorities for cios.—**
+
+  (A) *In general.—* — The head of each covered agency other than the Department of Defense shall ensure that the Chief Information Officer of the agency has a significant role in—
+
+    (i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions, related reporting requirements, and reports related to information technology; and
+
+    (ii) the management, governance, and oversight processes related to information technology.
+
+  (B) *Budget formulation.—* — The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following:
+
+    (i) That the Chief Information Officer of each covered agency other than the Department of Defense approve the information technology budget request of the covered agency, and that the Chief Information Officer of the Department of Defense review and provide recommendations to the Secretary of Defense on the information technology budget request of the Department.
+
+    (ii) That the Chief Information Officer of each covered agency certify that information technology investments are adequately implementing incremental development, as defined in capital planning guidance issued by the Office of Management and Budget.
+
+  (C) *Review.—*
+
+    (i) *In general.—* — A covered agency other than the Department of Defense—
+
+      (I) may not enter into a contract or other agreement for information technology or information technology services, unless the contract or other agreement has been reviewed and approved by the Chief Information Officer of the agency;
+
+      (II) may not request the reprogramming of any funds made available for information technology programs, unless the request has been reviewed and approved by the Chief Information Officer of the agency; and
+
+      (III) may use the governance processes of the agency to approve such a contract or other agreement if the Chief Information Officer of the agency is included as a full participant in the governance processes.
+
+    (ii) *Delegation.—*
+
+      (I) *In general.—* — Except as provided in subclause (II), the duties of a Chief Information Officer under clause (i) are not delegable.
+
+      (II) *Non-major information technology investments.—* — For a contract or agreement for a non-major information technology investment, as defined in the annual information technology capital planning guidance of the Office of Management and Budget, the Chief Information Officer of a covered agency other than the Department of Defense may delegate the approval of the contract or agreement under clause (i) to an individual who reports directly to the Chief Information Officer.
+
+(2) **Personnel-related authority.—** — Notwithstanding any other provision of law, for each covered agency other than the Department of Defense, the Chief Information Officer of the covered agency shall approve the appointment of any other employee with the title of Chief Information Officer, or who functions in the capacity of a Chief Information Officer, for any component organization within the covered agency.
+
+**(c) 11 So in original. Two subsecs. (c) have been enacted. Limitation.—** None of the authorities provided in this section shall apply to telecommunications or information technology that is fully funded by amounts made available—
+
+(1) under the National Intelligence Program, defined by section 3(6) of the National Security Act of 1947 ([50 U.S.C. 3003(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/6&num=0&edition=prelim));
+
+(2) under the Military Intelligence Program or any successor program or programs; or
+
+(3) jointly under the National Intelligence Program and the Military Intelligence Program (or any successor program or programs).
+
+**(c) 1 Information Technology Portfolio, Program, and Resource Reviews.—**
+
+(1) **Process.—** — The Director of the Office of Management and Budget, in consultation with the Chief Information Officers of appropriate agencies, shall implement a process to assist covered agencies in reviewing their portfolio of information technology investments—
+
+  (A) to identify or develop ways to increase the efficiency and effectiveness of the information technology investments of the covered agency;
+
+  (B) to identify or develop opportunities to consolidate the acquisition and management of information technology services, and increase the use of shared-service delivery models;
+
+  (C) to identify potential duplication and waste;
+
+  (D) to identify potential cost savings;
+
+  (E) to develop plans for actions to optimize the information technology portfolio, programs, and resources of the covered agency;
+
+  (F) to develop ways to better align the information technology portfolio, programs, and financial resources of the covered agency to any multi-year funding requirements or strategic plans required by law;
+
+  (G) to develop a multi-year strategy to identify and reduce duplication and waste within the information technology portfolio of the covered agency, including component-level investments and to identify projected cost savings resulting from such strategy; and
+
+  (H) to carry out any other goals that the Director may establish.
+
+(2) **Metrics and performance indicators.—** — The Director of the Office of Management and Budget, in consultation with the Chief Information Officers of appropriate agencies, shall develop standardized cost savings and cost avoidance metrics and performance indicators for use by agencies for the process implemented under paragraph (1).
+
+(3) **Annual review.—** — The Chief Information Officer of each covered agency, in conjunction with the Chief Operating Officer or Deputy Secretary (or equivalent) of the covered agency and the Administrator of the Office of Electronic Government, shall conduct an annual review of the information technology portfolio of the covered agency.
+
+(4) **Applicability to the department of defense.—** — In the case of the Department of Defense, processes established pursuant to this subsection shall apply only to the business systems information technology portfolio of the Department of Defense and not to national security systems as defined by [section 11103(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11103/a&num=0&edition=prelim). The annual review required by paragraph (3) shall be carried out by the Deputy Chief Management Officer of the Department of Defense (or any successor to such Officer), in consultation with the Chief Information Officer, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and other appropriate Department of Defense officials. The Secretary of Defense may designate an existing investment or management review process to fulfill the requirement for the annual review required by paragraph (3), in consultation with the Administrator of the Office of Electronic Government.
+
+(5) **Quarterly reports.—**
+
+  (A) *In general.—* — The Administrator of the Office of Electronic Government shall submit a quarterly report on the cost savings and reductions in duplicative information technology investments identified through the review required by paragraph (3) to—
+
+    (i) the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate;
+
+    (ii) the Committee on Oversight and Government Reform and the Committee on Appropriations of the House of Representatives; and
+
+    (iii) upon a request by any committee of Congress, to that committee.
+
+  (B) *Inclusion in other reports.—* — The reports required under subparagraph (A) may be included as part of another report submitted to the committees of Congress described in clauses (i), (ii), and (iii) of subparagraph (A).
+
+(6) **Sunset.—** — This subsection shall not be in effect on and after the date that is 5 years after the date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015.
+
+### Statutory Notes
+
+#### Amendment of Subsection (c)(4)
+Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See Change of Name note below.
+
+#### Amendments
+2014—Subsec. (c). Pub. L. 113–291, § 833, added subsec. (c) relating to information technology portfolio, program, and resource reviews.
+
+#### Change of Name
+“Under Secretary of Defense for Business Management and Information” substituted for “Deputy Chief Management Officer of the Department of Defense” in subsec. (c)(4) after Feb. 1, 2017, on authority of section 901(n)(1) of Pub. L. 113–291, set out as a note under [section 131 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section131&num=0&edition=prelim), Armed Forces.
+
+
 <a id="section-11331"></a>
 ## § 11331. Responsibilities for Federal information systems standards
-**(a) Definition.—** In this section, the term “information security” has the meaning given that term in [section 3532(b)(1) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3532/b/1&num=0&edition=prelim).
+**(a) Definition.—** In this section, the term “information security” has the meaning given that term in section 3532(b)(1) 11 See References in Text note below. of title 44.
 
 **(b) Requirement to Prescribe Standards.—**
 
@@ -315,13 +480,13 @@ The head of an executive agency may use amounts available to the agency for over
 
   (C) *Required standards binding.—* — Information security standards described under subparagraph (B) shall be compulsory and binding.
 
-(2) **Standards and guidelines for national security systems.—** — Standards and guidelines for national security systems, as defined under [section 3532(3) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3532/3&num=0&edition=prelim), shall be developed, promulgated, enforced, and overseen as otherwise authorized by law and as directed by the President.
+(2) **Standards and guidelines for national security systems.—** — Standards and guidelines for national security systems, as defined under section 3532(3) 1 of title 44, shall be developed, promulgated, enforced, and overseen as otherwise authorized by law and as directed by the President.
 
 **(c) Application of More Stringent Standards.—** The head of an agency may employ standards for the cost-effective information security for all operations and assets within or under the supervision of that agency that are more stringent than the standards promulgated by the Director under this section, if such standards—
 
 (1) contain, at a minimum, the provisions of those applicable standards made compulsory and binding by the Director; and
 
-(2) are otherwise consistent with policies and guidelines issued under [section 3533 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3533&num=0&edition=prelim).
+(2) are otherwise consistent with policies and guidelines issued under section 3533 1 of title 44.
 
 **(d) Requirements Regarding Decisions by Director.—**
 
@@ -335,6 +500,9 @@ The head of an executive agency may use amounts available to the agency for over
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 11331 | 40:1441. | Pub. L. 104–106, div. E, title LI, § 5131(a)–(d), Feb. 10, 1996, 110 Stat. 687. |
+
+#### References in Text
+Sections 3532 and 3533 of title 44, referred to in subsecs. (a), (b)(2), and (c)(2) were repealed by Pub. L. 113–283, § 2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions similar to sections 3532 and 3533 of title 44 are now contained in sections 3552 and 3553, respectively, of title 44, as enacted by Pub. L. 113–283.
 
 #### Amendments
 2002—Pub. L. 107–296 amended text generally. Prior to amendment, text, as amended generally by Pub. L. 107–347, read as follows:
@@ -406,7 +574,7 @@ Pub. L. 107–347 substituted “Responsibilities for Federal information system
 “(3) Notice.—Notice of each waiver and delegation shall be transmitted promptly to Congress and published promptly in the Federal Register.”
 
 #### Effective Date of 2002 Amendments
-Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as an Effective Date note under [section 3541 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3541&num=0&edition=prelim), Public Printing and Documents.
+Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as a note under [section 3504 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3504&num=0&edition=prelim), Public Printing and Documents.
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
 
@@ -419,6 +587,6 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 Section, Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1244, related to Federal computer system security training and plan.
 
 #### Effective Date of Repeal
-Repeal effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as an Effective Date note under [section 3541 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3541&num=0&edition=prelim), Public Printing and Documents.
+Repeal effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as an Effective Date of 2002 Amendments note under [section 3504 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3504&num=0&edition=prelim), Public Printing and Documents.
 
 Repeal by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.

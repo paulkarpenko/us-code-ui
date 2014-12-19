@@ -2,7 +2,7 @@
 title: 21
 chapter: '9'
 heading: 'FEDERAL FOOD, DRUG, AND COSMETIC ACT'
-section_count: 242
+section_count: 259
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21&num=0&edition=prelim
 ---
@@ -19,7 +19,18 @@ Act June 23, 1939, ch. 242, §§ 1, 2, 53 Stat. 853, 854, provided that: “[Sec
 #### Effective Date
 Act June 25, 1938, ch. 675, § 1002(a), formerly § 902(a), 52 Stat. 1059; renumbered § 1002(a), Pub. L. 111–31, div. A, title I, § 101(b)(2), June 22, 2009, 123 Stat. 1784, provided that: “This Act [enacting this chapter and repealing sections 1 to 5 and 7 to 15 of this title], shall take effect twelve months after the date of its enactment [June 25, 1938]. The Federal Food and Drugs Act of June 30, 1906, as amended (U.S.C., 1934 ed., title 21, secs. 1–15), shall remain in force until such effective date, and, except as otherwise provided in this subsection, is hereby repealed effective upon such date: Provided, That the provisions of section 701 [[section 371 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-371)] shall become effective on the enactment of this Act, and thereafter the Secretary is authorized hereby to (1) conduct hearings and to promulgate regulations which shall become effective on or after the effective date of this Act as the Secretary shall direct, and (2) designate prior to the effective date of this Act food having common or usual names and exempt such food from the requirements of clause (2) of section 403(i) [[section 343(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section343/i&num=0&edition=prelim)] for a reasonable time to permit the formulation, promulgation, and effective application of definitions and standards of identity therefor as provided by section 401 [[section 341 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-341)]: Provided further, That sections 502(j), 505, and 601(a) [sections 352(j), 355, 361(a), respectively of this title], and all other provisions of this Act to the extent that they may relate to the enforcement of such sections, shall take effect on the date of the enactment of this Act, except that in the case of a cosmetic to which the proviso of section 601(a) [[section 361(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section361/a&num=0&edition=prelim)], relates, such cosmetic shall not, prior to the ninetieth day after such date of enactment, be deemed adulterated by reason of the failure of its label to bear the legend prescribed in such proviso: Provided further, That the Act of March 4, 1923 (U.S.C., 1934 ed., title 21, sec. 6 [[section 321a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321a)]; 42 Stat. 1500, ch. 268), defining butter and providing a standard therefor; the Act of July 24, 1919 (U.S.C., 1934 ed., title 21, sec. 10 [[section 321b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321b)]; 41 Stat. 271, ch. 26], defining wrapped meats as in package form; and the amendment to the Food and Drugs Act, section 10A, approved August 27, 1935 (U.S.C. 1934 ed., Sup. III, title 21, sec. 14a [[section 372a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-372a)]) shall remain in force and effect and be applicable to the provisions of this Act.”
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–233, § 1, Dec. 16, 2014, 128 Stat. 2127, provided that: “This Act [amending [section 360n of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360n)] may be cited as the ‘Adding Ebola to the FDA Priority Review Voucher Program Act’.”
+
+Pub. L. 113–195, § 1, Nov. 26, 2014, 128 Stat. 2035, provided that: “This Act [enacting part I of subchapter V of this chapter and provisions set out as a note under [section 360fff of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff)] may be cited as the ‘Sunscreen Innovation Act’.”
+
 #### Short Title of 2013 Amendment
+Pub. L. 113–54, § 1, Nov. 27, 2013, 127 Stat. 587, provided that: “This Act [enacting part H of subchapter V and subpart 9 of part C of subchapter VII of this chapter and sections 353a–1 and 353b of this title, amending sections 331, 333, 352 to 353a, 353b, 353c, and 360eee–1 of this title, and enacting provisions set out as notes under this section and sections 331, 333, and 353 of this title] may be cited as the ‘Drug Quality and Security Act’.”
+
+Pub. L. 113–54, title I, § 101, Nov. 27, 2013, 127 Stat. 587, provided that: “This Act [probably means “This title”, enacting subpart 9 of part C of subchapter VII of this chapter and sections 353a–1 and 353b of this title, amending sections 331, 352, 353a, 353b, and 353c of this title, and enacting provisions set out as notes under this section and [section 331 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-331)] may be cited as the ‘Compounding Quality Act’.”
+
+Pub. L. 113–54, title II, § 201, Nov. 27, 2013, 127 Stat. 599, provided that: “This title [enacting part H of subchapter V of this chapter, amending sections 331, 333, 352, 353, and 360eee–1 of this title, and enacting provisions set out as notes under sections 331, 333, and 353 of this title] may be cited as the ‘Drug Supply Chain Security Act’.”
+
 Pub. L. 113–14, § 1, June 13, 2013, 127 Stat. 451, provided that: “This Act [amending sections 379j–11 to 379j–13, 379j–21, and 379j–22 of this title, enacting provisions set out as notes under this section and sections 379j–11 to 379j–13, 379j–21, and 379j–22 of this title, and repealing provisions set out as notes under sections 379j–11, 379j–21, and 379j–22 of this title] may be cited as the ‘Animal Drug and Animal Generic Drug User Fee Reauthorization Act of 2013’.”
 
 Pub. L. 113–14, title I, § 101(a), June 13, 2013, 127 Stat. 451, provided that: “This title [amending sections 379j–11 to 379j–13 of this title, enacting provisions set out as notes under sections 379j–11 to 379j–13 of this title, and repealing provisions set out as notes under [section 379j–11 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11)] may be cited as the ‘Animal Drug User Fee Amendments of 2013’.”
@@ -191,6 +202,8 @@ Pub. L. 86–618, § 1, July 12, 1960, 74 Stat. 397, provided: “That this Act 
 Pub. L. 85–929, § 1, Sept. 6, 1958, 72 Stat. 1784, provided: “That this Act [amending sections 321, 331, 342, 346, 348 of this title and [section 210 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section210&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as notes under sections 321, 342, and 451 of this title] may be cited as the ‘Food Additives Amendment of 1958’.”
 
 #### Severability
+Pub. L. 113–54, title I, § 106(b), Nov. 27, 2013, 127 Stat. 598, provided that: “If any provision of this Act [see Short Title of 2013 Amendment note above] (including the amendments made by this Act) is declared unconstitutional, or the applicability of this Act (including the amendments made by this Act) to any person or circumstance is held invalid, the constitutionality of the remainder of this Act (including the amendments made by this Act) and the applicability thereof to other persons and circumstances shall not be affected.”
+
 Pub. L. 110–85, title XI, § 1105, Sept. 27, 2007, 121 Stat. 975, provided that: “If any provision of this Act [see Short Title of 2007 Amendment note above], an amendment made [by] this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstances shall not be affected thereby.”
 
 #### Hazardous Substances
@@ -831,7 +844,7 @@ The following acts and the causing thereof are prohibited:
 
 **(s)** The failure to provide the notice required by section 350a(c) or 350a(e) of this title, the failure to make the reports required by [section 350a(f)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section350a/f/1/B&num=0&edition=prelim), the failure to retain the records required by [section 350a(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section350a/b/4&num=0&edition=prelim), or the failure to meet the requirements prescribed under [section 350a(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section350a/f/3&num=0&edition=prelim).
 
-**(t)** The importation of a drug in violation of [section 381(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section381/d/1&num=0&edition=prelim), the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of [section 353(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/c&num=0&edition=prelim), the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of [section 353(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/c/2&num=0&edition=prelim), the distribution of a drug sample in violation of [section 353(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/d&num=0&edition=prelim) or the failure to otherwise comply with the requirements of [section 353(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/d&num=0&edition=prelim), or the distribution of drugs in violation of [section 353(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e&num=0&edition=prelim) or the failure to otherwise comply with the requirements of [section 353(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e&num=0&edition=prelim).
+**(t)** The importation of a drug in violation of [section 381(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section381/d/1&num=0&edition=prelim), the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of [section 353(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/c&num=0&edition=prelim), the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of [section 353(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/c/2&num=0&edition=prelim), the distribution of a drug sample in violation of [section 353(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/d&num=0&edition=prelim) or the failure to otherwise comply with the requirements of [section 353(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/d&num=0&edition=prelim), the distribution of drugs in violation of [section 353(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e&num=0&edition=prelim), failure to comply with the requirements under [section 360eee–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-1), the failure to comply with the requirements under [section 360eee–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-3), as applicable, or the failure to otherwise comply with the requirements of [section 353(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e&num=0&edition=prelim).
 
 **(u)** The failure to comply with any requirements of the provisions of, or any regulations or orders of the Secretary, under section 360b(a)(4)(A), 360b(a)(4)(D), or 360b(a)(5) of this title.
 
@@ -877,7 +890,7 @@ The following acts and the causing thereof are prohibited:
 
 (3) The submission of clinical trial information under subsection (j) of [section 282 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282&num=0&edition=prelim) that is false or misleading in any particular under paragraph (5)(D) of such subsection (j).
 
-**(kk)** The dissemination of a television advertisement without complying with [section 353b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353b).
+**(kk)** The dissemination of a television advertisement without complying with section 353c 1 of this title.
 
 **(ll)** The introduction or delivery for introduction into interstate commerce of any food to which has been added a drug approved under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355), a biological product licensed under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), or a drug or a biological product for which substantial clinical investigations have been instituted and for which the existence of such investigations has been made public, unless—
 
@@ -944,17 +957,35 @@ including any such statement or representation rendering the product misbranded 
 
 **(yy)** The knowing and willful failure to comply with the notification requirement under [section 350f(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section350f/h&num=0&edition=prelim).
 
-**(zz)** The importation or offering for importation of a food if the importer (as defined in [section 384a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384a)) does not have in place a foreign supplier verification program in compliance with such [section 384a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384a). (aaa) The failure to register in accordance with [section 381(s) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section381/s&num=0&edition=prelim). (bbb) The failure to notify the Secretary in violation of [section 360bbb–7 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-7).
+**(zz)** The importation or offering for importation of a food if the importer (as defined in [section 384a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384a)) does not have in place a foreign supplier verification program in compliance with such [section 384a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384a).
+
+**(aaa)** The failure to register in accordance with [section 381(s) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section381/s&num=0&edition=prelim).
+
+**(bbb)** The failure to notify the Secretary in violation of [section 360bbb–7 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-7).
+
+**(ccc)**
+
+(1) The resale of a compounded drug that is labeled “not for resale” in accordance with [section 353b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353b).
+
+(2) With respect to a drug to be compounded pursuant to section 353a or 353b of this title, the intentional falsification of a prescription, as applicable.
+
+(3) The failure to report drugs or adverse events by an entity that is registered in accordance with subsection (b) of [section 353b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353b).
 
 ### Statutory Notes
 
 #### References in Text
 [Section 2223 of this title](./chapter-027-food-safety-modernization.md#section-2223), referred to in par. (e), was in the original “section 204 of the FDA Food Safety Modernization Act”, meaning section 204 of Pub. L. 111–353, which enacted [section 2223 of this title](./chapter-027-food-safety-modernization.md#section-2223) and amended this section and [section 381 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-381).
 
+[Section 353c of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353c), referred to in par. (kk), was in the original a reference to section 503B of act June 25, 1938, and was translated as if it referred to section 503C of that Act, to reflect the probable intent of Congress and the renumbering of section 503B as 503C by Pub. L. 113–54, title I, § 102(a)(1), Nov. 27, 2013, 127 Stat. 587, and its transfer to [section 353c of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353c). A new section 503B, which was enacted by section 102(a)(2) of Pub. L. 113–54, is classified to [section 353b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353b) and does not relate to television advertisements.
+
 #### Constitutionality
 For information regarding constitutionality of certain provisions of section 301 of act June 25, 1938, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
+2013—Par. (t). Pub. L. 113–54, § 206(a), struck out “or” after “the requirements of [section 353(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/d&num=0&edition=prelim),” and inserted “, failure to comply with the requirements under [section 360eee–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-1), the failure to comply with the requirements under [section 360eee–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-3), as applicable,” after “in violation of [section 353(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e&num=0&edition=prelim)”.
+
+Par. (ccc). Pub. L. 113–54, § 103(a), added par. (ccc).
+
 2012—Par. (aaa). Pub. L. 112–144, § 714(a), added par. (aaa).
 
 Par. (bbb). Pub. L. 112–144, § 715(a), added par. (bbb).
@@ -1215,9 +1246,13 @@ Amendment by Pub. L. 85–929 effective Sept. 6, 1958, see section 6(a) of Pub. 
 Amendment by act Mar. 16, 1950, effective July 1, 1950, see section 7 of that act, set out as an Effective Date note under [section 347 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-347).
 
 #### Regulations
+Pub. L. 113–54, title I, § 104, Nov. 27, 2013, 127 Stat. 597, provided that: “In promulgating any regulations to implement this title [enacting subpart 9 of part C of subchapter VII of this chapter and sections 353a–1 and 353b of this title, amending this section and sections 352, 353a, 352b, and 353c of this title, and enacting provisions set out as notes under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] (and the amendments made by this title), the Secretary of Health and Human Services shall— “(1) issue a notice of proposed rulemaking that includes the proposed regulation; “(2) provide a period of not less than 60 calendar days for comments on the proposed regulation; and “(3) publish the final regulation not more than 18 months following publication of the proposed rule and not less than 30 calendar days before the effective date of such final regulation.”
+
 Secretary of Health and Human Services to promulgate regulations to implement amendments made by section 401 of Pub. L. 105–115 not later than 1 year after Nov. 21, 1997, see section 401(c) of Pub. L. 105–115, set out as a note under [section 360aaa of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360aaa&num=0&edition=prelim).
 
-#### Savings Provision
+#### Savings Provisions
+Pub. L. 113–54, title II, § 208, Nov. 27, 2013, 127 Stat. 640, provided that: “Except as provided in the amendments made by paragraphs (1), (2), and (3) of section 204(a) [amending [section 353 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353)] and by section 206(a) [amending this section], nothing in this title [enacting part H of subchapter V of this chapter, amending this section and sections 333, 352, 353, and 360eee–1 of this title, and enacting provisions set out as notes under sections 301, 333, and 353 of this title] (including the amendments made by this title) shall be construed as altering any authority of the Secretary of Health and Human Services with respect to a drug subject to section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 353(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/1&num=0&edition=prelim)) under any other provision of such Act [[21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.] or the Public Health Service Act ([42 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) et seq.).”
+
 Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs [now the Drug Enforcement Administration] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321).
 
 #### Construction of 2011 Amendment
@@ -1276,7 +1311,7 @@ Pub. L. 87–781, title II, § 203, Oct. 10, 1962, 76 Stat. 793, provided that: 
 
   (C) knowingly selling, purchasing, or trading a coupon, knowingly offering to sell, purchase, or trade such a coupon, or knowingly counterfeiting such a coupon, in violation of [section 353(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/c/2&num=0&edition=prelim), or
 
-  (D) knowingly distributing drugs in violation of [section 353(e)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e/2/A&num=0&edition=prelim),
+  (D) knowingly distributing drugs in violation of [section 353(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e/1&num=0&edition=prelim),
   shall be imprisoned for not more than 10 years or fined not more than $250,000, or both.
 
 (2) Any manufacturer or distributor who distributes drug samples by means other than the mail or common carrier whose representative, during the course of the representative’s employment or association with that manufacturer or distributor, violated [section 331(t) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/t&num=0&edition=prelim) because of a violation of [section 353(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/c/1&num=0&edition=prelim) or violated any State law prohibiting the sale, purchase, or trade of a drug sample subject to [section 353(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b&num=0&edition=prelim) or the offer to sell, purchase, or trade such a drug sample shall, upon conviction of the representative for such violation, be subject to the following civil penalties:
@@ -1410,7 +1445,7 @@ Pub. L. 87–781, title II, § 203, Oct. 10, 1962, 76 Stat. 793, provided that: 
 
   (A) Whether the person submitted the advertisement or a similar advertisement for review under [section 379h–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379h-1).
 
-  (B) Whether the person submitted the advertisement for review if required under [section 353b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353b).
+  (B) Whether the person submitted the advertisement for review if required under section 353c 2 of this title.
 
   (C) Whether, after submission of the advertisement as described in subparagraph (A) or (B), the person disseminated or caused another party to disseminate the advertisement before the end of the 45-day comment period.
 
@@ -1454,7 +1489,11 @@ The Controlled Substances Act, referred to in subsec. (e)(3), is title II of Pub
 
 [Section 282(j)(5)(C)(ii) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282/j/5/C/ii&num=0&edition=prelim), referred to in subsec. (f)(3)(B), was in the original “section 402(j)(5)(C)(ii)”, and was translated as meaning section 402(j)(5)(C)(ii) of the Public Health Service Act to reflect the probable intent of Congress because there is no subsec. (j) of section 402 of the Federal Food, Drug, and Cosmetic Act and section 402(j)(5)(C)(ii) of the Public Health Service Act relates to notification of noncompliance with clinical trial information requirements.
 
+[Section 353c of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353c), referred to in subsec. (g)(3)(B), was in the original a reference to section 503B of act June 25, 1938, and was translated as if it referred to section 503C of that Act, to reflect the probable intent of Congress and the renumbering of section 503B as 503C by Pub. L. 113–54, title I, § 102(a)(1), Nov. 27, 2013, 127 Stat. 587, and its transfer to [section 353c of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353c). A new section 503B, which was enacted by section 102(a)(2) of Pub. L. 113–54, is classified to [section 353b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353b) and does not relate to television advertisements.
+
 #### Amendments
+2013—Subsec. (b)(1)(D). Pub. L. 113–54 substituted “353(e)(1)” for “353(e)(2)(A)”.
+
 2012—Subsec. (b)(7). Pub. L. 112–144 added par. (7).
 
 2011—Subsec. (f)(2)(A). Pub. L. 111–353 inserted “or any person who does not comply with a recall order under section 350l of this title” after “[section 342(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section342/a/2/B&num=0&edition=prelim)”.
@@ -1556,6 +1595,9 @@ Subsec. (c)(5). Pub. L. 89–74, § 9(d), added cl. (5).
 1960—Subsec. (c)(3). Pub. L. 86–618 substituted “a color additive” for “a coal-tar color”, “the color additive” for “the coal-tar color” and “such color additive was” for “such color was”.
 
 1951—Subsec. (c)(4). Act Oct. 26, 1951, added cl. (4).
+
+#### Effective Date of 2013 Amendment
+Pub. L. 113–54, title II, § 207(b), Nov. 27, 2013, 127 Stat. 640, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2015.”
 
 #### Effective Date of 2009 Amendment
 Pub. L. 111–31, div. A, title I, § 103(q)(3), (4), June 22, 2009, 123 Stat. 1840, provided that: “(3) General effective date.—The amendments made by paragraphs (2) [amending this section], (3) [amending this section], and (4) [no par. (4) has been enacted] of subsection (c) shall take effect upon the issuance of guidance described in paragraph (1) of this subsection [set out as a Guidance note below]. “(4) Special effective date.—The amendment made by subsection (c)(1) [amending this section] shall take effect on the date of enactment of this Act [June 22, 2009].”
@@ -1664,22 +1706,22 @@ Section, Pub. L. 100–690, title II, § 2401, Nov. 18, 1988, 102 Stat. 4230, re
 
 **(g) Administrative restraint; detention orders**
 
-(1) If during an inspection conducted under [section 374 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-374) of a facility or a vehicle, a device or tobacco product which the officer or employee making the inspection has reason to believe is adulterated or misbranded is found in such facility or vehicle, such officer or employee may order the device or tobacco product detained (in accordance with regulations prescribed by the Secretary) for a reasonable period which may not exceed twenty days unless the Secretary determines that a period of detention greater than twenty days is required to institute an action under subsection (a) of this section or [section 332 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-332), in which case he may authorize a detention period of not to exceed thirty days. Regulations of the Secretary prescribed under this paragraph shall require that before a device or tobacco product may be ordered detained under this paragraph the Secretary or an officer or employee designated by the Secretary approve such order. A detention order under this paragraph may require the labeling or marking of a device or tobacco product during the period of its detention for the purpose of identifying the device or tobacco product as detained. Any person who would be entitled to claim a device or tobacco product if it were seized under subsection (a) of this section may appeal to the Secretary a detention of such device or tobacco product under this paragraph. Within five days of the date an appeal of a detention is filed with the Secretary, the Secretary shall after affording opportunity for an informal hearing by order confirm the detention or revoke it.
+(1) If during an inspection conducted under [section 374 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-374) of a facility or a vehicle, a device, drug, or tobacco product which the officer or employee making the inspection has reason to believe is adulterated or misbranded is found in such facility or vehicle, such officer or employee may order the device, drug, or tobacco product detained (in accordance with regulations prescribed by the Secretary) for a reasonable period which may not exceed twenty days unless the Secretary determines that a period of detention greater than twenty days is required to institute an action under subsection (a) of this section or [section 332 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-332), in which case he may authorize a detention period of not to exceed thirty days. Regulations of the Secretary prescribed under this paragraph shall require that before a device, drug, or tobacco product may be ordered detained under this paragraph the Secretary or an officer or employee designated by the Secretary approve such order. A detention order under this paragraph may require the labeling or marking of a device, drug, or tobacco product during the period of its detention for the purpose of identifying the device, drug, or tobacco product as detained. Any person who would be entitled to claim a device, drug, or tobacco product if it were seized under subsection (a) of this section may appeal to the Secretary a detention of such device, drug, or tobacco product under this paragraph. Within five days of the date an appeal of a detention is filed with the Secretary, the Secretary shall after affording opportunity for an informal hearing by order confirm the detention or revoke it.
 
 (2)
 
-  (A) Except as authorized by subparagraph (B), a device or tobacco product subject to a detention order issued under paragraph (1) shall not be moved by any person from the place at which it is ordered detained until—
+  (A) Except as authorized by subparagraph (B), a device, drug, or tobacco product subject to a detention order issued under paragraph (1) shall not be moved by any person from the place at which it is ordered detained until—
 
     (i) released by the Secretary, or
 
     (ii) the expiration of the detention period applicable to such order,
     whichever occurs first.
 
-  (B) A device subject to a detention order under paragraph (1) may be moved—
+  (B) A device or drug subject to a detention order under paragraph (1) may be moved—
 
     (i) in accordance with regulations prescribed by the Secretary, and
 
-    (ii) if not in final form for shipment, at the discretion of the manufacturer of the device for the purpose of completing the work required to put it in such form.
+    (ii) if not in final form for shipment, at the discretion of the manufacturer of the device or drug for the purpose of completing the work required to put it in such form.
 
 **(h) Administrative detention of foods**
 
@@ -1712,17 +1754,6 @@ Section, Pub. L. 100–690, title II, § 2401, Nov. 18, 1988, 102 Stat. 4230, re
 (2) **Restrictions** — Notwithstanding any other provision of Federal law, in implementing this section, the Secretary shall only promulgate regulations as described in paragraph (1).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (g)
-Pub. L. 112–144, title VII, § 709(a), (c), July 9, 2012, 126 Stat. 1069, 1070, provided that, effective on the date of issuance of certain final regulations (see Regulations note below), subsection (g) of this section is amended:
-
-(1) in paragraph (1), by inserting “, drug,” after “device” each place it appears;
-
-(2) in paragraph (2)(A), by inserting “, drug,” after “(B), a device”; and
-
-(3) in paragraph (2)(B), by inserting “or drug” after “device” each place it appears.
-
-See 2012 Amendment notes below.
 
 #### Amendments
 2012—Subsec. (g)(1). Pub. L. 112–144, § 709(a)(1), inserted “, drug,” after “device” wherever appearing.
@@ -1783,6 +1814,8 @@ Subsec. (d). Pub. L. 89–74, § 6(b)(2), designated existing provisions as par.
 
 #### Effective Date of 2012 Amendment
 Pub. L. 112–144, title VII, § 709(c), July 9, 2012, 126 Stat. 1070, provided that: “The amendments made by subsection (a) [amending this section] shall not take effect until the Secretary has issued a final regulation under subsection (b) [amending this section and enacting provisions set out as a note under this section].”
+
+[Final regulation issued May 29, 2014, effective June 30, 2014. See 79 F.R. 30716.]
 
 #### Effective Date of 2011 Amendment
 Pub. L. 111–353, title II, § 207(c), Jan. 4, 2011, 124 Stat. 3944, provided that: “The amendment made by this section [amending this section] shall take effect 180 days after the date of enactment of this Act [Jan. 4, 2011].”
@@ -2333,7 +2366,7 @@ A food shall be deemed to be adulterated—
 
 (1) has partially or completely imbedded therein any nonnutritive object, except that this subparagraph shall not apply in the case of any nonnutritive object if, in the judgment of the Secretary as provided by regulations, such object is of practical functional value to the confectionery product and would not render the product injurious or hazardous to health;
 
-(2) bears or contains any alcohol other than alcohol not in excess of one-half of 1 per centum by volume derived solely from the use of flavoring extracts, except that this clause shall not apply to confectionery which is introduced or delivered for introduction into, or received or held for sale in, interstate commerce if the sale of such confectionery is permitted under the laws of the State in which such confectionery is intended to be offered for sale;
+(2) bears or contains any alcohol other than alcohol not in excess of one-half of 1 per centum by volume derived solely from the use of flavoring extracts, except that this clause shall not apply to confectionery which is introduced or delivered for introduction into, or received or held for sale in, interstate commerce if the sale of such confectionery is permitted under the laws of the State in which such confectionery is intended to be offered for sale; or
 
 (3) bears or contains any nonnutritive substance, except that this subparagraph shall not apply to a safe nonnutritive substance which is in or on confectionery by reason of its use for some practical functional purpose in the manufacture, packaging, or storage of such confectionery if the use of the substance does not promote deception of the consumer or otherwise result in adulteration or misbranding in violation of any provision of this chapter, except that the Secretary may, for the purpose of avoiding or resolving uncertainty as to the application of this subparagraph, issue regulations allowing or prohibiting the use of particular nonnutritive substances.
 
@@ -3877,6 +3910,9 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 #### Effective Date of 1972 Amendment
 Amendment by Pub. L. 92–516 effective at close of Oct. 21, 1972, except if regulations are necessary for implementation of any provision that becomes effective on Oct. 21, 1972, and continuation in effect of subchapter I of chapter 6 of Title 7, Agriculture, and regulations thereunder, relating to control of economic poisons, as in existence prior to Oct. 21, 1972, until superseded by provisions of Pub. L. 92–516 and regulations thereunder, see section 4 of Pub. L. 92–516, set out as an Effective Date note under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim).
 
+#### Regulation of Sulfuryl Fluoride
+Pub. L. 113–79, title X, § 10015, Feb. 7, 2014, 128 Stat. 952, provided that: “Notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency shall exclude nonpesticideal sources of fluoride from any aggregate exposure assessment required under section 408 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 346a](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-346a)) when assessing tolerances associated with residues from the pesticide.”
+
 #### Tolerance Fees
 Pub. L. 108–199, div. G, title V, § 501(d)(2), Jan. 23, 2004, 118 Stat. 422, provided that: “Notwithstanding section 408(m)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 346a(m)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section346a/m/1&num=0&edition=prelim)), during the period beginning on October 1, 2003, and ending on September 30, 2008, the Administrator of the Environmental Protection Agency shall not collect any tolerance fees under that section.”
 
@@ -4139,7 +4175,7 @@ Section effective Sept. 6, 1958, see section 6(a) of Pub. L. 85–929, set out a
 Pub. L. 105–115, title III, § 308, Nov. 21, 1997, 111 Stat. 2353, provided that: “(a) In General.—The Secretary may not implement any requirement which would ban, as an unapproved food additive, lead and cadmium based enamel in the lip and rim area of glass and ceramic ware before the expiration of one year after the date such requirement is published. “(b) Lead and Cadmium Based Enamel.—Unless the Secretary determines, based on available data, that lead and cadmium based enamel on glass and ceramic ware—“(1) which has less than 60 millimeters of decorating area below the external rim, and “(2) which is not, by design, representation, or custom of usage intended for use by children, is unsafe, the Secretary shall not take any action before January 1, 2003, to ban lead and cadmium based enamel on such glass and ceramic ware. Any action taken after January 1, 2003, to ban such enamel on such glass and ceramic ware as an unapproved food additive shall be taken by regulation and such regulation shall provide that such products shall not be removed from the market before 1 year after publication of the final regulation.”
 
 #### Moratorium on Authority of Secretary With Respect to Saccharin
-Pub. L. 95–203, § 3, Nov. 23, 1977, 91 Stat. 1452, as amended by Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–273, June 17, 1980, 94 Stat. 536; Pub. L. 97–42, § 2, Aug. 14, 1981, 95 Stat. 946; Pub. L. 98–22, § 2, Apr. 22, 1983, 97 Stat. 173; Pub. L. 99–46, May 24, 1985, 99 Stat. 81; Pub. L. 100–71, title I, § 101, July 11, 1987, 101 Stat. 431; Pub. L. 102–142, title VI, Oct. 28, 1991, 105 Stat. 910; Pub. L. 104–180, title VI, § 602, Aug. 6, 1996, 110 Stat. 1594, provided that: “During the period ending May 1, 2002, the Secretary— “(1) may not amend or revoke the interim food additive regulation of the Food and Drug Administration of the Department of Health and Human Services applicable to saccharin and published on March 15, 1977 (section 180.37 of part 180, subchapter B, chapter 1, title 21, Code of Federal Regulations (42 Fed. Reg. 14638)), or “(2) may, except as provided in section 4 [enacting [section 343a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-343a), amending sections 321 and 343 of this title, and enacting provisions set out as notes under [section 343 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-343)] and the amendments made by such section, not take any other action under the Federal Food, Drug, and Cosmetic Act [this chapter] to prohibit or restrict the sale or distribution of saccharin, any food permitted by such interim food additive regulation to contain saccharin, or any drug or cosmetic containing saccharin, solely on the basis of the carcinogenic or other toxic effect of saccharin as determined by any study made available to the Secretary before the date of the enactment of this Act [Nov. 23, 1977] which involved human studies or animal testing, or both.”
+Pub. L. 95–203, § 3, Nov. 23, 1977, 91 Stat. 1452, as amended by Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–273, June 17, 1980, 94 Stat. 536; Pub. L. 97–42, § 2, Aug. 14, 1981, 95 Stat. 946; Pub. L. 98–22, § 2, Apr. 22, 1983, 97 Stat. 173; Pub. L. 99–46, May 24, 1985, 99 Stat. 81; Pub. L. 100–71, title I, § 101, July 11, 1987, 101 Stat. 431; Pub. L. 102–142, title VI, Oct. 28, 1991, 105 Stat. 910; Pub. L. 104–180, title VI, § 602, Aug. 6, 1996, 110 Stat. 1594, provided that: “During the period ending May 1, 2002, the Secretary—“(1) may not amend or revoke the interim food additive regulation of the Food and Drug Administration of the Department of Health and Human Services applicable to saccharin and published on March 15, 1977 (section 180.37 of part 180, subchapter B, chapter 1, title 21, Code of Federal Regulations (42 Fed. Reg. 14638)), or “(2) may, except as provided in section 4 [enacting [section 343a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-343a), amending sections 321 and 343 of this title, and enacting provisions set out as notes under [section 343 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-343)] and the amendments made by such section, not take any other action under the Federal Food, Drug, and Cosmetic Act [this chapter] to prohibit or restrict the sale or distribution of saccharin, any food permitted by such interim food additive regulation to contain saccharin, or any drug or cosmetic containing saccharin, solely on the basis of the carcinogenic or other toxic effect of saccharin as determined by any study made available to the Secretary before the date of the enactment of this Act [Nov. 23, 1977] which involved human studies or animal testing, or both.”
 
 [Definition of “saccharin” as used in section 3 of Pub. L. 95–203, set out above, to include calcium saccharin, sodium saccharin, and ammonium saccharin, see Pub. L. 95–203, § 2(d), Nov. 23, 1997, 91 Stat. 1452.]
 
@@ -5243,6 +5279,9 @@ The FDA Food Safety Modernization Act, referred to in subsec. (a)(3)(E), is Pub.
 #### Construction
 Nothing in this section to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 
+#### Scientific and Economic Analysis of the FDA Food Safety Modernization Act
+Pub. L. 113–79, title XII, § 12311(a), Feb. 7, 2014, 128 Stat. 992, provided that: “When publishing a final rule with respect to ‘Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption’ published by the Department of Health and Human Services on January 16, 2013 (78 Fed. Reg. 3504), the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall ensure that the final rule (referred to in this section as the ‘final rule’) includes the following information: “(1) An analysis of the scientific information used to promulgate the final rule, taking into consideration any information about farming and ranching operations of a variety of sizes, with regional differences, and that have a diversity of production practices and methods. “(2) An analysis of the economic impact of the final rule. “(3) A plan to systematically—“(A) evaluate the impact of the final rule on farming and ranching operations; and “(B) develop an ongoing process to evaluate and respond to business concerns.”
+
 #### Small Entity Compliance Policy Guide
 Pub. L. 111–353, title I, § 105(b), Jan. 4, 2011, 124 Stat. 3904, provided that: “Not later than 180 days after the issuance of regulations under section 419 of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 350h](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-350h)] (as added by subsection (a)), the Secretary of Health and Human Services shall issue a small entity compliance policy guide setting forth in plain language the requirements of such section 419 and to assist small entities in complying with standards for safe production and harvesting and other activities required under such section.”
 
@@ -5801,9 +5840,17 @@ A drug or device shall be deemed to be misbranded—
 
 **(aa) Unpaid fees; failure to submit identifying information** If it is a drug, or an active pharmaceutical ingredient, and it was manufactured, prepared, propagated, compounded, or processed in a facility for which fees have not been paid as required by [section 379j–42(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–42/a/4&num=0&edition=prelim) or for which identifying information required by [section 379j–42(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–42/f&num=0&edition=prelim) has not been submitted, or it contains an active pharmaceutical ingredient that was manufactured, prepared, propagated, compounded, or processed in such a facility.
 
+**(bb) False or misleading advertisement or promotion of compounded drug** If the advertising or promotion of a compounded drug is false or misleading in any particular.
+
+**(cc) Failure to bear product identifier** If it is a drug and it fails to bear the product identifier as required by [section 360eee–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-1).
+
 ### Statutory Notes
 
 #### Amendments
+2013—Par. (bb). Pub. L. 113–54, § 103(b), added par. (bb).
+
+Par. (cc). Pub. L. 113–54, § 206(b), added par. (cc).
+
 2012—Par. (o). Pub. L. 112–144, § 714(c), inserted “if it is a drug and was imported or offered for import by a commercial importer of drugs not duly registered under [section 381(s) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section381/s&num=0&edition=prelim),” after “not duly registered under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360),”.
 
 Pub. L. 112–144, § 702(a), struck out “in any State” after “establishment”.
@@ -6065,25 +6112,127 @@ Provisions as effective Feb. 1, 1966, see section 11 of Pub. L. 89–74, set out
 
   (F) Drug manufacturers or authorized distributors of record shall provide to the Secretary the name and telephone number of the individual responsible for responding to a request for information respecting drug samples.
 
-**(e) Wholesale distributors; guidelines for licensing; definitions**
+(4) In this subsection, the term “authorized distributors of record” means those distributors with whom a manufacturer has established an ongoing relationship to distribute such manufacturer’s products.
 
-(1)
+**(e) Licensing and reporting requirements for wholesale distributors; fees; definitions**
 
-  (A) Each person who is engaged in the wholesale distribution of a drug subject to subsection (b) of this section and who is not the manufacturer or an authorized distributor of record of such drug shall, before each wholesale distribution of such drug (including each distribution to an authorized distributor of record or to a retail pharmacy), provide to the person who receives the drug a statement (in such form and containing such information as the Secretary may require) identifying each prior sale, purchase, or trade of such drug (including the date of the transaction and the names and addresses of all parties to the transaction).
+(1) **Requirement.—** — Subject to [section 360eee–2 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-2):
 
-  (B) Each manufacturer of a drug subject to subsection (b) of this section shall maintain at its corporate offices a current list of the authorized distributors of record of such drug.
+  (A) *In general.—* — No person may engage in wholesale distribution of a drug subject to subsection (b)(1) in any State unless such person—
 
-(2)
+    (i)
 
-  (A) No person may engage in the wholesale distribution in interstate commerce of drugs subject to subsection (b) of this section in a State unless such person is licensed by the State in accordance with the guidelines issued under subparagraph (B).
+      (I) is licensed by the State from which the drug is distributed; or
 
-  (B) The Secretary shall by regulation issue guidelines establishing minimum standards, terms, and conditions for the licensing of persons to make wholesale distributions in interstate commerce of drugs subject to subsection (b) of this section. Such guidelines shall prescribe requirements for the storage and handling of such drugs and for the establishment and maintenance of records of the distributions of such drugs.
+      (II) if the State from which the drug is distributed has not established a licensure requirement, is licensed by the Secretary; and
 
-(3) For the purposes of this subsection and subsection (d) of this section—
+    (ii) if the drug is distributed interstate, is licensed by the State into which the drug is distributed if the State into which the drug is distributed requires the licensure of a person that distributes drugs into the State.
 
-  (A) the term “authorized distributors of record” means those distributors with whom a manufacturer has established an ongoing relationship to distribute such manufacturer’s products, and
+  (B) *Standards.—* — Each Federal and State license described in subparagraph (A) shall meet the standards, terms, and conditions established by the Secretary under [section 360eee–2 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-2).
 
-  (B) the term “wholesale distribution” means distribution of drugs subject to subsection (b) of this section to other than the consumer or patient but does not include intracompany sales and does not include distributions of drugs described in subsection (c)(3)(B) of this section.
+(2) **Reporting and database.—**
+
+  (A) *Reporting.—* — Beginning January 1, 2015, any person who owns or operates an establishment that engages in wholesale distribution shall—
+
+    (i) report to the Secretary, on an annual basis pursuant to a schedule determined by the Secretary—
+
+      (I) each State by which the person is licensed and the appropriate identification number of each such license; and
+
+      (II) the name, address, and contact information of each facility at which, and all trade names under which, the person conducts business; and
+
+    (ii) report to the Secretary within a reasonable period of time and in a reasonable manner, as determined by the Secretary, any significant disciplinary actions, such as the revocation or suspension of a wholesale distributor license, taken by a State or the Federal Government during the reporting period against the wholesale distributor.
+
+  (B) *Database.—* — Not later than January 1, 2015, the Secretary shall establish a database of authorized wholesale distributors. Such database shall—
+
+    (i) identify each authorized wholesale distributor by name, contact information, and each State where such wholesale distributor is appropriately licensed to engage in wholesale distribution;
+
+    (ii) be available to the public on the Internet Web site of the Food and Drug Administration; and
+
+    (iii) be regularly updated on a schedule determined by the Secretary.
+
+  (C) *Coordination.—* — The Secretary shall establish a format and procedure for appropriate State officials to access the information provided pursuant to subparagraph (A) in a prompt and secure manner.
+
+  (D) *Confidentiality.—* — Nothing in this paragraph shall be construed as authorizing the Secretary to disclose any information that is a trade secret or confidential information subject to [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim) or [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim).
+
+(3) **Costs.—**
+
+  (A) *Authorized fees of secretary.—* — If a State does not establish a licensing program for persons engaged in the wholesale distribution of a drug subject to subsection (b), the Secretary shall license a person engaged in wholesale distribution located in such State and may collect a reasonable fee in such amount necessary to reimburse the Secretary for costs associated with establishing and administering the licensure program and conducting periodic inspections under this section. The Secretary shall adjust fee rates as needed on an annual basis to generate only the amount of revenue needed to perform this service. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation.
+
+  (B) *State licensing fees.—* — Nothing in this chapter shall prohibit States from collecting fees from wholesale distributors in connection with State licensing of such distributors.
+
+(4) For the purposes of this subsection and subsection (d), the term “wholesale distribution” means the distribution of a drug subject to subsection (b) to a person other than a consumer or patient, or receipt of a drug subject to subsection (b) by a person other than the consumer or patient, but does not include—
+
+  (A) intracompany distribution of any drug between members of an affiliate or within a manufacturer;
+
+  (B) the distribution of a drug, or an offer to distribute a drug among hospitals or other health care entities which are under common control;
+
+  (C) the distribution of a drug or an offer to distribute a drug for emergency medical reasons, including a public health emergency declaration pursuant to [section 247d of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim), except that, for purposes of this paragraph, a drug shortage not caused by a public health emergency shall not constitute an emergency medical reason;
+
+  (D) the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b)(1);
+
+  (E) the distribution of minimal quantities of drug by a licensed retail pharmacy to a licensed practitioner for office use;
+
+  (F) the distribution of a drug or an offer to distribute a drug by a charitable organization to a nonprofit affiliate of the organization to the extent otherwise permitted by law;
+
+  (G) the purchase or other acquisition by a dispenser, hospital, or other health care entity of a drug for use by such dispenser, hospital, or other health care entity;
+
+  (H) the distribution of a drug by the manufacturer of such drug;
+
+  (I) the receipt or transfer of a drug by an authorized third-party logistics provider provided that such third-party logistics provider does not take ownership of the drug;
+
+  (J) a common carrier that transports a drug, provided that the common carrier does not take ownership of the drug;
+
+  (K) the distribution of a drug, or an offer to distribute a drug by an authorized repackager that has taken ownership or possession of the drug and repacks it in accordance with [section 360eee–1(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee–1/e&num=0&edition=prelim);
+
+  (L) salable drug returns when conducted by a dispenser;
+
+  (M) the distribution of a collection of finished medical devices, which may include a product or biological product, assembled in kit form strictly for the convenience of the purchaser or user (referred to in this subparagraph as a “medical convenience kit”) if—
+
+    (i) the medical convenience kit is assembled in an establishment that is registered with the Food and Drug Administration as a device manufacturer in accordance with [section 360(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/b/2&num=0&edition=prelim);
+
+    (ii) the medical convenience kit does not contain a controlled substance that appears in a schedule contained in the Comprehensive Drug Abuse Prevention and Control Act of 1970 [[21 U.S.C. 801](./chapter-013-drug-abuse-prevention-and-control.md#section-801) et seq.];
+
+    (iii) in the case of a medical convenience kit that includes a product, the person that manufacturers the kit—
+
+      (I) purchased such product directly from the pharmaceutical manufacturer or from a wholesale distributor that purchased the product directly from the pharmaceutical manufacturer; and
+
+      (II) does not alter the primary container or label of the product as purchased from the manufacturer or wholesale distributor; and
+
+    (iv) in the case of a medical convenience kit that includes a product, the product is—
+
+      (I) an intravenous solution intended for the replenishment of fluids and electrolytes;
+
+      (II) a product intended to maintain the equilibrium of water and minerals in the body;
+
+      (III) a product intended for irrigation or reconstitution;
+
+      (IV) an anesthetic;
+
+      (V) an anticoagulant;
+
+      (VI) a vasopressor; or
+
+      (VII) a sympathomimetic;
+
+  (N) the distribution of an intravenous drug that, by its formulation, is intended for the replenishment of fluids and electrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);
+
+  (O) the distribution of an intravenous drug used to maintain the equilibrium of water and minerals in the body, such as dialysis solutions;
+
+  (P) the distribution of a drug that is intended for irrigation, or sterile water, whether intended for such purposes or for injection;
+
+  (Q) the distribution of medical gas, as defined in [section 360ddd of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ddd);
+
+  (R) facilitating the distribution of a product by providing solely administrative services, including processing of orders and payments; or
+
+  (S) the transfer of a product by a hospital or other health care entity, or by a wholesale distributor or manufacturer operating at the direction of the hospital or other health care entity, to a repackager described in [section 360eee(16)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee/16/B&num=0&edition=prelim) and registered under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360) for the purpose of repackaging the drug for use by that hospital, or other health care entity and other health care entities that are under common control, if ownership of the drug remains with the hospital or other health care entity at all times.
+
+(5) **Third-party logistics providers.—** — Notwithstanding paragraphs (1) through (4), each entity that meets the definition of a third-party logistics provider under [section 360eee(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee/22&num=0&edition=prelim) shall obtain a license as a third-party logistics provider as described in [section 360eee–3(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee–3/a&num=0&edition=prelim) and is not required to obtain a license as a wholesale distributor if the entity never assumes an ownership interest in the product it handles.
+
+(6) **Affiliate.—** — For purposes of this subsection, the term “affiliate” means a business entity that has a relationship with a second business entity if, directly or indirectly—
+
+  (A) one business entity controls, or has the power to control, the other business entity; or
+
+  (B) a third party controls, or has the power to control, both of the business entities.
 
 **(f) Veterinary prescription drugs**
 
@@ -6184,12 +6333,18 @@ Provisions as effective Feb. 1, 1966, see section 11 of Pub. L. 89–74, set out
 ### Statutory Notes
 
 #### References in Text
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (e)(4)(M)(ii), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+
 [Section 357 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-357), referred to in subsec. (g)(5)(C)(i), was repealed by Pub. L. 105–115, title I, § 125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
 
 #### Codification
 In subsec. (b)(5), “sections 4721, 6001, and 6151 of title 26” and “[section 4761 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4761&num=0&edition=prelim)” substituted for “section 3220 of the Internal Revenue Code ([26 U.S.C. 3220](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3220&num=0&edition=prelim))” and “section 3238(b) of the Internal Revenue Code ([26 U.S.C. 3238(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3238/b&num=0&edition=prelim))”, respectively, on authority of [section 7852(b) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7852/b&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2013—Subsec. (d)(4). Pub. L. 113–54, § 204(b), added par. (4).
+
+Subsec. (e). Pub. L. 113–54, § 204(a)(1)–(4), added pars. (1) to (6) and struck out former pars. (1) to (3). Prior to amendment, pars. (1) to (3) set out certain disclosure and licensing requirements for wholesale distributors and defined “authorized distributors of record” and “wholesale distribution”.
+
 2004—Subsec. (f)(1)(A)(ii). Pub. L. 108–282, § 102(b)(5)(F)(i), substituted “360b of this title, a conditionally-approved application under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc), or an index listing under [section 360ccc–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc-1)” for “360b of this title”.
 
 Subsec. (f)(3). Pub. L. 108–282, § 102(b)(5)(F)(ii), substituted “section 360b, 360ccc, or 360ccc–1” for “section 360b”.
@@ -6264,6 +6419,9 @@ Subsec. (e). Pub. L. 100–293, § 6, added subsec. (e).
 
 1951—Subsec. (b). Act Oct. 26, 1951, amended subsec. (b) generally to protect the public from abuses in the sale of potent prescription drugs, and to relieve retail pharmacists and the public from unnecessary restrictions on the dispensation of drugs that are safe to use without supervision of a doctor.
 
+#### Effective Date of 2013 Amendment
+Pub. L. 113–54, title II, § 204(c), Nov. 27, 2013, 127 Stat. 636, provided that: “The amendments made by subsections (a) and (b) [enacting [section 360eee–2 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-2) and amending this section] shall take effect on January 1, 2015.”
+
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321).
 
@@ -6294,7 +6452,7 @@ Pub. L. 100–293, § 2, Apr. 22, 1988, 102 Stat. 95, provided that: “The Cong
 
 <a id="section-353a"></a>
 ## § 353a. Pharmacy compounding
-**(a) In general** Sections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a drug product if the drug product is compounded for an identified individual patient based on the unsolicited receipt of a valid prescription order or a notation, approved by the prescribing practitioner, on the prescription order that a compounded product is necessary for the identified patient, if the drug product meets the requirements of this section, and if the compounding—
+**(a) In general** Sections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a drug product if the drug product is compounded for an identified individual patient based on the receipt of a valid prescription order or a notation, approved by the prescribing practitioner, on the prescription order that a compounded product is necessary for the identified patient, if the drug product meets the requirements of this section, and if the compounding—
 
 (1) is by—
 
@@ -6329,7 +6487,7 @@ Pub. L. 100–293, § 2, Apr. 22, 1988, 102 Stat. 95, provided that: “The Cong
 
       (II) if such a monograph does not exist, are drug substances that are components of drugs approved by the Secretary; or
 
-      (III) if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, that appear on a list developed by the Secretary through regulations issued by the Secretary under subsection (d) of this section;
+      (III) if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, that appear on a list developed by the Secretary through regulations issued by the Secretary under subsection (c) of this section;
 
     (ii) that are manufactured by an establishment that is registered under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360) (including a foreign establishment that is registered under [section 360(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/i&num=0&edition=prelim)); and
 
@@ -6354,33 +6512,267 @@ Pub. L. 100–293, § 2, Apr. 22, 1988, 102 Stat. 95, provided that: “The Cong
     (ii) that has not entered into the memorandum of understanding described in clause (i) and the licensed pharmacist, licensed pharmacy, or licensed physician distributes (or causes to be distributed) compounded drug products out of the State in which they are compounded in quantities that do not exceed 5 percent of the total prescription orders dispensed or distributed by such pharmacy or physician.
   The Secretary shall, in consultation with the National Association of Boards of Pharmacy, develop a standard memorandum of understanding for use by the States in complying with subparagraph (B)(i).
 
-**(c) Advertising and promotion** A drug may be compounded under subsection (a) of this section only if the pharmacy, licensed pharmacist, or licensed physician does not advertise or promote the compounding of any particular drug, class of drug, or type of drug. The pharmacy, licensed pharmacist, or licensed physician may advertise and promote the compounding service provided by the licensed pharmacist or licensed physician.
-
-**(d) Regulations**
+**(c) Regulations**
 
 (1) **In general** — The Secretary shall issue regulations to implement this section. Before issuing regulations to implement subsections (b)(1)(A)(i)(III), (b)(1)(C), or (b)(3)(A) of this section, the Secretary shall convene and consult an advisory committee on compounding unless the Secretary determines that the issuance of such regulations before consultation is necessary to protect the public health. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopoeia, pharmacy, physician, and consumer organizations, and other experts selected by the Secretary.
 
 (2) **Limiting compounding** — The Secretary, in consultation with the United States Pharmacopoeia Convention, Incorporated, shall promulgate regulations identifying drug substances that may be used in compounding under subsection (b)(1)(A)(i)(III) of this section for which a monograph does not exist or which are not components of drug products approved by the Secretary. The Secretary shall include in the regulation the criteria for such substances, which shall include historical use, reports in peer reviewed medical literature, or other criteria the Secretary may identify.
 
-**(e) Application** This section shall not apply to—
+**(d) Application** This section shall not apply to—
 
 (1) compounded positron emission tomography drugs as defined in [section 321(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/ii&num=0&edition=prelim); or
 
 (2) radiopharmaceuticals.
 
-**(f) “Compounding” defined** As used in this section, the term “compounding” does not include mixing, reconstituting, or other such acts that are performed in accordance with directions contained in approved labeling provided by the product’s manufacturer and other manufacturer directions consistent with that labeling.
+**(e) “Compounding” defined** As used in this section, the term “compounding” does not include mixing, reconstituting, or other such acts that are performed in accordance with directions contained in approved labeling provided by the product’s manufacturer and other manufacturer directions consistent with that labeling.
 
 ### Statutory Notes
 
-#### Constitutionality
-For information regarding constitutionality of section 503A of act June 25, 1938, as added by section 127(a) of Pub. L. 105–115, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+#### Amendments
+2013—Subsec. (a). Pub. L. 113–54, § 106(a)(1), struck out “unsolicited” before “receipt of a valid prescription” in introductory provisions.
+
+Subsec. (b)(1)(A)(i)(III). Pub. L. 113–54, § 106(a)(4), substituted “subsection (c)” for “subsection (d)”.
+
+Subsecs. (c) to (f). Pub. L. 113–54, § 106(a)(2), (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c). Prior to amendment, subsec. (c) read as follows: “A drug may be compounded under subsection (a) of this section only if the pharmacy, licensed pharmacist, or licensed physician does not advertise or promote the compounding of any particular drug, class of drug, or type of drug. The pharmacy, licensed pharmacist, or licensed physician may advertise and promote the compounding service provided by the licensed pharmacist or licensed physician.”
 
 #### Effective Date
 Pub. L. 105–115, title I, § 127(b), Nov. 21, 1997, 111 Stat. 2330, provided that: “Section 503A of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 353a](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353a)], added by subsection (a), shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Nov. 21, 1997].”
 
 
+<a id="section-353a-1"></a>
+## § 353a–1. Enhanced communication
+**(a) Submissions from State boards of pharmacy** In a manner specified by the Secretary of Health and Human Services (referred to in this section as the “Secretary”), the Secretary shall receive submissions from State boards of pharmacy—
+
+(1) describing actions taken against compounding pharmacies, as described in subsection (b); or
+
+(2) expressing concerns that a compounding pharmacy may be acting contrary to [section 353a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353a).
+
+**(b) Content of submissions from State boards of pharmacy** An action referred to in subsection (a)(1) is, with respect to a pharmacy that compounds drugs, any of the following:
+
+(1) The issuance of a warning letter, or the imposition of sanctions or penalties, by a State for violations of a State’s pharmacy regulations pertaining to compounding.
+
+(2) The suspension or revocation of a State-issued pharmacy license or registration for violations of a State’s pharmacy regulations pertaining to compounding.
+
+(3) The recall of a compounded drug due to concerns relating to the quality or purity of such drug.
+
+**(c) Consultation** The Secretary shall implement subsection (a) in consultation with the National Association of Boards of Pharmacy.
+
+**(d) Notifying State boards of pharmacy** The Secretary shall immediately notify State boards of pharmacy when—
+
+(1) the Secretary receives a submission under subsection (a)(1); or
+
+(2) the Secretary makes a determination that a pharmacy is acting contrary to [section 353a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353a).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Compounding Quality Act and also as part of the Drug Quality and Security Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+
+
 <a id="section-353b"></a>
-## § 353b. Prereview of television advertisements
+## § 353b. Outsourcing facilities
+**(a) In general** Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug compounded by or under the direct supervision of a licensed pharmacist in a facility that elects to register as an outsourcing facility if each of the following conditions is met:
+
+(1) **Registration and reporting** — The drug is compounded in an outsourcing facility that is in compliance with the requirements of subsection (b).
+
+(2) **Bulk drug substances** — The drug is compounded in an outsourcing facility that does not compound using bulk drug substances (as defined in section 207.3(a)(4) of title 21, Code of Federal Regulations (or any successor regulation)), unless—
+
+  (A)
+
+    (i) the bulk drug substance appears on a list established by the Secretary identifying bulk drug substances for which there is a clinical need, by—
+
+      (I) publishing a notice in the Federal Register proposing bulk drug substances to be included on the list, including the rationale for such proposal;
+
+      (II) providing a period of not less than 60 calendar days for comment on the notice; and
+
+      (III) publishing a notice in the Federal Register designating bulk drug substances for inclusion on the list; or
+
+    (ii) the drug compounded from such bulk drug substance appears on the drug shortage list in effect under [section 356e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-356e) at the time of compounding, distribution, and dispensing;
+
+  (B) if an applicable monograph exists under the United States Pharmacopeia, the National Formulary, or another compendium or pharmacopeia recognized by the Secretary for purposes of this paragraph, the bulk drug substances each comply with the monograph;
+
+  (C) the bulk drug substances are each manufactured by an establishment that is registered under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360) (including a foreign establishment that is registered under [section 360(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/i&num=0&edition=prelim)); and
+
+  (D) the bulk drug substances are each accompanied by a valid certificate of analysis.
+
+(3) **Ingredients (other than bulk drug substances)** — If any ingredients (other than bulk drug substances) are used in compounding the drug, such ingredients comply with the standards of the applicable United States Pharmacopeia or National Formulary monograph, if such monograph exists, or of another compendium or pharmacopeia recognized by the Secretary for purposes of this paragraph if any.
+
+(4) **Drugs withdrawn or removed because unsafe or not effective** — The drug does not appear on a list published by the Secretary of drugs that have been withdrawn or removed from the market because such drugs or components of such drugs have been found to be unsafe or not effective.
+
+(5) **Essentially a copy of an approved drug** — The drug is not essentially a copy of one or more approved drugs.
+
+(6) **Drugs presenting demonstrable difficulties for compounding** — The drug—
+
+  (A) is not identified (directly or as part of a category of drugs) on a list published by the Secretary, through the process described in subsection (c), of drugs or categories of drugs that present demonstrable difficulties for compounding that are reasonably likely to lead to an adverse effect on the safety or effectiveness of the drug or category of drugs, taking into account the risks and benefits to patients; or
+
+  (B) is compounded in accordance with all applicable conditions identified on the list described in subparagraph (A) as conditions that are necessary to prevent the drug or category of drugs from presenting the demonstrable difficulties described in subparagraph (A).
+
+(7) **Elements to assure safe use** — In the case of a drug that is compounded from a drug that is the subject of a risk evaluation and mitigation strategy approved with elements to assure safe use pursuant to [section 355–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355-1), or from a bulk drug substance that is a component of such drug, the outsourcing facility demonstrates to the Secretary prior to beginning compounding that such facility will utilize controls comparable to the controls applicable under the relevant risk evaluation and mitigation strategy.
+
+(8) **Prohibition on wholesaling** — The drug will not be sold or transferred by an entity other than the outsourcing facility that compounded such drug. This paragraph does not prohibit administration of a drug in a health care setting or dispensing a drug pursuant to a prescription executed in accordance with [section 353(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/1&num=0&edition=prelim).
+
+(9) **Fees** — The drug is compounded in an outsourcing facility that has paid all fees owed by such facility pursuant to [section 379j–62 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-62).
+
+(10) **Labeling of drugs**
+
+  (A) *Label* — The label of the drug includes—
+
+    (i) the statement “This is a compounded drug.” or a reasonable comparable alternative statement (as specified by the Secretary) that prominently identifies the drug as a compounded drug;
+
+    (ii) the name, address, and phone number of the applicable outsourcing facility; and
+
+    (iii) with respect to the drug—
+
+      (I) the lot or batch number;
+
+      (II) the established name of the drug;
+
+      (III) the dosage form and strength;
+
+      (IV) the statement of quantity or volume, as appropriate;
+
+      (V) the date that the drug was compounded;
+
+      (VI) the expiration date;
+
+      (VII) storage and handling instructions;
+
+      (VIII) the National Drug Code number, if available;
+
+      (IX) the statement “Not for resale”, and, if the drug is dispensed or distributed other than pursuant to a prescription for an individual identified patient, the statement “Office Use Only”; and
+
+      (X) subject to subparagraph (B)(i), a list of active and inactive ingredients, identified by established name and the quantity or proportion of each ingredient.
+
+  (B) *Container* — The container from which the individual units of the drug are removed for dispensing or for administration (such as a plastic bag containing individual product syringes) shall include—
+
+    (i) the information described under subparagraph (A)(iii)(X), if there is not space on the label for such information;
+
+    (ii) the following information to facilitate adverse event reporting: www.fda.gov/medwatch and 1–800–FDA–1088 (or any successor Internet Web site or phone number); and
+
+    (iii) directions for use, including, as appropriate, dosage and administration.
+
+  (C) *Additional information* — The label and labeling of the drug shall include any other information as determined necessary and specified in regulations promulgated by the Secretary.
+
+(11) **Outsourcing facility requirement** — The drug is compounded in an outsourcing facility in which the compounding of drugs occurs only in accordance with this section.
+
+**(b) Registration of outsourcing facilities and reporting of drugs**
+
+(1) **Registration of outsourcing facilities**
+
+  (A) *Annual registration* — Upon electing and in order to become an outsourcing facility, and during the period beginning on October 1 and ending on December 31 of each year thereafter, a facility—
+
+    (i) shall register with the Secretary its name, place of business, and unique facility identifier (which shall conform to the requirements for the unique facility identifier established under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360)), and a point of contact email address; and
+
+    (ii) shall indicate whether the outsourcing facility intends to compound a drug that appears on the list in effect under [section 356e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-356e) during the subsequent calendar year.
+
+  (B) *Availability of registration for inspection; list*
+
+    (i) *Registrations* — The Secretary shall make available for inspection, to any person so requesting, any registration filed pursuant to this paragraph.
+
+    (ii) *List* — The Secretary shall make available on the public Internet Web site of the Food and Drug Administration a list of the name of each facility registered under this subsection as an outsourcing facility, the State in which each such facility is located, whether the facility compounds from bulk drug substances, and whether any such compounding from bulk drug substances is for sterile or nonsterile drugs.
+
+(2) **Drug reporting by outsourcing facilities**
+
+  (A) *In general* — Upon initially registering as an outsourcing facility, once during the month of June of each year, and once during the month of December of each year, each outsourcing facility that registers with the Secretary under paragraph (1) shall submit to the Secretary a report—
+
+    (i) identifying the drugs compounded by such outsourcing facility during the previous 6-month period; and
+
+    (ii) with respect to each drug identified under clause (i), providing the active ingredient, the source of such active ingredient, the National Drug Code number of the source drug or bulk active ingredient, if available, the strength of the active ingredient per unit, the dosage form and route of administration, the package description, the number of individual units produced, and the National Drug Code number of the final product, if assigned.
+
+  (B) *Form* — Each report under subparagraph (A) shall be prepared in such form and manner as the Secretary may prescribe by regulation or guidance.
+
+  (C) *Confidentiality* — Reports submitted under this paragraph shall be exempt from inspection under paragraph (1)(B)(i), unless the Secretary finds that such an exemption would be inconsistent with the protection of the public health.
+
+(3) **Electronic registration and reporting** — Registrations and drug reporting under this subsection (including the submission of updated information) shall be submitted to the Secretary by electronic means unless the Secretary grants a request for waiver of such requirement because use of electronic means is not reasonable for the person requesting waiver.
+
+(4) **Risk-based inspection frequency**
+
+  (A) *In general* — Outsourcing facilities—
+
+    (i) shall be subject to inspection pursuant to [section 374 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-374); and
+
+    (ii) shall not be eligible for the exemption under [section 374(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section374/a/2/A&num=0&edition=prelim).
+
+  (B) *Risk-based schedule* — The Secretary, acting through one or more officers or employees duly designated by the Secretary, shall inspect outsourcing facilities in accordance with a risk-based schedule established by the Secretary.
+
+  (C) *Risk factors* — In establishing the risk-based schedule, the Secretary shall inspect outsourcing facilities according to the known safety risks of such outsourcing facilities, which shall be based on the following factors:
+
+    (i) The compliance history of the outsourcing facility.
+
+    (ii) The record, history, and nature of recalls linked to the outsourcing facility.
+
+    (iii) The inherent risk of the drugs compounded at the outsourcing facility.
+
+    (iv) The inspection frequency and history of the outsourcing facility, including whether the outsourcing facility has been inspected pursuant to [section 374 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-374) within the last 4 years.
+
+    (v) Whether the outsourcing facility has registered under this paragraph as an entity that intends to compound a drug that appears on the list in effect under [section 356e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-356e).
+
+    (vi) Any other criteria deemed necessary and appropriate by the Secretary for purposes of allocating inspection resources.
+
+(5) **Adverse event reporting** — Outsourcing facilities shall submit adverse event reports to the Secretary in accordance with the content and format requirements established through guidance or regulation under section 310.305 of title 21, Code of Federal Regulations (or any successor regulations).
+
+**(c) Regulations**
+
+(1) **In general** — The Secretary shall implement the list described in subsection (a)(6) through regulations.
+
+(2) **Advisory committee on compounding** — Before issuing regulations to implement subsection (a)(6), the Secretary shall convene and consult an advisory committee on compounding. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopeia, pharmacists with current experience and expertise in compounding, physicians with background and knowledge in compounding, and patient and public health advocacy organizations.
+
+(3) **Interim list**
+
+  (A) *In general* — Before the effective date of the regulations finalized to implement subsection (a)(6), the Secretary may designate drugs, categories of drugs, or conditions as described such 11 So in original. subsection by—
+
+    (i) publishing a notice of such substances, drugs, categories of drugs, or conditions proposed for designation, including the rationale for such designation, in the Federal Register;
+
+    (ii) providing a period of not less than 60 calendar days for comment on the notice; and
+
+    (iii) publishing a notice in the Federal Register designating such drugs, categories of drugs, or conditions.
+
+  (B) *Sunset of notice* — Any notice provided under subparagraph (A) shall not be effective after the earlier of—
+
+    (i) the date that is 5 years after November 27, 2013; or
+
+    (ii) the effective date of the final regulations issued to implement subsection (a)(6).
+
+(4) **Updates** — The Secretary shall review, and update as necessary, the regulations containing the lists of drugs, categories of drugs, or conditions described in subsection (a)(6) regularly, but not less than once every 4 years. Nothing in the previous sentence prohibits submissions to the Secretary, before or during any 4-year period described in such sentence, requesting updates to such lists.
+
+**(d) 22 So in original. Two subsecs. (d) have been enacted. Definitions** In this section:
+
+(1) The term “compounding” includes the combining, admixing, mixing, diluting, pooling, reconstituting, or otherwise altering of a drug or bulk drug substance to create a drug.
+
+(2) The term “essentially a copy of an approved drug” means—
+
+  (A) a drug that is identical or nearly identical to an approved drug, or a marketed drug not subject to [section 353(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b&num=0&edition=prelim) and not subject to approval in an application submitted under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355), unless, in the case of an approved drug, the drug appears on the drug shortage list in effect under [section 356e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-356e) at the time of compounding, distribution, and dispensing; or
+
+  (B) a drug, a component of which is a bulk drug substance that is a component of an approved drug or a marketed drug that is not subject to [section 353(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b&num=0&edition=prelim) and not subject to approval in an application submitted under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355), unless there is a change that produces for an individual patient a clinical difference, as determined by the prescribing practitioner, between the compounded drug and the comparable approved drug.
+
+(3) The term “approved drug” means a drug that is approved under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) and does not appear on the list described in subsection (a)(4) of drugs that have been withdrawn or removed from the market because such drugs or components of such drugs have been found to be unsafe or not effective.
+
+(4)
+
+  (A) The term “outsourcing facility” means a facility at one geographic location or address that—
+
+    (i) is engaged in the compounding of sterile drugs;
+
+    (ii) has elected to register as an outsourcing facility; and
+
+    (iii) complies with all of the requirements of this section.
+
+  (B) An outsourcing facility is not required to be a licensed pharmacy.
+
+  (C) An outsourcing facility may or may not obtain prescriptions for identified individual patients.
+
+(5) The term “sterile drug” means a drug that is intended for parenteral administration, an ophthalmic or oral inhalation drug in aqueous format, or a drug that is required to be sterile under Federal or State law.
+
+**(d) 2 Obligation to pay fees** Payment of the fee under [section 379j–62 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-62), as described in subsection (a)(9), shall not relieve an outsourcing facility that is licensed as a pharmacy in any State that requires pharmacy licensing fees of its obligation to pay such State fees.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 503B of act June 25, 1938, ch. 675, was renumbered section 503C by Pub. L. 113–54, § 102(a)(1), Nov. 27, 2013, 127 Stat. 587, and transferred to [section 353c of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353c).
+
+
+<a id="section-353c"></a>
+## § 353c. Prereview of television advertisements
 **(a) In general** The Secretary may require the submission of any television advertisement for a drug (including any script, story board, rough, or a completed video production of the television advertisement) to the Secretary for review under this section not later than 45 days before dissemination of the television advertisement.
 
 **(b) Review** In conducting a review of a television advertisement under this section, the Secretary may make recommendations with respect to information included in the label of the drug—
@@ -6406,6 +6798,9 @@ Pub. L. 105–115, title I, § 127(b), Nov. 21, 1997, 111 Stat. 2330, provided t
 **(f) Rule of construction** Nothing in this section may be construed as having any effect on requirements under [section 352(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section352/n&num=0&edition=prelim) or on the authority of the Secretary under section 314.550, 314.640, 601.45, or 601.94 of title 21, Code of Federal Regulations (or successor regulations).
 
 ### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 353b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353b) prior to renumbering by Pub. L. 113–54.
 
 #### Effective Date
 Section effective 180 days after Sept. 27, 2007, see section 909 of Pub. L. 110–85, set out as an Effective Date of 2007 Amendment note under [section 331 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-331).
@@ -7803,11 +8198,11 @@ Pub. L. 112–144, title VIII, § 806, July 9, 2012, 126 Stat. 1082, provided th
 #### Guidance on Abuse-Deterrent Products
 Pub. L. 112–144, title XI, § 1122(c), July 9, 2012, 126 Stat. 1113, provided that: “Not later than 6 months after the date of enactment of this Act [July 9, 2012], the Secretary [of Health and Human Services] shall promulgate guidance on the development of abuse-deterrent drug products.”
 
-#### Extension of Period for First Applicant to Obtain Tentative Approval Without Forfeiting 180-Day-Exclusivity Period
+#### Extension of Period for First Applicant To Obtain Tentative Approval Without Forfeiting 180-Day-Exclusivity Period
 Pub. L. 112–144, title XI, § 1133, July 9, 2012, 126 Stat. 1122, provided that: “(a) Extension.—“(1) In general.—If a first applicant files an application during the 30-month period ending on the date of enactment of this Act [July 9, 2012] and such application initially contains a certification described in paragraph (2)(A)(vii)(IV) of section 505(j) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)), or if a first applicant files an application and the application is amended during such period to first contain such a certification, the phrase ‘30 months’ in paragraph (5)(D)(i)(IV) of such section shall, with respect to such application, be read as meaning—“(A) during the period beginning on the date of enactment of this Act, and ending on September 30, 2015, ‘40 months’; and “(B) during the period beginning on October 1, 2015, and ending on September 30, 2016, ‘36 months’. “(2) Conforming amendment.—In the case of an application to which an extended period under paragraph (1) applies, the reference to the 30-month period under section 505(q)(1)(G) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(q)(1)(G)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/q/1/G&num=0&edition=prelim)) shall be read to be the applicable period under paragraph (1). “(b) Period for Obtaining Tentative Approval of Certain Applications.—If an application is filed on or before the date of enactment of this Act [July 9, 2012] and such application is amended during the period beginning on the day after the date of enactment of this Act and ending on September 30, 2017, to first contain a certification described in paragraph (2)(A)(vii)(IV) of section 505(j) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)), the date of the filing of such amendment (rather than the date of the filing of such application) shall be treated as the beginning of the 30-month period described in paragraph (5)(D)(i)(IV) of such section 505(j). “(c) Definitions.—For the purposes of this section, the terms ‘application’ and ‘first applicant’ mean application and first applicant, as such terms are used in section 505(j)(5)(D)(i)(IV) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)(5)(D)(i)(IV)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/D/i/IV&num=0&edition=prelim)).”
 
 #### Effect of Amendments by Pub. L. 110–85 on Veterinary Medicine
-Pub. L. 110–85, title IX, § 907, Sept. 27, 2007, 121 Stat. 950, provided that: “This subtitle [subtitle A (§§ 901–909) of title IX of Pub. L. 110–85, enacting sections 353b and 355–1 of this title, amending this section and sections 331, 333, and 352 of this title and [section 262 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 331, 352, and 355a of this title], and the amendments made by this subtitle, shall have no effect on the use of drugs approved under section 505 of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355)] by, or on the lawful written or oral order of, a licensed veterinarian within the context of a veterinarian-client-patient relationship, as provided for under section 512(a)(5) of such Act [[21 U.S.C. 360b(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/a/5&num=0&edition=prelim)].”
+Pub. L. 110–85, title IX, § 907, Sept. 27, 2007, 121 Stat. 950, provided that: “This subtitle [subtitle A (§§ 901–909) of title IX of Pub. L. 110–85, enacting sections 353c and 355–1 of this title, amending this section and sections 331, 333, and 352 of this title and [section 262 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 331, 352, and 355a of this title], and the amendments made by this subtitle, shall have no effect on the use of drugs approved under section 505 of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355)] by, or on the lawful written or oral order of, a licensed veterinarian within the context of a veterinarian-client-patient relationship, as provided for under section 512(a)(5) of such Act [[21 U.S.C. 360b(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/a/5&num=0&edition=prelim)].”
 
 #### Effect of Amendment by Pub. L. 108–173 on Abbreviated New Drug Applications
 Pub. L. 108–173, title XI, § 1103(b), Dec. 8, 2003, 117 Stat. 2461, provided that: “The amendment made by subsection (a) [amending this section] does not alter the standards for approval of drugs under section 505(j) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)).”
@@ -7824,7 +8219,8 @@ Pub. L. 105–115, title I, § 118, Nov. 21, 1997, 111 Stat. 2316, provided that
 #### Requirements for Review of Approval Procedures and Current Good Manufacturing Practices for Positron Emission Technology
 Pub. L. 105–115, title I, § 121(c), Nov. 21, 1997, 111 Stat. 2321, provided that: “(1) Procedures and requirements.—“(A) In general.—In order to take account of the special characteristics of positron emission tomography drugs and the special techniques and processes required to produce these drugs, not later than 2 years after the date of enactment of this Act [Nov. 21, 1997], the Secretary of Health and Human Services shall establish—“(i) appropriate procedures for the approval of positron emission tomography drugs pursuant to section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355)); and “(ii) appropriate current good manufacturing practice requirements for such drugs. “(B) Considerations and consultation.—In establishing the procedures and requirements required by subparagraph (A), the Secretary of Health and Human Services shall take due account of any relevant differences between not-for-profit institutions that compound the drugs for their patients and commercial manufacturers of the drugs. Prior to establishing the procedures and requirements, the Secretary of Health and Human Services shall consult with patient advocacy groups, professional associations, manufacturers, and physicians and scientists licensed to make or use positron emission tomography drugs. “(2) Submission of new drug applications and abbreviated new drug applications.—“(A) In general.—Except as provided in subparagraph (B), the Secretary of Health and Human Services shall not require the submission of new drug applications or abbreviated new drug applications under subsection (b) or (j) of section 505 ([21 U.S.C. 355](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355)), for compounded positron emission tomography drugs that are not adulterated drugs described in section 501(a)(2)(C) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 351(a)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section351/a/2/C&num=0&edition=prelim)) (as amended by subsection (b)), for a period of 4 years after the date of enactment of this Act [Nov. 21, 1997], or for 2 years after the date on which the Secretary establishes procedures and requirements under paragraph (1), whichever is longer. “(B) Exception.—Nothing in this Act [see Short Title of 1997 Amendment note set out under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] shall prohibit the voluntary submission of such applications or the review of such applications by the Secretary of Health and Human Services. Nothing in this Act shall constitute an exemption for a positron emission tomography drug from the requirements of regulations issued under section 505(i) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/i&num=0&edition=prelim)).”
 
-#### “Compounded Positron Emission Topography Drug” Defined
+“Compounded Positron Emission Topography Drug” Defined
+
 Pub. L. 105–115, title I, § 121(e), Nov. 21, 1997, 111 Stat. 2322, provided that: “As used in this section [amending sections 321 and 351 of this title and enacting provisions set out as notes under this section and [section 351 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-351)], the term ‘compounded positron emission tomography drug’ has the meaning given the term in section 201 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321)).”
 
 #### Requirements for Radiopharmaceuticals
@@ -8226,7 +8622,7 @@ Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provi
 Pub. L. 107–109, § 11(b), Jan. 4, 2002, 115 Stat. 1416, provided that: “The amendment made by subsection (a) [amending this section] takes effect on the date of enactment of this Act [Jan. 4, 2002], including with respect to applications under section 505(j) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)) that are approved or pending on that date.”
 
 #### Construction of 2007 Amendments on Pediatric Studies
-Pub. L. 110–85, title IX, § 901(e), Sept. 27, 2007, 121 Stat. 942, provided that: “This title [enacting sections 353b, 355–1, 355e, 360a, and 360bbb–6 of this title, amending sections 331, 333, 334, 352, 355, and 381 of this title and [section 262 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as notes under sections 331, 352, and 355 of this title] and the amendments made by this title may not be construed as affecting the authority of the Secretary of Health and Human Services to request pediatric studies under section 505A of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355a](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a)] or to require such studies under section 505B of such Act [[21 U.S.C. 355c](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355c)].”
+Pub. L. 110–85, title IX, § 901(e), Sept. 27, 2007, 121 Stat. 942, provided that: “This title [enacting sections 353c, 355–1, 355e, 360a, and 360bbb–6 of this title, amending sections 331, 333, 334, 352, 355, and 381 of this title and [section 262 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as notes under sections 331, 352, and 355 of this title] and the amendments made by this title may not be construed as affecting the authority of the Secretary of Health and Human Services to request pediatric studies under section 505A of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355a](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a)] or to require such studies under section 505B of such Act [[21 U.S.C. 355c](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355c)].”
 
 #### Communication With Pediatric Review Committee
 Pub. L. 112–144, title V, § 503, July 9, 2012, 126 Stat. 1040, provided that: “Not later than 1 year after the date of enactment of this Act [July 9, 2012], the Secretary of Health and Human Services (referred to in this title [see Tables for classification] as the ‘Secretary’) shall issue internal standard operating procedures that provide for the review by the internal review committee established under section 505C of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355d](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355d)) of any significant modifications to initial pediatric study plans, agreed initial pediatric study plans, and written requests under sections 505A and 505B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355a](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a), 355c). Such internal standard operating procedures shall be made publicly available on the Internet Web site of the Food and Drug Administration.”
@@ -8964,7 +9360,7 @@ Pub. L. 112–144, title VIII, § 801(b), July 9, 2012, 126 Stat. 1079, provided
 
 (1) **In general** — The Secretary, in consultation with the offices described in subsection (c)(2), may under such subsection require that the risk evaluation and mitigation strategy for a drug include 1 or more of the additional elements described in this subsection if the Secretary makes the determination required with respect to each element involved.
 
-(2) **Medication guide; patient package insert** — The risk evaluation and mitigation strategy for a drug may require that, as applicable, the responsible person develop for distribution to each patient when the drug is dispensed—
+(2) **Medication Guide; patient package insert** — The risk evaluation and mitigation strategy for a drug may require that, as applicable, the responsible person develop for distribution to each patient when the drug is dispensed—
 
   (A) a Medication Guide, as provided for under part 208 of title 21, Code of Federal Regulations (or any successor regulations); and
 
@@ -9817,7 +10213,7 @@ Nothing in this subsection shall be construed to prohibit a sponsor or applicant
 
 **(d) Definitions** For purposes of this title: 1
 
-(1) The term “priority countermeasure” has the meaning given such term in [section 247d–6(h)(4) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6/h/4&num=0&edition=prelim).
+(1) The term “priority countermeasure” has the meaning given such term in section 247d–6(h)(4) 1 of title 42.
 
 (2) The term “priority drugs or biological products” means a drug or biological product that is the subject of a drug or biologics application referred to in section 101(4) of the Food and Drug Administration Modernization Act of 1997.
 
@@ -9827,6 +10223,8 @@ Nothing in this subsection shall be construed to prohibit a sponsor or applicant
 Section 123, referred to in subsec. (b), is section 123 of Pub. L. 107–188, title I, June 12, 2002, 116 Stat. 613, which is not classified to the Code.
 
 This title, referred to in subsec. (d), is title I of Pub. L. 107–188, June 12, 2002, 116 Stat. 596, which enacted this section, [section 669a of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section669a&num=0&edition=prelim), Labor, and sections 244, 245, 247d–3a, 247d–3b, 247d–7a to 247d–7d, 300hh, 300hh–11 to 300hh–13, 1320b–5, and 7257d of Title 42, The Public Health and Welfare, amended sections 247d to 247d–6, 264, 266, 290hh–1, and 5196b of Title 42, and enacted provisions set out as notes preceding [section 8101 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8101&num=0&edition=prelim), Veterans’ Benefits, and under sections 201, 244, 247d, 247d–6, 300hh, 300hh–12, and 1320b–5 of Title 42. For complete classification of this title to the Code, see Tables.
+
+[Section 247d–6(h)(4) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6/h/4&num=0&edition=prelim), referred to in subsec. (d)(1), was redesignated section 247d–6(e)(4) by Pub. L. 109–417, title III, § 304(3), Dec. 19, 2006, 120 Stat. 2861.
 
 Section 101(4) of the Food and Drug Administration Modernization Act of 1997, referred to in subsec. (d)(2), is section 101(4) of Pub. L. 105–115, which is set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
@@ -9937,7 +10335,7 @@ In this subsection, the term “wholesale distributor” means any person (other
 
 (3) **Risk-based schedule for drugs** — The Secretary, acting through one or more officers or employees duly designated by the Secretary, shall inspect establishments described in paragraph (1) that are engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs (referred to in this subsection as “drug establishments”) in accordance with a risk-based schedule established by the Secretary.
 
-(4) **Risk factors** — In establishing the risk-based scheduled under paragraph (3), the Secretary shall inspect establishments according to the known safety risks of such establishments, which shall be based on the following factors:
+(4) **Risk factors** — In establishing the risk-based scheduled 22 So in original. Probably should be “schedule”. under paragraph (3), the Secretary shall inspect establishments according to the known safety risks of such establishments, which shall be based on the following factors:
 
   (A) The compliance history of the establishment.
 
@@ -11107,7 +11505,7 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
   (B) is approved, licensed, or cleared under such a provision, but which use is not under such provision an approved, licensed, or cleared use of the product (referred to in this section as an “unapproved use of an approved product”).
 
-(3) **Relation to other uses** — An emergency use authorized under paragraph (1) for a product is in addition to any other use that is authorized for the product under a section of this chapter or the Public Health Service Act referred to in paragraph (2)(A).
+(3) **Relation to other uses** — An emergency use authorized under paragraph (1) for a product is in addition to any other use that is authorized for the product under a section of this chapter or the Public Health Service Act [[42 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) et seq.] referred to in paragraph (2)(A).
 
 (4) **Definitions** — For purposes of this section:
 
@@ -11412,7 +11810,7 @@ Subsec. (m). Pub. L. 113–5, § 302(a)(9), added subsec. (m).
 
 (2) **Effect** — Notwithstanding any other provision of this chapter or the Public Health Service Act [[42 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) et seq.], an eligible product shall not be considered an unapproved product (as defined in [section 360bbb–3(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360bbb–3/a/2/A&num=0&edition=prelim)) and shall not be deemed adulterated or misbranded under this chapter because, with respect to such product, the Secretary has authorized deviations from current good manufacturing practices under paragraph (1).
 
-**(d) Emergency dispensing** The requirements of sections 353 and 360j(e) of this title shall not apply to an eligible product, and the product shall not be considered an unapproved product (as defined in [section 360bbb–3(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360bbb–3/a/2/A&num=0&edition=prelim)) and shall not be deemed adulterated or misbranded under this chapter because it is dispensed without an individual prescription, if—
+**(d) Emergency dispensing** The requirements of sections 353(b) and 360j(e) of this title shall not apply to an eligible product, and the product shall not be considered an unapproved product (as defined in [section 360bbb–3(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360bbb–3/a/2/A&num=0&edition=prelim)) and shall not be deemed adulterated or misbranded under this chapter because it is dispensed without an individual prescription, if—
 
 (1) the product is dispensed during the circumstances described in subsection (a)(1)(C); and
 
@@ -13349,6 +13747,991 @@ Amendment by Pub. L. 99–91 effective Oct. 1, 1985, see section 8(a) of Pub. L.
 Pub. L. 107–281, § 2, Nov. 6, 2002, 116 Stat. 1992, provided that: “(a) Findings.—Congress makes the following findings:“(1) Rare diseases and disorders are those which affect small patient populations, typically populations smaller than 200,000 individuals in the United States. Such diseases and conditions include Huntington’s disease, amyotrophic lateral sclerosis (Lou Gehrig’s disease), Tourette syndrome, Crohn’s disease, cystic fibrosis, cystinosis, and Duchenne muscular dystrophy. “(2) For many years, the 25,000,000 Americans suffering from the over 6,000 rare diseases and disorders were denied access to effective medicines because prescription drug manufacturers could rarely make a profit from marketing drugs for such small groups of patients. The prescription drug industry did not adequately fund research into such treatments. Despite the urgent health need for these medicines, they came to be known as ‘orphan drugs’ because no companies would commercialize them. “(3) During the 1970s, an organization called the National Organization for Rare Disorders (NORD) was founded to provide services and to lobby on behalf of patients with rare diseases and disorders. NORD was instrumental in pressing Congress for legislation to encourage the development of orphan drugs. “(4) The Orphan Drug Act [see Short Title of 1983 Amendments note set out under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] created financial incentives for the research and production of such orphan drugs. New Federal programs at the National Institutes of Health and the Food and Drug Administration encouraged clinical research and commercial product development for products that target rare diseases. An Orphan Products Board was established to promote the development of drugs and devices for rare diseases or disorders. “(5) Before 1983, some 38 orphan drugs had been developed. Since the enactment of the Orphan Drug Act [Jan. 4, 1983], more than 220 new orphan drugs have been approved and marketed in the United States and more than 800 additional drugs are in the research pipeline. “(6) Despite the tremendous success of the Orphan Drug Act, rare diseases and disorders deserve greater emphasis in the national biomedical research enterprise. “(7) The Food and Drug Administration supports small clinical trials through Orphan Products Research Grants. Such grants embody successful partnerships of government and industry, and have led to the development of at least 23 drugs and four medical devices for rare diseases and disorders. Yet the appropriations in fiscal year 2001 for such grants were less than in fiscal year 1995. “(b) Purposes.—The purpose of this Act [see Short Title of 2002 Amendments note set out under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] is to increase the national investment in the development of diagnostics and treatments for patients with rare diseases and disorders.”
 
 
+<a id="section-360eee"></a>
+## § 360eee. Definitions
+
+In this part:
+
+(1) **Affiliate** — The term “affiliate” means a business entity that has a relationship with a second business entity if, directly or indirectly—
+
+  (A) one business entity controls, or has the power to control, the other business entity; or
+
+  (B) a third party controls, or has the power to control, both of the business entities.
+
+(2) **Authorized** — The term “authorized” means—
+
+  (A) in the case of a manufacturer or repackager, having a valid registration in accordance with [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360);
+
+  (B) in the case of a wholesale distributor, having a valid license under State law or [section 360eee–2 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-2), in accordance with [section 360eee–1(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee–1/a/6&num=0&edition=prelim), and complying with the licensure reporting requirements under [section 353(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e&num=0&edition=prelim);
+
+  (C) in the case of a third-party logistics provider, having a valid license under State law or [section 360eee–3(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee–3/a/1&num=0&edition=prelim), in accordance with [section 360eee–1(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee–1/a/7&num=0&edition=prelim), and complying with the licensure reporting requirements under [section 360eee–3(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee–3/b&num=0&edition=prelim); and
+
+  (D) in the case of a dispenser, having a valid license under State law.
+
+(3) **Dispenser** — The term “dispenser”—
+
+  (A) means a retail pharmacy, hospital pharmacy, a group of chain pharmacies under common ownership and control that do not act as a wholesale distributor, or any other person authorized by law to dispense or administer prescription drugs, and the affiliated warehouses or distribution centers of such entities under common ownership and control that do not act as a wholesale distributor; and
+
+  (B) does not include a person who dispenses only products to be used in animals in accordance with [section 360b(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/a/5&num=0&edition=prelim).
+
+(4) **Disposition** — The term “disposition”, with respect to a product within the possession or control of an entity, means the removal of such product from the pharmaceutical distribution supply chain, which may include disposal or return of the product for disposal or other appropriate handling and other actions, such as retaining a sample of the product for further additional physical examination or laboratory analysis of the product by a manufacturer or regulatory or law enforcement agency.
+
+(5) **Distribute or distribution** — The term “distribute” or “distribution” means the sale, purchase, trade, delivery, handling, storage, or receipt of a product, and does not include the dispensing of a product pursuant to a prescription executed in accordance with [section 353(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/1&num=0&edition=prelim) or the dispensing of a product approved under [section 360b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/b&num=0&edition=prelim).
+
+(6) **Exclusive distributor** — The term “exclusive distributor” means the wholesale distributor that directly purchased the product from the manufacturer and is the sole distributor of that manufacturer’s product to a subsequent repackager, wholesale distributor, or dispenser.
+
+(7) **Homogeneous case** — The term “homogeneous case” means a sealed case containing only product that has a single National Drug Code number belonging to a single lot.
+
+(8) **Illegitimate product** — The term “illegitimate product” means a product for which credible evidence shows that the product—
+
+  (A) is counterfeit, diverted, or stolen;
+
+  (B) is intentionally adulterated such that the product would result in serious adverse health consequences or death to humans;
+
+  (C) is the subject of a fraudulent transaction; or
+
+  (D) appears otherwise unfit for distribution such that the product would be reasonably likely to result in serious adverse health consequences or death to humans.
+
+(9) **Licensed** — The term “licensed” means—
+
+  (A) in the case of a wholesale distributor, having a valid license in accordance with [section 353(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e&num=0&edition=prelim) or [section 360eee–1(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee–1/a/6&num=0&edition=prelim), as applicable;
+
+  (B) in the case of a third-party logistics provider, having a valid license in accordance with [section 360eee–3(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee–3/a&num=0&edition=prelim) or [section 360eee–1(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee–1/a/7&num=0&edition=prelim), as applicable; and
+
+  (C) in the case of a dispenser, having a valid license under State law.
+
+(10) **Manufacturer** — The term “manufacturer” means, with respect to a product—
+
+  (A) a person that holds an application approved under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or a license issued under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) for such product, or if such product is not the subject of an approved application or license, the person who manufactured the product;
+
+  (B) a co-licensed partner of the person described in subparagraph (A) that obtains the product directly from a person described in this subparagraph or subparagraph (A) or (C); or
+
+  (C) an affiliate of a person described in subparagraph (A) or (B) that receives the product directly from a person described in this subparagraph or subparagraph (A) or (B).
+
+(11) **Package**
+
+  (A) *In general* — The term “package” means the smallest individual saleable unit of product for distribution by a manufacturer or repackager that is intended by the manufacturer for ultimate sale to the dispenser of such product.
+
+  (B) *Individual saleable unit* — For purposes of this paragraph, an “individual saleable unit” is the smallest container of product introduced into commerce by the manufacturer or repackager that is intended by the manufacturer or repackager for individual sale to a dispenser.
+
+(12) **Prescription drug** — The term “prescription drug” means a drug for human use subject to [section 353(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/1&num=0&edition=prelim).
+
+(13) **Product** — The term “product” means a prescription drug in a finished dosage form for administration to a patient without substantial further manufacturing (such as capsules, tablets, and lyophilized products before reconstitution), but for purposes of [section 360eee–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-1), does not include blood or blood components intended for transfusion, radioactive drugs or radioactive biological products (as defined in section 600.3(ee) of title 21, Code of Federal Regulations) that are regulated by the Nuclear Regulatory Commission or by a State pursuant to an agreement with such Commission under [section 2021 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2021&num=0&edition=prelim), imaging drugs, an intravenous product described in clause (xiv), (xv), or (xvi) of paragraph (24)(B), any medical gas (as defined in [section 360ddd of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ddd)), homeopathic drugs marketed in accordance with applicable guidance under this chapter, or a drug compounded in compliance with section 353a or 353b of this title.
+
+(14) **Product identifier** — The term “product identifier” means a standardized graphic that includes, in both human-readable form and on a machine-readable data carrier that conforms to the standards developed by a widely recognized international standards development organization, the standardized numerical identifier, lot number, and expiration date of the product.
+
+(15) **Quarantine** — The term “quarantine” means the storage or identification of a product, to prevent distribution or transfer of the product, in a physically separate area clearly identified for such use or through other procedures.
+
+(16) **Repackager** — The term “repackager” means a person who owns or operates an establishment that repacks and relabels a product or package for—
+
+  (A) further sale; or
+
+  (B) distribution without a further transaction.
+
+(17) **Return** — The term “return” means providing product to the authorized immediate trading partner from which such product was purchased or received, or to a returns processor or reverse logistics provider for handling of such product.
+
+(18) **Returns processor or reverse logistics provider** — The term “returns processor” or “reverse logistics provider” means a person who owns or operates an establishment that dispositions or otherwise processes saleable or nonsaleable product received from an authorized trading partner such that the product may be processed for credit to the purchaser, manufacturer, or seller or disposed of for no further distribution.
+
+(19) **Specific patient need** — The term “specific patient need” refers to the transfer of a product from one pharmacy to another to fill a prescription for an identified patient. Such term does not include the transfer of a product from one pharmacy to another for the purpose of increasing or replenishing stock in anticipation of a potential need.
+
+(20) **Standardized numerical identifier** — The term “standardized numerical identifier” means a set of numbers or characters used to uniquely identify each package or homogenous case that is composed of the National Drug Code that corresponds to the specific product (including the particular package configuration) combined with a unique alphanumeric serial number of up to 20 characters.
+
+(21) **Suspect product** — The term “suspect product” means a product for which there is reason to believe that such product—
+
+  (A) is potentially counterfeit, diverted, or stolen;
+
+  (B) is potentially intentionally adulterated such that the product would result in serious adverse health consequences or death to humans;
+
+  (C) is potentially the subject of a fraudulent transaction; or
+
+  (D) appears otherwise unfit for distribution such that the product would result in serious adverse health consequences or death to humans.
+
+(22) **Third-party logistics provider** — The term “third-party logistics provider” means an entity that provides or coordinates warehousing, or other logistics services of a product in interstate commerce on behalf of a manufacturer, wholesale distributor, or dispenser of a product, but does not take ownership of the product, nor have responsibility to direct the sale or disposition of the product.
+
+(23) **Trading partner** — The term “trading partner” means—
+
+  (A) a manufacturer, repackager, wholesale distributor, or dispenser from whom a manufacturer, repackager, wholesale distributor, or dispenser accepts direct ownership of a product or to whom a manufacturer, repackager, wholesale distributor, or dispenser transfers direct ownership of a product; or
+
+  (B) a third-party logistics provider from whom a manufacturer, repackager, wholesale distributor, or dispenser accepts direct possession of a product or to whom a manufacturer, repackager, wholesale distributor, or dispenser transfers direct possession of a product.
+
+(24) **Transaction**
+
+  (A) *In general* — The term “transaction” means the transfer of product between persons in which a change of ownership occurs.
+
+  (B) *Exemptions* — The term “transaction” does not include—
+
+    (i) intracompany distribution of any product between members of an affiliate or within a manufacturer;
+
+    (ii) the distribution of a product among hospitals or other health care entities that are under common control;
+
+    (iii) the distribution of a product for emergency medical reasons including a public health emergency declaration pursuant to [section 247d of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim), except that a drug shortage not caused by a public health emergency shall not constitute an emergency medical reason;
+
+    (iv) the dispensing of a product pursuant to a prescription executed in accordance with [section 353(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/1&num=0&edition=prelim);
+
+    (v) the distribution of product samples by a manufacturer or a licensed wholesale distributor in accordance with [section 353(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/d&num=0&edition=prelim);
+
+    (vi) the distribution of blood or blood components intended for transfusion;
+
+    (vii) the distribution of minimal quantities of product by a licensed retail pharmacy to a licensed practitioner for office use;
+
+    (viii) the sale, purchase, or trade of a drug or an offer to sell, purchase, or trade a drug by a charitable organization described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) to a nonprofit affiliate of the organization to the extent otherwise permitted by law;
+
+    (ix) the distribution of a product pursuant to the sale or merger of a pharmacy or pharmacies or a wholesale distributor or wholesale distributors, except that any records required to be maintained for the product shall be transferred to the new owner of the pharmacy or pharmacies or wholesale distributor or wholesale distributors;
+
+    (x) the dispensing of a product approved under [section 360b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/c&num=0&edition=prelim);
+
+    (xi) products transferred to or from any facility that is licensed by the Nuclear Regulatory Commission or by a State pursuant to an agreement with such Commission under [section 2021 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2021&num=0&edition=prelim);
+
+    (xii) a combination product that is not subject to approval under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or licensure under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), and that is—
+
+      (I) a product comprised of a device and 1 or more other regulated components (such as a drug/device, biologic/device, or drug/device/biologic) that are physically, chemically, or otherwise combined or mixed and produced as a single entity;
+
+      (II) 2 or more separate products packaged together in a single package or as a unit and comprised of a drug and device or device and biological product; or
+
+      (III) 2 or more finished medical devices plus one or more drug or biological products that are packaged together in what is referred to as a “medical convenience kit” as described in clause (xiii);
+
+    (xiii) the distribution of a collection of finished medical devices, which may include a product or biological product, assembled in kit form strictly for the convenience of the purchaser or user (referred to in this clause as a “medical convenience kit”) if—
+
+      (I) the medical convenience kit is assembled in an establishment that is registered with the Food and Drug Administration as a device manufacturer in accordance with [section 360(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/b/2&num=0&edition=prelim);
+
+      (II) the medical convenience kit does not contain a controlled substance that appears in a schedule contained in the Comprehensive Drug Abuse Prevention and Control Act of 1970 [[21 U.S.C. 801](./chapter-013-drug-abuse-prevention-and-control.md#section-801) et seq.];
+
+      (III) in the case of a medical convenience kit that includes a product, the person that manufacturers the kit—
+
+        (aa) purchased such product directly from the pharmaceutical manufacturer or from a wholesale distributor that purchased the product directly from the pharmaceutical manufacturer; and
+
+        (bb) does not alter the primary container or label of the product as purchased from the manufacturer or wholesale distributor; and
+
+      (IV) in the case of a medical convenience kit that includes a product, the product is—
+
+        (aa) an intravenous solution intended for the replenishment of fluids and electrolytes;
+
+        (bb) a product intended to maintain the equilibrium of water and minerals in the body;
+
+        (cc) a product intended for irrigation or reconstitution;
+
+        (dd) an anesthetic;
+
+        (ee) an anticoagulant;
+
+        (ff) a vasopressor; or
+
+        (gg) a sympathomimetic;
+
+    (xiv) the distribution of an intravenous product that, by its formulation, is intended for the replenishment of fluids and electrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);
+
+    (xv) the distribution of an intravenous product used to maintain the equilibrium of water and minerals in the body, such as dialysis solutions;
+
+    (xvi) the distribution of a product that is intended for irrigation, or sterile water, whether intended for such purposes or for injection;
+
+    (xvii) the distribution of a medical gas (as defined in [section 360ddd of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ddd)); or
+
+    (xviii) the distribution or sale of any licensed product under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) that meets the definition of a device under [section 321(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/h&num=0&edition=prelim).
+
+(25) **Transaction history** — The term “transaction history” means a statement in paper or electronic form, including the transaction information for each prior transaction going back to the manufacturer of the product.
+
+(26) **Transaction information** — The term “transaction information” means—
+
+  (A) the proprietary or established name or names of the product;
+
+  (B) the strength and dosage form of the product;
+
+  (C) the National Drug Code number of the product;
+
+  (D) the container size;
+
+  (E) the number of containers;
+
+  (F) the lot number of the product;
+
+  (G) the date of the transaction;
+
+  (H) the date of the shipment, if more than 24 hours after the date of the transaction;
+
+  (I) the business name and address of the person from whom ownership is being transferred; and
+
+  (J) the business name and address of the person to whom ownership is being transferred.
+
+(27) **Transaction statement** — The “transaction statement” is a statement, in paper or electronic form, that the entity transferring ownership in a transaction—
+
+  (A) is authorized as required under the Drug Supply Chain Security Act;
+
+  (B) received the product from a person that is authorized as required under the Drug Supply Chain Security Act;
+
+  (C) received transaction information and a transaction statement from the prior owner of the product, as required under [section 360eee–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-1);
+
+  (D) did not knowingly ship a suspect or illegitimate product;
+
+  (E) had systems and processes in place to comply with verification requirements under [section 360eee–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-1);
+
+  (F) did not knowingly provide false transaction information; and
+
+  (G) did not knowingly alter the transaction history.
+
+(28) **Verification or verify** — The term “verification” or “verify” means determining whether the product identifier affixed to, or imprinted upon, a package or homogeneous case corresponds to the standardized numerical identifier or lot number and expiration date assigned to the product by the manufacturer or the repackager, as applicable in accordance with [section 360eee–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-1).
+
+(29) **Wholesale distributor** — The term “wholesale distributor” means a person (other than a manufacturer, a manufacturer’s co-licensed partner, a third-party logistics provider, or repackager) engaged in wholesale distribution (as defined in [section 353(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e/4&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### References in Text
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in par. (24)(B)(xiii)(II), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+
+The Drug Supply Chain Security Act, referred to in par. (27)(A), (B), is Pub. L. 113–54, title II, Nov. 27, 2013, 127 Stat. 599. For complete classification of this Act to the Code, see Short Title note set out under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+
+
+<a id="section-360eee-1"></a>
+## § 360eee–1. Requirements
+**(a) In general**
+
+(1) **Other activities** — Each manufacturer, repackager, wholesale distributor, and dispenser shall comply with the requirements set forth in this section with respect to the role of such manufacturer, repackager, wholesale distributor, or dispenser in a transaction involving product. If an entity meets the definition of more than one of the entities listed in the preceding sentence, such entity shall comply with all applicable requirements in this section, but shall not be required to duplicate requirements.
+
+(2) **Initial standards**
+
+  (A) *In general* — The Secretary shall, in consultation with other appropriate Federal officials, manufacturers, repackagers, wholesale distributors, dispensers, and other pharmaceutical distribution supply chain stakeholders, issue a draft guidance document that establishes standards for the interoperable exchange of transaction information, transaction history, and transaction statements, in paper or electronic format, for compliance with this subsection and subsections (b), (c), (d), and (e). In establishing such standards, the Secretary shall consider the feasibility of establishing standardized documentation to be used by members of the pharmaceutical distribution supply chain to convey the transaction information, transaction history, and transaction statement to the subsequent purchaser of a product and to facilitate the exchange of lot level data. The standards established under this paragraph shall take into consideration the standards established under [section 355e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355e) and shall comply with a form and format developed by a widely recognized international standards development organization.
+
+  (B) *Public input* — Prior to issuing the draft guidance under subparagraph (A), the Secretary shall gather comments and information from stakeholders and maintain such comments and information in a public docket for at least 60 days prior to issuing such guidance.
+
+  (C) *Publication* — The Secretary shall publish the standards established under subparagraph (A) not later than 1 year after November 27, 2013.
+
+(3) **Waivers, exceptions, and exemptions**
+
+  (A) *In general* — Not later than 2 years after November 27, 2013, the Secretary shall, by guidance—
+
+    (i) establish a process by which an authorized manufacturer, repackager, wholesale distributor, or dispenser may request a waiver from any of the requirements set forth in this section, which the Secretary may grant if the Secretary determines that such requirements would result in an undue economic hardship or for emergency medical reasons, including a public health emergency declaration pursuant to [section 247d of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim);
+
+    (ii) establish a process by which the Secretary determines exceptions, and a process through which a manufacturer or repackager may request such an exception, to the requirements relating to product identifiers if a product is packaged in a container too small or otherwise unable to accommodate a label with sufficient space to bear the information required for compliance with this section; and
+
+    (iii) establish a process by which the Secretary may determine other products or transactions that shall be exempt from the requirements of this section.
+
+  (B) *Content* — The guidance issued under subparagraph (A) shall include a process for the biennial review and renewal of such waivers, exceptions, and exemptions, as applicable.
+
+  (C) *Process* — In issuing the guidance under this paragraph, the Secretary shall provide an effective date that is not later than 180 days prior to the date on which manufacturers are required to affix or imprint a product identifier to each package and homogenous case of product intended to be introduced in a transaction into commerce consistent with this section.
+
+(4) **Self-executing requirements** — Except where otherwise specified, the requirements of this section may be enforced without further regulations or guidance from the Secretary.
+
+(5) **Grandfathering product**
+
+  (A) *Product identifier* — Not later than 2 years after November 27, 2013, the Secretary shall finalize guidance specifying whether and under what circumstances product that is not labeled with a product identifier and that is in the pharmaceutical distribution supply chain at the time of the effective date of the requirements of this section shall be exempted from the requirements of this section.
+
+  (B) *Tracing* — For a product that entered the pharmaceutical distribution supply chain prior to January 1, 2015—
+
+    (i) authorized trading partners shall be exempt from providing transaction information as required under subsections (b)(1)(A)(i), (c)(1)(A)(ii), (d)(1)(A)(ii), and (e)(1)(A)(ii);
+
+    (ii) transaction history required under this section shall begin with the owner of such product on such date; and
+
+    (iii) the owners of such product on such date shall be exempt from asserting receipt of transaction information and transaction statement from the prior owner as required under this section.
+
+(6) **Wholesale distributor licenses** — Notwithstanding [section 360eee(9)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee/9/A&num=0&edition=prelim), until the effective date of the wholesale distributor licensing regulations under [section 360eee–2 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-2), the term “licensed” or “authorized”, as it relates to a wholesale distributor with respect to prescription drugs, shall mean a wholesale distributor with a valid license under State law.
+
+(7) **Third-party logistics provider licenses** — Until the effective date of the third-party logistics provider licensing regulations under [section 360eee–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-3), a third-party logistics provider shall be considered “licensed” under [section 360eee(9)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee/9/B&num=0&edition=prelim) unless the Secretary has made a finding that the third-party logistics provider does not utilize good handling and distribution practices and publishes notice thereof.
+
+(8) **Label changes** — Changes made to package labels solely to incorporate the product identifier may be submitted to the Secretary in the annual report of an establishment, in accordance with section 314.70(d) of chapter 11 So in original. Probably should be “title”. 21, Code of Federal Regulations (or any successor regulation).
+
+(9) **Product identifiers** — With respect to any requirement relating to product identifiers under this part—
+
+  (A) unless the Secretary allows, through guidance, the use of other technologies for data instead of or in addition to the technologies described in clauses (i) and (ii), the applicable data—
+
+    (i) shall be included in a 2-dimensional data matrix barcode when affixed to, or imprinted upon, a package; and
+
+    (ii) shall be included in a linear or 2-dimensional data matrix barcode when affixed to, or imprinted upon, a homogeneous case; and
+
+  (B) verification of the product identifier may occur by using human-readable or machine-readable methods.
+
+**(b) Manufacturer requirements**
+
+(1) **Product tracing**
+
+  (A) *In general* — Beginning not later than January 1, 2015, a manufacturer shall—
+
+    (i) prior to, or at the time of, each transaction in which such manufacturer transfers ownership of a product, provide the subsequent owner with transaction history, transaction information, and a transaction statement, in a single document in an 22 So in original. Probably should be “a”. paper or electronic format; and
+
+    (ii) capture the transaction information (including lot level information), transaction history, and transaction statement for each transaction and maintain such information, history, and statement for not less than 6 years after the date of the transaction.
+
+  (B) *Requests for information* — Upon a request by the Secretary or other appropriate Federal or State official, in the event of a recall or for the purpose of investigating a suspect product or an illegitimate product, a manufacturer shall, not later than 1 business day, and not to exceed 48 hours, after receiving the request, or in other such reasonable time as determined by the Secretary, based on the circumstances of the request, provide the applicable transaction information, transaction history, and transaction statement for the product.
+
+  (C) *Electronic format*
+
+    (i) *In general* — Beginning not later than 4 years after November 27, 2013, except as provided under clause (ii), a manufacturer shall provide the transaction information, transaction history, and transaction statement required under subparagraph (A)(i) in electronic format.
+
+    (ii) *Exception* — A manufacturer may continue to provide the transaction information, transaction history, and transaction statement required under subparagraph (A)(i) in a paper format to a licensed health care practitioner authorized to prescribe medication under State law or other licensed individual under the supervision or direction of such a practitioner who dispenses product in the usual course of professional practice.
+
+(2) **Product identifier**
+
+  (A) *In general* — Beginning not later than 4 years after November 27, 2013, a manufacturer shall affix or imprint a product identifier to each package and homogenous case of a product intended to be introduced in a transaction into commerce. Such manufacturer shall maintain the product identifier information for such product for not less than 6 years after the date of the transaction.
+
+  (B) *Exception* — A package that is required to have a standardized numerical identifier is not required to have a unique device identifier.
+
+(3) **Authorized trading partners** — Beginning not later than January 1, 2015, the trading partners of a manufacturer may be only authorized trading partners.
+
+(4) **Verification** — Beginning not later than January 1, 2015, a manufacturer shall have systems in place to enable the manufacturer to comply with the following requirements:
+
+  (A) *Suspect product*
+
+    (i) *In general* — Upon making a determination that a product in the possession or control of the manufacturer is a suspect product, or upon receiving a request for verification from the Secretary that has made a determination that a product within the possession or control of a manufacturer is a suspect product, a manufacturer shall—
+
+      (I) quarantine such product within the possession or control of the manufacturer from product intended for distribution until such product is cleared or dispositioned; and
+
+      (II) promptly conduct an investigation in coordination with trading partners, as applicable, to determine whether the product is an illegitimate product, which shall include validating any applicable transaction history and transaction information in the possession of the manufacturer and otherwise investigating to determine whether the product is an illegitimate product, and, beginning 4 years after November 27, 2013, verifying the product at the package level, including the standardized numerical identifier.
+
+    (ii) *Cleared product* — If the manufacturer makes the determination that a suspect product is not an illegitimate product, the manufacturer shall promptly notify the Secretary, if applicable, of such determination and such product may be further distributed.
+
+    (iii) *Records* — A manufacturer shall keep records of the investigation of a suspect product for not less than 6 years after the conclusion of the investigation.
+
+  (B) *Illegitimate product*
+
+    (i) *In general* — Upon determining that a product in the possession or control of a manufacturer is an illegitimate product, the manufacturer shall, in a manner consistent with the systems and processes of such manufacturer—
+
+      (I) quarantine such product within the possession or control of the manufacturer from product intended for distribution until such product is dispositioned;
+
+      (II) disposition the illegitimate product within the possession or control of the manufacturer;
+
+      (III) take reasonable and appropriate steps to assist a trading partner to disposition an illegitimate product not in the possession or control of the manufacturer; and
+
+      (IV) retain a sample of the product for further physical examination or laboratory analysis of the product by the manufacturer or Secretary (or other appropriate Federal or State official) upon request by the Secretary (or other appropriate Federal or State official), as necessary and appropriate.
+
+    (ii) *Making a notification*
+
+      (I) *Illegitimate product* — Upon determining that a product in the possession or control of the manufacturer is an illegitimate product, the manufacturer shall notify the Secretary and all immediate trading partners that the manufacturer has reason to believe may have received such illegitimate product of such determination not later than 24 hours after making such determination.
+
+      (II) *High risk of illegitimacy* — A manufacturer shall notify the Secretary and immediate trading partners that the manufacturer has reason to believe may have in the trading partner’s possession a product manufactured by, or purported to be a product manufactured by, the manufacturer not later than 24 hours after determining or being notified by the Secretary or a trading partner that there is a high risk that such product is an illegitimate product. For purposes of this subclause, a “high risk” may include a specific high risk that could increase the likelihood that illegitimate product will enter the pharmaceutical distribution supply chain and other high risks as determined by the Secretary in guidance pursuant to subsection (h).
+
+    (iii) *Responding to a notification* — Upon the receipt of a notification from the Secretary or a trading partner that a determination has been made that a product is an illegitimate product, a manufacturer shall identify all illegitimate product subject to such notification that is in the possession or control of the manufacturer, including any product that is subsequently received, and shall perform the activities described in subparagraph (A).
+
+    (iv) *Terminating a notification* — Upon making a determination, in consultation with the Secretary, that a notification is no longer necessary, a manufacturer shall promptly notify immediate trading partners that the manufacturer notified pursuant to clause (ii) that such notification has been terminated.
+
+    (v) *Records* — A manufacturer shall keep records of the disposition of an illegitimate product for not less than 6 years after the conclusion of the disposition.
+
+  (C) *Requests for verification* — Beginning 4 years after November 27, 2013, upon receiving a request for verification from an authorized repackager, wholesale distributor, or dispenser that is in possession or control of a product such person believes to be manufactured by such manufacturer, a manufacturer shall, not later than 24 hours after receiving the request for verification or in other such reasonable time as determined by the Secretary, based on the circumstances of the request, notify the person making the request whether the product identifier, including the standardized numerical identifier, that is the subject of the request corresponds to the product identifier affixed or imprinted by the manufacturer. If a manufacturer responding to a request for verification identifies a product identifier that does not correspond to that affixed or imprinted by the manufacturer, the manufacturer shall treat such product as suspect product and conduct an investigation as described in subparagraph (A). If the manufacturer has reason to believe the product is an illegitimate product, the manufacturer shall advise the person making the request of such belief at the time such manufacturer responds to the request for verification.
+
+  (D) *Electronic database* — A manufacturer may satisfy the requirements of this paragraph by developing a secure electronic database or utilizing a secure electronic database developed or operated by another entity. The owner of such database shall establish the requirements and processes to respond to requests and may provide for data access to other members of the pharmaceutical distribution supply chain, as appropriate. The development and operation of such a database shall not relieve a manufacturer of the requirement under this paragraph to respond to a request for verification submitted by means other than a secure electronic database.
+
+  (E) *Saleable returned product* — Beginning 4 years after November 27, 2013 (except as provided pursuant to subsection (a)(5)), upon receipt of a returned product that the manufacturer intends to further distribute, before further distributing such product, the manufacturer shall verify the product identifier, including the standardized numerical identifier, for each sealed homogeneous case of such product or, if such product is not in a sealed homogeneous case, verify the product identifier, including the standardized numerical identifier, on each package.
+
+  (F) *Nonsaleable returned product* — A manufacturer may return a nonsaleable product to the manufacturer or repackager, to the wholesale distributor from whom such product was purchased, or to a person acting on behalf of such a person, including a returns processor, without providing the information described in paragraph (1)(A)(i).
+
+**(c) Wholesale distributor requirements**
+
+(1) **Product tracing**
+
+  (A) *In general* — Beginning not later than January 1, 2015, the following requirements shall apply to wholesale distributors:
+
+    (i) A wholesale distributor shall not accept ownership of a product unless the previous owner prior to, or at the time of, the transaction provides the transaction history, transaction information, and a transaction statement for the product, as applicable under this subparagraph.
+
+    (ii)
+
+      (I)
+
+        (aa) If the wholesale distributor purchased a product directly from the manufacturer, the exclusive distributor of the manufacturer, or a repackager that purchased directly from the manufacturer, then prior to, or at the time of, each transaction in which the wholesale distributor transfers ownership of a product, the wholesale distributor shall provide to the subsequent purchaser—
+
+          (AA) a transaction statement, which shall state that such wholesale distributor, or a member of the affiliate of such wholesale distributor, purchased the product directly from the manufacturer, exclusive distributor of the manufacturer, or repackager that purchased the product directly from the manufacturer; and
+
+          (BB) subject to subclause (II), the transaction history and transaction information.
+
+        (bb) The wholesale distributor shall provide the transaction history, transaction information, and transaction statement under item (aa)—
+
+          (AA) if provided to a dispenser, on a single document in a paper or electronic format; and
+
+          (BB) if provided to a wholesale distributor, through any combination of self-generated paper, electronic data, or manufacturer-provided information on the product package.
+
+      (II) For purposes of transactions described in subclause (I), transaction history and transaction information shall not be required to include the lot number of the product, the initial transaction date, or the initial shipment date from the manufacturer (as defined in subparagraphs (F), (G), and (H) of [section 360eee(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee/26&num=0&edition=prelim)).
+
+    (iii) If the wholesale distributor did not purchase a product directly from the manufacturer, the exclusive distributor of the manufacturer, or a repackager that purchased directly from the manufacturer, as described in clause (ii), then prior to, or at the time of, each transaction or subsequent transaction, the wholesale distributor shall provide to the subsequent purchaser a transaction statement, transaction history, and transaction information, in a paper or electronic format that complies with the guidance document issued under subsection (a)(2).
+
+    (iv) For the purposes of clause (iii), the transaction history supplied shall begin only with the wholesale distributor described in clause (ii)(I), but the wholesale distributor described in clause (iii) shall inform the subsequent purchaser that such wholesale distributor received a direct purchase statement from a wholesale distributor described in clause (ii)(I).
+
+    (v) A wholesale distributor shall—
+
+      (I) capture the transaction information (including lot level information) consistent with the requirements of this section, transaction history, and transaction statement for each transaction described in clauses (i), (ii), and (iii) and maintain such information, history, and statement for not less than 6 years after the date of the transaction; and
+
+      (II) maintain the confidentiality of the transaction information (including any lot level information consistent with the requirements of this section), transaction history, and transaction statement for a product in a manner that prohibits disclosure to any person other than the Secretary or other appropriate Federal or State official, except to comply with clauses (ii) and (iii), and, as applicable, pursuant to an agreement under subparagraph (D).
+
+  (B) *Returns*
+
+    (i) *Saleable returns* — Notwithstanding subparagraph (A)(i), the following shall apply:
+
+      (I) *Requirements* — Until the date that is 6 years after November 27, 2013 (except as provided pursuant to subsection (a)(5)), a wholesale distributor may accept returned product from a dispenser or repackager pursuant to the terms and conditions of any agreement between the parties, and, notwithstanding subparagraph (A)(ii), may distribute such returned product without providing the transaction history. For transactions subsequent to the return, the transaction history of such product shall begin with the wholesale distributor that accepted the returned product, consistent with the requirements of this subsection.
+
+      (II) *Enhanced requirements* — Beginning 6 years after November 27, 2013 (except as provided pursuant to subsection (a)(5)), a wholesale distributor may accept returned product from a dispenser or repackager only if the wholesale distributor can associate returned product with the transaction information and transaction statement associated with that product. For all transactions after such date, the transaction history, as applicable, of such product shall begin with the wholesale distributor that accepted and verified the returned product. For purposes of this subparagraph, the transaction information and transaction history, as applicable, need not include transaction dates if it is not reasonably practicable to obtain such dates.
+
+    (ii) *Nonsaleable returns* — A wholesale distributor may return a nonsaleable product to the manufacturer or repackager, to the wholesale distributor from whom such product was purchased, or to a person acting on behalf of such a person, including a returns processor, without providing the information required under subparagraph (A)(i).
+
+  (C) *Requests for information* — Upon a request by the Secretary or other appropriate Federal or State official, in the event of a recall or for the purpose of investigating a suspect product or an illegitimate product, a wholesale distributor shall, not later than 1 business day, and not to exceed 48 hours, after receiving the request or in other such reasonable time as determined by the Secretary, based on the circumstances of the request, provide the applicable transaction information, transaction history, and transaction statement for the product.
+
+  (D) *Trading partner agreements* — Beginning 6 years after November 27, 2013, a wholesale distributor may disclose the transaction information, including lot level information, transaction history, or transaction statement of a product to the subsequent purchaser of the product, pursuant to a written agreement between such wholesale distributor and such subsequent purchaser. Nothing in this subparagraph shall be construed to limit the applicability of subparagraphs (A) through (C).
+
+(2) **Product identifier** — Beginning 6 years after November 27, 2013, a wholesale distributor may engage in transactions involving a product only if such product is encoded with a product identifier (except as provided pursuant to subsection (a)(5)).
+
+(3) **Authorized trading partners** — Beginning not later than January 1, 2015, the trading partners of a wholesale distributor may be only authorized trading partners.
+
+(4) **Verification** — Beginning not later than January 1, 2015, a wholesale distributor shall have systems in place to enable the wholesale distributor to comply with the following requirements:
+
+  (A) *Suspect product*
+
+    (i) *In general* — Upon making a determination that a product in the possession or control of a wholesale distributor is a suspect product, or upon receiving a request for verification from the Secretary that has made a determination that a product within the possession or control of a wholesale distributor is a suspect product, a wholesale distributor shall—
+
+      (I) quarantine such product within the possession or control of the wholesale distributor from product intended for distribution until such product is cleared or dispositioned; and
+
+      (II) promptly conduct an investigation in coordination with trading partners, as applicable, to determine whether the product is an illegitimate product, which shall include validating any applicable transaction history and transaction information in the possession of the wholesale distributor and otherwise investigating to determine whether the product is an illegitimate product, and, beginning 6 years after November 27, 2013 (except as provided pursuant to subsection (a)(5)), verifying the product at the package level, including the standardized numerical identifier.
+
+    (ii) *Cleared product* — If the wholesale distributor determines that a suspect product is not an illegitimate product, the wholesale distributor shall promptly notify the Secretary, if applicable, of such determination and such product may be further distributed.
+
+    (iii) *Records* — A wholesale distributor shall keep records of the investigation of a suspect product for not less than 6 years after the conclusion of the investigation.
+
+  (B) *Illegitimate product*
+
+    (i) *In general* — Upon determining, in coordination with the manufacturer, that a product in the possession or control of a wholesale distributor is an illegitimate product, the wholesale distributor shall, in a manner that is consistent with the systems and processes of such wholesale distributor—
+
+      (I) quarantine such product within the possession or control of the wholesale distributor from product intended for distribution until such product is dispositioned;
+
+      (II) disposition the illegitimate product within the possession or control of the wholesale distributor;
+
+      (III) take reasonable and appropriate steps to assist a trading partner to disposition an illegitimate product not in the possession or control of the wholesale distributor; and
+
+      (IV) retain a sample of the product for further physical examination or laboratory analysis of the product by the manufacturer or Secretary (or other appropriate Federal or State official) upon request by the manufacturer or Secretary (or other appropriate Federal or State official), as necessary and appropriate.
+
+    (ii) *Making a notification* — Upon determining that a product in the possession or control of the wholesale distributor is an illegitimate product, the wholesale distributor shall notify the Secretary and all immediate trading partners that the wholesale distributor has reason to believe may have received such illegitimate product of such determination not later than 24 hours after making such determination.
+
+    (iii) *Responding to a notification* — Upon the receipt of a notification from the Secretary or a trading partner that a determination has been made that a product is an illegitimate product, a wholesale distributor shall identify all illegitimate product subject to such notification that is in the possession or control of the wholesale distributor, including any product that is subsequently received, and shall perform the activities described in subparagraph (A).
+
+    (iv) *Terminating a notification* — Upon making a determination, in consultation with the Secretary, that a notification is no longer necessary, a wholesale distributor shall promptly notify immediate trading partners that the wholesale distributor notified pursuant to clause (ii) that such notification has been terminated.
+
+    (v) *Records* — A wholesale distributor shall keep records of the disposition of an illegitimate product for not less than 6 years after the conclusion of the disposition.
+
+  (C) *Electronic database* — A wholesale distributor may satisfy the requirements of this paragraph by developing a secure electronic database or utilizing a secure electronic database developed or operated by another entity. The owner of such database shall establish the requirements and processes to respond to requests and may provide for data access to other members of the pharmaceutical distribution supply chain, as appropriate. The development and operation of such a database shall not relieve a wholesale distributor of the requirement under this paragraph to respond to a verification request submitted by means other than a secure electronic database.
+
+  (D) *Verification of saleable returned product* — Beginning 6 years after November 27, 2013, upon receipt of a returned product that the wholesale distributor intends to further distribute, before further distributing such product, the wholesale distributor shall verify the product identifier, including the standardized numerical identifier, for each sealed homogeneous case of such product or, if such product is not in a sealed homogeneous case, verify the product identifier, including the standardized numerical identifier, on each package.
+
+**(d) Dispenser requirements**
+
+(1) **Product tracing**
+
+  (A) *In general* — Beginning July 1, 2015, a dispenser—
+
+    (i) shall not accept ownership of a product, unless the previous owner prior to, or at the time of, the transaction, provides transaction history, transaction information, and a transaction statement;
+
+    (ii) prior to, or at the time of, each transaction in which the dispenser transfers ownership of a product (but not including dispensing to a patient or returns) shall provide the subsequent owner with transaction history, transaction information, and a transaction statement for the product, except that the requirements of this clause shall not apply to sales by a dispenser to another dispenser to fulfill a specific patient need; and
+
+    (iii) shall capture transaction information (including lot level information, if provided), transaction history, and transaction statements, as necessary to investigate a suspect product, and maintain such information, history, and statements for not less than 6 years after the transaction.
+
+  (B) *Agreements with third parties* — A dispenser may enter into a written agreement with a third party, including an authorized wholesale distributor, under which the third party confidentially maintains the transaction information, transaction history, and transaction statements required to be maintained under this subsection on behalf of the dispenser. If a dispenser enters into such an agreement, the dispenser shall maintain a copy of the written agreement and shall not be relieved of the obligations of the dispenser under this subsection.
+
+  (C) *Returns*
+
+    (i) *Saleable returns* — A dispenser may return product to the trading partner from which the dispenser obtained the product without providing the information required under subparagraph (A).
+
+    (ii) *Nonsaleable returns* — A dispenser may return a nonsaleable product to the manufacturer or repackager, to the wholesale distributor from whom such product was purchased, to a returns processor, or to a person acting on behalf of such a person without providing the information required under subparagraph (A).
+
+  (D) *Requests for information* — Upon a request by the Secretary or other appropriate Federal or State official, in the event of a recall or for the purpose of investigating a suspect or an illegitimate product, a dispenser shall, not later than 2 business days after receiving the request or in another such reasonable time as determined by the Secretary, based on the circumstances of the request, provide the applicable transaction information, transaction statement, and transaction history which the dispenser received from the previous owner, which shall not include the lot number of the product, the initial transaction date, or the initial shipment date from the manufacturer unless such information was included in the transaction information, transaction statement, and transaction history provided by the manufacturer or wholesale distributor to the dispenser. The dispenser may respond to the request by providing the applicable information in either paper or electronic format. Until the date that is 4 years after November 27, 2013, the Secretary or other appropriate Federal or State official shall grant a dispenser additional time, as necessary, only with respect to a request to provide lot level information described in subparagraph (F) of [section 360eee(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee/26&num=0&edition=prelim) that was provided to the dispenser in paper format, limit the request time period to the 6 months preceding the request or other relevant date, and, in the event of a recall, the Secretary, or other appropriate Federal or State official may request information only if such recall involves a serious adverse health consequence or death to humans.
+
+(2) **Product identifier** — Beginning not later than 7 years after November 27, 2013, a dispenser may engage in transactions involving a product only if such product is encoded with a product identifier (except as provided pursuant to subsection (a)(5)).
+
+(3) **Authorized trading partners** — Beginning not later than January 1, 2015, the trading partners of a dispenser may be only authorized trading partners.
+
+(4) **Verification** — Beginning not later than January 1, 2015, a dispenser shall have systems in place to enable the dispenser to comply with the following requirements:
+
+  (A) *Suspect product*
+
+    (i) *In general* — Upon making a determination that a product in the possession or control of the dispenser is a suspect product, or upon receiving a request for verification from the Secretary that has made a determination that a product within the possession or control of a dispenser is a suspect product, a dispenser shall—
+
+      (I) quarantine such product within the possession or control of the dispenser from product intended for distribution until such product is cleared or dispositioned; and
+
+      (II) promptly conduct an investigation in coordination with trading partners, as applicable, to determine whether the product is an illegitimate product.
+
+    (ii) *Investigation* — An investigation conducted under clause (i)(II) shall include—
+
+      (I) beginning 7 years after November 27, 2013, verifying whether the lot number of a suspect product corresponds with the lot number for such product;
+
+      (II) beginning 7 years after November 27, 2013, verifying that the product identifier, including the standardized numerical identifier, of at least 3 packages or 10 percent of such suspect product, whichever is greater, or all packages, if there are fewer than 3, corresponds with the product identifier for such product;
+
+      (III) validating any applicable transaction history and transaction information in the possession of the dispenser; and
+
+      (IV) otherwise investigating to determine whether the product is an illegitimate product.
+
+    (iii) *Cleared product* — If the dispenser makes the determination that a suspect product is not an illegitimate product, the dispenser shall promptly notify the Secretary, if applicable, of such determination and such product may be further distributed or dispensed.
+
+    (iv) *Records* — A dispenser shall keep records of the investigation of a suspect product for not less than 6 years after the conclusion of the investigation.
+
+  (B) *Illegitimate product*
+
+    (i) *In general* — Upon determining, in coordination with the manufacturer, that a product in the possession or control of a dispenser is an illegitimate product, the dispenser shall—
+
+      (I) disposition the illegitimate product within the possession or control of the dispenser;
+
+      (II) take reasonable and appropriate steps to assist a trading partner to disposition an illegitimate product not in the possession or control of the dispenser; and
+
+      (III) retain a sample of the product for further physical examination or laboratory analysis of the product by the manufacturer or Secretary (or other appropriate Federal or State official) upon request by the manufacturer or Secretary (or other appropriate Federal or State official), as necessary and appropriate.
+
+    (ii) *Making a notification* — Upon determining that a product in the possession or control of the dispenser is an illegitimate product, the dispenser shall notify the Secretary and all immediate trading partners that the dispenser has reason to believe may have received such illegitimate product of such determination not later than 24 hours after making such determination.
+
+    (iii) *Responding to a notification* — Upon the receipt of a notification from the Secretary or a trading partner that a determination has been made that a product is an illegitimate product, a dispenser shall identify all illegitimate product subject to such notification that is in the possession or control of the dispenser, including any product that is subsequently received, and shall perform the activities described in subparagraph (A).
+
+    (iv) *Terminating a notification* — Upon making a determination, in consultation with the Secretary, that a notification is no longer necessary, a dispenser shall promptly notify immediate trading partners that the dispenser notified pursuant to clause (ii) that such notification has been terminated.
+
+    (v) *Records* — A dispenser shall keep records of the disposition of an illegitimate product for not less than 6 years after the conclusion of the disposition.
+
+  (C) *Electronic database* — A dispenser may satisfy the requirements of this paragraph by developing a secure electronic database or utilizing a secure electronic database developed or operated by another entity.
+
+(5) **Exception** — Notwithstanding any other provision of law, the requirements under paragraphs (1) and (4) shall not apply to licensed health care practitioners authorized to prescribe or administer medication under State law or other licensed individuals under the supervision or direction of such practitioners who dispense or administer product in the usual course of professional practice.
+
+**(e) Repackager requirements**
+
+(1) **Product tracing**
+
+  (A) *In general* — Beginning not later than January 1, 2015, a repackager described in [section 360eee(16)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee/16/A&num=0&edition=prelim) shall—
+
+    (i) not accept ownership of a product unless the previous owner, prior to, or at the time of, the transaction, provides transaction history, transaction information, and a transaction statement for the product;
+
+    (ii) prior to, or at the time of, each transaction in which the repackager transfers ownership of a product, provide the subsequent owner with transaction history, transaction information, and a transaction statement for the product; and
+
+    (iii) capture the transaction information (including lot level information), transaction history, and transaction statement for each transaction described in clauses (i) and (ii) and maintain such information, history, and statement for not less than 6 years after the transaction.
+
+  (B) *Returns*
+
+    (i) *Nonsaleable product* — A repackager described in [section 360eee(16)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee/16/A&num=0&edition=prelim) may return a nonsaleable product to the manufacturer or repackager, or to the wholesale distributor from whom such product was purchased, or to a person acting on behalf of such a person, including a returns processor, without providing the information required under subparagraph (A)(ii).
+
+    (ii) *Saleable or nonsaleable product* — A repackager described in [section 360eee(16)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee/16/B&num=0&edition=prelim) may return a saleable or nonsaleable product to the manufacturer, repackager, or to the wholesale distributor from whom such product was received without providing the information required under subparagraph (A)(ii) on behalf of the hospital or other health care entity that took ownership of such product pursuant to the terms and conditions of any agreement between such repackager and the entity that owns the product.
+
+  (C) *Requests for information* — Upon a request by the Secretary or other appropriate Federal or State official, in the event of a recall or for the purpose of investigating a suspect product or an illegitimate product, a repackager described in [section 360eee(16)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee/16/A&num=0&edition=prelim) shall, not later than 1 business day, and not to exceed 48 hours, after receiving the request or in other such reasonable time as determined by the Secretary, provide the applicable transaction information, transaction history, and transaction statement for the product.
+
+(2) **Product identifier**
+
+  (A) *In general* — Beginning not later than 5 years after November 27, 2013, a repackager described in [section 360eee(16)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee/16/A&num=0&edition=prelim)—
+
+    (i) shall affix or imprint a product identifier to each package and homogenous case of product intended to be introduced in a transaction in commerce;
+
+    (ii) shall maintain the product identifier information for such product for not less than 6 years after the date of the transaction;
+
+    (iii) may engage in transactions involving a product only if such product is encoded with a product identifier (except as provided pursuant to subsection (a)(5)); and
+
+    (iv) shall maintain records for not less than 6 years to allow the repackager to associate the product identifier the repackager affixes or imprints with the product identifier assigned by the original manufacturer of the product.
+
+  (B) *Exception* — A package that is required to have a standardized numerical identifier is not required to have a unique device identifier.
+
+(3) **Authorized trading partners** — Beginning January 1, 2015, the trading partners of a repackager described in [section 360eee(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee/16&num=0&edition=prelim) may be only authorized trading partners.
+
+(4) **Verification** — Beginning not later than January 1, 2015, a repackager described in [section 360eee(16)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360eee/16/A&num=0&edition=prelim) shall have systems in place to enable the repackager to comply with the following requirements:
+
+  (A) *Suspect product*
+
+    (i) *In general* — Upon making a determination that a product in the possession or control of the repackager is a suspect product, or upon receiving a request for verification from the Secretary that has made a determination that a product within the possession or control of a repackager is a suspect product, a repackager shall—
+
+      (I) quarantine such product within the possession or control of the repackager from product intended for distribution until such product is cleared or dispositioned; and
+
+      (II) promptly conduct an investigation in coordination with trading partners, as applicable, to determine whether the product is an illegitimate product, which shall include validating any applicable transaction history and transaction information in the possession of the repackager and otherwise investigating to determine whether the product is an illegitimate product, and, beginning 5 years after November 27, 2013 (except as provided pursuant to subsection (a)(5)), verifying the product at the package level, including the standardized numerical identifier.
+
+    (ii) *Cleared product* — If the repackager makes the determination that a suspect product is not an illegitimate product, the repackager shall promptly notify the Secretary, if applicable, of such determination and such product may be further distributed.
+
+    (iii) *Records* — A repackager shall keep records of the investigation of a suspect product for not less than 6 years after the conclusion of the investigation.
+
+  (B) *Illegitimate product*
+
+    (i) *In general* — Upon determining, in coordination with the manufacturer, that a product in the possession or control of a repackager is an illegitimate product, the repackager shall, in a manner that is consistent with the systems and processes of such repackager—
+
+      (I) quarantine such product within the possession or control of the repackager from product intended for distribution until such product is dispositioned;
+
+      (II) disposition the illegitimate product within the possession or control of the repackager;
+
+      (III) take reasonable and appropriate steps to assist a trading partner to disposition an illegitimate product not in the possession or control of the repackager; and
+
+      (IV) retain a sample of the product for further physical examination or laboratory analysis of the product by the manufacturer or Secretary (or other appropriate Federal or State official) upon request by the manufacturer or Secretary (or other appropriate Federal or State official), as necessary and appropriate.
+
+    (ii) *Making a notification* — Upon determining that a product in the possession or control of the repackager is an illegitimate product, the repackager shall notify the Secretary and all immediate trading partners that the repackager has reason to believe may have received the illegitimate product of such determination not later than 24 hours after making such determination.
+
+    (iii) *Responding to a notification* — Upon the receipt of a notification from the Secretary or a trading partner, a repackager shall identify all illegitimate product subject to such notification that is in the possession or control of the repackager, including any product that is subsequently received, and shall perform the activities described in subparagraph (A).
+
+    (iv) *Terminating a notification* — Upon making a determination, in consultation with the Secretary, that a notification is no longer necessary, a repackager shall promptly notify immediate trading partners that the repackager notified pursuant to clause (ii) that such notification has been terminated.
+
+    (v) *Records* — A repackager shall keep records of the disposition of an illegitimate product for not less than 6 years after the conclusion of the disposition.
+
+  (C) *Requests for verification* — Beginning 5 years after November 27, 2013, upon receiving a request for verification from an authorized manufacturer, wholesale distributor, or dispenser that is in possession or control of a product they believe to be repackaged by such repackager, a repackager shall, not later than 24 hours after receiving the verification request or in other such reasonable time as determined by the Secretary, based on the circumstances of the request, notify the person making the request whether the product identifier, including the standardized numerical identifier, that is the subject of the request corresponds to the product identifier affixed or imprinted by the repackager. If a repackager responding to a verification request identifies a product identifier that does not correspond to that affixed or imprinted by the repackager, the repackager shall treat such product as suspect product and conduct an investigation as described in subparagraph (A). If the repackager has reason to believe the product is an illegitimate product, the repackager shall advise the person making the request of such belief at the time such repackager responds to the verification request.
+
+  (D) *Electronic database* — A repackager may satisfy the requirements of paragraph (4) by developing a secure electronic database or utilizing a secure electronic database developed or operated by another entity. The owner of such database shall establish the requirements and processes to respond to requests and may provide for data access to other members of the pharmaceutical distribution supply chain, as appropriate. The development and operation of such a database shall not relieve a repackager of the requirement under subparagraph (C) to respond to a verification request submitted by means other than a secure electronic database.
+
+  (E) *Verification of saleable returned product* — Beginning 5 years after November 27, 2013, upon receipt of a returned product that the repackager intends to further distribute, before further distributing such product, the repackager shall verify the product identifier for each sealed homogeneous case of such product or, if such product is not in a sealed homogeneous case, verify the product identifier on each package.
+
+**(f) Drop shipments**
+
+(1) **In general** — A wholesale distributor that does not physically handle or store product shall be exempt from the provisions of this section, except the notification requirements under clauses (ii), (iii), and (iv) of subsection (c)(4)(B), provided that the manufacturer, repackager, or other wholesale distributor that distributes the product to the dispenser by means of a drop shipment for such wholesale distributor includes on the transaction information and transaction history to the dispenser the contact information of such wholesale distributor and provides the transaction information, transaction history, and transaction statement directly to the dispenser.
+
+(2) **Clarification** — For purposes of this subsection, providing administrative services, including processing of orders and payments, shall not by itself, be construed as being involved in the handling, distribution, or storage of a product.
+
+**(g) Enhanced drug distribution security**
+
+(1) **In general** — On the date that is 10 years after November 27, 2013, the following interoperable, electronic tracing of product at the package level requirements shall go into effect:
+
+  (A) The transaction information and the transaction statements as required under this section shall be exchanged in a secure, interoperable, electronic manner in accordance with the standards established under the guidance issued pursuant to paragraphs (3) and (4) of subsection (h), including any revision of such guidance issued in accordance with paragraph (5) of such subsection.
+
+  (B) The transaction information required under this section shall include the product identifier at the package level for each package included in the transaction.
+
+  (C) Systems and processes for verification of product at the package level, including the standardized numerical identifier, shall be required in accordance with the standards established under the guidance issued pursuant to subsection (a)(2) and the guidances issued pursuant to paragraphs (2), (3), and (4) of subsection (h), including any revision of such guidances issued in accordance with paragraph (5) of such subsection, which may include the use of aggregation and inference as necessary.
+
+  (D) The systems and processes necessary to promptly respond with the transaction information and transaction statement for a product upon a request by the Secretary (or other appropriate Federal or State official) in the event of a recall or for the purposes of investigating a suspect product or an illegitimate product shall be required.
+
+  (E) The systems and processes necessary to promptly facilitate gathering the information necessary to produce the transaction information for each transaction going back to the manufacturer, as applicable, shall be required—
+
+    (i) in the event of a request by the Secretary (or other appropriate Federal or State official), on account of a recall or for the purposes of investigating a suspect product or an illegitimate product; or
+
+    (ii) in the event of a request by an authorized trading partner, in a secure manner that ensures the protection of confidential commercial information and trade secrets, for purposes of investigating a suspect product or assisting the Secretary (or other appropriate Federal or State official) with a request described in clause (i).
+
+  (F) Each person accepting a saleable return shall have systems and processes in place to allow acceptance of such product and may accept saleable returns only if such person can associate the saleable return product with the transaction information and transaction statement associated with that product.
+
+(2) **Compliance**
+
+  (A) *Information maintenance agreement* — A dispenser may enter into a written agreement with a third party, including an authorized wholesale distributor, under which the third party shall confidentially maintain any information and statements required to be maintained under this section. If a dispenser enters into such an agreement, the dispenser shall maintain a copy of the written agreement and shall not be relieved of the obligations of the dispenser under this subsection.
+
+  (B) *Alternative methods* — The Secretary, taking into consideration the assessment conducted under paragraph (3), shall provide for alternative methods of compliance with any of the requirements set forth in paragraph (1), including—
+
+    (i) establishing timelines for compliance by small businesses (including small business dispensers with 25 or fewer full-time employees) with such requirements, in order to ensure that such requirements do not impose undue economic hardship for small businesses, including small business dispensers for whom the criteria set forth in the assessment under paragraph (3) is not met, if the Secretary determines that such requirements under paragraph (1) would result in undue economic hardship; and
+
+    (ii) establishing a process by which a dispenser may request a waiver from any of the requirements set forth in paragraph (1) if the Secretary determines that such requirements would result in an undue economic hardship, which shall include a process for the biennial review and renewal of any such waiver.
+
+(3) **Assessment**
+
+  (A) *In general* — Not later than the date that is 18 months after the Secretary issues the final guidance required under subsection (h), the Secretary shall enter into a contract with a private, independent consulting firm with expertise to conduct a technology and software assessment that looks at the feasibility of dispensers with 25 or fewer full-time employees conducting interoperable, electronic tracing of products at the package level. Such assessment shall be completed not later than 8½ years after November 27, 2013.
+
+  (B) *Condition* — As a condition of the award of the contract under subparagraph (A), the private, independent consulting firm shall agree to consult with dispensers with 25 or fewer full-time employees when conducting the assessment under such subparagraph.
+
+  (C) *Content* — The assessment under subparagraph (A) shall assess whether—
+
+    (i) the necessary software and hardware is readily accessible to such dispensers;
+
+    (ii) the necessary software and hardware is prohibitively expensive to obtain, install, and maintain for such dispensers; and
+
+    (iii) the necessary hardware and software can be integrated into business practices, such as interoperability with wholesale distributors, for such dispensers.
+
+  (D) *Publication* — The Secretary shall—
+
+    (i) publish the statement of work for the assessment under subparagraph (A) for public comment prior to beginning the assessment;
+
+    (ii) publish the final assessment for public comment not later than 30 calendar days after receiving such assessment; and
+
+    (iii) hold a public meeting not later than 180 calendar days after receiving the final assessment at which public stakeholders may present their views on the assessment.
+
+(4) **Procedure** — Notwithstanding [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), the Secretary, in promulgating any regulation pursuant to this section, shall—
+
+  (A) provide appropriate flexibility by—
+
+    (i) not requiring the adoption of specific business systems for the maintenance and transmission of data;
+
+    (ii) prescribing alternative methods of compliance for any of the requirements set forth in paragraph (1) or set forth in regulations implementing such requirements, including—
+
+      (I) timelines for small businesses to comply with the requirements set forth in the regulations in order to ensure that such requirements do not impose undue economic hardship for small businesses (including small business dispensers for whom the criteria set forth in the assessment under paragraph (3) is not met), if the Secretary determines that such requirements would result in undue economic hardship; and
+
+      (II) the establishment of a process by which a dispenser may request a waiver from any of the requirements set forth in such regulations if the Secretary determines that such requirements would result in an undue economic hardship; and
+
+    (iii) taking into consideration—
+
+      (I) the results of pilot projects, including pilot projects pursuant to this section and private sector pilot projects, including those involving the use of aggregation and inference;
+
+      (II) the public meetings held and related guidance documents issued under this section;
+
+      (III) the public health benefits of any additional regulations in comparison to the cost of compliance with such requirements, including on entities of varying sizes and capabilities;
+
+      (IV) the diversity of the pharmaceutical distribution supply chain by providing appropriate flexibility for each sector, including both large and small businesses; and
+
+      (V) the assessment pursuant to paragraph (3) with respect to small business dispensers, including related public comment and the public meeting, and requirements under this section;
+
+  (B) issue a notice of proposed rulemaking that includes a copy of the proposed regulation;
+
+  (C) provide a period of not less than 60 days for comments on the proposed regulation; and
+
+  (D) publish in the Federal Register the final regulation not less than 2 years prior to the effective date of the regulation.
+
+**(h) Guidance documents**
+
+(1) **In general** — For the purposes of facilitating the successful and efficient adoption of secure, interoperable product tracing at the package level in order to enhance drug distribution security and further protect the public health, the Secretary shall issue the guidance documents as provided for in this subsection.
+
+(2) **Suspect and illegitimate product**
+
+  (A) *In general* — Not later than 180 days after November 27, 2013, the Secretary shall issue a guidance document to aid trading partners in the identification of a suspect product and notification termination. Such guidance document shall—
+
+    (i) identify specific scenarios that could significantly increase the risk of a suspect product entering the pharmaceutical distribution supply chain;
+
+    (ii) provide recommendation on how trading partners may identify such product and make a determination on whether the product is a suspect product as soon as practicable; and
+
+    (iii) set forth the process by which manufacturers, repackagers, wholesale distributors, and dispensers shall terminate notifications in consultation with the Secretary regarding illegitimate product pursuant to subsections (b)(4)(B), (c)(4)(B), (d)(4)(B), and (e)(4)(B).
+
+  (B) *Revised guidance* — If the Secretary revises the guidance issued under subparagraph (A), the Secretary shall follow the procedure set forth in paragraph (5).
+
+(3) **Unit level tracing**
+
+  (A) *In general* — In order to enhance drug distribution security at the package level, not later than 18 months after conducting a public meeting on the system attributes necessary to enable secure tracing of product at the package level, including allowing for the use of verification, inference, and aggregation, as necessary, the Secretary shall issue a final guidance document that outlines and makes recommendations with respect to the system attributes necessary to enable secure tracing at the package level as required under the requirements established under subsection (g). Such guidance document shall—
+
+    (i) define the circumstances under which the sectors within the pharmaceutical distribution supply chain may, in the most efficient manner practicable, infer the contents of a case, pallet, tote, or other aggregate of individual packages or containers of product, from a product identifier associated with the case, pallet, tote, or other aggregate, without opening each case, pallet, tote, or other aggregate or otherwise individually scanning each package;
+
+    (ii) identify methods and processes to enhance secure tracing of product at the package level, such as secure processes to facilitate the use of inference, enhanced verification activities, the use of aggregation and inference, processes that utilize the product identifiers to enhance tracing of product at the package level, including the standardized numerical identifier, or package security features; and
+
+    (iii) ensure the protection of confidential commercial information and trade secrets.
+
+  (B) *Procedure* — In issuing the guidance under subparagraph (A), and in revising such guidance, if applicable, the Secretary shall follow the procedure set forth in paragraph (5).
+
+(4) **Standards for interoperable data exchange**
+
+  (A) *In general* — In order to enhance secure tracing of a product at the package level, the Secretary, not later than 18 months after conducting a public meeting on the interoperable standards necessary to enhance the security of the pharmaceutical distribution supply chain, shall update the guidance issued pursuant to subsection (a)(2), as necessary and appropriate, and finalize such guidance document so that the guidance document—
+
+    (i) identifies and makes recommendations with respect to the standards necessary for adoption in order to support the secure, interoperable electronic data exchange among the pharmaceutical distribution supply chain that comply with a form and format developed by a widely recognized international standards development organization;
+
+    (ii) takes into consideration standards established pursuant to subsection (a)(2) and [section 355e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355e);
+
+    (iii) facilitates the creation of a uniform process or methodology for product tracing; and
+
+    (iv) ensures the protection of confidential commercial information and trade secrets.
+
+  (B) *Procedure* — In issuing the guidance under subparagraph (A), and in revising such guidance, if applicable, the Secretary shall follow the procedure set forth in paragraph (5).
+
+(5) **Procedure** — In issuing or revising any guidance issued pursuant to this subsection or subsection (g), except the initial guidance issued under paragraph (2)(A), the Secretary shall—
+
+  (A) publish a notice in the Federal Register for a period not less than 30 days announcing that the draft or revised draft guidance is available;
+
+  (B) post the draft guidance document on the Internet Web site of the Food and Drug Administration and make such draft guidance document available in hard copy;
+
+  (C) provide an opportunity for comment and review and take into consideration any comments received;
+
+  (D) revise the draft guidance, as appropriate;
+
+  (E) publish a notice in the Federal Register for a period not less than 30 days announcing that the final guidance or final revised guidance is available;
+
+  (F) post the final guidance document on the Internet Web site of the Food and Drug Administration and make such final guidance document available in hard copy; and
+
+  (G) provide for an effective date of not earlier than 1 year after such guidance becomes final.
+
+**(i) Public meetings**
+
+(1) **In general** — The Secretary shall hold not less than 5 public meetings to enhance the safety and security of the pharmaceutical distribution supply chain and provide for comment. The Secretary may hold the first such public meeting not earlier than 1 year after November 27, 2013. In carrying out the public meetings described in this paragraph, the Secretary shall—
+
+  (A) prioritize topics necessary to inform the issuance of the guidance described in paragraphs (3) and (4) of subsection (h); and
+
+  (B) take all measures reasonable and practicable to ensure the protection of confidential commercial information and trade secrets.
+
+(2) **Content** — Each of the following topics shall be addressed in at least one of the public meetings described in paragraph (1):
+
+  (A) An assessment of the steps taken under subsections (b) through (e) to build capacity for a unit-level system, including the impact of the requirements of such subsections on—
+
+    (i) the ability of the health care system collectively to maintain patient access to medicines;
+
+    (ii) the scalability of such requirements, including as it relates to product lines; and
+
+    (iii) the capability of different sectors and subsectors, including both large and small businesses, to affix and utilize the product identifier.
+
+  (B) The system attributes necessary to support the requirements set forth under subsection (g), including the standards necessary for adoption in order to support the secure, interoperable electronic data exchange among sectors within the pharmaceutical distribution supply chain.
+
+  (C) Best practices in each of the different sectors within the pharmaceutical distribution supply chain to implement the requirements of this section.
+
+  (D) The costs and benefits of the implementation of this section, including the impact on each pharmaceutical distribution supply chain sector and on public health.
+
+  (E) Whether electronic tracing requirements, including tracing of product at the package level, are feasible, cost effective, and needed to protect the public health.
+
+  (F) The systems and processes needed to utilize the product identifiers to enhance tracing of product at the package level, including allowing for verification, aggregation, and inference, as necessary.
+
+  (G) The technical capabilities and legal authorities, if any, needed to establish an interoperable, electronic system that provides for tracing of product at the package level.
+
+  (H) The impact that such additional requirements would have on patient safety, the drug supply, cost and regulatory burden, and timely patient access to prescription drugs.
+
+  (I) Other topics, as determined appropriate by the Secretary.
+
+**(j) Pilot projects**
+
+(1) **In general** — The Secretary shall establish 1 or more pilot projects, in coordination with authorized manufacturers, repackagers, wholesale distributors, and dispensers, to explore and evaluate methods to enhance the safety and security of the pharmaceutical distribution supply chain. Such projects shall build upon efforts, in existence as of November 27, 2013, to enhance the safety and security of the pharmaceutical distribution supply chain, take into consideration any pilot projects conducted prior to November 27, 2013, including any pilot projects that use aggregation and inference, and inform the draft and final guidance under paragraphs (3) and (4) of subsection (h).
+
+(2) **Content**
+
+  (A) *In general* — The Secretary shall ensure that the pilot projects under paragraph (1) reflect the diversity of the pharmaceutical distribution supply chain and that the pilot projects, when taken as a whole, include participants representative of every sector, including both large and small businesses.
+
+  (B) *Project design* — The pilot projects under paragraph (1) shall be designed to—
+
+    (i) utilize the product identifier for tracing of a product, which may include verification of the product identifier of a product, including the use of aggregation and inference;
+
+    (ii) improve the technical capabilities of each sector and subsector to comply with systems and processes needed to utilize the product identifiers to enhance tracing of a product;
+
+    (iii) identify system attributes that are necessary to implement the requirements established under this section; and
+
+    (iv) complete other activities as determined by the Secretary.
+
+**(k) Sunset** The following requirements shall have no force or effect beginning on the date that is 10 years after November 27, 2013:
+
+(1) The provision and receipt of transaction history under this section.
+
+(2) The requirements set forth for returns under subsections (b)(4)(E), (c)(1)(B)(i), (d)(1)(C)(i), and (e)(4)(E).
+
+(3) The requirements set forth under subparagraphs (A)(v)(II) and (D) of subsection (c)(1), as applied to lot level information only.
+
+**(l) Rule of construction** The requirements set forth in subsections (g)(4), (i), and (j) shall not be construed as a condition, prohibition, or precedent for precluding or delaying the provisions becoming effective pursuant to subsection (g).
+
+**(m) Requests for information** On the date that is 10 years after November 27, 2013, the timeline for responses to requests for information from the Secretary, or other appropriate Federal or State official, as applicable, under subsections (b)(1)(B), (c)(1)(C), and (e)(1)(C) shall be not later than 24 hours after receiving the request from the Secretary or other appropriate Federal or State official, as applicable, or in such other reasonable time as determined by the Secretary based on the circumstances of the request.
+
+### Statutory Notes
+
+#### Amendments
+2013—Subsecs. (g) to (m). Pub. L. 113–54, § 203, added subsecs. (g) to (m).
+
+
+<a id="section-360eee-2"></a>
+## § 360eee–2. National standards for prescription drug wholesale distributors
+**(a) In general** The Secretary shall, not later than 2 years after November 27, 2013, establish by regulation standards for the licensing of persons under [section 353(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e/1&num=0&edition=prelim), including the revocation, reissuance, and renewal of such license.
+
+**(b) Content** For the purpose of ensuring uniformity with respect to standards set forth in this section, the standards established under subsection (a) shall apply to all State and Federal licenses described under [section 353(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e/1&num=0&edition=prelim) and shall include standards for the following:
+
+(1) The storage and handling of prescription drugs, including facility requirements.
+
+(2) The establishment and maintenance of records of the distributions of such drugs.
+
+(3) The furnishing of a bond or other equivalent means of security, as follows:
+
+  (A)
+
+    (i) For the issuance or renewal of a wholesale distributor license, an applicant that is not a government owned and operated wholesale distributor shall submit a surety bond of $100,000 or other equivalent means of security acceptable to the State.
+
+    (ii) For purposes of clause (i), the State or other applicable authority may accept a surety bond in the amount of $25,000 if the annual gross receipts of the previous tax year for the wholesaler is $10,000,000 or less.
+
+  (B) If a wholesale distributor can provide evidence that it possesses the required bond in a State, the requirement for a bond in another State shall be waived.
+
+(4) Mandatory background checks and fingerprinting of facility managers or designated representatives.
+
+(5) The establishment and implementation of qualifications for key personnel.
+
+(6) The mandatory physical inspection of any facility to be used in wholesale distribution within a reasonable time frame from the initial application of the facility and to be conducted by the licensing authority or by the State, consistent with subsection (c).
+
+(7) In accordance with subsection (d), the prohibition of certain persons from receiving or maintaining licensure for wholesale distribution.
+
+**(c) Inspections** To satisfy the inspection requirement under subsection (b)(6), the Federal or State licensing authority may conduct the inspection or may accept an inspection by the State in which the facility is located, or by a third-party accreditation or inspection service approved by the Secretary or the State licensing such wholesale distributor.
+
+**(d) Prohibited persons** The standards established under subsection (a) shall include requirements to prohibit a person from receiving or maintaining licensure for wholesale distribution if the person—
+
+(1) has been convicted of any felony for conduct relating to wholesale distribution, any felony violation of subsection (i) or (k) of [section 331 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-331), or any felony violation of [section 1365 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1365&num=0&edition=prelim) relating to product tampering; or
+
+(2) has engaged in a pattern of violating the requirements of this section, or State requirements for licensure, that presents a threat of serious adverse health consequences or death to humans.
+
+**(e) Requirements** The Secretary, in promulgating any regulation pursuant to this section, shall, notwithstanding [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim)—
+
+(1) issue a notice of proposed rulemaking that includes a copy of the proposed regulation;
+
+(2) provide a period of not less than 60 days for comments on the proposed regulation; and
+
+(3) provide that the final regulation take effect on the date that is 2 years after the date such final regulation is published.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 2015, see section 204(c) of Pub. L. 113–54, set out as an Effective Date of 2013 Amendment note under [section 353 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353).
+
+
+<a id="section-360eee-3"></a>
+## § 360eee–3. National standards for third-party logistics providers
+**(a) Requirements** No third-party logistics provider in any State may conduct activities in any State unless each facility of such third-party logistics provider—
+
+(1)
+
+  (A) is licensed by the State from which the drug is distributed by the third-party logistics provider, in accordance with the regulations promulgated under subsection (d); or
+
+  (B) if the State from which the drug distributed by the third-party logistics provider has not established a licensure requirement, is licensed by the Secretary, in accordance with the regulations promulgated under subsection (d); and
+
+(2) if the drug is distributed interstate, is licensed by the State into which the drug is distributed by the third-party logistics provider if such State licenses third-party logistics providers that distribute drugs into the State and the third-party logistics provider is not licensed by the Secretary as described in paragraph (1)(B).
+
+**(b) Reporting** Beginning 1 year after November 27, 2013, a facility of a third-party logistics provider shall report to the Secretary, on an annual basis pursuant to a schedule determined by the Secretary—
+
+(1) the State by which the facility is licensed and the appropriate identification number of such license; and
+
+(2) the name and address of the facility and all trade names under which such facility conducts business.
+
+**(c) Costs**
+
+(1) **Authorized fees of Secretary** — If a State does not establish a licensing program for a third-party logistics provider, the Secretary shall license the third-party logistics provider located in such State and may collect a reasonable fee in such amount necessary to reimburse the Secretary for costs associated with establishing and administering the licensure program and conducting periodic inspections under this section. The Secretary shall adjust fee rates as needed on an annual basis to generate only the amount of revenue needed to perform this service. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation.
+
+(2) **State licensing fees**
+
+  (A) *State established program* — Nothing in this chapter shall prohibit a State that has established a program to license a third-party logistics provider from collecting fees from a third-party logistics provider for such a license.
+
+  (B) *No State established program* — A State that does not establish a program to license a third-party logistics provider in accordance with this section shall be prohibited from collecting a State licensing fee from a third-party logistics provider.
+
+**(d) Regulations**
+
+(1) **In general** — Not later than 2 years after November 27, 2013, the Secretary shall issue regulations regarding the standards for licensing under subsection (a), including the revocation and reissuance of such license, to third-party logistics providers under this section.
+
+(2) **Content** — Such regulations shall—
+
+  (A) establish a process by which a third-party accreditation program approved by the Secretary shall, upon request by a third-party logistics provider, issue a license to each third-party logistics provider that meets the requirements set forth in this section;
+
+  (B) establish a process by which the Secretary shall issue a license to each third-party logistics provider that meets the requirements set forth in this section if the Secretary is not able to approve a third-party accreditation program because no such program meets the Secretary’s requirements necessary for approval of such a third-party accreditation program;
+
+  (C) require that the entity complies with storage practices, as determined by the Secretary for such facility, including—
+
+    (i) maintaining access to warehouse space of suitable size to facilitate safe operations, including a suitable area to quarantine suspect product;
+
+    (ii) maintaining adequate security; and
+
+    (iii) having written policies and procedures to—
+
+      (I) address receipt, security, storage, inventory, shipment, and distribution of a product;
+
+      (II) identify, record, and report confirmed losses or thefts in the United States;
+
+      (III) correct errors and inaccuracies in inventories;
+
+      (IV) provide support for manufacturer recalls;
+
+      (V) prepare for, protect against, and address any reasonably foreseeable crisis that affects security or operation at the facility, such as a strike, fire, or flood;
+
+      (VI) ensure that any expired product is segregated from other products and returned to the manufacturer or repackager or destroyed;
+
+      (VII) maintain the capability to trace the receipt and outbound distribution of a product, and supplies and records of inventory; and
+
+      (VIII) quarantine or destroy a suspect product if directed to do so by the respective manufacturer, wholesale distributor, dispenser, or an authorized government agency;
+
+  (D) provide for periodic inspection by the licensing authority, as determined by the Secretary, of such facility warehouse space to ensure compliance with this section;
+
+  (E) prohibit a facility from having as a manager or designated representative anyone convicted of any felony violation of subsection (i) or (k) of [section 331 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-331) or any violation of [section 1365 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1365&num=0&edition=prelim), relating to product tampering;
+
+  (F) provide for mandatory background checks of a facility manager or a designated representative of such manager;
+
+  (G) require a third-party logistics provider to provide the applicable licensing authority, upon a request by such authority, a list of all product manufacturers, wholesale distributors, and dispensers for whom the third-party logistics provider provides services at such facility; and
+
+  (H) include procedures under which any third-party logistics provider license—
+
+    (i) expires on the date that is 3 years after issuance of the license; and
+
+    (ii) may be renewed for additional 3-year periods.
+
+(3) **Procedure** — In promulgating the regulations under this subsection, the Secretary shall, notwithstanding [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim)—
+
+  (A) issue a notice of proposed rulemaking that includes a copy of the proposed regulation;
+
+  (B) provide a period of not less than 60 days for comments on the proposed regulation; and
+
+  (C) provide that the final regulation takes effect upon the expiration of 1 year after the date that such final regulation is issued.
+
+**(e) Validity** A license issued under this section shall remain valid as long as such third-party logistics provider remains licensed consistent with this section. If the Secretary finds that the third-party accreditation program demonstrates that all applicable requirements for licensure under this section are met, the Secretary shall issue a license under this section to a third-party logistics provider receiving accreditation, pursuant to subsection (d)(2)(A).
+
+
+<a id="section-360eee-4"></a>
+## § 360eee–4. Uniform national policy
+**(a) Product tracing and other requirements** Beginning on November 27, 2013, no State or political subdivision of a State may establish or continue in effect any requirements for tracing products through the distribution system (including any requirements with respect to statements of distribution history, transaction history, transaction information, or transaction statement of a product as such product changes ownership in the supply chain, or verification, investigation, disposition, notification, or recordkeeping relating to such systems, including paper or electronic pedigree systems or for tracking and tracing drugs throughout the distribution system) which are inconsistent with, more stringent than, or in addition to, any requirements applicable under [section 353(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e&num=0&edition=prelim) or this part (or regulations issued thereunder), or which are inconsistent with—
+
+(1) any waiver, exception, or exemption pursuant to section 360eee or 360eee–1 of this title; or
+
+(2) any restrictions specified in [section 360eee–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-1).
+
+**(b) Wholesale distributor and third-party logistics provider standards**
+
+(1) **In general** — Beginning on November 27, 2013, no State or political subdivision of a State may establish or continue any standards, requirements, or regulations with respect to wholesale prescription drug distributor or third-party logistics provider licensure that are inconsistent with, less stringent than, directly related to, or covered by the standards and requirements applicable under [section 353(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e&num=0&edition=prelim), in the case of a wholesale distributor, or [section 360eee–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-3), in the case of a third-party logistics provider.
+
+(2) **State regulation of third-party logistics providers** — No State shall regulate third-party logistics providers as wholesale distributors.
+
+(3) **Administration fees** — Notwithstanding paragraph (1), a State may administer fee collections for effectuating the wholesale drug distributor and third-party logistics provider licensure requirements under sections 353(e), 360eee–2, and 360eee–3 of this title.
+
+(4) **Enforcement, suspension, and revocation** — Notwithstanding paragraph (1), a State—
+
+  (A) may take administrative action, including fines, to enforce a requirement promulgated by the State in accordance with [section 353(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e&num=0&edition=prelim) or this part;
+
+  (B) may provide for the suspension or revocation of licenses issued by the State for violations of the laws of such State;
+
+  (C) upon conviction of violations of Federal, State, or local drug laws or regulations, may provide for fines, imprisonment, or civil penalties; and
+
+  (D) may regulate activities of licensed entities in a manner that is consistent with product tracing requirements under [section 360eee–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360eee-1).
+
+**(c) Exception** Nothing in this section shall be construed to preempt State requirements related to the distribution of prescription drugs if such requirements are not related to product tracing as described in subsection (a) or wholesale distributor and third-party logistics provider licensure as described in subsection (b) applicable under [section 353(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/e&num=0&edition=prelim) or this part (or regulations issued thereunder).
+
+
 <a id="section-360e-1"></a>
 ## § 360e–1. Pediatric uses of devices
 **(a) New devices**
@@ -13552,6 +14935,418 @@ he may initiate a proceeding to promulgate a regulation to make such device a ba
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(1), is section 101(b) of Pub. L. 112–144, which is set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
 The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+
+
+<a id="section-360fff"></a>
+## § 360fff. Definitions
+
+In this part—
+
+(1) the term “Advisory Committee” means the Nonprescription Drug Advisory Committee of the Food and Drug Administration or any successor to such Committee;
+
+(2) the term “final sunscreen order” means an order published by the Secretary in the Federal Register containing information stating that a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients—
+
+  (A) is GRASE and is not misbranded if marketed in accordance with such order; or
+
+  (B) is not GRASE and is misbranded;
+
+(3) the term “GRASE” means generally recognized, among experts qualified by scientific training and experience to evaluate the safety and effectiveness of drugs, as safe and effective for use under the conditions prescribed, recommended, or suggested in the labeling of a drug as described in [section 321(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/p&num=0&edition=prelim);
+
+(4) the term “GRASE determination” means, with respect to a nonprescription active ingredient or a combination of nonprescription active ingredients, a determination of whether such ingredient or combination of ingredients is GRASE;
+
+(5) the term “nonprescription” means not subject to [section 353(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/1&num=0&edition=prelim);
+
+(6) the term “pending request” means each request with respect to a nonprescription sunscreen active ingredient submitted under section 330.14 of title 21, Code of Federal Regulations (as in effect on November 26, 2014) for consideration for inclusion in the over-the-counter drug monograph system—
+
+  (A) that was determined to be eligible for such review by publication of a notice of eligibility in the Federal Register prior to November 26, 2014; and
+
+  (B) for which safety and effectiveness data have been submitted to the Secretary prior to November 26, 2014;
+
+(7) the term “proposed sunscreen order” means an order containing a tentative determination published by the Secretary in the Federal Register containing information proposing that a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients—
+
+  (A) is GRASE and is not misbranded if marketed in accordance with such order;
+
+  (B) is not GRASE and is misbranded; or
+
+  (C) is not GRASE and is misbranded because the data are insufficient to classify such ingredient or combination of ingredients as GRASE and not misbranded and additional information is necessary to allow the Secretary to determine otherwise;
+
+(8) the term “sponsor” means the person that submitted—
+
+  (A) a request under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1);
+
+  (B) a pending request; or
+
+  (C) any other application subject to this part;
+
+(9) the term “sunscreen” means a drug containing one or more sunscreen active ingredients; and
+
+(10) the term “sunscreen active ingredient” means an active ingredient that is intended for application to the skin of humans for purposes of absorbing, reflecting, or scattering ultraviolet radiation.
+
+### Statutory Notes
+
+#### Construction
+Pub. L. 113–195, § 2(b), Nov. 26, 2014, 128 Stat. 2045, provided that: “Nothing in the amendment made by this section [enacting this section and sections 360fff–1 to 360fff–5 of this title] shall be construed to— “(1) limit the right of a sponsor (as defined in section 586(8) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360fff(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff/8&num=0&edition=prelim)], as added by subsection (a)) to request that the Secretary of Health and Human Services convene an advisory committee; or “(2) limit the authority of the Secretary of Health and Human Services to meet with a sponsor (as defined in section 586(8) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a)).”
+
+
+<a id="section-360fff-1"></a>
+## § 360fff–1. Submission of requests
+
+Any person may submit a request to the Secretary for a determination of whether a nonprescription sunscreen active ingredient or a combination of nonprescription sunscreen active ingredients, for use under specified conditions, to be prescribed, recommended, or suggested in the labeling thereof (including dosage form, dosage strength, and route of administration) is GRASE and should be included in part 352 of title 21, Code of Federal Regulations (or any successor regulations) concerning nonprescription sunscreen.
+
+
+<a id="section-360fff-2"></a>
+## § 360fff–2. Eligibility determinations; data submission; filing
+**(a) Eligibility determinations**
+
+(1) **In general** — Not later than 60 calendar days after the date of receipt of a request under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1), the Secretary shall—
+
+  (A) determine, in accordance with paragraph (2), whether the request is eligible for further review under subsection (b) and [section 360fff–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-3);
+
+  (B) notify the sponsor of the determination of the Secretary; and
+
+  (C) make such determination publicly available in accordance with paragraph (3) and subsection (b)(1).
+
+(2) **Criteria for eligibility**
+
+  (A) *In general* — To be eligible for review under subsection (b) and [section 360fff–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-3), a request shall be for a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients, for use under specified conditions, to be prescribed, recommended, or suggested in the labeling thereof, that—
+
+    (i) is not included in part 352 of title 21, Code of Federal Regulations (or any successor regulations) concerning nonprescription sunscreen; and
+
+    (ii) has been used to a material extent and for a material time under such conditions, as described in [section 321(p)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/p/2&num=0&edition=prelim).
+
+  (B) *Establishment of time and extent* — A sponsor shall include in a request under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1) the information required under section 330.14 of title 21, Code of Federal Regulations (or any successor regulations) to meet the standard described in subparagraph (A)(ii).
+
+(3) **Public availability**
+
+  (A) *Redactions for confidential information* — If a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients is determined under paragraph (1)(A) to be eligible for further review, the Secretary shall make the request publicly available, with redactions for information that is treated as confidential under [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim), [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), or [section 331(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/j&num=0&edition=prelim).
+
+  (B) *Identification of confidential information by sponsor* — At the time that a request is made under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1), the sponsor of such request shall identify any information that such sponsor considers to be confidential information described in subparagraph (A).
+
+  (C) *Confidentiality during eligibility review* — The information contained in a request under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1) shall remain confidential during the Secretary’s consideration under this section of whether the request is eligible for further review consistent with section 330.14 of title 21, Code of Federal Regulations (or any successor regulations).
+
+**(b) Data submission and filing of requests**
+
+(1) **In general** — In the case of a request under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1) that is determined to be eligible under subsection (a) for further review under this section and [section 360fff–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-3), the Secretary shall, in notifying the public under subsection (a)(1)(C) of such eligibility determination, post the eligibility determination on the Internet website of the Food and Drug Administration, invite the sponsor of such request and any other interested party to submit comments, and provide a period of not less than 45 calendar days for comments in support of or otherwise relating to a GRASE determination, including published and unpublished data and other information related to the safety and efficacy of such request.
+
+(2) **Filing determination** — Not later than 60 calendar days after the submission of data and other information described in paragraph (1) by the sponsor, the Secretary shall determine whether the data and other information submitted by the sponsor under this section are sufficiently complete, including being formatted in a manner that enables the Secretary to determine the completeness of such data and information, to enable the Secretary to conduct a substantive review under [section 360fff–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-3) with respect to such request. Not later than 60 calendar days after the submission of data and other information described in paragraph (1) by the sponsor, if the Secretary determines—
+
+  (A) that such data and other information are sufficiently complete, the Secretary shall—
+
+    (i) issue a written notification to the sponsor of the determination to file such request, and make such notification publicly available; and
+
+    (ii) file such request made under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1); or
+
+  (B) that such data and other information are not sufficiently complete, the Secretary shall issue a written notification to the sponsor of the determination to refuse to file the request, which shall include the reasons for the refusal, including why such data and other information are not sufficiently complete, and make such notification publicly available.
+
+(3) **Refusal to file a request**
+
+  (A) *Request for meetings; submission of additional data or other information* — If the Secretary refuses to file a request made under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1), the sponsor may—
+
+    (i) within 30 calendar days of receipt of written notification of such refusal, request, in writing, a meeting with the Secretary regarding the filing determination; and
+
+    (ii) submit additional data or other information.
+
+  (B) *Meetings*
+
+    (i) *In general* — If a sponsor seeks a meeting under subparagraph (A)(i), the Secretary shall convene the meeting within 30 calendar days of the request for such meeting.
+
+    (ii) *Actions after meeting* — Following any meeting held under clause (i)—
+
+      (I) the Secretary may file the request within 60 calendar days;
+
+      (II) the sponsor may submit additional data or other information; or
+
+      (III) if the sponsor elects, within 120 calendar days, to have the Secretary file the request (with or without amendments to correct any purported deficiencies to the request)—
+
+        (aa) the Secretary shall file the request over protest, not later than 30 calendar days after the sponsor makes such election;
+
+        (bb) at the time of filing, the Secretary shall provide written notification of such filing to the sponsor; and
+
+        (cc) the Secretary shall make such notification publicly available.
+
+    (iii) *Requests filed over protest* — The Secretary shall not require the sponsor to resubmit a copy of the request for purposes of filing a request filed over protest, as described in clause (ii)(III).
+
+  (C) *Submissions of additional data or other information* — Within 60 calendar days of any submission of additional data or other information under subparagraph (A)(ii) or (B)(ii)(II), the Secretary shall reconsider the previous determination made under paragraph (2) with respect to the applicable request and make a new determination in accordance with paragraph (2).
+
+(4) **Public availability**
+
+  (A) *Redactions for confidential information* — After the period of confidentiality described in subsection (a)(3)(C), the Secretary shall make data and other information submitted in connection with a request under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1) publicly available, with redactions for information that is treated as confidential under [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim), [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), or [section 331(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/j&num=0&edition=prelim).
+
+  (B) *Identification of confidential information by sponsor* — A person submitting information under this section shall identify at the time of such submission the portions of such information that the person considers to be confidential information described in subparagraph (A).
+
+
+<a id="section-360fff-3"></a>
+## § 360fff–3. GRASE determination
+**(a) Review of new request**
+
+(1) **Proposed sunscreen order** — In the case of a request under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1), not later than 300 calendar days after the date on which such request is filed under subsection (b)(2)(A) or (b)(3)(B)(ii)(III) of [section 360fff–2 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-2), the Secretary—
+
+  (A) may convene a meeting of the Advisory Committee to review such request; and
+
+  (B) shall complete the review of such request and issue a proposed sunscreen order with respect to such request.
+
+(2) **Proposed sunscreen order by Commissioner** — If the Secretary does not issue a proposed sunscreen order under paragraph (1)(B) within such 300-day period, the sponsor of such request may notify the Office of the Commissioner of such request and request review by the Office of the Commissioner. If such sponsor so notifies the Office of the Commissioner, the Commissioner shall, not later than 60 calendar days after the date of notification under this paragraph, issue a proposed sunscreen order with respect to such request.
+
+(3) **Public comment period** — A proposed sunscreen order issued under paragraph (1)(B) or (2) with respect to a request shall provide for a period of 45 calendar days for public comment.
+
+(4) **Meeting** — A sponsor may request, in writing, a meeting with respect to a proposed sunscreen order issued under this subsection and described in subparagraph (B) or (C) of [section 360fff(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff/7&num=0&edition=prelim), not later than 30 calendar days after the Secretary issues such order. The Secretary shall convene a meeting with such sponsor not later than 45 calendar days after such request for a meeting.
+
+(5) **Final sunscreen order** — With respect to a proposed sunscreen order under paragraph (1)(B) or (2)—
+
+  (A) the Secretary shall issue a final sunscreen order—
+
+    (i) in the case of a proposed sunscreen order described in subparagraph (A) or (B) of [section 360fff(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff/7&num=0&edition=prelim), not later than 90 calendar days after the end of the public comment period under paragraph (3); or
+
+    (ii) in the case of a proposed sunscreen order described in subparagraph (C) of [section 360fff(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff/7&num=0&edition=prelim), not later than 210 calendar days after the date on which the sponsor submits the additional information requested pursuant to such proposed sunscreen order; or
+
+  (B) if the Secretary does not issue such final sunscreen order within such 90- or 210-calendar-day period, as applicable, the sponsor of such request may notify the Office of the Commissioner of such request and request review by the Office of the Commissioner.
+
+(6) **Final sunscreen order by Commissioner** — The Commissioner shall issue a final sunscreen order with respect to a proposed sunscreen order subject to paragraph (5)(B) not later than 60 calendar days after the date of notification under such paragraph.
+
+**(b) Review of pending requests**
+
+(1) **In general** — The review of a pending request shall be carried out by the Secretary in accordance with this subsection.
+
+(2) **Inapplicability of sections 360fff–1 and 360fff–2 of this title** — Sections 360fff–1 and 360fff–2 of this title shall not apply with respect to any pending request.
+
+(3) **Feedback letters as proposed sunscreen order** — Notwithstanding the requirements of [section 360fff(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff/7&num=0&edition=prelim), a letter issued pursuant to section 330.14(g) of title 21, Code of Federal Regulations before November 26, 2014, with respect to a pending request, shall be deemed to be a proposed sunscreen order and displayed on the Internet website of the Food and Drug Administration. Notification of the availability of such letter shall be published in the Federal Register not later than 45 calendar days after November 26, 2014.
+
+(4) **Proposed sunscreen order** — In the case of a pending request for which the Secretary has not issued a letter pursuant to section 330.14(g) of title 21, Code of Federal Regulations before November 26, 2014, the Secretary shall complete review of such request and, not later than 90 calendar days after November 26, 2014, issue a proposed sunscreen order with respect to such request.
+
+(5) **Proposed sunscreen order by Commissioner** — If the Secretary does not issue a proposed sunscreen order under paragraph (4), or the Secretary does not publish a notification of the availability of a letter under paragraph (3), as applicable, the sponsor of such request may notify the Office of the Commissioner of such request and request review by the Office of the Commissioner. The Commissioner shall, not later than 60 calendar days after the date of notification under this paragraph, issue a proposed order with respect to such request.
+
+(6) **Public comment period** — A proposed sunscreen order issued under paragraph (4) or (5), or a notification of the availability of a letter under paragraph (3), with respect to a pending request shall provide for a period of 45 calendar days for public comment.
+
+(7) **Meeting** — A sponsor may request, in writing, a meeting with respect to a proposed sunscreen order issued under this subsection, including a letter deemed to be a proposed sunscreen order under paragraph (3), not later than 30 calendar days after the Secretary issues such order or the date upon which such feedback letter is deemed to be a proposed sunscreen order, as applicable. The Secretary shall convene a meeting with such sponsor not later than 45 calendar days after the date of such request for a meeting.
+
+(8) **Advisory Committee** — In the case of a proposed sunscreen order under paragraph (3), (4), or (5), an Advisory Committee meeting may be convened for the purpose of reviewing and providing recommendations regarding the pending request.
+
+(9) **Final sunscreen order** — In the case of a proposed sunscreen order under paragraph (3), (4), or (5)—
+
+  (A) the Secretary shall issue a final sunscreen order with respect to the request—
+
+    (i) in the case of a proposed sunscreen order described in subparagraph (A) or (B) of [section 360fff(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff/7&num=0&edition=prelim), not later than 90 calendar days after the end of the public comment period under paragraph (6); or
+
+    (ii) in the case of a proposed sunscreen order described in subparagraph (C) of [section 360fff(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff/7&num=0&edition=prelim)—
+
+      (I) if the Advisory Committee is not convened under paragraph (8), not later than 210 calendar days after the date on which the sponsor submits the additional information requested pursuant to such proposed sunscreen order, which shall include a rationale for not convening such Advisory Committee; or
+
+      (II) if the Advisory Committee is convened under paragraph (8), not later than 270 calendar days after the date on which the sponsor submits such additional information; or
+
+  (B) if the Secretary does not issue such final sunscreen order within such 90-, 210-, or 270-calendar-day period, as applicable, the sponsor of such request may notify the Office of the Commissioner about such request and request review by the Office of the Commissioner.
+
+(10) **Final sunscreen order by Commissioner** — The Commissioner shall issue a final sunscreen order with respect to a proposed sunscreen order subject to paragraph (9)(B) not later than 60 calendar days after the date of notification under such paragraph.
+
+**(c) Advisory Committee** The Secretary shall not be required to—
+
+(1) convene the Advisory Committee—
+
+  (A) more than once with respect to any request under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1) or any pending request; or
+
+  (B) more than twice in any calendar year with respect to the review under this section; or
+
+(2) submit more than a total of 3 requests under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1) or pending requests to the Advisory Committee per meeting.
+
+**(d) No delegation** Any responsibility vested in the Commissioner by subsection (a)(2), (a)(6), (b)(5), or (b)(10) shall not be delegated.
+
+**(e) Effect of final sunscreen order**
+
+(1) **In general**
+
+  (A) *Sunscreen active ingredients determined to be GRASE* — Upon issuance of a final sunscreen order determining that a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients is GRASE and is not misbranded, a sunscreen containing such ingredient or combination of ingredients shall be permitted to be introduced or delivered into interstate commerce for use under the conditions described in such final sunscreen order, in accordance with all requirements applicable to drugs not subject to [section 353(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/1&num=0&edition=prelim), for so long as such final sunscreen order remains in effect.
+
+  (B) *Sunscreen active ingredients determined not to be GRASE* — Upon issuance of a final sunscreen order determining that a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients is not GRASE and is misbranded, a sunscreen containing such ingredient or combination of ingredients shall not be introduced or delivered into interstate commerce, for use under the conditions described in such final sunscreen order, unless an application is approved pursuant to [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) with respect to a sunscreen containing such ingredient or combination of ingredients, or unless conditions are later established under which such ingredient or combination of ingredients is later determined to be GRASE and not misbranded under the over-the-counter drug monograph system.
+
+(2) **Amendments to final sunscreen orders**
+
+  (A) *Amendments at initiative of Secretary* — In the event that information relevant to a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients becomes available to the Secretary after issuance of a final sunscreen order, the Secretary may amend such final sunscreen order by issuing a new proposed sunscreen order under subsection (a)(1) and following the procedures set forth in this section.
+
+  (B) *Petition to amend final order* — Any interested person may petition the Secretary to amend a final sunscreen order under section 10.30, title 21 Code of Federal Regulations (or any successor regulations). If the Secretary grants any petition under such section, the Secretary shall initiate the process for amending a final sunscreen order by issuing a new proposed sunscreen order under subsection (a)(1) and following the procedures set forth in this section.
+
+  (C) *Applicability of final orders* — Once the Secretary issues a new proposed sunscreen order to amend a final sunscreen order under subparagraph (A) or (B), such final sunscreen order shall remain in effect and paragraph (3) shall not apply to such final sunscreen order until the Secretary has issued a new final sunscreen order or has determined not to amend the final sunscreen order.
+
+(3) **Inclusion of ingredients that are subjects of final orders in the sunscreen monograph**
+
+  (A) *Amending regulations*
+
+    (i) *Requirement* — At any time that the Secretary proposes to amend part 352 of title 21, Code of Federal Regulations (or any successor regulations) concerning nonprescription sunscreen, including pursuant to [section 360fff–5 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-5), except as provided in clause (iv), the Secretary shall include in such part 352 (or any successor regulations) any nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients that is the subject of an effective final sunscreen order of the type described in [section 360fff(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff/2/A&num=0&edition=prelim) and issued since the time that the Secretary last amended such regulations. Such regulation shall set forth conditions of use under which each such ingredient or combination of ingredients is GRASE and not misbranded. If these conditions differ from, or are in addition to, those previously set forth in the applicable final sunscreen order, the Secretary shall provide notice and opportunity for comment on such conditions in the rulemaking, and the applicable final sunscreen order shall continue in effect until the effective date of a final regulation, as set forth in clause (iii).
+
+    (ii) *Inclusion of orders* — In proposing to amend the regulations as described in clause (i), the Secretary shall include in the proposed regulations a list of final sunscreen orders that shall cease to be effective on the effective date of a resulting final regulation. Such list shall include all final sunscreen orders of the type described in [section 360fff(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff/2/A&num=0&edition=prelim) that are in effect on the date that such regulations are proposed, with the exception that such list shall not include any final sunscreen orders that, on the date that the regulations are proposed, the Secretary is in the process of amending under paragraph (2).
+
+    (iii) *Orders no longer effective* — Any final sunscreen order included by the Secretary in a list described in clause (ii) and in a list included in resulting final regulations shall cease to be effective on the date that such final regulations including such order in such list become effective.
+
+    (iv) *Ingredients not GRASE* — If, notwithstanding a final sunscreen order stating that a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients is GRASE and is not misbranded if marketed in accordance with such order, while amending the regulations as described in clause (i), the Secretary concludes that such ingredient or combination of ingredients is no longer GRASE for use in nonprescription sunscreen, the Secretary shall, at the discretion of the Secretary, either initiate the process for amending the final sunscreen order set forth in paragraph (2) of this subsection or include in a proposed regulation an explanation and information supporting the determination of the Secretary that such ingredient or combination of ingredients is no longer GRASE for use in nonprescription sunscreen.
+
+  (B) *Procedure for updating regulations* — After the Secretary amends and finalizes the regulations under part 352 of title 21, Code of Federal Regulations under [section 360fff–5 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-5) and such regulations become effective, the Secretary may use direct final rulemaking to include in such regulations any nonprescription sunscreen active ingredients that are the subject of effective final sunscreen orders.
+
+
+<a id="section-360fff-4"></a>
+## § 360fff–4. Guidance; other provisions
+**(a) Guidance**
+
+(1) **In general**
+
+  (A) *Draft guidance* — Not later than 1 year after November 26, 2014, the Secretary shall issue draft guidance on the implementation of, and compliance with, the requirements with respect to sunscreen under this part, including guidance on—
+
+    (i) the format and content of information submitted by a sponsor in support of a request under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1) or a pending request;
+
+    (ii) the data required to meet the safety and efficacy standard for determining whether a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients is GRASE and is not misbranded;
+
+    (iii) the process by which a request under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1) or a pending request is withdrawn; and
+
+    (iv) the process by which the Secretary will carry out [section 360fff–3(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff–3/c&num=0&edition=prelim), including with respect to how the Secretary will address the total number of requests received under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1) and pending requests.
+
+  (B) *Final guidance* — The Secretary shall finalize the guidance described in subparagraph (A) not later than 2 years after November 26, 2014.
+
+  (C) *Inapplicability of Paperwork Reduction Act* — Chapter 35 of title 44 shall not apply to collections of information made for purposes of guidance under this subsection.
+
+(2) **Submissions pending issuance of final guidance** — Irrespective of whether final guidance under paragraph (1) has been issued—
+
+  (A) persons may, beginning on November 26, 2014, make submissions under this part; and
+
+  (B) the Secretary shall review and act upon such submissions in accordance with this part.
+
+**(b) Rules of construction**
+
+(1) **Currently marketed sunscreens** — Nothing in this part shall be construed to affect the marketing of sunscreens that are marketed in interstate commerce on or before November 26, 2014, except as otherwise provided in this part.
+
+(2) **Ensuring safety and effectiveness** — Nothing in this part shall be construed to alter the authority of the Secretary with respect to prohibiting the marketing of a sunscreen that is not safe and effective or is misbranded, or with respect to imposing restrictions on the marketing of a sunscreen to ensure safety and effectiveness, except as otherwise provided in this part, including [section 360fff–3(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff–3/e&num=0&edition=prelim).
+
+(3) **Other drugs** — Except as otherwise provided in [section 360fff–6 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-6), nothing in this part shall be construed to affect the authority of the Secretary under this chapter or the Public Health Service Act ([42 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) et seq.) with respect to a drug other than a nonprescription sunscreen.
+
+(4) **Effect on drugs otherwise approved** — Nothing in this part shall affect the marketing of a drug approved under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)].
+
+**(c) Timelines** The timelines for the processes and procedures under paragraphs (1), (2), (5), and (6) of [section 360fff–3(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff–3/a&num=0&edition=prelim) shall not apply to any requests submitted to the Secretary under [section 360fff–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-1) after the date that is 6 years after November 26, 2014.
+
+### Statutory Notes
+
+#### References in Text
+The Public Health Service Act, referred to in subsec. (b)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+
+
+<a id="section-360fff-5"></a>
+## § 360fff–5. Sunscreen monograph
+**(a) In general** Not later than 5 years after November 26, 2014, the Secretary shall amend and finalize regulations under part 352 of title 21, Code of Federal Regulations concerning nonprescription sunscreen that are effective not later than 5 years after November 26, 2014. The Secretary shall publish such regulations not less than 30 calendar days before the effective date of such regulations.
+
+**(b) Reports** If the regulations promulgated under subsection (a) do not include provisions related to the effectiveness of various sun protection factor levels, and do not address all dosage forms known to the Secretary to be used in sunscreens marketed in the United States without a new drug approval under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355), the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on the rationale for such provisions not being included in such regulations, and a plan and timeline to compile any information necessary to address such provisions through final regulations.
+
+
+<a id="section-360fff-6"></a>
+## § 360fff–6. Non-sunscreen time and extent applications
+**(a) Pending time and extent applications**
+
+(1) **In general**
+
+  (A) *Request for framework for review* — If, prior to November 26, 2014, an application was submitted pursuant to section 330.14 of title 21, Code of Federal Regulations for a GRASE determination for a drug other than a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients and such drug was found to be eligible to be considered for inclusion in the over-the-counter drug monograph system pursuant to section 330.14 of title 21, Code of Federal Regulations, the sponsor of such application may request that the Secretary provide a framework under paragraph (2) for the review of such application.
+
+  (B) *Request requirements* — A request for a framework for review of an application made under subparagraph (A) shall be made within 180 calendar days of November 26, 2014, and shall include the preference of such sponsor as to whether such application is reviewed by the Secretary in accordance with—
+
+    (i) the processes and procedures set forth for pending requests under [section 360fff–3(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff–3/b&num=0&edition=prelim), except that specific timelines shall be determined in accordance with other applicable requirements under this section;
+
+    (ii) the processes and procedures set forth under part 330 of title 21, Code of Federal Regulations (or any successor regulations);
+
+    (iii) an initial filing determination under the processes and procedures described in [section 360fff–2(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff–2/b&num=0&edition=prelim) and the processes and procedures set forth for pending requests under [section 360fff–3(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff–3/b&num=0&edition=prelim), except that specific timelines shall be determined in accordance with other applicable requirements under this section; or
+
+    (iv) an initial filing determination under the processes and procedures described in [section 360fff–2(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360fff–2/b&num=0&edition=prelim) and the processes and procedures set forth under part 330 of title 21, Code of Federal Regulations (or any successor regulations).
+
+  (C) *No request* — If a sponsor described in subparagraph (A) does not make such request within 180 calendar days of November 26, 2014, such application shall be reviewed by the Secretary in accordance with the timelines of the applicable regulations when such regulations are finalized under subsection (b).
+
+(2) **Framework** — Not later than 1 year after November 26, 2014, the Secretary shall provide, in writing, a framework to each sponsor that submitted a request under paragraph (1). Such framework shall set forth the various timelines, in calendar days, with respect to the processes and procedures for review under clauses (i), (ii), (iii), and (iv) of paragraph (1)(B) and—
+
+  (A) such timelines shall account for the considerations under paragraph (5); and
+
+  (B) the timelines for the various processes and procedures shall not be shorter than the timelines set forth for pending requests under sections 360fff–2(b) and 360fff–3(b) of this title, as applicable.
+
+(3) **Governing processes and procedures for review**
+
+  (A) *Election* — Not later than 60 calendar days after the Secretary provides a framework to a sponsor under paragraph (2), such sponsor may provide an election to the Secretary regarding the processes and procedures for review under clause (i), (ii), (iii), or (iv) of paragraph (1)(B). If such sponsor makes such election, the Secretary shall review the application that is the subject of such election pursuant to the processes and procedures elected by such sponsor and the applicable timelines in calendar days set forth under such framework, which the Secretary shall confirm in writing to the sponsor not later than the date upon which the Secretary provides a report under paragraph (4). If such sponsor does not make such election, such application shall be reviewed by the Secretary in accordance with the timelines of the applicable regulations when such regulations are finalized under subsection (b).
+
+  (B) *Different processes and procedures* — At any time during review of an application, the Secretary may review such application under different processes and procedures under clause (i), (ii), (iii), or (iv) of paragraph (1)(B) than the processes and procedures the sponsor elected in accordance with subparagraph (A), so long as the Secretary proposes, in writing, the change and the sponsor agrees, in writing, to such change.
+
+  (C) *Inclusion of ingredients in monographs* — If the sponsor elects to use the processes and procedures for review in accordance with clause (i) or (iii) of paragraph (1)(B), the Secretary may incorporate any resulting final order into a regulation addressing the conditions under which other drugs in the same therapeutic category are GRASE and not misbranded, including through direct final rulemaking, and the final order so incorporated shall cease to be effective on the effective date of the final regulation that addresses such drug.
+
+(4) **Letter regarding pending applications** — Not later than 18 months after November 26, 2014, the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, in writing, regarding all pending applications subject to paragraph (1). In such letter, the Secretary shall provide a report on the review of such applications, including the timelines, in calendar days, for the review and GRASE determination for each application. Such timelines shall account for the considerations under paragraph (5).
+
+(5) **Timelines** — The timelines in calendar days established by the Secretary pursuant to this subsection—
+
+  (A) may vary based on the content, complexity, and format of the application submitted to the Secretary; and
+
+  (B) shall—
+
+    (i) reflect the public health priorities of the Food and Drug Administration, including the potential public health benefits posed by the inclusion of additional drugs in the over-the-counter drug monograph system;
+
+    (ii) take into consideration the resources available to the Secretary for carrying out such priorities and the processes and procedures described in paragraphs (1)(B) and (2); and
+
+    (iii) be reasonable, taking into consideration the requirements described in clauses (i) and (ii).
+
+**(b) New time and extent applications**
+
+(1) **In general** — Not later than 18 months after November 26, 2014, the Secretary shall issue proposed regulations establishing timelines for the review of applications for GRASE determinations for drugs other than nonprescription sunscreen active ingredients or combinations of nonprescription sunscreen active ingredients that are submitted to the Secretary after November 26, 2014, under section 330.14 of title 21, Code of Federal Regulations (or any successor regulations), and that are found to be eligible to be considered for inclusion in the over-the-counter drug monograph system pursuant to section 330.14 of title 21, Code of Federal Regulations (or any successor regulations), or that are subject to this subsection pursuant to paragraph (1) or (3) of subsection (a), as applicable, providing—
+
+  (A) timely and efficient completion of evaluations of applications under section 330.14 of title 21, Code of Federal Regulations (or any successor regulations) for drugs other than sunscreens; and
+
+  (B) timely and efficient completion of the review of the safety and effectiveness submissions pursuant to such applications, including establishing—
+
+    (i) reasonable timelines, in calendar days, for the applicable proposed and final regulations for applications of various content, complexity, and format, and timelines for internal procedures related to such processes; and
+
+    (ii) measurable metrics for tracking the extent to which the timelines set forth in the regulations are met.
+
+(2) **Timelines** — The timelines in calendar days established in the regulations under paragraph (1)—
+
+  (A) may vary based on the content, complexity, and format of the application submitted to the Secretary; and
+
+  (B) shall—
+
+    (i) reflect the public health priorities of the Food and Drug Administration, including the potential public health benefits posed by the inclusion of additional drugs in the over-the-counter drug monograph system;
+
+    (ii) take into consideration the resources available to the Secretary for carrying out such priorities and the processes and procedures described in paragraph (1); and
+
+    (iii) be reasonable, taking into consideration the requirements described in clauses (i) and (ii).
+
+(3) **Procedure** — In promulgating regulations under this subsection, the Secretary shall issue a notice of proposed rulemaking that includes a copy of the proposed regulation, provide a period of not less than 60 calendar days for comments on the proposed regulation, and publish the final regulation not less than 30 calendar days before the effective date of the regulation.
+
+(4) **Restrictions** — Notwithstanding any other provision of law, the Secretary shall promulgate regulations implementing this section only as described in paragraphs (1), (2), and (3).
+
+(5) **Final regulations** — The Secretary shall finalize the regulations under this section not later than 27 months after November 26, 2014.
+
+
+<a id="section-360fff-7"></a>
+## § 360fff–7. Report
+**(a) In general**
+
+(1) **In general** — Not later than 18 months after November 26, 2014, and on the dates that are 2 and 4 years thereafter, the Secretary shall issue a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives describing actions taken under this part.
+
+(2) **Contents** — The reports under this subsection shall include—
+
+  (A) a review of the progress made in issuing GRASE determinations for pending requests, including the number of pending requests—
+
+    (i) reviewed and the decision times for each request, measured from the date of the original request for an eligibility determination submitted by the sponsor;
+
+    (ii) resulting in a determination that the nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients is GRASE and is not misbranded;
+
+    (iii) resulting in a determination that the nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients is not GRASE and is misbranded and the reasons for such determinations; and
+
+    (iv) for which a determination has not been made, and an explanation for the delay, a description of the current status of each such request, and the length of time each such request has been pending, measured from the date of original request for an eligibility determination by the sponsor;
+
+  (B) a review of the progress made in issuing GRASE determinations for requests not included in the reporting under subparagraph (A), including the number of such requests—
+
+    (i) reviewed and the decision times for each request;
+
+    (ii) resulting in a determination that the nonprescription sunscreen active ingredient, combination of nonprescription sunscreen active ingredients, or other ingredient is GRASE and is not misbranded;
+
+    (iii) resulting in a determination that the nonprescription sunscreen active ingredient, combination of nonprescription sunscreen active ingredients, or other ingredient is not GRASE and is misbranded and the reasons for such determinations; and
+
+    (iv) for which a determination has not been made, and an explanation for the delay, a description of the current status of each such request, and the length of time each such request has been pending, measured from the date of original request for an eligibility determination by the sponsor;
+
+  (C) an annual accounting (including information from years prior to November 26, 2014, where such information is available) of the total number of requests submitted, pending, or completed under this part, including whether such requests were the subject of an advisory committee convened by the Secretary;
+
+  (D) a description of the staffing and resources relating to the costs associated with the review and decisionmaking pertaining to requests under this part;
+
+  (E) a review of the progress made in meeting the deadlines with respect to processing requests under this part; and
+
+  (F) to the extent the Secretary determines appropriate, recommendations for process improvements in the handling of requests under this part, including the advisory committee review process.
+
+**(b) Method** The Secretary shall publish the reports under subsection (a) in the manner the Secretary determines to be the most effective for efficiently disseminating the report, including publication of the report on the Internet website of the Food and Drug Administration.
 
 
 <a id="section-360g"></a>
@@ -14029,10 +15824,10 @@ Amendment by section 213(a), (c) of Pub. L. 105–115 effective 90 days after No
 #### Effective Date of 1992 Amendment
 Pub. L. 102–300, § 2(b), June 16, 1992, 106 Stat. 238, provided that: “The amendments made by subsection (a) [amending sections 3(b)(3) and 3(c) of Pub. L. 101–629, set out as notes below] shall take effect as of May 27, 1992 and any rule to implement section 519(e) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360i(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360i/e&num=0&edition=prelim)] proposed under section 3(c)(2) of the Safe Medical Devices Act of 1990 [Pub. L. 101–629, set out as a note below] shall revert to its proposed status as of such date.”
 
-Pub. L. 102–300, § 5(b), June 16, 1992, 106 Stat. 240, provided that: “The amendments made by subsection (a) [amending this section] shall take effect— “(1) 1 year after the date of the enactment of this Act [June 16, 1992]; or “(2) on the effective date of regulations of the Secretary to implement such amendments, whichever occurs first.”
+Pub. L. 102–300, § 5(b), June 16, 1992, 106 Stat. 240, provided that: “The amendments made by subsection (a) [amending this section] shall take effect—“(1) 1 year after the date of the enactment of this Act [June 16, 1992]; or “(2) on the effective date of regulations of the Secretary to implement such amendments, whichever occurs first.”
 
 #### Effective Date of 1990 Amendment
-Pub. L. 101–629, § 2(c), Nov. 28, 1990, 104 Stat. 4513, provided that: “Section 519(b) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360i(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360i/b&num=0&edition=prelim)], as added by the amendment made by subsection (a), shall take effect— “(1) upon the effective date of regulations promulgated under subsection (b) [set out below], or “(2) upon the expiration of 12 months from the date of the enactment of this Act [Nov. 28, 1990], whichever occurs first.”
+Pub. L. 101–629, § 2(c), Nov. 28, 1990, 104 Stat. 4513, provided that: “Section 519(b) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360i(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360i/b&num=0&edition=prelim)], as added by the amendment made by subsection (a), shall take effect—“(1) upon the effective date of regulations promulgated under subsection (b) [set out below], or “(2) upon the expiration of 12 months from the date of the enactment of this Act [Nov. 28, 1990], whichever occurs first.”
 
 Pub. L. 101–629, § 3(a)(2), Nov. 28, 1990, 104 Stat. 4514, provided that: “Section 519(a)(6) [[21 U.S.C. 360i(a)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360i/a/6&num=0&edition=prelim)], as added by the amendment made by paragraph (1), shall take effect upon the effective date of final regulations under subsection (c) [set out below].”
 
@@ -14622,7 +16417,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ### Statutory Notes
 
 #### References in Text
-The Atomic Energy Act of 1954, referred to in subsec. (a)(1)(A), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (a)(1)(A), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was classified to [section 263e of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section263e&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
@@ -15052,7 +16847,9 @@ Enactment of this section not to be construed to supersede or limit the function
 
   (P) Yaws.
 
-  (Q) Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by regulation by the Secretary.
+  (Q) Filoviruses.
+
+  (R) Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by order of the Secretary.
 
 (4) **Tropical disease product application** — The term “tropical disease product application” means an application that—
 
@@ -15070,7 +16867,7 @@ Enactment of this section not to be construed to supersede or limit the function
 
 (1) **In general** — The Secretary shall award a priority review voucher to the sponsor of a tropical disease product application upon approval by the Secretary of such tropical disease product application.
 
-(2) **Transferability** — The sponsor of a tropical disease product that receives a priority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under [section 355(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b/1&num=0&edition=prelim) or [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) will be submitted after the date of the approval of the tropical disease product application.
+(2) **Transferability** — The sponsor of a tropical disease product that receives a priority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under [section 355(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b/1&num=0&edition=prelim) or [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) will be submitted after the date of the approval of the tropical disease product application. There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.
 
 (3) **Limitation**
 
@@ -15078,7 +16875,7 @@ Enactment of this section not to be construed to supersede or limit the function
 
   (B) *One-year waiting period* — The Secretary shall issue a priority review voucher to the sponsor of a tropical disease product no earlier than the date that is 1 year after September 27, 2007.
 
-(4) **Notification** — The sponsor of a human drug application shall notify the Secretary not later than 365 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
+(4) **Notification** — The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
 
 **(c) Priority review user fee**
 
@@ -15106,6 +16903,13 @@ Enactment of this section not to be construed to supersede or limit the function
 
 #### References in Text
 Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), is section 101(c) of Pub. L. 110–85, which is set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
+
+#### Amendments
+2014—Subsec. (a)(3)(Q), (R). Pub. L. 113–233, § 2(1), added subpar. (Q), redesignated former subpar. (Q) as (R), and in subpar. (R) substituted “order of” for “regulation by”.
+
+Subsec. (b)(2). Pub. L. 113–233, § 2(2)(A), inserted at end “There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.”
+
+Subsec. (b)(4). Pub. L. 113–233, § 2(2)(B), substituted “90 days” for “365 days”.
 
 
 <a id="section-360nn"></a>
@@ -15479,7 +17283,7 @@ Secretary and Department of Health, Education, and Welfare redesignated Secretar
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare [now Health and Human Services], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321).
 
-#### Notification of FDA Intent to Regulate Laboratory-Developed Tests
+#### Notification of FDA Intent To Regulate Laboratory-Developed Tests
 Pub. L. 112–144, title XI, § 1143, July 9, 2012, 126 Stat. 1130, provided that: “(a) In General.—The Food and Drug Administration may not issue any draft or final guidance on the regulation of laboratory-developed tests under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.) without, at least 60 days prior to such issuance—“(1) notifying the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate of the Administration’s intent to take such action; and “(2) including in such notification the anticipated details of such action. “(b) Sunset.—Subsection (a) shall cease to have force or effect on the date that is 5 years after the date of enactment of this Act [July 9, 2012].”
 
 #### Approval of Supplemental Applications for Approved Products
@@ -17069,7 +18873,7 @@ Pub. L. 110–85, title I, § 107, Sept. 27, 2007, 121 Stat. 842, provided that:
 #### Effective and Termination Dates of 2002 Amendment
 Amendment by Pub. L. 107–188 effective Oct. 1, 2002, see section 508 of Pub. L. 107–188, set out as an Effective Date of 2002 Amendment note under [section 356b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-356b).
 
-Pub. L. 107–188, title V, § 509, June 12, 2002, 116 Stat. 694, which provided that the amendments made by section 503 and 504 of Pub. L. 107–188 (amending this section and [section 379h of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379h)) would cease to be effective Oct. 1, 2007, and the amendment by section 505 of Pub. L. 107–188 (enacting provisions set out as a note below) would cease to be effective 120 days after Oct. 1, 2007, was repealed by Pub. L. 112–144, title I, § 105(d)(1)(A), July 9, 2012, 126 Stat. 1001.
+Pub. L. 107–188, title V, § 509, June 12, 2002, 116 Stat. 694, which provided that the amendments made by sections 503 and 504 of Pub. L. 107–188 (amending this section and [section 379h of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379h)) would cease to be effective Oct. 1, 2007, and the amendment by section 505 of Pub. L. 107–188 (enacting provisions set out as a note below) would cease to be effective 120 days after Oct. 1, 2007, was repealed by Pub. L. 112–144, title I, § 105(d)(1)(A), July 9, 2012, 126 Stat. 1001.
 
 [Pub. L. 112–144, title I, § 105(d)(1), July 9, 2012, 126 Stat. 1001, provided that the repeal of section 509 of Pub. L. 107–188, formerly set out above, is effective Sept. 30, 2007.]
 
@@ -17814,7 +19618,7 @@ Section effective Oct. 1, 2007, with fees under this subpart to be assessed for 
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 105(b) of Pub. L. 112–144, see Termination Date note below.
+For termination of section by section 105(b) of Pub. L. 112–144, see Effective and Termination Dates note below.
 
 #### References in Text
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(1)(A), is section 101(b) of Pub. L. 112–144, which is set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
@@ -18589,9 +20393,6 @@ For purposes of this subpart:
 
 ### Statutory Notes
 
-#### Amendment of Section
-For effective date of amendment by Pub. L. 113–14, see Effective Date of 2013 Amendment note below.
-
 #### Amendments
 2013—Pub. L. 113–14 amended section generally. Prior to amendment, section consisted of pars. (1) to (12) defining similar terms for this subpart.
 
@@ -18851,9 +20652,6 @@ Pub. L. 108–130, § 4, Nov. 18, 2003, 117 Stat. 1370, provided that: “(a) Pu
 
 ### Statutory Notes
 
-#### Amendment of Section
-For effective date of amendment by Pub. L. 113–14, see Effective Date of 2013 Amendment note below.
-
 #### Termination of Section
 For termination of section by section 107(a) of Pub. L. 113–14, see Termination Date note below.
 
@@ -18960,11 +20758,8 @@ Pub. L. 113–14, title I, § 107(a), June 13, 2013, 127 Stat. 464, provided tha
 
 ### Statutory Notes
 
-#### Amendment of Section
-For effective date of amendment by Pub. L. 113–14, see Effective Date of 2013 Amendment note below.
-
 #### Termination of Section
-For termination of section by section 107(b) of Pub. L. 113–14, see Termination Date note below.
+For termination of section by section 107(b) of Pub. L. 113–14, see Effective and Termination Dates note below.
 
 #### References in Text
 Section 101(b) of the Animal Drug User Fee Amendments of 2013, referred to in subsec. (a), is section 101(b) of Pub. L. 113–14, which is set out as a note under [section 379j–11 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11).
@@ -19176,9 +20971,6 @@ Section effective Oct. 1, 2008, with fees under this subpart to be assessed for 
 
 ### Statutory Notes
 
-#### Amendment of Section
-For effective date of amendment by Pub. L. 113–14, see Effective Date of 2013 Amendment note below.
-
 #### Termination of Section
 For termination of section by section 206(a) of Pub. L. 113–14, see Termination Date note below.
 
@@ -19263,9 +21055,6 @@ Pub. L. 110–316, title II, § 201(b), Aug. 14, 2008, 122 Stat. 3515, provided 
 
 ### Statutory Notes
 
-#### Amendment of Section
-For effective date of amendment by Pub. L. 113–14, see Effective Date of 2013 Amendment note below.
-
 #### Termination of Section
 For termination of section by section 206(b) of Pub. L. 113–14, see Termination Date note below.
 
@@ -19337,13 +21126,11 @@ Pub. L. 110–316, title II, § 204(b), Aug. 14, 2008, 122 Stat. 3524, which pro
 
     (i) *Voluntary qualified importer program* — In establishing the fee amounts under subparagraph (A)(iii) for a fiscal year, the Secretary shall provide for the number of importers who have submitted to the Secretary a notice under [section 384b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section384b/c&num=0&edition=prelim) informing the Secretary of the intent of such importer to participate in the program under [section 384b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384b) in such fiscal year.
 
-      (II) *11 So in original. No subcl. (I) has been enacted. Recoupment* — In establishing the fee amounts under subparagraph (A)(iii) for the first 5 fiscal years after January 4, 2011, the Secretary shall include in such fee a reasonable surcharge that provides a recoupment of the costs expended by the Secretary to establish and implement the first year of the program under [section 384b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384b).
+  (II) *11 So in original. No subcl. (I) has been enacted. Recoupment* — In establishing the fee amounts under subparagraph (A)(iii) for the first 5 fiscal years after January 4, 2011, the Secretary shall include in such fee a reasonable surcharge that provides a recoupment of the costs expended by the Secretary to establish and implement the first year of the program under [section 384b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384b).
 
-    (ii) *Crediting of fees* — In establishing the fee amounts under subparagraph (A) for a fiscal year, the Secretary shall provide for the crediting of fees from the previous year to the next year if the Secretary overestimated the amount of fees needed to carry out such activities, and consider the need to account for any adjustment of fees and such other factors as the Secretary determines appropriate.
+**(ii) Crediting of fees** In establishing the fee amounts under subparagraph (A) for a fiscal year, the Secretary shall provide for the crediting of fees from the previous year to the next year if the Secretary overestimated the amount of fees needed to carry out such activities, and consider the need to account for any adjustment of fees and such other factors as the Secretary determines appropriate.
 
-    (iii) *Published guidelines* — Not later than 180 days after January 4, 2011, the Secretary shall publish in the Federal Register a proposed set of guidelines in consideration of the burden of fee amounts on small business. Such consideration may include reduced fee amounts for small businesses. The Secretary shall provide for a period of public comment on such guidelines. The Secretary shall adjust the fee schedule for small businesses subject to such fees only through notice and comment rulemaking.
-
-(3) **Use of fees** — The Secretary shall make all of the fees collected pursuant to clause 22 So in original. Probably should be “clauses”. (i), (ii), (iii), and (iv) of paragraph (2)(A) available solely to pay for the costs referred to in such clause (i), (ii), (iii), and (iv) of paragraph (2)(A), respectively.
+**(iii) Published guidelines** Not later than 180 days after January 4, 2011, the Secretary shall publish in the Federal Register a proposed set of guidelines in consideration of the burden of fee amounts on small business. Such consideration may include reduced fee amounts for small businesses. The Secretary shall provide for a period of public comment on such guidelines. The Secretary shall adjust the fee schedule for small businesses subject to such fees only through notice and comment rulemaking. (3) Use of feesThe Secretary shall make all of the fees collected pursuant to clause 22 So in original. Probably should be “clauses”. (i), (ii), (iii), and (iv) of paragraph (2)(A) available solely to pay for the costs referred to in such clause (i), (ii), (iii), and (iv) of paragraph (2)(A), respectively.
 
 **(c) Limitations**
 
@@ -19592,7 +21379,7 @@ Pub. L. 112–144, title III, § 301(b), July 9, 2012, 126 Stat. 1008, provided 
 
   (D) *Refund of fee if abbreviated new drug application is not considered to have been received* — The Secretary shall refund 75 percent of the fee paid under subparagraph (A) for any abbreviated new drug application or prior approval supplement to an abbreviated new drug application that the Secretary considers not to have been received within the meaning of [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim) for a cause other than failure to pay fees.
 
-  (E) *Fee for an application the secretary considers not to have been received, or that has been withdrawn* — An abbreviated new drug application or prior approval supplement that was submitted on or after October 1, 2012, and that the Secretary considers not to have been received, or that has been withdrawn, shall, upon resubmission of the application or a subsequent new submission following the applicant’s withdrawal of the application, be subject to a full fee under subparagraph (A).
+  (E) *Fee for an application the Secretary considers not to have been received, or that has been withdrawn* — An abbreviated new drug application or prior approval supplement that was submitted on or after October 1, 2012, and that the Secretary considers not to have been received, or that has been withdrawn, shall, upon resubmission of the application or a subsequent new submission following the applicant’s withdrawal of the application, be subject to a full fee under subparagraph (A).
 
   (F) *Additional fee for active pharmaceutical ingredient information not included by reference to Type II active pharmaceutical ingredient drug master file* — An applicant that submits a generic drug submission on or after October 1, 2012, shall pay a fee, in the amount determined under subsection (d)(3), in addition to the fee required under subparagraph (A), if—
 
@@ -20300,6 +22087,105 @@ Section 401(b) of the Biosimilar User Fee Act of 2012, referred to in subsec. (a
 Pub. L. 112–144, title IV, § 404(b), July 9, 2012, 126 Stat. 1038, provided that: “Section 744I of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–53](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-53)], as added by section 403 of this Act, shall cease to be effective January 31, 2018.”
 
 Section effective Oct. 1, 2012, see section 405 of Pub. L. 112–144, set out as a note under [section 379j–51 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51).
+
+
+<a id="section-379j-61"></a>
+## § 379j–61. Definitions
+
+In this subpart:
+
+(1) The term “affiliate” has the meaning given such term in [section 379g(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379g/11&num=0&edition=prelim).
+
+(2) The term “gross annual sales” means the total worldwide gross annual sales, in United States dollars, for an outsourcing facility, including the sales of all the affiliates of the outsourcing facility.
+
+(3) The term “outsourcing facility” has the meaning given to such term in [section 353b(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353b/d/4&num=0&edition=prelim).
+
+(4) The term “reinspection” means, with respect to an outsourcing facility, 1 or more inspections conducted under [section 374 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-374) subsequent to an inspection conducted under such provision which identified noncompliance materially related to an applicable requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary’s satisfaction.
+
+
+<a id="section-379j-62"></a>
+## § 379j–62. Authority to assess and use outsourcing facility fees
+**(a) Establishment and reinspection fees**
+
+(1) **In general** — For fiscal year 2015 and each subsequent fiscal year, the Secretary shall, in accordance with this subsection, assess and collect—
+
+  (A) an annual establishment fee from each outsourcing facility; and
+
+  (B) a reinspection fee from each outsourcing facility subject to a reinspection in such fiscal year.
+
+(2) **Multiple reinspections** — An outsourcing facility subject to multiple reinspections in a fiscal year shall be subject to a reinspection fee for each reinspection.
+
+**(b) Establishment and reinspection fee setting** The Secretary shall—
+
+(1) establish the amount of the establishment fee and reinspection fee to be collected under this section for each fiscal year based on the methodology described in subsection (c); and
+
+(2) publish such fee amounts in a Federal Register notice not later than 60 calendar days before the start of each such year.
+
+**(c) Amount of establishment fee and reinspection fee**
+
+(1) **In general** — For each outsourcing facility in a fiscal year—
+
+  (A) except as provided in paragraph (4), the amount of the annual establishment fee under subsection (b) shall be equal to the sum of—
+
+    (i) $15,000, multiplied by the inflation adjustment factor described in paragraph (2); plus
+
+    (ii) the small business adjustment factor described in paragraph (3); and
+
+  (B) the amount of any reinspection fee (if applicable) under subsection (b) shall be equal to $15,000, multiplied by the inflation adjustment factor described in paragraph (2).
+
+(2) **Inflation adjustment factor**
+
+  (A) *In general* — For fiscal year 2015 and subsequent fiscal years, the fee amounts established in paragraph (1) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year by the amount equal to the sum of—
+
+    (i) 1;
+
+    (ii) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by the proportion of personnel compensation and benefits costs to total costs of an average full-time equivalent position of the Food and Drug Administration for the first 3 years of the preceding 4 fiscal years; plus
+
+    (iii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (U.S. City Average; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of an average full-time equivalent position of the Food and Drug Administration for the first 3 years of the preceding 4 fiscal years.
+
+  (B) *Compounded basis* — The adjustment made each fiscal year under subparagraph (A) shall be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 2014 under subparagraph (A).
+
+(3) **Small business adjustment factor** — The small business adjustment factor described in this paragraph shall be an amount established by the Secretary for each fiscal year based on the Secretary’s estimate of—
+
+  (A) the number of small businesses that will pay a reduced establishment fee for such fiscal year; and
+
+  (B) the adjustment to the establishment fee necessary to achieve total fees equaling the total fees that the Secretary would have collected if no entity qualified for the small business exception in paragraph (4).
+
+(4) **Exception for small businesses**
+
+  (A) *In general* — In the case of an outsourcing facility with gross annual sales of $1,000,000 or less in the 12 months ending April 1 of the fiscal year immediately preceding the fiscal year in which the fees under this section are assessed, the amount of the establishment fee under subsection (b) for a fiscal year shall be equal to \1/3\ of the amount calculated under paragraph (1)(A)(i) for such fiscal year.
+
+  (B) *Application* — To qualify for the exception under this paragraph, a small business shall submit to the Secretary a written request for such exception, in a format specified by the Secretary in guidance, certifying its gross annual sales for the 12 months ending April 1 of the fiscal year immediately preceding the fiscal year in which fees under this subsection are assessed. Any such application shall be submitted to the Secretary not later than April 30 of such immediately preceding fiscal year.
+
+(5) **Crediting of fees** — In establishing the small business adjustment factor under paragraph (3) for a fiscal year, the Secretary shall—
+
+  (A) provide for the crediting of fees from the previous year to the next year if the Secretary overestimated the amount of the small business adjustment factor for such previous fiscal year; and
+
+  (B) consider the need to account for any adjustment of fees and such other factors as the Secretary determines appropriate.
+
+**(d) Use of fees** The Secretary shall make all of the fees collected pursuant to subparagraphs (A) and (B) of subsection (a)(1) available solely to pay for the costs of oversight of outsourcing facilities.
+
+**(e) Supplement not supplant** Funds received by the Secretary pursuant to this section shall be used to supplement and not supplant any other Federal funds available to carry out the activities described in this section.
+
+**(f) Crediting and availability of fees** Fees authorized under this section shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the purpose of paying the costs of oversight of outsourcing facilities.
+
+**(g) Collection of fees**
+
+(1) **Establishment fee** — An outsourcing facility shall remit the establishment fee due under this section in a fiscal year when submitting a registration pursuant to [section 353b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353b/b&num=0&edition=prelim) for such fiscal year.
+
+(2) **Reinspection fee** — The Secretary shall specify in the Federal Register notice described in subsection (b)(2) the manner in which reinspection fees assessed under this section shall be collected and the timeline for payment of such fees. Such a fee shall be collected after the Secretary has conducted a reinspection of the outsourcing facility involved.
+
+(3) **Effect of failure to pay fees**
+
+  (A) *Registration* — An outsourcing facility shall not be considered registered under [section 353b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353b/b&num=0&edition=prelim) in a fiscal year until the date that the outsourcing facility remits the establishment fee under this subsection for such fiscal year.
+
+  (B) *Misbranding* — All drugs manufactured, prepared, propagated, compounded, or processed by an outsourcing facility for which any establishment fee or reinspection fee has not been paid, as required by this section, shall be deemed misbranded under [section 352 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-352) until the fees owed for such outsourcing facility under this section have been paid.
+
+(4) **Collection of unpaid fees** — In any case where the Secretary does not receive payment of a fee assessed under this section within 30 calendar days after it is due, such fee shall be treated as a claim of the United States Government subject to provisions of subchapter II of chapter 37 of title 31.
+
+**(h) Annual report to Congress** Not later than 120 calendar days after each fiscal year in which fees are assessed and collected under this section, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to include a description of fees assessed and collected for such year, a summary description of entities paying the fees, a description of the hiring and placement of new staff, a description of the use of fee resources to support inspecting outsourcing facilities, and the number of inspections and reinspections of such facilities performed each year.
+
+**(i) Authorization of appropriations** For fiscal year 2014 and each subsequent fiscal year, there is authorized to be appropriated for fees under this section an amount equivalent to the total amount of fees assessed for such fiscal year under this section.
 
 
 <a id="section-379k"></a>
@@ -21884,38 +23770,54 @@ A prior section 901 of act June 25, 1938, was renumbered section 1001 and is cla
   (F) become effective on the date that is 1 year after June 22, 2009; and
 
   (G) amend paragraph (d) of section 897.16 to read as follows:
-“(d)(1) Except as provided in subparagraph (2), no manufacturer, distributor, or retailer may distribute or cause to be distributed any free samples of cigarettes, smokeless tobacco, or other tobacco products (as such term is defined in section 201 of the Federal Food, Drug, and Cosmetic Act).
-“(2)(A) Subparagraph (1) does not prohibit a manufacturer, distributor, or retailer from distributing or causing to be distributed free samples of smokeless tobacco in a qualified adult-only facility.
-“(B) This subparagraph does not affect the authority of a State or local government to prohibit or otherwise restrict the distribution of free samples of smokeless tobacco.
-“(C) For purposes of this paragraph, the term ‘qualified adult-only facility’ means a facility or restricted area that—
-“(i) requires each person present to provide to a law enforcement officer (whether on or off duty) or to a security guard licensed by a governmental entity government-issued identification showing a photograph and at least the minimum age established by applicable law for the purchase of smokeless tobacco;
-“(ii) does not sell, serve, or distribute alcohol;
-“(iii) is not located adjacent to or immediately across from (in any direction) a space that is used primarily for youth-oriented marketing, promotional, or other activities;
-“(iv) is a temporary structure constructed, designated, and operated as a distinct enclosed area for the purpose of distributing free samples of smokeless tobacco in accordance with this subparagraph;
-“(v) is enclosed by a barrier that—
-“(I) is constructed of, or covered with, an opaque material (except for entrances and exits);
-“(II) extends from no more than 12 inches above the ground or floor (which area at the bottom of the barrier must be covered with material that restricts visibility but may allow airflow) to at least 8 feet above the ground or floor (or to the ceiling); and
-“(III) prevents persons outside the qualified adult-only facility from seeing into the qualified adult-only facility, unless they make unreasonable efforts to do so; and
-“(vi) does not display on its exterior—
-“(I) any tobacco product advertising;
-“(II) a brand name other than in conjunction with words for an area or enclosure to identify an adult-only facility; or
-“(III) any combination of words that would imply to a reasonable observer that the manufacturer, distributor, or retailer has a sponsorship that would violate section 897.34(c).
-“(D) Distribution of samples of smokeless tobacco under this subparagraph permitted to be taken out of the qualified adult-only facility shall be limited to 1 package per adult consumer containing no more than 0.53 ounces (15 grams) of smokeless tobacco. If such package of smokeless tobacco contains individual portions of smokeless tobacco, the individual portions of smokeless tobacco shall not exceed 8 individual portions and the collective weight of such individual portions shall not exceed 0.53 ounces (15 grams). Any manufacturer, distributor, or retailer who distributes or causes to be distributed free samples also shall take reasonable steps to ensure that the above amounts are limited to one such package per adult consumer per day.
-“(3) Notwithstanding subparagraph (2), no manufacturer, distributor, or retailer may distribute or cause to be distributed any free samples of smokeless tobacco—
-“(A) to a sports team or entertainment group; or
-“(B) at any football, basketball, baseball, soccer, or hockey event or any other sporting or entertainment event determined by the Secretary to be covered by this subparagraph.
-“(4) The Secretary shall implement a program to ensure compliance with this paragraph and submit a report to the Congress on such compliance not later than 18 months after the date of enactment of the Family Smoking Prevention and Tobacco Control Act.
-“(5) Nothing in this paragraph shall be construed to authorize any person to distribute or cause to be distributed any sample of a tobacco product to any individual who has not attained the minimum age established by applicable law for the purchase of such product.”.
 
-(3) **Amendments to rule** — Prior to making amendments to the rule published under paragraph (1), the Secretary shall promulgate a proposed rule in accordance with chapter 5 of title 5.
+**(d)**
 
-(4) **Rule of construction** — Except as provided in paragraph (3), nothing in this section shall be construed to limit the authority of the Secretary to amend, in accordance with chapter 5 of title 5, the regulation promulgated pursuant to this section, including the provisions of such regulation relating to distribution of free samples.
+(1) Except as provided in subparagraph (2), no manufacturer, distributor, or retailer may distribute or cause to be distributed any free samples of cigarettes, smokeless tobacco, or other tobacco products (as such term is defined in section 201 of the Federal Food, Drug, and Cosmetic Act).
 
-(5) **Enforcement of retail sale provisions** — The Secretary of Health and Human Services shall ensure that the provisions of this division, the amendments made by this division, and the implementing regulations (including such provisions, amendments, and regulations relating to the retail sale of tobacco products) are enforced with respect to the United States and Indian tribes.
+(2)
 
-(6) **Qualified adult-only facility** — A qualified adult-only facility (as such term is defined in section 897.16(d) of the final rule published under paragraph (1)) that is also a retailer and that commits a violation as a retailer shall not be subject to the limitations in section 103(q) 33 So in original. See References in Text note below. and shall be subject to penalties applicable to a qualified adult-only facility.
+  (A) Subparagraph (1) does not prohibit a manufacturer, distributor, or retailer from distributing or causing to be distributed free samples of smokeless tobacco in a qualified adult-only facility.
 
-(7) **Congressional review provisions** — [Section 801 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section801&num=0&edition=prelim) shall not apply to the final rule published under paragraph (1).
+  (B) This subparagraph does not affect the authority of a State or local government to prohibit or otherwise restrict the distribution of free samples of smokeless tobacco.
+
+  (C) For purposes of this paragraph, the term ‘qualified adult-only facility’ means a facility or restricted area that—
+
+    (i) requires each person present to provide to a law enforcement officer (whether on or off duty) or to a security guard licensed by a governmental entity government-issued identification showing a photograph and at least the minimum age established by applicable law for the purchase of smokeless tobacco;
+
+    (ii) does not sell, serve, or distribute alcohol;
+
+    (iii) is not located adjacent to or immediately across from (in any direction) a space that is used primarily for youth-oriented marketing, promotional, or other activities;
+
+    (iv) is a temporary structure constructed, designated, and operated as a distinct enclosed area for the purpose of distributing free samples of smokeless tobacco in accordance with this subparagraph;
+
+    (v) is enclosed by a barrier that—
+
+      (I) is constructed of, or covered with, an opaque material (except for entrances and exits);
+
+      (II) extends from no more than 12 inches above the ground or floor (which area at the bottom of the barrier must be covered with material that restricts visibility but may allow airflow) to at least 8 feet above the ground or floor (or to the ceiling); and
+
+      (III) prevents persons outside the qualified adult-only facility from seeing into the qualified adult-only facility, unless they make unreasonable efforts to do so; and
+
+    (vi) does not display on its exterior—
+
+      (I) any tobacco product advertising;
+
+      (II) a brand name other than in conjunction with words for an area or enclosure to identify an adult-only facility; or
+
+      (III) any combination of words that would imply to a reasonable observer that the manufacturer, distributor, or retailer has a sponsorship that would violate section 897.34(c).
+
+  (D) Distribution of samples of smokeless tobacco under this subparagraph permitted to be taken out of the qualified adult-only facility shall be limited to 1 package per adult consumer containing no more than 0.53 ounces (15 grams) of smokeless tobacco. If such package of smokeless tobacco contains individual portions of smokeless tobacco, the individual portions of smokeless tobacco shall not exceed 8 individual portions and the collective weight of such individual portions shall not exceed 0.53 ounces (15 grams). Any manufacturer, distributor, or retailer who distributes or causes to be distributed free samples also shall take reasonable steps to ensure that the above amounts are limited to one such package per adult consumer per day.
+
+(3) Notwithstanding subparagraph (2), no manufacturer, distributor, or retailer may distribute or cause to be distributed any free samples of smokeless tobacco—
+
+  (A) to a sports team or entertainment group; or
+
+  (B) at any football, basketball, baseball, soccer, or hockey event or any other sporting or entertainment event determined by the Secretary to be covered by this subparagraph.
+
+(4) The Secretary shall implement a program to ensure compliance with this paragraph and submit a report to the Congress on such compliance not later than 18 months after the date of enactment of the Family Smoking Prevention and Tobacco Control Act.
+
+(5) Nothing in this paragraph shall be construed to authorize any person to distribute or cause to be distributed any sample of a tobacco product to any individual who has not attained the minimum age established by applicable law for the purchase of such product.”. (3) Amendments to rulePrior to making amendments to the rule published under paragraph (1), the Secretary shall promulgate a proposed rule in accordance with chapter 5 of title 5. (4) Rule of constructionExcept as provided in paragraph (3), nothing in this section shall be construed to limit the authority of the Secretary to amend, in accordance with chapter 5 of title 5, the regulation promulgated pursuant to this section, including the provisions of such regulation relating to distribution of free samples. (5) Enforcement of retail sale provisionsThe Secretary of Health and Human Services shall ensure that the provisions of this division, the amendments made by this division, and the implementing regulations (including such provisions, amendments, and regulations relating to the retail sale of tobacco products) are enforced with respect to the United States and Indian tribes. (6) Qualified adult-only facilityA qualified adult-only facility (as such term is defined in section 897.16(d) of the final rule published under paragraph (1)) that is also a retailer and that commits a violation as a retailer shall not be subject to the limitations in section 103(q) 33 So in original. See References in Text note below. and shall be subject to penalties applicable to a qualified adult-only facility. (7) Congressional review provisions[Section 801 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section801&num=0&edition=prelim) shall not apply to the final rule published under paragraph (1).
 
 **(b) Limitation on advisory opinions** As of June 22, 2009, the following documents issued by the Food and Drug Administration shall not constitute advisory opinions under section 10.85(d)(1) of title 21, Code of Federal Regulations, except as they apply to tobacco products, and shall not be cited by the Secretary of Health and Human Services or the Food and Drug Administration as binding precedent:
 
@@ -23471,7 +25373,7 @@ Pub. L. 105–115, title I, § 129, Nov. 21, 1997, 111 Stat. 2331, provided that
 Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 
 #### Advancing Regulatory Science To Promote Public Health Innovation
-Pub. L. 112–144, title XI, § 1124, July 9, 2012, 126 Stat. 1114, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [July 9, 2012], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall develop a strategy and implementation plan for advancing regulatory science for medical products in order to promote the public health and advance innovation in regulatory decisionmaking. “(b) Requirements.—The strategy and implementation plan developed under subsection (a) shall be consistent with the user fee performance goals in the Prescription Drug User Fee Agreement commitment letter, the Generic Drug User Fee Agreement commitment letter, and the Biosimilar User Fee Agreement commitment letter transmitted by the Secretary to Congress on January 13, 2012, and the Medical Device User Fee Agreement commitment letter transmitted by the Secretary to Congress on April 20, 2012, and shall—“(1) identify a clear vision of the fundamental role of efficient, consistent, and predictable, science-based decisions throughout regulatory decisionmaking of the Food and Drug Administration with respect to medical products; “(2) identify the regulatory science priorities of the Food and Drug Administration directly related to fulfilling the mission of the agency with respect to decisionmaking concerning medical products and allocation of resources toward such regulatory science priorities; “(3) identify regulatory and scientific gaps that impede the timely development and review of, and regulatory certainty with respect to, the approval, licensure, or clearance of medical products, including with respect to companion products and new technologies, and facilitating the timely introduction and adoption of new technologies and methodologies in a safe and effective manner; “(4) identify clear, measurable metrics by which progress on the priorities identified under paragraph (2) and gaps identified under paragraph (3) will be measured by the Food and Drug Administration, including metrics specific to the integration and adoption of advances in regulatory science described in paragraph (5) and improving medical product decisionmaking, in a predictable and science-based manner; and “(5) set forth how the Food and Drug Administration will ensure that advances in regulatory science for medical products are adopted, as appropriate, on an ongoing basis and in an manner integrated across centers, divisions, and branches of the Food and Drug Administration, including by senior managers and reviewers, including through the—“(A) development, updating, and consistent application of guidance documents that support medical product decisionmaking; and “(B) adoption of the tools, methods, and processes under section 566 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bbb–5](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-5)). “(c) Performance Reports.—The annual performance reports submitted to Congress under sections 736B(a) [[21 U.S.C. 379h–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379h–2/a&num=0&edition=prelim)] (as amended by section 104 of this Act), 738A(a) [[21 U.S.C. 379j–1(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–1/a&num=0&edition=prelim)] (as amended by section 204 of this Act), 744C(a) [[21 U.S.C. 379j–43(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–43/a&num=0&edition=prelim)] (as added by section 303 of this Act), and 744I(a) [[21 U.S.C. 379j–53(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–53/a&num=0&edition=prelim)] (as added by section 403 of this Act) of the Federal Food, Drug, and Cosmetic Act for each of fiscal years 2014 and 2016, shall include a report from the Secretary on the progress made with respect to—“(1) advancing the regulatory science priorities identified under paragraph (2) of subsection (b) and resolving the gaps identified under paragraph (3) of such subsection, including reporting on specific metrics identified under paragraph (4) of such subsection; “(2) the integration and adoption of advances in regulatory science as set forth in paragraph (5) of such subsection; and “(3) the progress made in advancing the regulatory science goals outlined in the Prescription Drug User Fee Agreement commitment letter, the Generic Drug User Fee Agreement commitment letter, and the Biosimilar User Fee Agreement commitment letter transmitted by the Secretary to Congress on January 13, 2012, and the Medical Device User Fee Agreement transmitted by the Secretary to Congress on April 20, 2012. “(d) Medical Product.—In this section, the term ‘medical product’ means a drug, as defined in subsection (g) of section 201 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321)), a device, as defined in subsection (h) of such section, or a biological product, as defined in section 351(i) of the Public Health Service Act [[42 U.S.C. 262(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/i&num=0&edition=prelim)].”
+Pub. L. 112–144, title XI, § 1124, July 9, 2012, 126 Stat. 1114, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [July 9, 2012], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall develop a strategy and implementation plan for advancing regulatory science for medical products in order to promote the public health and advance innovation in regulatory decisionmaking. “(b) Requirements.—The strategy and implementation plan developed under subsection (a) shall be consistent with the user fee performance goals in the Prescription Drug User Fee Agreement commitment letter, the Generic Drug User Fee Agreement commitment letter, and the Biosimilar User Fee Agreement commitment letter transmitted by the Secretary to Congress on January 13, 2012, and the Medical Device User Fee Agreement commitment letter transmitted by the Secretary to Congress on April 20, 2012, and shall—“(1) identify a clear vision of the fundamental role of efficient, consistent, and predictable, science-based decisions throughout regulatory decisionmaking of the Food and Drug Administration with respect to medical products; “(2) identify the regulatory science priorities of the Food and Drug Administration directly related to fulfilling the mission of the agency with respect to decisionmaking concerning medical products and allocation of resources toward such regulatory science priorities; “(3) identify regulatory and scientific gaps that impede the timely development and review of, and regulatory certainty with respect to, the approval, licensure, or clearance of medical products, including with respect to companion products and new technologies, and facilitating the timely introduction and adoption of new technologies and methodologies in a safe and effective manner; “(4) identify clear, measurable metrics by which progress on the priorities identified under paragraph (2) and gaps identified under paragraph (3) will be measured by the Food and Drug Administration, including metrics specific to the integration and adoption of advances in regulatory science described in paragraph (5) and improving medical product decisionmaking, in a predictable and science-based manner; and “(5) set forth how the Food and Drug Administration will ensure that advances in regulatory science for medical products are adopted, as appropriate, on an ongoing basis and in an [sic] manner integrated across centers, divisions, and branches of the Food and Drug Administration, including by senior managers and reviewers, including through the—“(A) development, updating, and consistent application of guidance documents that support medical product decisionmaking; and “(B) adoption of the tools, methods, and processes under section 566 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bbb–5](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-5)). “(c) Performance Reports.—The annual performance reports submitted to Congress under sections 736B(a) [[21 U.S.C. 379h–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379h–2/a&num=0&edition=prelim)] (as amended by section 104 of this Act), 738A(a) [[21 U.S.C. 379j–1(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–1/a&num=0&edition=prelim)] (as amended by section 204 of this Act), 744C(a) [[21 U.S.C. 379j–43(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–43/a&num=0&edition=prelim)] (as added by section 303 of this Act), and 744I(a) [[21 U.S.C. 379j–53(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–53/a&num=0&edition=prelim)] (as added by section 403 of this Act) of the Federal Food, Drug, and Cosmetic Act for each of fiscal years 2014 and 2016, shall include a report from the Secretary on the progress made with respect to—“(1) advancing the regulatory science priorities identified under paragraph (2) of subsection (b) and resolving the gaps identified under paragraph (3) of such subsection, including reporting on specific metrics identified under paragraph (4) of such subsection; “(2) the integration and adoption of advances in regulatory science as set forth in paragraph (5) of such subsection; and “(3) the progress made in advancing the regulatory science goals outlined in the Prescription Drug User Fee Agreement commitment letter, the Generic Drug User Fee Agreement commitment letter, and the Biosimilar User Fee Agreement commitment letter transmitted by the Secretary to Congress on January 13, 2012, and the Medical Device User Fee Agreement transmitted by the Secretary to Congress on April 20, 2012. “(d) Medical Product.—In this section, the term ‘medical product’ means a drug, as defined in subsection (g) of section 201 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321)), a device, as defined in subsection (h) of such section, or a biological product, as defined in section 351(i) of the Public Health Service Act [[42 U.S.C. 262(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/i&num=0&edition=prelim)].”
 
 #### Information Technology
 Pub. L. 112–144, title XI, § 1125, July 9, 2012, 126 Stat. 1115, provided that: “(a) HHS Report.—Not later than 1 year after the date of enactment of this Act [July 9, 2012], the Secretary of Health and Human Services shall—“(1) report to Congress on—“(A) the milestones and a completion date for developing and implementing a comprehensive information technology strategic plan to align the information technology systems modernization projects with the strategic goals of the Food and Drug Administration, including results-oriented goals, strategies, milestones, performance measures; “(B) efforts to finalize and approve a comprehensive inventory of the information technology systems of the Food and Drug Administration that includes information describing each system, such as costs, system function or purpose, and status information, and incorporate use of the system portfolio into the information investment management process of the Food and Drug Administration; “(C) the ways in which the Food and Drug Administration uses the plan described in subparagraph (A) to guide and coordinate the modernization projects and activities of the Food and Drug Administration, including the interdependencies among projects and activities; and “(D) the extent to which the Food and Drug Administration has fulfilled or is implementing recommendations of the Government Accountability Office with respect to the Food and Drug Administration and information technology; and “(2) develop—“(A) a documented enterprise architecture program management plan that includes the tasks, activities, and timeframes associated with developing and using the architecture and addresses how the enterprise architecture program management will be performed in coordination with other management disciplines, such as organizational strategic planning, capital planning and investment control, and performance management; and “(B) a skills inventory, needs assessment, gap analysis, and initiatives to address skills gaps as part of a strategic approach to information technology human capital planning. “(b) GAO Report.—Not later than January 1, 2016, the Comptroller General of the United States shall issue a report regarding the strategic plan described in subsection (a)(1)(A) and related actions carried out by the Food and Drug Administration. Such report shall assess the progress the Food and Drug Administration has made on—“(1) the development and implementation of a comprehensive information technology strategic plan, including the results-oriented goals, strategies, milestones, and performance measures identified in subsection (a)(1)(A); “(2) the effectiveness of the comprehensive information technology strategic plan described in subsection (a)(1)(A), including the results-oriented goals and performance measures; and “(3) the extent to which the Food and Drug Administration has fulfilled recommendations of the Government Accountability Office with respect to such agency and information technology.”

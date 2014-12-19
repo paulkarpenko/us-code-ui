@@ -55,7 +55,7 @@ In this chapter:
 
 (5) The Executive Director of the Center, who shall serve as an ex officio member of the Board.
 
-**(c) Term of office** The term of office of each member of the Board appointed under paragraphs (1), (2), (3), and (4) of subsection (b) of this section shall be six years, except that—
+**(c) Term of office** The term of office of each member of the Board appointed under paragraphs (1), (2), (3), and (4) of subsection (b) shall be six years, except that—
 
 (1) the members first appointed under paragraphs (1) and (2) shall serve, as designated by the majority leader of the Senate, one for a term of two years, one for a term of four years, and one for a term of six years;
 
@@ -109,7 +109,7 @@ In this chapter:
 
 <a id="section-1105"></a>
 ## § 1105. John C. Stennis Center for Public Service Development Trust Fund
-**(a) Establishment of fund** There is established in the Treasury of the United States a trust fund to be known as the “John C. Stennis Center for Public Service Development Trust Fund”. The fund shall consist of amounts appropriated to it pursuant to [section 1110 of this title](./chapter-022-john-c-stennis-center-for-public-service-training-and-development.md#section-1110) and amounts credited to it under subsection (d) of this section.
+**(a) Establishment of fund** There is established in the Treasury of the United States a trust fund to be known as the “John C. Stennis Center for Public Service Development Trust Fund”. The fund shall consist of amounts appropriated to it pursuant to [section 1110 of this title](./chapter-022-john-c-stennis-center-for-public-service-training-and-development.md#section-1110) and amounts credited to it under subsection (d).
 
 **(b) Investment of fund assets**
 
@@ -117,7 +117,7 @@ In this chapter:
 
 (2) The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of special obligations directly to the fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month next preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt; except that where such average rate is not a multiple of one-eighth of 1 per centum, the rate of interest of such special obligations shall be the multiple of one-eighth of 1 per centum next lower than such average rate. All requests of the Center to the Secretary of the Treasury provided for in this section shall be binding upon the Secretary.
 
-**(c) Authority to sell obligations** At the request of the Center, the Secretary of the Treasury shall redeem any obligation issued directly to the fund. Obligations issued to the fund under subsection (b)(2) of this section shall be redeemed at par plus accrued interest. Any other obligations issued directly to the fund shall be redeemed at the market price.
+**(c) Authority to sell obligations** At the request of the Center, the Secretary of the Treasury shall redeem any obligation issued directly to the fund. Obligations issued to the fund under subsection (b)(2) shall be redeemed at par plus accrued interest. Any other obligations issued directly to the fund shall be redeemed at the market price.
 
 **(d) Proceeds from certain transactions credited to fund** In addition to the appropriations received pursuant to [section 1110 of this title](./chapter-022-john-c-stennis-center-for-public-service-training-and-development.md#section-1110), the interest on, and the proceeds from the sale or redemption of, any obligations held in the fund pursuant to [section 1108(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1108/a&num=0&edition=prelim), shall be credited to and form a part of the fund.
 

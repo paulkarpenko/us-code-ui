@@ -20,7 +20,8 @@ In this subtitle—
     (ii) a marine safety article intended for use on board a recreational vessel; but
 
   (B) with the exception of emergency locator beacons for recreational vessels operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes, does not include radio equipment.
-  [(2) to (3a) Repealed. Pub. L. 109–304, § 15(2)(A), Oct. 6, 2006, 120 Stat. 1702.]
+
+(2) to (3a) Repealed. Pub. L. 109–304, § 15(2)(A), Oct. 6, 2006, 120 Stat. 1702.]
 
 (4) “Coast Guard” means the organization established and continued under [section 1 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section1&num=0&edition=prelim).
 
@@ -215,7 +216,8 @@ In this subtitle—
   (D) that is a submersible vessel carrying at least one passenger for hire; or
 
   (E) that is a ferry carrying more than 6 passengers.
-  [(36) Repealed. Pub. L. 109–304, § 15(2)(A), Oct. 6, 2006, 120 Stat. 1702.]
+
+(36) Repealed. Pub. L. 109–304, § 15(2)(A), Oct. 6, 2006, 120 Stat. 1702.]
 
 (37) “steam vessel” means a vessel propelled in whole or in part by steam, except a recreational vessel of not more than 40 feet in length.(37a) “submersible vessel” means a vessel that is capable of operating below the surface of the water.
 
@@ -759,35 +761,11 @@ Pub. L. 111–281, title IX, § 903(a), Oct. 15, 2010, 124 Stat. 3010, provided 
 
 **(b)**
 
-(1) The Secretary shall establish a fee or charge as provided in paragraph (2) of this subsection, and collect it annually in fiscal years 1993 and 1994, from the owner or operator of each recreational vessel to which paragraph (2) of this subsection applies.
+(1) In addition to the collection of fees and charges established under subsection (a), in providing a service or thing of value under this subtitle the Secretary may accept in-kind transportation, travel, and subsistence.
 
-(2) The fee or charge established under paragraph (1) of this subsection is as follows:
+(2) The value of in-kind transportation, travel, and subsistence accepted under this paragraph may not exceed applicable per diem rates set forth in regulations prescribed under [section 464 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section464&num=0&edition=prelim).
 
-  (A) in fiscal year 1993—
-
-    (i) for vessels of more than 21 feet in length but less than 27 feet, not more than $35;
-
-    (ii) for vessels of at least 27 feet in length but less than 40 feet, not more than $50; and
-
-    (iii) for vessels of at least 40 feet in length, not more than $100; and
-
-  (B) in fiscal year 1994—
-
-    (i) for vessels of at least 37 feet in length but less than 40 feet, not more than $50; and
-
-    (ii) for vessels of at least 40 feet in length, not more than $100.
-
-(3) The fee or charge established under this subsection applies only to vessels operated on the navigable waters of the United States where the Coast Guard has a presence.
-
-(4) The fee or charge established under this subsection does not apply to a—
-
-  (A) public vessel; or
-
-  (B) vessel deemed to be a public vessel under [section 827 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section827&num=0&edition=prelim).
-
-(5) The Secretary shall provide to each person who pays a fee or charge under this subsection a separate document on which appears, in readily discernible print, only the following statement: “The fee for which this document was provided was established under the Omnibus Budget Reconciliation Act of 1990. Persons paying this fee can expect no increase in the quantity, quality, or variety of services the person receives from the Coast Guard as a result of that payment.”
-
-**(c)** In addition to the collection of fees and charges established under subsections (a) and (b), the Secretary may recover appropriate collection and enforcement costs associated with delinquent payments of the fees and charges.
+**(c)** In addition to the collection of fees and charges established under subsection (a), the Secretary may recover appropriate collection and enforcement costs associated with delinquent payments of the fees and charges.
 
 **(d)**
 
@@ -830,6 +808,10 @@ Measurement of tonnage and certifying the same, except that the compensation and
 The Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (b)(5), is Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–281, § 311(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to fees and charges in fiscal years 1993 and 1994.
+
+Subsec. (c). Pub. L. 113–281, § 311(a)(2), substituted “subsection (a),” for “subsections (a) and (b),”.
+
 2006—Subsec. (a)(2). Pub. L. 109–304, § 15(6)(A), substituted “part B of this subtitle” for “part B of this title”.
 
 Subsec. (b)(2)(A)(iii). Pub. L. 109–304, § 15(6)(B), substituted “; and” for period at end.
@@ -1070,7 +1052,7 @@ Any person who fails to implement or conduct, or who otherwise fails to comply w
 
   (C) To improve the quality and effectiveness of marine safety information databases by ensuring that all Coast Guard personnel accurately and effectively report all safety, casualty, and injury information.
 
-  (D) To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 93(c).11 See References in Text note below.
+  (D) To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in [section 93(c) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93/c&num=0&edition=prelim).
 
 (2) **Resource needs.—** — The strategy and annual plans shall include estimates of—
 
@@ -1088,14 +1070,20 @@ Any person who fails to implement or conduct, or who otherwise fails to comply w
 
   (A) on the performance of the marine safety program in achieving the goals of the marine safety strategy and annual plan under subsection (a) for the year covered by the report;
 
-  (B) on the program’s mission performance in achieving numerical measurable goals established under subsection (b); and
+  (B) on the program’s mission performance in achieving numerical measurable goals established under subsection (b), including—
+
+    (i) the number of civilian and military Coast Guard personnel assigned to marine safety positions; and
+
+    (ii) an identification of marine safety positions that are understaffed to meet the workload required to accomplish each activity included in the strategy and plans under subsection (a); and
 
   (C) recommendations on how to improve performance of the program.
 
 ### Statutory Notes
 
-#### References in Text
-Section 93(c), referred to in subsec. (b)(1)(D), probably means [section 93(c) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93/c&num=0&edition=prelim), Coast Guard, which relates to marine safety responsibilities of the Commandant of the Coast Guard.
+#### Amendments
+2014—Subsec. (b)(1)(D). Pub. L. 113–281, § 307(a), substituted “[section 93(c) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93/c&num=0&edition=prelim)” for “section 93(c)”.
+
+Subsec. (d)(2)(B). Pub. L. 113–281, § 221(b)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “on the program’s mission performance in achieving numerical measurable goals established under subsection (b); and”.
 
 
 <a id="section-2117"></a>

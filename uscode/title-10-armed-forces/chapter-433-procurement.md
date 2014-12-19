@@ -15,10 +15,9 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 253, authorized Secretary of the
 
 
 <a id="section-4532"></a>
-## § 4532. Factories and arsenals: manufacture at; abolition of
-**(a)** The Secretary of the Army shall have supplies needed for the Department of the Army made in factories or arsenals owned by the United States, so far as those factories or arsenals can make those supplies on an economical basis.
+## § 4532. Factories and arsenals: manufacture at
 
-**(b)** The Secretary may abolish any United States arsenal that he considers unnecessary.
+The Secretary of the Army shall have supplies needed for the Department of the Army made in factories or arsenals owned by the United States, so far as those factories or arsenals can make those supplies on an economical basis.
 
 ### Statutory Notes
 
@@ -28,6 +27,9 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 253, authorized Secretary of the
 | 4532(a) 4532(b) | 5:181–4(e). 50:55. | June 28, 1950, ch. 383, § 101(e), 64 Stat. 264. R.S. 1666. |
 
 The words “Except as otherwise provided by law”, in 5:181–4(e), are omitted, since there is no law within the scope of the exception. The word “made” is substituted for the words “manufactured or produced”. The words “United States” are substituted for the word “Government”, in 5:181–4(e). The words “which he considers” are substituted for the words “as, in his judgment”, in 50:55. The words “useless or”, in 50:55, are omitted as surplusage.
+
+#### Amendments
+2014—Pub. L. 113–291 struck out “; abolition of” after “manufacture at” in section catchline, struck out subsec. (a) designation before “The Secretary”, and struck out subsec. (b) which read as follows: “The Secretary may abolish any United States arsenal that he considers unnecessary”.
 
 #### Sale of Arsenal
 Act Mar. 3, 1875, ch. 174, 18 Stat. 510, authorized the sale of the arsenal at Detroit, Michigan.

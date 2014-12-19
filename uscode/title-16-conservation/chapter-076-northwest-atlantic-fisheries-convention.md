@@ -282,9 +282,11 @@ There are authorized to be appropriated to carry out this chapter, including use
 
 
 <a id="section-5611"></a>
-## § 5611. Annual report
+## § 5611. Repealed. Pub. L. 113–188, title II, § 201(f), Nov. 26, 2014, 128 Stat. 2018
 
-The Secretary shall annually report to the Congress on the activities of the Fisheries Commission, the General Council, the Scientific Council, and the consultative committee established under [section 5607 of this title](./chapter-076-northwest-atlantic-fisheries-convention.md#section-5607).
+### Statutory Notes
+
+Section, Pub. L. 104–43, title II, § 212, as added Pub. L. 105–384, title II, § 201(c), Nov. 13, 1998, 112 Stat. 3452, required annual reports on the activities of the Fisheries Commission, the General Council, the Scientific Council, and the consultative committee established under [section 5607 of this title](./chapter-076-northwest-atlantic-fisheries-convention.md#section-5607).
 
 
 <a id="section-5612"></a>
@@ -297,7 +299,7 @@ The Secretary shall annually report to the Congress on the activities of the Fis
 
 (3) is consistent with the Straddling Fish Stocks Agreement.
 
-**(b) Report** The Secretary of Commerce shall include in annual reports under [section 5611 of this title](./chapter-076-northwest-atlantic-fisheries-convention.md#section-5611)—
+**(b) Report** The Secretary of Commerce shall include in annual reports under section 5611 11 See References in Text note below. of this title—
 
 (1) a description of the results of negotiations held pursuant to subsection (a) of this section;
 
@@ -306,3 +308,8 @@ The Secretary shall annually report to the Congress on the activities of the Fis
 (3) recommendations for any further legislation that is necessary to achieve such a new practice.
 
 **(c) “Straddling Fish Stocks Agreement” defined** In this section the term “Straddling Fish Stocks Agreement” means the United Nations Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 Relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks.
+
+### Statutory Notes
+
+#### References in Text
+[Section 5611 of this title](./chapter-076-northwest-atlantic-fisheries-convention.md#section-5611), referred to in subsec. (b), was repealed by Pub. L. 113–188, title II, § 201(f), Nov. 26, 2014, 128 Stat. 2018.

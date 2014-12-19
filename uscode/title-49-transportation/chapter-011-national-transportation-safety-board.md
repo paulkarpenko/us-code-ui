@@ -1107,7 +1107,7 @@ Section 6 of the Inspector General Act of 1978, referred to in subsec. (c), is s
 
 <a id="section-1138"></a>
 ## § 1138. Evaluation and audit of National Transportation Safety Board
-**(a) In General.—** To promote economy, efficiency, and effectiveness in the administration of the programs, operations, and activities of the National Transportation Safety Board, the Comptroller General of the United States shall evaluate and audit the programs and expenditures of the National Transportation Safety Board. Such evaluation and audit shall be conducted at least annually, but may be conducted as determined necessary by the Comptroller General or the appropriate congressional committees.
+**(a) In General.—** To promote economy, efficiency, and effectiveness in the administration of the programs, operations, and activities of the National Transportation Safety Board, the Comptroller General of the United States shall evaluate and audit the programs and expenditures of the National Transportation Safety Board. Such evaluation and audit shall be conducted as determined necessary by the Comptroller General or the appropriate congressional committees.
 
 **(b) Responsibility of Comptroller General.—** The Comptroller General shall evaluate and audit Board programs, operations, and activities, including—
 
@@ -1124,6 +1124,11 @@ Section 6 of the Inspector General Act of 1978, referred to in subsec. (c), is s
 (6) the extent to which the Board addresses management challenges in completing accident investigations.
 
 **(c) Appropriate Congressional Committees.—** For purposes of this section the term “appropriate congressional committees” means the Committee on Commerce, Science and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–188 struck out “at least annually, but may be conducted” after “Such evaluation and audit shall be conducted”.
 
 
 <a id="section-1139"></a>

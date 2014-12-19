@@ -247,7 +247,7 @@ Amendment by Pub. L. 96–452 effective Oct. 1, 1981, see section 12 of Pub. L. 
 Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
 
 #### Effective Date of 1955 Amendment
-Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under [section 31 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section31&num=0&edition=prelim), The Congress.
+Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under [section 4501 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4501&num=0&edition=prelim), The Congress.
 
 #### Nomination to Federal Judgeship on Nondiscriminatory Basis
 Pub. L. 98–353, title II, § 211, July 10, 1984, 98 Stat. 351, provided that: “It is the sense of the Congress that the President, in selecting individuals for nomination to the Federal judgeships created by this Act [see Short Title of 1984 Amendment note set out under [section 151 of this title](./chapter-006-bankruptcy-judges.md#section-151)], shall give due consideration to qualified individuals without regard to race, color, sex, religion, or national origin.”

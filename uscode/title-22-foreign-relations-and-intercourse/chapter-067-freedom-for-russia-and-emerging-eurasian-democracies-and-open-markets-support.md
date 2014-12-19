@@ -104,9 +104,9 @@ Pub. L. 102–391, title III, Oct. 6, 1992, 106 Stat. 1650, provided in part tha
 
 (6) resolving policy and program disputes among United States Government agencies with respect to United States assistance for the independent states.
 
-**(b) Export promotion activities** Consistent with subsection (a) of this section, coordination of activities related to the promotion of exports of United States goods and services to the independent states of the former Soviet Union shall continue to be primarily the responsibility of the Secretary of Commerce, in the Secretary’s role as Chair of the Trade Promotion Coordination Committee.
+**(b) Export promotion activities** Consistent with subsection (a), coordination of activities related to the promotion of exports of United States goods and services to the independent states of the former Soviet Union shall continue to be primarily the responsibility of the Secretary of Commerce, in the Secretary’s role as Chair of the Trade Promotion Coordination Committee.
 
-**(c) International economic activities** Consistent with subsection (a) of this section, coordination of activities relating to United States participation in international financial institutions and relating to organization of multilateral efforts aimed at currency stabilization, currency convertibility, debt reduction, and comprehensive economic reform programs shall continue to be primarily the responsibility of the Secretary of the Treasury, in the Secretary’s role as Chair of the National Advisory Council on International Monetary and Financial Policies and as the United States Governor of the international financial institutions.
+**(c) International economic activities** Consistent with subsection (a), coordination of activities relating to United States participation in international financial institutions and relating to organization of multilateral efforts aimed at currency stabilization, currency convertibility, debt reduction, and comprehensive economic reform programs shall continue to be primarily the responsibility of the Secretary of the Treasury, in the Secretary’s role as Chair of the National Advisory Council on International Monetary and Financial Policies and as the United States Governor of the international financial institutions.
 
 **(d) Accountability for funds** Any agency managing and implementing an assistance program for the independent states of the former Soviet Union shall be accountable for any funds made available to it for such program.
 
@@ -229,7 +229,7 @@ Determination of President of the United States, No. 2002–06, Jan. 25, 2002, 6
 ## § 5814. Report on overall assistance and economic cooperation strategy
 **(a) Requirement for submission** As soon as practicable after October 24, 1992, the coordinator designated pursuant to [section 5812(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5812/a&num=0&edition=prelim) shall submit to the Congress a report on the overall assistance and economic cooperation strategy for the independent states of the former Soviet Union that is required to be developed pursuant to paragraph (1) of that section.
 
-**(b) Assistance plan** The report submitted pursuant to subsection (a) of this section shall include a plan specifying—
+**(b) Assistance plan** The report submitted pursuant to subsection (a) shall include a plan specifying—
 
 (1) the amount of the funds authorized to be appropriated for fiscal year 1993 by chapter 11 of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2295](./chapter-032-foreign-assistance.md#section-2295) et seq.] proposed to be allocated for each of the categories of activities authorized by section 498 of that Act [[22 U.S.C. 2295](./chapter-032-foreign-assistance.md#section-2295)] and to carry out [section 5821 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5821) (relating to American Business Centers), [section 5823 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5823) (relating to export promotion activities and capital projects), and subchapter III of this chapter (relating to the Democracy Corps);
 
@@ -347,7 +347,7 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 ## § 5824. Funding for export promotion activities and capital projects
 **(a) Allocation of A.I.D. funds** The President is encouraged to use a portion of the funds made available for the independent states of the former Soviet Union under chapter 11 of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2295](./chapter-032-foreign-assistance.md#section-2295) et seq.]—
 
-(1) to fund the export promotion, finance, and related activities carried out pursuant to subsection (b)(1) of this section, including activities relating to the export of intermediary goods; and
+(1) to fund the export promotion, finance, and related activities carried out pursuant to subsection (b)(1), including activities relating to the export of intermediary goods; and
 
 (2) to fund capital projects, including projects for telecommunications, environmental cleanup, power production, and energy related projects.
 
@@ -403,7 +403,7 @@ Should the Secretary of the Treasury determine that foreign countries are engage
 ## § 5828. Technical assistance for Russian Far East
 **(a) Authorization** The President is authorized to provide technical assistance, through an American university in a region which received nonstop air service to and from the Russian Far East as of July 1, 1992, to facilitate the development of United States business opportunities, free markets, and democratic institutions in the Russian Far East.
 
-**(b) Authorization of appropriations** There are authorized to be appropriated $2,000,000 to carry out subsection (a) of this section.
+**(b) Authorization of appropriations** There are authorized to be appropriated $2,000,000 to carry out subsection (a).
 
 ### Statutory Notes
 
@@ -415,7 +415,7 @@ For delegation of certain functions of President under this section, see section
 ## § 5841. Funding for OPIC programs
 **(a) Authority to make additional funds available** Funds authorized to be appropriated for fiscal year 1993 to carry out chapter 11 of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2295](./chapter-032-foreign-assistance.md#section-2295) et seq.] may be made available to cover costs incurred by the Overseas Private Investment Corporation in carrying out programs with respect to the independent states of the former Soviet Union under title IV of chapter 2 of part I of that Act ([22 U.S.C. 2191](./chapter-032-foreign-assistance.md#section-2191) and following), in addition to amounts otherwise available for that purpose.
 
-**(b) Enactment of OPIC Authorization Act** The authority of subsection (a) of this section shall cease to be effective upon the enactment of the Overseas Private Investment Corporation Act Amendments Act of 1992.
+**(b) Enactment of OPIC Authorization Act** The authority of subsection (a) shall cease to be effective upon the enactment of the Overseas Private Investment Corporation Act Amendments Act of 1992.
 
 ### Statutory Notes
 
@@ -427,11 +427,11 @@ The Overseas Private Investment Corporation Act Amendments Act of 1992, referred
 
 <a id="section-5851"></a>
 ## § 5851. Authorization for establishment of Democracy Corps
-**(a) Establishment; purpose** The President is authorized to provide for the establishment of the Democracy Corps as a private nonprofit organization, incorporated in the District of Columbia, whose purpose shall be to maintain a presence in the independent states of the former Soviet Union as described in subsection (c) of this section.
+**(a) Establishment; purpose** The President is authorized to provide for the establishment of the Democracy Corps as a private nonprofit organization, incorporated in the District of Columbia, whose purpose shall be to maintain a presence in the independent states of the former Soviet Union as described in subsection (c).
 
 **(b) Board of Directors** The Board of Directors of the Democracy Corps shall have not more than 10 members, appointed by the President. Individuals appointed to the Board—
 
-(1) shall, individually or through the organizations they represent, have experience and expertise appropriate to carrying out the purpose of the Democracy Corps, including involvement either with activities of the type described in subsection (d) of this section or in the independent states;
+(1) shall, individually or through the organizations they represent, have experience and expertise appropriate to carrying out the purpose of the Democracy Corps, including involvement either with activities of the type described in subsection (d) or in the independent states;
 
 (2) shall be United States citizens; and
 
@@ -442,9 +442,9 @@ The Overseas Private Investment Corporation Act Amendments Act of 1992, referred
 (1) institutions of democratic governance (including judicial, electoral, legislative, and administrative processes), and
 
 (2) the nongovernmental organizations of a civil society (including charitable, educational, trade union, business, professional, voluntary, community, and other civic organizations),
-by mobilizing the expertise of the American people to provide practical assistance through “on the ground” person-to-person advice, technical assistance, and small grants to indigenous individuals and indigenous entities, in accordance with subsection (d) of this section.
+by mobilizing the expertise of the American people to provide practical assistance through “on the ground” person-to-person advice, technical assistance, and small grants to indigenous individuals and indigenous entities, in accordance with subsection (d).
 
-**(d) Activities** The Democracy Corps shall be required to carry out its purpose through the placement within the independent states of teams of United States citizens with appropriate expertise and knowledge. Under guidelines developed by the Board, these teams shall assist indigenous individuals and entities in the independent states that are involved in the development of the institutions and organizations referred to in paragraphs (1) and (2) of subsection (c) of this section by—
+**(d) Activities** The Democracy Corps shall be required to carry out its purpose through the placement within the independent states of teams of United States citizens with appropriate expertise and knowledge. Under guidelines developed by the Board, these teams shall assist indigenous individuals and entities in the independent states that are involved in the development of the institutions and organizations referred to in paragraphs (1) and (2) of subsection (c) by—
 
 (1) providing advice and technical assistance;
 
@@ -473,7 +473,7 @@ These local centers may be designated as “Democracy Houses” or given another
 
 (3) **AID review** — In the event that the Democracy Corps determines not to comply with a request for records under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), the Democracy Corps shall submit a report to the Administrator explaining the reasons for not complying with such request. If the Administrator approves such determination, the Agency for International Development shall assume full responsibility, including financial responsibility, for defending the Democracy Corps in any litigation relating to such request. If the Administrator disapproves such determination, the Democracy Corps shall be required to comply with such request.
 
-**(i) Annual reports** The Board shall be required to submit to the Administrator and the Congress, not later than January 31 each year, a comprehensive report on the activities of the Democracy Corps. Each such report shall list each grant made by the Democracy Corps under subsection (d)(2) of this section during the preceding fiscal year, specifying the grantee and the amount of the grant.
+**(i) Annual reports** The Board shall be required to submit to the Administrator and the Congress, not later than January 31 each year, a comprehensive report on the activities of the Democracy Corps. Each such report shall list each grant made by the Democracy Corps under subsection (d)(2) during the preceding fiscal year, specifying the grantee and the amount of the grant.
 
 **(j) Authorization of appropriations** Of the amount authorized to be appropriated to carry out chapter 11 of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2295](./chapter-032-foreign-assistance.md#section-2295) et seq.], up to $15,000,000 for fiscal year 1993 are authorized to be appropriated for grants to the Democracy Corps under this section, in addition to amounts otherwise available for such purpose.
 
@@ -526,6 +526,9 @@ Funds may be obligated for a fiscal year for assistance or other programs or act
 
 ### Statutory Notes
 
+#### References in Text
+Section 212 of the Soviet Nuclear Threat Reduction Act of 1991, referred to in par. (4), is section 212 of Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, which was set out in a note under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551), and was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606.
+
 #### Delegation of Authority
 Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193, provided:
 
@@ -533,9 +536,9 @@ Memorandum for the Secretary of State, the Secretary of Defense [and] the Direct
 
 By the authority vested in me by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, I hereby delegate:
 
-1. to the Secretary of State the authority and duty vested in the President under section 1412(d) of the Former Soviet Union Demilitarization Act of 1992 (title XIV of the National Defense Authorization Act for Fiscal Year 1993, Public Law 102–484) [[22 U.S.C. 5902(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5902/d&num=0&edition=prelim)] and section 502 of the Freedom Support Act (Public Law 102–511 [[22 U.S.C. 5852](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5852)].
+1. to the Secretary of State the authority and duty vested in the President under section 1412(d) of the Former Soviet Union Demilitarization Act of 1992 (title XIV of the National Defense Authorization Act for Fiscal Year 1993, Public Law 102–484) [former [22 U.S.C. 5902(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5902/d&num=0&edition=prelim)] and section 502 of the Freedom Support Act (Public Law 102–511 [[22 U.S.C. 5852](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5852)].
 
-2. to the Secretary of Defense the authorities and duties vested in the President under sections 1412(a), 1431, and 1432 of Public Law 102–484 [[22 U.S.C. 5902(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5902/a&num=0&edition=prelim), 5921, 5922] and sections 503 and 508 of Public Law 102–511 [[22 U.S.C. 5853](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5853), 5858].
+2. to the Secretary of Defense the authorities and duties vested in the President under sections 1412(a), 1431, and 1432 of Public Law 102–484 [22 U.S.C. former 5902(a), former 5921, 5922] and sections 503 and 508 of Public Law 102–511 [[22 U.S.C. 5853](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5853), 5858].
 
 The Secretary of Defense shall not exercise authority delegated by paragraph 2 hereof with respect to any former Soviet republic unless the Secretary of State has exercised his authority and performed the duty delegated by paragraph 1 hereof with respect to that former Soviet Republic. The Secretary of Defense shall not obligate funds in the exercise of authority delegated by paragraph 2 hereof unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of discretionary spending limits for that fiscal year (as defined in section 601(a)(2) of the Congressional Budget Act of 1974 [[2 U.S.C. 665(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section665/a/2&num=0&edition=prelim)]) for purposes of Part C of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 900](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) et seq.].
 
@@ -547,7 +550,7 @@ George Bush.
 Pub. L. 110–181, div. A, title XIII, § 1304(b), Jan. 28, 2008, 122 Stat. 413, provided that: “Section 502 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 ([22 U.S.C. 5852](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5852)) shall not apply to any Cooperative Threat Reduction program.”
 
 #### Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 110–181
-Pub. L. 110–181, div. A, title XIII, § 1301(a), Jan. 28, 2008, 122 Stat. 410, provided that: “For purposes of section 301 [122 Stat. 53] and other provisions of this Act [see Tables for classification], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 [Pub. L. 104–201] ([50 U.S.C. 2362](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2362&num=0&edition=prelim) note), as amended by section 1303 of this Act.”
+Pub. L. 110–181, div. A, title XIII, § 1301(a), Jan. 28, 2008, 122 Stat. 410, provided that: “For purposes of section 301 [122 Stat. 53] and other provisions of this Act [see Tables for classification], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 [Pub. L. 104–201] ([former] [50 U.S.C. 2362](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2362&num=0&edition=prelim) note), as amended by section 1303 of this Act.”
 
 
 <a id="section-5854"></a>
@@ -570,20 +573,20 @@ Pub. L. 110–181, div. A, title XIII, § 1301(a), Jan. 28, 2008, 122 Stat. 410,
 
 (6) by establishing programs for facilitating the conversion of military technologies and capabilities and defense industries of the former Soviet Union into civilian activities.
 
-**(b) Funding priorities** Priority in carrying out this section shall be given to the activities described in paragraphs (1) through (5) of subsection (a) of this section.
+**(b) Funding priorities** Priority in carrying out this section shall be given to the activities described in paragraphs (1) through (5) of subsection (a).
 
 **(c) Use of defense funds**
 
-(1) **Authorization** — In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a) of this section, the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, funds made available pursuant to sections 108 and 109 of Public Law 102–229 or under the amendments made by section 506(a) of this Act.
+(1) **Authorization** — In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a), the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, funds made available pursuant to sections 108 and 109 of Public Law 102–229 or under the amendments made by section 506(a) of this Act.
 
-(2) **Limitation** — Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) of this section unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 665(a)(2) 11 See References in Text note below. of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 900](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) et seq.].
+(2) **Limitation** — Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 665(a)(2) 11 See References in Text note below. of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 900](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) et seq.].
 
 ### Statutory Notes
 
 #### References in Text
 Sections 108 and 109 of Public Law 102–229, referred to in subsec. (c)(1), are sections 108 and 109 of Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1708, which are not classified to the Code.
 
-Section 506(a) of this Act, referred to in subsec. (c)(1), is section 506(a) of Pub. L. 102–511, which was classified to [section 5856(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5856/a&num=0&edition=prelim) and was omitted from the Code. Section 506(a) directed amendment of section 221 of Pub. L. 102–228, set out as a note under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551), but did not become effective pursuant to [section 5856(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5856/c&num=0&edition=prelim).
+Section 506(a) of this Act, referred to in subsec. (c)(1), is section 506(a) of Pub. L. 102–511, which was classified to [section 5856(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5856/a&num=0&edition=prelim) and was omitted from the Code. Section 506(a) directed amendment of section 221 of Pub. L. 102–228, which was set out in a note under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551), but did not become effective pursuant to [section 5856(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5856/c&num=0&edition=prelim) and was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606.
 
 [Section 665 of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section665&num=0&edition=prelim), referred to in subsec. (c)(2), was repealed by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695.
 
@@ -593,10 +596,10 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under [section 5852 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5852).
 
 #### Transfer of Funding for Science and Technology Centers in the Former Soviet Union
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1138], Nov. 29, 1999, 113 Stat. 1536, 1501A–496, provided that: “(a) Authorization.—For fiscal year 2001 and subsequent fiscal years, funds made available under ‘Nonproliferation, Antiterrorism, Demining, and Related Programs’ accounts in annual foreign operations appropriations Acts are authorized to be available for science and technology centers in the independent states of the former Soviet Union assisted under section 503(a)(5) of the FREEDOM Support Act ([22 U.S.C. 5853(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5853/a/5&num=0&edition=prelim)) or section 1412(b)(5) [[22 U.S.C. 5902(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5902/b/5&num=0&edition=prelim)] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484; [22 U.S.C. 5901](./chapter-068-demilitarization-of-former-soviet-union.md#section-5901) et seq.), including the use of those and other funds by any Federal agency having expertise and programs related to the activities carried out by those centers, including the Departments of Agriculture, Commerce, and Health and Human Services and the Environmental Protection Agency. “(b) Availability of Funds.—Amounts made available under any provision of law for the activities described in subsection (a) shall be available until expended and may be used notwithstanding any other provision of law.”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1138], Nov. 29, 1999, 113 Stat. 1536, 1501A–496, provided that: “(a) Authorization.—For fiscal year 2001 and subsequent fiscal years, funds made available under ‘Nonproliferation, Antiterrorism, Demining, and Related Programs’ accounts in annual foreign operations appropriations Acts are authorized to be available for science and technology centers in the independent states of the former Soviet Union assisted under section 503(a)(5) of the FREEDOM Support Act ([22 U.S.C. 5853(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5853/a/5&num=0&edition=prelim)) or section 1412(b)(5) [former [22 U.S.C. 5902(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5902/b/5&num=0&edition=prelim)] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484; [22 U.S.C. 5901](./chapter-068-demilitarization-of-former-soviet-union.md#section-5901) et seq.), including the use of those and other funds by any Federal agency having expertise and programs related to the activities carried out by those centers, including the Departments of Agriculture, Commerce, and Health and Human Services and the Environmental Protection Agency. “(b) Availability of Funds.—Amounts made available under any provision of law for the activities described in subsection (a) shall be available until expended and may be used notwithstanding any other provision of law.”
 
 #### Research and Exchange Activities by Science and Technology Centers
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1139], Nov. 29, 1999, 113 Stat. 1536, 1501A–496, provided that: “(a) In General.—Support for science and technology centers in the independent states of the former Soviet Union, as authorized by section 503(a)(5) of the FREEDOM Support Act ([22 U.S.C. 5853(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5853/a/5&num=0&edition=prelim)) and section 1412(b) [[22 U.S.C. 5902(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5902/b&num=0&edition=prelim)] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484, [22 U.S.C. 5901](./chapter-068-demilitarization-of-former-soviet-union.md#section-5901) et seq.), is authorized for activities described in subsection (b) to support the redirection of former Soviet weapons scientists, especially those with expertise in weapons of mass destruction (nuclear, radiological, chemical, biological), missile and other delivery systems, and other advanced technologies with military applications. “(b) Activities Supported.—Activities supported under subsection (a) include—“(1) any research activity involving the participation of former Soviet weapons scientists and civilian scientists and engineers, if the participation of the weapons scientists predominates; and “(2) any program of international exchanges that would provide former Soviet weapons scientists exposure to, and the opportunity to develop relations with, research and industry partners.”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1139], Nov. 29, 1999, 113 Stat. 1536, 1501A–496, provided that: “(a) In General.—Support for science and technology centers in the independent states of the former Soviet Union, as authorized by section 503(a)(5) of the FREEDOM Support Act ([22 U.S.C. 5853(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5853/a/5&num=0&edition=prelim)) and section 1412(b) [former [22 U.S.C. 5902(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5902/b&num=0&edition=prelim)] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484, [22 U.S.C. 5901](./chapter-068-demilitarization-of-former-soviet-union.md#section-5901) et seq.), is authorized for activities described in subsection (b) to support the redirection of former Soviet weapons scientists, especially those with expertise in weapons of mass destruction (nuclear, radiological, chemical, biological), missile and other delivery systems, and other advanced technologies with military applications. “(b) Activities Supported.—Activities supported under subsection (a) include—“(1) any research activity involving the participation of former Soviet weapons scientists and civilian scientists and engineers, if the participation of the weapons scientists predominates; and “(2) any program of international exchanges that would provide former Soviet weapons scientists exposure to, and the opportunity to develop relations with, research and industry partners.”
 
 
 <a id="section-5855"></a>
@@ -619,11 +622,11 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1139], Nov. 29, 1
 
 (6) by establishing programs for facilitating the conversion of military technologies and capabilities and defense industries of the former Soviet Union into civilian activities.
 
-**(b) Funding priorities** Priority in carrying out this section shall be given to the activities described in paragraphs (1) through (5) of subsection (a) of this section.
+**(b) Funding priorities** Priority in carrying out this section shall be given to the activities described in paragraphs (1) through (5) of subsection (a).
 
 **(c) Use of security assistance funds**
 
-(1) **Authorization** — In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a) of this section, the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, up to $100,000,000 of security assistance funds for fiscal year 1993.
+(1) **Authorization** — In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a), the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, up to $100,000,000 of security assistance funds for fiscal year 1993.
 
 (2) **“Security assistance funds” defined** — As used in paragraph (1), the term “security assistance funds” means funds made available for assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 [[22 U.S.C. 2346](./chapter-032-foreign-assistance.md#section-2346) et seq.] (relating to the Economic Support Fund) or assistance under [section 2763 of this title](./chapter-039-arms-export-control.md#section-2763) (relating to the “Foreign Military Financing Program”).
 
@@ -681,17 +684,17 @@ For the amendments made by this section, referred to in subsec. (c), see Codific
 
 The National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (c), is Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2315. For complete classification of this Act to the Code, see Tables. See, also, Codification note below.
 
-Section 221(a) of the Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c), is section 221(a) of Pub. L. 102–228, which is set out as a note under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551). See Codification note below.
+Section 221(a) of the Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c), was section 221(a) of Pub. L. 102–228, which was set out in a note under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551) prior to repeal by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606. See Codification note below.
 
 #### Codification
-Section is comprised of section 506 of Pub. L. 102–511. Subsec. (a) of this section directed the amendment of section 221 of Pub. L. 102–228 which is set out as a note under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551) and subsec. (b) of this section directed the amendment of sections 108 and 109 of Pub. L. 102–229 which are not classified to the Code. Because of amendments by section 1421(a)(2)(B), (3) and (b) of Pub. L. 102–484, div. A, title XIV, Oct. 23, 1992, 106 Stat. 2565, to section 221 of Pub. L. 102–228 and sections 108 and 109 of Pub. L. 102–229, the amendments directed by subsecs. (a) and (b) of this section did not take effect pursuant to subsec. (c) of this section.
+Section is comprised of section 506 of Pub. L. 102–511. Subsec. (a) of this section directed the amendment of section 221 of Pub. L. 102–228, which was set out in a note under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551) and was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606. Subsec. (b) of this section directed the amendment of sections 108 and 109 of Pub. L. 102–229, which are not classified to the Code. Because of amendments by section 1421(a)(2)(B), (3) and (b) of Pub. L. 102–484, div. A, title XIV, Oct. 23, 1992, 106 Stat. 2565, to section 221 of Pub. L. 102–228 and sections 108 and 109 of Pub. L. 102–229, the amendments directed by subsecs. (a) and (b) of this section did not take effect pursuant to subsec. (c) of this section.
 
 
 <a id="section-5858"></a>
 ## § 5858. Waiver of certain provisions
-**(a) In general** Funds made available for fiscal year 1993 under sections 5853 and 5854 of this title to provide assistance or otherwise carry out programs and activities with respect to the independent states of the former Soviet Union under those sections may be used notwithstanding any other provision of law, other than the provisions cited in subsection (b) of this section.
+**(a) In general** Funds made available for fiscal year 1993 under sections 5853 and 5854 of this title to provide assistance or otherwise carry out programs and activities with respect to the independent states of the former Soviet Union under those sections may be used notwithstanding any other provision of law, other than the provisions cited in subsection (b).
 
-**(b) Exceptions** Subsection (a) of this section does not apply with respect to—
+**(b) Exceptions** Subsection (a) does not apply with respect to—
 
 (1) this subchapter; and
 
@@ -735,14 +738,14 @@ The Budget Enforcement Act of 1990, referred to in subsec. (b)(2), is title XIII
 
   (B) the Committees on Armed Services and the Committees on Appropriations of the Senate and the House of Representatives, wherever the account, budget activity, or program is funded from appropriations made under the national defense budget function (050); and
 
-(2) the committee to which the specified activities of section 5853(a) or 5854(a) of this title or subtitle B of the Soviet Nuclear Threat Reduction Act of 1991 (as the case may be), if the subject of separate legislation, would be referred, under the rules of the respective House of Congress.
+(2) the committee to which the specified activities of section 5853(a) or 5854(a) of this title or subtitle B 1 of the Soviet Nuclear Threat Reduction Act of 1991 (as the case may be), if the subject of separate legislation, would be referred, under the rules of the respective House of Congress.
 
 ### Statutory Notes
 
 #### References in Text
-Section 506(a), referred to in subsecs. (a) and (b), is section 506(a) of Pub. L. 102–511, which was classified to [section 5856(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5856/a&num=0&edition=prelim) and was omitted from the Code. Section 506(a) directed amendment of section 221 of Pub. L. 102–228, set out as a note under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551), but did not become effective, pursuant to [section 5856(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5856/c&num=0&edition=prelim).
+Section 506(a), referred to in subsecs. (a) and (b), is section 506(a) of Pub. L. 102–511, which was classified to [section 5856(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5856/a&num=0&edition=prelim) and was omitted from the Code. Section 506(a) directed amendment of section 221 of Pub. L. 102–228, which was set out in a note under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551), but did not become effective, pursuant to [section 5856(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5856/c&num=0&edition=prelim). Section 221 of Pub. L. 102–228 was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606.
 
-The Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c)(2), is title II of Pub. L. 102–228, Dec. 12, 1991, 105 Stat. 1693. The reference to subtitle B of the Act probably means part B of title II of Pub. L. 102–228, which is set out as a note under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551). Title II of Pub. L. 102–228 does not contain a subtitle B. For complete classification of this Act to the Code, see Tables.
+The Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c)(2), is title II of Pub. L. 102–228, Dec. 12, 1991, 105 Stat. 1693. The reference to subtitle B of the Act probably means part B of the Act because title II of Pub. L. 102–228 does not contain a subtitle B. Part B was set out in a note under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551) and was comprised of sections 211 and 212, which were repealed, respectively, by Pub. L. 110–181, div. A, title XIII, § 1304(a)(1)(A), Jan. 28, 2008, 122 Stat. 412, and Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606. For complete classification of this Act to the Code, see Tables.
 
 #### Delegation of Functions
 For delegation of certain functions of the President under this section, see Memorandum of President of the United States, Apr. 21, 1994, 59 F.R. 21619, set out as a note under [section 5854 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5854).
@@ -807,7 +810,7 @@ Section is comprised of section 509 of Pub. L. 102–511. Subsecs. (a) to (e) we
 
   (A) In the event of a significant unforeseen development related to the activities of the United Nations Special Commission on Iraq (or any successor organization) for which the Secretary of Defense determines that financial assistance under this section is required at a level which would result in the total amount of assistance provided under this section during the then-current fiscal year exceeding the amount of any limitation provided by law on the total amount of such assistance for that fiscal year, the Secretary of Defense may provide such assistance with respect to that fiscal year notwithstanding that limitation. Funds for such purpose may be derived from any funds available to the Department of Defense for that fiscal year.
 
-  (B) Financial assistance may be provided under subparagraph (A) only after the Secretary of Defense provides notice in writing to the committees of Congress named in subsection (e)(2) of this section of the significant unforeseen development and of the Secretary’s intent to provide assistance in excess of the limitation for that fiscal year. However, if the Secretary determines in any case that under the specific circumstances of that case advance notice is not possible, such notice shall be provided as soon as possible and not later than 15 days after the date on which the assistance is provided. Any notice under this subparagraph shall include a description of the development, the amount of assistance provided or to be provided, and the source of the funds for that assistance.
+  (B) Financial assistance may be provided under subparagraph (A) only after the Secretary of Defense provides notice in writing to the committees of Congress named in subsection (e)(2) of the significant unforeseen development and of the Secretary’s intent to provide assistance in excess of the limitation for that fiscal year. However, if the Secretary determines in any case that under the specific circumstances of that case advance notice is not possible, such notice shall be provided as soon as possible and not later than 15 days after the date on which the assistance is provided. Any notice under this subparagraph shall include a description of the development, the amount of assistance provided or to be provided, and the source of the funds for that assistance.
 
 **(e) Quarterly report**
 
@@ -976,9 +979,9 @@ Subtitle E of title XIV of the National Defense Authorization Act for Fiscal Yea
 
 <a id="section-5872"></a>
 ## § 5872. Facilitating discussions regarding acquisition of space hardware, technology, and services from former Soviet Union
-**(a) Expedited review** Any request for a license or other approval described in subsection (c) of this section that is submitted to any United States Government agency by the National Aeronautics and Space Administration, any of its contractors, or any other person shall be considered on an expedited basis by that agency and any other agency involved in an applicable interagency review process.
+**(a) Expedited review** Any request for a license or other approval described in subsection (c) that is submitted to any United States Government agency by the National Aeronautics and Space Administration, any of its contractors, or any other person shall be considered on an expedited basis by that agency and any other agency involved in an applicable interagency review process.
 
-**(b) Notice to Congress if license denied** If any United States Government agency denies a request for a license or other approval described in subsection (c) of this section, that agency shall immediately notify the designated congressional committees. Each such notification shall include a statement of the reasons for the denial.
+**(b) Notice to Congress if license denied** If any United States Government agency denies a request for a license or other approval described in subsection (c), that agency shall immediately notify the designated congressional committees. Each such notification shall include a statement of the reasons for the denial.
 
 **(c) Description of discussions** This section applies to a request for any license or other approval that may be necessary to conduct discussions with an independent state of the former Soviet Union with respect to the possible acquisition of any space hardware, space technology, or space service for integration into—
 

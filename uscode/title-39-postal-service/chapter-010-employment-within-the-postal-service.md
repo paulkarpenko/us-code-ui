@@ -223,15 +223,15 @@ Provisions of section 9 of Pub. L. 91–375 effective Aug. 12, 1970, see section
 
 (2) “members of the supervisors’ organization” means employees of the Postal Service who are recognized under an agreement between the Postal Service and the supervisors’ organization as represented by such organization;
 
-  (3) “postmaster” means an individual who is the manager in charge of the operations of a post office, with or without the assistance of subordinate managers or supervisors;
+(3) “postmaster” means an individual who is the manager in charge of the operations of a post office, with or without the assistance of subordinate managers or supervisors;
 
-  (4) “postmasters’ organization” means an organization recognized by the Postal Service under subsection (b) as representing at least 20 percent of postmasters; and
+(4) “postmasters’ organization” means an organization recognized by the Postal Service under subsection (b) as representing at least 20 percent of postmasters; and
 
-  (5) “members of the postmasters’ organization” shall be considered to mean employees of the Postal Service who are recognized under an agreement—
+(5) “members of the postmasters’ organization” shall be considered to mean employees of the Postal Service who are recognized under an agreement—
 
-(A) between the Postal Service and the postmasters’ organization as represented by the organization; or
+  (A) between the Postal Service and the postmasters’ organization as represented by the organization; or
 
-(B) in the circumstance described in subsection (h)(1)(B), between the Postal Service and the postmasters’ organizations (acting in concert) as represented by either or any of the postmasters’ organizations involved.
+  (B) in the circumstance described in subsection (h)(1)(B), between the Postal Service and the postmasters’ organizations (acting in concert) as represented by either or any of the postmasters’ organizations involved.
 
 ### Statutory Notes
 
@@ -433,7 +433,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 <a id="section-1011"></a>
 ## § 1011. Oath of office
 
-A person authorized to administer oaths by the laws of the United States, including [section 2903 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2903&num=0&edition=prelim), or of a State or territory, or an officer, civil or military, holding a commission under the United States, or any officer or employee of the Postal Service designated by the Board may administer and certify the oath or affirmation.
+Before entering upon their duties and before receiving any salary, all officers and employees of the Postal Service shall take and subscribe the following oath or affirmation:
 
 ### Statutory Notes
 

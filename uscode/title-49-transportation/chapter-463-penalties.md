@@ -30,7 +30,7 @@ source: >-
 
   (A) An individual (except an airman serving as an airman) or small business concern is liable to the Government for a civil penalty of not more than $10,000 for violating—
 
-    (i) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502 (b) or (c), chapter 447 (except sections 44717–44723), chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909), or chapter 451, or [section 46314(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46314/a&num=0&edition=prelim); or
+    (i) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502 (b) or (c), chapter 447 (except sections 44717–44723), chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909), or 11 So in original. The word “or” probably should not appear. chapter 451, or [section 46314(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46314/a&num=0&edition=prelim); or
 
     (ii) a regulation prescribed or order issued under any provision to which clause (i) applies.
 
@@ -50,7 +50,7 @@ source: >-
 
   (D) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary by an individual or small business concern that is intended to afford consumer protection to commercial air transportation passengers shall be $2,500 for each violation.
 
-(6) **Failure To 11 So in original. Probably should not be capitalized. Collect 1 Airport 1 Security 1 Badges 1.—** — Notwithstanding paragraph (1), any employer (other than a governmental entity or airport operator) who employs an employee to whom an airport security badge or other identifier used to obtain access to a secure area of an airport is issued before, on, or after the date of enactment of this paragraph and who does not collect or make reasonable efforts to collect such badge from the employee on the date that the employment of the employee is terminated and does not notify the operator of the airport of such termination within 24 hours of the date of such termination shall be liable to the Government for a civil penalty not to exceed $10,000.
+(6) **Failure To 22 So in original. Probably should not be capitalized. Collect 2 Airport 2 Security 2 Badges 2.—** — Notwithstanding paragraph (1), any employer (other than a governmental entity or airport operator) who employs an employee to whom an airport security badge or other identifier used to obtain access to a secure area of an airport is issued before, on, or after the date of enactment of this paragraph and who does not collect or make reasonable efforts to collect such badge from the employee on the date that the employment of the employee is terminated and does not notify the operator of the airport of such termination within 24 hours of the date of such termination shall be liable to the Government for a civil penalty not to exceed $10,000.
 
 **(b) Smoke Alarm Device Penalty.—**
 
@@ -84,7 +84,7 @@ source: >-
 
   (D) “repairman” means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
 
-(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, or section 47107(b) (as further defined by the Secretary under section 47107(l) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or [section 46303 of this title](./chapter-463-penalties.md#section-46303) or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
+(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, or section 47107(b) (as further defined by the Secretary under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or [section 46303 of this title](./chapter-463-penalties.md#section-46303) or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
 
 (3) In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
 
@@ -269,6 +269,8 @@ The date of enactment of this paragraph, referred to in subsec. (a)(6), is the d
 The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (d)(4)(A), (8), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 #### Amendments
+2014—Subsec. (d)(2). Pub. L. 113–188 substituted “section 47107(k)” for “section 47107(l)”.
+
 2012—Subsec. (a)(1)(A). Pub. L. 112–95, § 803(1), inserted “chapter 451,” before “section 47107(b)”.
 
 Pub. L. 112–95, § 415(b), inserted “chapter 423,” after “chapter 421,”.

@@ -287,7 +287,8 @@ If—
 
 (1) the President has taken action under [section 3105(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3105/a&num=0&edition=prelim) with respect to any foreign country, and
 
-(2) such action is found to be inconsistent with the international obligations of the United States, including the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of [section 3501 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3501)), the President may enter into trade agreements with such foreign country for the purpose of granting new concessions as compensation for such action in order to maintain the general level of reciprocal and mutually advantageous concessions.
+(2) such action is found to be inconsistent with the international obligations of the United States, including the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of [section 3501 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3501)),
+the President may enter into trade agreements with such foreign country for the purpose of granting new concessions as compensation for such action in order to maintain the general level of reciprocal and mutually advantageous concessions.
 
 ### Statutory Notes
 

@@ -381,7 +381,7 @@ For purposes of this chapter—
 Based on title 28, U.S.C., 1940 ed., § 423 (Mar. 3, 1911, ch. 231, § 286, 36 Stat. 1166). Changes were made in phraseology.
 
 #### References in Text
-The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, as amended, which is classified generally to subchapters I–A (§ 1973 et seq.), I–B (§ 1973aa et seq.), and I–C (§ 1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1971&num=0&edition=prelim) and Tables.
+The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, which was formerly classified generally to subchapters I–A (§ 1973 et seq.), I–B (§ 1973aa et seq.), and I–C (§ 1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapters 103 (§ 10301 et seq.), 105 (§ 10501 et seq.), and 107 (§ 10701 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2008—Subsecs. (j) to (l). Pub. L. 110–406 inserted “and” at end of subsec. (j), redesignated subsec. (l) as (k), and struck out former subsec. (k) which defined “publicly draw”.
@@ -649,6 +649,11 @@ Section applicable with respect to civil actions commenced on or after Nov. 1, 1
 (1) a juror is deemed to receive monthly pay at the minimum rate for grade GS–2 of the General Schedule unless his actual pay as a Government employee while serving on court leave is higher, in which case monthly pay is determined in accordance with [section 8114 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8114&num=0&edition=prelim), United States Code, and
 
 (2) performance of duty as a juror includes that time when a juror is (A) in attendance at court pursuant to a summons, (B) in deliberation, (C) sequestered by order of a judge, or (D) at a site, by order of the court, for the taking of a view.
+
+### Statutory Notes
+
+#### References in Text
+The General Schedule, referred to in subsec. (b)(1), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-1878"></a>

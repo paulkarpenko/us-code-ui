@@ -108,11 +108,11 @@ Subsecs. (b) and (c) of [section 663 of this title](./chapter-038-joint-officer-
 
 (1) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase I instruction, consisting of all the elements of a joint professional military education (as specified in [section 2151(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2151/a&num=0&edition=prelim)), in addition to the principal curriculum taught to all officers at an intermediate level service school or at a joint intermediate level school.
 
-(2) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase II instruction, consisting of a joint professional military education curriculum taught in residence at—
+(2) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase II instruction, consisting of—
 
-  (A) the Joint Forces Staff College; or
+  (A) a joint professional military education curriculum taught in residence at the Joint Forces Staff College or a senior level service school that has been designated and certified by the Secretary of Defense as a joint professional military education institution; or
 
-  (B) a senior level service school that has been designated and certified by the Secretary of Defense as a joint professional military education institution.
+  (B) a senior level service course of at least ten months that has been designated and certified by the Secretary of Defense as a joint professional military education course.
 
 (3) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as the Capstone course, for officers selected for promotion to the grade of brigadier general or, in the case of the Navy, rear admiral (lower half) and offered in accordance with [section 2153 of this title](./chapter-107-professional-military-education.md#section-2153).
 
@@ -121,6 +121,12 @@ Subsecs. (b) and (c) of [section 663 of this title](./chapter-038-joint-officer-
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a)(2). Pub. L. 113–291 substituted “consisting of—” for “consisting of a joint professional military education curriculum taught in residence at—” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) the Joint Forces Staff College; or
+
+“(B) a senior level service school that has been designated and certified by the Secretary of Defense as a joint professional military education institution.”
+
 2011—Subsec. (a)(1). Pub. L. 112–81 inserted “or at a joint intermediate level school” before period at end.
 
 

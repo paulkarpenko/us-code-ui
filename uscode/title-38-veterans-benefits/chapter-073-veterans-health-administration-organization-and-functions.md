@@ -50,6 +50,30 @@ source: >-
 
 (6) Such other public or nonprofit agencies, institutions, or organizations as the Secretary considers appropriate.
 
+**(e)**
+
+(1) In carrying out this section, the Secretary shall establish medical residency programs, or ensure that already established medical residency programs have a sufficient number of residency positions, at any medical facility of the Department that the Secretary determines—
+
+  (A) is experiencing a shortage of physicians; and
+
+  (B) is located in a community that is designated as a health professional shortage area (as defined in section 332 of the Public Health Service Act ([42 U.S.C. 254e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254e&num=0&edition=prelim))).
+
+(2) In carrying out paragraph (1), the Secretary shall—
+
+  (A) allocate the residency positions under such paragraph among occupations included in the most current determination published in the Federal Register pursuant to [section 7412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7412/a&num=0&edition=prelim); and
+
+  (B) give priority to residency positions and programs in primary care, mental health, and any other specialty the Secretary determines appropriate.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (e). Pub. L. 113–146 added subsec. (e).
+
+#### Five-Year Increase
+Pub. L. 113–146, title III, § 301(b)(2), Aug. 7, 2014, 128 Stat. 1785, provided that: “(A) In general.—In carrying out [section 7302(e) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7302/e&num=0&edition=prelim), United States Code, as added by paragraph (1), during the 5-year period beginning on the day that is 1 year after the date of the enactment of this Act [Aug. 7, 2014], the Secretary of Veterans Affairs shall increase the number of graduate medical education residency positions at medical facilities of the Department by up to 1,500 positions. “(B) Priority.—In increasing the number of graduate medical education residency positions at medical facilities of the Department under subparagraph (A), the Secretary shall give priority to medical facilities that—“(i) as of the date of the enactment of this Act, do not have a medical residency program; and “(ii) are located in a community that has a high concentration of veterans.”
+
+[For definition of “facility of the Department” as used in section 301(b)(2) of Pub. L. 113–146, set out above, see section 2 of Pub. L. 113–146, set out as a note under [section 1701 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701).]
+
 
 <a id="section-7303"></a>
 ## § 7303. Functions of Veterans Health Administration: research programs

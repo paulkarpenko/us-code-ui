@@ -51,7 +51,7 @@ There are authorized to be appropriated to the Advisory Commission to carry out 
 
 (6) **Effective date** — This subsection shall take effect on October 1, 1995, and shall apply only to any agency rule for which a general notice of proposed rulemaking is promulgated on or after such date.
 
-**(b) Judicial review and rule of construction** Except as provided in subsection (a) of this section—
+**(b) Judicial review and rule of construction** Except as provided in subsection (a)—
 
 (1) any estimate, analysis, statement, description or report prepared under this chapter, and any compliance or noncompliance with the provisions of this chapter, and any determination concerning the applicability of the provisions of this chapter shall not be subject to judicial review; and
 
@@ -288,9 +288,9 @@ For provisions stating regulatory philosophy and principles and setting forth re
 
   (C) a summary of the agency’s evaluation of those comments and concerns.
 
-**(b) Promulgation** In promulgating a general notice of proposed rulemaking or a final rule for which a statement under subsection (a) of this section is required, the agency shall include in the promulgation a summary of the information contained in the statement.
+**(b) Promulgation** In promulgating a general notice of proposed rulemaking or a final rule for which a statement under subsection (a) is required, the agency shall include in the promulgation a summary of the information contained in the statement.
 
-**(c) Preparation in conjunction with other statement** Any agency may prepare any statement required under subsection (a) of this section in conjunction with or as a part of any other statement or analysis, provided that the statement or analysis satisfies the provisions of subsection (a) of this section.
+**(c) Preparation in conjunction with other statement** Any agency may prepare any statement required under subsection (a) in conjunction with or as a part of any other statement or analysis, provided that the statement or analysis satisfies the provisions of subsection (a).
 
 
 <a id="section-1537"></a>
@@ -316,7 +316,7 @@ For provisions stating regulatory philosophy and principles and setting forth re
 
 (2) such meetings are solely for the purposes of exchanging views, information, or advice relating to the management or implementation of Federal programs established pursuant to public law that explicitly or inherently share intergovernmental responsibilities or administration.
 
-**(c) Implementing guidelines** No later than 6 months after March 22, 1995, the President shall issue guidelines and instructions to Federal agencies for appropriate implementation of subsections (a) and (b) of this section consistent with applicable laws and regulations.
+**(c) Implementing guidelines** No later than 6 months after March 22, 1995, the President shall issue guidelines and instructions to Federal agencies for appropriate implementation of subsections (a) and (b) consistent with applicable laws and regulations.
 
 ### Statutory Notes
 
@@ -337,13 +337,13 @@ William J. Clinton.
 
 <a id="section-1551"></a>
 ## § 1551. Least burdensome option or explanation required
-**(a) In general** Except as provided in subsection (b) of this section, before promulgating any rule for which a written statement is required under [section 1532 of this title](./chapter-025-unfunded-mandates-reform.md#section-1532), the agency shall identify and consider a reasonable number of regulatory alternatives and from those alternatives select the least costly, most cost-effective or least burdensome alternative that achieves the objectives of the rule, for—
+**(a) In general** Except as provided in subsection (b), before promulgating any rule for which a written statement is required under [section 1532 of this title](./chapter-025-unfunded-mandates-reform.md#section-1532), the agency shall identify and consider a reasonable number of regulatory alternatives and from those alternatives select the least costly, most cost-effective or least burdensome alternative that achieves the objectives of the rule, for—
 
 (1) State, local, and tribal governments, in the case of a rule containing a Federal intergovernmental mandate; and
 
 (2) the private sector, in the case of a rule containing a Federal private sector mandate.
 
-**(b) Exception** The provisions of subsection (a) of this section shall apply unless—
+**(b) Exception** The provisions of subsection (a) shall apply unless—
 
 (1) the head of the affected agency publishes with the final rule an explanation of why the least costly, most cost-effective or least burdensome method of achieving the objectives of the rule was not adopted; or
 
@@ -433,7 +433,7 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 **(b) Criteria**
 
-(1) **In general** — The Commission shall establish criteria for making recommendations under subsection (a) of this section.
+(1) **In general** — The Commission shall establish criteria for making recommendations under subsection (a).
 
 (2) **Issuance of proposed criteria** — The Commission shall issue proposed criteria under this subsection no later than 60 days after March 22, 1995, and thereafter provide a period of 30 days for submission by the public of comments on the proposed criteria.
 
@@ -449,7 +449,7 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 (1) **In general** — No later than 9 months after March 22, 1995, the Commission shall—
 
-  (A) prepare and publish a preliminary report on its activities under this subchapter, including preliminary recommendations pursuant to subsection (a) of this section;
+  (A) prepare and publish a preliminary report on its activities under this subchapter, including preliminary recommendations pursuant to subsection (a);
 
   (B) publish in the Federal Register a notice of availability of the preliminary report; and
 
@@ -457,7 +457,7 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 (2) **Public hearings** — The Commission shall hold public hearings on the preliminary recommendations contained in the preliminary report of the Commission under this subsection.
 
-**(d) Final report** No later than 3 months after the date of the publication of the preliminary report under subsection (c) of this section, the Commission shall submit to the Congress, including the Committee on Government Reform and Oversight of the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committee on the Budget of the Senate, and the Committee on the Budget of the House of Representatives, and to the President a final report on the findings, conclusions, and recommendations of the Commission under this section.
+**(d) Final report** No later than 3 months after the date of the publication of the preliminary report under subsection (c), the Commission shall submit to the Congress, including the Committee on Government Reform and Oversight of the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committee on the Budget of the Senate, and the Committee on the Budget of the House of Representatives, and to the President a final report on the findings, conclusions, and recommendations of the Commission under this section.
 
 **(e) Priority to mandates that are subject of judicial proceedings** In carrying out this section, the Advisory Commission shall give the highest priority to immediately investigating, reviewing, and making recommendations regarding Federal mandates that are the subject of judicial proceedings between the United States and a State, local, or tribal government.
 

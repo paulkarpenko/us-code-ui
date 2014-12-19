@@ -150,7 +150,7 @@ Time for election of Representatives, see Const. Art. I, § 4, cl. 1.
 
 <a id="section-8"></a>
 ## § 8. Vacancies
-**(a) In general** Except as provided in subsection (b) of this section, the time for holding elections in any State, District, or Territory for a Representative or Delegate to fill a vacancy, whether such vacancy is caused by a failure to elect at the time prescribed by law, or by the death, resignation, or incapacity of a person elected, may be prescribed by the laws of the several States and Territories respectively.
+**(a) In general** Except as provided in subsection (b), the time for holding elections in any State, District, or Territory for a Representative or Delegate to fill a vacancy, whether such vacancy is caused by a failure to elect at the time prescribed by law, or by the death, resignation, or incapacity of a person elected, may be prescribed by the laws of the several States and Territories respectively.
 
 **(b) Special rules in extraordinary circumstances**
 
@@ -184,7 +184,7 @@ Time for election of Representatives, see Const. Art. I, § 4, cl. 1.
 
 (5) **Protecting ability of absent military and overseas voters to participate in special elections**
 
-  (A) *Deadline for transmittal of absentee ballots* — In conducting a special election held under this subsection to fill a vacancy in its representation, the State shall ensure to the greatest extent practicable (including through the use of electronic means) that absentee ballots for the election are transmitted to absent uniformed services voters and overseas voters (as such terms are defined in the Uniformed and Overseas Citizens Absentee Voting Act [[42 U.S.C. 1973ff](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ff&num=0&edition=prelim) et seq.]) not later than 15 days after the Speaker of the House of Representatives announces that the vacancy exists.
+  (A) *Deadline for transmittal of absentee ballots* — In conducting a special election held under this subsection to fill a vacancy in its representation, the State shall ensure to the greatest extent practicable (including through the use of electronic means) that absentee ballots for the election are transmitted to absent uniformed services voters and overseas voters (as such terms are defined in the Uniformed and Overseas Citizens Absentee Voting Act [[52 U.S.C. 20301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20301&num=0&edition=prelim) et seq.]) not later than 15 days after the Speaker of the House of Representatives announces that the vacancy exists.
 
   (B) *Period for ballot transit time* — Notwithstanding the deadlines referred to in paragraphs (2) and (3), in the case of an individual who is an absent uniformed services voter or an overseas voter (as such terms are defined in the Uniformed and Overseas Citizens Absentee Voting Act), a State shall accept and process any otherwise valid ballot or other election material from the voter so long as the ballot or other material is received by the appropriate State election official not later than 45 days after the State transmits the ballot or other material to the voter.
 
@@ -196,42 +196,42 @@ Time for election of Representatives, see Const. Art. I, § 4, cl. 1.
 
 (7) **Rule of construction regarding Federal election laws** — Nothing in this subsection may be construed to affect the application to special elections under this subsection of any Federal law governing the administration of elections for Federal office (including any law providing for the enforcement of any such law), including, but not limited to, the following:
 
-  (A) The Voting Rights Act of 1965 ([42 U.S.C. 1973](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973&num=0&edition=prelim) et seq.), as amended.
+  (A) The Voting Rights Act of 1965 ([42 U.S.C. 1973](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973&num=0&edition=prelim) et seq.) [now [52 U.S.C. 10301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section10301&num=0&edition=prelim) et seq.], as amended.
 
-  (B) The Voting Accessibility for the Elderly and Handicapped Act ([42 U.S.C. 1973ee](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ee&num=0&edition=prelim) et seq.), as amended.
+  (B) The Voting Accessibility for the Elderly and Handicapped Act ([42 U.S.C. 1973ee](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ee&num=0&edition=prelim) et seq.) [now [52 U.S.C. 20101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20101&num=0&edition=prelim) et seq.], as amended.
 
-  (C) The Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ff&num=0&edition=prelim) et seq.), as amended.
+  (C) The Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ff&num=0&edition=prelim) et seq.) [now [52 U.S.C. 20301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20301&num=0&edition=prelim) et seq.], as amended.
 
-  (D) The National Voter Registration Act of 1993 ([42 U.S.C. 1973gg](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973gg&num=0&edition=prelim) et seq.), as amended.
+  (D) The National Voter Registration Act of 1993 ([42 U.S.C. 1973gg](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973gg&num=0&edition=prelim) et seq.) [now [52 U.S.C. 20501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20501&num=0&edition=prelim) et seq.], as amended.
 
   (E) The Americans With Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.), as amended.
 
   (F) The Rehabilitation Act of 1973 ([29 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) et seq.), as amended.
 
-  (G) The Help America Vote Act of 2002 ([42 U.S.C. 15301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15301&num=0&edition=prelim) et seq.), as amended.
+  (G) The Help America Vote Act of 2002 ([42 U.S.C. 15301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15301&num=0&edition=prelim) et seq.) [now [52 U.S.C. 20901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20901&num=0&edition=prelim) et seq.], as amended.
 
 ### Statutory Notes
 
 #### References in Text
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(5), (7)(C), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended, which is classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1971&num=0&edition=prelim) and Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(5), (7)(C), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which was formerly classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§ 20301 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
-The Voting Rights Act of 1965, referred to in subsec. (b)(7)(A), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, as amended, which is classified generally to subchapters I–A (§ 1973 et seq.), I–B (§ 1973aa et seq.), and I–C (§ 1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1971&num=0&edition=prelim) and Tables.
+The Voting Rights Act of 1965, referred to in subsec. (b)(7)(A), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, which was formerly classified generally to subchapters I–A (§ 1973 et seq.), I–B (§ 1973aa et seq.), and I–C (§ 1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapters 103 (§ 10301 et seq.), 105 (§ 10501 et seq.), and 107 (§ 10701 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
-The Voting Accessibility for the Elderly and Handicapped Act, referred to in subsec. (b)(7)(B), is Pub. L. 98–435, Sept. 28, 1984, 98 Stat. 1678, as amended, which is classified generally to subchapter I–F (§ 1973ee et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1971&num=0&edition=prelim) and Tables.
+The Voting Accessibility for the Elderly and Handicapped Act, referred to in subsec. (b)(7)(B), is Pub. L. 98–435, Sept. 28, 1984, 98 Stat. 1678, which was formerly classified generally to subchapter I–F (§ 1973ee et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapter 201 (§ 20101 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
-The National Voter Registration Act of 1993, referred to in subsec. (b)(7)(D), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, as amended, which is classified principally to subchapter I–H (§ 1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1971&num=0&edition=prelim) and Tables.
+The National Voter Registration Act of 1993, referred to in subsec. (b)(7)(D), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which was formerly classified principally to subchapter I–H (§ 1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 205 (§ 20501 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(7)(E), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (b)(7)(F), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
-The Help America Vote Act of 2002, referred to in subsec. (b)(7)(G), is Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to chapter 146 (§ 15301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15301&num=0&edition=prelim) and Tables.
+The Help America Vote Act of 2002, referred to in subsec. (b)(7)(G), is Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which was formerly classified principally to chapter 146 (§ 15301 et seq.) of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 209 (§ 20901 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 R.S. § 26 derived from act Feb. 2, 1872, ch. 11, § 4, 17 Stat. 28.
 
 #### Amendments
-2005—Pub. L. 109–55 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b) of this section, the time” for “The time”, and added subsec. (b).
+2005—Pub. L. 109–55 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), the time” for “The time”, and added subsec. (b).
 
 #### Constitutional Provisions
 Vacancies in the House of Representatives, see Const. Art. I, § 2, cl. 4.

@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-3101"></a>
 ## § 3101. Rate of tax
-**(a) Old-age, survivors, and disability insurance** In addition to other taxes, there is hereby imposed on the income of every individual a tax equal to the following percentages of the wages (as defined in section 3121(a)) received by him with respect to employment (as defined in section 3121(b))— In cases of wages received during:The rate shall be: 1984, 1985, 1986, or 19875.7 percent 1988 or 19896.06 percent 1990 or thereafter6.2 percent.
+**(a) Old-age, survivors, and disability insurance** In addition to other taxes, there is hereby imposed on the income of every individual a tax equal to 6.2 percent of the wages (as defined in section 3121(a)) received by the individual with respect to employment (as defined in section 3121(b)) 11 So in original. Probably should be followed by a period.
 
 **(b) Hospital insurance**
 
@@ -30,6 +30,8 @@ source: >-
 Section 233 of the Social Security Act, referred to in subsec. (c), is classified to [section 433 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section433&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–295 substituted “6.2 percent of the wages (as defined in section 3121(a)) received by the individual with respect to employment (as defined in section 3121(b))” for “the following percentages of the wages (as defined in section 3121(a)) received by him with respect to employment (as defined in section 3121(b))—” and table of rates.
+
 2010—Subsec. (b). Pub. L. 111–148, § 9015(a)(1), designated existing text as par. (1), inserted heading, substituted “1.45 percent of the” for “the following percentages of the” and “(as defined in section 3121(b)).” for “(as defined in section 3121(b))—”, struck out former pars. (1) to (6), which related to rates in calendar years 1974 to 1985 and after Dec. 31, 1985, and added par. (2).
 
 Subsec. (b)(2). Pub. L. 111–152, § 1402(b)(1)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
@@ -105,6 +107,9 @@ Subsec. (b). Pub. L. 89–97, § 111(c)(5), struck out “, but without regard t
 1956—Act Aug. 1, 1956, increased rate of tax with respect to wages received during calendar years 1957 to 1959, and for all calendar years thereafter, by one-quarter percent.
 
 1954—Act Sept. 1, 1954, increased the 3¼ percent rate of tax for the calendar year 1970 and subsequent years to 3½ percent for calendar years 1970 to 1974 and 4 percent for 1975 and subsequent years.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–152 applicable with respect to remuneration received, and taxable years beginning after, Dec. 31, 2012, see section 1402(b)(3) of Pub. L. 111–152, set out as a note under [section 1401 of this title](./chapter-002-tax-on-self-employment-income.md#section-1401).
@@ -276,21 +281,9 @@ Pub. L. 103–387, § 2(a)(4), Oct. 22, 1994, 108 Stat. 4072, provided that: “
 
 <a id="section-3111"></a>
 ## § 3111. Rate of tax
-**(a) Old-age, survivors, and disability insurance** In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))— In cases of wages paid during:The rate shall be: 1984, 1985, 1986, or 19875.7 percent 1988 or 19896.06 percent 1990 or thereafter6.2 percent.
+**(a) Old-age, survivors, and disability insurance** In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 6.2 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).
 
-**(b) Hospital insurance** In addition to the tax imposed by the preceding subsection, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—
-
-(1) with respect to wages paid during the calendar years 1974 through 1977, the rate shall be 0.90 percent;
-
-(2) with respect to wages paid during the calendar year 1978, the rate shall be 1.00 percent;
-
-(3) with respect to wages paid during the calendar years 1979 and 1980, the rate shall be 1.05 percent;
-
-(4) with respect to wages paid during the calendar years 1981 through 1984, the rate shall be 1.30 percent;
-
-(5) with respect to wages paid during the calendar year 1985, the rate shall be 1.35 percent; and
-
-(6) with respect to wages paid after December 31, 1985, the rate shall be 1.45 percent.
+**(b) Hospital insurance** In addition to the tax imposed by the preceding subsection, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 1.45 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).
 
 **(c) Relief from taxes in cases covered by certain international agreements** During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, wages received by or paid to an individual shall be exempt from the taxes imposed by this section to the extent that such wages are subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 
@@ -358,6 +351,22 @@ The date of the enactment of this subsection, referred to in subsec. (d)(1), is 
 Section 101(b) of the Higher Education Act of 1965, referred to in subsec. (d)(2)(B), is classified to [section 1001(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/b&num=0&edition=prelim), Education.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–295, § 221(a)(99)(B)(i), substituted “6.2 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).” for “the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—” and table of rates.
+
+Subsec. (b). Pub. L. 113–295, § 221(a)(99)(B)(ii), substituted “1.45 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).” for “the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—
+
+“(1) with respect to wages paid during the calendar years 1974 through 1977, the rate shall be 0.90 percent;
+
+“(2) with respect to wages paid during the calendar year 1978, the rate shall be 1.00 percent;
+
+“(3) with respect to wages paid during the calendar years 1979 and 1980, the rate shall be 1.05 percent;
+
+“(4) with respect to wages paid during the calendar years 1981 through 1984, the rate shall be 1.30 percent;
+
+“(5) with respect to wages paid during the calendar year 1985, the rate shall be 1.35 percent; and
+
+“(6) with respect to wages paid after December 31, 1985, the rate shall be 1.45 percent.”
+
 2011—Subsec. (e). Pub. L. 112–56 added subsec. (e).
 
 2010—Subsec. (d). Pub. L. 111–147 added subsec. (d).
@@ -435,6 +444,9 @@ Subsec. (b). Pub. L. 89–97, § 111(c)(6), struck out “, but without regard t
 1956—Act Aug. 1, 1956, increased rate of tax with respect to wages paid during calendar years 1957 to 1959, and for all calendar years thereafter, by one-quarter percent.
 
 1954—Act Sept. 1, 1954, increased 3¼ percent rate of tax for calendar year 1970 and subsequent years to 3½ percent for calendar years 1970 to 1974 and 4 percent for 1975 and subsequent years.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–56 applicable to individuals who begin work for the employer after Nov. 21, 2011, see section 261(g) of Pub. L. 112–56, set out as a note under [section 51 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-51).
@@ -521,7 +533,8 @@ Repeal applicable with respect to wages paid after Dec. 31, 1976, see section 19
   (B) medical or hospitalization expenses in connection with sickness or accident disability, or
 
   (C) death, except that this paragraph does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee;
-  [(3) Repealed. Pub. L. 98–21, title III, § 324(a)(3)(B), Apr. 20, 1983, 97 Stat. 123]
+
+(3) Repealed. Pub. L. 98–21, title III, § 324(a)(3)(B), Apr. 20, 1983, 97 Stat. 123]
 
 (4) any payment on account of sickness or accident disability, or medical or hospitalization expenses in connection with sickness or accident disability, made by an employer to, or on behalf of, an employee after the expiration of 6 calendar months following the last calendar month in which the employee worked for such employer;
 
@@ -570,7 +583,8 @@ Repeal applicable with respect to wages paid after Dec. 31, 1976, see section 19
 
     (ii) the employer’s expenditures for agricultural labor in such year equal or exceed $2,500,
     except that clause (ii) shall not apply in determining whether remuneration paid to an employee constitutes “wages” under this section if such employee (I) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (II) commutes daily from his permanent residence to the farm on which he is so employed, and (III) has been employed in agriculture less than 13 weeks during the preceding calendar year;
-    [(9) Repealed. Pub. L. 98–21, title III, § 324(a)(3)(B), Apr. 20, 1983, 97 Stat. 123]
+
+(9) Repealed. Pub. L. 98–21, title III, § 324(a)(3)(B), Apr. 20, 1983, 97 Stat. 123]
 
 (10) remuneration paid by an employer in any calendar year to an employee for service described in subsection (d)(3)(C) (relating to home workers), if the cash remuneration paid in such year by the employer to the employee for such service is less than $100;
 
@@ -595,7 +609,7 @@ Repeal applicable with respect to wages paid after Dec. 31, 1976, see section 19
 
 (16) remuneration paid by an organization exempt from income tax under section 501(a) (other than an organization described in section 401(a)) or under section 521 in any calendar year to an employee for service rendered in the employ of such organization, if the remuneration paid in such year by the organization to the employee for such service is less than $100;
 
-(17) any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans);
+(17) Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iv), Dec. 19, 2014, 128 Stat. 4040]
 
 (18) any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, 134(b)(4), or 134(b)(5);
 
@@ -770,7 +784,7 @@ Nothing in the regulations prescribed for purposes of chapter 24 (relating to in
 
   (C) the amount of such individual’s share depends on the amount of the agricultural or horticultural commodities produced;
 
-(17) service in the employ of any organization which is performed (A) in any year during any part of which such organization is registered, or there is in effect a final order of the Subversive Activities Control Board requiring such organization to register, under the Internal Security Act of 1950, as amended, as a Communist-action organization, a Communist-front organization, or a Communist-infiltrated organization, and (B) after June 30, 1956;
+(17) Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(99)(C)(i), Dec. 19, 2014, 128 Stat. 4052]
 
 (18) service performed in Guam by a resident of the Republic of the Philippines while in Guam on a temporary basis as a nonimmigrant alien admitted to Guam pursuant to section 101(a)(15)(H)(ii) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/H/ii&num=0&edition=prelim));
 
@@ -902,7 +916,8 @@ As used in this subsection, the term “farm” includes stock, dairy, poultry, 
     (ii) one or more political subdivisions of a State, or
 
     (iii) a State and one or more of its political subdivisions.
-[(k) Repealed. Pub. L. 98–21, title I, § 102(b)(2), Apr. 20, 1983, 97 Stat. 71]
+
+**(k) Repealed. Pub. L. 98–21, title I, § 102(b)(2), Apr. 20, 1983, 97 Stat. 71]**
 
 **(l) Agreements entered into by American employers with respect to foreign affiliates**
 
@@ -1009,7 +1024,8 @@ The term does not include a temporary member of the Coast Guard Reserve.
     (i) for purposes of computing interest and for purposes of section 6651 (relating to addition to tax for failure to file tax return), the due date for the return and payment of the tax for such prior calendar quarters resulting from the filing of such certificate shall be the last day of the calendar month following the calendar quarter in which the certificate is filed; and
 
     (ii) the statutory period for the assessment of such tax shall not expire before the expiration of 3 years from such due date.
-    [(4) Repealed. Pub. L. 98–21, title I, § 102(b)(3)(B), Apr. 20, 1983, 97 Stat. 71]
+
+(4) **Repealed. Pub. L. 98–21, title I, § 102(b)(3)(B), Apr. 20, 1983, 97 Stat. 71]**
 
 **(s) Concurrent employment by two or more employers** For purposes of sections 3102, 3111, and 3121(a)(1), if two or more related corporations concurrently employ the same individual and compensate such individual through a common paymaster which is one of such corporations, each such corporation shall be considered to have paid as remuneration to such individual only the amounts actually disbursed by it to such individual and shall not be considered to have paid as remuneration to such individual amounts actually disbursed to such individual by another of such corporations.
 
@@ -1171,8 +1187,6 @@ The Federal Employees’ Retirement System Open Enrollment Act of 1997, referred
 
 The Foreign Service Act of 1980, referred to in subsec. (b)(5)(H)(ii), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Subchapter II of chapter 8 of title I of the Act is classified generally to part II (§ 4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. Section 860 of the Act is classified to [section 4071i of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4071i&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
-The Internal Security Act of 1950, as amended, referred to in subsec. (b)(17), is act Sept. 23, 1950, ch. 1024, 64 Stat. 987, as amended, which is classified principally to chapter 23 (§ 781 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 781 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section781&num=0&edition=prelim) and Tables.
-
 Section 101(a)(15) of the Immigration and Nationality Act, referred to in subsec. (b)(18), (19), is classified to [section 1101(a)(15) of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15&num=0&edition=prelim), Aliens and Nationality.
 
 Section 15(g) of the Agricultural Marketing Act, referred to in subsec. (g)(3), is classified to [section 1141j of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1141j&num=0&edition=prelim), Banks and Banking.
@@ -1187,6 +1201,10 @@ The Military Selective Service Act, referred to in subsec. (n)(5)(B), is act Jun
 For information regarding constitutionality of certain provisions of section 3121 of act Aug. 16, 1954, as amended by section 101(b)(1) of Pub. L. 98–21, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
+2014—Subsec. (a)(17). Pub. L. 113–295, § 221(a)(19)(B)(iv), struck out par. (17), which read as follows: “any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans);”.
+
+Subsec. (b)(17). Pub. L. 113–295, § 221(a)(99)(C)(i), struck out par. (17), which read as follows: “service in the employ of any organization which is performed (A) in any year during any part of which such organization is registered, or there is in effect a final order of the Subversive Activities Control Board requiring such organization to register, under the Internal Security Act of 1950, as amended, as a Communist-action organization, a Communist-front organization, or a Communist-infiltrated organization, and (B) after June 30, 1956;”.
+
 2008—Subsec. (a)(23). Pub. L. 110–245, § 115(a)(1), added par. (23).
 
 Subsec. (b)(5)(E). Pub. L. 110–458 struck out “or special trial judge” before “of the United States Tax Court”.
@@ -1720,6 +1738,9 @@ Subsec. (l). Act Sept. 1, 1954, § 209, added subsec. (l).
 #### Change of Name
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (b)(5)(E) pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
 
@@ -2068,10 +2089,10 @@ Pub. L. 96–605, title IV, § 401, Dec. 28, 1980, 94 Stat. 3531, as amended by 
 Pub. L. 94–563, § 2, Oct. 19, 1976, 90 Stat. 2658, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding any other provision of law, no refund or credit of any tax paid under section 3101 or 3111 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] by an organization described in section 501(c)(3) of such Code which is exempt from income tax under section 501(a) of such Code shall be made on or after September 9, 1976, by reason of such organization’s failure to file a waiver certificate under section 3121(k)(1) of such Code (or the corresponding provision of prior law), if such organization is deemed to have filed such a certificate under section 3121(k)(4) of such Code (as added by the first section of this Act).”
 
 #### Remuneration for Services Deemed To Constitute Employment; Services for Organizations Deemed To Have Filed Certificates Under Subsection (k)(4) of This Section
-Pub. L. 95–216, title III, § 312(c), Dec. 20, 1977, 91 Stat. 1533, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In any case where— “(1) an individual performed service, as an employee of an organization which is deemed under section 3121(k)(4) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] to have filed a waiver certificate under section 3121(k)(1) of such Code, on or after the first day of the applicable period described in subparagraph (A)(ii) of such section 3121(k)(4) and before July 1, 1977; and “(2) the service so performed does not constitute employment (as defined in section 210(a) of the Social Security Act [[42 U.S.C. 410(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410/a&num=0&edition=prelim)] and section 3121(b) of such Code) because the waiver certificate which the organization is deemed to have filed is made inapplicable to such service by section 3121(k)(4)(C) of such Code, but would constitute employment (as so defined) in the absence of such section 3121(k)(4)(C), the remuneration paid for such service shall, upon the request of such individual (filed on or before April 15, 1980, in such manner and form, and with such official, as may be prescribed by regulations made under title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.]) accompanied by full payment of all of the taxes which would have been paid under section 3101 of such Code with respect to such remuneration but for such section 3121(k)(4)(C) (or by satisfactory evidence that appropriate arrangements have been made for the payment of such taxes in installments as provided in section 3121(k)(8) of such Code), be deemed to constitute remuneration for employment as so defined. In any case where remuneration paid by an organization to an individual is deemed under the preceding sentence to constitute remuneration for employment, such organization shall be liable (notwithstanding any other provision of such Code) for payment of the taxes which it would have been required to pay under section 3111 of such Code with respect to such remuneration in the absence of such section 3121(k)(4)(C).”
+Pub. L. 95–216, title III, § 312(c), Dec. 20, 1977, 91 Stat. 1533, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In any case where—“(1) an individual performed service, as an employee of an organization which is deemed under section 3121(k)(4) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] to have filed a waiver certificate under section 3121(k)(1) of such Code, on or after the first day of the applicable period described in subparagraph (A)(ii) of such section 3121(k)(4) and before July 1, 1977; and “(2) the service so performed does not constitute employment (as defined in section 210(a) of the Social Security Act [[42 U.S.C. 410(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410/a&num=0&edition=prelim)] and section 3121(b) of such Code) because the waiver certificate which the organization is deemed to have filed is made inapplicable to such service by section 3121(k)(4)(C) of such Code, but would constitute employment (as so defined) in the absence of such section 3121(k)(4)(C), the remuneration paid for such service shall, upon the request of such individual (filed on or before April 15, 1980, in such manner and form, and with such official, as may be prescribed by regulations made under title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.]) accompanied by full payment of all of the taxes which would have been paid under section 3101 of such Code with respect to such remuneration but for such section 3121(k)(4)(C) (or by satisfactory evidence that appropriate arrangements have been made for the payment of such taxes in installments as provided in section 3121(k)(8) of such Code), be deemed to constitute remuneration for employment as so defined. In any case where remuneration paid by an organization to an individual is deemed under the preceding sentence to constitute remuneration for employment, such organization shall be liable (notwithstanding any other provision of such Code) for payment of the taxes which it would have been required to pay under section 3111 of such Code with respect to such remuneration in the absence of such section 3121(k)(4)(C).”
 
 #### Remuneration for Services Deemed To Constitute Employment; Services for Organizations Deemed To Have Filed Certificates Under Subsection (k)(5) of This Section
-Pub. L. 94–563, § 3, Oct. 19, 1976, 90 Stat. 2658, as amended by Pub. L. 95–216, title III, § 312(e), Dec. 20, 1977, 91 Stat. 1535; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In any case where— “(1) an individual performed service, as an employee of an organization which is deemed under section 3121(k)(5) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] to have filed a waiver certificate under section 3121(k)(1) of such Code, at any time prior to the period for which such certificate is effective; “(2) the taxes imposed by sections 3101 and 3111 of such Code were paid with respect to remuneration paid for such service, but such service (or any part thereof) does not constitute employment (as defined in section 210(a) of the Social Security Act [[42 U.S.C. 410(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410/a&num=0&edition=prelim)] and section 3121(b) of such Code because the applicable taxes so paid were refunded or credited (otherwise than through a refund or credit which would have been allowed if a valid waiver certificate filed under section 3121(k)(1) of such Code had been in effect) prior to September 9, 1976; and “(3) any portion of such service (with respect to which taxes were paid and refunded or credited as described in paragraph (2)) would constitute employment (as so defined) if the organization had actually filed under section 3121(k)(1) of such Code a valid waiver certificate effective as provided in section 3121(k)(5)(B) thereof (with such individual’s signature appearing on the accompanying list), the remuneration paid for the portion of such service described in paragraph (3) shall, upon the request of such individual (filed on or before April 15, 1980, in such manner and form, and with such official, as may be prescribed by regulations made under title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.]) accompanied by full repayment of the taxes which were paid under section 3101 of such Code with respect to such remuneration and so refunded or credited (or by satisfactory evidence that appropriate arrangements have been made for the repayment of such taxes in installments as provided in section 3121(k)(8) of such Code), be deemed to constitute remuneration for employment as so defined. In any case where remuneration paid by an organization to an individual is deemed under the preceding sentence to constitute remuneration for employment, such organization shall be liable (notwithstanding any other provision of such Code) for repayment of any taxes which it paid under section 3111 of such Code with respect to such remuneration and which were refunded or credited to it.”
+Pub. L. 94–563, § 3, Oct. 19, 1976, 90 Stat. 2658, as amended by Pub. L. 95–216, title III, § 312(e), Dec. 20, 1977, 91 Stat. 1535; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In any case where—“(1) an individual performed service, as an employee of an organization which is deemed under section 3121(k)(5) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] to have filed a waiver certificate under section 3121(k)(1) of such Code, at any time prior to the period for which such certificate is effective; “(2) the taxes imposed by sections 3101 and 3111 of such Code were paid with respect to remuneration paid for such service, but such service (or any part thereof) does not constitute employment (as defined in section 210(a) of the Social Security Act [[42 U.S.C. 410(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410/a&num=0&edition=prelim)] and section 3121(b) of such Code because the applicable taxes so paid were refunded or credited (otherwise than through a refund or credit which would have been allowed if a valid waiver certificate filed under section 3121(k)(1) of such Code had been in effect) prior to September 9, 1976; and “(3) any portion of such service (with respect to which taxes were paid and refunded or credited as described in paragraph (2)) would constitute employment (as so defined) if the organization had actually filed under section 3121(k)(1) of such Code a valid waiver certificate effective as provided in section 3121(k)(5)(B) thereof (with such individual’s signature appearing on the accompanying list), the remuneration paid for the portion of such service described in paragraph (3) shall, upon the request of such individual (filed on or before April 15, 1980, in such manner and form, and with such official, as may be prescribed by regulations made under title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.]) accompanied by full repayment of the taxes which were paid under section 3101 of such Code with respect to such remuneration and so refunded or credited (or by satisfactory evidence that appropriate arrangements have been made for the repayment of such taxes in installments as provided in section 3121(k)(8) of such Code), be deemed to constitute remuneration for employment as so defined. In any case where remuneration paid by an organization to an individual is deemed under the preceding sentence to constitute remuneration for employment, such organization shall be liable (notwithstanding any other provision of such Code) for repayment of any taxes which it paid under section 3111 of such Code with respect to such remuneration and which were refunded or credited to it.”
 
 #### Service for Certain Tax-Exempt Organizations Prior to Filing of Waiver Certificate
 Pub. L. 86–778, title I, § 105(b)(1)–(5), Sept. 13, 1960, 74 Stat. 943, 944, as amended by Pub. L. 89–97, title III, § 316(c)(1), July 30, 1965, 79 Stat. 386; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “(1) If—“(A) an individual performed service in the employ of an organization with respect to which remuneration was paid before the first day of the calendar quarter in which the organization filed a waiver certificate pursuant to section 3121(k)(1) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], and such service is excepted from employment under section 210(a)(8)(B) of the Social Security Act [[42 U.S.C. 410(a)(8)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410/a/8/B&num=0&edition=prelim)], “(B) such service would have constituted employment as defined in section 210 of such Act [[42 U.S.C. 410](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410&num=0&edition=prelim)] if the requirements of section 3121(k)(1) of such Code were satisfied, “(C) such organization paid, on or before the due date of the tax return for the calendar quarter before the calendar quarter in which the organization filed a certificate pursuant to section 3121(k)(1) of such Code, any amount, as taxes imposed by sections 3101 and 3111 of such Code with respect to such remuneration paid by the organization to the individual for such service, “(D) such individual, or a fiduciary acting for such individual or his estate, or his survivor (within the meaning of section 205(c)(1)(C) of such Act [[42 U.S.C. 405(c)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section405/c/1/C&num=0&edition=prelim)]), requests that such remuneration be deemed to constitute remuneration for employment for purposes of title II of such Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.], and “(E) the request is made in such form and manner, and with such official, as may be prescribed by regulations made by the Secretary of Health, Education, and Welfare, then, subject to the conditions stated in paragraphs (2), (3), (4), and (5), the remuneration with respect to which the amount has been paid as taxes shall be deemed to constitute remuneration for employment for purposes of title II of such Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.]. “(2) Paragraph (1) shall not apply with respect to an individual unless the organization referred to in paragraph (1)(A), on or before the date on which the request described in paragraph (1) is made, has filed a certificate pursuant to section 3121(k)(1) of such Code. “(3) Paragraph (1) shall not apply with respect to an individual who is employed by the organization referred to in paragraph (2) on the date the certificate is filed. “(4) If credit or refund of any portion of the amount referred to in paragraph (1)(C) (other than a credit or refund which would be allowed if the service constituted employment for purposes of chapter 21 of such Code) has been obtained, paragraph (1) shall not apply with respect to the individual unless the amount credited or refunded (including any interest under section 6611 of such Code) is repaid before January 1, 1968, or, if later, the first day of the third year after the year in which the organization filed a certificate pursuant to section 3121(k)(1) of such Code. “(5) Paragraph (1) shall not apply to any service performed for the organization in a period for which a certificate filed pursuant to section 3121(k)(1) of such Code is not in effect.”

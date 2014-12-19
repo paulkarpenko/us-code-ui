@@ -2,7 +2,7 @@
 title: 22
 chapter: '52'
 heading: FOREIGN SERVICE
-section_count: 207
+section_count: 209
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -436,7 +436,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 **(b)** Subject to [section 3921(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3921/b&num=0&edition=prelim)—
 
-(1) the agency heads referred to in subsection (a) of this section, and
+(1) the agency heads referred to in subsection (a), and
 
 (2) the head of any other agency (to the extent authority to utilize the Foreign Service personnel system is granted to such agency head under any other chapter),
 shall in the case of their respective agencies exercise the functions vested in the Secretary by this chapter.
@@ -599,7 +599,7 @@ Subsec. (b). Pub. L. 100–204, § 136(3), inserted “executive branch” after
 ## § 3927a. Review by chief of mission
 **(a) Review of staff element under chief of mission authority; approval; process** The Secretary of State shall require each chief of mission to review, not less than once every 5 years, every staff element under chief of mission authority, including staff from other departments or agencies of the United States, and recommend approval or disapproval of each staff element. Each such review shall be conducted pursuant to a process established by the President for determining appropriate staffing at diplomatic missions and overseas constituent posts (commonly referred to as the “NSDD–38 process”).
 
-**(b) Actions by Secretary of State** The Secretary of State, as part of the process established by the President referred to in subsection (a) of this section, shall take actions to carry out the recommendations made in each such review.
+**(b) Actions by Secretary of State** The Secretary of State, as part of the process established by the President referred to in subsection (a), shall take actions to carry out the recommendations made in each such review.
 
 ### Statutory Notes
 
@@ -685,7 +685,7 @@ The President shall appoint, by and with the advice and consent of the Senate, a
 
   (E) a listing of each audit report completed by the Inspector General during the reporting period; and
 
-  (F) a notification, which may be included, if necessary, in the classified portion of the report, of any instance in a case that was closed during the period covered by the report when the Inspector General decided not to afford an individual the opportunity described in subsection (c)(5)(B)(i) of this section to refute any allegation and the rationale for denying such individual that opportunity.
+  (F) a notification, which may be included, if necessary, in the classified portion of the report, of any instance in a case that was closed during the period covered by the report when the Inspector General decided not to afford an individual the opportunity described in subsection (c)(5)(B)(i) to refute any allegation and the rationale for denying such individual that opportunity.
   The Secretary of State shall transmit a copy of such annual report within 30 days after receiving it to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees, together with a report of the Secretary of State containing any comments which the Secretary of State deems appropriate. Within 60 days after transmitting such reports to those committees, the Secretary of State shall make copies of them available to the public upon request and at a reasonable cost.
 
 (3) The Inspector General shall report immediately to the Secretary of State whenever the Inspector General becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relating to the administration of activities and operations of Foreign Service posts or bureaus or other operating units of the Department of State. The Secretary of State shall transmit any such report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees within 7 days after receiving it, together with a report by the Secretary of State containing any comments the Secretary of State deems appropriate.
@@ -834,7 +834,7 @@ For establishment of the Board of Examiners for the Foreign Service and appointm
 Pub. L. 100–204, title I, § 179(b), Dec. 22, 1987, 101 Stat. 1363, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to tax years beginning after December 31, 1987.”
 
 #### Study of Foreign Service Examination
-Pub. L. 101–246, title I, § 153(g), Feb. 16, 1990, 104 Stat. 44, provided that: “The Secretary of State shall enter into a contract with a private organization for a comprehensive review and evaluation of the Foreign Service examination. Such review and evaluation shall— “(1) identify any cultural, racial, ethnic, and sexual bias; “(2) evaluate the ability of the examination to measure an individual’s aptitude for and potential in the Foreign Service; “(3) consider the relevance of the Foreign Service examination to the work of a Foreign Service officer; “(4) make recommendations for the removal of any element of bias in the examination; and “(5) make recommendations for improvements to achieve an examination free of any bias. Not more than 18 months after the date of the enactment of this Act [Feb. 16, 1990], the Secretary of State shall prepare and submit a report to the Congress which contains the findings of such review and evaluation, together with the comments of the Secretary and measures which the Secretary has initiated to respond to any adverse findings of such review. Such report shall take into consideration the current efforts by the Department of State to review its Foreign Service examination.”
+Pub. L. 101–246, title I, § 153(g), Feb. 16, 1990, 104 Stat. 44, provided that: “The Secretary of State shall enter into a contract with a private organization for a comprehensive review and evaluation of the Foreign Service examination. Such review and evaluation shall—“(1) identify any cultural, racial, ethnic, and sexual bias; “(2) evaluate the ability of the examination to measure an individual’s aptitude for and potential in the Foreign Service; “(3) consider the relevance of the Foreign Service examination to the work of a Foreign Service officer; “(4) make recommendations for the removal of any element of bias in the examination; and “(5) make recommendations for improvements to achieve an examination free of any bias. Not more than 18 months after the date of the enactment of this Act [Feb. 16, 1990], the Secretary of State shall prepare and submit a report to the Congress which contains the findings of such review and evaluation, together with the comments of the Secretary and measures which the Secretary has initiated to respond to any adverse findings of such review. Such report shall take into consideration the current efforts by the Department of State to review its Foreign Service examination.”
 
 
 <a id="section-3942"></a>
@@ -866,14 +866,14 @@ Pub. L. 101–246, title I, § 153(g), Feb. 16, 1990, 104 Stat. 44, provided tha
 
 (3) Except as provided in paragraph (2)(B) of this subsection or in clause 3, section 2, article II of the Constitution (relating to recess appointments), an individual may not be designated as ambassador or minister, or be designated to serve in any position with the title of ambassador or minister, without the advice and consent of the Senate.
 
-**(b)** If a member of the Service is appointed to any position in the executive branch by the President, by and with the advice and consent of the Senate, or by the President alone, the period of service in that position by the member shall be regarded as an assignment under subchapter V of this chapter and the member shall not, by virtue of the acceptance of such assignment, lose his or her status as a member of the Service. A member of the Senior Foreign Service who accepts such an assignment may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV of this chapter, and to receive the leave to which such member is entitled under subchapter I of chapter 63, title 5, as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President.
+**(b)** If a member of the Service is appointed to any position in the executive branch by the President, by and with the advice and consent of the Senate, or by the President alone, the period of service in that position by the member shall be regarded as an assignment under subchapter V and the member shall not, by virtue of the acceptance of such assignment, lose his or her status as a member of the Service. A member of the Senior Foreign Service who accepts such an assignment may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV, and to receive the leave to which such member is entitled under subchapter I of chapter 63, title 5, as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President.
 
 ### Statutory Notes
 
 #### Amendments
 1991—Subsec. (a)(1). Pub. L. 102–138, § 141, inserted “as an ambassador,” after “ambassador at large,”.
 
-Subsec. (b). Pub. L. 102–138, § 142(a), substituted “may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV of this chapter, and to receive the leave to which such member is entitled under subchapter I of chapter 63, title 5, as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President” for “shall receive the salary and leave (if any) of the position to which the member is appointed by the President and shall not be eligible for performance pay under subchapter IV of this chapter”.
+Subsec. (b). Pub. L. 102–138, § 142(a), substituted “may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV, and to receive the leave to which such member is entitled under subchapter I of chapter 63, title 5, as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President” for “shall receive the salary and leave (if any) of the position to which the member is appointed by the President and shall not be eligible for performance pay under subchapter IV of this chapter”.
 
 1987—Subsec. (b). Pub. L. 100–204 substituted “shall receive the salary and leave (if any) of the position to which the member is appointed by the President and shall not be eligible for performance pay under subchapter IV of this chapter.” for “may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV of this chapter, and to receive the leave to which such member is entitled under subchapter I of chapter 63 of title 5 as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President.”
 
@@ -955,7 +955,7 @@ George Bush.
 
 (1) In order to assist the President in selecting qualified candidates for appointment or assignment as chiefs of mission, the Secretary of State shall from time to time furnish the President with the names of career members of the Service who are qualified to serve as chiefs of mission, together with pertinent information about such members.
 
-(2) Each individual nominated by the President to be a chief of mission, ambassador at large, or minister shall, at the time of nomination, file with the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives a report of contributions made by such individual and by members of his or her immediate family during the period beginning on the first day of the fourth calendar year preceding the calendar year of the nomination and ending on the date of the nomination. The report shall be verified by the oath of the nominee, taken before any individual authorized to administer oaths. The chairman of the Committee on Foreign Relations of the Senate shall have each such report printed in the Congressional Record. As used in this paragraph, the term “contribution” has the same meaning given such term by [section 431(8) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431/8&num=0&edition=prelim), and the term “immediate family” means the spouse of the nominee, and any child, parent, grandparent, brother, or sister of the nominee and the spouses of any of them.
+(2) Each individual nominated by the President to be a chief of mission, ambassador at large, or minister shall, at the time of nomination, file with the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives a report of contributions made by such individual and by members of his or her immediate family during the period beginning on the first day of the fourth calendar year preceding the calendar year of the nomination and ending on the date of the nomination. The report shall be verified by the oath of the nominee, taken before any individual authorized to administer oaths. The chairman of the Committee on Foreign Relations of the Senate shall have each such report printed in the Congressional Record. As used in this paragraph, the term “contribution” has the same meaning given such term by [section 30101(8) of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101/8&num=0&edition=prelim), and the term “immediate family” means the spouse of the nominee, and any child, parent, grandparent, brother, or sister of the nominee and the spouses of any of them.
 
 ### Statutory Notes
 
@@ -971,7 +971,7 @@ George Bush.
 
 **(c) Appointments by Secretary of Commerce**
 
-(1) Appointments to the Senior Foreign Service by the Secretary of Commerce shall be excluded in the calculation and application of the limitation in subsection (b) of this section.
+(1) Appointments to the Senior Foreign Service by the Secretary of Commerce shall be excluded in the calculation and application of the limitation in subsection (b).
 
 (2) Except as provided in paragraph (3), no more than one individual (other than an individual with reemployment rights under [section 3950 of this title](./chapter-052-foreign-service.md#section-3950) as a career appointee in the Senior Executive Service) may serve under a limited appointment in the Senior Foreign Service in the Department of Commerce at any time.
 
@@ -1016,7 +1016,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 324], Nov. 29, 1
 
 (2) to recommend to the President that the candidate be given a career appointment under [section 3942 of this title](./chapter-052-foreign-service.md#section-3942).
 
-**(b) Decisions by Secretary** Decisions by the Secretary under subsection (a) of this section shall be based upon the recommendations of boards, established by the Secretary and composed entirely or primarily of career members of the Service, which shall evaluate the fitness and aptitude of career candidates for the work of the Service.
+**(b) Decisions by Secretary** Decisions by the Secretary under subsection (a) shall be based upon the recommendations of boards, established by the Secretary and composed entirely or primarily of career members of the Service, which shall evaluate the fitness and aptitude of career candidates for the work of the Service.
 
 **(c) Foreign Service Grievance Board decisions** Nothing in this section shall be construed to limit the authority of the Secretary or the Foreign Service Grievance Board under [section 4137 of this title](./chapter-052-foreign-service.md#section-4137).
 
@@ -1048,9 +1048,13 @@ A career candidate for appointment as a Foreign Service officer may not be initi
 ### Statutory Notes
 
 #### USAID Overseas Program
-Pub. L. 112–74, div. I, title VII, § 7057(a)–(e), Dec. 23, 2011, 125 Stat. 1244, provided that: “(a) Authority.—Up to $93,000,000 of the funds made available in title III of this Act [title III of div. I of Pub. L. 112–74, 125 Stat. 1175] to carry out the provisions of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 [[22 U.S.C. 3948](./chapter-052-foreign-service.md#section-3948), 3949]. “(b) Restrictions.—“(1) The number of individuals hired in any fiscal year pursuant to the authority contained in subsection (a) may not exceed 175. “(2) The authority to hire individuals contained in subsection (a) shall expire on September 30, 2013. “(c) Conditions.—The authority of subsection (a) should only be used to the extent that an equivalent number of positions that are filled by personal services contractors or other non-direct hire employees of USAID, who are compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, are eliminated. “(d) Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which such individual’s responsibilities primarily relate: Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II [title II of div. I of Pub. L. 112–74, 125 Stat. 1174] under the heading ‘Operating Expenses’. “(e) Foreign Service Limited Extensions.—Individuals hired and employed by USAID, with funds made available in this Act [div. I of Pub. L. 112–74, 125 Stat. 1164] or prior Acts making appropriations for the Department of State, foreign operations, and related programs [see similar provisions listed below], pursuant to the authority of section 309 of the Foreign Service Act of 1980 [[22 U.S.C. 3949](./chapter-052-foreign-service.md#section-3949)], may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
+Pub. L. 113–235, div. J, title VII, § 7057(a)–(e), Dec. 16, 2014, 128 Stat. 2664, 2665, provided that: “(a) Authority.—Up to $93,000,000 of the funds made available in title III of this Act [title III of div. J of Pub. L. 113–235, 128 Stat. 2584] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.] may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 [[22 U.S.C. 3948](./chapter-052-foreign-service.md#section-3948), 3949]. “(b) Restrictions.—“(1) The number of individuals hired in any fiscal year pursuant to the authority contained in subsection (a) may not exceed 175. “(2) The authority to hire individuals contained in subsection (a) shall expire on September 30, 2016. “(c) Conditions.—The authority of subsection (a) should only be used to the extent that an equivalent number of positions that are filled by personal services contractors or other non-direct hire employees of USAID, who are compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], are eliminated. “(d) Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which such individual’s responsibilities primarily relate: Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II [title II of div. J of Pub. L. 113–235, 128 Stat. 2583] under the heading ‘Operating Expenses’. “(e) Foreign Service Limited Extensions.—Individuals hired and employed by USAID, with funds made available in this Act [div. J of Pub. L. 113–235, 128 Stat. 2573] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 [[22 U.S.C. 3949](./chapter-052-foreign-service.md#section-3949)], may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. K, title VII, § 7057(a)–(e), Jan. 17, 2014, 128 Stat. 549.
+
+Pub. L. 112–74, div. I, title VII, § 7057(a)–(e), Dec. 23, 2011, 125 Stat. 1244.
 
 Pub. L. 111–117, div. F, title VII, § 7059(a)–(g), Dec. 16, 2009, 123 Stat. 3380, 3381.
 
@@ -1067,7 +1071,7 @@ Pub. L. 108–199, div. D, title V, § 525, Jan. 23, 2004, 118 Stat. 176, provid
 
 <a id="section-3949"></a>
 ## § 3949. Limited appointments
-**(a)** A limited appointment in the Service, including an appointment of an individual who is an employee of an agency, may not exceed 5 years in duration and, except as provided in subsection (b) of this section, may not be extended or renewed. A limited appointment in the Service which is limited by its terms to a period of one year or less is a temporary appointment.
+**(a)** A limited appointment in the Service, including an appointment of an individual who is an employee of an agency, may not exceed 5 years in duration and, except as provided in subsection (b), may not be extended or renewed. A limited appointment in the Service which is limited by its terms to a period of one year or less is a temporary appointment.
 
 **(b)** A limited appointment may be extended for continued service—
 
@@ -1075,7 +1079,7 @@ Pub. L. 108–199, div. D, title V, § 525, Jan. 23, 2004, 118 Stat. 176, provid
 
 (2) in accordance with [section 3951(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3951/a&num=0&edition=prelim);
 
-(3) as a career candidate, if continued service is determined appropriate to remedy a matter that would be cognizable as a grievance under subchapter XI of this chapter;
+(3) as a career candidate, if continued service is determined appropriate to remedy a matter that would be cognizable as a grievance under subchapter XI;
 
 (4) as a career employee in another Federal personnel system serving in a Foreign Service position on detail from another agency; and
 
@@ -1086,7 +1090,7 @@ Pub. L. 108–199, div. D, title V, § 525, Jan. 23, 2004, 118 Stat. 176, provid
 #### Amendments
 1994—Subsec. (b)(5). Pub. L. 103–236, as amended by Pub. L. 103–415, added par. (5).
 
-1987—Pub. L. 100–204 designated existing provisions as subsec. (a), substituted “subsection (b) of this section” for “[section 3951(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3951/a&num=0&edition=prelim)”, and added subsec. (b).
+1987—Pub. L. 100–204 designated existing provisions as subsec. (a), substituted “subsection (b)” for “[section 3951(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3951/a&num=0&edition=prelim)”, and added subsec. (b).
 
 
 <a id="section-3950"></a>
@@ -1104,7 +1108,7 @@ Persons appointed, employed, or assigned after May 19, 1959, under former [secti
 ## § 3951. United States citizens hired abroad
 **(a) Appointment of family members** The Secretary, under [section 3943 of this title](./chapter-052-foreign-service.md#section-3943), may appoint United States citizens, who are family members of government employees assigned abroad or are hired for service at their post of residence, for employment in positions customarily filled by Foreign Service officers, Foreign Service personnel, and foreign national employees.
 
-**(b) Family nexus as affirmative hiring factor** The fact that an applicant for employment in a position referred to in subsection (a) of this section is a family member of a Government employee assigned abroad shall be considered an affirmative factor in employing such person.
+**(b) Family nexus as affirmative hiring factor** The fact that an applicant for employment in a position referred to in subsection (a) is a family member of a Government employee assigned abroad shall be considered an affirmative factor in employing such person.
 
 **(c) Compensation of family and non-family member employees**
 
@@ -1224,9 +1228,9 @@ For adjustment of Foreign Service Schedule pay rates under this section, see the
 
 **(b)**
 
-(1) The salary class to which a member of the Service is assigned under this section shall not be affected by the assignment of the member to a position classified under subchapter V of this chapter.
+(1) The salary class to which a member of the Service is assigned under this section shall not be affected by the assignment of the member to a position classified under subchapter V.
 
-(2) Except as authorized by subchapter I of chapter 35 of title 5, changes in the salary class of a member of the Senior Foreign Service or a member of the Service assigned to a salary class in the Foreign Service Schedule shall be made only in accordance with subchapter VI of this chapter. The Secretary shall prescribe regulations (which shall be consistent with the relevant provisions of subchapter VI of chapter 53 of title 5 and with the regulations prescribed to carry out such provisions) providing for retention of pay by members of the Service in cases in which reduction-in-force procedures are applied.
+(2) Except as authorized by subchapter I of chapter 35 of title 5, changes in the salary class of a member of the Senior Foreign Service or a member of the Service assigned to a salary class in the Foreign Service Schedule shall be made only in accordance with subchapter VI. The Secretary shall prescribe regulations (which shall be consistent with the relevant provisions of subchapter VI of chapter 53 of title 5 and with the regulations prescribed to carry out such provisions) providing for retention of pay by members of the Service in cases in which reduction-in-force procedures are applied.
 
 ### Statutory Notes
 
@@ -1236,7 +1240,7 @@ For adjustment of Foreign Service Schedule pay rates under this section, see the
 
 <a id="section-3965"></a>
 ## § 3965. Performance pay
-**(a) Eligibility; additional lump sum payment; excessive compensation not precluding award** Subject to subsection (e) of this section, members of the Senior Foreign Service who are serving—
+**(a) Eligibility; additional lump sum payment; excessive compensation not precluding award** Subject to subsection (e), members of the Senior Foreign Service who are serving—
 
 (1) under career or career candidate appointments, or
 
@@ -1255,11 +1259,11 @@ shall be eligible to compete for performance pay in accordance with this section
 
 (5) The Secretary of State shall prescribe regulations, consistent with [section 5582 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5582&num=0&edition=prelim), under which payment under this section shall be made in the case of any individual whose death precludes payment under paragraph (4) of this subsection.
 
-**(c) Determination of amount by Secretary; distribution on basis of selection board recommendations** The Secretary shall determine the amount of performance pay available under subsection (b)(2) of this section each year for distribution among the members of the Senior Foreign Service and shall distribute performance pay to particular individuals on the basis of recommendations by selection boards established under [section 4002 of this title](./chapter-052-foreign-service.md#section-4002).
+**(c) Determination of amount by Secretary; distribution on basis of selection board recommendations** The Secretary shall determine the amount of performance pay available under subsection (b)(2) each year for distribution among the members of the Senior Foreign Service and shall distribute performance pay to particular individuals on the basis of recommendations by selection boards established under [section 4002 of this title](./chapter-052-foreign-service.md#section-4002).
 
-**(d) Recommendations for meritorious or distinguished service awards** The President may grant awards of performance pay under subsection (b)(3) of this section on the basis of annual recommendations by the Secretary of State of members of the Senior Foreign Service who are nominated by their agencies as having performed especially meritorious or distinguished service. Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section. Recommendations by the Secretary of State under this subsection shall be made on the basis of recommendations by special interagency selection boards established by the Secretary of State for the purpose of reviewing and evaluating the nominations of agencies.
+**(d) Recommendations for meritorious or distinguished service awards** The President may grant awards of performance pay under subsection (b)(3) on the basis of annual recommendations by the Secretary of State of members of the Senior Foreign Service who are nominated by their agencies as having performed especially meritorious or distinguished service. Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section. Recommendations by the Secretary of State under this subsection shall be made on the basis of recommendations by special interagency selection boards established by the Secretary of State for the purpose of reviewing and evaluating the nominations of agencies.
 
-**(e) Recognition in lieu of award** Notwithstanding any other provision of law, the Secretary of State may provide for recognition of the meritorious or distinguished service of any member of the Foreign Service described in subsection (a) of this section (including any member of the Senior Foreign Service) by means other than an award of performance pay in lieu of making such an award under this section.
+**(e) Recognition in lieu of award** Notwithstanding any other provision of law, the Secretary of State may provide for recognition of the meritorious or distinguished service of any member of the Foreign Service described in subsection (a) (including any member of the Senior Foreign Service) by means other than an award of performance pay in lieu of making such an award under this section.
 
 ### Statutory Notes
 
@@ -1270,7 +1274,7 @@ shall be eligible to compete for performance pay in accordance with this section
 
 1999—Subsec. (b)(1). Pub. L. 106–113 substituted “33” for “50”.
 
-1998—Subsec. (a). Pub. L. 105–277, § 2311(a)(1), substituted “Subject to subsection (e) of this section, members” for “Members” in introductory provisions.
+1998—Subsec. (a). Pub. L. 105–277, § 2311(a)(1), substituted “Subject to subsection (e), members” for “Members” in introductory provisions.
 
 Subsec. (d). Pub. L. 105–292 inserted “Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section.” after first sentence.
 
@@ -1301,14 +1305,14 @@ Pub. L. 100–204, title I, § 175(a), Dec. 22, 1987, 101 Stat. 1361, provided t
 (2) 104 calendar weeks of service in each of salary steps 10 through 13,
 unless the performance of the member during that period is found in a review by a selection board established under [section 4002 of this title](./chapter-052-foreign-service.md#section-4002) to fall below the standards of performance for his or her salary class.
 
-**(b) Additional increase for meritorious service** The Secretary may grant, on the basis of especially meritorious service, to any member of the Service receiving an increase in salary under subsection (a) of this section, an additional salary increase to any higher step in the salary class in which the member is serving.
+**(b) Additional increase for meritorious service** The Secretary may grant, on the basis of especially meritorious service, to any member of the Service receiving an increase in salary under subsection (a), an additional salary increase to any higher step in the salary class in which the member is serving.
 
 
 <a id="section-3967"></a>
 ## § 3967. Salaries for Foreign Service personnel abroad who perform routine duties
-**(a)** The Secretary may establish salary rates at rates lower than those established for the Foreign Service Schedule for the Foreign Service personnel described in subsection (b) of this section. The rates established under this subsection may be no less than the then applicable minimum wage rate specified in [section 206(a)(1) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/1&num=0&edition=prelim).
+**(a)** The Secretary may establish salary rates at rates lower than those established for the Foreign Service Schedule for the Foreign Service personnel described in subsection (b). The rates established under this subsection may be no less than the then applicable minimum wage rate specified in [section 206(a)(1) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/1&num=0&edition=prelim).
 
-**(b)** The Secretary may pay Foreign Service personnel who are recruited abroad, who are not available or are not qualified for assignment to another Foreign Service post, and who perform duties of a more routine nature than are generally performed by Foreign Service personnel assigned to class 9 in the Foreign Service Schedule, in accordance with the salary rates established under subsection (a) of this section.
+**(b)** The Secretary may pay Foreign Service personnel who are recruited abroad, who are not available or are not qualified for assignment to another Foreign Service post, and who perform duties of a more routine nature than are generally performed by Foreign Service personnel assigned to class 9 in the Foreign Service Schedule, in accordance with the salary rates established under subsection (a).
 
 
 <a id="section-3968"></a>
@@ -1422,24 +1426,41 @@ For such time (in excess of such minimum period as the Secretary of State may es
 
 <a id="section-3973"></a>
 ## § 3973. Death gratuities
-**(a) Criteria; amount; payment deemed gift** The Secretary may provide for payment of a gratuity to the surviving dependents of any Foreign Service employee, who dies as a result of injuries sustained in the performance of duty abroad, in an amount equal to one year’s salary at the time of death. Any death gratuity payment made under this section shall be held to have been a gift and shall be in addition to any other benefit payable from any source.
+**(a) Criteria; amount; payment deemed gift** The Secretary may provide for payment of a gratuity to the surviving dependents of any Foreign Service employee, who dies as a result of injuries sustained in the performance of duty abroad, in an amount equal to one year’s salary at level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim) at the time of death, except that for employees compensated under local compensation plans established under [section 3968 of this title](./chapter-052-foreign-service.md#section-3968) the amount shall be equal to the greater of either one year’s salary at the time of death, or one year’s basic salary at the highest step of the highest grade on the local compensation plan from which the employee was being paid at the time of death. Any death gratuity payment made under this section shall be held to have been a gift and shall be in addition to any other benefit payable from any source.
 
-**(b) Eligibility to elect monthly compensation as condition to payment** A death gratuity payment shall be made under this section only if the survivor entitled to payment under subsection (c) of this section is entitled to elect monthly compensation under [section 8133 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8133&num=0&edition=prelim), because the death resulted from an injury (excluding a disease proximately caused by the employment) sustained in the performance of duty, without regard to whether such survivor elects to waive compensation under such section 8133.
+**(b) Other executive agencies** The head of an executive agency shall, pursuant to guidance issued under subsection (c), make a death gratuity payment authorized by this section to the survivors of any employee of that agency or of an individual in a special category serving in an uncompensated capacity for that agency, as identified in guidance issued under subsection (c), who dies as a result of injuries sustained in the performance of duty abroad while subject to the authority of the chief of mission pursuant to [section 3927 of this title](./chapter-052-foreign-service.md#section-3927).
 
-**(c) Order of payment** A death gratuity payment under this section shall be made as follows:
+**(c) Guidance** Not later than 60 days after January 17, 2014, the Secretary shall, in consultation with the heads of other relevant executive agencies, issue guidance with criteria for determining eligibility for, and order of payments to, survivors and beneficiaries of any employee or of an individual in a special category serving in an uncompensated capacity for that agency who dies as a result of injuries sustained in the performance of duty while subject to the authority of the chief of mission pursuant to [section 3927 of this title](./chapter-052-foreign-service.md#section-3927).
 
-(1) First, to the widow or widower.
+**(d) Eligibility to elect monthly compensation as condition to payment** A death gratuity payment shall be made under this section only if the survivor entitled to payment under subsection (c) is entitled to elect monthly compensation under [section 8133 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8133&num=0&edition=prelim), because the death resulted from an injury (excluding a disease proximately caused by the employment) sustained in the performance of duty, without regard to whether such survivor elects to waive compensation under such section 8133.
 
-(2) Second, to the child, or children in equal shares, if there is no widow or widower.
-
-(3) Third, to the dependent parent, or dependent parents in equal shares, if there is no widow, widower, or child.
-If there is no survivor entitled to payment under this subsection, no payment shall be made.
-
-**(d) Definitions** As used in this section—
+**(e) Definitions** As used in this section—
 
 (1) the term “Foreign Service employee” means any member of the Service or United States representative to an international organization or commission; and
 
 (2) each of the terms “widow”, “widower”, “child”, and “parent” shall have the same meaning given each such term by [section 8101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8101&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–76, § 7082(a)(1), substituted “at level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), United States Code, at the time of death, except that for employees compensated under local compensation plans established under [section 3968 of this title](./chapter-052-foreign-service.md#section-3968) the amount shall be equal to the greater of either one year’s salary at the time of death, or one year’s basic salary at the highest step of the highest grade on the local compensation plan from which the employee was being paid at the time of death” for “at the time of death”.
+
+Subsec. (b). Pub. L. 113–76, § 7082(a)(2), (3), added subsec. (b) and redesignated former subsec. (b) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (c). Pub. L. 113–76, § 7082(a)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “A death gratuity payment under this section shall be made as follows:
+
+“(1) First, to the widow or widower.
+
+“(2) Second, to the child, or children in equal shares, if there is no widow or widower.
+
+“(3) Third, to the dependent parent, or dependent parents in equal shares, if there is no widow, widower, or child.
+
+“If there is no survivor entitled to payment under this subsection, no payment shall be made.”
+
+Subsecs. (d), (e). Pub. L. 113–76, § 7082(a)(2), redesignated subsecs. (b) and (d) as (d) and (e), respectively.
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–76, div. K, title VII, § 7082(c), Jan. 17, 2014, 128 Stat. 567, provided that: “Notwithstanding any other provision of law, sections 413, 415, and 416 of the Foreign Service Act of 1980 [[22 U.S.C. 3973](./chapter-052-foreign-service.md#section-3973), 3975, 3976], as amended or added by this section, shall apply in the case of a Foreign Service employee or executive branch employee subject to the authority of the chief of mission pursuant to section 207 of the Foreign Service Act ([22 U.S.C. 3927](./chapter-052-foreign-service.md#section-3927)), serving at a United States diplomatic or consular mission abroad, who died on or after April 18, 1983, as a result of injuries sustained in an act of terrorism, as defined in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1998 and 1999 [probably means “1988 and 1989”] ([22 U.S.C. 2656f(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim)).”
 
 
 <a id="section-3974"></a>
@@ -1454,13 +1475,51 @@ If there is no survivor entitled to payment under this subsection, no payment sh
 
 **(c) Treatment as basic pay** An equalization pay adjustment paid under this section shall be considered to be part of basic pay for the same purposes for which comparability payments are considered to be part of basic pay under [section 5304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5304&num=0&edition=prelim).
 
-**(d) Regulations** The heads of the agencies referred to in subsection (b)(2) of this section may prescribe regulations to carry out this section.
+**(d) Regulations** The heads of the agencies referred to in subsection (b)(2) may prescribe regulations to carry out this section.
+
+
+<a id="section-3975"></a>
+## § 3975. Group life insurance supplement applicable to those killed in terrorist attacks
+**(a) Foreign Service employees**
+
+(1) **In general** — Notwithstanding the amounts specified in chapter 87 of title 5, a Foreign Service employee who dies as a result of injuries sustained while on duty abroad because of an act of terrorism, as defined in [section 2656f(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim), shall be eligible for a payment from the United States in an amount that, when added to the amount of the employee’s employer-provided group life insurance policy coverage (if any), equals $400,000. In the case of an employee compensated under a local compensation plan established under [section 3968 of this title](./chapter-052-foreign-service.md#section-3968), the amount of such payment shall be determined by regulations implemented by the Secretary of State and shall be no greater than $400,000.
+
+(2) **Designation of beneficiary** — A payment made under paragraph (1) shall be made in accordance with the guidance issued under [section 3973(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3973/c&num=0&edition=prelim).
+
+**(b) Other executive agencies** The head of an executive agency shall provide the additional payment authorized by this section, consistent with the provisions set forth in subsection (a), with respect to any employee of that agency or of an individual in a special category serving in an uncompensated capacity for that agency who dies as a result of injuries sustained while on duty abroad because of an act of terrorism, as defined in [section 2656f(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim), while subject to the authority of the chief of mission pursuant to [section 3927 of this title](./chapter-052-foreign-service.md#section-3927).
+
+### Statutory Notes
+
+#### References in Text
+[Section 2656f(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim), referred to in subsecs. (a)(1) and (b), was in the original “section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1998 and 1999”, and was translated as meaning “section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989”, to reflect the probable intent of Congress.
+
+#### Effective Date
+Section applicable in the case of a Foreign Service or executive branch employee subject to the authority of the chief of mission pursuant to [section 3927 of this title](./chapter-052-foreign-service.md#section-3927), serving at a United States diplomatic or consular mission abroad, who died on or after April 18, 1983, as a result of injuries from an act of terrorism, as defined in [section 2656f(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim), see section 7082(c) of Pub. L. 113–76, set out as an Effective Date of 2014 Amendment note under [section 3973 of this title](./chapter-052-foreign-service.md#section-3973).
+
+
+<a id="section-3976"></a>
+## § 3976. Survivors’ and dependents’ educational assistance
+**(a) Foreign Service employees** The Secretary shall, pursuant to guidance issued under [section 3973(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3973/c&num=0&edition=prelim), provide educational assistance to a beneficiary of any United States national Foreign Service employee who dies while on duty abroad as a result of an act of terrorism, as defined in [section 2656f(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim), to meet, in whole or in part, the expenses incurred by the beneficiary in pursuing a program of education at an educational institution, including subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
+
+**(b) Other executive agencies** The head of an executive agency shall, pursuant to guidance issued under [section 3973(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3973/c&num=0&edition=prelim) provide educational assistance authorized by this section to a beneficiary of any employee of that agency who dies as a result of an act of terrorism or terrorism, as defined in [section 2656f(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim), while on duty abroad and subject to the authority of the chief of mission pursuant to [section 3927 of this title](./chapter-052-foreign-service.md#section-3927).
+
+**(c) Amount of assistance** Educational assistance under this section may be made available up to the amounts provided for in [section 3532 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3532&num=0&edition=prelim), as adjusted by [section 3564 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3564&num=0&edition=prelim), and for an aggregate period not in excess of 48 months.
+
+**(d) Program of education and educational institution defined** For purposes of this section, the terms “program of education” and “educational institution” have the meanings given the terms in [section 3501 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+[Section 2656f(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim), referred to in subsecs. (a) and (b), was in the original “section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1998 and 1999”, and was translated as meaning “section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989”, to reflect the probable intent of Congress.
+
+#### Effective Date
+Section applicable in the case of a Foreign Service or executive branch employee subject to the authority of the chief of mission pursuant to [section 3927 of this title](./chapter-052-foreign-service.md#section-3927), serving at a United States diplomatic or consular mission abroad, who died on or after April 18, 1983, as a result of injuries from an act of terrorism, as defined in [section 2656f(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim), see section 7082(c) of Pub. L. 113–76, set out as an Effective Date of 2014 Amendment note under [section 3973 of this title](./chapter-052-foreign-service.md#section-3973).
 
 
 <a id="section-3981"></a>
 ## § 3981. Authority of Secretary
 
-The Secretary shall designate and classify positions in the Department and at Foreign Service posts which are to be occupied by members of the Service (other than by chiefs of mission and ambassadors at large). Positions designated under this section are excepted from the competitive service. Position classifications under this section shall be established, without regard to chapter 51 of title 5, in relation to the salaries established under subchapter IV of this chapter. In classifying positions at Foreign Service posts abroad, the Secretary shall give appropriate weight to job factors relating to service abroad and to the compensation practices applicable to United States citizens employed abroad by United States corporations.
+The Secretary shall designate and classify positions in the Department and at Foreign Service posts which are to be occupied by members of the Service (other than by chiefs of mission and ambassadors at large). Positions designated under this section are excepted from the competitive service. Position classifications under this section shall be established, without regard to chapter 51 of title 5, in relation to the salaries established under subchapter IV. In classifying positions at Foreign Service posts abroad, the Secretary shall give appropriate weight to job factors relating to service abroad and to the compensation practices applicable to United States citizens employed abroad by United States corporations.
 
 
 <a id="section-3982"></a>
@@ -1514,9 +1573,9 @@ Pub. L. 98–164, title I, § 130(c), Nov. 22, 1983, 97 Stat. 1028, directed Sec
 
 (2) The salary of a member of the Service assigned under this section shall be paid from appropriations made available for the payment of salaries and expenses of the Service. Such appropriations may be reimbursed for all or any part of the costs of salaries and other benefits for members assigned under this section.
 
-(3) A member of the Service assigned under subsection (a)(4) of this section to a Member or office of the Congress shall be deemed to be an employee of the House of Representatives or the Senate, as the case may be, for purposes of payment of travel and other expenses.
+(3) A member of the Service assigned under subsection (a)(4) to a Member or office of the Congress shall be deemed to be an employee of the House of Representatives or the Senate, as the case may be, for purposes of payment of travel and other expenses.
 
-**(c) Length of assignment** Except as otherwise provided in subsection (d)(5) of this section, assignments under this section may not exceed four years of continuous service for any member of the Service unless the Secretary approves an extension of such period for that member because of special circumstances.
+**(c) Length of assignment** Except as otherwise provided in subsection (d)(5), assignments under this section may not exceed four years of continuous service for any member of the Service unless the Secretary approves an extension of such period for that member because of special circumstances.
 
 **(d) Assignment to the American Institute in Taiwan**
 
@@ -1537,7 +1596,7 @@ Pub. L. 98–164, title I, § 130(c), Nov. 22, 1983, 97 Stat. 1028, directed Sec
 ### Statutory Notes
 
 #### Amendments
-2002—Subsec. (c). Pub. L. 107–228, § 326(2), substituted “Except as otherwise provided in subsection (d)(5) of this section, assignments” for “Assignments”.
+2002—Subsec. (c). Pub. L. 107–228, § 326(2), substituted “Except as otherwise provided in subsection (d)(5), assignments” for “Assignments”.
 
 Subsec. (d). Pub. L. 107–228, § 326(1), added subsec. (d).
 
@@ -1672,7 +1731,7 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 ## § 4004. Records
 **(a)** The records described in [section 4003(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4003/a&num=0&edition=prelim) shall be maintained in accordance with regulations prescribed by the Secretary. Except to the extent that they pertain to the receipt, disbursement, and accounting for public funds, such records shall be confidential and subject to inspection only by the President, the Secretary, such employees of the Government as may be authorized by law or assigned by the Secretary to work on such records, the legislative and appropriations committees of the Congress charged with considering legislation and appropriations for the Service, and representatives duly authorized by such committees. Access to such records relating to a member of the Service shall be granted to such member, upon written request.
 
-**(b)** Notwithstanding subsection (a) of this section, any record of disciplinary action that includes a suspension of more than five days taken against a member of the Service, including any correction of that record under [section 4137(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4137/b/1&num=0&edition=prelim), shall remain a part of the personnel records until the member is tenured as a career member of the Service or next promoted.
+**(b)** Notwithstanding subsection (a), any record of disciplinary action that includes a suspension of more than five days taken against a member of the Service, including any correction of that record under [section 4137(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4137/b/1&num=0&edition=prelim), shall remain a part of the personnel records until the member is tenured as a career member of the Service or next promoted.
 
 ### Statutory Notes
 
@@ -1687,7 +1746,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 327(b)], Nov. 29
 ## § 4005. Implementation of selection board recommendations
 **(a)** Recommendations for promotion made by selection boards shall be submitted to the Secretary in rank order by salary class or in rank order by specialization within a salary class. The Secretary shall make promotions and, with respect to career appointments into or within the Senior Foreign Service, shall make recommendations to the President for promotions, in accordance with the rankings of the selection boards.
 
-**(b)** Notwithstanding subsection (a) of this section, in special circumstances set forth by regulation, the Secretary may remove the name of an individual from the rank order list submitted by a selection board or delay the promotion of an individual named in such a list.
+**(b)** Notwithstanding subsection (a), in special circumstances set forth by regulation, the Secretary may remove the name of an individual from the rank order list submitted by a selection board or delay the promotion of an individual named in such a list.
 
 
 <a id="section-4006"></a>
@@ -1725,7 +1784,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 327(b)], Nov. 29
 
   (B) such minimum period as the Secretary determines is necessary to provide members of the Service who are in the same category and salary class as that member a reasonable opportunity to be promoted into the next higher class or combination of classes, as the case may be.
 
-**(b) Limited career extension** Members of the Service whose maximum time in class under subsection (a) of this section expires—
+**(b) Limited career extension** Members of the Service whose maximum time in class under subsection (a) expires—
 
 (1) after they have attained the highest salary class for their respective occupational categories, or
 
@@ -1734,14 +1793,14 @@ may continue to serve only under limited extentions of their career appointments
 
 **(c) Members subject to retirement; reception of retirement benefits** Any member of the Service—
 
-(1) whose maximum time in class under subsection (a) of this section expires and who is not promoted to a higher class or combination of classes, as the case may be, or
+(1) whose maximum time in class under subsection (a) expires and who is not promoted to a higher class or combination of classes, as the case may be, or
 
-(2) whose limited career extension under subsection (b) of this section expires and is not renewed,
+(2) whose limited career extension under subsection (b) expires and is not renewed,
 shall be retired from the Service and receive benefits in accordance with [section 4009 of this title](./chapter-052-foreign-service.md#section-4009), subject to any career extension under subsection (d) of this section.
 
 **(d) Extensions** Notwithstanding any other provision of this section—
 
-(1) the career appointment of a member of the Service whose maximum time in class under subsection (a) of this section expires, or whose limited career extension under subsection (b) of this section expires, while that member is occupying a position to which he or she was appointed by the President, by and with the advice and consent of the Senate, shall be extended until the appointment to that position is terminated; and
+(1) the career appointment of a member of the Service whose maximum time in class under subsection (a) expires, or whose limited career extension under subsection (b) expires, while that member is occupying a position to which he or she was appointed by the President, by and with the advice and consent of the Senate, shall be extended until the appointment to that position is terminated; and
 
 (2) if the Secretary determines it to be in the public interest, the Secretary may extend temporarily the career appointment of a career member of the Service whose maximum time in class or limited career extension expires, but in no case may any extension under this paragraph exceed one year and such extensions may be granted only in special circumstances.
 
@@ -1750,7 +1809,7 @@ shall be retired from the Service and receive benefits in accordance with [secti
 ## § 4008. Retirement based on failure to meet standard of performance
 **(a)** The Secretary shall prescribe regulations concerning the standards of performance to be met by career members of the Service who are citizens of the United States. Whenever a selection board review indicates that the performance of such a career member of the Service may not meet the standards of performance for his or her class, the Secretary shall provide for administrative review of the performance of the member. The review shall include an opportunity for the member to be heard.
 
-**(b)** In any case where the administrative review conducted under subsection (a) of this section substantiates that a career member of the Service has failed to meet the standards of performance for his or her class, the member shall be retired from the Service and receive benefits in accordance with [section 4009 of this title](./chapter-052-foreign-service.md#section-4009).
+**(b)** In any case where the administrative review conducted under subsection (a) substantiates that a career member of the Service has failed to meet the standards of performance for his or her class, the member shall be retired from the Service and receive benefits in accordance with [section 4009 of this title](./chapter-052-foreign-service.md#section-4009).
 
 
 <a id="section-4009"></a>
@@ -1766,7 +1825,7 @@ shall be retired from the Service and receive benefits in accordance with [secti
   (B) from the Senior Foreign Service or while assigned to class 1 in the Foreign Service Schedule,
 shall receive retirement benefits in accordance with [section 4046 of this title](./chapter-052-foreign-service.md#section-4046) or [section 4071d of this title](./chapter-052-foreign-service.md#section-4071d), as appropriate.
 
-**(b) Computation of amount; refund; death of member** Any member of the Service (other than a member to whom subsection (a) of this section applies) who is retired under section 4007(c)(1) or 4008(b) or 4010a of this title shall receive—
+**(b) Computation of amount; refund; death of member** Any member of the Service (other than a member to whom subsection (a) applies) who is retired under section 4007(c)(1) or 4008(b) or 4010a of this title shall receive—
 
 (1) one-twelfth of a year’s salary at his or her then current salary rate for each year of service and proportionately for a fraction of a year, but not exceeding a total of one year’s salary at his or her then current salary rate, payable without interest from the Foreign Service Retirement and Disability Fund in 3 equal installments, such installments to be paid on January 1 of each of the first 3 calendar years beginning after the retirement of the member (except that in special cases, the Secretary of State may accelerate or combine such installments); and
 
@@ -1816,7 +1875,7 @@ Pub. L. 95–105, title IV, § 411, Aug. 17, 1977, 91 Stat. 855, as amended by P
 
 (4) Notwithstanding the hearing required by paragraph (2), at the time that the Secretary decides to separate a member of the Service for cause, the member shall be placed on leave without pay. If the member does not waive the right to a hearing, and the Board decides that cause for separation has not been established, the member shall be reinstated with back pay.
 
-**(b) Refund of contributions to Fund; annuity election** Any participant in the Foreign Service Retirement and Disability System who is separated under subsection (a) of this section shall be entitled to receive a refund as provided in [section 4055 of this title](./chapter-052-foreign-service.md#section-4055) of the contributions made by the participant to the Foreign Service Retirement and Disability Fund. Except in cases where the Secretary determines that separation was based in whole or in part on the ground of disloyalty to the United States, a participant who has at least 5 years of service credit toward retirement under the Foreign Service Retirement and Disability System (excluding military and naval service) may elect, in lieu of such refund, to an annuity, computed under [section 4046 of this title](./chapter-052-foreign-service.md#section-4046), commencing at age 60.
+**(b) Refund of contributions to Fund; annuity election** Any participant in the Foreign Service Retirement and Disability System who is separated under subsection (a) shall be entitled to receive a refund as provided in [section 4055 of this title](./chapter-052-foreign-service.md#section-4055) of the contributions made by the participant to the Foreign Service Retirement and Disability Fund. Except in cases where the Secretary determines that separation was based in whole or in part on the ground of disloyalty to the United States, a participant who has at least 5 years of service credit toward retirement under the Foreign Service Retirement and Disability System (excluding military and naval service) may elect, in lieu of such refund, to an annuity, computed under [section 4046 of this title](./chapter-052-foreign-service.md#section-4046), commencing at age 60.
 
 ### Statutory Notes
 
@@ -1869,7 +1928,7 @@ Pub. L. 101–167, title V, § 586(c), Nov. 21, 1989, 103 Stat. 1252, provided t
 
 **(b) Applicability of retirement benefits** The provisions of [section 4009 of this title](./chapter-052-foreign-service.md#section-4009) shall be applicable to any member of the Service holding a career or career candidate appointment under subchapter III of this chapter, who is separated under the provisions of this section.
 
-**(c) Grievance procedure** An employee against whom action is taken under this section may elect either to file a grievance under subchapter XI of this chapter or to appeal to the Merit Systems Protection Board under procedures prescribed by the Board. Grievances under subchapter XI of this chapter shall be limited to cases of reprisal, interference in the conduct of an employee’s official duties, or similarly inappropriate use of the authority of this section.
+**(c) Grievance procedure** An employee against whom action is taken under this section may elect either to file a grievance under subchapter XI or to appeal to the Merit Systems Protection Board under procedures prescribed by the Board. Grievances under subchapter XI shall be limited to cases of reprisal, interference in the conduct of an employee’s official duties, or similarly inappropriate use of the authority of this section.
 
 ### Statutory Notes
 
@@ -2062,7 +2121,7 @@ Pub. L. 95–105, title IV, § 414, Aug. 17, 1977, 91 Stat. 857, as amended by P
 ## § 4022. Foreign language requirements
 **(a) In general** The Secretary shall establish foreign language proficiency requirements for members of the Service who are to be assigned abroad in order that Foreign Service posts abroad will be staffed by individuals having a useful knowledge of the language or dialect common to the country in which the post is located.
 
-**(b) Training** The Secretary of State shall arrange for appropriate language training of members of the Service by the institution or otherwise in order to assist in meeting the requirements established under subsection (a) of this section.
+**(b) Training** The Secretary of State shall arrange for appropriate language training of members of the Service by the institution or otherwise in order to assist in meeting the requirements established under subsection (a).
 
 **(c) Report** Not later than January 31 of each year, the Director General of the Foreign Service shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives summarizing the number of positions in each overseas mission requiring foreign language competence that—
 
@@ -2205,11 +2264,11 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 **(b) Selection and appointment of scholars**
 
-(1) Scholars participating in the Visiting Scholars Program shall be selected by a five-member board described in subsection (c) of this section.
+(1) Scholars participating in the Visiting Scholars Program shall be selected by a five-member board described in subsection (c).
 
 (2) Each visiting scholar shall serve a term of one year, except that such term may be extended for one additional one-year period.
 
-**(c) Establishment of selection board** The board referred to in subsection (b) of this section shall be composed of the Director of the institution, who shall serve as chairperson, and four other members appointed by the Secretary of State.
+**(c) Establishment of selection board** The board referred to in subsection (b) shall be composed of the Director of the institution, who shall serve as chairperson, and four other members appointed by the Secretary of State.
 
 ### Statutory Notes
 
@@ -2321,7 +2380,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 <a id="section-4043"></a>
 ## § 4043. Participants
-**(a) Career appointees or candidates; chiefs of mission** Except as provided in subsection (d) of this section, the following members of the Service (hereinafter in this part referred to as “participants”) shall be entitled to the benefits of the System:
+**(a) Career appointees or candidates; chiefs of mission** Except as provided in subsection (d), the following members of the Service (hereinafter in this part referred to as “participants”) shall be entitled to the benefits of the System:
 
 (1) Every member who is serving under a career appointment or as a career candidate under [section 3946 of this title](./chapter-052-foreign-service.md#section-3946)—
 
@@ -2337,9 +2396,9 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 **(b) Executive branch appointees** Any otherwise eligible member of the Service who is appointed to a position in the executive branch by the President, by and with the advice and consent of the Senate, or by the President alone, shall not by virtue of the acceptance of such appointment cease to be eligible to participate in the System.
 
-**(c) Binational Center Grantees** In addition to the individuals who are participants in the System under subsection (a) of this section, any individual who was appointed as a Binational Center Grantee and who completed at least 5 years of satisfactory service as such a grantee or under any other appointment under the Foreign Service Act of 1946 may become a participant in the System, and shall receive credit for such service if an appropriate special contribution is made to the Fund in accordance with section 4045(d) or (f) of this title.
+**(c) Binational Center Grantees** In addition to the individuals who are participants in the System under subsection (a), any individual who was appointed as a Binational Center Grantee and who completed at least 5 years of satisfactory service as such a grantee or under any other appointment under the Foreign Service Act of 1946 may become a participant in the System, and shall receive credit for such service if an appropriate special contribution is made to the Fund in accordance with section 4045(d) or (f) of this title.
 
-**(d) Exclusion** An individual subject to the Foreign Service Pension System (described in part II of this subchapter) is not a participant in this System.
+**(d) Exclusion** An individual subject to the Foreign Service Pension System (described in part II) is not a participant in this System.
 
 ### Statutory Notes
 
@@ -2347,7 +2406,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 The Foreign Service Act of 1946, referred to in subsec. (c), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, as amended, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, 2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
 #### Amendments
-1986—Subsec. (a). Pub. L. 99–335, §§ 402(a)(2), 414(1), substituted “Except as provided in subsection (d) of this section, the” for “The” and “part” for “subchapter” in provisions preceding par. (1).
+1986—Subsec. (a). Pub. L. 99–335, §§ 402(a)(2), 414(1), substituted “Except as provided in subsection (d), the” for “The” and “part” for “subchapter” in provisions preceding par. (1).
 
 Subsec. (d). Pub. L. 99–335, § 414(2), added subsec. (d).
 
@@ -2407,7 +2466,7 @@ As used in this part, unless otherwise specified, the term—
   (C) as a commissioned officer of the National Oceanic and Atmospheric Administration, or a predecessor organization, after June 30, 1961,
   but does not include service in the National Guard except when ordered to active duty in the service of the United States;
 
-(10) “pro rata share”, in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II of this subchapter) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II of this subchapter);
+(10) “pro rata share”, in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II);
 
 (11) “spousal agreement” means any written agreement between—
 
@@ -2467,7 +2526,7 @@ Pub. L. 100–238, § 211(2), (3), substituted “9 months” for “one year”
 
 Par. (3). Pub. L. 99–335, § 403, substituted “, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court as defined in [section 1301(3) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1301/3&num=0&edition=prelim)” for “or of the District of Columbia”.
 
-Par. (10). Pub. L. 99–335, § 404(a), inserted “(creditable under part I or II of this subchapter)” after “creditable service” in two places.
+Par. (10). Pub. L. 99–335, § 404(a), inserted “(creditable under part I or II)” after “creditable service” in two places.
 
 Par. (14). Pub. L. 99–335, § 402(a)(3), inserted “under this part” after “payable from the Fund” in provision preceding subpar. (A).
 
@@ -2503,7 +2562,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 (1) If a member of the Service who is under another retirement system for Government employees becomes a participant in the System by direct transfer, the total contributions and deposits of that member that would otherwise be refundable on separation (except voluntary contributions), including interest thereon, shall be transferred to the Fund effective as of the date such member becomes a participant in the System. Each such member shall be deemed to consent to the transfer of such funds, and such transfer shall be a complete discharge and acquittance of all claims and demands against the other Government retirement fund on account of service rendered by such member prior to becoming a participant in the System.
 
-(2) A member of the Service whose contributions are transferred to the Fund pursuant to paragraph (1) shall not be required to make additional contributions for periods of service for which required contributions were made to the other Government retirement fund; nor shall any refund be made to any such member on account of contributions made during any period to the other Government retirement fund at a higher rate than that fixed by subsection (d) of this section.
+(2) A member of the Service whose contributions are transferred to the Fund pursuant to paragraph (1) shall not be required to make additional contributions for periods of service for which required contributions were made to the other Government retirement fund; nor shall any refund be made to any such member on account of contributions made during any period to the other Government retirement fund at a higher rate than that fixed by subsection (d).
 
 **(d) Contribution for civilian service; creditability of interim service**
 
@@ -2522,7 +2581,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 (5) Notwithstanding paragraph (1), a special contribution for past service as a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development which would have been creditable toward retirement under either section 8336(c) or 8412(d) of title 5, and for which a special contribution has not been made shall be equal to the difference between the amount actually contributed pursuant to either this section or [section 4071e of this title](./chapter-052-foreign-service.md#section-4071e) and the amount that should have been contributed pursuant to either section 8334 or 8422 of title 5.
 
-(6) Subject to paragraph (4) and subsection (h) of this section, for purposes of applying this subsection with respect to prior service as a special agent, the percentages of basic pay set forth in [section 8334(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/c&num=0&edition=prelim), with respect to a law enforcement officer, shall apply instead of the percentages set forth in paragraph (1).
+(6) Subject to paragraph (4) and subsection (h), for purposes of applying this subsection with respect to prior service as a special agent, the percentages of basic pay set forth in [section 8334(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/c&num=0&edition=prelim), with respect to a law enforcement officer, shall apply instead of the percentages set forth in paragraph (1).
 
 **(e) Contribution for military or naval service**
 
@@ -2541,7 +2600,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 (5) Effective with respect to any period of military or naval service after December 31, 1998, the percentage of basic pay under [section 204 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section204&num=0&edition=prelim) payable under paragraph (1) shall be equal to the same percentage as would be applicable under [section 8334(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/c&num=0&edition=prelim) for that same period for service as an employee.
 
-**(f) Exemption for certain military or naval service** Contributions shall only be required to obtain credit for periods of military or naval service to the extent provided under subsection (e) of this section and [section 4056(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4056/a&num=0&edition=prelim), except that credit shall be allowed in the absence of contributions to individuals of Japanese ancestry under [section 4056 of this title](./chapter-052-foreign-service.md#section-4056) for periods of internment during World War II.
+**(f) Exemption for certain military or naval service** Contributions shall only be required to obtain credit for periods of military or naval service to the extent provided under subsection (e) and [section 4056(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4056/a&num=0&edition=prelim), except that credit shall be allowed in the absence of contributions to individuals of Japanese ancestry under [section 4056 of this title](./chapter-052-foreign-service.md#section-4056) for periods of internment during World War II.
 
 **(g) Time of payment; offset against initial annuity accruals** A participant or survivor may make a special contribution at any time before receipt of annuity and may authorize payment by offset against initial annuity accruals.
 
@@ -2628,7 +2687,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 Amendment by Ex. Ord. No. 12446 effective Oct. 17, 1983, see section 4(e) of Ex. Ord. No. 12446, set out under [section 4067 of this title](./chapter-052-foreign-service.md#section-4067).
 
 #### Foreign Service Retirement and Disability System Contributions, Deductions, and Withholdings
-Pub. L. 106–346, § 101(a) [title V, § 505(h)], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: “Notwithstanding any provision of section 805(a) of the Foreign Service Act of 1980 ([22 U.S.C. 4045(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/a&num=0&edition=prelim)), during the period beginning on October 1, 2002, through December 31, 2002, each agency employing a participant in the Foreign Service Retirement and Disability System shall contribute to the Foreign Service Retirement and Disability Fund— “(1) 7.5 percent of the basic pay of each participant covered under section 805(a)(1) of such Act participating in the Foreign Service Retirement and Disability System; and “(2) 8 percent of the basic pay of each participant covered under paragraph (2) or (3) of section 805(a) of such Act participating in the Foreign Service Retirement and Disability System, in lieu of the agency contribution otherwise required under section 805(a) of such Act.”
+Pub. L. 106–346, § 101(a) [title V, § 505(h)], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: “Notwithstanding any provision of section 805(a) of the Foreign Service Act of 1980 ([22 U.S.C. 4045(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/a&num=0&edition=prelim)), during the period beginning on October 1, 2002, through December 31, 2002, each agency employing a participant in the Foreign Service Retirement and Disability System shall contribute to the Foreign Service Retirement and Disability Fund—“(1) 7.5 percent of the basic pay of each participant covered under section 805(a)(1) of such Act participating in the Foreign Service Retirement and Disability System; and “(2) 8 percent of the basic pay of each participant covered under paragraph (2) or (3) of section 805(a) of such Act participating in the Foreign Service Retirement and Disability System, in lieu of the agency contribution otherwise required under section 805(a) of such Act.”
 
 Pub. L. 105–33, title VII, § 7001(d)(1)–(2)(B), Aug. 5, 1997, 111 Stat. 659, 660, as amended by Pub. L. 106–346, § 101(a) [title V, § 505(d)(1)], Oct. 23, 2000, 114 Stat. 1356, 1356A–53, provided that: “(1) Agency contributions.—Notwithstanding section 805(a)(1) and (2) of the Foreign Service Act of 1980 ([22 U.S.C. 4045(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/a/1&num=0&edition=prelim) and (2)), during the period beginning on October 1, 1997, through September 30, 2002, each agency employing a participant in the Foreign Service Retirement and Disability System shall contribute to the Foreign Service Retirement and Disability Fund—“(A) 8.51 percent of the basic pay of each participant covered under section 805(a)(1) of such Act participating in the Foreign Service Retirement and Disability System; and “(B) 9.01 percent of the basic pay of each participant covered under section 805(a)(2) of such Act participating in the Foreign Service Retirement and Disability System; in lieu of the agency contribution otherwise required under section 805(a)(1) and (2) of such Act. “(2) Individual deductions, withholdings, and deposits.—“(A) In general.—Notwithstanding section 805(a)(1) of the Foreign Service Act of 1980 ([22 U.S.C. 4045(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/a/1&num=0&edition=prelim)), beginning on January 1, 1999, through December 31, 2000, the amount withheld and deducted from the basic pay of a participant in the Foreign Service Retirement and Disability System shall be as follows: “7.25January 1, 1999, to December 31, 1999. “7.4January 1, 2000, to December 31, 2000. “(B) Foreign service criminal investigators/inspectors of the office of the inspector general, agency for international development.—Notwithstanding section 805(a)(2) of the Foreign Service Act of 1980 ([22 U.S.C. 4045(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/a/2&num=0&edition=prelim)), beginning on January 1, 1999, through December 31, 2000, the amount withheld and deducted from the basic pay of an eligible Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development participating in the Foreign Service Retirement and Disability System shall be as follows: “7.75January 1, 1999, to December 31, 1999. “7.9January 1, 2000, to December 31, 2000.”
 
@@ -2675,9 +2734,9 @@ Pub. L. 105–33, title VII, § 7001(d)(1)–(2)(B), Aug. 5, 1997, 111 Stat. 659
 
   (C) For purposes of subparagraph (B), included with the years of service performed by an individual as a special agent shall be any service performed by such individual as a law enforcement officer (within the meaning of section 8331(20) or [section 8401(17) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8401/17&num=0&edition=prelim)), or a member of the Capitol Police.
 
-(7) In the case of a special agent who becomes or became subject to part II of this subchapter—
+(7) In the case of a special agent who becomes or became subject to part II—
 
-  (A) for purposes of paragraph (6)(B), any service performed by the individual as a special agent (whether under this part or under part II of this subchapter), as a law enforcement officer (within the meaning of section 8331(20) or [section 8401(17) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8401/17&num=0&edition=prelim)), or as a member of the Capitol Police shall be creditable; and
+  (A) for purposes of paragraph (6)(B), any service performed by the individual as a special agent (whether under this part or under part II), as a law enforcement officer (within the meaning of section 8331(20) or [section 8401(17) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8401/17&num=0&edition=prelim)), or as a member of the Capitol Police shall be creditable; and
 
   (B) if the individual satisfies paragraph (6)(B), the portion of such individual’s annuity which is attributable to service under the Foreign Service Retirement and Disability System or the Civil Service Retirement System shall be computed in conformance with paragraph (6).
 
@@ -2701,7 +2760,7 @@ Pub. L. 105–33, title VII, § 7001(d)(1)–(2)(B), Aug. 5, 1997, 111 Stat. 659
 
 (3)
 
-  (A) If a former participant entitled to receive a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse equal to 55 percent of the full amount of the participant’s annuity computed under subsection (a) of this section, or 55 percent of any lesser amount elected as the base for the survivor benefit under paragraph (1)(B).
+  (A) If a former participant entitled to receive a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse equal to 55 percent of the full amount of the participant’s annuity computed under subsection (a), or 55 percent of any lesser amount elected as the base for the survivor benefit under paragraph (1)(B).
 
   (B) Notwithstanding subparagraph (A), the amount of the annuity calculated under subparagraph (A) for a surviving spouse in any case in which there is also a surviving former spouse of the participant who qualifies for an annuity under [section 4054(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4054/b&num=0&edition=prelim) may not exceed 55 percent of the portion (if any) of the base for survivor benefits which remains available under [section 4054(b)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4054/b/4/B&num=0&edition=prelim).
 
@@ -2729,11 +2788,11 @@ Pub. L. 105–33, title VII, § 7001(d)(1)–(2)(B), Aug. 5, 1997, 111 Stat. 659
 
 **(d) Recomputation for remaining children** On the death of the surviving spouse or former spouse or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the participant. If the annuity to a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities to all currently eligible children in the family were then being initiated.
 
-**(e) Payment period for child** The annuity payable to a child under subsection (c) or (d) of this section shall begin on the day after the participant dies, or if the child is not then qualified, on the first day of the month in which the child becomes eligible. The annuity of a child shall terminate on the last day of the month which precedes the month in which eligibility ceases.
+**(e) Payment period for child** The annuity payable to a child under subsection (c) or (d) shall begin on the day after the participant dies, or if the child is not then qualified, on the first day of the month in which the child becomes eligible. The annuity of a child shall terminate on the last day of the month which precedes the month in which eligibility ceases.
 
-**(f) Unmarried participants** At the time of retirement an unmarried participant who does not have a former spouse for whose benefit a reduction is made under subsection (b) of this section may elect to receive a reduced annuity and to provide for an annuity equal to 55 percent of the reduced annuity payable after his or her death to a beneficiary whose name is designated in writing to the Secretary of State. The annuity payable to a participant making such election shall be reduced by 10 percent of an annuity computed under subsection (a) of this section and by 5 percent of an annuity so computed for each full 5 years the designated beneficiary is younger than the retiring participant, but such total reduction shall not exceed 40 percent. No such election of a reduced annuity payable to a beneficiary shall be valid until the participant has satisfactorily passed a physical examination as prescribed by the Secretary of State. The annuity payable to a beneficiary under this subsection shall begin on the day after the annuitant dies and shall terminate on the last day of the month preceding the death of the beneficiary. An annuity which is reduced under this subsection (or any similar prior provision of law) shall, effective the first day of the month following the death of the beneficiary named under this subsection, be recomputed and paid as if the annuity had not been so reduced.
+**(f) Unmarried participants** At the time of retirement an unmarried participant who does not have a former spouse for whose benefit a reduction is made under subsection (b) may elect to receive a reduced annuity and to provide for an annuity equal to 55 percent of the reduced annuity payable after his or her death to a beneficiary whose name is designated in writing to the Secretary of State. The annuity payable to a participant making such election shall be reduced by 10 percent of an annuity computed under subsection (a) and by 5 percent of an annuity so computed for each full 5 years the designated beneficiary is younger than the retiring participant, but such total reduction shall not exceed 40 percent. No such election of a reduced annuity payable to a beneficiary shall be valid until the participant has satisfactorily passed a physical examination as prescribed by the Secretary of State. The annuity payable to a beneficiary under this subsection shall begin on the day after the annuitant dies and shall terminate on the last day of the month preceding the death of the beneficiary. An annuity which is reduced under this subsection (or any similar prior provision of law) shall, effective the first day of the month following the death of the beneficiary named under this subsection, be recomputed and paid as if the annuity had not been so reduced.
 
-**(g) Marriage after retirement** A participant or former participant who was unmarried at retirement and who later marries may, within one year after such marriage, irrevocably elect in writing to receive a reduced annuity and to provide a survivor annuity for the spouse (if such spouse qualifies as a surviving spouse under [section 4044(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4044/13&num=0&edition=prelim)). Receipt by the Secretary of State of notice of an election under this subsection voids prospectively any election previously made under subsection (f) of this section. The reduction in annuity required by an election under this subsection shall be computed and the amount of the survivor annuity shall be determined in accordance with subsections (b)(2) and (3) of this section. The annuity reduction or recomputation shall be effective the first day of the month beginning one year after the date of marriage.
+**(g) Marriage after retirement** A participant or former participant who was unmarried at retirement and who later marries may, within one year after such marriage, irrevocably elect in writing to receive a reduced annuity and to provide a survivor annuity for the spouse (if such spouse qualifies as a surviving spouse under [section 4044(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4044/13&num=0&edition=prelim)). Receipt by the Secretary of State of notice of an election under this subsection voids prospectively any election previously made under subsection (f). The reduction in annuity required by an election under this subsection shall be computed and the amount of the survivor annuity shall be determined in accordance with subsections (b)(2) and (3). The annuity reduction or recomputation shall be effective the first day of the month beginning one year after the date of marriage.
 
 **(h) Election of benefits** A surviving spouse or surviving former spouse of any participant or former participant shall not become entitled to a survivor annuity or to the restoration of a survivor annuity payable from the Fund under this part unless the survivor elects to receive it instead of any other survivor annuity to which he or she may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than that participant.
 
@@ -2743,11 +2802,11 @@ Pub. L. 105–33, title VII, § 7001(d)(1)–(2)(B), Aug. 5, 1997, 111 Stat. 659
 
 (2) The Secretary of State shall issue regulations to provide for the application of paragraph (1) of this subsection and of [section 4063 of this title](./chapter-052-foreign-service.md#section-4063) in any case in which an annuitant has a former spouse who was married to the participant at any time during a period of recall service and who qualifies for an annuity under this part.
 
-**(j) Recomputation upon dissolution of marriage; election after remarriage** An annuity which is reduced under this section or any similar prior provision of law to provide a survivor benefit for a spouse shall, if the marriage of the participant to such spouse is dissolved, be recomputed and paid for each full month during which an annuitant is not married (or is remarried if there is no election in effect under the following sentence) as if the annuity had not been so reduced, subject to any reduction required to provide a survivor benefit under section 4054(b) or (c) of this title. Upon remarriage the retired participant may irrevocably elect, by means of a signed writing received by the Secretary within one year after such remarriage, to receive during such marriage a reduction in annuity for the purpose of allowing an annuity for the new spouse of the annuitant in the event such spouse survives the annuitant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under [section 4054(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4054/b/5&num=0&edition=prelim)), and shall be effective the first day of the first month beginning one year after the date of remarriage. A survivor annuity elected under this subsection shall be treated in all respects as a survivor annuity under subsection (b) of this section.
+**(j) Recomputation upon dissolution of marriage; election after remarriage** An annuity which is reduced under this section or any similar prior provision of law to provide a survivor benefit for a spouse shall, if the marriage of the participant to such spouse is dissolved, be recomputed and paid for each full month during which an annuitant is not married (or is remarried if there is no election in effect under the following sentence) as if the annuity had not been so reduced, subject to any reduction required to provide a survivor benefit under section 4054(b) or (c) of this title. Upon remarriage the retired participant may irrevocably elect, by means of a signed writing received by the Secretary within one year after such remarriage, to receive during such marriage a reduction in annuity for the purpose of allowing an annuity for the new spouse of the annuitant in the event such spouse survives the annuitant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under [section 4054(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4054/b/5&num=0&edition=prelim)), and shall be effective the first day of the first month beginning one year after the date of remarriage. A survivor annuity elected under this subsection shall be treated in all respects as a survivor annuity under subsection (b).
 
 **(k) Informing of rights by Secretary** The Secretary of State shall, on an annual basis—
 
-(1) inform each participant of his or her right of election under subsections (g) and (j) of this section; and
+(1) inform each participant of his or her right of election under subsections (g) and (j); and
 
 (2) to the maximum extent practicable, inform spouses or former spouses of participants or former participants of their rights under this section and [section 4054 of this title](./chapter-052-foreign-service.md#section-4054).
 
@@ -2768,14 +2827,14 @@ shall be computed as if [section 8349 of title 5](https://uscode.house.gov/view.
 
     (i) who, at the time of retirement, is married; and
 
-    (ii) who elects at such time (in accordance with subsection (b) of this section) to waive a survivor annuity,
-    may, during the 18-month period beginning on the date of the retirement of such participant, elect to have a reduction under subsection (b) of this section made in the annuity of the participant (or in such portion thereof as the participant may designate) in order to provide a survivor annuity for the spouse of such participant.
+    (ii) who elects at such time (in accordance with subsection (b)) to waive a survivor annuity,
+    may, during the 18-month period beginning on the date of the retirement of such participant, elect to have a reduction under subsection (b) made in the annuity of the participant (or in such portion thereof as the participant may designate) in order to provide a survivor annuity for the spouse of such participant.
 
   (B) A participant—
 
     (i) who, at the time of retirement, is married, and
 
-    (ii) who at such time designates (in accordance with subsection (b) of this section) that a limited portion of the annuity of such participant is to be used as the base for a survivor annuity,
+    (ii) who at such time designates (in accordance with subsection (b)) that a limited portion of the annuity of such participant is to be used as the base for a survivor annuity,
     may, during the 18-month period beginning on the date of the retirement of such participant, elect to have a greater portion of the annuity of such participant so used.
 
 (2)
@@ -2788,7 +2847,7 @@ shall be computed as if [section 8349 of title 5](https://uscode.house.gov/view.
 
     (ii) interest on the additional cost determined under clause (i)(I) of this subparagraph computed using the interest rate specified or determined under [section 4045(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/d/3&num=0&edition=prelim) for the calendar year in which the amount to be deposited is determined.
 
-(3) An election by a participant under this subsection voids prospectively any election previously made in the case of such participant under subsection (b) of this section.
+(3) An election by a participant under this subsection voids prospectively any election previously made in the case of such participant under subsection (b).
 
 (4) An annuity which is reduced in connection with an election under this subsection shall be reduced by the same percentage reductions as were in effect at the time of the retirement of the participant whose annuity is so reduced.
 
@@ -2845,10 +2904,10 @@ shall be computed as if [section 8349 of title 5](https://uscode.house.gov/view.
 
 Pub. L. 99–335, § 406, added subsec. (m).
 
+Subsec. (n). Pub. L. 99–335, § 407, added subsec. (n).
+
 #### Effective Date of 2002 Amendment
 Pub. L. 107–228, div. A, title III, § 322(c)(1), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendments made by subsections (a)(1) [amending this section] and (b)(1) [amending [section 4071d of this title](./chapter-052-foreign-service.md#section-4071d)] shall apply to service performed on or after the first day of the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act [Sept. 30, 2002].”
-
-Subsec. (n). Pub. L. 99–335, § 407, added subsec. (n).
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under [section 4044 of this title](./chapter-052-foreign-service.md#section-4044).
@@ -3000,11 +3059,11 @@ Amendment by Ex. Ord. No. 12289 effective Feb. 15, 1981, see section 3 of Ex. Or
 
 **(d) Surviving children** If a participant who has at least 18 months of civilian service credit toward retirement under the System dies before retirement or other separation from the Service and is not survived by a spouse, or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant, but by a child or children, each surviving child shall be entitled to an annuity computed in accordance with subsections (c)(2) and (d) of [section 4046 of this title](./chapter-052-foreign-service.md#section-4046).
 
-**(e) Service credit; presumption of qualification** If, at the time of his or her death, the participant had less than 20 years of service credit toward retirement under the System, the annuity payable in accordance with subsection (b) of this section shall be computed in accordance with [section 4046 of this title](./chapter-052-foreign-service.md#section-4046) on the assumption he or she has had 20 years of service, except that the additional service credit that may accrue to a deceased participant under this subsection shall in no case exceed the difference between his or her age on the date of death and age 60. In all cases arising under this subsection or subsection (b), (c), (d), or (g) of this section, it shall be assumed that the deceased participant was qualified for retirement on the date of death.
+**(e) Service credit; presumption of qualification** If, at the time of his or her death, the participant had less than 20 years of service credit toward retirement under the System, the annuity payable in accordance with subsection (b) shall be computed in accordance with [section 4046 of this title](./chapter-052-foreign-service.md#section-4046) on the assumption he or she has had 20 years of service, except that the additional service credit that may accrue to a deceased participant under this subsection shall in no case exceed the difference between his or her age on the date of death and age 60. In all cases arising under this subsection or subsection (b), (c), (d), or (g), it shall be assumed that the deceased participant was qualified for retirement on the date of death.
 
-**(f) Recall service** If an annuitant entitled to a reduced annuity dies in service after being recalled under [section 3948 of this title](./chapter-052-foreign-service.md#section-3948) and is survived by a spouse or former spouse entitled to a survivor annuity based on the service of such annuitant, such survivor annuity shall be computed as if the recall service had otherwise terminated on the day of death and the annuity of the deceased had been resumed in accordance with [section 4063 of this title](./chapter-052-foreign-service.md#section-4063). If such death occurs after the annuitant had completed sufficient recall service to attain eligibility for a supplemental annuity, a surviving spouse or surviving former spouse who was married to the participant at any time during a period of recall service shall be entitled to elect, in addition to any other benefits and in lieu of a refund of retirement contributions made during the recall service, a supplemental survivor annuity computed and paid under [section 4046(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/i&num=0&edition=prelim) as if the recall service had otherwise terminated. If the annuitant had completed sufficient recall service to attain eligibility to have his or her annuity determined anew, a surviving spouse or such a surviving former spouse may elect, in lieu of any other survivor benefit under this subchapter, to have the rights of the annuitant redetermined and to receive a survivor annuity computed under subsection (b) of this section on the basis of the total service of the annuitant.
+**(f) Recall service** If an annuitant entitled to a reduced annuity dies in service after being recalled under [section 3948 of this title](./chapter-052-foreign-service.md#section-3948) and is survived by a spouse or former spouse entitled to a survivor annuity based on the service of such annuitant, such survivor annuity shall be computed as if the recall service had otherwise terminated on the day of death and the annuity of the deceased had been resumed in accordance with [section 4063 of this title](./chapter-052-foreign-service.md#section-4063). If such death occurs after the annuitant had completed sufficient recall service to attain eligibility for a supplemental annuity, a surviving spouse or surviving former spouse who was married to the participant at any time during a period of recall service shall be entitled to elect, in addition to any other benefits and in lieu of a refund of retirement contributions made during the recall service, a supplemental survivor annuity computed and paid under [section 4046(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/i&num=0&edition=prelim) as if the recall service had otherwise terminated. If the annuitant had completed sufficient recall service to attain eligibility to have his or her annuity determined anew, a surviving spouse or such a surviving former spouse may elect, in lieu of any other survivor benefit under this subchapter, to have the rights of the annuitant redetermined and to receive a survivor annuity computed under subsection (b) on the basis of the total service of the annuitant.
 
-**(g) Limitation on surviving spouse’s annuity** Notwithstanding subsection (b) of this section, if the participant or former participant had a former spouse qualifying for an annuity under [section 4054(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4054/b&num=0&edition=prelim), the annuity of the spouse under this section shall be subject to the limitation of [section 4046(b)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/b/3/B&num=0&edition=prelim).
+**(g) Limitation on surviving spouse’s annuity** Notwithstanding subsection (b), if the participant or former participant had a former spouse qualifying for an annuity under [section 4054(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4054/b&num=0&edition=prelim), the annuity of the spouse under this section shall be subject to the limitation of [section 4046(b)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/b/3/B&num=0&edition=prelim).
 
 **(h) Commencement, termination, and resumption of annuities** Annuities that become payable under this section shall commence, terminate, and be resumed in accordance with subsection (b)(4), (e), or (h) of [section 4046 of this title](./chapter-052-foreign-service.md#section-4046), as appropriate.
 
@@ -3050,7 +3109,7 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 ## § 4052. Mandatory retirement
 **(a)**
 
-(1) Except as provided in subsection (b) of this section, any participant shall be retired from the Service at the end of the month in which the participant has reached age 65 and has at least 5 years of service credit toward retirement under the System (excluding military and naval service), and shall receive retirement benefits in accordance with [section 4046 of this title](./chapter-052-foreign-service.md#section-4046).
+(1) Except as provided in subsection (b), any participant shall be retired from the Service at the end of the month in which the participant has reached age 65 and has at least 5 years of service credit toward retirement under the System (excluding military and naval service), and shall receive retirement benefits in accordance with [section 4046 of this title](./chapter-052-foreign-service.md#section-4046).
 
 (2) Notwithstanding paragraph (1)—
 
@@ -3061,9 +3120,9 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 
 **(b)**
 
-(1) Any participant who is otherwise required to retire under subsection (a) of this section while occupying a position to which he or she was appointed by the President, by and with the advice and consent of the Senate, may continue to serve until that appointment is terminated.
+(1) Any participant who is otherwise required to retire under subsection (a) while occupying a position to which he or she was appointed by the President, by and with the advice and consent of the Senate, may continue to serve until that appointment is terminated.
 
-(2) Whenever the Secretary determines it to be in the public interest, any participant who is otherwise required to retire under subsection (a) of this section may be retained on active service for a period not to exceed 5 years.
+(2) Whenever the Secretary determines it to be in the public interest, any participant who is otherwise required to retire under subsection (a) may be retained on active service for a period not to exceed 5 years.
 
 (3) Any participant who completes a period of service authorized by this subsection shall be retired at the end of the month in which such authorized service is completed.
 
@@ -3093,7 +3152,7 @@ Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating
 
 **(b) Retirement of participants eligible for retirement** A participant who completes an assignment under [section 3942(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3942/b&num=0&edition=prelim) in a position to which the participant was appointed by the President and is eligible for retirement and is not reassigned within 90 days after the termination of such assignment and any period of authorized leave, shall be retired from the Service and receive retirement benefits in accordance with [section 4046 of this title](./chapter-052-foreign-service.md#section-4046) or [section 4071d of this title](./chapter-052-foreign-service.md#section-4071d), as appropriate.
 
-**(c) Retirement of reemployed participants** A participant who is retired under subsection (a)(2) of this section and is subsequently employed by the United States Government, thereafter, shall be eligible to retire only under the terms of the applicable retirement system.
+**(c) Retirement of reemployed participants** A participant who is retired under subsection (a)(2) and is subsequently employed by the United States Government, thereafter, shall be eligible to retire only under the terms of the applicable retirement system.
 
 ### Statutory Notes
 
@@ -3131,7 +3190,7 @@ Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating
 
 (5)
 
-  (A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) of this section or [section 4046(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/b/3&num=0&edition=prelim).
+  (A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) or [section 4046(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/b/3&num=0&edition=prelim).
 
   (B) If any annuitant whose annuity is reduced under subparagraph (A) is recalled to service under [section 3948 of this title](./chapter-052-foreign-service.md#section-3948), or reinstated or reappointed in the Service in the case of a recovered disability annuitant or if any annuitant is reemployed as provided for under [section 4064 of this title](./chapter-052-foreign-service.md#section-4064), the salary of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Fund.
 
@@ -3141,7 +3200,7 @@ Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating
 
   (B) the amount of the annuity of the former spouse shall be calculated on the basis of the annuity for which the participant would otherwise so qualify.
 
-(7) An annuity under this subsection shall be treated the same as a survivor annuity under subsection (b) of this section for purposes of [section 4046(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/h&num=0&edition=prelim) or any comparable provision of law.
+(7) An annuity under this subsection shall be treated the same as a survivor annuity under subsection (b) for purposes of [section 4046(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/h&num=0&edition=prelim) or any comparable provision of law.
 
 **(b) Deceased Service members**
 
@@ -3150,7 +3209,7 @@ Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating
   (A) if married to the participant throughout the creditable service of the participant, equal to 55 percent of the full amount of the participant’s annuity, as computed under [section 4046(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/a&num=0&edition=prelim); or
 
   (B) if not married to the participant throughout such creditable service, equal to that former spouse’s pro rata share of 55 percent of the full amount of such annuity.
-  For the purposes of this paragraph, the term “creditable service” means service which is creditable under part I or II of this subchapter.
+  For the purposes of this paragraph, the term “creditable service” means service which is creditable under part I or II.
 
 (2) A former spouse shall not be qualified for an annuity under this subsection if before the commencement of that annuity the former spouse remarries before becoming 60 years of age.
 
@@ -3172,7 +3231,7 @@ Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating
 
 **(c) Additional survivor annuity**
 
-(1) In the case of any participant or former participant providing a survivor annuity benefit under subsection (b) of this section for a former spouse—
+(1) In the case of any participant or former participant providing a survivor annuity benefit under subsection (b) for a former spouse—
 
   (A) such participant may elect, or
 
@@ -3254,17 +3313,17 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
   (E) has notified any spouse or former spouse the participant may have of the application for payment in accordance with regulations prescribed by the Secretary of State.
   Such regulations may provide for waiver of subparagraph (E) under circumstances described in [section 4046(b)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/b/1/D&num=0&edition=prelim).
 
-(2) Such lump-sum credit shall be paid to the participant and to any former spouse of the participant in accordance with subsection (i) of this section.
+(2) Such lump-sum credit shall be paid to the participant and to any former spouse of the participant in accordance with subsection (i).
 
-**(b) Recall service; return of contributions** Whenever an annuitant becomes separated from the Service following a period of recall service without becoming eligible for a supplemental or recomputed annuity under [section 4063 of this title](./chapter-052-foreign-service.md#section-4063), the compulsory contributions of the annuitant to the Fund for such service, together with any special contributions the annuitant may have made for other service performed after the date of separation from the Service which forms the basis for annuity, shall be returned to the annuitant (and any former spouse of the annuitant who was married to the participant during the period of recall service, in accordance with subsection (i) of this section).
+**(b) Recall service; return of contributions** Whenever an annuitant becomes separated from the Service following a period of recall service without becoming eligible for a supplemental or recomputed annuity under [section 4063 of this title](./chapter-052-foreign-service.md#section-4063), the compulsory contributions of the annuitant to the Fund for such service, together with any special contributions the annuitant may have made for other service performed after the date of separation from the Service which forms the basis for annuity, shall be returned to the annuitant (and any former spouse of the annuitant who was married to the participant during the period of recall service, in accordance with subsection (i)).
 
-**(c) Difference between annuity and lump-sum credit** If all annuity rights under this part based on the service of a deceased participant or annuitant terminate before the total annuity paid equals the lump-sum credit to which the participant or annuitant is entitled, the difference shall be paid in accordance with subsection (f) of this section.
+**(c) Difference between annuity and lump-sum credit** If all annuity rights under this part based on the service of a deceased participant or annuitant terminate before the total annuity paid equals the lump-sum credit to which the participant or annuitant is entitled, the difference shall be paid in accordance with subsection (f).
 
-**(d) Lack of eligible survivors** If a participant or former participant dies and is not survived by an individual eligible for an annuity under this part or by such an individual or individuals all of whose annuity rights terminate before a claim for survivor annuity is filed, the lump-sum credit to which the participant or annuitant is entitled shall be paid in accordance with subsection (f) of this section.
+**(d) Lack of eligible survivors** If a participant or former participant dies and is not survived by an individual eligible for an annuity under this part or by such an individual or individuals all of whose annuity rights terminate before a claim for survivor annuity is filed, the lump-sum credit to which the participant or annuitant is entitled shall be paid in accordance with subsection (f).
 
-**(e) Death of annuitant who was former participant** If an annuitant who was a former participant dies, any annuity accrued and unpaid shall be paid in accordance with subsection (f) of this section.
+**(e) Death of annuitant who was former participant** If an annuitant who was a former participant dies, any annuity accrued and unpaid shall be paid in accordance with subsection (f).
 
-**(f) Order of precedence for payments** Payments under subsections (c) through (e) of this section shall be paid in the following order of precedence to individuals surviving the participant and alive on the date entitlement to the payment arises, upon the establishment of a valid claim therefor, and such payment shall be a bar to recovery by any other person:
+**(f) Order of precedence for payments** Payments under subsections (c) through (e) shall be paid in the following order of precedence to individuals surviving the participant and alive on the date entitlement to the payment arises, upon the establishment of a valid claim therefor, and such payment shall be a bar to recovery by any other person:
 
 (1) To the beneficiary or beneficiaries last designated by the participant before or after retirement in a signed and witnessed writing filed with the Secretary of State prior to the death of the participant, for which purpose a designation, change, or cancellation of beneficiary in a will or other document which is not so executed and filed shall have no force or effect.
 
@@ -3284,14 +3343,14 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 (2) If there is no such executor or administrator, to such person as may be determined by the Secretary of State (after the expiration of 30 days from the date of death of the survivor annuitant) to be entitled under the laws of the domicile of the survivor annuitant at the time of death.
 
-**(h) Amount of credit** 11 See Amendment of Section note below. Amounts deducted and withheld from basic salary of a participant under [section 4045 of this title](./chapter-052-foreign-service.md#section-4045) from the beginning of the first pay period after the participant has completed 35 years of service computed under [section 4056 of this title](./chapter-052-foreign-service.md#section-4056) (excluding service credit for unused sick leave under [section 4056(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4056/b&num=0&edition=prelim)), together with interest on the amounts at the rate of 3 percent a year compounded annually from the date of the deduction to the date of retirement or death, shall be applied toward any special contribution due under [section 4045(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/d&num=0&edition=prelim)), and any balance not so required shall be refunded in a lump sum to the participant after separation or, in the event of a death in service, to a beneficiary in the order of precedence specified in subsection (f) of this section.
+**(h) Amount of credit** 11 See Amendment of Section note below. Amounts deducted and withheld from basic salary of a participant under [section 4045 of this title](./chapter-052-foreign-service.md#section-4045) from the beginning of the first pay period after the participant has completed 35 years of service computed under [section 4056 of this title](./chapter-052-foreign-service.md#section-4056) (excluding service credit for unused sick leave under [section 4056(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4056/b&num=0&edition=prelim)), together with interest on the amounts at the rate of 3 percent a year compounded annually from the date of the deduction to the date of retirement or death, shall be applied toward any special contribution due under [section 4045(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/d&num=0&edition=prelim)), and any balance not so required shall be refunded in a lump sum to the participant after separation or, in the event of a death in service, to a beneficiary in the order of precedence specified in subsection (f).
 
 **(i) Former spouses** Unless otherwise expressly provided by any spousal agreement or court order under [section 4060(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4060/b/1&num=0&edition=prelim), the amount of a participant’s or former participant’s lump-sum credit payable to a former spouse of that participant shall be—
 
 (1) if the former spouse was married to the participant throughout the period of creditable service of the participant, 50 percent of the lump-sum credit to which such participant would be entitled in the absence of this subsection, or
 
 (2) if such former spouse was not married to the participant throughout such creditable service, an amount equal to such former spouse’s pro rata share of 50 percent of such lump-sum credit.
-The lump-sum credit of the participant shall be reduced by the amount of the lump-sum credit payable to the former spouse. For the purposes of this subsection, the term “creditable service” means service which is creditable under part I or II of this subchapter.
+The lump-sum credit of the participant shall be reduced by the amount of the lump-sum credit payable to the former spouse. For the purposes of this subsection, the term “creditable service” means service which is creditable under part I or II.
 
 ### Statutory Notes
 
@@ -3326,9 +3385,9 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
   (B) each period of military or naval service performed after December 31, 1956, and before the separation on which the entitlement to annuity under this part is based, only if a deposit (with interest if any is required) is made with respect to that period, as provided in [section 4045(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/e&num=0&edition=prelim).
 
-(3) The service of an individual who first became a participant on or after October 17, 1983, with credit under this section for civilian service performed prior to October 1982, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1956, to subsection (j) of this section.
+(3) The service of an individual who first became a participant on or after October 17, 1983, with credit under this section for civilian service performed prior to October 1982, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1956, to subsection (j).
 
-(4) The service of an individual who first became a participant before October 17, 1983, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1976, to subsection (j) of this section.
+(4) The service of an individual who first became a participant before October 17, 1983, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1976, to subsection (j).
 
 **(b) Unused sick leave credit** In computing any annuity under this part, the total service of a participant who retires on an immediate annuity or who dies leaving a survivor or survivors entitled to annuity includes (without regard to the 35-year limitation imposed by [section 4046(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/a&num=0&edition=prelim)) the days of unused sick leave to the credit of the participant, except that these days shall not be counted in determining average basic salary or annuity eligibility under this part. A contribution to the Fund shall not be required from a participant for this service credit.
 
@@ -3364,9 +3423,9 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 (1) Service of a participant shall be considered creditable service for purposes of applying provisions of this part relating to former spouses if such service would be creditable—
 
-  (A) under subsection (c)(1) or (2) of this section but for the fact an election was not made under subsection (c)(1) of this section or a special contribution was not made under subsection (c)(2) of this section, and
+  (A) under subsection (c)(1) or (2) but for the fact an election was not made under subsection (c)(1) or a special contribution was not made under subsection (c)(2), and
 
-  (B) under subsection (d) of this section but for the fact that a refund of contributions has not been repaid unless the former spouse received under this part a portion of the lump sum (or a spousal agreement or court order provided otherwise).
+  (B) under subsection (d) but for the fact that a refund of contributions has not been repaid unless the former spouse received under this part a portion of the lump sum (or a spousal agreement or court order provided otherwise).
 
 (2) A former spouse shall not be considered as married to a participant for periods assumed to be creditable service under [section 4048(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4048/a&num=0&edition=prelim) or [section 4049(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4049/e&num=0&edition=prelim).
 
@@ -3567,7 +3626,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **(c) Annuitant subject to Foreign Service Pension System** If an annuitant becomes subject to part II of this subchapter by reason of recall service—
 
-(1) subsections (a) and (b) of this section shall not apply to such annuitant; and
+(1) subsections (a) and (b) shall not apply to such annuitant; and
 
 (2) [section 4064 of this title](./chapter-052-foreign-service.md#section-4064) shall apply to the recall service as if such service were reemployment.
 
@@ -3586,7 +3645,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 (1)
 
-  (A) 11 So in original. No par. (2) has been enacted. Except in the case of an annuitant who makes an election under subsection (b) of this section or in the case of a waiver under subsection (g) of this section, if any former participant, who has retired and is receiving an annuity under this part or part II of this subchapter, becomes employed in an appointive or elective position in the Government, payment of any annuity under either part to the annuitant shall terminate effective on the date of the employment and the reemployment service shall be covered service under the rules of the system under which the appointment is made.
+  (A) 11 So in original. No par. (2) has been enacted. Except in the case of an annuitant who makes an election under subsection (b) or in the case of a waiver under subsection (g), if any former participant, who has retired and is receiving an annuity under this part or part II of this subchapter, becomes employed in an appointive or elective position in the Government, payment of any annuity under either part to the annuitant shall terminate effective on the date of the employment and the reemployment service shall be covered service under the rules of the system under which the appointment is made.
 
   (B) If the annuity of an individual is terminated under subparagraph (A) and that individual becomes covered under the same retirement system from which that annuity is terminated, that individual shall be entitled to a redetermination of rights under that system upon termination of the employment.
 
@@ -3617,7 +3676,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 (4) Upon termination of the part-time, intermittent, or temporary employment referred to in paragraph (1), payment of the full annuity of an annuitant who has made an election under paragraph (1) of this subsection shall resume.
 
-**(c) Amount of annuity on resumption; amount resulting from redetermination of rights** The amount of annuity which has been terminated or reduced under this section by reason of the reemployment of the annuitant and is resumed under this section shall be the amount of the annuity which would have been payable if the annuitant had not accepted the reemployment. The amount of an annuity resulting from a redetermination of rights pursuant to subsection (a) of this section shall not be less than the amount of an annuity resumed under the previous sentence.
+**(c) Amount of annuity on resumption; amount resulting from redetermination of rights** The amount of annuity which has been terminated or reduced under this section by reason of the reemployment of the annuitant and is resumed under this section shall be the amount of the annuity which would have been payable if the annuitant had not accepted the reemployment. The amount of an annuity resulting from a redetermination of rights pursuant to subsection (a) shall not be less than the amount of an annuity resumed under the previous sentence.
 
 **(d) Annuity rights to be determined under this section** The annuity rights of any participant who is reemployed in the Government shall be determined under this section instead of [section 8468 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8468&num=0&edition=prelim).
 
@@ -3649,7 +3708,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 (3) The Secretary should prescribe procedures for the exercise of any authority under paragraph (1)(B), including criteria for any exercise of authority and procedures for a delegation of authority.
 
-**(h) Effects of waiver** A reemployed annuitant as to whom a waiver under subsection (g) of this section is in effect shall not be considered a participant for purposes of this part or part II of this subchapter, or an employee for purposes of chapter 83 or 84 of title 5.
+**(h) Effects of waiver** A reemployed annuitant as to whom a waiver under subsection (g) is in effect shall not be considered a participant for purposes of this part or part II, or an employee for purposes of chapter 83 or 84 of title 5.
 
 ### Statutory Notes
 
@@ -3674,7 +3733,7 @@ Subsec. (g)(3). Pub. L. 109–289, § 20941(3), as added by Pub. L. 110–5, sub
 
 2006—Subsec. (g). Pub. L. 109–234 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Secretary of State may waive the application of the paragraphs (a) through (d) of this section, on a case-by-case basis, for an annuitant reemployed on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.”
 
-1998—Pub. L. 105–277, which directed amendment of section 824 of the Foreign Service Act, in subsec. (a)(1)(A), by inserting “or in the case of a waiver under subsection (g) of this section” after “subsection (b) of this section”, and by adding subsecs. (g) and (h), was executed to this section, which is section 824 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
+1998—Pub. L. 105–277, which directed amendment of section 824 of the Foreign Service Act, in subsec. (a)(1)(A), by inserting “or in the case of a waiver under subsection (g)” after “subsection (b)”, and by adding subsecs. (g) and (h), was executed to this section, which is section 824 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
 1986—Subsec. (a). Pub. L. 99–335, § 410, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Notwithstanding any other law, any member of the Service who has retired and is receiving an annuity under this part, and who is reemployed in the Government service in any part-time or full-time appointive position, shall be entitled to receive the salary of the position in which he or she is serving plus so much of the annuity payable under this part which when combined with such salary does not exceed during any calendar year the basic salary the member was entitled to receive under this chapter on the date of retirement from the Service. Any such reemployed member of the Service who receives salary during any calendar year in excess of the maximum amount which he or she may be entitled to receive under this subsection shall be entitled to such salary in lieu of benefits under this part.”
 
@@ -3700,7 +3759,13 @@ Amendment by Pub. L. 99–556 effective Jan. 1, 1987, and applicable to any indi
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under [section 8401 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8401&num=0&edition=prelim), Government Organization and Employees.
 
 #### Extension of Authority
-Pub. L. 112–74, div. I, title VII, § 7034(m)(4), Dec. 23, 2011, 125 Stat. 1216, provided that: “Section 824(g) of the Foreign Service Act of 1980 ([22 U.S.C. 4064(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4064/g&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2012’ for ‘October 1, 2010’ in paragraph (2).”
+Pub. L. 113–235, div. J, title VII, § 7034(l)(4), Dec. 16, 2014, 128 Stat. 2625, provided that: “Section 824(g) of the Foreign Service Act of 1980 ([22 U.S.C. 4064(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4064/g&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2015’ for ‘October 1, 2010’ in paragraph (2).”
+
+Prior extensions were contained in the following prior acts:
+
+Pub. L. 113–76, div. K, title VII, § 7034(m)(4), Jan. 17, 2014, 128 Stat. 515.
+
+Pub. L. 112–74, div. I, title VII, § 7034(m)(4), Dec. 23, 2011, 125 Stat. 1216.
 
 
 <a id="section-4065"></a>
@@ -3715,7 +3780,7 @@ Pub. L. 112–74, div. I, title VII, § 7034(m)(4), Dec. 23, 2011, 125 Stat. 121
 
 (4) used to purchase an additional life annuity for the participant and a life annuity commencing on his or her death payable to a beneficiary whose name shall be notified in writing to the Secretary of State by the participant, with a guaranteed return to the beneficiary or his or her legal representative of an amount equal to the cash payment referred to in paragraph (3).
 
-**(b) Computation of benefits** The benefits provided by subsection (a)(2), (3), or (4) of this section shall be actuarially equivalent in value to the payment provided for by subsection (a)(1) of this section and shall be calculated upon such tables of mortality as may be from time to time prescribed for this purpose by the Secretary of the Treasury.
+**(b) Computation of benefits** The benefits provided by subsection (a)(2), (3), or (4) shall be actuarially equivalent in value to the payment provided for by subsection (a)(1) and shall be calculated upon such tables of mortality as may be from time to time prescribed for this purpose by the Secretary of the Treasury.
 
 **(c) Lump-sum payment; time; order of precedence** A voluntary contribution account shall be paid in a lump sum following receipt of an application therefor from a present or former participant if application is filed prior to payment of any additional annuity. If not sooner paid, the account shall be paid at such time as the participant separates from the Service for any reason without entitlement to an annuity or a deferred annuity or at such time as a former participant dies or withdraws compulsory contributions to the Fund. In case of death, the account shall be paid in the order of precedence specified in [section 4055(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4055/f&num=0&edition=prelim).
 
@@ -3814,7 +3879,7 @@ Any cost-of-living increase scheduled to take effect during fiscal year 1994, 19
 (1) affects the treatment of current or former participants, annuitants, or survivors under the Civil Service Retirement and Disability System; and
 
 (2) affects treatment which, immediately prior to the enactment of such law, was substantially identical to the treatment accorded to participants, former participants, annuitants, or survivors under the Foreign Service Retirement and Disability System;
-such law shall be extended in accordance with subsection (b) of this section to the Foreign Service Retirement and Disability System so that it applies in like manner with respect to participants, former participants, annuitants, or survivors under that System.
+such law shall be extended in accordance with subsection (b) to the Foreign Service Retirement and Disability System so that it applies in like manner with respect to participants, former participants, annuitants, or survivors under that System.
 
 **(b) Regulations to implement prescribed by Executive order** The President shall by Executive order prescribe regulations to implement this section and may make such extension retroactive to a date no earlier than the effective date of the provision of law applicable to the Civil Service Retirement and Disability System. Any provision of an Executive order issued under this section shall modify, supersede, or render inapplicable, as the case may be, to the extent inconsistent therewith—
 
@@ -3822,7 +3887,7 @@ such law shall be extended in accordance with subsection (b) of this section to 
 
 (2) any prior provision of an Executive order issued under this section.
 
-**(c) Federal Employees’ Retirement and Foreign Service Pension Systems** The President shall maintain, under the same conditions and in the same manner as provided in subsections (a) and (b) of this section existing conformity between the Federal Employees’ Retirement System provided in chapter 84 of title 5 and the Foreign Service Pension System provided in part II of this subchapter.
+**(c) Federal Employees’ Retirement and Foreign Service Pension Systems** The President shall maintain, under the same conditions and in the same manner as provided in subsections (a) and (b) existing conformity between the Federal Employees’ Retirement System provided in chapter 84 of title 5 and the Foreign Service Pension System provided in part II of this subchapter.
 
 ### Statutory Notes
 
@@ -4004,7 +4069,7 @@ Section effective Jan. 1, 1987, see section 408 of Pub. L. 99–556, set out as 
 
 <a id="section-4069a"></a>
 ## § 4069a. Retirement benefits for certain former spouses
-**(a) Eligibility; percentage of benefits** Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b) of this section, to benefits—
+**(a) Eligibility; percentage of benefits** Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b), to benefits—
 
 (1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the benefits of the participant; or
 
@@ -4050,7 +4115,7 @@ Section effective Jan. 1, 1987, see section 408 of Pub. L. 99–556, set out as 
 
 (1) with respect to a participant or former participant subject to this part, the annuity of the participant or former participant; and
 
-(2) with respect to a participant or former participant subject to part II of this subchapter, the benefits of the participant or former participant under that part.
+(2) with respect to a participant or former participant subject to part II, the benefits of the participant or former participant under that part.
 
 **(e) Effect of section on annuity** Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under this subchapter.
 
@@ -4074,7 +4139,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 <a id="section-4069a-1"></a>
 ## § 4069a–1. Retirement benefits for certain former spouses
-**(a) Eligibility; percentage of benefits** Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent of available appropriations, and except to the extent such former spouse is disqualified under subsection (b) of this section, to benefits—
+**(a) Eligibility; percentage of benefits** Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent of available appropriations, and except to the extent such former spouse is disqualified under subsection (b), to benefits—
 
 (1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the benefits of the participant; or
 
@@ -4120,7 +4185,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 (1) with respect to a participant or former participant subject to this part, the annuity of the participant or former participant; and
 
-(2) with respect to a participant or former participant subject to part II of this subchapter, the benefits of the participant or former participant under that part.
+(2) with respect to a participant or former participant subject to part II, the benefits of the participant or former participant under that part.
 
 **(e) Effect of section on annuity** Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under this subchapter.
 
@@ -4138,13 +4203,13 @@ Section effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100�
 
 <a id="section-4069b"></a>
 ## § 4069b. Survivor benefits for certain former spouses
-**(a) Eligibility; amount of annuity** Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b) of this section, to a survivor annuity equal to 55 percent of the greater of—
+**(a) Eligibility; amount of annuity** Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b), to a survivor annuity equal to 55 percent of the greater of—
 
 (1) the full amount of the participant’s or former participant’s annuity, as computed under this subchapter; or
 
 (2) the full amount of what such annuity as so computed would be if the participant or former participant had not withdrawn a lump-sum portion of contributions made with respect to such annuity.
 
-**(b) Election by former spouse** If an election has been made with respect to such former spouse under section 4159 or 4046(f) of this title, then the survivor annuity under subsection (a) of this section of such former spouse shall be equal to the full amount of the participant’s or former participant’s annuity referred to in subsection (a) of this section less the amount of such election.
+**(b) Election by former spouse** If an election has been made with respect to such former spouse under section 4159 or 4046(f) of this title, then the survivor annuity under subsection (a) of such former spouse shall be equal to the full amount of the participant’s or former participant’s annuity referred to in subsection (a) less the amount of such election.
 
 **(c) Disqualification** A former spouse shall not be entitled to a survivor annuity under this section if—
 
@@ -4202,13 +4267,13 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 <a id="section-4069b-1"></a>
 ## § 4069b–1. Survivor benefits for certain former spouses
-**(a) Eligibility; amount of annuity** Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent of available appropriations, and except to the extent such former spouse is disqualified under subsection (b) of this section, to a survivor annuity equal to 55 percent of the greater of—
+**(a) Eligibility; amount of annuity** Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent of available appropriations, and except to the extent such former spouse is disqualified under subsection (b), to a survivor annuity equal to 55 percent of the greater of—
 
 (1) the full amount of the participant’s or former participant’s annuity, as computed under this subchapter; or
 
 (2) the full amount of what such annuity as so computed would be if the participant or former participant had not withdrawn a lump-sum portion of contributions made with respect to such annuity.
 
-**(b) Election by former spouse** If an election has been made with respect to such former spouse under section 4159 or 4046(f) of this title, then the survivor annuity under subsection (a) of this section of such former spouse shall be equal to the full amount of the participant’s or former participant’s annuity referred to in subsection (a) of this section less the amount of such election.
+**(b) Election by former spouse** If an election has been made with respect to such former spouse under section 4159 or 4046(f) of this title, then the survivor annuity under subsection (a) of such former spouse shall be equal to the full amount of the participant’s or former participant’s annuity referred to in subsection (a) less the amount of such election.
 
 **(c) Disqualification** A former spouse shall not be entitled to a survivor annuity under this section if—
 
@@ -4260,7 +4325,7 @@ Section effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100�
 
 <a id="section-4069c"></a>
 ## § 4069c. Health benefits for certain former spouses
-**(a) Eligibility** Except as provided in subsection (c)(1) of this section, any individual—
+**(a) Eligibility** Except as provided in subsection (c)(1), any individual—
 
 (1) formerly married to an employee or former employee of the Foreign Service, whose marriage was dissolved by divorce or annulment before May 7, 1985;
 
@@ -4270,7 +4335,7 @@ Section effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100�
 
 **(b) Prerequisites for enrollment; notification of rights**
 
-(1) Any individual eligible for coverage under subsection (a) of this section may enroll in a health benefits plan for self alone or for self and family if, before the expiration of the 6-month period beginning on December 22, 1987, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
+(1) Any individual eligible for coverage under subsection (a) may enroll in a health benefits plan for self alone or for self and family if, before the expiration of the 6-month period beginning on December 22, 1987, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
 
   (A) files an election for such enrollment; and
 
@@ -4278,7 +4343,7 @@ Section effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100�
 
 (2) The Secretary shall, as soon as possible, take all steps practicable—
 
-  (A) to determine the identity and current address of each former spouse eligible for coverage under subsection (a) of this section; and
+  (A) to determine the identity and current address of each former spouse eligible for coverage under subsection (a); and
 
   (B) to notify each such former spouse of that individual’s rights under this section.
 
@@ -4286,9 +4351,9 @@ Section effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100�
 
 **(c) Disqualification**
 
-(1) Any former spouse who remarries before age 55 is not eligible to make an election under subsection (b)(1) of this section.
+(1) Any former spouse who remarries before age 55 is not eligible to make an election under subsection (b)(1).
 
-(2) Any former spouse enrolled in a health benefits plan pursuant to an election under subsection (b)(1) of this section may continue the enrollment under the conditions of eligibility which the Director of the Office of Personnel Management shall by regulation prescribe, except that any former spouse who remarries before age 55 shall not be eligible for continued enrollment under this section after the end of the 31-day period beginning on the date of remarriage.
+(2) Any former spouse enrolled in a health benefits plan pursuant to an election under subsection (b)(1) may continue the enrollment under the conditions of eligibility which the Director of the Office of Personnel Management shall by regulation prescribe, except that any former spouse who remarries before age 55 shall not be eligible for continued enrollment under this section after the end of the 31-day period beginning on the date of remarriage.
 
 **(d) Prohibition on coverage by more than one plan** No individual may be covered by a health benefits plan under this section during any period in which such individual is enrolled in a health benefits plan under any other authority, nor may any individual be covered under more than one enrollment under this section.
 
@@ -4314,7 +4379,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 <a id="section-4069c-1"></a>
 ## § 4069c–1. Health benefits for certain former spouses
-**(a) Eligibility** Except as provided in subsection (c)(1) of this section, any individual—
+**(a) Eligibility** Except as provided in subsection (c)(1), any individual—
 
 (1) formerly married to an employee or former employee of the Foreign Service, whose marriage was dissolved by divorce or annulment before May 7, 1985;
 
@@ -4324,7 +4389,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 **(b) Prerequisites for enrollment; notification of rights**
 
-(1) Any individual eligible for coverage under subsection (a) of this section may enroll in a health benefits plan for self alone or for self and family if, before the expiration of the 6-month period beginning on the effective date of this section, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
+(1) Any individual eligible for coverage under subsection (a) may enroll in a health benefits plan for self alone or for self and family if, before the expiration of the 6-month period beginning on the effective date of this section, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
 
   (A) files an election for such enrollment; and
 
@@ -4332,7 +4397,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 (2) The Secretary shall, as soon as possible, take all steps practicable—
 
-  (A) to determine the identity and current address of each former spouse eligible for coverage under subsection (a) of this section; and
+  (A) to determine the identity and current address of each former spouse eligible for coverage under subsection (a); and
 
   (B) to notify each such former spouse of that individual’s rights under this section.
 
@@ -4340,9 +4405,9 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 **(c) Disqualification**
 
-(1) Any former spouse who remarries before age 55 is not eligible to make an election under subsection (b)(1) of this section.
+(1) Any former spouse who remarries before age 55 is not eligible to make an election under subsection (b)(1).
 
-(2) Any former spouse enrolled in a health benefits plan pursuant to an election under subsection (b)(1) of this section may continue the enrollment under the conditions of eligibility which the Director of the Office of Personnel Management shall by regulation prescribe, except that any former spouse who remarries before age 55 shall not be eligible for continued enrollment under this section after the end of the 31-day period beginning on the date of remarriage.
+(2) Any former spouse enrolled in a health benefits plan pursuant to an election under subsection (b)(1) may continue the enrollment under the conditions of eligibility which the Director of the Office of Personnel Management shall by regulation prescribe, except that any former spouse who remarries before age 55 shall not be eligible for continued enrollment under this section after the end of the 31-day period beginning on the date of remarriage.
 
 **(d) Prohibition on coverage by more than one plan** No individual may be covered by a health benefits plan under this section during any period in which such individual is enrolled in a health benefits plan under any other authority, nor may any individual be covered under more than one enrollment under this section.
 
@@ -4444,9 +4509,21 @@ As used in this part, unless otherwise specified—
 
     (iii) has less than 5 years creditable service under [section 4071c of this title](./chapter-052-foreign-service.md#section-4071c); and
 
-  (B) after December 31, 2012, becomes a participant performing service which is creditable service under [section 4071c of this title](./chapter-052-foreign-service.md#section-4071c);
+  (B) after December 31, 2012, and before January 1, 2014, becomes a participant performing service which is creditable service under [section 4071c of this title](./chapter-052-foreign-service.md#section-4071c);
 
-(8) the term “supplemental liability” means the estimated excess of—
+(8) the term “further revised annuity participant” means any individual who—
+
+  (A) on December 31, 2013—
+
+    (i) is not a participant;
+
+    (ii) is not performing service which is creditable service under [section 4071c of this title](./chapter-052-foreign-service.md#section-4071c); and
+
+    (iii) has less than 5 years creditable service under [section 4071c of this title](./chapter-052-foreign-service.md#section-4071c); and
+
+  (B) after December 31, 2013, becomes a participant performing service which is creditable service under [section 4071c of this title](./chapter-052-foreign-service.md#section-4071c);
+
+(9) the term “supplemental liability” means the estimated excess of—
 
   (A) the actuarial present value of all future benefits payable from the Fund under this part based on the service of participants or former participants, over
 
@@ -4464,9 +4541,9 @@ As used in this part, unless otherwise specified—
 
     (iv) any other appropriate amount, as determined by the Secretary of State in accordance with generally accepted actuarial practices and principles;
 
-(9) the term “System” means the Foreign Service Pension System; and
+(10) the term “System” means the Foreign Service Pension System; and
 
-(10) the term “special agent” has the same meaning given in [section 4044(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4044/15&num=0&edition=prelim).
+(11) the term “special agent” has the same meaning given in [section 4044(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4044/15&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -4474,6 +4551,10 @@ As used in this part, unless otherwise specified—
 The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in pars. (3)(A) and (7)(B)(iii)(II), is title II of Pub. L. 98–168, Nov. 29, 1983, 97 Stat. 1106, as amended, which is set out as a note under [section 8331 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2013—Par. (7)(B). Pub. L. 113–67, § 402(a)(2), inserted “and before January 1, 2014,” after “after December 31, 2012,”.
+
+Pars. (8) to (11). Pub. L. 113–67, § 402(a)(1), added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
+
 2012—Pars. (7) to (10). Pub. L. 112–96 added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively.
 
 1998—Par. (9). Pub. L. 105–382 added par. (9).
@@ -4489,7 +4570,7 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 
 <a id="section-4071b"></a>
 ## § 4071b. Participants
-**(a) Covered members** Except for persons excluded by subsection (b), (c), or (d) of this section, all members of the Foreign Service, any of whose service after December 31, 1983, is employment for the purpose of title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.] and chapter 21 of title 26, who would, but for this section, be participants in the Foreign Service Retirement and Disability System pursuant to [section 4043 of this title](./chapter-052-foreign-service.md#section-4043) shall instead be participants in the Foreign Service Pension System.
+**(a) Covered members** Except for persons excluded by subsection (b), (c), or (d), all members of the Foreign Service, any of whose service after December 31, 1983, is employment for the purpose of title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.] and chapter 21 of title 26, who would, but for this section, be participants in the Foreign Service Retirement and Disability System pursuant to [section 4043 of this title](./chapter-052-foreign-service.md#section-4043) shall instead be participants in the Foreign Service Pension System.
 
 **(b) Exclusion of participants in Foreign Service Retirement and Disability System** Members of the Service who were participants in the Foreign Service Retirement and Disability System on or before December 31, 1983, and who have not had a break in service in excess of one year since that date, are not made participants in the System by this section, without regard to whether they are subject to title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.].
 
@@ -4520,13 +4601,13 @@ The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (
 
 (2) service with respect to which deductions and withholdings under section 204(a)(2) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 have been made; and
 
-(3) except as provided in subsection (b) of this section, any civilian service performed before January 1, 1989 (other than service under paragraph (1) or (2)), which, but for the amendment made by section 414 of the Federal Employees’ Retirement System Act of 1986, would be creditable under part I of this subchapter (determined without regard to any deposit or redeposit requirement under such part, subchapter III of chapter 83 of title 5 (the Civil Service Retirement System), or title II of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2011&num=0&edition=prelim) et seq.), any requirement that the individual become subject to such part, subchapter, or title after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual’s desire to become subject to such part, subchapter, or title).
+(3) except as provided in subsection (b), any civilian service performed before January 1, 1989 (other than service under paragraph (1) or (2)), which, but for the amendment made by section 414 of the Federal Employees’ Retirement System Act of 1986, would be creditable under part I (determined without regard to any deposit or redeposit requirement under such part, subchapter III of chapter 83 of title 5 (the Civil Service Retirement System), or title II of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2011&num=0&edition=prelim) et seq.), any requirement that the individual become subject to such part, subchapter, or title after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual’s desire to become subject to such part, subchapter, or title).
 
 **(b) Refund of retirement deductions; retirement deduction not made; required deposit; computation of interest**
 
-(1) A participant who has received a refund of retirement deductions under part I of this subchapter with respect to any service described in subsection (a)(3) of this section may not be allowed credit for such service under this part unless such participant deposits into the Fund an amount equal to 1.3 percent of basic pay for such service, with interest.
+(1) A participant who has received a refund of retirement deductions under part I with respect to any service described in subsection (a)(3) may not be allowed credit for such service under this part unless such participant deposits into the Fund an amount equal to 1.3 percent of basic pay for such service, with interest.
 
-(2) A participant may not be allowed credit under this part for any service described in subsection (a)(3) of this section for which retirement deductions under part I of this subchapter have not been made, unless such participant deposits into the Fund an amount equal to 1.3 percent of basic pay for such service, with interest.
+(2) A participant may not be allowed credit under this part for any service described in subsection (a)(3) for which retirement deductions under part I have not been made, unless such participant deposits into the Fund an amount equal to 1.3 percent of basic pay for such service, with interest.
 
 (3) Interest under paragraph (1) or (2) shall be computed in accordance with [section 4045(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/d&num=0&edition=prelim) and regulations issued by the Secretary of State.
 
@@ -4631,7 +4712,7 @@ Pub. L. 105–33, title VII, § 7001(e)(2), Aug. 5, 1997, 111 Stat. 662, provide
 
   (B) at the rate stated in [section 8415(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8415/a&num=0&edition=prelim) for all other service creditable under this System including service in excess of 20 years otherwise creditable under paragraph (A).
 
-(3) Any participant who is involuntarily retired or separated under section 4007, 4008, 4010, or 4010a of this title and who would if a participant under part I of this subchapter, become eligible for a refund of contributions or a deferred annuity under part I of this subchapter, shall, in lieu thereof, receive benefits for an involuntary separation under this part.
+(3) Any participant who is involuntarily retired or separated under section 4007, 4008, 4010, or 4010a of this title and who would if a participant under part I, become eligible for a refund of contributions or a deferred annuity under part I, shall, in lieu thereof, receive benefits for an involuntary separation under this part.
 
 (4) A disability annuity under this part required to be redetermined under [section 8452(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8452/b&num=0&edition=prelim), or computed under section 8452(c) or (d) of such title 5, shall be recomputed or computed using the formula in subsection (b)(2)(A) of this section rather than section 8415 of such title 5 (as stated in section 8452(b)(2)(A) and 8452(c) and (d) of such title). Such annuity shall also be computed in accordance with the preceding sentence if, as of the day on which such annuity commences or is restored, the annuitant satisfies the age and service requirements for entitlement to an immediate annuity under [section 4051 of this title](./chapter-052-foreign-service.md#section-4051).
 
@@ -4641,9 +4722,9 @@ Pub. L. 105–33, title VII, § 7001(e)(2), Aug. 5, 1997, 111 Stat. 662, provide
 
   (A) The amount of a survivor annuity for a widow or widower of a participant or former participant shall be 50 percent of an annuity computed for the deceased under this part rather than under section 8415 of such title 5 (as stated in sections 8442(a)(1), (b)(1)(B), and (c)(2) of such title).
 
-  (B) Any calculation for a widow or widower of a participant or former participant under section 8442(f)(2)(A) shall be based on an “assumed FSRDS annuity” rather than an “assumed CSRS annuity” as stated in such section. For the purpose of this subparagraph, the term “assumed FSRDS annuity” means the amount of the survivor annuity to which the widow or widower would be entitled under part I of this subchapter based on the service of the deceased annuitant determined under section 8442(f)(5) of such title 5.
+  (B) Any calculation for a widow or widower of a participant or former participant under section 8442(f)(2)(A) shall be based on an “assumed FSRDS annuity” rather than an “assumed CSRS annuity” as stated in such section. For the purpose of this subparagraph, the term “assumed FSRDS annuity” means the amount of the survivor annuity to which the widow or widower would be entitled under part I based on the service of the deceased annuitant determined under section 8442(f)(5) of such title 5.
 
-**(c) Annuity supplement** A participant who is entitled to an immediate annuity under subsection (b) of this section shall be entitled to receive an annuity supplement while the annuitant is under 62 years of age. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) of such title.
+**(c) Annuity supplement** A participant who is entitled to an immediate annuity under subsection (b) shall be entitled to receive an annuity supplement while the annuitant is under 62 years of age. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) of such title.
 
 **(d) Separation for cause based on disloyalty** Any participant who is separated for cause under [section 4010 of this title](./chapter-052-foreign-service.md#section-4010) shall not be entitled to an annuity under this System when the Secretary determines that the separation was based in whole or in part on disloyalty to the United States.
 
@@ -4705,19 +4786,25 @@ Amendment by Pub. L. 99–556 effective Jan. 1, 1987, see section 408 of Pub. L.
 
 (2)
 
-  (A) The applicable percentage for a participant other than a revised annuity participant shall be as follows: 7.5Before January 1, 1999. 7.75January 1, 1999, to December 31, 1999. 7.9January 1, 2000, to December 31, 2000. 7.55After January 11, 2003.
+  (A) The applicable percentage for a participant other than a revised annuity participant or a further revised annuity participant shall be as follows: 7.5Before January 1, 1999. 7.75January 1, 1999, to December 31, 1999. 7.9January 1, 2000, to December 31, 2000. 7.55After January 11, 2003.
 
   (B) The applicable percentage for a revised annuity participant shall be as follows: 9.85After December 31, 2012
 
-**(b) Consent to deductions; discharge of claims** Each participant is deemed to consent and agree to the deductions under subsection (a) of this section. Notwithstanding any law or regulation affecting the pay of a participant, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this part based on the service of the participant.
+  (C) The applicable percentage for a further revised annuity participant shall be as follows: 11.15After December 31, 2013.
+
+**(b) Consent to deductions; discharge of claims** Each participant is deemed to consent and agree to the deductions under subsection (a). Notwithstanding any law or regulation affecting the pay of a participant, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this part based on the service of the participant.
 
 **(c) Deposit of amounts** Amounts deducted and withheld under this section shall be deposited in the Treasury of the United States to the credit of the Fund under such procedures as the Comptroller General of the United States may prescribe.
 
-**(d) Entry on individual retirement records** Under such regulations as the Secretary of State may issue, amounts deducted under subsection (a) of this section shall be entered on individual retirement records.
+**(d) Entry on individual retirement records** Under such regulations as the Secretary of State may issue, amounts deducted under subsection (a) shall be entered on individual retirement records.
 
 ### Statutory Notes
 
 #### Amendments
+2013—Subsec. (a)(2)(A). Pub. L. 113–67, § 402(b)(1), inserted “or a further revised annuity participant” after “revised annuity participant”.
+
+Subsec. (a)(2)(C). Pub. L. 113–67, § 402(b)(2), added subpar. (C).
+
 2012—Subsec. (a)(2). Pub. L. 112–96 designated existing provisions as subpar. (A), substituted “The applicable percentage for a participant other than a revised annuity participant” for “The applicable percentage under this subsection”, and added subpar. (B).
 
 2002—Subsec. (a)(2). Pub. L. 107–228, in table, substituted item relating to applicable percentage after January 11, 2003, for item relating to applicable percentage after December 31, 2000.
@@ -4749,6 +4836,22 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub
 (2) At the end of each fiscal year, the Secretary of State shall notify the Secretary of the Treasury of the amount of the installment computed under this subsection for such year.
 
 (3) Before closing the accounts for a fiscal year, the Secretary of the Treasury shall credit to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated, the amount under paragraph (2) of this subsection for such year.
+
+**(c)**
+
+(1) Subject to paragraphs (2) and (3), for purposes of any period in any year beginning after December 31, 2013, the normal-cost percentage under this section shall be determined and applied as if section 402(b) of the Bipartisan Budget Act of 2013 had not been enacted.
+
+(2) Any contributions under this section in excess of the amounts which (but for paragraph (1)) would otherwise have been payable shall be applied toward reducing the unfunded liability of the Foreign Service Retirement and Disability System.
+
+(3) After the unfunded liability of the Foreign Service Retirement and Disability System has been eliminated, as determined by the Secretary of State, Government contributions under this section shall be determined and made disregarding this subsection.
+
+### Statutory Notes
+
+#### References in Text
+Section 402(b) of the Bipartisan Budget Act of 2013, referred to in subsec. (c)(1), is section 402(b) of div. A of Pub. L. 113–67, which amended [section 4071e of this title](./chapter-052-foreign-service.md#section-4071e).
+
+#### Amendments
+2013—Subsec. (c). Pub. L. 113–67 added subsec. (c).
 
 
 <a id="section-4071g"></a>
@@ -4813,7 +4916,7 @@ The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 
 
     (ii) any reduction in the annuity of the participant to provide survivor benefits under this part.
 
-(5) Notwithstanding subsection (a)(1) of this section, in the case of any former spouse of a disability annuitant—
+(5) Notwithstanding subsection (a)(1), in the case of any former spouse of a disability annuitant—
 
   (A) the annuity of the former spouse shall commence on the date the participant would qualify, on the basis of his or her creditable service, for an annuity under this subchapter (other than a disability annuity) or the date the disability annuity begins, whichever is later, and
 
@@ -4829,9 +4932,9 @@ The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 
 
 **(b) Entitlement to survivor benefits; determination of share; disqualification upon remarriage**
 
-(1) Unless otherwise expressly provided for by any spousal agreement or court order governing survivorship benefits under this part to a former spouse married to a participant or former participant for the periods specified in subsection (a)(1)(A) of this section, such former spouse is entitled to a share, determined under subsection (b)(2) of this section, of all survivor benefits that would otherwise be payable under this part to an eligible surviving spouse of the participant.
+(1) Unless otherwise expressly provided for by any spousal agreement or court order governing survivorship benefits under this part to a former spouse married to a participant or former participant for the periods specified in subsection (a)(1)(A), such former spouse is entitled to a share, determined under subsection (b)(2), of all survivor benefits that would otherwise be payable under this part to an eligible surviving spouse of the participant.
 
-(2) The share referred to in subsection (b)(1) of this section equals—
+(2) The share referred to in subsection (b)(1) equals—
 
   (A) 100 percent if such former spouse was married to the participant throughout the entire period of service of the participant which is creditable under this subchapter; or
 
@@ -4841,7 +4944,7 @@ The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 
 
 **(c) Diminution of entitlement of former spouse prohibited** A participant or former participant may not make any election or modification of election under section 8417, 8418, or 8433 of title 5 or other section relating to the participant’s account in the Thrift Savings Plan or annuity under the basic plan that would diminish the entitlement of a former spouse to any benefit granted to the former spouse by this section or in a current spousal agreement.
 
-**(d) Transfer of participant from Foreign Service Retirement and Disability System; determination of benefit share** If a member becomes a participant under this part after qualifying for benefits under part I of this subchapter and, at the time of transfer, has a former spouse entitled to benefits under part I of this subchapter which are determined under section 4054 or 4055 of this title (as determined by the Secretary of State) and are similar in amount to a pro rata share division under section 4054 or 4055 of this title and the service of the member as a participant under this part is not recognized in determining that pro rata share, then subsections (a) and (b) of this section shall not apply to such former spouse. Otherwise, subsections (a) and (b) of this section shall apply.
+**(d) Transfer of participant from Foreign Service Retirement and Disability System; determination of benefit share** If a member becomes a participant under this part after qualifying for benefits under part I and, at the time of transfer, has a former spouse entitled to benefits under part I which are determined under section 4054 or 4055 of this title (as determined by the Secretary of State) and are similar in amount to a pro rata share division under section 4054 or 4055 of this title and the service of the member as a participant under this part is not recognized in determining that pro rata share, then subsections (a) and (b) of this section shall not apply to such former spouse. Otherwise, subsections (a) and (b) of this section shall apply.
 
 **(e) Death of participant entitled to deferred annuity; spousal agreement; payment of survivor annuity** If a participant dies after completing at least 18 months of service or a former participant dies entitled to a deferred annuity, but before becoming eligible to receive the annuity, and such participant or former participant has left with the Secretary of State a spousal agreement promising a share of a survivor annuity under subchapter IV, chapter 84, title 5, to a former spouse, such survivor annuity shall be paid under the terms of this part as if the survivor annuity had been ordered by a court.
 
@@ -4988,7 +5091,7 @@ The Secretary may, as a means of eliminating transportation costs, provide membe
 ## § 4084. Health care program
 **(a) Establishment** The Secretary of State shall establish a health care program to promote and maintain the physical and mental health of members of the Service, and (when incident to service abroad) other designated eligible Government employees, and members of the families of such members and employees.
 
-**(b) Services provided** Any such health care program may include (1) medical examinations for applicants for employment, (2) medical examinations and inoculations or vaccinations, and other preventive and remedial care and services as necessary, for members of the Service and employees of the Department who are citizens of the United States and for members of their families, (3) health education and disease prevention programs for all employees, and (4) examinations necessary in order to establish disability or incapacity of participants in the Foreign Service Retirement and Disability System or Foreign Service Pension System or to provide survivor benefits under subchapter VIII of this chapter.
+**(b) Services provided** Any such health care program may include (1) medical examinations for applicants for employment, (2) medical examinations and inoculations or vaccinations, and other preventive and remedial care and services as necessary, for members of the Service and employees of the Department who are citizens of the United States and for members of their families, (3) health education and disease prevention programs for all employees, and (4) examinations necessary in order to establish disability or incapacity of participants in the Foreign Service Retirement and Disability System or Foreign Service Pension System or to provide survivor benefits under subchapter VIII.
 
 **(c) Facilities; employment of personnel** The Secretary of State may establish health care facilities and provide for the services of physicians, nurses, or other health care personnel at Foreign Service posts abroad at which, in the opinion of the Secretary of State, a sufficient number of Government employees are assigned to warrant such facilities or services.
 
@@ -5027,7 +5130,7 @@ Notwithstanding [section 5536 of title 5](https://uscode.house.gov/view.xhtml?re
 
 <a id="section-4086"></a>
 ## § 4086. Entitlement to vote in a State in a Federal election; preconditions; applicability
-**(a)** Except as provided in subsection (b) of this section and in such manner as shall be otherwise authorized by a State or other jurisdiction within the territory of the United States, a member of the Service residing outside the United States shall, in addition to any entitlement to vote in a State in a Federal election under section 3 of the Overseas Citizens Voting Rights Act ([42 U.S.C. 1973dd–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973dd–1&num=0&edition=prelim)), be entitled to vote in a Federal election in the State in which such member was last domiciled immediately before entering the Service if such member—
+**(a)** Except as provided in subsection (b) and in such manner as shall be otherwise authorized by a State or other jurisdiction within the territory of the United States, a member of the Service residing outside the United States shall, in addition to any entitlement to vote in a State in a Federal election under section 3 of the Overseas Citizens Voting Rights Act ([42 U.S.C. 1973dd–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973dd–1&num=0&edition=prelim)), be entitled to vote in a Federal election in the State in which such member was last domiciled immediately before entering the Service if such member—
 
 (1) makes an election of that State;
 
@@ -5035,12 +5138,12 @@ Notwithstanding [section 5536 of title 5](https://uscode.house.gov/view.xhtml?re
 
 (3) otherwise meets the requirements of such Act [[42 U.S.C. 1973dd](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973dd&num=0&edition=prelim) et seq.].
 
-**(b)** The provisions of subsection (a) of this section shall apply only to an individual who becomes a member of the Service on or after November 22, 1983, and shall not apply to an individual who registers to vote in a State in which he is entitled to vote under section 3 of Overseas Citizens Voting Rights Act [[42 U.S.C. 1973dd–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973dd–1&num=0&edition=prelim)].
+**(b)** The provisions of subsection (a) shall apply only to an individual who becomes a member of the Service on or after November 22, 1983, and shall not apply to an individual who registers to vote in a State in which he is entitled to vote under section 3 of Overseas Citizens Voting Rights Act [[42 U.S.C. 1973dd–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973dd–1&num=0&edition=prelim)].
 
 ### Statutory Notes
 
 #### References in Text
-The Overseas Citizens Voting Rights Act, referred to in text, probably means the Overseas Citizens Voting Rights Act of 1975, Pub. L. 94–203, Jan. 2, 1976, 89 Stat. 1142, as amended, which was classified generally to subchapter I–E (§ 1973dd et seq.) of chapter 20 of Title 42, The Public Health and Welfare, and which was repealed by Pub. L. 99–410, title II, § 203, Aug. 28, 1986, 100 Stat. 930. See section 1973ff et seq. of Title 42.
+The Overseas Citizens Voting Rights Act, referred to in text, probably means the Overseas Citizens Voting Rights Act of 1975, Pub. L. 94–203, Jan. 2, 1976, 89 Stat. 1142, which was classified generally to subchapter I–E (§ 1973dd et seq.) of chapter 20 of Title 42, The Public Health and Welfare, and which was repealed by Pub. L. 99–410, title II, § 203, Aug. 28, 1986, 100 Stat. 930.
 
 
 <a id="section-4101"></a>
@@ -5058,7 +5161,8 @@ The Congress finds that—
 
 (2) the public interest demands the highest standards of performance by members of the Service and the continuous development and implementation of modern and progressive work practices to facilitate improved performance and efficiency; and
 
-(3) the unique conditions of Foreign Service employment require a distinct framework for the development and implementation of modern, constructive, and cooperative relationships between management officials and organizations representing members of the Service. Therefore, labor organizations and collective bargaining in the Service are in the public interest and are consistent with the requirement of an effective and efficient Government. The provisions of this subchapter should be interpreted in a manner consistent with the requirement of an effective and efficient Government.
+(3) the unique conditions of Foreign Service employment require a distinct framework for the development and implementation of modern, constructive, and cooperative relationships between management officials and organizations representing members of the Service.
+Therefore, labor organizations and collective bargaining in the Service are in the public interest and are consistent with the requirement of an effective and efficient Government. The provisions of this subchapter should be interpreted in a manner consistent with the requirement of an effective and efficient Government.
 
 
 <a id="section-4102"></a>
@@ -5173,7 +5277,7 @@ Amendment by section 1422(b)(4)(C) of Pub. L. 105–277 effective Apr. 1, 1999, 
 
 <a id="section-4105"></a>
 ## § 4105. Management rights
-**(a)** Subject to subsection (b) of this section, nothing in this subchapter shall affect the authority of any management official of the Department, in accordance with applicable law—
+**(a)** Subject to subsection (b), nothing in this subchapter shall affect the authority of any management official of the Department, in accordance with applicable law—
 
 (1) to determine the mission, budget, organization, and internal security practices of the Department, and the number of individuals in the Service or in the Department;
 
@@ -5287,7 +5391,7 @@ The General Counsel may—
 (4) one public member who does not hold any other office or position in the Government.
 The Chairperson of the Board shall set the terms of office for Panel members and determine who shall chair the Panel.
 
-**(b) Compensation; travel expenses** Panel members referred to in subsection (a)(3) and (4) of this section shall receive compensation for each day they are performing their duties (including traveltime) at the daily equivalent of the maximum rate payable for grade GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), except that the member who is also a member of the Federal Service Impasses Panel shall not be entitled to pay under this subsection for any day for which he or she receives pay under section 7119(b)(4) 11 See References in Text note below. of title 5. Members of the Panel shall be entitled to travel expenses as provided under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
+**(b) Compensation; travel expenses** Panel members referred to in subsection (a)(3) and (4) shall receive compensation for each day they are performing their duties (including traveltime) at the daily equivalent of the maximum rate payable for grade GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), except that the member who is also a member of the Federal Service Impasses Panel shall not be entitled to pay under this subsection for any day for which he or she receives pay under section 7119(b)(4) 11 See References in Text note below. of title 5. Members of the Panel shall be entitled to travel expenses as provided under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
 
 **(c) Impasse investigation and settlement; hearings and other actions upon failure to settle; notice; binding nature of action**
 
@@ -5336,7 +5440,7 @@ the Board shall investigate the petition, and if it has reasonable cause to beli
 (1) has been designated by at least 10 percent of the employees in the unit; or
 
 (2) is the exclusive representative of the employees involved;
-may intervene with respect to a petition filed pursuant to subsection (b) of this section and shall be placed on the ballot of any election under subsection (b) of this section with respect to the petition.
+may intervene with respect to a petition filed pursuant to subsection (b) and shall be placed on the ballot of any election under subsection (b) with respect to the petition.
 
 **(d) Eligibility to vote; regulations; choices on ballot; preferential voting; certification as exclusive representative**
 
@@ -5354,7 +5458,7 @@ may intervene with respect to a petition filed pursuant to subsection (b) of thi
 
 (1) if the Board determines that the labor organization is subject to corrupt influence or influences opposed to democratic principles; or
 
-(2) in the case of a petition filed under subsection (b)(1)(A) of this section, if there is not credible evidence that at least 30 percent of the employees wish to be represented for the purpose of collective bargaining by the labor organization seeking exclusive recognition.
+(2) in the case of a petition filed under subsection (b)(1)(A), if there is not credible evidence that at least 30 percent of the employees wish to be represented for the purpose of collective bargaining by the labor organization seeking exclusive recognition.
 
 **(g) Waiver of hearings; consent elections** Nothing in this section shall be construed to prohibit the waiving of hearings by stipulation for the purpose of a consent election in conformity with regulations and rules or decisions of the Board.
 
@@ -5391,7 +5495,7 @@ The employees of the Department shall constitute a single and separate worldwide
 
 **(d) Applicability to other employee rights or remedies** The rights of an exclusive representative under this section shall not preclude an employee from—
 
-(1) being represented by an attorney or other representative of the employee’s own choosing, other than the exclusive representative, in any grievance proceeding under subchapter XI of this chapter; or
+(1) being represented by an attorney or other representative of the employee’s own choosing, other than the exclusive representative, in any grievance proceeding under subchapter XI; or
 
 (2) exercising grievance or appeal rights established by law, rule, or regulation.
 
@@ -5436,14 +5540,14 @@ The employees of the Department shall constitute a single and separate worldwide
 
 (3) include provision for appeal to the Foreign Service Grievance Board by either party of any dispute not satisfactorily settled.
 
-**(b) Review by Foreign Service Labor Relations Board** Either party to an appeal under subsection (a)(3) of this section may file with the Board an exception to the action of the Foreign Service Grievance Board in resolving the implementation dispute. If, upon review, the Board finds that the action is deficient—
+**(b) Review by Foreign Service Labor Relations Board** Either party to an appeal under subsection (a)(3) may file with the Board an exception to the action of the Foreign Service Grievance Board in resolving the implementation dispute. If, upon review, the Board finds that the action is deficient—
 
 (1) because it is contrary to any law, rule, or regulation; or
 
 (2) on other grounds similar to those applied by Federal courts in private sector labor-management relations;
 the Board may take such action and make such recommendations concerning the Foreign Service Grievance Board action as it considers necessary, consistent with applicable laws, rules, and regulations.
 
-**(c) Time of filing exceptions; finality and binding nature of action** If no exception to a Foreign Service Grievance Board action is filed under subsection (b) of this section within 30 days after such action is communicated to the parties, such action shall become final and binding and shall be implemented by the parties.
+**(c) Time of filing exceptions; finality and binding nature of action** If no exception to a Foreign Service Grievance Board action is filed under subsection (b) within 30 days after such action is communicated to the parties, such action shall become final and binding and shall be implemented by the parties.
 
 **(d) Judicial review** Resolutions of disputes under this section shall not be subject to judicial review.
 
@@ -5509,7 +5613,7 @@ if the expression contains no threat of reprisal or force or promise of benefit 
 
 (B) constitute grounds for the setting aside of any election conducted under this subchapter.
 
-**(d) Election of remedies** Issues which can properly be raised under an appeals procedure may not be raised as unfair labor practices prohibited under this section. Except for matters wherein, under [section 4139(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4139/a/2&num=0&edition=prelim), an employee has an option of using the grievance procedure under subchapter XI of this chapter or an appeals procedure, issues which can be raised under [section 4114 of this title](./chapter-052-foreign-service.md#section-4114) or subchapter XI of this chapter may, in the discretion of the aggrieved party, be raised either under such section or subchapter or else raised as an unfair labor practice under this section, but may not be raised both under this section and under [section 4114 of this title](./chapter-052-foreign-service.md#section-4114) or subchapter XI of this chapter.
+**(d) Election of remedies** Issues which can properly be raised under an appeals procedure may not be raised as unfair labor practices prohibited under this section. Except for matters wherein, under [section 4139(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4139/a/2&num=0&edition=prelim), an employee has an option of using the grievance procedure under subchapter XI or an appeals procedure, issues which can be raised under [section 4114 of this title](./chapter-052-foreign-service.md#section-4114) or subchapter XI may, in the discretion of the aggrieved party, be raised either under such section or subchapter or else raised as an unfair labor practice under this section, but may not be raised both under this section and under [section 4114 of this title](./chapter-052-foreign-service.md#section-4114) or subchapter XI.
 
 ### Statutory Notes
 
@@ -5524,7 +5628,7 @@ Pub. L. 102–138, title I, § 153(f), Oct. 28, 1991, 105 Stat. 674, provided th
 ## § 4116. Prevention of unfair labor practices
 **(a) Investigation by General Counsel; issuance of complaint; statement of reasons** If the Department or labor organization is charged by any person with having engaged in or engaging in an unfair labor practice, the General Counsel shall investigate the charge and may issue and cause to be served upon the Department or labor organization a complaint. In any case in which the General Counsel does not issue a complaint because the charge fails to state an unfair labor practice, the General Counsel shall provide the person making the charge a written statement of the reasons for not issuing a complaint.
 
-**(b) Notice in complaint** Any complaint under subsection (a) of this section shall contain a notice—
+**(b) Notice in complaint** Any complaint under subsection (a) shall contain a notice—
 
 (1) of the charge;
 
@@ -5549,7 +5653,7 @@ Pub. L. 102–138, title I, § 153(f), Oct. 28, 1991, 105 Stat. 674, provided th
 
 **(f) Hearing** The Board (or any member thereof or any individual employed by the Board and designated for such purpose) shall conduct a hearing on the complaint not earlier than 5 days after the date on which the complaint is served. In the discretion of the individual or individuals conducting the hearing, any person involved may be allowed to intervene in the hearing and to present testimony. Any such hearing shall, to the extent practicable, be conducted in accordance with the provisions of subchapter II of chapter 5 of title 5, except that the parties shall not be bound by rules of evidence, whether statutory, common law, or adopted by a court. A transcript shall be kept of the hearing. After such a hearing the Board, in its discretion, may upon notice receive further evidence or hear argument.
 
-**(g) Findings of fact relative to issuance of orders; backpay** If the Board (or any member thereof or any individual employed by the Board and designated for such purpose) determines after any hearing on a complaint under subsection (f) of this section that the preponderance of the evidence received demonstrates that the Department or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, then the individual or individuals conducting the hearing shall state in writing their findings of fact and shall issue and cause to be served on the Department or labor organization an order—
+**(g) Findings of fact relative to issuance of orders; backpay** If the Board (or any member thereof or any individual employed by the Board and designated for such purpose) determines after any hearing on a complaint under subsection (f) that the preponderance of the evidence received demonstrates that the Department or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, then the individual or individuals conducting the hearing shall state in writing their findings of fact and shall issue and cause to be served on the Department or labor organization an order—
 
 (1) to cease and desist from any such unfair labor practice in which the Department or labor organization is engaged;
 
@@ -5565,7 +5669,7 @@ If any such order requires reinstatement of an employee with backpay, backpay ma
 
 <a id="section-4117"></a>
 ## § 4117. Standards of conduct for labor organizations
-**(a) Freedom from corrupt influences and influences opposed to basic democratic principles** The Department shall accord recognition only to a labor organization that is free from corrupt influences and influences opposed to basic democratic principles. Except as provided in subsection (b) of this section, an organization is not required to prove that it is free from such influences if it is subject to a governing requirement adopted by the organization or by a national or international labor organization or federation of labor organizations with which it is affiliated, or in which it participates, containing explicit and detailed provisions to which it subscribes calling for—
+**(a) Freedom from corrupt influences and influences opposed to basic democratic principles** The Department shall accord recognition only to a labor organization that is free from corrupt influences and influences opposed to basic democratic principles. Except as provided in subsection (b), an organization is not required to prove that it is free from such influences if it is subject to a governing requirement adopted by the organization or by a national or international labor organization or federation of labor organizations with which it is affiliated, or in which it participates, containing explicit and detailed provisions to which it subscribes calling for—
 
 (1) the maintenance of democratic procedures and practices, including—
 
@@ -5581,7 +5685,7 @@ If any such order requires reinstatement of an employee with backpay, backpay ma
 
 **(b) Furnishing of information** A labor organization may be required to furnish evidence of its freedom from corrupt influences opposed to basic democratic principles if there is reasonable cause to believe that—
 
-(1) the organization has been suspended or expelled from, or is subject to other sanction by, a parent labor organization, or federation of organizations with which it has been affiliated, because it has demonstrated an unwillingness or inability to comply with governing requirements comparable in purpose to those required by subsection (a) of this section; or
+(1) the organization has been suspended or expelled from, or is subject to other sanction by, a parent labor organization, or federation of organizations with which it has been affiliated, because it has demonstrated an unwillingness or inability to comply with governing requirements comparable in purpose to those required by subsection (a); or
 
 (2) the organization is in fact subject to influences that would preclude recognition under this subchapter.
 
@@ -5629,7 +5733,7 @@ If any such order requires reinstatement of an employee with backpay, backpay ma
 
 <a id="section-4118"></a>
 ## § 4118. Administrative provisions
-**(a) Assignment for deduction of dues** If the Department has received from any individual a written assignment which authorizes the Department to deduct from the salary of that individual amounts for the payment of regular and periodic dues of the exclusive representative, the Department shall honor the assignment. Any such assignment shall be made at no cost to the exclusive representative or the individual. Except as provided in subsection (b) of this section, any such assignment may not be revoked for a period of one year from its execution.
+**(a) Assignment for deduction of dues** If the Department has received from any individual a written assignment which authorizes the Department to deduct from the salary of that individual amounts for the payment of regular and periodic dues of the exclusive representative, the Department shall honor the assignment. Any such assignment shall be made at no cost to the exclusive representative or the individual. Except as provided in subsection (b), any such assignment may not be revoked for a period of one year from its execution.
 
 **(b) Termination of assignment for deduction of dues** An assignment for deduction of dues shall terminate when—
 
@@ -5656,7 +5760,7 @@ If any such order requires reinstatement of an employee with backpay, backpay ma
 ## § 4131. Definitions and applicability
 **(a)**
 
-(1) Except as provided in subsection (b) of this section, for purposes of this subchapter, the term “grievance” means any act, omission, or condition subject to the control of the Secretary which is alleged to deprive a member of the Service who is a citizen of the United States (other than a United States citizen employed under [section 3951 of this title](./chapter-052-foreign-service.md#section-3951) who is not a family member) of a right or benefit authorized by law or regulation or which is otherwise a source of concern or dissatisfaction to the member, including—
+(1) Except as provided in subsection (b), for purposes of this subchapter, the term “grievance” means any act, omission, or condition subject to the control of the Secretary which is alleged to deprive a member of the Service who is a citizen of the United States (other than a United States citizen employed under [section 3951 of this title](./chapter-052-foreign-service.md#section-3951) who is not a family member) of a right or benefit authorized by law or regulation or which is otherwise a source of concern or dissatisfaction to the member, including—
 
   (A) separation of the member allegedly contrary to laws or regulations, or predicated upon alleged inaccuracy, omission, error, or falsely prejudicial character of information in any part of the official personnel record of the member;
 
@@ -5684,18 +5788,18 @@ If any such order requires reinstatement of an employee with backpay, backpay ma
 
     (v) any rule, regulation, or policy directive prescribed under any provision of law described in clauses (i) through (iv).
 
-(2) The scope of grievances described in paragraph (1) may be modified by written agreement between the Department and the labor organization accorded recognition as the exclusive representative under subchapter X of this chapter (hereinafter in this subchapter referred to as the “exclusive representative”).
+(2) The scope of grievances described in paragraph (1) may be modified by written agreement between the Department and the labor organization accorded recognition as the exclusive representative under subchapter X (hereinafter in this subchapter referred to as the “exclusive representative”).
 
 **(b)** For purposes of this subchapter, the term “grievance” does not include—
 
-(1) an individual assignment of a member under subchapter V of this chapter, other than an assignment alleged to be contrary to law or regulation;
+(1) an individual assignment of a member under subchapter V, other than an assignment alleged to be contrary to law or regulation;
 
 (2) the judgment of a selection board established under [section 4002 of this title](./chapter-052-foreign-service.md#section-4002), a tenure board established under [section 3946(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3946/b&num=0&edition=prelim), or any other equivalent body established by laws or regulations which similarly evaluates the performance of members of the Service on a comparative basis;
 
 (3) the expiration of a limited appointment, the termination of a limited appointment under [section 4011 of this title](./chapter-052-foreign-service.md#section-4011), or the denial of a limited career extension or of a renewal of a limited career extension under [section 4007(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4007/b&num=0&edition=prelim); or
 
 (4) any complaint or appeal where a specific statutory hearing procedure exists, except as provided in [section 4139(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4139/a/2&num=0&edition=prelim).
-Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) of this section from such term.
+Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) from such term.
 
 **(c)** This subchapter applies only with respect to the Department of State, Broadcasting 11 So in original. Probably should be “the Broadcasting”. Board of Governors, the Agency for International Development, the Department of Agriculture, and the Department of Commerce.
 
@@ -5712,7 +5816,7 @@ Subsec. (b)(3). Pub. L. 103–236, § 181(a)(4), made technical amendment to ref
 
 1991—Subsec. (a)(1)(H). Pub. L. 102–138, § 153(a)(1), added subpar. (H).
 
-Subsec. (b). Pub. L. 102–138, § 153(a)(2), in par. (4), substituted “section 4139(a)(2)” for “section 4139(b)” and inserted at end “Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) of this section from such term.”
+Subsec. (b). Pub. L. 102–138, § 153(a)(2), in par. (4), substituted “section 4139(a)(2)” for “section 4139(b)” and inserted at end “Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) from such term.”
 
 #### Change of Name
 “United States Information Agency” substituted for “International Communication Agency” in subsec. (c), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461).
@@ -5777,7 +5881,7 @@ Within the time limitations of [section 4134 of this title](./chapter-052-foreig
 
 **(c) Grievances based on alleged discrimination**
 
-(1) In applying subsection (a) of this section with respect to an alleged violation of a law, rule, regulation, or policy directive referred to in [section 4131(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4131/a/1/H&num=0&edition=prelim), the reference to “2 years” shall be deemed to read “180 days”, subject to paragraph (2).
+(1) In applying subsection (a) with respect to an alleged violation of a law, rule, regulation, or policy directive referred to in [section 4131(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4131/a/1/H&num=0&edition=prelim), the reference to “2 years” shall be deemed to read “180 days”, subject to paragraph (2).
 
 (2) If the occurrence or occurrences giving rise to the grievance are alleged to have occurred while the grievant was assigned to a post abroad, the 180-day period provided for under paragraph (1) shall not commence until the earlier of—
 
@@ -5908,7 +6012,7 @@ Pub. L. 103–236, § 177(a), substituted “until the date which is one year af
 
 (6) to take such other remedial action as may be appropriate under procedures agreed to by the Department and the exclusive representative (if any).
 
-**(c) Finality of decisions; judicial review** Except as provided in subsection (d) of this section, decisions of the Board under this subchapter shall be final, subject only to judicial review as provided in [section 4140 of this title](./chapter-052-foreign-service.md#section-4140).
+**(c) Finality of decisions; judicial review** Except as provided in subsection (d), decisions of the Board under this subchapter shall be final, subject only to judicial review as provided in [section 4140 of this title](./chapter-052-foreign-service.md#section-4140).
 
 **(d) Recommendations**
 
@@ -5976,7 +6080,7 @@ Amendment by Pub. L. 100–204 not applicable with respect to any grievance in w
 
 (2) Any agency shall make available to the Board any agency record requested under paragraph (1) unless the head or deputy head of such agency personally certifies in writing to the Board that disclosure of the record to the Board and the grievant would adversely affect the foreign policy or national security of the United States or that such disclosure is prohibited by law. If such a certification is made with respect to any record, the agency shall supply to the Board a summary or extract of such record unless the reasons specified in the preceding sentence preclude such a summary or extract.
 
-**(c) Access by grievant** If the Board determines that an agency record, or a summary or extract of a record, made available to the Board under subsection (b) of this section is relevant and material to the grievance, the agency concerned shall make such record, summary, or extract, as the case may be, available to the grievant.
+**(c) Access by grievant** If the Board determines that an agency record, or a summary or extract of a record, made available to the Board under subsection (b) is relevant and material to the grievance, the agency concerned shall make such record, summary, or extract, as the case may be, available to the grievant.
 
 **(d) Denial of access as factor in determination of grievance** In considering a grievance, the Board may take into account the fact that the grievant or the Board was denied access to an agency record which the Board determines is or may be relevant and material to the grievance.
 
@@ -5991,7 +6095,7 @@ Amendment by Pub. L. 100–204 not applicable with respect to any grievance in w
 
 (2) If a grievant is not prohibited from filing a grievance under paragraph (1), the grievant may file with the Board a grievance which is also eligible for consideration, resolution, and relief under chapter 12 of title 5 or a regulation or Executive order other than under this subchapter. An election of remedies under this subsection shall be final upon the acceptance of jurisdiction by the Board.
 
-(3) This subsection shall not apply to any grievance with respect to which subsection (b) of this section applies.
+(3) This subsection shall not apply to any grievance with respect to which subsection (b) applies.
 
 **(b)**
 
@@ -6026,7 +6130,7 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 <a id="section-4140"></a>
 ## § 4140. Judicial review
-**(a)** Any aggrieved party may obtain judicial review of a final action of the Secretary or the Board on any grievance in the district courts of the United States in accordance with the standards set forth in chapter 7 of title 5, if the request for judicial review is filed not later than 180 days after the final action of the Secretary or the Board (or in the case of an aggrieved party who is posted abroad at the time of the final action of the Secretary or the Board, if the request for judicial review is filed not later than 180 days after the aggrieved party’s return to the United States). [Section 706 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706&num=0&edition=prelim) shall apply without limitation or exception. This subsection shall not apply to any grievance with respect to which subsection (b) of this section applies.
+**(a)** Any aggrieved party may obtain judicial review of a final action of the Secretary or the Board on any grievance in the district courts of the United States in accordance with the standards set forth in chapter 7 of title 5, if the request for judicial review is filed not later than 180 days after the final action of the Secretary or the Board (or in the case of an aggrieved party who is posted abroad at the time of the final action of the Secretary or the Board, if the request for judicial review is filed not later than 180 days after the aggrieved party’s return to the United States). [Section 706 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706&num=0&edition=prelim) shall apply without limitation or exception. This subsection shall not apply to any grievance with respect to which subsection (b) applies.
 
 **(b)**
 
@@ -6141,7 +6245,7 @@ Until converted under the provisions of this subchapter, any individual who is i
 
 (2) Foreign Service Reserve officers with limited or unlimited tenure, and Foreign Service staff officers or employees, who the Secretary determines are available for worldwide assignment.
 
-**(b)** Not later than 3 years after February 15, 1981, Foreign Service Reserve officers and staff officers and employees who the Secretary determines under subsection (a)(2) of this section are not available for worldwide assignment shall also be converted, in accordance with [section 4156 of this title](./chapter-052-foreign-service.md#section-4156), to the appropriate class in the Foreign Service Schedule established under [section 3963 of this title](./chapter-052-foreign-service.md#section-3963) if—
+**(b)** Not later than 3 years after February 15, 1981, Foreign Service Reserve officers and staff officers and employees who the Secretary determines under subsection (a)(2) are not available for worldwide assignment shall also be converted, in accordance with [section 4156 of this title](./chapter-052-foreign-service.md#section-4156), to the appropriate class in the Foreign Service Schedule established under [section 3963 of this title](./chapter-052-foreign-service.md#section-3963) if—
 
 (1) the Secretary certifies that there is a need for their services in the Foreign Service; and
 
@@ -6160,23 +6264,23 @@ In subsecs. (a) and (b), “February 15, 1981” substituted for “the effectiv
 ## § 4153. Conversion to Senior Foreign Service
 **(a) Criteria; application less than 120 days after effective date of Foreign Service Act of 1980** Foreign Service officers and Foreign Service Reserve officers with limited or unlimited tenure who, immediately before February 15, 1981, are serving under appointments at class 2 or a higher class of the schedule established under section 412 or 414 of the Foreign Service Act of 1946 may at any time within 120 days after such date submit to the Secretary a written request for appointment to the Senior Foreign Service.
 
-**(b) Limited appointment** Except as provided in subsection (d) of this section, if a request is submitted under subsection (a) of this section by a Foreign Service Reserve officer with limited tenure, the Secretary shall grant to such officer a limited appointment to the Senior Foreign Service in the appropriate class established under [section 3962 of this title](./chapter-052-foreign-service.md#section-3962).
+**(b) Limited appointment** Except as provided in subsection (d), if a request is submitted under subsection (a) by a Foreign Service Reserve officer with limited tenure, the Secretary shall grant to such officer a limited appointment to the Senior Foreign Service in the appropriate class established under [section 3962 of this title](./chapter-052-foreign-service.md#section-3962).
 
-**(c) Career appointment** If a request is submitted under subsection (a) of this section by a Foreign Service officer or, except as provided in subsection (d) of this section, a Foreign Service Reserve officer with unlimited tenure, the Secretary shall recommend to the President a career appointment of such officer, by and with the advice and consent of the Senate, to the Senior Foreign Service in the appropriate class established under [section 3962 of this title](./chapter-052-foreign-service.md#section-3962).
+**(c) Career appointment** If a request is submitted under subsection (a) by a Foreign Service officer or, except as provided in subsection (d), a Foreign Service Reserve officer with unlimited tenure, the Secretary shall recommend to the President a career appointment of such officer, by and with the advice and consent of the Senate, to the Senior Foreign Service in the appropriate class established under [section 3962 of this title](./chapter-052-foreign-service.md#section-3962).
 
-**(d) Availability for worldwide assignment** If the Secretary determines that a Foreign Service Reserve officer with limited or unlimited tenure who submits a request under subsection (a) of this section is not available for worldwide assignment, an appointment under subsection (b) of this section or a recommendation for appointment under subsection (c) of this section shall be made only if—
+**(d) Availability for worldwide assignment** If the Secretary determines that a Foreign Service Reserve officer with limited or unlimited tenure who submits a request under subsection (a) is not available for worldwide assignment, an appointment under subsection (b) or a recommendation for appointment under subsection (c) shall be made only if—
 
 (1) the Secretary certifies that there is a need for the services of such officer in the Senior Foreign Service; and
 
 (2) such officer agrees in writing to accept availability for worldwide assignment as a condition of continued employment.
 
-**(e) Application more than 120 days after effective date of Foreign Service Act of 1980** If a Foreign Service officer or a Foreign Service Reserve officer who is eligible to submit a request under subsection (a) of this section submits a written request for appointment to the Senior Foreign Service to the Secretary more than 120 days after February 15, 1981, and before the end of the 3-year period beginning on February 15, 1981, the Secretary (in the case of a Foreign Service Reserve officer with limited tenure) may grant a limited appointment to, or (in the case of a Foreign Service officer or Foreign Service Reserve officer with unlimited tenure) may recommend to the President a career appointment of, the requesting officer to the appropriate class established under [section 3962 of this title](./chapter-052-foreign-service.md#section-3962), subject to the conditions specified in subsection (d) of this section and such other conditions as the Secretary may prescribe consistent with the provisions of subchapter VI of this chapter relating to promotion into the Senior Foreign Service.
+**(e) Application more than 120 days after effective date of Foreign Service Act of 1980** If a Foreign Service officer or a Foreign Service Reserve officer who is eligible to submit a request under subsection (a) submits a written request for appointment to the Senior Foreign Service to the Secretary more than 120 days after February 15, 1981, and before the end of the 3-year period beginning on February 15, 1981, the Secretary (in the case of a Foreign Service Reserve officer with limited tenure) may grant a limited appointment to, or (in the case of a Foreign Service officer or Foreign Service Reserve officer with unlimited tenure) may recommend to the President a career appointment of, the requesting officer to the appropriate class established under [section 3962 of this title](./chapter-052-foreign-service.md#section-3962), subject to the conditions specified in subsection (d) and such other conditions as the Secretary may prescribe consistent with the provisions of subchapter VI of this chapter relating to promotion into the Senior Foreign Service.
 
-**(f) Forced conversion** Any officer of the Foreign Service who is eligible to submit a request under subsection (a) of this section and—
+**(f) Forced conversion** Any officer of the Foreign Service who is eligible to submit a request under subsection (a) and—
 
-(1) who does not submit a request under subsection (a) of this section, or
+(1) who does not submit a request under subsection (a), or
 
-(2) who submits such a request more than 120 days after February 15, 1981, and is not appointed to the Senior Foreign Service for any reason other than failure to meet the conditions specified in subsection (d) of this section,
+(2) who submits such a request more than 120 days after February 15, 1981, and is not appointed to the Senior Foreign Service for any reason other than failure to meet the conditions specified in subsection (d),
 may not remain in the Foreign Service for more than 3 years after February 15, 1981. During such period, the officer shall be subject to the provisions of subchapters I to XI of this chapter applicable to members of the Senior Foreign Service, except that such officer shall not be eligible to compete for performance pay under [section 3965 of this title](./chapter-052-foreign-service.md#section-3965), and shall not be eligible for a limited career extension as described in [section 4007(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4007/b&num=0&edition=prelim). Upon separation from the Service, any such officer who is a participant in the Foreign Service Retirement and Disability System shall be entitled to retirement benefits on the same basis as a member retired from the Senior Foreign Service under [section 4007(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4007/c/1&num=0&edition=prelim), and [section 4009(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4009/a/2/B&num=0&edition=prelim) shall be deemed to apply to such officer.
 
 ### Statutory Notes
@@ -6202,9 +6306,9 @@ In subsecs. (a), (e), and (f), “February 15, 1981” substituted for “the ef
 (3) such position shall be considered to be in the competitive service so long as the individual continues to hold that position;
 except that any such individual who meets the eligibility requirements for the Senior Executive Service and who elects to join that Service shall be converted by the Secretary to the Senior Executive Service in the appropriate rate of basic pay established under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim).
 
-**(b) United States Information Agency individuals** In the case of individuals in the Foreign Service in the United States Information Agency who immediately before October 17, 1980, are covered by a collective bargaining agreement between the Agency and the exclusive representative of those individuals, the 3-year period referred to in subsection (a) of this section shall begin on July 1, 1981.
+**(b) United States Information Agency individuals** In the case of individuals in the Foreign Service in the United States Information Agency who immediately before October 17, 1980, are covered by a collective bargaining agreement between the Agency and the exclusive representative of those individuals, the 3-year period referred to in subsection (a) shall begin on July 1, 1981.
 
-**(c) Department of State security officers** The three-year period referred to in subsection (a) of this section shall be extended for an additional period not to exceed one year from November 22, 1983, in the case of Department of State security officers who are members of the Service and who were initially ineligible for conversion under that subsection because they were available for worldwide assignment and there was a need for their services in the Service, but as to whom subsequent events require the services of these members (and of those later employed who are similarly situated) only or primarily for domestic functions.
+**(c) Department of State security officers** The three-year period referred to in subsection (a) shall be extended for an additional period not to exceed one year from November 22, 1983, in the case of Department of State security officers who are members of the Service and who were initially ineligible for conversion under that subsection because they were available for worldwide assignment and there was a need for their services in the Service, but as to whom subsequent events require the services of these members (and of those later employed who are similarly situated) only or primarily for domestic functions.
 
 ### Statutory Notes
 
@@ -6228,19 +6332,19 @@ In subsec. (c), “November 22, 1983” was in the original “the date of enact
 
 (2) provide written notice to individuals holding those positions of such designation and classification of the personnel category under [section 3903 of this title](./chapter-052-foreign-service.md#section-3903) which will apply to such individual.
 
-**(b) Election to convert** Each employee serving in a position at the time it is designated under subsection (a) of this section shall, not later than 120 days after notice of such designation, elect—
+**(b) Election to convert** Each employee serving in a position at the time it is designated under subsection (a) shall, not later than 120 days after notice of such designation, elect—
 
-(1) to accept conversion to the Foreign Service, in which case such employee shall be converted in accordance with the provisions of subsection (c) of this section; or
+(1) to accept conversion to the Foreign Service, in which case such employee shall be converted in accordance with the provisions of subsection (c); or
 
-(2) to decline conversion to the Foreign Service and have the provisions of subsection (d) of this section apply.
+(2) to decline conversion to the Foreign Service and have the provisions of subsection (d) apply.
 
 **(c) Recommendations for appointment**
 
-(1) The Secretary of Agriculture shall recommend to the President for appointment to the appropriate class (as determined under paragraph (2)), by and with the advice and consent of the Senate, those employees who elect conversion under subsection (a)(1) of this section.
+(1) The Secretary of Agriculture shall recommend to the President for appointment to the appropriate class (as determined under paragraph (2)), by and with the advice and consent of the Senate, those employees who elect conversion under subsection (a)(1).
 
 (2) The Secretary of Agriculture shall appoint as Foreign Service personnel those employees who elect to accept conversion and who are not eligible for appointment under paragraph (1).
 
-**(d) Results of declining to convert** Any employee who declines conversion under subsection (b)(2) of this section shall for so long as that employee continues to hold the designated position be deemed to be a member of the Foreign Service for purposes of allowances, differentials, and similar benefits (as determined by the Secretary of Agriculture).
+**(d) Results of declining to convert** Any employee who declines conversion under subsection (b)(2) shall for so long as that employee continues to hold the designated position be deemed to be a member of the Foreign Service for purposes of allowances, differentials, and similar benefits (as determined by the Secretary of Agriculture).
 
 ### Statutory Notes
 
@@ -6321,9 +6425,9 @@ The heads of agencies other than the Department of State which utilize the Forei
 
 **(d) Amount of reduction; effective date** The amount of the reduction in the participant’s annuity shall be determined in accordance with [section 4046(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/b/2&num=0&edition=prelim). Such reduction shall be effective as of—
 
-(1) the commencing date of the participant’s annuity, in the case of an election under subsection (b)(1) of this section, or
+(1) the commencing date of the participant’s annuity, in the case of an election under subsection (b)(1), or
 
-(2) February 15, 1981, in the case of an election under subsection (b)(2) of this section.
+(2) February 15, 1981, in the case of an election under subsection (b)(2).
 
 **(e) Definitions** For purposes of this section, the terms “former spouse”, “participant”, and “spousal agreement” have the meanings given such terms in sections 4043 and 4044 of this title.
 
@@ -6332,7 +6436,7 @@ The heads of agencies other than the Department of State which utilize the Forei
 ## § 4171. Model foreign language competence posts
 **(a) Designation of posts; time of designation and implementation; determination of competency standards** In order to carry out the purposes of [section 4022 of this title](./chapter-052-foreign-service.md#section-4022) and to help ascertain the relationship between foreign language competence and the effectiveness of representation of the United States abroad, the Secretary of State shall designate as model foreign language competence posts at least two Foreign Service posts in countries where English is not the common language. Such designation shall be made no later than October 1, 1981, and shall be implemented so that no later than October 1, 1983, each Government employee permanently assigned to those posts shall possess an appropriate level of competence in the language common to the country where the post is located. The Secretary of State shall determine appropriate levels of language competence for employees assigned to those posts by reference to the nature of their functions and the standards employed by the George P. Shultz National Foreign Affairs Training Center.
 
-**(b) Continuation; report to Congress concerning operation of posts and advantages of meeting competency requirements** The posts designated under subsection (a) of this section shall continue as model foreign language competence posts at least until September 30, 1985. The Secretary of State shall submit no later than January 31, 1986, a report to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate describing the operation of such posts and the costs, advantages and disadvantages associated with meeting the foreign language competence requirements of this section.
+**(b) Continuation; report to Congress concerning operation of posts and advantages of meeting competency requirements** The posts designated under subsection (a) shall continue as model foreign language competence posts at least until September 30, 1985. The Secretary of State shall submit no later than January 31, 1986, a report to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate describing the operation of such posts and the costs, advantages and disadvantages associated with meeting the foreign language competence requirements of this section.
 
 **(c) Exceptions; report to Congress** The Secretary of State may authorize exceptions to the requirements of this section if he determines that unanticipated exigencies so require.
 

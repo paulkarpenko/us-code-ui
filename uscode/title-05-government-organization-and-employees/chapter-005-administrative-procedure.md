@@ -1266,9 +1266,11 @@ Barack Obama.
 
     (vii) matches performed incident to a levy described in section 6103(k)(8) of the Internal Revenue Code of 1986;
 
-    (viii) matches performed pursuant to section 202(x)(3) or 1611(e)(1) of the Social Security Act ([42 U.S.C. 402(x)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/x/3&num=0&edition=prelim), 1382(e)(1)); or
+    (viii) matches performed pursuant to section 202(x)(3) or 1611(e)(1) of the Social Security Act ([42 U.S.C. 402(x)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/x/3&num=0&edition=prelim), 1382(e)(1));
 
-    (ix) matches performed by the Secretary of Health and Human Services or the Inspector General of the Department of Health and Human Services with respect to potential fraud, waste, and abuse, including matches of a system of records with non-Federal records;
+    (ix) matches performed by the Secretary of Health and Human Services or the Inspector General of the Department of Health and Human Services with respect to potential fraud, waste, and abuse, including matches of a system of records with non-Federal records; or
+
+    (x) matches performed pursuant to section 3(d)(4) of the Achieving a Better Life Experience Act of 2014; 1
 
 (9) the term “recipient agency” means any agency, or contractor thereof, receiving records contained in a system of records from a source agency for use in a matching program;
 
@@ -1675,6 +1677,8 @@ Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (a)(8)
 
 Sections 404, 464, and 1137 of the Social Security Act, referred to in subsec. (a)(8)(B)(iv), are classified to sections 604, 664, and 1320b–7, respectively, of Title 42, The Public Health and Welfare.
 
+The Achieving a Better Life Experience Act of 2014, referred to in subsec. (a)(8)(B)(x), probably means Pub. L. 113–295, div. B, Dec. 19, 2014, 128 Stat. 4056, known as the Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014 or the Stephen Beck, Jr., ABLE Act of 2014. The Act does not contain a section 3.
+
 For effective date of this section, referred to in subsecs. (k)(2), (5), (7), (l)(2), (3), and (m), see Effective Date note below.
 
 Section 6 of the Privacy Act of 1974, referred to in subsec. (s)(1), is section 6 of Pub. L. 93–579, which was set out below and was repealed by section 6(c) of Pub. L. 100–503.
@@ -1687,6 +1691,8 @@ The Consumer Financial Protection Act of 2010, referred to in subsec. (w), is ti
 Section 552a of former Title 5, Executive Departments and Government Officers and Employees, was transferred to [section 2244 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2244&num=0&edition=prelim), Agriculture.
 
 #### Amendments
+2014—Subsec. (a)(8)(B)(x). Pub. L. 113–295 added cl. (x).
+
 2010—Subsec. (a)(8)(B)(ix). Pub. L. 111–148 added cl. (ix).
 
 Subsec. (w). Pub. L. 111–203 added subsec. (w).
@@ -1755,6 +1761,9 @@ Subsec. (p). Pub. L. 97–375, § 201(b), substituted provisions requiring annua
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–295, div. B, title I, § 102(f)(1), Dec. 19, 2014, 128 Stat. 4062, provided that: “The amendments made by this section [enacting [section 529A of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section529A&num=0&edition=prelim), Internal Revenue Code, and amending this section, [section 5517 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5517&num=0&edition=prelim), Banks and Banking, and sections 26, 877A, 4965, 4973, and 6693 of Title 26] shall apply to taxable years beginning after December 31, 2014.”
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–203, title X, § 1082, July 21, 2010, 124 Stat. 2080, provided that the amendment made by section 1082 is effective on July 21, 2010.
@@ -2200,7 +2209,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### Amendments
 1990—Subsec. (c)(6). Pub. L. 101–552, § 4(a)(1), inserted before semicolon at end “or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter”.
 
-Subsec. (c)(7) to (11). Pub. L. 101–552, § 4(a)(2), added pars. (7) and (8) and redesignated former pars. (7) and (8) and redesignated former pars. (7) to (9) as (9) to (11), respectively.
+Subsec. (c)(7) to (11). Pub. L. 101–552, § 4(a)(2), added pars. (7) and (8) and redesignated former pars. (7) to (9) as (9) to (11), respectively.
 
 1978—Subsec. (b)(3). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
 
@@ -3222,7 +3231,7 @@ To carry out the purposes of this subchapter, the Administrative Conference of t
   (A) such assistance shall be limited to the analysis of issues relating to administrative procedure, the provision of training of foreign officials in administrative procedure, and the design or improvement of administrative procedure, where the expertise of members of the Conference is indicated; and
 
   (B) such assistance may only be undertaken on a fully reimbursable basis, including all direct and indirect administrative costs.
-  Payment for services provided by the Conference pursuant to paragraph (4) shall be credited to the operating account for the Conference and shall remain available until expended.
+Payment for services provided by the Conference pursuant to paragraph (4) shall be credited to the operating account for the Conference and shall remain available until expended.
 
 ### Statutory Notes
 

@@ -132,17 +132,6 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 ## § 44. Definitions
 
 The words defined in this section shall have the following meaning when found in this subchapter, to wit:
-“Commerce” means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation.
-“Corporation” shall be deemed to include any company, trust, so-called Massachusetts trust, or association, incorporated or unincorporated, which is organized to carry on business for its own profit or that of its members, and has shares of capital or capital stock or certificates of interest, and any company, trust, so-called Massachusetts trust, or association, incorporated or unincorporated, without shares of capital or capital stock or certificates of interest, except partnerships, which is organized to carry on business for its own profit or that of its members.
-“Documentary evidence” includes all documents, papers, correspondence, books of account, and financial and corporate records.
-“Acts to regulate commerce” means subtitle IV of title 49 and the Communications Act of 1934 [[47 U.S.C. 151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section151&num=0&edition=prelim) et seq.] and all Acts amendatory thereof and supplementary thereto.
-“Antitrust Acts” means the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies”, approved July 2, 1890; also sections 73 to 76, inclusive, of an Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes”, approved August 27, 1894; also the Act entitled “An Act to amend sections 73 and 76 of the Act of August 27, 1894, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’ ”, approved February 12, 1913; and also the Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes”, approved October 15, 1914.
-“Banks” means the types of banks and other financial institutions referred to in [section 57a(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/f/2&num=0&edition=prelim).
-“Foreign law enforcement agency” means—
-
-(1) any agency or judicial authority of a foreign government, including a foreign state, a political subdivision of a foreign state, or a multinational organization constituted by and comprised of foreign states, that is vested with law enforcement or investigative authority in civil, criminal, or administrative matters; and
-
-(2) any multinational organization, to the extent that it is acting on behalf of an entity described in paragraph (1).
 
 ### Statutory Notes
 
@@ -269,12 +258,7 @@ Pub. L. 109–455, § 12, Dec. 22, 2006, 120 Stat. 3382, provided that: “The a
 
   (A) The Commission may commence a civil action to recover a civil penalty in a district court of the United States against any person, partnership, or corporation which violates any rule under this subchapter respecting unfair or deceptive acts or practices (other than an interpretive rule or a rule violation of which the Commission has provided is not an unfair or deceptive act or practice in violation of subsection (a)(1) of this section) with actual knowledge or knowledge fairly implied on the basis of objective circumstances that such act is unfair or deceptive and is prohibited by such rule. In such action, such person, partnership, or corporation shall be liable for a civil penalty of not more than $10,000 for each violation.
 
-  (B) If the Commission determines in a proceeding under subsection (b) of this section that any act or practice is unfair or deceptive, and issues a final cease and desist order, other than a consent order, with respect to such act or practice, then the Commission may commence a civil action to obtain a civil penalty in a district court of the United States against any person, partnership, or corporation which engages in such act or practice—
-
-    (1) after such cease and desist order becomes final (whether or not such person, partnership, or corporation was subject to such cease and desist order), and
-
-    (2) with actual knowledge that such act or practice is unfair or deceptive and is unlawful under subsection (a)(1) of this section.
-    In such action, such person, partnership, or corporation shall be liable for a civil penalty of not more than $10,000 for each violation.
+  (B) If the Commission determines in a proceeding under subsection (b) of this section that any act or practice is unfair or deceptive, and issues a final cease and desist order, other than a consent order, with respect to such act or practice, then the Commission may commence a civil action to obtain a civil penalty in a district court of the United States against any person, partnership, or corporation which engages in such act or practice— (1) after such cease and desist order becomes final (whether or not such person, partnership, or corporation was subject to such cease and desist order), and (2) with actual knowledge that such act or practice is unfair or deceptive and is unlawful under subsection (a)(1) of this section. In such action, such person, partnership, or corporation shall be liable for a civil penalty of not more than $10,000 for each violation.
 
   (C) In the case of a violation through continuing failure to comply with a rule or with subsection (a)(1) of this section, each day of continuance of such failure shall be treated as a separate violation, for purposes of subparagraphs (A) and (B). In determining the amount of such a civil penalty, the court shall take into account the degree of culpability, any history of prior such conduct, ability to pay, effect on ability to continue to do business, and such other matters as justice may require.
 
@@ -807,11 +791,7 @@ Amendment by act Mar. 16, 1950, effective July 1, 1950, see note set out under [
 
     (i) the Attorney General concurs with such request; or
 
-    (ii) the Attorney General, within the 60-day period which begins on the date of the entry of such judgment—
-
-      (a) refuses to appeal or file a petition for writ of certiorari with respect to such civil action, in which case he shall give written notification to the Commission of the reasons for such refusal within such 60-day period; or
-
-      (b) the Attorney General fails to take any action with respect to the Commission’s request.
+    (ii) the Attorney General, within the 60-day period which begins on the date of the entry of such judgment— (a) refuses to appeal or file a petition for writ of certiorari with respect to such civil action, in which case he shall give written notification to the Commission of the reasons for such refusal within such 60-day period; or (b) the Attorney General fails to take any action with respect to the Commission’s request.
 
   (B) In any case where the Attorney General represents the Commission before the Supreme Court in any civil action in which the Commission represented itself pursuant to paragraph (1) or (2), the Attorney General may not agree to any settlement, compromise, or dismissal of such action, or confess error in the Supreme Court with respect to such action, unless the Commission concurs.
 
@@ -1955,11 +1935,6 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 ## § 68a. Misbranding declared unlawful
 
 The introduction, or manufacture for introduction, into commerce, or the sale, transportation, or distribution, in commerce, of any wool product which is misbranded within the meaning of this subchapter or the rules and regulations hereunder, is unlawful and shall be an unfair method of competition, and an unfair and deceptive act or practice, in commerce under the Federal Trade Commission Act; and any person who shall manufacture or deliver for shipment or ship or sell or offer for sale in commerce, any such wool product which is misbranded within the meaning of this subchapter and the rules and regulations hereunder is guilty of an unfair method of competition, and an unfair and deceptive act or practice, in commerce within the meaning of the Federal Trade Commission Act.
-This section shall not apply—
-
-**(a)** To any common carrier or contract carrier in respect to a wool product shipped or delivered for shipment in commerce in the ordinary course of its business; or
-
-**(b)** To any person manufacturing, delivering for shipment, shipping, selling, or offering for sale, for exportation from the United States to any foreign country a wool product branded in accordance with the specifications of the purchaser and in accordance with the laws of such country.
 
 
 <a id="section-68b"></a>
@@ -2244,6 +2219,9 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 
 ### Statutory Notes
 
+#### References in Text
+The Federal Trade Commission Act, referred to in text, is defined in [section 69 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-69).
+
 #### Amendments
 2010—Subsec. (g). Pub. L. 111–313 added subsec. (g).
 
@@ -2325,7 +2303,7 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 #### References in Text
 The Tariff Act of 1930, referred to in subsecs. (a) and (b), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. Title IV of the Tariff Act of 1930 is classified generally to subtitle III (§ 1401 et seq.) of chapter 4 of Title 19. For complete classification of this Act to the Code, see [section 1654 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1654&num=0&edition=prelim) and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is defined in [section 69 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-69).
 
 #### Transfer of Functions
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under [section 41 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41).
@@ -2365,6 +2343,9 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 
 ### Statutory Notes
 
+#### References in Text
+The Federal Trade Commission Act, referred to in subsec. (a), is defined in [section 69 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-69).
+
 #### Transfer of Functions
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under [section 41 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41).
 
@@ -2386,6 +2367,9 @@ the Commission may bring suit in the district court of the United States or in t
 
 ### Statutory Notes
 
+#### References in Text
+The Federal Trade Commission Act, referred to in subsec. (b)(2), is defined in [section 69 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-69).
+
 #### Transfer of Functions
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under [section 41 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41).
 
@@ -2397,6 +2381,9 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 **(b) Furnishing false guaranty** It shall be unlawful for any person to furnish, with respect to any fur product or fur, a false guaranty (except a person relying upon a guaranty to the same effect received in good faith signed by and containing the name and address of the person residing in the United States by whom the fur product or fur guaranteed was manufactured or from whom it was received) with reason to believe the fur product or fur falsely guaranteed may be introduced, sold, transported, or distributed in commerce, and any person who violates the provisions of this subsection is guilty of an unfair method of competition, and an unfair or deceptive act or practice, in commerce within the meaning of the Federal Trade Commission Act [[15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.].
 
 ### Statutory Notes
+
+#### References in Text
+The Federal Trade Commission Act, referred to in subsec. (b), is defined in [section 69 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-69).
 
 #### Transfer of Functions
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under [section 41 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41).
@@ -2620,7 +2607,8 @@ Whenever the Commission has reason to believe—
 
 **(a)** that any person is doing, or is about to do, an act which by section 70a, 70c, 70d, 70g, or 70h(b) of this title is declared to be unlawful; and
 
-**(b)** that it would be to the public interest to enjoin the doing of such act until complaint is issued by the Commission under the Federal Trade Commission Act [[15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.] and such complaint is dismissed by the Commission or set aside by the court on review or until an order to cease and desist made thereon by the Commission has become final within the meaning of the Federal Trade Commission Act, the Commission may bring suit in the district court of the United States or in the United States court of any Territory, for the district or Territory in which such person resides or transacts business, to enjoin the doing of such act and upon proper showing a temporary injunction or restraining order shall be granted without bond.
+**(b)** that it would be to the public interest to enjoin the doing of such act until complaint is issued by the Commission under the Federal Trade Commission Act [[15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.] and such complaint is dismissed by the Commission or set aside by the court on review or until an order to cease and desist made thereon by the Commission has become final within the meaning of the Federal Trade Commission Act,
+the Commission may bring suit in the district court of the United States or in the United States court of any Territory, for the district or Territory in which such person resides or transacts business, to enjoin the doing of such act and upon proper showing a temporary injunction or restraining order shall be granted without bond.
 
 ### Statutory Notes
 

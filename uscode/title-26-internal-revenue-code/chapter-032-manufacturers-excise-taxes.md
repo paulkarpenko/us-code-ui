@@ -214,16 +214,16 @@ Subsec. (a)(5). Pub. L. 86–440, § 1(a)(2), added par. (5).
 1956—Act June 29, 1956, increased tax on tires of type used on highway vehicles from 5 cents a pound to 8 cents a pound, provided for a tax of 3 cents a pound on tread rubber, and required on and after July 1, 1972, a reduction in tax on tires of type used on highway vehicles from 8 cents a pound to 5 cents a pound, and elimination of tax on tread rubber.
 
 #### Effective and Termination Dates of 2012 Amendment
-Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
-Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
-Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2011 Amendment
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2004 Amendment
 Pub. L. 108–357, title VIII, § 869(e), Oct. 22, 2004, 118 Stat. 1623, provided that: “The amendments made by this section [amending this section and sections 4072 and 4073 of this title] shall apply to sales in calendar years beginning more than 30 days after the date of the enactment of this Act [Oct. 22, 2004].”
@@ -747,20 +747,20 @@ Subsec. (b). Act June 29, 1956, redesignated second sentence as subsec. (b) and 
 1955—Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955”.
 
 #### Effective and Termination Dates of 2012 Amendment
-Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
-Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
-Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 Pub. L. 112–95, title XI, § 1101(c), Feb. 14, 2012, 126 Stat. 148, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on February 18, 2012.”
 
 Pub. L. 112–91, § 2(c), Jan. 31, 2012, 126 Stat. 3, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on February 1, 2012.”
 
 #### Effective Date of 2011 Amendment
-Amendment by section 142(a)(1)(C), (2)(D) of Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by section 142(a)(1)(C), (2)(D) of Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 Pub. L. 112–30, title II, § 202(c), Sept. 16, 2011, 125 Stat. 357, provided that: “The amendments made by this section [amending this section and sections 4261 and 4271 of this title] shall take effect on September 17, 2011.”
 
@@ -1505,7 +1505,8 @@ In any case in which there is a willful failure to pay the tax imposed by sectio
 
 (1) who is an officer, employee, or agent of the taxpayer who is under a duty to assure the payment of such tax and who willfully fails to perform such duty, or
 
-(2) who willfully causes the taxpayer to fail to pay such tax, shall be jointly and severally liable with the taxpayer for the tax to which such failure relates.
+(2) who willfully causes the taxpayer to fail to pay such tax,
+shall be jointly and severally liable with the taxpayer for the tax to which such failure relates.
 
 ### Statutory Notes
 
@@ -1700,9 +1701,8 @@ The date of the enactment of the Revenue Reconciliation Act of 1993, referred to
 
 “(1) In general.—The amount of the tax imposed by subsection (a) shall be determined in accordance with the following table:
 
-|  | The tax per |
+| “If the taxable vaccine is: | The tax per dose is: |
 | --- | --- |
-| “If the taxable vaccine is: | dose is: |
 | DPT vaccine | $4.56 |
 | DT vaccine | 0.06 |
 | MMR vaccine | 4.44 |
@@ -2556,7 +2556,7 @@ Repeal effective on first day of first calendar quarter which begins more than 6
 
 <a id="section-4221"></a>
 ## § 4221. Certain tax-free sales
-**(a) General rule** Under regulations prescribed by the Secretary, no tax shall be imposed under this chapter (other than under section 4121 or 4081) on the sale by the manufacturer (or under subchapter A or C of chapter 31 on the first retail sale) of an article—
+**(a) General rule** Under regulations prescribed by the Secretary, no tax shall be imposed under this chapter (other than under section 4121 or 4081) on the sale by the manufacturer (or under subchapter C of chapter 31 on the first retail sale) of an article—
 
 (1) for use by the purchaser for further manufacture, or for resale by the purchaser to a second purchaser for use by such second purchaser in further manufacture,
 
@@ -2569,7 +2569,7 @@ Repeal effective on first day of first calendar quarter which begins more than 6
 (5) to a nonprofit educational organization for its exclusive use, or
 
 (6) to a qualified blood collector organization (as defined in section 7701(a)(49)) for such organization’s exclusive use in the collection, storage, or transportation of blood,
-but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051,11 So in original. The comma probably should not appear. or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2016. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply. In the case of taxes imposed by subchapter C or D, paragraph (6) shall not apply. In the case of the tax imposed by section 4191, paragraphs (3), (4), (5), and (6) shall not apply.
+but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051,11 So in original. The comma probably should not appear. or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2016. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter C or D, paragraph (6) shall not apply. In the case of the tax imposed by section 4191, paragraphs (3), (4), (5), and (6) shall not apply.
 
 **(b) Proof of resale for further manufacture; proof of export** Where an article has been sold free of tax under subsection (a)—
 
@@ -2578,11 +2578,11 @@ but only if such exportation or use is to occur before any other use. Paragraphs
 (2) for export, or for resale by the purchaser to a second purchaser for export,
 subsection (a) shall cease to apply in respect of such sale of such article unless, within the 6-month period which begins on the date of the sale by the manufacturer (or, if earlier, on the date of shipment by the manufacturer), the manufacturer receives proof that the article has been exported or resold for use in further manufacture.
 
-**(c) Manufacturer relieved from liability in certain cases** In the case of any article sold free of tax under this section (other than a sale to which subsection (b) applies), and in the case of any article sold free of tax under section 4001(c), 4001(d), or 4053(6), if the manufacturer in good faith accepts a certification by the purchaser that the article will be used in accordance with the applicable provisions of law, no tax shall thereafter be imposed under this chapter in respect of such sale by such manufacturer.
+**(c) Manufacturer relieved from liability in certain cases** In the case of any article sold free of tax under this section (other than a sale to which subsection (b) applies), and in the case of any article sold free of tax under section 4053(6), if the manufacturer in good faith accepts a certification by the purchaser that the article will be used in accordance with the applicable provisions of law, no tax shall thereafter be imposed under this chapter in respect of such sale by such manufacturer.
 
 **(d) Definitions** For purposes of this section—
 
-(1) **Manufacturer** — The term “manufacturer” includes a producer or importer of an article, and, in the case of taxes imposed by subchapter A or C of chapter 31, includes the retailer with respect to the first retail sale.
+(1) **Manufacturer** — The term “manufacturer” includes a producer or importer of an article, and, in the case of taxes imposed by subchapter C of chapter 31, includes the retailer with respect to the first retail sale.
 
 (2) **Export** — The term “export” includes shipment to a possession of the United States; and the term “exported” includes shipped to a possession of the United States.
 
@@ -2641,6 +2641,14 @@ Section 1207(b)(1)–(3)(A) of Pub. L. 109–280, which directed the amendment o
 A prior section 4221, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exemption for articles taxable as jewelry, prior to repeal by Pub. L. 85–859, § 119(a).
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–295, § 221(a)(103)(B)(i)(II), struck out “In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply.” after “regulations prescribe.” in concluding provisions.
+
+Pub. L. 113–295, § 221(a)(103)(B)(i)(I), substituted “subchapter” for “subchapter A or” in introductory provisions.
+
+Subsec. (c). Pub. L. 113–295, § 221(a)(103)(B)(i)(III), struck out “4001(c), 4001(d), or” after “tax under section”.
+
+Subsec. (d)(1). Pub. L. 113–295, § 221(a)(103)(B)(i)(I), substituted “subchapter” for “subchapter A or”.
+
 2012—Subsec. (a). Pub. L. 112–141 substituted “October 1, 2016” for “July 1, 2012” in concluding provisions.
 
 Pub. L. 112–140, §§ 1(c), 402(c), temporarily substituted “July 7, 2012” for “July 1, 2012” in concluding provisions. See Effective and Termination Dates of 2012 Amendment note below.
@@ -2749,17 +2757,20 @@ Subsec. (e)(4). Pub. L. 86–418 added par. (4).
 
 Subsec. (d)(5). Pub. L. 86–344 included in definition of “nonprofit educational organization” a school operated as an activity of certain organizations exempt from the income tax and having a regular situs, faculty, curriculum and student body.
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective and Termination Dates of 2012 Amendment
-Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
-Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
-Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2011 Amendment
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–152 applicable to sales after Dec. 31, 2012, see section 1405(c) of Pub. L. 111–152, set out as an Effective Date note under [section 4191 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4191).
@@ -2771,10 +2782,10 @@ Amendment by Pub. L. 109–280 effective Jan. 1, 2007, see section 1207(g)(1) of
 Amendment by Pub. L. 108–357 applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004, see section 853(e) of Pub. L. 108–357, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–66 effective Jan. 1, 1993, see section 13161(c) of Pub. L. 103–66, set out as a note under [section 4001 of this title](./chapter-031-retail-excise-taxes.md#section-4001).
+Pub. L. 103–66, title XIII, § 13161(c), Aug. 10, 1993, 107 Stat. 453, provided that: “The amendments made by this section [amending this section and sections 4001 to 4003 and 4222 of this title and omitting sections 4004, 4006, 4007, 4011, and 4012 of this title] shall take effect on January 1, 1993, except that the provisions of section 4001(e) of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall take effect on the date of the enactment of this Act [Aug. 10, 1993].”
 
 #### Effective Date of 1990 Amendment
-Amendment by section 11221(b), (d)(1), (2) of Pub. L. 101–508 effective Jan. 1, 1991, with exception for contracts binding on Sept. 30, 1990, and at all times thereafter, see section 11221(f) of Pub. L. 101–508, set out as an Effective Date note under [section 4001 of this title](./chapter-031-retail-excise-taxes.md#section-4001).
+Pub. L. 101–508, title XI, § 11221(f), Nov. 5, 1990, 104 Stat. 1388–444, provided that: “(1) In general.—The amendments made by this section [enacting subchapter A of this chapter, redesignating former subchapters A and B of this chapter as subchapters B and C, respectively, and amending this section and sections 4222 and 4293 of this title] shall take effect on January 1, 1991. “(2) Exception for binding contracts.—In determining whether any tax imposed by subchapter A of chapter 31 of the Internal Revenue Code of 1986, as added by this section, applies to any sale after December 31, 1990, there shall not be taken into account the amount paid for any article (or any part or accessory therefor) if the purchaser held on September 30, 1990, a contract (which was binding on such date and at all times thereafter before the purchase) for the purchase of such article (or such part or accessory).”
 
 #### Effective Date of 1987 Amendments
 Pub. L. 100–647, title I, § 1017(c)(5), Nov. 10, 1988, 102 Stat. 3576, provided that: “The amendment made by section 10502(d)(4) of the Revenue Act of 1987 [Pub. L. 100–203, amending this section] shall be treated as if included in the amendments made by section 1703 of the Reform Act [Pub. L. 99–514] except that the reference to section 4091 of the Internal Revenue Code of 1986 shall not apply to sales before April 1, 1988.”
@@ -2859,7 +2870,7 @@ Section effective on first day of first calendar quarter which begins more than 
 (2) that such denial, revocation, or suspension is necessary to protect the revenue.
 The denial, revocation, or suspension under this subsection shall be in addition to any penalty provided by law for any act or failure to act.
 
-**(d) Registration in the case of certain other exemptions** The provisions of this section may be extended to, and made applicable with respect to, the exemptions provided by sections 4001(c), 4001(d), 4053(6), 4064(b)(1)(C), 4101, and 4182(b), and the exemptions authorized under section 4293 in respect of the taxes imposed by this chapter, to the extent provided by regulations prescribed by the Secretary.
+**(d) Registration in the case of certain other exemptions** The provisions of this section may be extended to, and made applicable with respect to, the exemptions provided by sections 4053(6), 4064(b)(1)(C), 4101, and 4182(b), and the exemptions authorized under section 4293 in respect of the taxes imposed by this chapter, to the extent provided by regulations prescribed by the Secretary.
 
 **(e) Definitions** Terms used in this section which are defined in section 4221(d) shall have the meaning given to them by section 4221(d).
 
@@ -2869,6 +2880,8 @@ The denial, revocation, or suspension under this subsection shall be in addition
 A prior section 4222, act Aug. 16, 1954, ch. 736, 68 Stat. 495, related to exemption from tax of certain supplies for vessels and airplanes, prior to repeal by Pub. L. 85–859, § 119(a). See [section 4221 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4221).
 
 #### Amendments
+2014—Subsec. (d). Pub. L. 113–295 struck out “4001(c), 4001(d),” after “provided by sections”.
+
 1998—Subsec. (d). Pub. L. 105–206 substituted “4053(6)” for “4053(a)(6)”.
 
 1997—Subsec. (b)(2). Pub. L. 105–34 substituted “Under regulations” for “Export” in heading and struck out “in the case of any sale or resale for export,” after “this paragraph,” in text.
@@ -2897,16 +2910,19 @@ Pub. L. 95–600 substituted “4063(b), 4063(e),” for “4063(b),”.
 
 Subsec. (b)(5). Pub. L. 89–44, § 802(c), added par. (5).
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective Date of 1997 Amendment
 Pub. L. 105–34, title XIV, § 1431(b), Aug. 5, 1997, 111 Stat. 1050, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 5, 1997].”
 
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–66 effective Jan. 1, 1993, see section 13161(c) of Pub. L. 103–66, set out as a note under [section 4001 of this title](./chapter-031-retail-excise-taxes.md#section-4001).
+Amendment by Pub. L. 103–66 effective Jan. 1, 1993, see section 13161(c) of Pub. L. 103–66, set out as a note under [section 4221 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4221).
 
 #### Effective Date of 1990 Amendment
 Amendment by section 11212(b)(2) of Pub. L. 101–508 effective Dec. 1, 1990, see section 11212(f)(2) of Pub. L. 101–508, set out as a note under [section 4081 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4081).
 
-Amendment by section 11221(d)(3) of Pub. L. 101–508 effective Jan. 1, 1991, with exception for contract binding on Sept. 30, 1990, and at all times thereafter, see section 11221(f) of Pub. L. 101–508, set out as an Effective Date note under [section 4001 of this title](./chapter-031-retail-excise-taxes.md#section-4001).
+Amendment by section 11221(d)(3) of Pub. L. 101–508 effective Jan. 1, 1991, with exception for contract binding on Sept. 30, 1990, and at all times thereafter, see section 11221(f) of Pub. L. 101–508, set out as a note under [section 4221 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4221).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).

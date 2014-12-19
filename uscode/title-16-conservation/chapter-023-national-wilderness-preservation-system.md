@@ -63,7 +63,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 | Aleutian Islands Wilderness, Alaska Maritime National Wildlife Refuge, Aleutian Islands Unit, Alaska.—Pub. L. 96–487, title VII, § 702(1), Dec. 2, 1980, 94 Stat. 2417. |
 | Alexander Springs Wilderness, Ocala National Forest, Florida.—Pub. L. 98–430, § 1(4), Sept. 28, 1984, 98 Stat. 1665. |
 | Allegheny Islands Wilderness, Allegheny National Forest, Pennsylvania.—Pub. L. 98–585, § 4(1), Oct. 30, 1984, 98 Stat. 3100. |
-| Alpine Lakes Wilderness, Mount Baker-Snoqualmie and Wenatchee National Forests, Washington.—Pub. L. 94–357, July 12, 1976, 90 Stat. 905; Pub. L. 105–277, div. A, § 101(e) [title VI, § 604(d)], Oct. 21, 1998, 112 Stat. 2681–231, 2681–329. |
+| Alpine Lakes Wilderness, Mount Baker-Snoqualmie and Wenatchee National Forests, Washington.—Pub. L. 94–357, July 12, 1976, 90 Stat. 905; Pub. L. 105–277, div. A, § 101(e) [title VI, § 604(d)], Oct. 21, 1998, 112 Stat. 2681–231, 2681–329; Pub. L. 113–291, div. B, title XXX, § 3060(a), Dec. 19, 2014, 128 Stat. 3815. |
 | Alta Toquima Wilderness, Toiyabe National Forest, Nevada.—Pub. L. 101–195, § 2(1), Dec. 5, 1989, 103 Stat. 1784. |
 | Anaconda-Pintler Wilderness, Beaverhead, Bitterroot, and Deerlodge National Forests, Montana.—Pub. L. 88–577, § 3, Sept. 3, 1964, 78 Stat. 891. |
 | Andreafsky Wilderness, Yukon Delta National Wildlife Refuge, Alaska.—Pub. L. 96–487, title VII, § 702(2), Dec. 2, 1980, 94 Stat. 2418. |
@@ -128,7 +128,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 | Blackridge Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, § 1972(a)(1)(B), Mar. 30, 2009, 123 Stat. 1076. |
 | Blood Mountain Wilderness, Chattahoochee National Forest, Georgia.—Pub. L. 102–217, § 2(a)(1), Dec. 11, 1991, 105 Stat. 1667. |
 | Blue Range Wilderness, Apache and Gila National Forests, New Mexico.—Pub. L. 96–550, title I, § 102(a)(3), Dec. 19, 1980, 94 Stat. 3221. |
-| Bob Marshall Wilderness, Flathead and Lewis and Clark National Forests, Montana.—Pub. L. 88–577, § 3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 95–546, Oct. 28, 1978, 92 Stat. 2062. |
+| Bob Marshall Wilderness, Flathead and Lewis and Clark National Forests, Montana.—Pub. L. 88–577, § 3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 95–546, Oct. 28, 1978, 92 Stat. 2062; Pub. L. 113–291, div. B, title XXX, § 3065(c)(1)(A), Dec. 19, 2014, 128 Stat. 3835. |
 | Bogoslof Wilderness, Bogoslof National Wildlife Refuge, Alaska.—Pub. L. 91–504, § 1(a), Oct. 23, 1970, 84 Stat. 1104. |
 | Bosque del Apache Wilderness, Bosque del Apache National Wildlife Refuge, New Mexico.—Pub. L. 93–632, § 1(i), Jan. 3, 1975, 88 Stat. 2154. |
 | Boulder Creek Wilderness, Umpqua National Forest, Oregon.—Pub. L. 98–328, § 3(8), June 26, 1984, 98 Stat. 273; Pub. L. 111–11, title I, § 1301(a)(1), Mar. 30, 2009, 123 Stat. 1025. |
@@ -208,6 +208,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 | Cohutta Wilderness, Chattahoochee and Cherokee National Forests, Georgia and Tennessee.—Pub. L. 93–622, § 3(b), Jan. 3, 1975, 88 Stat. 2098; Pub. L. 99–555, § 2(5), Oct. 27, 1986, 100 Stat. 3129. |
 | Collegiate Peaks Wilderness, Gunnison, San Isabel, and White River National Forests, Colorado.—Pub. L. 96–560, title I, § 102(a)(3), Dec. 22, 1980, 94 Stat. 3266; Pub. L. 103–255, § 4, May 19, 1994, 108 Stat. 686. |
 | Colonel Bob Wilderness, Olympic National Forest, Washington.—Pub. L. 98–339, § 3(4), July 3, 1984, 98 Stat. 300. |
+| Columbine-Hondo Wilderness, Carson National Forest, New Mexico.—Pub. L. 113–291, div. B, title XXX, § 3061(b)(1)(A), Dec. 19, 2014, 128 Stat. 3816. |
 | Comanche Peak Wilderness, Roosevelt National Forest, Colorado.—Pub. L. 96–560, title I, § 102(a)(4), Dec. 22, 1980, 94 Stat. 3266. |
 | Congaree National Park Wilderness, Congaree Swamp National Park, South Carolina.—Pub. L. 100–524, § 2, Oct. 24, 1988, 102 Stat. 2606; Pub. L. 108–108, title I, § 135, Nov. 10, 2003, 117 Stat. 1270; Pub. L. 108–199, div. H, § 139(b), Jan. 23, 2004, 118 Stat. 442. |
 | Copper Salmon Wilderness, Siskiyou National Forest, Oregon.—Pub. L. 98–328, § 3(30), as added Pub. L. 111–11, title I, § 1301(a)(1), (3), Mar. 30, 2009, 123 Stat. 1025. |
@@ -340,6 +341,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 | Hellsgate Wilderness, Tonto National Forest, Arizona.—Pub. L. 98–406, title I, § 101(a)(10), Aug. 28, 1984, 98 Stat. 1486. |
 | Henry M. Jackson Wilderness, Wenatchee and Mount Baker-Snoqualmie National Forests, Washington.—Pub. L. 98–339, § 3(8), July 3, 1984, 98 Stat. 300. |
 | Hercules-Glades Wilderness, Mark Twain National Forest, Missouri.—Pub. L. 94–557, § 2(b)(2), Oct. 19, 1976, 90 Stat. 2635. |
+| Hermosa Creek Wilderness, San Juan National Forest, Colorado.—Pub. L. 103–77, § 2(a)(22), as added Pub. L. 113–291, div. B, title XXX, § 3062(c)(1), Dec. 19, 2014, 128 Stat. 3823. |
 | Hickory Creek Wilderness, Allegheny National Forest, Pennsylvania.—Pub. L. 98–585, § 4(2), Oct. 30, 1984, 98 Stat. 3100. |
 | High Rock Canyon Wilderness, Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area, Nevada.—Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 125 [§ 8(a)(7)]], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–356; Pub. L. 107–63, title I, § 135(a), Nov. 5, 2001, 115 Stat. 443. |
 | High Rock Lake Wilderness, Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area, Nevada.—Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 125 [§ 8(a)(5)]], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–356; Pub. L. 107–63, title I, § 135(a), Nov. 5, 2001, 115 Stat. 443. |
@@ -576,6 +578,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 | Philip Burton Wilderness, Point Reyes National Seashore, California.—Pub. L. 94–544, §§ 1–3, Oct. 18, 1976, 90 Stat. 2515; Pub. L. 94–567, § 1(k), Oct. 20, 1976, 90 Stat. 2693; Pub. L. 99–68, § 1, July 19, 1985, 99 Stat. 166. |
 | Picacho Peak Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, § 102(49), Oct. 31, 1994, 108 Stat. 4478. |
 | Pine Creek Wilderness, Cleveland National Forest, California.—Pub. L. 98–425, title I, § 101(a)(20), Sept. 28, 1984, 98 Stat. 1621. |
+| Pine Forest Range Wilderness, Humboldt County, Nevada.—Pub. L. 113–291, div. B, title XXX, § 3064(b)(1), Dec. 19, 2014, 128 Stat. 3828. |
 | Pine Mountain Wilderness, Prescott and Tonto National Forests, Arizona.—Pub. L. 92–230, Feb. 15, 1972, 86 Stat. 38. |
 | Pine Valley Mountain Wilderness, Dixie National Forest, Utah.—Pub. L. 98–428, title I, § 102(a)(11), Sept. 28, 1984, 98 Stat. 1658. |
 | Piney Creek Wilderness, Mark Twain National Forest, Missouri.—Pub. L. 96–560, title II, § 201(c), Dec. 22, 1980, 94 Stat. 3273. |
@@ -668,7 +671,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 | Savage Run Wilderness, Medicine Bow National Forest, Wyoming.—Pub. L. 95–237, § 2(j), Feb. 24, 1978, 92 Stat. 42. |
 | Sawtooth Mountains Wilderness, California Desert District, of Bureau of Land Management, California.—Pub. L. 103–433, title I, § 102(60), Oct. 31, 1994, 108 Stat. 4480. |
 | Sawtooth Wilderness, Boise, Challis, and Sawtooth National Forests, Idaho.—Pub. L. 92–400, §§ 1, 2, Aug. 22, 1972, 86 Stat. 612. |
-| Scapegoat Wilderness, Helena, Lolo, and Lewis and Clark National Forests, Montana.—Pub. L. 92–395, Aug. 20, 1972, 86 Stat. 578. |
+| Scapegoat Wilderness, Helena, Lolo, and Lewis and Clark National Forests, Montana.—Pub. L. 92–395, Aug. 20, 1972, 86 Stat. 578; Pub. L. 113–291, div. B, title XXX, § 3065(c)(1)(B), Dec. 19, 2014, 128 Stat. 3836. |
 | Selawik Wilderness, Selawik Wildlife Refuge, Alaska.—Pub. L. 96–487, title VII, § 702(12), Dec. 2, 1980, 94 Stat. 2418. |
 | Selway-Bitterroot Wilderness, Bitterroot, Clearwater, Nezperce, and Lolo National Forests, Idaho and Montana.—Pub. L. 88–577, § 3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–312, § 4, July 23, 1980, 94 Stat. 949. |
 | Semidi Wilderness, Alaska Maritime National Wildlife Refuge, Alaska Peninsula Unit, Alaska.—Pub. L. 96–487, title VII, § 702(11), Dec. 2, 1980, 94 Stat. 2418. |
@@ -691,6 +694,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 | Siskiyou Wilderness, Six Rivers, Klamath, and Siskiyou National Forests, California.—Pub. L. 98–425, title I, § 101(a)(30), Sept. 28, 1984, 98 Stat. 1623; Pub. L. 109–362, § 3(5), Oct. 17, 2006, 120 Stat. 2065. |
 | Sky Lakes Wilderness, Rogue River and Winema National Forests, Oregon.—Pub. L. 98–328, § 3(15), June 26, 1984, 98 Stat. 274; Pub. L. 111–11, title I, § 1301(a)(1), Mar. 30, 2009, 123 Stat. 1025. |
 | Slaughter Creek Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, § 1972(a)(1)(N), Mar. 30, 2009, 123 Stat. 1077. |
+| Sleeping Bear Dunes Wilderness, Sleeping Bear Dunes National Lakeshore, Michigan.—Pub. L. 113–87, § 3(a), Mar. 13, 2014, 128 Stat. 1017. |
 | Snow Mountain Wilderness, Mendocino National Forest, California.—Pub. L. 98–425, title I, § 101(a)(31), Sept. 28, 1984, 98 Stat. 1623; Pub. L. 109–362, § 3(1), Oct. 17, 2006, 120 Stat. 2064. |
 | Soda Mountain Wilderness, Cascade-Siskiyou National Monument, Oregon.—Pub. L. 111–11, title I, § 1405(a), Mar. 30, 2009, 123 Stat. 1030. |
 | Soldier Creek Wilderness, Nebraska National Forest, Nebraska.—Pub. L. 99–504, title I, § 101, Oct. 20, 1986, 100 Stat. 1802. |
@@ -715,7 +719,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 | Spring Basin Wilderness, Oregon.—Pub. L. 111–11, title I, § 1752(a), Mar. 30, 2009, 123 Stat. 1048. |
 | Stateline Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, § 102(63), Oct. 31, 1994, 108 Stat. 4480. |
 | Steens Mountain Wilderness, Steens Mountain Cooperative Management and Protection Area, Oregon.—Pub. L. 106–399, title II, § 201, Oct. 30, 2000, 114 Stat. 1666. |
-| Stephen Mather Wilderness, North Cascades National Park, Ross Lake National Recreation Area, and Lake Chelan National Recreation Area, Washington.—Pub. L. 100–668, title II, § 201, Nov. 16, 1988, 102 Stat. 3963. |
+| Stephen Mather Wilderness, North Cascades National Park, Ross Lake National Recreation Area, and Lake Chelan National Recreation Area, Washington.—Pub. L. 100–668, title II, § 201, Nov. 16, 1988, 102 Stat. 3963; Pub. L. 113–291, div. B, title XXX, § 3040, Dec. 19, 2014, 128 Stat. 3788. |
 | Stepladder Mountains Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, § 102(64), Oct. 31, 1994, 108 Stat. 4480. |
 | Stikine-LeConte Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, § 703(a)(10), Dec. 2, 1980, 94 Stat. 2419. |
 | Stone Mountain Wilderness, Jefferson National Forest, Virginia.—Pub. L. 100–326, § 1(12), as added and amended Pub. L. 111–11, title I, § 1102(a)(1), (5), Mar. 30, 2009, 123 Stat. 1002, 1003. |
@@ -787,7 +791,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 | West Malpais Wilderness, El Malpais National Monument and National Conservation Area, New Mexico.—Pub. L. 100–225, title IV, § 401(a), Dec. 31, 1987, 101 Stat. 1542. |
 | West Sister Island Wilderness, West Sister Island National Wildlife Refuge, Ohio.—Pub. L. 93–632, § 1(l), Jan. 3, 1975, 88 Stat. 2154. |
 | Wet Beaver Wilderness, Coconino National Forest, Arizona.—Pub. L. 98–406, title I, § 101(a)(27), Aug. 28, 1984, 98 Stat. 1488. |
-| Wheeler Peak Wilderness, Carson National Forest, New Mexico.—Pub. L. 88–577, § 3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–550, title I, § 102(a)(10), Dec. 19, 1980, 94 Stat. 3222; Pub. L. 104–333, div. I, title II, § 210, Nov. 12, 1996, 110 Stat. 4109. |
+| Wheeler Peak Wilderness, Carson National Forest, New Mexico.—Pub. L. 88–577, § 3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–550, title I, § 102(a)(10), Dec. 19, 1980, 94 Stat. 3222; Pub. L. 104–333, div. I, title II, § 210, Nov. 12, 1996, 110 Stat. 4109; Pub. L. 113–291, div. B, title XXX, § 3061(b)(2), Dec. 19, 2014, 128 Stat. 3818. |
 | Whipple Mountains Wilderness, California Desert Conservation Area and Yuma District, of Bureau of Land Management, California.—Pub. L. 103–433, title I, § 102(69), Oct. 31, 1994, 108 Stat. 4481. |
 | Whisker Lake Wilderness, Nicolet National Forest, Wisconsin.—Pub. L. 95–494, § 1(2), Oct. 21, 1978, 92 Stat. 1648. |
 | White Canyon Wilderness, Pinal County, Arizona.—Pub. L. 101–628, title I, § 101(a)(35), Nov. 28, 1990, 104 Stat. 4472. |
@@ -808,6 +812,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 | Woodchute Wilderness, Prescott National Forest, Arizona.—Pub. L. 98–406, title I, § 101(a)(28), Aug. 28, 1984, 98 Stat. 1488. |
 | Woolsey Peak Wilderness, Maricopa County, Arizona.—Pub. L. 101–628, title I, § 101(a)(15), Nov. 28, 1990, 104 Stat. 4470. |
 | Worthington Mountains Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(6), Nov. 30, 2004, 118 Stat. 2407. |
+| Wovoka Wilderness, Lyon County, Nevada.—Pub. L. 113–291, div. B, title XXX, § 3066(b)(1), Dec. 19, 2014, 128 Stat. 3838. |
 | Wrangell-Saint Elias Wilderness, Wrangell-Saint Elias National Park and Preserve, Alaska.—Pub. L. 96–487, title VII, § 701(8), Dec. 2, 1980, 94 Stat. 2417. |
 | Yolla Bolly-Middle Eel Wilderness, Ukiah District Conservation Area, of Bureau of Land Management, and Mendocino, Six Rivers, and Shasta-Trinity National Forests, California.—Pub. L. 88–577, § 3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, § 101(a)(36), Sept. 28, 1984, 98 Stat. 1623; Pub. L. 109–362, § 3(4), Oct. 17, 2006, 120 Stat. 2065. |
 | Yosemite Wilderness, Yosemite National Park Wilderness, California.—Pub. L. 98–425, title I, § 106(a)(1), Sept. 28, 1984, 98 Stat. 1626. |
@@ -823,7 +828,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 (2) Nothing in this chapter shall modify the restrictions and provisions of the Shipstead-Nolan Act (Public Law 539, Seventy-first Congress, July 10, 1930; 46 Stat. 1020), the Thye-Blatnik Act (Public Law 733, Eightieth Congress, June 22, 1948; 62 Stat. 568), and the Humphrey-Thye-Blatnik-Andresen Act (Public Law 607, Eighty-Fourth Congress, June 22, 1956; 70 Stat. 326), as applying to the Superior National Forest or the regulations of the Secretary of Agriculture.
 
-(3) Nothing in this chapter shall modify the statutory authority under which units of the national park system are created. Further, the designation of any area of any park, monument, or other unit of the national park system as a wilderness area pursuant to this chapter shall in no manner lower the standards evolved for the use and preservation of such park, monument, or other unit of the national park system in accordance with sections 1, 2, 3, and 4 of this title, the statutory authority under which the area was created, or any other Act of Congress which might pertain to or affect such area, including, but not limited to, the Act of June 8, 1906 (34 Stat. 225; [16 U.S.C. 432](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-432) 11 So in original. Probably should be “431”. et seq.); section 3(2) of the Federal Power Act ([16 U.S.C. 796(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796/2&num=0&edition=prelim)); and the Act of August 21, 1935 (49 Stat. 666; [16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461) et seq.).
+(3) Nothing in this chapter shall modify the statutory authority under which units of the national park system are created. Further, the designation of any area of any park, monument, or other unit of the national park system as a wilderness area pursuant to this chapter shall in no manner lower the standards evolved for the use and preservation of such park, monument, or other unit of the national park system in accordance with section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, the statutory authority under which the area was created, or any other Act of Congress which might pertain to or affect such area, including, but not limited to, [section 796(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796/2&num=0&edition=prelim); and chapters 3201 and 3203 of title 54.
 
 **(b) Agency responsibility for preservation and administration to preserve wilderness character; public purposes of wilderness areas** Except as otherwise provided in this chapter, each agency administering any area designated as wilderness shall be responsible for preserving the wilderness character of the area and shall so administer such area for such other purposes for which it may have been established as also to preserve its wilderness character. Except as otherwise provided in this chapter, wilderness areas shall be devoted to the public purposes of recreational, scenic, scientific, educational, conservation, and historical use.
 
@@ -858,11 +863,9 @@ The Thye-Blatnik Act, referred to in subsec. (a)(2), is act June 22, 1948, ch. 5
 
 The Humphrey-Thye-Blatnik-Andresen Act, referred to in subsec. (a)(2), is act June 22, 1956, ch. 425, 70 Stat. 326, as amended, which is classified to sections 577d–1, 577g–1, and 577h of this title. For complete classification of this Act to the Code, see Tables.
 
-Act of June 8, 1906, referred to in subsec. (a)(3), is act June 8, 1906, ch. 3060, 34 Stat. 225, as amended, known as the “Antiquities Act of 1906”, which is classified to sections 431, 432, and 433 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431) and Tables.
-
-Act of August 21, 1935, referred to in subsec. (a)(3), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, as amended, known as the “Historic Sites, Buildings and Antiquities Act”, which is classified to sections 461 to 467 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461) and Tables.
-
 #### Amendments
+2014—Subsec. (a)(3). Pub. L. 113–287 substituted “section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “sections 1, 2, 3, and 4 of this title” and “[section 796(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796/2&num=0&edition=prelim); and chapters 3201 and 3203 of title 54” for “the Act of June 8, 1906 (34 Stat. 225; [16 U.S.C. 432](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-432) et seq.); section 3(2) of the Federal Power Act ([16 U.S.C. 796(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796/2&num=0&edition=prelim)); and the Act of August 21, 1935 (49 Stat. 666; [16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461) et seq.)”.
+
 1978—Subsec. (d)(5) to (8). Pub. L. 95–495 redesignated pars. (6) to (8) as (5) to (7), respectively. Former par. (5), which related to the management of the Boundary Waters Canoe Area, Superior National Forest, Minnesota, was struck out.
 
 #### Change of Name

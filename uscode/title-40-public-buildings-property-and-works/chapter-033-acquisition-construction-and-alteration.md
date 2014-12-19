@@ -142,7 +142,7 @@ Only the Administrator of General Services may construct a public building. The 
 
 (2) **Duty of federal agencies.—** — Each federal agency shall cooperate with, advise, and assist the Administrator in carrying out the duties of the Administrator under this chapter as determined necessary by the Administrator to carry out the purposes of this chapter.
 
-**(c) Request for Identification of Existing Buildings of Historical, Architectural, or Cultural Significance.—** When the Administrator undertakes a survey of the public buildings needs of the Government within a geographical area, the Administrator shall request that, within 60 days, the Advisory Council on Historic Preservation established by title II of the National Historic Preservation Act ([16 U.S.C. 470i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470i&num=0&edition=prelim) et seq.) identify any existing buildings in the geographical area that—
+**(c) Request for Identification of Existing Buildings of Historical, Architectural, or Cultural Significance.—** When the Administrator undertakes a survey of the public buildings needs of the Government within a geographical area, the Administrator shall request that, within 60 days, the Advisory Council on Historic Preservation established by [section 304101 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section304101&num=0&edition=prelim) identify any existing buildings in the geographical area that—
 
 (1) are of historical, architectural, or cultural significance (as defined in [section 3306(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3306/a&num=0&edition=prelim)); and
 
@@ -164,8 +164,8 @@ In subsection (c)(1), the word “historical” is substituted for “historic�
 
 In subsection (c)(2), the word “purchase” is omitted as being included in [“]‘acquisition”.
 
-#### References in Text
-The National Historic Preservation Act, referred to in subsec. (c), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended. Title II of the Act is classified generally to sections 470i to 470v of Title 16, Conservation. For complete classification of this Act to the Code, see [section 470 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) and Tables.
+#### Amendments
+2014—Subsec. (c). Pub. L. 113–287 substituted “[section 304101 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section304101&num=0&edition=prelim)” for “title II of the National Historic Preservation Act ([16 U.S.C. 470i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470i&num=0&edition=prelim) et seq.)” in introductory provisions.
 
 
 <a id="section-3304"></a>
@@ -240,7 +240,7 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 | 3305(b)(2)(B) | 40:606(f) (related to 40:603(b)). | Pub. L. 86–249, § 7(f) (related to § 4(b)), Sept. 9, 1959, as added Pub. L. 100–678, § 4, Nov. 17, 1988, 102 Stat. 4050. |
 | 3305(c) | 40:608. |  |
 
-In subsection (a)(1) and (2), the words “and title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)” are added to provide an accurate literal translation of the words “this Act”, meaning the Federal Property and Administrative Services Act of 1949. See the revision note under [section 111 of this title](./chapter-011-general.md#section-111).
+In subsection (a)(1) and (2), the words “and title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)” are added to provide an accurate literal translation of the words “this Act”, meaning the Federal Property and Administrative Services Act of 1949. See the revision note under [section 111 of this title](./chapter-1-1-another-chapter-1-is-set-out-in-subtitle-v-of-this-title-chapter-1-chapter-1-1-another-chapter-1-is-set-out-in-subtitle-v-of-this-title-chapter-1.md#section-111).
 
 In subsection (b)(2)(B), the words “Transportation and Infrastructure” are substituted for “Public Works and Transportation” in section 7(f) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 480) because of section 1(a)(9) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.).
 
@@ -258,7 +258,7 @@ In subsection (b)(2)(B), the words “Transportation and Infrastructure” are s
 
 (3) **Educational activities.—** — The terms “educational activities” includes the operations of libraries, schools, day care centers, laboratories, and lecture and demonstration facilities.
 
-(4) **Historical, architectural, or cultural significance.—** — The term “historical, architectural, or cultural significance” includes buildings listed or eligible to be listed on the National Register established under section 101 of the National Historic Preservation Act ([16 U.S.C. 470a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a&num=0&edition=prelim)).
+(4) **Historical, architectural, or cultural significance.—** — The term “historical, architectural, or cultural significance” includes buildings listed or eligible to be listed on the National Register established under chapter 3021 of title 54.
 
 (5) **Recreational activities.—** — The term “recreational activities” includes the operations of gymnasiums and related facilities.
 
@@ -301,10 +301,13 @@ In subsection (c)(1), the words “chief executive officers of the States” are
 #### References in Text
 The Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (c)(1), is Pub. L. 89–754, Nov. 3, 1966, 80 Stat. 1255, as amended. Title II of the Act is classified generally to subchapter II (§ 3331 et seq.) of chapter 41 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3331 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3331&num=0&edition=prelim) and Tables.
 
+#### Amendments
+2014—Subsec. (a)(4). Pub. L. 113–287 substituted “chapter 3021 of title 54” for “section 101 of the National Historic Preservation Act ([16 U.S.C. 470a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a&num=0&edition=prelim))”.
+
 #### Ex. Ord. No. 13006. Locating Federal Facilities on Historic Properties in Our Nation’s Central Cities
 Ex. Ord. No. 13006, May 21, 1996, 61 F.R. 26071, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Historic Preservation Act ([16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.) and the Public Buildings Cooperative Use Act of 1976 (90 Stat. 2505) [title I of Pub. L. 94–541, see Tables for classification], and in furtherance of and consistent with Executive Order No. 12072 of August 16, 1978 [[40 U.S.C. 121](./chapter-011-general.md#section-121) note], and Executive Order No. 11593 of May 13, 1971 [[16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) note], it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Historic Preservation Act ([16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.) [see [54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) et seq.] and the Public Buildings Cooperative Use Act of 1976 (90 Stat. 2505) [title I of Pub. L. 94–541, see Tables for classification], and in furtherance of and consistent with Executive Order No. 12072 of August 16, 1978 [[40 U.S.C. 121](./chapter-1-1-another-chapter-1-is-set-out-in-subtitle-v-of-this-title-chapter-1-chapter-1-1-another-chapter-1-is-set-out-in-subtitle-v-of-this-title-chapter-1.md#section-121) note], and Executive Order No. 11593 of May 13, 1971 [[54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) note], it is hereby ordered as follows:
 
 Section 1. Statement of Policy. Through the Administration’s community empowerment initiatives, the Federal Government has undertaken various efforts to revitalize our central cities, which have historically served as the centers for growth and commerce in our metropolitan areas. Accordingly, the Administration hereby reaffirms the commitment set forth in Executive Order No. 12072 to strengthen our Nation’s cities by encouraging the location of Federal facilities in our central cities. The Administration also reaffirms the commitments set forth in the National Historic Preservation Act to provide leadership in the preservation of historic resources, and in the Public Buildings Cooperative Use Act of 1976 to acquire and utilize space in suitable buildings of historic, architectural, or cultural significance.
 

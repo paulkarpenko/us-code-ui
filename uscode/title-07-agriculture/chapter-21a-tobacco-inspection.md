@@ -201,7 +201,7 @@ Repeal not to affect the liability of any person under this section with respect
 
 <a id="section-511s"></a>
 ## § 511s. Grading of tobacco
-(1) **In general** — Not later than March 31, 2002, the Secretary of Agriculture (referred to in this section as the “Secretary”) shall conduct referenda among producers of each kind of tobacco that is eligible for price support under the Agricultural Act of 1949 ([7 U.S.C. 1421](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) et seq.) to determine whether such producers favor the mandatory grading of that kind of tobacco by the Secretary.
+(1) **In general** — Not later than March 31, 2002, the Secretary of Agriculture (referred to in this section as the “Secretary”) shall conduct referenda among producers of each kind of tobacco that is eligible for price support under the Agricultural Act of 1949 ([7 U.S.C. 1421](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim) et seq.) to determine whether such producers favor the mandatory grading of that kind of tobacco by the Secretary.
 
 (2) **Mandatory grading**
 
@@ -214,7 +214,7 @@ Repeal not to affect the liability of any person under this section with respect
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim) and Tables.
 
 The Tobacco Inspection Act, referred to in par. (2)(B), is act Aug. 23, 1935, ch. 623, 49 Stat. 731, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 511q of this title](./chapter-21a-tobacco-inspection.md#section-511q) and Tables.
 

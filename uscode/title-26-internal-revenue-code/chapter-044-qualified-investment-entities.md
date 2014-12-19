@@ -207,11 +207,11 @@ Amendment by Pub. L. 99–514 applicable to calendar years beginning after Dec. 
 
   (A) *In general* — For purposes of determining a regulated investment company’s ordinary income, notwithstanding paragraph (1)(C), each specified mark to market provision shall be applied as if such company’s taxable year ended on October 31. In the case of a company making an election under paragraph (4), the preceding sentence shall be applied by substituting the last day of the company’s taxable year for October 31.
 
-  (B) *Specified mark to market provision* — For purposes of this paragraph, the term “specified mark to market provision” means sections 1256 and 1296 and any other provision of this title (or regulations thereunder) which treats property as disposed of on the last day of the taxable year.
+  (B) *Specified mark to market provision* — For purposes of this paragraph, the term “specified mark to market provision” means sections 1256 and 1296 and any other provision of this title (or regulations thereunder) which treats property as disposed of on the last day of the taxable year or which determines income by reference to the value of an item on the last day of the taxable year.
 
 (7) **Elective deferral of certain ordinary losses** — Except as provided in regulations prescribed by the Secretary, in the case of a regulated investment company which has a taxable year other than the calendar year—
 
-  (A) such company may elect to determine its ordinary income for the calendar year without regard to any net ordinary loss (determined without regard to specified gains and losses taken into account under paragraph (5)) which is attributable to the portion of such calendar year which is after the beginning of the taxable year which begins in such calendar year, and
+  (A) such company may elect to determine its ordinary income and net ordinary loss (as defined in paragraph (2)(C)(ii)) for the calendar year without regard to any portion of any net ordinary loss (determined without regard to specified gains and losses taken into account under paragraph (5)) which is attributable to the portion of such calendar year which is after the beginning of the taxable year which begins in such calendar year, and
 
   (B) any amount of net ordinary loss not taken into account for a calendar year by reason of subparagraph (A) shall be treated as arising on the 1st day of the following calendar year.
 
@@ -219,7 +219,7 @@ Amendment by Pub. L. 99–514 applicable to calendar years beginning after Dec. 
 
 (1) a trust described in section 401(a) and exempt from tax under section 501(a),
 
-(2) a segregated asset account of a life insurance company held in connection with variable contracts (as defined in section 817(d)) 11 So in original. Probably should be followed by a comma.
+(2) a segregated asset account of a life insurance company held in connection with variable contracts (as defined in section 817(d)),
 
 (3) any other tax-exempt entity whose ownership of beneficial interests in the company would not preclude the application of section 817(h)(4), or
 
@@ -229,6 +229,12 @@ For purposes of the preceding sentence, any shares attributable to an investment
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (e)(6)(B). Pub. L. 113–295, § 205(d)(1), inserted “or which determines income by reference to the value of an item on the last day of the taxable year” before period at end.
+
+Subsec. (e)(7)(A). Pub. L. 113–295, § 205(d)(2), substituted “such company may elect to determine its ordinary income and net ordinary loss (as defined in paragraph (2)(C)(ii)) for the calendar year without regard to any portion of any net ordinary loss” for “such company may elect to determine its ordinary income for the calendar year without regard to any net ordinary loss”.
+
+Subsec. (f)(2). Pub. L. 113–295, § 220(s), inserted comma at end.
+
 2010—Subsec. (b)(1)(B). Pub. L. 111–325, § 404(a), substituted “98.2 percent” for “98 percent”.
 
 Subsec. (c)(4). Pub. L. 111–325, § 403(a), added par. (4).
@@ -250,6 +256,9 @@ Subsec. (e)(5). Pub. L. 100–647, § 1006(l)(5), added par. (5).
 Subsec. (f). Pub. L. 100–647, § 1006(l)(6), added subsec. (f).
 
 1987—Subsec. (b)(1)(B). Pub. L. 100–203 substituted “98 percent” for “90 percent”.
+
+#### Effective Date of 2014 Amendment
+Amendment by section 205(d) of Pub. L. 113–295 effective as if included in the provision of the Regulated Investment Company Modernization Act of 2010, Pub. L. 111–325, to which such amendment relates, with savings provision in certain cases of an election by a regulated investment company under [section 852(b)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section852/b/8&num=0&edition=prelim), see section 205(f) of Pub. L. 113–295, set out as a note under [section 852 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-852).
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–325, title IV, § 401(b), Dec. 22, 2010, 124 Stat. 3552, provided that: “The amendment made by this section [amending this section] shall apply to calendar years beginning after the date of the enactment of this Act [Dec. 22, 2010].”

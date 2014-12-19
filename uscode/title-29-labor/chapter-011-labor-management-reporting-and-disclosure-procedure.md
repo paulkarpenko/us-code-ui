@@ -85,7 +85,7 @@ This chapter, referred to in the opening phrase, was in the original “titles I
 
 For definition of Canal Zone, referred to in subsec. (b), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (b), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (b), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 The Labor Management Relations Act, 1947, referred to in subsec. (c), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see [section 141 of this title](./chapter-007-labor-management-relations.md#section-141) and Tables.
 
@@ -104,7 +104,9 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 <a id="section-411"></a>
 ## § 411. Bill of rights; constitution and bylaws of labor organizations
-**(a) (1) Equal rights** Every member of a labor organization shall have equal rights and privileges within such organization to nominate candidates, to vote in elections or referendums of the labor organization, to attend membership meetings, and to participate in the deliberations and voting upon the business of such meetings, subject to reasonable rules and regulations in such organization’s constitution and bylaws.
+**(a)**
+
+(1) **Equal rights** — Every member of a labor organization shall have equal rights and privileges within such organization to nominate candidates, to vote in elections or referendums of the labor organization, to attend membership meetings, and to participate in the deliberations and voting upon the business of such meetings, subject to reasonable rules and regulations in such organization’s constitution and bylaws.
 
 (2) **Freedom of speech and assembly** — Every member of any labor organization shall have the right to meet and assemble freely with other members; and to express any views, arguments, or opinions; and to express at meetings of the labor organization his views, upon candidates in an election of the labor organization or upon any business properly before the meeting, subject to the organization’s established and reasonable rules pertaining to the conduct of meetings: Provided, That nothing herein shall be construed to impair the right of a labor organization to adopt and enforce reasonable rules as to the responsibility of every member toward the organization as an institution and to his refraining from conduct that would interfere with its performance of its legal or contractual obligations.
 

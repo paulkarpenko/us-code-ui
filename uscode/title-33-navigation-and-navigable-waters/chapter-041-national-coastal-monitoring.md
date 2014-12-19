@@ -2,7 +2,7 @@
 title: 33
 chapter: '41'
 heading: NATIONAL COASTAL MONITORING
-section_count: 5
+section_count: 6
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -204,6 +204,47 @@ Title IV of this Act, referred to in subsec. (d)(3)(B), is title IV of Pub. L. 9
 The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+
+<a id="section-2803a"></a>
+## § 2803a. Ocean and coastal resiliency
+**(a) In general** The Secretary shall conduct studies to determine the feasibility of carrying out Corps of Engineers projects in coastal zones to enhance ocean and coastal ecosystem resiliency.
+
+**(b) Study** In carrying out the study under subsection (a), the Secretary shall—
+
+(1) as appropriate, coordinate with the heads of other appropriate Federal agencies, the Governors and other chief executive officers of the coastal states, nonprofit organizations, and other interested parties;
+
+(2) identify Corps of Engineers projects in coastal zones for enhancing ocean and coastal ecosystem resiliency based on an assessment of the need and opportunities for, and feasibility of, the projects;
+
+(3) to the maximum extent practicable, use any existing Corps of Engineers plans and data; and
+
+(4) not later than 365 days after initial appropriations for this section, and every five years thereafter subject to the availability of appropriations, complete a study authorized under subsection (a).
+
+**(c) Disposition**
+
+(1) **In general** — The Secretary may carry out a project identified in the study pursuant to subsection (a) in accordance with the criteria for projects carried out under one of the following authorities:
+
+  (A) Section 2330(a)–(d) of this title.
+
+  (B) Section 2309a(a)–(g) and (i) of this title.
+
+  (C) Section 426g(a)–(b) and (c)(1) of this title.
+
+  (D) Section 2326(a)–(f) of this title.
+
+(2) **Report** — For each project that does not meet the criteria under paragraph (1), the Secretary shall include a recommendation relating to the project in the annual report submitted to Congress by the Secretary in accordance with [section 2282d of this title](./chapter-036-water-resources-development.md#section-2282d).
+
+**(d) Requests for projects** The Secretary may carry out a project for a coastal state under this section only at the request of the Governor or chief executive officer of the coastal state, as appropriate.
+
+**(e) Definition** In this section, the terms “coastal zone” and “coastal state” have the meanings given such terms in [section 1453 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453&num=0&edition=prelim), as in effect on June 10, 2014.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of title V of Pub. L. 92–532, popularly known as the National Coastal Monitoring Act, which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
 <a id="section-2804"></a>

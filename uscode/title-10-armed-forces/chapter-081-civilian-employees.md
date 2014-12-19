@@ -154,9 +154,13 @@ Pub. L. 101–510, § 1481(d)(1), (2), substituted “Employment of non-citizens
 Amendment by section 1482(b) of Pub. L. 101–510 effective Oct. 1, 1991, see section 1482(d) of Pub. L. 101–510, set out as a note under [section 119 of this title](./chapter-002-department-of-defense.md#section-119).
 
 #### Citizenship Requirement Not Applicable
-Pub. L. 113–6, div. C, title VIII, § 8002, Mar. 26, 2013, 127 Stat. 295, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: Provided, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act [div. C of Pub. L. 113–6, see Tables for classification] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: Provided further, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 [[22 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) et seq.]: Provided further, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
+Pub. L. 113–235, div. C, title VIII, § 8002, Dec. 16, 2014, 128 Stat. 2251, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: Provided, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act [div. C of Pub. L. 113–235, see Tables for classification] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: Provided further, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 [[22 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) et seq.]: Provided further, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. C, title VIII, § 8002, Jan. 17, 2014, 128 Stat. 103.
+
+Pub. L. 113–6, div. C, title VIII, § 8002, Mar. 26, 2013, 127 Stat. 295.
 
 Pub. L. 112–74, div. A, title VIII, § 8002, Dec. 23, 2011, 125 Stat. 804.
 
@@ -448,7 +452,7 @@ Dwight D. Eisenhower.
 
   (G) any other significant change in duties or responsibilities that is inconsistent with the employee’s salary or grade level.
 
-**(b)** Any civilian employee or member of the armed forces who has authority to take, direct others to take, recommend, or approve any personnel action shall not, with respect to such authority, take or fail to take a personnel action with respect to any nonappropriated fund instrumentality employee (or any applicant for a position as such an employee) as a reprisal for—
+**(b)** Any civilian employee or member of the armed forces who has authority to take, direct others to take, recommend, or approve any personnel action shall not, with respect to such authority, take or fail to take, or threaten to take or fail to take, a personnel action with respect to any nonappropriated fund instrumentality employee (or any applicant for a position as such an employee) as a reprisal for—
 
 (1) a disclosure of information by such an employee or applicant which the employee or applicant reasonably believes evidences—
 
@@ -472,6 +476,8 @@ Dwight D. Eisenhower.
 ### Statutory Notes
 
 #### Amendments
+2013—Subsec. (b). Pub. L. 113–66 inserted “, or threaten to take or fail to take,” after “take or fail to take”.
+
 1996—Pub. L. 104–106, § 1040(d)(1), inserted “: reprisals” after “instrumentalities” in section catchline.
 
 Subsec. (a)(1). Pub. L. 104–106, § 1040(c), substituted “Navy Exchange Service Command” for “Navy Resale and Services Support Office”.
@@ -549,6 +555,8 @@ Pub. L. 103–337, div. A, title III, § 349, Oct. 5, 1994, 108 Stat. 2727, as a
 
 (9) Voluntary services to facilitate accounting for missing persons.
 
+(10) Voluntary legal support services provided by law students through internship and externship programs approved by the Secretary concerned.
+
 **(b) Requirements and Limitations.—**
 
 (1) The Secretary concerned shall notify the person of the scope of the services accepted.
@@ -610,6 +618,8 @@ Pub. L. 103–337, div. A, title III, § 349, Oct. 5, 1994, 108 Stat. 2727, as a
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a)(10). Pub. L. 113–291 added par. (10).
+
 2013—Subsec. (a)(9). Pub. L. 112–239 added par. (9).
 
 2008—Subsec. (d)(1)(B). Pub. L. 110–181 substituted “chapters 309 and 311 of title 46” for “the Act of March 9, 1920, commonly known as the ‘Suits in Admiralty Act’ (41 Stat. 525; 46 U.S.C. App. 741 et seq.) and the Act of March 3, 1925, commonly known as the ‘Public Vessels Act’ (43 Stat. 1112; 46 U.S.C. App. 781 et seq.)”.
@@ -1170,16 +1180,15 @@ Pub. L. 104–201, div. A, title V, § 576(d), Sept. 23, 1996, 110 Stat. 2535, p
 
 <a id="section-1599a"></a>
 ## § 1599a. Financial assistance to certain employees in acquisition of critical skills
-**(a) Training Program.—** The Secretary of Defense shall establish an undergraduate training program with respect to civilian employees in the Military Department Civilian Intelligence Personnel Management System that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Agency Act of 1959 ([50 U.S.C. 402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section402&num=0&edition=prelim) note) 11 See References in Text note below. for civilian employees of the National Security Agency.
+**(a) Training Program.—** The Secretary of Defense shall establish an undergraduate training program with respect to civilian employees in the Military Department Civilian Intelligence Personnel Management System that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Agency Act of 1959 ([50 U.S.C. 3614](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3614&num=0&edition=prelim)) for civilian employees of the National Security Agency.
 
 **(b) Use of Funds for Training Program.—** Any payment made by the Secretary to carry out the program required to be established by subsection (a) may be made in any fiscal year only to the extent that appropriated funds are available for that purpose.
 
 ### Statutory Notes
 
-#### References in Text
-Section 16 of the National Security Act of 1959, referred to in subsec. (a), probably means section 16 of the National Security Agency Act of 1959, Pub. L. 86–36, as added Pub. L. 99–569, title V, § 505, Oct. 27, 1986, 100 Stat. 3200; amended Pub. L. 111–259, title III, § 312(a)–(d), Oct. 7, 2010, 124 Stat. 2663, 2664, which was set out in a note under [section 402 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section402&num=0&edition=prelim), War and National Defense, prior to editorial reclassification to [section 3614 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3614&num=0&edition=prelim).
-
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–291 substituted “([50 U.S.C. 3614](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3614&num=0&edition=prelim))” for “([50 U.S.C. 402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section402&num=0&edition=prelim) note)”.
+
 2013—Subsec. (a). Pub. L. 112–239 substituted “National Security Agency Act” for “National Security Act”.
 
 
@@ -1208,31 +1217,21 @@ Section 16 of the National Security Act of 1959, referred to in subsec. (a), pro
 
 (2)
 
-  (A) For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may—
+  (A) For purposes of [section 3304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304&num=0&edition=prelim), the Secretary of Defense may—
 
     (i) designate any category of medical or health professional positions within the Department of Defense as a shortage category occupation or critical need occupation; and
 
-    (ii) utilize the authorities in such sections to recruit and appoint qualified persons directly in the competitive service to positions so designated.
+    (ii) utilize the authority in such section to recruit and appoint qualified persons directly in the competitive service to positions so designated.
 
   (B) In using the authority provided by this paragraph, the Secretary shall apply the principles of preference for the hiring of veterans and other persons established in subchapter I of chapter 33 of title 5.
 
   (C) Any designation by the Secretary for purposes of subparagraph (A)(i) shall be based on an analysis of current and future Department of Defense workforce requirements.
 
-**(b) Recruitment of Personnel.—**
+**(b) Termination of Authority.—**
 
-(1) The Secretaries of the military departments shall each develop and implement a strategy to disseminate among appropriate personnel of the military departments authorities and best practices for the recruitment of medical and health professionals, including the authorities under subsection (a).
+(1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2020.
 
-(2) Each strategy under paragraph (1) shall—
-
-  (A) assess current recruitment policies, procedures, and practices of the military department concerned to assure that such strategy facilitates the implementation of efficiencies which reduce the time required to fill vacant positions for medical and health professionals; and
-
-  (B) clearly identify processes and actions that will be used to inform and educate military and civilian personnel responsible for the recruitment of medical and health professionals.
-
-**(c) Termination of Authority.—**
-
-(1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2015.
-
-(2) The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2015.
+(2) The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2020.
 
 ### Statutory Notes
 
@@ -1240,6 +1239,16 @@ Section 16 of the National Security Act of 1959, referred to in subsec. (a), pro
 A prior section 1599c, added Pub. L. 104–201, div. A, title XVI, § 1615(a)(1), Sept. 23, 1996, 110 Stat. 2740; amended Pub. L. 105–85, div. A, title X, § 1073(a)(31), Nov. 18, 1997, 111 Stat. 1902, related to treatment of a Department of Defense violation of veterans’ preference requirements as a prohibited personnel practice, prior to repeal by Pub. L. 105–339, § 6(c)(1)(A), Oct. 31, 1998, 112 Stat. 3188.
 
 #### Amendments
+2013—Subsec. (a)(2)(A). Pub. L. 113–66, § 1109(c)(1), substituted “[section 3304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304&num=0&edition=prelim)” for “sections 3304, 5333, and 5753 of title 5” in introductory provisions.
+
+Subsec. (a)(2)(A)(ii). Pub. L. 113–66, § 1109(c)(2), substituted “the authority in such section” for “the authorities in such sections”.
+
+Subsec. (b). Pub. L. 113–66, § 1109(b), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to recruitment of personnel.
+
+Subsec. (c). Pub. L. 113–66, § 1109(b)(2), redesignated subsec. (c) as (b).
+
+Pub. L. 113–66, § 1109(a), substituted “December 31, 2020” for “December 31, 2015” in pars. (1) and (2).
+
 2011—Subsec. (a)(2)(A)(i). Pub. L. 111–383, § 1104(a)(1)(A), substituted “a shortage category occupation or critical need occupation” for “shortage category positions”.
 
 Subsec. (a)(2)(A)(ii). Pub. L. 111–383, § 1104(a)(1)(B), substituted “qualified persons directly in the competitive service” for “highly qualified persons directly”.

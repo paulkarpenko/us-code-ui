@@ -109,7 +109,7 @@ As used in this chapter:
 
 (3) **National forest** — The term “national forest” means lands included in the National Forest System (as defined in [section 1609(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1609/a&num=0&edition=prelim)).
 
-(4) **National park** — The term “national park” means lands and waters included in the National Park System (as defined in [section 1c(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1c/a&num=0&edition=prelim)).
+(4) **National park** — The term “national park” means lands and waters included in the National Park System (as defined in [section 100501 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100501&num=0&edition=prelim)).
 
 (5) **Public lands** — The term “public lands” has the same meaning as is provided in [section 1702(e) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1702/e&num=0&edition=prelim).
 
@@ -128,3 +128,8 @@ As used in this chapter:
 (7) **Wildlife refuge** — The term “wildlife refuge” means lands and waters included in the National Wildlife Refuge System (as established by [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd)).
 
 (8) **Conduct** — The term “conduct” does not include speech protected by the first article of amendment to the Constitution.
+
+### Statutory Notes
+
+#### Codification
+In par. (4), “[section 100501 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100501&num=0&edition=prelim)” substituted for “section 2(a) of the Act entitled ‘An Act to facilitate the management of the National Park System and miscellaneous areas administered in connection with that system, and for other purposes’, approved August 8, 1953 ([16 U.S.C. 1c(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1c/a&num=0&edition=prelim))” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.

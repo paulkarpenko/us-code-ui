@@ -26,6 +26,11 @@ Chapter effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out a
 
 **(b)** The Institute shall be guided by the policies set forth in sections 2151 and 2151–1 of this title and shall direct a substantial share of its resources to those objectives.
 
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
 
 <a id="section-3503"></a>
 ## § 3503. Functions
@@ -43,7 +48,7 @@ Chapter effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out a
 
 (6) gather, analyze, and disseminate information relevant to the scientific and technological needs of developing countries.
 
-**(b) Review of programs, projects, and other activities; objectives of review** In carrying out the functions specified in subsection (a) of this section, the Institute shall take particular care to review all of its programs, projects, and other activities to ensure that technologies which are developed, utilized, or promoted are assessed with regard to minimizing any new problems and that participants in such programs, projects, and activities are fully aware of the need for such review with respect to any technology-related activities for which the 11 So in original. Probably should be “they”. are responsible.
+**(b) Review of programs, projects, and other activities; objectives of review** In carrying out the functions specified in subsection (a), the Institute shall take particular care to review all of its programs, projects, and other activities to ensure that technologies which are developed, utilized, or promoted are assessed with regard to minimizing any new problems and that participants in such programs, projects, and activities are fully aware of the need for such review with respect to any technology-related activities for which the 11 So in original. Probably should be “they”. are responsible.
 
 **(c) Presidential utilization of additional statutory authorities** For purposes of carrying out the functions of the Institute, the President may utilize, in addition to authorities conferred by this chapter, such authority contained in the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], the Foreign Service Act of 1980 [[22 U.S.C. 3901](./chapter-052-foreign-service.md#section-3901) et seq.], title V of the Foreign Relations Authorization Act, Fiscal Year 1979 [[22 U.S.C. 2656a](./chapter-038-department-of-state.md#section-2656a) to 2656d], and title IV of the International Development and Food Assistance Act of 1978 [[22 U.S.C. 2385a](./chapter-032-foreign-assistance.md#section-2385a)], as the President deems necessary.
 
@@ -54,6 +59,8 @@ Chapter effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out a
 ### Statutory Notes
 
 #### References in Text
+This chapter, referred to in subsec. (c), was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
 The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 The Foreign Service Act of 1980, referred to in subsec. (c), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
@@ -99,12 +106,22 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 **(b)** Any authority provided by this section involving the expenditure of appropriated funds shall be effective for a fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (a)(4), (10), was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
 
 <a id="section-3505"></a>
 ## § 3505. Director
 **(a) Appointment; compensation** There shall be a Director of the Institute (hereafter in this chapter referred to as the “Director”) who shall be the chief executive officer of the Institute. The Director shall be appointed by the President, by and with the advice and consent of the Senate, and shall receive compensation at the rate payable for level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).
 
 **(b) Exercise of Presidential authority; delegation of authority** The President may exercise any authorities conferred upon him by this chapter through the Director or any other agency or officer of the United States Government as he shall direct. The Director or head of any such agency or any such officer may delegate to any of his subordinates authority to perform any of such functions.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
 
 
 <a id="section-3506"></a>
@@ -148,6 +165,9 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 ### Statutory Notes
 
+#### References in Text
+This chapter, referred to in subsecs. (a) and (e), was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
@@ -165,6 +185,9 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 **(e) Admission into United States of alien participants in program** Alien participants in any program of the Institute, including Institute Fellows and their dependents, may be admitted to the United States, if otherwise qualified as non-immigrants under [section 1101(a)(15) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15&num=0&edition=prelim), for such time and under such conditions as may be prescribed by regulations promulgated by the Secretary of State and the Attorney General.
 
 ### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (c), was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
@@ -188,6 +211,11 @@ Members of the Council and Institute Fellows shall avoid any action, in their ac
 
 (5) affecting adversely the confidence of the public in the integrity of the Institute.
 
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in par. (3), was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
 
 <a id="section-3510"></a>
 ## § 3510. Authorization of appropriations
@@ -195,6 +223,9 @@ Members of the Council and Institute Fellows shall avoid any action, in their ac
 There are authorized to be appropriated to the President to carry out this chapter, in addition to funds otherwise available for such purpose, $12,000,000 for the fiscal year 1981. Funds appropriated under this section are authorized to remain available until expended.
 
 ### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
 
 #### Amendments
 1980—Pub. L. 96–533 substituted appropriations authorization of $12,000,000 for fiscal year 1981 for such authorization of $23,750,000 for fiscal year 1980.
@@ -223,3 +254,8 @@ Repeal effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277, set out as
 ## § 3513. Expiration of statutory authorities
 
 The authorities contained in this chapter shall expire on September 30, 1984.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.

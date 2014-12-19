@@ -99,7 +99,8 @@ A prior section 561, act Aug. 4, 1949, ch. 393, 63 Stat. 538, related to limitat
   (A) Qualifications, assignment history, and tenure of those individuals assigned to positions in the acquisition workforce or holding acquisition-related certifications.
 
   (B) Promotion rates for officers and members of the Coast Guard in the acquisition workforce.
-[(e) Repealed. Pub. L. 112–213, title II, § 210(c)(2)(A), Dec. 20, 2012, 126 Stat. 1551.]
+
+**(e)** Repealed. Pub. L. 112–213, title II, § 210(c)(2)(A), Dec. 20, 2012, 126 Stat. 1551.]
 
 **(f) Appointments to Acquisition Positions.—** The Commandant shall ensure that no requirement or preference for officers or members of the Coast Guard is used in the consideration of persons for positions in the acquisition workforce.
 
@@ -381,20 +382,22 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 
 
 <a id="section-569"></a>
-## § 569. Report on former Coast Guard officials employed by contractors to the agency
-**(a) Report Required.—** Not later than December 31, 2011, the Comptroller General of the United States shall submit a report to the appropriate congressional committees on the employment during the preceding year by Coast Guard contractors of individuals who were Coast Guard officials in the previous 5-year period. The report shall assess the extent to which former Coast Guard officials were provided compensation by Coast Guard contractors in the preceding calendar year.
+## § 569. Mission need statement
+**(a) In General.—** On the date on which the President submits to Congress a budget for fiscal year 2016 under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), on the date on which the President submits to Congress a budget for fiscal year 2019 under such section, and every 4 years thereafter, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an integrated major acquisition mission need statement.
 
-**(b) Objectives of Report.—** At a minimum, the report required by this section shall assess the extent to which former Coast Guard officials who receive compensation from Coast Guard contractors have been assigned by those contractors to work on contracts or programs between the contractor and the Coast Guard, including contracts or programs for which the former official personally had oversight responsibility or decisionmaking authority when they served in or worked for the Coast Guard.
+**(b) Definitions.—** In this section, the following definitions apply:
 
-**(c) Confidentiality Requirement.—** The report required by this subsection shall not include the names of the former Coast Guard officials who receive compensation from Coast Guard contractors.
+(1) **Integrated major acquisition mission need statement.—** — The term “integrated major acquisition mission need statement” means a document that—
 
-**(d) Access to Information.—** A Coast Guard contractor shall provide the Comptroller General access to information requested by the Comptroller General for the purpose of conducting the study required by this section.
+  (A) identifies current and projected gaps in Coast Guard mission capabilities using mission hour targets;
 
-**(e) Definitions.—** In this section:
+  (B) explains how each major acquisition program addresses gaps identified under subparagraph (A) if funded at the levels provided for such program in the most recently submitted capital investment plan; and
 
-(1) **Coast guard contractor.—** — The term “Coast Guard contractor” includes any person that received at least $10,000,000 in contractor awards from the Coast Guard in the calendar year covered by the annual report.
+  (C) describes the missions the Coast Guard will not be able to achieve, by fiscal year, for each gap identified under subparagraph (A).
 
-(2) **Coast guard official.—** — The term “Coast Guard official” includes former officers of the Coast Guard who were compensated at a rate of pay for grade O–7 or above during the calendar year prior to the date on which they separated from the Coast Guard, and former civilian employees of the Coast Guard who served at any Level of the Senior Executive Service under subchapter VIII of chapter 53 of title 5, United States Code, during the calendar year prior to the date on which they separated from the Coast Guard.
+(2) **Major acquisition program.—** — The term “major acquisition program” has the meaning given that term in section 569a(e).
+
+(3) **Capital investment plan.—** — The term “capital investment plan” means the plan required under section 663(a)(1).
 
 ### Statutory Notes
 
@@ -402,6 +405,8 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 A prior section 569, act Aug. 4, 1949, ch. 393, 63 Stat. 542, related to trial by civil authorities for offenses against United States, prior to repeal by act May 5, 1950, ch. 169, §§ 5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
 
 #### Amendments
+2014—Pub. L. 113–281 amended section generally. Prior to amendment, section related to submission of report, not later than Dec. 31, 2011, to appropriate congressional committees on the employment during the preceding year by Coast Guard contractors of individuals who were Coast Guard officials in the previous 5-year period.
+
 2012—Subsec. (a). Pub. L. 112–213 struck out “and annually thereafter,” after “December 31, 2011,”.
 
 
@@ -759,6 +764,9 @@ A prior section 576, act Aug. 4, 1949, ch. 393, 63 Stat. 544, related to allowan
 **(b) Use of Materials, Parts, and Components Manufactured in the United States.—** In entering into contracts and placing orders under subsection (a), the Commandant may give priority to persons that manufacture materials, parts, and components in the United States.
 
 ### Statutory Notes
+
+#### Multiyear Procurement Authority for Offshore Patrol Cutters
+Pub. L. 113–281, title II, § 223, Dec. 18, 2014, 128 Stat. 3038, provided that: “In fiscal year 2015 and each fiscal year thereafter, the Secretary of the department in which the Coast Guard is operating may enter into, in accordance with [section 2306b of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306b&num=0&edition=prelim), United States Code, multiyear contracts for the procurement of Offshore Patrol Cutters and associated equipment.”
 
 #### Long Lead Time Materials and Vessel Production; Immediate Availability of Funding
 Pub. L. 113–6, div. D, title V, § 557, Mar. 26, 2013, 127 Stat. 377, provided that: “(a) Notwithstanding Office of Management and Budget Circular A–11, funds made available in fiscal year 2013, or any fiscal year thereafter, under Department of Homeland Security, Coast Guard, ‘Acquisition, Construction, and Improvements’ for—“(1) long lead time materials, components, and designs of a vessel of the Coast Guard shall be immediately available and allotted to make a contract award notwithstanding the availability of funds for production, outfitting, post-delivery activities, and spare or repair parts; and “(2) production of a vessel of the Coast Guard shall be immediately available and allotted to make a contract award notwithstanding the availability of funds for outfitting, post-delivery activities, and spare or repair parts. “(b) The Secretary of Homeland Security shall develop fiscal policy that prescribes Coast Guard budgetary policies, procedures and technical direction necessary to comply with subsection (a) of this section and consistent with the Department of Defense Financial Management Regulation (Volume 2A, Chapter 1 C. Procedures for Full Funding) to include the costs associated with outfitting and post-delivery activities; spare and repair parts; and long lead time materials. The requirement set forth in this section shall not preclude the immediate availability or allotment of funds for fiscal year 2013, pursuant to subsection (a). “(c) In this section—“(1) the term ‘long lead time items’ means components, parts, material, or effort which must be procured in advance of the production award in order to maintain the production schedule; “(2) the term ‘outfitting’ means procurement or installation of onboard repair parts, other secondary items, equipage, and recreation items; precommissioning crew support; general use consumables furnished to the shipbuilder; the fitting out activity to fill a vessel’s initial allowances; and contractor-furnished spares; and “(3) the term ‘post-delivery activities’ means design, planning, Government-furnished material, and related labor for non-production and non-long lead time items contract activities and other work, including certifications, full operational capability activities and other equipment installation; spares, logistics, technical analysis, and support; correction of Government-responsible defects and deficiencies identified during builders trials, acceptance trials, and testing during the post-delivery period; costs of all work required to correct defects or deficiencies identified during the post-delivery period; and costs of all work required to correct trial card deficiencies on a vessel of a particular class, as well as on subsequent vessels of that class (whether or not delivered) until the corrective action for that cutter class is completed.”

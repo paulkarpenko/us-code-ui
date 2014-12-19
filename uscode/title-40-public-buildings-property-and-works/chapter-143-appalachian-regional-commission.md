@@ -387,7 +387,7 @@ Not later than six months after the close of each fiscal year, the Appalachian R
 
 (1) **Commission.—** — The Commission, as required by the President, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the President on the transactions and activities. The records of the Commission with respect to grants are available for audit by the President and the Comptroller General.
 
-(2) **Recipients of federal assistance.—** — Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be available for audit by the President, the Comptroller General, and the Commission.
+(2) **Recipients of federal assistance.—** — Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be 11 So in original. Probably should be preceded by “to”. available for audit by the President, the Comptroller General, and the Commission.
 
 ### Statutory Notes
 

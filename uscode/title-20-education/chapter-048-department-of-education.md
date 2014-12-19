@@ -40,7 +40,7 @@ Pub. L. 96–88, title VI, § 601, Oct. 17, 1979, 93 Stat. 696, provided that: �
 Pub. L. 101–392, title VI, § 601, Sept. 25, 1990, 104 Stat. 840, provided that: “This title [enacting [section 3423a of this title](./chapter-048-department-of-education.md#section-3423a), amending [section 3424 of this title](./chapter-048-department-of-education.md#section-3424), repealing sections 1131 and 3423 of this title, and enacting provisions set out as a note under [section 2403 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2403&num=0&edition=prelim)] may be cited as the ‘Office of Correctional Education Act of 1990’.”
 
 #### Short Title
-Pub. L. 96–88, § 1, Oct. 17, 1979, 93 Stat. 668, provided that: “This Act [enacting this chapter, amending sections 928, 929, 1102, 2390, 2711, and 3012 of this title, [section 19 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section19&num=0&edition=prelim), The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, [section 1004 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1004&num=0&edition=prelim), Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacting provisions set out as notes under this section and [section 1102 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1102)] may be cited as the ‘Department of Education Organization Act’.”
+Pub. L. 96–88, § 1, Oct. 17, 1979, 93 Stat. 668, provided in part: “This Act [enacting this chapter, amending sections 928, 929, 1102, 2390, 2711, and 3012 of this title, [section 19 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section19&num=0&edition=prelim), The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, [section 1004 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1004&num=0&edition=prelim), Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacting provisions set out as notes under this section and [section 1102 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1102)] may be cited as the ‘Department of Education Organization Act’.”
 
 #### Interim Appointments
 Pub. L. 96–88, title VI, § 602, Oct. 17, 1979, 93 Stat. 696, provided that: “(a) In the event that one or more officers required by this Act [see Short Title note above] to be appointed by and with the advice and consent of the Senate shall not have entered upon office on the effective date of this Act [May 4, 1980] and notwithstanding any other provisions of law, the President may designate an officer in the executive branch to act in such office for one hundred and twenty days or until the office is filled as provided in this Act, whichever occurs first. “(b) Any officer acting in an office in the Department pursuant to the provisions of subsection (a) shall receive compensation at the rate prescribed for such office under this Act.”
@@ -260,6 +260,9 @@ Sec. 2. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Barack Obama.
 
+#### Extension of Term of President’s Advisory Commission on Educational Excellence for Hispanics
+Term of President’s Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 #### Ex. Ord. No. 13621. White House Initiative on Educational Excellence for African Americans
 Ex. Ord. No. 13621, July 26, 2012, 77 F.R. 45471, provided:
 
@@ -373,6 +376,110 @@ Sec. 4. General Provisions. (a) The heads of agencies shall assist and provide i
 
 Barack Obama.
 
+#### Extension of Term of President’s Advisory Commission on Educational Excellence for African Americans
+Term of President’s Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+#### Creating and Expanding Ladders of Opportunity for Boys and Young Men of Color
+Memorandum of President of the United States, Feb. 27, 2014, 79 F.R. 12923, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Over the course of my Administration, we have made consistent progress on important goals such as reducing high school dropout rates and lowering unemployment and crime. Yet as the Congress, State and local governments, research institutions, and leading private-sector organizations have all recognized, persistent gaps in employment, educational outcomes, and career skills remain for many boys and young men of color throughout their lives.
+
+Many boys and young men of color will arrive at kindergarten less prepared than their peers in early language and literacy skills, leaving them less likely to finish school. Labor-force participation rates for young men of color have dropped, and far too many lack the skills they need to succeed. The disproportionate number of African American and Hispanic young men who are unemployed or involved in the criminal justice system undermines family and community stability and is a drag on State and Federal budgets. And, young men of color are far more likely to be victims of murder than their white peers, accounting for almost half of the country’s murder victims each year. These outcomes are troubling, and they represent only a portion of the social and economic cost to our Nation when the full potential of so many boys and young men is left unrealized.
+
+By focusing on the critical challenges, risk factors, and opportunities for boys and young men of color at key life stages, we can improve their long-term outcomes and ability to contribute to the Nation’s competiveness, economic mobility and growth, and civil society. Unlocking their full potential will benefit not only them, but all Americans.
+
+Therefore, I am establishing the My Brother’s Keeper initiative, an interagency effort to improve measurably the expected educational and life outcomes for and address the persistent opportunity gaps faced by boys and young men of color. The initiative will help us determine the public and private efforts that are working and how to expand upon them, how the Federal Government’s own policies and programs can better support these efforts, and how to better involve State and local officials, the private sector, and the philanthropic community.
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. My Brother’s Keeper Task Force. (a) There is established a My Brother’s Keeper Task Force (Task Force) to develop a coordinated Federal effort to improve significantly the expected life outcomes for boys and young men of color (including African Americans, Hispanic Americans, and Native Americans) and their contributions to U.S. prosperity. The Task Force shall be chaired by the Assistant to the President and Cabinet Secretary. In addition to the Chair, the Task Force shall consist of the following members:
+
+(i) the Attorney General;
+
+(ii) the Secretary of Agriculture;
+
+(iii) the Secretary of Commerce;
+
+(iv) the Secretary of Defense;
+
+(v) the Secretary of Education;
+
+(vi) the Secretary of Health and Human Services;
+
+(vii) the Secretary of Housing and Urban Development;
+
+(viii) the Secretary of the Interior;
+
+(ix) the Secretary of Labor;
+
+(x) the Secretary of Transportation;
+
+(xi) the Director of the Office of Management and Budget;
+
+(xii) the Chair of the Council of Economic Advisers;
+
+(xiii) the Director of the Office of Personnel Management;
+
+(xiv) the Administrator of the Small Business Administration;
+
+(xv) the Chief Executive Officer of the Corporation for National and Community Service;
+
+(xvi) the Assistant to the President for Intergovernmental Affairs and Public Engagement;
+
+(xvii) the Director of the Domestic Policy Council;
+
+(xviii) the Director of the Office of Science and Technology Policy;
+
+(xix) the Director of the National Economic Council; and
+
+(xx) the heads of such other executive departments, agencies, and offices as the Chair may, from time to time, designate.
+
+(b) A member of the Task Force may designate a senior-level official who is from the member’s department, agency, or office, and is a full-time officer or employee of the Federal Government, to perform the day-to-day Task Force functions of the member. At the direction of the Chair, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees under this subsection, as appropriate.
+
+(c) The Deputy Secretary of Education shall serve as Executive Director of the Task Force, determine its agenda, convene regular meetings of the Task Force, and supervise its work under the direction of the Chair. The Department of Education shall provide funding and administrative support for the Task Force to the extent permitted by law and within existing appropriations. Each executive department or agency shall bear its own expenses for participating in the Task Force.
+
+Sec. 2. Mission and Function of the Task Force. (a) The Task Force shall, consistent with applicable law, work across executive departments and agencies to:
+
+(i) develop a comprehensive public Web site, to be maintained by the Department of Education, that will assess, on an ongoing basis, critical indicators of life outcomes for boys and young men of color (and other ethnic, income, and relevant subgroups) in absolute and relative terms;
+
+(ii) assess the impact of Federal policies, regulations, and programs of general applicability on boys and young men of color, so as to develop proposals that will enhance positive outcomes and eliminate or reduce negative ones;
+
+(iii) create an Administration-wide, online public portal to identify and disseminate successful programs and practices that improve outcomes for boys and young men of color;
+
+(iv) recommend, where appropriate, incentives for the broad adoption by national, State, and local public and private decisionmakers of effective and innovative strategies and practices for providing opportunities to and improving outcomes for boys and young men of color;
+
+(v) consistent with applicable privacy laws and regulations, provide relevant Federal data assets and expertise to public and private efforts to increase opportunities and improve life outcomes for boys and young men of color, and explore ways to coordinate with State and local governments and non-governmental actors with useful data and expertise;
+
+(vi) ensure coordination with other Federal interagency groups and relevant public-private initiatives;
+
+(vii) work with external stakeholders to highlight the opportunities, challenges, and efforts affecting boys and young men of color; and
+
+(viii) recommend to the President means of ensuring sustained efforts within the Federal Government and continued partnership with the private sector and philanthropic community as set forth in this memorandum.
+
+(b) The Task Force shall focus on evidence-based intervention points and issues facing boys and young men of color up to the age of 25, with a particular focus on issues important to young men under the age of 15. Specifically, the Task Force shall focus on the following issues, among others: access to early childhood supports; grade school literacy; pathways to college and a career, including issues arising from school disciplinary action; access to mentoring services and support networks; and interactions with the criminal justice system and violent crime.
+
+(c) Within 30 days of the date of this memorandum, each member of the Task Force shall provide recommended indicators of life outcomes for the public Web site described in subsection (a)(i) of this section, and a plan for providing data on such indicators.
+
+(d) Within 45 days of the date of this memorandum, each member of the Task Force shall identify any relevant programs and data-driven assessments within the member’s department or agency for consideration in the portal described in subsection (a)(iii) of this section.
+
+(e) Within 90 days of the date of this memorandum, the Task Force shall provide the President with a report on its progress and recommendations with respect to the functions set forth in subsection (a) of this section. Additionally, the Task Force shall provide, within 1 year of the date of this memorandum, a status report to the President regarding the implementation of this memorandum.
+
+Sec. 3. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law or Executive Order to an agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of Education is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
 
 <a id="section-3412"></a>
 ## § 3412. Principal officers
@@ -394,7 +501,7 @@ Barack Obama.
 
   (B) an Assistant Secretary for Postsecond­ary Education;
 
-  (C) an Assistant Secretary for Vocational and Adult Education;
+  (C) an Assistant Secretary for Career, Technical, and Adult Education;
 
   (D) an Assistant Secretary for Special Education and Rehabilitative Services;
 
@@ -430,7 +537,7 @@ Barack Obama.
 
 **(g) Supervision by Secretary** Each officer of the Department established under this section shall report directly to the Secretary and shall, in addition to any functions vested in or required to be delegated to such officer, perform such additional functions as the Secretary may prescribe.
 
-**(h) Coordination of literacy related functions by Assistant Secretary for Vocational and Adult Education** The Assistant Secretary for Vocational and Adult Education, in addition to performing such functions as the Secretary may prescribe, shall have responsibility for coordination of all literacy related programs and policy initiatives in the Department. The Assistant Secretary for Vocational and Adult Education shall assist in coordinating the related activities and programs of other Federal departments and agencies.
+**(h) Coordination of literacy related functions by Assistant Secretary for Career, Technical, and Adult Education** The Assistant Secretary for Career, Technical, and Adult Education, in addition to performing such functions as the Secretary may prescribe, shall have responsibility for coordination of all literacy related programs and policy initiatives in the Department. The Assistant Secretary for Career, Technical, and Adult Education shall assist in coordinating the related activities and programs of other Federal departments and agencies.
 
 **(i) Liaison for Community and Junior Colleges**
 
@@ -464,6 +571,10 @@ The Education Sciences Reform Act of 2002, referred to in subsec. (b)(4), is tit
 The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2014—Subsec. (b)(1)(C). Pub. L. 113–76, § 307(b)(1), substituted “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education”.
+
+Subsec. (h). Pub. L. 113–76, § 307(b)(2), substituted “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education” in two places.
+
 2012—Subsec. (e). Pub. L. 112–166, in introductory provisions, inserted “Notwithstanding the previous sentence, the appointments of individuals to serve as the Assistant Secretary for Management shall not be subject to the advice and consent of the Senate.”
 
 2002—Subsec. (b)(4). Pub. L. 107–279 added par. (4) and struck out former par. (4) which read as follows: “There shall be in the Department an Assistant Secretary for Educational Research and Improvement who shall be—
@@ -581,9 +692,13 @@ Amendment by Pub. L. 98–511 effective Oct. 19, 1984, see section 711(a) of Pub
 
 
 <a id="section-3416"></a>
-## § 3416. Office of Vocational and Adult Education
+## § 3416. Office of Career, Technical, and Adult Education
 
-There shall be in the Department an Office of Vocational and Adult Education, to be administered by the Assistant Secretary for Vocational and Adult Education appointed under [section 3412(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3412/b&num=0&edition=prelim). The Assistant Secretary shall administer such functions affecting vocational and adult education as the Secretary shall delegate, and shall serve as principal adviser to the Secretary on matters affecting vocational and adult education. The Secretary, through the Assistant Secretary, shall also provide a unified approach to rural education and rural family education through the coordination of programs within the Department and shall work with the Federal Interagency Committee on Education to coordinate related activities and programs of other Federal departments and agencies.
+There shall be in the Department an Office of Career, Technical, and Adult Education, to be administered by the Assistant Secretary for Career, Technical, and Adult Education appointed under [section 3412(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3412/b&num=0&edition=prelim). The Assistant Secretary shall administer such functions affecting career, technical, and adult education as the Secretary shall delegate, and shall serve as principal adviser to the Secretary on matters affecting career, technical, and adult education. The Secretary, through the Assistant Secretary, shall also provide a unified approach to rural education and rural family education through the coordination of programs within the Department and shall work with the Federal Interagency Committee on Education to coordinate related activities and programs of other Federal departments and agencies.
+
+### Statutory Notes
+
+2014—Pub. L. 113–76 substituted, in section catchline, “Office of Career, Technical, and Adult Education” for “Office of Vocational and Adult Education” and, in text, “Office of Career, Technical, and Adult Education” for “Office of Vocational and Adult Education”, “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education”, and “career, technical, and adult education” for “vocational and adult education” in two places.
 
 
 <a id="section-3417"></a>

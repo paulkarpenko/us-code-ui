@@ -2,41 +2,41 @@
 title: 10
 chapter: '76'
 heading: MISSING PERSONS
-section_count: 13
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
 <a id="section-1501"></a>
 ## § 1501. System for accounting for missing persons
-**(a) Responsibility for Missing Personnel.—**
+**(a) Responsibility for Missing Persons.—**
 
-(1) The Secretary of Defense shall designate within the Office of the Secretary of Defense an official as the Deputy Assistant Secretary of Defense for Prisoner of War/Missing Personnel Affairs to have responsibility for Department of Defense matters relating to missing persons. Subject to the authority, direction, and control of the Secretary of Defense, the responsibilities of the official designated under this paragraph shall include—
+(1)
 
-  (A) policy, control, and oversight within the Department of Defense of the entire process for investigation and recovery related to missing persons (including matters related to search, rescue, escape, and evasion);
+  (A) The Secretary of Defense shall designate a single organization within the Department of Defense to have responsibility for Department matters relating to missing persons, including accounting for missing persons and persons whose remains have not been recovered from the conflict in which they were lost.
 
-  (B) policy, control, and oversight of the program established under [section 1509 of this title](./chapter-076-missing-persons.md#section-1509), as well as the accounting for missing persons (including locating, recovering, and identifying missing persons or their remains after hostilities have ceased); and
+  (B) The organization designated under this paragraph shall be a Defense Agency or other entity of the Department of Defense outside the military departments and is referred to in this chapter as the “designated Defense Agency”.
 
-  (C) coordination for the Department of Defense with other departments and agencies of the United States on all matters concerning missing persons.
+  (C) The head of the organization designated under this paragraph is referred to in this chapter as the “designated Agency Director”.
 
-(2) The official designated under paragraph (1) shall also serve as the Director, Defense Prisoner of War/Missing Personnel Office, as established under paragraph (6)(A), exercising authority, direction, and control over that activity.
+(2) Subject to the authority, direction, and control of the Secretary of Defense, the responsibilities of the designated Agency Director shall include the following:
 
-(3) In carrying out the responsibilities established under this subsection, the official designated under paragraph (1) and (2) shall be responsible for the coordination for such purposes within the Department of Defense among the military departments, the Joint Staff, and the commanders of the combatant commands.
+  (A) Policy, control, and oversight within the Department of Defense of the entire process for investigation and recovery related to missing persons, including matters related to search, rescue, escape, and evasion.
 
-(4) The designated official shall establish policies, which shall apply uniformly throughout the Department of Defense, for personnel recovery (including search, rescue, escape, and evasion) and for personnel accounting (including locating, recovering, and identifying missing persons or their remains after hostilities have ceased).
+  (B) Policy, control, and oversight of the program established under [section 1509 of this title](./chapter-076-missing-persons.md#section-1509).
 
-(5) The designated official shall establish procedures to be followed by Department of Defense boards of inquiry, and by officials reviewing the reports of such boards, under this chapter.
+  (C) Responsibility for accounting for missing persons, including locating, recovering, and identifying missing persons or their remains after hostilities have ceased.
 
-(6)
+  (D) Coordination for the Department of Defense with other departments and agencies of the United States on all matters concerning missing persons.
 
-  (A) The Secretary of Defense shall establish an activity to account for personnel who are missing or whose remains have not been recovered from the conflict in which they were lost. This activity shall be known as the Defense Prisoner of War/Missing Personnel Office. The Secretary of Defense shall ensure that the activity is provided sufficient military and civilian personnel, and sufficient funding, to enable the activity to fully perform the complete range of missions of the activity. The Secretary shall ensure that Department of Defense programming, planning, and budgeting procedures are structured so as to ensure compliance with the preceding sentence for each fiscal year.
+  (E) Dissemination of appropriate information on the status of missing persons to authorized family members.
 
-  (B)
+  (F) Establishment of a means for communication between officials of the designated Defense Agency and family members of missing persons, veterans service organizations, concerned citizens, and the public on the Department’s efforts to account for missing persons, including a readily available means for communication of their views and recommendations to the designated Agency Director.
 
-    (i) For any fiscal year, the number of military and civilian personnel, whether temporary or permanent, assigned or detailed activity may not be less than the number requested in the President’s budget for fiscal year 2003, unless a level below such number is expressly required by law.
+(3) In carrying out the responsibilities established under this subsection, the designated Agency Director shall be responsible for the coordination for such purposes within the Department of Defense among the military departments, the Joint Staff, and the commanders of the combatant commands.
 
-    (ii) If for any reason the number of military and civilian personnel assigned or detailed activity should fall below the required level under clause (i), the Secretary of Defense shall promptly notify the Committees on Armed Services of the Senate and House of Representatives of the number of personnel so assigned or detailed and of the Secretary’s plan to restore the staffing level of the activity to at least the required minimum number under clause (i). The Secretary shall publish such notice and plan in the Federal Register.
+(4) The designated Agency Director shall establish policies, which shall apply uniformly throughout the Department of Defense, for personnel recovery (including search, rescue, escape, and evasion) and for personnel accounting (including locating, recovering, and identifying missing persons or their remains after hostilities have ceased).
 
-  (C) For any fiscal year, the level of funding allocated to the activity within the Department of Defense may not be below the level requested for such purposes in the President’s budget for fiscal year 2003, unless such a level of funding is expressly required by law.
+(5) The designated Agency Director shall establish procedures to be followed by Department of Defense boards of inquiry, and by officials reviewing the reports of such boards, under this chapter.
 
 **(b) Uniform DoD Procedures.—**
 
@@ -77,6 +77,10 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–291 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to responsibility for missing personnel, consisting of pars. (1) to (6).
+
+2013—Subsec. (a)(1)(D). Pub. L. 113–66 added subpar. (D).
+
 2011—Subsec. (a). Pub. L. 111–383, § 901(g)(1), substituted “Responsibility for Missing Personnel” for “Office for Missing Personnel” in heading.
 
 Subsec. (a)(1). Pub. L. 111–383, § 901(g)(2)(A)–(C), in introductory provisions, substituted “designate within the Office of the Secretary of Defense an official as the Deputy Assistant Secretary of Defense for Prisoner of War/Missing Personnel Affairs to have responsibility for Department of Defense matters” for “establish within the Office of the Secretary of Defense an office to have responsibility for Department of Defense policy”, struck out “Such office shall be known as the Defense Prisoner of War/Missing Personnel Office.” after “persons.”, and substituted “of the official designated under this paragraph” for “of the office”.
@@ -136,6 +140,33 @@ Pub. L. 105–85, div. A, title IX, § 934, Nov. 18, 1997, 111 Stat. 1866, as am
 
 #### Congressional Statement of Purpose
 Pub. L. 104–106, div. A, title V, § 569(a), Feb. 10, 1996, 110 Stat. 336, provided that: “The purpose of this section [enacting this chapter and [section 655 of this title](./chapter-037-general-service-requirements.md#section-655), amending sections 552, 553, 555, and 556 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under [section 5561 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5561&num=0&edition=prelim), Government Organization and Employees] is to ensure that any member of the Armed Forces (and any Department of Defense civilian employee or contractor employee who serves with or accompanies the Armed Forces in the field under orders) who becomes missing or unaccounted for is ultimately accounted for by the United States and, as a general rule, is not declared dead solely because of the passage of time.”
+
+
+<a id="section-1501a"></a>
+## § 1501a. Public-private partnerships; other forms of support
+**(a) Public-private Partnerships.—** The Secretary of Defense may enter into arrangements known as public-private partnerships with appropriate entities outside the Government for the purposes of facilitating the activities of the designated Defense Agency. The Secretary may only partner with foreign governments or foreign entities with the concurrence of the Secretary of State. Any such arrangement shall be entered into in accordance with authorities provided under this section or any other authority otherwise available to the Secretary. Regulations prescribed under subsection (e)(1) shall include provisions for the establishment and implementation of such partnerships.
+
+**(b) Acceptance of Voluntary Personal Services.—** The Secretary of Defense may accept voluntary services to facilitate accounting for missing persons in the same manner as the Secretary of a military department may accept such services under [section 1588(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1588/a/9&num=0&edition=prelim).
+
+**(c) Cooperative Agreements and Grants.—**
+
+(1) **In general.—** — The Secretary of Defense may enter into a cooperative agreement with, or make a grant to, a private entity for purposes related to support of the activities of the designated Defense Agency.
+
+(2) **Inapplicability of certain contract requirements.—** — Notwithstanding [section 2304(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/k&num=0&edition=prelim), the Secretary may enter such cooperative agreements or grants on a sole-source basis pursuant to [section 2304(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c/5&num=0&edition=prelim).
+
+**(d) Use of Department of Defense Personal Property.—** The Secretary may allow a private entity to use, at no cost, personal property of the Department of Defense to assist the entity in supporting the activities of the designated Defense Agency.
+
+**(e) Regulations.—**
+
+(1) **In general.—** — The Secretary of Defense shall prescribe regulations to implement this section.
+
+(2) **Limitation.—** — Such regulations shall provide that acceptance of a gift (including a gift of services) or use of a gift under this section may not occur if the nature or circumstances of the acceptance or use would compromise the integrity, or the appearance of integrity, of any program of the Department of Defense or any individual involved in such program.
+
+**(f) Definitions.—** In this section:
+
+(1) **Cooperative agreement.—** — The term “cooperative agreement” means an authorized cooperative agreement as described in [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim).
+
+(2) **Grant.—** — The term “grant” means an authorized grant as described in [section 6304 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6304&num=0&edition=prelim).
 
 
 <a id="section-1502"></a>
@@ -468,17 +499,21 @@ Subsec. (d)(4). Pub. L. 104–201, § 578(a)(3)(B), substituted “section 1503(
 
 **(c) Action Upon Discovery or Receipt of Information.—**
 
-(1) Whenever any United States intelligence agency or other element of the Government finds or receives information that may be related to a missing person, the information shall promptly be forwarded to the office established under [section 1501 of this title](./chapter-076-missing-persons.md#section-1501).
+(1) Whenever any United States intelligence agency or other element of the Government finds or receives information that may be related to a missing person, the information shall promptly be forwarded to the designated Agency Director.
 
-(2) Upon receipt of information under paragraph (1), the head of the office established under [section 1501 of this title](./chapter-076-missing-persons.md#section-1501) shall as expeditiously as possible ensure that the information is added to the appropriate case file for that missing person and notify (A) the designated missing person’s counsel for that person, and (B) the primary next of kin and any previously designated person for the missing person of the existence of that information.
+(2) Upon receipt of information under paragraph (1), the designated Agency Director shall as expeditiously as possible ensure that the information is added to the appropriate case file for that missing person and notify (A) the designated missing person’s counsel for that person, and (B) the primary next of kin and any previously designated person for the missing person of the existence of that information.
 
-(3) The head of the office established under [section 1501 of this title](./chapter-076-missing-persons.md#section-1501), with the advice of the missing person’s counsel notified under paragraph (2), shall determine whether the information is significant enough to require a board review under this section.
+(3) The designated Agency Director, with the advice of the missing person’s counsel notified under paragraph (2), shall determine whether the information is significant enough to require a board review under this section.
 
 **(d) Conduct of Proceedings.—** If it is determined that such a board should be appointed, the appointment of, and activities before, a board appointed under this section shall be governed by the provisions of [section 1504 of this title](./chapter-076-missing-persons.md#section-1504) with respect to a board appointed under that section.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (c)(1). Pub. L. 113–291, § 916(c)(1), substituted “the designated Agency Director” for “the office established under [section 1501 of this title](./chapter-076-missing-persons.md#section-1501)”.
+
+Subsec. (c)(2), (3). Pub. L. 113–291, § 916(c)(2), substituted “designated Agency Director” for “head of the office established under [section 1501 of this title](./chapter-076-missing-persons.md#section-1501)”.
+
 1996—Subsec. (b). Pub. L. 104–201 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
 “(1) In the case of a missing person who was last known to be alive or who was last suspected of being alive, the Secretary shall appoint a board to conduct an inquiry with respect to a person under this subsection—
@@ -520,17 +555,23 @@ Subsec. (d)(4). Pub. L. 104–201, § 578(a)(3)(B), substituted “section 1503(
 
 (1) The Secretary concerned shall withhold from personnel files under this section, as privileged information, debriefing reports provided by missing persons returned to United States control which are obtained under a promise of confidentiality made for the purpose of ensuring the fullest possible disclosure of information.
 
-(2) If a debriefing report contains non-derogatory information about the status and whereabouts of a missing person other than the source of the debriefing report or about unnamed missing persons, the Secretary concerned shall prepare an extract of the non-derogatory information. That extract, following a review by the source of the debriefing report, shall be placed in the personnel file of each missing person named in the debriefing report in such a manner as to protect the identity of the source providing the information. Any information contained in the extract of the debriefing report that pertains to unnamed missing persons shall be made reasonably accessible to the primary next of kin, members of the immediate family, and the previously designated person.
+(2) The Secretary concerned shall withhold from personnel files under this section, as privileged information, any survival, evasion, resistance, and escape debriefing report provided by a person described in [section 1501(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1501/c&num=0&edition=prelim) who is returned to United States control which is obtained under a promise of confidentiality made for the purpose of ensuring the fullest possible disclosure of information.
 
-(3) Whenever the Secretary concerned withholds a debriefing report, or part of a debriefing report, from a personnel file under this subsection, the Secretary shall ensure that the file contains a notice that withheld information exists.
+(3) If a debriefing report contains non-derogatory information about the status and whereabouts of a missing person other than the source of the debriefing report or about unnamed missing persons, the Secretary concerned shall prepare an extract of the non-derogatory information. That extract, following a review by the source of the debriefing report, shall be placed in the personnel file of each missing person named in the debriefing report in such a manner as to protect the identity of the source providing the information. Any information contained in the extract of the debriefing report that pertains to unnamed missing persons shall be made reasonably accessible to the primary next of kin, members of the immediate family, and the previously designated person.
+
+(4) Whenever the Secretary concerned withholds a debriefing report, or part of a debriefing report, from a personnel file under this subsection, the Secretary shall ensure that the file contains a notice that withheld information exists.
 
 **(e) Availability of Information.—** The Secretary concerned shall, upon request, make available the contents of the personnel file of a missing person to the primary next of kin, the other members of the immediate family, or any other previously designated person of the person.
 
-**(f) Nondisclosure of Certain Information.—** A record of the content of a debriefing of a missing person returned to United States control during the period beginning on July 8, 1959, and ending on February 10, 1996, that was conducted by an official of the United States authorized to conduct the debriefing is privileged information and, notwithstanding sections 552 and 552a of title 5, may not be disclosed, in whole or in part, under either such section. However, this subsection does not limit the responsibility of the Secretary concerned under paragraphs (2) and (3) of subsection (d) to place extracts of non-derogatory information, or a notice of the existence of such information, in the personnel file of a missing person.
+**(f) Nondisclosure of Certain Information.—** A record of the content of a debriefing of a missing person returned to United States control during the period beginning on July 8, 1959, and ending on February 10, 1996, that was conducted by an official of the United States authorized to conduct the debriefing is privileged information and, notwithstanding sections 552 and 552a of title 5, may not be disclosed, in whole or in part, under either such section. However, this subsection does not limit the responsibility of the Secretary concerned under paragraphs (3) and (4) of subsection (d) to place extracts of non-derogatory information, or a notice of the existence of such information, in the personnel file of a missing person.
 
 ### Statutory Notes
 
 #### Amendments
+2013—Subsec. (d)(2) to (4). Pub. L. 113–66, § 582(a)(1), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (f). Pub. L. 113–66, § 582(a)(2), substituted “paragraphs (3) and (4)” for “paragraphs (2) and (3)”.
+
 2001—Subsec. (b)(2). Pub. L. 107–107 designated existing provisions as subpar. (A), inserted “of all missing persons from the conflict or period of war to which the classified information pertains” before period at end, and added subpar. (B).
 
 1999—Subsec. (f). Pub. L. 106–65 added subsec. (f).
@@ -594,7 +635,7 @@ Subsec. (d)(3). Pub. L. 105–85, § 599(g)(2), inserted “, or part of a debri
 
 
 <a id="section-1509"></a>
-## § 1509. Program to resolve preenactment missing person cases
+## § 1509. Program to resolve missing person cases
 **(a) Program Required; Covered Conflicts.—** The Secretary of Defense shall implement a comprehensive, coordinated, integrated, and fully resourced program to account for persons described in subparagraph (A) or (B) of [section 1513(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1513/1&num=0&edition=prelim) who are unaccounted for from the following conflicts:
 
 (1) World War II during the period beginning on December 7, 1941, and ending on December 31, 1946, including members of the armed forces who were lost during flight operations in the Pacific theater of operations covered by section 576 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; [10 U.S.C. 1501](./chapter-076-missing-persons.md#section-1501) note).
@@ -609,27 +650,29 @@ Subsec. (d)(3). Pub. L. 105–85, § 599(g)(2), inserted “, or part of a debri
 
 (6) Such other conflicts in which members of the armed forces served as the Secretary of Defense may designate.
 
-**(b) Implementation Process.—**
+**(b) Implementation.—**
 
-(1) The Secretary of Defense shall implement the program within the Department of Defense POW/MIA accounting community.
+(1) The Secretary of Defense shall implement the program within the Department of Defense through the designated Agency Director.
 
-(2) For purposes of paragraph (1), the term “POW/MIA accounting community” means:
+(2)
 
-  (A) The Defense Prisoner of War/Missing Personnel Office (DPMO).
+  (A) The Secretary shall assign or detail to the designated Defense Agency on a full-time basis a senior medical examiner from the personnel of the Armed Forces Medical Examiner System. The primary duties of the medical examiner so assigned or detailed shall include the identification of remains in support of the function of the designated Agency Director to account for unaccounted for persons covered by subsection (a).
 
-  (B) The Joint POW/MIA Accounting Command (JPAC).
+  (B) In carrying out functions under this chapter, the medical examiner so assigned or detailed shall report to the designated Agency Director.
 
-  (C) The Armed Forces DNA Identification Laboratory (AFDIL).
+  (C) The medical examiner so assigned or detailed shall—
 
-  (D) The Life Sciences Equipment Laboratory of the Air Force (LSEL).
+    (i) exercise scientific identification authority;
 
-  (E) The casualty and mortuary affairs offices of the military departments.
+    (ii) establish identification and laboratory policy consistent with the Armed Forces Medical Examiner System; and
 
-  (F) Any other element of the Department of Defense whose mission (as designated by the Secretary of Defense) involves the accounting for and recovery of members of the armed forces who are missing in action, prisoners of war, or unaccounted for.
+    (iii) advise the designated Agency Director on forensic science disciplines.
+
+  (D) Nothing in this chapter shall be interpreted as affecting the authority of the Armed Forces Medical Examiner under [section 1471 of this title](./chapter-075-deceased-personnel.md#section-1471).
 
 **(c) Treatment as Missing Persons.—** Each unaccounted for person covered by subsection (a) shall be considered to be a missing person for purposes of the applicability of other provisions of this chapter to the person.
 
-**(d) Establishment of Personnel Files.—**
+**(d) Establishment of Personnel Files; Centralized Database.—**
 
 (1) The Secretary of Defense shall ensure that a personnel file is established and maintained for each person covered by subsection (a) if the Secretary—
 
@@ -640,6 +683,8 @@ Subsec. (d)(3). Pub. L. 105–85, § 599(g)(2), inserted “, or part of a debri
 (2) The Secretary of Defense shall ensure that each file established under this subsection contains all relevant information pertaining to a person covered by subsection (a) and is readily accessible to all elements of the department, the combatant commands, and the armed forces involved in the effort to account for the person.
 
 (3) Each file established under this subsection shall be handled in accordance with, and subject to the provisions of, [section 1506 of this title](./chapter-076-missing-persons.md#section-1506) in the same manner as applies to the file of a missing person otherwise subject to such section.
+
+(4) The Secretary of Defense shall establish and maintain a single centralized database and case management system containing information on all missing persons for whom a file has been established under this subsection. The database and case management system shall be accessible to all elements of the Department of Defense involved in the search, recovery, identification, and communications phases of the program established by this section.
 
 **(e) Review of Status Requirements.—**
 
@@ -659,13 +704,33 @@ Subsec. (d)(3). Pub. L. 105–85, § 599(g)(2), inserted “, or part of a debri
 
 **(f) Coordination Requirements.—**
 
-(1) In establishing and carrying out the program, the Secretary of Defense shall coordinate with the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, and the commanders of the combatant commands.
+(1) In carrying out the program, the designated Agency Director shall ensure coordination with the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, and the commanders of the combatant commands.
 
-(2) In carrying out the program, the Secretary of Defense shall establish close coordination with the Department of State, the Central Intelligence Agency, and the National Security Council to enhance the ability of the Department of Defense POW/MIA accounting community to account for persons covered by subsection (a).
+(2) In carrying out the program, the Secretary of Defense shall establish close coordination with the Department of State, the Central Intelligence Agency, and the National Security Council staff to enhance the ability of the Department of Defense to account for persons covered by subsection (a).
+
+(3) In carrying out the program, the designated Agency Director shall coordinate all external communications and events associated with the program.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Pub. L. 113–291, § 916(f)(1), substituted “Program to resolve missing person cases” for “Program to resolve preenactment missing person cases” in section catchline.
+
+Subsec. (b). Pub. L. 113–291, § 916(d)(1)(A), struck out “Process” after “Implementation” in heading.
+
+Subsec. (b)(1). Pub. L. 113–291, § 916(d)(1)(B), substituted “through the designated Agency Director” for “POW/MIA accounting community”.
+
+Subsec. (b)(2). Pub. L. 113–291, § 916(d)(1)(C), added par. (2) and struck out former par. (2) which defined “POW/MIA accounting community”.
+
+Subsec. (d). Pub. L. 113–291, § 916(d)(2)(A), inserted “; Centralized Database” after “Files” in heading.
+
+Subsec. (d)(4). Pub. L. 113–291, § 916(d)(2)(B), added par. (4).
+
+Subsec. (f)(1). Pub. L. 113–291, § 916(d)(3)(A), substituted “In carrying out the program, the designated Agency Director shall ensure coordination” for “In establishing and carrying out the program, the Secretary of Defense shall coordinate”
+
+Subsec. (f)(2). Pub. L. 113–291, § 916(d)(3)(B), inserted “staff” after “National Security Council” and struck out “POW/MIA accounting community” after “Department of Defense”.
+
+Subsec. (f)(3). Pub. L. 113–291, § 916(d)(3)(C), added par. (3).
+
 2009—Pub. L. 111–84 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to review of status of missing person cases arising before enactment of this chapter.
 
 1999—Subsec. (a)(2)(A), (B). Pub. L. 106–65 substituted “November 18, 1997,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998”.
@@ -730,7 +795,7 @@ In this chapter:
   (A) a member of the armed forces on active duty who is in a missing status; or
 
   (B) a civilian employee of the Department of Defense or an employee of a contractor of the Department of Defense who serves in direct support of, or accompanies, the armed forces in the field under orders and who is in a missing status.
-  Such term includes an unaccounted for person described in subsection (a) of [section 1509 of this title](./chapter-076-missing-persons.md#section-1509) who is required by subsection (b) of such section to be considered a missing person.
+  Such term includes an unaccounted for person described in subsection (a) of [section 1509 of this title](./chapter-076-missing-persons.md#section-1509) who is required by subsection (c) of such section to be considered a missing person.
 
 (2) The term “missing status” means the status of a missing person who is determined to be absent in a category of any of the following:
 
@@ -776,9 +841,15 @@ In this chapter:
 
 (8) The term “theater component commander” means, with respect to any of the combatant commands, an officer of any of the armed forces who (A) is commander of all forces of that armed force assigned to that combatant command, and (B) is directly subordinate to the commander of the combatant command.
 
+(9) The term “survival, evasion, resistance, and escape debriefing” means an interview conducted with a person described in [section 1501(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1501/c&num=0&edition=prelim) who is returned to United States control in order to record the person’s experiences while surviving, evading, resisting interrogation or exploitation, or escaping.
+
 ### Statutory Notes
 
 #### Amendments
+2014—Par. (1). Pub. L. 113–291 substituted “subsection (c)” for “subsection (b)” in concluding provisions.
+
+2013—Par. (9). Pub. L. 113–66 added par. (9).
+
 2009—Par. (1). Pub. L. 111–84 substituted “subsection (a) of [section 1509 of this title](./chapter-076-missing-persons.md#section-1509) who is required by subsection (b) of such section” for “[section 1509(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1509/b&num=0&edition=prelim) who is required by [section 1509(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1509/a/1&num=0&edition=prelim)” in concluding provisions.
 
 1999—Par. (1). Pub. L. 106–65 substituted “who is required by [section 1509(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1509/a/1&num=0&edition=prelim) to be considered a missing person” for “, under the circumstances specified in the last sentence of [section 1509(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1509/a&num=0&edition=prelim)” in concluding provisions.

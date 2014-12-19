@@ -49,7 +49,7 @@ Par. (6). Pub. L. 102–240, §§ 5002(a), 6017, redesignated par. (5) as (6) an
 
 Pars. (7), (8). Pub. L. 102–240, § 5002(a), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
-#### Public-private Partnerships
+#### Public-Private Partnerships
 Pub. L. 112–141, div. A, title I, § 1534, July 6, 2012, 126 Stat. 584, provided that: “(a) Best Practices.—The Secretary [of Transportation] shall compile, and make available to the public on the website of the Department [of Transportation], best practices on how States, public transportation agencies, and other public officials can work with the private sector in the development, financing, construction, and operation of transportation facilities. “(b) Contents.—The best practices compiled under subsection (a) shall include polices and techniques to ensure that the interests of the traveling public and State and local governments are protected in any agreement entered into with the private sector for the development, financing, construction, and operation of transportation facilities. “(c) Technical Assistance.—The Secretary, on request, may provide technical assistance to States, public transportation agencies, and other public officials regarding proposed public-private partnership agreements for the development, financing, construction, and operation of transportation facilities, including assistance in analyzing whether the use of a public-private partnership agreement would provide value compared with traditional public delivery methods. “(d) Standard Transaction Contracts.—“(1) Development.—Not later than 18 months after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary shall develop standard public-private partnership transaction model contracts for the most popular types of public-private partnerships for the development, financing, construction, and operation of transportation facilities. “(2) Use.—The Secretary shall encourage States, public transportation agencies, and other public officials to use the model contracts as a base template when developing their own public-private partnership agreements for the development, financing, construction, and operation of transportation facilities.”
 
 #### Vessel Transfer Authority
@@ -202,7 +202,7 @@ Amendment by section 1036(a) of Pub. L. 102–240 effective Dec. 18, 1991, and a
 
 (2) **Historic sites.—** — With respect to historic sites, the Secretary may make a finding of de minimis impact only if—
 
-  (A) the Secretary has determined, in accordance with the consultation process required under section 106 of the National Historic Preservation Act ([16 U.S.C. 470f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470f&num=0&edition=prelim)), that—
+  (A) the Secretary has determined, in accordance with the consultation process required under [section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim), United States Code,22 So in original. The words “, United States Code,” probably should not appear. that—
 
     (i) the transportation program or project will have no adverse effect on the historic site; or
 
@@ -238,6 +238,8 @@ In subsection (c), before clause (1), the words “After August 23, 1968” afte
 [Section 204 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section204&num=0&edition=prelim), referred to in subsec. (c), was repealed and a new section 204 enacted by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473, 489.
 
 #### Amendments
+2014—Subsec. (d)(2)(A). Pub. L. 113–287 substituted “[section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim), United States Code” for “section 106 of the National Historic Preservation Act ([16 U.S.C. 470f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470f&num=0&edition=prelim))” in introductory provisions.
+
 2005—Subsec. (c). Pub. L. 109–59, § 6009(a)(2)(A), inserted heading and substituted “Subject to subsection (d), the Secretary” for “The Secretary” in introductory provisions.
 
 Subsec. (d). Pub. L. 109–59, § 6009(a)(2)(B), added subsec. (d).
@@ -509,7 +511,8 @@ Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as
 (2) extent to which the ports contribute to the national welfare and security; and
 
 (3) factors that may impede the continued development of the ports.
-[(d) Repealed. Pub. L. 104–66, title I, § 1121(h), Dec. 21, 1995, 109 Stat. 724.]
+
+**(d)** Repealed. Pub. L. 104–66, title I, § 1121(h), Dec. 21, 1995, 109 Stat. 724.]
 
 **(e)**
 
@@ -1520,3 +1523,10 @@ The text of section 228 of Pub. L. 106–159, formerly set out as a note under s
 
 #### Amendments
 2003—Pub. L. 108–168 renumbered section 228 of Pub. L. 106–159 as this section and substituted “Investigative authority of Inspector General” for “DOT Authority” in section catchline. See Codification note above.
+
+#### Deposit of Forfeited Funds
+Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2724, provided in part: “That hereafter funds transferred to the Office of the Inspector General through forfeiture proceedings or from the Department of Justice Assets Forfeiture Fund or the Department of the Treasury Forfeiture Fund, as a participating agency, as an equitable share from the forfeiture of property in investigations in which the Office of Inspector General participates, or through the granting of a Petition for Remission or Mitigation, shall be deposited to the credit of this account [Office of Inspector General, Salaries and Expenses] for law enforcement activities authorized under the Inspector General Act of 1978, as amended [5 U.S.C. App], to remain available until expended.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 600.

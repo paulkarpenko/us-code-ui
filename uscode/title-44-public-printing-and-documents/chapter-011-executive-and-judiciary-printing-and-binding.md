@@ -9,7 +9,7 @@ source: >-
 <a id="section-1101"></a>
 ## § 1101. Printing and binding for the President
 
-The Public Printer shall execute such printing and binding for the President as he may order and make requisition for.
+The Director of the Government Publishing Office shall execute such printing and binding for the President as he may order and make requisition for.
 
 ### Statutory Notes
 
@@ -19,14 +19,17 @@ Based on 44 U.S. Code, 1964 ed., § 211 (Jan. 12, 1895, ch. 23, § 88, 28 Stat. 
 #### Codification
 Section constitutes part of section 88 of act Jan. 12, 1895. Remainder of section is classified to [section 1713 of this title](./chapter-017-distribution-and-sale-of-public-documents.md#section-1713).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-1102"></a>
-## § 1102. Printing to be authorized by law and necessary to the public business, not in excess of appropriation, and on special requisition filed with the Public Printer
-**(a)** A head of an executive department, or of an independent agency or establishment of the Government may not cause to be printed, and the Public Printer may not print, a document or matter unless it is authorized by law and necessary to the public business.
+## § 1102. Printing to be authorized by law and necessary to the public business, not in excess of appropriation, and on special requisition filed with the Director of the Government Publishing Office
+**(a)** A head of an executive department, or of an independent agency or establishment of the Government may not cause to be printed, and the Director of the Government Publishing Office may not print, a document or matter unless it is authorized by law and necessary to the public business.
 
 **(b)** Printing may not be done for an executive department, independent agency or establishment in a fiscal year in excess of the amount of the appropriation.
 
-**(c)** Printing may not be done without a special requisition signed by the chief of the department, independent agency or establishment and filed with the Public Printer.
+**(c)** Printing may not be done without a special requisition signed by the chief of the department, independent agency or establishment and filed with the Director of the Government Publishing Office.
 
 ### Statutory Notes
 
@@ -35,11 +38,16 @@ Based on 44 U.S. Code, 1964 ed., §§ 213, 219 (Jan. 12, 1895, ch. 23, § 89, 94
 
 This section incorporates the first paragraph of former section 213 and the first clause of former section 219. The balance of former section 213 will be found in sections 1116, 1302, 1308, 1309, 1310, 1336 of the revision; that of former section 219 in section 1113 of the revision.
 
+#### Amendments
+2014—Pub. L. 113–235, § 1301(c)(2), substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline.
+
+Subsecs. (a), (c). Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-1103"></a>
 ## § 1103. Certificate of necessity; estimate of cost
 
-When a department, the Supreme Court, or the Library of Congress requires printing or binding to be done, it shall certify that it is necessary for the public service. The Public Printer shall then furnish an estimate of cost by principal items, after which requisitions may be made upon him for the printing or binding by the head of the department, the Clerk of the Supreme Court, or the Librarian of Congress, respectively. The Public Printer shall place the cost to the debit of the department in its annual appropriation for printing and binding.
+When a department, the Supreme Court, or the Library of Congress requires printing or binding to be done, it shall certify that it is necessary for the public service. The Director of the Government Publishing Office shall then furnish an estimate of cost by principal items, after which requisitions may be made upon him for the printing or binding by the head of the department, the Clerk of the Supreme Court, or the Librarian of Congress, respectively. The Director of the Government Publishing Office shall place the cost to the debit of the department in its annual appropriation for printing and binding.
 
 ### Statutory Notes
 
@@ -47,6 +55,8 @@ When a department, the Supreme Court, or the Library of Congress requires printi
 Based on 44 U.S. Code, 1964 ed., § 117 (Jan. 12, 1895, ch. 23, § 93, 28 Stat. 623; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, sec. 127, 63 Stat. 107).
 
 #### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in two places.
+
 1982—Pub. L. 97–164 struck out the Court of Claims from the enumeration of entities for which printing or binding may be done for the public service and struck out the chief judge of the Court of Claims from the enumeration of officials who make requisitions upon the Public Printer for printing or binding.
 
 #### Effective Date of 1982 Amendment
@@ -69,12 +79,15 @@ The term “executive department, independent office, or establishment of the Go
 <a id="section-1105"></a>
 ## § 1105. Form and style of work for departments
 
-The Public Printer shall determine the form and style in which the printing or binding ordered by a department is executed, and the material and the size of type used, having proper regard to economy, workmanship, and the purposes for which the work is needed.
+The Director of the Government Publishing Office shall determine the form and style in which the printing or binding ordered by a department is executed, and the material and the size of type used, having proper regard to economy, workmanship, and the purposes for which the work is needed.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 216 (Jan. 12, 1895, ch. 23, § 51, 28 Stat. 608).
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 
 <a id="section-1106"></a>
@@ -110,7 +123,7 @@ A proviso in the 1906 resolution, requiring annual estimates of probable costs f
 <a id="section-1108"></a>
 ## § 1108. Presidential approval required for printing of periodicals; number printed; sale to public
 
-The head of an executive department, independent agency or establishment of the Government, with the approval of the President, may use from the appropriations available for printing and binding such sums as are necessary for the printing of journals, magazines, periodicals, and similar publications he certifies in writing to be necessary in the transaction of the public business required by law of the department, office, or establishment. There may be printed, in addition to those necessary for the public business, not to exceed two thousand copies for free distribution by the issuing department, office, or establishment. The Public Printer, subject to regulation by the Joint Committee on Printing, shall print additional copies required for sale to the public by the Superintendent of Documents; but the printing of these additional copies may not interfere with the prompt execution of printing for the Government.
+The head of an executive department, independent agency or establishment of the Government, with the approval of the President, may use from the appropriations available for printing and binding such sums as are necessary for the printing of journals, magazines, periodicals, and similar publications he certifies in writing to be necessary in the transaction of the public business required by law of the department, office, or establishment. There may be printed, in addition to those necessary for the public business, not to exceed two thousand copies for free distribution by the issuing department, office, or establishment. The Director of the Government Publishing Office, subject to regulation by the Joint Committee on Printing, shall print additional copies required for sale to the public by the Superintendent of Documents; but the printing of these additional copies may not interfere with the prompt execution of printing for the Government.
 
 ### Statutory Notes
 
@@ -118,6 +131,8 @@ The head of an executive department, independent agency or establishment of the 
 Based on 44 U.S. Code, 1964 ed., § 220 (May 11, 1922, ch. 189, § 1, 42 Stat. 541; June 30, 1932, ch. 314, § 307, 47 Stat. 409).
 
 #### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 1984—Pub. L. 98–216 substituted “Presidential” for “Bureau of Budget” in section catchline and substituted “President” for “Director of the Bureau of the Budget” in text.
 
 #### Delegation of Functions
@@ -127,30 +142,35 @@ Authority of President under this section to approve use, from appropriations av
 <a id="section-1109"></a>
 ## § 1109. Printing documents in two or more editions; full number and allotment of full quota
 
-The number of copies of a public document or report authorized to be printed for an executive department, independent agency, or establishment of the Government may be supplied in two or more editions, instead of one, upon a requisition on the Public Printer by the head of the department or independent office, but the aggregate of the editions may not exceed the number of copies otherwise authorized. This section does not preclude the printing of the full number of a document or report, or the allotment of the full quota to Senators and Representatives, as otherwise authorized, when a legitimate demand for the full complement is known to exist.
+The number of copies of a public document or report authorized to be printed for an executive department, independent agency, or establishment of the Government may be supplied in two or more editions, instead of one, upon a requisition on the Director of the Government Publishing Office by the head of the department or independent office, but the aggregate of the editions may not exceed the number of copies otherwise authorized. This section does not preclude the printing of the full number of a document or report, or the allotment of the full quota to Senators and Representatives, as otherwise authorized, when a legitimate demand for the full complement is known to exist.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 224 (Mar. 30, 1906, No. 14, 34 Stat. 826).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-1110"></a>
 ## § 1110. Daily examination of Congressional Record for immediate ordering of documents for official use; limit; bills and resolutions
 
-The heads of executive departments, independent agencies and establishments, respectively, shall cause daily examination of the Congressional Record for the purpose of noting documents, reports, and other publications of interest to their departments, and shall cause an immediate order to be sent to the Public Printer for the number of copies of the publications required for official use, not to exceed, however, the number of bureaus in the department and divisions in the office of the head. The Public Printer shall send to each executive department, independent agency and establishment, as soon as printed, five copies of public bills and resolutions, except to the State Department, to which he shall send ten copies of bills and resolutions. When the head of a department, independent agency or establishment desires a greater number of a class of bills or resolutions for official use, the Public Printer shall furnish them on requisition promptly made.
+The heads of executive departments, independent agencies and establishments, respectively, shall cause daily examination of the Congressional Record for the purpose of noting documents, reports, and other publications of interest to their departments, and shall cause an immediate order to be sent to the Director of the Government Publishing Office for the number of copies of the publications required for official use, not to exceed, however, the number of bureaus in the department and divisions in the office of the head. The Director of the Government Publishing Office shall send to each executive department, independent agency and establishment, as soon as printed, five copies of public bills and resolutions, except to the State Department, to which he shall send ten copies of bills and resolutions. When the head of a department, independent agency or establishment desires a greater number of a class of bills or resolutions for official use, the Director of the Government Publishing Office shall furnish them on requisition promptly made.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 215 (Jan. 12, 1895, ch. 23, § 90, 28 Stat. 623; June 20, 1936, ch. 630, title IX, § 14, 49 Stat. 1553).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
+
 
 <a id="section-1111"></a>
-## § 1111. Annual reports: time for furnishing manuscript and proofs to Public Printer
+## § 1111. Annual reports: time for furnishing manuscript and proofs to Director of the Government Publishing Office
 
-Annual reports and accompanying documents shall be printed, made public, and available for distribution not later than within the first five days after the assembling of each regular session of Congress.
-This section does not apply to the annual reports of the Smithsonian Institution, the Comptroller of the Currency, or the Secretary of the Treasury.
+The appropriations made for printing and binding may not be used for an annual report or the accompanying documents unless the manuscript and proof is furnished to the Director of the Government Publishing Office in the following manner:
 
 ### Statutory Notes
 
@@ -158,6 +178,8 @@ This section does not apply to the annual reports of the Smithsonian Institution
 Based on 44 U.S. Code, 1964 ed., Supp. II, § 121 (July 1, 1916, ch. 209, § 3, 39 Stat. 336; June 20, 1936, ch. 630, § 8, 49 Stat. 1550).
 
 #### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and introductory provisions of first undesignated par.
+
 1999—Pub. L. 106–113 struck out “the Commissioner of Patents,” after “Smithsonian Institution,” in last par.
 
 1976—Pub. L. 94–273 substituted “February” for “November” and “March” for “December” wherever appearing.
@@ -213,9 +235,9 @@ Positions of Chief Signal Officer and Chief of Ordinance of Army Department abol
 
 
 <a id="section-1115"></a>
-## § 1115. Annual reports: time of delivery by Public Printer to Congress
+## § 1115. Annual reports: time of delivery by Director of the Government Publishing Office to Congress
 
-The annual reports of the Executive Departments and the accompanying documents shall be delivered by the Public Printer to the proper officer of each House of Congress at its first meeting. Other reports of the Executive Departments shall be so delivered on or before the third Wednesday next after the meeting of Congress or as soon after as may be practicable.
+The annual reports of the Executive Departments and the accompanying documents shall be delivered by the Director of the Government Publishing Office to the proper officer of each House of Congress at its first meeting. Other reports of the Executive Departments shall be so delivered on or before the third Wednesday next after the meeting of Congress or as soon after as may be practicable.
 
 ### Statutory Notes
 
@@ -223,6 +245,9 @@ The annual reports of the Executive Departments and the accompanying documents s
 Based on 44 U.S. Code 1964 ed., § 212 (part) (R.S. 3810).
 
 This section incorporates only the first sentence of former section 212. The balance will be found in section 1114 of this revision.
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and text.
 
 
 <a id="section-1116"></a>
@@ -278,29 +303,35 @@ This section incorporates only the first sentence of former section 92. The bala
 <a id="section-1120"></a>
 ## § 1120. Blanks and letterheads for judges and officers of courts
 
-Blanks and letterheads for use by judges and other officials of the United States courts, other than those required to be paid for by any of these officers out of the emoluments of their offices, shall be printed at the Government Printing Office upon forms prescribed by the Department of Justice, and shall be distributed by it upon requisition.
+Blanks and letterheads for use by judges and other officials of the United States courts, other than those required to be paid for by any of these officers out of the emoluments of their offices, shall be printed at the Government Publishing Office upon forms prescribed by the Department of Justice, and shall be distributed by it upon requisition.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 119 (Jan. 12, 1895, ch. 23, § 97, 28 Stat. 624).
 
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+
 
 <a id="section-1121"></a>
 ## § 1121. Paper and envelopes for Government agencies in the District of Columbia
 
-The Public Printer may procure, under direction of the Joint Committee on Printing, as provided by sections 509–516 of this title, and furnish on requisition, paper and envelopes (not including envelopes printed in the course of manufacture) in common use by two or more departments, establishments, or services of the Government in the District of Columbia, and reimbursement shall be made to the Public Printer from appropriations or funds available for the purpose. Paper and envelopes so furnished by the Public Printer may not be procured in any other manner.
+The Director of the Government Publishing Office may procure, under direction of the Joint Committee on Printing, as provided by sections 509–516 of this title, and furnish on requisition, paper and envelopes (not including envelopes printed in the course of manufacture) in common use by two or more departments, establishments, or services of the Government in the District of Columbia, and reimbursement shall be made to the Director of the Government Publishing Office from appropriations or funds available for the purpose. Paper and envelopes so furnished by the Director of the Government Publishing Office may not be procured in any other manner.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 225 (June 7, 1924, ch. 303, § 1, 43 Stat. 592).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
+
 
 <a id="section-1122"></a>
 ## § 1122. Supplies for Government establishments
 
-The Public Printer may procure and supply, on the requisition of the head of an executive department, independent office or establishment of the Government, complete manifold blanks, books, and forms required in duplicating processes, and complete patented devices with which to file money-order statements, or other uniform official papers, and charge them to the allotment for printing and binding of the department or Government establishment requiring them.
+The Director of the Government Publishing Office may procure and supply, on the requisition of the head of an executive department, independent office or establishment of the Government, complete manifold blanks, books, and forms required in duplicating processes, and complete patented devices with which to file money-order statements, or other uniform official papers, and charge them to the allotment for printing and binding of the department or Government establishment requiring them.
 
 ### Statutory Notes
 
@@ -308,6 +339,9 @@ The Public Printer may procure and supply, on the requisition of the head of an 
 Based on 44 U.S. Code, 1964 ed., § 227 (June 28, 1902, ch. 1301, § 1, 32 Stat. 481).
 
 The term “executive department, independent office, or establishment of the government” is substituted for “executive department or other government establishment” for uniformity.
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 
 <a id="section-1123"></a>

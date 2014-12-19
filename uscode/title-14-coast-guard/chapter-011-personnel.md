@@ -2,7 +2,7 @@
 title: 14
 chapter: '11'
 heading: PERSONNEL
-section_count: 109
+section_count: 111
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -1115,6 +1115,12 @@ Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88
 (2) if the Secretary receives written notice from the officer withdrawing that consent, shall end not later than the end of the sixty-day period beginning on the date the Secretary receives that notice.
 
 
+<a id="section-296"></a>
+## § 296. Flag officers
+
+During any period in which the Coast Guard is not operating as a service in the Navy, [section 1216(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1216/d&num=0&edition=prelim) does not apply with respect to flag officers of the Coast Guard.
+
+
 <a id="section-301-302"></a>
 ## § 301, 302. Repealed. Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177]
 
@@ -1791,7 +1797,8 @@ Under regulations prescribed by the Secretary, an enlisted member may be detaine
 
 (3) during a period of war or national emergency as proclaimed by the President, and, in the interest of national defense, for a period not to exceed six months after the end of the war or the termination of the emergency; or
 
-(4) for a period of not exceeding thirty days in other cases whether or not specifically covered by this section, when essential to the public interests, and the determination that such detention is essential to the public interests, made in accordance with regulations prescribed by the Secretary, shall be final and conclusive. Any member detained in the Coast Guard as provided in this section shall be entitled to receive pay and allowances and benefits under the same conditions as though his enlistment period had not expired, and shall be subject in all respects to the laws and regulations for the government of the Coast Guard until his discharge therefrom. Enlisted members detained under the provisions of clause (1) shall be entitled to the pay and allowances provided for enlisted personnel of the Navy detained under similar circumstances.
+(4) for a period of not exceeding thirty days in other cases whether or not specifically covered by this section, when essential to the public interests, and the determination that such detention is essential to the public interests, made in accordance with regulations prescribed by the Secretary, shall be final and conclusive.
+Any member detained in the Coast Guard as provided in this section shall be entitled to receive pay and allowances and benefits under the same conditions as though his enlistment period had not expired, and shall be subject in all respects to the laws and regulations for the government of the Coast Guard until his discharge therefrom. Enlisted members detained under the provisions of clause (1) shall be entitled to the pay and allowances provided for enlisted personnel of the Navy detained under similar circumstances.
 
 ### Statutory Notes
 
@@ -2094,6 +2101,17 @@ Pub. L. 111–281, title II, § 207(c), Oct. 15, 2010, 124 Stat. 2912, provided 
 (2) **Retirements and separations.—** — A covered individual who is determined, based on a reevaluation under paragraph (1), to be unfit to perform the duties of the covered individual’s office, grade, rank, or rating may be retired or separated for physical disability under this chapter.
 
 **(c) Covered Individual Defined.—** In this section, the term “covered individual” means any member of the Coast Guard who has been determined by a Physical Evaluation Board, pursuant to a physical evaluation by that board, to be fit for duty.
+
+
+<a id="section-428"></a>
+## § 428. Sea service letters
+**(a) In General.—** The Secretary shall provide a sea service letter to a member or former member of the Coast Guard who—
+
+(1) accumulated sea service on a vessel of the armed forces (as such term is defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim)); and
+
+(2) requests such letter.
+
+**(b) Deadline.—** Not later than 30 days after receiving a request for a sea service letter from a member or former member of the Coast Guard under subsection (a), the Secretary shall provide such letter to such member or former member if such member or former member satisfies the requirement under subsection (a)(1).
 
 
 <a id="section-431"></a>

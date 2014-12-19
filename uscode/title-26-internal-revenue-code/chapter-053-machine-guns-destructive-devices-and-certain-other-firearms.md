@@ -215,7 +215,8 @@ No firearm shall be imported or brought into the United States or any territory 
 
 (2) being imported or brought in for scientific or research purposes; or
 
-(3) being imported or brought in solely for testing or use as a model by a registered manufacturer or solely for use as a sample by a registered importer or registered dealer; except that, the Secretary may permit the conditional importation or bringing in of a firearm for examination and testing in connection with classifying the firearm.
+(3) being imported or brought in solely for testing or use as a model by a registered manufacturer or solely for use as a sample by a registered importer or registered dealer;
+except that, the Secretary may permit the conditional importation or bringing in of a firearm for examination and testing in connection with classifying the firearm.
 
 ### Statutory Notes
 

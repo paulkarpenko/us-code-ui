@@ -72,7 +72,7 @@ July 12, 1943, ch. 215, 57 Stat. 407.
 1951—Act Oct. 31, 1951, struck out provisions relating to sale of surplus bee-breeding stock, and the fixing of rates and disposition of proceeds in connection therewith.
 
 #### Effective Date of 1981 Amendment
-Amendment by Pub. L. 97–98 effective on Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+Amendment by Pub. L. 97–98 effective on Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4301&num=0&edition=prelim).
 
 
 <a id="section-284"></a>

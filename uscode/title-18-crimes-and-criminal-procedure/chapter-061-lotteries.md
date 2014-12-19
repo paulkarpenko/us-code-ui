@@ -2,7 +2,7 @@
 title: 18
 chapter: '61'
 heading: LOTTERIES
-section_count: 7
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -179,3 +179,28 @@ Amendment by Pub. L. 100–625 effective 18 months after Nov. 7, 1988, see secti
 
 #### Severability
 Pub. L. 100–625, § 4, Nov. 7, 1988, 102 Stat. 3206, provided that: “If any provision of this Act or the amendments made by this Act [amending sections 1304 and 1307 of this title and [section 3005 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3005&num=0&edition=prelim), Postal Service, and enacting provisions set out as notes under sections 1301 and 1304 of this title], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
+
+
+<a id="section-1308"></a>
+## § 1308. Limitation of applicability
+**(a) Limitation of Applicability.—** Sections 1301, 1302, 1303, 1304, and 1306 shall not apply—
+
+(1) to a savings promotion raffle conducted by an insured depository institution or an insured credit union; or
+
+(2) to any activity conducted in connection with any such savings promotion raffle, including, without limitation, to the—
+
+  (A) transmission of any advertisement, list of prizes, or other information concerning the savings promotion raffle;
+
+  (B) offering, facilitation, and acceptance of deposits, withdrawals, or other transactions in connection with the savings promotion raffle;
+
+  (C) transmission of any information relating to the savings promotion raffle, including account balance and transaction information; and
+
+  (D) deposit or transmission of prizes awarded in the savings promotion raffle as well as notification or publication thereof.
+
+**(b) Definitions.—** In this section—
+
+(1) the term “insured credit union” shall have the meaning given the term in section 101 of the Federal Credit Union Act ([12 U.S.C. 1752](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1752&num=0&edition=prelim));
+
+(2) the term “insured depository institution” shall have the meaning given the term in section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim)); and
+
+(3) the term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 1002 of the Consumer Financial Protection Act of 2010 ([12 U.S.C. 5481](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5481&num=0&edition=prelim))).

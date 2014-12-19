@@ -34,9 +34,13 @@ source: >-
 
 **(f) Full Deployment.—** In this chapter, the term “full deployment” means, with respect to a major automated information system program, the fielding of an increment of the program in accordance with the terms of a full deployment decision.
 
+**(g) Extension of a Program.—** In this chapter, the term “extension of a program” means, with respect to a major automated information system program or other major information technology investment program, the further deployment or planned deployment to additional users of the system which has already been found operationally effective and suitable by an independent test agency or the Director of Operational Test and Evaluation, beyond the scope planned in the original estimate or information originally submitted on the program.
+
 ### Statutory Notes
 
 #### Amendments
+2013—Subsec. (g). Pub. L. 113–66 added subsec. (g).
+
 2009—Subsecs. (e), (f). Pub. L. 111–84 added subsecs. (e) and (f).
 
 2008—Pub. L. 110–417, § 812(a)(2), substituted “Definitions” for “Major automated information system program defined” in section catchline.
@@ -59,7 +63,7 @@ Pub. L. 109–364, div. A, title VIII, § 816(c), Oct. 17, 2006, 120 Stat. 2326,
 
 (2) The implementation schedule, including estimates of milestone dates, full deployment decision, and full deployment.
 
-(3) Estimates of development costs and full life-cycle costs.
+(3) Estimates of total acquisition costs and full life-cycle costs.
 
 (4) A summary of key performance parameters.
 
@@ -92,6 +96,8 @@ Pub. L. 109–364, div. A, title VIII, § 816(c), Oct. 17, 2006, 120 Stat. 2326,
 ### Statutory Notes
 
 #### Amendments
+2013—Subsec. (b)(3). Pub. L. 113–66 substituted “total acquisition costs” for “development costs”.
+
 2011—Subsec. (b)(5), (6). Pub. L. 111–383 added pars. (5) and (6).
 
 2009—Subsec. (b)(2). Pub. L. 111–84 substituted “full deployment decision, and full deployment” for “initial operational capability, and full operational capability”.
@@ -121,27 +127,29 @@ Subsec. (d). Pub. L. 110–417, § 812(b)(3), added subsec. (d).
 
   (A) there has been a schedule change that will cause a delay of more than six months but less than a year in any program schedule milestone or significant event from the schedule originally submitted to Congress under paragraph (1) or (2) of [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim);
 
-  (B) the estimated program development cost or full life-cycle cost for the program has increased by at least 15 percent, but less than 25 percent, over the original estimate submitted to Congress under paragraph (3) of [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim); or
+  (B) the estimated total acquisition cost or full life-cycle cost for the program has increased by at least 15 percent, but less than 25 percent, over the original estimate submitted to Congress under paragraph (3) of [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim);
 
-  (C) there has been a significant, adverse change in the expected performance of the major automated information system to be acquired under the program from the parameters originally submitted to Congress under paragraph (4) of [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim).
+  (C) there has been a significant, adverse change in the expected performance of the major automated information system to be acquired under the program from the parameters originally submitted to Congress under paragraph (4) of [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim); or
+
+  (D) the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest).
 
 **(d) Report on Critical Changes in Program.—**
 
-(1) **In general.—** — If, based on a quarterly report submitted by the program manager of a major automated information system program or other major information technology investment program pursuant to subsection (a), the senior Department of Defense official responsible for the program makes a determination described in paragraph (2), the official shall, not later than 60 days after receiving such report—
+(1) **In general.—** — If, based on a quarterly report submitted by the program manager of a major automated information system program or other major information technology investment program pursuant to subsection (a), the senior Department of Defense official responsible for the program makes a determination described in paragraph (3), the official shall, not later than 60 days after receiving such report—
 
   (A) carry out an evaluation of the program under subsection (e); and
 
   (B) submit, through the Secretary of Defense, to the congressional defense committees a report meeting the requirements of subsection (f).
 
-(2) **Covered determination.—** — A determination described in this paragraph with respect to a major automated information system program or other major information technology investment program is a determination that—
+(2) **Certification when variance due to extension of program.—** — If an official with milestone decision authority for a program who, following receipt of a quarterly report described in paragraph (1) and making a determination described in paragraph (3), also determines that the circumstances resulting in the determination described in paragraph (3) are primarily due to an extension of a program and involve minimal developmental risk, the official may, in lieu of carrying out an evaluation and submitting a report in accordance with paragraph (1), submit to the congressional defense committees, within 45 days after receiving the quarterly report, a certification that the official has made those determinations. If such a certification is submitted, the limitation in subsection (g)(1) does not apply with respect to that determination under paragraph (3).
 
-  (A) the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest);
+(3) **Covered determination.—** — A determination described in this paragraph with respect to a major automated information system program or other major information technology investment program is a determination that—
 
-  (B) there has been a schedule change that will cause a delay of one year or more in any program schedule milestone or significant event from the schedule originally submitted to Congress under paragraph (1) or (2) of [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim) or [section 2445b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/d&num=0&edition=prelim), as applicable;
+  (A) there has been a schedule change that will cause a delay of one year or more in any program schedule milestone or significant event from the schedule originally submitted to Congress under paragraph (1) or (2) of [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim) or [section 2445b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/d&num=0&edition=prelim), as applicable;
 
-  (C) the estimated program development cost or full life-cycle cost for the program has increased by 25 percent or more over the original estimate submitted to Congress under paragraph (3) of [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim) or [section 2445b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/d&num=0&edition=prelim), as applicable; or
+  (B) the estimated total acquisition cost or full life-cycle cost for the program has increased by 25 percent or more over the original estimate submitted to Congress under paragraph (3) of [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim) or [section 2445b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/d&num=0&edition=prelim), as applicable; or
 
-  (D) there has been a change in the expected performance of the major automated information system or major information technology investment to be acquired under the program that will undermine the ability of the system to perform the functions anticipated at the time information on the program was originally submitted to Congress under [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim) or [section 2445b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/d&num=0&edition=prelim), as applicable.
+  (C) there has been a change in the expected performance of the major automated information system or major information technology investment to be acquired under the program that will undermine the ability of the system to perform the functions anticipated at the time information on the program was originally submitted to Congress under [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim) or [section 2445b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/d&num=0&edition=prelim), as applicable.
 
 **(e) Program Evaluation.—** The evaluation of a major automated information system program or other major information technology investment program conducted under this subsection for purposes of subsection (d)(1)(A) shall include an assessment of—
 
@@ -163,13 +171,31 @@ Subsec. (d). Pub. L. 110–417, § 812(b)(3), added subsec. (d).
 
 **(g) Prohibition on Obligation of Funds.—**
 
-(1) If the determination of a critical change to a program is made by the senior Department official responsible for the program under subsection (d)(2) and a report is not submitted to Congress within the 60-day period provided by subsection (d)(1), appropriated funds may not be obligated for any major contract under the program.
+(1) If the determination of a critical change to a program is made by the senior Department official responsible for the program under subsection (d)(3) and a report is not submitted to Congress within the 60-day period provided by subsection (d)(1), appropriated funds may not be obligated for any major contract under the program.
 
-(2) The prohibition on the obligation of funds for a program under paragraph (1) shall cease to apply on the date on which Congress has received a report in compliance with the requirements of subsection (d)(2).
+(2) The prohibition on the obligation of funds for a program under paragraph (1) shall cease to apply on the date on which Congress has received a report under subsection (d)(1)(B).
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (c)(2)(D). Pub. L. 113–291, § 802(a), added subpar. (D).
+
+Subsec. (d)(2). Pub. L. 113–291, § 802(c), substituted “are primarily due to an extension of a program and involve” for “(A) is primarily due to an extension of a program, and (B) involves”.
+
+Subsec. (d)(3). Pub. L. 113–291, § 802(b), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest);”.
+
+2013—Subsec. (c)(2)(B). Pub. L. 113–66, § 1092(d)(2)(A), substituted “total acquisition cost” for “program development cost”.
+
+Subsec. (d)(1). Pub. L. 113–66, § 1092(b)(1), substituted “paragraph (3)” for “paragraph (2)” in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 113–66, § 1092(b)(3), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (d)(3). Pub. L. 113–66, § 1092(b)(2), (d)(2)(B), redesignated par. (2) as (3) and substituted “total acquisition cost” for “program development cost” in subpar. (C).
+
+Subsec. (g)(1). Pub. L. 113–66, § 1092(c), substituted “subsection (d)(3)” for “subsection (d)(2)”.
+
+Subsec. (g)(2). Pub. L. 113–66, § 1092(e), substituted “under subsection (d)(1)(B)” for “in compliance with the requirements of subsection (d)(2)”.
+
 2011—Subsec. (d)(2)(A). Pub. L. 112–81 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the automated information system or information technology investment failed to achieve a full deployment decision within five years after funds were first obligated for the program;”.
 
 2009—Subsec. (d)(2)(A). Pub. L. 111–84 substituted “a full deployment decision” for “initial operational capability”.

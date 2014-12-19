@@ -18,7 +18,7 @@ source: >-
 
 **(b) Omitted**
 
-**(c) Rule of construction** Nothing in this chapter or in section 514 of the International Claims Settlement Act of 1949 [[22 U.S.C. 1643](./chapter-021-settlement-of-international-claims.md#section-1643)l], as added by subsection (b) of this section, shall be construed—
+**(c) Rule of construction** Nothing in this chapter or in section 514 of the International Claims Settlement Act of 1949 [[22 U.S.C. 1643](./chapter-021-settlement-of-international-claims.md#section-1643)l], as added by subsection (b), shall be construed—
 
 (1) to require or otherwise authorize the claims of Cuban nationals who became United States citizens after their property was confiscated to be included in the claims certified to the Secretary of State by the Foreign Claims Settlement Commission for purposes of future negotiation and espousal of claims with a friendly government in Cuba when diplomatic relations are restored; or
 
@@ -29,7 +29,7 @@ source: >-
 #### References in Text
 The International Claims Settlement Act of 1949, referred to in subsecs. (a)(1), (2) and (c)(2), is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended. Title V of the Act is classified generally to subchapter V (§ 1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1621 of this title](./chapter-021-settlement-of-international-claims.md#section-1621) and Tables.
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title](./chapter-69a-cuban-liberty-and-democratic-solidarity-libertad.md#section-6021) and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title](./chapter-69a-cuban-liberty-and-democratic-solidarity-libertad.md#section-6021) and Tables.
 
 #### Codification
 Section is comprised of section 303 of Pub. L. 104–114. Subsec. (b) of section 303 of Pub. L. 104–114 enacted section 1643l of this title.
@@ -43,13 +43,13 @@ An action under [section 6082 of this title](./chapter-69a-cuban-liberty-and-dem
 
 <a id="section-6023"></a>
 ## § 6023. Effective date
-**(a) In general** Subject to subsections (b) and (c) of this section, this subchapter and the amendments made by this subchapter shall take effect on August 1, 1996.
+**(a) In general** Subject to subsections (b) and (c), this subchapter and the amendments made by this subchapter shall take effect on August 1, 1996.
 
 **(b) Suspension authority**
 
-(1) **Suspension authority** — The President may suspend the effective date under subsection (a) of this section for a period of not more than 6 months if the President determines and reports in writing to the appropriate congressional committees at least 15 days before such effective date that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
+(1) **Suspension authority** — The President may suspend the effective date under subsection (a) for a period of not more than 6 months if the President determines and reports in writing to the appropriate congressional committees at least 15 days before such effective date that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
 
-(2) **Additional suspensions** — The President may suspend the effective date under subsection (a) of this section for additional periods of not more than 6 months each, each of which shall begin on the day after the last day of the period during which a suspension is in effect under this subsection, if the President determines and reports in writing to the appropriate congressional committees at least 15 days before the date on which the additional suspension is to begin that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
+(2) **Additional suspensions** — The President may suspend the effective date under subsection (a) for additional periods of not more than 6 months each, each of which shall begin on the day after the last day of the period during which a suspension is in effect under this subsection, if the President determines and reports in writing to the appropriate congressional committees at least 15 days before the date on which the additional suspension is to begin that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
 
 **(c) Other authorities**
 
@@ -63,7 +63,7 @@ An action under [section 6082 of this title](./chapter-69a-cuban-liberty-and-dem
 
 (3) **Pending suits** — The suspensions of actions under paragraph (1) shall not affect suits commenced before the date of such suspension, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if the suspension had not occurred.
 
-**(d) Rescission of suspension** The President may rescind any suspension made under subsection (b) or (c) of this section upon reporting to the appropriate congressional committees that doing so will expedite a transition to democracy in Cuba.
+**(d) Rescission of suspension** The President may rescind any suspension made under subsection (b) or (c) upon reporting to the appropriate congressional committees that doing so will expedite a transition to democracy in Cuba.
 
 ### Statutory Notes
 
@@ -139,7 +139,7 @@ Barack Obama.
 
     (iv) transactions and uses of property by a person who is both a citizen of Cuba and a resident of Cuba, and who is not an official of the Cuban Government or the ruling political party in Cuba.
 
-**(c) Exemption** This section shall not apply where the Secretary of State finds, on a case by case basis, that the entry into the United States of the person who would otherwise be excluded under this section is necessary for medical reasons or for purposes of litigation of an action under subchapter III of this chapter.
+**(c) Exemption** This section shall not apply where the Secretary of State finds, on a case by case basis, that the entry into the United States of the person who would otherwise be excluded under this section is necessary for medical reasons or for purposes of litigation of an action under subchapter III.
 
 **(d) Effective date**
 
@@ -150,7 +150,7 @@ Barack Obama.
 ### Statutory Notes
 
 #### References in Text
-Subchapter III of this chapter, referred to in subsec. (c), was in the original “title III”, meaning title III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 814, which enacted subchapter III of this chapter and sections 1643l and 1643m of this title and amended [section 1611 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1611&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Tables.
+Subchapter III, referred to in subsec. (c), was in the original “title III”, meaning title III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 814, which enacted subchapter III of this chapter and sections 1643l and 1643m of this title and amended [section 1611 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1611&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Tables.
 
 #### Reports on Determinations Under Title IV of the LIBERTAD Act
 Pub. L. 105–277, div. G, subdiv. B, title XXVIII, § 2802, Oct. 21, 1998, 112 Stat. 2681–845, as amended by Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 209(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–423; Pub. L. 107–228, div. A, title II, § 216(b), Sept. 30, 2002, 116 Stat. 1366, provided that: “(a) Reports Required.—Not later than 30 days after the date of the enactment of this Act [Oct. 21, 1998] and every 3 months thereafter during the period ending September 30, 2003, the Secretary of State shall submit to the appropriate congressional committees [Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate] a report on the implementation of section 401 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 ([22 U.S.C. 6091](./chapter-69a-cuban-liberty-and-democratic-solidarity-libertad.md#section-6091)). Each report shall include—“(1) an unclassified list, by economic sector, of the number of entities then under review pursuant to that section; “(2) an unclassified list of all entities and a classified list of all individuals that the Secretary of State has determined to be subject to that section; “(3) an unclassified list of all entities and a classified list of all individuals that the Secretary of State has determined are no longer subject to that section; “(4) an explanation of the status of the review underway for the cases referred to in paragraph (1); and “(5) an unclassified explanation of each determination of the Secretary of State under section 401(a) of that Act and each finding of the Secretary under section 401(c) of that Act—“(A) since the date of the enactment of this Act, in the case of the first report under this subsection; and “(B) in the preceding 3-month period, in the case of each subsequent report. “(b) Protection of Identity of Concerned Entities.—In preparing the report under subsection (a), the names of entities shall not be identified under paragraph (1) or (4).”
@@ -258,7 +258,7 @@ The purposes of this chapter are—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title](./chapter-69a-cuban-liberty-and-democratic-solidarity-libertad.md#section-6021) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title](./chapter-69a-cuban-liberty-and-democratic-solidarity-libertad.md#section-6021) and Tables.
 
 
 <a id="section-6033"></a>
@@ -272,7 +272,7 @@ As used in this chapter, the following terms have the following meanings:
 
 (3) **Commercial activity** — The term “commercial activity” has the meaning given that term in [section 1603(d) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1603/d&num=0&edition=prelim).
 
-(4) **Confiscated** — As used in subchapters I and III of this chapter, the term “confiscated” refers to—
+(4) **Confiscated** — As used in subchapters I and III, the term “confiscated” refers to—
 
   (A) the nationalization, expropriation, or other seizure by the Cuban Government of ownership or control of property, on or after January 1, 1959—
 
@@ -326,7 +326,7 @@ As used in this chapter, the following terms have the following meanings:
 
 (13) **Traffics**
 
-  (A) As used in subchapter III of this chapter, and except as provided in subparagraph (B), a person “traffics” in confiscated property if that person knowingly and intentionally—
+  (A) As used in subchapter III, and except as provided in subparagraph (B), a person “traffics” in confiscated property if that person knowingly and intentionally—
 
     (i) sells, transfers, distributes, dispenses, brokers, manages, or otherwise disposes of confiscated property, or purchases, leases, receives, possesses, obtains control of, manages, uses, or otherwise acquires or holds an interest in confiscated property,
 
@@ -356,6 +356,8 @@ As used in this chapter, the following terms have the following meanings:
 ### Statutory Notes
 
 #### References in Text
+This chapter, referred to in introductory provisions, was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title](./chapter-69a-cuban-liberty-and-democratic-solidarity-libertad.md#section-6021) and Tables.
+
 Subchapters I and III of this chapter, referred to in pars. (4), (12)(B), and (13)(A), were in the original references to titles I and III, meaning titles I and III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 791, 814. Title I of Pub. L. 104–114 enacted subchapter I (§ 6031 et seq.) of this chapter, amended sections 2295a, 2295b, 6003, and 6004 of this title and [section 16 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section16&num=0&edition=prelim), Appendix, War and National Defense, and repealed subchapters V–A (§ 1465 et seq.) and V–B (1465aa et seq.) of chapter 18 of this title. Title III of Pub. L. 104–114 enacted subchapter III (§ 6081 et seq.) of this chapter and sections 1643l and 1643m of this title and amended [section 1611 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1611&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of titles I and III to the Code, see Tables.
 
 The Cuban Democracy Act of 1992, referred to in par. (7)(A), is title XVII of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2575, which is classified principally to chapter 69 (§ 6001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6001 of this title](./chapter-069-cuban-democracy.md#section-6001) and Tables.
@@ -372,6 +374,11 @@ Committee on International Relations of House of Representatives changed to Comm
 ## § 6034. Severability
 
 If any provision of this chapter or the amendments made by this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter, the amendments made by this chapter, or the application thereof to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title](./chapter-69a-cuban-liberty-and-democratic-solidarity-libertad.md#section-6021) and Tables.
 
 
 <a id="section-6035"></a>
@@ -428,11 +435,11 @@ Section is comprised of section 102 of Pub. L. 104–114. Subsec. (d) of section
 
 **(b) Suspension and termination of prohibition**
 
-(1) **Suspension** — The President is authorized to suspend the prohibition contained in subsection (a) of this section upon a determination made under [section 6063(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6063/c/1&num=0&edition=prelim) that a transition government in Cuba is in power.
+(1) **Suspension** — The President is authorized to suspend the prohibition contained in subsection (a) upon a determination made under [section 6063(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6063/c/1&num=0&edition=prelim) that a transition government in Cuba is in power.
 
-(2) **Termination** — The prohibition contained in subsection (a) of this section shall cease to apply on the date on which the economic embargo of Cuba terminates as provided in [section 6064 of this title](./chapter-69a-cuban-liberty-and-democratic-solidarity-libertad.md#section-6064).
+(2) **Termination** — The prohibition contained in subsection (a) shall cease to apply on the date on which the economic embargo of Cuba terminates as provided in [section 6064 of this title](./chapter-69a-cuban-liberty-and-democratic-solidarity-libertad.md#section-6064).
 
-**(c) Penalties** Violations of subsection (a) of this section shall be punishable by such civil penalties as are applicable to violations of the Cuban Assets Control Regulations set forth in part 515 of title 31, Code of Federal Regulations.
+**(c) Penalties** Violations of subsection (a) shall be punishable by such civil penalties as are applicable to violations of the Cuban Assets Control Regulations set forth in part 515 of title 31, Code of Federal Regulations.
 
 **(d) Definitions** As used in this section—
 
@@ -490,7 +497,7 @@ Section is comprised of section 106 of Pub. L. 104–114. Subsecs. (b), (c), and
 ## § 6041. Television broadcasting to Cuba
 **(a) Conversion to UHF** The Director of the International Broadcasting Bureau shall implement a conversion of television broadcasting to Cuba under the Television Marti Service to ultra high frequency (UHF) broadcasting.
 
-**(b) Periodic reports** Not later than 45 days after March 12, 1996, and every three months thereafter until the conversion described in subsection (a) of this section is fully implemented, the Director of the International Broadcasting Bureau shall submit a report to the appropriate congressional committees on the progress made in carrying out subsection (a) of this section.
+**(b) Periodic reports** Not later than 45 days after March 12, 1996, and every three months thereafter until the conversion described in subsection (a) is fully implemented, the Director of the International Broadcasting Bureau shall submit a report to the appropriate congressional committees on the progress made in carrying out subsection (a).
 
 **(c) Termination of broadcasting authorities** Upon transmittal of a determination under [section 6063(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6063/c/3&num=0&edition=prelim), the Television Broadcasting to Cuba Act ([22 U.S.C. 1465aa](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) and following) and the Radio Broadcasting to Cuba Act ([22 U.S.C. 1465](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) and following) are repealed.
 
@@ -512,7 +519,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 ## § 6042. Reports on commerce with, and assistance to, Cuba from other foreign countries
 **(a) Reports required** Not later than 90 days after March 12, 1996, and by January 1 of each year thereafter until the President submits a determination under [section 6063(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6063/c/1&num=0&edition=prelim), the President shall submit a report to the appropriate congressional committees on commerce with, and assistance to, Cuba from other foreign countries during the preceding 12-month period.
 
-**(b) Contents of reports** Each report required by subsection (a) of this section shall, for the period covered by the report, contain the following, to the extent such information is available:
+**(b) Contents of reports** Each report required by subsection (a) shall, for the period covered by the report, contain the following, to the extent such information is available:
 
 (1) A description of all bilateral assistance provided to Cuba by other foreign countries, including humanitarian assistance.
 
@@ -715,7 +722,7 @@ The President shall instruct all United States Government officials who engage i
 
 **(b) Assurance against espionage** In implementing this section, the President shall take all necessary steps to ensure the safety and security of the United States against espionage by Cuban journalists it believes to be working for the intelligence agencies of the Cuban Government.
 
-**(c) Fully reciprocal** As used in subsection (a)(1) of this section, the term “fully reciprocal” means that all news services, news organizations, and broadcasting services, including such services or organizations that receive financing, assistance, or other support from a governmental or official source, are permitted to establish and operate a news bureau in the United States and Cuba.
+**(c) Fully reciprocal** As used in subsection (a)(1), the term “fully reciprocal” means that all news services, news organizations, and broadcasting services, including such services or organizations that receive financing, assistance, or other support from a governmental or official source, are permitted to establish and operate a news bureau in the United States and Cuba.
 
 
 <a id="section-6063"></a>
@@ -864,9 +871,9 @@ The policy of the United States is as follows:
 
   (C) *Military adjustment assistance* — Assistance to a transition government in Cuba and to a democratically elected government in Cuba shall also include assistance in preparing the Cuban military forces to adjust to an appropriate role in a democracy.
 
-**(c) Strategy for distribution** The plan developed under subsection (b) of this section shall include a strategy for distributing assistance under the plan.
+**(c) Strategy for distribution** The plan developed under subsection (b) shall include a strategy for distributing assistance under the plan.
 
-**(d) Distribution** Assistance under the plan developed under subsection (b) of this section shall be provided through United States Government organizations and nongovernmental organizations and private and voluntary organizations, whether within or outside the United States, including humanitarian, educational, labor, and private sector organizations.
+**(d) Distribution** Assistance under the plan developed under subsection (b) shall be provided through United States Government organizations and nongovernmental organizations and private and voluntary organizations, whether within or outside the United States, including humanitarian, educational, labor, and private sector organizations.
 
 **(e) International efforts** The President shall take the necessary steps—
 
@@ -905,7 +912,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B)(i), is Pub.
 
 The Food for Peace Act, referred to in subsec. (b)(2)(B)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1691&num=0&edition=prelim) and Tables.
 
-This chapter, referred to in subsec. (e)(1), was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title](./chapter-69a-cuban-liberty-and-democratic-solidarity-libertad.md#section-6021) and Tables.
+This chapter, referred to in subsec. (e)(1), was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title](./chapter-69a-cuban-liberty-and-democratic-solidarity-libertad.md#section-6021) and Tables.
 
 The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Act is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
 
@@ -928,7 +935,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 (3) ensuring coordination among, and appropriate oversight by, the agencies of the United States that provide assistance described in [section 6062(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6062/b&num=0&edition=prelim), including resolving any disputes among such agencies.
 
-**(b) United States-Cuba council** Upon making a determination under subsection (c)(3) of this section that a democratically elected government in Cuba is in power, the President, after consultation with the coordinating official, is authorized to designate a United States-Cuba council—
+**(b) United States-Cuba council** Upon making a determination under subsection (c)(3) that a democratically elected government in Cuba is in power, the President, after consultation with the coordinating official, is authorized to designate a United States-Cuba council—
 
 (1) to ensure coordination between the United States Government and the private sector in responding to change in Cuba, and in promoting market-based development in Cuba; and
 
@@ -955,7 +962,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 ## § 6081. Termination of economic embargo of Cuba
 **(a) Presidential actions** Upon submitting a determination to the appropriate congressional committees under [section 6063(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6063/c/1&num=0&edition=prelim) that a transition government in Cuba is in power, the President, after consultation with the Congress, is authorized to take steps to suspend the economic embargo of Cuba and to suspend the right of action created in [section 6082 of this title](./chapter-69a-cuban-liberty-and-democratic-solidarity-libertad.md#section-6082) with respect to actions thereafter filed against the Cuban Government, to the extent that such steps contribute to a stable foundation for a democratically elected government in Cuba.
 
-**(b) Suspension of certain provisions of law** In carrying out subsection (a) of this section, the President may suspend the enforcement of—
+**(b) Suspension of certain provisions of law** In carrying out subsection (a), the President may suspend the enforcement of—
 
 (1) [section 2370(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2370/a&num=0&edition=prelim);
 
@@ -981,7 +988,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **(e) Review of suspension of economic embargo**
 
-(1) **Review** — If the President takes action under subsection (a) of this section to suspend the economic embargo of Cuba, the President shall immediately so notify the Congress. The President shall report to the Congress no less frequently than every 6 months thereafter, until he submits a determination under [section 6063(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6063/c/3&num=0&edition=prelim) that a democratically elected government in Cuba is in power, on the progress being made by Cuba toward the establishment of such a democratically elected government. The action of the President under subsection (a) of this section shall cease to be effective upon the enactment of a joint resolution described in paragraph (2).
+(1) **Review** — If the President takes action under subsection (a) to suspend the economic embargo of Cuba, the President shall immediately so notify the Congress. The President shall report to the Congress no less frequently than every 6 months thereafter, until he submits a determination under [section 6063(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6063/c/3&num=0&edition=prelim) that a democratically elected government in Cuba is in power, on the progress being made by Cuba toward the establishment of such a democratically elected government. The action of the President under subsection (a) shall cease to be effective upon the enactment of a joint resolution described in paragraph (2).
 
 (2) **Joint resolutions** — For purposes of this subsection, the term “joint resolution” means only a joint resolution of the 2 Houses of Congress, the matter after the resolving clause of which is as follows: “That the Congress disapproves the action of the President under section 204(a) of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 to suspend the economic embargo of Cuba, notice of which was submitted to the Congress on __.”, with the blank space being filled with the appropriate date.
 
@@ -993,7 +1000,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
   (B) For the purpose of expediting the consideration and enactment of joint resolutions, a motion to proceed to the consideration of any joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
-  (C) Not more than 1 joint resolution may be considered in the House of Representatives and the Senate in the 6-month period beginning on the date on which the President notifies the Congress under paragraph (1) of the action taken under subsection (a) of this section, and in each 6-month period thereafter.
+  (C) Not more than 1 joint resolution may be considered in the House of Representatives and the Senate in the 6-month period beginning on the date on which the President notifies the Congress under paragraph (1) of the action taken under subsection (a), and in each 6-month period thereafter.
 
 ### Statutory Notes
 
@@ -1040,7 +1047,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 (8) has given adequate assurances that it will allow the speedy and efficient distribution of assistance to the Cuban people.
 
-**(b) Additional factors** In addition to the requirements in subsection (a) of this section, in determining whether a transition government in Cuba is in power, the President shall take into account the extent to which that government—
+**(b) Additional factors** In addition to the requirements in subsection (a), in determining whether a transition government in Cuba is in power, the President shall take into account the extent to which that government—
 
 (1) is demonstrably in transition from a communist totalitarian dictatorship to representative democracy;
 
@@ -1057,6 +1064,11 @@ Committee on International Relations of House of Representatives changed to Comm
 (3) has extradited or otherwise rendered to the United States all persons sought by the United States Department of Justice for crimes committed in the United States; and
 
 (4) has permitted the deployment throughout Cuba of independent and unfettered international human rights monitors.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title](./chapter-69a-cuban-liberty-and-democratic-solidarity-libertad.md#section-6021) and Tables.
 
 
 <a id="section-6083"></a>
@@ -1083,6 +1095,11 @@ For purposes of this chapter, a democratically elected government in Cuba, in ad
 (5) has made demonstrable progress in establishing an independent judiciary; and
 
 (6) has made demonstrable progress in returning to United States citizens (and entities which are 50 percent or more beneficially owned by United States citizens) property taken by the Cuban Government from such citizens and entities on or after January 1, 1959, or providing full compensation for such property in accordance with international law standards and practice.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title](./chapter-69a-cuban-liberty-and-democratic-solidarity-libertad.md#section-6021) and Tables.
 
 
 <a id="section-6084"></a>
@@ -1225,7 +1242,7 @@ The Congress makes the following findings:
 
 (8) **Publication by Attorney General** — Not later than 60 days after March 12, 1996, the Attorney General shall prepare and publish in the Federal Register a concise summary of the provisions of this subchapter, including a statement of the liability under this subchapter of a person trafficking in confiscated property, and the remedies available to United States nationals under this subchapter.
 
-**(b) Amount in controversy** An action may be brought under this section by a United States national only where the amount in controversy exceeds the sum or value of $50,000, exclusive of interest, costs, and attorneys’ fees. In calculating $50,000 for purposes of the preceding sentence, the applicable amount under subclause (I), (II), or (III) of subsection (a)(1)(A)(i) of this section may not be tripled as provided in subsection (a)(3) of this section.
+**(b) Amount in controversy** An action may be brought under this section by a United States national only where the amount in controversy exceeds the sum or value of $50,000, exclusive of interest, costs, and attorneys’ fees. In calculating $50,000 for purposes of the preceding sentence, the applicable amount under subclause (I), (II), or (III) of subsection (a)(1)(A)(i) may not be tripled as provided in subsection (a)(3).
 
 **(c) Procedural requirements**
 
@@ -1257,7 +1274,7 @@ The Congress makes the following findings:
 
   (B) In the event some or all actions brought under this section are consolidated by judicial or other action in such manner as to create a pool of assets available to satisfy the claims in such actions, including a pool of assets in a proceeding in bankruptcy, every claimant whose claim in an action so consolidated was certified by the Foreign Claims Settlement Commission under title V of the International Claims Settlement Act of 1949 [[22 U.S.C. 1643](./chapter-021-settlement-of-international-claims.md#section-1643) et seq.] shall be entitled to payment in full of its claim from the assets in such pool before any payment is made from the assets in such pool with respect to any claim not so certified.
 
-**(g) Deposit of excess payments by Cuba under claims agreement** Any amounts paid by Cuba under any agreement entered into between the United States and Cuba settling certified claims under title V of the International Claims Settlement Act of 1949 [[22 U.S.C. 1643](./chapter-021-settlement-of-international-claims.md#section-1643) et seq.] that are in excess of the payments made on such certified claims after the application of subsection (f) of this section shall be deposited into the United States Treasury.
+**(g) Deposit of excess payments by Cuba under claims agreement** Any amounts paid by Cuba under any agreement entered into between the United States and Cuba settling certified claims under title V of the International Claims Settlement Act of 1949 [[22 U.S.C. 1643](./chapter-021-settlement-of-international-claims.md#section-1643) et seq.] that are in excess of the payments made on such certified claims after the application of subsection (f) shall be deposited into the United States Treasury.
 
 **(h) Termination of rights**
 

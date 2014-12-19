@@ -428,7 +428,7 @@ shall be sentenced according to the terms of section 1111, including by sentence
 
 <a id="section-1122"></a>
 ## § 1122. Protection against the human immunodeficiency virus
-**(a) In General.—** Whoever, after testing positive for the Human Immunodeficiency Virus (HIV) and receiving actual notice of that fact, knowingly donates or sells, or knowingly attempts to donate or sell, blood, semen, tissues, organs, or other bodily fluids for use by another, except as determined necessary for medical research or testing, shall be fined or imprisoned in accordance with subsection (c).
+**(a) In General.—** Whoever, after testing positive for the Human Immunodeficiency Virus (HIV) and receiving actual notice of that fact, knowingly donates or sells, or knowingly attempts to donate or sell, blood, semen, tissues, organs, or other bodily fluids for use by another, except as determined necessary for medical research or testing or in accordance with all applicable guidelines and regulations made by the Secretary of Health and Human Services under section 377E of the Public Health Service Act, shall be fined or imprisoned in accordance with subsection (c).
 
 **(b) Transmission Not Required.—** Transmission of the Human Immunodeficiency Virus does not have to occur for a person to be convicted of a violation of this section.
 
@@ -436,7 +436,12 @@ shall be sentenced according to the terms of section 1111, including by sentence
 
 ### Statutory Notes
 
+#### References in Text
+Section 377E of the Public Health Service Act, referred to in subsec. (a), is classified to [section 274f–5 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274f–5&num=0&edition=prelim), The Public Health and Welfare.
+
 #### Amendments
+2013—Subsec. (a). Pub. L. 113–51 inserted “or in accordance with all applicable guidelines and regulations made by the Secretary of Health and Human Services under section 377E of the Public Health Service Act” after “research or testing”.
+
 1996—Pub. L. 104–294, § 601(a)(5)(A), renumbered section 1118, relating to protection against human immunodeficiency virus, as this section.
 
 Subsec. (c). Pub. L. 104–294, § 601(a)(5)(B), inserted “under this title” after “fine” and struck out “nor more than $20,000” after “$10,000”.

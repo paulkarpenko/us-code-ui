@@ -2,90 +2,12 @@
 title: 30
 chapter: '22'
 heading: MINE SAFETY AND HEALTH
-section_count: 88
+section_count: 89
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30&num=0&edition=prelim
 ---
 <a id="section-801"></a>
-## § 801. Acceptance of contributions and prosecution of projects; cooperative programs to promote health and safety education and training; recognition and funding of Joseph A. Holmes Safety Association; use of funds for costs of mine rescue and survival operations
-
-The Secretary is authorized to accept lands, buildings, equipment, and other contributions from public and private sources and to prosecute projects in cooperation with other agencies, Federal, State, or private; the Mine Safety and Health Administration is authorized to promote health and safety education and training in the mining community through cooperative programs with States, industry, and safety associations; the Secretary is authorized to recognize the Joseph A. Holmes Safety Association as a principal safety association and, notwithstanding any other provision of law, may provide funds and, with or without reimbursement, personnel, including service of Mine Safety and Health Administration officials as officers in local chapters or in the national organization; and any funds available to the Department of Labor may be used, with the approval of the Secretary, to provide for the costs of mine rescue and survival operations in the event of a major disaster.
-
-### Statutory Notes
-
-#### Codification
-Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
-
-#### Similar Provisions
-Similar provisions were contained in the following prior appropriation acts:
-
-Pub. L. 111–117, div. D, title I, Dec. 16, 2009, 123 Stat. 3235.
-
-Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 759.
-
-Pub. L. 110–161, div. G, title I, Dec. 26, 2007, 121 Stat. 2164.
-
-Pub. L. 109–149, title I, Dec. 30, 2005, 119 Stat. 2841.
-
-Pub. L. 108–447, div. F, title I, Dec. 8, 2004, 118 Stat. 3120.
-
-Pub. L. 108–199, div. E, title I, Jan. 23, 2004, 118 Stat. 233.
-
-Pub. L. 108–7, div. G, title I, Feb. 20, 2003, 117 Stat. 305.
-
-Pub. L. 107–116, title I, Jan. 10, 2002, 115 Stat. 2183.
-
-Pub. L. 106–554, § 1(a)(1) [title I], Dec. 21, 2000, 114 Stat. 2763, 2763A–9.
-
-Pub. L. 106–113, div. B, § 1000(a)(4) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–223.
-
-Pub. L. 105–277, div. A, § 101(f) [title I], Oct. 21, 1998, 112 Stat. 2681–337, 2681–344.
-
-Pub. L. 105–78, title I, Nov. 13, 1997, 111 Stat. 1475.
-
-Pub. L. 104–208, div. A, title I, § 101(e) [title I], Sept. 30, 1996, 110 Stat. 3009–233, 3009–240.
-
-Pub. L. 104–134, title I, § 101(d) [title I], Apr. 26, 1996, 110 Stat. 1321–211, 1321–218; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
-
-Pub. L. 103–333, title I, Sept. 30, 1994, 108 Stat. 2545.
-
-Pub. L. 103–112, title I, Oct. 21, 1993, 107 Stat. 1088.
-
-Pub. L. 102–394, title I, Oct. 6, 1992, 106 Stat. 1797.
-
-Pub. L. 102–170, title I, Nov. 26, 1991, 105 Stat. 1112.
-
-Pub. L. 101–517, title I, Nov. 5, 1990, 104 Stat. 2195.
-
-Pub. L. 101–166, title I, Nov. 21, 1989, 103 Stat. 1164.
-
-Pub. L. 100–436, title I, Sept. 20, 1988, 102 Stat. 1686.
-
-Pub. L. 100–202, § 101(h) [title I], Dec. 22, 1987, 101 Stat. 1329–256, 1329–262.
-
-Pub. L. 99–500, § 101(i) [H.R. 5233, title I], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title I], Oct. 30, 1986, 100 Stat. 3341–287.
-
-Pub. L. 99–178, title I, Dec. 12, 1985, 99 Stat. 1107.
-
-Pub. L. 98–619, title I, Nov. 8, 1984, 98 Stat. 3310.
-
-Pub. L. 98–139, title I, Oct. 31, 1983, 97 Stat. 876.
-
-Pub. L. 97–377, title I, § 101(e)(1) [title I], Dec. 21, 1982, 96 Stat. 1878, 1883.
-
-Pub. L. 97–92, § 101(a) [H.R. 4560, title I], Dec. 15, 1981, 95 Stat. 1183.
-
-Pub. L. 96–536, § 101(a) [incorporating H.R. 4389, title I, for FY 1980], Dec. 16, 1980, 94 Stat. 3166.
-
-Pub. L. 96–123, § 101(g) [H.R. 4389, title I], Nov. 20, 1979, 93 Stat. 925.
-
-Pub. L. 95–480, title I, Oct. 18, 1978, 92 Stat. 1570.
-
-Pub. L. 95–355, title I, Sept. 8, 1978, 92 Stat. 529.
-
-
-<a id="section-802"></a>
-## § 802. Technical Study Panel
+## § 801. Technical Study Panel
 **(a) Establishment** There is established a Technical Study Panel (referred to in this section as the “Panel”) which shall provide independent scientific and engineering review and recommendations with respect to the utilization of belt air and the composition and fire retardant properties of belt materials in underground coal mining.
 
 **(b) Membership** The Panel shall be composed of—
@@ -107,8 +29,8 @@ Pub. L. 95–355, title I, Sept. 8, 1978, 92 Stat. 529.
 **(e) Compensation** Members appointed to the Panel, while carrying out the duties of the Panel shall be entitled to receive compensation, per diem in lieu of subsistence, and travel expenses in the same manner and under the same conditions as that prescribed under [section 210(c) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section210/c&num=0&edition=prelim).
 
 
-<a id="section-803"></a>
-## § 803. Scholarships
+<a id="section-802"></a>
+## § 802. Scholarships
 **(a) Establishment** The Secretary of Education (referred to in this section as the “Secretary”), in consultation with the Secretary of Labor and the Secretary of Health and Human Services, shall establish a program to provide scholarships to eligible individuals to increase the skilled workforce for both private sector coal mine operators and mine safety inspectors and other regulatory personnel for the Mine Safety and Health Administration.
 
 **(b) Fundamental skills scholarships**
@@ -160,8 +82,8 @@ Pub. L. 95–355, title I, Sept. 8, 1978, 92 Stat. 529.
 **(e) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
 
-<a id="section-804"></a>
-## § 804. Brookwood-Sago Mine Safety Grants
+<a id="section-803"></a>
+## § 803. Brookwood-Sago Mine Safety Grants
 **(a) In general** The Secretary of Labor shall establish a program to award competitive grants for education and training, to be known as Brookwood-Sago Mine Safety Grants, to carry out the purposes of this section.
 
 **(b) Purposes** It is the purpose of this section,11 So in original. The comma probably should not appear. to provide for the funding of education and training programs to better identify, avoid, and prevent unsafe working conditions in and around mines.
@@ -190,6 +112,25 @@ Pub. L. 95–355, title I, Sept. 8, 1978, 92 Stat. 529.
 
 #### Codification
 Section was enacted as part of the Mine Improvement and New Emergency Response Act of 2006, also known as the MINER Act, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
+
+
+<a id="section-804"></a>
+## § 804. Retention of fees
+
+The Mine Safety and Health Administration may retain up to $2,499,000 in this fiscal year and each fiscal year thereafter from fees collected for the approval and certification of equipment, materials, and explosives for use in mines, and may utilize such sums for such activities.
+
+### Statutory Notes
+
+#### References in Text
+This fiscal year, referred to in text, is fiscal year 2014.
+
+#### Codification
+Section was enacted as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
+
+#### Similar Provisions
+Similar provisions were contained in the following appropriation act:
+
+Pub. L. 113–235, div. G, title I, Dec. 16, 2014, 128 Stat. 2460.
 
 
 <a id="section-811"></a>
@@ -283,7 +224,7 @@ For the purpose of this chapter, the term—
 
 (1) “coal or other mine” means (A) an area of land from which minerals are extracted in nonliquid form or, if in liquid form, are extracted with workers underground, (B) private ways and roads appurtenant to such area, and (C) lands, excavations, underground passageways, shafts, slopes, tunnels and workings, structures, facilities, equipment, machines, tools, or other property including impoundments, retention dams, and tailings ponds, on the surface or underground, used in, or to be used in, or resulting from, the work of extracting such minerals from their natural deposits in nonliquid form, or if in liquid form, with workers underground, or used in, or to be used in, the milling of such minerals, or the work of preparing coal or other minerals, and includes custom coal preparation facilities. In making a determination of what constitutes mineral milling for purposes of this chapter, the Secretary shall give due consideration to the convenience of administration resulting from the delegation to one Assistant Secretary of all authority with respect to the health and safety of miners employed at one physical establishment;
 
-(2) For purposes of subchapters II, III, and IV of this chapter, “coal mine” means an area of land and all structures, facilities, machinery, tools, equipment, shafts, slopes, tunnels, excavations, and other property, real or personal, placed upon, under, or above the surface of such land by any person, used in, or to be used in, or resulting from, the work of extracting in such area bituminous coal, lignite, or anthracite from its natural deposits in the earth by any means or method, and the work of preparing the coal so extracted, and includes custom coal preparation facilities;
+(2) For purposes of subchapters II, III, and IV, “coal mine” means an area of land and all structures, facilities, machinery, tools, equipment, shafts, slopes, tunnels, excavations, and other property, real or personal, placed upon, under, or above the surface of such land by any person, used in, or to be used in, or resulting from, the work of extracting in such area bituminous coal, lignite, or anthracite from its natural deposits in the earth by any means or method, and the work of preparing the coal so extracted, and includes custom coal preparation facilities;
 
 **(i)** “work of preparing the coal” means the breaking, crushing, sizing, cleaning, washing, drying, mixing, storing, and loading of bituminous coal, lignite, or anthracite, and such other work of preparing such coal as is usually done by the operator of the coal mine;
 
@@ -431,7 +372,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (f)(2) of this
 
 (2) A temporary mandatory health or safety standard shall be effective until superseded by a mandatory standard promulgated in accordance with the procedures prescribed in paragraph (3) of this subsection.
 
-(3) Upon publication of such standard in the Federal Register, the Secretary shall commence a proceeding in accordance with subsection (a) of this section, and the standards as published shall also serve as a proposed rule for the proceeding. The Secretary shall promulgate a mandatory health or safety standard under this paragraph no later than nine months after publication of the emergency temporary standard as provided in paragraph (2).
+(3) Upon publication of such standard in the Federal Register, the Secretary shall commence a proceeding in accordance with subsection (a), and the standards as published shall also serve as a proposed rule for the proceeding. The Secretary shall promulgate a mandatory health or safety standard under this paragraph no later than nine months after publication of the emergency temporary standard as provided in paragraph (2).
 
 **(c) Modification of standards** Upon petition by the operator or the representative of miners, the Secretary may modify the application of any mandatory safety standard to a coal or other mine if the Secretary determines that an alternative method of achieving the result of such standard exists which will at all times guarantee no less than the same measure of protection afforded the miners of such mine by such standard, or that the application of such standard to such mine will result in a diminution of safety to the miners in such mine. Upon receipt of such petition the Secretary shall publish notice thereof and give notice to the operator or the representative of miners in the affected mine, as appropriate, and shall cause such investigation to be made as he deems appropriate. Such investigation shall provide an opportunity for a public hearing at the request of such operator or representative or other interested party, to enable the operator or the representative of miners in such mine or other interested party to present information relating to the modification of such standard. Before granting any exception to a mandatory safety standard, the findings of the Secretary or his authorized representative shall be made public and shall be available to the representative of the miners at the affected mine. The Secretary shall issue a decision incorporating his findings of fact therein, and send a copy thereof to the operator or the representative of the miners, as appropriate. Any such hearing shall be of record and shall be subject to [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim).
 
@@ -552,13 +493,13 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(b) Notice and hearing; subpoenas; witnesses; contempt** For the purpose of making any investigation of any accident or other occurrence relating to health or safety in a coal or other mine, the Secretary may, after notice, hold public hearings, and may sign and issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpoena served upon any person under this section, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
-**(c) Records of employee exposure to toxic materials or harmful physical agents; undue exposure** The Secretary, in cooperation with the Secretary of Health and Human Services, shall issue regulations requiring operators to maintain accurate records of employee exposures to potentially toxic materials or harmful physical agents which are required to be monitored or measured under any applicable mandatory health or safety standard promulgated under this chapter. Such regulations shall provide miners or their representatives with an opportunity to observe such monitoring or measuring, and to have access to the records thereof. Such regulations shall also make appropriate provisions for each miner or former miner to have access to such records as will indicate his own exposure to toxic materials or harmful physical agents. Each operator shall promptly notify any miner who has been or is being exposed to toxic materials or harmful physical agents in concentrations or at levels which exceed those prescribed by an applicable mandatory health or safety standard promulgated under [section 811 of this title](./chapter-022-mine-safety-and-health.md#section-811), or mandated under subchapter II of this chapter, and shall inform any miner who is being thus exposed of the corrective action being taken.
+**(c) Records of employee exposure to toxic materials or harmful physical agents; undue exposure** The Secretary, in cooperation with the Secretary of Health and Human Services, shall issue regulations requiring operators to maintain accurate records of employee exposures to potentially toxic materials or harmful physical agents which are required to be monitored or measured under any applicable mandatory health or safety standard promulgated under this chapter. Such regulations shall provide miners or their representatives with an opportunity to observe such monitoring or measuring, and to have access to the records thereof. Such regulations shall also make appropriate provisions for each miner or former miner to have access to such records as will indicate his own exposure to toxic materials or harmful physical agents. Each operator shall promptly notify any miner who has been or is being exposed to toxic materials or harmful physical agents in concentrations or at levels which exceed those prescribed by an applicable mandatory health or safety standard promulgated under [section 811 of this title](./chapter-022-mine-safety-and-health.md#section-811), or mandated under subchapter II, and shall inform any miner who is being thus exposed of the corrective action being taken.
 
 **(d) Accident investigations; records** All accidents, including unintentional roof falls (except in any abandoned panels or in areas which are inaccessible or unsafe for inspections), shall be investigated by the operator or his agent to determine the cause and the means of preventing a recurrence. Records of such accidents and investigations shall be kept and the information shall be made available to the Secretary or his authorized representative and the appropriate State agency. Such records shall be open for inspection by interested persons. Such records shall include man-hours worked and shall be reported at a frequency determined by the Secretary, but at least annually.
 
 **(e) Collecting information without unreasonable burden on operators** Any information obtained by the Secretary or by the Secretary of Health and Human Services under this chapter shall be obtained in such a manner as not to impose an unreasonable burden upon operators, especially those operating small businesses, consistent with the underlying purposes of this chapter. Unnecessary duplication of effort in obtaining information shall be reduced to the maximum extent feasible.
 
-**(f) Participation of representatives of operators and miners in inspections** Subject to regulations issued by the Secretary, a representative of the operator and a representative authorized by his miners shall be given an opportunity to accompany the Secretary or his authorized representative during the physical inspection of any coal or other mine made pursuant to the provisions of subsection (a) of this section, for the purpose of aiding such inspection and to participate in pre- or post-inspection conferences held at the mine. Where there is no authorized miner representative, the Secretary or his authorized representative shall consult with a reasonable number of miners concerning matters of health and safety in such mine. Such representative of miners who is also an employee of the operator shall suffer no loss of pay during the period of his participation in the inspection made under this subsection. To the extent that the Secretary or authorized representative of the Secretary determines that more than one representative from each party would further aid the inspection, he can permit each party to have an equal number of such additional representatives. However, only one such representative of miners who is an employee of the operator shall be entitled to suffer no loss of pay during the period of such participation under the provisions of this subsection. Compliance with this subsection shall not be a jurisdictional prerequisite to the enforcement of any provision of this chapter.
+**(f) Participation of representatives of operators and miners in inspections** Subject to regulations issued by the Secretary, a representative of the operator and a representative authorized by his miners shall be given an opportunity to accompany the Secretary or his authorized representative during the physical inspection of any coal or other mine made pursuant to the provisions of subsection (a), for the purpose of aiding such inspection and to participate in pre- or post-inspection conferences held at the mine. Where there is no authorized miner representative, the Secretary or his authorized representative shall consult with a reasonable number of miners concerning matters of health and safety in such mine. Such representative of miners who is also an employee of the operator shall suffer no loss of pay during the period of his participation in the inspection made under this subsection. To the extent that the Secretary or authorized representative of the Secretary determines that more than one representative from each party would further aid the inspection, he can permit each party to have an equal number of such additional representatives. However, only one such representative of miners who is an employee of the operator shall be entitled to suffer no loss of pay during the period of such participation under the provisions of this subsection. Compliance with this subsection shall not be a jurisdictional prerequisite to the enforcement of any provision of this chapter.
 
 **(g) Immediate inspection; notice of violation or danger; determination**
 
@@ -609,7 +550,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 ## § 818. Citations and orders
 **(a) Issuance and form of citations; prompt issuance** If, upon inspection or investigation, the Secretary or his authorized representative believes that an operator of a coal or other mine subject to this chapter has violated this chapter, or any mandatory health or safety standard, rule, order, or regulation promulgated pursuant to this chapter, he shall, with reasonable promptness, issue a citation to the operator. Each citation shall be in writing and shall describe with particularity the nature of the violation, including a reference to the provision of the chapter, standard, rule, regulation, or order alleged to have been violated. In addition, the citation shall fix a reasonable time for the abatement of the violation. The requirement for the issuance of a citation with reasonable promptness shall not be a jurisdictional prerequisite to the enforcement of any provision of this chapter.
 
-**(b) Follow-up inspections; findings** If, upon any follow-up inspection of a coal or other mine, an authorized representative of the Secretary finds (1) that a violation described in a citation issued pursuant to subsection (a) of this section has not been totally abated within the period of time as originally fixed therein or as subsequently extended, and (2) that the period of time for the abatement should not be further extended, he shall determine the extent of the area affected by the violation and shall promptly issue an order requiring the operator of such mine or his agent to immediately cause all persons, except those persons referred to in subsection (c) of this section, to be withdrawn from, and to be prohibited from entering, such area until an authorized representative of the Secretary determines that such violation has been abated.
+**(b) Follow-up inspections; findings** If, upon any follow-up inspection of a coal or other mine, an authorized representative of the Secretary finds (1) that a violation described in a citation issued pursuant to subsection (a) has not been totally abated within the period of time as originally fixed therein or as subsequently extended, and (2) that the period of time for the abatement should not be further extended, he shall determine the extent of the area affected by the violation and shall promptly issue an order requiring the operator of such mine or his agent to immediately cause all persons, except those persons referred to in subsection (c), to be withdrawn from, and to be prohibited from entering, such area until an authorized representative of the Secretary determines that such violation has been abated.
 
 **(c) Exempt persons** The following persons shall not be required to be withdrawn from, or prohibited from entering, any area of the coal or other mine subject to an order issued under this section:
 
@@ -623,13 +564,13 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 **(d) Findings of violations; withdrawal order**
 
-(1) If, upon any inspection of a coal or other mine, an authorized representative of the Secretary finds that there has been a violation of any mandatory health or safety standard, and if he also finds that, while the conditions created by such violation do not cause imminent danger, such violation is of such nature as could significantly and substantially contribute to the cause and effect of a coal or other mine safety or health hazard, and if he finds such violation to be caused by an unwarrantable failure of such operator to comply with such mandatory health or safety standards, he shall include such finding in any citation given to the operator under this chapter. If, during the same inspection or any subsequent inspection of such mine within 90 days after the issuance of such citation, an authorized representative of the Secretary finds another violation of any mandatory health or safety standard and finds such violation to be also caused by an unwarrantable failure of such operator to so comply, he shall forthwith issue an order requiring the operator to cause all persons in the area affected by such violation, except those persons referred to in subsection (c) of this section to be withdrawn from, and to be prohibited from entering, such area until an authorized representative of the Secretary determines that such violation has been abated.
+(1) If, upon any inspection of a coal or other mine, an authorized representative of the Secretary finds that there has been a violation of any mandatory health or safety standard, and if he also finds that, while the conditions created by such violation do not cause imminent danger, such violation is of such nature as could significantly and substantially contribute to the cause and effect of a coal or other mine safety or health hazard, and if he finds such violation to be caused by an unwarrantable failure of such operator to comply with such mandatory health or safety standards, he shall include such finding in any citation given to the operator under this chapter. If, during the same inspection or any subsequent inspection of such mine within 90 days after the issuance of such citation, an authorized representative of the Secretary finds another violation of any mandatory health or safety standard and finds such violation to be also caused by an unwarrantable failure of such operator to so comply, he shall forthwith issue an order requiring the operator to cause all persons in the area affected by such violation, except those persons referred to in subsection (c) to be withdrawn from, and to be prohibited from entering, such area until an authorized representative of the Secretary determines that such violation has been abated.
 
 (2) If a withdrawal order with respect to any area in a coal or other mine has been issued pursuant to paragraph (1), a withdrawal order shall promptly be issued by an authorized representative of the Secretary who finds upon any subsequent inspection the existence in such mine of violations similar to those that resulted in the issuance of the withdrawal order under paragraph (1) until such time as an inspection of such mine discloses no similar violations. Following an inspection of such mine which discloses no similar violations, the provisions of paragraph (1) shall again be applicable to that mine.
 
 **(e) Pattern of violations; abatement; termination of pattern**
 
-(1) If an operator has a pattern of violations of mandatory health or safety standards in the coal or other mine which are of such nature as could have significantly and substantially contributed to the cause and effect of coal or other mine health or safety hazards, he shall be given written notice that such pattern exists. If, upon any inspection within 90 days after the issuance of such notice, an authorized representative of the Secretary finds any violation of a mandatory health or safety standard which could significantly and substantially contribute to the cause and effect of a coal or other mine safety or health hazard, the authorized representative shall issue an order requiring the operator to cause all persons in the area affected by such violation, except those persons referred to in subsection (c) of this section, to be withdrawn from, and to be prohibited from entering, such area until an authorized representative of the Secretary determines that such violation has been abated.
+(1) If an operator has a pattern of violations of mandatory health or safety standards in the coal or other mine which are of such nature as could have significantly and substantially contributed to the cause and effect of coal or other mine health or safety hazards, he shall be given written notice that such pattern exists. If, upon any inspection within 90 days after the issuance of such notice, an authorized representative of the Secretary finds any violation of a mandatory health or safety standard which could significantly and substantially contribute to the cause and effect of a coal or other mine safety or health hazard, the authorized representative shall issue an order requiring the operator to cause all persons in the area affected by such violation, except those persons referred to in subsection (c), to be withdrawn from, and to be prohibited from entering, such area until an authorized representative of the Secretary determines that such violation has been abated.
 
 (2) If a withdrawal order with respect to any area in a coal or other mine has been issued pursuant to paragraph (1), a withdrawal order shall be issued by an authorized representative of the Secretary who finds upon any subsequent inspection the existence in such mine of any violation of a mandatory health or safety standard which could significantly and substantially contribute to the cause and effect of a coal or other mine health or safety hazard. The withdrawal order shall remain in effect until an authorized representative of the Secretary determines that such violation has been abated.
 
@@ -637,7 +578,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 (4) The Secretary shall make such rules as he deems necessary to establish criteria for determining when a pattern of violations of mandatory health or safety standards exists.
 
-**(f) Respirable dust concentrations; dust control person or team** If, based upon samples taken, analyzed, and recorded pursuant to [section 842(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section842/a&num=0&edition=prelim), or samples taken during an inspection by an authorized representative of the Secretary, the applicable limit on the concentration of respirable dust required to be maintained under this chapter is exceeded and thereby violated, the Secretary or his authorized representative shall issue a citation fixing a reasonable time for the abatement of the violation. During such time, the operator of the mine shall cause samples described in [section 842(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section842/a&num=0&edition=prelim) to be taken of the affected area during each production shift. If, upon the expiration of the period of time as originally fixed or subsequently extended, the Secretary or his authorized representative finds that the period of time should not be further extended, he shall determine the extent of the area affected by the violation and shall promptly issue an order requiring the operator of such mine or his agent to cause immediately all persons, except those referred to in subsection (c) of this section, to be withdrawn from, and to be prohibited from entering, such area until the Secretary or his authorized representative has reason to believe, based on actions taken by the operator, that such limit will be complied with upon the resumption of production in such mine. As soon as possible after an order is issued, the Secretary, upon request of the operator, shall dispatch to the mine involved a person, or team of persons, to the extent such persons are available, who are knowledgeable in the methods and means of controlling and reducing respirable dust. Such person or team of persons shall remain at the mine involved for such time as they shall deem appropriate to assist the operator in reducing respirable dust concentrations. While at the mine, such persons may require the operator to take such actions as they deem appropriate to insure the health of any person in the coal or other mine.
+**(f) Respirable dust concentrations; dust control person or team** If, based upon samples taken, analyzed, and recorded pursuant to [section 842(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section842/a&num=0&edition=prelim), or samples taken during an inspection by an authorized representative of the Secretary, the applicable limit on the concentration of respirable dust required to be maintained under this chapter is exceeded and thereby violated, the Secretary or his authorized representative shall issue a citation fixing a reasonable time for the abatement of the violation. During such time, the operator of the mine shall cause samples described in [section 842(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section842/a&num=0&edition=prelim) to be taken of the affected area during each production shift. If, upon the expiration of the period of time as originally fixed or subsequently extended, the Secretary or his authorized representative finds that the period of time should not be further extended, he shall determine the extent of the area affected by the violation and shall promptly issue an order requiring the operator of such mine or his agent to cause immediately all persons, except those referred to in subsection (c), to be withdrawn from, and to be prohibited from entering, such area until the Secretary or his authorized representative has reason to believe, based on actions taken by the operator, that such limit will be complied with upon the resumption of production in such mine. As soon as possible after an order is issued, the Secretary, upon request of the operator, shall dispatch to the mine involved a person, or team of persons, to the extent such persons are available, who are knowledgeable in the methods and means of controlling and reducing respirable dust. Such person or team of persons shall remain at the mine involved for such time as they shall deem appropriate to assist the operator in reducing respirable dust concentrations. While at the mine, such persons may require the operator to take such actions as they deem appropriate to insure the health of any person in the coal or other mine.
 
 **(g) Untrained miners**
 
@@ -744,7 +685,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
   (B) the person requesting such relief shows that there is a substantial likelihood that he will prevail on the merits of the final determination of the proceeding.
 
-**(b) Petition by Secretary for review or enforcement of final Commission orders** The Secretary may also obtain review or enforcement of any final order of the Commission by filing a petition for such relief in the United States court of appeals for the circuit in which the alleged violation occurred or in the Court of Appeals for the District of Columbia Circuit, and the provisions of subsection (a) shall govern such proceedings to the extent applicable. If no petition for review, as provided in subsection (a) of this section, is filed within 30 days after issuance of the Commission’s order, the Commission’s findings of fact and order shall be conclusive in connection with any petition for enforcement which is filed by the Secretary after the expiration of such 30-day period. In any such case, as well as in the case of a noncontested citation or notification by the Secretary which has become a final order of the Commission under subsection (a) or (b) of [section 815 of this title](./chapter-022-mine-safety-and-health.md#section-815), the clerk of the court, unless otherwise ordered by the court, shall forthwith enter a decree enforcing the order and shall transmit a copy of such decree to the Secretary and the operator named in the petition. In any contempt proceeding brought to enforce a decree of a court of appeals entered pursuant to this subsection or subsection (a) of this section, the court of appeals may assess the penalties provided in [section 820 of this title](./chapter-022-mine-safety-and-health.md#section-820), in addition to invoking any other available remedies.
+**(b) Petition by Secretary for review or enforcement of final Commission orders** The Secretary may also obtain review or enforcement of any final order of the Commission by filing a petition for such relief in the United States court of appeals for the circuit in which the alleged violation occurred or in the Court of Appeals for the District of Columbia Circuit, and the provisions of subsection (a) shall govern such proceedings to the extent applicable. If no petition for review, as provided in subsection (a), is filed within 30 days after issuance of the Commission’s order, the Commission’s findings of fact and order shall be conclusive in connection with any petition for enforcement which is filed by the Secretary after the expiration of such 30-day period. In any such case, as well as in the case of a noncontested citation or notification by the Secretary which has become a final order of the Commission under subsection (a) or (b) of [section 815 of this title](./chapter-022-mine-safety-and-health.md#section-815), the clerk of the court, unless otherwise ordered by the court, shall forthwith enter a decree enforcing the order and shall transmit a copy of such decree to the Secretary and the operator named in the petition. In any contempt proceeding brought to enforce a decree of a court of appeals entered pursuant to this subsection or subsection (a), the court of appeals may assess the penalties provided in [section 820 of this title](./chapter-022-mine-safety-and-health.md#section-820), in addition to invoking any other available remedies.
 
 **(c) Stay of order or decision of Commission or Panel** The commencement of a proceeding under this section shall not, unless specifically ordered by the court, operate as a stay of the order or decision of the Commission or the Panel.
 
@@ -789,13 +730,13 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 (2) Upon the conclusion of an investigation pursuant to paragraph (1), and an opportunity for a public hearing upon request by any interested party, the Secretary shall make findings of fact, and shall by decision incorporating such findings therein, either cancel the notice issued under this subsection or issue an order requiring the operator of such mine to cause all persons in the area affected, except those persons referred to in subsection (c) of [section 814 of this title](./chapter-022-mine-safety-and-health.md#section-814) to be withdrawn from, and be prohibited from entering, such area until the Secretary, after a public hearing affording all interested persons an opportunity to present their views, determines that such conditions have been abated. Any hearing under this paragraph shall be of record and shall be subject to [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim).
 
-**(c) Form and content of orders** Orders issued pursuant to subsection (a) of this section shall contain a detailed description of the conditions or practices which cause and constitute an imminent danger and a description of the area of the coal or other mine from which persons must be withdrawn and prohibited from entering.
+**(c) Form and content of orders** Orders issued pursuant to subsection (a) shall contain a detailed description of the conditions or practices which cause and constitute an imminent danger and a description of the area of the coal or other mine from which persons must be withdrawn and prohibited from entering.
 
-**(d) Findings; duration of orders** Each finding made and order issued under this section shall be given promptly to the operator of the coal or other mine to which it pertains by the person making such finding or order, and all of such findings and orders shall be in writing, and shall be signed by the person making them. Any order issued pursuant to subsection (a) of this section may be modified or terminated by an authorized representative of the Secretary. Any order issued under subsection (a) or (b) of this section shall remain in effect until vacated, modified, or terminated by the Secretary, or modified or vacated by the Commission pursuant to subsection (e) of this section, or by the courts pursuant to [section 816(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section816/a&num=0&edition=prelim).
+**(d) Findings; duration of orders** Each finding made and order issued under this section shall be given promptly to the operator of the coal or other mine to which it pertains by the person making such finding or order, and all of such findings and orders shall be in writing, and shall be signed by the person making them. Any order issued pursuant to subsection (a) may be modified or terminated by an authorized representative of the Secretary. Any order issued under subsection (a) or (b) shall remain in effect until vacated, modified, or terminated by the Secretary, or modified or vacated by the Commission pursuant to subsection (e), or by the courts pursuant to [section 816(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section816/a&num=0&edition=prelim).
 
 **(e) Reinstatement, modification, and vacatur of orders**
 
-(1) Any operator notified of an order under this section or any representative of miners notified of the issuance, modification, or termination of such an order may apply to the Commission within 30 days of such notification for reinstatement, modification or vacation of such order. The Commission shall forthwith afford an opportunity for a hearing (in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) but without regard to subsection (a)(3) of such section) and thereafter shall issue an order, based upon findings of fact, vacating, affirming, modifying, or terminating the Secretary’s order. The Commission and the courts may not grant temporary relief from the issuance of any order under subsection (a) of this section.
+(1) Any operator notified of an order under this section or any representative of miners notified of the issuance, modification, or termination of such an order may apply to the Commission within 30 days of such notification for reinstatement, modification or vacation of such order. The Commission shall forthwith afford an opportunity for a hearing (in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) but without regard to subsection (a)(3) of such section) and thereafter shall issue an order, based upon findings of fact, vacating, affirming, modifying, or terminating the Secretary’s order. The Commission and the courts may not grant temporary relief from the issuance of any order under subsection (a).
 
 (2) The Commission shall take whatever action is necessary to expedite proceedings under this subsection.
 
@@ -831,7 +772,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 (2) The Secretary may institute a civil action for relief, including permanent or temporary injunction, restraining order, or any other appropriate order in the district court of the United States for the district in which the coal or other mine is located or in which the operator of such mine has his principal office whenever the Secretary believes that the operator of a coal or other mine is engaged in a pattern of violation of the mandatory health or safety standards of this chapter, which in the judgment of the Secretary constitutes a continuing hazard to the health or safety of miners.
 
-**(b) Jurisdiction; relief; findings of Commission or Secretary** In any action brought under subsection (a) of this section, the court shall have jurisdiction to provide such relief as may be appropriate. In the case of an action under subsection (a)(2) of this section, the court shall in its order require such assurance or affirmative steps as it deems necessary to assure itself that the protection afforded to miners under this chapter shall be provided by the operator. Temporary restraining orders shall be issued in accordance with rule 65 of the Federal Rules of Civil Procedure, as amended, except that the time limit in such orders, when issued without notice, shall be seven days from the date of entry. Except as otherwise provided herein, any relief granted by the court to enforce any order under paragraph (1) of subsection (a) of this section shall continue in effect until the completion or final termination of all proceedings for review of such order under this subchapter, unless prior thereto, the district court granting such relief sets it aside or modifies it. In any action instituted under this section to enforce an order or decision issued by the Commission or the Secretary after a public hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim), the findings of the Commission or the Secretary, as the case may be, if supported by substantial evidence on the record considered as a whole, shall be conclusive.
+**(b) Jurisdiction; relief; findings of Commission or Secretary** In any action brought under subsection (a), the court shall have jurisdiction to provide such relief as may be appropriate. In the case of an action under subsection (a)(2), the court shall in its order require such assurance or affirmative steps as it deems necessary to assure itself that the protection afforded to miners under this chapter shall be provided by the operator. Temporary restraining orders shall be issued in accordance with rule 65 of the Federal Rules of Civil Procedure, as amended, except that the time limit in such orders, when issued without notice, shall be seven days from the date of entry. Except as otherwise provided herein, any relief granted by the court to enforce any order under paragraph (1) of subsection (a) shall continue in effect until the completion or final termination of all proceedings for review of such order under this subchapter, unless prior thereto, the district court granting such relief sets it aside or modifies it. In any action instituted under this section to enforce an order or decision issued by the Commission or the Secretary after a public hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim), the findings of the Commission or the Secretary, as the case may be, if supported by substantial evidence on the record considered as a whole, shall be conclusive.
 
 ### Statutory Notes
 
@@ -896,7 +837,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 (2) Violations under this section that are deemed to be flagrant may be assessed a civil penalty of not more than $220,000. For purposes of the preceding sentence, the term “flagrant” with respect to a violation means a reckless or repeated failure to make reasonable efforts to eliminate a known violation of a mandatory health or safety standard that substantially and proximately caused, or reasonably could have been expected to cause, death or serious bodily injury.
 
-**(c) Liability of corporate directors, officers, and agents** Whenever a corporate operator violates a mandatory health or safety standard or knowingly violates or fails or refuses to comply with any order issued under this chapter or any order incorporated in a final decision issued under this chapter, except an order incorporated in a decision issued under subsection (a) of this section or [section 815(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section815/c&num=0&edition=prelim), any director, officer, or agent of such corporation who knowingly authorized, ordered, or carried out such violation, failure, or refusal shall be subject to the same civil penalties, fines, and imprisonment that may be imposed upon a person under subsections (a) and (d) of this section.
+**(c) Liability of corporate directors, officers, and agents** Whenever a corporate operator violates a mandatory health or safety standard or knowingly violates or fails or refuses to comply with any order issued under this chapter or any order incorporated in a final decision issued under this chapter, except an order incorporated in a decision issued under subsection (a) or [section 815(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section815/c&num=0&edition=prelim), any director, officer, or agent of such corporation who knowingly authorized, ordered, or carried out such violation, failure, or refusal shall be subject to the same civil penalties, fines, and imprisonment that may be imposed upon a person under subsections (a) and (d).
 
 **(d) Criminal penalties** Any operator who willfully violates a mandatory health or safety standard, or knowingly violates or fails or refuses to comply with any order issued under [section 814 of this title](./chapter-022-mine-safety-and-health.md#section-814) and [section 817 of this title](./chapter-022-mine-safety-and-health.md#section-817), or any order incorporated in a final decision issued under this subchapter, except an order incorporated in a decision under subsection (a)(1) or [section 815(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section815/c&num=0&edition=prelim), shall, upon conviction, be punished by a fine of not more than $250,000, or by imprisonment for not more than one year, or by both, except that if the conviction is for a violation committed after the first conviction of such operator under this chapter, punishment shall be by a fine of not more than $500,000, or by imprisonment for not more than five years, or both.
 
@@ -1083,7 +1024,7 @@ Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–1
 
 (5) any training required by paragraphs (1), (2) or (4) shall include a period of training as closely related as is practicable to the work in which the miner is to be engaged.
 
-**(b) Training compensation** Any health and safety training provided under subsection (a) of this section shall be provided during normal working hours. Miners shall be paid at their normal rate of compensation while they take such training, and new miners shall be paid at their starting wage rate when they take the new miner training. If such training shall be given at a location other than the normal place of work, miners shall also be compensated for the additional costs they may incur in attending such training sessions.
+**(b) Training compensation** Any health and safety training provided under subsection (a) shall be provided during normal working hours. Miners shall be paid at their normal rate of compensation while they take such training, and new miners shall be paid at their starting wage rate when they take the new miner training. If such training shall be given at a location other than the normal place of work, miners shall also be compensated for the additional costs they may incur in attending such training sessions.
 
 **(c) Certificate** Upon completion of each training program, each operator shall certify, on a form approved by the Secretary, that the miner has received the specified training in each subject area of the approved health and safety training plan. A certificate for each miner shall be maintained by the operator, and shall be available for inspection at the mine site, and a copy thereof shall be given to each miner at the completion of such training. When a miner leaves the operator’s employ, he shall be entitled to a copy of his health and safety training certificates. False certification by an operator that training was given shall be punishable under section 820(a) and (f) of this title; and each health and safety training certificate shall indicate on its face, in bold letters, printed in a conspicuous manner the fact that such false certification is so punishable.
 
@@ -1996,7 +1937,7 @@ For purposes of this subchapter—
 
 **(a)** The term “dependent” means—
 
-(1) a child as defined in subsection (g) of this section without regard to subparagraph (2)(B)(ii) thereof; or
+(1) a child as defined in subsection (g) without regard to subparagraph (2)(B)(ii) thereof; or
 
 (2) a wife who is a member of the same household as the miner, or is receiving regular contributions from the miner for her support, or whose husband is a miner who has been ordered by a court to contribute to her support, or who meets the requirements of section 416(b)(1) or (2) of title 42. The determination of an individual’s status as the “wife” of a miner shall be made in accordance with [section 416(h)(1) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section416/h/1&num=0&edition=prelim) as if such miner were the “insured individual” referred to therein. The term “wife” also includes a “divorced wife” as defined in [section 416(d)(1) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section416/d/1&num=0&edition=prelim) who is receiving at least one-half of her support, as determined in accordance with regulations prescribed by the Secretary, from the miner, or is receiving substantial contributions from the miner (pursuant to a written agreement), or there is in effect a court order for substantial contributions to her support from such miner.
 
@@ -2123,7 +2064,7 @@ Amendment by section 4(a) of Pub. L. 92–303 effective Dec. 30, 1969, see secti
 ## § 923. Field offices
 **(a)** The Secretary of Labor shall establish and operate such field offices as may be necessary to assist miners and survivors of miners in the filing and processing of claims under this subchapter. Such field offices shall, to the extent feasible, be reasonably accessible to such miners and survivors. The Secretary, in connection with the establishment and operation of field offices, may enter into arrangements with other Federal departments and agencies, and with State agencies, for the use of existing facilities operated by such departments and agencies. Where the establishment of separate facilities is not feasible the Secretary may enter into such arrangements as he deems necessary with the heads of Federal departments, agencies, and instrumentalities and with State agencies for the use of existing facilities and personnel under their control.
 
-**(b)** There are authorized to be appropriated for the purposes of subsection (a) of this section such sums as may be necessary.
+**(b)** There are authorized to be appropriated for the purposes of subsection (a) such sums as may be necessary.
 
 ### Statutory Notes
 
@@ -2149,7 +2090,7 @@ Repeal effective 90 days after Nov. 2, 2002, see section 4 of Pub. L. 107–275,
 ## § 924a. Regulations and presumptions
 **(a) Promulgation; payment of benefits** The Secretary shall, in accordance with the provisions of this part, and the regulations promulgated by him under this part, make payments of benefits in respect of total disability of any miner due to pneumoconiosis, and in respect of the death of any miner whose death was due to pneumoconiosis or, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981, who at the time of his death was totally disabled by pneumoconiosis.
 
-**(b) Promulgation of standards determining total disability** The Secretary shall by regulation prescribe standards for determining for purposes of subsection (a) of this section whether a miner is totally disabled due to pneumoconiosis and for determining whether the death of a miner was due to pneumoconiosis. Regulations required by this subsection shall be promulgated and published in the Federal Register at the earliest practicable date after December 30, 1969, and in no event later than the end of the third month following December 1969. Final regulations required for implementation of any amendments to this subchapter shall be promulgated and published in the Federal Register at the earliest practicable date after the date of enactment of such amendments, and in no event later than the end of the fourth month following the month in which such amendments are enacted. Such regulations may be modified or additional regulations promulgated from time to time thereafter.
+**(b) Promulgation of standards determining total disability** The Secretary shall by regulation prescribe standards for determining for purposes of subsection (a) whether a miner is totally disabled due to pneumoconiosis and for determining whether the death of a miner was due to pneumoconiosis. Regulations required by this subsection shall be promulgated and published in the Federal Register at the earliest practicable date after December 30, 1969, and in no event later than the end of the third month following December 1969. Final regulations required for implementation of any amendments to this subchapter shall be promulgated and published in the Federal Register at the earliest practicable date after the date of enactment of such amendments, and in no event later than the end of the fourth month following the month in which such amendments are enacted. Such regulations may be modified or additional regulations promulgated from time to time thereafter.
 
 **(c) Presumptions** For purposes of this section—
 
@@ -2163,7 +2104,7 @@ Repeal effective 90 days after Nov. 2, 2002, see section 4 of Pub. L. 107–275,
 
 (5) In the case of a miner who dies on or before March 1, 1978, who was employed for 25 years or more in one or more coal mines before June 30, 1971, the eligible survivors of such miner shall be entitled to the payment of benefits, at the rate applicable under [section 922(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section922/a/2&num=0&edition=prelim), unless it is established that at the time of his or her death such miner was not partially or totally disabled due to pneumoconiosis. Eligible survivors shall, upon request by the Secretary, furnish such evidence as is available with respect to the health of the miner at the time of his or her death. The provisions of this paragraph shall not apply with respect to claims filed on or after the day that is 180 days after the effective date of the Black Lung Benefits Amendments of 1981.
 
-**(d) Applicability of presumptions** Nothing in subsection (c) of this section shall be deemed to affect the applicability of subsection (a) of this section in the case of a claim where the presumptions provided for therein are inapplicable.
+**(d) Applicability of presumptions** Nothing in subsection (c) shall be deemed to affect the applicability of subsection (a) in the case of a claim where the presumptions provided for therein are inapplicable.
 
 ### Statutory Notes
 
@@ -2231,19 +2172,11 @@ Pub. L. 107–275, § 3, Nov. 2, 2002, 116 Stat. 1926, provided that: “(a) App
 
 (4) In the case of an individual entitled to benefit payments under clause (1) or (2) of this subsection who has one or more dependents, the benefit payments shall be increased at the rate of 50 per centum of such benefit payments, if such individual has one dependent, 75 per centum if such individual has two dependents, and 100 per centum if such individual has three or more dependents.
 
-(5) In the case of the dependent parent or parents of a miner whose death is due to pneumoconiosis, or, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981, of a miner who is receiving benefits under this part at the time of his death or who was totally disabled by pneumoconiosis at the time of death, and who is not survived at the time of his death by a widow or a child, in the case of the dependent surviving brother(s) or sister(s) of such a miner who is not survived at the time of his death by a widow, child, or parent, in the case of the dependent parent or parents of a miner (who is not survived at the time of his or her death by a widow or a child) who are entitled to the payment of benefits under paragraph (5) of [section 921(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section921/c&num=0&edition=prelim), or in the case of the dependent surviving brother(s) or sister(s) of a miner (who is not survived at the time of his or her death by a widow, child, or parent) who are entitled to the payment of benefits under paragraph (5) of [section 921(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section921/c&num=0&edition=prelim), benefits shall be paid under this part to such parent(s), or to such brother(s), or sister(s), at the rate specified in paragraph (3) (as if such parent(s) or such brother(s) or sister(s), were the children of such miner). In determining for purposes of this paragraph whether a claimant bears the relationship as the miner’s parent, brother, or sister, the Secretary shall apply legal standards consistent with those applicable to relationship determination under title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.]. No benefits to a sister or brother shall be payable under this paragraph for any month beginning with the month in which he or she receives support from his or her spouse, or marries. Benefits shall be payable under this paragraph to a brother only if he is— (A) under eighteen years of age, or
-
-  (1)
-
-(B) under a disability as defined in section 223(d) of the Social Security Act [[42 U.S.C. 423(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section423/d&num=0&edition=prelim)] which began before the age specified in section 202(d)(1)(B)(ii) of such Act [[42 U.S.C. 402(d)(1)(B)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/d/1/B/ii&num=0&edition=prelim)], or in the case of a student, before he ceased to be a student, or
-
-(C) a student as defined in [section 902(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section902/g&num=0&edition=prelim); or
-
-  (2) who is, at the time of the miner’s death, disabled as determined in accordance with section 223(d) of the Social Security Act [[42 U.S.C. 423(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section423/d&num=0&edition=prelim)], during such disability. Any benefit under this paragraph for a month prior to the month in which a claim for such benefit is filed shall be reduced to any extent that may be necessary, so that it will not render erroneous any benefit which, before the filing of such claim, the Secretary has certified for payment for such prior months. As used in this paragraph, “dependent” means that during the one year period prior to and ending with such miner’s death, such parent, brother, or sister was living in the miner’s household, and was, during such period, totally dependent on the miner for support. Proof of such support shall be filed by such claimant within two years after May 1972, or within two years after the miner’s death, whichever is the later. Any such proof which is filed after the expiration of such period shall be deemed to have been filed within such period if it is shown to the satisfaction of the Secretary that there was good cause for failure to file such proof within such period. The determination of what constitutes “living in the miner’s household”, “totally dependent upon the miner for support,” and “good cause,” shall for purposes of this paragraph be made in accordance with regulations of the Secretary. Benefit payments under this paragraph to a parent, brother, or sister, shall be reduced by the amount by which such payments would be reduced on account of excess earnings of such parent, brother, or sister, respectively, under section 203(b)–(l) of the Social Security Act [[42 U.S.C. 403(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section403/b&num=0&edition=prelim)–(l)], as if the benefit under this paragraph were a benefit under section 202 of such Act [[42 U.S.C. 402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402&num=0&edition=prelim)].
+(5) In the case of the dependent parent or parents of a miner whose death is due to pneumoconiosis, or, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981, of a miner who is receiving benefits under this part at the time of his death or who was totally disabled by pneumoconiosis at the time of death, and who is not survived at the time of his death by a widow or a child, in the case of the dependent surviving brother(s) or sister(s) of such a miner who is not survived at the time of his death by a widow, child, or parent, in the case of the dependent parent or parents of a miner (who is not survived at the time of his or her death by a widow or a child) who are entitled to the payment of benefits under paragraph (5) of [section 921(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section921/c&num=0&edition=prelim), or in the case of the dependent surviving brother(s) or sister(s) of a miner (who is not survived at the time of his or her death by a widow, child, or parent) who are entitled to the payment of benefits under paragraph (5) of [section 921(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section921/c&num=0&edition=prelim), benefits shall be paid under this part to such parent(s), or to such brother(s), or sister(s), at the rate specified in paragraph (3) (as if such parent(s) or such brother(s) or sister(s), were the children of such miner). In determining for purposes of this paragraph whether a claimant bears the relationship as the miner’s parent, brother, or sister, the Secretary shall apply legal standards consistent with those applicable to relationship determination under title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.]. No benefits to a sister or brother shall be payable under this paragraph for any month beginning with the month in which he or she receives support from his or her spouse, or marries. Benefits shall be payable under this paragraph to a brother only if he is— (1)(A) under eighteen years of age, or (B) under a disability as defined in section 223(d) of the Social Security Act [[42 U.S.C. 423(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section423/d&num=0&edition=prelim)] which began before the age specified in section 202(d)(1)(B)(ii) of such Act [[42 U.S.C. 402(d)(1)(B)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/d/1/B/ii&num=0&edition=prelim)], or in the case of a student, before he ceased to be a student, or (C) a student as defined in [section 902(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section902/g&num=0&edition=prelim); or (2) who is, at the time of the miner’s death, disabled as determined in accordance with section 223(d) of the Social Security Act [[42 U.S.C. 423(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section423/d&num=0&edition=prelim)], during such disability. Any benefit under this paragraph for a month prior to the month in which a claim for such benefit is filed shall be reduced to any extent that may be necessary, so that it will not render erroneous any benefit which, before the filing of such claim, the Secretary has certified for payment for such prior months. As used in this paragraph, “dependent” means that during the one year period prior to and ending with such miner’s death, such parent, brother, or sister was living in the miner’s household, and was, during such period, totally dependent on the miner for support. Proof of such support shall be filed by such claimant within two years after May 1972, or within two years after the miner’s death, whichever is the later. Any such proof which is filed after the expiration of such period shall be deemed to have been filed within such period if it is shown to the satisfaction of the Secretary that there was good cause for failure to file such proof within such period. The determination of what constitutes “living in the miner’s household”, “totally dependent upon the miner for support,” and “good cause,” shall for purposes of this paragraph be made in accordance with regulations of the Secretary. Benefit payments under this paragraph to a parent, brother, or sister, shall be reduced by the amount by which such payments would be reduced on account of excess earnings of such parent, brother, or sister, respectively, under section 203(b)–(l) of the Social Security Act [[42 U.S.C. 403(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section403/b&num=0&edition=prelim)–(l)], as if the benefit under this paragraph were a benefit under section 202 of such Act [[42 U.S.C. 402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402&num=0&edition=prelim)].
 
 (6) If an individual’s benefits would be increased under paragraph (4) of this subsection because he or she has one or more dependents, and it appears to the Secretary that it would be in the interest of any such dependent to have the amount of such increase in benefits (to the extent attributable to such dependent) certified to a person other than such individual, then the Secretary may, under regulations prescribed by him, certify the amount of such increase in benefits (to the extent so attributable) not to such individual but directly to such dependent or to another person for the use and benefit of such dependent; and any payment made under this clause, if otherwise valid under this subchapter, shall be a complete settlement and satisfaction of all claims, rights, and interests in and to such payment.
 
-**(b) Reduction of benefits** Notwithstanding subsection (a) of this section, benefit payments under this section to a miner or his widow, child, parent, brother, or sister shall be reduced, on a monthly or other appropriate basis, by an amount equal to any payment received by such miner or his widow, child, parent, brother, or sister under the workmen’s compensation, unemployment compensation, or disability insurance laws of his State on account of the disability of such miner due to pneumoconiosis, and the amount by which such payment would be reduced on account of excess earnings of such miner under section 203(b) through (l) of the Social Security Act [[42 U.S.C. 403(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section403/b&num=0&edition=prelim) to (l)] if the amount paid were a benefit payable under section 202 of such Act [[42 U.S.C. 402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402&num=0&edition=prelim)]. This part shall not be considered a workmen’s compensation law or plan for purposes of section 224 of such Act [[42 U.S.C. 424a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section424a&num=0&edition=prelim)].
+**(b) Reduction of benefits** Notwithstanding subsection (a), benefit payments under this section to a miner or his widow, child, parent, brother, or sister shall be reduced, on a monthly or other appropriate basis, by an amount equal to any payment received by such miner or his widow, child, parent, brother, or sister under the workmen’s compensation, unemployment compensation, or disability insurance laws of his State on account of the disability of such miner due to pneumoconiosis, and the amount by which such payment would be reduced on account of excess earnings of such miner under section 203(b) through (l) of the Social Security Act [[42 U.S.C. 403(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section403/b&num=0&edition=prelim) to (l)] if the amount paid were a benefit payable under section 202 of such Act [[42 U.S.C. 402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402&num=0&edition=prelim)]. This part shall not be considered a workmen’s compensation law or plan for purposes of section 224 of such Act [[42 U.S.C. 424a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section424a&num=0&edition=prelim)].
 
 **(c) Reporting of income** Benefits payable under this part shall be deemed not to be income for purposes of the Internal Revenue Code of 1986.
 
@@ -2950,7 +2883,7 @@ Section effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out a
 
 **(c) Agreements with coal mine operators; reinsurance agreements**
 
-(1) The Secretary may enter into agreements with operators of coal mines who may be liable for the payment of benefits under [section 932 of this title](./chapter-022-mine-safety-and-health.md#section-932), under which the Black Lung Compensation Insurance Fund established under subsection (a) of this section (hereinafter in this section referred to as the “insurance fund”) shall assume all or part of the liability of such operator in return for the payment of premiums to the insurance fund, and on such terms and conditions as will fully protect the financial solvency of the insurance fund. During any period in which such agreement is in effect the operator shall be deemed in compliance with the requirements of [section 933 of this title](./chapter-022-mine-safety-and-health.md#section-933) with respect to the risks covered by such agreement.
+(1) The Secretary may enter into agreements with operators of coal mines who may be liable for the payment of benefits under [section 932 of this title](./chapter-022-mine-safety-and-health.md#section-932), under which the Black Lung Compensation Insurance Fund established under subsection (a) (hereinafter in this section referred to as the “insurance fund”) shall assume all or part of the liability of such operator in return for the payment of premiums to the insurance fund, and on such terms and conditions as will fully protect the financial solvency of the insurance fund. During any period in which such agreement is in effect the operator shall be deemed in compliance with the requirements of [section 933 of this title](./chapter-022-mine-safety-and-health.md#section-933) with respect to the risks covered by such agreement.
 
 (2) The Secretary may also enter into reinsurance agreements with one or more insurers or pools of insurers under which, in return for the payment of premiums to the insurance fund, and on such terms and conditions as will fully protect the financial solvency of the insurance fund, the insurance fund shall provide reinsurance coverage for benefits required to be paid under [section 932 of this title](./chapter-022-mine-safety-and-health.md#section-932).
 
@@ -2972,7 +2905,7 @@ Section effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out a
 
 **(f) Regulations relating to premium rates**
 
-(1) On the basis of estimates made by the Secretary in formulating a premium schedule under subsection (e) of this section, and such other information as may be available, the Secretary shall from time to time prescribe by regulation the chargeable premium rates for types and classes of insurers, operators of coal mines, and facilities for which insurance or reinsurance coverage shall be available under this section and the terms and conditions under which, and the area within which, such insurance or reinsurance shall be available and such rates shall apply.
+(1) On the basis of estimates made by the Secretary in formulating a premium schedule under subsection (e), and such other information as may be available, the Secretary shall from time to time prescribe by regulation the chargeable premium rates for types and classes of insurers, operators of coal mines, and facilities for which insurance or reinsurance coverage shall be available under this section and the terms and conditions under which, and the area within which, such insurance or reinsurance shall be available and such rates shall apply.
 
 (2) Such premium rates shall be (A) based on a consideration of the risks involved, taking into account differences, if any, in risks based on location, type of operations, facilities, type of coal, experience, and any other matter which may be considered under accepted actuarial principles; and (B) adequate, on the basis of accepted actuarial principles, to provide reserves for anticipated losses.
 
@@ -2986,7 +2919,7 @@ Section effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out a
 
   (B) to pay the administrative expenses of carrying out the black lung compensation insurance program under this section; and
 
-  (C) to repay to the Secretary of the Treasury such sums as may be borrowed in accordance with the authority provided in subsection (i) of this section.
+  (C) to repay to the Secretary of the Treasury such sums as may be borrowed in accordance with the authority provided in subsection (i).
 
 (2) The insurance fund shall be credited with—
 
@@ -2996,11 +2929,11 @@ Section effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out a
 
   (C) income which may be earned on investments of the insurance fund pursuant to paragraph (3).
 
-(3) If, after all outstanding current obligations of the insurance fund have been liquidated and any outstanding amounts which may have been advanced to the insurance fund from appropriations authorized under subsection (i) of this section have been credited to the appropriation from which advanced, the Secretary determines that the moneys of the insurance fund are in excess of current needs, he or she may request the investment of such amounts as he or she deems advisable by the Secretary of the Treasury in public debt securities with maturities suitable for the needs of the insurance fund and bearing interest at prevailing market rates.
+(3) If, after all outstanding current obligations of the insurance fund have been liquidated and any outstanding amounts which may have been advanced to the insurance fund from appropriations authorized under subsection (i) have been credited to the appropriation from which advanced, the Secretary determines that the moneys of the insurance fund are in excess of current needs, he or she may request the investment of such amounts as he or she deems advisable by the Secretary of the Treasury in public debt securities with maturities suitable for the needs of the insurance fund and bearing interest at prevailing market rates.
 
 **(h) Omitted**
 
-**(i) Authorization of appropriations** There are authorized to be appropriated to the insurance fund, as repayable advances, such sums as may be necessary to meet obligations incurred under subsection (g) of this section. All such sums shall remain available without fiscal year limitation. Advances made pursuant to this subsection shall be repaid, with interest, to the general fund of the Treasury when the Secretary determines that moneys are available in the insurance fund for such repayments. Interest on such advances shall be computed in the same manner as provided in subsection (b)(2) of section 934a 11 See References in Text note below. of this title.
+**(i) Authorization of appropriations** There are authorized to be appropriated to the insurance fund, as repayable advances, such sums as may be necessary to meet obligations incurred under subsection (g). All such sums shall remain available without fiscal year limitation. Advances made pursuant to this subsection shall be repaid, with interest, to the general fund of the Treasury when the Secretary determines that moneys are available in the insurance fund for such repayments. Interest on such advances shall be computed in the same manner as provided in subsection (b)(2) of section 934a 11 See References in Text note below. of this title.
 
 ### Statutory Notes
 
@@ -3348,7 +3281,7 @@ In any proceeding in which the validity of any interim mandatory health or safet
 
 **(c) Unexpended appropriations; personnel; property; records; obligations; commitments; savings provisions; pending proceedings and suits**
 
-(1) All unexpended balances of appropriations, personnel, property, records, obligations, and commitments which are used primarily with respect to any functions transferred under the provisions of subsection (a) of this section to the Secretary of Labor shall be transferred to the Department of Labor or the Commission, as appropriate. The transfer of personnel pursuant to this paragraph shall be without reduction in classification or compensation for one year after such transfer, except that the Secretary of Labor shall have full authority to assign personnel during such one-year period in order to efficiently carry out functions transferred to him under this Act.
+(1) All unexpended balances of appropriations, personnel, property, records, obligations, and commitments which are used primarily with respect to any functions transferred under the provisions of subsection (a) to the Secretary of Labor shall be transferred to the Department of Labor or the Commission, as appropriate. The transfer of personnel pursuant to this paragraph shall be without reduction in classification or compensation for one year after such transfer, except that the Secretary of Labor shall have full authority to assign personnel during such one-year period in order to efficiently carry out functions transferred to him under this Act.
 
 (2) All orders, decisions, determinations, rules, regulations, permits, contracts, certificates, licenses, and privileges (A) which have been issued, made, granted, or allowed to become effective in the exercise of functions which are transferred under this section by any department or agency, any functions of which are transferred by this section, and (B) which are in effect at the time this section takes effect, shall continue in effect according to their terms until modified, terminated, superseded, set aside, revoked, or repealed by the Secretary of Labor, the Federal Mine Safety and Health Review Commission or other authorized officials, by any court of competent jurisdiction, or by operation of law.
 
@@ -3385,3 +3318,85 @@ Section was enacted as part of Pub. L. 95–164, known as the Federal Mine Safet
 
 #### Effective Date
 For the effective date of this section, see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
+
+<a id="section-966"></a>
+## § 966. Acceptance of contributions and prosecution of projects; cooperative programs to promote health and safety education and training; recognition and funding of Joseph A. Holmes Safety Association; use of funds for costs of mine rescue and survival operations
+
+The Secretary is authorized to accept lands, buildings, equipment, and other contributions from public and private sources and to prosecute projects in cooperation with other agencies, Federal, State, or private: Provided further, That the Mine Safety and Health Administration is authorized to promote health and safety education and training in the mining community through cooperative programs with States, industry, and safety associations: Provided further, That the Secretary is authorized to recognize the Joseph A. Holmes Safety Association as a principal safety association and, notwithstanding any other provision of law, may provide funds and, with or without reimbursement, personnel, including service of Mine Safety and Health Administration officials as officers in local chapters or in the national organization: Provided further, That any funds available to the Department of Labor may be used, with the approval of the Secretary, to provide for the costs of mine rescue and survival operations in the event of a major disaster.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
+
+#### Similar Provisions
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. H, title I, Jan. 17, 2014, 128 Stat. 357.
+
+Pub. L. 112–74, div. F, title I, Dec. 23, 2011, 125 Stat. 1060.
+
+Pub. L. 111–117, div. D, title I, Dec. 16, 2009, 123 Stat. 3235.
+
+Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 759.
+
+Pub. L. 110–161, div. G, title I, Dec. 26, 2007, 121 Stat. 2164.
+
+Pub. L. 109–149, title I, Dec. 30, 2005, 119 Stat. 2841.
+
+Pub. L. 108–447, div. F, title I, Dec. 8, 2004, 118 Stat. 3120.
+
+Pub. L. 108–199, div. E, title I, Jan. 23, 2004, 118 Stat. 233.
+
+Pub. L. 108–7, div. G, title I, Feb. 20, 2003, 117 Stat. 305.
+
+Pub. L. 107–116, title I, Jan. 10, 2002, 115 Stat. 2183.
+
+Pub. L. 106–554, § 1(a)(1) [title I], Dec. 21, 2000, 114 Stat. 2763, 2763A–9.
+
+Pub. L. 106–113, div. B, § 1000(a)(4) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–223.
+
+Pub. L. 105–277, div. A, § 101(f) [title I], Oct. 21, 1998, 112 Stat. 2681–337, 2681–344.
+
+Pub. L. 105–78, title I, Nov. 13, 1997, 111 Stat. 1475.
+
+Pub. L. 104–208, div. A, title I, § 101(e) [title I], Sept. 30, 1996, 110 Stat. 3009–233, 3009–240.
+
+Pub. L. 104–134, title I, § 101(d) [title I], Apr. 26, 1996, 110 Stat. 1321–211, 1321–218; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+
+Pub. L. 103–333, title I, Sept. 30, 1994, 108 Stat. 2545.
+
+Pub. L. 103–112, title I, Oct. 21, 1993, 107 Stat. 1088.
+
+Pub. L. 102–394, title I, Oct. 6, 1992, 106 Stat. 1797.
+
+Pub. L. 102–170, title I, Nov. 26, 1991, 105 Stat. 1112.
+
+Pub. L. 101–517, title I, Nov. 5, 1990, 104 Stat. 2195.
+
+Pub. L. 101–166, title I, Nov. 21, 1989, 103 Stat. 1164.
+
+Pub. L. 100–436, title I, Sept. 20, 1988, 102 Stat. 1686.
+
+Pub. L. 100–202, § 101(h) [title I], Dec. 22, 1987, 101 Stat. 1329–256, 1329–262.
+
+Pub. L. 99–500, § 101(i) [H.R. 5233, title I], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title I], Oct. 30, 1986, 100 Stat. 3341–287.
+
+Pub. L. 99–178, title I, Dec. 12, 1985, 99 Stat. 1107.
+
+Pub. L. 98–619, title I, Nov. 8, 1984, 98 Stat. 3310.
+
+Pub. L. 98–139, title I, Oct. 31, 1983, 97 Stat. 876.
+
+Pub. L. 97–377, title I, § 101(e)(1) [title I], Dec. 21, 1982, 96 Stat. 1878, 1883.
+
+Pub. L. 97–92, § 101(a) [H.R. 4560, title I], Dec. 15, 1981, 95 Stat. 1183.
+
+Pub. L. 96–536, § 101(a) [incorporating H.R. 4389, title I, for FY 1980], Dec. 16, 1980, 94 Stat. 3166.
+
+Pub. L. 96–123, § 101(g) [H.R. 4389, title I], Nov. 20, 1979, 93 Stat. 925.
+
+Pub. L. 95–480, title I, Oct. 18, 1978, 92 Stat. 1570.
+
+Pub. L. 95–355, title I, Sept. 8, 1978, 92 Stat. 529.

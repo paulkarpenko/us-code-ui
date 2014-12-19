@@ -314,9 +314,9 @@ For the purposes of this subchapter—
 
 **(d)**
 
-(1) An individual is in the service of an employer whether his service is rendered within or without the United States if— (A) he is subject to the continuing authority of the employer to supervise and direct the manner of rendition of his service, or (B) he is rendering professional or technical services and is integrated into the staff of the employer, or (C) he is rendering, on the property used in the employer’s operations, personal services the rendition of which is integrated into the employer’s operations; and
+(1) An individual is in the service of an employer whether his service is rendered within or without the United States if—
 
-  (i)
+  (i) (A) he is subject to the continuing authority of the employer to supervise and direct the manner of rendition of his service, or (B) he is rendering professional or technical services and is integrated into the staff of the employer, or (C) he is rendering, on the property used in the employer’s operations, personal services the rendition of which is integrated into the employer’s operations; and
 
   (ii) he renders such service for compensation, or a method of computing the monthly compensation for such service is provided in [section 231b(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231b/j&num=0&edition=prelim).
 
@@ -1017,11 +1017,7 @@ Pub. L. 95–216, title III, § 358(b), Dec. 20, 1977, 91 Stat. 1556, provided t
 
   (i) If for any month the unreduced annuity provided under this section for a widow or widower is less than the widow’s or widower’s initial minimum amount computed pursuant to paragraph (ii) of this subdivision, the unreduced annuity shall be increased to that initial minimum amount. For the purposes of this subdivision, the unreduced annuity is the annuity without regard to any deduction on account of work, without regard to any reduction for entitlement to an annuity under [section 231a(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231a/a/1&num=0&edition=prelim), without regard to any reduction for entitlement to a benefit under title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.], and without regard to any reduction for entitlement to a public service pension pursuant to section 202(e)(7), 202(f)(2), or 202(g)(4) of the Social Security Act.55 See References in Text note below.
 
-  (ii) For the purposes of this subdivision, the widow or widower’s initial minimum amount is the amount of the unreduced annuity computed at the time an annuity is awarded to that widow or widower, except that—
-
-(A) in subsection (g)(1)(i) of this section “100 per centum” shall be substituted for “50 per centum”; and
-
-(B) in subsection (g)(2)(ii) of this section “130 per centum” shall be substituted for “80 per centum” both places it appears.
+  (ii) For the purposes of this subdivision, the widow or widower’s initial minimum amount is the amount of the unreduced annuity computed at the time an annuity is awarded to that widow or widower, except that— (A) in subsection (g)(1)(i) of this section “100 per centum” shall be substituted for “50 per centum”; and (B) in subsection (g)(2)(ii) of this section “130 per centum” shall be substituted for “80 per centum” both places it appears.
 
   (iii) If a widow or widower who was previously entitled to a widow’s or widower’s annuity under [section 231a(d)(1)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231a/d/1/ii&num=0&edition=prelim) becomes entitled to a widow’s or widower’s annuity under [section 231a(d)(1)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231a/d/1/i&num=0&edition=prelim), a new initial minimum amount shall be computed at the time of award of the widow’s or widower’s annuity under [section 231a(d)(1)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231a/d/1/i&num=0&edition=prelim).
 

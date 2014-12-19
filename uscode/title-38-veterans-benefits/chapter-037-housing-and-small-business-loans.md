@@ -370,7 +370,15 @@ Pub. L. 100–322, title IV, § 415(f), May 20, 1988, 102 Stat. 552, provided th
 
   (C) For the purposes of subparagraph (B) of this paragraph, the projected value of the property shall be calculated by the Secretary by increasing the reasonable value of the property as of the time the loan is made at a rate not in excess of 2.5 percent per year, but in no event may the projected value of the property for the purposes of such subparagraph exceed 115 percent of such reasonable value. A loan made for a purpose other than the acquisition of a single-family dwelling unit may not be guaranteed under such subparagraph.
 
-(3) Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner’s share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran’s realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary’s determination must have been made prior to the recordation of the covenant.
+(3)
+
+  (A) Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan is so secured, the Secretary may either disregard or allow for subordination to a superior lien created by a duly recorded covenant running with the realty in favor of either of the following:
+
+    (i) A public entity that has provided or will provide assistance in response to a major disaster as determined by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.).
+
+    (ii) A private entity to secure an obligation to such entity for the homeowner’s share of the costs of the management, operation, or maintenance of property, services, or programs within and for the benefit of the development or community in which the veteran’s realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant.
+
+  (B) With respect to any superior lien described in subparagraph (A) created after June 6, 1969, the Secretary’s determination under clause (ii) of such subparagraph shall have been made prior to the recordation of the covenant.
 
 **(e)**
 
@@ -386,21 +394,10 @@ Pub. L. 100–322, title IV, § 415(f), May 20, 1988, 102 Stat. 552, provided th
 
 ### Statutory Notes
 
-#### Amendment of Subsection (d)(3)
-Pub. L. 112–154, title VII, § 701(d), (g), Aug. 6, 2012, 126 Stat. 1204, 1205, provided that, effective on the date that is one year after Aug. 6, 2012, subsection (d)(3) of this section is amended to read as follows:
-
-(3)(A) Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan is so secured, the Secretary may either disregard or allow for subordination to a superior lien created by a duly recorded covenant running with the realty in favor of either of the following:
-
-(i) A public entity that has provided or will provide assistance in response to a major disaster as determined by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.).
-
-(ii) A private entity to secure an obligation to such entity for the homeowner’s share of the costs of the management, operation, or maintenance of property, services, or programs within and for the benefit of the development or community in which the veteran’s realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant.
-
-(B) With respect to any superior lien described in subparagraph (A) created after June 6, 1969, the Secretary’s determination under clause (ii) of such subparagraph shall have been made prior to the recordation of the covenant.
-
-See 2012 Amendment note below.
-
 #### References in Text
 The Servicemen’s Readjustment Act of 1944, referred to in subsec. (c)(2), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended, which was classified generally to chapter 11C (§§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed upon the enactment of Title 38, Veterans’ Benefits, by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. For distribution of sections 693 to 697g of former Title 38 in this title, see Table preceding [section 101 of this title](./chapter-001-general.md#section-101).
+
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2012—Subsec. (d)(3). Pub. L. 112–154 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner’s share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran’s realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary’s determination must have been made prior to the recordation of the covenant.”
@@ -976,7 +973,8 @@ If there is an indebtedness which is secured by a lien against land owned by the
   (ii) the sum of the outstanding balance on the loan to be refinanced and the closing costs (including discounts) actually paid by the veteran, as specified by the Secretary in regulations; and
 
 (8) in the case of a loan to refinance a loan (other than a loan or installment sales contract described in clause (7) of this subsection or a loan made for a purpose specified in subsection (a)(8) of this section), the amount of the loan to be guaranteed or made does not exceed 100 percent of the reasonable value of the dwelling or farm residence securing the loan, as determined pursuant to [section 3731 of this title](./chapter-037-housing-and-small-business-loans.md#section-3731).
-[(c) Repealed. Pub. L. 100–198, § 3(a)(2), Dec. 21, 1987, 101 Stat. 1315.]
+
+**(c)** Repealed. Pub. L. 100–198, § 3(a)(2), Dec. 21, 1987, 101 Stat. 1315.]
 
 **(d)**
 
@@ -2327,7 +2325,7 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 
 (1) The amount of the fee shall be determined from the loan fee table in paragraph (2). The fee is expressed as a percentage of the total amount of the loan guaranteed, insured, or made, or, in the case of a loan assumption, the unpaid principal balance of the loan on the date of the transfer of the property.
 
-(2) The loan fee table referred to in paragraph (1) is as follows: LOAN FEE TABLE Type of loanActive duty veteranReservistOther obligor (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before January 1, 2004)2.002.75NA (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2004, and before October 1, 2004)2.202.40NA (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before October 1, 2017)2.152.40NA (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2017)1.401.65NA (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before October 1, 2017)3.303.30NA (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2017)1.251.25NA (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before October 1, 2017)1.501.75NA (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2017)0.751.00NA (D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before October 1, 2017)1.251.50NA (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2017)0.500.75NA (E) Interest rate reduction refinancing loan0.500.50NA (F) Direct loan under section 37111.001.00NA (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan)1.001.00NA (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan)1.251.25NA (I) Loan assumption under section 37140.500.500.50 (J) Loan under section 3733(a)2.252.252.25
+(2) The loan fee table referred to in paragraph (1) is as follows: LOAN FEE TABLE Type of loanActive duty veteranReservistOther obligor (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before January 1, 2004)2.002.75NA (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2004, and before October 1, 2004)2.202.40NA (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before September 30, 2024)2.152.40NA (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after September 30, 2024)1.401.65NA (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before September 30, 2024)3.303.30NA (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after September 30, 2024)1.251.25NA (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before September 30, 2024)1.501.75NA (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after September 30, 2024)0.751.00NA (D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before September 30, 2024)1.251.50NA (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after September 30, 2024)0.500.75NA (E) Interest rate reduction refinancing loan0.500.50NA (F) Direct loan under section 37111.001.00NA (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan)1.001.00NA (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan)1.251.25NA (I) Loan assumption under section 37140.500.500.50 (J) Loan under section 3733(a)2.252.252.25
 
 (3) Any reference to a section in the “Type of loan” column in the loan fee table in paragraph (2) refers to a section of this title.
 
@@ -2368,6 +2366,8 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b)(2). Pub. L. 113–146 substituted “September 30, 2024” for “October 1, 2017” wherever appearing in table.
+
 2012—Subsec. (b)(2). Pub. L. 112–154, § 702(b), substituted “October 1, 2017” for “October 1, 2016” wherever appearing in table.
 
 Subsec. (c)(2). Pub. L. 112–154, § 210, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A veteran who is rated eligible to receive compensation as a result of a pre-discharge disability examination and rating shall be treated as receiving compensation for purposes of this subsection as of the date on which the veteran is rated eligible to receive compensation as a result of the pre-discharge disability examination and rating without regard to whether an effective date of the award of compensation is established as of that date.”
@@ -2751,11 +2751,15 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
   (D) For the purpose of determining the liability of the United States under a loan guaranty under paragraphs (5)(B), (6), (7)(B), and (8)(B), the amount of the total indebtedness with respect to such loan guaranty shall include, in any case in which there was an excessive delay caused by the Department of Veterans Affairs in the liquidation sale of the property securing such loan, any interest which had accrued as of the date of such sale and which would not be included, except for this subparagraph, in the calculation of such total indebtedness as a result of the specification of an earlier date under subparagraph (C)(i) of this paragraph.
 
-(11) This subsection shall apply to loans closed before October 1, 2013.
+(11) This subsection shall apply to loans closed before October 1, 2015.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (c)(11). Pub. L. 113–175 substituted “October 1, 2015” for “October 1, 2014”.
+
+2013—Subsec. (c)(11). Pub. L. 113–37 substituted “October 1, 2014” for “October 1, 2013”.
+
 2012—Subsec. (c)(11). Pub. L. 112–191 substituted “October 1, 2013” for “October 1, 2012”.
 
 2010—Subsec. (a)(2). Pub. L. 111–275 designated existing provisions as subpar. (A) and added subpar. (B).
@@ -2836,6 +2840,9 @@ Subsec. (b). Pub. L. 94–324 substituted “the Administrator” for “he” w
 
 1965—Pub. L. 89–117 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### Effective Date of 2013 Amendment
+Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under [section 322 of this title](./chapter-003-department-of-veterans-affairs.md#section-322).
+
 #### Effective Date of 2010 Amendment
 Pub. L. 111–275, title VIII, § 802(b), Oct. 13, 2010, 124 Stat. 2889, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a housing loan guaranteed after the date of the enactment of this Act [Oct. 13, 2010].”
 
@@ -2860,7 +2867,8 @@ Pub. L. 98–369, div. B, title V, § 2512(c)(2), July 18, 1984, 98 Stat. 1120, 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. L. 94–324, set out as a note under [section 3701 of this title](./chapter-037-housing-and-small-business-loans.md#section-3701).
 
-#### “Net Value” Defined With Respect to Loans Closed Before October 1, 1993
+“Net Value” Defined With Respect to Loans Closed Before October 1, 1993
+
 Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part: “That notwithstanding the provisions of [38 U.S.C. 3732(c)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3732/c/1/C&num=0&edition=prelim) and (c)(11) or any other law, with respect to any loan guaranteed for any purpose specified in [38 U.S.C. 3710](./chapter-037-housing-and-small-business-loans.md#section-3710) which was closed before October 1, 1993, the term ‘net value’ for purposes of paragraphs (4) through (10) of [38 U.S.C. 3732](./chapter-037-housing-and-small-business-loans.md#section-3732)[(c)] shall mean ‘the amount equal to (i) the fair market value of the property, minus (ii) the total of the amounts which the Secretary estimates the Secretary would incur (if the Secretary were to acquire and dispose of the property) for property taxes, assessments, liens, property maintenance, property improvement, administration, resale (including losses sustained on the resale of the property), and other costs resulting from the acquisition and disposition of the property, excluding any amount attributed to the cost of the Government of borrowing funds’.”
 
 
@@ -2892,13 +2900,13 @@ Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part: “T
 
 (6) The Secretary shall make a loan to finance the sale of real property described in paragraph (1) at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in the interest of the long-term stability and solvency of the Veterans Housing Benefit Program Fund established by [section 3722(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3722/a&num=0&edition=prelim).
 
-(7) During the period that begins on December 16, 2003, and ends on September 30, 2013, the Secretary shall carry out the provisions of this subsection as if—
+(7) During the period that begins on December 16, 2003, and ends on September 30, 2015, the Secretary shall carry out the provisions of this subsection as if—
 
   (A) the references in the first sentence of paragraph (1) to “65 percent” and “may be financed” were references to “85 percent” and “shall be financed”, respectively;
 
   (B) the second sentence of paragraph (1) were repealed; and
 
-  (C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2013,”.
+  (C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2015,”.
 
 **(b)** The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under [section 3710(g)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3710/g/2/A&num=0&edition=prelim).
 
@@ -2917,6 +2925,10 @@ Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part: “T
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a)(7). Pub. L. 113–175 substituted “September 30, 2015” for “September 30, 2014” in introductory provisions and in subpar. (C).
+
+2013—Subsec. (a)(7). Pub. L. 113–59 substituted “September 30, 2014” for “September 30, 2013” in introductory provisions and in subpar. (C).
+
 2010—Subsec. (a)(7). Pub. L. 111–275 inserted comma after “2003” in introductory provisions.
 
 2006—Subsec. (a)(7). Pub. L. 109–233, which directed the substitution of “December 16, 2003” for “the date of the enactment of the Veterans Benefits Act of 2003”, was executed by making the substitution for “the date of the enactment of the Veterans’ Benefits Act of 2003” to reflect the probable intent of Congress.

@@ -46,7 +46,7 @@ Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 98–139, title II, Oct. 31, 1983, 97 Stat. 881, provided that superintendent of Saint Elizabeths Hospital may reside off premises of hospital, notwithstanding [section 165 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section165&num=0&edition=prelim).
+Section, Pub. L. 98–139, title II, Oct. 31, 1983, 97 Stat. 881, which provided that during fiscal year 1984 and thereafter the superintendent of Saint Elizabeths Hospital could reside off the premises of the hospital, notwithstanding former [section 165 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section165&num=0&edition=prelim), was omitted in light of the transfer of Saint Elizabeths Hospital to the District of Columbia on Oct. 1, 1987, by Pub. L. 98–621, Nov. 8, 1984, 98 Stat. 3369, which is classified principally to subchapter III (§ 225 et seq.) of this chapter.
 
 
 <a id="section-166"></a>
@@ -889,7 +889,7 @@ Committee on the District of Columbia of House of Representatives abolished by H
 
 (1) While on the retention list or the District or Federal agency reemployment priority list, the system implementation plan shall provide to Hospital employees a right-of-first-refusal to District employment in positions for which such employees may qualify, (A) created under the system implementation plan in the comprehensive District mental health system, (B) available under the Department of Human Services of the District, and (C) available at the District of Columbia General Hospital.
 
-(2) In accordance with Federal regulations, the Secretary shall establish retention registers of Hospital employees and provide such retention registers to the District government. Employment in positions identified in the system implementation plan under subsection (b) of this section shall be offered to Hospital employees by the District government according to each such employee’s relative standing on the retention registers.
+(2) In accordance with Federal regulations, the Secretary shall establish retention registers of Hospital employees and provide such retention registers to the District government. Employment in positions identified in the system implementation plan under subsection (b) shall be offered to Hospital employees by the District government according to each such employee’s relative standing on the retention registers.
 
 (3) Employee appeals concerning the retention registers established by the Secretary shall be in accordance with Federal regulations.
 
@@ -903,11 +903,11 @@ Committee on the District of Columbia of House of Representatives abolished by H
 
 (3) A Federal agency reemployment priority list and a displaced employees program shall be maintained for employees of the Hospital by the Secretary and the Office of Personnel Management in accordance with Federal regulations for Federal employees separated by reduction-in-force procedures.
 
-(4) The Mayor shall create and maintain, in consultation with the Secretary, a District agency reemployment priority list of those employees of the Hospital on the retention registers who are not offered employment under subsection (c) of this section. Individuals who refuse an offer of employment under subsection (c) of this section shall be ineligible for inclusion on the District agency reemployment priority list. Such reemployment priority list shall be administered in accordance with procedures established pursuant to the District of Columbia Government Comprehensive Merit Personnel Act of 1978 (D.C. Law 2–139).
+(4) The Mayor shall create and maintain, in consultation with the Secretary, a District agency reemployment priority list of those employees of the Hospital on the retention registers who are not offered employment under subsection (c). Individuals who refuse an offer of employment under subsection (c) shall be ineligible for inclusion on the District agency reemployment priority list. Such reemployment priority list shall be administered in accordance with procedures established pursuant to the District of Columbia Government Comprehensive Merit Personnel Act of 1978 (D.C. Law 2–139).
 
 (5) Acceptance of nontemporary employment as a result of referral from any retention list or agency reemployment priority list shall automatically terminate an individual’s severance pay as of the effective date of such employment.
 
-**(e) Contracts; mental health services; preferences** Any contract entered into by the District of Columbia for the provision of mental health services formerly provided by or at the Hospital shall require the contractor or provider, in filling new positions created to perform under the contract, to give preference to qualified candidates on the District agency reemployment priority list created pursuant to subsection (d) of this section. An individual who is offered nontemporary employment with a contractor shall have his or her name remain on the District agency reemployment priority list under subsection (d) of this section for not more than 24 months from the date of acceptance of such employment.
+**(e) Contracts; mental health services; preferences** Any contract entered into by the District of Columbia for the provision of mental health services formerly provided by or at the Hospital shall require the contractor or provider, in filling new positions created to perform under the contract, to give preference to qualified candidates on the District agency reemployment priority list created pursuant to subsection (d) of this section. An individual who is offered nontemporary employment with a contractor shall have his or her name remain on the District agency reemployment priority list under subsection (d) for not more than 24 months from the date of acceptance of such employment.
 
 ### Statutory Notes
 
@@ -1002,7 +1002,7 @@ Committee on the District of Columbia of House of Representatives abolished by H
 
 **(c) Financial responsibility during coordination period**
 
-(1) During the service coordination and the financial transition periods, the District of Columbia shall gradually assume a greater share of the financial responsibility for the provision of mental health services provided by the system to individuals not described in subsection (b) of this section.
+(1) During the service coordination and the financial transition periods, the District of Columbia shall gradually assume a greater share of the financial responsibility for the provision of mental health services provided by the system to individuals not described in subsection (b).
 
 (2) Omitted
 
@@ -1043,7 +1043,7 @@ Subsec. (c)(2) of this section amended section 502 of the District of Columbia S
 
 (2) An agreement referred to in paragraph (1) is any agreement,11 So in original. The comma probably should not appear. between the United States and a foreign country pursuant to which the head of an agency of the United States Government has waived the requirements of the Buy American Act with respect to certain products produced in the foreign country.
 
-**(c) Report to Congress** The Mayor shall submit to Congress a report on the amount of purchases from foreign entities under this subchapter from foreign entities in fiscal years 1992 and 1993. Such report shall separately indicate the dollar value of items for which the Buy American Act was waived pursuant to any agreement described in subsection (a)(2) of this section, the Trade Agreement Act of 1979 ([19 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2501&num=0&edition=prelim) et seq.), or any international agreement to which the United States is a party.
+**(c) Report to Congress** The Mayor shall submit to Congress a report on the amount of purchases from foreign entities under this subchapter from foreign entities in fiscal years 1992 and 1993. Such report shall separately indicate the dollar value of items for which the Buy American Act was waived pursuant to any agreement described in subsection (a)(2), the Trade Agreement Act of 1979 ([19 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2501&num=0&edition=prelim) et seq.), or any international agreement to which the United States is a party.
 
 **(d) “Buy American Act” defined** For purposes of this section, the term “Buy American Act” means title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933 ([41 U.S.C. 10a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section10a&num=0&edition=prelim) et seq.) 22 See References in Text note below..
 

@@ -228,7 +228,7 @@ Par. (8)(B)(ix). Pub. L. 105–166, § 3(a), inserted before semicolon at end �
 Par. (15)(F). Pub. L. 105–166, § 3(b), inserted before period at end “, or a group of governments acting together as an international organization”.
 
 #### Effective Date of 2007 Amendment
-Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 434 of this title](./chapter-014-federal-election-campaigns.md#section-434).
+Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 30104 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30104&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-1603"></a>
@@ -323,14 +323,14 @@ Subsec. (b)(4). Pub. L. 110–81, § 201(b)(5)(D), substituted “$5,000” for 
 Subsec. (b)(6). Pub. L. 110–81, § 208, substituted “in the 20 years before the date on which the employee first acted” for “in the 2 years before the date on which such employee first acted (after December 19, 1995)”.
 
 #### Effective Date of 2007 Amendment
-Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 434 of this title](./chapter-014-federal-election-campaigns.md#section-434).
+Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 30104 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30104&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-1604"></a>
 ## § 1604. Reports by registered lobbyists
 **(a) Quarterly report** No later than 20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under [section 1603 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1603), or on the first business day after such 20th day if the 20th day is not a business day, each registrant shall file a report with the Secretary of the Senate and the Clerk of the House of Representatives on its lobbying activities during such quarterly period. A separate report shall be filed for each client of the registrant.
 
-**(b) Contents of report** Each quarterly report filed under subsection (a) of this section shall contain—
+**(b) Contents of report** Each quarterly report filed under subsection (a) shall contain—
 
 (1) the name of the registrant, the name of the client, and any changes or updates to the information provided in the initial registration, including information under [section 1603(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1603/b/3&num=0&edition=prelim);
 
@@ -377,7 +377,7 @@ Except as otherwise provided, amendment by Pub. L. 110–81 applicable with resp
     (iii) to an entity established, financed, maintained, or controlled by a covered legislative branch official or covered executive branch official, or an entity designated by such official; or
 
     (iv) to pay the costs of a meeting, retreat, conference, or other similar event held by, or in the name of, 1 or more covered legislative branch officials or covered executive branch officials,
-    except that this subparagraph shall not apply if the funds are provided to a person who is required to report the receipt of the funds under [section 434 of this title](./chapter-014-federal-election-campaigns.md#section-434);
+    except that this subparagraph shall not apply if the funds are provided to a person who is required to report the receipt of the funds under [section 30104 of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30104&num=0&edition=prelim);
 
   (F) the name of each Presidential library foundation, and each Presidential inaugural committee, to whom contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization, within the semiannual period, and the date and amount of each such contribution within the semiannual period; and
 
@@ -387,7 +387,7 @@ Except as otherwise provided, amendment by Pub. L. 110–81 applicable with resp
 
     (ii) has not provided, requested, or directed a gift, including travel, to a Member of Congress or an officer or employee of either House of Congress with knowledge that receipt of the gift would violate rule XXXV of the Standing Rules of the Senate or rule XXV of the Rules of the House of Representatives.
 
-(2) **Definition** — In this subsection, the term “leadership PAC” has the meaning given such term in [section 434(i)(8)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section434/i/8/B&num=0&edition=prelim).
+(2) **Definition** — In this subsection, the term “leadership PAC” has the meaning given such term in [section 30104(i)(8)(B) of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30104/i/8/B&num=0&edition=prelim).
 
 **(e) Electronic filing required** A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representatives may require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this chapter.
 
@@ -424,7 +424,7 @@ Subsec. (e). Pub. L. 110–81, § 205, added subsec. (e).
 #### Effective Date of 2007 Amendment
 Pub. L. 110–81, title II, § 203(b), Sept. 14, 2007, 121 Stat. 744, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the first semiannual period described in section 5(d)(1) of the Lobbying Disclosure Act of 1995 [[2 U.S.C. 1604(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1604/d/1&num=0&edition=prelim)] (as added by this section) that begins after the date of the enactment of this Act [Sept. 14, 2007] and each succeeding semiannual period.”
 
-Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 434 of this title](./chapter-014-federal-election-campaigns.md#section-434).
+Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 30104 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30104&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-1605"></a>
@@ -484,7 +484,7 @@ Par. (6). Pub. L. 110–81, § 201(b)(3), substituted “quarterly period” for
 Pars. (9), (10). Pub. L. 110–81, § 209(a), added pars. (9) and (10).
 
 #### Effective Date of 2007 Amendment
-Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 434 of this title](./chapter-014-federal-election-campaigns.md#section-434).
+Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 30104 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30104&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-1606"></a>
@@ -586,13 +586,13 @@ This chapter, referred to in subsecs. (a)(1) and (b), was in the original “thi
 
   (B) lobbying of Federal executive branch officials to the extent that amounts paid or costs incurred in connection with such activities are not deductible pursuant to [section 162(e) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section162/e&num=0&edition=prelim).
 
-**(c) Disclosure of estimate** Any registrant that elects to make estimates required by this chapter under the procedures authorized by subsection (a) or (b) of this section for reporting or threshold purposes shall—
+**(c) Disclosure of estimate** Any registrant that elects to make estimates required by this chapter under the procedures authorized by subsection (a) or (b) for reporting or threshold purposes shall—
 
 (1) inform the Secretary of the Senate and the Clerk of the House of Representatives that the registrant has elected to make its estimates under such procedures; and
 
 (2) make all such estimates, in a given calendar year, under such procedures.
 
-**(d) Study** Not later than March 31, 1997, the Comptroller General of the United States shall review reporting by registrants under subsections (a) and (b) of this section and report to the Congress—
+**(d) Study** Not later than March 31, 1997, the Comptroller General of the United States shall review reporting by registrants under subsections (a) and (b) and report to the Congress—
 
 (1) the differences between the definition of “lobbying activities” in [section 1602(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1602/7&num=0&edition=prelim) and the definitions of “lobbying expenditures”, “influencing legislation”, and related terms in sections 162(e) and 4911 of title 26, as each are implemented by regulations;
 
@@ -617,7 +617,7 @@ Subsec. (b). Pub. L. 105–166, § 4(b)(1), in introductory provisions, substitu
 Subsec. (b)(2). Pub. L. 105–166, § 4(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in lieu of using the definition of ‘lobbying activities’ in [section 1602(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1602/7&num=0&edition=prelim), consider as lobbying activities only those activities, the costs of which are not deductible pursuant to [section 162(e) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section162/e&num=0&edition=prelim).”
 
 #### Effective Date of 2007 Amendment
-Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 434 of this title](./chapter-014-federal-election-campaigns.md#section-434).
+Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 30104 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30104&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-1611"></a>

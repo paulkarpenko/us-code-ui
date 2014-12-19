@@ -269,7 +269,7 @@ Nothing in this chapter supersedes, or limits the authority of the Secretary of 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 109–449, Dec. 22, 2006, 120 Stat. 3333, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1951 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1951) and Tables.
 
-The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1958"></a>

@@ -21,6 +21,9 @@ The Congress finds that—
 
 ### Statutory Notes
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–269, § 1, Dec. 18, 2014, 128 Stat. 2947, provided that: “This Act [amending sections 6404 and 6408 of this title] may be cited as the ‘Propane Education and Research Enhancement Act of 2014’.”
+
 #### Short Title
 Pub. L. 104–284, § 1, Oct. 11, 1996, 110 Stat. 3370, provided that: “This Act [enacting this chapter] may be cited as the ‘Propane Education and Research Act of 1996’.”
 
@@ -80,7 +83,7 @@ For the purposes of this chapter—
 
 **(e) Terms** Council members shall serve terms of 3 years and may serve not more than 2 full consecutive terms. Members filling unexpired terms may serve not more than a total of 7 consecutive years. Former members of the Council may be returned to the Council if they have not been members for a period of 2 years. Initial appointments to the Council shall be for terms of 1, 2, and 3 years, staggered to provide for the selection of 7 members each year.
 
-**(f) Functions** The Council shall develop programs and projects and enter into contracts or agreements for implementing this chapter, including programs to enhance consumer and employee safety and training, to provide for research and development of clean and efficient propane utilization equipment, to inform and educate the public about safety and other issues associated with the use of propane, and to provide for the payment of the costs thereof with funds collected pursuant to this chapter. The Council shall coordinate its activities with industry trade association and others as appropriate to provide efficient delivery of services and to avoid unnecessary duplication of activities.
+**(f) Functions** The Council shall develop programs and projects and enter into contracts or agreements for implementing this chapter, including programs to enhance consumer and employee safety and training, to train propane distributors and consumers in strategies to mitigate negative effects of future propane price spikes, to provide for research and development of clean and efficient propane utilization equipment, to inform and educate the public about safety and other issues associated with the use of propane, and to provide for the payment of the costs thereof with funds collected pursuant to this chapter. The Council shall coordinate its activities with industry trade association and others as appropriate to provide efficient delivery of services and to avoid unnecessary duplication of activities.
 
 **(g) Use of funds** Not less than 5 percent of the funds collected through assessments pursuant to this chapter shall be used for programs and projects intended to benefit the agriculture industry in the United States. The Council shall coordinate its activities in this regard with agriculture industry trade associations and other organizations representing the agriculture industry. The percentage of funds collected through assessments pursuant to this chapter to be used for projects relating to the use of propane as an over-the-road motor fuel shall not exceed the percentage of the total market for odorized propane that is used as a motor vehicle fuel, based on the historical average of such use over the previous 3-year period.
 
@@ -105,6 +108,11 @@ For the purposes of this chapter—
 (2) The minutes of all meetings of the Council shall be made available to and readily accessible by the public.
 
 **(n) Annual report** Each year the Council shall prepare and make publicly available a report which includes an identification and description of all programs and projects undertaken by the Council during the previous year as well as those planned for the coming year. Such report shall also detail the allocation or planned allocation of Council resources for each such program and project.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (f). Pub. L. 113–269 inserted “to train propane distributors and consumers in strategies to mitigate negative effects of future propane price spikes,” after “to enhance consumer and employee safety and training,”.
 
 
 <a id="section-6405"></a>
@@ -138,9 +146,14 @@ No funds collected by the Council shall be used in any manner for influencing le
 
 <a id="section-6408"></a>
 ## § 6408. Market survey and consumer protection
-**(a) Price analysis** Beginning 2 years after establishment of the Council and annually thereafter, the Secretary of Commerce, using only data provided by the Energy Information Administration and other public sources, shall prepare and make available to the Council, the Secretary of Energy, and the public an analysis of changes in the price of propane relative to other energy sources. The propane price analysis shall compare indexed changes in the price of consumer grade propane to a composite of indexed changes in the price of residential electricity, residential natural gas, and refiner price to end users of No. 2 fuel oil on an annual national average basis. For purposes of indexing changes in consumer grade propane, residential electricity, residential natural gas, and end user No. 2 fuel oil prices, the Secretary of Commerce shall use a 5-year rolling average price beginning with the year 4 years prior to the establishment of the Council.
+**(a) Price analysis** Beginning 2 years after establishment of the Council and annually thereafter, the Secretary of Commerce, using the refiner price to end users of consumer grade propane, as published by the Energy Information Administration and other public sources, shall prepare and make available to the Council, the Secretary of Energy, and the public an analysis of changes in the price of propane relative to other energy sources. The propane price analysis shall compare indexed changes in the price of consumer grade propane to a composite of indexed changes in the price of residential electricity, residential natural gas, and refiner price to end users of No. 2 fuel oil on an annual national average basis. For purposes of indexing changes in consumer grade propane, residential electricity, residential natural gas, and end user No. 2 fuel oil prices, the Secretary of Commerce shall use a 5-year rolling average price beginning with the year 4 years prior to the establishment of the Council.
 
 **(b) Authority to restrict activities** If in any year the 5-year average rolling price index of consumer grade propane exceeds the 5-year rolling average price composite index of residential electricity, residential natural gas, and refiner price to end users of No. 2 fuel oil in an amount greater than 10.1 percent, the activities of the Council shall be restricted to research and development, training, and safety matters. The Council shall inform the Secretary of Energy and the Congress of any restriction of activities under this subsection. Upon expiration of 180 days after the beginning of any such restriction of activities, the Secretary of Commerce shall again conduct the propane price analysis described in subsection (a) of this section. Activities of the Council shall continue to be restricted under this subsection until the price index excess is 10.1 percent or less.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–269 substituted “the refiner price to end users of consumer grade propane, as published by the Energy Information Administration” for “only data provided by the Energy Information Administration”.
 
 
 <a id="section-6409"></a>

@@ -38,7 +38,7 @@ source: >-
 
 **(f) Revenue estimates** For the purposes of revenue legislation which is income, estate and gift, excise, and payroll taxes (i.e., Social Security), considered or enacted in any session of Congress, the Congressional Budget Office shall use exclusively during that session of Congress revenue estimates provided to it by the Joint Committee on Taxation. During that session of Congress such revenue estimates shall be transmitted by the Congressional Budget Office to any committee of the House of Representatives or the Senate requesting such estimates, and shall be used by such Committees in determining such estimates. The Budget Committees of the Senate and House shall determine all estimates with respect to scoring points of order and with respect to the execution of the purposes of this Act.
 
-**(g) Authorization of appropriations** There are authorized to be appropriated to the Office for each fiscal year such sums as may be necessary to enable it to carry out its duties and functions. Until sums are first appropriated pursuant to the preceding sentence, but for a period not exceeding 12 months following the effective date of this subsection, the expenses of the Office shall be paid from the contingent fund of the Senate, in accordance with [section 68 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-68), and upon vouchers approved by the Director.
+**(g) Authorization of appropriations** There are authorized to be appropriated to the Office for each fiscal year such sums as may be necessary to enable it to carry out its duties and functions. Until sums are first appropriated pursuant to the preceding sentence, but for a period not exceeding 12 months following the effective date of this subsection, the expenses of the Office shall be paid from the contingent fund of the Senate, in accordance with [section 6503 of this title](./chapter-065-senate-officers-and-administration.md#section-6503), and upon vouchers approved by the Director.
 
 ### Statutory Notes
 
@@ -79,11 +79,11 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ## § 602. Duties and functions
 **(a) Assistance to budget committees** It shall be the primary duty and function of the Office to provide to the Committees on the Budget of both Houses information which will assist such committees in the discharge of all matters within their jurisdictions, including (1) information with respect to the budget, appropriation bills, and other bills authorizing or providing new budget authority or tax expenditures, (2) information with respect to revenues, receipts, estimated future revenues and receipts, and changing revenue conditions, and (3) such related information as such Committees may request.
 
-**(b) Assistance to Committees on Appropriations, Ways and Means, and Finance** At the request of the Committee on Appropriations of either House, the Committee on Ways and Means of the House of Representatives, or the Committee on Finance of the Senate, the Office shall provide to such Committee any information which will assist it in the discharge of matters within its jurisdiction, including information described in clauses (1) and (2) of subsection (a) of this section and such related information as the Committee may request.
+**(b) Assistance to Committees on Appropriations, Ways and Means, and Finance** At the request of the Committee on Appropriations of either House, the Committee on Ways and Means of the House of Representatives, or the Committee on Finance of the Senate, the Office shall provide to such Committee any information which will assist it in the discharge of matters within its jurisdiction, including information described in clauses (1) and (2) of subsection (a) and such related information as the Committee may request.
 
 **(c) Assistance to other committees and Members**
 
-(1) At the request of any other committee of the House of Representatives or the Senate or any joint committee of the Congress, the Office shall provide to such committee or joint committee any information compiled in carrying out clauses (1) and (2) of subsection (a) of this section, and, to the extent practicable, such additional information related to the foregoing as may be requested.
+(1) At the request of any other committee of the House of Representatives or the Senate or any joint committee of the Congress, the Office shall provide to such committee or joint committee any information compiled in carrying out clauses (1) and (2) of subsection (a), and, to the extent practicable, such additional information related to the foregoing as may be requested.
 
 (2) At the request of any committee of the Senate or the House of Representatives, the Office shall, to the extent practicable, consult with and assist such committee in analyzing the budgetary or financial impact of any proposed legislation that may have—
 
@@ -93,9 +93,9 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
   (C) a significant employment impact on the private sector.
 
-(3) At the request of any Member of the House or Senate, the Office shall provide to such Member any information compiled in carrying out clauses (1) and (2) of subsection (a) of this section, and, to the extent available, such additional information related to the foregoing as may be requested.
+(3) At the request of any Member of the House or Senate, the Office shall provide to such Member any information compiled in carrying out clauses (1) and (2) of subsection (a), and, to the extent available, such additional information related to the foregoing as may be requested.
 
-**(d) Assignment of office personnel to committees and joint committees** At the request of the Committee on the Budget of either House, personnel of the Office shall be assigned, on a temporary basis, to assist such committee. At the request of any other committee of either House or any joint committee of the Congress, personnel of the Office may be assigned, on a temporary basis, to assist such committee or joint committee with respect to matters directly related to the applicable provisions of subsection (b) or (c) of this section.
+**(d) Assignment of office personnel to committees and joint committees** At the request of the Committee on the Budget of either House, personnel of the Office shall be assigned, on a temporary basis, to assist such committee. At the request of any other committee of either House or any joint committee of the Congress, personnel of the Office may be assigned, on a temporary basis, to assist such committee or joint committee with respect to matters directly related to the applicable provisions of subsection (b) or (c).
 
 **(e) Reports to budget committees**
 
@@ -178,11 +178,11 @@ Pub. L. 100–119, title II, § 212, Sept. 29, 1987, 101 Stat. 787, provided tha
 
 <a id="section-603"></a>
 ## § 603. Public access to budget data
-**(a) Right to copy** Except as provided in subsections (c), (d), and (e) of this section, the Director shall make all information, data, estimates, and statistics obtained under section 601(d) and (e) of this title available for public copying during normal business hours, subject to reasonable rules and regulations, and shall to the extent practicable, at the request of any person, furnish a copy of any such information, data, estimates, or statistics upon payment by such person of the cost of making and furnishing such copy.
+**(a) Right to copy** Except as provided in subsections (c), (d), and (e), the Director shall make all information, data, estimates, and statistics obtained under section 601(d) and (e) of this title available for public copying during normal business hours, subject to reasonable rules and regulations, and shall to the extent practicable, at the request of any person, furnish a copy of any such information, data, estimates, or statistics upon payment by such person of the cost of making and furnishing such copy.
 
-**(b) Index** The Director shall develop and maintain filing, coding, and indexing systems that identify the information, data, estimates, and statistics to which subsection (a) of this section applies and shall make such systems available for public use during normal business hours.
+**(b) Index** The Director shall develop and maintain filing, coding, and indexing systems that identify the information, data, estimates, and statistics to which subsection (a) applies and shall make such systems available for public use during normal business hours.
 
-**(c) Exceptions** Subsection (a) of this section shall not apply to information, data, estimates, and statistics—
+**(c) Exceptions** Subsection (a) shall not apply to information, data, estimates, and statistics—
 
 (1) which are specifically exempted from disclosure by law; or
 
@@ -195,7 +195,7 @@ Pub. L. 100–119, title II, § 212, Sept. 29, 1987, 101 Stat. 787, provided tha
   (C) personnel or medical data or similar data the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
   unless the portions containing such matters, information, or data have been excised.
 
-**(d) Information obtained for committees and Members** Subsection (a) of this section shall apply to any information, data, estimates, and statistics obtained at the request of any committee, joint committee, or Member unless such committee, joint committee, or Member has instructed the Director not to make such information, data, estimates, or statistics available for public copying.
+**(d) Information obtained for committees and Members** Subsection (a) shall apply to any information, data, estimates, and statistics obtained at the request of any committee, joint committee, or Member unless such committee, joint committee, or Member has instructed the Director not to make such information, data, estimates, or statistics available for public copying.
 
 **(e) Level of confidentiality** With respect to information, data, estimates, and statistics obtained under sections 601(d) and 601(e) of this title, the Director shall maintain the same level of confidentiality as is required by law of the department, agency, establishment, or regulatory agency or commission from which it is obtained. Officers and employees of the Congressional Budget Office shall be subject to the same statutory penalties for unauthorized disclosure or use as officers or employees of the department, agency, establishment, or regulatory agency or commission from which it is obtained.
 
@@ -223,14 +223,14 @@ Pub. L. 94–157, title I, Dec. 18, 1975, 89 Stat. 834.
 
 <a id="section-605"></a>
 ## § 605. Sale or lease of property, supplies, or services
-**(a)** Any sale or lease of property, supplies, or services to the Congressional Budget Office shall be deemed to be a sale or lease to the Congress subject to [section 111b of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-111b).
+**(a)** Any sale or lease of property, supplies, or services to the Congressional Budget Office shall be deemed to be a sale or lease to the Congress subject to [section 4103 of this title](./chapter-041-congressional-officers-and-administration.md#section-4103).
 
-**(b)** Subsection (a) of this section shall apply with respect to fiscal years beginning after September 30, 1996.
+**(b)** Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1996.
 
 ### Statutory Notes
 
 #### References in Text
-[Section 111b of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-111b), referred to in subsec. (a), was in the original a reference to section 903 of the Supplemental Appropriations Act, 1983, Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 336, which is classified to [section 111b of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-111b) and in part as a note set out under [section 111b of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-111b).
+[Section 4103 of this title](./chapter-041-congressional-officers-and-administration.md#section-4103), referred to in subsec. (a), was in the original a reference to section 903 of the Supplemental Appropriations Act, 1983, Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 336, which is classified to [section 4103 of this title](./chapter-041-congressional-officers-and-administration.md#section-4103) and in part as a note set out under [section 4103 of this title](./chapter-041-congressional-officers-and-administration.md#section-4103).
 
 #### Codification
 Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.
@@ -267,7 +267,7 @@ Pub. L. 98–367, title I, July 17, 1984, 98 Stat. 482.
 ## § 606. Disposition of surplus or obsolete property
 **(a)** The Director of the Congressional Budget Office shall have the authority, within the limits of available appropriations, to dispose of surplus or obsolete personal property by inter-agency transfer, donation, sale, trade-in, or discarding. Amounts received for the sale or trade-in of personal property shall be credited to funds available for the operations of the Congressional Budget Office and be available for the costs of acquiring the same or similar property. Such funds shall be available for such purposes during the fiscal year in which received and the following fiscal year.
 
-**(b)** Subsection (a) of this section shall apply with respect to fiscal years beginning after September 30, 1996.
+**(b)** Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1996.
 
 ### Statutory Notes
 
@@ -291,7 +291,7 @@ Pub. L. 103–69, title I, Aug. 11, 1993, 107 Stat. 701.
 ## § 607. Lump-sum payments for annual leave to separated employees
 **(a)** The Director of the Congressional Budget Office shall have the authority to make lump-sum payments to separated employees of the Congressional Budget Office for unused annual leave.
 
-**(b)** Subsection (a) of this section shall apply with respect to fiscal years beginning after September 30, 1996.
+**(b)** Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1996.
 
 ### Statutory Notes
 
@@ -303,7 +303,7 @@ Section was enacted as part of the Congressional Operations Appropriations Act, 
 ## § 608. Lump-sum payments to enhance staff recruitment and to reward exceptional performance
 **(a)** The Director of the Congressional Budget Office shall have the authority to make lump-sum payments to enhance staff recruitment and to reward exceptional performance by an employee or a group of employees.
 
-**(b)** Subsection (a) of this section shall apply with respect to fiscal years beginning after September 30, 1999.
+**(b)** Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1999.
 
 ### Statutory Notes
 

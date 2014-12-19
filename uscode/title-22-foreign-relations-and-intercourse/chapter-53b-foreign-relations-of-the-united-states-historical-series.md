@@ -58,7 +58,7 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 (3) The Historian shall inform the Advisory Committee of any failure by an originating agency to complete its declassification review of a record within 120 days and of any steps taken under paragraph (2).
 
-(4) If the Advisory Committee determines that the meaning of the records proposed for inclusion in a volume of the FRUS series would be so altered or changed by deletions made under paragraph (1), or if the Advisory Committee determines as a result of inspection of other documents under subsection (a)(3) of this section that the selection of documents could be misleading or lead to an inaccurate or incomplete historical record, then the Advisory Committee shall so advise the Secretary of State and submit recommendations to resolve the issue.
+(4) If the Advisory Committee determines that the meaning of the records proposed for inclusion in a volume of the FRUS series would be so altered or changed by deletions made under paragraph (1), or if the Advisory Committee determines as a result of inspection of other documents under subsection (a)(3) that the selection of documents could be misleading or lead to an inaccurate or incomplete historical record, then the Advisory Committee shall so advise the Secretary of State and submit recommendations to resolve the issue.
 
 (5)
 
@@ -78,11 +78,11 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 ## § 4354. Declassification of State Department records
 **(a) Deadline for declassification**
 
-(1) Except as provided in subsection (b) of this section, each classified record of permanent historical value (as determined by the Secretary of State and the Archivist of the United States) which was published, issued, or otherwise prepared by the Department of State (or any officer or employee thereof acting in an official capacity) shall be declassified not later than 30 years after the record was prepared, shall be transferred to the National Archives and Records Administration, and shall be made available at the National Archives for public inspection and copying.
+(1) Except as provided in subsection (b), each classified record of permanent historical value (as determined by the Secretary of State and the Archivist of the United States) which was published, issued, or otherwise prepared by the Department of State (or any officer or employee thereof acting in an official capacity) shall be declassified not later than 30 years after the record was prepared, shall be transferred to the National Archives and Records Administration, and shall be made available at the National Archives for public inspection and copying.
 
 (2) Nothing in this subsection may be construed to require the declassification of a record wholly prepared by a foreign government.
 
-**(b) Exempted records** Subsection (a) of this section shall not apply to any record (or portion thereof) the publication of which the Secretary of State, in coordination with any agency that originated information in the records, determines—
+**(b) Exempted records** Subsection (a) shall not apply to any record (or portion thereof) the publication of which the Secretary of State, in coordination with any agency that originated information in the records, determines—
 
 (1) would compromise weapons technology important to the national defense of the United States or reveal sensitive information relating to the design of United States or foreign military equipment or relating to United States cryptologic systems or activities;
 
@@ -104,7 +104,7 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 (2) In the event that the Secretary of State considers it necessary to deny access to records under paragraph (1)(C), the Secretary shall notify the Advisory Committee in writing, describing the nature of the records in question and the justification for withholding them.
 
-**(d) Annual reports by the Advisory Committee** The Advisory Committee shall annually submit to the Secretary of State and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report setting forth its findings from the review conducted under subsection (c) of this section.
+**(d) Annual reports by the Advisory Committee** The Advisory Committee shall annually submit to the Secretary of State and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report setting forth its findings from the review conducted under subsection (c).
 
 **(e) Annual reports by the Secretary**
 

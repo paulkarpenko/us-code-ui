@@ -189,7 +189,7 @@ The Secretary shall prepare, have printed, and distribute a notice setting forth
 ### Statutory Notes
 
 #### References in Text
-Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was formerly set out as a note under [section 435 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435&num=0&edition=prelim), War and National Defense, and was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843, prior to [section 435 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435&num=0&edition=prelim) being reclassified and renumbered as [section 3161 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim). For provisions relating to special access programs, see section 4.3 of Ex. Ord. No. 13526.
+Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, and was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843. For provisions relating to special access programs, see section 4.3 of Ex. Ord. No. 13526, set out as a note under [section 3161 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim).
 
 #### Amendments
 2008—Subsec. (b)(2)(A)(i). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.

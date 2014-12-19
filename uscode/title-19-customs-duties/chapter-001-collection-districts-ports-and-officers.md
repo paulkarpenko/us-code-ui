@@ -31,7 +31,8 @@ The plan of reorganization, with an estimate of the expenses of the same, was co
 
 “It is hereby ordered and communicated that the following plan shall be the organization of the customs service for the said fiscal year 1914, and unless otherwise provided by Congress the permanent organization of the customs service:
 
-#### “I. Customs Districts
+“I. Customs Districts
+
 “In lieu of all customs-collection districts, ports, and subports of entry and ports of delivery now or heretofore existing there shall be 49 customs-collection districts with district headquarters and port of entry as follows:” [The customs-collection districts, ports, and subports of entry and ports of delivery enumerated in the President’s message to Congress have been changed since the date of the message and the districts and their boundaries and ports of entry are subject to further changes under [section 2 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-2).]
 
 “II. The use of the terms ‘port of delivery’ and ‘subport of entry’ is hereby discontinued, and all ports of entry, subports of entry, and ports of delivery not above specifically mentioned as ports of entry, are hereby abolished.
@@ -653,9 +654,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
     (v) An adjustment made under this subparagraph shall become effective with respect to formal entries and releases made on or after the 15th calendar day after the date of publication of the notice described in clause (iii)(IV) and shall remain in effect until adjusted under this subparagraph.
 
-  (C) If for any fiscal year, the Secretary of the Treasury determines not to make an adjustment under subparagraph (B), the Secretary shall, within the time prescribed under subparagraph (B)(iii)(I), submit a written report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives detailing the reasons for maintaining the current fee and the methodology used for computing such fee.
-
-  (D) Any fee charged under this paragraph, whether or not adjusted under subparagraph (B), is subject to the limitations in subsection (b)(8)(A) of this section.
+  (C) Any fee charged under this paragraph, whether or not adjusted under subparagraph (B), is subject to the limitations in subsection (b)(8)(A) of this section.
 
 (10) For the processing of merchandise that is informally entered or released, other than at—
 
@@ -962,13 +961,13 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (A) the portion of such fees that is required under paragraph (3) for the direct reimbursement of appropriations, and
 
-  (B) amounts deposited into the Customs Commercial and Homeland Security Automation Account under paragraph (5).
+  (B) amounts deposited into the Customs Commercial and Homeland Security Automation Account under paragraph (4).
 
 (2) Except as otherwise provided in this subsection, all funds in the Customs User Fee Account shall be available, to the extent provided for in appropriations Acts, to pay the costs (other than costs for which direct reimbursement under paragraph (3) is required) incurred by the United States Customs Service in conducting customs revenue functions as defined in [section 215 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section215&num=0&edition=prelim) (other than functions performed by the Office of International Affairs referred to in [section 215(8) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section215/8&num=0&edition=prelim)), and for automation (including the Automation Commercial Environment computer system), and for no other purpose. To the extent that funds in the Customs User Fee Account are insufficient to pay the costs of such customs revenue functions, customs duties in an amount equal to the amount of such insufficiency shall be available, to the extent provided for in appropriations Acts, to pay the costs of such customs revenue functions in the amount of such insufficiency, and shall be available for no other purpose. The provisions of the first and second sentences of this paragraph specifying the purposes for which amounts in the Customs User Fee Account may be made available shall not be superseded except by a provision of law which specifically modifies or supersedes such provisions. So long as there is a surplus of funds in the Customs User Fee Account, the Secretary of the Treasury may not reduce personnel staffing levels for providing commercial clearance and preclearance services.
 
 (3)
 
-  (A) The Secretary of the Treasury, in accordance with [section 1524 of this title](./chapter-004-tariff-act-of-1930.md#section-1524) and subject to subparagraph (B), shall directly reimburse, from the fees collected under subsection (a) of this section (other than the fees under subsection (a)(9) and (10) of this section and the excess fees determined by the Secretary under paragraph (5)), each appropriation for the amount paid out of that appropriation for the costs incurred by the Secretary—
+  (A) The Secretary of the Treasury, in accordance with [section 1524 of this title](./chapter-004-tariff-act-of-1930.md#section-1524) and subject to subparagraph (B), shall directly reimburse, from the fees collected under subsection (a) of this section (other than the fees under subsection (a)(9) and (10) of this section and the excess fees determined by the Secretary under paragraph (4)), each appropriation for the amount paid out of that appropriation for the costs incurred by the Secretary—
 
     (i) in—
 
@@ -1012,13 +1011,9 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
       (II) the actual cost for overtime compensation, premium pay, and agency retirement contributions that is incurred during that fiscal year in regard to inspectional services under [section 267 of this title](./chapter-003-the-tariff-and-related-provisions.md#section-267), as amended by section 13811 of the Omnibus Budget Reconciliation Act of 1993, and under [section 8331(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331/3&num=0&edition=prelim), as amended by section 13812(a)(1) of such Act of 1993, plus the actual cost that is incurred during that fiscal year for foreign language proficiency awards under [section 267a of this title](./chapter-003-the-tariff-and-related-provisions.md#section-267a),
       and shall transfer from the Customs User Fee Account to the General Fund of the Treasury an amount equal to the difference calculated under this clause, or $18,000,000, whichever amount is less. Transfers shall be made under this clause at least quarterly and on the basis of estimates to the same extent as are reimbursements under subparagraph (B)(iii).
 
-  (D) At the close of each fiscal year, the Secretary of the Treasury shall submit a report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives summarizing the expenditures, on a port-by-port basis, for which reimbursement has been provided under subparagraph (A)(ii).
+  (D) Nothing in this paragraph shall be construed to preclude the use of appropriated funds, from sources other than the fees collected under subsection (a) of this section, to pay the costs set forth in clauses (i), (ii), and (iii) of subparagraph (A).
 
-  (E) Nothing in this paragraph shall be construed to preclude the use of appropriated funds, from sources other than the fees collected under subsection (a) of this section, to pay the costs set forth in clauses (i), (ii), and (iii) of subparagraph (A).
-
-(4) At the close of fiscal year 1988 and each even-numbered fiscal year occurring thereafter, the Secretary of the Treasury shall submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate regarding how the fees imposed under subsection (a) of this section should be adjusted in order that the balance of the Customs User Fee Account approximates a zero balance. Before making recommendations regarding any such adjustments, the Secretary of the Treasury shall provide adequate opportunity for public comment. The recommendations shall, as precisely as possible, propose fees which reflect the actual costs to the United States Government for the commercial services provided by the United States Customs Service.
-
-(5)
+(4)
 
   (A) There is created within the general fund of the Treasury a separate account that shall be known as the “Customs Commercial and Homeland Security Automation Account”. In each of fiscal years 2003, 2004, and 2005 there shall be deposited into the Account from fees collected under subsection (a)(9)(A) of this section, $350,000,000.
 
@@ -1026,7 +1021,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (C) In adjusting the fee imposed by subsection (a)(9)(A) of this section for fiscal year 2006, the Secretary of the Treasury shall reduce the amount estimated to be collected in fiscal year 2006 by the amount by which total fees deposited to the Account during fiscal years 2003, 2004, and 2005 exceed total appropriations from that Account.
 
-(6) Of the amounts collected in fiscal year 1999 under paragraphs (9) and (10) of subsection (a) of this section, $50,000,000 shall be available to the Customs Service, subject to appropriations Acts, for automated commercial systems. Amounts made available under this paragraph shall remain available until expended.
+(5) Of the amounts collected in fiscal year 1999 under paragraphs (9) and (10) of subsection (a) of this section, $50,000,000 shall be available to the Customs Service, subject to appropriations Acts, for automated commercial systems. Amounts made available under this paragraph shall remain available until expended.
 
 **(g) Regulations and enforcement**
 
@@ -1046,11 +1041,11 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (3)
 
-  (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) of this section after October 22, 2021.
+  (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) of this section after September 30, 2024.
 
   (B)
 
-    (i) Subject to clause (ii), Fees 11 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) of this section after October 29, 2021.
+    (i) Subject to clause (ii), Fees 11 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) of this section after September 30, 2024.
 
     (ii) In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) of this section are authorized—
 
@@ -1132,6 +1127,24 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 13031 of Pub. L. 99–272. Subsec. (h) of section 13031 of Pub. L. 99–272 amended [section 545(i) of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section545/i&num=0&edition=prelim), Railroads, and repealed section 1741(e) of former Title 49, Transportation.
 
 #### Amendments
+2014—Subsec. (a)(9)(C), (D). Pub. L. 113–188, § 1001(c)(1)(A), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “If for any fiscal year, the Secretary of the Treasury determines not to make an adjustment under subparagraph (B), the Secretary shall, within the time prescribed under subparagraph (B)(iii)(I), submit a written report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives detailing the reasons for maintaining the current fee and the methodology used for computing such fee.”
+
+Subsec. (f)(1)(B). Pub. L. 113–188, § 1001(c)(2)(A), substituted “paragraph (4)” for “paragraph (5)”.
+
+Subsec. (f)(3)(A). Pub. L. 113–188, § 1001(c)(2)(B), substituted “paragraph (4)” for “paragraph (5)” in introductory provisions.
+
+Subsec. (f)(3)(D), (E). Pub. L. 113–188, § 1001(c)(1)(B)(i), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “At the close of each fiscal year, the Secretary of the Treasury shall submit a report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives summarizing the expenditures, on a port-by-port basis, for which reimbursement has been provided under subparagraph (A)(ii).”
+
+Subsec. (f)(4) to (6). Pub. L. 113–188, § 1001(c)(1)(B)(ii), (iii), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which related to reports regarding adjustments to fees imposed under subsec. (a).
+
+Subsec. (j)(3)(A). Pub. L. 113–159, § 2004(1), substituted “September 30, 2024” for “September 30, 2023”.
+
+Subsec. (j)(3)(B)(i). Pub. L. 113–159, § 2004(2), substituted “September 30, 2024” for “September 30, 2023”.
+
+2013—Subsec. (j)(3)(A). Pub. L. 113–67, § 701(1), substituted “September 30, 2023” for “October 22, 2021”.
+
+Subsec. (j)(3)(B)(i). Pub. L. 113–67, § 701(2), substituted “September 30, 2023” for “October 29, 2021”.
+
 2012—Subsec. (j)(3)(A). Pub. L. 112–163, § 5(1), substituted “October 22, 2021” for “August 2, 2021”.
 
 Subsec. (j)(3)(B)(i). Pub. L. 112–163, § 5(2), substituted “October 29, 2021” for “December 8, 2020”.

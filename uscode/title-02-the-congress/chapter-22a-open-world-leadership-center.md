@@ -87,7 +87,7 @@ source: >-
 
 (1) **In general** — This section shall take effect on December 21, 2000.
 
-(2) **Transfer** — Subsection (g) of this section shall only apply to amounts which remain unexpended on and after the date the Board certifies to the Librarian of Congress that grants are ready to be made under the program established under this section.
+(2) **Transfer** — Subsection (g) shall only apply to amounts which remain unexpended on and after the date the Board certifies to the Librarian of Congress that grants are ready to be made under the program established under this section.
 
 **(j) 22 So in original. No subsec. (i) has been enacted. Eligible foreign state defined** In this section, the term “eligible foreign state” means—
 

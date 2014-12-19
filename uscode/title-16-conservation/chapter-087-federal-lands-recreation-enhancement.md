@@ -231,6 +231,9 @@ This chapter, referred to in subsec. (d)(1), (4), was in the original “this Ac
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(3)(H), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
+#### Prohibition on Entrance Fee at Statue of Liberty National Monument
+Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstanding any other provision of law, after the date of enactment of this Act [June 19, 1987], the Secretary of the Interior shall not charge any entrance or admission fee at the Statue of Liberty National Monument, New Jersey and New York.”
+
 
 <a id="section-6803"></a>
 ## § 6803. Public participation
@@ -395,16 +398,25 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **(f) Effect on existing passports and permits**
 
-(1) **Existing passports** — A passport issued under section 460l–6a of this title or title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; [16 U.S.C. 5991–599](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5991–599&num=0&edition=prelim)5), such as the Golden Eagle Passport, the Golden Age Passport, the Golden Access Passport, and the National Parks Passport, that was valid on the day before the publication of the Federal Register notice required under subsection (a)(3) shall be valid in accordance with the terms agreed to at the time of issuance of the passport, to the extent practicable, and remain in effect until expired, lost, or stolen.
+(1) **Existing passports** — A passport issued under [section 100904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904&num=0&edition=prelim) or title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391), such as the Golden Eagle Passport, the Golden Age Passport, the Golden Access Passport, and the National Parks Passport, that was valid on the day before the publication of the Federal Register notice required under subsection (a)(3) shall be valid in accordance with the terms agreed to at the time of issuance of the passport, to the extent practicable, and remain in effect until expired, lost, or stolen.
 
-(2) **Permits** — A permit issued under section 460l–6a of this title that was valid on the day before December 8, 2004, shall be valid and remain in effect until expired, revoked, or suspended.
+(2) **Permits** — A permit issued under [section 100904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904&num=0&edition=prelim) that was valid on the day before December 8, 2004, shall be valid and remain in effect until expired, revoked, or suspended.
 
 ### Statutory Notes
 
 #### References in Text
 [Section 6805 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6805), referred to in subsec. (a)(6)(B), was in the original a reference to section 6, and was translated as meaning section 806 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 
-The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497, as amended. Title VI of the Act was classified generally to subchapter V (§ 5991 et seq.) of chapter 79 of this title, prior to repeal by Pub. L. 108–447, div. J, title VIII, § 813(d)(2), Dec. 8, 2004, 118 Stat. 3391. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title](./chapter-079-national-park-service-management.md#section-5901) and Tables.
+#### Codification
+In subsec. (f), “[section 100904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904&num=0&edition=prelim)” substituted for “section 4 of the Land and Water Conservation Fund Act of 1965” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+
+#### Amendments
+2014—Subsec. (f)(1). Pub. L. 113–287, § 5(d)(36)(B), struck out “; [16 U.S.C. 5991–599](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5991–599&num=0&edition=prelim)5” after “(Public Law 105–391”.
+
+Pub. L. 113–287, § 5(d)(36)(A), made technical amendment to reference in original act which appeared in text as reference to “section 460l–6a of this title” prior to substitution of “[section 100904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904&num=0&edition=prelim)”. See Codification note above.
+
+#### America the Beautiful National Parks and Federal Recreational Lands Pass Program
+Pub. L. 113–121, title I, § 1048, June 10, 2014, 128 Stat. 1257, provided that: “The Secretary [of the Army] may participate in the America the Beautiful National Parks and Federal Recreational Lands Pass program in the same manner as the National Park Service, the Bureau of Land Management, the United States Fish and Wildlife Service, the Forest Service, and the Bureau of Reclamation, including the provision of free annual passes to active duty military personnel and dependents.”
 
 
 <a id="section-6805"></a>
@@ -510,12 +522,15 @@ Not later than May 1, 2006, and every 3 years thereafter, the Secretary shall su
 <a id="section-6809"></a>
 ## § 6809. Sunset provision
 
-The authority of the Secretary to carry out this chapter shall terminate 10 years after December 8, 2004.
+The authority of the Secretary to carry out this chapter shall terminate on September 30, 2016.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) and Tables.
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “on September 30, 2016” for “10 years after December 8, 2004”.
 
 
 <a id="section-6810"></a>
@@ -552,25 +567,25 @@ This chapter, referred to in subsecs. (a) and (d), was in the original “this A
 
 <a id="section-6812"></a>
 ## § 6812. Repeal of superseded admission and use fee authorities
-**(a) Land and Water Conservation Fund Act** Subsections (a), (b), (c), (d), (e), (f), (g), and (i) (except for paragraph (1)(C)) of section 460l–6a of this title are repealed, except that the Secretary may continue to issue Golden Eagle Passports, Golden Age Passports, and Golden Access Passports under such section until the date the notice required by [section 6804(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6804/a/3&num=0&edition=prelim) is published in the Federal Register regarding the establishment of the National Parks and Federal Recreational Lands Pass.
+**(a) Land and Water Conservation Fund Act** Subsections (a), (b), (c), (d), (e), (f), (g), and (i) (except for paragraph (1)(C)) of section 460l–6a 11 See References in Text note below. of this title are repealed, except that the Secretary may continue to issue Golden Eagle Passports, Golden Age Passports, and Golden Access Passports under such section until the date the notice required by [section 6804(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6804/a/3&num=0&edition=prelim) is published in the Federal Register regarding the establishment of the National Parks and Federal Recreational Lands Pass.
 
-**(b) Recreational fee demonstration program** Section 315 of the Department of the Interior and Related Agencies Appropriations Act, 1996 (as contained in section 101(c) of Public Law 104–134; [16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–6a 11 See References in Text note below.), is repealed.
+**(b) Recreational fee demonstration program** Section 315 1 of the Department of the Interior and Related Agencies Appropriations Act, 1996 (as contained in section 101(c) of Public Law 104–134), is repealed.
 
 **(c) Admission permits for refuge units** [Section 3911 of this title](./chapter-059-wetlands-resources.md#section-3911) is repealed.
 
 **(d) National park passport, Golden Eagle Passport, Golden Age Passport, and Golden Access Passport** Effective on the date the notice required by [section 6804(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6804/a/3&num=0&edition=prelim) is published in the Federal Register, the following provisions of law authorizing the establishment of a national park passport program or the establishment and sale of a national park passport, Golden Eagle Passport, Golden Age Passport, or Golden Access Passport are repealed:
 
-(1) Section 502 of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; [16 U.S.C. 5982](./chapter-079-national-park-service-management.md#section-5982)).
+(1) Section 502 of the National Parks Omnibus Management Act of 1998 (Public Law 105–391).
 
-(2) Title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; [16 U.S.C. 5991–599](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5991–599&num=0&edition=prelim)5).
+(2) Title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391).
 
 **(e) Treatment of unobligated funds**
 
 (1) **Land and water conservation fund special accounts** — Amounts in the special accounts established under section 460l–6a(i)(1) of this title for Federal land management agencies that are unobligated on December 8, 2004, shall be transferred to the appropriate special account established under [section 6806 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6806) and shall be available to the Secretary in accordance with this chapter. A special account established under section 460l–6a(i)(1) of this title for a Federal agency that is not a Federal land management area, and the use of such special account, is not affected by the repeal of section 460l–6a of this title by subsection (a) of this section.
 
-(2) **National parks passport** — Any funds collected under title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; [16 U.S.C. 5991–599](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5991–599&num=0&edition=prelim)5) that are unobligated on the day before the publication of the Federal Register notice required under [section 6804(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6804/a/3&num=0&edition=prelim) shall be transferred to the special account of the National Park Service for use in accordance with this chapter. The Secretary of the Interior may use amounts available in that special account to pay any outstanding administration, marketing, or close-out costs associated with the national parks passport.
+(2) **National parks passport** — Any funds collected under title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391) that are unobligated on the day before the publication of the Federal Register notice required under [section 6804(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6804/a/3&num=0&edition=prelim) shall be transferred to the special account of the National Park Service for use in accordance with this chapter. The Secretary of the Interior may use amounts available in that special account to pay any outstanding administration, marketing, or close-out costs associated with the national parks passport.
 
-(3) **Recreational fee demonstration program** — Any funds collected in accordance with section 315 of the Department of the Interior and Related Agencies Appropriations Act, 1996 (as contained in section 101(c) of Public Law 104–134; [16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–6a 1), that are unobligated on the day before December 8, 2004, shall be transferred to the appropriate special account and shall be available to the Secretary in accordance with this chapter.
+(3) **Recreational fee demonstration program** — Any funds collected in accordance with section 315 1 of the Department of the Interior and Related Agencies Appropriations Act, 1996 (as contained in section 101(c) of Public Law 104–134), that are unobligated on the day before December 8, 2004, shall be transferred to the appropriate special account and shall be available to the Secretary in accordance with this chapter.
 
 (4) **Admission permits for refuge units** — Any funds collected in accordance with [section 3911 of this title](./chapter-059-wetlands-resources.md#section-3911) that are available as provided in subsection (c)(A) of such section and are unobligated on the day before December 8, 2004, shall be transferred to the special account of the United States Fish and Wildlife Service for use in accordance with this chapter.
 
@@ -579,21 +594,37 @@ This chapter, referred to in subsecs. (a) and (d), was in the original “this A
 ### Statutory Notes
 
 #### References in Text
+Section 460l–6a of this title, referred to in subsecs. (a) and (e)(1), including subsection (i)(1) of section 460l–6a of this title as referred to in subsec. (e)(1), was repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. With respect to subsection (i)(1)(C) of former section 460l–6a of this title, see [section 100904(a) of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904/a&num=0&edition=prelim), National Park Service and Related Programs.
+
 The date the notice required by [section 6804(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6804/a/3&num=0&edition=prelim) is published in the Federal Register, referred to in subsecs. (a), (d), and (e)(2), is Dec. 19, 2006. See 71 F.R. 75935.
 
 Sections 6804 and 6806 of this title, referred to in subsecs. (a), (d), and (e)(1), (2), were in the original references to sections 5 and 7, respectively, and were translated as meaning section 805 and 807, respectively, of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 
-Section 315 of the Department of the Interior and Related Agencies Appropriations Act, 1996, referred to in subsecs. (b) and (e)(3), is Pub. L. 104–134, title I, § 101(c) [title III, § 315], Apr. 26, 1996, 110 Stat. 1321–156, 1321–200, as amended, which was set out as a note under section 460l–6a of this title.
+Section 315 of the Department of the Interior and Related Agencies Appropriations Act, 1996, referred to in subsecs. (b) and (e)(3), is Pub. L. 104–134, title I, § 101(c) [title III, § 315], Apr. 26, 1996, 110 Stat. 1321–156, 1321–200, which was set out as a note under section 460l–6a of this title.
 
-The National Parks Omnibus Management Act of 1998, referred to in subsecs. (d)(2) and (e)(2), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497, as amended. Title VI of the Act was classified generally to subchapter V (§ 5991 et seq.) of chapter 79 of this title, prior to repeal by subsec. (d)(2) of this section. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title](./chapter-079-national-park-service-management.md#section-5901) and Tables.
+The National Parks Omnibus Management Act of 1998, referred to in subsecs. (d)(2) and (e)(2), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497. Title VI of the Act was classified generally to subchapter V (§ 5991 et seq.) of chapter 79 of this title, prior to repeal by subsec. (d)(2) of this section. For complete classification of this Act to the Code, see Tables.
 
 This chapter, referred to in subsecs. (e) and (f), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) and Tables.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–287, § 5(d)(37)(A), which directed technical amendment in subsec. (A) to reference in original act which appeared as reference to “section 460l–6a of this title”, was executed in subsec. (a) to reflect the probable intent of Congress.
+
+Subsec. (b). Pub. L. 113–287, § 5(d)(37)(B), struck out “; [16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–6a” after “Public Law 104–134”.
+
+Subsec. (d)(1). Pub. L. 113–287, § 5(d)(37)(C)(i), which directed striking out “; [16 U.S.C. 5982](./chapter-079-national-park-service-management.md#section-5982)” after “(Public Law 105–391” in subsec. (c)(1), was executed by making the strike out in subsec. (d)(1) to reflect the probable intent of Congress.
+
+Subsec. (d)(2). Pub. L. 113–287, § 5(d)(37)(C)(ii), which directed striking out “; [16 U.S.C. 5991–599](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5991–599&num=0&edition=prelim)5” after “(Public Law 105–391” in subsec. (c)(2), was executed by making the strike out in subsec. (d)(2) to reflect the probable intent of Congress.
+
+Subsec. (e)(1). Pub. L. 113–287, § 5(d)(37)(D)(i), made technical amendment to reference in original act which appeared as reference to “section 460l–6a(i)(1) of this title”.
+
+Subsec. (e)(2). Pub. L. 113–287, § 5(d)(37)(D)(ii), struck out “; [16 U.S.C. 5991–599](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5991–599&num=0&edition=prelim)5” after “(Public Law 105–391”.
+
+Subsec. (e)(3). Pub. L. 113–287, § 5(d)(37)(D)(iii), struck out “; [16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–6a” after “Public Law 104–134”.
+
 2005—Subsec. (a). Pub. L. 109–54 inserted “(except for paragraph (1)(C))” after “and (i)”.
 
 #### Effective Date of 2005 Amendment
-Amendment by Pub. L. 109–54 effective Dec. 8, 2004, see section 132(d) of Pub. L. 109–54, set out as a note under section 460l–6a of this title.
+Pub. L. 109–54, title I, § 132(d), Aug. 2, 2005, 119 Stat. 526, provided that: “This section [amending this section and enacting provisions set out as a note under [section 100904 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904&num=0&edition=prelim), National Park Service and Related Programs] and the amendments made by this section take effect as of December 8, 2004.”
 
 
 <a id="section-6813"></a>

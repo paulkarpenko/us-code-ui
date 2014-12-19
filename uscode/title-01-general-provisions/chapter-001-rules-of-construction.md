@@ -29,6 +29,15 @@ Pub. L. 107–207, § 1, Aug. 5, 2002, 116 Stat. 926, provided that: “This Act
 #### Short Title of 1996 Amendment
 Pub. L. 104–199, § 1, Sept. 21, 1996, 110 Stat. 2419, provided that: “This Act [enacting [section 7 of this title](./chapter-001-rules-of-construction.md#section-7) and [section 1738C of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1738C&num=0&edition=prelim), Judiciary and Judicial Procedure] may be cited as the ‘Defense of Marriage Act’.”
 
+#### References in Pub. Law 113–235
+Pub. L. 113–235, § 3, Dec. 16, 2014, 128 Stat. 2132, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Consolidated and Further Continuing Appropriations Act, 2015, see Tables for classification] shall be treated as referring only to the provisions of that division.”
+
+#### References in Pub. L. 113–76
+Pub. L. 113–76, § 3, Jan. 17, 2014, 128 Stat. 7, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Consolidated Appropriations Act, 2014, see Tables for classification] shall be treated as referring only to the provisions of that division.”
+
+#### References in Pub. L. 113–67
+Pub. L. 113–67, div. A, § 1(c), Dec. 26, 2013, 127 Stat. 1166, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Bipartisan Budget Act of 2013, see Tables for classification] shall be treated as referring only to the provisions of that division.”
+
 #### References in Pub. L. 113–6
 Pub. L. 113–6, § 3, Mar. 26, 2013, 127 Stat. 199, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in division A, B, C, D, or E of this Act [Consolidated and Further Continuing Appropriations Act, 2013, see Tables for classification] shall be treated as referring only to the provisions of that division.”
 
@@ -118,6 +127,11 @@ Wherever, in the statutes of the United States or in the rulings, regulations, o
 ## § 7. Definition of “marriage” and “spouse”
 
 In determining the meaning of any Act of Congress, or of any ruling, regulation, or interpretation of the various administrative bureaus and agencies of the United States, the word “marriage” means only a legal union between one man and one woman as husband and wife, and the word “spouse” refers only to a person of the opposite sex who is a husband or a wife.
+
+### Statutory Notes
+
+#### Constitutionality
+For information regarding constitutionality of this section, as added by section 3(a) of Pub. L. 104–199, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 
 <a id="section-8"></a>

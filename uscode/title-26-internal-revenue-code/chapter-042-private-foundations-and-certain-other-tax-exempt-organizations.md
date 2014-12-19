@@ -461,7 +461,7 @@ Determination of status as substantial contributor within [section 507(d)(2) of 
 
 (2) **Certain set-asides**
 
-  (A) *In general* — For all taxable years beginning on or after January 1, 1975, subject to such terms and conditions as may be prescribed by the Secretary, an amount set aside for a specific project which comes within one or more purposes described in section 170(c)(2)(B) may be treated as a qualifying distribution if it meets the requirements of subparagraph (B).
+  (A) *In general* — Subject to such terms and conditions as may be prescribed by the Secretary, an amount set aside for a specific project which comes within one or more purposes described in section 170(c)(2)(B) may be treated as a qualifying distribution if it meets the requirements of subparagraph (B).
 
   (B) *Requirements* — An amount set aside for a specific project shall meet the requirements of this subparagraph if at the time of the set-aside the foundation establishes to the satisfaction of the Secretary that the amount will be paid for the specific project within 5 years, and either—
 
@@ -535,7 +535,7 @@ Determination of status as substantial contributor within [section 507(d)(2) of 
   (B) the distributable amounts for such taxable years (determined without regard to this subsection),
   then, for purposes of this section (other than subsection (h)), the distributable amount for the taxable year shall be reduced by an amount equal to such excess.
 
-(2) **Taxable years in adjustment period** — For purposes of paragraph (1), with respect to any taxable year of a private foundation the taxable years in the adjustment period are the taxable years (not exceeding 5) beginning after December 31, 1969, and immediately preceding the taxable year.
+(2) **Taxable years in adjustment period** — For purposes of paragraph (1), with respect to any taxable year of a private foundation the taxable years in the adjustment period are the taxable years (not exceeding 5) immediately preceding the taxable year.
 
 **(j) Other definitions** For purposes of this section—
 
@@ -582,6 +582,10 @@ Determination of status as substantial contributor within [section 507(d)(2) of 
 Sections 1212(b) and 1244(a) of Pub. L. 109–280, which directed the amendment of section 4942 without specifying the act to be amended, were executed to this section, which is section 4942 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2014—Subsec. (g)(2)(A). Pub. L. 113–295, § 221(a)(105)(A), substituted “Subject” for “For all taxable years beginning on or after January 1, 1975, subject”.
+
+Subsec. (i)(2). Pub. L. 113–295, § 221(a)(105)(B), struck out “beginning after December 31, 1969, and” after “(not exceeding 5)”.
+
 2007—Subsec. (i)(1)(A). Pub. L. 110–172 substituted “section 170(b)(1)(F)(ii)” for “section 170(b)(1)(E)(ii)”.
 
 2006—Subsec. (a). Pub. L. 109–280, § 1212(b), substituted “30 percent” for “15 percent” in introductory provisions. See Codification note above.
@@ -631,6 +635,9 @@ Subsec. (f)(2)(D). Pub. L. 94–455, § 1310(a), added subpar. (D).
 Subsec. (g)(2). Pub. L. 94–455, § 1302(a), among other changes, inserted reference to all taxable years beginning on or after Jan. 1, 1975, requirement that the project will not be completed before the end of the taxable year of the foundation in which the set-aside is made, and subpars. (C) to (E).
 
 Subsecs. (h)(2), (j)(2)(B). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2006 Amendment
 Amendment by section 1212(b) of Pub. L. 109–280 applicable to taxable years beginning after Aug. 17, 2006, see section 1212(f) of Pub. L. 109–280, set out as a note under [section 4941 of this title](./chapter-042-private-foundations-and-certain-other-tax-exempt-organizations.md#section-4941).
@@ -810,7 +817,7 @@ Applicability of section to organizations organized before May 27, 1969, see sec
 
   (A) “the date of the enactment of this subsection” shall be substituted for “May 26, 1969” each place it appears in paragraphs (4), (5), and (6), and
 
-  (B) “January 1, 2007” shall be substituted for “January 1, 1970” in paragraph (4)(E).
+  (B) “January 1, 2007” shall be substituted for “January 1, 1971” in paragraph (4)(E).
 
 **(f) Application of tax to supporting organizations**
 
@@ -869,7 +876,7 @@ Applicability of section to organizations organized before May 27, 1969, see sec
 
   (A) “the date of the enactment of this subsection” shall be substituted for “May 26, 1969” each place it appears in paragraphs (4), (5), and (6), and
 
-  (B) “January 1, 2007” shall be substituted for “January 1, 1970” in paragraph (4)(E).
+  (B) “January 1, 2007” shall be substituted for “January 1, 1971” in paragraph (4)(E).
 
 ### Statutory Notes
 
@@ -880,6 +887,8 @@ The date of enactment of this subsection, referred to in subsecs. (e)(3)(A) and 
 Sections 1212(c), 1233(a), and 1243(a) of Pub. L. 109–280, which directed the amendment of section 4943 without specifying the act to be amended, were executed to this section, which is section 4943 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2014—Subsecs. (e)(3)(B), (f)(7)(B). Pub. L. 113–295 substituted “January 1, 1971” for “January 1, 1970”.
+
 2006—Subsec. (a)(1). Pub. L. 109–280, § 1212(c), substituted “10 percent” for “5 percent”. See Codification note above.
 
 Subsec. (e). Pub. L. 109–280, § 1233(a), added subsec. (e). See Codification note above.
@@ -1048,7 +1057,7 @@ other than through making available the results of nonpartisan analysis, study, 
 (4) substantially all of the support (other than gross investment income as defined in section 509(e)) of which is received from exempt organizations, the general public, governmental units described in section 170(c)(1), or any combination of the foregoing; not more than 25 percent of such support is received from any one exempt organization (for this purpose treating private foundations which are described in section 4946(a)(1)(H) with respect to each other as one exempt organization); and not more than half of the support of which is received from gross investment income, and
 
 (5) contributions to which for voter registration drives are not subject to conditions that they may be used only in specified States, possessions of the United States, or political subdivisions or other areas of any of the foregoing, or the District of Columbia, or that they may be used in only one specific election period.
-In determining whether the organization meets the requirements of paragraph (4) for any taxable year of such organization, there shall be taken into account the support received by such organization during such taxable year and during the immediately preceding 4 taxable years of such organization (excluding therefrom any preceding taxable year which begins before January 1, 1970). Subsection (d)(4) shall not apply to any grant to an organization which meets the requirements of this subsection.
+In determining whether the organization meets the requirements of paragraph (4) for any taxable year of such organization, there shall be taken into account the support received by such organization during such taxable year and during the immediately preceding 4 taxable years of such organization. Subsection (d)(4) shall not apply to any grant to an organization which meets the requirements of this subsection.
 
 **(g) Individual grants** Subsection (d)(3) shall not apply to an individual grant awarded on an objective and nondiscriminatory basis pursuant to a procedure approved in advance by the Secretary, if it is demonstrated to the satisfaction of the Secretary that—
 
@@ -1085,6 +1094,8 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 Sections 1212(e) and 1244(b) of Pub. L. 109–280, which directed the amendment of section 4945 without specifying the act to be amended, were executed to this section, which is section 4945 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2014—Subsec. (f). Pub. L. 113–295 struck out “(excluding therefrom any preceding taxable year which begins before January 1, 1970)” after “taxable years of such organization” in concluding provisions.
+
 2006—Subsec. (a)(1). Pub. L. 109–280, § 1212(e)(1)(A), substituted “20 percent” for “10 percent”. See Codification note above.
 
 Subsec. (a)(2). Pub. L. 109–280, § 1212(e)(1)(B), substituted “5 percent” for “2½ percent”. See Codification note above.
@@ -1106,6 +1117,9 @@ Subsec. (i)(2). Pub. L. 96–596, § 2(a)(2)(E), substituted provision defining 
 1976—Subsec. (g). Pub. L. 94–455, §§ 1901(b)(8)(H), 1906(b)(13)(A), struck out in provisions preceding par. (1) “or his delegate” after “Secretary” and substituted in par. (1) “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution described in section 151(e)(4)”.
 
 Subsecs. (h), (i). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wher­ever appearing.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2006 Amendment
 Amendment by section 1212(e) of Pub. L. 109–280 applicable to taxable years beginning after Aug. 17, 2006, see section 1212(f) of Pub. L. 109–280, set out as a note under [section 4941 of this title](./chapter-042-private-foundations-and-certain-other-tax-exempt-organizations.md#section-4941).
@@ -1923,9 +1937,11 @@ For effective date of section with respect to any first tier tax and to any seco
 
 (5) a program described in section 529,
 
-(6) an eligible deferred compensation plan described in section 457(b) which is maintained by an employer described in section 457(e)(1)(A), or
+(6) an eligible deferred compensation plan described in section 457(b) which is maintained by an employer described in section 457(e)(1)(A),
 
-(7) an arrangement described in section 4973(a).
+(7) an arrangement described in section 4973(a), or
+
+(8) a program described in section 529A.
 
 **(d) Entity manager** For purposes of this section, the term “entity manager” means—
 
@@ -1963,7 +1979,12 @@ For effective date of section with respect to any first tier tax and to any seco
 The date of the enactment of this section, referred to in subsecs. (b)(1)(B) and (f), is the date of enactment of Pub. L. 109–222, which was approved May 17, 2006.
 
 #### Amendments
+2014—Subsec. (c)(8). Pub. L. 113–295 added par. (8).
+
 2007—Subsec. (c)(6). Pub. L. 110–172 substituted “section 457(e)(1)(A)” for “section 4457(e)(1)(A)”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 31, 2014, see section 102(f)(1) of Pub. L. 113–295, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date
 Pub. L. 109–222, title V, § 516(d), May 17, 2006, 120 Stat. 372, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting this section and amending sections 6011, 6033, and 6652 of this title] shall apply to taxable years ending after the date of the enactment of this Act [May 17, 2006], with respect to transactions before, on, or after such date, except that no tax under section 4965(a) of the Internal Revenue Code of 1986 (as added by this section) shall apply with respect to income or proceeds that are properly allocable to any period ending on or before the date which is 90 days after such date of enactment. “(2) Disclosure.—The amendments made by subsections (b) and (c) [amending sections 6011, 6033, and 6652 of this title] shall apply to disclosures the due date for which are after the date of the enactment of this Act.”

@@ -30,6 +30,9 @@ Section 7301 defines “service on deck”, “one year’s service” and “da
 #### Amendments
 1984—Subsec. (a)(1). Pub. L. 98–364 substituted “fishing, fish processing, fish tender vessels” for “decked fishing vessels”.
 
+#### Merchant Marine Post-Service Career Opportunities
+Pub. L. 113–281, title III, § 305(d), Dec. 18, 2014, 128 Stat. 3044, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 18, 2014], the Commandant of the Coast Guard shall take steps to promote better awareness, on an ongoing basis, among Coast Guard personnel regarding post-service use of Coast Guard training, education, and practical experience in satisfaction of requirements for merchant mariner credentials under section 11.213 of title 46, Code of Federal Regulations.”
+
 
 <a id="section-7302"></a>
 ## § 7302. Issuing merchant mariners’ documents and continuous discharge books
@@ -92,6 +95,9 @@ Pub. L. 109–241, title IX, § 901(h)(1), July 11, 2006, 120 Stat. 564, provide
 
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under [section 2701 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2701&num=0&edition=prelim), Navigation and Navigable Waters.
+
+#### Crediting of United States Armed Forces Service, Training, and Qualifications
+Pub. L. 113–281, title III, § 305(c), Dec. 18, 2014, 128 Stat. 3044, provided that: “(1) Maximizing creditability.—The Secretary of the department in which the Coast Guard is operating, in implementing United States merchant mariner license, certification, and document laws and the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, shall maximize the extent to which United States Armed Forces service, training, and qualifications are creditable toward meeting the requirements of such laws and such Convention. “(2) Notification.—Not later than 90 days after the date of enactment of this Act [Dec. 18, 2014], the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the steps taken to implement this subsection.”
 
 #### Merchant Mariners’ Documents Pilot Program
 Pub. L. 108–293, title VI, § 611, Aug. 9, 2004, 118 Stat. 1058, provided that: “The Secretary of the department in which the Coast Guard is operating may conduct a pilot program to demonstrate methods to improve processes and procedures for issuing merchant mariners’ documents.”

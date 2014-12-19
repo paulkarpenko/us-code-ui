@@ -15,7 +15,8 @@ Any person who furnishes original information to the United States—
 
 **(b)** with respect to the introduction or attempted introduction into the United States or the manufacture or acquisition or attempted manufacture or acquisition of, or a conspiracy to introduce into the United States or to manufacture or acquire, special nuclear material or an atomic weapon contrary to the laws of the United States, or
 
-**(c)** with respect to the export or attempted export, or a conspiracy to export, special nuclear material or an atomic weapon from the United States contrary to the laws of the United States, shall be rewarded by the payment of an amount not to exceed $500,000.
+**(c)** with respect to the export or attempted export, or a conspiracy to export, special nuclear material or an atomic weapon from the United States contrary to the laws of the United States,
+shall be rewarded by the payment of an amount not to exceed $500,000.
 
 ### Statutory Notes
 
@@ -105,6 +106,6 @@ As used in this chapter—
 ### Statutory Notes
 
 #### References in Text
-The Atomic Energy Act of 1954, referred to in subsec. (c), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (c), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 
 The Immigration and Nationality Act, referred to in subsec. (d), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.

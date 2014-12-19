@@ -197,7 +197,7 @@ Amendment by Pub. L. 94–205 effective Jan. 2, 1976, with the Secretary authori
 
 (13) Notice that the Office of Housing of the Department of Housing and Urban Development has made publicly available a brochure regarding loan fraud and a World Wide Web address and toll-free telephone number for obtaining the brochure.
 
-(14) An explanation of flood insurance and the availability of flood insurance under the National Flood Insurance Program or from a private insurance company, whether or not the real estate is located in an area having special flood hazards.
+(14) An explanation of flood insurance and the availability of flood insurance under the National Flood Insurance Program or from a private insurance company, whether or not the real estate is located in an area having special flood hazards, and the following statement: “Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage lender may still require you to do so to protect the collateral securing the mortgage. If you choose to not maintain flood insurance on a structure, and it floods, you are responsible for all flood losses relating to that structure.”.
 The booklet prepared pursuant to this section shall take into consideration differences in real estate settlement procedures that may exist among the several States and territories of the United States and among separate political subdivisions within the same State and territory.
 
 **(c) Estimate of charges** Each lender shall include with the booklet a good faith estimate of the amount or range of charges for specific settlement services the borrower is likely to incur in connection with the settlement as prescribed by the Bureau. Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to [section 1701x(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701x/e&num=0&edition=prelim) and located in the area of the lender.
@@ -214,6 +214,8 @@ This chapter, referred to in subsec. (a), was in the original “this title” a
 The Truth in Lending Act, referred to in subsec. (b)(3), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. Two sections 129 of the Act have been enacted and are classified to sections 1639 and 1639a of Title 15. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Subsec. (b)(14). Pub. L. 113–89 inserted before period at end “, and the following statement: ‘Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage lender may still require you to do so to protect the collateral securing the mortgage. If you choose to not maintain flood insurance on a structure, and it floods, you are responsible for all flood losses relating to that structure.’ ” and transferred par. (14) to appear after par. (13).
+
 2012—Subsec. (b)(14). Pub. L. 112–141 added par. (14).
 
 2010—Pub. L. 111–203, § 1450(1), substituted “Home buying” for “Special” in section catchline.

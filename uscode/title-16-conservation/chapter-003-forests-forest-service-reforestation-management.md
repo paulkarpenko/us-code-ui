@@ -85,6 +85,9 @@ Act of July 2, 1862, referred to in subsec. (b), is act July 2, 1862, ch. 130, 1
 
 Act of August 30, 1890, referred to in subsec. (b), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section321&num=0&edition=prelim) and Tables.
 
+#### Forest Service Large Airtanker and Aerial Asset Firefighting Recapitalization Pilot Program
+Pub. L. 113–79, title VIII, § 8305, Feb. 7, 2014, 128 Stat. 925, provided that: “(a) In General.—Subject to the availability of appropriations, the Secretary [of Agriculture], acting through the Chief of the Forest Service, may establish a large airtanker and aerial asset lease program in accordance with this section. “(b) Aircraft Requirements.—In carrying out the program described in subsection (a), the Secretary may enter into a multiyear lease contract for up to 5 aircraft that meet the criteria—“(1) described in the Forest Service document entitled ‘Large Airtanker Modernization Strategy’ and dated February 10, 2012, for large airtankers; and “(2) determined by the Secretary, for other aerial assets. “(c) Lease Terms.—The term of any individual lease agreement into which the Secretary enters under this section shall be—“(1) up to 5 years, inclusive of any options to renew or extend the initial lease term; and “(2) in accordance with [section 3903 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3903&num=0&edition=prelim), United States Code. “(d) Prohibition.—No lease entered into under this section shall provide for the purchase of the aircraft by, or the transfer of ownership to, the Forest Service.”
+
 #### Forest Firefighting Planning and Cooperation; Findings
 Pub. L. 101–286, title II, § 201, May 9, 1990, 104 Stat. 174, provided that: “The Congress finds that— “(1) it is in the best interest of the Nation to take swift action to rehabilitate burned forests, and an assessment of the situation is necessary to accomplish this; and “(2) volunteers should be trained to assist where possible.”
 
@@ -426,10 +429,16 @@ None of the funds made available to the Forest Service in this Act or any other 
 ### Statutory Notes
 
 #### References in Text
+This Act, referred to in text, is Pub. L. 113–235, div. F, Dec. 16, 2014, 128 Stat. 2396, known as the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2015. For complete classification of this Act to the Code, see Tables.
+
 [Section 8316(b) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8316/b&num=0&edition=prelim), referred to in text, was in the original “section 10417(b) of Public Law 107–107 ([7 U.S.C. 8316(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8316/b&num=0&edition=prelim))” which was translated as meaning section 10417(b) of Pub. L. 107–171 to reflect the probable intent of Congress.
 
 #### Similar Provisions
 Provisions similar to this section were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. G, title III, Jan. 17, 2014, 128 Stat. 326.
+
+Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1025.
 
 Pub. L. 111–88, div. A, title III, Oct. 30, 2009, 123 Stat. 2944.
 
@@ -789,6 +798,9 @@ To facilitate the administration of the programs and activities of the Forest Se
 
 #### Codification
 “Section 3324(a) and (b) of title 31” substituted in text for “the Act of January 31, 1823 (Rev. Stat. 3648, as amended; [31 U.S.C. 529](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section529&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+#### Forest Service Partnership Agreements
+Pub. L. 113–76, div. G, title IV, § 426, Jan. 17, 2014, 128 Stat. 344, provided that: “(a) Agreements Authorized.—The Secretary of Agriculture may enter into an agreement under section 1 of Public Law 94–148 ([16 U.S.C. 565a–1](./chapter-003-forests-forest-service-reforestation-management.md#section-565a-1)) with a Federal, tribal, State, or local government or a nonprofit entity for the following additional purposes:“(1) To develop, produce, publish, distribute, or sell educational and interpretive materials and products. “(2) To develop, conduct, or sell educational and interpretive programs and services. “(3) To construct, maintain, or improve facilities not under the jurisdiction, custody, or control of the Administrator of General Services on or in the vicinity of National Forest System lands for the sale or distribution of educational and interpretive materials, products, programs, and services. “(4) To operate facilities (including providing the services of Forest Service employees to staff facilities) in any public or private building or on land not under the jurisdiction, custody, or control of the Administrator of General Services for the sale or distribution of educational and interpretive materials, products, programs, and services, pertaining to National Forest System lands, private lands, and lands administered by other public entities. “(5) To sell health and safety products, visitor convenience items, or other similar items (as determined by the Secretary) in facilities not under the jurisdiction, custody, or control of the Administrator of General Services on or in the vicinity of National Forest System lands. “(6) To collect funds on behalf of cooperators from the sale of materials, products, programs, and services, as authorized by a preceding paragraph, when the collection of such funds is incidental to other duties of Forest Service employees. “(b) Treatment of Contributions of Volunteers.—The Forest Service may consider the value of services performed by persons who volunteer their services to the Forest Service and who are recruited, trained, and supported by a cooperator as an in-kind contribution of the cooperator for purposes of any cost sharing requirement under any Forest Service authority to enter into mutual benefit agreements. “(c) Duration.—The authority provided by subsections (a) and (b) expires September 30, 2019.”
 
 #### Mutual Benefit of Agreements to Forest Service and Other Parties
 Pub. L. 108–7, div. F, title III, § 321, Feb. 20, 2003, 117 Stat. 274, as amended by Pub. L. 109–54, title IV, § 426, Aug. 2, 2005, 119 Stat. 555; Pub. L. 110–161, div. F, title IV, § 417, Dec. 26, 2007, 121 Stat. 2149, provided that: “Until September 30, 2010, the authority of the Secretary of Agriculture to enter into an agreement under the first section of Public Law 94–148 ([16 U.S.C. 565a–1](./chapter-003-forests-forest-service-reforestation-management.md#section-565a-1)) for a purpose described in such section includes the authority to use that legal instrument when the principal purpose of the resulting relationship is to the mutually significant benefit of the Forest Service and the other party or parties to the agreement, including nonprofit entities. An agreement entered into under this section shall not be subject to Public Law 95–224, Federal Grant and Cooperative Agreement Act (1977) [see section 6301 et seq. of Title 31, Money and Finance].”
@@ -1340,16 +1352,15 @@ Section 5 of act June 22, 1948, as it read prior to amendment by act June 22, 19
 
 <a id="section-577h"></a>
 ## § 577h. Authorization of appropriations; limitation on amount for purchase of additional lands, water or interests therein; availability of other funds; annual report to Congress
-**(a) Appropriations authorized; purposes** There are authorized to be appropriated annually such sums as are necessary to implement sections 577c, 577d, and 577e to 577h of this title: Provided, That the total appropriations under the authority of said sections shall not exceed $9,000,000 for the purchase and condemnation of lands, water, or interests therein, and that funds made available through the provisions of the Land and Water Conservation Fund Act (78 Stat. 897), as amended [[16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 et seq.], may also be used for such acquisitions: Provided further, That such appropriations may be used for the payment of court judgments in condemnation actions brought under authority of sections 577c, 577d, and 577e to 577h of this title without regard to the date such actions were initially instituted.
+**(a) Appropriations authorized; purposes** There are authorized to be appropriated annually such sums as are necessary to implement sections 577c, 577d, and 577e to 577h of this title: Provided, That the total appropriations under the authority of said sections shall not exceed $9,000,000 for the purchase and condemnation of lands, water, or interests therein, and that funds made available through the provisions of chapter 2003 of title 54, may also be used for such acquisitions: Provided further, That such appropriations may be used for the payment of court judgments in condemnation actions brought under authority of sections 577c, 577d, and 577e to 577h of this title without regard to the date such actions were initially instituted.
 
 **(b) Reports on acquisitions** Not later than March 1 of each year 1977 through 1980, the Secretary of Agriculture shall submit to the Congress a report concerning the acquisition of lands or interests in lands under sections 577c, 577d, and 577e to 577h of this title. The final report of the Secretary shall specify whether additional authorizations or appropriations are necessary to carry out the purposes of said sections.
 
 ### Statutory Notes
 
-#### References in Text
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
-
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act (78 Stat. 897), as amended”.
+
 1976—Pub. L. 94–384 designated existing provisions as subsec. (a), substituted “implement” for “carry out the provisions of”, “$9,000,000” for “$4,500,000”, and “lands, water, or interests therein” for “land”, struck out “however” after “Provided”, inserted provision relating to the availability of funds under the Land and Water Conservation Fund Act and provision relating to the availability of appropriations for payment of court judgments in condemnation actions regardless of the date of institution of such action, and added subsec. (b).
 
 1961—Pub. L. 87–351 increased appropriation for purchase and condemnation of land from $2,500,000 to $4,500,000.
@@ -1600,7 +1611,8 @@ There are authorized to be appropriated—
 
 **(b)** not to exceed $50,000 for the acquisition of additional land adjacent to the present site of the Forest Products Laboratory at Madison, Wisconsin; and
 
-**(c)** not to exceed $25,000 for the acquisition of one helicopter landing site in southern California. Land acquired under this section may be subject to such reservations and outstanding interests as the Secretary of Agriculture determines will not interfere with the purpose for which acquired.
+**(c)** not to exceed $25,000 for the acquisition of one helicopter landing site in southern California.
+Land acquired under this section may be subject to such reservations and outstanding interests as the Secretary of Agriculture determines will not interfere with the purpose for which acquired.
 
 
 <a id="section-580j"></a>
@@ -1677,7 +1689,7 @@ As used in this Act—
 
 (1) the term “Woodsy Owl” means the name and representation of a fanciful owl, who wears slacks (forest green when colored), a belt (brown when colored), and a Robin Hood style hat (forest green when colored) with a feather (red when colored), and who furthers the slogan, “Give a Hoot, Don’t Pollute”, originated by the Forest Service of the United States Department of Agriculture;
 
-(2) the term “Smokey Bear” means the name and character “Smokey Bear” originated by the Forest Service of the United States Department of Agriculture in cooperation with the Association of State Foresters and the Advertising Council.
+(2) the term “Smokey Bear” means the name and character “Smokey Bear” originated by the Forest Service of the United States Department of Agriculture in cooperation with the Association of State Foresters and the Advertising Council.11 So in original. The period probably should be a semicolon.
 
 (3) the term “Secretary” means the Secretary of Agriculture.
 
@@ -2302,7 +2314,7 @@ This Act, referred to in text, is Pub. L. 101–593, Nov. 16, 1990, 104 Stat. 29
 <a id="section-583j-9"></a>
 ## § 583j–9. Federal funds
 
-On and after November 5, 2001, the National Forest Foundation may hold Federal funds made available but not immediately disbursed and may use any interest or other investment income earned (before, on, or after November 5, 2001) on Federal funds to carry out the purposes of Public Law 101–593: Provided further, That such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
+For fiscal year 2014 and thereafter, the National Forest Foundation may hold Federal funds made available but not immediately disbursed and may use any interest or other investment income earned (before, on, or after January 17, 2014) on Federal funds to carry out the purposes of Public Law 101–593: Provided further, That such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
 
 ### Statutory Notes
 
@@ -2310,10 +2322,12 @@ On and after November 5, 2001, the National Forest Foundation may hold Federal f
 Public Law 101–593, referred to in text, is Pub. L. 101–593, Nov. 16, 1990, 104 Stat. 2954, which enacted this subchapter, chapter 32A of this title, and [section 777e–1 of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777e-1), amended sections 2910, 3702, 3709, 4403, and 4404 of this title, and enacted provisions listed in a table of National Wildlife Refuges set out under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd) and provisions set out in notes under [section 3701 of this title](./chapter-057-national-fish-and-wildlife-foundation.md#section-3701) and [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim), The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
-Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 2002, and not as part of the National Forest Foundation Act which comprises this subchapter.
+Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the National Forest Foundation Act which comprises this subchapter.
 
 #### Prior Provisions
 Provisions similar to this section were contained in the following prior appropriation acts:
+
+Pub. L. 107–63, title II, Nov. 5, 2001, 115 Stat. 450.
 
 Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 972.
 

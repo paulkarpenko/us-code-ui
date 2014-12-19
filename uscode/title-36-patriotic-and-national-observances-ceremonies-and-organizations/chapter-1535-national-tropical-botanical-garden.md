@@ -258,7 +258,7 @@ The corporation is liable for the acts of its officers and agents acting within 
 ## § 153513. Distribution of assets on dissolution or final liquidation
 **(a) Allowable Recipients.—** On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed, as decided by the board of trustees, to—
 
-(1) the United States Government, to be administered by the Secretary of the Interior under the Act of August 25, 1916 ([16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) et seq.) (known as the National Park Service Organic Act); or
+(1) the United States Government, to be administered by the Secretary of the Interior under section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, United States Code; or
 
 (2) a State or local government to be used for a public purpose.
 
@@ -275,10 +275,9 @@ In subsection (a), the words “the discharge of all liabilities” are substitu
 
 In subsection (b), the words “and Federal and State laws” are omitted as unnecessary.
 
-#### References in Text
-Act of August 25, 1916, referred to in subsec. (a)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 35, as amended, known as the National Park Service Organic Act, which is classified generally to sections 1, 2, 3, and 4 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) and Tables.
-
 #### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–287 substituted “section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, United States Code” for “the Act of August 25, 1916 ([16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) et seq.) (known as the National Park Service Organic Act)”.
+
 2006—Subsec. (a)(1). Pub. L. 109–284 substituted “([16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) et seq.) (known as the National Park Service Organic Act)” for “([16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) et seq.), known as the National Park Service Organic Act))”.
 
 

@@ -2,7 +2,7 @@
 title: 15
 chapter: '40'
 heading: DEPARTMENT OF COMMERCE
-section_count: 57
+section_count: 62
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -73,7 +73,7 @@ Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 S
 Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 13403, § 3, May 12, 2006, 71 F.R. 28543, which established in the Department of Commerce a President’s Advisory Commission on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13515, § 4(a), Oct. 14, 2009, 74 F.R. 53638, set out below.
 
 #### Ex. Ord. No. 13515. Increasing Participation of Asian Americans and Pacific Islanders in Federal Programs
-Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, § 4, Oct. 7, 2011, 76 F.R. 62282, provided:
+Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, § 4, Oct. 7, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, § 8, Sept. 30, 2013, 78 F.R. 61819, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -135,23 +135,27 @@ Sec. 3. White House Initiative on Asian Americans and Pacific Islanders. There i
 
 (xviii) the Small Business Administration;
 
-(xix) the Office of Personnel Management;
+(xix) the General Services Administration;
 
-(xx) the Social Security Administration;
+(xx) the National Aeronautics and Space Administration;
 
-(xxi) the White House Office of Cabinet Affairs;
+(xxi) the Office of Personnel Management;
 
-(xxii) the White House Office of Intergovernmental Affairs and Public Engagement;
+(xxii) the Social Security Administration;
 
-(xxiii) the National Economic Council;
+(xxiii) the White House Office of Cabinet Affairs;
 
-(xxiv) the Domestic Policy Council;
+(xxiv) the White House Office of Intergovernmental Affairs and Public Engagement;
 
-(xxv) the Office of Science and Technology Policy; and
+(xxv) the National Economic Council;
 
-(xxvi) other executive branch departments, agencies, and offices as the President may, from time to time, designate.
+(xxvi) the Domestic Policy Council;
 
-At the direction of the Co-Chairs, the Initiative may establish subgroups consisting exclusively of Initiative members or their designees under this section, as appropriate.
+(xxvii) the Office of Science and Technology Policy; and
+
+(xxviii) other executive branch departments, agencies, and offices as the President may, from time to time, designate.
+
+At the direction of the Co-Chairs, the Initiative may establish subgroups consisting exclusively of Initiative members or their designees under this section, as appropriate. The Initiative is encouraged to invite other affected agencies, such as the Consumer Financial Protection Bureau, the Corporation for National and Community Service, the Equal Employment Opportunity Commission, and the Federal Communications Commission to attend meetings and participate in the Initiative as appropriate.
 
 (c) Administration of the Initiative. The Department of Education shall provide funding and administrative support for the Initiative to the extent permitted by law and within existing appropriations. The Co-Chairs shall convene regular meetings of the Initiative, determine its agenda, and direct its work.
 
@@ -192,7 +196,9 @@ Sec. 4. General Provisions.
 Barack Obama.
 
 #### Extension of Term of Commission on Asian Americans and Pacific Islanders
-Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 
 <a id="section-1502-1503"></a>
@@ -820,6 +826,8 @@ Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Barack Obama.
 
+[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim), War and National Defense.]
+
 
 <a id="section-1513"></a>
 ## § 1513. Duties and powers vested in Department
@@ -848,8 +856,18 @@ Beginning in fiscal year 2007 and for each fiscal year thereafter, the Secretary
 #### Codification
 Section is from the Department of Commerce and Related Agencies Appropriations Act, 2006, which is title II of the Science, State, Justice, Commerce, and Related Agencies Appropriations Act, 2006.
 
-#### Prior Provisions
-Similar provisions were contained in the following prior appropriation act:
+#### Similar Provisions
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. B, title I, Dec. 16, 2014, 128 Stat. 2179.
+
+Pub. L. 113–76, div. B, title I, Jan. 17, 2014, 128 Stat. 49.
+
+Pub. L. 113–6, div. B, title I, Mar. 26, 2013, 127 Stat. 239.
+
+Pub. L. 112–55, div. B, title I, Nov. 18, 2011, 125 Stat. 597.
+
+Pub. L. 111–117, div. B, title I, Dec. 16, 2009, 123 Stat. 3119.
 
 Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2881.
 
@@ -866,6 +884,10 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 
 #### Similar Provisions
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 113–235, div. B, title I, Dec. 16, 2014, 128 Stat. 2177.
+
+Pub. L. 113–76, div. B, title I, Jan. 17, 2014, 128 Stat. 47.
 
 Pub. L. 113–6, div. B, title I, Mar. 26, 2013, 127 Stat. 238.
 
@@ -1438,4 +1460,111 @@ The Secretary of Commerce shall maintain a task force on job repatriation and ma
 ### Statutory Notes
 
 #### Codification
-Section is from the Department of Commerce Appropriations Act, 2013, which is title I of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2013.
+Section is from the appropriation act cited as the credit to this section.
+
+#### Similar Provisions
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. B, title I, Jan. 17, 2014, 128 Stat. 50.
+
+Pub. L. 113–6, div. B, title I, Mar. 26, 2013, 127 Stat. 240.
+
+
+<a id="section-1544"></a>
+## § 1544. Promotion of tourist travel
+
+The Secretary of Commerce shall encourage, promote, and develop travel within the United States, including any Commonwealth, territory, and possession thereof, through activities which are in the public interest and which do not compete with activities of any State, city, or private agency.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 18 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18&num=0&edition=prelim), Conservation.
+
+#### Amendments
+1975—Pub. L. 94–55 substituted “shall encourage, promote, and develop travel within the United States, including any Commonwealth, territory, and possession thereof, through activities which are in the public interest and which do not compete with activities of any State, city, or private agency” for “is authorized and directed to encourage, promote, and develop travel within the United States, its Territories and possessions, providing such activities do not compete with the activities of private agencies; and to administer all existing travel promotion functions of the Department of Commerce”.
+
+#### Transfer of Functions
+Pub. L. 93–193, § 2, Dec. 19, 1973, 87 Stat. 765, provided that: “(a) There are hereby transferred to and vested in the Secretary of Commerce all functions, powers, and duties of the Secretary of the Interior and other offices and officers of the Department of the Interior under the Act of July 19, 1940 (54 Stat. 773; [16 U.S.C. 18–18d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18–18d&num=0&edition=prelim)) [now [15 U.S.C. 1544–154](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1544–154&num=0&edition=prelim)8]. “(b) The assets, liabilities, contracts, property, records, authorizations, and allocations, employed, held, used, rising from, available or to be made available in connection with the functions, powers, and duties transferred by subsection (a) of this section are hereby transferred to the Secretary of Commerce.”
+
+
+<a id="section-1545"></a>
+## § 1545. Cooperation with travel agencies; publication of information
+
+In carrying out the purposes of sections 1544 to 1548 of this title, the Secretary is authorized to cooperate with public and private tourist, travel, and other agencies in the display of exhibits, and in the collection, publication, and dissemination of information with respect to places of interest, routes, transportation facilities, accommodations, and such other matters as he deems advisable and advantageous for the purpose of encouraging, promoting, or developing such travel. Nothing in said sections shall prohibit the preparation of graphic materials in foreign languages, designed to call attention to the attractions and places of interest in the United States and to encourage the use of American registered ships and planes. The existing facilities of the United States Government in foreign countries are authorized to assist in the distribution of this material. The Secretary may enter into contracts with private publishers for such printing and binding as he may deem advisable in carrying out the purposes of said sections. The Secretary is also authorized to make charges for any publications made available to the public pursuant to said sections; and any proceeds from the sale of publications produced by the expenditure of contributed funds shall continue to be available for printing and binding as aforesaid.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 18a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18a&num=0&edition=prelim), Conservation.
+
+#### Transfer of Functions
+For transfer of functions of Secretary of the Interior to Secretary of Commerce, see Transfer of Functions note set out under [section 1544 of this title](./chapter-040-department-of-commerce.md#section-1544).
+
+
+<a id="section-1546"></a>
+## § 1546. Advisory committee for promotion of tourist travel; expenses
+
+The Secretary of Commerce is authorized to create an advisory committee to consist of a representative from each of the Departments of State, Agriculture, and Commerce, the Interstate Commerce Commission, and the Department of Transportation, as may be designated by such Departments or agencies, respectively, and such additional members, representatives of the various sections of the Nation, including transportation and accommodations agencies, not to exceed six members, to be appointed by the Secretary of Commerce to serve at his pleasure. Meetings of the committee shall be held at the request of the Secretary for the purpose of making recommendations concerning the promotion of tourist travel under the provisions of sections 1544 to 1548 of this title. The members of the committee shall receive no compensation for their services as members, but shall be entitled to reimbursement for such necessary travel and other expenses in connection with their attendance at committee meetings as may be authorized or approved by the Secretary.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 18b of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18b&num=0&edition=prelim), Conservation.
+
+#### Amendments
+1984—Pub. L. 98–443 struck out “the Civil Aeronautics Authority,” after “the Interstate Commerce Commission,”.
+
+1981—Pub. L. 97–31 substituted “Department of Transportation” for “United States Maritime Commission”.
+
+#### Effective Date of 1984 Amendment
+Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
+
+#### Transfer of Functions
+Secretary of Commerce substituted for Secretary of the Interior in view of transfer of functions to Secretary of Commerce from Secretary of the Interior by section 2 of Pub. L. 93–193. See Transfer of Functions note set out under [section 1544 of this title](./chapter-040-department-of-commerce.md#section-1544).
+
+#### Abolition of Interstate Commerce Commission and Transfer of Functions
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section702&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim).
+
+
+<a id="section-1547"></a>
+## § 1547. Rules and regulations; employees
+
+In the performance of his functions and duties under the provisions of sections 1544 to 1548 of this title, the Secretary of Commerce is authorized—
+
+**(a)** To prescribe, amend, and repeal such rules and regulations as he may deem necessary, and to accept contributions for carrying out the purposes of said sections; and
+
+**(b)** To employ, subject to chapter 51 and subchapter III of chapter 53 of title 5, one special assistant and not to exceed five artists and illustrators.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 18c of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18c&num=0&edition=prelim), Conservation.
+
+Provisions of par. (b) authorizing the Secretary of the Interior to employ “without regard to the civil-service laws” were omitted as such employment is subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under [section 3301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3301&num=0&edition=prelim), Government Organization and employees.
+
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in par. (b) for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+
+#### Amendments
+1949—Par. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+#### Repeals
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+
+#### Transfer of Functions
+Secretary of Commerce substituted for Secretary of the Interior in view of transfer of functions to Secretary of Commerce from Secretary of the Interior by section 2 of Pub. L. 93–193. See Transfer of Functions note set out under [section 1544 of this title](./chapter-040-department-of-commerce.md#section-1544).
+
+
+<a id="section-1548"></a>
+## § 1548. Authorization of appropriations
+
+For the purpose of carrying out the provisions of sections 1544 to 1548 of this title, there are authorized to be appropriated not to exceed $2,500,000 for the fiscal year ending June 30, 1976; $625,000 for the transition period of July 1, 1976, through September 30, 1976; $2,500,000 for the fiscal year ending September 30, 1977, and $2,500,000 for the fiscal year ending September 30, 1978.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 18d of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18d&num=0&edition=prelim), Conservation.
+
+#### Amendments
+1975—Pub. L. 94–55 substituted provisions authorizing appropriations not to exceed $2,500,000 for fiscal year ending June 30, 1976, $625,000 for the transition period of July 1, 1976 through Sept. 30, 1976, $2,500,000 for fiscal year ending Sept. 30, 1977, and $2,500,000 for fiscal year ending Sept. 30, 1978, for provisions authorizing appropriations not to exceed $250,000 for fiscal year 1971 and $750,000 for fiscal year 1972.
+
+1970—Pub. L. 91–549 substituted provisions authorizing appropriations of not more than $250,000 for fiscal year 1971 and not more than $750,000 for fiscal year 1972, for provisions which authorized appropriations of not more than $100,000 annually.

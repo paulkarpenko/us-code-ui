@@ -337,13 +337,34 @@ Public Law 85–337, referred to in subsec. (b), is Pub. L. 85–337, Feb. 28, 1
 
 (2) The maintenance and improvement of natural resources located off of a military installation or State-owned National Guard installation if the purpose of the cooperative agreement or interagency agreement is to relieve or eliminate current or anticipated challenges that could restrict, impede, or otherwise interfere with, whether directly or indirectly, current or anticipated military activities.
 
-**(b) Multiyear agreements** Funds appropriated to the Department of Defense for a fiscal year may be obligated to cover the cost of goods and services provided under a cooperative agreement or interagency agreement entered into under subsection (a) of this section or through an agency agreement under [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim) during any 18-month period beginning in that fiscal year, without regard to whether the agreement crosses fiscal years.
+**(b) Multiyear agreements**
 
-**(c) Availability of funds; agreements under other laws** Cooperative agreements and interagency agreements entered into under this section shall be subject to the availability of funds and shall not be considered, nor be treated as, cooperative agreements to which chapter 63 of title 31 applies.
+(1) Funds appropriated to the Department of Defense for a fiscal year may be obligated to cover the cost of goods and services provided under a cooperative agreement or interagency agreement entered into under subsection (a) of this section or through an agency agreement under [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim) during any 18-month period beginning in that fiscal year, without regard to whether the agreement crosses fiscal years.
+
+(2) In the case of a cooperative agreement under subsection (a)(2), such funds—
+
+  (A) may be paid in a lump sum and include an amount intended to cover the future costs of the natural resource maintenance and improvement activities provided for under the agreement; and
+
+  (B) may be placed by the recipient in an interest-bearing or other investment account, and any interest or income shall be applied for the same purposes as the principal.
+
+(3) If any funds are placed by a recipient in an interest-bearing or other investment account under paragraph (2)(B), the Secretary of Defense shall report biennially to the congressional defense committees on the disposition of such funds.
+
+**(c) Availability of funds; agreement under other laws**
+
+(1) Cooperative agreements and interagency agreements entered into under this section shall be subject to the availability of funds.
+
+(2) Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the United States Government.
 
 ### Statutory Notes
 
+#### Codification
+Pub. L. 113–291, § 312, which directed amendment of section “103A” of the Sikes Act, was executed to this section, which is section 103a of that Act, to reflect the probable intent of Congress. See 2014 Amendment notes below.
+
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–291, § 312(a), designated existing provisions as par. (1) and added pars. (2) and (3). See Codification note above.
+
+Subsec. (c). Pub. L. 113–291, § 312(b), amended subsec. (c) generally. See Codification note above. Prior to amendment, text read as follows: “Cooperative agreements and interagency agreements entered into under this section shall be subject to the availability of funds and shall not be considered, nor be treated as, cooperative agreements to which chapter 63 of title 31 applies.”
+
 2013—Subsec. (a). Pub. L. 112–239, which directed amendment of section 103A of Pub. L. 86–797 by inserting “Indian tribes,” after “local governments,” in introductory provisions of subsec. (a), was executed to this section, which is section 103a of Pub. L. 86–797, to reflect the probable intent of Congress.
 
 2011—Pub. L. 112–81, § 312(b)(3)(A), (B), inserted section catchline.
@@ -425,16 +446,20 @@ To the extent practicable using available resources, the Secretary of each milit
 ## § 670f. Appropriations and expenditures
 **(a) Expenditures of collected funds under integrated natural resources management plans** The Secretary of Defense shall expend such funds as may be collected in accordance with the integrated natural resources management plans agreed to under sections 670a and 670b of this title and cooperative agreements agreed to under [section 670c–1 of this title](./chapter-5c-conservation-programs-on-government-lands.md#section-670c-1) and for no other purpose. All funds that are so collected shall remain available until expended.
 
-**(b) Authorization of appropriations to Secretary of Defense** Of the amounts authorized to be appropriated to the Department of Defense, there are authorized to be appropriated to the Secretary of Defense not to exceed $1,500,000 for each of the fiscal years 2009 through 2014, to carry out this subchapter, including the enhancement of fish and wildlife habitat and the development of public recreation and other facilities, and to carry out such functions and responsibilities as the Secretary may have under cooperative agreements entered into under [section 670c–1 of this title](./chapter-5c-conservation-programs-on-government-lands.md#section-670c-1). The Secretary of Defense shall, to the greatest extent practicable, enter into agreements to utilize the services, personnel, equipment, and facilities, with or without reimbursement, of the Secretary of the Interior in carrying out the provisions of this section.
+**(b) Authorization of appropriations to Secretary of Defense** Of the amounts authorized to be appropriated to the Department of Defense, there are authorized to be appropriated to the Secretary of Defense not to exceed $1,500,000 for each of the fiscal years 2014 through 2019, to carry out this subchapter, including the enhancement of fish and wildlife habitat and the development of public recreation and other facilities, and to carry out such functions and responsibilities as the Secretary may have under cooperative agreements entered into under [section 670c–1 of this title](./chapter-5c-conservation-programs-on-government-lands.md#section-670c-1). The Secretary of Defense shall, to the greatest extent practicable, enter into agreements to utilize the services, personnel, equipment, and facilities, with or without reimbursement, of the Secretary of the Interior in carrying out the provisions of this section.
 
-**(c) Authorization of appropriations to Secretary of the Interior** Of the amounts authorized to be appropriated to the Department of the Interior, there are authorized to be appropriated to the Secretary of the Interior not to exceed $3,000,000 for each of the fiscal years 2009 through 2014, to carry out such functions and responsibilities as the Secretary may have under integrated natural resources management plans to which such Secretary is a party under this section, including those for the enhancement of fish and wildlife habitat and the development of public recreation and other facilities.
+**(c) Authorization of appropriations to Secretary of the Interior** Of the amounts authorized to be appropriated to the Department of the Interior, there are authorized to be appropriated to the Secretary of the Interior not to exceed $3,000,000 for each of the fiscal years 2014 through 2019, to carry out such functions and responsibilities as the Secretary may have under integrated natural resources management plans to which such Secretary is a party under this section, including those for the enhancement of fish and wildlife habitat and the development of public recreation and other facilities.
 
 **(d) Use of other conservation or rehabilitation authorities** The Secretary of Defense and the Secretary of the Interior may each use any authority available to him under other laws relating to fish, wildlife, or plant conservation or rehabilitation for purposes of carrying out the provisions of this subchapter.
 
 ### Statutory Notes
 
 #### Amendments
-2011—Pub. L. 112–81 inserted section catchline and headings for subsecs. (a) to (d).
+2013—Subsecs. (b), (c). Pub. L. 113–66, § 313, substituted “fiscal years 2014 through 2019” for “fiscal years 2009 through 2014”.
+
+Subsec. (d). Pub. L. 113–66, § 1091(c)(1), made technical amendment to directory language of Pub. L. 112–81, § 312(b)(6)(F). See 2011 Amendment note below.
+
+2011—Pub. L. 112–81, § 312(b)(6), as amended by Pub. L. 113–66, § 1091(c)(1), inserted section catchline and headings for subsecs. (a) to (d).
 
 2009—Subsec. (b). Pub. L. 111–84, § 312(a), (b)(1), substituted “Of the amounts authorized to be appropriated to the Department of Defense, there are authorized” for “There are authorized” and “fiscal years 2009 through 2014” for “fiscal years 2004 through 2008”.
 
@@ -471,6 +496,9 @@ Subsec. (c). Pub. L. 95–420 added subsec. (c).
 1974—Subsec. (a). Pub. L. 93–452, § 3(5), substituted “sections 101 and 102” for “sections 1 and 2” which for purposes of codification was translated as “sections 670a and 670b”, therefore requiring no change in text because of redesignation of former sections 1 and 2 of Pub. L. 86–797 by section 3(1) of Pub. L. 93–452.
 
 Subsec. (b). Pub. L. 93–452, §§ 1(2), 3(4), inserted provisions authorizing appropriations of not to exceed $1,500,000 for the fiscal year beginning July 1, 1972, and for each of the next five fiscal years thereafter, and authorizing appropriations to the Secretary of the Interior not to exceed $2,000,000 for the fiscal year beginning July 1, 1973, and for each of the next four fiscal years thereafter, and substituted “title” for “Act” wherever appearing, which for purposes of codification was translated as “subchapter”.
+
+#### Effective Date of 2013 Amendment
+Pub. L. 113–66, div. A, title X, § 1091(c), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment by section 1091(c)(1) is effective as of Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 
 <a id="section-670g"></a>

@@ -242,6 +242,8 @@ Pub. L. 106–167, § 3(a), (b), Dec. 9, 1999, 113 Stat. 1804, provided that: �
 #### Revision of Maps for Units of System
 The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
 
+Pub. L. 113–253, Dec. 18, 2014, 128 Stat. 2895.
+
 Pub. L. 110–419, § 1, Oct. 15, 2008, 122 Stat. 4773.
 
 Pub. L. 109–355, § 1, Oct. 16, 2006, 120 Stat. 2018.
@@ -286,7 +288,7 @@ Section 6 of Pub. L. 101–591 directed Secretary of the Interior, not later tha
 Pub. L. 101–591, § 8, Nov. 16, 1990, 104 Stat. 2937, which established the Coastal Barriers Task Force, provided for its membership, required the Task Force to submit a report to Congress regarding the Coastal Barrier Resources System not later than the expiration of the 2-year period beginning on Nov. 16, 1990, and required the Task Force to terminate 90 days after submission of the report, was repealed by Pub. L. 106–514, § 4(b), Nov. 13, 2000, 114 Stat. 2396.
 
 #### Definitions
-Pub. L. 101–591, § 12, Nov. 16, 1990, 104 Stat. 2940, as amended by Pub. L. 106–167, § 3(c)(6), Dec. 9, 1999, 113 Stat. 1804, provided that: “For purposes of this Act [see Short Title of 1990 Amendment note set out under [section 3501 of this title](./chapter-055-coastal-barrier-resources.md#section-3501)]— “(1) the term ‘undeveloped coastal barrier’ means—“(A) a depositional geologic feature (such as a bay barrier, tombolo, barrier spit, or barrier island) that—“(i) is subject to wave, tidal, and wind energies, and “(ii) protects landward aquatic habitats from direct wave attack; and “(B) all associated aquatic habitats including the adjacent wetlands, marshes, estuaries, inlets, and nearshore waters; but only if such features and associated habitats contain few manmade structures and these structures, and man’s activities on such features and within such habitats, do not significantly impede geomorphic and ecological processes. “(2) the term ‘otherwise protected area’ means an undeveloped coastal barrier within the boundaries of an area established under Federal, State, or local law, or held by a qualified organization, primarily for wildlife refuge, sanctuary, recreational, or natural resource conservation purposes; “(3) the term ‘qualified organization’ means such an organization under section 170(h)(3) of the Internal Revenue Code of 1986 ([26 U.S.C. 170(h)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section170/h/3&num=0&edition=prelim)); “(4) the term ‘Secretary’ means the Secretary of the Interior; and “(5) the term ‘System’ means the John H. Chafee Coastal Barrier Resources System established by the Coastal Barrier Resources Act ([16 U.S.C. 3501](./chapter-055-coastal-barrier-resources.md#section-3501) et seq.), as amended by this Act.”
+Pub. L. 101–591, § 12, Nov. 16, 1990, 104 Stat. 2940, as amended by Pub. L. 106–167, § 3(c)(6), Dec. 9, 1999, 113 Stat. 1804, provided that: “For purposes of this Act [see Short Title of 1990 Amendment note set out under [section 3501 of this title](./chapter-055-coastal-barrier-resources.md#section-3501)]—“(1) the term ‘undeveloped coastal barrier’ means—“(A) a depositional geologic feature (such as a bay barrier, tombolo, barrier spit, or barrier island) that—“(i) is subject to wave, tidal, and wind energies, and “(ii) protects landward aquatic habitats from direct wave attack; and “(B) all associated aquatic habitats including the adjacent wetlands, marshes, estuaries, inlets, and nearshore waters; but only if such features and associated habitats contain few manmade structures and these structures, and man’s activities on such features and within such habitats, do not significantly impede geomorphic and ecological processes. “(2) the term ‘otherwise protected area’ means an undeveloped coastal barrier within the boundaries of an area established under Federal, State, or local law, or held by a qualified organization, primarily for wildlife refuge, sanctuary, recreational, or natural resource conservation purposes; “(3) the term ‘qualified organization’ means such an organization under section 170(h)(3) of the Internal Revenue Code of 1986 ([26 U.S.C. 170(h)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section170/h/3&num=0&edition=prelim)); “(4) the term ‘Secretary’ means the Secretary of the Interior; and “(5) the term ‘System’ means the John H. Chafee Coastal Barrier Resources System established by the Coastal Barrier Resources Act ([16 U.S.C. 3501](./chapter-055-coastal-barrier-resources.md#section-3501) et seq.), as amended by this Act.”
 
 
 <a id="section-3504"></a>
@@ -340,7 +342,7 @@ Subsec. (b)(2). Pub. L. 101–591, § 2(b)(2)(C), struck out “of enactment” 
 
   (B) Establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
 
-  (C) Projects under the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 through 11) and the Coastal Zone Management Act of 1972 ([16 U.S.C. 1451](./chapter-033-coastal-zone-management.md#section-1451) et seq.).
+  (C) Projects under chapter 2003 of title 54 and the Coastal Zone Management Act of 1972 ([16 U.S.C. 1451](./chapter-033-coastal-zone-management.md#section-1451) et seq.).
 
   (D) Scientific research, including aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
 
@@ -373,8 +375,6 @@ Subsec. (b)(2). Pub. L. 101–591, § 2(b)(2)(C), struck out “of enactment” 
 ### Statutory Notes
 
 #### References in Text
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a)(6)(C), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
-
 The Coastal Zone Management Act of 1972, referred to in subsec. (a)(6)(C), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451) and Tables.
 
 Section 1362 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4103](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4103&num=0&edition=prelim)), referred to in subsec. (a)(6)(E), was repealed by Pub. L. 103–325, title V, § 551(a), Sept. 23, 1994, 108 Stat. 2269.
@@ -382,6 +382,8 @@ Section 1362 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4103](https
 The National Flood Insurance Act of 1968, referred to in subsec. (d)(2), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Subsec. (a)(6)(C). Pub. L. 113–287, which directed the substitution of “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 through 11)” in section 6(a)(6)(C) of the Coastal Barrier Act of 1968, was executed to this section, which is section 6 of the Coastal Barrier Resources Act, to reflect the probable intent of Congress.
+
 1990—Pub. L. 101–591 amended section generally, substituting substantially similar provisions in subsec. (a), substituting “a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System” for “a channel improvement or a related structure shall be treated as an existing improvement or an existing related structure only if all, or a portion, of the moneys for such improvement or structure was appropriated before October 18, 1982” in subsec. (b), and adding subsecs. (c) and (d).
 
 1988—Subsec. (a)(6)(E). Pub. L. 100–707 substituted reference to sections 5170a, 5170b, and 5192 of title 42 for reference to sections 5145 and 5146 of title 42.

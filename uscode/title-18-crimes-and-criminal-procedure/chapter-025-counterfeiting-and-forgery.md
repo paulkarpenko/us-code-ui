@@ -13,7 +13,8 @@ A person who, outside the United States, engages in the act of—
 
 (1) making, dealing, or possessing any counterfeit obligation or other security of the United States; or
 
-(2) making, dealing, or possessing any plate, stone, analog, digital, or electronic image, or other thing, or any part thereof, used to counterfeit such obligation or security, if such act would constitute a violation of section 471, 473, or 474 if committed within the United States, shall be punished as is provided for the like offense within the United States.
+(2) making, dealing, or possessing any plate, stone, analog, digital, or electronic image, or other thing, or any part thereof, used to counterfeit such obligation or security,
+if such act would constitute a violation of section 471, 473, or 474 if committed within the United States, shall be punished as is provided for the like offense within the United States.
 
 ### Statutory Notes
 
@@ -710,21 +711,6 @@ Changes were made in phraseology.
 ## § 500. Money orders
 
 Whoever, with intent to defraud, falsely makes, forges, counterfeits, engraves, or prints any order in imitation of or purporting to be a blank money order or a money order issued by or under the direction of the Post Office Department or Postal Service; or
-Whoever forges or counterfeits the signature or initials of any person authorized to issue money orders upon or to any money order, postal note, or blank therefor provided or issued by or under the direction of the Post Office Department or Postal Service, or post office department or corporation of any foreign country, and payable in the United States, or any material signature or indorsement thereon, or any material signature to any receipt or certificate of identification thereof; or
-Whoever falsely alters, in any material respect, any such money order or postal note; or
-Whoever, with intent to defraud, passes, utters or publishes or attempts to pass, utter or publish any such forged or altered money order or postal note, knowing any material initials, signature, stamp impression or indorsement thereon to be false, forged, or counterfeited, or any material alteration therein to have been falsely made; or
-Whoever issues any money order or postal note without having previously received or paid the full amount of money payable therefor, with the purpose of fraudulently obtaining or receiving, or fraudulently enabling any other person, either directly or indirectly, to obtain or receive from the United States or Postal Service, or any officer, employee, or agent thereof, any sum of money whatever; or
-Whoever embezzles, steals, or knowingly converts to his own use or to the use of another, or without authority converts or disposes of any blank money order form provided by or under the authority of the Post Office Department or Postal Service; or
-Whoever receives or possesses any such money order form with the intent to convert it to his own use or gain or use or gain of another knowing it to have been embezzled, stolen or converted; or
-Whoever, with intent to defraud the United States, the Postal Service, or any person, transmits, presents, or causes to be transmitted or presented, any money order or postal note knowing the same—
-
-(1) to contain any forged or counterfeited signature, initials, or any stamped impression, or
-
-(2) to contain any material alteration therein unlawfully made, or
-
-(3) to have been unlawfully issued without previous payment of the amount required to be paid upon such issue, or
-
-(4) to have been stamped without lawful authority; or Whoever steals, or with intent to defraud or without being lawfully authorized by the Post Office Department or Postal Service, receives, possesses, disposes of or attempts to dispose of any postal money order machine or any stamp, tool, or instrument specifically designed to be used in preparing or filling out the blanks on postal money order forms— Shall be fined under this title 11 See 1994 Amendment note below. or imprisoned not more than five years, or both.
 
 ### Statutory Notes
 
@@ -835,7 +821,8 @@ Notwithstanding any other provision of this chapter, the following are permitted
 
 (2) The provisions of this section shall not permit the reproduction of illustrations of obligations or other securities, by or through electronic methods used for the acquisition, recording, retrieval, transmission, or reproduction of any obligation or other security, unless such use is authorized by the Secretary of the Treasury. The Secretary shall establish a system to ensure that the legitimate use of such electronic methods and retention of such reproductions by businesses, hobbyists, press or others shall not be unduly restricted.
 
-(3) The making or importation of motion-picture films, microfilms, or slides, for projection upon a screen or for use in telecasting, of postage and revenue stamps and other obligations and securities of the United States, and postage and revenue stamps, notes, bonds, and other obligations or securities of any foreign government, bank, or corporation. No prints or other reproductions shall be made from such films or slides, except for the purposes of paragraph (1), without the permission of the Secretary of the Treasury. For the purposes of this section the term “postage stamp” includes postage meter stamps.
+(3) The making or importation of motion-picture films, microfilms, or slides, for projection upon a screen or for use in telecasting, of postage and revenue stamps and other obligations and securities of the United States, and postage and revenue stamps, notes, bonds, and other obligations or securities of any foreign government, bank, or corporation. No prints or other reproductions shall be made from such films or slides, except for the purposes of paragraph (1), without the permission of the Secretary of the Treasury.
+For the purposes of this section the term “postage stamp” includes postage meter stamps.
 
 ### Statutory Notes
 

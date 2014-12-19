@@ -120,7 +120,7 @@ Pub. L. 99–399, title I, § 101, Aug. 27, 1986, 100 Stat. 855, provided that: 
 
 (2) establish appropriate overseas staffing levels for all such posts or missions for all Federal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector 33 So in original. Probably should be capitalized. General, Agency for International Development).
 
-**(d) Federal agency** As used in this subchapter and subchapter III of this chapter, the term “Federal agency” includes any department or agency of the United States Government.
+**(d) Federal agency** As used in this subchapter and subchapter III, the term “Federal agency” includes any department or agency of the United States Government.
 
 ### Statutory Notes
 
@@ -177,6 +177,8 @@ Repeal applicable with respect to officials, offices, and bureaus of Department 
 ### Statutory Notes
 
 #### References in Text
+This chapter, referred to in subsec. (b), was in the original “titles I through IV”, meaning titles I through IV of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 855, known as the Diplomatic Security Act, which are classified principally to this chapter. For complete classification of titles I through IV of Pub. L. 99–399 to the Code, see Short Title note set out under [section 4801 of this title](./chapter-058-diplomatic-security.md#section-4801) and Tables.
+
 Executive Order 12333, referred to in subsec. (b), is Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, which is set out as a note under [section 3001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim), War and National Defense.
 
 
@@ -236,7 +238,7 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 **(d) Report** Not later than 90 days after the date on which the strategy required under section 7201 1 is submitted to Congress, the Assistant Secretary for Diplomatic Security shall submit to Congress a report containing—
 
-(1) a description of the strategic plan prepared under subsection (b) of this section; and
+(1) a description of the strategic plan prepared under subsection (b); and
 
 (2) an evaluation of the feasibility of establishing civil service positions in field offices of the Bureau of Diplomatic Security to investigate visa and passport fraud, including an evaluation of whether to allow diplomatic security agents to convert to civil service officers to fill such positions.
 
@@ -333,7 +335,7 @@ This Act, referred to in text, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853
 
 **(b) Deadlines for convening Boards**
 
-(1) **In general** — Except as provided in paragraph (2), the Secretary of State shall convene a Board not later than 60 days after the occurrence of an incident described in subsection (a)(1) of this section, except that such 60-day period may be extended for one additional 60-day period if the Secretary determines that the additional period is necessary for the convening of the Board.
+(1) **In general** — Except as provided in paragraph (2), the Secretary of State shall convene a Board not later than 60 days after the occurrence of an incident described in subsection (a)(1), except that such 60-day period may be extended for one additional 60-day period if the Secretary determines that the additional period is necessary for the convening of the Board.
 
 (2) **Delay in cases involving intelligence activities** — With respect to breaches of security involving intelligence activities, the Secretary of State may delay the establishment of a Board if, after consultation with the chairman of the Select Committee on Intelligence of the Senate and the chairman of the Permanent Select Committee on Intelligence of the House of Representatives, the Secretary determines that the establishment of a Board would compromise intelligence sources or methods. The Secretary shall promptly advise the chairmen of such committees of each determination pursuant to this paragraph to delay the establishment of a Board.
 
@@ -363,9 +365,15 @@ Subsec. (a)(3). Pub. L. 109–140, § 3(2), added par. (3).
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Continuation of Review Boards for Facilities in Afghanistan and Iraq
-Pub. L. 112–74, div. I, title VII, § 7034(m)(2), Dec. 23, 2011, 125 Stat. 1216, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4831/a/3&num=0&edition=prelim)) shall remain in effect through September 30, 2012.”
+Pub. L. 113–235, div. J, title VII, § 7034(l)(2), Dec. 16, 2014, 128 Stat. 2625, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4831/a/3&num=0&edition=prelim)) shall remain in effect for facilities in Afghanistan through September 30, 2015, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations.”
 
-Pub. L. 111–117, div. F, title VII, § 7034(r), Dec. 16, 2009, 123 Stat. 3363, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4831/a/3&num=0&edition=prelim)) shall remain in effect through September 30, 2010.”
+Prior continuations were contained in the following prior acts:
+
+Pub. L. 113–76, div. K, title VII, § 7034(m)(2), Jan. 17, 2014, 128 Stat. 515.
+
+Pub. L. 112–74, div. I, title VII, § 7034(m)(2), Dec. 23, 2011, 125 Stat. 1216.
+
+Pub. L. 111–117, div. F, title VII, § 7034(r), Dec. 16, 2009, 123 Stat. 3363.
 
 
 <a id="section-4832"></a>
@@ -466,9 +474,9 @@ In determining whether an individual has breached a duty of that individual, the
 
 **(d) Reports**
 
-(1) **Program recommendations** — In any case in which a Board transmits recommendations to the Secretary of State under subsection (b) of this section, the Secretary shall, not later than 90 days after the receipt of such recommendations, submit a report to the Congress on each such recommendation and the action taken with respect to that recommendation.
+(1) **Program recommendations** — In any case in which a Board transmits recommendations to the Secretary of State under subsection (b), the Secretary shall, not later than 90 days after the receipt of such recommendations, submit a report to the Congress on each such recommendation and the action taken with respect to that recommendation.
 
-(2) **Personnel recommendations** — In any case in which a Board transmits a finding of reasonable cause under subsection (c) of this section, the head of the Federal agency or instrumentality receiving the information shall review the evidence and recommendations and shall, not later than 30 days after the receipt of that finding, transmit to the Congress a report specifying—
+(2) **Personnel recommendations** — In any case in which a Board transmits a finding of reasonable cause under subsection (c), the head of the Federal agency or instrumentality receiving the information shall review the evidence and recommendations and shall, not later than 30 days after the receipt of that finding, transmit to the Congress a report specifying—
 
   (A) the nature of the case and a summary of the evidence transmitted by the Board; and
 
@@ -504,7 +512,7 @@ Nothing in this subchapter shall be construed to create administrative or judici
 
 (4) **Allocation of amounts authorized to be appropriated** — Amounts authorized to be appropriated by this subsection, and by the amendment made by paragraph (2), shall be allocated as provided in the table entitled “Diplomatic Security Program” relating to this section which appears in the Joint Explanatory Statement of the Committee of Conference to accompany H.R. 4151 of the 99th Congress (the Omnibus Diplomatic Security and Antiterrorism Act of 1986).
 
-**(b) Notification to authorizing Committees of requests for appropriations** In any fiscal year, whenever the Secretary of State submits to the Congress a request for appropriations to carry out the program described in subsection (a) of this section, the Secretary shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such request, together with a justification of each item listed in such request.
+**(b) Notification to authorizing Committees of requests for appropriations** In any fiscal year, whenever the Secretary of State submits to the Congress a request for appropriations to carry out the program described in subsection (a), the Secretary shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such request, together with a justification of each item listed in such request.
 
 **(c) Repealed. Pub. L. 103–236, title I, § 122(b), Apr. 30, 1994, 108 Stat. 392**
 
@@ -514,11 +522,11 @@ Nothing in this subchapter shall be construed to create administrative or judici
 
 **(f) Insufficiency of funds** In the event that sufficient funds are not available in any fiscal year for all of the diplomatic security construction, acquisition, and operations pursuant to the Department of State’s Supplemental Diplomatic Security Program, as justified to the Congress for such fiscal year, the Secretary of State shall report to the Congress the effect that the insufficiency of funds will have with respect to the Department of State and each of the other foreign affairs agencies.
 
-**(g) Allocation of funds for certain security programs** Of the amount of funds authorized to be appropriated by subsection (a)(1)(A) of this section, $34,537,000 shall be available to the Secretary of State only for the protection of classified office equipment, the expansion of information systems security, and the hiring of American systems managers and operators for computers at high threat locations.
+**(g) Allocation of funds for certain security programs** Of the amount of funds authorized to be appropriated by subsection (a)(1)(A), $34,537,000 shall be available to the Secretary of State only for the protection of classified office equipment, the expansion of information systems security, and the hiring of American systems managers and operators for computers at high threat locations.
 
 **(h) Furniture, furnishings, and equipment**
 
-(1) **Use of existing furniture, furnishings, and equipment** — If physically possible, facilities constructed or acquired pursuant to subsection (a) of this section shall be furnished and equipped with the furniture, furnishings, and equipment that were being used in the facilities being replaced, rather than with newly acquired furniture, furnishings, and equipment.
+(1) **Use of existing furniture, furnishings, and equipment** — If physically possible, facilities constructed or acquired pursuant to subsection (a) shall be furnished and equipped with the furniture, furnishings, and equipment that were being used in the facilities being replaced, rather than with newly acquired furniture, furnishings, and equipment.
 
 (2) **Omitted**
 
@@ -569,7 +577,7 @@ Pub. L. 99–500, § 101(b) [title III, § 302], Oct. 18, 1986, 100 Stat. 1783�
 
 (2) bid on a diplomatic construction or design project which involves technical security, unless the project involves low-level technology, as determined by the Secretary of State.
 
-**(b) Exception** Subsection (a) of this section shall not apply with respect to any diplomatic construction or design project in a foreign country whose statutes prohibit the use of United States contractors on such projects. The exception contained in this subsection shall only become effective with respect to a foreign country 30 days after the Secretary of State certifies to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate what specific actions he has taken to urge such foreign country to permit the use of United States contractors on such projects, and what actions he shall take with respect to that country as authorized by title II of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 4301](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301) et seq.; commonly referred to as the “Foreign Missions Act”).
+**(b) Exception** Subsection (a) shall not apply with respect to any diplomatic construction or design project in a foreign country whose statutes prohibit the use of United States contractors on such projects. The exception contained in this subsection shall only become effective with respect to a foreign country 30 days after the Secretary of State certifies to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate what specific actions he has taken to urge such foreign country to permit the use of United States contractors on such projects, and what actions he shall take with respect to that country as authorized by title II of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 4301](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301) et seq.; commonly referred to as the “Foreign Missions Act”).
 
 **(c) Definitions** For the purposes of this section—
 
@@ -583,13 +591,13 @@ Pub. L. 99–500, § 101(b) [title III, § 302], Oct. 18, 1986, 100 Stat. 1783�
 
   (C) has been incorporated or legally organized in the United States—
 
-    (i) for more than 5 years before the issuance date of the invitation for bids or request for proposals with respect to a construction project under subsection (a)(1) of this section; and
+    (i) for more than 5 years before the issuance date of the invitation for bids or request for proposals with respect to a construction project under subsection (a)(1); and
 
-    (ii) for more than 2 years before the issuance date of the invitation for bids or request for proposals with respect to a construction or design project which involves physical or technical security under subsection (a)(2) of this section;
+    (ii) for more than 2 years before the issuance date of the invitation for bids or request for proposals with respect to a construction or design project which involves physical or technical security under subsection (a)(2);
 
   (D) has performed within the United States or at a United States diplomatic or consular establishment abroad administrative and technical, professional, or construction services similar in complexity, type of construction, and value to the project being bid;
 
-  (E) with respect to a construction project under subsection (a)(1) of this section, has achieved total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C)(i);
+  (E) with respect to a construction project under subsection (a)(1), has achieved total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C)(i);
 
   (F)
 
@@ -786,7 +794,7 @@ This Act, referred to in text, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853
 
 (2) absent compelling reasons, award such contracts through the competitive process;
 
-(3) in evaluating proposals for such contracts, award contracts to the technically acceptable firm offering the lowest evaluated price, except that proposals of United States persons and qualified United States joint venture persons (as defined in subsection (d) of this section) shall be evaluated by reducing the bid price by 10 percent;
+(3) in evaluating proposals for such contracts, award contracts to the technically acceptable firm offering the lowest evaluated price, except that proposals of United States persons and qualified United States joint venture persons (as defined in subsection (d)) shall be evaluated by reducing the bid price by 10 percent;
 
 (4) in countries where contract denomination and/or payment in local currencies constitutes a barrier to competition by United States firms—
 
@@ -806,11 +814,11 @@ This Act, referred to in text, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853
 
   (B) has its principal place of business in the United States;
 
-  (C) has been incorporated or legally organized in the United States for more than 2 years before the issuance date of the invitation for bids or request for proposals with respect to the contract under subsection (c) of this section;
+  (C) has been incorporated or legally organized in the United States for more than 2 years before the issuance date of the invitation for bids or request for proposals with respect to the contract under subsection (c);
 
   (D) has performed within the United States or overseas security services similar in complexity to the contract being bid;
 
-  (E) with respect to the contract under subsection (c) of this section, has achieved a total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C);
+  (E) with respect to the contract under subsection (c), has achieved a total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C);
 
   (F)
 
@@ -836,11 +844,11 @@ This Act, referred to in text, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853
 
   (E) conditions of extreme local political instability.
 
-**(e) United States minority contractors** Not less than 10 percent of the amount of funds obligated for local guard contracts for Foreign Service buildings subject to subsection (c) of this section shall be allocated to the extent practicable for contracts with United States minority small business contractors.
+**(e) United States minority contractors** Not less than 10 percent of the amount of funds obligated for local guard contracts for Foreign Service buildings subject to subsection (c) shall be allocated to the extent practicable for contracts with United States minority small business contractors.
 
-**(f) United States small business contractors** Not less than 10 percent of the amount of funds obligated for local guard contracts for Foreign Service buildings subject to subsection (c) of this section shall be allocated to the extent practicable for contracts with United States small business contractors.
+**(f) United States small business contractors** Not less than 10 percent of the amount of funds obligated for local guard contracts for Foreign Service buildings subject to subsection (c) shall be allocated to the extent practicable for contracts with United States small business contractors.
 
-**(g) Limitation of subcontracting** With respect to local guard contracts subject to subsection (c) of this section, a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
+**(g) Limitation of subcontracting** With respect to local guard contracts subject to subsection (c), a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
 
 ### Statutory Notes
 
@@ -961,6 +969,9 @@ By the authority vested in me by the Constitution and laws of the United States 
 You are hereby authorized and directed to publish this delegation in the Federal Register.
 
 William J. Clinton.
+
+#### Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in the Russian Federation and Adjacent Countries
+Pub. L. 113–293, title III, § 314, Dec. 19, 2014, 128 Stat. 4002, provided that: “(a) Sensitive Compartmented Information Facility Requirement.—Each United States diplomatic facility that, after the date of the enactment of this Act [Dec. 19, 2014], is constructed in, or undergoes a construction upgrade in, the Russian Federation, any country that shares a land border with the Russian Federation, or any country that is a former member of the Soviet Union shall be constructed to include a Sensitive Compartmented Information Facility. “(b) National Security Waiver.—The Secretary of State may waive the requirement under subsection (a) if the Secretary determines that such waiver is in the national security interest of the United States and submits a written justification to the appropriate congressional committees not later than 180 days before exercising such waiver. “(c) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives]; “(2) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and “(3) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.”
 
 #### Capital Security Cost Sharing
 Pub. L. 109–364, div. A, title III, § 357, Oct. 17, 2006, 120 Stat. 2163, provided that: “(a) Reconciliation Required.—For each fiscal year, the Secretary of Defense shall reconcile (1) the estimate of overseas presence of the Secretary of Defense under subsection (b) for that fiscal year, with (2) the determination of the Secretary of State under section 604(e)(1) of the Secure Embassy Construction and Counterterrorism Act of 1999 [Pub. L. 106–113] ([22 U.S.C. 4865](./chapter-058-diplomatic-security.md#section-4865) note) of the total overseas presence of the Department of Defense for that fiscal year. “(b) Annual Estimate of Overseas Presence.—Not later than February 1 of each year, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] an estimate of the total number of Department of Defense overseas personnel subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 ([22 U.S.C. 3927](./chapter-052-foreign-service.md#section-3927)) during the fiscal year that begins on October 1 of that year.”

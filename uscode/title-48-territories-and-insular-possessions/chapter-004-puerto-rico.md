@@ -214,7 +214,7 @@ Ex. Ord. No. 9909, eff. Dec. 9, 1947, 12 F.R. 8291, provided:
 
 By virtue of the authority vested in me by section 49b(2) of the Organic Act of Puerto Rico, as amended by section 6 of the Act of August 5, 1947, Public Law 362, 80th Congress [[section 793b of this title](./chapter-004-puerto-rico.md#section-793b)], it is hereby ordered that the District Court of the United States for Puerto Rico and the Department of Justice shall be exempt from making the reports to the Coordinator of Federal Agencies in Puerto Rico which are provided for in such section.
 
-Harry S Truman.
+Harry S. Truman.
 
 #### Ex. Ord. No. 10005. Establishment of President’s Advisory Commission on Relation of Federal Laws to Puerto Rico
 Ex. Ord. No. 10005, eff. Oct. 5, 1948, 13 F.R. 5854, provided:
@@ -233,7 +233,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by the said Organic Act 
 
 4. The Commission shall continue to exist until the President terminates its existence by Executive order.
 
-Harry S Truman.
+Harry S. Truman.
 
 #### Administrative Treatment of Puerto Rico as a State
 Memorandum of President of the United States, Nov. 30, 1992, 57 F.R. 57093, provided:
@@ -429,14 +429,14 @@ Provisions similar to those in this section were contained in act Mar. 22, 1902,
 
 
 <a id="section-743"></a>
-## § 743. Repealed. July 1, 1944, ch. 373, title XI, § 1113, 58 Stat. 714
+## § 743. Repealed. July 1, 1944, ch. 373, title XIII, § 1313, 58 Stat. 714
 
 ### Statutory Notes
 
 Section, acts Apr. 12, 1900, ch. 191, § 10, 31 Stat. 80; Aug. 14, 1912, ch. 288, 37 Stat. 309; May 17, 1932, ch. 190, 47 Stat. 158, provided for quarantine stations in Puerto Rico. See [section 267 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section267&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Renumbering of Repealing Act
-Section 611 of act July 1, 1944, which repealed this section, was renumbered § 711 by act Aug. 13, 1946, ch. 958, § 5, 60 Stat. 1049, § 713 by act Feb. 28, 1948, ch. 83, § 9(b), 62 Stat. 47, § 813 by act July 30, 1956, ch. 779, § 3(b), 70 Stat. 720, § 913 by Pub. L. 88–581, § 4(b), Sept. 4, 1964, 78 Stat. 919, § 1013 by Pub. L. 89–239, § 3(b), Oct. 6, 1965, 79 Stat. 931, and § 1113 by Pub. L. 91–572, § 6(b), Dec. 24, 1970, 84 Stat. 1506.
+Title XIII, § 1313, formerly title VI, § 611, of act July 1, 1944, which repealed this section, was renumbered title VII, § 711, by act Aug. 13, 1946, ch. 958, § 5, 60 Stat. 1049; § 713, by act Feb. 28, 1948, ch. 83, § 9(b), 62 Stat. 47; title VIII, § 813, by act July 30, 1956, ch. 779, § 3(b), 70 Stat. 721; title IX, § 913, by Pub. L. 88–581, § 4(b), Sept. 4, 1964, 78 Stat. 919; title X, § 1013, by Pub. L. 89–239, § 3(b), Oct. 6, 1965, 79 Stat. 931; title XI, § 1113, by Pub. L. 91–572, § 6(b), Dec. 24, 1970, 84 Stat. 1506; title XII, § 1213, by Pub. L. 92–294, § 3(b), May 16, 1972, 86 Stat. 137; title XIII, § 1313, by Pub. L. 93–154, § 2(b)(2), Nov. 16, 1973, 87 Stat. 604, and was repealed by Pub. L. 93–222, § 7(b), Dec. 29, 1973, 87 Stat. 936.
 
 
 <a id="section-744"></a>

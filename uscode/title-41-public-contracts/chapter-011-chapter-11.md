@@ -332,6 +332,11 @@ Pub. L. 103–355, title I, § 1091(b)(1), Oct. 13, 1994, 108 Stat. 3272, provid
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–67, div. A, title VII, § 702(b)(1), (c), Dec. 26, 2013, 127 Stat. 1189, provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this section is repealed.
+
+Pub. L. 113–66, div. A, title VIII, § 811(c)(1), (d), Dec. 26, 2013, 127 Stat. 806, provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this section is repealed.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -342,6 +347,11 @@ Pub. L. 103–355, title I, § 1091(b)(1), Oct. 13, 1994, 108 Stat. 3272, provid
 | 1127(a)(5) | 41:435(c)(4). |  |
 | 1127(a)(6) | 41:435(c)(2). |  |
 | 1127(b) | 41:435(a). |  |
+
+#### Effective Date of Repeal
+Repeal by Pub. L. 113–67 applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, see section 702(c) of Pub. L. 113–67, set out as an Effective Date of 2013 Amendment note under [section 2324 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324&num=0&edition=prelim), Armed Forces.
+
+Repeal by Pub. L. 113–66 applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, see section 811(d) of Pub. L. 113–66, set out as an Effective Date of 2013 Amendment note under [section 2324 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324&num=0&edition=prelim), Armed Forces.
 
 #### Exclusive Applicability of Provisions Limiting Allowability of Compensation for Certain Contractor Personnel
 Pub. L. 105–85, div. A, title VIII, § 808(f), Nov. 18, 1997, 111 Stat. 1838, provided that: “Notwithstanding any other provision of law, no other limitation in law on the allowability of costs of compensation of senior executives under covered contracts shall apply to such costs of compensation incurred after January 1, 1998.”

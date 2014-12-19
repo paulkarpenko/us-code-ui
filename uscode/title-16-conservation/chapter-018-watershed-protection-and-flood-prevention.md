@@ -30,14 +30,6 @@ Act Aug. 7, 1956, ch. 1027, § 2, 70 Stat. 1090, provided that sections 1006a an
 ## § 1002. Definitions
 
 For the purposes of this chapter, the following terms shall mean:
-The “Secretary”—the Secretary of Agriculture of the United States.
-“Works of improvement”—any undertaking for—
-
-(1) flood prevention (including structural and land treatment measures),
-
-(2) the conservation, development, utilization, and disposal of water, or
-
-(3) the conservation and proper utilization of land, in watershed or subwatershed area not exceeding two hundred and fifty thousand acres and not including any single structure which provides more than twelve thousand five hundred acre-feet of floodwater detention capacity, and more than twenty-five thousand acre-feet of total capacity. No appropriation shall be made for any plan involving an estimated Federal contribution to construction costs in excess of $5,000,000, or which includes any structure which provides more than twenty-five hundred acre-feet of total capacity unless such plan has been approved by resolutions adopted by the appropriate committees of the Senate and House of Representatives: Provided, That in the case of any plan involving no single structure providing more than 4,000 acre-feet of total capacity the appropriate committees shall be the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives and in the case of any plan involving any single structure of more than 4,000 acre-feet of total capacity the appropriate committees shall be the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives, respectively. Each project must contain benefits directly related to agriculture, including rural communities, that account for at least 20 percent of the total benefits of the project. A number of such sub­watersheds when they are component parts of a larger watershed may be planned together when the local sponsoring organizations so desire. “Local organization”—any State, political subdivision thereof, soil or water conservation district, flood prevention or control district, or combinations thereof, or any other agency having authority under State law to carry out, maintain and operate the works of improvement; or any irrigation or reservoir company, water users’ association, or similar organization having such authority and not being operated for profit that may be approved by the Secretary; or any Indian tribe or tribal organization, as defined in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim), having authority under Federal, State, or Indian tribal law to carry out, maintain, and operate the works of improvement.
 
 ### Statutory Notes
 
@@ -312,8 +304,7 @@ The functions vested in the President by the third proviso of section 5 of the W
 
 Dwight D. Eisenhower.
 
-#### Transfer of Functions
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget, referred to in Ex. Ord. No. 10654, transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget and Director of Bureau of the Budget as Director of Office of Management and Budget.
+[Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget, referred to in Ex. Ord. No. 10654, transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget and Director of Bureau of the Budget as Director of Office of Management and Budget.]
 
 
 <a id="section-1006"></a>
@@ -465,6 +456,9 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 1998—Subsec. (a). Pub. L. 105–277 substituted “with the heads of other Federal agencies, tribal, State, and local governments, private and nonprofit entities, and landowners for the protection, restoration, and enhancement of fish and wildlife habitat and other resources on public or private land and the reduction of risk from natural disaster where public safety is threatened” for “with willing private landowners for restoration and enhancement of fish, wildlife, and other biotic resources on public or private land or both”.
 
+#### Federal and State Cooperative Watershed Restoration and Protection
+Pub. L. 106–291, title III, § 331, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 108–447, div. E, title III, § 336, Dec. 8, 2004, 118 Stat. 3102; Pub. L. 111–88, div. A, title IV, § 422, Oct. 30, 2009, 123 Stat. 2961; Pub. L. 113–76, div. G, title IV, § 417, Jan. 17, 2014, 128 Stat. 341, provided that: “(a) Use of State Forest Service.—The Secretary of Agriculture, via cooperative agreement or contract (including sole source contract) as appropriate, may permit the head of a State agency with jurisdiction over State forestry programs in a State containing National Forest System land (in this section referred to as a ‘State Forester’) to perform watershed restoration and protection services on National Forest System lands in the State when similar and complementary watershed restoration and protection services are being performed by the State Forest Service on adjacent State or private lands. The types of services that may be extended to National Forest System lands include treatment of insect infected trees, reduction of hazardous fuels, and other activities to restore or improve watersheds or fish and wildlife habitat across ownership boundaries. “(b) State as Agent.—Except as provided in subsection (c), a cooperative agreement or contract under subsection (a) may authorize the State Forester to serve as the agent for the Forest Service in providing all services necessary to facilitate the performance of watershed restoration and protection services under subsection (a). The services to be performed by a State Forester may be conducted with subcontracts utilizing State contract procedures. Subsections (d) and (g) of section 14 of the National Forest Management Act of 1976 ([16 U.S.C. 472a](./chapter-002-national-forests.md#section-472a)) shall not apply to services performed under a cooperative agreement or contract under subsection (a). “(c) Retention of NEPA Responsibilities.—With respect to any watershed restoration and protection services on National Forest System lands proposed for performance by a State Forester under subsection (a), any decision required to be made under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) may not be delegated to the State Forester or any other officer or employee of the State. “(d) Inclusion of BLM Lands.—The authority provided by this section shall also be available to the Secretary of the Interior with respect to public lands in a State administered by the Secretary through the Bureau of Land Management. “(e) Expiration of Authority.—The authority of the Secretary of Agriculture and the Secretary of the Interior to enter into cooperative agreements and contracts under this section expires September 30, 2018, and the term of any cooperative agreement or contract entered into under this section shall not extend beyond that date.”
+
 #### Watershed Agreements
 Pub. L. 105–277, div. A, § 101(e) [title III, § 323], Oct. 21, 1998, 112 Stat. 2681–231, 2681–290, as amended, formerly set out as a note under this section, was transferred and is classified to [section 1011a of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1011a).
 
@@ -585,11 +579,13 @@ Pub. L. 105–83, title III, § 334, Nov. 14, 1997, 111 Stat. 1601.
 
   (D) $60,000,000 for fiscal year 2006;
 
-  (E) $65,000,000 for fiscal year 2007; and 11 So in original. The word “and” probably should not appear.
+  (E) $65,000,000 for fiscal year 2007;
 
-  (F) $0 for fiscal year 2008.22 So in original. The period probably should be “; and”
+  (F) $0 for fiscal year 2008;
 
-  (G) $100,000,000 for fiscal year 2009, to be available until expended.
+  (G) $100,000,000 for fiscal year 2009, to be available until expended; and
+
+  (H) $250,000,000 for fiscal year 2014, to remain available until expended.
 
 (2) **Authorization of appropriations** — In addition to amounts made available under paragraph (1), there are authorized to be appropriated to the Secretary to carry out this section, to remain available until expended—
 
@@ -601,7 +597,7 @@ Pub. L. 105–83, title III, § 334, Nov. 14, 1997, 111 Stat. 1601.
 
   (D) $75,000,000 for fiscal year 2006; and
 
-  (E) $85,000,000 for each of fiscal years 2008 through 2012.
+  (E) $85,000,000 for each of fiscal years 2008 through 2018.
 
 **(i) Assessment of rehabilitation needs** The Secretary, in concert with the responsible State agencies, shall conduct an assessment of the rehabilitation needs of covered water resource projects in all States in which such projects are located.
 
@@ -624,6 +620,10 @@ The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (h)(1)(H). Pub. L. 113–79, § 2505(a), added subpar. (H).
+
+Subsec. (h)(2)(E). Pub. L. 113–79, § 2505(b), substituted “2018” for “2012”.
+
 2008—Subsec. (h)(1)(G). Pub. L. 110–246, § 2803(a), added subpar. (G).
 
 Subsec. (h)(2)(E). Pub. L. 110–246, § 2803(b), substituted “each of fiscal years 2008 through 2012” for “fiscal year 2007”.

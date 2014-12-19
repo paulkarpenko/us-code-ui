@@ -119,7 +119,8 @@ Execution shall not issue against a collector or other revenue officer on a fina
 
 (1) probable cause existed; or
 
-(2) the officer acted under the directions of the Secretary of the Treasury, the Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, or other proper Government officer. When such certificate has been issued, the amount of the judgment shall be paid out of the proper appropriation by the Treasury.
+(2) the officer acted under the directions of the Secretary of the Treasury, the Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, or other proper Government officer.
+When such certificate has been issued, the amount of the judgment shall be paid out of the proper appropriation by the Treasury.
 
 ### Statutory Notes
 

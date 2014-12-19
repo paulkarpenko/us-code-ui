@@ -63,7 +63,7 @@ Funds authorized to be appropriated to carry out this title to the extent approv
 ### Statutory Notes
 
 #### References in Text
-An Act for the preservation of American antiquities, referred to in text, is act June 8, 1906, ch. 3060, 34 Stat. 225, popularly known as the Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 431 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section431&num=0&edition=prelim) and Tables.
+An Act for the preservation of American antiquities, referred to in text, is act June 8, 1906, ch. 3060, 34 Stat. 225, popularly known as the Antiquities Act of 1906. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1960—Pub. L. 86–657 substituted “appropriated to carry out this title to the extent approved” for “appropriated under the Federal-Aid Highway Act of 1956, to the extent approved”.
@@ -246,9 +246,13 @@ Subsec. (e) to (g). Pub. L. 109–59, § 1903(c)(4), (5), which directed amendme
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Buy America Waiver Notification and Annual Reports
-Pub. L. 112–55, div. C, title I, § 122, Nov. 18, 2011, 125 Stat. 654, provided that: “Not less than 15 days prior to waiving, under his statutory authority, any Buy America requirement for Federal-aid highway projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: Provided, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
+Pub. L. 113–235, div. K, title I, § 122, Dec. 16, 2014, 128 Stat. 2708, provided that: “Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid Highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: Provided, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. L, title I, § 122, Jan. 17, 2014, 128 Stat. 586.
+
+Pub. L. 112–55, div. C, title I, § 122, Nov. 18, 2011, 125 Stat. 654.
 
 Pub. L. 111–117, div. A, title I, § 123, Dec. 16, 2009, 123 Stat. 3048.
 

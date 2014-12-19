@@ -18,7 +18,7 @@ source: >-
 
 (1) **In general** — Two separate awards may be given under this section in each year. One such award may be given to a qualifying individual (including employees of any State or local government, or the Federal Government), and 1 such award may be given to a qualifying organization, institution, or business.
 
-(2) **Limitation** — No award shall be made under this section to an entity in either category described in paragraph (1) in any year if there is no qualified individual, organization, institution, or business recommended under subsection (c) of this section for an award in such category in that year.
+(2) **Limitation** — No award shall be made under this section to an entity in either category described in paragraph (1) in any year if there is no qualified individual, organization, institution, or business recommended under subsection (c) for an award in such category in that year.
 
 **(c) Qualification criteria for award**
 
@@ -42,7 +42,7 @@ source: >-
 
 (3) **Evaluation** — An evaluation of each nominee shall be conducted by the Office of Technology Assessment. The Office of Technology Assessment shall work with the selection panel to establish appropriate procedures for evaluating nominees.
 
-(4) **Panel review** — The selection panel shall review the Office of Technology Assessment’s evaluation of each nominee and may, based on those evaluations, recommend 1 award winner for each year for each category described in subsection (b)(1) of this section to the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives.
+(4) **Panel review** — The selection panel shall review the Office of Technology Assessment’s evaluation of each nominee and may, based on those evaluations, recommend 1 award winner for each year for each category described in subsection (b)(1) to the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives.
 
 **(d) Presentation of award**
 
@@ -54,7 +54,7 @@ source: >-
 
 **(e) Publication of evaluations**
 
-(1) **Summary of evaluations** — The Office of Technology Assessment shall ensure that all nominees receive a detailed summary of any evaluation conducted of such nominee under subsection (c) of this section.
+(1) **Summary of evaluations** — The Office of Technology Assessment shall ensure that all nominees receive a detailed summary of any evaluation conducted of such nominee under subsection (c).
 
 (2) **Summary of competitiveness strategy** — The Office of Technology Assessment shall also make available to all nominees and the public a summary of each award winner’s competitiveness strategy. Proprietary information shall not be included in any such summary without the consent of the award winner.
 

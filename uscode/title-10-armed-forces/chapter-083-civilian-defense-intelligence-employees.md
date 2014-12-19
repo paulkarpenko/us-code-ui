@@ -124,7 +124,7 @@ Repeal effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as
 
 (1) The Secretary of Defense may provide to civilian personnel described in subsection (d) allowances and benefits comparable to those provided by the Secretary of State to officers and employees of the Foreign Service under paragraphs (2), (3), (4), (5), (6), (7), (8), and (13) of section 901 and sections 705 and 903 of the Foreign Service Act of 1980 ([22 U.S.C. 4081(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4081/2&num=0&edition=prelim), (3), (4), (5), (6), (7), (8), and (13), 4025, 4083) and under [section 5924(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5924/4&num=0&edition=prelim).
 
-(2) The Secretary may also provide to any such civilian personnel special retirement accrual benefits in the same manner provided for certain officers and employees of the Central Intelligence Agency in section 303 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2153](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2153&num=0&edition=prelim)) and in section 18 of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 403r](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403r&num=0&edition=prelim)).11 See References in Text note below.
+(2) The Secretary may also provide to any such civilian personnel special retirement accrual benefits in the same manner provided for certain officers and employees of the Central Intelligence Agency in section 303 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2153](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2153&num=0&edition=prelim)) and in section 18 of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 3518](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3518&num=0&edition=prelim)).
 
 **(b)** The authority of the Secretary of Defense to make payments under subsection (a) is effective for any fiscal year only to the extent that appropriated funds are available for such purpose.
 
@@ -144,10 +144,9 @@ Repeal effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as
 
 ### Statutory Notes
 
-#### References in Text
-The Central Intelligence Agency Act of 1949, referred to in subsec. (a)(2), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 46 (§ 3501 et seq.) of Title 50. Section 18 of the Act is now classified to [section 3518 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3518&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
-
 #### Amendments
+2014—Subsec. (a)(2). Pub. L. 113–291 substituted “([50 U.S.C. 3518](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3518&num=0&edition=prelim))” for “([50 U.S.C. 403r](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403r&num=0&edition=prelim))”.
+
 1999—Subsec. (c)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 1996—Pub. L. 104–201 substituted “assigned outside the United States” for “of the Defense Intelligence Agency” in section catchline.
@@ -562,14 +561,11 @@ Amendment by Pub. L. 101–189 effective Jan. 1, 1990, see section 336(c) of Pub
 
 <a id="section-1623"></a>
 ## § 1623. Financial assistance to certain employees in acquisition of critical skills
-**(a)** The Secretary of Defense shall establish an undergraduate training program with respect to civilian employees of the Defense Intelligence Agency that is similar in purpose, conditions, content, and administration to the program which the Secretary of Defense is authorized to establish under section 16 of the National Security Agency Act of 1959 ([50 U.S.C. 402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section402&num=0&edition=prelim) note) 11 See References in Text note below. for civilian employees of the National Security Agency.
+**(a)** The Secretary of Defense shall establish an undergraduate training program with respect to civilian employees of the Defense Intelligence Agency that is similar in purpose, conditions, content, and administration to the program which the Secretary of Defense is authorized to establish under section 16 of the National Security Agency Act of 1959 ([50 U.S.C. 3614](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3614&num=0&edition=prelim)) for civilian employees of the National Security Agency.
 
 **(b)** Any payments made by the Secretary to carry out the program required to be established by subsection (a) may be made in any fiscal year only to the extent that appropriated funds are available for that purpose.
 
 ### Statutory Notes
-
-#### References in Text
-Section 16 of the National Security Agency Act of 1959, referred to in subsec. (a), is section 16 of Pub. L. 86–36, as added Pub. L. 99–569, title V, § 505, Oct. 27, 1986, 100 Stat. 3200; amended Pub. L. 111–259, title III, § 312(a)–(d), Oct. 7, 2010, 124 Stat. 2663, 2664, which was set out in a note under [section 402 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section402&num=0&edition=prelim), War and National Defense, prior to editorial reclassification to [section 3614 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3614&num=0&edition=prelim).
 
 #### Prior Provisions
 A prior section 1623, added Pub. L. 99–145, title IX, § 924(a)(1), Nov. 8, 1985, 99 Stat. 698; amended Pub. L. 99–661, div. A, title XIII, § 1343(a)(10), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–26, § 7(j)(4), Apr. 21, 1987, 101 Stat. 283; Pub. L. 101–189, div. A, title VIII, § 853(c)(3), Nov. 29, 1989, 103 Stat. 1519, related to education, training, and experience requirements for general and flag officers assigned to a procurement command, prior to repeal by Pub. L. 101–510, div. A, title XII, § 1207(c)(3), Nov. 5, 1990, 104 Stat. 1665, effective Oct. 1, 1992.
@@ -577,6 +573,8 @@ A prior section 1623, added Pub. L. 99–145, title IX, § 924(a)(1), Nov. 8, 19
 A prior section 1624, added Pub. L. 99–145, title IX, § 924(a)(1), Nov. 8, 1985, 99 Stat. 698, required a training program for quality assurance personnel, prior to repeal by Pub. L. 101–510, div. A, title XII, § 1207(c)(4), Nov. 5, 1990, 104 Stat. 1665; Pub. L. 102–190, div. A, title X, § 1061(a)(26)(C)(i), Dec. 5, 1991, 105 Stat. 1474, effective Oct. 1, 1993.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–291 substituted “([50 U.S.C. 3614](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3614&num=0&edition=prelim))” for “([50 U.S.C. 402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section402&num=0&edition=prelim) note)”.
+
 1996—Pub. L. 104–201 renumbered [section 1608 of this title](./chapter-083-civilian-defense-intelligence-employees.md#section-1608) as this section.
 
 #### Effective Date

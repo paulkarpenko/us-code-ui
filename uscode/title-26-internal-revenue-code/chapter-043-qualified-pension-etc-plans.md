@@ -10,24 +10,28 @@ source: >-
 ## § 4971. Taxes on failure to meet minimum funding standards
 **(a) Initial tax** If at any time during any taxable year an employer maintains a plan to which section 412 applies, there is hereby imposed for the taxable year a tax equal to—
 
-(1) in the case of a single-employer plan, 10 percent of the aggregate unpaid minimum required contributions for all plan years remaining unpaid as of the end of any plan year ending with or within the taxable year, and
+(1) in the case of a single-employer plan, 10 percent of the aggregate unpaid minimum required contributions for all plan years remaining unpaid as of the end of any plan year ending with or within the taxable year,
 
-(2) in the case of a multiemployer plan, 5 percent of the accumulated funding deficiency determined under section 431 as of the end of any plan year ending with or within the taxable year.
+(2) in the case of a multiemployer plan, 5 percent of the accumulated funding deficiency determined under section 431 as of the end of any plan year ending with or within the taxable year, and
+
+(3) in the case of a CSEC plan, 10 percent of the CSEC accumulated funding deficiency as of the end of the plan year ending with or within the taxable year.
 
 **(b) Additional tax** If—
 
-(1) a tax is imposed under subsection (a)(1) on any unpaid minimum required contribution and such amount remains unpaid as of the close of the taxable period, or
+(1) a tax is imposed under subsection (a)(1) on any unpaid minimum required contribution and such amount remains unpaid as of the close of the taxable period,
 
-(2) a tax is imposed under subsection (a)(2) on any accumulated funding deficiency and the accumulated funding deficiency is not corrected within the taxable period,
-there is hereby imposed a tax equal to 100 percent of the unpaid minimum required contribution or accumulated funding deficiency, whichever is applicable, to the extent not so paid or corrected.
+(2) a tax is imposed under subsection (a)(2) on any accumulated funding deficiency and the accumulated funding deficiency is not corrected within the taxable period, or
+
+(3) a tax is imposed under subsection (a)(3) on any CSEC accumulated funding deficiency and the CSEC accumulated funding deficiency is not corrected within the taxable period,
+there is hereby imposed a tax equal to 100 percent of the unpaid minimum required contribution, accumulated funding deficiency, or CSEC accumulated funding deficiency, whichever is applicable, to the extent not so paid or corrected.
 
 **(c) Definitions** For purposes of this section—
 
 (1) **Accumulated funding deficiency** — The term “accumulated funding deficiency” has the meaning given to such term by section 431.
 
-(2) **Correct** — The term “correct” means, with respect to an accumulated funding deficiency, the contribution, to or under the plan, of the amount necessary to reduce such accumulated funding deficiency as of the end of a plan year in which such deficiency arose to zero.
+(2) **Correct** — The term “correct” means, with respect to an accumulated funding deficiency or CSEC accumulated funding deficiency, the contribution, to or under the plan, of the amount necessary to reduce such accumulated funding deficiency or CSEC accumulated funding deficiency as of the end of a plan year in which such deficiency arose to zero.
 
-(3) **Taxable period** — The term “taxable period” means, with respect to an accumulated funding deficiency or unpaid minimum required contribution, whichever is applicable, the period beginning with the end of the plan year in which there is an accumulated funding deficiency or unpaid minimum required contribution, whichever is applicable 11 So in original. Probably should be followed by a comma. and ending on the earlier of—
+(3) **Taxable period** — The term “taxable period” means, with respect to an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable, the period beginning with the end of the plan year in which there is an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable 11 So in original. Probably should be followed by a comma. and ending on the earlier of—
 
   (A) the date of mailing of a notice of deficiency with respect to the tax imposed by subsection (a), or
 
@@ -39,12 +43,14 @@ there is hereby imposed a tax equal to 100 percent of the unpaid minimum require
 
   (B) *Ordering rule* — Any payment to or under a plan for any plan year shall be allocated first to unpaid minimum required contributions for all preceding plan years on a first-in, first-out basis and then to the minimum required contribution under section 430 for the plan year.
 
+(5) **CSEC accumulated funding deficiency** — The term “CSEC accumulated funding deficiency” means the accumulated funding deficiency determined under section 433.
+
 **(d) Notification of the Secretary of Labor** Before issuing a notice of deficiency with respect to the tax imposed by subsection (a) or (b), the Secretary shall notify the Secretary of Labor and provide him a reasonable opportunity (but not more than 60 days)—
 
-(1) to require the employer responsible for contributing to or under the plan to eliminate the accumulated funding deficiency or unpaid minimum required contribution, whichever is applicable, or
+(1) to require the employer responsible for contributing to or under the plan to eliminate the accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable, or
 
 (2) to comment on the imposition of such tax.
-In the case of a multiemployer plan which is in reorganization under section 418, the same notice and opportunity shall be provided to the Pension Benefit Guaranty Corporation.
+In the case of a multiemployer plan which is in reorganization under section 418,22 See References in Text note below. the same notice and opportunity shall be provided to the Pension Benefit Guaranty Corporation.
 
 **(e) Liability for tax**
 
@@ -58,17 +64,17 @@ In the case of a multiemployer plan which is in reorganization under section 418
 
 **(f) Failure to pay liquidity shortfall**
 
-(1) **In general** — In the case of a plan to which section 430(j)(4) applies, there is hereby imposed a tax of 10 percent of the excess (if any) of—
+(1) **In general** — In the case of a plan to which section 430(j)(4) or 433(f) applies, there is hereby imposed a tax of 10 percent of the excess (if any) of—
 
   (A) the amount of the liquidity shortfall for any quarter, over
 
-  (B) the amount of such shortfall which is paid by the required installment under section 430(j) for such quarter (but only if such installment is paid on or before the due date for such installment).
+  (B) the amount of such shortfall which is paid by the required installment under section 430(j) or 433(f), whichever is applicable 1 for such quarter (but only if such installment is paid on or before the due date for such installment).
 
 (2) **Additional tax** — If the plan has a liquidity shortfall as of the close of any quarter and as of the close of each of the following 4 quarters, there is hereby imposed a tax equal to 100 percent of the amount on which tax was imposed by paragraph (1) for such first quarter.
 
 (3) **Definitions and special rule**
 
-  (A) *Liquidity shortfall; quarter* — For purposes of this subsection, the terms “liquidity shortfall” and “quarter” have the respective meanings given such terms by section 412(m)(5).22 See References in Text note below.
+  (A) *Liquidity shortfall; quarter* — For purposes of this subsection, the terms “liquidity shortfall” and “quarter” have the respective meanings given such terms by section 430(j) or 433(f), whichever is applicable.
 
   (B) *Special rule* — If the tax imposed by paragraph (2) is paid with respect to any liquidity shortfall for any quarter, no further tax shall be imposed by this subsection on such shortfall for such quarter.
 
@@ -120,25 +126,56 @@ In the case of a multiemployer plan which is in reorganization under section 418
 
     (i) *In general* — The tax imposed by subparagraph (A) shall be paid by each plan sponsor.
 
-    (ii) *Plan sponsor* — For purposes of clause (i), the term “plan sponsor” has the meaning given such term by section 432(i)(9).
+    (ii) *Plan sponsor* — For purposes of clause (i), the term “plan sponsor” has the meaning given such term by section 432(i)(9).2
 
 (5) **Waiver** — In the case of a failure described in paragraph (2) or (3) which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by this subsection. For purposes of this paragraph, reasonable cause includes unanticipated and material market fluctuations, the loss of a significant contributing employer, or other factors to the extent that the payment of tax under this subsection with respect to the failure would be excessive or otherwise inequitable relative to the failure involved.
 
 (6) **Terms used in section 432** — For purposes of this subsection, any term used in this subsection which is also used in section 432 shall have the meaning given such term by section 432.
 
-**(h) Cross references** For disallowance of deduction for taxes paid under this section, see section 275. For liability for tax in case of an employer party to collective bargaining agreement, see section 413(b)(6). For provisions concerning notification of Secretary of Labor of imposition of tax under this section, waiver of the tax imposed by subsection (b), and other coordination between Secretary of the Treasury and Secretary of Labor with respect to compliance with this section, see section 3002(b) of title III of the Employee Retirement Income Security Act of 1974.
+**(h) Failure of a CSEC plan sponsor to adopt funding restoration plan**
+
+(1) **In general** — In the case of a CSEC plan that is in funding restoration status (within the meaning of section 433(j)(5)(A)), there is hereby imposed a tax on the failure of such plan to adopt a funding restoration plan within the time prescribed under section 433(j)(3).
+
+(2) **Amount of tax** — The amount of the tax imposed under paragraph (1) with respect to any plan sponsor for any taxable year shall be the amount equal to $100 multiplied by the number of days during the taxable year which are included in the period beginning on the day following the close of the 180-day period described in section 433(j)(3) and ending on the day on which the funding restoration plan is adopted.
+
+(3) **Waiver by Secretary** — In the case of a failure described in paragraph (1) which the Secretary determines is due to reasonable cause and not to willful neglect, the Secretary may waive a portion or all of the tax imposed by such paragraph.
+
+(4) **Liability for tax** — The tax imposed by paragraph (1) shall be paid by the plan sponsor (within the meaning of section 433(j)(5)(E)).
+
+**(i) Cross references** For disallowance of deduction for taxes paid under this section, see section 275. For liability for tax in case of an employer party to collective bargaining agreement, see section 413(b)(6). For provisions concerning notification of Secretary of Labor of imposition of tax under this section, waiver of the tax imposed by subsection (b), and other coordination between Secretary of the Treasury and Secretary of Labor with respect to compliance with this section, see section 3002(b) of title III of the Employee Retirement Income Security Act of 1974.
 
 ### Statutory Notes
 
-#### Amendment of Section
-For termination of amendment by section 221(c) of Pub. L. 109–280, see Effective and Termination Dates of 2006 Amendment note below.
-
 #### References in Text
-Section 412, referred to in subsec. (f)(3)(A), was amended generally by Pub. L. 109–280, title I, § 111(a), Aug. 17, 2006, 120 Stat. 820, and as so amended, no longer contains a subsec. (m)(5).
+Section 418, referred to in subsec. (d), was repealed by Pub. L. 113–235, div. O, title I, § 108(b)(1), Dec. 16, 2014, 128 Stat. 2787.
 
-Section 3002(b) of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (h), is classified to [section 1202(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1202/b&num=0&edition=prelim), Labor.
+[Section 432(i)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section432/i/9&num=0&edition=prelim), referred to in subsec. (g)(4)(C)(ii), was redesignated [section 432(j)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section432/j/9&num=0&edition=prelim) by Pub. L. 113–235, div. O, title I, § 109(b)(3), Dec. 16, 2014, 128 Stat. 2791.
+
+Section 3002(b) of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (i), is classified to [section 1202(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1202/b&num=0&edition=prelim), Labor.
 
 #### Amendments
+2014—Subsec. (a)(3). Pub. L. 113–97, § 202(c)(8)(A), added par. (3).
+
+Subsec. (b). Pub. L. 113–97, § 202(c)(8)(B)(ii), which directed substitution of “minimum required contribution, accumulated funding deficiency, or CSEC accumulated funding deficiency” for “minimum required contributions or accumulated funding deficiency”, was executed by making the substitution for “minimum required contribution or accumulated funding deficiency” in concluding provisions, to reflect the probable intent of Congress.
+
+Subsec. (b)(3). Pub. L. 113–97, § 202(c)(8)(B)(i), added par. (3).
+
+Subsec. (c)(2). Pub. L. 113–97, § 202(c)(8)(C)(i), substituted “accumulated funding deficiency or CSEC accumulated funding deficiency” for “accumulated funding deficiency” in two places.
+
+Subsec. (c)(3). Pub. L. 113–97, § 202(c)(8)(C)(ii), substituted “accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution” for “accumulated funding deficiency or unpaid minimum required contribution” in two places in introductory provisions.
+
+Subsec. (c)(5). Pub. L. 113–97, § 202(c)(8)(C)(iii), added par. (5).
+
+Subsec. (d)(1). Pub. L. 113–97, § 202(c)(8)(D), substituted “accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution” for “accumulated funding deficiency or unpaid minimum required contribution”.
+
+Subsec. (f)(1). Pub. L. 113–97, § 202(c)(8)(E)(i), substituted “430(j)(4) or 433(f)” for “430(j)(4)” in introductory provisions.
+
+Subsec. (f)(1)(B). Pub. L. 113–97, § 202(c)(8)(E)(ii), substituted “430(j) or 433(f), whichever is applicable” for “430(j)”.
+
+Subsec. (f)(3)(A). Pub. L. 113–97, § 202(c)(8)(E)(iii), substituted “430(j) or 433(f), whichever is applicable” for “412(m)(5)”.
+
+Subsecs. (h), (i). Pub. L. 113–97, § 202(c)(9), added subsec. (h) and redesignated former subsec. (h) as (i).
+
 2008—Subsec. (b)(1). Pub. L. 110–458, § 101(d)(2)(F)(i), substituted “minimum required” for “required minimum”.
 
 Subsec. (c)(3). Pub. L. 110–458, § 101(d)(2)(F)(ii), inserted “or unpaid minimum required contribution, whichever is applicable” after “accumulated funding deficiency” in two places in introductory provisions.
@@ -165,11 +202,11 @@ Subsec. (c)(4). Pub. L. 109–280, § 114(e)(2)(B), added par. (4).
 
 Subsec. (e)(1). Pub. L. 109–280, § 114(e)(3), substituted “section 412(a)(1)(A)” for “section 412(b)(3)(A)”.
 
-Subsec. (e)(2)(A). Pub. L. 109–280, §§ 212(b)(2), 221(c), as amended by Pub. L. 110–458, § 102(b)(3)(A), temporarily substituted “If an” for “In the case of a plan other than a multiemployer plan, if the” and “(f), or (g)” for “or (f)”. See Effective and Termination Dates of 2006 Amendment note below.
+Subsec. (e)(2)(A). Pub. L. 109–280, § 212(b)(2), as amended by Pub. L. 110–458, § 102(b)(3)(A), substituted “If an” for “In the case of a plan other than a multiemployer plan, if the” and “(f), or (g)” for “or (f)”.
 
 Subsec. (f)(1). Pub. L. 109–280, § 114(e)(4), substituted “section 430(j)(4)” for “section 412(m)(5)” in introductory provisions and “section 430(j)” for “section 412(m)” in subpar. (B).
 
-Subsecs. (g), (h). Pub. L. 109–280, §§ 212(b)(1), 221(c), temporarily added subsec. (g) and redesignated former subsec. (g) as (h). See Effective and Termination Dates of 2006 Amendment note below.
+Subsecs. (g), (h). Pub. L. 109–280, § 212(b)(1), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 1996—Subsec. (f)(4). Pub. L. 104–188 added par. (4).
 
@@ -195,15 +232,16 @@ Subsec. (d). Pub. L. 96–364, § 204(2), inserted provisions relating to a mult
 
 1976—Subsecs. (c), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
 
-#### Effective and Termination Dates of 2006 Amendment
-Amendment by section 114(e)(1)–(4) of Pub. L. 109–280 applicable to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within any such taxable year, see section 114(g) of Pub. L. 109–280, as added by Pub. L. 110–458, set out as an Effective Date of 2006 Amendment note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+#### Effective Date of 2006 Amendment
+Amendment by section 114(e)(1)–(4) of Pub. L. 109–280 applicable to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within any such taxable year, see section 114(g) of Pub. L. 109–280, as added by Pub. L. 110–458, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
 Amendment by section 212(b) of Pub. L. 109–280 applicable with respect to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within such taxable year, with special rules for certain notices and certain restored benefits, see section 212(e) of Pub. L. 109–280, set out as a note under [section 412 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-412).
-
-Amendment by section 212(b) of Pub. L. 109–280 inapplicable to plan years beginning after Dec. 31, 2014, with exception for certain funding improvement and rehabilitation plans, see section 221(c) of Pub. L. 109–280, set out as a note under [section 412 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-412).
 
 #### Effective Date of 1996 Amendment
 Pub. L. 104–188, title I, § 1464(b), Aug. 20, 1996, 110 Stat. 1825, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the amendment made by clause (ii) of section 751(a)(9)(B) of the Retirement Protection Act of 1994 [Pub. L. 103–465] (108 Stat. 5020).”
@@ -219,7 +257,7 @@ Amendment by section 9305(a) of Pub. L. 100–203 applicable with respect to pla
 #### Effective Date of 1980 Amendments
 For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under [section 4961 of this title](./chapter-042-private-foundations-and-certain-other-tax-exempt-organizations.md#section-4961).
 
-Amendment by Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pub. L. 96–364, set out as an Effective Date note under [section 418 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-418).
+Amendment by Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pub. L. 96–364, set out as an Effective Date note under [section 194A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-194a).
 
 #### Effective Date
 Section applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under [section 410 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-410).
@@ -431,9 +469,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 (3) an individual retirement annuity (within the meaning of section 408(b)), a custodial account treated as an annuity contract under section 403(b)(7)(A) (relating to custodial accounts for regulated investment company stock),
 
-(4) a Coverdell education savings account (as defined in section 530), or
+(4) a Coverdell education savings account (as defined in section 530),
 
-(5) a health savings account (within the meaning of section 223(d)),
+(5) a health savings account (within the meaning of section 223(d)), or
+
+(6) an ABLE account (within the meaning of section 529A),
 there is imposed for each taxable year a tax in an amount equal to 6 percent of the amount of the excess contributions to such individual’s accounts or annuities (determined as of the close of the taxable year). The amount of such tax for any taxable year shall not exceed 6 percent of the value of the account or annuity (determined as of the close of the taxable year). In the case of an endowment contract described in section 408(b), the tax imposed by this section does not apply to any amount allocable to life, health, accident, or other insurance under such contract. The tax imposed by this subsection shall be paid by such individual.
 
 **(b) Excess contributions** For purposes of this section, in the case of individual retirement accounts or individual retirement annuities, the term “excess contributions” means the sum of—
@@ -526,9 +566,19 @@ For purposes of this subsection, any contribution which is distributed from a Ro
     (ii) the amount contributed to the accounts for the taxable year.
 For purposes of this subsection, any contribution which is distributed out of the health savings account in a distribution to which section 223(f)(3) applies shall be treated as an amount not contributed.
 
+**(h) Excess contributions to ABLE account** For purposes of this section—
+
+(1) **In general** — In the case of an ABLE account (within the meaning of section 529A), the term “excess contributions” means the amount by which the amount contributed for the taxable year to such account (other than contributions under section 529A(c)(1)(C)) exceeds the contribution limit under section 529A(b)(2)(B).
+
+(2) **Special rule** — For purposes of this subsection, any contribution which is distributed out of the ABLE account in a distribution to which the last sentence of section 529A(b)(2) applies shall be treated as an amount not contributed.
+
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a)(6). Pub. L. 113–295, § 102(b)(1), added par. (6).
+
+Subsec. (h). Pub. L. 113–295, § 102(b)(2), added subsec. (h).
+
 2004—Subsec. (c). Pub. L. 108–311 substituted “subsection (a)(3)” for “subsection (a)(2)” in introductory provisions.
 
 2003—Subsec. (a)(5). Pub. L. 108–173, § 1201(e)(1), added par. (5).
@@ -640,6 +690,9 @@ Subsec. (b)(1)(B). Pub. L. 94–455, § 1501(b)(8)(B), inserted “or 220” aft
 Subsec. (b)(2). Pub. L. 94–455, § 1501(b)(8)(C), inserted “or 220” after “under section 219” and “the taxable year and” before “all prior taxable years” and struck out provisions relating to the treatment of contributions out of individual retirement accounts, annuities or bonds to which section 408(d)(4) applied.
 
 Subsec. (c). Pub. L. 94–455, § 1904(a)(22)(B), substituted “subsection (a)(2)” for “subsection (a)(3)” in provisions preceding par. (1).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 31, 2014, see section 102(f)(1) of Pub. L. 113–295, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
@@ -1496,9 +1549,9 @@ Amendment by Pub. L. 97–448 effective on date of enactment of Subchapter S Rev
 #### Effective Date of 1980 Amendments
 For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under [section 4961 of this title](./chapter-042-private-foundations-and-certain-other-tax-exempt-organizations.md#section-4961).
 
-Amendment by section 208(b) of Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pub. L. 96–364, set out as an Effective Date note under [section 418 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-418).
+Amendment by section 208(b) of Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pub. L. 96–364, set out as an Effective Date note under [section 194A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-194a).
 
-Amendment by section 209(b) of Pub. L. 96–364 applicable to taxable years ending after Sept. 26, 1980, see section 210(c) of Pub. L. 96–364, set out as an Effective Date note under [section 418 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-418).
+Amendment by section 209(b) of Pub. L. 96–364 applicable to taxable years ending after Sept. 26, 1980, see section 210(c) of Pub. L. 96–364, set out as an Effective Date note under [section 194A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-194a).
 
 Pub. L. 96–222, title I, § 101(b)(1)(C), Apr. 1, 1980, 94 Stat. 205, provided that: “The amendment made by subparagraph (C) of subsection (a)(6) [probably should be ‘(a)(7)’, which amended this section] shall apply to stock acquired after December 31, 1979.”
 

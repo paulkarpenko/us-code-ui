@@ -138,6 +138,9 @@ Authority vested by this chapter in “military departments”, “the Secretary
 #### National Oceanic and Atmospheric Administration
 Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary’s designee, see [section 3071 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3071&num=0&edition=prelim), Navigation and Navigable Waters.
 
+#### Improved Assistance for Gold Star Spouses and Other Dependents
+Pub. L. 113–66, div. A, title VI, § 633, Dec. 26, 2013, 127 Stat. 786, provided that: “(a) Advocates for Gold Star Spouses and Other Dependents.—Each Secretary of a military department shall designate for each Armed Force under the jurisdiction of such Secretary a member of such Armed Force or civilian employee of such military department to assist spouses and other dependents of members of such Armed Force (including reserve components thereof) who die on active duty through the provision of the following services:“(1) Addressing complaints by spouses and other dependents of deceased members regarding casualty assistance or receipt of benefits authorized by law for such spouses and dependents. “(2) Providing support to such spouses and dependents regarding such casualty assistance or receipt of such benefits. “(3) Making reports to appropriate officers or officials in the Department of Defense or the military department concerned regarding resolution of such complaints, including recommendations regarding the settlement of claims with respect to such benefits, as appropriate. “(4) Performing such other actions as the Secretary of the military department concerned considers appropriate. “(b) Training for Casualty Assistance Personnel.—“(1) Training program required.—The Secretary of Defense shall implement a standardized comprehensive training program on casualty assistance for the following personnel of the Department of Defense:“(A) Casualty assistance officers. “(B) Casualty assistance calls officers. “(C) Casualty assistance representatives. “(2) General elements.—The training program required by paragraph (1) shall include training designed to ensure that the personnel specified in that paragraph provide the spouse and other dependents of a deceased member of the Armed Forces with accurate information on the benefits to which they are entitled and other casualty assistance available to them when the member dies while serving on active duty in the Armed Forces. “(3) Service-specific elements.—The Secretary of the military department concerned may, in coordination with the Secretary of Defense, provide for the inclusion in the training program required by paragraph (1) that is provided to casualty assistance personnel of such military department such elements of training that are specific or unique to the requirements or particulars of the Armed Forces under the jurisdiction of such military department as the Secretary of the military department concerned considers appropriate. “(4) Frequency of training.—Training shall be provided under the program required by paragraph (1) not less often than annually.”
+
 #### Policy and Procedures on Casualty Assistance to Survivors of Military Decedents
 Pub. L. 109–163, div. A, title V, § 562, Jan. 6, 2006, 119 Stat. 3267, as amended by Pub. L. 109–364, div. A, title V, § 566, Oct. 17, 2006, 120 Stat. 2223, provided that: “(a) Comprehensive Policy on Casualty Assistance.—“(1) Policy required.—Not later than August 1, 2006, the Secretary of Defense shall prescribe a comprehensive policy for the Department of Defense on the provision of casualty assistance to survivors and next of kin of members of the Armed Forces who die during military service (in this section referred to as ‘military decedents’). “(2) Consultation.—The Secretary shall develop the policy under paragraph (1) in consultation with the Secretaries of the military departments, the Secretary of Veterans Affairs, and the Secretary of Homeland Security with respect to the Coast Guard. “(3) Incorporation of past experience and practice.—The policy developed under paragraph (1) shall be based on—“(A) the experience and best practices of the military departments; “(B) the recommendations of nongovernment organizations with demonstrated expertise in responding to the needs of survivors of military decedents; and “(C) such other matters as the Secretary of Defense considers appropriate. “(4) Procedures.—The policy shall include procedures to be followed by the military departments in the provision of casualty assistance to survivors and next of kin of military decedents. The procedures shall be uniform across the military departments except to the extent necessary to reflect the traditional practices or customs of a particular military department. “(b) Elements of Policy.—The comprehensive policy developed under subsection (a) shall address the following matters:“(1) The initial notification of primary and secondary next of kin of the deaths of military decedents and any subsequent notifications of next of kin warranted by circumstances. “(2) The transportation and disposition of remains of military decedents, including notification of survivors of the performance of autopsies. “(3) The qualifications, assignment, training, duties, supervision, and accountability for the performance of casualty assistance responsibilities. “(4) The relief or transfer of casualty assistance officers, including notification to survivors and next of kin of the reassignment of such officers to other duties. “(5) Centralized, short-term and long-term case-management procedures for casualty assistance by each military department, including rapid access by survivors of military decedents and casualty assistance officers to expert case managers and counselors. “(6) The provision, through a computer accessible Internet website and other means and at no cost to survivors of military decedents, of personalized, integrated information on the benefits and financial assistance available to such survivors from the Federal Government. “(7) The provision, at no cost to survivors of military decedents, of legal assistance by military attorneys on matters arising from the deaths of such decedents, including tax matters, on an expedited, prioritized basis. “(8) The provision of financial counseling to survivors of military decedents, particularly with respect to appropriate disposition of death gratuity and insurance proceeds received by surviving spouses, minor dependent children, and their representatives. “(9) The provision of information to survivors and next of kin of military decedents on mechanisms for registering complaints about, or requests for, additional assistance related to casualty assistance. “(10) Liaison with the Department of Veterans Affairs and the Social Security Administration in order to ensure prompt and accurate resolution of issues relating to benefits administered by those agencies for survivors of military decedents. “(11) Data collection regarding the incidence and quality of casualty assistance provided to survivors of military decedents, including surveys of such survivors and military and civilian members assigned casualty assistance duties. “(12) The process by which the Department of Defense, upon request, provides information (in person and otherwise) to survivors of a military decedent on the cause of, and any investigation into, the death of such military decedent and on the disposition and transportation of the remains of such decedent, which process shall—“(A) provide for the provision of such information (in person and otherwise) by qualified Department of Defense personnel; “(B) ensure that information is provided as soon as possible after death and that, when requested, updates are provided, in accordance with the procedures established under this paragraph, in a timely manner when new information becomes available; “(C) ensure that—“(i) the initial provision of such information, and each such update, relates the most complete and accurate information available at the time, subject to limitations applicable to classified information; and “(ii) incomplete or unverified information is identified as such during the course of the provision of such information or update; and “(D) include procedures by which such survivors shall, upon request, receive updates or supplemental information from qualified Department of Defense personnel. “(c) Adoption by Military Departments.—Not later than November 1, 2006, the Secretary of each military department shall prescribe regulations, or modify current regulations, on the policies and procedures of such military department on the provision of casualty assistance to survivors and next of kin of military decedents in order to conform such policies and procedures to the policy developed under subsection (a). “(d) Report on Improvement of Casualty Assistance Programs.—Not later than December 1, 2006, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report that includes—“(1) the assessment of the Secretary of the adequacy and sufficiency of the current casualty assistance programs of the military departments; “(2) a plan for a system for the uniform provision to survivors of military decedents of personalized, accurate, and integrated information on the benefits and financial assistance available to such survivors through the casualty assistance programs of the military departments under subsection (c); and “(3) such recommendations for other legislative or administrative action as the Secretary considers appropriate to enhance and improve such programs to achieve their intended purposes. “(e) GAO Report.—“(1) Report required.—Not later than July 1, 2006, the Comptroller General shall submit to the committees specified in subsection (d) a report on the evaluation by the Comptroller General of the casualty assistance programs of the Department of Defense and of such other departments and agencies of the Federal Government as provide casualty assistance to survivors and next of kin of military decedents. “(2) Assessment.—The report shall include the assessment of the Comptroller General of the adequacy of the current policies and procedures of, and funding for, the casualty assistance programs covered by the report to achieve their intended purposes.”
 
@@ -540,7 +543,8 @@ Subsec. (c). Pub. L. 101–189, § 1621(a)(2), (5), substituted “Secretary of 
     (ii) traveling directly to or from the place at which the member is to so serve; or
 
     (iii) remaining overnight at or in the vicinity of that place before so serving, if the place is outside reasonable commuting distance from the member’s residence.
-  [(3) Repealed. Pub. L. 99–661, div. A, title VI, § 604(e)(3)(B), Nov. 14, 1986, 100 Stat. 3877.]
+
+(3) Repealed. Pub. L. 99–661, div. A, title VI, § 604(e)(3)(B), Nov. 14, 1986, 100 Stat. 3877.]
 
 (4) Any member of, or applicant for membership in, a reserve officers’ training corps who dies while (A) attending a training camp, (B) on an authorized practice cruise, (C) performing authorized travel to or from such a camp or cruise, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while attending such a camp, while on such a cruise, or while performing that travel.
 
@@ -557,6 +561,8 @@ Subsec. (c). Pub. L. 101–189, § 1621(a)(2), (5), substituted “Secretary of 
 (8) Any military prisoner who dies while in his custody.
 
 (9) To the extent authorized under [section 1482(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1482/f&num=0&edition=prelim), any retired member of an armed force who dies while outside the United States or any individual who dies outside the United States while a dependent of such a member.
+
+(10) To the extent authorized under [section 1482(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1482/g&num=0&edition=prelim), any person not otherwise covered by the preceding paragraphs whose remains (or partial remains) have been retained by the Secretary concerned for purposes of a forensic pathology investigation by the Armed Forces Medical Examiner under [section 1471 of this title](./chapter-075-deceased-personnel.md#section-1471).
 
 **(b)** This section applies to each person covered by subsection (a)(1)–(7) even though he may have been temporarily absent from active duty, with or without leave, at the time of his death, unless he had been dropped from the rolls of his organization before his death.
 
@@ -575,6 +581,8 @@ In subsection (a), 5:2151 is omitted as covered by the revised sections of this 
 In subsection (b), the words “This section applies to each person * * * even though” are substituted for the words “The benefits of this Act shall not be denied in respect of a person * * * on the ground”.
 
 #### Amendments
+2013—Subsec. (a)(10). Pub. L. 113–66 added par. (10).
+
 2011—Subsec. (a)(2)(E) to (G). Pub. L. 112–81 added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
 2001—Subsec. (a)(2)(D). Pub. L. 107–107, § 513(c), struck out “, if the site is outside reasonable commuting distance from the member’s residence” before semicolon at end.
@@ -642,9 +650,9 @@ Pub. L. 109–364, div. A, title V, § 567, Oct. 17, 2006, 120 Stat. 2224, provi
 
 (7) Funeral director’s services.
 
-(8) Transportation of the remains, and roundtrip transportation and prescribed allowances for an escort of one person, to the place selected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized. When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; [10 U.S.C. 1482](./chapter-075-deceased-personnel.md#section-1482) note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.
+(8) Transportation of the remains, and travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section464&num=0&edition=prelim) for an escort of one person, to the place selected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized. When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; [10 U.S.C. 1482](./chapter-075-deceased-personnel.md#section-1482) note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.
 
-(9) Interment of the remains.
+(9) Interment or inurnment of the remains.
 
 **(b)** If an individual pays any expense payable by the United States under this section, the Secretary concerned shall reimburse him or his representative in an amount not larger than that normally incurred by the Secretary in furnishing the supply or service concerned. If reimbursement by the United States is also authorized under another provision of law or regulation, the individual may elect under which provision to be reimbursed.
 
@@ -695,7 +703,17 @@ However, the amount of the reimbursement shall be determined in the manner presc
 
   (B) The term “child” has the meaning prescribed by [section 1477(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1477/d&num=0&edition=prelim).
 
-**(f)** The payment of expenses incident to the recovery, care, and disposition of a decedent covered by [section 1481(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1481/a/9&num=0&edition=prelim) is limited to the payment of expenses described in paragraphs (1) through (5) of subsection (a) and air transportation of the remains from a location outside the United States to a point of entry in the United States. Such air transportation may be provided without reimbursement on a space-available basis in military or military-chartered aircraft. The Secretary concerned shall pay all other expenses authorized to be paid under this subsection only on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available, at the time of reimbursement, for the payment of such expenses.
+**(f)** The payment of expenses incident to the recovery, care, and disposition of a decedent covered by [section 1481(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1481/a/9&num=0&edition=prelim) is limited to the payment of expenses described in paragraphs (1) through (5) of subsection (a) and air transportation of the remains from a location outside the United States to a point of entry in the United States. Such air transportation may be provided without reimbursement on a space-available basis in military or military-chartered aircraft. The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section only on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available, at the time of reimbursement, for the payment of such expenses.
+
+**(g)**
+
+(1) The payment of expenses incident to the recovery, care, and disposition of the remains of a decedent covered by [section 1481(a)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1481/a/10&num=0&edition=prelim) is limited to those expenses that, as determined under regulations prescribed by the Secretary of Defense, would not have been incurred but for the retention of those remains for purposes of a forensic pathology investigation by the Armed Forces Medical Examiner under [section 1471 of this title](./chapter-075-deceased-personnel.md#section-1471).
+
+(2) In a case covered by paragraph (1), if the person designated under subsection (c) to direct disposition of the remains of a decedent does not direct disposition of the remains that were retained for the forensic pathology investigation, the Secretary may pay for the transportation of those remains to, and interment or inurnment of those remains in, an appropriate place selected by the Secretary, in lieu of the transportation authorized to be paid under paragraph (8) of subsection (a).
+
+(3) In a case covered by paragraph (1), expenses that may be paid do not include expenses with respect to an escort under paragraph (8) of subsection (a), whether or not on a reimbursable basis.
+
+(4) The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available at the time of reimbursement for the payment of such expenses.
 
 ### Statutory Notes
 
@@ -717,6 +735,14 @@ In subsection (b), the words “If an individual pays” are substituted for the
 In subsection (c), 5:2162 (1st sentence) is omitted since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The introductory language is substituted for 5:2162 (1st 22 words of 2d sentence). The words “ascertained and” are omitted as surplusage.
 
 #### Amendments
+2013—Subsec. (a)(8). Pub. L. 113–66, § 621(e), substituted “and travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section464&num=0&edition=prelim)” for “and roundtrip transportation and prescribed allowances”.
+
+Subsec. (a)(9). Pub. L. 113–66, § 651(b), inserted “or inurnment” after “Interment”.
+
+Subsec. (f). Pub. L. 113–66, § 651(c), substituted “The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section only on a reimbursable basis.” for “The Secretary concerned shall pay all other expenses authorized to be paid under this subsection only on a reimbursable basis.”
+
+Subsec. (g). Pub. L. 113–66, § 651(a)(2), added subsec. (g).
+
 2011—Subsec. (c). Pub. L. 112–81 substituted “The” for “Only the” in introductory provisions, added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, and substituted “paragraphs (1) through (4)” for “clauses (1)–(3)” in par. (5).
 
 2008—Subsec. (a)(8). Pub. L. 110–181 inserted at end “When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; [10 U.S.C. 1482](./chapter-075-deceased-personnel.md#section-1482) note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.”
@@ -944,8 +970,31 @@ The words “as authorized by this chapter, [section 103a(c) of this Title](http
 
 <a id="section-1488"></a>
 ## § 1488. Removal of remains
+**(a) Removal Upon Discontinuance of Installation Cemetery.—** If a cemetery on a military reservation, including an installation cemetery, has been or is to be discontinued, the Secretary concerned may provide for the removal of remains from that cemetery to any other cemetery.
 
-If a cemetery on a military reservation, including an installation cemetery, has been or is to be discontinued, the Secretary concerned may provide for the removal of remains from that cemetery to any other cemetery. With respect to any deceased member of an armed force under his jurisdiction whose last service terminated honorably by death or otherwise, the Secretary may also provide for the removal of the remains from a place of temporary interment, or from an abandoned grave or cemetery, to a national cemetery.
+**(b) Removal From Temporary Interment or Abandoned Grave or Cemetery.—** With respect to any deceased member of an armed force under the jurisdiction of the Secretary concerned whose last service terminated honorably by death or otherwise, the Secretary may also provide for the removal of the remains from a place of temporary interment, or from an abandoned grave or cemetery, to a national cemetery.
+
+**(c) Removal of Remains of Certain Members With No Known Next of Kin.—**
+
+(1) The Secretary of the Army may authorize the removal of the remains of a covered member of the armed forces who is buried in an Army National Military Cemetery from the Army National Military Cemetery for transfer to any other cemetery.
+
+(2) The Secretary of the Army, with the concurrence of the Secretary of Veterans Affairs, may authorize the removal of the remains of a covered member of the armed forces who is buried in a cemetery of the National Cemetery System from that cemetery for transfer to any Army National Military Cemetery.
+
+(3) A removal of remains may not be authorized under this subsection unless the individual seeking the removal of the remains—
+
+  (A) demonstrates to the satisfaction of the Secretary of the Army that the member of the armed forces concerned has no known next of kin or other person who is interested in maintaining the place of burial; and
+
+  (B) undertakes full responsibility for all expenses of the removal of the remains and the reburial of the remains at another cemetery as authorized by this subsection.
+
+(4) In this subsection:
+
+  (A) The term “Army National Military Cemetery” means a cemetery specified in [section 4721(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4721/b&num=0&edition=prelim).
+
+  (B) The term “covered member of the armed forces” means a member of the armed forces who—
+
+    (i) has been awarded the Medal of Honor; and
+
+    (ii) has no known next of kin.
 
 ### Statutory Notes
 
@@ -955,6 +1004,9 @@ If a cemetery on a military reservation, including an installation cemetery, has
 | 1488 | 5:2160 (as applicable to armed forces). | July 15, 1954, ch. 507, § 10 (as applicable to armed forces), 68 Stat. 480. |
 
 The words “national cemeteries, other installation cemeteries, or” are omitted as surplusage.
+
+#### Amendments
+2014—Pub. L. 113–291 designated first sentence of existing provisions as subsec. (a) and inserted heading, designated second sentence of existing provisions as subsec. (b), inserted heading, and substituted “the jurisdiction of the Secretary concerned” for “his jurisdiction”, and added subsec. (c).
 
 
 <a id="section-1489"></a>
@@ -1047,7 +1099,7 @@ Pub. L. 98–94, title X, § 1032(b), Sept. 24, 1983, 97 Stat. 672, provided tha
 
 (1) To support a funeral honors detail under this section, the Secretary of a military department may provide the following:
 
-  (A) For a person who participates in a funeral honors detail (other than a person who is a member of the armed forces not in a retired status or an employee of the United States), either transportation (or reimbursement for transportation) and expenses or the daily stipend prescribed under paragraph (2).
+  (A) For a person who participates in a funeral honors detail (other than a person who is a member of the armed forces not in a retired status or an employee of the United States), either travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section464&num=0&edition=prelim) or the daily stipend prescribed under paragraph (2).
 
   (B) For members of a veterans organization or other organization referred to in subsection (b)(2) and for members of the armed forces in a retired status, materiel, equipment, and training.
 
@@ -1084,7 +1136,9 @@ Pub. L. 98–94, title X, § 1032(b), Sept. 24, 1983, 97 Stat. 672, provided tha
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (d)(3). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+2013—Subsec. (d)(1)(A). Pub. L. 113–66 substituted “travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section464&num=0&edition=prelim)” for “transportation (or reimbursement for transportation) and expenses”.
+
+Subsec. (d)(3). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
 2011—Subsec. (d)(3). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “495(a)(2)” for “435(a)(2)”.
 

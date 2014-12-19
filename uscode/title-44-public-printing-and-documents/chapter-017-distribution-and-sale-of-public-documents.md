@@ -7,9 +7,9 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44&num=0&edition=prelim
 ---
 <a id="section-1701"></a>
-## § 1701. Publications for public distribution to be distributed by the Public Printer; mailing lists
+## § 1701. Publications for public distribution to be distributed by the Director of the Government Publishing Office; mailing lists
 
-Money appropriated by any Act may not be used for services in an executive department or other Government establishment at the District of Columbia, in the work of addressing, wrapping, mailing, or otherwise dispatching a publication for public distribution, except maps, weather reports, and weather cards issued by them or for the purchase of material or supplies to be used in this work. The Public Printer shall perform this work at the Government Printing Office. The head of an executive department, independent office, and establishment of the Government at the District of Columbia, shall furnish from time to time to the Public Printer mailing lists, in convenient form, and changes in them, or penalty mail slips, for use in the public distribution of publications issued by the department or establishment. The Public Printer may furnish copies of a publication only in accordance with law or the instruction of the head of the department or establishment issuing the publication.
+Money appropriated by any Act may not be used for services in an executive department or other Government establishment at the District of Columbia, in the work of addressing, wrapping, mailing, or otherwise dispatching a publication for public distribution, except maps, weather reports, and weather cards issued by them or for the purchase of material or supplies to be used in this work. The Director of the Government Publishing Office shall perform this work at the Government Publishing Office. The head of an executive department, independent office, and establishment of the Government at the District of Columbia, shall furnish from time to time to the Director of the Government Publishing Office mailing lists, in convenient form, and changes in them, or penalty mail slips, for use in the public distribution of publications issued by the department or establishment. The Director of the Government Publishing Office may furnish copies of a publication only in accordance with law or the instruction of the head of the department or establishment issuing the publication.
 
 ### Statutory Notes
 
@@ -20,11 +20,17 @@ Based on 44 U.S. Code, 1964 ed., § 95 (Aug. 23, 1912, ch. 350, § 8, 37 Stat. 4
 
 The term “executive department, independent office, and establishment of the Government” is substituted for “executive department and other Government establishment” for uniformity.
 
+#### Amendments
+Pub. L. 113–235, § 1301(c), substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing in section catchline and text.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+
 
 <a id="section-1702"></a>
 ## § 1702. Superintendent of Documents; sale of documents
 
-The Public Printer shall appoint a competent person to act as Superintendent of Documents who shall be under the control of the Public Printer.
+The Director of the Government Publishing Office shall appoint a competent person to act as Superintendent of Documents who shall be under the control of the Director of the Government Publishing Office.
 
 ### Statutory Notes
 
@@ -35,11 +41,14 @@ This section incorporates only part of former section 73. The balance will be fo
 
 “House of Representatives Publications Distribution Service” is substituted for “House Folding Room” because of the change of name under authority of Public Law 88–652.
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
+
 
 <a id="section-1703"></a>
 ## § 1703. Superintendent of Documents: assistants, blanks, printing and binding
 
-The Public Printer, upon the requisition of the Superintendent of Documents, shall appoint necessary assistants, furnish blanks, and do the printing and binding required by his office. The Public Printer shall provide convenient office, storage, and distributing rooms for the use of the Superintendent of Documents.
+The Director of the Government Publishing Office, upon the requisition of the Superintendent of Documents, shall appoint necessary assistants, furnish blanks, and do the printing and binding required by his office. The Director of the Government Publishing Office shall provide convenient office, storage, and distributing rooms for the use of the Superintendent of Documents.
 
 ### Statutory Notes
 
@@ -47,40 +56,51 @@ The Public Printer, upon the requisition of the Superintendent of Documents, sha
 Based on 44 U.S. Code, 1964 ed., § 74 (Jan. 12, 1895, ch. 23, § 66, 28 Stat. 611).
 
 #### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in two places.
+
 1990—Pub. L. 101–520 struck out before period at end of first sentence “, the cost to be charged against the appropriation for printing and binding for Congress”.
 
 
 <a id="section-1704"></a>
 ## § 1704. Superintendent of Documents: pay of employees for night, Sunday, holiday, and overtime work
 
-Employees in the office of the Superintendent of Documents may be paid for night, Sunday, holiday, and overtime work at rates not in excess of the rates of additional pay for this work allowed other employees of the Government Printing Office under [section 305 of this title](./chapter-003-government-printing-office.md#section-305).
+Employees in the office of the Superintendent of Documents may be paid for night, Sunday, holiday, and overtime work at rates not in excess of the rates of additional pay for this work allowed other employees of the Government Publishing Office under [section 305 of this title](./chapter-003-government-publishing-office.md#section-305).
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 75 (Mar. 4, 1925, ch. 549, § 1, 43 Stat. 1300; May 13, 1926, ch. 294, § 1, 44 Stat. 552; Feb. 23, 1927, ch. 166, 44 Stat. 1160).
 
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+
 
 <a id="section-1705"></a>
 ## § 1705. Printing additional copies for sale to public; regulations
 
-The Public Printer shall print additional copies of a Government publication, not confidential in character, required for sale to the public by the Superintendent of Documents, subject to regulation by the Joint Committee on Printing and without interference with the prompt execution of printing for the Government.
+The Director of the Government Publishing Office shall print additional copies of a Government publication, not confidential in character, required for sale to the public by the Superintendent of Documents, subject to regulation by the Joint Committee on Printing and without interference with the prompt execution of printing for the Government.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 72 (May 11, 1922, ch. 189, § 1, 42 Stat. 541; June 30, 1932, ch. 314, § 307, 47 Stat. 409).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-1706"></a>
 ## § 1706. Printing and sale of extra copies of documents
 
-The Public Printer shall furnish to applicants giving notice before the matter is put to press, not exceeding two hundred and fifty to any one applicant, copies of bills, reports, and documents. The applicants shall pay in advance the price of the printing. The printing of these copies for private parties may not interfere with the printing for the Government.
+The Director of the Government Publishing Office shall furnish to applicants giving notice before the matter is put to press, not exceeding two hundred and fifty to any one applicant, copies of bills, reports, and documents. The applicants shall pay in advance the price of the printing. The printing of these copies for private parties may not interfere with the printing for the Government.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 114 (Jan. 12, 1895, ch. 23, § 42, 28 Stat. 607; June 30, 1932, ch. 314, § 307, 47 Stat. 409).
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 
 <a id="section-1707"></a>
@@ -100,7 +120,7 @@ Based on 44 U.S. Code, 1964 ed., § 79 (Mar. 28, 1904, No. 11, 33 Stat. 584).
 <a id="section-1708"></a>
 ## § 1708. Prices for sales copies of publications; crediting of receipts; resale by dealers; sales agents
 
-The price at which additional copies of Government publications are offered for sale to the public by the Superintendent of Documents shall be based on the cost as determined by the Public Printer plus 50 percent. A discount may be allowed as determined by the Superintendent of Documents, but the printing may not interfere with prompt execution of work for the Government.
+The price at which additional copies of Government publications are offered for sale to the public by the Superintendent of Documents shall be based on the cost as determined by the Director of the Government Publishing Office plus 50 percent. A discount may be allowed as determined by the Superintendent of Documents, but the printing may not interfere with prompt execution of work for the Government.
 
 ### Statutory Notes
 
@@ -108,6 +128,8 @@ The price at which additional copies of Government publications are offered for 
 Based on 44 U.S. Code, 1964 ed., § 72a (June 30, 1932, ch. 314, § 307, 47 Stat. 409).
 
 #### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in first par.
+
 2004—Pub. L. 108–447, in first par., substituted “may be allowed as determined by the Superintendent of Documents” for “of not to exceed 25 percent may be allowed to book dealers and quantity purchasers”.
 
 1993—Pub. L. 103–69, in first par., struck out at end “Receipts from general sales of publications in excess of the total costs and expenses incurred in connection with the publication and sale thereof, as determined by the Public Printer, shall be deposited in the Treasury of the United States to the credit of miscellaneous receipts.”
@@ -115,7 +137,7 @@ Based on 44 U.S. Code, 1964 ed., § 72a (June 30, 1932, ch. 314, § 307, 47 Stat
 1977—Pub. L. 95–94 substituted “Receipts from general sales of publications in excess of the total costs and expenses incurred in connection with the publication and sale thereof, as determined by the Public Printer,” for “Surplus receipts from sales”.
 
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–69 effective Oct. 1, 1993, see section 207(c) of Pub. L. 103–69, set out as a note under [section 309 of this title](./chapter-003-government-printing-office.md#section-309).
+Amendment by Pub. L. 103–69 effective Oct. 1, 1993, see section 207(c) of Pub. L. 103–69, set out as a note under [section 309 of this title](./chapter-003-government-publishing-office.md#section-309).
 
 #### Effective Date of 1977 Amendment
 Pub. L. 95–94, title IV, § 409(b), Aug. 5, 1977, 91 Stat. 683, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1977.”
@@ -124,23 +146,32 @@ Pub. L. 95–94, title IV, § 409(b), Aug. 5, 1977, 91 Stat. 683, provided that:
 <a id="section-1709"></a>
 ## § 1709. Blank forms: printing and sale to public
 
-The Public Printer may print for sale by the Superintendent of Documents to the public, upon prepayment, additional copies of approved Government blank forms.
+The Director of the Government Publishing Office may print for sale by the Superintendent of Documents to the public, upon prepayment, additional copies of approved Government blank forms.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 94 (June 7, 1924, ch. 303, § 1, 43 Stat. 592).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-1710"></a>
 ## § 1710. Index of documents: number and distribution
 
-The Superintendent of Documents, at the close of each regular session of Congress, shall prepare and publish a comprehensive index of public documents, upon a plan approved by the Joint Committee on Printing. The Public Printer shall, immediately upon its publication, deliver to him a copy of every document printed by the Government Printing Office. The head of each executive department, independent agency and establishment of the Government shall deliver to him a copy of every document issued or published by the department, bureau, or office not confidential in character. He shall also prepare and print in one volume a consolidated index of Congressional documents, and shall index single volumes of documents as the Joint Committee on Printing directs. Two thousand copies each of the comprehensive index and of the consolidated index shall be printed and bound in addition to the usual number, two hundred for the Senate, eight hundred for the House of Representatives and one thousand for distribution by the Superintendent of Documents.
+The Superintendent of Documents, at the close of each regular session of Congress, shall prepare and publish a comprehensive index of public documents, upon a plan approved by the Joint Committee on Printing. The Director of the Government Publishing Office shall, immediately upon its publication, deliver to him a copy of every document printed by the Government Publishing Office. The head of each executive department, independent agency and establishment of the Government shall deliver to him a copy of every document issued or published by the department, bureau, or office not confidential in character. He shall also prepare and print in one volume a consolidated index of Congressional documents, and shall index single volumes of documents as the Joint Committee on Printing directs. Two thousand copies each of the comprehensive index and of the consolidated index shall be printed and bound in addition to the usual number, two hundred for the Senate, eight hundred for the House of Representatives and one thousand for distribution by the Superintendent of Documents.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 76 (Jan. 12, 1895, ch. 23, § 62, 28 Stat. 610).
+
+#### Amendments
+2014—Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer”.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
 
 
 <a id="section-1711"></a>
@@ -155,31 +186,40 @@ Based on 44 U.S. Code, 1964 ed., § 77 (Jan. 12 1895, ch. 23, § 69, 28 Stat. 61
 
 
 <a id="section-1712"></a>
-## § 1712. Documents for use of the Public Printer
+## § 1712. Documents for use of the Director of the Government Publishing Office
 
-The Public Printer may retain out of all documents, bills, and resolutions printed the number of copies absolutely needful for the official use of the Government Printing Office, not exceeding five of each.
+The Director of the Government Publishing Office may retain out of all documents, bills, and resolutions printed the number of copies absolutely needful for the official use of the Government Publishing Office, not exceeding five of each.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 81 (Jan. 12, 1895, ch. 23, § 73, 28 Stat. 618).
 
+#### Amendments
+2014—Pub. L. 113–235, § 1301(c), substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and text.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+
 
 <a id="section-1713"></a>
 ## § 1713. Documents to be delivered to the Executive Mansion
 
-The Public Printer shall deliver to the Executive Mansion two copies of each document, bill, and resolution as soon as printed and ready for distribution.
+The Director of the Government Publishing Office shall deliver to the Executive Mansion two copies of each document, bill, and resolution as soon as printed and ready for distribution.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 80 (Jan. 12, 1895, ch. 23, § 88, 28 Stat. 622).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-1714"></a>
 ## § 1714. Publications for use of National Archives and Records Administration
 
-The Superintendent of Documents shall furnish, without cost, copies of publications available for free distribution.
+The Director of the Government Publishing Office shall print and deliver to the National Archives and Records Administration for use by the Archivist of the United States, including use by the Presidential Library established for the President during whose term the documents were issued, which shall be chargeable to Congress three copies each of the following publications:
 
 ### Statutory Notes
 
@@ -187,6 +227,8 @@ The Superintendent of Documents shall furnish, without cost, copies of publicati
 Based on 44 U.S. Code, 1964 ed., § 215a (Jan. 12, 1895, ch. 23, § —, as added June 17, 1935, ch. 267, 49 Stat. 386, and amended June 30, 1949, ch. 288, title I, § 104(a), 63 Stat. 381; Oct. 15, 1966, Pub. L. 89–678, 80 Stat. 956.)
 
 #### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in introductory provisions.
+
 1984—Pub. L. 98–497 substituted “National Archives and Records Administration” for “General Services Administration” in section catchline and text.
 
 #### Effective Date of 1984 Amendment
@@ -196,7 +238,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 <a id="section-1715"></a>
 ## § 1715. Publications for department or officer or for congressional committees
 
-When printing not bearing a congressional number, except confidential matter, blank forms, and circular letters not of a public character, is done for a department or officer of the Government, or not of a confidential character, is done for use of congressional committees, two copies shall be sent, unless withheld by order of the committee, by the Public Printer to the Senate and House of Representatives libraries, respectively, and one copy each to the document rooms of the Senate and House of Representatives, for reference; and these copies may not be removed.
+When printing not bearing a congressional number, except confidential matter, blank forms, and circular letters not of a public character, is done for a department or officer of the Government, or not of a confidential character, is done for use of congressional committees, two copies shall be sent, unless withheld by order of the committee, by the Director of the Government Publishing Office to the Senate and House of Representatives libraries, respectively, and one copy each to the document rooms of the Senate and House of Representatives, for reference; and these copies may not be removed.
 
 ### Statutory Notes
 
@@ -204,6 +246,9 @@ When printing not bearing a congressional number, except confidential matter, bl
 Based on 44 U.S. Code, 1964 ed., § 217 (part) (Jan. 12, 1895, ch. 23, § 58, 28 Stat. 610; Mar. 1, 1907, ch. 2284, § 4, 34 Stat. 1014).
 
 The last clause of this section is eliminated, as superseded by former section 85, now found in section 1903 of the revision.
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 
 <a id="section-1716"></a>
@@ -220,22 +265,21 @@ Based on 44 U.S. Code, 1964 ed., § 91a (R.S. § 504).
 <a id="section-1717"></a>
 ## § 1717. Documents and reports for foreign legations
 
-Documents and reports may be furnished to foreign legations to the United States upon request stating those desired and requisition upon the Public Printer by the Secretary of State. Gratuitous distribution may only be made to legations whose Governments furnish to legations from the United States copies of their printed and legislative documents desired.
+Documents and reports may be furnished to foreign legations to the United States upon request stating those desired and requisition upon the Director of the Government Publishing Office by the Secretary of State. Gratuitous distribution may only be made to legations whose Governments furnish to legations from the United States copies of their printed and legislative documents desired.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 91 (Jan. 12, 1895, ch. 23, § 75, 28 Stat. 620).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-1718"></a>
 ## § 1718. Distribution of Government publications to the Library of Congress
 
-Confidential matter, blank forms, and circular letters not of a public character shall be excepted.
-In addition, there shall be delivered as printed to the Library of Congress:
-ten copies of each House document and report, unbound;
-ten copies of each Senate document and report, unbound; and
-ten copies of each private bill and resolution and fifty copies of the laws in slip form.
+There shall be printed and furnished to the Library of Congress for official use in the District of Columbia not to exceed twenty-five copies of:
 
 ### Statutory Notes
 
@@ -302,9 +346,12 @@ Based on 44 U.S. Code, 1964 ed., § 93 (Jan. 12, 1895, ch. 23, § 95, 28 Stat. 6
 <a id="section-1722"></a>
 ## § 1722. Departmental distribution of publications
 
-Government publications printed for or received by the executive departments, whether for official use or for distribution, except those required by [section 1701 of this title](./chapter-017-distribution-and-sale-of-public-documents.md#section-1701) to be distributed by the Public Printer, shall be distributed by a competent person detailed to this duty in each department by the head of the department. He shall prevent duplication and make detailed report to the head of the department.
+Government publications printed for or received by the executive departments, whether for official use or for distribution, except those required by [section 1701 of this title](./chapter-017-distribution-and-sale-of-public-documents.md#section-1701) to be distributed by the Director of the Government Publishing Office, shall be distributed by a competent person detailed to this duty in each department by the head of the department. He shall prevent duplication and make detailed report to the head of the department.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 96 (Jan. 12, 1895, ch. 23, § 92, 28 Stat. 623; May 29, 1928, ch. 901, § 1(2), 45 Stat. 986).
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.

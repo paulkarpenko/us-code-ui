@@ -307,8 +307,8 @@ As used in this chapter—
 
   (A) any building and loan association, savings and loan association, or homestead association; or
 
-  (B) any cooperative bank (other than a cooperative bank which is a State bank as defined in subsection (a)(2) of this section),
-  which is organized and operating according to the laws of the State (as defined in subsection (a)(3) of this section) in which it is chartered or organized.
+  (B) any cooperative bank (other than a cooperative bank which is a State bank as defined in subsection (a)(2)),
+  which is organized and operating according to the laws of the State (as defined in subsection (a)(3)) in which it is chartered or organized.
 
 **(c) Definitions relating to depository institutions**
 
@@ -1162,7 +1162,7 @@ Pub. L. 111–203, title VI, § 603(a), July 21, 2010, 124 Stat. 1597, provided 
 Pub. L. 109–173, § 8(a)(4), Feb. 15, 2006, 119 Stat. 3610, provided in part that: “any funds resulting from the application of such paragraph (2) [of subsec. (d) of this section] prior to its repeal [see 2006 Amendment note above] shall be deposited into the general fund of the Deposit Insurance Fund”.
 
 #### Newly Insured Thrift Provision
-Pub. L. 101–73, title II, § 206(b), Aug. 9, 1989, 103 Stat. 205, provided that: “Any insured depository institution (as defined in section 3(c)(2) of the Federal Deposit Insurance Act [[12 U.S.C. 1813(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/c/2&num=0&edition=prelim)], as added by section 204(c) of this Act)— “(1) which was an insured institution (as defined in section 401(a) of the National Housing Act [[12 U.S.C. 1724(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1724/a&num=0&edition=prelim)], as in effect before the date of the enactment of this Act [Aug. 9, 1989]) on the day before the date of the enactment of this Act; “(2) the board of directors of which determined, before April 1, 1987, to terminate such association’s status as an insured institution (as so defined) as evidenced in sworn minutes of the board of directors meeting held before such date; “(3) had insured deposits of less than $11,000,000 on April 1, 1987; and “(4) was an insured institution (as so defined) for less than 1 year as of April 1, 1987, may cease to be a Savings Association Insurance Fund member and become a Bank Insurance Fund member at any time during the 2-year period beginning on the date of the enactment of this Act without the approval of the Federal Deposit Insurance Corporation under section 5(d)(2) of the Federal Deposit Insurance Act [[12 U.S.C. 1815(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1815/d/2&num=0&edition=prelim)] (as added by subsection (a) of this section) and without incurring any liability for any exit or entrance fee imposed under such section 5(d)(2).”
+Pub. L. 101–73, title II, § 206(b), Aug. 9, 1989, 103 Stat. 205, provided that: “Any insured depository institution (as defined in section 3(c)(2) of the Federal Deposit Insurance Act [[12 U.S.C. 1813(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/c/2&num=0&edition=prelim)], as added by section 204(c) of this Act)—“(1) which was an insured institution (as defined in section 401(a) of the National Housing Act [[12 U.S.C. 1724(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1724/a&num=0&edition=prelim)], as in effect before the date of the enactment of this Act [Aug. 9, 1989]) on the day before the date of the enactment of this Act; “(2) the board of directors of which determined, before April 1, 1987, to terminate such association’s status as an insured institution (as so defined) as evidenced in sworn minutes of the board of directors meeting held before such date; “(3) had insured deposits of less than $11,000,000 on April 1, 1987; and “(4) was an insured institution (as so defined) for less than 1 year as of April 1, 1987, may cease to be a Savings Association Insurance Fund member and become a Bank Insurance Fund member at any time during the 2-year period beginning on the date of the enactment of this Act without the approval of the Federal Deposit Insurance Corporation under section 5(d)(2) of the Federal Deposit Insurance Act [[12 U.S.C. 1815(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1815/d/2&num=0&edition=prelim)] (as added by subsection (a) of this section) and without incurring any liability for any exit or entrance fee imposed under such section 5(d)(2).”
 
 #### Definition of “Commercial Firm”
 Pub. L. 111–203, title VI, § 602, July 21, 2010, 124 Stat. 1596, provided that: “For purposes of this title [see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811)], a company is a ‘commercial firm’ if the annual gross revenues derived by the company and all of its affiliates from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 ([12 U.S.C. 1843(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim))) and, if applicable, from the ownership or control of one or more insured depository institutions, represent less than 15 percent of the consolidated annual gross revenues of the company.”
@@ -1394,7 +1394,7 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 (2) **Payments required**
 
-  (A) *In general* — Each insured depository institution shall pay to the Corporation the assessment imposed under subsection (b) of this section.
+  (A) *In general* — Each insured depository institution shall pay to the Corporation the assessment imposed under subsection (b).
 
   (B) *Form of payment* — The payments required under subparagraph (A) shall be made in such manner and at such time or times as the Board of Directors shall prescribe by regulation.
 
@@ -1483,7 +1483,7 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
   (E) Any action for the underpaid or overpaid amount of any assessment that became due before January 1, 2007, shall be subject to the statute of limitations for assessments in effect at the time the assessment became due.
 
-**(h) Forfeiture of rights for failure to comply with law** Should any national member bank or any insured national nonmember bank fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by such bank under any provision of this section, or fail to pay any assessment required to be paid by such bank under any provision of this chapter, and should the bank not correct such failure within thirty days after written notice has been given by the Corporation to an officer of the bank, citing this subsection, and stating that the bank has failed to make any report of condition under subsection (a) of this section or to file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under the National Bank Act, as amended [[12 U.S.C. 21](./chapter-002-national-banks.md#section-21) et seq.], the Federal Reserve Act, as amended [[12 U.S.C. 221](./chapter-003-federal-reserve-system.md#section-221) et seq.], or this chapter, shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged in the manner provided in the sixth paragraph of section 2 of the Federal Reserve Act, as amended [[12 U.S.C. 501a](./chapter-003-federal-reserve-system.md#section-501a)]. The remedies provided in this subsection and in subsections (f) and (g) of this section shall not be construed as limiting any other remedies against any insured depository institution, but shall be in addition thereto.
+**(h) Forfeiture of rights for failure to comply with law** Should any national member bank or any insured national nonmember bank fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by such bank under any provision of this section, or fail to pay any assessment required to be paid by such bank under any provision of this chapter, and should the bank not correct such failure within thirty days after written notice has been given by the Corporation to an officer of the bank, citing this subsection, and stating that the bank has failed to make any report of condition under subsection (a) of this section or to file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under the National Bank Act, as amended [[12 U.S.C. 21](./chapter-002-national-banks.md#section-21) et seq.], the Federal Reserve Act, as amended [[12 U.S.C. 221](./chapter-003-federal-reserve-system.md#section-221) et seq.], or this chapter, shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged in the manner provided in the sixth paragraph of section 2 of the Federal Reserve Act, as amended [[12 U.S.C. 501a](./chapter-003-federal-reserve-system.md#section-501a)]. The remedies provided in this subsection and in subsections (f) and (g) shall not be construed as limiting any other remedies against any insured depository institution, but shall be in addition thereto.
 
 **(i) Insurance of trust funds**
 
@@ -1750,7 +1750,7 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 (2) **Annual maximum amount limitation** — The amount of any offset allowed for any savings association under paragraph (1) for any calendar year beginning before 1993 shall not exceed an amount which is equal to 20 percent of such association’s pro rata share of the statutorily prescribed amount (as computed for such calendar year).
 
-(3) **Offsets in calendar years beginning after 1992** — Notwithstanding any other provision of law, a savings association may offset such association’s pro rata share of the statutorily prescribed amount against any premium assessed against such association under subsection (b) of this section for any calendar year beginning after 1992.
+(3) **Offsets in calendar years beginning after 1992** — Notwithstanding any other provision of law, a savings association may offset such association’s pro rata share of the statutorily prescribed amount against any premium assessed against such association under subsection (b) for any calendar year beginning after 1992.
 
 (4) **Transferability** — No right, title, or interest of any insured depository institution in or with respect to its pro rata share of the secondary reserve shall be assignable or transferable whether by operation of law or otherwise, except to the extent that the Corporation may provide for transfer of such pro rata share in cases of merger or consolidation, transfer of bulk assets or assumption of liabilities, and similar transactions, as defined by the Corporation for purposes of this paragraph.
 
@@ -2467,7 +2467,7 @@ Nothing contained in section 201 of Pub. L. 89–695, which amended this section
 
     (iii) notify the insured depository institution of the date (not less than 30 days after notice under this subparagraph) and place for a hearing before the Board of Directors (or any person designated by the Board) with respect to the termination of the institution’s insured status.
 
-(3) **Hearing; termination** — If, on the basis of the evidence presented at a hearing before the Board of Directors (or any person designated by the Board for such purpose), in which all issues shall be determined on the record pursuant to [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) and the written findings of the Board of Directors (or such person) with respect to such evidence (which shall be conclusive), the Board of Directors finds that any unsafe or unsound practice or condition or any violation specified in the notice to an insured depository institution under paragraph (2)(B) or subsection (w) of this section has been established, the Board of Directors may issue an order terminating the insured status of such depository institution effective as of a date subsequent to such finding.
+(3) **Hearing; termination** — If, on the basis of the evidence presented at a hearing before the Board of Directors (or any person designated by the Board for such purpose), in which all issues shall be determined on the record pursuant to [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) and the written findings of the Board of Directors (or such person) with respect to such evidence (which shall be conclusive), the Board of Directors finds that any unsafe or unsound practice or condition or any violation specified in the notice to an insured depository institution under paragraph (2)(B) or subsection (w) has been established, the Board of Directors may issue an order terminating the insured status of such depository institution effective as of a date subsequent to such finding.
 
 (4) **Appearance; consent to termination** — Unless the depository institution shall appear at the hearing by a duly authorized representative, it shall be deemed to have consented to the termination of its status as an insured depository institution and termination of such status thereupon may be ordered.
 
@@ -2516,7 +2516,7 @@ Nothing contained in section 201 of Pub. L. 89–695, which amended this section
 
   (A) issue a temporary order terminating deposit insurance; or
 
-  (B) issue a final order terminating deposit insurance (other than under subsection (p) or (q) of this section);
+  (B) issue a final order terminating deposit insurance (other than under subsection (p) or (q));
   shall be made by the Board of Directors and may not be delegated.
 
 (10) **Low- to moderate-income housing lender** — In making any determination regarding the termination of insurance of a solvent savings association, the Corporation may consider the extent of the association’s low- to moderate-income housing loans.
@@ -2533,7 +2533,7 @@ Nothing contained in section 201 of Pub. L. 89–695, which amended this section
 
 (5) This section shall apply, in the same manner as it applies to any insured depository institution for which the appropriate Federal banking agency is the Comptroller of the Currency, to any national banking association chartered by the Comptroller of the Currency, including an uninsured association.
 
-(6) **Affirmative action to correct conditions resulting from violations or practices.—** — The authority to issue an order under this subsection and subsection (c) of this section which requires an insured depository institution or any institution-affiliated party to take affirmative action to correct or remedy any conditions resulting from any violation or practice with respect to which such order is issued includes the authority to require such depository institution or such party to—
+(6) **Affirmative action to correct conditions resulting from violations or practices.—** — The authority to issue an order under this subsection and subsection (c) which requires an insured depository institution or any institution-affiliated party to take affirmative action to correct or remedy any conditions resulting from any violation or practice with respect to which such order is issued includes the authority to require such depository institution or such party to—
 
   (A) make restitution or provide reimbursement, indemnification, or guarantee against loss if—
 
@@ -2551,27 +2551,27 @@ Nothing contained in section 201 of Pub. L. 89–695, which amended this section
 
   (F) take such other action as the banking agency determines to be appropriate.
 
-(7) **Authority to limit activities.—** — The authority to issue an order under this subsection or subsection (c) of this section includes the authority to place limitations on the activities or functions of an insured depository institution or any institution-affiliated party.
+(7) **Authority to limit activities.—** — The authority to issue an order under this subsection or subsection (c) includes the authority to place limitations on the activities or functions of an insured depository institution or any institution-affiliated party.
 
 (8) **Unsatisfactory asset quality, management, earnings, or liquidity as unsafe or unsound practice.—** — If an insured depository institution receives, in its most recent report of examination, a less-than-satisfactory rating for asset quality, management, earnings, or liquidity, the appropriate Federal banking agency may (if the deficiency is not corrected) deem the institution to be engaging in an unsafe or unsound practice for purposes of this subsection.
 
 (9) [Repealed]
 
-(10) **Standard for certain orders.—** — No authority under this subsection or subsection (c) of this section to prohibit any institution-affiliated party from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property may be exercised unless the appropriate Federal banking agency meets the standards of Rule 65 of the Federal Rules of Civil Procedure, without regard to the requirement of such rule that the applicant show that the injury, loss, or damage is irreparable and immediate.
+(10) **Standard for certain orders.—** — No authority under this subsection or subsection (c) to prohibit any institution-affiliated party from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property may be exercised unless the appropriate Federal banking agency meets the standards of Rule 65 of the Federal Rules of Civil Procedure, without regard to the requirement of such rule that the applicant show that the injury, loss, or damage is irreparable and immediate.
 
 **(c) Temporary cease-and-desist orders**
 
-(1) Whenever the appropriate Federal banking agency shall determine that the violation or threatened violation or the unsafe or unsound practice or practices, specified in the notice of charges served upon the depository institution or any institution-affiliated party pursuant to paragraph (1) of subsection (b) of this section, or the continuation thereof, is likely to cause insolvency or significant dissipation of assets or earnings of the depository institution, or is likely to weaken the condition of the depository institution or otherwise prejudice the interests of its depositors prior to the completion of the proceedings conducted pursuant to paragraph (1) of subsection (b) of this section, the agency may issue a temporary order requiring the depository institution or such party to cease and desist from any such violation or practice and to take affirmative action to prevent or remedy such insolvency, dissipation, condition, or prejudice pending completion of such proceedings. Such order may include any requirement authorized under subsection (b)(6) of this section. Such order shall become effective upon service upon the depository institution or such institution-affiliated party and, unless set aside, limited, or suspended by a court in proceedings authorized by paragraph (2) of this subsection, shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the agency shall dismiss the charges specified in such notice, or if a cease-and-desist order is issued against the depository institution or such party, until the effective date of such order.
+(1) Whenever the appropriate Federal banking agency shall determine that the violation or threatened violation or the unsafe or unsound practice or practices, specified in the notice of charges served upon the depository institution or any institution-affiliated party pursuant to paragraph (1) of subsection (b) of this section, or the continuation thereof, is likely to cause insolvency or significant dissipation of assets or earnings of the depository institution, or is likely to weaken the condition of the depository institution or otherwise prejudice the interests of its depositors prior to the completion of the proceedings conducted pursuant to paragraph (1) of subsection (b) of this section, the agency may issue a temporary order requiring the depository institution or such party to cease and desist from any such violation or practice and to take affirmative action to prevent or remedy such insolvency, dissipation, condition, or prejudice pending completion of such proceedings. Such order may include any requirement authorized under subsection (b)(6). Such order shall become effective upon service upon the depository institution or such institution-affiliated party and, unless set aside, limited, or suspended by a court in proceedings authorized by paragraph (2) of this subsection, shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the agency shall dismiss the charges specified in such notice, or if a cease-and-desist order is issued against the depository institution or such party, until the effective date of such order.
 
 (2) Within ten days after the depository institution concerned or any institution-affiliated party has been served with a temporary cease-and-desist order, the depository institution or such party may apply to the United States district court for the judicial district in which the home office of the depository institution is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the depository institution or such party under paragraph (1) of subsection (b) of this section, and such court shall have jurisdiction to issue such injunction.
 
 (3) **Incomplete or inaccurate records.—**
 
-  (A) *Temporary order.—* — If a notice of charges served under subsection (b)(1) of this section specifies, on the basis of particular facts and circumstances, that an insured depository institution’s books and records are so incomplete or inaccurate that the appropriate Federal banking agency is unable, through the normal supervisory process, to determine the financial condition of that depository institution or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that depository institution, the agency may issue a temporary order requiring—
+  (A) *Temporary order.—* — If a notice of charges served under subsection (b)(1) specifies, on the basis of particular facts and circumstances, that an insured depository institution’s books and records are so incomplete or inaccurate that the appropriate Federal banking agency is unable, through the normal supervisory process, to determine the financial condition of that depository institution or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that depository institution, the agency may issue a temporary order requiring—
 
     (i) the cessation of any activity or practice which gave rise, whether in whole or in part, to the incomplete or inaccurate state of the books or records; or
 
-    (ii) affirmative action to restore such books or records to a complete and accurate state, until the completion of the proceedings under subsection (b)(1) of this section.
+    (ii) affirmative action to restore such books or records to a complete and accurate state, until the completion of the proceedings under subsection (b)(1).
 
   (B) *Effective period.—* — Any temporary order issued under subparagraph (A)—
 
@@ -2579,7 +2579,7 @@ Nothing contained in section 201 of Pub. L. 89–695, which amended this section
 
     (ii) unless set aside, limited, or suspended by a court in proceedings under paragraph (2), shall remain in effect and enforceable until the earlier of—
 
-      (I) the completion of the proceeding initiated under subsection (b)(1) of this section in connection with the notice of charges; or
+      (I) the completion of the proceeding initiated under subsection (b)(1) in connection with the notice of charges; or
 
       (II) the date the appropriate Federal banking agency determines, by examination or otherwise, that the insured depository institution’s books and records are accurate and reflect the financial condition of the depository institution.
 
@@ -2646,7 +2646,7 @@ Nothing contained in section 201 of Pub. L. 89–695, which amended this section
 
     (i) an institution-affiliated party has committed a violation of any provision of subchapter II of chapter 53 of title 31 and such violation was not inadvertent or unintentional;
 
-    (ii) an officer or director of an insured depository institution has knowledge that an institution-affiliated party of the insured depository institution has violated any such provision or any provision of law referred to in subsection (g)(1)(A)(ii) of this section;
+    (ii) an officer or director of an insured depository institution has knowledge that an institution-affiliated party of the insured depository institution has violated any such provision or any provision of law referred to in subsection (g)(1)(A)(ii);
 
     (iii) an officer or director of an insured depository institution has committed any violation of the Depository Institution Management Interlocks Act [[12 U.S.C. 3201](./chapter-033-depository-institution-management-interlocks.md#section-3201) et seq.]; or
 
@@ -2667,7 +2667,7 @@ Nothing contained in section 201 of Pub. L. 89–695, which amended this section
 
     (i) shall become effective upon service; and
 
-    (ii) unless a court issues a stay of such order under subsection (f) of this section, shall remain in effect and enforceable until—
+    (ii) unless a court issues a stay of such order under subsection (f), shall remain in effect and enforceable until—
 
       (I) the date the appropriate Federal banking agency dismisses the charges contained in the notice served under paragraph (1) or (2) with respect to such party; or
 
@@ -2691,11 +2691,11 @@ Nothing contained in section 201 of Pub. L. 89–695, which amended this section
 
 (7) **Industrywide Prohibition.—**
 
-  (A) *In general.—* — Except as provided in subparagraph (B), any person who, pursuant to an order issued under this subsection or subsection (g) of this section, has been removed or suspended from office in an insured depository institution or prohibited from participating in the conduct of the affairs of an insured depository institution may not, while such order is in effect, continue or commence to hold any office in, or participate in any manner in the conduct of the affairs of—
+  (A) *In general.—* — Except as provided in subparagraph (B), any person who, pursuant to an order issued under this subsection or subsection (g), has been removed or suspended from office in an insured depository institution or prohibited from participating in the conduct of the affairs of an insured depository institution may not, while such order is in effect, continue or commence to hold any office in, or participate in any manner in the conduct of the affairs of—
 
     (i) any insured depository institution;
 
-    (ii) any institution treated as an insured bank under subsection (b)(3) or (b)(4) of this section, or as a savings association under subsection (b)(9) 1 of this section;
+    (ii) any institution treated as an insured bank under subsection (b)(3) or (b)(4), or as a savings association under subsection (b)(9);1
 
     (iii) any insured credit union under the Federal Credit Union Act [[12 U.S.C. 1751](./chapter-014-federal-credit-unions.md#section-1751) et seq.];
 
@@ -2714,7 +2714,7 @@ Nothing contained in section 201 of Pub. L. 89–695, which amended this section
 
   (C) *Violation of paragraph treated as violation of order.—* — Any violation of subparagraph (A) by any person who is subject to an order described in such subparagraph shall be treated as a violation of the order.
 
-  (D) *“Appropriate federal financial institutions regulatory agency” defined.—* — For purposes of this paragraph and subsection (j) of this section, the term “appropriate Federal financial institutions regulatory agency” means—
+  (D) *“Appropriate federal financial institutions regulatory agency” defined.—* — For purposes of this paragraph and subsection (j), the term “appropriate Federal financial institutions regulatory agency” means—
 
     (i) the appropriate Federal banking agency, in the case of an insured depository institution;
 
@@ -2757,9 +2757,9 @@ Nothing contained in section 201 of Pub. L. 89–695, which amended this section
 
     (i) *Copy.—* — A copy of any order under subparagraph (C) shall also be served upon any depository institution that the subject of the order is affiliated with at the time the order is issued, whereupon the institution-affiliated party who is subject to the order (if a director or an officer) shall cease to be a director or officer of such depository institution.
 
-    (ii) *Effect of acquittal.—A finding of not guilty or other disposition of the charge shall not preclude the agency from instituting proceedings after such finding or disposition to remove such party from office or to prohibit further participation in depository institution affairs, pursuant to paragraph (1), (2), or (3) of subsection (e) of this section.*
+    (ii) *Effect of acquittal.—* — A finding of not guilty or other disposition of the charge shall not preclude the agency from instituting proceedings after such finding or disposition to remove such party from office or to prohibit further participation in depository institution affairs, pursuant to paragraph (1), (2), or (3) of subsection (e) of this section.
 
-    (iii) *Effective period.—Any notice of suspension or order of removal issued under this paragraph shall remain effective and outstanding until the completion of any hearing or appeal authorized under paragraph (3) unless terminated by the agency.*
+    (iii) *Effective period.—* — Any notice of suspension or order of removal issued under this paragraph shall remain effective and outstanding until the completion of any hearing or appeal authorized under paragraph (3) unless terminated by the agency.
 
   (E) *Relevant depository institution.—* — For purposes of this subsection, the term “relevant depository institution” means any depository institution of which the party is or was an institution-affiliated party at the time at which—
 
@@ -2789,7 +2789,7 @@ Nothing contained in section 201 of Pub. L. 89–695, which amended this section
 
     (i) violates any law or regulation;
 
-    (ii) violates any final order or temporary order issued pursuant to subsection (b), (c), (e), (g), or (s) of this section or any final order under section 1831o or 1831p–1 of this title;
+    (ii) violates any final order or temporary order issued pursuant to subsection (b), (c), (e), (g), or (s) or any final order under section 1831o or 1831p–1 of this title;
 
     (iii) violates any condition imposed in writing by a Federal banking agency in connection with any action on any application, notice, or other request by the depository institution or institution-affiliated party; or
 
@@ -2884,11 +2884,11 @@ Nothing contained in section 201 of Pub. L. 89–695, which amended this section
 
     (ii) *State proceeding.—* — If, in the case of any proceeding in a State court, the court determines that rules of civil procedure available under the laws of such State provide substantially similar protections to a party’s right to due process as Rule 65 (as modified with respect to such proceeding by clause (i)), the relief sought under subparagraph (A) may be requested under the laws of such State.
 
-**(j) Criminal penalty** Whoever, being subject to an order in effect under subsection (e) or (g) of this section, without the prior written approval of the appropriate Federal financial institutions regulatory agency, knowingly participates, directly or indirectly, in any manner (including by engaging in an activity specifically prohibited in such an order or in subsection (e)(6) of this section) in the conduct of the affairs of—
+**(j) Criminal penalty** Whoever, being subject to an order in effect under subsection (e) or (g), without the prior written approval of the appropriate Federal financial institutions regulatory agency, knowingly participates, directly or indirectly, in any manner (including by engaging in an activity specifically prohibited in such an order or in subsection (e)(6)) in the conduct of the affairs of—
 
 (1) any insured depository institution;
 
-(2) any institution treated as an insured bank under subsection (b)(3) or (b)(4) of this section;
+(2) any institution treated as an insured bank under subsection (b)(3) or (b)(4);
 
 (3) any insured credit union (as defined in section 101(7) of the Federal Credit Union Act [[12 U.S.C. 1752(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1752/7&num=0&edition=prelim)]); or
 
@@ -2940,7 +2940,7 @@ shall be fined not more than $1,000,000, imprisoned for not more than 5 years, o
   (A) has failed to establish and maintain the procedures described in paragraph (1); or
 
   (B) has failed to correct any problem with the procedures maintained by such depository institution which was previously reported to the depository institution by such agency,
-  the agency shall issue an order in the manner prescribed in subsection (b) or (c) of this section requiring such depository institution to cease and desist from its violation of this subsection or regulations prescribed under this subsection.
+  the agency shall issue an order in the manner prescribed in subsection (b) or (c) requiring such depository institution to cease and desist from its violation of this subsection or regulations prescribed under this subsection.
 
 **(t) Authority of FDIC to take enforcement action against insured depository institutions and institution-affiliated parties**
 
@@ -2994,7 +2994,7 @@ shall be fined not more than $1,000,000, imprisoned for not more than 5 years, o
 
 (2) **Hearings** — All hearings on the record with respect to any notice of charges issued by a Federal banking agency shall be open to the public, unless the agency, in its discretion, determines that holding an open hearing would be contrary to the public interest.
 
-(3) **Transcript of hearing** — A transcript that includes all testimony and other documentary evidence shall be prepared for all hearings commenced pursuant to subsection (i) of this section. A transcript of public hearings shall be made available to the public pursuant to [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim).
+(3) **Transcript of hearing** — A transcript that includes all testimony and other documentary evidence shall be prepared for all hearings commenced pursuant to subsection (i). A transcript of public hearings shall be made available to the public pursuant to [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim).
 
 (4) **Delay of publication under exceptional circumstances** — If the appropriate Federal banking agency makes a determination in writing that the publication of a final order pursuant to paragraph (1)(B) would seriously threaten the safety and soundness of an insured depository institution, the agency may delay the publication of the document for a reasonable time.
 
@@ -3036,7 +3036,7 @@ shall be fined not more than $1,000,000, imprisoned for not more than 5 years, o
 
     (i) *Duty to notify* — If an insured State depository institution has been convicted of any criminal offense under section 1956 or 1957 of title 18, the Attorney General shall provide to the Corporation a written notification of the conviction and shall include a certified copy of the order of conviction from the court rendering the decision.
 
-    (ii) *Notice of termination; pretermination hearing* — After receipt of written notification from the Attorney General by the Corporation of such a conviction, the Board of Directors shall issue to the insured depository institution a notice of its intention to terminate the insured status of the insured depository institution and schedule a hearing on the matter, which shall be conducted in all respects as a termination hearing pursuant to paragraphs (3) through (5) of subsection (a) of this section.
+    (ii) *Notice of termination; pretermination hearing* — After receipt of written notification from the Attorney General by the Corporation of such a conviction, the Board of Directors shall issue to the insured depository institution a notice of its intention to terminate the insured status of the insured depository institution and schedule a hearing on the matter, which shall be conducted in all respects as a termination hearing pursuant to paragraphs (3) through (5) of subsection (a).
 
   (B) *Conviction of title 31 offenses* — If an insured State depository institution is convicted of any criminal offense under section 5322 or 5324 of title 31 after receipt of written notification from the Attorney General by the Corporation, the Board of Directors may initiate proceedings to terminate the insured status of the insured depository institution in the manner described in subparagraph (A).
 
@@ -3060,7 +3060,7 @@ shall be fined not more than $1,000,000, imprisoned for not more than 5 years, o
 
   (B) publish notice of the termination of the insured status of the depository institution in the Federal Register.
 
-(4) **Temporary insurance of previously insured deposits** — Upon termination of the insured status of any State depository institution pursuant to paragraph (1), the deposits of such depository institution shall be treated in accordance with subsection (a)(7) of this section.
+(4) **Temporary insurance of previously insured deposits** — Upon termination of the insured status of any State depository institution pursuant to paragraph (1), the deposits of such depository institution shall be treated in accordance with subsection (a)(7).
 
 (5) **Successor liability** — This subsection shall not apply to a successor to the interests of, or a person who acquires, an insured depository institution that violated a provision of law described in paragraph (1), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this subsection or regulations prescribed under this subsection.
 
@@ -3193,7 +3193,7 @@ Subsec. (w)(1)(B). Pub. L. 103–325, § 411(c)(2)(A), substituted “section 53
 
 Subsec. (i)(4)(B). Pub. L. 103–204, § 25(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “A permanent or temporary injunction or restraining order shall be granted without bond upon a prima facie showing that money damages, restitution, or civil money penalties, as sought by such agency, is appropriate.”
 
-1992—Subsec. (a)(3). Pub. L. 102–550, § 1503(a)(2), inserted “of this subsection or subsection (w) of this section” after “subparagraph (B)”.
+1992—Subsec. (a)(3). Pub. L. 102–550, § 1503(a)(2), inserted “of this subsection or subsection (w)” after “subparagraph (B)”.
 
 Subsec. (e)(2). Pub. L. 102–550, § 1504(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Whenever, in the opinion of the appropriate Federal banking agency, any director or officer of an insured depository institution has committed any violation of the Depository Institution Management Interlocks Act, the agency may serve upon such director or officer a written notice of its intention to remove him from office.”
 
@@ -3203,7 +3203,7 @@ Subsec. (i)(1). Pub. L. 102–550, § 1603(d)(3), inserted reference to [section
 
 Pub. L. 102–550, § 1603(d)(2), amended directory language of Pub. L. 102–242, § 131(c)(2)(A). See 1991 Amendment note below.
 
-Subsec. (i)(2)(A)(ii). Pub. L. 102–550, § 1603(d)(4), substituted “subsection (b), (c), (e), (g), or (s) of this section or any final order under section 1831o or 1831p–1 of this title” for “subsection (b), (c), (e), (g), or (s) of this section, or final order under section 1831o of this title”.
+Subsec. (i)(2)(A)(ii). Pub. L. 102–550, § 1603(d)(4), substituted “subsection (b), (c), (e), (g), or (s) or any final order under section 1831o or 1831p–1 of this title” for “subsection (b), (c), (e), (g), or (s) of this section, or final order under section 1831o of this title”.
 
 Subsec. (q). Pub. L. 102–558, § 303(b)(6)(A), amended directory language of Pub. L. 102–242, § 302(e). See 1991 amendment note below. Pub. L. 102–550, § 1605(a)(5)(A), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, § 305, set out in a Repeal of Duplicative Provisions note under [section 1815 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1815).
 
@@ -3283,7 +3283,7 @@ Subsec. (b)(4). Pub. L. 101–73, § 902(a)(1)(B), which directed the substituti
 
 Subsec. (b)(6) to (8). Pub. L. 101–73, § 902(a)(1)(C), added pars. (6) to (8).
 
-Subsec. (c)(1). Pub. L. 101–73, § 902(a)(2)(A), substituted “insolvency or significant dissipation” for “insolvency or substantial dissipation”, struck out “seriously” before “weaken the condition of” and before “prejudice the interests of”, and inserted after first sentence “Such order may include any requirement authorized under subsection (b)(6)(B) of this section”.
+Subsec. (c)(1). Pub. L. 101–73, § 902(a)(2)(A), substituted “insolvency or significant dissipation” for “insolvency or substantial dissipation”, struck out “seriously” before “weaken the condition of” and before “prejudice the interests of”, and inserted after first sentence “Such order may include any requirement authorized under subsection (b)(6)(B)”.
 
 Pub. L. 101–73, § 901(d), substituted “depository institution” for “bank” wherever appearing.
 
@@ -3678,7 +3678,7 @@ Nothing contained in section 205 of Pub. L. 89–695 amending subsec. Fourth of 
 
 (1) **Regular and special examinations of depository institutions** — The cost of conducting any regular examination or special examination of any depository institution under subsection (b)(2), (b)(3), or (d) or of any entity described in [section 1813(q)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/q/2&num=0&edition=prelim) may be assessed by the Corporation against the institution or entity to meet the expenses of the Corporation in carrying out such examinations.
 
-(2) **Examination of affiliates** — The cost of conducting any examination of any affiliate of any insured depository institution under subsection (b)(4) of this section may be assessed by the Corporation against each affiliate which is examined to meet the Corporation’s expenses in carrying out such examination.
+(2) **Examination of affiliates** — The cost of conducting any examination of any affiliate of any insured depository institution under subsection (b)(4) may be assessed by the Corporation against each affiliate which is examined to meet the Corporation’s expenses in carrying out such examination.
 
 (3) **Assessment against depository institution in case of affiliate’s refusal to pay**
 
@@ -3695,7 +3695,7 @@ Nothing contained in section 205 of Pub. L. 89–695 amending subsec. Fourth of 
 
   (A) *Penalty imposed* — If any affiliate of any insured depository institution—
 
-    (i) refuses to permit an examiner appointed by the Board of Directors under subsection (b)(1) of this section to conduct an examination; or
+    (i) refuses to permit an examiner appointed by the Board of Directors under subsection (b)(1) to conduct an examination; or
 
     (ii) refuses to provide any information required to be disclosed in the course of any examination,
     the depository institution shall forfeit and pay a penalty of not more than $5,000 for each day that any such refusal continues.
@@ -4034,7 +4034,7 @@ Nothing contained in section 203 of Pub. L. 89–695 amending subsecs. (b) and (
 
 <a id="section-1820a"></a>
 ## § 1820a. Examination of investment companies
-**(a) Exclusive Commission authority** Except as provided in subsection (c) of this section, a Federal banking agency may not inspect or examine any registered investment company that is not a bank holding company or a savings and loan holding company.
+**(a) Exclusive Commission authority** Except as provided in subsection (c), a Federal banking agency may not inspect or examine any registered investment company that is not a bank holding company or a savings and loan holding company.
 
 **(b) Examination results and other information** The Commission shall provide to any Federal banking agency, upon request, the results of any examination, reports, records, or other information with respect to any registered investment company to the extent necessary for the agency to carry out its statutory responsibilities.
 
@@ -4398,7 +4398,7 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
       (II) subject to clause (ii), transfer any asset or liability of the institution in default (including assets and liabilities associated with any trust business) without any approval, assignment, or consent with respect to such transfer.
 
-    (ii) *Approval by appropriate Federal banking agency* — No transfer described in clause (i)(II) may be made to another depository institution (other than a new depository institution or a bridge depository institution established pursuant to subsection (m) or (n) of this section) without the approval of the appropriate Federal banking agency for such institution.
+    (ii) *Approval by appropriate Federal banking agency* — No transfer described in clause (i)(II) may be made to another depository institution (other than a new depository institution or a bridge depository institution established pursuant to subsection (m) or (n)) without the approval of the appropriate Federal banking agency for such institution.
 
   (H) *Payment of valid obligations* — The Corporation, as conservator or receiver, shall pay all valid obligations of the insured depository institution in accordance with the prescriptions and limitations of this chapter.
 
@@ -4753,7 +4753,7 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
   (C) the disaffirmance or repudiation of which the conservator or receiver determines, in the conservator’s or receiver’s discretion, will promote the orderly administration of the institution’s affairs.
 
-(2) **Timing of repudiation** — The conservator or receiver appointed for any insured depository institution in accordance with subsection (c) of this section shall determine whether or not to exercise the rights of repudiation under this subsection within a reasonable period following such appointment.
+(2) **Timing of repudiation** — The conservator or receiver appointed for any insured depository institution in accordance with subsection (c) shall determine whether or not to exercise the rights of repudiation under this subsection within a reasonable period following such appointment.
 
 (3) **Claims for damages for repudiation**
 
@@ -4779,7 +4779,7 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
     (i) deemed to include normal and reasonable costs of cover or other reasonable measures of damages utilized in the industries for such contract and agreement claims; and
 
-    (ii) paid in accordance with this subsection and subsection (i) of this section except as otherwise specifically provided in this section.
+    (ii) paid in accordance with this subsection and subsection (i) except as otherwise specifically provided in this section.
 
 (4) **Leases under which the institution is the lessee**
 
@@ -4796,7 +4796,7 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
     (ii) have no claim for damages under any acceleration clause or other penalty provision in the lease; and
 
-    (iii) have a claim for any unpaid rent, subject to all appropriate offsets and defenses, due as of the date of the appointment which shall be paid in accordance with this subsection and subsection (i) of this section.
+    (iii) have a claim for any unpaid rent, subject to all appropriate offsets and defenses, due as of the date of the appointment which shall be paid in accordance with this subsection and subsection (i).
 
 (5) **Leases under which the institution is the lessor**
 
@@ -4850,7 +4850,7 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
   (A) *Services performed before appointment* — In the case of any contract for services between any person and any insured depository institution for which the Corporation has been appointed conservator or receiver, any claim of such person for services performed before the appointment of the conservator or the receiver shall be—
 
-    (i) a claim to be paid in accordance with subsections (d) and (i) of this section; and
+    (i) a claim to be paid in accordance with subsections (d) and (i); and
 
     (ii) deemed to have arisen as of the date the conservator or receiver was appointed.
 
@@ -4872,7 +4872,7 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
     (iii) any right to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more contracts and agreements described in clause (i), including any master agreement for such contracts or agreements.
 
-  (B) *Applicability of other provisions* — Subsection (d)(12) of this section shall apply in the case of any judicial action or proceeding brought against any receiver referred to in subparagraph (A), or the insured depository institution for which such receiver was appointed, by any party to a contract or agreement described in subparagraph (A)(i) with such institution.
+  (B) *Applicability of other provisions* — Subsection (d)(12) shall apply in the case of any judicial action or proceeding brought against any receiver referred to in subparagraph (A), or the insured depository institution for which such receiver was appointed, by any party to a contract or agreement described in subparagraph (A)(i) with such institution.
 
   (C) *Certain transfers not avoidable*
 
@@ -5131,7 +5131,7 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
 **(f) Payment of insured deposits**
 
-(1) **In general** — In case of the liquidation of, or other closing or winding up of the affairs of, any insured depository institution, payment of the insured deposits in such institution shall be made by the Corporation as soon as possible, subject to the provisions of subsection (g) of this section, either by cash or by making available to each depositor a transferred deposit in a new insured depository institution in the same community or in another insured depository institution in an amount equal to the insured deposit of such depositor.
+(1) **In general** — In case of the liquidation of, or other closing or winding up of the affairs of, any insured depository institution, payment of the insured deposits in such institution shall be made by the Corporation as soon as possible, subject to the provisions of subsection (g), either by cash or by making available to each depositor a transferred deposit in a new insured depository institution in the same community or in another insured depository institution in an amount equal to the insured deposit of such depositor.
 
 (2) **Proof of claims** — The Corporation, in its discretion, may require proof of claims to be filed and may approve or reject such claims for insured deposits.
 
@@ -5143,13 +5143,13 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
 **(g) Subrogation of Corporation**
 
-(1) **In general** — Notwithstanding any other provision of Federal law, the law of any State, or the constitution of any State, the Corporation, upon the payment to any depositor as provided in subsection (f) of this section in connection with any insured depository institution or insured branch described in such subsection or the assumption of any deposit in such institution or branch by another insured depository institution pursuant to this section or [section 1823 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1823), shall be subrogated to all rights of the depositor against such institution or branch to the extent of such payment or assumption.
+(1) **In general** — Notwithstanding any other provision of Federal law, the law of any State, or the constitution of any State, the Corporation, upon the payment to any depositor as provided in subsection (f) in connection with any insured depository institution or insured branch described in such subsection or the assumption of any deposit in such institution or branch by another insured depository institution pursuant to this section or [section 1823 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1823), shall be subrogated to all rights of the depositor against such institution or branch to the extent of such payment or assumption.
 
 (2) **Dividends on subrogated amounts** — The subrogation of the Corporation under paragraph (1) with respect to any insured depository institution shall include the right on the part of the Corporation to receive the same dividends from the proceeds of the assets of such institution and recoveries on account of stockholders’ liability as would have been payable to the depositor on a claim for the insured deposit, but such depositor shall retain such claim for any uninsured or unassumed portion of the deposit.
 
 (3) **Waiver of certain claims** — With respect to any bank which closes after May 25, 1938, the Corporation shall waive, in favor only of any person against whom stockholders’ individual liability may be asserted, any claim on account of such liability in excess of the liability, if any, to the bank or its creditors, for the amount unpaid upon such stock in such bank; but any such waiver shall be effected in such manner and on such terms and conditions as will not increase recoveries or dividends on account of claims to which the Corporation is not subrogated.
 
-(4) **Applicability of State law** — Subject to subsection (d)(11) of this section, if the Corporation is appointed pursuant to subsection (c)(3) of this section, or determines not to invoke the authority conferred in subsection (c)(4) of this section, the rights of depositors and other creditors of any State depository institution shall be determined in accordance with the applicable provisions of State law.
+(4) **Applicability of State law** — Subject to subsection (d)(11), if the Corporation is appointed pursuant to subsection (c)(3), or determines not to invoke the authority conferred in subsection (c)(4), the rights of depositors and other creditors of any State depository institution shall be determined in accordance with the applicable provisions of State law.
 
 **(h) Conditions applicable to resolution proceedings**
 
@@ -5167,7 +5167,7 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
 **(i) Valuation of claims in default**
 
-(1) **In general** — Notwithstanding any other provision of Federal law or the law of any State and regardless of the method which the Corporation determines to utilize with respect to an insured depository institution in default or in danger of default, including transactions authorized under subsection (n) of this section and [section 1823(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1823/c&num=0&edition=prelim), this subsection shall govern the rights of the creditors (other than insured depositors) of such institution.
+(1) **In general** — Notwithstanding any other provision of Federal law or the law of any State and regardless of the method which the Corporation determines to utilize with respect to an insured depository institution in default or in danger of default, including transactions authorized under subsection (n) and [section 1823(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1823/c&num=0&edition=prelim), this subsection shall govern the rights of the creditors (other than insured depositors) of such institution.
 
 (2) **Maximum liability** — The maximum liability of the Corporation, acting as receiver or in any other capacity, to any person having a claim against the receiver or the insured depository institution for which such receiver is appointed shall equal the amount such claimant would have received if the Corporation had liquidated the assets and liabilities of such institution without exercising the Corporation’s authority under subsection (n) of this section or [section 1823 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1823).
 
@@ -5515,7 +5515,7 @@ for gross negligence, including any similar conduct or conduct that demonstrates
 
   (C) any residence for which the household occupying the residence was the mortgagor under a mortgage on such residence and to which the Corporation acquired title pursuant to default on such mortgage.
 
-**(v) Preference for sales for homeless families** Subject to subsection (u) of this section, in selling any real property (other than eligible residential property and eligible condominium property, as such terms are defined in [section 1831q(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831q/p&num=0&edition=prelim)) to which the Corporation acquires title, the Corporation shall give preference among offers to purchase the property that will result in the same net present value proceeds, to any offer that would provide for the property to be used, during the remaining useful life of the property, to provide housing or shelter for homeless persons (as such term is defined in [section 11302 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11302&num=0&edition=prelim)) or homeless families.
+**(v) Preference for sales for homeless families** Subject to subsection (u), in selling any real property (other than eligible residential property and eligible condominium property, as such terms are defined in [section 1831q(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831q/p&num=0&edition=prelim)) to which the Corporation acquires title, the Corporation shall give preference among offers to purchase the property that will result in the same net present value proceeds, to any offer that would provide for the property to be used, during the remaining useful life of the property, to provide housing or shelter for homeless persons (as such term is defined in [section 11302 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11302&num=0&edition=prelim)) or homeless families.
 
 **(w) Preferences for sales of certain commercial real properties**
 
@@ -5955,7 +5955,7 @@ Subsec. (d)(11). Pub. L. 103–66, § 3001(a), amended par. (11) generally, subs
 
 Subsec. (d)(14)(A)(ii). Pub. L. 103–204, 4(b), inserted “(other than a claim which is subject to [section 1441a(b)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1441a/b/14&num=0&edition=prelim))” after “any tort claim”.
 
-Subsec. (g)(4). Pub. L. 103–66, § 3001(b)(2), substituted “Subject to subsection (d)(11) of this section, if” for “If”.
+Subsec. (g)(4). Pub. L. 103–66, § 3001(b)(2), substituted “Subject to subsection (d)(11), if” for “If”.
 
 Subsec. (p). Pub. L. 103–204, § 20, in heading, substituted “Certain sales of assets prohibited” for “Certain convicted debtors prohibited from purchasing assets”, added par. (1), redesignated former pars. (1) and (2) as pars. (2) and (3), respectively, in par. (2) substituted “paragraph (3)” for “paragraph (2)” and “person” for “individual”, in par. (3) substituted “Paragraphs (1) and (2)” for “Paragraph (1)” and “person” for “individual”, wherever appearing, and added par. (4).
 
@@ -6285,7 +6285,7 @@ Pub. L. 104–208, div. A, title II, § 2710, Sept. 30, 1996, 110 Stat. 3009–4
 
 **(c) Treasury backup**
 
-(1) **In general** — If the funds described in subsections (a) and (b) of this section are insufficient to satisfy the liabilities of the FSLIC Resolution Fund, the Secretary of the Treasury shall pay to the Fund such amounts as may be necessary, as determined by the Corporation and the Secretary, for FSLIC Resolution Fund purposes.
+(1) **In general** — If the funds described in subsections (a) and (b) are insufficient to satisfy the liabilities of the FSLIC Resolution Fund, the Secretary of the Treasury shall pay to the Fund such amounts as may be necessary, as determined by the Corporation and the Secretary, for FSLIC Resolution Fund purposes.
 
 (2) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary of the Treasury, without fiscal year limitation, such sums as may be necessary to carry out this section.
 
@@ -6529,7 +6529,7 @@ Pub. L. 103–44, § 2, June 28, 1993, 107 Stat. 221, provided that: “(a) In G
 
 (4) **Least-cost resolution required.—**
 
-  (A) *In general.—* — Notwithstanding any other provision of this chapter, the Corporation may not exercise any authority under this subsection or subsection (d), (f), (h), (i), or (k) of this section with respect to any insured depository institution unless—
+  (A) *In general.—* — Notwithstanding any other provision of this chapter, the Corporation may not exercise any authority under this subsection or subsection (d), (f), (h), (i), or (k) with respect to any insured depository institution unless—
 
     (i) the Corporation determines that the exercise of such authority is necessary to meet the obligation of the Corporation to provide insurance coverage for the insured deposits in such institution; and
 
@@ -6708,7 +6708,7 @@ Pub. L. 103–44, § 2, June 28, 1993, 107 Stat. 221, provided that: “(a) In G
 
 **(f) Assisted emergency interstate acquisitions**
 
-(1) This subsection shall apply only to an acquisition of an insured bank or a holding company by an out-of-State bank 22 So in original. Probably should be followed by “or”. savings association or out-of-State holding company for which the Corporation provides assistance under subsection (c) of this section.
+(1) This subsection shall apply only to an acquisition of an insured bank or a holding company by an out-of-State bank 22 So in original. Probably should be followed by “or”. savings association or out-of-State holding company for which the Corporation provides assistance under subsection (c).
 
 (2)
 
@@ -6740,7 +6740,7 @@ Pub. L. 103–44, § 2, June 28, 1993, 107 Stat. 221, provided that: “(a) In G
 
   (D) *Certain acquisitions authorized after assistance is provided.—* — Notwithstanding paragraph (1), if—
 
-    (i) at any time after August 10, 1987, the Corporation provides any assistance under subsection (c) of this section to an insured bank; and
+    (i) at any time after August 10, 1987, the Corporation provides any assistance under subsection (c) to an insured bank; and
 
     (ii) at the time such assistance is granted, the insured bank, the holding company which controls the insured bank (if any), or any affiliated insured bank is eligible to be acquired by an out-of-State bank or out-of-State holding company under this paragraph,
     the insured bank, the holding company, and such other affiliated insured bank shall remain eligible, subject to such terms and conditions as the Corporation (in the Corporation’s discretion) may impose, to be acquired by an out-of-State bank or out-of-State holding company under this paragraph as long as any portion of such assistance remains outstanding.
@@ -6917,7 +6917,7 @@ Pub. L. 103–44, § 2, June 28, 1993, 107 Stat. 221, provided that: “(a) In G
 
     (i) *Transactions described* — Notwithstanding any provision of State law, upon determining that severe financial conditions threaten the stability of a significant number of savings associations, or of savings associations possessing significant financial resources, the Corporation, in its discretion and if it determines such authorization would lessen the risk to the Corporation, may authorize—
 
-      (I) a savings association that is eligible for assistance pursuant to subsection (c) of this section to merge or consolidate with, or to transfer its assets and liabilities to, any other savings association or any insured bank,
+      (I) a savings association that is eligible for assistance pursuant to subsection (c) to merge or consolidate with, or to transfer its assets and liabilities to, any other savings association or any insured bank,
 
       (II) any other savings association to acquire control of such savings association, or
 
@@ -6967,7 +6967,7 @@ Pub. L. 103–44, § 2, June 28, 1993, 107 Stat. 221, provided that: “(a) In G
 
 (5) **Assistance before appointment of conservator or receiver**
 
-  (A) *Assistance proposals* — The Corporation shall consider proposals by savings associations for assistance pursuant to subsection (c) of this section before grounds exist for appointment of a conservator or receiver for such member under the following circumstances:
+  (A) *Assistance proposals* — The Corporation shall consider proposals by savings associations for assistance pursuant to subsection (c) before grounds exist for appointment of a conservator or receiver for such member under the following circumstances:
 
     (i) *Troubled condition criteria* — The Corporation determines—
 
@@ -7351,7 +7351,7 @@ Pub. L. 97–320, title II, § 205, Oct. 15, 1982, 96 Stat. 1495, provided that:
 
 **(c) Repayment schedules required for any borrowing**
 
-(1) **In general** — No amount may be provided by the Secretary of the Treasury to the Corporation under subsection (a) of this section unless an agreement is in effect between the Secretary and the Corporation which—
+(1) **In general** — No amount may be provided by the Secretary of the Treasury to the Corporation under subsection (a) unless an agreement is in effect between the Secretary and the Corporation which—
 
   (A) provides a schedule for the repayment of the outstanding amount of any borrowing under such subsection; and
 
@@ -7361,7 +7361,7 @@ Pub. L. 97–320, title II, § 205, Oct. 15, 1982, 96 Stat. 1495, provided that:
 
   (A) consult with the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the terms of any repayment schedule agreement described in paragraph (1) relating to repayment, including terms relating to any emergency special assessment under [section 1817(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1817/b/7&num=0&edition=prelim); and
 
-  (B) submit a copy of each repayment schedule agreement entered into under paragraph (1) to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate before the end of the 30-day period beginning on the date any amount is provided by the Secretary of the Treasury to the Corporation under subsection (a) of this section.
+  (B) submit a copy of each repayment schedule agreement entered into under paragraph (1) to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate before the end of the 30-day period beginning on the date any amount is provided by the Secretary of the Treasury to the Corporation under subsection (a).
 
 **(d) Borrowing for the Deposit Insurance Fund from insured depository institutions**
 
@@ -7375,7 +7375,7 @@ Pub. L. 97–320, title II, § 205, Oct. 15, 1982, 96 Stat. 1495, provided that:
 
   (A) *Applicability of public debt limit* — For purposes of the public debt limit established in [section 3101(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3101/b&num=0&edition=prelim), any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall be considered to be an obligation to which such limit applies.
 
-  (B) *Applicability of FDIC borrowing limit* — For purposes of the dollar amount limitation established in subsection (a) of this section, any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall be considered to be an amount borrowed from the Treasury under such subsection.
+  (B) *Applicability of FDIC borrowing limit* — For purposes of the dollar amount limitation established in subsection (a), any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall be considered to be an amount borrowed from the Treasury under such subsection.
 
   (C) *Interest rate limit* — The rate of interest payable in connection with any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall not exceed an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
@@ -7494,7 +7494,7 @@ Act Aug. 5, 1947, ch. 492, § 1, 61 Stat. 773, directed the Federal Deposit Insu
 
 
 <a id="section-1825"></a>
-## § 1825. Issuance of notes, debentures, bonds, and other obligations; exemption from taxation
+## § 1825. Issuance of notes, debentures, bonds, and other obligations; exemptions
 **(a) General rule** All notes, debentures, bonds, or other such obligations issued by the Corporation shall be exempt, both as to principal and interest, from all taxation (except estate and inheritance taxes) now or hereafter imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority: Provided, That interest upon or any income from any such obligations and gain from the sale or other disposition of such obligations shall not have any exemption, as such, and loss from the sale or other disposition of such obligations shall not have any special treatment, as such, under the Internal Revenue Code, or laws amendatory or supplementary thereto. The Corporation, including its franchise, its capital, reserves, and surplus, and its income, shall be exempt from all taxation now or hereafter imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority, except that any real property of the Corporation shall be subject to State, Territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed.
 
 **(b) Other exemptions** When acting as a receiver, the following provisions shall apply with respect to the Corporation:
@@ -8853,15 +8853,15 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
 **(b) Confidentiality requirements**
 
-(1) **In general** — Any information or material obtained by any agency pursuant to subsection (a) of this section shall be treated as confidential.
+(1) **In general** — Any information or material obtained by any agency pursuant to subsection (a) shall be treated as confidential.
 
-(2) **Procedures for disclosure** — If any information or material obtained by any agency pursuant to subsection (a) of this section is proposed to be disclosed to a third party, written notice of such disclosure shall first be provided to the agency from which such information or material was obtained and an opportunity shall be given to such agency to oppose or limit the proposed disclosure.
+(2) **Procedures for disclosure** — If any information or material obtained by any agency pursuant to subsection (a) is proposed to be disclosed to a third party, written notice of such disclosure shall first be provided to the agency from which such information or material was obtained and an opportunity shall be given to such agency to oppose or limit the proposed disclosure.
 
-(3) **Other privileges not waived by disclosure under this section** — The provision by any Federal agency of any information or material pursuant to subsection (a) of this section to another agency shall not constitute a waiver, or otherwise affect, any privilege any agency or person may claim with respect to such information under Federal or State law.
+(3) **Other privileges not waived by disclosure under this section** — The provision by any Federal agency of any information or material pursuant to subsection (a) to another agency shall not constitute a waiver, or otherwise affect, any privilege any agency or person may claim with respect to such information under Federal or State law.
 
 (4) **Exception** — No provision of this section shall be construed as preventing or limiting access to any information by any duly authorized committee of the Congress or the Comptroller General of the United States.
 
-**(c) Banking agency information sharing** The provisions of subsection (b) of this section shall apply to—
+**(c) Banking agency information sharing** The provisions of subsection (b) shall apply to—
 
 (1) any information or material obtained by any Federal banking agency (as defined in [section 1813(z) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/z&num=0&edition=prelim)) from any other Federal banking agency; and
 
@@ -8914,7 +8914,7 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
     (ii) *Period for filing* — A motion may be filed under clause (i) at any time during the 10-year period described in subparagraph (A) with regard to the person on whose behalf such motion is made.
 
-**(b) Penalty** Whoever knowingly violates subsection (a) of this section shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
+**(b) Penalty** Whoever knowingly violates subsection (a) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
 
 **(d) 22 So in original. No subsec. (c) has been enacted. Bank holding companies**
 
@@ -8973,15 +8973,15 @@ Nothing contained in sections 201 to 205 and 207 of Pub. L. 89–695 amending se
 
 **(b) Use of banking premises prohibited** A State nonmember insured bank may not permit—
 
-(1) the use of any part of any of its banking offices by any person for any purpose forbidden to the bank under subsection (a) of this section, or
+(1) the use of any part of any of its banking offices by any person for any purpose forbidden to the bank under subsection (a), or
 
-(2) direct access by the public from any of its banking offices to any premises used by any person for any purpose forbidden to the bank under subsection (a) of this section.
+(2) direct access by the public from any of its banking offices to any premises used by any person for any purpose forbidden to the bank under subsection (a).
 
 **(c) Definitions** As used in this section—
 
 (1) The term “deal in” includes making, taking, buying, selling, redeeming, or collecting.
 
-(2) The term “lottery” includes any arrangement whereby three or more persons (the “participants”) advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the “winners”) will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
+(2) The term “lottery” includes any arrangement, other than a savings promotion raffle, whereby three or more persons (the “participants”) advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the “winners”) will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
 
   (A) a random selection;
 
@@ -8991,6 +8991,8 @@ Nothing contained in sections 201 to 205 and 207 of Pub. L. 89–695 amending se
 
 (3) The term “lottery ticket” includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility), of becoming a winner in a lottery.
 
+(4) The term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in [section 5481 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5481)).
+
 **(d) Lawful banking services connected with operation of lottery** Nothing contained in this section prohibits a State nonmember insured bank from accepting deposits or cashing or otherwise handling checks or other negotiable instruments, or performing other lawful banking services for a State operating a lottery, or for an officer or employee of that State who is charged with the administration of the lottery.
 
 **(e) Regulations; enforcement** The Board of Directors shall prescribe such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
@@ -8998,6 +9000,10 @@ Nothing contained in sections 201 to 205 and 207 of Pub. L. 89–695 amending se
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (c)(2). Pub. L. 113–251, § 3(c)(1), inserted “, other than a savings promotion raffle,” before “whereby” in introductory provisions.
+
+Subsec. (c)(4). Pub. L. 113–251, § 3(c)(2), added par. (4).
+
 1994—Subsec. (a)(3). Pub. L. 103–325 inserted “or” at end.
 
 #### Effective Date
@@ -9039,17 +9045,17 @@ Section effective Apr. 1, 1968, see section 6 of Pub. L. 90–203, set out as a 
 
   (C) *Availability of records* — Any records required to be maintained pursuant to the regulations prescribed under subparagraph (A) shall be submitted or made available to the Secretary or the Board upon request.
 
-**(c) Identity of persons having accounts and persons authorized to act with respect to such accounts; exemptions** Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, each insured depository institution shall maintain such rec­ords and other evidence, in such form as the Secretary shall require, of the identity of each person having an account in the United States with the insured depository institution and of each individual authorized to sign checks, make withdrawals, or otherwise act with respect to any such account. The Secretary may make such exemptions from any requirement otherwise imposed under this subsection as are consistent with the purposes of this section.
+**(c) Identity of persons having accounts and persons authorized to act with respect to such accounts; exemptions** Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), each insured depository institution shall maintain such rec­ords and other evidence, in such form as the Secretary shall require, of the identity of each person having an account in the United States with the insured depository institution and of each individual authorized to sign checks, make withdrawals, or otherwise act with respect to any such account. The Secretary may make such exemptions from any requirement otherwise imposed under this subsection as are consistent with the purposes of this section.
 
 **(d) Reproduction of checks, drafts, and other instruments; record of transactions; identity of party** Each insured depository institution shall make, to the extent that the regulations of the Secretary so require—
 
 (1) a microfilm or other reproduction of each check, draft, or similar instrument drawn on it and presented to it for payment; and
 
-(2) a record of each check, draft, or similar instrument received by it for deposit or collection, together with an identification of the party for whose account it is to be deposited or collected, unless the insured depository institution has already made a record of the party’s identity pursuant to subsection (c) of this section.
+(2) a record of each check, draft, or similar instrument received by it for deposit or collection, together with an identification of the party for whose account it is to be deposited or collected, unless the insured depository institution has already made a record of the party’s identity pursuant to subsection (c).
 
-**(e) Identity of persons making reportable currency and foreign transactions** Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
+**(e) Identity of persons making reportable currency and foreign transactions** Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
 
-**(f) Additions to or substitutes for required records** Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section and in addition to or in lieu of the records and evidence otherwise referred to in this section, each insured depository institution shall maintain such records and evidence as the Secretary may prescribe to carry out the purposes of this section.
+**(f) Additions to or substitutes for required records** Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) and in addition to or in lieu of the records and evidence otherwise referred to in this section, each insured depository institution shall maintain such records and evidence as the Secretary may prescribe to carry out the purposes of this section.
 
 **(g) Retention period** Any type of record or evidence required under this section shall be retained for such period as the Secretary may prescribe for the type in question. Any period so prescribed shall not exceed six years unless the Secretary determines, having regard for the purposes of this section, that a longer period is necessary in the case of a particular type of record or evidence.
 
@@ -9059,7 +9065,7 @@ Section effective Apr. 1, 1968, see section 6 of Pub. L. 90–203, set out as a 
 
 **(j) Civil penalties**
 
-(1) **Penalty imposed** — Any insured depository institution and any director, officer, or employee of an insured depository institution who willfully or through gross negligence violates, or any person who willfully causes such a violation, any regulation prescribed under subsection (b) of this section shall be liable to the United States for a civil penalty of not more than $10,000.
+(1) **Penalty imposed** — Any insured depository institution and any director, officer, or employee of an insured depository institution who willfully or through gross negligence violates, or any person who willfully causes such a violation, any regulation prescribed under subsection (b) shall be liable to the United States for a civil penalty of not more than $10,000.
 
 (2) **Treatment of continuing violation** — A separate violation of any regulation prescribed under subsection (b) of this section occurs for each day the violation continues and at each office, branch, or place of business at which such violation occurs.
 
@@ -9083,11 +9089,11 @@ In subsec. (e), “subchapter II of chapter 53 of title 31” was substituted fo
 
 1992—Subsec. (b). Pub. L. 102–550, § 1515(a), inserted heading, designated existing provisions as par. (1) and inserted heading, and added pars. (2) and (3).
 
-Subsec. (c). Pub. L. 102–550, § 1515(b)(1), substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, each insured” for “Each insured”.
+Subsec. (c). Pub. L. 102–550, § 1515(b)(1), substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), each insured” for “Each insured”.
 
-Subsec. (e). Pub. L. 102–550, § 1515(b)(2), substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, whenever any” for “Whenever any”.
+Subsec. (e). Pub. L. 102–550, § 1515(b)(2), substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), whenever any” for “Whenever any”.
 
-Subsec. (f). Pub. L. 102–550, § 1515(b)(3), substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section and in addition to” for “In addition to”.
+Subsec. (f). Pub. L. 102–550, § 1515(b)(3), substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) and in addition to” for “In addition to”.
 
 Subsec. (j)(1). Pub. L. 102–550, § 1535(b), inserted “, or any person who willfully causes such a violation,” after “gross negligence violates”.
 
@@ -9162,7 +9168,7 @@ Section is derived from subsec. (z) of former [section 264 of this title](./chap
 
 **(b) Insurance underwriting**
 
-(1) **In general** — Notwithstanding subsection (a) of this section, an insured State bank may not engage in insurance underwriting except to the extent that activity is permissible for national banks.
+(1) **In general** — Notwithstanding subsection (a), an insured State bank may not engage in insurance underwriting except to the extent that activity is permissible for national banks.
 
 (2) **Exception for certain federally reinsured crop insurance** — Notwithstanding any other provision of law, an insured State bank or any of its subsidiaries that provided insurance on or before September 30, 1991, which was reinsured in whole or in part by the Federal Crop Insurance Corporation may continue to provide such insurance.
 
@@ -9471,7 +9477,7 @@ Pub. L. 111–203, title VI, § 605(b), July 21, 2010, 124 Stat. 1607, provided 
 ## § 1831d. State-chartered insured depository institutions and insured branches of foreign banks
 **(a) Interest rates** In order to prevent discrimination against State-chartered insured depository institutions, including insured savings banks, or insured branches of foreign banks with respect to interest rates, if the applicable rate prescribed in this subsection exceeds the rate such State bank or insured branch of a foreign bank would be permitted to charge in the absence of this subsection, such State bank or such insured branch of a foreign bank may, notwithstanding any State constitution or statute which is hereby preempted for the purposes of this section, take, receive, reserve, and charge on any loan or discount made, or upon any note, bill of exchange, or other evidence of debt, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such State bank or such insured branch of a foreign bank is located or at the rate allowed by the laws of the State, territory, or district where the bank is located, whichever may be greater.
 
-**(b) Interest overcharge; forfeiture; interest payment recovery** If the rate prescribed in subsection (a) of this section exceeds the rate such State bank or such insured branch of a foreign bank would be permitted to charge in the absence of this section, and such State fixed rate is thereby preempted by the rate described in subsection (a) of this section, the taking, receiving, reserving, or charging a greater rate of interest than is allowed by subsection (a) of this section, when knowingly done, shall be deemed a forfeiture of the entire interest which the note, bill, or other evidence of debt carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has been paid, the person who paid it may recover in a civil action commenced in a court of appropriate jurisdiction not later than two years after the date of such payment, an amount equal to twice the amount of the interest paid from such State bank or such insured branch of a foreign bank taking, receiving, reserving, or charging such interest.
+**(b) Interest overcharge; forfeiture; interest payment recovery** If the rate prescribed in subsection (a) exceeds the rate such State bank or such insured branch of a foreign bank would be permitted to charge in the absence of this section, and such State fixed rate is thereby preempted by the rate described in subsection (a), the taking, receiving, reserving, or charging a greater rate of interest than is allowed by subsection (a), when knowingly done, shall be deemed a forfeiture of the entire interest which the note, bill, or other evidence of debt carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has been paid, the person who paid it may recover in a civil action commenced in a court of appropriate jurisdiction not later than two years after the date of such payment, an amount equal to twice the amount of the interest paid from such State bank or such insured branch of a foreign bank taking, receiving, reserving, or charging such interest.
 
 ### Statutory Notes
 
@@ -9501,7 +9507,7 @@ For purposes of this section, the term “State” to include the several States
 
 (2) the savings association is and continues to be in compliance with the fully phased-in capital standards prescribed under [section 1464(t) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1464/t&num=0&edition=prelim).
 
-**(b) Differences of magnitude between State and Federal powers** Notwithstanding subsection (a)(1) of this section, if an activity (other than an activity described in [section 1464(c)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1464/c/2/B&num=0&edition=prelim)) is permissible for a Federal savings association, a savings association chartered under State law may engage as principal in that activity in an amount greater than the amount permissible for a Federal savings association if—
+**(b) Differences of magnitude between State and Federal powers** Notwithstanding subsection (a)(1), if an activity (other than an activity described in [section 1464(c)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1464/c/2/B&num=0&edition=prelim)) is permissible for a Federal savings association, a savings association chartered under State law may engage as principal in that activity in an amount greater than the amount permissible for a Federal savings association if—
 
 (1) the Corporation has not determined that engaging in that amount of the activity poses any significant risk to the Deposit Insurance Fund; and
 
@@ -9509,7 +9515,7 @@ For purposes of this section, the term “State” to include the several States
 
 **(c) Equity investments by State savings associations**
 
-(1) **In general** — Notwithstanding subsections (a) and (b) of this section, a savings association chartered under State law may not directly acquire or retain any equity investment of a type or in an amount that is not permissible for a Federal savings association.
+(1) **In general** — Notwithstanding subsections (a) and (b), a savings association chartered under State law may not directly acquire or retain any equity investment of a type or in an amount that is not permissible for a Federal savings association.
 
 (2) **Exception for service corporations** — Paragraph (1) does not prohibit a savings association from acquiring or retaining shares of one or more service corporations if—
 
@@ -9604,11 +9610,11 @@ For purposes of this section, the term “State” to include the several States
 
 **(f) Determinations** The Corporation shall make determinations under this section by regulation or order.
 
-**(g) “Activity” defined** For purposes of subsections (a) and (b) of this section—
+**(g) “Activity” defined** For purposes of subsections (a) and (b)—
 
 (1) **In general** — The term “activity” includes acquiring or retaining any investment.
 
-(2) **Divestiture of certain assets** — Notwithstanding paragraph (1), subsections (a) and (b) of this section shall not be construed to require a savings association to divest itself of any assets acquired before August 9, 1989.
+(2) **Divestiture of certain assets** — Notwithstanding paragraph (1), subsections (a) and (b) shall not be construed to require a savings association to divest itself of any assets acquired before August 9, 1989.
 
 **(h) Other authority not affected** This section may not be construed as limiting—
 
@@ -9706,11 +9712,11 @@ Pub. L. 102–242, title I, § 151(a)(3), Dec. 19, 1991, 105 Stat. 2284, provide
 ## § 1831f. Brokered deposits
 **(a) In general** An insured depository institution that is not well capitalized may not accept funds obtained, directly or indirectly, by or through any deposit broker for deposit into 1 or more deposit accounts.
 
-**(b) Renewals and rollovers treated as acceptance of funds** Any renewal of an account in any troubled institution and any rollover of any amount on deposit in any such account shall be treated as an acceptance of funds by such troubled institution for purposes of subsection (a) of this section.
+**(b) Renewals and rollovers treated as acceptance of funds** Any renewal of an account in any troubled institution and any rollover of any amount on deposit in any such account shall be treated as an acceptance of funds by such troubled institution for purposes of subsection (a).
 
-**(c) Waiver authority** The Corporation may, on a case-by-case basis and upon application by an insured depository institution which is adequately capitalized (but not well capitalized), waive the applicability of subsection (a) of this section upon a finding that the acceptance of such deposits does not constitute an unsafe or unsound practice with respect to such institution.
+**(c) Waiver authority** The Corporation may, on a case-by-case basis and upon application by an insured depository institution which is adequately capitalized (but not well capitalized), waive the applicability of subsection (a) upon a finding that the acceptance of such deposits does not constitute an unsafe or unsound practice with respect to such institution.
 
-**(d) Limited exception for certain conservatorships** In the case of any insured depository institution for which the Corporation has been appointed as conservator, subsection (a) of this section shall not apply to the acceptance of deposits (described in such subsection) by such institution if the Corporation determines that the acceptance of such deposits—
+**(d) Limited exception for certain conservatorships** In the case of any insured depository institution for which the Corporation has been appointed as conservator, subsection (a) shall not apply to the acceptance of deposits (described in such subsection) by such institution if the Corporation determines that the acceptance of such deposits—
 
 (1) is not an unsafe or unsound practice;
 
@@ -9719,7 +9725,7 @@ Pub. L. 102–242, title I, § 151(a)(3), Dec. 19, 1991, 105 Stat. 2284, provide
 (3) is consistent with the conservator’s fiduciary duty to minimize the institution’s losses.
 Effective 90 days after the date on which the institution was placed in conservatorship, the institution may not accept such deposits.
 
-**(e) Restriction on interest rate paid** Any insured depository institution which, under subsection (c) or (d) of this section, accepts funds obtained, directly or indirectly, by or through a deposit broker, may not pay a rate of interest on such funds which, at the time that such funds are accepted, significantly exceeds—
+**(e) Restriction on interest rate paid** Any insured depository institution which, under subsection (c) or (d), accepts funds obtained, directly or indirectly, by or through a deposit broker, may not pay a rate of interest on such funds which, at the time that such funds are accepted, significantly exceeds—
 
 (1) the rate paid on deposits of similar maturity in such institution’s normal market area for deposits accepted in the institution’s normal market area; or
 
@@ -9857,23 +9863,23 @@ Repeal effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out a
 
 (2) the agency determines, in connection with the review by the agency of the plan required under section 1831o of this title or otherwise, that such prior notice is appropriate.
 
-**(b) Disapproval by agency** An insured depository institution or depository institution holding company may not add any individual to the board of directors or employ any individual as a senior executive officer if the appropriate Federal banking agency issues a notice of disapproval of such addition or employment before the end of the notice period, not to exceed 90 days, beginning on the date the agency receives notice of the proposed action pursuant to subsection (a) of this section.
+**(b) Disapproval by agency** An insured depository institution or depository institution holding company may not add any individual to the board of directors or employ any individual as a senior executive officer if the appropriate Federal banking agency issues a notice of disapproval of such addition or employment before the end of the notice period, not to exceed 90 days, beginning on the date the agency receives notice of the proposed action pursuant to subsection (a).
 
 **(c) Exception in extraordinary circumstances**
 
-(1) **In general** — Each appropriate Federal banking agency may prescribe by regulation conditions under which the prior notice requirement of subsection (a) of this section may be waived in the event of extraordinary circumstances.
+(1) **In general** — Each appropriate Federal banking agency may prescribe by regulation conditions under which the prior notice requirement of subsection (a) may be waived in the event of extraordinary circumstances.
 
 (2) **No effect on disapproval authority of agency** — Such waivers shall not affect the authority of each agency to issue notices of disapproval of such additions or employment of such individuals within 30 days after each such waiver.
 
-**(d) Additional information** Any notice submitted to an appropriate Federal banking agency with respect to an individual by any insured depository institution or depository institution holding company pursuant to subsection (a) of this section shall include—
+**(d) Additional information** Any notice submitted to an appropriate Federal banking agency with respect to an individual by any insured depository institution or depository institution holding company pursuant to subsection (a) shall include—
 
 (1) the information described in [section 1817(j)(6)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1817/j/6/A&num=0&edition=prelim) about the individual; and
 
 (2) such other information as the agency may prescribe by regulation.
 
-**(e) Standard for disapproval** The appropriate Federal banking agency shall issue a notice of disapproval with respect to a notice submitted pursuant to subsection (a) of this section if the competence, experience, character, or integrity of the individual with respect to whom such notice is submitted indicates that it would not be in the best interests of the depositors of the depository institution or in the best interests of the public to permit the individual to be employed by, or associated with, the depository institution or depository institution holding company.
+**(e) Standard for disapproval** The appropriate Federal banking agency shall issue a notice of disapproval with respect to a notice submitted pursuant to subsection (a) if the competence, experience, character, or integrity of the individual with respect to whom such notice is submitted indicates that it would not be in the best interests of the depositors of the depository institution or in the best interests of the public to permit the individual to be employed by, or associated with, the depository institution or depository institution holding company.
 
-**(f) Definition regulations** Each appropriate Federal banking agency shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a) of this section.
+**(f) Definition regulations** Each appropriate Federal banking agency shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a).
 
 ### Statutory Notes
 
@@ -9912,9 +9918,9 @@ Subsec. (b). Pub. L. 104–208, § 2209(2), substituted “notice period, not to
 
   (D) the person, or any officer or employee of the person, who employs such employee.
 
-**(b) Enforcement** Any employee or former employee who believes he has been discharged or discriminated against in violation of subsection (a) of this section may file a civil action in the appropriate United States district court before the close of the 2-year period beginning on the date of such discharge or discrimination. The complainant shall also file a copy of the complaint initiating such action with the appropriate Federal banking agency.
+**(b) Enforcement** Any employee or former employee who believes he has been discharged or discriminated against in violation of subsection (a) may file a civil action in the appropriate United States district court before the close of the 2-year period beginning on the date of such discharge or discrimination. The complainant shall also file a copy of the complaint initiating such action with the appropriate Federal banking agency.
 
-**(c) Remedies** If the district court determines that a violation of subsection (a) of this section has occurred, it may order the depository institution, Federal home loan bank, Federal Reserve bank, or Federal banking agency which committed the violation—
+**(c) Remedies** If the district court determines that a violation of subsection (a) has occurred, it may order the depository institution, Federal home loan bank, Federal Reserve bank, or Federal banking agency which committed the violation—
 
 (1) to reinstate the employee to his former position;
 
@@ -9928,7 +9934,7 @@ Subsec. (b). Pub. L. 104–208, § 2209(2), substituted “notice period, not to
 
 (2) knowingly or recklessly provides substantially false information to such an agency or the Attorney General.
 
-**(e) “Federal banking agency” defined** For purposes of subsections (a) and (c) of this section, the term “Federal banking agency” means the Corporation, the Board of Governors of the Federal Reserve System, the Federal Housing Finance Agency and the Comptroller of the Currency.
+**(e) “Federal banking agency” defined** For purposes of subsections (a) and (c), the term “Federal banking agency” means the Corporation, the Board of Governors of the Federal Reserve System, the Federal Housing Finance Agency and the Comptroller of the Currency.
 
 **(f) Burdens of proof** The legal burdens of proof that prevail under subchapter III of chapter 12 of title 5 shall govern adjudication of protected activities under this section.
 
@@ -10000,11 +10006,11 @@ Pub. L. 102–242, title II, § 251(a)(4), Dec. 19, 1991, 105 Stat. 2332, provid
 
 (2) a forfeiture under section 981 or 982 of title 18 that arises in connection with a depository institution insured by the Federal Deposit Insurance Corporation.
 
-**(b) Percentage limitation** An appropriate Federal banking agency may not pay a reward under subsection (a) of this section of more than 25 percent of the amount of the fine, penalty, restitution, or forfeiture or $100,000, whichever is less.
+**(b) Percentage limitation** An appropriate Federal banking agency may not pay a reward under subsection (a) of more than 25 percent of the amount of the fine, penalty, restitution, or forfeiture or $100,000, whichever is less.
 
-**(c) Officials and persons ineligible** An appropriate Federal banking agency may not pay a reward under subsection (a) of this section to—
+**(c) Officials and persons ineligible** An appropriate Federal banking agency may not pay a reward under subsection (a) to—
 
-(1) an officer or employee of the United States or of a State or local government who provides information described in subsection (a) of this section, obtained in the performance of official duties; or
+(1) an officer or employee of the United States or of a State or local government who provides information described in subsection (a), obtained in the performance of official duties; or
 
 (2) a person who—
 
@@ -10057,9 +10063,9 @@ Any appropriate Federal banking agency shall notify the Securities and Exchange 
 
   (A) the information required to be provided by—
 
-    (i) the institution’s management under subsection (b) of this section; and
+    (i) the institution’s management under subsection (b); and
 
-    (ii) an independent public accountant under subsections (c) and (d) of this section; and
+    (ii) an independent public accountant under subsections (c) and (d); and
 
   (B) such other information as the Corporation and the appropriate Federal banking agency may determine to be necessary to assess the financial condition and management of the institution.
 
@@ -10087,7 +10093,7 @@ Any appropriate Federal banking agency shall notify the Securities and Exchange 
 
 **(c) Internal control evaluation and reporting requirements for independent public accountants**
 
-(1) **In general** — With respect to any internal control report required by subsection (b)(2) of this section of any institution, the institution’s independent public accountant shall attest to, and report separately on, the assertions of the institution’s management contained in such report.
+(1) **In general** — With respect to any internal control report required by subsection (b)(2) of any institution, the institution’s independent public accountant shall attest to, and report separately on, the assertions of the institution’s management contained in such report.
 
 (2) **Attestation requirements** — Any attestation pursuant to paragraph (1) shall be made in accordance with generally accepted standards for attestation engagements.
 
@@ -10117,7 +10123,7 @@ Any appropriate Federal banking agency shall notify the Securities and Exchange 
 
   (A) *Establishment* — Each insured depository institution (to which this section applies) shall have an independent audit committee entirely made up of outside directors who are independent of management of the institution, except as provided in subparagraph (D), and who satisfy any specific requirements the Corporation may establish.
 
-  (B) *Duties* — An independent audit committee’s duties shall include reviewing with management and the independent public accountant the basis for the reports issued under subsections (b)(2), (c), and (d) of this section.
+  (B) *Duties* — An independent audit committee’s duties shall include reviewing with management and the independent public accountant the basis for the reports issued under subsections (b)(2), (c), and (d).
 
   (C) *Criteria applicable to committees of large insured depository institutions* — In the case of each insured depository institution which the Corporation determines to be a large institution, the audit committee required by subparagraph (A) shall—
 
@@ -10187,7 +10193,7 @@ Any appropriate Federal banking agency shall notify the Securities and Exchange 
 
 **(i) Requirements for insured subsidiaries of holding companies**
 
-(1) **In general** — Except with respect to any audit requirements established under or pursuant to subsection (d) of this section, the requirements of this section may be satisfied for insured depository institutions that are subsidiaries of a holding company, if—
+(1) **In general** — Except with respect to any audit requirements established under or pursuant to subsection (d), the requirements of this section may be satisfied for insured depository institutions that are subsidiaries of a holding company, if—
 
   (A) services and functions comparable to those required under this section are provided at the holding company level; and
 
@@ -10293,9 +10299,9 @@ Pub. L. 102–242, title I, § 112(c), formerly § 112(b), Dec. 19, 1991, 105 St
 
 **(b) Procedures for receipt of disclosure reports**
 
-(1) **In general** — Within 90 days after October 28, 1992, each appropriate Federal banking agency shall establish procedures for receipt of a disclosure report by an agency or instrumentality made in accordance with subsection (a)(1) of this section. The procedures established in accordance with this subsection shall ensure adequate protection of information disclosed, including access control and information accountability.
+(1) **In general** — Within 90 days after October 28, 1992, each appropriate Federal banking agency shall establish procedures for receipt of a disclosure report by an agency or instrumentality made in accordance with subsection (a)(1). The procedures established in accordance with this subsection shall ensure adequate protection of information disclosed, including access control and information accountability.
 
-(2) **Procedures related to each disclosure report** — Upon receipt of a report in accordance with subsection (a)(1) of this section, the appropriate Federal banking agency shall—
+(2) **Procedures related to each disclosure report** — Upon receipt of a report in accordance with subsection (a)(1), the appropriate Federal banking agency shall—
 
   (A) consult with the agency or instrumentality that made the disclosure regarding the adequacy of the procedures established pursuant to paragraph (1), and
 
@@ -10387,7 +10393,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813).
 
 #### Risk-Weighting of Housing Loans for Purposes of Capital Requirements
-Pub. L. 102–233, title VI, § 618, Dec. 12, 1991, 105 Stat. 1789, provided that: “(a) Single Family Housing Loans.—“(1) 50 percent risk-weighted classification.—“(a) [(A)] In general.—To provide consistent regulatory treatment of loans made for the construction of single family housing, not later than the expiration of the 120-day period beginning on the date of this Act [probably means date of enactment, Dec. 12, 1991] each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that any single family residence construction loan described under subparagraph (B) shall be considered as a loan within the 50 percent risk-weighted category. “(B) Requirements.—Subparagraph (A) shall apply to any construction loan—“(i) made for the construction of a residence consisting of 1 to 4 dwelling units; “(ii) under which the lender has acquired from the lender originating the mortgage loan for purchase of the residence, before the making of the construction loan— “(I) documentation demonstrating that the buyer of the residence intends to purchase the residence and has the ability to obtain a mortgage loan sufficient to purchase the residence; and “(II) any other documentation from the mortgage lender that the appropriate Federal banking agency may consider appropriate to provide assurance of the buyer’s intent to purchase the property (including written commitments and letters of intent); “(iii) under which the borrower requires the buyer of the residence to make a nonrefundable deposit to the borrower in an amount (as determined by the appropriate Federal banking agency) of not less than 1 percent of the principal amount of mortgage loan obtained by the borrower for purchase of the residence, for use in defraying costs relating to any cancellation of the purchase contract of the buyer; and “(iv) that meets any other underwriting characteristics that the appropriate Federal banking agency may establish, consistent with the purposes of the minimum acceptable capital requirements to maintain the safety and soundness of financial institutions. “(2) 100 percent risk-weighted classification.—Not later than the expiration of the 120-day period beginning on the date of this Act [Dec. 12, 1991] each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that—“(A) any single family residence construction loan for a residence for which the purchase contract is canceled shall be considered as a loan within the 100 percent risk-weighted category; and “(B) the lender of any single family residence construction loan shall promptly notify the appropriate Federal banking agency of any such cancellation. “(b) Multifamily Housing Loans.—“(1) 50 percent risk-weighted classification.—“(A) In general.—To provide consistent regulatory treatment of loans made for the purchase of multifamily rental and homeowner properties, not later than the expiration of the 120-day period beginning on the date of this Act [Dec. 12, 1991] each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that any multifamily housing loan described under subparagraph (B) and any security collateralized by such a loan shall be considered as a loan or security within the 50 percent risk-weighted category. “(B) Requirements.—Subparagraph (A) shall apply to any loan—“(i) secured by a first lien on a residence consisting of more than 4 dwelling units; “(ii) under which— “(I) the rate of interest does not change over the term of the loan, (b) the principal obligation does not exceed 80 percent of the appraised value of the property, and (c) the ratio of annual net operating income generated by the property (before payment of any debt service on the loan) to annual debt service on the loan is not less than 120 percent; or “(II) the rate of interest changes over the term of the loan, (b) the principal obligation does not exceed 75 percent of the appraised value of the property, and (c) the ratio of annual net operating income generated by the property (before payment of any debt service on the loan) to annual debt service on the loan is not less than 115 percent; “(iii) under which— “(I) amortization of principal and interest occurs over a period of not more than 30 years; “(II) the minimum maturity for repayment of principal is not less than 7 years; and “(III) timely payment of all principal and interest, in accordance with the terms of the loan, occurs for a period of not less than 1 year; and “(iv) that meets any other underwriting characteristics that the appropriate Federal banking agency may establish, consistent with the purposes of the minimum acceptable capital requirements to maintain the safety and soundness of financial institutions. “(2) Sale pursuant to pro rata loss sharing arrangements.—Not later than the expiration of the 120-day period beginning on the date of this Act [Dec. 12, 1991], each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that any loan fully secured by a first lien on a multifamily housing property that is sold subject to a pro rata loss sharing arrangement by an institution subject to the jurisdiction of the agency shall be treated as sold to the extent that loss is incurred by the purchaser of the loan. For purposes of this paragraph, the term ‘pro rata loss sharing arrangement’ means an agreement providing that the purchaser of a loan shares in any loss incurred on the loan with the selling institution on a pro rata basis. “(3) Sale pursuant to other arrangements for loss.—Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act [Dec. 12, 1991], each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to take into account other loss sharing arrangements, in connection with the sale by an institution subject to the jurisdiction of the agency of any loan that is fully secured by a first lien on multifamily housing property, for purposes of determining the extent to which such loans shall be treated as sold. For purposes of this paragraph, the term ‘other loss sharing arrangement’ means an agreement providing that the purchaser of a loan shares in any loss incurred on the loan with the selling institution on other than a pro rata basis. “(c) Appropriate Federal Banking Agency.—For purposes of this section, the term ‘Federal banking agency’ means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, and the Director of the Office of Thrift Supervision.”
+Pub. L. 102–233, title VI, § 618, Dec. 12, 1991, 105 Stat. 1789, provided that: “(a) Single Family Housing Loans.—“(1) 50 percent risk-weighted classification.—“(a)[(A)] In general.—To provide consistent regulatory treatment of loans made for the construction of single family housing, not later than the expiration of the 120-day period beginning on the date of this Act [probably means date of enactment, Dec. 12, 1991] each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that any single family residence construction loan described under subparagraph (B) shall be considered as a loan within the 50 percent risk-weighted category. “(B) Requirements.—Subparagraph (A) shall apply to any construction loan—“(i) made for the construction of a residence consisting of 1 to 4 dwelling units; “(ii) under which the lender has acquired from the lender originating the mortgage loan for purchase of the residence, before the making of the construction loan— “(I) documentation demonstrating that the buyer of the residence intends to purchase the residence and has the ability to obtain a mortgage loan sufficient to purchase the residence; and “(II) any other documentation from the mortgage lender that the appropriate Federal banking agency may consider appropriate to provide assurance of the buyer’s intent to purchase the property (including written commitments and letters of intent); “(iii) under which the borrower requires the buyer of the residence to make a nonrefundable deposit to the borrower in an amount (as determined by the appropriate Federal banking agency) of not less than 1 percent of the principal amount of mortgage loan obtained by the borrower for purchase of the residence, for use in defraying costs relating to any cancellation of the purchase contract of the buyer; and “(iv) that meets any other underwriting characteristics that the appropriate Federal banking agency may establish, consistent with the purposes of the minimum acceptable capital requirements to maintain the safety and soundness of financial institutions. “(2) 100 percent risk-weighted classification.—Not later than the expiration of the 120-day period beginning on the date of this Act [Dec. 12, 1991] each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that—“(A) any single family residence construction loan for a residence for which the purchase contract is canceled shall be considered as a loan within the 100 percent risk-weighted category; and “(B) the lender of any single family residence construction loan shall promptly notify the appropriate Federal banking agency of any such cancellation. “(b) Multifamily Housing Loans.—“(1) 50 percent risk-weighted classification.—“(A) In general.—To provide consistent regulatory treatment of loans made for the purchase of multifamily rental and homeowner properties, not later than the expiration of the 120-day period beginning on the date of this Act [Dec. 12, 1991] each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that any multifamily housing loan described under subparagraph (B) and any security collateralized by such a loan shall be considered as a loan or security within the 50 percent risk-weighted category. “(B) Requirements.—Subparagraph (A) shall apply to any loan—“(i) secured by a first lien on a residence consisting of more than 4 dwelling units; “(ii) under which— “(I) the rate of interest does not change over the term of the loan, (b) the principal obligation does not exceed 80 percent of the appraised value of the property, and (c) the ratio of annual net operating income generated by the property (before payment of any debt service on the loan) to annual debt service on the loan is not less than 120 percent; or “(II) the rate of interest changes over the term of the loan, (b) the principal obligation does not exceed 75 percent of the appraised value of the property, and (c) the ratio of annual net operating income generated by the property (before payment of any debt service on the loan) to annual debt service on the loan is not less than 115 percent; “(iii) under which— “(I) amortization of principal and interest occurs over a period of not more than 30 years; “(II) the minimum maturity for repayment of principal is not less than 7 years; and “(III) timely payment of all principal and interest, in accordance with the terms of the loan, occurs for a period of not less than 1 year; and “(iv) that meets any other underwriting characteristics that the appropriate Federal banking agency may establish, consistent with the purposes of the minimum acceptable capital requirements to maintain the safety and soundness of financial institutions. “(2) Sale pursuant to pro rata loss sharing arrangements.—Not later than the expiration of the 120-day period beginning on the date of this Act [Dec. 12, 1991], each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that any loan fully secured by a first lien on a multifamily housing property that is sold subject to a pro rata loss sharing arrangement by an institution subject to the jurisdiction of the agency shall be treated as sold to the extent that loss is incurred by the purchaser of the loan. For purposes of this paragraph, the term ‘pro rata loss sharing arrangement’ means an agreement providing that the purchaser of a loan shares in any loss incurred on the loan with the selling institution on a pro rata basis. “(3) Sale pursuant to other arrangements for loss.—Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act [Dec. 12, 1991], each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to take into account other loss sharing arrangements, in connection with the sale by an institution subject to the jurisdiction of the agency of any loan that is fully secured by a first lien on multifamily housing property, for purposes of determining the extent to which such loans shall be treated as sold. For purposes of this paragraph, the term ‘other loss sharing arrangement’ means an agreement providing that the purchaser of a loan shares in any loss incurred on the loan with the selling institution on other than a pro rata basis. “(c) Appropriate Federal Banking Agency.—For purposes of this section, the term ‘Federal banking agency’ means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, and the Director of the Office of Thrift Supervision.”
 
 [Pub. L. 102–233, title VI, § 619, Dec. 12, 1991, 105 Stat. 1791, provided that: “The amendments made by this title [amending [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a) and enacting provisions set out as notes under this section and [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a)] shall not apply to any eligible residential property or eligible condominium property of the Resolution Trust Corporation, that is subject to an agreement for sale entered into by the Corporation before the date of the enactment of this Act [Dec. 12, 1991].” ]
 
@@ -10412,7 +10418,7 @@ Pub. L. 102–233, title VI, § 618, Dec. 12, 1991, 105 Stat. 1789, provided tha
 
   (D) *Significantly undercapitalized* — An insured depository institution is “significantly undercapitalized” if it is significantly below the required minimum level for any relevant capital measure.
 
-  (E) *Critically undercapitalized* — An insured depository institution is “critically undercapitalized” if it fails to meet any level specified under subsection (c)(3)(A) of this section.
+  (E) *Critically undercapitalized* — An insured depository institution is “critically undercapitalized” if it fails to meet any level specified under subsection (c)(3)(A).
 
 (2) **Other definitions**
 
@@ -10434,13 +10440,13 @@ Pub. L. 102–233, title VI, § 618, Dec. 12, 1991, 105 Stat. 1789, provided tha
 
     (iii) a transaction that the appropriate Federal banking agency or the Corporation determines, by order or regulation, to be in substance a distribution of capital to the owners of the insured depository institution or company.
 
-  (C) *Capital restoration plan* — The term “capital restoration plan” means a plan submitted under subsection (e)(2) of this section.
+  (C) *Capital restoration plan* — The term “capital restoration plan” means a plan submitted under subsection (e)(2).
 
   (D) *Company* — The term “company” has the same meaning as in [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841).
 
   (E) *Compensation* — The term “compensation” includes any payment of money or provision of any other thing of value in consideration of employment.
 
-  (F) *Relevant capital measure* — The term “relevant capital measure” means the measures described in subsection (c) of this section.
+  (F) *Relevant capital measure* — The term “relevant capital measure” means the measures described in subsection (c).
 
   (G) *Required minimum level* — The term “required minimum level” means, with respect to each relevant capital measure, the minimum acceptable capital level specified by the appropriate Federal banking agency by regulation.
 
@@ -10578,7 +10584,7 @@ Pub. L. 102–233, title VI, § 618, Dec. 12, 1991, 105 Stat. 1789, provided tha
 
   (B) the Board of Directors determines that the proposed action will further the purpose of this section.
 
-(5) **Discretionary safeguards** — The appropriate Federal banking agency may, with respect to any undercapitalized insured depository institution, take actions described in any subparagraph of subsection (f)(2) of this section if the agency determines that those actions are necessary to carry out the purpose of this section.
+(5) **Discretionary safeguards** — The appropriate Federal banking agency may, with respect to any undercapitalized insured depository institution, take actions described in any subparagraph of subsection (f)(2) if the agency determines that those actions are necessary to carry out the purpose of this section.
 
 **(f) Provisions applicable to significantly undercapitalized institutions and undercapitalized institutions that fail to submit and implement capital restoration plans**
 
@@ -10588,7 +10594,7 @@ Pub. L. 102–233, title VI, § 618, Dec. 12, 1991, 105 Stat. 1789, provided tha
 
   (B) is undercapitalized and—
 
-    (i) fails to submit an acceptable capital restoration plan within the time allowed by the appropriate Federal banking agency under subsection (e)(2)(D) of this section; or
+    (i) fails to submit an acceptable capital restoration plan within the time allowed by the appropriate Federal banking agency under subsection (e)(2)(D); or
 
     (ii) fails in any material respect to implement a plan accepted by the agency.
 
@@ -10614,7 +10620,7 @@ Pub. L. 102–233, title VI, § 618, Dec. 12, 1991, 105 Stat. 1789, provided tha
 
     (ii) *Retroactive restrictions prohibited* — This subparagraph does not authorize the agency to restrict interest rates paid on time deposits made before (and not renewed or renegotiated after) the agency acted under this subparagraph.
 
-  (D) *Restricting asset growth* — Restricting the institution’s asset growth more stringently than subsection (e)(3) of this section, or requiring the institution to reduce its total assets.
+  (D) *Restricting asset growth* — Restricting the institution’s asset growth more stringently than subsection (e)(3), or requiring the institution to reduce its total assets.
 
   (E) *Restricting activities* — Requiring the institution or any of its subsidiaries to alter, reduce, or terminate any activity that the agency determines poses excessive risk to the institution.
 
@@ -10658,7 +10664,7 @@ Pub. L. 102–233, title VI, § 618, Dec. 12, 1991, 105 Stat. 1789, provided tha
 
   (B) *Failing to submit plan* — The appropriate Federal banking agency shall not grant any approval under subparagraph (A) with respect to an institution that has failed to submit an acceptable capital restoration plan.
 
-(5) **Discretion to impose certain additional restrictions** — The agency may impose 1 or more of the restrictions prescribed by regulation under subsection (i) of this section if the agency determines that those restrictions are necessary to carry out the purpose of this section.
+(5) **Discretion to impose certain additional restrictions** — The agency may impose 1 or more of the restrictions prescribed by regulation under subsection (i) if the agency determines that those restrictions are necessary to carry out the purpose of this section.
 
 (6) **Consultation with other regulators** — Before the agency or Corporation makes a determination under paragraph (2)(I) with respect to an affiliate that is a broker, dealer, government securities broker, government securities dealer, investment company, or investment adviser, the agency or Corporation shall consult with the Securities and Exchange Commission and, in the case of any other affiliate which is subject to any financial responsibility or capital requirement, any other appropriate regulator of such affiliate with respect to the proposed determination of the agency or the Corporation and actions pursuant to such determination.
 
@@ -10668,15 +10674,15 @@ Pub. L. 102–233, title VI, § 618, Dec. 12, 1991, 105 Stat. 1789, provided tha
 
   (A) if the institution is well capitalized, reclassify the institution as adequately capitalized;
 
-  (B) if the institution is adequately capitalized (but not well capitalized), require the institution to comply with 1 or more provisions of subsections (d) and (e) of this section, as if the institution were undercapitalized; or
+  (B) if the institution is adequately capitalized (but not well capitalized), require the institution to comply with 1 or more provisions of subsections (d) and (e), as if the institution were undercapitalized; or
 
-  (C) if the institution is undercapitalized, take any 1 or more actions authorized under subsection (f)(2) of this section as if the institution were significantly undercapitalized.
+  (C) if the institution is undercapitalized, take any 1 or more actions authorized under subsection (f)(2) as if the institution were significantly undercapitalized.
 
 (2) **Contents of plan** — Any plan required under paragraph (1) shall specify the steps that the insured depository institution will take to correct the unsafe or unsound condition or practice. Capital restoration plans shall not be required under paragraph (1)(B).
 
 **(h) Provisions applicable to critically undercapitalized institutions**
 
-(1) **Activities restricted** — Any critically undercapitalized insured depository institution shall comply with restrictions prescribed by the Corporation under subsection (i) of this section.
+(1) **Activities restricted** — Any critically undercapitalized insured depository institution shall comply with restrictions prescribed by the Corporation under subsection (i).
 
 (2) **Payments on subordinated debt prohibited**
 
@@ -10732,7 +10738,7 @@ Pub. L. 102–233, title VI, § 618, Dec. 12, 1991, 105 Stat. 1789, provided tha
 
   (G) Paying interest on new or renewed liabilities at a rate that would increase the institution’s weighted average cost of funds to a level significantly exceeding the prevailing rates of interest on insured deposits in the institution’s normal market areas.
 
-**(j) Certain Government-controlled institutions exempted** Subsections (e) through (i) of this section (other than paragraph (3) of subsection (e) of this section) shall not apply—
+**(j) Certain Government-controlled institutions exempted** Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall not apply—
 
 (1) to an insured depository institution for which the Corporation or the Resolution Trust Corporation is conservator; or
 
@@ -10834,7 +10840,7 @@ Pub. L. 102–233, title VI, § 618, Dec. 12, 1991, 105 Stat. 1789, provided tha
 
 **(n) Administrative review of dismissal orders**
 
-(1) **Timely petition required** — A director or senior executive officer dismissed pursuant to an order under subsection (f)(2)(F)(ii) of this section may obtain review of that order by filing a written petition for reinstatement with the appropriate Federal banking agency not later than 10 days after receiving notice of the dismissal.
+(1) **Timely petition required** — A director or senior executive officer dismissed pursuant to an order under subsection (f)(2)(F)(ii) may obtain review of that order by filing a written petition for reinstatement with the appropriate Federal banking agency not later than 10 days after receiving notice of the dismissal.
 
 (2) **Procedure**
 
@@ -10862,9 +10868,9 @@ Pub. L. 102–233, title VI, § 618, Dec. 12, 1991, 105 Stat. 1789, provided tha
 
   (A) to become adequately capitalized, to the extent that the order is based on the institution’s capital level or failure to submit or implement a capital restoration plan; and
 
-  (B) to correct the unsafe or unsound condition or unsafe or unsound practice, to the extent that the order is based on subsection (g)(1) of this section.
+  (B) to correct the unsafe or unsound condition or unsafe or unsound practice, to the extent that the order is based on subsection (g)(1).
 
-**(o) Transition rules for savings associations** Subsections (e)(2), (f), and (h) of this section shall not apply before July 1, 1994, to any insured savings association if—
+**(o) Transition rules for savings associations** Subsections (e)(2), (f), and (h) shall not apply before July 1, 1994, to any insured savings association if—
 
 (1) before December 19, 1991—
 
@@ -11028,7 +11034,7 @@ Section, act Sept. 21, 1950, ch. 967, § 2[39], as added Dec. 19, 1991, Pub. L. 
 
   (E) asset growth; and
 
-  (F) compensation, fees, and benefits, in accordance with subsection (c) of this section; and
+  (F) compensation, fees, and benefits, in accordance with subsection (c); and
 
 (2) such other operational and managerial standards as the agency determines to be appropriate.
 
@@ -11062,7 +11068,7 @@ Section, act Sept. 21, 1950, ch. 967, § 2[39], as added Dec. 19, 1991, Pub. L. 
 
 **(d) Standards to be prescribed**
 
-(1) **In general** — Standards under subsections (a), (b), and (c) of this section shall be prescribed by regulation or guideline. Such regulations or guidelines may not prescribe standards that set a specific level or range of compensation for directors, officers, or employees of insured depository institutions.
+(1) **In general** — Standards under subsections (a), (b), and (c) shall be prescribed by regulation or guideline. Such regulations or guidelines may not prescribe standards that set a specific level or range of compensation for directors, officers, or employees of insured depository institutions.
 
 (2) **Applicability of other laws** — Paragraph (1) shall not affect the authority of any appropriate Federal banking agency to restrict the level of compensation, including golden parachute payments (as defined in [section 1828(k)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1828/k/4&num=0&edition=prelim)), paid to any director, officer, or employee of an insured depository institution under any other provision of law.
 
@@ -11078,7 +11084,7 @@ Section, act Sept. 21, 1950, ch. 967, § 2[39], as added Dec. 19, 1991, Pub. L. 
 
 (1) **Plan required**
 
-  (A) *In general* — If the appropriate Federal banking agency determines that an insured depository institution fails to meet any standard prescribed under subsection (a) or (b) of this section—
+  (A) *In general* — If the appropriate Federal banking agency determines that an insured depository institution fails to meet any standard prescribed under subsection (a) or (b)—
 
     (i) if such standard is prescribed by regulation of the agency, the agency shall require the institution to submit an acceptable plan to the agency within the time allowed by the agency under subparagraph (C); and
 
@@ -11088,7 +11094,7 @@ Section, act Sept. 21, 1950, ch. 967, § 2[39], as added Dec. 19, 1991, Pub. L. 
 
   (C) *Deadlines for submission and review of plans* — The appropriate Federal banking agency shall by regulation establish deadlines that—
 
-    (i) provide institutions and companies with reasonable time to submit plans required under subparagraph (A), and generally require the institution to submit a plan not later than 30 days after the agency determines that the institution fails to meet any standard prescribed under subsection (a), (b), or (c) of this section; and
+    (i) provide institutions with reasonable time to submit plans required under subparagraph (A), and generally require the institution to submit a plan not later than 30 days after the agency determines that the institution fails to meet any standard prescribed under subsection (a), (b), or (c); and
 
     (ii) require the agency to act on plans expeditiously, and generally not later than 30 days after the plan is submitted.
 
@@ -11108,7 +11114,7 @@ Section, act Sept. 21, 1950, ch. 967, § 2[39], as added Dec. 19, 1991, Pub. L. 
 
 (3) **Restrictions mandatory for certain institutions** — In complying with paragraph (2), the appropriate Federal banking agency shall take 1 or more of the actions described in clauses (i) through (iii) of paragraph (2)(B) if—
 
-  (A) the agency determines that the insured depository institution fails to meet any standard prescribed under subsection (a)(1) or (b)(1) of this section;
+  (A) the agency determines that the insured depository institution fails to meet any standard prescribed under subsection (a)(1) or (b)(1);
 
   (B) the institution has not corrected the deficiency; and
 
@@ -11152,13 +11158,15 @@ Subsec. (d). Pub. L. 103–325, § 318(b)(1), struck out “by regulation” aft
 
 Subsec. (d)(1). Pub. L. 103–325, § 318(b)(2), inserted “or guideline” before period at end of first sentence and inserted “or guidelines” after “Such regulations” in second sentence.
 
-Subsec. (e)(1)(A). Pub. L. 103–325, § 318(c)(2)(A)–(C), struck out “or depository institution holding company” after “insured depository institution”, substituted “or (b) of this section—
+Subsec. (e)(1)(A). Pub. L. 103–325, § 318(c)(2)(A)–(C), struck out “or depository institution holding company” after “insured depository institution”, substituted “or (b)—
 
 “(i) if such standard is prescribed by regulation of the agency, the agency shall require”
 
 for “or (b) of this section the agency shall require”, struck out “or company” before “to submit an acceptable plan”, substituted “; and” for period at end of cl. (i), and added cl. (ii).
 
-Subsec. (e)(1)(B), (C). Pub. L. 103–325, § 318(c)(2)(A), struck out “or company” before “will take to correct” in subpar. (B) and before “to submit a plan” and “fails to meet any standard” in subpar. (C).
+Subsec. (e)(1)(B). Pub. L. 103–325, § 318(c)(2)(A), struck out “or company” before “will take to correct”.
+
+Subsec. (e)(1)(C)(i). Pub. L. 103–325, § 318(c)(2)(A), (D), struck out “and companies” after “institutions” and struck out “or company” after “institution” in two places.
 
 Subsec. (e)(2). Pub. L. 103–325, § 318(c)(2)(B), struck out “or depository institution holding company” after “insured depository institution” in introductory provisions.
 
@@ -11217,11 +11225,11 @@ Pub. L. 102–242, title I, § 132(b), Dec. 19, 1991, 105 Stat. 2270, provided t
   (B) public agencies or nonprofit organizations that agree to (i) make the property available for occupancy by and maintain it as affordable for low-income families (including low-income families with members who are veterans) for the remaining useful life of such property, or (ii) make the property available for purchase by any such family who, except as provided in paragraph (4), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months.
   The restrictions described in clause (i) of subparagraph (B) shall be contained in the deed or other recorded instrument. If, upon the expiration of such 180-day period, no qualifying household, public agency, or nonprofit organization has made a bona fide offer to purchase the property, the Corporation may offer to sell the property to any purchaser. The Corporation shall actively market eligible single family properties for sale to low-income families and to low-income families with members who are veterans.
 
-(3) **Recapture of profits from resale** — Except as provided in paragraph (4), if any eligible single family property sold (A) to a qualifying household, or (B) to a low-income family pursuant to paragraph (2)(B)(ii), subsection (j)(3)(A) of this section, or subsection (k)(2) of this section, is resold by the qualifying household or low-income family during the 1-year period beginning upon initial acquisition by the household or low-income family, the Corporation shall recapture 75 percent of the amount of any proceeds from the resale that exceed the sum of (i) the original sale price for the acquisition of the property by the qualifying household or low-income family, (ii) the costs of any improvements to the property made after the date of the acquisition, and (iii) any closing costs in connection with the acquisition.
+(3) **Recapture of profits from resale** — Except as provided in paragraph (4), if any eligible single family property sold (A) to a qualifying household, or (B) to a low-income family pursuant to paragraph (2)(B)(ii), subsection (j)(3)(A), or subsection (k)(2), is resold by the qualifying household or low-income family during the 1-year period beginning upon initial acquisition by the household or low-income family, the Corporation shall recapture 75 percent of the amount of any proceeds from the resale that exceed the sum of (i) the original sale price for the acquisition of the property by the qualifying household or low-income family, (ii) the costs of any improvements to the property made after the date of the acquisition, and (iii) any closing costs in connection with the acquisition.
 
 (4) **Exceptions to recapture requirement**
 
-  (A) *Relocation* — The Corporation may in its discretion waive the applicability (i) to any qualifying household of the requirement under paragraph (3) and the requirements relating to residency of a qualifying household under subparagraphs (B) and (C) of subsection (p)(12) of this section, and (ii) to any low-income family of the requirement under paragraph (3) and the residency requirements under paragraph (2)(B)(ii). The Corporation may grant any such waiver only for good cause shown, including any necessary relocation of the qualifying household or low-income family.
+  (A) *Relocation* — The Corporation may in its discretion waive the applicability (i) to any qualifying household of the requirement under paragraph (3) and the requirements relating to residency of a qualifying household under subparagraphs (B) and (C) of subsection (p)(12), and (ii) to any low-income family of the requirement under paragraph (3) and the residency requirements under paragraph (2)(B)(ii). The Corporation may grant any such waiver only for good cause shown, including any necessary relocation of the qualifying household or low-income family.
 
   (B) *Other recapture provisions* — The requirement under paragraph (3) shall not apply to any eligible single family property for which, upon resale by the qualifying household or low-income family during the 1-year period beginning upon initial acquisition by the household or family, a portion of the sale proceeds or any subsidy provided in connection with the acquisition of the property by the household or family is required to be recaptured or repaid under any other Federal, State, or local law (including [section 143(m) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section143/m&num=0&edition=prelim)) or regulation or under any sale agreement.
 
@@ -11279,13 +11287,13 @@ Pub. L. 102–242, title I, § 132(b), Dec. 19, 1991, 105 Stat. 2270, provided t
 
 (1) **In general** — With respect to properties under paragraph (2), rents charged to tenants for units made available for occupancy by very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the median income for the area, as determined by the Secretary, with adjustment for family size. Rents charged to tenants for units made available for occupancy by low-income families other than very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area, as determined by the Secretary, with adjustment for family size.
 
-(2) **Applicability** — The rent limitations under this subsection shall apply to any eligible single family property sold pursuant to subsection (c)(2)(B)(i) of this section and to any eligible multifamily housing property sold pursuant to subsection (d) of this section.
+(2) **Applicability** — The rent limitations under this subsection shall apply to any eligible single family property sold pursuant to subsection (c)(2)(B)(i) and to any eligible multifamily housing property sold pursuant to subsection (d).
 
 **(f) Preferences for sales**
 
 (1) **In general** — In selling any eligible multifamily housing property or combinations of eligible residential properties, the Corporation shall give preference, among substantially similar offers, to the offer that would reserve the highest percentage of dwelling units for occupancy or purchase by very low-income and low-income families and would retain such affordability for the longest term.
 
-(2) **Multiproperty purchases** — The Corporation shall give preference, among substantially similar offers made under paragraph (4) or (5) of subsection (d) of this section to purchase more than one eligible multifamily housing property as a part of the same negotiation, to offers made by purchasers who agree to maintain low-income occupancy in each separate property purchased in compliance with the levels required for properties under subsection (d)(7)(A) of this section.
+(2) **Multiproperty purchases** — The Corporation shall give preference, among substantially similar offers made under paragraph (4) or (5) of subsection (d) to purchase more than one eligible multifamily housing property as a part of the same negotiation, to offers made by purchasers who agree to maintain low-income occupancy in each separate property purchased in compliance with the levels required for properties under subsection (d)(7)(A).
 
 (3) **Definition of substantially similar offers** — For purposes of this subsection, a given offer to purchase eligible multifamily housing property or combinations of such properties shall be considered to be substantially similar to another offer if the purchase price under such given offer is not less than 85 percent of the purchase price under the other offer.
 
@@ -11293,21 +11301,21 @@ Pub. L. 102–242, title I, § 132(b), Dec. 19, 1991, 105 Stat. 2270, provided t
 
 (1) **Assistance by Corporation**
 
-  (A) *Sale price* — The Corporation shall establish a market value for each eligible multifamily housing property. The Corporation shall sell eligible multifamily housing property at the net realizable market value, except that the Corporation may agree to sell eligible multifamily housing property at a price below the net realizable market value to the extent necessary to facilitate an expedited sale of such property and enable a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to such property under subsection (d)(7) of this section. The Corporation may sell eligible single family property or eligible condominium property to qualifying households, nonprofit organizations, and public agencies without regard to any minimum sale price.
+  (A) *Sale price* — The Corporation shall establish a market value for each eligible multifamily housing property. The Corporation shall sell eligible multifamily housing property at the net realizable market value, except that the Corporation may agree to sell eligible multifamily housing property at a price below the net realizable market value to the extent necessary to facilitate an expedited sale of such property and enable a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to such property under subsection (d)(7). The Corporation may sell eligible single family property or eligible condominium property to qualifying households, nonprofit organizations, and public agencies without regard to any minimum sale price.
 
-  (B) *Purchase loan* — The Corporation may provide a loan at market interest rates to any purchaser of eligible residential property for all or a portion of the purchase price, which loan shall be secured by a first or second mortgage on the property. The Corporation may provide the loan at below market interest rates to the extent necessary to facilitate an expedited sale of eligible residential property and permit (i) a low-income family to purchase an eligible single family property under subsection (c) of this section, or (ii) a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to the purchase of an eligible residential property under subsection (c) or (d) of this section. The Corporation shall provide loans under this subparagraph in a form permitting sale or transfer of the loan to a subsequent holder. In providing financing for combinations of eligible multifamily housing properties under this section, the Corporation may hold a participating share, including a subordinate participation. The Corporation shall periodically provide, to a wide range of minority- and women-owned businesses engaged in providing affordable housing and to nonprofit organizations, more than 50 percent of the control of which is held by 1 or more minority individuals, that are engaged in providing affordable housing, information that is sufficient to inform such businesses and organizations of the availability and terms of financing under this subparagraph; such information may be provided directly, by notices published in periodicals and other publications that regularly provide information to such businesses or organizations, and through persons and organizations that regularly provide information or services to such businesses or organizations. For purposes of this subparagraph, the terms “women-owned business” and “minority-owned business” have the meanings given such terms in section 1441a(r) 1 of this title, and the term “minority” has the meaning given such term in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
+  (B) *Purchase loan* — The Corporation may provide a loan at market interest rates to any purchaser of eligible residential property for all or a portion of the purchase price, which loan shall be secured by a first or second mortgage on the property. The Corporation may provide the loan at below market interest rates to the extent necessary to facilitate an expedited sale of eligible residential property and permit (i) a low-income family to purchase an eligible single family property under subsection (c), or (ii) a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to the purchase of an eligible residential property under subsection (c) or (d). The Corporation shall provide loans under this subparagraph in a form permitting sale or transfer of the loan to a subsequent holder. In providing financing for combinations of eligible multifamily housing properties under this section, the Corporation may hold a participating share, including a subordinate participation. The Corporation shall periodically provide, to a wide range of minority- and women-owned businesses engaged in providing affordable housing and to nonprofit organizations, more than 50 percent of the control of which is held by 1 or more minority individuals, that are engaged in providing affordable housing, information that is sufficient to inform such businesses and organizations of the availability and terms of financing under this subparagraph; such information may be provided directly, by notices published in periodicals and other publications that regularly provide information to such businesses or organizations, and through persons and organizations that regularly provide information or services to such businesses or organizations. For purposes of this subparagraph, the terms “women-owned business” and “minority-owned business” have the meanings given such terms in section 1441a(r) 1 of this title, and the term “minority” has the meaning given such term in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
 
 (2) **Assistance by HUD** — The Secretary shall take such action as may be necessary to expedite the processing of applications for assistance under section 202 of the Housing Act of 1959 [[12 U.S.C. 1701q](./chapter-013-national-housing.md#section-1701q)], the United States Housing Act of 1937 [[42 U.S.C. 1437](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437&num=0&edition=prelim) et seq.], title IV of the McKinney-Vento Homeless Assistance Act [[42 U.S.C. 11360](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11360&num=0&edition=prelim) et seq.], and the National Housing Act [[12 U.S.C. 1701](./chapter-013-national-housing.md#section-1701) et seq.], to enable any organization or individual to purchase eligible residential property.
 
 (3) **Assistance by FMHA** — The Secretary of Agriculture shall take such action as may be necessary to expedite the processing of applications for assistance under title V of the Housing Act of 1949 [[42 U.S.C. 1471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1471&num=0&edition=prelim) et seq.] to enable any organization or individual to purchase eligible residential property.
 
-(4) **Exception to disposition rules** — Notwithstanding the requirements under paragraphs (1), (2), (3), (4), (6), and (8) of subsection (d) of this section, the Corporation may provide for the disposition of eligible multifamily housing properties as necessary to facilitate purchase of such properties for use in connection with section 202 of the Housing Act of 1959 [[12 U.S.C. 1701q](./chapter-013-national-housing.md#section-1701q)].
+(4) **Exception to disposition rules** — Notwithstanding the requirements under paragraphs (1), (2), (3), (4), (6), and (8) of subsection (d), the Corporation may provide for the disposition of eligible multifamily housing properties as necessary to facilitate purchase of such properties for use in connection with section 202 of the Housing Act of 1959 [[12 U.S.C. 1701q](./chapter-013-national-housing.md#section-1701q)].
 
 (5) **Bulk acquisitions under Home Investment Partnerships Act**
 
   (A) *Purchase price* — In providing for bulk acquisition of eligible single family properties by participating jurisdictions for inclusion in affordable housing activities under title II of the Cranston-Gonzalez National Affordable Housing Act [[42 U.S.C. 12721](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12721&num=0&edition=prelim) et seq.], the Corporation shall agree to an amount to be paid for acquisition of such properties. The acquisition price shall include discounts for bulk purchase and for holding of the property such that the acquisition price for each property shall not exceed the fair market value of the property, as valued individually.
 
-  (B) *Exemptions* — To the extent necessary to facilitate sale of properties under this paragraph, the requirements of subsections (c) and (f) of this section and of paragraph (1) of this subsection shall not apply to such transactions and properties involved in such transactions.
+  (B) *Exemptions* — To the extent necessary to facilitate sale of properties under this paragraph, the requirements of subsections (c) and (f) and of paragraph (1) of this subsection shall not apply to such transactions and properties involved in such transactions.
 
   (C) *Inventories* — To facilitate acquisitions by such participating jurisdictions, the Corporation shall provide the participating jurisdictions with inventories of eligible single family properties not less than 4 times each year.
 
@@ -11325,7 +11333,7 @@ Pub. L. 102–242, title I, § 132(b), Dec. 19, 1991, 105 Stat. 2270, provided t
 
 **(i) Exemption for certain transactions with insured depository institutions** The provisions of this section shall not apply with respect to any eligible residential property after the date the Corporation enters into a contract to sell such property to an insured depository institution (as defined in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813)), including any sale in connection with a transfer of all or substantially all of the assets of a closed insured depository institution (including such property) to another insured depository institution.
 
-**(j) Transfer of certain eligible residential properties to State housing agencies for disposition** Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporation may transfer eligible residential properties to the State housing finance agency or any other State housing agency for the State in which the property is located, or to any local housing agency in whose jurisdiction the property is located. Transfers of eligible residential properties under this subsection may be conducted by direct sale, consignment sale, or any other method the Corporation considers appropriate and shall be subject to the following requirements:
+**(j) Transfer of certain eligible residential properties to State housing agencies for disposition** Notwithstanding subsections (c), (d), (f), and (g), the Corporation may transfer eligible residential properties to the State housing finance agency or any other State housing agency for the State in which the property is located, or to any local housing agency in whose jurisdiction the property is located. Transfers of eligible residential properties under this subsection may be conducted by direct sale, consignment sale, or any other method the Corporation considers appropriate and shall be subject to the following requirements:
 
 (1) **Individual or bulk transfer** — The Corporation may transfer such properties individually or in bulk, as agreed to by the Corporation and the State housing finance agency or State or local housing agency.
 
@@ -11335,37 +11343,37 @@ Pub. L. 102–242, title I, § 132(b), Dec. 19, 1991, 105 Stat. 2270, provided t
 
   (A) *Eligible single family properties* — For eligible single family properties—
 
-    (i) to purchasers described under subparagraphs (A) and (B) of subsection (c)(2) of this section;
+    (i) to purchasers described under subparagraphs (A) and (B) of subsection (c)(2);
 
-    (ii) if the purchaser is a purchaser described under subsection (c)(2)(B)(i) of this section, subject to the rent limitations under subsection (e)(1) of this section;
+    (ii) if the purchaser is a purchaser described under subsection (c)(2)(B)(i), subject to the rent limitations under subsection (e)(1);
 
-    (iii) subject to the requirement in the second sentence of subsection (c)(2) of this section; and
+    (iii) subject to the requirement in the second sentence of subsection (c)(2); and
 
-    (iv) subject to recapture by the Corporation of excess proceeds from resale of the properties under paragraphs (3) and (4) of subsection (c) of this section.
+    (iv) subject to recapture by the Corporation of excess proceeds from resale of the properties under paragraphs (3) and (4) of subsection (c).
 
   (B) *Eligible multifamily housing properties* — For eligible multifamily housing properties—
 
     (i) to qualifying multifamily purchasers;
 
-    (ii) subject to the low-income occupancy requirements under subsection (d)(7) of this section;
+    (ii) subject to the low-income occupancy requirements under subsection (d)(7);
 
-    (iii) subject to the provisions of subsection (d)(8) of this section;
+    (iii) subject to the provisions of subsection (d)(8);
 
     (iv) subject to a preference, among financially acceptable offers, to the offer that would reserve the highest percentage of dwelling units for occupancy or purchase by very low- and low-income families and would retain such affordability for the longest term; and
 
-    (v) subject to the rent limitations under subsection (e)(1) of this section.
+    (v) subject to the rent limitations under subsection (e)(1).
 
 (4) **Affordability** — The State housing finance agency or State or local housing agency shall endeavor to make the properties transferred under this subsection more affordable to low-income families based upon the extent to which the acquisition price of a property under paragraph (2) is less than the market value of the property.
 
 **(k) Exception for sales to nonprofit organizations and public agencies**
 
-(1) **Suspension of offer periods** — With respect to any eligible residential property, the Corporation may (in the discretion of the Corporation) suspend any of the requirements of paragraphs (1) and (2) of subsection (c) of this section and paragraphs (1) through (4) of subsection (d) of this section, as applicable, but only to the extent that for the duration of the suspension the Corporation negotiates the sale of the property to a nonprofit organization or public agency. If the property is not sold pursuant to such negotiations, the requirements of any provisions suspended shall apply upon the termination of the suspension. Any time period referred to in such subsections shall toll for the duration of any suspension under this paragraph.
+(1) **Suspension of offer periods** — With respect to any eligible residential property, the Corporation may (in the discretion of the Corporation) suspend any of the requirements of paragraphs (1) and (2) of subsection (c) and paragraphs (1) through (4) of subsection (d), as applicable, but only to the extent that for the duration of the suspension the Corporation negotiates the sale of the property to a nonprofit organization or public agency. If the property is not sold pursuant to such negotiations, the requirements of any provisions suspended shall apply upon the termination of the suspension. Any time period referred to in such subsections shall toll for the duration of any suspension under this paragraph.
 
 (2) **Use restrictions**
 
-  (A) *Eligible single family property* — Any eligible single family property sold under this subsection shall be (i) made available for occupancy by and maintained as affordable for low-income families for the remaining useful life of the property, or made available for purchase by such families, (ii) subject to the rent limitations under subsection (e)(1) of this section, (iii) subject to the requirements relating to residency of a qualifying household under subsection (p)(12) of this section and to residency of a low-income family under subsection (c)(2)(B) of this section, and (iv) subject to recapture by the Corporation of excess proceeds from resale of the property under paragraphs (3) and (4) of subsection (c) of this section.
+  (A) *Eligible single family property* — Any eligible single family property sold under this subsection shall be (i) made available for occupancy by and maintained as affordable for low-income families for the remaining useful life of the property, or made available for purchase by such families, (ii) subject to the rent limitations under subsection (e)(1), (iii) subject to the requirements relating to residency of a qualifying household under subsection (p)(12) and to residency of a low-income family under subsection (c)(2)(B), and (iv) subject to recapture by the Corporation of excess proceeds from resale of the property under paragraphs (3) and (4) of subsection (c).
 
-  (B) *Eligible multifamily housing property* — Any eligible multifamily housing property sold under this subsection shall comply with the low-income occupancy requirements under subsection (d)(7) of this section and shall be subject to the rent limitations under subsection (e)(1) of this section.
+  (B) *Eligible multifamily housing property* — Any eligible multifamily housing property sold under this subsection shall comply with the low-income occupancy requirements under subsection (d)(7) and shall be subject to the rent limitations under subsection (e)(1).
 
 **(l) Rules governing disposition of eligible condominium property**
 
@@ -11391,7 +11399,7 @@ Pub. L. 102–242, title I, § 132(b), Dec. 19, 1991, 105 Stat. 2270, provided t
 
 (4) **Recapture of profits from resale** — Except as provided in paragraph (5), if any eligible condominium property sold (A) to a qualifying household, or (B) to a low-income family pursuant to paragraph (3)(A)(ii) or (3)(B)(ii), is resold by the qualifying household or low-income family during the 1-year period beginning upon initial acquisition by the household or family, the Corporation shall recapture 75 percent of the amount of any proceeds from the resale that exceed the sum of (i) the original sale price for the acquisition of the property by the qualifying household or low-income family, (ii) the costs of any improvements to the property made after the date of the acquisition, and (iii) any closing costs in connection with the acquisition.
 
-(5) **Exception to recapture requirement** — The Corporation (or its successor) may in its discretion waive the applicability to any qualifying household or low-income family of the requirement under paragraph (4) and the requirements relating to residency of a qualifying household or low-income family (under subsection (p)(12) of this section and paragraph (3) of this subsection, respectively). The Corporation may grant any such a waiver only for good cause shown, including any necessary relocation of the qualifying household or low-income family.
+(5) **Exception to recapture requirement** — The Corporation (or its successor) may in its discretion waive the applicability to any qualifying household or low-income family of the requirement under paragraph (4) and the requirements relating to residency of a qualifying household or low-income family (under subsection (p)(12) and paragraph (3) of this subsection, respectively). The Corporation may grant any such a waiver only for good cause shown, including any necessary relocation of the qualifying household or low-income family.
 
 (6) **Limitations on multiple unit purchases** — The Corporation may not sell or offer to sell as part of the same negotiation or purchase any eligible condominium properties that are not located in the same condominium project (as such term is defined in [section 3603 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3603&num=0&edition=prelim)). The preceding sentence may not be construed to require all eligible condominium properties offered or sold as part of the same negotiation or purchase to be located in the same structure.
 
@@ -11401,7 +11409,7 @@ Pub. L. 102–242, title I, § 132(b), Dec. 19, 1991, 105 Stat. 2270, provided t
 
 (1) **In general** — The provisions of this section, or any failure by the Corporation to comply with such provisions, may not be used by any person to attack or defeat any title to property after it is conveyed by the Corporation.
 
-(2) **Low-income occupancy** — The low-income occupancy requirements under subsections (c), (d), (j)(3), (k)(2), and (l)(3) of this section shall be judicially enforceable against purchasers of property under this section and their successors in interest by affected very low- and low-income families, State housing finance agencies, and any agency, corporation, or authority of the United States. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
+(2) **Low-income occupancy** — The low-income occupancy requirements under subsections (c), (d), (j)(3), (k)(2), and (l)(3) shall be judicially enforceable against purchasers of property under this section and their successors in interest by affected very low- and low-income families, State housing finance agencies, and any agency, corporation, or authority of the United States. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
 
 (3) **Clearinghouses** — A clearinghouse shall not be subject to suit for its failure to comply with the requirements of this section.
 
@@ -11431,7 +11439,7 @@ Pub. L. 102–242, title I, § 132(b), Dec. 19, 1991, 105 Stat. 2270, provided t
 
   (D) a timetable for the unification; and
 
-  (E) a methodology to determine the extent to which the provisions of this section shall be effective, in accordance with the limitations under subsection (b)(2) of this section.
+  (E) a methodology to determine the extent to which the provisions of this section shall be effective, in accordance with the limitations under subsection (b)(2).
 
 (4) **Transfer to FDIC** — Beginning not later than October 1, 1995, the Corporation shall carry out any remaining authority and responsibilities of the Resolution Trust Corporation, as set forth in section 1441a(c) 1 of this title.
 
@@ -11499,7 +11507,7 @@ Pub. L. 102–242, title I, § 132(b), Dec. 19, 1991, 105 Stat. 2270, provided t
 
   (B) a nonprofit organization; or
 
-  (C) a for-profit entity, which makes a commitment (for itself or any related entity) to comply with the low-income occupancy requirements under subsection (d)(7) of this section for any eligible multifamily housing property for which an offer to purchase is made during or after the periods specified under subsection (d) of this section.
+  (C) a for-profit entity, which makes a commitment (for itself or any related entity) to comply with the low-income occupancy requirements under subsection (d)(7) for any eligible multifamily housing property for which an offer to purchase is made during or after the periods specified under subsection (d).
 
 (14) **Secretary** — The term “Secretary” means the Secretary of Housing and Urban Development.
 
@@ -11511,17 +11519,17 @@ Pub. L. 102–242, title I, § 132(b), Dec. 19, 1991, 105 Stat. 2270, provided t
 
 (1) **In general** — Within a reasonable period of time after acquiring title to an ineligible residential property, the Corporation shall, to the extent practicable, provide written notice to clearinghouses.
 
-(2) **Content** — For ineligible single family properties, such notice shall contain the same information about such properties that the notice required under subsection (c)(1) of this section contains with respect to eligible single family properties. For ineligible multifamily housing properties, such notice shall contain the same information about such properties that the notice required under subsection (d)(1) of this section contains with respect to eligible multifamily housing properties. For ineligible condominium properties, such notice shall contain the same information about such properties that the notice required under subsection (l)(1) of this section contains with respect to eligible condominium properties.
+(2) **Content** — For ineligible single family properties, such notice shall contain the same information about such properties that the notice required under subsection (c)(1) contains with respect to eligible single family properties. For ineligible multifamily housing properties, such notice shall contain the same information about such properties that the notice required under subsection (d)(1) contains with respect to eligible multifamily housing properties. For ineligible condominium properties, such notice shall contain the same information about such properties that the notice required under subsection (l)(1) contains with respect to eligible condominium properties.
 
 (3) **Availability** — The clearinghouses shall make such information available, upon request, to other public agencies, other nonprofit organizations, qualifying households, qualifying multifamily purchasers, and other purchasers, as appropriate.
 
 (4) **Definitions** — For purposes of this subsection, the following definitions shall apply:
 
-  (A) *Ineligible condominium property* — The term “ineligible condominium property” means any eligible condominium property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A) of this section.
+  (A) *Ineligible condominium property* — The term “ineligible condominium property” means any eligible condominium property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A).
 
-  (B) *Ineligible multifamily housing property* — The term “ineligible multifamily housing property” means any eligible multifamily housing property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A) of this section.
+  (B) *Ineligible multifamily housing property* — The term “ineligible multifamily housing property” means any eligible multifamily housing property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A).
 
-  (C) *Ineligible single family property* — The term “ineligible single family property” means any eligible single family property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A) of this section.
+  (C) *Ineligible single family property* — The term “ineligible single family property” means any eligible single family property to which the provisions of this section do not apply as a result of the limitations under subsection (b)(2)(A).
 
   (D) *Ineligible residential property* — The term “ineligible residential property” includes ineligible single family properties, ineligible multifamily housing properties, and ineligible condominium properties.
 
@@ -11589,7 +11597,7 @@ Pub. L. 102–242, title II, § 241(b), Dec. 19, 1991, 105 Stat. 2331, as amende
 ## § 1831r. Payments on foreign deposits prohibited
 **(a) In general** Notwithstanding any other provision of law, the Corporation, the Board of Governors of the Federal Reserve System, the Resolution Trust Corporation, any other agency, department, and instrumentality of the United States, and any corporation owned or controlled by the United States may not, directly or indirectly, make any payment or provide any assistance, guarantee, or transfer under this chapter or any other provision of law in connection with any insured depository institution which would have the direct or indirect effect of satisfying, in whole or in part, any claim against the institution for obligations of the institution which would constitute deposits as defined in section 1813(l) of this title but for subparagraphs (A) and (B) of section 1813(l)(5) of this title.
 
-**(b) Exception** Subsection (a) of this section shall not apply to any payment, assistance, guarantee, or transfer made or provided by the Corporation if the Board of Directors determines in writing that such action is not inconsistent with any requirement of [section 1823(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1823/c&num=0&edition=prelim).
+**(b) Exception** Subsection (a) shall not apply to any payment, assistance, guarantee, or transfer made or provided by the Corporation if the Board of Directors determines in writing that such action is not inconsistent with any requirement of [section 1823(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1823/c&num=0&edition=prelim).
 
 **(c) Discount window lending** No provision of this section shall be construed as prohibiting any Federal Reserve bank from making advances or otherwise extending credit pursuant to the Federal Reserve Act [[12 U.S.C. 221](./chapter-003-federal-reserve-system.md#section-221) et seq.] to any insured depository institution to the extent that such advance or extension of credit is consistent with the conditions and limitations imposed under section 10B of such Act [[12 U.S.C. 347b](./chapter-003-federal-reserve-system.md#section-347b)].
 
@@ -11630,7 +11638,7 @@ The Federal Reserve Act, referred to in subsec. (c), is act Dec. 23, 1913, ch. 6
 
 **(d) Branch closures in interstate banking or branching operations**
 
-(1) **Notice requirements** — In the case of an interstate bank which proposes to close any branch in a low- or moderate-income area, the notice required under subsection (b)(2) of this section shall contain the mailing address of the appropriate Federal banking agency and a statement that comments on the proposed closing of such branch may be mailed to such agency.
+(1) **Notice requirements** — In the case of an interstate bank which proposes to close any branch in a low- or moderate-income area, the notice required under subsection (b)(2) shall contain the mailing address of the appropriate Federal banking agency and a statement that comments on the proposed closing of such branch may be mailed to such agency.
 
 (2) **Action required by appropriate Federal banking agency** — If, in the case of a branch referred to in paragraph (1)—
 
@@ -11643,7 +11651,7 @@ The Federal Reserve Act, referred to in subsec. (c), is act Dec. 23, 1913, ch. 6
   (B) the agency concludes that the request is not frivolous,
   the agency shall consult with community leaders in the affected area and convene a meeting of representatives of the agency and other interested depository institution regulatory agencies with community leaders in the affected area and such other individuals, organizations, and depository institutions (as defined in [section 461(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section461/b/1/A&num=0&edition=prelim)) as the agency may determine, in the discretion of the agency, to be appropriate, to explore the feasibility of obtaining adequate alternative facilities and services for the affected area, including the establishment of a new branch by another depository institution, the chartering of a new depository institution, or the establishment of a community development credit union, following the closing of the branch.
 
-(3) **No effect on closing** — No action by the appropriate Federal banking agency under paragraph (2) shall affect the authority of an interstate bank to close a branch (including the timing of such closing) if the requirements of subsections (a) and (b) of this section have been met by such bank with respect to the branch being closed.
+(3) **No effect on closing** — No action by the appropriate Federal banking agency under paragraph (2) shall affect the authority of an interstate bank to close a branch (including the timing of such closing) if the requirements of subsections (a) and (b) have been met by such bank with respect to the branch being closed.
 
 (4) **Definitions** — For purposes of this subsection, the following definitions shall apply:
 
@@ -11771,7 +11779,7 @@ Section, act Sept. 21, 1950, ch. 967, § 2[39], as added Dec. 19, 1991, Pub. L. 
 
 **(c) Manner and content of disclosure** To ensure that current and prospective customers understand the risks involved in foregoing Federal deposit insurance, the Bureau, by regulation or order, shall prescribe the manner and content of disclosure required under this section, which shall be presented in such format and in such type size and manner as to be simple and easy to understand.
 
-**(d) Exceptions for institutions not receiving retail deposits** The Bureau may, by regulation or order, make exceptions to subsection (b) of this section for any depository institution that, within the United States, does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
+**(d) Exceptions for institutions not receiving retail deposits** The Bureau may, by regulation or order, make exceptions to subsection (b) for any depository institution that, within the United States, does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
 
 **(e) Definitions** For purposes of this section:
 
@@ -11937,7 +11945,7 @@ Pub. L. 102–242, title I, § 151(b), Dec. 19, 1991, 105 Stat. 2285, as amended
 
   (C) *Effectiveness of State deposit caps* — No provision of this subsection shall be construed as affecting the authority of any State to limit, by statute, regulation, or order, the percentage of the total amount of deposits of insured depository institutions in the State which may be held or controlled by any bank or bank holding company (including all insured depository institutions which are affiliates of the bank or bank holding company) to the extent the application of such limitation does not discriminate against out-of-State banks, out-of-State bank holding companies, or subsidiaries of such banks or holding companies.
 
-  (D) *Exceptions to subparagraph (B)* — The responsible agency may approve an application for an interstate merger transaction pursuant to subsection (a) of this section without regard to the applicability of subparagraph (B) with respect to any State if—
+  (D) *Exceptions to subparagraph (B)* — The responsible agency may approve an application for an interstate merger transaction pursuant to subsection (a) without regard to the applicability of subparagraph (B) with respect to any State if—
 
     (i) there is a limitation described in subparagraph (C) in a State statute, regulation, or order which has the effect of permitting a bank or bank holding company (including all insured depository institutions which are affiliates of the bank or bank holding company) to control a greater percentage of total deposits of all insured depository institutions in the State than the percentage permitted under subparagraph (B); or
 
@@ -11953,7 +11961,7 @@ Pub. L. 102–242, title I, § 151(b), Dec. 19, 1991, 105 Stat. 2285, as amended
 
   (C) take into account the record of compliance of any applicant bank with applicable State community reinvestment laws.
 
-(4) **Adequacy of capital and management skills** — The responsible agency may approve an application for an interstate merger transaction pursuant to subsection (a) of this section only if—
+(4) **Adequacy of capital and management skills** — The responsible agency may approve an application for an interstate merger transaction pursuant to subsection (a) only if—
 
   (A) each bank involved in the transaction is adequately capitalized as of the date the application is filed; and
 
@@ -12000,7 +12008,7 @@ Pub. L. 102–242, title I, § 151(b), Dec. 19, 1991, 105 Stat. 2285, as amended
   (B) the bank holding company made commitments to such State in connection with the acquisition,
   the State may enforce such conditions and commitments with respect to such bank holding company or any affiliated successor company which controls a bank or branch in such State as a result of an interstate merger transaction to the same extent as the State could enforce such conditions or commitments against the bank holding company before the consummation of the merger transaction.
 
-**(e) Exception for banks in default or in danger of default** If an application under subsection (a)(1) of this section for approval of a merger transaction which involves 1 or more banks in default or in danger of default or with respect to which the Corporation provides assistance under [section 1823(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1823/c&num=0&edition=prelim), the responsible agency may approve such application without regard to subsection (b) of this section, or paragraph (2), (4), or (5) of subsection (a) of this section.
+**(e) Exception for banks in default or in danger of default** If an application under subsection (a)(1) for approval of a merger transaction which involves 1 or more banks in default or in danger of default or with respect to which the Corporation provides assistance under [section 1823(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1823/c&num=0&edition=prelim), the responsible agency may approve such application without regard to subsection (b), or paragraph (2), (4), or (5) of subsection (a).
 
 **(f) Applicable rate and other charge limitations**
 
@@ -12066,7 +12074,7 @@ Pub. L. 102–242, title I, § 151(b), Dec. 19, 1991, 105 Stat. 2285, as amended
 
 (5) **Host State** — The term “host State” means, with respect to a bank, a State, other than the home State of the bank, in which the bank maintains, or seeks to establish and maintain, a branch.
 
-(6) **Interstate merger transaction** — The term “interstate merger transaction” means any merger transaction approved pursuant to subsection (a)(1) of this section.
+(6) **Interstate merger transaction** — The term “interstate merger transaction” means any merger transaction approved pursuant to subsection (a)(1).
 
 (7) **Merger transaction** — The term “merger transaction” has the meaning determined under [section 1828(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1828/c/3&num=0&edition=prelim).
 
@@ -12161,7 +12169,7 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
 (4) the State bank complies with the amendments to sections 23A and 23B of the Federal Reserve Act [[12 U.S.C. 371c](./chapter-003-federal-reserve-system.md#section-371c) and 371c–1] made by section 121(b) of the Gramm-Leach-Bliley Act.
 
-**(b) Preservation of existing subsidiaries** Notwithstanding subsection (a) of this section, an insured State bank may retain control of a subsidiary, or retain an interest in a subsidiary, that the State bank lawfully controlled or acquired before November 12, 1999, and conduct through such subsidiary any activities lawfully conducted in such subsidiary as of such date.
+**(b) Preservation of existing subsidiaries** Notwithstanding subsection (a), an insured State bank may retain control of a subsidiary, or retain an interest in a subsidiary, that the State bank lawfully controlled or acquired before November 12, 1999, and conduct through such subsidiary any activities lawfully conducted in such subsidiary as of such date.
 
 **(c) Definitions** For purposes of this section, the following definitions shall apply:
 
@@ -12198,13 +12206,13 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
 (3) **Consultation and joint regulations** — The Federal banking agencies shall consult with each other and prescribe joint regulations pursuant to paragraph (1), after consultation with the State insurance regulators, as appropriate.
 
-**(b) Sales practices** The regulations prescribed pursuant to subsection (a) of this section shall include antitying and anticoercion rules applicable to the sale of insurance products that prohibit a depository institution from engaging in any practice that would lead a customer to believe an extension of credit, in violation of [section 1972 of this title](./chapter-022-tying-arrangements.md#section-1972), is conditional upon—
+**(b) Sales practices** The regulations prescribed pursuant to subsection (a) shall include antitying and anticoercion rules applicable to the sale of insurance products that prohibit a depository institution from engaging in any practice that would lead a customer to believe an extension of credit, in violation of [section 1972 of this title](./chapter-022-tying-arrangements.md#section-1972), is conditional upon—
 
 (1) the purchase of an insurance product from the institution or any of its affiliates; or
 
 (2) an agreement by the consumer not to obtain, or a prohibition on the consumer from obtaining, an insurance product from an unaffiliated entity.
 
-**(c) Disclosures and advertising** The regulations prescribed pursuant to subsection (a) of this section shall include the following provisions relating to disclosures and advertising in connection with the initial purchase of an insurance product:
+**(c) Disclosures and advertising** The regulations prescribed pursuant to subsection (a) shall include the following provisions relating to disclosures and advertising in connection with the initial purchase of an insurance product:
 
 (1) **Disclosures**
 
@@ -12252,7 +12260,7 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
 **(d) Separation of banking and nonbanking activities**
 
-(1) **Regulations required** — The regulations prescribed pursuant to subsection (a) of this section shall include such provisions as the Federal banking agencies consider appropriate to ensure that the routine acceptance of deposits is kept, to the extent practicable, physically segregated from insurance product activity.
+(1) **Regulations required** — The regulations prescribed pursuant to subsection (a) shall include such provisions as the Federal banking agencies consider appropriate to ensure that the routine acceptance of deposits is kept, to the extent practicable, physically segregated from insurance product activity.
 
 (2) **Requirements** — Regulations prescribed pursuant to paragraph (1) shall include the following requirements:
 
@@ -12308,18 +12316,18 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
     (iii) *Federal preemption and ability of States to override Federal preemption* — If the Federal agencies referred to in clause (i) jointly determine that any provision of the regulations prescribed under this section affords greater protections than a comparable State law, rule, regulation, order, or interpretation, those agencies shall send a written preemption notice to the appropriate State regulatory authority to notify the State that the Federal provision will preempt the State provision and will become applicable unless, not later than 3 years after the date of such notice, the State adopts legislation to override such preemption.
 
-**(h) Non-discrimination against non-affiliated agents** The Federal banking agencies shall ensure that the regulations prescribed pursuant to subsection (a) of this section shall not have the effect of discriminating, either intentionally or unintentionally, against any person engaged in insurance sales or solicitations that is not affiliated with a depository institution.
+**(h) Non-discrimination against non-affiliated agents** The Federal banking agencies shall ensure that the regulations prescribed pursuant to subsection (a) shall not have the effect of discriminating, either intentionally or unintentionally, against any person engaged in insurance sales or solicitations that is not affiliated with a depository institution.
 
 
 <a id="section-1831y"></a>
 ## § 1831y. CRA sunshine requirements
-**(a) Public disclosure of agreements** Any agreement (as defined in subsection (e) of this section) entered into after November 12, 1999, by an insured depository institution or affiliate with a nongovernmental entity or person made pursuant to or in connection with the Community Reinvestment Act of 1977 [[12 U.S.C. 2901](./chapter-030-community-reinvestment.md#section-2901) et seq.] involving funds or other resources of such insured depository institution or affiliate—
+**(a) Public disclosure of agreements** Any agreement (as defined in subsection (e)) entered into after November 12, 1999, by an insured depository institution or affiliate with a nongovernmental entity or person made pursuant to or in connection with the Community Reinvestment Act of 1977 [[12 U.S.C. 2901](./chapter-030-community-reinvestment.md#section-2901) et seq.] involving funds or other resources of such insured depository institution or affiliate—
 
 (1) shall be in its entirety fully disclosed, and the full text thereof made available to the appropriate Federal banking agency with supervisory responsibility over the insured depository institution and to the public by each party to the agreement; and
 
 (2) shall obligate each party to comply with this section.
 
-**(b) Annual report of activity by insured depository institution** Each insured depository institution or affiliate that is a party to an agreement described in subsection (a) of this section shall report to the appropriate Federal banking agency with supervisory responsibility over the insured depository institution, not less frequently than once each year, such information as the Federal banking agency may by rule require relating to the following actions taken by the party pursuant to the agreement during the preceding 12-month period:
+**(b) Annual report of activity by insured depository institution** Each insured depository institution or affiliate that is a party to an agreement described in subsection (a) shall report to the appropriate Federal banking agency with supervisory responsibility over the insured depository institution, not less frequently than once each year, such information as the Federal banking agency may by rule require relating to the following actions taken by the party pursuant to the agreement during the preceding 12-month period:
 
 (1) Payments, fees, or loans made to any party to the agreement or received from any party to the agreement and the terms and conditions of the same.
 
@@ -12329,13 +12337,13 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
 **(c) Annual report of activity by nongovernmental entities**
 
-(1) **In general** — Each nongovernmental entity or person that is not an affiliate of an insured depository institution and that is a party to an agreement described in subsection (a) of this section shall report to the appropriate Federal banking agency with supervisory responsibility over the insured depository institution that is a party to such agreement, not less frequently than once each year, an accounting of the use of funds received pursuant to each such agreement during the preceding 12-month period.
+(1) **In general** — Each nongovernmental entity or person that is not an affiliate of an insured depository institution and that is a party to an agreement described in subsection (a) shall report to the appropriate Federal banking agency with supervisory responsibility over the insured depository institution that is a party to such agreement, not less frequently than once each year, an accounting of the use of funds received pursuant to each such agreement during the preceding 12-month period.
 
 (2) **Submission to insured depository institution** — A nongovernmental entity or person referred to in paragraph (1) may comply with the reporting requirement in such paragraph by transmitting the report to the insured depository institution that is a party to the agreement, and such insured depository institution shall promptly transmit such report to the appropriate Federal banking agency with supervisory authority over the insured depository institution.
 
 (3) **Information to be included** — The accounting referred to in paragraph (1) shall include a detailed, itemized list of the uses to which such funds have been made, including compensation, administrative expenses, travel, entertainment, consulting and professional fees paid, and such other categories, as determined by regulation by the appropriate Federal banking agency with supervisory responsibility over the insured depository institution.
 
-**(d) Applicability** Subsections (b) and (c) of this section shall not apply with respect to any agreement entered into before the end of the 6-month period beginning on November 12, 1999.
+**(d) Applicability** Subsections (b) and (c) shall not apply with respect to any agreement entered into before the end of the 6-month period beginning on November 12, 1999.
 
 **(e) Definitions**
 
@@ -12366,19 +12374,19 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
 (1) **Violations by persons other than insured depository institutions or their affiliates**
 
-  (A) *Material failure to comply* — If the party to an agreement described in subsection (a) of this section that is not an insured depository institution or affiliate willfully fails to comply with this section in a material way, as determined by the appropriate Federal banking agency, the agreement shall be unenforceable after the offending party has been given notice and a reasonable period of time to perform or comply.
+  (A) *Material failure to comply* — If the party to an agreement described in subsection (a) that is not an insured depository institution or affiliate willfully fails to comply with this section in a material way, as determined by the appropriate Federal banking agency, the agreement shall be unenforceable after the offending party has been given notice and a reasonable period of time to perform or comply.
 
-  (B) *Diversion of funds or resources* — If funds or resources received under an agreement described in subsection (a) of this section have been diverted contrary to the purposes of the agreement for personal financial gain, the appropriate Federal banking agency with supervisory responsibility over the insured depository institution may impose either or both of the following penalties:
+  (B) *Diversion of funds or resources* — If funds or resources received under an agreement described in subsection (a) have been diverted contrary to the purposes of the agreement for personal financial gain, the appropriate Federal banking agency with supervisory responsibility over the insured depository institution may impose either or both of the following penalties:
 
     (i) Disgorgement by the offending individual of funds received under the agreement.
 
-    (ii) Prohibition of the offending individual from being a party to any agreement described in subsection (a) of this section for a period of not to exceed 10 years.
+    (ii) Prohibition of the offending individual from being a party to any agreement described in subsection (a) for a period of not to exceed 10 years.
 
-(2) **Designation of successor nongovernmental party** — If an agreement described in subsection (a) of this section is found to be unenforceable under this subsection, the appropriate Federal banking agency may assist the insured depository institution in identifying a successor nongovernmental party to assume the responsibilities of the agreement.
+(2) **Designation of successor nongovernmental party** — If an agreement described in subsection (a) is found to be unenforceable under this subsection, the appropriate Federal banking agency may assist the insured depository institution in identifying a successor nongovernmental party to assume the responsibilities of the agreement.
 
-(3) **Inadvertent or de minimis reporting errors** — An error in a report filed under subsection (c) of this section that is inadvertent or de minimis shall not subject the filing party to any penalty.
+(3) **Inadvertent or de minimis reporting errors** — An error in a report filed under subsection (c) that is inadvertent or de minimis shall not subject the filing party to any penalty.
 
-**(g) Rule of construction** No provision of this section shall be construed as authorizing any appropriate Federal banking agency to enforce the provisions of any agreement described in subsection (a) of this section.
+**(g) Rule of construction** No provision of this section shall be construed as authorizing any appropriate Federal banking agency to enforce the provisions of any agreement described in subsection (a).
 
 **(h) Regulations**
 
@@ -12388,11 +12396,11 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
   (A) ensure that the regulations prescribed by the agency do not impose an undue burden on the parties and that proprietary and confidential information is protected; and
 
-  (B) establish procedures to allow any nongovernmental entity or person who is a party to a large number of agreements described in subsection (a) of this section to make a single or consolidated filing of a report under subsection (c) of this section to an insured depository institution or an appropriate Federal banking agency.
+  (B) establish procedures to allow any nongovernmental entity or person who is a party to a large number of agreements described in subsection (a) to make a single or consolidated filing of a report under subsection (c) to an insured depository institution or an appropriate Federal banking agency.
 
 (3) **Parties not subject to reporting requirements** — The Board of Governors of the Federal Reserve System may prescribe regulations—
 
-  (A) to prevent evasions of subsection (e)(1)(B)(iii) of this section; and
+  (A) to prevent evasions of subsection (e)(1)(B)(iii); and
 
   (B) to provide further exemptions under such subsection, consistent with the purposes of this section.
 
@@ -12422,7 +12430,7 @@ The Community Reinvestment Act of 1977, referred to in subsecs. (a) and (e)(1)(A
 
   (E) What is a fair estimate of the size and worth of the “unbanked” market in the United States?
 
-**(b) Reports** The Chairperson of the Board of Directors shall submit a bi-annual report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing the Corporation’s findings and conclusions with respect to the survey conducted pursuant to subsection (a) of this section, together with such recommendations for legislative or administrative action as the Chairperson may determine to be appropriate.
+**(b) Reports** The Chairperson of the Board of Directors shall submit a bi-annual report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing the Corporation’s findings and conclusions with respect to the survey conducted pursuant to subsection (a), together with such recommendations for legislative or administrative action as the Chairperson may determine to be appropriate.
 
 
 <a id="section-1832"></a>
@@ -12490,7 +12498,7 @@ Section, Pub. L. 101–73, title IX, § 918, Aug. 9, 1989, 103 Stat. 487, requir
 
 <a id="section-1833a"></a>
 ## § 1833a. Civil penalties
-**(a) In general** Whoever violates any provision of law to which this section is made applicable by subsection (c) of this section shall be subject to a civil penalty in an amount assessed by the court in a civil action under this section.
+**(a) In general** Whoever violates any provision of law to which this section is made applicable by subsection (c) shall be subject to a civil penalty in an amount assessed by the court in a civil action under this section.
 
 **(b) Maximum amount of penalty**
 
@@ -12580,7 +12588,7 @@ Pub. L. 103–322, title XXXIII, § 330003(g), Sept. 13, 1994, 108 Stat. 2141, p
 
 **(b) Commodity Futures Trading Commission** In establishing and adjusting schedules of compensation and benefits for employees of the Commodity Futures Trading Commission under applicable provisions of law, the Commission shall—
 
-(1) inform the heads of the agencies referred to in subsection (a) of this section and Congress of such compensation and benefits; and
+(1) inform the heads of the agencies referred to in subsection (a) and Congress of such compensation and benefits; and
 
 (2) seek to maintain comparability with those agencies regarding compensation and benefits.
 
@@ -12680,7 +12688,7 @@ Section, Pub. L. 101–73, title XII, § 1215, Aug. 9, 1989, 103 Stat. 529, rela
 (4) the Federal Home Loan Mortgage Corporation; and
 
 (5) the Federal National Mortgage Association,
-shall each submit to the Congress a report containing a complete description of the actions taken by such agency pursuant to subsections (a) and (b) of this section and such recommendations for administrative and legislative action as each such agency may determine to be appropriate to carry out the purposes of such subsection.
+shall each submit to the Congress a report containing a complete description of the actions taken by such agency pursuant to subsections (a) and (b) and such recommendations for administrative and legislative action as each such agency may determine to be appropriate to carry out the purposes of such subsection.
 
 ### Statutory Notes
 
@@ -12829,7 +12837,7 @@ Pub. L. 102–550, title XVI, § 1605(a)(3), Oct. 28, 1992, 106 Stat. 4085, whic
 ## § 1834a. Assessment credits for qualifying activities relating to distressed communities
 **(a) Determination of credits for increases in community enterprise activities**
 
-(1) **In general** — The Community Enterprise Assessment Credit Board established under subsection (d) of this section shall issue guidelines for insured depository institutions eligible under this subsection for any community enterprise assessment credit with respect to any semiannual period. Such guidelines shall—
+(1) **In general** — The Community Enterprise Assessment Credit Board established under subsection (d) shall issue guidelines for insured depository institutions eligible under this subsection for any community enterprise assessment credit with respect to any semiannual period. Such guidelines shall—
 
   (A) designate the eligibility requirements for any institution meeting applicable capital standards to receive an assessment credit under [section 1817(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1817/b/7&num=0&edition=prelim); and
 
@@ -12993,7 +13001,7 @@ Pub. L. 102–550, title XVI, § 1605(a)(3), Oct. 28, 1992, 106 Stat. 4085, whic
 
 **(e) Duties of Board**
 
-(1) **Procedure for determining community enterprise assessment credits** — The Board shall establish procedures for accepting and considering applications by insured depository institutions under subsection (a)(1) of this section for community enterprise assessment credits and making determinations with respect to such applications.
+(1) **Procedure for determining community enterprise assessment credits** — The Board shall establish procedures for accepting and considering applications by insured depository institutions under subsection (a)(1) for community enterprise assessment credits and making determinations with respect to such applications.
 
 (2) **Notice to FDIC** — The Board shall notify the applicant and the Federal Deposit Insurance Corporation of any determination of the Board with respect to any application referred to in paragraph (1) in sufficient time for the Corporation to include the amount of such credit in the computation of the semiannual assessment to which such credit is applicable.
 
@@ -13009,7 +13017,7 @@ Pub. L. 102–550, title XVI, § 1605(a)(3), Oct. 28, 1992, 106 Stat. 4085, whic
 
 (1) **Qualifying loans and services**
 
-  (A) *In general* — If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subparagraphs (A) and (B) of subsection (a)(2) of this section for any semiannual period for which such appropriation is available, determine which institutions shall receive an award.
+  (A) *In general* — If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subparagraphs (A) and (B) of subsection (a)(2) for any semiannual period for which such appropriation is available, determine which institutions shall receive an award.
 
   (B) *Priority for support of efforts of CDFI* — The Board shall give priority to institutions that have supported the efforts of community development financial institutions in the qualified distressed community.
 
@@ -13031,15 +13039,15 @@ Pub. L. 102–550, title XVI, § 1605(a)(3), Oct. 28, 1992, 106 Stat. 4085, whic
 
     (viii) *Extent of distress in community* — The degree of poverty and unemployment in the designated distressed community, the proportion of the total population of the community which are low-income families and unrelated individuals, and the extent of other adverse economic conditions in such community.
 
-(2) **Qualifying investments** — If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subsection (a)(2)(C) of this section for any semiannual period for which such appropriation is available, determine which institutions shall receive an award based on the leverage ratio between the dollar amount of the activities that form the basis for the institution’s application and the amount of the assessment credit calculated in accordance with this section for such activities.
+(2) **Qualifying investments** — If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subsection (a)(2)(C) for any semiannual period for which such appropriation is available, determine which institutions shall receive an award based on the leverage ratio between the dollar amount of the activities that form the basis for the institution’s application and the amount of the assessment credit calculated in accordance with this section for such activities.
 
-**(i) Determination of amount of assessment credit** Notwithstanding any other provision of this section, the determination of the amount of any community enterprise assessment credit under subsection (a)(3) of this section for any insured depository institution for any semiannual period shall be made solely at the discretion of the Board. No insured depository institution shall be awarded community enterprise assessment credits for any semiannual period in excess of an amount determined by the Board.
+**(i) Determination of amount of assessment credit** Notwithstanding any other provision of this section, the determination of the amount of any community enterprise assessment credit under subsection (a)(3) for any insured depository institution for any semiannual period shall be made solely at the discretion of the Board. No insured depository institution shall be awarded community enterprise assessment credits for any semiannual period in excess of an amount determined by the Board.
 
 **(j) Definitions** For purposes of this section—
 
 (1) **Appropriate Federal banking agency** — The term “appropriate Federal banking agency” has the meaning given to such term in [section 1813(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/q&num=0&edition=prelim).
 
-(2) **Board** — The term “Board” means the Community Enterprise Assessment Credit Board established under the amendment made 22 So in original. The words “under the amendment made” probably should not appear. by subsection (d) of this section.
+(2) **Board** — The term “Board” means the Community Enterprise Assessment Credit Board established under the amendment made 22 So in original. The words “under the amendment made” probably should not appear. by subsection (d).
 
 (3) **Insured depository institution** — The term “insured depository institution” has the meaning given to such term in [section 1813(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/c/2&num=0&edition=prelim).
 
@@ -13134,9 +13142,9 @@ Pub. L. 102–550, title XVI, § 1605(a)(7), Oct. 28, 1992, 106 Stat. 4086, whic
 
 (1) the institution—
 
-  (A) is a community development bank, or controls any community development bank, which meets the requirements of subsection (b) of this section;
+  (A) is a community development bank, or controls any community development bank, which meets the requirements of subsection (b);
 
-  (B) controls any community development corporation, or maintains any community development unit within the institution, which meets the requirements of subsection (c) of this section;
+  (B) controls any community development corporation, or maintains any community development unit within the institution, which meets the requirements of subsection (c);
 
   (C) invests in accounts in any community development credit union designated as a low-income credit union, subject to restrictions established for such credit unions by the National Credit Union Administration Board; or
 
@@ -13162,7 +13170,7 @@ Pub. L. 102–550, title XVI, § 1605(a)(7), Oct. 28, 1992, 106 Stat. 4086, whic
 
 (3) the bylaws of the community development bank require that the board of directors of the bank meet with the Community Investment Board at least once every 3 months.
 
-**(c) Community development corporation requirements** Any community development corporation, or community development unit within any insured depository institution meets the requirements of this subsection if the corporation or unit provides the same or greater, as determined by the appropriate Federal banking agency, community participation in the activities of such corporation or unit as would be provided by a Community Investment Board under subsection (b) of this section if such corporation or unit were a community development bank.
+**(c) Community development corporation requirements** Any community development corporation, or community development unit within any insured depository institution meets the requirements of this subsection if the corporation or unit provides the same or greater, as determined by the appropriate Federal banking agency, community participation in the activities of such corporation or unit as would be provided by a Community Investment Board under subsection (b) if such corporation or unit were a community development bank.
 
 **(d) Adequate dispersal requirement** The appropriate Federal banking agency may approve the establishment of a community development organization under this subtitle only upon finding that the distressed community is not adequately served by an existing community development organization.
 
@@ -13199,19 +13207,19 @@ Section was enacted as part of the Bank Enterprise Act of 1991, and also as part
 
 (2) include, for purposes of applicable capital standards and other capital measures, only the amount of the retained recourse in the risk-weighted assets of the institution.
 
-**(c) Qualified institutions criteria** An insured depository institution is a qualified insured depository institution for purposes of this section if, without regard to the accounting principles or capital requirements referred to in subsections (a) and (b) of this section, the institution is—
+**(c) Qualified institutions criteria** An insured depository institution is a qualified insured depository institution for purposes of this section if, without regard to the accounting principles or capital requirements referred to in subsections (a) and (b), the institution is—
 
 (1) well capitalized; or
 
 (2) with the approval, by regulation or order, of the appropriate Federal banking agency, adequately capitalized.
 
-**(d) Aggregate amount of recourse** The total outstanding amount of recourse retained by a qualified insured depository institution with respect to transfers of small business loans and leases of personal property under subsections (a) and (b) of this section shall not exceed—
+**(d) Aggregate amount of recourse** The total outstanding amount of recourse retained by a qualified insured depository institution with respect to transfers of small business loans and leases of personal property under subsections (a) and (b) shall not exceed—
 
 (1) 15 percent of the risk-based capital of the institution; or
 
 (2) such greater amount, as established by the appropriate Federal banking agency by regulation or order.
 
-**(e) Institutions that cease to be qualified or exceed aggregate limits** If an insured depository institution ceases to be a qualified insured depository institution or exceeds the limits under subsection (d) of this section, this section shall remain applicable to any transfers of small business loans or leases of personal property that occurred during the time that the institution was qualified and did not exceed such limit.
+**(e) Institutions that cease to be qualified or exceed aggregate limits** If an insured depository institution ceases to be a qualified insured depository institution or exceeds the limits under subsection (d), this section shall remain applicable to any transfers of small business loans or leases of personal property that occurred during the time that the institution was qualified and did not exceed such limit.
 
 **(f) Prompt corrective action not affected** The capital of an insured depository institution shall be computed without regard to this section in determining whether the institution is adequately capitalized, undercapitalized, significantly undercapitalized, or critically undercapitalized under section 1831o of this title.
 
@@ -13219,7 +13227,7 @@ Section was enacted as part of the Bank Enterprise Act of 1991, and also as part
 
 **(h) Alternative system permitted**
 
-(1) **In general** — At the discretion of the appropriate Federal banking agency, this section shall not apply if the regulations of the agency provide that the aggregate amount of capital and reserves required with respect to the transfer of small business loans and leases of personal property with recourse does not exceed the aggregate amount of capital and reserves that would be required under subsection (b) of this section.
+(1) **In general** — At the discretion of the appropriate Federal banking agency, this section shall not apply if the regulations of the agency provide that the aggregate amount of capital and reserves required with respect to the transfer of small business loans and leases of personal property with recourse does not exceed the aggregate amount of capital and reserves that would be required under subsection (b).
 
 (2) **Existing transactions not affected** — Notwithstanding paragraph (1), this section shall remain in effect with respect to transfers of small business loans and leases of personal property with recourse by qualified insured depository institutions occurring before the effective date of regulations referred to in paragraph (1).
 
@@ -13253,11 +13261,11 @@ Section was enacted as part of the Small Business Loan Securitization and Second
 ## § 1835a. Prohibition against deposit production offices
 **(a) Regulations** The appropriate Federal banking agencies shall prescribe uniform regulations effective June 1, 1997, which prohibit any out-of-State bank from using any authority to engage in interstate branching pursuant to this title,11 See References in Text note below. or any amendment made by this title 1 to any other provision of law, primarily for the purpose of deposit production.
 
-**(b) Guidelines for meeting credit needs** Regulations issued under subsection (a) of this section shall include guidelines to ensure that interstate branches operated by an out-of-State bank in a host State are reasonably helping to meet the credit needs of the communities which the branches serve.
+**(b) Guidelines for meeting credit needs** Regulations issued under subsection (a) shall include guidelines to ensure that interstate branches operated by an out-of-State bank in a host State are reasonably helping to meet the credit needs of the communities which the branches serve.
 
 **(c) Limitation on out-of-State loans**
 
-(1) **Limitation** — Regulations issued under subsection (a) of this section shall require that, beginning no earlier than 1 year after establishment or acquisition of an interstate branch or branches in a host State by an out-of-State bank, if the appropriate Federal banking agency for the out-of-State bank determines that the bank’s level of lending in the host State relative to the deposits from the host State (as reasonably determinable from available information including the agency’s sampling of the bank’s loan files during an examination or such data as is otherwise available) is less than half the average of total loans in the host State relative to total deposits from the host State (as determinable from relevant sources) for all banks the home State of which is such State—
+(1) **Limitation** — Regulations issued under subsection (a) shall require that, beginning no earlier than 1 year after establishment or acquisition of an interstate branch or branches in a host State by an out-of-State bank, if the appropriate Federal banking agency for the out-of-State bank determines that the bank’s level of lending in the host State relative to the deposits from the host State (as reasonably determinable from available information including the agency’s sampling of the bank’s loan files during an examination or such data as is otherwise available) is less than half the average of total loans in the host State relative to total deposits from the host State (as determinable from relevant sources) for all banks the home State of which is such State—
 
   (A) the appropriate Federal banking agency for the out-of-State bank shall review the loan portfolio of the bank and determine whether the bank is reasonably helping to meet the credit needs of the communities served by the bank in the host State; and
 

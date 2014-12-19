@@ -290,7 +290,7 @@ Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6102, Oct. 21, 198
 
     (vi) benefits under title XX of the Social Security Act;
 
-    (vii) benefits under the supplemental nutrition assistance program (as defined in section 3(l) of the Food and Nutrition Act of 2008);
+    (vii) benefits under the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008);
 
     (viii) benefits under chapters 11, 13, 15, 17, and 21 of title 38;
 
@@ -423,7 +423,7 @@ Any such determination shall be based on the preponderance of the evidence.
 #### References in Text
 The Social Security Act, referred to in subsec. (c)(2)(C)(i) to (vi), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, XVIII, and XX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), and XX (§ 1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. Section 1902(a) of the Act is classified to [section 1396a(a) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-Section 3(l) of the Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(C)(vii), is classified to section 2012(l) of Title 7, Agriculture.
+Section 3 of the Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(C)(vii), is classified to [section 2012 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim), Agriculture.
 
 The Black Lung Benefits Act, referred to in subsec. (c)(2)(C)(ix), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended, which is classified generally to subchapter IV (§ 901 et seq.) of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see [section 901(b) of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section901/b&num=0&edition=prelim) and Tables.
 
@@ -443,6 +443,8 @@ The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (c)(2)(C)(vii). Pub. L. 113–79 substituted “section 3” for “section 3(l)”.
+
 2008—Subsec. (c)(2)(C)(vii). Pub. L. 110–246, § 4115(c)(2)(E), substituted “section 3(l)” for “section 3(h)”.
 
 Pub. L. 110–246, § 4002(b)(1)(A), (B), (2)(S), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.

@@ -50,7 +50,7 @@ source: >-
 
 (2)
 
-  (A) In the case of a person who as a member of the Ready Reserve serves on active duty or performs active service described in subparagraph (B) after January 28, 2008, the eligibility age for purposes of subsection (a)(1) shall be reduced below 60 years of age by three months for each aggregate of 90 days on which such person so performs in any fiscal year after such date, subject to subparagraph (C). A day of duty may be included in only one aggregate of 90 days for purposes of this subparagraph.
+  (A) In the case of a person who as a member of the Ready Reserve serves on active duty or performs active service described in subparagraph (B) after January 28, 2008, the eligibility age for purposes of subsection (a)(1) shall be reduced, subject to subparagraph (C), below 60 years of age by three months for each aggregate of 90 days on which such person serves on such active duty or performs such active service in any fiscal year after January 28, 2008, or in any two consecutive fiscal years after September 30, 2014. A day of duty may be included in only one aggregate of 90 days for purposes of this subparagraph.
 
   (B)
 
@@ -63,6 +63,8 @@ source: >-
     (iv) Service on active duty described in this subparagraph is also service on active duty pursuant to a call or order to active duty authorized by the Secretary of Homeland Security under [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) for purposes of emergency augmentation of the Regular Coast Guard forces.
 
   (C) The eligibility age for purposes of subsection (a)(1) may not be reduced below 50 years of age for any person under subparagraph (A).
+
+(3) The Secretary concerned shall periodically notify each member of the Ready Reserve described by paragraph (2) of the current eligibility age for retired pay of such member under this section, including any reduced eligibility age by reason of the operation of that paragraph. Notice shall be provided by such means as the Secretary considers appropriate taking into account the cost of provision of notice and the convenience of members.
 
 ### Statutory Notes
 
@@ -84,7 +86,11 @@ In subsection (c), the words “the Army without component or other category cov
 The change makes clear that in the determination of eligibility for retired pay for non–regular service, the service of a Regular serving in a temporary grade (that is, without component) may not be counted. See opinion of the Judge Advocate General of the Army, JAGA 1957/4463, May 13, 1957.
 
 #### Amendments
+2014—Subsec. (f)(2)(A). Pub. L. 113–291 inserted “, subject to subparagraph (C),” after “shall be reduced” and substituted “serves on such active duty or performs such active service in any fiscal year after January 28, 2008, or in any two consecutive fiscal years after September 30, 2014” for “so performs in any fiscal year after such date, subject to subparagraph (C)”.
+
 2013—Subsec. (f)(2)(B)(iv). Pub. L. 112–239 added cl. (iv).
+
+Subsec. (f)(3). Pub. L. 113–66 added par. (3).
 
 2011—Subsec. (f)(2)(B)(iii). Pub. L. 111–383 added cl. (iii).
 
@@ -709,7 +715,8 @@ A person who—
 
 (1) is convicted of an offense under the Uniform Code of Military Justice (chapter 47 of this title) and whose sentence includes death; or
 
-(2) is separated pursuant to sentence of a court-martial with a dishonorable discharge, a bad conduct discharge, or (in the case of an officer) a dismissal, is not eligible for retired pay under this chapter.
+(2) is separated pursuant to sentence of a court-martial with a dishonorable discharge, a bad conduct discharge, or (in the case of an officer) a dismissal,
+is not eligible for retired pay under this chapter.
 
 ### Statutory Notes
 

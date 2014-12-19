@@ -2,7 +2,7 @@
 title: 38
 chapter: '7'
 heading: EMPLOYEES
-section_count: 7
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -43,6 +43,14 @@ Provisions similar to those in this section were contained in [section 231 of th
 Prior sections 703 and 704 were renumbered sections 1903 and 1904 of this title, respectively.
 
 Provisions similar to those in this section were contained in [section 233 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section233&num=0&edition=prelim) prior to repeal by Pub. L. 102–83, § 2(a).
+
+#### Clinic Management Training for Employees at Medical Facilities of the Department of Veterans Affairs
+Pub. L. 113–146, title III, § 303, Aug. 7, 2014, 128 Stat. 1788, provided that: “(a) Clinic Management Training Program.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Aug. 7, 2014], the Secretary of Veterans Affairs shall commence a role-specific clinic management training program to provide in-person, standardized education on systems and processes for health care practice management and scheduling to all appropriate employees, as determined by the Secretary, at medical facilities of the Department. “(2) Elements.—“(A) In general.—The clinic management training program required by paragraph (1) shall include the following:“(i) Training on how to manage the schedules of health care providers of the Department, including the following: “(I) Maintaining such schedules in a manner that allows appointments to be booked at least eight weeks in advance. “(II) Proper planning procedures for vacation, leave, and graduate medical education training schedules. “(ii) Training on the appropriate number of appointments that a health care provider should conduct on a daily basis, based on specialty. “(iii) Training on how to determine whether there are enough available appointment slots to manage demand for different appointment types and mechanisms for alerting management of insufficient slots. “(iv) Training on how to properly use the appointment scheduling system of the Department, including any new scheduling system implemented by the Department. “(v) Training on how to optimize the use of technology, including the following: “(I) Telemedicine. “(II) Electronic mail. “(III) Text messaging. “(IV) Such other technologies as specified by the Secretary. “(vi) Training on how to properly use physical plant space at medical facilities of the Department to ensure efficient flow and privacy for patients and staff. “(B) Role-specific.—The Secretary shall ensure that each employee of the Department included in the clinic management training program required by paragraph (1) receives education under such program that is relevant to the responsibilities of such employee. “(3) Sunset.—The clinic management training program required by paragraph (1) shall terminate on the date that is 2 years after the date on which the Secretary commences such program. “(b) Training Materials.—“(1) In general.—After the termination of the clinic management training program required by subsection (a), the Secretary shall provide training materials on health care management to each of the following employees of the Department that are relevant to the position and responsibilities of such employee upon the commencement of employment of such employee:“(A) Any manager of a medical facility of the Department. “(B) Any health care provider at a medical facility of the Department. “(C) Such other employees of the Department as the Secretary considers appropriate. “(2) Update.—The Secretary shall regularly update the training materials required under paragraph (1).”
+
+[For definition of “facility of the Department” as used in section 303 of Pub. L. 113–146, set out above, see section 2 of Pub. L. 113–146, set out as a note under [section 1701 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701).]
+
+#### Limitation on Awards and Bonuses Paid to Employees of Department of Veterans Affairs
+Pub. L. 113–146, title VII, § 705, Aug. 7, 2014, 128 Stat. 1798, provided that: “In each of fiscal years 2015 through 2024, the Secretary of Veterans Affairs shall ensure that the aggregate amount of awards and bonuses paid by the Secretary in a fiscal year under chapter 45 or 53 of title 5, United States Code, or any other awards or bonuses authorized under such title does not exceed $360,000,000.”
 
 
 <a id="section-705"></a>
@@ -182,8 +190,6 @@ Prior section 711 was renumbered [section 1911 of this title](./chapter-019-insu
 
 Provisions similar to those in this section were contained in former [section 210(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section210/b/3&num=0&edition=prelim) prior to repeal by Pub. L. 102–83, § 2(a).
 
-Prior sections 712 to 729, 740 to 763, 765 to 779, 781 to 788, and 801 to 806 were renumbered sections 1912 to 1929, 1940 to 1963, 1965 to 1979, 1981 to 1988, and 2101 to 2106 of this title, respectively.
-
 #### Amendments
 1996—Subsec. (d). Pub. L. 104–316 inserted “, upon request of either of such Committees,” after “the Comptroller General shall” in first sentence.
 
@@ -196,3 +202,93 @@ Prior sections 712 to 729, 740 to 763, 765 to 779, 781 to 788, and 801 to 806 we
 ### Statutory Notes
 
 Section, added Pub. L. 103–446, title XI, § 1102(a), Nov. 2, 1994, 108 Stat. 4680; amended Pub. L. 104–262, title III, § 303, Oct. 9, 1996, 110 Stat. 3194; Pub. L. 105–33, title VIII, § 8023(e), Aug. 5, 1997, 111 Stat. 667; Pub. L. 105–368, title X, § 1005(b)(1), Nov. 11, 1998, 112 Stat. 3364, limited reduction of full-time equivalent positions in the Department of Veterans Affairs during the period beginning on Nov. 2, 1994, and ending on Sept. 30, 1999.
+
+#### Prior Provisions
+A prior section 712 was renumbered [section 1912 of this title](./chapter-019-insurance.md#section-1912).
+
+
+<a id="section-713"></a>
+## § 713. Senior executives: removal based on performance or misconduct
+**(a) In General.—**
+
+(1) The Secretary may remove an individual employed in a senior executive position at the Department of Veterans Affairs from the senior executive position if the Secretary determines the performance or misconduct of the individual warrants such removal. If the Secretary so removes such an individual, the Secretary may—
+
+  (A) remove the individual from the civil service (as defined in [section 2101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2101&num=0&edition=prelim)); or
+
+  (B) in the case of an individual described in paragraph (2), transfer the individual from the senior executive position to a General Schedule position at any grade of the General Schedule for which the individual is qualified and that the Secretary determines is appropriate.
+
+(2) An individual described in this paragraph is an individual who—
+
+  (A) previously occupied a permanent position within the competitive service (as that term is defined in [section 2102 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2102&num=0&edition=prelim));
+
+  (B) previously occupied a permanent position within the excepted service (as that term is defined in [section 2103 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2103&num=0&edition=prelim)); or
+
+  (C) prior to employment in a senior executive position at the Department of Veterans Affairs, did not occupy any position within the Federal Government.
+
+**(b) Pay of Transferred Individual.—**
+
+(1) Notwithstanding any other provision of law, including the requirements of [section 3594 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3594&num=0&edition=prelim), any individual transferred to a General Schedule position under subsection (a)(2) shall, beginning on the date of such transfer, receive the annual rate of pay applicable to such position.
+
+(2) An individual so transferred may not be placed on administrative leave or any other category of paid leave during the period during which an appeal (if any) under this section is ongoing, and may only receive pay if the individual reports for duty. If an individual so transferred does not report for duty, such individual shall not receive pay or other benefits pursuant to subsection (e)(5).
+
+**(c) Notice to Congress.—** Not later than 30 days after removing or transferring an individual from a senior executive position under subsection (a), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives notice in writing of such removal or transfer and the reason for such removal or transfer.
+
+**(d) Procedure.—**
+
+(1) The procedures under [section 7543(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7543/b&num=0&edition=prelim) shall not apply to a removal or transfer under this section.
+
+(2)
+
+  (A) Subject to subparagraph (B) and subsection (e), any removal or transfer under subsection (a) may be appealed to the Merit Systems Protection Board under [section 7701 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7701&num=0&edition=prelim).
+
+  (B) An appeal under subparagraph (A) of a removal or transfer may only be made if such appeal is made not later than seven days after the date of such removal or transfer.
+
+**(e) Expedited Review by Administrative Judge.—**
+
+(1) Upon receipt of an appeal under subsection (d)(2)(A), the Merit Systems Protection Board shall refer such appeal to an administrative judge pursuant to [section 7701(b)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7701/b/1&num=0&edition=prelim). The administrative judge shall expedite any such appeal under such section and, in any such case, shall issue a decision not later than 21 days after the date of the appeal.
+
+(2) Notwithstanding any other provision of law, including [section 7703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7703&num=0&edition=prelim), the decision of an administrative judge under paragraph (1) shall be final and shall not be subject to any further appeal.
+
+(3) In any case in which the administrative judge cannot issue a decision in accordance with the 21-day requirement under paragraph (1), the removal or transfer is final. In such a case, the Merit Systems Protection Board shall, within 14 days after the date that such removal or transfer is final, submit to Congress and the Committees on Veterans’ Affairs of the Senate and House of Representatives a report that explains the reasons why a decision was not issued in accordance with such requirement.
+
+(4) The Merit Systems Protection Board or administrative judge may not stay any removal or transfer under this section.
+
+(5) During the period beginning on the date on which an individual appeals a removal from the civil service under subsection (d) and ending on the date that the administrative judge issues a final decision on such appeal, such individual may not receive any pay, awards, bonuses, incentives, allowances, differentials, student loan repayments, special payments, or benefits.
+
+(6) To the maximum extent practicable, the Secretary shall provide to the Merit Systems Protection Board, and to any administrative judge to whom an appeal under this section is referred, such information and assistance as may be necessary to ensure an appeal under this subsection is expedited.
+
+**(f) Relation to Title 5.—**
+
+(1) The authority provided by this section is in addition to the authority provided by section 3592 or subchapter V of chapter 75 of title 5.
+
+(2) [Section 3592(b)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3592/b/1&num=0&edition=prelim) does not apply to an action to remove or transfer an individual under this section.
+
+**(g) Definitions.—** In this section:
+
+(1) The term “individual” means—
+
+  (A) a career appointee (as that term is defined in [section 3132(a)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a/4&num=0&edition=prelim)); or
+
+  (B) any individual who occupies an administrative or executive position and who was appointed under section 7306(a) or [section 7401(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/1&num=0&edition=prelim).
+
+(2) The term “misconduct” includes neglect of duty, malfeasance, or failure to accept a directed reassignment or to accompany a position in a transfer of function.
+
+(3) The term “senior executive position” means—
+
+  (A) with respect to a career appointee (as that term is defined in [section 3132(a)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a/4&num=0&edition=prelim)), a Senior Executive Service position (as such term is defined in [section 3132(a)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a/2&num=0&edition=prelim)); and
+
+  (B) with respect to an individual appointed under section 7306(a) or [section 7401(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/1&num=0&edition=prelim), an administrative or executive position.
+
+### Statutory Notes
+
+#### Prior Provisions
+Prior sections 713 to 729, 740 to 763, 765 to 779, 781 to 788, and 801 to 806 were renumbered sections 1913 to 1929, 1940 to 1963, 1965 to 1979, 1981 to 1988, and 2101 to 2106 of this title, respectively.
+
+#### Construction
+Pub. L. 113–146, title VII, § 707(d), Aug. 7, 2014, 128 Stat. 1801, provided that: “(1) In general.—Nothing in this section [enacting this section and provisions set out as notes under this section] or [section 713 of title 38](./chapter-007-employees.md#section-713), United States Code, as added by subsection (a), shall be construed to apply to an appeal of a removal, transfer, or other personnel action that was pending before the date of the enactment of this Act [Aug. 7, 2014]. “(2) Relation to title 5.—With respect to the removal or transfer of an individual (as that term is defined in such section 713) employed at the Department of Veterans Affairs, the authority provided by such section 713 is in addition to the authority provided by section 3592 or subchapter V of chapter 75 of title 5, United States Code.”
+
+#### Establishment of Expedited Review Process
+Pub. L. 113–146, title VII, § 707(b), Aug. 7, 2014, 128 Stat. 1800, provided that: “(1) In general.—Not later than 14 days after the date of the enactment of this Act [Aug. 7, 2014], the Merit Systems Protection Board shall establish and put into effect a process to conduct expedited reviews in accordance with [section 713(d) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section713/d&num=0&edition=prelim), United States Code. “(2) Inapplicability of certain regulations.—Section 1201.22 of title 5, Code of Federal Regulations, as in effect on the day before the date of the enactment of this Act, shall not apply to expedited reviews carried out under [section 713(d) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section713/d&num=0&edition=prelim), United States Code. “(3) Waiver.—The Merit Systems Protection Board may waive any other regulation in order to provide for the expedited review required under [section 713(d) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section713/d&num=0&edition=prelim), United States Code. “(4) Report by merit systems protection board.—Not later than 14 days after the date of the enactment of this Act, the Merit Systems Protection Board shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the actions the Board plans to take to conduct expedited reviews under [section 713(d) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section713/d&num=0&edition=prelim), United States Code, as added by subsection (a). Such report shall include a description of the resources the Board determines will be necessary to conduct such reviews and a description of whether any resources will be necessary to conduct such reviews that were not available to the Board on the day before the date of the enactment of this Act.”
+
+#### Temporary Exemption From Certain Limitation on Initiation of Removal From Senior Executive Service
+Pub. L. 113–146, title VII, § 707(c), Aug. 7, 2014, 128 Stat. 1800, provided that: “During the 120-day period beginning on the date of the enactment of this Act [Aug. 7, 2014], an action to remove an individual from the Senior Executive Service at the Department of Veterans Affairs pursuant to [section 7543 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7543&num=0&edition=prelim), United States Code, may be initiated, notwithstanding section 3592(b) of such title, or any other provision of law.”

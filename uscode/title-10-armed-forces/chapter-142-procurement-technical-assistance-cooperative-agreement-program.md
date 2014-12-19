@@ -2,7 +2,7 @@
 title: 10
 chapter: '142'
 heading: PROCUREMENT TECHNICAL ASSISTANCE COOPERATIVE AGREEMENT PROGRAM
-section_count: 9
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -87,11 +87,17 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub.
 ## § 2413. Cooperative agreements
 **(a)** The Secretary, in accordance with the provisions of this chapter, may enter into cooperative agreements with eligible entities to carry out the purposes of this chapter.
 
-**(b)** Under any such cooperative agreement, the eligible entity shall agree to sponsor programs to furnish procurement technical assistance to business entities and the Secretary shall agree to defray not more than one-half of the eligible entity’s cost of furnishing such assistance under such programs, except that in the case of a program sponsored by such an entity that provides services solely in a distressed area, the Secretary may agree to furnish more than one-half, but not more than three-fourths, of such cost with respect to such program.
+**(b)** Under any such cooperative agreement, the eligible entity shall agree to sponsor programs to furnish procurement technical assistance to business entities and the Secretary shall agree to defray not more than 65 percent of the eligible entity’s cost of furnishing such assistance under such programs, except that—
+
+(1) in the case of a program sponsored by such an entity that provides services solely in a distressed area, the Secretary may agree to furnish more than 65 percent, but not more than 75 percent, of such cost with respect to such program; and
+
+(2) in the case of a program sponsored by such an entity that provides assistance for covered small businesses pursuant to [section 2419(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2419/b&num=0&edition=prelim), the Secretary may agree to furnish the full cost of such assistance.
 
 **(c)** In entering into cooperative agreements under subsection (a), the Secretary shall assure that at least one procurement technical assistance program is carried out in each Department of Defense contract administration services district during each fiscal year.
 
-**(d)** In conducting a competition for the award of a cooperative agreement under subsection (a), and in determining the level of funding to provide under an agreement under subsection (b), the Secretary shall give significant weight to successful past performance of eligible entities under a cooperative agreement under this section.
+**(d)** In conducting a competition for the award of a cooperative agreement under subsection (a), the Secretary shall give significant weight to successful past performance of eligible entities under a cooperative agreement under this section.
+
+**(e)** In determining the level of funding to provide under an agreement under subsection (b), the Secretary shall consider the forecast by the eligible entity of demand for procurement technical assistance, and, in the case of an established program under this chapter, the outlays and receipts of such program during prior years of operation.
 
 ### Statutory Notes
 
@@ -99,6 +105,22 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub.
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2013—Subsec. (b). Pub. L. 113–66, § 1612(a)(1), substituted “65 percent” for “one-half” in introductory provisions.
+
+Pub. L. 113–66, § 1611(c)(1)(A), (B), substituted “except that—
+
+“(1) in the case”
+
+for “except that in the case” and “; and” for period at end.
+
+Subsec. (b)(1). Pub. L. 113–66, § 1612(a), substituted “65 percent” for “one-half” and “75 percent” for “three-fourths”.
+
+Subsec. (b)(2). Pub. L. 113–66, § 1611(c)(1)(C), added par. (2).
+
+Subsec. (d). Pub. L. 113–66, § 1611(c)(3), struck out “and in determining the level of funding to provide under an agreement under subsection (b),” after “subsection (a),”.
+
+Subsec. (e). Pub. L. 113–66, § 1611(c)(2), added subsec. (e).
+
 2002—Subsec. (d). Pub. L. 107–314 added subsec. (d).
 
 1998—Subsec. (c). Pub. L. 105–261 substituted “district” for “region”.
@@ -118,21 +140,35 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub.
 
 <a id="section-2414"></a>
 ## § 2414. Limitation
-**(a) In General.—** The value of the assistance furnished by the Secretary to any eligible entity to carry out a procurement technical assistance program under a cooperative agreement under this chapter during any fiscal year may not exceed—
+**(a) In General.—** Except as provided in subsection (c), the value of the assistance furnished by the Secretary to any eligible entity to carry out a procurement technical assistance program under a cooperative agreement under this chapter during any fiscal year may not exceed—
 
-(1) in the case of a program operating on a Statewide basis, other than a program referred to in clause (3) or (4), $600,000;
+(1) in the case of a program operating on a Statewide basis, other than a program referred to in clause (3) or (4), $750,000;
 
-(2) in the case of a program operating on less than a Statewide basis, other than a program referred to in clause (3) or (4), $300,000;
+(2) in the case of a program operating on less than a Statewide basis, other than a program referred to in clause (3) or (4), $450,000;
 
-(3) in the case of a program operated wholly within one service area of the Bureau of Indian Affairs by an eligible entity referred to in [section 2411(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2411/1/D&num=0&edition=prelim), $150,000; or
+(3) in the case of a program operated wholly within one service area of the Bureau of Indian Affairs by an eligible entity referred to in [section 2411(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2411/1/D&num=0&edition=prelim), $300,000; or
 
-(4) in the case of a program operated wholly within more than one service area of the Bureau of Indian Affairs by an eligible entity referred to in [section 2411(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2411/1/D&num=0&edition=prelim), $600,000.
+(4) in the case of a program operated wholly within more than one service area of the Bureau of Indian Affairs by an eligible entity referred to in [section 2411(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2411/1/D&num=0&edition=prelim), $750,000.
 
 **(b) Determinations on Scope of Operations.—** A determination of whether a procurement technical assistance program is operating on a Statewide basis or on less than a Statewide basis or is operated wholly within one or more service areas of the Bureau of Indian Affairs by an eligible entity referred to in [section 2411(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2411/1/D&num=0&edition=prelim) shall be made in accordance with regulations prescribed by the Secretary of Defense.
+
+**(c) Exception.—** The value of the assistance provided in accordance with [section 2419(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2419/b&num=0&edition=prelim) is not subject to the limitations in subsection (a).
 
 ### Statutory Notes
 
 #### Amendments
+2013—Subsec. (a). Pub. L. 113–66, § 1611(b)(1), substituted “Except as provided in subsection (c), the value” for “The value” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 113–66, § 1612(b)(1), substituted “$750,000” for “$600,000”.
+
+Subsec. (a)(2). Pub. L. 113–66, § 1612(b)(2), substituted “$450,000” for “$300,000”.
+
+Subsec. (a)(3). Pub. L. 113–66, § 1612(b)(3), substituted “$300,000” for “$150,000”.
+
+Subsec. (a)(4). Pub. L. 113–66, § 1612(b)(1), substituted “$750,000” for “$600,000”.
+
+Subsec. (c). Pub. L. 113–66, § 1611(b)(2), added subsec. (c).
+
 2006—Subsec. (a)(2). Pub. L. 109–163 substituted “$300,000” for “$150,000”.
 
 2002—Subsec. (a)(4). Pub. L. 107–314 substituted “$600,000” for “$300,000”.
@@ -206,7 +242,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Prior Provisions
-A prior section 2416 was renumbered [section 2419 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2419).
+A prior section 2416 was renumbered [section 2420 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2420).
 
 #### Amendments
 2004—Subsec. (d). Pub. L. 108–375 substituted “$1,000,000” for “$500,000”.
@@ -223,7 +259,7 @@ The Director of the Defense Logistics Agency may use, out of the amount appropri
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 2417 was renumbered [section 2419 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2419).
+A prior section 2417 was renumbered [section 2420 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2420).
 
 #### Effective Date
 Pub. L. 101–510, div. A, title VIII, § 814(b), Nov. 5, 1990, 104 Stat. 1597, provided that: “[Section 2417 of title 10](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2417), United States Code, as added by subsection (a), shall apply with respect to fiscal year 1991 and each fiscal year thereafter.”
@@ -235,17 +271,59 @@ Pub. L. 101–510, div. A, title VIII, § 814(b), Nov. 5, 1990, 104 Stat. 1597, 
 
 **(b)** An eligible entity assisted by the Department of Defense under this chapter also may furnish information relating to assistance and other programs available pursuant to the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992.
 
+**(c)** An eligible entity assisted by the Department of Defense under this chapter also may furnish education on the requirements applicable to small businesses under the regulations issued under section 38 of the Arms Export Control Act ([22 U.S.C. 2778](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim)) and on compliance with those requirements.
+
 ### Statutory Notes
 
 #### References in Text
 The Defense Conversion, Reinvestment, and Transition Assistance Act of 1992, referred to in subsec. (b), is division D of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2658. For complete classification of division D to the Code, see Short Title note set out under [section 2500 of this title](./chapter-148-national-defense-technology-and-industrial-base-defense-reinvestment-and-defense-conversion.md#section-2500) and Tables.
 
 #### Prior Provisions
-A prior section 2418 was renumbered [section 2419 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2419).
+A prior section 2418 was renumbered [section 2420 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2420).
+
+#### Amendments
+2014—Subsec. (c). Pub. L. 113–291 added subsec. (c).
 
 
 <a id="section-2419"></a>
-## § 2419. Regulations
+## § 2419. Advancing small business growth
+**(a) Contract Clause Required.—**
+
+(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall require the clause described in paragraph (2) to be included in each covered contract awarded by the Department of Defense.
+
+(2) The clause described in this paragraph is a clause that—
+
+  (A) requires the contractor to acknowledge that acceptance of the contract may cause the business to exceed the applicable small business size standards (established pursuant to section 3(a) of the Small Business Act) for the industry concerned and that the contractor may no longer qualify as a small business concern for that industry; and
+
+  (B) encourages the contractor to develop capabilities and characteristics typically desired in contractors that are competitive as an other-than-small business in that industry.
+
+**(b) Availability of Assistance.—** Covered small businesses may be provided assistance as part of any procurement technical assistance furnished pursuant to this chapter.
+
+**(c) Definitions.—** In this section:
+
+(1) The term “covered contract” means a contract—
+
+  (A) awarded to a qualified small business concern as defined pursuant to section 3(a) of the Small Business Act; and
+
+  (B) with an estimated annual value—
+
+    (i) that will exceed the applicable receipt-based small business size standard; or
+
+    (ii) if the contract is in an industry with an employee-based size standard, that will exceed $70,000,000.
+
+(2) The term “covered small business” means a qualified small business concern as defined pursuant to section 3(a) of the Small Business Act that has entered into a contract with the Department of Defense that includes a contract clause described in subsection (a)(2).
+
+### Statutory Notes
+
+#### References in Text
+Section 3(a) of the Small Business Act, referred to in subsecs. (a)(2)(A) and (c)(1)(A), (2), is classified to [section 632(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/a&num=0&edition=prelim), Commerce and Trade.
+
+#### Prior Provisions
+A prior section 2419 was renumbered [section 2420 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2420).
+
+
+<a id="section-2420"></a>
+## § 2420. Regulations
 
 The Secretary of Defense shall prescribe regulations to carry out this chapter.
 
@@ -255,6 +333,8 @@ The Secretary of Defense shall prescribe regulations to carry out this chapter.
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2013—Pub. L. 113–66 renumbered [section 2419 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2419) as this section.
+
 1992—Pub. L. 102–484 renumbered [section 2418 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2418) as this section.
 
 1990—Pub. L. 101–510 renumbered [section 2417 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2417) as this section.

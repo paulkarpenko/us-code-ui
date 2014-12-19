@@ -302,7 +302,7 @@ Whenever premiums are not waived under [section 1912 of this title](./chapter-01
 ### Statutory Notes
 
 #### Amendments
-1991—Pub. L. 102–83, § 5(a), renumbered [section 713 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section713&num=0&edition=prelim) as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered [section 713 of this title](./chapter-007-employees.md#section-713) as this section.
 
 Pub. L. 102–83, § 5(c)(1), substituted “1912” for “712”.
 

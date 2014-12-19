@@ -9,25 +9,17 @@ source: >-
 <a id="section-3001"></a>
 ## § 3001. Procedure governed by rules; scope, purpose and effect; definition of terms; local rules; forms—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3002"></a>
 ## § 3002. Courts always open—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3003"></a>
 ## § 3003. Calendars—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3004"></a>
 ## § 3004. Decorum in court room—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3005"></a>
@@ -48,8 +40,6 @@ Changes were made in phraseology.
 
 <a id="section-3006"></a>
 ## § 3006. Assignment of counsel—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3006a"></a>
@@ -402,19 +392,13 @@ Pub. L. 88–455, § 3, Aug. 20, 1964, 78 Stat. 554, directed each district cour
 <a id="section-3007"></a>
 ## § 3007. Motions—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3008"></a>
 ## § 3008. Service and filing of papers—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3009"></a>
 ## § 3009. Records—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 ### Statutory Notes
 
@@ -428,13 +412,9 @@ Words “magistrate judges” substituted for “magistrates” in text pursuant
 <a id="section-3010"></a>
 ## § 3010. Exceptions unnecessary—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3011"></a>
 ## § 3011. Computation of time—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3012"></a>

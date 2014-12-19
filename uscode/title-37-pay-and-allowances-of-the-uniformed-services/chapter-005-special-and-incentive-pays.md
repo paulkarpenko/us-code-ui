@@ -2,7 +2,7 @@
 title: 37
 chapter: '5'
 heading: SPECIAL AND INCENTIVE PAYS
-section_count: 82
+section_count: 83
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37&num=0&edition=prelim
 ---
@@ -357,7 +357,8 @@ Pub. L. 105–85, § 615(a), which directed amendment by inserting at the end of
 
 | “Over 14 | 840”; |
 | --- | --- |
-| and by striking out phase II of the table and inserting in lieu thereof the following: |  |
+
+and by striking out phase II of the table and inserting in lieu thereof the following:
 
 | “Phase II |  |
 | --- | --- |
@@ -442,7 +443,7 @@ Pub. L. 93–294, § 6, May 31, 1974, 88 Stat. 180, provided that: “This Act [
 For delegation of authority under this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No. 13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301).
 
 #### Monthly Incentive Pay for Certain Officers Entitled to Incentive Pay Under Section 301(a)(1) of This Title on May 31, 1973
-Pub. L. 93–294, § 4, May 31, 1974, 88 Stat. 179, provided that: “Notwithstanding the amendments made by this Act [enacting this section and amending [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301)], an officer who was entitled to incentive pay under [section 301(a)(1) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section301/a/1&num=0&edition=prelim), United States Code, on May 31, 1973, or on the day before the effective date of this Act [June 1, 1974], if otherwise qualified on the day before the effective date of this Act, is entitled to monthly incentive pay as prescribed in either clause (1) or (2) of this section, as follows: “(1) If he is credited with 6 or less years of aviation service as an officer, and with less than 12 years of service as an officer, he is entitled to monthly incentive pay either—“(A) in the amount he was receiving under section 301(b) of that title on May 31, 1973, or on the day before the effective date of this Act [June 1, 1974], but with no entitlement after either of those dates, as applicable, to any longevity pay increases or increases resulting from promotion to a higher grade until such time as the rate to which he is entitled under section 301a(b) of that title, as added by this Act, is equal to or greater than the amount he was receiving under that section on May 31, 1973, or on the day before the effective date of this Act, and thereafter his entitlement is as prescribed by that section as added by this Act; or “(B) at the rate prescribed by section 301a(b) of that title, as added by this Act; whichever is greater. However, an officer who is promoted and assigned to pay grade O–7 or above during the 36-month period following the effective date of this Act [June 1, 1974] may not receive more than the rate which existed for that pay grade, as appropriate, prior to June 1, 1973. “(2) If he is credited with more than 6 years of aviation service as an officer, or less than 6 years of aviation service but more than 12 years of service as an officer, he may receive monthly incentive pay at the rate prescribed in the table in [section 301a(b) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section301a/b&num=0&edition=prelim), United States Code, as added by this Act, that is applicable to him, or $165, whichever is greater, for not more than 36 months after the effective date of this Act [June 1, 1974], notwithstanding the provisions of section 301a(a) of that title, as added by this Act, with respect to prescribed operational flying duties (including flight training but excluding proficiency flying). However, under this clause, an officer who is assigned to the pay grade O–7 on the effective date of this Act, or is promoted to the pay grade O–7 during the 36-month period following the effective date of this Act, may not receive more than $160 per month while assigned to that grade. The amount to which a reserve officer who is entitled to compensation under [section 206 of title 37](./chapter-003-basic-pay.md#section-206), United States Code, is entitled under this section is governed by the provisions of section 301a(d) of that title, as added by this Act.”
+Pub. L. 93–294, § 4, May 31, 1974, 88 Stat. 179, provided that: “Notwithstanding the amendments made by this Act [enacting this section and amending [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301)], an officer who was entitled to incentive pay under [section 301(a)(1) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section301/a/1&num=0&edition=prelim), United States Code, on May 31, 1973, or on the day before the effective date of this Act [June 1, 1974], if otherwise qualified on the day before the effective date of this Act, is entitled to monthly incentive pay as prescribed in either clause (1) or (2) of this section, as follows:“(1) If he is credited with 6 or less years of aviation service as an officer, and with less than 12 years of service as an officer, he is entitled to monthly incentive pay either—“(A) in the amount he was receiving under section 301(b) of that title on May 31, 1973, or on the day before the effective date of this Act [June 1, 1974], but with no entitlement after either of those dates, as applicable, to any longevity pay increases or increases resulting from promotion to a higher grade until such time as the rate to which he is entitled under section 301a(b) of that title, as added by this Act, is equal to or greater than the amount he was receiving under that section on May 31, 1973, or on the day before the effective date of this Act, and thereafter his entitlement is as prescribed by that section as added by this Act; or “(B) at the rate prescribed by section 301a(b) of that title, as added by this Act; whichever is greater. However, an officer who is promoted and assigned to pay grade O–7 or above during the 36-month period following the effective date of this Act [June 1, 1974] may not receive more than the rate which existed for that pay grade, as appropriate, prior to June 1, 1973. “(2) If he is credited with more than 6 years of aviation service as an officer, or less than 6 years of aviation service but more than 12 years of service as an officer, he may receive monthly incentive pay at the rate prescribed in the table in [section 301a(b) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section301a/b&num=0&edition=prelim), United States Code, as added by this Act, that is applicable to him, or $165, whichever is greater, for not more than 36 months after the effective date of this Act [June 1, 1974], notwithstanding the provisions of section 301a(a) of that title, as added by this Act, with respect to prescribed operational flying duties (including flight training but excluding proficiency flying). However, under this clause, an officer who is assigned to the pay grade O–7 on the effective date of this Act, or is promoted to the pay grade O–7 during the 36-month period following the effective date of this Act, may not receive more than $160 per month while assigned to that grade. The amount to which a reserve officer who is entitled to compensation under [section 206 of title 37](./chapter-003-basic-pay.md#section-206), United States Code, is entitled under this section is governed by the provisions of section 301a(d) of that title, as added by this Act.”
 
 #### Annual Report by Department of Defense
 Pub. L. 93–294, § 5, May 31, 1974, 88 Stat. 180, provided that: “A yearly report containing such data as necessary to monitor the progress of this bill [Pub. L. 93–294] shall be made by the Department of Defense in cooperation with the Senate and House Armed Services Committees and released publicly.”
@@ -453,7 +454,7 @@ Ex. Ord. No. 11800, Aug. 17, 1974, 39 F.R. 30103, as amended by Ex. Ord. No. 126
 
 <a id="section-301b"></a>
 ## § 301b. Special pay: aviation career officers extending period of active duty
-**(a) Bonus Authorized.—** An aviation officer described in subsection (b) who, during the period beginning on January 1, 1989, and ending on December 31, 2013, executes a written agreement to remain on active duty in aviation service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
+**(a) Bonus Authorized.—** An aviation officer described in subsection (b) who, during the period beginning on January 1, 1989, and ending on December 31, 2015, executes a written agreement to remain on active duty in aviation service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
 
 **(b) Covered Officers.—** An aviation officer referred to in subsection (a) is an officer of a uniformed service who—
 
@@ -492,7 +493,11 @@ Ex. Ord. No. 11800, Aug. 17, 1974, 39 F.R. 30103, as amended by Ex. Ord. No. 126
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (a). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (a). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (a). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (a). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -662,7 +667,7 @@ Pub. L. 96–342, title VIII, § 806(b), Sept. 8, 1980, 94 Stat. 1096, provided 
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under [section 510 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section510&num=0&edition=prelim), Armed Forces.
 
 #### Payment of Bonus to Aviation Officers Killed in Persian Gulf War Before Completion of Service
-Pub. L. 102–172, title VIII, § 8135, Nov. 26, 1991, 105 Stat. 1212, as amended by Pub. L. 105–277, div. C, title I, § 148, Oct. 21, 1998, 105 Stat. 2681–610, provided that: “(a) Notwithstanding any provision of [section 301b of title 37](./chapter-005-special-and-incentive-pays.md#section-301b), United States Code, [or] of section 611 of Public Law 100–456 [set out below] as in effect at any time prior to the date of enactment of this Act [Nov. 26, 1991], in the case of any officer described in subsection (b), who was entitled to special pay under an agreement authorized by one of those sections, who was not paid the full amount due under such agreement, the unpaid balance shall be paid as part of the settlement of the officer’s final military pay account or as a supplemental payment if the officer’s final military pay account is already settled. “(b) An officer to whom subsection (a) applies is an aviation officer who died as a result of flight operations on or after August 2, 1990, in those areas of the Arabian Peninsula, airspace, and adjacent waters designated by the President in Executive Order 12744 on 21 January 1991 [[26 U.S.C. 112](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section112&num=0&edition=prelim) note] as a combat zone (regardless of the date of the commencement of combatant activities in such zone as specified in that Executive Order) and prior to cessation of hostilities as declared by competent authority, before completing the full period of aviation service agreed to in his or her agreement to remain on active duty in aviation service under [section 301b of title 37](./chapter-005-special-and-incentive-pays.md#section-301b), United States Code, or section 611 of Public Law 100–456 [set out below].”
+Pub. L. 102–172, title VIII, § 8135, Nov. 26, 1991, 105 Stat. 1212, as amended by Pub. L. 105–277, div. C, title I, § 148, Oct. 21, 1998, 112 Stat. 2681–610, provided that: “(a) Notwithstanding any provision of [section 301b of title 37](./chapter-005-special-and-incentive-pays.md#section-301b), United States Code, [or] of section 611 of Public Law 100–456 [set out below] as in effect at any time prior to the date of enactment of this Act [Nov. 26, 1991], in the case of any officer described in subsection (b), who was entitled to special pay under an agreement authorized by one of those sections, who was not paid the full amount due under such agreement, the unpaid balance shall be paid as part of the settlement of the officer’s final military pay account or as a supplemental payment if the officer’s final military pay account is already settled. “(b) An officer to whom subsection (a) applies is an aviation officer who died as a result of flight operations on or after August 2, 1990, in those areas of the Arabian Peninsula, airspace, and adjacent waters designated by the President in Executive Order 12744 on 21 January 1991 [[26 U.S.C. 112](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section112&num=0&edition=prelim) note] as a combat zone (regardless of the date of the commencement of combatant activities in such zone as specified in that Executive Order) and prior to cessation of hostilities as declared by competent authority, before completing the full period of aviation service agreed to in his or her agreement to remain on active duty in aviation service under [section 301b of title 37](./chapter-005-special-and-incentive-pays.md#section-301b), United States Code, or section 611 of Public Law 100–456 [set out below].”
 
 #### Agreements Entered Into Under Former Law
 Pub. L. 101–189, div. A, title VI, § 632(c), Nov. 29, 1989, 103 Stat. 1453, provided that: “(1) The amendment made by subsection (a) [amending this section] shall not affect an agreement entered into under [section 301b of title 37](./chapter-005-special-and-incentive-pays.md#section-301b), United States Code (as in effect on September 30, 1989), and, except as provided in paragraph (2), the provisions of such section as in effect on such day shall continue to apply with respect to such agreement. “(2) For pay periods beginning after September 30, 1989, an officer serving under an agreement entered into under section 301b of such title before October 1, 1987, shall be entitled during the remainder of the agreement to the monthly rate of aviation career incentive pay specified in section 301a(b) of such title and corresponding to the officer’s years of aviation service or years of service as an officer.”
@@ -1138,7 +1143,7 @@ Pub. L. 100–456, div. A, title VI, § 613, Sept. 29, 1988, 102 Stat. 1981, as 
 [Pub. L. 104–106, div. A, title VI, § 614(c)(2), Feb. 10, 1996, 110 Stat. 361, provided that: “The provisions of section 613 of the National Defense Authorization Act, Fiscal Year 1989 [Pub. L. 100–456, formerly set out as a note above], as in effect on the day before the date of the enactment of this Act [Feb. 10, 1996], shall continue to apply to agreements entered into under such section before such date.” ]
 
 #### Preservation of Entitlement for Reserve Medical Officers
-Pub. L. 96–513, title VI, § 641, Dec. 12, 1980, 94 Stat. 2954, as amended by Pub. L. 97–22, § 8(o), July 10, 1981, 97 Stat. 136, provided that: “Any person— “(1) who before June 30, 1980, served on active duty for not less than one year as a reserve officer of the Medical Corps or Dental Corps of the Army or the Medical Corps or Dental Corps of the Navy, as a reserve officer of the Air Force designated as a medical officer or dental officer, or as a reserve medical officer or dental officer of the Public Health Service; and “(2) who after having so served on active duty for not less than one year received special pay under section 302 or 302b of title 37, United States Code, as in effect during the period beginning on May 6, 1974, and ending on June 30, 1980, for service performed during such period, shall be considered to have been entitled to such pay as if that part of such section, as in effect during such period, which read ‘who is on active duty for a period of at least one year’ read ‘who has served on active duty for not less than one year’.”
+Pub. L. 96–513, title VI, § 641, Dec. 12, 1980, 94 Stat. 2954, as amended by Pub. L. 97–22, § 8(o), July 10, 1981, 97 Stat. 136, provided that: “Any person—“(1) who before June 30, 1980, served on active duty for not less than one year as a reserve officer of the Medical Corps or Dental Corps of the Army or the Medical Corps or Dental Corps of the Navy, as a reserve officer of the Air Force designated as a medical officer or dental officer, or as a reserve medical officer or dental officer of the Public Health Service; and “(2) who after having so served on active duty for not less than one year received special pay under section 302 or 302b of title 37, United States Code, as in effect during the period beginning on May 6, 1974, and ending on June 30, 1980, for service performed during such period, shall be considered to have been entitled to such pay as if that part of such section, as in effect during such period, which read ‘who is on active duty for a period of at least one year’ read ‘who has served on active duty for not less than one year’.”
 
 #### Transition Provisions
 Pub. L. 96–284, § 7, June 28, 1980, 94 Stat. 593, provided that: “Notwithstanding any provision of the amendments made by this Act; [see Short Title of 1980 Amendment note set out under [section 101 of this title](./chapter-001-definitions.md#section-101)], and in accordance with regulations to be prescribed by the Secretary of Defense, any officer of the Army, Navy, or Air Force who at any time before the effective date of the amendments made by this Act [see Effective Date of 1980 Amendment note set out above] was entitled to special pay under [section 302 of title 37](./chapter-005-special-and-incentive-pays.md#section-302), United States Code, and any officer who after such effective date would have become entitled to special pay under such section (as in effect on the day before such effective date) had such section continued in effect, shall be paid basic pay and special pay under section 302 of such title (as in effect on and after the effective date of the amendments made by this Act) in a total amount not less than the total amount of the basic pay (as in effect on the day before such date) and special pay applicable (or which would have been applicable) to such officer under sections 302, 311, and 313 of such title (as in effect on the day before such date and computed on the rates of basic pay as in effect on the day before such date).”
@@ -1561,12 +1566,16 @@ Pub. L. 101–189, div. A, title VII, § 704(d), Nov. 29, 1989, 103 Stat. 1471, 
 
 (2) **Retention bonus.—** — An officer who does not complete the period of active duty specified in the agreement entered into under subsection (b) shall be subject to the repayment provisions of [section 303a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
 
-**(f) Termination of Authority.—** No agreement under subsection (a) or (b) may be entered into after December 31, 2013.
+**(f) Termination of Authority.—** No agreement under subsection (a) or (b) may be entered into after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (f). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (f). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (f). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (f). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -1579,7 +1588,7 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 ## § 302d. Special pay: accession bonus for registered nurses
 **(a) Accession Bonus Authorized.—**
 
-(1) A person who is a registered nurse and who, during the period beginning on November 29, 1989, and ending on December 31, 2013, executes a written agreement described in subsection (c) to accept a commission as an officer and remain on active duty for a period of not less than three years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+(1) A person who is a registered nurse and who, during the period beginning on November 29, 1989, and ending on December 31, 2015, executes a written agreement described in subsection (c) to accept a commission as an officer and remain on active duty for a period of not less than three years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (2) The amount of an accession bonus under paragraph (1) may not exceed $30,000.
 
@@ -1596,7 +1605,11 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (a)(1). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (a)(1). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (a)(1). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (a)(1). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -1670,7 +1683,7 @@ For provisions relating to coverage of period of lapsed authority from Oct. 1, 1
 ## § 302e. Special pay: nurse anesthetists
 **(a) Special Pay Authorized.—**
 
-(1) An officer described in subsection (b)(1) who, during the period beginning on November 29, 1989, and ending on December 31, 2013, executes a written agreement to remain on active duty for a period of one year or more may, upon the acceptance of the agreement by the Secretary concerned, be paid incentive special pay in an amount not to exceed $50,000 for any 12-month period.
+(1) An officer described in subsection (b)(1) who, during the period beginning on November 29, 1989, and ending on December 31, 2015, executes a written agreement to remain on active duty for a period of one year or more may, upon the acceptance of the agreement by the Secretary concerned, be paid incentive special pay in an amount not to exceed $50,000 for any 12-month period.
 
 (2) The Secretary concerned shall determine the amount of incentive special pay to be paid to an officer under paragraph (1). In determining that amount, the Secretary concerned shall consider the period of obligated service provided for in the agreement under that paragraph.
 
@@ -1699,7 +1712,11 @@ For provisions relating to coverage of period of lapsed authority from Oct. 1, 1
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (a)(1). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (a)(1). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (a)(1). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (a)(1). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -1836,7 +1853,7 @@ Pub. L. 102–25, title III, § 304, Apr. 25, 1991, 105 Stat. 81, as amended by 
 
 **(d) Repayment.—** An officer who does not complete the period of service in the Selected Reserve specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of [section 303a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
 
-**(e) Termination of Agreement Authority.—** No agreement under this section may be entered into after December 31, 2013.
+**(e) Termination of Agreement Authority.—** No agreement under this section may be entered into after December 31, 2015.
 
 ### Statutory Notes
 
@@ -1844,7 +1861,11 @@ Pub. L. 102–25, title III, § 304, Apr. 25, 1991, 105 Stat. 81, as amended by 
 Provisions similar to those in this section were contained in Pub. L. 100–456, div. A, title VI, § 613, Sept. 29, 1988, 102 Stat. 1981, which was set out as a note under [section 302 of this title](./chapter-005-special-and-incentive-pays.md#section-302), prior to repeal by Pub. L. 104–106, § 614(c)(1).
 
 #### Amendments
-2013—Subsec. (e). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (e). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (e). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (e). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -1900,7 +1921,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 ## § 302h. Special pay: accession bonus for dental officers
 **(a) Accession Bonus Authorized.—**
 
-(1) A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996, and ending on December 31, 2013, executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+(1) A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996, and ending on December 31, 2015, executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (2) The amount of an accession bonus under paragraph (1) may not exceed $200,000.
 
@@ -1917,7 +1938,11 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (a)(1). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (a)(1). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (a)(1). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (a)(1). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -2002,7 +2027,7 @@ In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amo
 
 <a id="section-302j"></a>
 ## § 302j. Special pay: accession bonus for pharmacy officers
-**(a) Accession Bonus Authorized.—** A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000, and ending on December 31, 2013, executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+**(a) Accession Bonus Authorized.—** A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000, and ending on December 31, 2015, executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 **(b) Limitation on Amount of Bonus.—** The amount of an accession bonus under subsection (a) may not exceed $30,000.
 
@@ -2019,7 +2044,11 @@ In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amo
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (a). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (a). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (a). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (a). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -2064,12 +2093,16 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(e) Repayment.—** A person who, after executing an agreement under subsection (a) is not commissioned as an officer of the armed forces, does not become licensed as a doctor or osteopath, as the case may be, or does not complete the period of active duty in a specialty specified in the agreement, shall be subject to the repayment provisions of [section 303a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
 
-**(f) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2013.
+**(f) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (f). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (f). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (f). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (f). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -2106,12 +2139,16 @@ Section effective Oct. 1, 2006, and applicable to agreements entered into on or 
 
 **(f) Coordination With Other Accession Bonus Authority.—** A person eligible to execute an agreement under both subsection (a) and [section 302h of this title](./chapter-005-special-and-incentive-pays.md#section-302h) shall elect which authority to execute the agreement under. A person may not execute an agreement under both subsection (a) and such section 302h.
 
-**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2013.
+**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (g). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -2948,12 +2985,16 @@ Pub. L. 98–525, title VI, § 623(b)(3), Oct. 19, 1984, 98 Stat. 2542, provided
 
 (2) absence of the member for authorized leave, other than leave authorized for a period ending upon the discharge of the member or the release of the member from active duty.
 
-**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2013.
+**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (g). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -3055,7 +3096,7 @@ may, under regulations prescribed by the Secretary concerned, be considered as p
 
 **(f)** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction, and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-**(g)** No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after December 31, 2013.
+**(g)** No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after December 31, 2015.
 
 ### Statutory Notes
 
@@ -3069,7 +3110,11 @@ In subsection (a), the words “reenlists . . . after . . . compulsory or volunt
 In subsection (b), the words “a total of” are omitted as surplusage.
 
 #### Amendments
-2013—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (g). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -3306,12 +3351,16 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 624(c)(2)], Oct. 30, 2000, 114 S
 
 **(f) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
 
-**(g) Termination of Authority.—** No bonus may be paid under this section to any enlisted member who, after December 31, 2013, reenlists or voluntarily extends his enlistment in a reserve component.
+**(g) Termination of Authority.—** No bonus may be paid under this section to any enlisted member who, after December 31, 2015, reenlists or voluntarily extends his enlistment in a reserve component.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (g). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -3515,12 +3564,16 @@ For provisions relating to coverage of period of lapsed authority from Oct. 1, 1
 
 **(h) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary of Defense and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
 
-**(i) Termination of Bonus Authority.—** No bonus may be paid under this section with respect to any agreement entered into under subsection (a) or (c) after December 31, 2013.
+**(i) Termination of Bonus Authority.—** No bonus may be paid under this section with respect to any agreement entered into under subsection (a) or (c) after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (i). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (i). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (i). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (i). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -3627,7 +3680,7 @@ For provisions relating to coverage of period of lapsed authority from Oct. 1, 1
 
 **(b)** The Secretary concerned may designate a unit, for the purposes of subsection (a) and under such terms and conditions as the Secretary considers appropriate, as a high priority unit if that unit has experienced, or reasonably might be expected to experience, critical personnel shortages. The Secretary may vacate a designation made under this subsection at any time he considers the designation no longer necessary.
 
-**(c)** Additional compensation may not be paid under this section for inactive duty performed after December 31, 2013.
+**(c)** Additional compensation may not be paid under this section for inactive duty performed after December 31, 2015.
 
 ### Statutory Notes
 
@@ -3635,7 +3688,11 @@ For provisions relating to coverage of period of lapsed authority from Oct. 1, 1
 A prior section 308d, added Pub. L. 96–342, title VIII, § 805(a)(1), Sept. 8, 1980, 94 Stat. 1092, related to special pay and to a bonus for enlistment, reenlistment, or extension of enlistment in elements of the Ready Reserve other than the Selected Reserve, prior to repeal by Pub. L. 98–94, title X, § 1011(b)(1), Sept. 24, 1983, 97 Stat. 664, effective Oct. 1, 1983. See sections 308g and 308h of this title.
 
 #### Amendments
-2013—Subsec. (c). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (c). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (c). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (c). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -3741,12 +3798,16 @@ Repeal effective Oct. 1, 2000, and not to affect the validity or terms of any bo
 
 (1) during the period beginning on October 1, 1992, and ending on September 30, 2005; or
 
-(2) after December 31, 2013.
+(2) after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (f)(2). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (f)(2). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (f)(2). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (f)(2). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -3859,12 +3920,16 @@ Reserve Forces Readiness provisions, including amendment of subsec. (b) of this 
 
 (2) Regulations under this section may require that as a condition of receiving a bonus under this section the person receiving the bonus agree to participate in an annual muster of the Reserves, or in active duty for training, as may be required by the Secretary concerned.
 
-**(e) Termination of Authority.—** A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after December 31, 2013.
+**(e) Termination of Authority.—** A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (e). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (e). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (e). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (e). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -4037,12 +4102,16 @@ Reserve Forces Readiness provisions, including amendment of subsec. (b) of this 
 
 **(e) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-**(f) Termination of Authority.—** No bonus may be paid under this section to any person for an enlistment after December 31, 2013.
+**(f) Termination of Authority.—** No bonus may be paid under this section to any person for an enlistment after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (f). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (f). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (f). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (f). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -4266,7 +4335,7 @@ Subsec. (g). Pub. L. 109–364 added subsec. (g) and struck out former subsec. (
 
 **(d) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary of Defense and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-**(e) Duration of Authority.—** No bonus shall be paid under this section with respect to any enlistment in the armed forces made after December 31, 2013.
+**(e) Duration of Authority.—** No bonus shall be paid under this section with respect to any enlistment in the armed forces made after December 31, 2015.
 
 ### Statutory Notes
 
@@ -4274,7 +4343,11 @@ Subsec. (g). Pub. L. 109–364 added subsec. (g) and struck out former subsec. (
 A prior section 309, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 468, related to authority of Secretary concerned to provide for additional pay for performance of administrative functions by officers of the National Guard and reserve components, prior to repeal by Pub. L. 96–107, title IV, § 404(a)(1), (b), Nov. 9, 1979, 93 Stat. 808, 809, applicable only with respect to administrative functions performed after Sept. 30, 1980.
 
 #### Amendments
-2013—Subsec. (e). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (e). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (e). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (e). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -4518,12 +4591,16 @@ Repeal effective Oct. 1, 1985, see section 639(f) of Pub. L. 99–145, set out a
 
 (2) This subsection shall be carried out under regulations prescribed by the Secretary of the Navy.
 
-**(f) Duration of Authority.—** The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2013, execute the required written agreement to remain in active service.
+**(f) Duration of Authority.—** The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2015, execute the required written agreement to remain in active service.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (f). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (f). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (f). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (f). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -4690,12 +4767,16 @@ Section, added Pub. L. 92–581, § 1(3), Oct. 27, 1972, 86 Stat. 1277; amended 
 
 (2) upon successful completion, as a commissioned officer, of training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-**(c)** The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2013, have been accepted for training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
+**(c)** The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2015, have been accepted for training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (c). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (c). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (c). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (c). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -4860,12 +4941,16 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(c)** Under regulations prescribed by the Secretary of the Navy, an officer of the naval service who is not on active duty on the last day of a nuclear service year or who, on or before the last day of a nuclear service year, loses his technical qualifications or advances from the pay grade of O–6 to a higher pay grade may be paid a bonus in accordance with subsection (a) or (b) on a pro rata basis, if otherwise qualified, unless termination of active duty or loss of technical qualifications was voluntary or was the result of his own misconduct.
 
-**(d)** For the purposes of this section, a “nuclear service year” is any fiscal year beginning before December 31, 2013.
+**(d)** For the purposes of this section, a “nuclear service year” is any fiscal year beginning before December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (d). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (d). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (d). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (d). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -5032,7 +5117,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 (2) that requires a skill designated (under regulations prescribed by the Secretary of Defense for the armed forces, by the Secretary of Commerce for the National Oceanic and Atmospheric Administration, or by the Secretary of Health and Human Services for the Public Health Service) as critical and as a skill in which there is a critical shortage of officers in the uniformed service concerned.
 
-**(b)** Under regulations prescribed by the Secretary concerned, an officer of a 11 So in original. Probably should be “an”. uniformed service who—
+**(b)** Under regulations prescribed by the Secretary concerned, an officer of a uniformed service who—
 
 (1) is entitled to basic pay;
 
@@ -5218,7 +5303,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 (5) The effectiveness of incentive pay under this section in assisting the Department of Defense in securing proficiency in foreign languages of strategic interest to the Department of Defense, including a description of how recipients of pay under this section are assigned and utilized following completion of the program of study.
 
-**(g) Termination of Authority.—** No incentive pay may be paid under this section after December 31, 2013.
+**(g) Termination of Authority.—** No incentive pay may be paid under this section after December 31, 2015.
 
 ### Statutory Notes
 
@@ -5226,6 +5311,10 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 A prior section 316a, added Pub. L. 102–190, div. A, title VI, § 636(a), Dec. 5, 1991, 105 Stat. 1382, related to waiver of certification requirement, prior to repeal by Pub. L. 108–375, div. A, title VI, § 620(b)(1), Oct. 28, 2004, 118 Stat. 1954.
 
 #### Amendments
+2014—Subsec. (g). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
 2011—Subsec. (f). Pub. L. 112–81 substituted “April 1, 2012” for “January 1, 2010” in introductory provisions.
 
 
@@ -5465,12 +5554,16 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(f) Repayment.—** An individual who, having received all or part of the bonus under an agreement referred to in subsection (a), is not thereafter commissioned as an officer or does not commence or complete the total period of active duty service specified in the agreement shall be subject to the repayment provisions of [section 303a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
 
-**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2013.
+**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (g). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -5588,14 +5681,18 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(f) Regulations.—** The Secretaries concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
 
-**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2013.
+**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (g). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
 2013—Subsec. (c)(1). Pub. L. 112–239, § 617, substituted “$4,000.” for “$4,000, in the case of a member of a regular component of the armed forces, and $2,000, in the case of a member of a reserve component of the armed forces.”
 
-Subsec. (g). Pub. L. 112–239, § 615(6), substituted “December 31, 2013” for “December 31, 2012”.
+Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239, § 615(6), substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -5662,12 +5759,16 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(g) Regulations.—** The Secretaries concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department under this subsection shall be subject to the approval of the Secretary of Defense.
 
-**(h) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2013.
+**(h) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (h). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (h). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (h). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (h). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -5779,12 +5880,16 @@ Pub. L. 109–364, div. A, title VI, § 621(e), Oct. 17, 2006, 120 Stat. 2255, p
 
 **(e) Repayment.—** A person who, having received all or part of the bonus under a written agreement under subsection (a), does not complete the total period of active duty as a commissioned officer as specified in such agreement shall be subject to the repayment provisions of [section 303a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
 
-**(f) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2013.
+**(f) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (f). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (f). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (f). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (f). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -5859,12 +5964,16 @@ Pub. L. 109–364, div. A, title VI, § 622(a)(3), Oct. 17, 2006, 120 Stat. 2256
 
 **(g) Repayment.—** A person or member who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(h) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2013.
+**(h) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (h). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (h). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (h). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (h). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -5925,12 +6034,16 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 **(f) Repayment.—** A person or officer who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2013.
+**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (g). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -5987,12 +6100,16 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 **(h) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of the Navy.
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2013.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (i). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (i). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (i). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (i). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -6069,12 +6186,16 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 (4) The term “officer” includes an individual enlisted and designated as an aviation cadet under [section 6911 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6911&num=0&edition=prelim).
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2013.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (i). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (i). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (i). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (i). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -6175,12 +6296,16 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 (8) Any health profession performed by officers in the regular or reserve corps of the Public Health Service.
 
-**(k) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2013.
+**(k) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (k). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (k). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (k). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (k). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -6192,6 +6317,36 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 #### Targeted Bonus Authority To Increase Direct Accessions
 Pub. L. 110–417, [div. A], title VI, § 620(a), Oct. 14, 2008, 122 Stat. 4489, provided that: “(1) Designation of critically short wartime health specialties.—For purposes of [section 335 of title 37](./chapter-005-special-and-incentive-pays.md#section-335), United States Code, as added by section 661 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 169), the following health professions are designated as a critically short wartime specialty under subsection (a)(2) of such section:“(A) Psychologists who have been awarded a diploma as a Diplomate in Psychology by the American Board of Professional Psychology and are fully licensed and such other mental health practitioners as the Secretary concerned determines to be necessary. “(B) Registered nurses. “(2) Special agreement authority.—Under the authority provided by this section [enacting this note and [section 302c–1 of this title](./chapter-005-special-and-incentive-pays.md#section-302c-1)], the Secretary concerned may enter into an agreement under subsection (f) of [section 335 of title 37](./chapter-005-special-and-incentive-pays.md#section-335), United States Code, to pay a health professions bonus under such section to a person who accepts a commission or appointment as an officer and whose health profession specialty is specified in paragraph (1) of this subsection. “(3) Secretary concerned defined.—In this subsection, the term ‘Secretary concerned’ has the meaning given that term in [section 101(5) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101/5&num=0&edition=prelim), United States Code. “(4) Effective period.—The designations made by this subsection and the authority to enter into an agreement under paragraph (2) of this subsection expire on September 30, 2010.”
+
+
+<a id="section-336"></a>
+## § 336. Contracting bonus for cadets and midshipmen enrolled in the Senior Reserve Officers’ Training Corps
+**(a) Contracting Bonus Authorized.—** The Secretary concerned may pay a bonus under this section to a cadet or midshipman enrolled in the Senior Reserve Officers’ Training Corps who executes a written agreement described in subsection (c).
+
+**(b) Amount of Bonus.—** The amount of a bonus under subsection (a) may not exceed $5,000.
+
+**(c) Agreement.—** A written agreement referred to in subsection (a) is a written agreement by the cadet or midshipman—
+
+(1) to complete field training or a practice cruise under [section 2104(b)(6)(A)(ii) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2104/b/6/A/ii&num=0&edition=prelim);
+
+(2) to complete advanced training under chapter 103 of title 10;
+
+(3) to accept a commission or appointment as an officer of the armed forces; and
+
+(4) to serve on active duty.
+
+**(d) Payment Method.—** Upon acceptance of a written agreement under subsection (a) by the Secretary concerned, the total amount of the bonus payable under the agreement becomes fixed. The agreement shall specify when the bonus will be paid and whether the bonus will be paid in a lump sum or in installments.
+
+**(e) Repayment.—** A person who, having received all or part of a bonus under subsection (a), fails to fulfill the terms of the written agreement required by such subsection for receipt of the bonus shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
+
+**(f) Regulations.—** The Secretary concerned shall issue such regulations as may be necessary to carry out this section.
+
+**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2015.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (g). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
 
 
 <a id="section-351"></a>
@@ -6238,12 +6393,16 @@ Pub. L. 110–417, [div. A], title VI, § 620(a), Oct. 14, 2008, 122 Stat. 4489,
 
 **(g) Prohibition on Variable Rates.—** The regulations prescribed to administer this section may not include varied criteria or rates for payment of hazardous duty for officers and enlisted members.
 
-**(h) Termination of Authority.—** No hazardous duty pay under this section may be paid after December 31, 2013.
+**(h) Termination of Authority.—** No hazardous duty pay under this section may be paid after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (h). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (h). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (h). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (c)(2). Pub. L. 112–81, § 616(b), substituted “receipt of hazardous duty pay—” for “receipt of hazardous duty pay, the Secretary concerned may prorate the payment amount to reflect the duration of the member’s actual qualifying service during the month.” and added subpars. (A) and (B).
 
@@ -6306,12 +6465,16 @@ Subsec. (f). Pub. L. 110–417, § 618(e), substituted “in connection with det
 
 **(f) Repayment.—** A member who receives assignment or special duty pay under this section and who fails to fulfill the eligibility requirements under subsection (a) for receipt of such pay shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2013.
+**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2015.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (g). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -6379,7 +6542,7 @@ Pub. L. 111–84, div. A, title VI, § 619, Oct. 28, 2009, 123 Stat. 2357, provi
 
 **(h) Relationship to Other Pays and Allowances.—** A member may not be paid more than one pay under this section in any month for the same period of service and skill. A member may be paid skill incentive pay or the proficiency bonus under this section in addition to any other pay and allowances to which the member is entitled, except that a member may not be paid skill incentive pay or a proficiency bonus under this section and hazardous duty pay under [section 351 of this title](./chapter-005-special-and-incentive-pays.md#section-351) for the same period of service in the same career field or skill.
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2013.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2015.
 
 ### Statutory Notes
 
@@ -6387,7 +6550,11 @@ Pub. L. 111–84, div. A, title VI, § 619, Oct. 28, 2009, 123 Stat. 2357, provi
 Subsection (g)(2), referred to in subsec. (b)(2), was redesignated subsec. (f)(2) by Pub. L. 111–84, div. A, title VI, § 618(d)(1), Oct. 28, 2009, 123 Stat. 2356.
 
 #### Amendments
-2013—Subsec. (i). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (i). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (i). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (i). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -6537,12 +6704,16 @@ Pub. L. 107–107, div. A, title VI, § 620(b), Dec. 28, 2001, 115 Stat. 1139, p
 
 **(g) Repayment.—** A member paid a bonus under this section who fails, during the period of service covered by the member’s agreement, reenlistment, or voluntary extension of enlistment under subsection (a), to remain qualified in the critical military skill or to satisfy the other eligibility criteria for which the bonus was paid shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(h) Termination of Bonus Authority.—** No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2013, and no agreement under this section may be entered into after that date.
+**(h) Termination of Bonus Authority.—** No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2015, and no agreement under this section may be entered into after that date.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (h). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (h). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (h). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (h). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 

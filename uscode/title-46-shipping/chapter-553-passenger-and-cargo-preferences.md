@@ -2,7 +2,7 @@
 title: 46
 chapter: '553'
 heading: PASSENGER AND CARGO PREFERENCES
-section_count: 19
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -94,11 +94,13 @@ This section codifies the Joint Resolution of March 26, 1934 (ch. 90, 48 Stat. 5
 
 **(e) Security of Government-Impelled Cargo.—**
 
-(1) In order to ensure the safety of vessels and crewmembers transporting equipment, materials, or commodities under this section, the Secretary of Transportation shall direct each department or agency (except the Department of Defense), when responsible for the carriage of such equipment, materials, or commodities, to provide armed personnel aboard vessels of the United States carrying such equipment, materials, or commodities if the vessels are transiting high-risk waters.
+(1) In order to ensure the safety of vessels and crewmembers transporting equipment, materials, or commodities under this section, the Secretary of Transportation shall direct each department or agency (except the Department of Defense), when responsible for the carriage of such equipment, materials, or commodities, to reimburse, subject to the availability of appropriations, the owners or operators of vessels of the United States carrying such equipment, materials, or commodities for the cost of providing armed personnel aboard such vessels if the vessels are transiting high-risk waters.
 
-(2) The Secretary of Transportation shall direct each department or agency responsible to provide armed personnel under paragraph (1) to reimburse, subject to the availability of appropriations, the owners or operators of applicable vessels for the cost of providing armed personnel.
+(2) In this subsection, the term “high-risk waters” means waters so designated by the Commandant of the Coast Guard in the maritime security directive issued by the Commandant and in effect on the date on which an applicable voyage begins, if the Secretary of Transportation—
 
-(3) In this subsection, the term “high-risk waters” means waters so designated by the Commandant of the Coast Guard in the Port Security Advisory in effect on the date on which an applicable voyage begins.
+  (A) determines that an act of piracy occurred in the 12-month period preceding the date the voyage begins; or
+
+  (B) in such period, issued an advisory warning that an act of piracy is possible in such waters.
 
 ### Statutory Notes
 
@@ -118,6 +120,14 @@ In subsection (a), the words “the provisions of this subsection shall not appl
 Section 25(c)(1) of the Office of Federal Procurement Policy Act, referred to in subsec. (d)(2)(D), was classified to section 421(c)(1) of former Title 41, Public Contracts, and was repealed and restated as [section 1303(a)(1) of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim), Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim).
 
 #### Amendments
+2014—Subsec. (e)(1). Pub. L. 113–281, § 306(1), substituted “reimburse, subject to the availability of appropriations, the owners or operators of vessels” for “provide armed personnel aboard vessels” and “commodities for the cost of providing armed personnel aboard such vessels” for “commodities”.
+
+Subsec. (e)(2), (3). Pub. L. 113–281, § 306(2), added par. (2) and struck out former pars. (2) and (3) which read as follows:
+
+“(2) The Secretary of Transportation shall direct each department or agency responsible to provide armed personnel under paragraph (1) to reimburse, subject to the availability of appropriations, the owners or operators of applicable vessels for the cost of providing armed personnel.
+
+“(3) In this subsection, the term ‘high-risk waters’ means waters so designated by the Commandant of the Coast Guard in the Port Security Advisory in effect on the date on which an applicable voyage begins.”
+
 2012—Subsec. (e). Pub. L. 112–213 added subsec. (e).
 
 2008—Subsec. (b). Pub. L. 110–417, § 3511(a), substituted “foreign country, organization, or persons” for “foreign country”, “commodities, or provides financing in any way with Federal funds for the account of any persons unless otherwise exempted, within” for “commodities, within”, and “furnishing or obtaining” for “furnishing”.
@@ -224,7 +234,8 @@ Sections 55304 and 55305 of this title do not apply to export activities of the 
 (6) under which a cash grant is made directly or through an intermediary to a foreign purchaser to enable the purchaser to obtain United States agricultural commodities or their products in an amount greater than the difference between the prevailing world market price and the United States market price, free along side vessel at a United States port; or
 
 (7) under which agricultural commodities owned or controlled by or under loan from the Corporation are exchanged or bartered for materials, goods, equipment, or services produced in foreign countries, except export activities described in [section 55313(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55313/5&num=0&edition=prelim).
-[(c) Repealed. Pub. L. 112–141, div. F, title I, § 100124(a)(1), July 6, 2012, 126 Stat. 915.]
+
+**(c)** Repealed. Pub. L. 112–141, div. F, title I, § 100124(a)(1), July 6, 2012, 126 Stat. 915.]
 
 ### Statutory Notes
 
@@ -291,92 +302,14 @@ In subsection (b), the words “For fiscal year 1986 and” are omitted as obsol
 2012—Subsec. (b). Pub. L. 112–141 substituted “specified in section 55314(b)” for “subject to section 55314”.
 
 
-<a id="section-55316"></a>
-## § 55316. Financing the transportation of agricultural commodities
-**(a)** Repealed. Pub. L. 112–141, div. F, title I, § 100124(b), July 6, 2012, 126 Stat. 915.]
-
-**(b) Reimbursement of Increased Charges.—**
-
-(1) **In general.—** — The Secretary of Transportation shall reimburse the Secretary of Agriculture and the Commodity Credit Corporation for the amount by which, in any fiscal year—
-
-  (A) the total cost of ocean freight and ocean freight differential for which obligations are incurred by the Secretary of Agriculture and the Corporation on exports of agricultural commodities and their products under the agricultural export programs specified in [section 55314(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55314/b&num=0&edition=prelim); exceeds
-
-  (B) 20 percent of the value of the commodities and their products and the cost of the ocean freight and ocean freight differential on which obligations are incurred by the Secretary of Agriculture and the Corporation during that fiscal year.
-
-(2) **Commodities shipped from inventory.—** — For purposes of this subsection, commodities shipped from the inventory of the Corporation shall be valued as provided in section 412(d) of the Food for Peace Act ([7 U.S.C. 1736f(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1736f/d&num=0&edition=prelim)).
-
-**(c) Issuance and Purchase of Obligations.—**
-
-(1) **Issuance.—** — To meet the expenses required to be assumed under subsection (b), the Secretary of Transportation shall issue obligations to the Secretary of the Treasury. The Secretary of Transportation, with the approval of the Secretary of the Treasury, shall prescribe the form, denomination, maturity, and other terms (except the interest rate) of the obligations. The Secretary of the Treasury shall set the interest rate for the obligations, considering the average market yield on outstanding marketable obligations of the United States Government of comparable maturities during the month before the obligations are issued.
-
-(2) **Purchase.—** — The Secretary of the Treasury shall purchase the obligations issued under this subsection. To purchase the obligations, the Secretary of the Treasury may use as a public debt transaction the proceeds from the sale of securities issued under chapter 31 of title 31. The purposes for which securities may be issued under that chapter are extended to include the purchase of obligations under this subsection. A redemption or purchase of the obligations by the Secretary of the Treasury is a public debt transaction of the Government.
-
-**(d) Source of Funds for Reimbursement.—** Reimbursement of the Secretary of Transportation for costs incurred under this section shall be made with appropriated funds rather than through cancellation of notes.
-
-**(e) Appropriations.—**
-
-(1) **Authorization.—** — Each fiscal year, there is authorized to be appropriated an amount sufficient to reimburse the Secretary of Transportation for the costs incurred under this section, including administrative expenses and the principal and interest due on obligations issued to the Secretary of the Treasury.
-
-(2) **Appropriation for administrative expenses.—** — Each fiscal year, such amounts as may be necessary are hereby appropriated to pay interest and to liquidate debt on obligations issued to the Secretary of the Treasury under this section.
-
-**(f) Notification to Congress of Insufficiency.—** If the Secretary of Transportation is unable to obtain the funds necessary to finance the increased ocean freight charges resulting from the requirements of subsection (b), the Secretary shall notify Congress within 10 working days of the discovery of the insufficiency.
+<a id="section-55316-55317"></a>
+## § 55316, 55317. Repealed. Pub. L. 113–67, div. A, title VI, § 602(a), Dec. 26, 2013, 127 Stat. 1188]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 55316(a) | 46 App.:1241h(a). | June 29, 1936, ch. 858, title IX, § 901d, as added Pub. L. 99–198, title XI, § 1142, Dec. 23, 1985, 99 Stat. 1493. |
-| 55316(b) | 46 App.:1241h(b). |  |
-| 55316(c) | 46 App.:1241h(c). |  |
-| 55316(d) | 46 App.:1241h(d) (last sentence). |  |
-| 55316(e)(1) | 46 App.:1241h(d) (1st sentence). |  |
-| 55316(e)(2) | 46 App.:1241h note. | Pub. L. 100–202, 101(a) [title V (par. under heading “Ocean Freight Differential”)], Dec. 22, 1987, 101 Stat. 1329, 1329–27. |
-| 55316(f) | 46 App.:1241h(e). |  |
+Section 55316, Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1647; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(Y), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 112–141, div. F, title I, § 100124(b), (c)(2), July 6, 2012, 126 Stat. 915, related to financing the transportation of agricultural commodities.
 
-In subsection (b)(2), the words “section 412(d) of the Agricultural Trade Development and Assistance Act of 1954 ([7 U.S.C. 1736f(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1736f/d&num=0&edition=prelim))” are substituted for “[section 1733(b) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1733/b&num=0&edition=prelim)” because the latter provision, as amended in 1990, no longer contains provisions on valuation of commodities shipped from the inventory of the Commodity Credit Corporation, and a provision substantially the same as former [7 U.S.C. 1733(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1733/b&num=0&edition=prelim) is now at [7 U.S.C. 1736f(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1736f/e&num=0&edition=prelim).
-
-In subsection (c)(1), the words “considering the current average market yield on outstanding marketable obligations of the United States Government of comparable maturities during the month before the obligations are issued” are substituted for “taking into consideration the average market yield on outstanding marketable obligations of the United States with remaining periods of maturity comparable to the average maturities of such obligations during the month preceding the issuance of such obligations of the Secretary of Transportation” to eliminate unnecessary words.
-
-In subsection (c)(2), the words “after December 23, 1985” are omitted as obsolete.
-
-In subsection (e)(1), the words “commencing with the fiscal year beginning October 1, 1986” are omitted as obsolete.
-
-In subsection (f), the words “Notwithstanding the provisions of this section” are omitted as unnecessary.
-
-#### Amendments
-2012—Subsec. (a). Pub. L. 112–141, § 100124(b), struck out subsec. (a). Text read as follows: “The Secretary of Transportation shall finance any increased ocean freight charges incurred in any fiscal year that result from the application of [section 55314 of this title](./chapter-553-passenger-and-cargo-preferences.md#section-55314).”
-
-Subsec. (c)(1). Pub. L. 112–141, § 100124(c)(2)(A), substituted “under subsection (b)” for “under subsections (a) and (b)”.
-
-Subsec. (f). Pub. L. 112–141, § 100124(c)(2)(B), substituted “subsection (b)” for “subsections (a) and (b) and [section 55314(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55314/a&num=0&edition=prelim)”.
-
-2008—Subsec. (b)(2). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
-
-#### Effective Date of 2008 Amendment
-Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
-
-
-<a id="section-55317"></a>
-## § 55317. Termination of subchapter
-
-This subchapter terminates 90 days after the date on which a notification is made under [section 55316(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55316/f&num=0&edition=prelim), except for shipments of agricultural commodities and their products subject to contracts made before the end of that 90-day period, unless within that 90-day period the Secretary of Transportation proclaims that funds are available to finance increased freight charges resulting from the requirements of [section 55316(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55316/b&num=0&edition=prelim). On the termination of this subchapter under this section—
-
-(1) this subchapter does not exempt export activities from, or subject export activities to, the cargo preference laws; and
-
-(2) the 50-percent requirement in [section 55305 of this title](./chapter-553-passenger-and-cargo-preferences.md#section-55305) remains in effect.
-
-### Statutory Notes
-
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 55317 | 46 App.:1241j. | June 29, 1936, ch. 858, title IX, § 901f, as added Pub. L. 99–198, title XI, § 1142, Dec. 23, 1985, 99 Stat. 1494. |
-
-The words “except to the extent those activities are exempt under [section 1707a(b) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1707a/b&num=0&edition=prelim)” are omitted because the provision referred to has been repealed.
-
-#### Amendments
-2012—Pub. L. 112–141 substituted “section 55316(b)” for “sections 55314(a) and 55316(a) and (b)” in introductory provisions.
+Section 55317, Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1648; Pub. L. 112–141, div. F, title I, § 100124(c)(3), July 6, 2012, 126 Stat. 915, provided for the termination of this subchapter 90 days after the notification under [section 55316(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55316/f&num=0&edition=prelim) is made, subject to certain exceptions.
 
 
 <a id="section-55318"></a>

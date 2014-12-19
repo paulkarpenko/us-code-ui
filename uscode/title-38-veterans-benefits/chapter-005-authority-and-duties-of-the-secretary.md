@@ -54,7 +54,7 @@ Provisions similar to those in this section were contained in [section 223(c) of
 
 **(b)** If the Secretary determines that a veteran, surviving spouse, child of a veteran, or other person has suffered loss as a consequence of reliance upon a determination by the Department of eligibility or entitlement to benefits, without knowledge that it was erroneously made, the Secretary may provide such relief on account of such error as the Secretary determines is equitable, including the payment of moneys to any person whom the Secretary determines is equitably entitled to such moneys.
 
-**(c)** Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2014.
+**(c)** Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2015.
 
 ### Statutory Notes
 
@@ -64,6 +64,8 @@ Prior sections 503 and 504 were renumbered sections 1503 and 1504 of this title,
 Provisions similar to those in this section were contained in section 210(c)(2), (3) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–175 substituted “December 31, 2015” for “December 31, 2014”.
+
 2010—Subsec. (c). Pub. L. 111–275 substituted “December 31, 2014” for “December 31, 2009”.
 
 2006—Subsec. (c). Pub. L. 109–233 substituted “December 31, 2009” for “December 31, 2004”.
@@ -367,26 +369,40 @@ Provisions similar to those in this section were contained in [section 216 of th
 
 
 <a id="section-521a"></a>
-## § 521A. Assistance for United States Paralympics, Inc.
-**(a) Authorization to Provide Assistance.—** The Secretary may award grants to the United States Paralympics, Inc., to plan, develop, manage, and implement an integrated adaptive sports program for disabled veterans and disabled members of the Armed Forces.
+## § 521A. Adaptive sports programs for disabled veterans and members of the Armed Forces
+**(a) Adaptive Sports Program.—**
 
-**(b) Oversight by Secretary.—** As a condition of receiving a grant under this section, the United States Paralympics, Inc., shall permit the Secretary to conduct such oversight of the use of grant funds as the Secretary determines is appropriate. The United States Paralympics, Inc., shall be responsible for the use of grant funds provided under this section.
+(1) The Secretary may carry out a program under which the Secretary may make grants to eligible entities for planning, developing, managing, and implementing programs to provide adaptive sports opportunities for disabled veterans and disabled members of the Armed Forces.
+
+(2) For purposes of this section, an eligible entity is an entity with significant experience in managing a large-scale adaptive sports program.
+
+**(b) Oversight by Secretary.—** As a condition of receiving a grant under this section, an eligible entity shall permit the Secretary to conduct such oversight of the use of grant funds as the Secretary determines is appropriate. An eligible entity that receives a grant under this section shall be responsible for the use of grant funds provided under this section.
 
 **(c) Application Requirement.—**
 
-(1) Before the Secretary may award a grant to the United States Paralympics, Inc., under this section, the United States Paralympics, Inc., shall submit to the Secretary an application that describes the activities to be carried out with the grant, including information on specific measurable goals and objectives to be achieved using grant funds.
+(1) Before the Secretary may award a grant to an eligible entity under this section, the eligible entity shall submit to the Secretary an application that describes the activities to be carried out with the grant, including information on specific measurable goals and objectives to be achieved using grant funds.
 
 (2) The application shall include—
 
-  (A) a detailed description of all partnerships referred to in paragraph (3) at the national and local levels that will be participating in such activities and the amount of grant funds that the United States Paralympics, Inc., proposes to make available for each of such partnerships; and
+  (A) a detailed description of—
 
-  (B) for any fiscal year for which a grant is sought, the amount of private donations received by the United States Paralympics, Inc., expected to be expended to support operations during that fiscal year.
+    (i) all partnerships referred to in paragraph (3) at the national and local levels that will be participating in such activities and the amount of grant funds that the eligible entity proposes to make available for each of such partnerships;
 
-(3) Partnerships referred to in this paragraph are agreements between the United States Paralympics, Inc., and organizations with significant experience in the training and support of disabled athletes and the promotion of disabled sports at the local and national levels. Such organizations may include Disabled Sports USA, Blaze Sports, Paralyzed Veterans of America, and Disabled American Veterans. The agreements shall detail the scope of activities and funding to be provided by the United States Paralympics, Inc., to the partner.
+    (ii) the anticipated personnel, travel, and administrative costs that will be paid for by the eligible entity using grant funds;
+
+    (iii) the financial controls implemented by the eligible entity, including methods to track expenditures of grant funds;
+
+    (iv) the performance metrics to be used by the eligible entity to evaluate the effectiveness of the activities to be carried out using grant funds; and
+
+    (v) the anticipated personnel, travel, and administrative costs that will be paid for by grantees under this subsection using grant funds; and
+
+  (B) for any fiscal year for which a grant is sought, the amount of private donations received by the eligible entity expected to be expended to support operations during that fiscal year.
+
+(3) Partnerships referred to in this paragraph are agreements between the eligible entity and organizations with significant experience in the training and support of disabled athletes and the promotion of disabled sports at the local and national levels. Such organizations may include Disabled Sports USA, Blaze Sports, Paralyzed Veterans of America, and Disabled American Veterans. The agreements shall detail the scope of activities and funding to be provided by the eligible entity to the partner.
 
 **(d) Use of Funds.—**
 
-(1) The United States Paralympics, Inc., with the assistance and cooperation of the Secretary and the heads of other appropriate Federal and State departments and agencies and partnerships referred to in subsection (c)(3), shall use a grant under this section to reimburse grantees with which the United States Paralympics, Inc., has entered into a partnership under subsection (c) for the direct costs of recruiting, supporting, equipping, encouraging, scheduling, facilitating, supervising, and implementing the participation of disabled veterans and disabled members of the Armed Forces in the activities described in paragraph (3) by supporting a program described in paragraph (2).
+(1) An eligible entity that receives a grant under this section, with the assistance and cooperation of the Secretary and the heads of other appropriate Federal and State departments and agencies and partnerships referred to in subsection (c)(3), shall use the grant to reimburse grantees with which the eligible entity has entered into a partnership under subsection (c) for the direct costs of recruiting, supporting, equipping, encouraging, scheduling, facilitating, supervising, and implementing the participation of disabled veterans and disabled members of the Armed Forces in the activities described in paragraph (3) by supporting a program described in paragraph (2).
 
 (2) A program described in this paragraph is a sports program that—
 
@@ -408,15 +424,29 @@ Provisions similar to those in this section were contained in [section 216 of th
 
   (C) coordination, Paralympic classification of athletes, athlete assessment, sport-specific training techniques, program development (including programs at the local level), sports equipment, supplies, program evaluation, and other activities related to the implementation and operation of the program.
 
-(4) A grant made under this section may include, at the discretion of the Secretary, an amount for the administrative expenses of the United States Paralympics, Inc., but not to exceed five percent of the amount of the grant.
+(4)
 
-(5) Funds made available by the United States Paralympics, Inc., to a grantee under subsection (c) may include an amount for administrative expenses, but not to exceed ten percent of the amount of such funds.
+  (A) At the discretion of the Secretary, an eligible entity that receives a grant under this section may use a portion of the grant for the administrative expenses and personnel expenses of the eligible entity. The amount that may be used for such expenses may not exceed—
 
-**(e) Outreach Requirement.—** As a condition of receiving a grant under this section, the United States Paralympics, Inc., shall agree to conduct a joint outreach campaign with the Secretary of Veterans Affairs to inform all eligible veterans and separating members of the Armed Forces with physical disabilities about the existence of the integrated adaptive sports program, as appropriate, and shall provide for, facilitate, and encourage participation of such veterans and separating members of the Armed Forces in programs under this section to the extent possible.
+    (i) in the case of a grant made for adaptive sports opportunities taking place during fiscal year 2014, 10 percent of the total amount of the grant;
 
-**(f) Coordination.—** The Secretary shall ensure access to and use of appropriate Department sports, recreation, and fitness facilities by disabled veterans and disabled members of the Armed Forces participating in the integrated adaptive sports program to the maximum extent possible. The Secretary shall ensure that such access does not adversely affect any other assistance provided to veterans.
+    (ii) in the case of a grant made for adaptive sports opportunities taking place during fiscal year 2015, 7.5 percent of the total amount of the grant; and
 
-**(g) Authorization of Appropriations.—** There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2013 to carry out this section. Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.
+    (iii) in the case of a grant made for adaptive sports opportunities taking place during any subsequent fiscal year, 5 percent of the total amount of the grant.
+
+  (B) For purposes of this paragraph, personnel expenses include any costs associated with an employee of the eligible entity other than reimbursement for time spent by such an employee directly providing coaching or training for disabled veterans or members of the Armed Forces.
+
+(5) Funds made available by an eligible entity that receives a grant under this section to a grantee under subsection (c) may include an amount for administrative expenses, but not to exceed ten percent of the amount of such funds.
+
+**(e) Outreach Requirement.—** As a condition of receiving a grant under this section, an eligible entity shall agree to conduct a joint outreach campaign with the Secretary of Veterans Affairs to inform all eligible veterans and separating members of the Armed Forces with physical disabilities about the existence of the adapted sports opportunities funded by the grant, as appropriate, and shall provide for, facilitate, and encourage participation of such veterans and separating members of the Armed Forces in programs under this section to the extent possible.
+
+**(f) Coordination.—** The Secretary shall ensure access to and use of appropriate Department sports, recreation, and fitness facilities by disabled veterans and disabled members of the Armed Forces participating in adapted sports opportunities funded under this section to the maximum extent possible. The Secretary shall ensure that such access does not adversely affect any other assistance provided to veterans.
+
+**(g) Authorization of Appropriations.—**
+
+(1) There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2015.
+
+(2) Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.
 
 **(h) Separate Accounting.—** The Department shall have a separate line item in budget proposals of the Department for funds to be appropriated to carry out this section. Funds appropriated to carry out this section shall not be commingled with any other funds appropriated to the Department.
 
@@ -424,17 +454,66 @@ Provisions similar to those in this section were contained in [section 216 of th
 
 **(j) Annual Report to Secretary.—**
 
-(1) As a condition of receiving a grant under this section, the United States Paralympics, Inc., shall agree that by not later than 60 days after the last day of a fiscal year for which a grant is provided under this section, the United States Paralympics, Inc., shall submit to the Secretary a report setting forth in detail the use of the grant funds during that fiscal year, including the number of veterans who participated in the integrated adaptive sports program, including any programs carried out through a partnership under subsection (c)(3), and the administrative expenses of the integrated adaptive sports program.
+(1) As a condition of receiving a grant under this section, an eligible entity shall agree that by not later than 60 days after the last day of a fiscal year for which a grant is provided under this section, the eligible entity shall submit to the Secretary a report setting forth in detail the use of the grant funds during that fiscal year, including the number of veterans who participated in the adapted sports opportunities funded by the grant, including any programs carried out through a partnership under subsection (c)(3), and the administrative expenses of such opportunities and programs.
 
 (2) A report under this subsection may be audited by the Secretary.
 
-(3) For any fiscal year after fiscal year 2010, the eligibility of the United States Paralympics, Inc., to receive a grant under this section shall be contingent upon the submission of the report under paragraph (1) for the preceding fiscal year.
+(3) If an eligible entity that receives a grant under this section for any fiscal year does not submit the report required by paragraph (1) for such fiscal year, the entity shall not be eligible to receive a grant under this section for the subsequent fiscal year.
 
 **(k) Annual Report to Congress.—** For any fiscal year during which the Secretary provides assistance under this section, the Secretary shall submit to Congress a report on the use of funds provided under this section.
 
-**(l) Termination.—** The Secretary may only provide assistance under this section during fiscal years 2010 through 2013.
+**(l) Termination.—** The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2016.
 
 ### Statutory Notes
+
+#### Amendments
+2013—Pub. L. 113–59, § 5(h)(1), substituted “Adaptive sports programs for disabled veterans and members of the Armed Forces” for “Assistance for United States Paralympics, Inc.” in section catchline.
+
+Pub. L. 113–37, § 2(b)(2)(A), substituted “United States Olympic Committee” for “United States Paralympics, Inc.,” wherever appearing except in subsec. (d)(4).
+
+Subsec. (a). Pub. L. 113–59, § 5(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may award grants to the United States Olympic Committee to plan, develop, manage, and implement an integrated adaptive sports program for disabled veterans and disabled members of the Armed Forces.”
+
+Subsec. (b). Pub. L. 113–59, § 5(g)(1), substituted “an eligible entity” for “the United States Olympic Committee” and “An eligible entity that receives a grant under this section” for “The United States Olympic Committee”.
+
+Subsec. (c)(1). Pub. L. 113–59, § 5(g)(2)(A), substituted “to an eligible entity” for “to the United States Olympic Committee” and “the eligible entity shall submit” for “the United States Olympic Committee shall submit”.
+
+Subsec. (c)(2)(A). Pub. L. 113–59, § 5(b), substituted “of—” for “of all partnerships referred to in paragraph (3) at the national and local levels that will be participating in such activities and the amount of grant funds that the United States Olympic Committee proposes to make available for each of such partnerships; and” and added cls. (i) to (v).
+
+Subsec. (c)(2)(B), (3). Pub. L. 113–59, § 5(g)(2)(B), substituted “the eligible entity” for “the United States Olympic Committee” wherever appearing.
+
+Subsec. (d)(1). Pub. L. 113–59, § 5(g)(3)(A), substituted “An eligible entity that receives a grant under this section,” for “The United States Olympic Committee”, “shall use the grant” for “shall use a grant under this section”, and “the eligible entity” for “the United States Olympic Committee”.
+
+Subsec. (d)(4). Pub. L. 113–59, § 5(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “A grant made under this section may include, at the discretion of the Secretary, an amount for the administrative expenses of the United States Olympic Committee, but not to exceed five percent of the amount of the grant.”
+
+Pub. L. 113–37, § 2(b)(2)(B), substituted “United States Olympic Committee” for “United States Paralympics, Inc.”
+
+Subsec. (d)(5). Pub. L. 113–59, § 5(g)(3)(B), substituted “an eligible entity that receives a grant under this section” for “the United States Olympic Committee”.
+
+Subsec. (e). Pub. L. 113–59, § 5(g)(4), substituted “an eligible entity” for “the United States Olympic Committee” and “the adapted sports opportunities funded by the grant” for “the integrated adaptive sports program”.
+
+Subsec. (f). Pub. L. 113–59, § 5(g)(5), substituted “adapted sports opportunities funded under this section” for “the integrated adaptive sports program”.
+
+Subsec. (g). Pub. L. 113–59, § 5(d), designated existing provisions as par. (1), substituted “through 2015.” for “through 2013 and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013 to carry out this section. Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.”, and added par. (2).
+
+Pub. L. 113–37, § 2(b)(1)(A), inserted “and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013” after “2010 through 2013”.
+
+Subsec. (j)(1). Pub. L. 113–59, § 5(g)(6)(A), substituted “an eligible entity shall agree” for “the United States Olympic Committee shall agree”, “the eligible entity shall submit” for “the United States Olympic Committee shall submit”, “in the adapted sports opportunities funded by the grant,” for “in the integrated adaptive sports program,”, and “of such opportunities and programs.” for “of the integrated adaptive sports program.”
+
+Subsec. (j)(3). Pub. L. 113–59, § 5(g)(6)(B), added par. (3) and struck out former par. (3) which read as follows: “For any fiscal year after fiscal year 2010, the eligibility of the United States Olympic Committee to receive a grant under this section shall be contingent upon the submission of the report under paragraph (1) for the preceding fiscal year.”
+
+Subsec. (l). Pub. L. 113–59, § 5(e), substituted “may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2016” for “may not provide assistance under this section after December 31, 2013”.
+
+Pub. L. 113–37, § 2(b)(1)(B), substituted “The Secretary may not provide assistance under this section after December 31, 2013.” for “The Secretary may only provide assistance under this section during fiscal years 2010 through 2013.”
+
+Subsec. (m). Pub. L. 113–59, § 5(g)(7), struck out subsec. (m) which provided for applicability of this section and [section 322 of this title](./chapter-003-department-of-veterans-affairs.md#section-322) to commonwealths and territories of the United States.
+
+Subsec. (m). Pub. L. 113–37, § 2(b)(2)(C), added subsec. (m).
+
+#### Effective Date of 2013 Amendment
+Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under [section 322 of this title](./chapter-003-department-of-veterans-affairs.md#section-322).
+
+#### Regulations
+Pub. L. 113–59, § 5(i), Dec. 20, 2013, 127 Stat. 662, provided that: “To ensure the uninterrupted provision of adaptive sports for disabled veterans and disabled members of the Armed Forces, any regulations that the Secretary of Veterans Affairs determines are necessary to implement the amendments made by this section [amending this section] may be promulgated by interim final rules to ensure the award of grants under [section 521A of title 38](./chapter-005-authority-and-duties-of-the-secretary.md#section-521a), United States Code, as amended by this section, before the end of fiscal year 2014.”
 
 #### Deadline for Memorandum of Understanding
 Pub. L. 110–389, title VII, § 702(c), Oct. 10, 2008, 122 Stat. 4183, provided that: “The Secretary of Veterans Affairs may not award a grant under [section 521A of title 38](./chapter-005-authority-and-duties-of-the-secretary.md#section-521a), United States Code, as added by subsection (a), until the United States Paralympics, Inc., and the Secretary have entered into a memorandum of understanding or cooperative agreement regarding implementation of the integrated adaptive sports program under that section. To the extent feasible, such memorandum or agreement shall be concluded not later than 240 days after the date of the enactment of this Act [Oct. 10, 2008].”
@@ -830,7 +909,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 (5) Pacific-Islander American.
 
-**(e)** The Committee shall cease to exist December 31, 2014.
+**(e)** The Committee shall cease to exist December 31, 2015.
 
 ### Statutory Notes
 
@@ -840,6 +919,8 @@ Prior section 544, added Pub. L. 90–77, title I, § 108(a), Aug. 31, 1967, 81 
 Another prior section 544, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, authorized the payment of a pension to children of World War II or Korean conflict veterans, prior to the general amendment of subchapter III of chapter 15 of this title by Pub. L. 86–211, § 4, Aug. 29, 1950, 73 Stat. 434. See sections 1542 and 1543 of this title.
 
 #### Amendments
+2014—Subsec. (e). Pub. L. 113–175 substituted “December 31, 2015” for “December 31, 2014”.
+
 2010—Subsec. (a)(2)(A)(v). Pub. L. 111–163 added cl. (v).
 
 2008—Subsec. (e). Pub. L. 110–389 substituted “December 31, 2014” for “December 31, 2009”.

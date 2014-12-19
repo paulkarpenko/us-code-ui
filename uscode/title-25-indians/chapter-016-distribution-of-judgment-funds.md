@@ -34,6 +34,9 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date of 1982 Amendment
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–290, § 1, Dec. 19, 2014, 128 Stat. 3291, provided that: “This Act [amending [section 1407 of this title](./chapter-016-distribution-of-judgment-funds.md#section-1407)] may be cited as the ‘Grand Portage Band Per Capita Adjustment Act’.”
+
 
 <a id="section-1402"></a>
 ## § 1402. Plan for use or distribution of funds
@@ -164,7 +167,8 @@ None of the funds which—
 
 (3) were distributed pursuant to a plan approved by Congress after December 31, 1981 but prior to January 12, 1983, and any purchases made with such funds, or
 
-(4) are paid by the State of Minnesota to the Bois Forte Band of Chippewa Indians pursuant to the agreements of such Band to voluntarily restrict tribal rights to hunt and fish in territory cede 22 So in original. Probably should be “ceded”. under the Treaty of September 30, 1854 (10 Stat. 1109), including all interest accrued on such funds during any period in which such funds are held in a minor’s trust, including all interest and investment income accrued thereon while such funds are so held in trust, shall be subject to Federal or State income taxes, nor shall such funds nor their availability be considered as income or resources nor otherwise utilized as the basis for denying or reducing the financial assistance or other benefits to which such household or member would otherwise be entitled under the Social Security Act [[42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq.] or, except for per capita shares in excess of $2,000, any Federal or federally assisted program.
+(4) are paid by the State of Minnesota to the Bois Forte Band of Chippewa Indians or the Grand Portage Band of Lake Superior Chippewa Indians, or both, pursuant to the agreements of each Band to voluntarily restrict tribal rights to hunt and fish in territory cede 22 So in original. Probably should be “ceded”. under the Treaty of September 30, 1854 (10 Stat. 1109), including all interest accrued on such funds during any period in which such funds are held in a minor’s trust,
+including all interest and investment income accrued thereon while such funds are so held in trust, shall be subject to Federal or State income taxes, nor shall such funds nor their availability be considered as income or resources nor otherwise utilized as the basis for denying or reducing the financial assistance or other benefits to which such household or member would otherwise be entitled under the Social Security Act [[42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq.] or, except for per capita shares in excess of $2,000, any Federal or federally assisted program.
 
 ### Statutory Notes
 
@@ -172,6 +176,8 @@ None of the funds which—
 The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Par. (4). Pub. L. 113–290 substituted “or the Grand Portage Band of Lake Superior Chippewa Indians, or both, pursuant to the agreements of each Band” for “pursuant to the agreements of such Band”.
+
 2000—Par. (4). Pub. L. 106–568 added par. (4).
 
 1983—Pub. L. 97–458 amended section generally. Prior to amendment, section read as follows: “None of the funds distributed per capita or held in trust under the provisions of this chapter shall be subject to Federal or State income taxes, and the per capita payments shall not be considered as income or resources when determining the extent of eligibility for assistance under the Social Security Act”.

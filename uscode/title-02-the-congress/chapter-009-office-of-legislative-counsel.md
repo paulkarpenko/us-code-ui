@@ -19,7 +19,7 @@ As originally enacted, section provided for creation of an office of the legisla
 #### Appropriations
 Act Aug. 2, 1946, ch. 753, § 204, 60 Stat. 837, provided: “There is hereby authorized to be appropriated for the work of the Office of the Legislative Counsel the following sums: “(1) For the fiscal year ending June 30, 1947, $150,000; “(2) For the fiscal year ending June 30, 1948, $200,000; “(3) For the fiscal year ending June 30, 1949, $250,000; “(4) For the fiscal year ending June 30, 1950, $250,000; and “(5) For each fiscal year thereafter such sums as may be necessary to carry on the work of the Office.”
 
-[Section 204 was made effective Aug. 2, 1946, by section 245 of act Aug. 2, 1946, set out as a note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).]
+[Section 204 of act Aug. 2, 1946, set out above, was made effective Aug. 2, 1946, by section 245 of act Aug. 2, 1946, set out as a note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).]
 
 
 <a id="section-272"></a>
@@ -70,10 +70,10 @@ Act Oct. 15, 1949, ch. 695, § 9, 63 Stat. 882, provided that: “This Act shall
 Act Mar. 10, 1928, ch. 167, § 23(a), 45 Stat. 279, formerly cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 647.
 
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
-Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 61a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61a).
+Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 6531 of this title](./chapter-065-senate-officers-and-administration.md#section-6531).
 
 #### Increases in Compensation
-Increases in compensation for officers and employees of the Senate under authority of the Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of the President pro tempore of the Senate, set out as notes under [section 60a–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60a-1).
+Increases in compensation for officers and employees of the Senate under authority of the Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of the President pro tempore of the Senate, set out as notes under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
 
 
 <a id="section-274"></a>
@@ -106,10 +106,10 @@ Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, eff. July 1, 1975
 Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429, eff. July 1, 1974, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $37,620.
 
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
-Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 61a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61a).
+Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of the President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under [section 6531 of this title](./chapter-065-senate-officers-and-administration.md#section-6531).
 
 #### Increases in Compensation
-Increases in compensation for officers and employees of the Senate under authority of the Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of the President pro tempore of the Senate, set out as notes under [section 60a–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60a-1).
+Increases in compensation for officers and employees of the Senate under authority of the Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of the President pro tempore of the Senate, set out as notes under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
 
 
 <a id="section-275"></a>
@@ -183,7 +183,7 @@ There is established in the House of Representatives an office to be known as th
 ### Statutory Notes
 
 #### Effective Date
-Subchapter effective Oct. 26, 1970, see section 601(5) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Subchapter effective Oct. 26, 1970, see section 601(5) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 #### Transfer of Functions; Nonapplicability of Sections 271 to 277 to the House
 Pub. L. 91–510, title V, § 531, Oct. 26, 1970, 84 Stat. 1203, provided that: “Any individual who on the date of the enactment of this Act [Oct. 26, 1970] is serving under an appointment by the Speaker as Legislative Counsel of the House of Representatives shall continue as Legislative Counsel of the House of Representatives in accordance with this subtitle [this subchapter]. All personnel, positions, property, records, and unexpended balances of appropriations of or for that part of the Office of the Legislative Counsel established under section 1303 of the Revenue Act of 1918 (2 U.S.C., ch. 9) [sections 271 to 277 of this title] employed or held in or for the House of Representatives shall be transferred to the Office established under this subtitle; and, effective upon the date of enactment of this Act, the provisions of section 1303 of the Revenue Act of 1918 shall have no further applicability of any kind to the Speaker or to any committee, officer, employee, or property of the House of Representatives.”
@@ -223,9 +223,9 @@ The management, supervision, and administration of the Office are vested in the 
 
 **(b)**
 
-(1) One of the attorneys appointed under subsection (a) of this section shall be designated by the Legislative Counsel as Deputy Legislative Counsel. During the absence or disability of the Legislative Counsel, or when the office is vacant, the Deputy Legislative Counsel shall perform the functions of the Legislative Counsel.
+(1) One of the attorneys appointed under subsection (a) shall be designated by the Legislative Counsel as Deputy Legislative Counsel. During the absence or disability of the Legislative Counsel, or when the office is vacant, the Deputy Legislative Counsel shall perform the functions of the Legislative Counsel.
 
-(2) The Legislative Counsel may delegate to the Deputy Legislative Counsel and to other employees appointed under subsection (a) of this section such of his functions as he considers necessary or appropriate.
+(2) The Legislative Counsel may delegate to the Deputy Legislative Counsel and to other employees appointed under subsection (a) such of his functions as he considers necessary or appropriate.
 
 ### Statutory Notes
 
@@ -254,7 +254,7 @@ House Resolution 312, 89th Congress, Mar. 31, 1965, which was enacted into perma
 1977—Subsec. (b). Pub. L. 95–94 substituted provisions authorizing compensation at a rate not in excess of the rate of basic pay for one pay level above the maximum pay level for House employees provided under cl. 6(c) of Rule XI of the Rules of the House of Representatives, for provisions authorizing compensation at per annum gross rates not in excess of a per annum gross rate equal to the rate of basic pay for level V of the Executive Schedule of [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim).
 
 #### Increases in Compensation
-Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 60a–2 and 60a–2a of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
+Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 4531 and 4532 of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
 
 
 <a id="section-282c"></a>

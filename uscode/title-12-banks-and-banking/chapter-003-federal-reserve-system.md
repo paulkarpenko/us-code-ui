@@ -1679,7 +1679,7 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 (1) The term “deal in” includes making, taking, buying, selling, redeeming, or collecting.
 
-(2) The term “lottery” includes any arrangement whereby three or more persons (the “participants”) advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the “winners”) will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
+(2) The term “lottery” includes any arrangement, other than a savings promotion raffle, whereby three or more persons (the “participants”) advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the “winners”) will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
 
   (A) a random selection;
 
@@ -1689,6 +1689,8 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 (3) The term “lottery ticket” includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
 
+(4) The term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in [section 5481 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5481)).
+
 **(d) Lawful banking services connected with operation of lottery** Nothing contained in this section prohibits a State member bank from accepting deposits or cashing or otherwise handling checks or other negotiable instruments, or performing other lawful banking services for a State operating a lottery, or for an officer or employee of that State who is charged with the administration of the lottery.
 
 **(e) Regulations; enforcement** The Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
@@ -1697,6 +1699,11 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 #### Codification
 Section was enacted as section 9A of act Dec. 13, 1913, and not as part of section 9 of such act which comprises this subchapter.
+
+#### Amendments
+2014—Subsec. (c)(2). Pub. L. 113–251, § 3(b)(1), inserted “, other than a savings promotion raffle,” before “whereby” in introductory provisions.
+
+Subsec. (c)(4). Pub. L. 113–251, § 3(b)(2), added par. (4).
 
 #### Effective Date
 Section effective Apr. 1, 1968, see section 6 of Pub. L. 90–203, set out as a note under [section 25a of this title](./chapter-002-national-banks.md#section-25a).
@@ -2219,7 +2226,7 @@ Pub. L. 85–699, title VI, § 601, Aug. 21, 1958, 72 Stat. 697, provided that t
 Pub. L. 85–699, title VI, § 601, Aug. 21, 1958, 72 Stat. 697, provided that the repeal of this section shall not affect the power of any Federal Reserve bank to carry out, or protect its interest under, any agreement theretofore made or transaction entered into in carrying on operations under this section.
 
 #### Fund for Management Counseling
-Pub. L. 85–699, title VI, § 602(a), (b), Aug. 21, 1958, 72 Stat. 698, provided that: “(a) Within sixty days after the enactment of this Act [Aug. 21, 1958], each Federal Reserve bank shall pay to the United States the aggregate amount which the Secretary of the Treasury has heretofore paid to such bank under the provisions of section 13b of the Federal Reserve Act [this section]; and such payment shall constitute a full discharge of any obligation or liability of the Federal Reserve bank to the United States or to the Secretary of the Treasury arising out of subsection (e) of said section 13b [subsec. (e) of this section] or out of any agreement thereunder. “(b) The amounts repaid to the United States pursuant to subsection (a) of this section shall be covered into a special fund in the Treasury which shall be available for grants under section 7(d) of the Small Business Act [[section 636(d) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/d&num=0&edition=prelim), Commerce and Trade]. Any remaining balance of funds set aside in the Treasury for payments under section 13b of the Federal Reserve Act [this section] shall be covered into the Treasury as miscellaneous receipts.”
+Pub. L. 85–699, title VI, § 602(a), (b), Aug. 21, 1958, 72 Stat. 698, required Federal Reserve banks to repay to the United States certain amounts paid to them under [12 U.S.C. 352a](./chapter-003-federal-reserve-system.md#section-352a), such amounts to be covered into a special fund for grants under [section 636 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636&num=0&edition=prelim), Commerce and Trade. See text of note set out under that section.
 
 
 <a id="section-353"></a>
@@ -3860,7 +3867,7 @@ Section is comprised of the seventh par. (formerly the eighth par.) of section 1
 #### Amendments
 1994—Pub. L. 103–325, which directed amendment of “[t]he 1st sentence of the 8th undesignated paragraph of section 16 of the Federal Reserve Act ([12 U.S.C. 418](./chapter-003-federal-reserve-system.md#section-418))” by substituting “the Secretary of the Treasury shall” for “the Comptroller of the Currency shall under the direction of the Secretary of the Treasury,” was executed by making the substitution in this section for “the Comptroller of the Currency shall, under the direction of the Secretary of the Treasury,” to reflect the probable intent of Congress.
 
-1963—Pub. L. 83–36, which directed amendment of “[t]he first sentence of the ninth paragraph of section 16 of the Federal Reserve Act ([12 U.S.C. 418](./chapter-003-federal-reserve-system.md#section-418))” by inserting “$1, $2,” after “notes of the denominations of”, was executed by making the insertion in this section, to reflect the probable intent of Congress.
+1963—Pub. L. 88–36, which directed amendment of “[t]he first sentence of the ninth paragraph of section 16 of the Federal Reserve Act ([12 U.S.C. 418](./chapter-003-federal-reserve-system.md#section-418))” by inserting “$1, $2,” after “notes of the denominations of”, was executed by making the insertion in this section, to reflect the probable intent of Congress.
 
 1918—Act Sept. 26, 1918, which directed general amendment of “the ninth paragraph of section sixteen of the Federal reserve Act, as amended by the Acts approved September seventh, nineteen hundred and sixteen, and June twenty-first, nineteen hundred and seventeen,” was executed to the eighth par. of section 16 of act Dec. 23, 1913 (now classified to this section), to reflect the probable intent of Congress. Prior to amendment, text read as follows: “In order to furnish suitable notes for circulation as Federal reserve notes, the Comptroller of the Currency shall, under the direction of the Secretary of the Treasury, cause plates and dies to be engraved in the best manner to guard against counterfeits and fraudulent alterations, and shall have printed therefrom and numbered such quantities of such notes of the denominations of $5, $10, $20, $50, $100, as may be required to supply the Federal reserve banks. Such notes shall be in form and tenor as directed by the Secretary of the Treasury under the provisions of this Act and shall bear the distinctive numbers of the several Federal reserve banks through which they are issued.”
 

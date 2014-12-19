@@ -183,6 +183,9 @@ Section 2404, Pub. L. 88–210, title IV, § 404, as added Pub. L. 98–524, § 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(1)
+Pub. L. 113–128, title V, §§ 506, 512(e)(7), July 22, 2014, 128 Stat. 1703, 1707, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (b)(1) of this section is amended by striking “Chapters 4 and 5 of subtitle B of title I of Public Law 105–220” and inserting “Chapters 2 and 3 of subtitle B of title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
+
 #### References in Text
 Public Law 105–220, referred to in subsec. (b)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, known as the Workforce Investment Act of 1998. Chapters 4 and 5 of subtitle B of title I of the Act are classified generally to parts D (§ 2851 et seq.) and E (§ 2861 et seq.), respectively, of subchapter II of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
 
@@ -198,6 +201,12 @@ Another prior section 2411, Pub. L. 88–210, title IV, § 411, as added Pub. L.
 A prior section 321 of Pub. L. 88–210 was classified to [section 2381 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2381&num=0&edition=prelim), prior to the general amendment of this chapter by Pub. L. 105–332.
 
 Another prior section 321 of Pub. L. 88–210 was classified to [section 2371 of this title](./chapter-044-career-and-technical-education.md#section-2371), prior to repeal by Pub. L. 101–392.
+
+#### Amendments
+2014—Subsec. (b)(1). Pub. L. 113–128 substituted “Chapters 2 and 3 of subtitle B of title I of the Workforce Innovation and Opportunity Act” for “Chapters 4 and 5 of subtitle B of title I of Public Law 105–220”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-2306a"></a>
@@ -1065,7 +1074,7 @@ Another prior section 2323, Pub. L. 88–210, title I, § 113, as added Pub. L. 
 
 **(b) Miscellaneous provisions**
 
-(1) **Collection of information at reasonable cost** — The Secretary shall take such action as may be necessary to secure at reasonable cost the information required by this subchapter. To ensure reasonable cost, the Secretary, in consultation with the National Center for Education Statistics, the Office of Vocational and Adult Education, and an entity assisted under [section 2328 of this title](./chapter-044-career-and-technical-education.md#section-2328) (if applicable), shall determine the methodology to be used and the frequency with which information is to be collected.
+(1) **Collection of information at reasonable cost** — The Secretary shall take such action as may be necessary to secure at reasonable cost the information required by this subchapter. To ensure reasonable cost, the Secretary, in consultation with the National Center for Education Statistics, the Office of Career, Technical, and Adult Education, and an entity assisted under [section 2328 of this title](./chapter-044-career-and-technical-education.md#section-2328) (if applicable), shall determine the methodology to be used and the frequency with which information is to be collected.
 
 (2) **Cooperation of States** — All eligible agencies receiving assistance under this chapter shall cooperate with the Secretary in implementing the information systems developed pursuant to this chapter.
 
@@ -1204,6 +1213,9 @@ The Carl D. Perkins Career and Technical Education Improvement Act of 2006, refe
 A prior section 2324, Pub. L. 88–210, title I, § 114, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3089, related to national activities, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2324, Pub. L. 88–210, title I, § 114, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2449; amended Pub. L. 101–392, title I, § 114, Sept. 25, 1990, 104 Stat. 769, related to development and approval of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
+
+#### Amendments
+2014—Subsec. (b)(1). Pub. L. 113–76 substituted “Office of Career, Technical, and Adult Education” for “Office of Vocational and Adult Education”.
 
 
 <a id="section-2352"></a>
@@ -1485,6 +1497,15 @@ Subsec. (h)(1). Pub. L. 110–315, § 941(k)(2)(D)(ii), substituted “the Triba
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)(2)
+Pub. L. 113–128, title V, §§ 506, 512(e)(1), July 22, 2014, 128 Stat. 1703, 1706, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (d)(2) of this section is amended:
+
+(1) in the paragraph heading, by striking “Public law 105–220” and inserting “Workforce Innovation and Opportunity Act”; and
+
+(2) in the text, by striking “functions and activities carried out under Public Law 105–220” and inserting “functions and activities carried out under the Workforce Innovation and Opportunity Act”.
+
+See 2014 Amendment note below.
+
 #### References in Text
 Public Law 105–220, referred to in subsec. (d)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
 
@@ -1515,6 +1536,12 @@ Section 2335b, Pub. L. 88–210, title II, § 223, as added Pub. L. 101–392, t
 
 Section 2336, Pub. L. 88–210, title II, § 225, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 778, related to programs for criminal offenders.
 
+#### Amendments
+2014—Subsec. (d)(2). Pub. L. 113–128 substituted “Workforce Innovation and Opportunity Act” for “Public Law 105–220” in heading and “functions and activities carried out under the Workforce Innovation and Opportunity Act” for “functions and activities carried out under Public Law 105–220” in text.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+
 
 <a id="section-2371"></a>
 ## § 2371. State administration
@@ -1536,6 +1563,15 @@ Section 2336, Pub. L. 88–210, title II, § 225, as added Pub. L. 101–392, ti
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(4)
+Pub. L. 113–128, title V, §§ 506, 512(e)(2), July 22, 2014, 128 Stat. 1703, 1706, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a)(4) of this section is amended:
+
+(1) in subparagraph (A), by striking “activities undertaken by the State boards under [section 2821 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2821&num=0&edition=prelim)” and inserting “activities undertaken by the State boards under [section 3111 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim)”; and
+
+(2) in subparagraph (B), by striking “the service delivery system under [section 2841 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841&num=0&edition=prelim)” and inserting “the one-stop delivery system under [section 3151 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151&num=0&edition=prelim)”.
+
+See 2014 Amendment notes below.
+
 #### Prior Provisions
 A prior section 2341, Pub. L. 88–210, title I, § 121, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3102, related to State administration, prior to the general amendment of this chapter by Pub. L. 109–270.
 
@@ -1550,6 +1586,14 @@ Section 2341a, Pub. L. 88–210, title II, § 232, as added Pub. L. 101–392, t
 Section 2341b, Pub. L. 88–210, title II, § 233, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 782, related to special rule for minimal allocations. See [section 2353 of this title](./chapter-044-career-and-technical-education.md#section-2353).
 
 Section 2341c, Pub. L. 88–210, title II, § 234, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 783, related to reallocations. See [section 2353 of this title](./chapter-044-career-and-technical-education.md#section-2353).
+
+#### Amendments
+2014—Subsec. (a)(4)(A). Pub. L. 113–128, § 512(e)(2)(A), substituted “activities undertaken by the State boards under [section 3111 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim)” for “activities undertaken by the State boards under [section 2821 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2821&num=0&edition=prelim)”.
+
+Subsec. (a)(4)(B). Pub. L. 113–128, § 512(e)(2)(B), substituted “the one-stop delivery system under [section 3151 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151&num=0&edition=prelim)” for “the service delivery system under [section 2841 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841&num=0&edition=prelim)”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-2372"></a>
@@ -1750,6 +1794,21 @@ Section 2341c, Pub. L. 88–210, title II, § 234, as added Pub. L. 101–392, t
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 113–128, title V, §§ 506, 512(e)(3), July 22, 2014, 128 Stat. 1703, 1706, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended:
+
+(1) in subsection (b)(1)(A)(viii), by striking “entities participating in activities described in [section 2821 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2821&num=0&edition=prelim)” and inserting “entities participating in activities described in [section 3111 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim)”;
+
+(2) in subsection (c)(20), by striking “the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts” and inserting “the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts”; and
+
+(3) in subsection (d)(2):
+
+(A) in the paragraph heading, by striking “501 plan” and inserting “combined plan”; and
+
+(B) in the text, by striking “as part of the plan submitted under section 501 of Public Law 105–220” and inserting “as part of the plan submitted under [section 3113 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3113&num=0&edition=prelim)”.
+
+See 2014 Amendment notes below.
+
 #### References in Text
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(2)(G), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title II of the Act is classified generally to subchapter II (§ 6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
@@ -1761,6 +1820,16 @@ A prior section 2342, Pub. L. 88–210, title I, § 122, as added Pub. L. 105–
 Another prior section 2342, Pub. L. 88–210, title II, § 235, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 783, related to uses of funds, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 Another prior section 2342, Pub. L. 88–210, title II, § 252, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2457, related to criteria for program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
+
+#### Amendments
+2014—Subsec. (b)(1)(A)(viii). Pub. L. 113–128, § 512(e)(3)(A), substituted “entities participating in activities described in [section 3111 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim)” for “entities participating in activities described in [section 2821 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2821&num=0&edition=prelim)”.
+
+Subsec. (c)(20). Pub. L. 113–128, § 512(e)(3)(B), substituted “the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts” for “the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts”.
+
+Subsec. (d)(2). Pub. L. 113–128, § 512(e)(3)(C), substituted “combined plan” for “501 plan” in heading and “as part of the plan submitted under [section 3113 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3113&num=0&edition=prelim)” for “as part of the plan submitted under section 501 of Public Law 105–220” in text.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-2373"></a>
@@ -1953,6 +2022,9 @@ Another prior section 2343, Pub. L. 88–210, title II, § 240, as added Pub. L.
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)(13)
+Pub. L. 113–128, title V, §§ 506, 512(e)(4), July 22, 2014, 128 Stat. 1703, 1707, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (c)(13) of this section is amended by striking “such as through referral to the system established under [section 2841 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841&num=0&edition=prelim)” and inserting “such as through referral to the system established under [section 3151 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151&num=0&edition=prelim)”. See 2014 Amendment note below.
+
 #### References in Text
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(3)(E), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title II of the Act is classified generally to subchapter II (§ 6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
@@ -1962,6 +2034,12 @@ The Adult Education and Family Literacy Act, referred to in subsec. (c)(12), is 
 
 #### Prior Provisions
 A prior section 2344, Pub. L. 88–210, title I, § 124, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3107, related to State leadership activities, prior to the general amendment of this chapter by Pub. L. 109–270.
+
+#### Amendments
+2014—Subsec. (c)(13). Pub. L. 113–128 substituted “such as through referral to the system established under [section 3151 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151&num=0&edition=prelim)” for “such as through referral to the system established under [section 2841 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841&num=0&edition=prelim)”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-2375"></a>
@@ -2179,8 +2257,17 @@ A prior section 2353, Pub. L. 88–210, title I, § 133, as added Pub. L. 105–
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(5)
+Pub. L. 113–128, title V, §§ 506, 512(e)(5), July 22, 2014, 128 Stat. 1703, 1707, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (b)(5) of this section is amended by striking “entities participating in activities described in [section 2832 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2832&num=0&edition=prelim) (if applicable)” and inserting “entities participating in activities described in [section 3122 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3122&num=0&edition=prelim) (if applicable)”. See 2014 Amendment note below.
+
 #### Prior Provisions
 A prior section 2354, Pub. L. 88–210, title I, § 134, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3114, related to local plan for vocational and technical education programs, prior to the general amendment of this chapter by Pub. L. 109–270.
+
+#### Amendments
+2014—Subsec. (b)(5). Pub. L. 113–128 substituted “entities participating in activities described in [section 3122 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3122&num=0&edition=prelim) (if applicable)” for “entities participating in activities described in [section 2832 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2832&num=0&edition=prelim) (if applicable)”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-2393"></a>
@@ -2313,6 +2400,9 @@ A prior section 2354, Pub. L. 88–210, title I, § 134, as added Pub. L. 105–
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)(16)
+Pub. L. 113–128, title V, §§ 506, 512(e)(6), July 22, 2014, 128 Stat. 1703, 1707, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (c)(16) of this section is amended by striking “such as through referral to the system established under [section 2841 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841&num=0&edition=prelim)” and inserting “such as through referral to the system established under [section 3151 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151&num=0&edition=prelim)”. See 2014 Amendment note below.
+
 #### Prior Provisions
 A prior section 2355, Pub. L. 88–210, title I, § 135, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3115, related to local uses of funds, prior to the general amendment of this chapter by Pub. L. 109–270.
 
@@ -2323,6 +2413,12 @@ Section 2361, Pub. L. 88–210, title III, § 311, as added Pub. L. 98–524, §
 Section 2362, Pub. L. 88–210, title III, § 312, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 99–159, title VII, § 706(c), Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, § 303, Sept. 25, 1990, 104 Stat. 786, related to use of funds from consumer and homemaking education grants.
 
 Section 2363, Pub. L. 88–210, title III, § 313, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2459; amended Pub. L. 99–159, title VII, § 707, Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, § 304, Sept. 25, 1990, 104 Stat. 786, related to information dissemination and leadership.
+
+#### Amendments
+2014—Subsec. (c)(16). Pub. L. 113–128 substituted “such as through referral to the system established under [section 3151 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151&num=0&edition=prelim)” for “such as through referral to the system established under [section 2841 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841&num=0&edition=prelim)”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-2394"></a>

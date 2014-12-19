@@ -8,23 +8,13 @@ source: >-
 ---
 <a id="section-171"></a>
 ## § 171. Patents for designs
+**(a) In General.—** Whoever invents any new, original and ornamental design for an article of manufacture may obtain a patent therefor, subject to the conditions and requirements of this title.
 
-Whoever invents any new, original and ornamental design for an article of manufacture may obtain a patent therefor, subject to the conditions and requirements of this title.
+**(b) Applicability of This Title.—** The provisions of this title relating to patents for inventions shall apply to patents for designs, except as otherwise provided.
+
+**(c) Filing Date.—** The filing date of an application for patent for design shall be the date on which the specification as prescribed by section 112 and any required drawings are filed.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 112–211, title II, §§ 202(a), 203, Dec. 18, 2012, 126 Stat. 1535, 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:
-
-(1) by striking “Whoever” and inserting “(a) In General.—Whoever”;
-
-(2) by striking “The provisions” and inserting “(b) Applicability of This Title.—The provisions”; and
-
-(3) by adding at the end the following:
-
-(c) Filing Date.—The filing date of an application for patent for design shall be the date on which the specification as prescribed by section 112 and any required drawings are filed.
-
-See 2012 Amendment note below.
 
 #### Historical and Revision Notes
 Based on Title 35, U.S.C., 1946 ed., § 73 (R.S. 4929, amended (1) May 9, 1902, ch. 783, 32 Stat. 193, (2) Aug. 5, 1939, ch. 450, § 1, 53 Stat. 1212; R.S. 4933).

@@ -349,7 +349,24 @@ Pub. L. 90–77, title IV, § 405, Aug. 31, 1967, 81 Stat. 191, provided that: �
 #### Effective Date of 1965 Amendment
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–257, § 1, Dec. 18, 2014, 128 Stat. 2924, provided that: “This Act [enacting and amending provisions set out as notes under [section 1710C of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1710c)] may be cited as the ‘Veterans Traumatic Brain Injury Care Improvement Act of 2014’.”
+
+Pub. L. 113–181, § 1, Sept. 26, 2014, 128 Stat. 1916, provided that: “This Act [enacting provisions set out as notes under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114)] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2014’.”
+
+Pub. L. 113–175, § 1(a), Sept. 26, 2014, 128 Stat. 1901, provided that: “This Act [see Tables for classification] may be cited as the ‘Department of Veterans Affairs Expiring Authorities Act of 2014’.”
+
+Pub. L. 113–146, § 1(a), Aug. 7, 2014, 128 Stat. 1754, provided that: “This Act [enacting sections 713 and 7412 of this title, amending sections 1720D, 3311, 3321, 3679, 3729, 5317, 5503, 7302, 7612, 7619, 7683, and 8104 of this title, enacting provisions set out as notes under sections 703, 713, 1701, 1720D, 3311, 3679, 7302, 7412, and 8104 of this title, and amending provisions set out as notes under sections 1703 and 1710C of this title] may be cited as the ‘Veterans Access, Choice, and Accountability Act of 2014’.”
+
 #### Short Title of 2013 Amendment
+Pub. L. 113–65, § 1, Dec. 20, 2013, 127 Stat. 669, provided that: “This Act [amending [section 2411 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2411) and enacting provisions set out as a note under [section 2411 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2411)] may be cited as the ‘Alicia Dawn Koehl Respect for National Cemeteries Act’.”
+
+Pub. L. 113–59, § 1(a), Dec. 20, 2013, 127 Stat. 658, provided that: “This Act [amending sections 111A, 315, 322, 521A, 1710A, 2031, 2033, 2041, 2066, 3692, and 3733 of this title, enacting provisions set out as a note under [section 521A of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-521a), and amending provisions set out as a note under [section 5101 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5101)] may be cited as the ‘VA Expiring Authorities Extension Act of 2013’.”
+
+Pub. L. 113–52, § 1, Nov. 21, 2013, 127 Stat. 582, provided that: “This Act [enacting provisions set out as notes under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114)] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2013’.”
+
+Pub. L. 113–37, § 1, Sept. 30, 2013, 127 Stat. 523, provided that: “This Act [amending sections 322, 521A, 1710, 1729, 2013, 2021, 2023, 2044, 2061, 2101, 3732, and 5317A of this title and [section 653 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section653&num=0&edition=prelim), The Public Health and Welfare, enacting provisions set out as a note under [section 322 of this title](./chapter-003-department-of-veterans-affairs.md#section-322), and amending provisions set out as a note under [section 1710 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1710)] may be cited as the ‘Department of Veterans Affairs Expiring Authorities Act of 2013’.”
+
 Pub. L. 112–260, § 1(a), Jan. 10, 2013, 126 Stat. 2417, provided that: “This Act [enacting sections 111A and 2414 of this title, amending sections 111, 111A, 2302, 2306, 2308, 2404, 2411, 5503, 7253, and 7255 of this title, enacting provisions set out as notes under sections 527, 2302, 2306, 2402, 2404, 2411, 2414, 7253, and 7255 of this title, [section 1144 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1144&num=0&edition=prelim), Armed Forces, and [section 2104 of Title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section2104&num=0&edition=prelim), Patriotic and National Observances, Ceremonies, and Organizations, and amending provisions set out as a note under [section 1712A of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1712a)] may be cited as the ‘Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012’.”
 
 #### Short Title of 2012 Amendment
@@ -1538,17 +1555,18 @@ Sec. 6. Executive Order No. 11142 of February 12, 1964, is hereby superseded.
 
 (1) The Secretary may transport any person to or from a Department facility or other place in connection with vocational rehabilitation, counseling required by the Secretary pursuant to chapter 34 or 35 of this title, or for the purpose of examination, treatment, or care.
 
-(2) The authority granted by paragraph (1) shall expire on the date that is one year after the date of the enactment of this section.
+(2) The authority granted by paragraph (1) shall expire on December 31, 2015.
 
 **(b) Transportation by Third-parties.—** The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans’ service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of a program under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from the Department under chapter 17 or other provisions of this title.
 
 ### Statutory Notes
 
-#### References in Text
-The date of the enactment of this section, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 112–260, which was approved Jan. 10, 2013.
-
 #### Amendments
-2013—Subsec. (b). Pub. L. 112–260, § 202(b), transferred subsec. (h) of [section 111 of this title](./chapter-001-general.md#section-111) to this section, redesignated it as subsec. (b), and inserted heading.
+2014—Subsec. (a)(2). Pub. L. 113–175 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (a)(2). Pub. L. 113–59 substituted “December 31, 2014” for “the date that is one year after the date of the enactment of this section”.
+
+Subsec. (b). Pub. L. 112–260, § 202(b), transferred subsec. (h) of [section 111 of this title](./chapter-001-general.md#section-111) to this section, redesignated it as subsec. (b), and inserted heading.
 
 
 <a id="section-112"></a>
@@ -1799,26 +1817,52 @@ Pub. L. 106–419, title IV, § 403(d)(2), Nov. 1, 2000, 114 Stat. 1864, provide
 
 
 <a id="section-117"></a>
-## § 117. Advance appropriations for certain medical care accounts
-**(a) In General.—** For each fiscal year, beginning with fiscal year 2011, discretionary new budget authority provided in an appropriations Act for the medical care accounts of the Department shall—
+## § 117. Advance appropriations for certain accounts
+**(a) In General.—** For each fiscal year, new budget authority provided in an appropriations Act for the covered accounts of the Department shall—
 
 (1) be made available for that fiscal year; and
 
-(2) include, for each such account, advance discretionary new budget authority that first becomes available for the first fiscal year after the budget year.
+(2) include, for each such account, advance new budget authority that first becomes available for the first fiscal year after the budget year.
 
-**(b) Estimates Required.—** The Secretary shall include in documents submitted to Congress in support of the President’s budget submitted pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, detailed estimates of the funds necessary for the medical care accounts of the Department for the fiscal year following the fiscal year for which the budget is submitted.
+**(b) Estimates Required.—** The Secretary shall include in documents submitted to Congress in support of the President’s budget submitted pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, detailed estimates of the funds necessary for the covered accounts of the Department for the fiscal year following the fiscal year for which the budget is submitted.
 
-**(c) Medical Care Accounts.—** For purposes of this section, the term “medical care accounts of the Department” means the following medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account:
+**(c) Covered Accounts of the Department.—** For purposes of this section, the term “covered accounts of the Department” means the following accounts of the Department of Veterans Affairs account:
 
-(1) Medical Services.
+(1) Veterans Benefits Administration, Compensation and Pensions.
 
-(2) Medical Support and Compliance.
+(2) Veterans Benefits Administration, Readjustment Benefits.
 
-(3) Medical Facilities.
+(3) Veterans Benefits Administration, Veterans Insurance and Indemnities.
+
+(4) Veterans Health Administration, Medical Services.
+
+(5) Veterans Health Administration, Medical Support and Compliance.
+
+(6) Veterans Health Administration, Medical Facilities.
 
 **(d) Annual Report.—** Not later than July 31 of each year, the Secretary shall submit to Congress an annual report on the sufficiency of the Department’s resources for the next fiscal year beginning after the date of the submittal of the report for the provision of medical care. Such report shall also include estimates of the workload and demand data for that fiscal year.
 
 ### Statutory Notes
+
+#### Amendments
+2014—Pub. L. 113–235, § 244(a)(4), substituted “certain accounts” for “certain medical care accounts” in section catchline.
+
+Subsec. (a). Pub. L. 113–235, § 244(a)(2), struck out “beginning with fiscal year 2011,” after “each fiscal year,” in introductory provisions and “discretionary” before “new budget authority” in introductory provisions and par. (2).
+
+Pub. L. 113–235, § 244(a)(1), substituted “covered accounts of the Department” for “medical care accounts of the Department” in introductory provisions.
+
+Subsec. (b). Pub. L. 113–235, § 244(a)(1), substituted “covered accounts of the Department” for “medical care accounts of the Department”.
+
+Subsec. (c). Pub. L. 113–235, § 244(a)(3)(G), substituted “Covered Accounts of the Department” for “Medical Care Accounts” in heading.
+
+Pub. L. 113–235, § 244(a)(3)(A), substituted “accounts of the Department of Veterans Affairs account” for “medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account” in introductory provisions.
+
+Pub. L. 113–235, § 244(a)(1), substituted “covered accounts of the Department” for “medical care accounts of the Department” in introductory provisions.
+
+Subsec. (c)(1)–(6). Pub. L. 113–235, § 244(a)(3)(B)–(F), inserted “Veterans Health Administration,” after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
+
+#### Effective Date of 2014Amendment
+Pub. L. 113–235, div. I, title II, § 244(b), Dec. 16, 2014, 128 Stat. 2569, provided that: “[Section 117 of title 38](./chapter-001-general.md#section-117), United States Code, shall apply as follows: “(1) With respect to an account described in paragraph (4), (5), or (6) of subsection (c) of such section, as redesignated by subsection (a) of this section, for each fiscal year beginning with fiscal year 2011. “(2) With respect to an account described in paragraph (1), (2), or (3) of such subsection (c), as added by subsection (a) of this section, for each fiscal year beginning with 2017.”
 
 #### Comptroller General Review of the Accuracy of VA Medical Care Budget Submission in Relation to Baseline Health Care Model Projection
 Pub. L. 111–81, § 4, Oct. 22, 2009, 123 Stat. 2138, provided that: “(a) Review of Accuracy of Medical Care Budget Submission.—The Comptroller General shall conduct a review of each budget of the President for a fiscal year that is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) in order to assess whether or not the relevant components of the amounts requested in such budget for such fiscal year for the medical care accounts of the Department of Veterans Affairs specified in [section 117(c) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section117/c&num=0&edition=prelim), United States Code, as added by section 3, are consistent with estimates of the resources required by the Department for the provision of medical care and services in such fiscal year, as forecast using the Enrollee Health Care Projection Model, or other methodologies used by the Department. “(b) Reports.—“(1) In general.—Not later than 120 days after the date of each year in 2011, 2012, and 2013, on which the President submits the budget request for the next fiscal year under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, the Comptroller General shall submit to the Committees on Veterans’ Affairs, Appropriations, and the Budget of the Senate and the Committees on Veterans’ Affairs, Appropriations, and the Budget of the House of Representatives and to the Secretary a report on the review conducted under subsection (a). “(2) Elements.—Each report under this paragraph shall include, for the fiscal year beginning in the year in which such report is submitted, the following:“(A) An assessment of the review conducted under subsection (a). “(B) The basis for such assessment. “(C) Such additional information as the Comptroller General determines appropriate. “(3) Availability to the public.—Each report submitted under this subsection shall also be made available to the public.”

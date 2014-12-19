@@ -58,7 +58,7 @@ Pub. L. 95–600, title V, § 501(c), Nov. 6, 1978, 92 Stat. 2878, provided that
 
 (3) **Special rule for tax return preparers**
 
-  (A) *In general* — The Secretary shall require than 11 So in original. Probably should be “that”. any individual income tax return prepared by a tax return preparer be filed on magnetic media if—
+  (A) *In general* — The Secretary shall require that any individual income tax return prepared by a tax return preparer be filed on magnetic media if—
 
     (i) such return is filed by such tax return preparer, and
 
@@ -86,6 +86,8 @@ Pub. L. 95–600, title V, § 501(c), Nov. 6, 1978, 92 Stat. 2878, provided that
 The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (c)(1), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
 
 #### Amendments
+2014—Subsec. (e)(3)(A). Pub. L. 113–295 substituted “shall require that” for “shall require than” in introductory provisions.
+
 2010—Subsec. (e)(4). Pub. L. 111–147 added par. (4).
 
 2009—Subsec. (e)(1). Pub. L. 111–92, § 17(b), substituted “Except as provided in paragraph (3), the Secretary may not” for “The Secretary may not” in second sentence.
@@ -444,7 +446,7 @@ Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1
 #### Effective Date of 1974 Amendments
 Amendment by Pub. L. 93–625 applicable to taxable years beginning after Dec. 31, 1974, see section 10(e) of Pub. L. 93–625, set out as an Effective Date note under [section 527 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-527).
 
-Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1971, see section 410(c)(2) of Pub. L. 93–443, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1971, see section 410(c)(2) of Pub. L. 93–443, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 #### Effective Date of 1971 Amendment
 Pub. L. 92–178, title II, § 204(a), Dec. 10, 1971, 85 Stat. 511, provided that the amendment made by section 204(a) is effective with respect to taxable years beginning after Dec. 31, 1971.
@@ -534,7 +536,8 @@ Pub. L. 93–625, § 10(f), Jan. 3, 1975, 88 Stat. 2119, provided for exemption 
 (2) an individual who is legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married; and
 
 (3) if a joint return is made, the tax shall be computed on the aggregate income and the liability with respect to the tax shall be joint and several.
-[(e) Repealed. Pub. L. 105–206, title III, § 3201(e)(1), July 22, 1998, 112 Stat. 740]
+
+**(e) Repealed. Pub. L. 105–206, title III, § 3201(e)(1), July 22, 1998, 112 Stat. 740]**
 
 **(f) Joint return where individual is in missing status** For purposes of this section and subtitle A—
 
@@ -1135,7 +1138,7 @@ Any individual who in any calendar year makes any transfer by gift other than—
     (ii) no other interest in such property is or has been transferred (for less than adequate and full consideration in money or money’s worth) from the donor to a person, or for a use, not described in subsection (a) or (b) of section 2522, or
 
   (B) such transfer is described in section 2522(d),
-  shall make a return for such year with respect to the gift tax imposed by subtitle B.
+shall make a return for such year with respect to the gift tax imposed by subtitle B.
 
 ### Statutory Notes
 
@@ -1540,7 +1543,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 #### References in Text
 [Section 6056 of this title](./chapter-061-information-and-returns.md#section-6056), referred to in subsec. (c)(1), was repealed by Pub. L. 96–603, § 1(c), Dec. 28, 1980, 94 Stat. 3504.
 
-The Federal Election Campaign Act of 1971, referred to in subsec. (g)(3)(F), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, as amended, which is classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress. Section 301 of the Act is classified to [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim) and Tables.
+The Federal Election Campaign Act of 1971, referred to in subsec. (g)(3)(F), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which was formerly classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§ 30101 et seq.) of Title 52. Section 301 of the Act is now classified to [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Sections 1205(b)(1), 1223(a), (b), 1235(a)(1), and 1245(a), (b) of Pub. L. 109–280, which directed the amendment of section 6033 without specifying the act to be amended, were executed to this section, which is section 6033 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
@@ -2290,7 +2293,7 @@ Subsec. (c)(2). Pub. L. 99–514, § 1245(b)(4), amended par. (2) generally. Pri
 Amendment by section 1702(c)(5) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
 
 #### Effective Date of 1990 Amendment
-Pub. L. 101–508, title XI, § 11315(c), Nov. 5, 1990, 104 Stat. 1388–457, provided that: “The amendments made by this section [enacting [section 6038C of this title](./chapter-061-information-and-returns.md#section-6038c) and amending this section] shall apply to— “(1) any requirement to furnish information under section 6038C(a) of the Internal Revenue Code of 1986 (as added by this section) if the time for furnishing such information under such section is after the date of the enactment of this Act [Nov. 5, 1990], “(2) any requirement under such section 6038C(a) to maintain records which were in existence on or after March 20, 1990, “(3) any requirement to authorize a corporation to act as a limited agent under section 6038C(d)(1) of such Code (as so added) if the time for authorizing such action is after the date of the enactment of this Act, and “(4) any summons issued after such date of enactment, without regard to when the taxable year (to which the information, records, authorization, or summons relates) began.”
+Pub. L. 101–508, title XI, § 11315(c), Nov. 5, 1990, 104 Stat. 1388–457, provided that: “The amendments made by this section [enacting [section 6038C of this title](./chapter-061-information-and-returns.md#section-6038c) and amending this section] shall apply to—“(1) any requirement to furnish information under section 6038C(a) of the Internal Revenue Code of 1986 (as added by this section) if the time for furnishing such information under such section is after the date of the enactment of this Act [Nov. 5, 1990], “(2) any requirement under such section 6038C(a) to maintain records which were in existence on or after March 20, 1990, “(3) any requirement to authorize a corporation to act as a limited agent under section 6038C(d)(1) of such Code (as so added) if the time for authorizing such action is after the date of the enactment of this Act, and “(4) any summons issued after such date of enactment, without regard to when the taxable year (to which the information, records, authorization, or summons relates) began.”
 
 #### Effective Date of 1989 Amendment
 Pub. L. 101–239, title VII, § 7403(e), Dec. 19, 1989, 103 Stat. 2361, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after July 10, 1989.”
@@ -2650,7 +2653,7 @@ Section applicable to 1980 and subsequent calendar years, with 1980 being treate
 
 <a id="section-6039d"></a>
 ## § 6039D. Returns and records with respect to certain fringe benefit plans
-**(a) In general** Every employer maintaining a specified fringe benefit plan during any year beginning after December 31, 1984, for any portion of which the applicable exclusion applies, shall file a return (at such time and in such manner as the Secretary shall by regulations prescribe) with respect to such plan showing for such year—
+**(a) In general** Every employer maintaining a specified fringe benefit plan during any year for any portion of which the applicable exclusion applies, shall file a return (at such time and in such manner as the Secretary shall by regulations prescribe) with respect to such plan showing for such year—
 
 (1) the number of employees of the employer,
 
@@ -2675,7 +2678,7 @@ shall file such additional return. Such additional return shall be filed at such
 
 **(d) Definitions and special rules** For purposes of this section—
 
-(1) **Specified fringe benefit plan** — The term “specified fringe benefit plan” means any plan under section 79, 105, 106, 120, 125, 127, 129, or 137.
+(1) **Specified fringe benefit plan** — The term “specified fringe benefit plan” means any plan under section 79, 105, 106, 125, 127, 129, or 137.
 
 (2) **Applicable exclusion** — The term “applicable exclusion” means, with respect to any specified fringe benefit plan, the section specified under paragraph (1) under which benefits under such plan are excludable from gross income.
 
@@ -2687,6 +2690,10 @@ shall file such additional return. Such additional return shall be filed at such
 Another section 6039D, added Pub. L. 98–612, § 1(b)(1), Oct. 31, 1984, 98 Stat. 3180, also related to returns and records with respect to certain fringe benefits, prior to repeal by Pub. L. 99–514, title XVIII, § 1879(d)(2), Oct. 22, 1986, 100 Stat. 2906, effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such repeal relates, see section 1881 of Pub. L. 99–514, set out as a note under [section 48 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48).
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–295, § 221(a)(108), struck out “beginning after December 31, 1984,” after “during any year”.
+
+Subsec. (d)(1). Pub. L. 113–295, § 221(a)(19)(B)(vii), struck out “120,” after “106,”.
+
 1997—Subsec. (d)(1). Pub. L. 105–34 substituted “129, or 137” for “or 129”.
 
 1990—Subsec. (d)(3). Pub. L. 101–508 substituted “the employer).” for “the employer)”.
@@ -2704,6 +2711,9 @@ Subsec. (c). Pub. L. 99–514, § 1151(h)(3), as amended by Pub. L. 100–647, �
 Subsec. (d). Pub. L. 99–514, § 1151(h)(1), amended subsec. (d) generally. Prior to amendment, par. (1) defined a specified fringe benefit plan as (A) any qualified group legal services plan (as defined in section 120), (B) any cafeteria plan (as defined in section 125), and (C) any educational assistance plan (as defined in section 127), and par. (2) defined “applicable exclusion” as meaning (A) section 120 in the case of a qualified legal group services plan, (B) section 125 in the case of a cafeteria plan, and (C) section 127 in the case of an educational assistance plan.
 
 Pub. L. 99–514, § 1879(d)(1), in amending subsec. (d) generally, added subpars. (1)(A) and (2)(A). Former subpars. (1)(A) and (B) and (2)(A) and (B) were redesignated as subpars. (1)(B) and (C) and (2)(B) and (C), respectively.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
@@ -2902,7 +2912,7 @@ Amendment by Pub. L. 108–357 applicable to individuals who expatriate after Ju
 #### Effective Date
 For special rule relating to application of this section to certain individuals who performed an act of expatriation specified in section 1481(a)(1)–(4) of Title 8, Aliens and Nationality, before Feb. 6, 1995, see section 511(g)(3) of Pub. L. 104–191, set out as an Effective Date of 1996 Amendment note under [section 877 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-877).
 
-Pub. L. 104–191, title V, § 512(c), Aug. 21, 1996, 110 Stat. 2102, provided that: “The amendments made by this section [enacting this section] shall apply to— “(1) individuals losing United States citizenship (within the meaning of section 877 of the Internal Revenue Code of 1986) on or after February 6, 1995, and “(2) long-term residents of the United States with respect to whom an event described in [former] subparagraph (A) or (B) of section 877(e)(1) of such Code occurs on or after such date. In no event shall any statement required by such amendments be due before the 90th day after the date of the enactment of this Act [Aug. 21, 1996].”
+Pub. L. 104–191, title V, § 512(c), Aug. 21, 1996, 110 Stat. 2102, provided that: “The amendments made by this section [enacting this section] shall apply to—“(1) individuals losing United States citizenship (within the meaning of section 877 of the Internal Revenue Code of 1986) on or after February 6, 1995, and “(2) long-term residents of the United States with respect to whom an event described in [former] subparagraph (A) or (B) of section 877(e)(1) of such Code occurs on or after such date. In no event shall any statement required by such amendments be due before the 90th day after the date of the enactment of this Act [Aug. 21, 1996].”
 
 
 <a id="section-6039h"></a>
@@ -3615,6 +3625,8 @@ during the period such short sale or similar transaction is open, the broker sha
 
 (5) **Special rules for short sales** — In the case of a short sale, reporting under this section shall be made for the year in which such sale is closed.
 
+(6) **Special rule for certain stock held in connection with dividend reinvestment plan** — For purposes of this subsection, stock acquired before January 1, 2012, in connection with a dividend reinvestment plan shall be treated as stock described in clause (ii) of paragraph (3)(C) (unless the broker with respect to such stock elects not to have this paragraph apply with respect to such stock).
+
 **(h) Application to options on securities**
 
 (1) **Exercise of option** — For purposes of this section, if a covered security is acquired or disposed of pursuant to the exercise of an option that was granted or acquired in the same account as the covered security, the amount received with respect to the grant or paid with respect to the acquisition of such option shall be treated as an adjustment to gross proceeds or as an adjustment to basis, as the case may be.
@@ -3628,6 +3640,8 @@ during the period such short sale or similar transaction is open, the broker sha
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (g)(6). Pub. L. 113–295 added par. (6).
+
 2008—Subsec. (b). Pub. L. 110–343, § 403(a)(3)(A), (C), in concluding provisions, substituted “February 15” for “January 31” and inserted at end “In the case of a consolidated reporting statement (as defined in regulations) with respect to any customer, any statement which would otherwise be required to be furnished on or before January 31 of a calendar year with respect to any item reportable to the taxpayer shall instead be required to be furnished on or before February 15 of such calendar year if furnished with such consolidated reporting statement.”
 
 Subsec. (d). Pub. L. 110–343, § 403(a)(3)(B), in concluding provisions, struck out “at such time and” before “in the manner” and inserted “The written statement required under the preceding sentence shall be furnished on or before February 15 of the year following the calendar year in which the payment was made.” before “The Secretary may prescribe”.
@@ -3671,6 +3685,9 @@ Subsec. (d). Pub. L. 98–369, § 150(a), added subsec. (d).
 1982—Pub. L. 97–248 designated existing provisions as subsec. (a), substituted “the name and address of each customer, with such details regarding gross proceeds” for “the names of customers for whom such person has transacted any business, with such details regarding the profits and losses” after “may prescribe, showing” and “such business” for “each customer as will enable the Secretary to determine the amount of such profits and losses” after “with respect to”, and added subsecs. (b) and (c).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective as if included in the provisions of the Energy Improvement and Extension Act of 2008, Pub. L. 110–343, div. B, to which such amendment relates, see section 210(h) of Pub. L. 113–295, set out as a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–343 effective Jan. 1, 2011, except that amendment by section 403(a)(3) of Pub. L. 110–343 applies to statements required to be furnished after Dec. 31, 2008, see section 403(e) of Pub. L. 110–343, set out as a note under [section 1012 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1012).
@@ -6051,9 +6068,13 @@ Section applicable to group-term life insurance provided after Dec. 31, 1963, in
 
 (7) **Application to new businesses** — The Secretary shall prescribe regulations for the application of this subsection to new businesses.
 
+(8) **Certified professional employer organizations** — For purposes of any report required by this subsection, in the case of a certified professional employer organization that is treated under section 3511 as the employer of a work site employee, the customer with respect to whom a work site employee performs services shall be the employer for purposes of reporting under this section and the certified professional employer organization shall furnish to the customer and the Secretary any information the Secretary prescribes as necessary to complete such reporting no later than such time as the Secretary shall prescribe.
+
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (c)(8). Pub. L. 113–295 added par. (8).
+
 1984—Subsec. (c)(3)(C). Pub. L. 98–369, § 1072(a), substituted “Upon the petition of the employer or the majority of employees of such employer, the Secretary” for “The Secretary” and “2 percent” for “5 percent”.
 
 Subsec. (c)(4). Pub. L. 98–369, § 1072(c)(1), inserted provision that an individual who owns 50 percent or more in value of the stock of the corporation operating the establishment shall not be treated as an employee.
@@ -6065,6 +6086,9 @@ Subsec. (c)(4). Pub. L. 98–369, § 1072(c)(1), inserted provision that an indi
 1965—Subsec. (a). Pub. L. 89–212, § 2(d)(1), inserted “or which are compensation (as defined in section 3231(e)”.
 
 Subsec. (b). Pub. L. 89–212, § 2(d)(2), inserted “or section 3201 (as the case may be)” and “or section 3202 (as the case may be)”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 applicable with respect to wages for services performed on or after Jan. 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as a note under [section 3302 of this title](./chapter-023-federal-unemployment-tax-act.md#section-3302).
 
 #### Effective Date of 1984 Amendment
 Pub. L. 98–369, div. A, title X, § 1072(c)(2), July 18, 1984, 98 Stat. 1052, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to calendar years beginning after December 31, 1982.”
@@ -6401,13 +6425,13 @@ Pub. L. 109–280, title XI, § 1103, Aug. 17, 2006, 120 Stat. 1057, provided th
 
 (1) a description of the funding method and actuarial assumptions used to determine costs under the plan,
 
-(2) a certification of the contribution necessary to reduce the minimum required contribution determined under section 430, or the accumulated funding deficiency determined under section 431, to zero,
+(2) a certification of the contribution necessary to reduce the minimum required contribution determined under section 430, the accumulated funding deficiency under section 433, or the accumulated funding deficiency determined under section 431, to zero,
 
 (3) a statement—
 
   (A) that to the best of his knowledge the report is complete and accurate, and
 
-  (B) the requirements for reasonable actuarial assumptions under section 430(h)(1) or 431(c)(3), whichever are applicable, have been complied with.11 So in original. The period probably should be a comma.
+  (B) the requirements for reasonable actuarial assumptions under section 430(h)(1), 431(c)(3), or 433(c)(3), whichever are applicable, have been complied with.11 So in original. The period probably should be a comma.
 
 (4) such other information as may be necessary to fully and fairly disclose the actuarial position of the plan, and
 
@@ -6423,11 +6447,18 @@ Pub. L. 109–280, title XI, § 1103, Aug. 17, 2006, 120 Stat. 1057, provided th
 Section 3004 of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (d), is classified to [section 1204 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1204&num=0&edition=prelim), Labor.
 
 #### Amendments
+2014—Subsec. (b)(2). Pub. L. 113–97, § 202(c)(10)(A), substituted “430, the accumulated funding deficiency under section 433,” for “430,”.
+
+Subsec. (b)(3)(B). Pub. L. 113–97, § 202(c)(10)(B), substituted “430(h)(1), 431(c)(3), or 433(c)(3)” for “430(h)(1) or 431(c)(3)”.
+
 2006—Subsec. (b)(2). Pub. L. 109–280, § 114(f)(1), substituted “the minimum required contribution determined under section 430, or the accumulated funding deficiency determined under section 431,” for “the accumulated funding deficiency (as defined in section 412(a))”.
 
 Subsec. (b)(3)(B). Pub. L. 109–280, § 114(f)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “the requirements of section 412(c) (relating to reasonable actuarial assumptions) have been complied with,”.
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–280 applicable to plan years beginning after 2007, see section 114(g)(1) of Pub. L. 109–280, as added by Pub. L. 110–458, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
@@ -6448,14 +6479,19 @@ Pub. L. 93–406, title X, § 1033(c), Sept. 2, 1974, 88 Stat. 948, as amended b
 
 **(b) Alternative reporting** In lieu of the return required by subsection (a), the Secretary may approve an alternative reporting method if he determines that the necessary information is available to him from other sources.
 
-**(c) Return period defined** For purposes of subsection (a), the term “return period” means the 12-month period beginning on July 1 of each year, except that the first return period shall be the 6-month period beginning on January 1, 1977, and ending on June 30, 1977.
+**(c) Return period defined** For purposes of subsection (a), the term “return period” means the 12-month period beginning on July 1 of each year.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–295, which directed substitution of “year.” for “ ‘year’ ” and all that followed, was executed by substituting “year.” for “year, except that the first return period shall be the 6-month period beginning on January 1, 1977, and ending on June 30, 1977.”, to reflect the probable intent of Congress.
+
 2007—Pub. L. 110–28, § 8246(a)(2)(A)(i), substituted “tax return preparers” for “income tax return preparers” in section catchline.
 
 Subsec. (a). Pub. L. 110–28, § 8246(a)(2)(A)(ii), substituted “a tax return preparer” for “an income tax return preparer” in two places, “each tax return preparer” for “each income tax return preparer”, and “another tax return preparer” for “another income tax return preparer”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2007 Amendment
 Pub. L. 110–28, title VIII, § 8246(c), May 25, 2007, 121 Stat. 203, provided that: “The amendments made by this section [amending this section and sections 6103, 6107, 6109, 6503, 6694 to 6696, 7407, 7427, and 7701 of this title] shall apply to returns prepared after the date of the enactment of this Act [May 25, 2007].”
@@ -6559,7 +6595,7 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 ## § 6072. Time for filing income tax returns
 **(a) General rule** In the case of returns under section 6012, 6013, 6017, or 6031 (relating to income tax under subtitle A), returns made on the basis of the calendar year shall be filed on or before the 15th day of April following the close of the calendar year and returns made on the basis of a fiscal year shall be filed on or before the 15th day of the fourth month following the close of the fiscal year, except as otherwise provided in the following subsections of this section.
 
-**(b) Returns of corporations** Returns of corporations under section 6012 made on the basis of the calendar year shall be filed on or before the 15th day of March following the close of the calendar year, and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the third month following the close of the fiscal year. Returns required for a taxable year by section 6011(e)(2) (relating to returns of a DISC) shall be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
+**(b) Returns of corporations** Returns of corporations under section 6012 made on the basis of the calendar year shall be filed on or before the 15th day of March following the close of the calendar year, and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the third month following the close of the fiscal year. Returns required for a taxable year by section 6011(c)(2) (relating to returns of a DISC) shall be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
 
 **(c) Returns by certain nonresident alien individuals and foreign corporations** Returns made by nonresident alien individuals (other than those whose wages are subject to withholding under chapter 24) and foreign corporations (other than those having an office or place of business in the United States or a former FSC (as defined in section 922 as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)) under section 6012 on the basis of a calendar year shall be filed on or before the 15th day of June following the close of the calendar year and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the 6th month following the close of the fiscal year.
 
@@ -6578,6 +6614,8 @@ a return made on the basis of a calendar year shall be filed on or before the 15
 The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (c), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–295 substituted “section 6011(c)(2)” for “section 6011(e)(2)”.
+
 2007—Subsec. (c). Pub. L. 110–172 substituted “a former FSC (as defined in section 922 as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” for “a FSC or former FSC”.
 
 1984—Subsec. (c). Pub. L. 98–369 inserted “or a FSC or former FSC” after “United States”.
@@ -6766,7 +6804,7 @@ Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 3
 
     (i) corporations which have no principal place of business or principal office or agency in any internal revenue district,
 
-    (ii) corporations which claim the benefits of section 936 (relating to possession tax credit), and 11 So in original. Word “and” probably is superfluous.
+    (ii) corporations which claim the benefits of section 936 (relating to possession tax credit), and 11 So in original. The word “and” probably should not appear.
 
     (iii) foreign corporations, and
 
@@ -7652,7 +7690,9 @@ shall disclose any return or return information obtained by him in any manner in
 
     (v) the fact that a payment was made (and the amount of the payment) to the spouse of the taxpayer on the basis of a joint return.
 
-  (B) *(i) 33 So in original. Cl. (i) designation probably should precede “Any”. Restriction on use of disclosed information* — Any officers and employees of an agency receiving return information under subparagraph (A) shall use such information only for the purposes of, and to the extent necessary in, establishing appropriate agency records, locating any person with respect to whom a reduction under subsection (c), (d), (e), or (f) of section 6402 is sought for purposes of collecting the debt with respect to which the reduction is sought, or in the defense of any litigation or administrative procedure ensuing from a reduction made under subsection (c), (d), (e), or (f) of section 6402.
+  (B)
+
+    (i) *33 So in original. Cl. (i) designation probably should precede “Any”. Restriction on use of disclosed information* — Any officers and employees of an agency receiving return information under subparagraph (A) shall use such information only for the purposes of, and to the extent necessary in, establishing appropriate agency records, locating any person with respect to whom a reduction under subsection (c), (d), (e), or (f) of section 6402 is sought for purposes of collecting the debt with respect to which the reduction is sought, or in the defense of any litigation or administrative procedure ensuing from a reduction made under subsection (c), (d), (e), or (f) of section 6402.
 
     (ii) Notwithstanding clause (i), return information disclosed to officers and employees of the Department of Labor may be accessed by agents who maintain and provide technological support to the Department of Labor’s Interstate Connection Network (ICON) solely for the purpose of providing such maintenance and support.
 
@@ -8985,7 +9025,7 @@ For provisions that nothing in amendments by section 2653 of Pub. L. 98–369 be
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
 #### Reimbursement of Costs of Supplying Information Necessary for Administration of Federal Retirement Systems
-Pub. L. 99–335, title III, § 310(c), June 6, 1986, 100 Stat. 608, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The Office of Personnel Management shall reimburse the costs (as determined by the Secretary of Health and Human Services) of supplying— “(1) information under section 6103(l)(12) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]; and “(2) such other information agreed upon by the Director of the Office of Personnel Management and the Secretary of Health and Human Services, which is required in the administration of chapters 83 and 84 of title 5, United States Code. Section 1106(b) and (c) of the Social Security Act [[42 U.S.C. 1306(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1306/b&num=0&edition=prelim), (c)] shall apply to any reimbursement under this subsection.”
+Pub. L. 99–335, title III, § 310(c), June 6, 1986, 100 Stat. 608, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The Office of Personnel Management shall reimburse the costs (as determined by the Secretary of Health and Human Services) of supplying—“(1) information under section 6103(l)(12) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]; and “(2) such other information agreed upon by the Director of the Office of Personnel Management and the Secretary of Health and Human Services, which is required in the administration of chapters 83 and 84 of title 5, United States Code. Section 1106(b) and (c) of the Social Security Act [[42 U.S.C. 1306(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1306/b&num=0&edition=prelim), (c)] shall apply to any reimbursement under this subsection.”
 
 #### Taxpayer Identifying Number; Persons Applying For Loans Under Federal Loan Programs Required To Furnish
 Pub. L. 97–365, § 4, Oct. 25, 1982, 96 Stat. 1751, which required that each Federal agency administering an included Federal loan program require persons applying for loans to furnish their taxpayer identifying numbers, was repealed and restated in [section 7701 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section7701&num=0&edition=prelim), Money and Finance, by Pub. L. 103–272, §§ 4(f)(1)(Y)(i), 7(b), July 5, 1994, 108 Stat. 1363, 1379.
@@ -9203,11 +9243,11 @@ Ex. Ord. No. 11805, Sept. 20, 1974, 39 F.R. 34261, which related to inspection o
 
 (5) **Exempt status application materials** — For purposes of paragraph (1), the term “exempt status application materials” means the application for recognition of exemption under section 501 and any papers submitted in support of such application and any letter or other document issued by the Internal Revenue Service with respect to such application.
 
-(6) **11 So in original. Three pars. (6) have been enacted. Application to nonexempt charitable trusts and nonexempt private foundations** — The organizations referred to in paragraphs (1) and (2) of section 6033(d) shall comply with the requirements of this subsection relating to annual returns filed under section 6033 in the same manner as the organizations referred to in paragraph (1).
+(6) **Notice materials** — For purposes of paragraph (1), the term “notice materials” means the notice of status filed under section 527(i) and any papers submitted in support of such notice and any letter or other document issued by the Internal Revenue Service with respect to such notice.
 
-(6) **1 Notice materials** — For purposes of paragraph (1), the term “notice materials” means the notice of status filed under section 527(i) and any papers submitted in support of such notice and any letter or other document issued by the Internal Revenue Service with respect to such notice.
+(7) **Disclosure of reports by Internal Revenue Service** — Any report filed by an organization under section 527(j) (relating to required disclosure of expenditures and contributions) shall be made available to the public at such times and in such places as the Secretary may prescribe.
 
-(6) **1 Disclosure of reports by Internal Revenue Service** — Any report filed by an organization under section 527(j) (relating to required disclosure of expenditures and contributions) shall be made available to the public at such times and in such places as the Secretary may prescribe.
+(8) **Application to nonexempt charitable trusts and nonexempt private foundations** — The organizations referred to in paragraphs (1) and (2) of section 6033(d) shall comply with the requirements of this subsection relating to annual returns filed under section 6033 in the same manner as the organizations referred to in paragraph (1).
 
 ### Statutory Notes
 
@@ -9218,6 +9258,8 @@ The date of enactment of this subparagraph, referred to in subsec. (a)(1)(A), is
 Sections 1201(b)(3), 1224(a), (b)(4), and 1225(a) of Pub. L. 109–280, which directed the amendment of section 6104 without specifying the act to be amended, were executed to this section, which is section 6104 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2014—Subsec. (d)(6) to (8). Pub. L. 113–295 redesignated par. (6) relating to disclosure of reports by Internal Revenue Service and par. (6) relating to application to nonexempt charitable trusts and nonexempt private foundations as (7) and (8), respectively.
+
 2007—Subsec. (b). Pub. L. 110–172, § 3(g)(1), struck out “information” after “annual” in heading and inserted last sentence.
 
 Subsec. (d)(1)(A)(ii). Pub. L. 110–172, § 3(g)(2), amended text generally. Prior to amendment, text read as follows: “any annual return filed under section 6011 which relates to any tax imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc., organizations) by such organization, but only if such organization is described in section 501(c)(3),”.

@@ -12,18 +12,11 @@ source: >-
 
 **(b)** The Patent and Trademark Office shall perform all acts connected with the discharge of duties required of a Receiving Office, including the collection of international fees and their transmittal to the International Bureau.
 
-**(c)** International applications filed in the Patent and Trademark Office shall be in the English language.
+**(c)** International applications filed in the Patent and Trademark Office shall be filed in the English language, or an English translation shall be filed within such later time as may be fixed by the Director.
 
 **(d)** The international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall either be paid on filing of an international application or within such later time as may be fixed by the Director.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 112–211, title II, §§ 202(b)(7), 203, Dec. 18, 2012, 126 Stat. 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended by striking subsection (c) and inserting the following:
-
-(c) International applications filed in the Patent and Trademark Office shall be filed in the English language, or an English translation shall be filed within such later time as may be fixed by the Director.
-
-See 2012 Amendment note below.
 
 #### Amendments
 2012—Subsec. (c). Pub. L. 112–211 added subsec. (c) and struck out former subsec. (c) which read as follows: “International applications filed in the Patent and Trademark Office shall be in the English language.”
@@ -110,16 +103,9 @@ Amendment by Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub.
 ## § 364. International stage: Procedure
 **(a)** International applications shall be processed by the Patent and Trademark Office when acting as a Receiving Office, International Searching Authority, or International Preliminary Examining Authority, in accordance with the applicable provisions of the treaty, the Regulations, and this title.
 
-**(b)** An applicant’s failure to act within prescribed time limits in connection with requirements pertaining to a pending international application may be excused upon a showing satisfactory to the Director of unavoidable delay, to the extent not precluded by the treaty and the Regulations, and provided the conditions imposed by the treaty and the Regulations regarding the excuse of such failure to act are complied with.
+**(b)** An applicant’s failure to act within prescribed time limits in connection with requirements pertaining to an international application may be excused as provided in the treaty and the Regulations.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 112–211, title II, §§ 202(b)(8), 203, Dec. 18, 2012, 126 Stat. 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended by striking subsection (b) and inserting the following:
-
-(b) An applicant’s failure to act within prescribed time limits in connection with requirements pertaining to an international application may be excused as provided in the treaty and the Regulations.
-
-See 2012 Amendment note below.
 
 #### Amendments
 2012—Subsec. (b). Pub. L. 112–211 added subsec. (b) and struck out former subsec. (b) which read as follows: “An applicant’s failure to act within prescribed time limits in connection with requirements pertaining to a pending international application may be excused upon a showing satisfactory to the Director of unavoidable delay, to the extent not precluded by the treaty and the Regulations, and provided the conditions imposed by the treaty and the Regulations regarding the excuse of such failure to act are complied with.”
@@ -149,15 +135,13 @@ Amendment by Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub.
 ## § 365. Right of priority; benefit of the filing date of a prior application
 **(a)** In accordance with the conditions and requirements of subsections (a) through (d) of section 119, a national application shall be entitled to the right of priority based on a prior filed international application which designated at least one country other than the United States.
 
-**(b)** In accordance with the conditions and requirement of section 119(a) and the treaty and the Regulations, an international application designating the United States shall be entitled to the right of priority based on a prior foreign application, or a prior international application designating at least one country other than the United States.
+**(b)** In accordance with the conditions and requirement of section 119(a) and the treaty and the Regulations, an international application designating the United States shall be entitled to the right of priority based on a prior foreign application, or a prior international application designating at least one country other than the United States. The Director may establish procedures, including the requirement for payment of the fee specified in section 41(a)(7), to accept an unintentionally delayed claim for priority under the treaty and the Regulations, and to accept a priority claim that pertains to an application that was not filed within the priority period specified in the treaty and Regulations, but was filed within the additional 2-month period specified under section 119(a) or the treaty and Regulations.
 
 **(c)** In accordance with the conditions and requirements of section 120, an international application designating the United States shall be entitled to the benefit of the filing date of a prior national application or a prior international application designating the United States, and a national application shall be entitled to the benefit of the filing date of a prior international application designating the United States. If any claim for the benefit of an earlier filing date is based on a prior international application which designated but did not originate in the United States, the Director may require the filing in the Patent and Trademark Office of a certified copy of such application together with a translation thereof into the English language, if it was filed in another language.
 
 ### Statutory Notes
 
-#### Amendment of Subsections (b) and (c)
-Pub. L. 112–211, title II, §§ 201(c)(2), 203, Dec. 18, 2012, 126 Stat. 1535, 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, subsection (b) of this section is amended by adding at the end the following: “The Director may establish procedures, including the requirement for payment of the fee specified in section 41(a)(7), to accept an unintentionally delayed claim for priority under the treaty and the Regulations, and to accept a priority claim that pertains to an application that was not filed within the priority period specified in the treaty and Regulations, but was filed within the additional 2-month period specified under section 119(a) or the treaty and Regulations.” See 2012 Amendment note below.
-
+#### Amendment of Subsection (c)
 Pub. L. 112–211, title I, §§ 102(8), 103, Dec. 18, 2012, 126 Stat. 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, subsection (c) of this section is amended, in the first sentence, by substituting “, a prior international application designating the United States, or a prior international design application as defined in section 381(a)(6) designating the United States” for “or a prior international application designating the United States” and, in the second sentence, by inserting “or a prior international design application as defined in section 381(a)(6) which designated but did not originate in the United States” after “did not originate in the United States”. See 2012 Amendment note below.
 
 #### Amendments

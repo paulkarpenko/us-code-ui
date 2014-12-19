@@ -23,7 +23,7 @@ Pub. L. 106–474, § 1, Nov. 9, 2000, 114 Stat. 2085, provided that: “This Ac
 
 (1) establish criteria and procedures under which sound recordings may be included in the National Recording Registry, except that no sound recording shall be eligible for inclusion in the National Recording Registry until 10 years after the recording’s creation;
 
-(2) establish procedures under which the general public may make recommendations to the National Recording Preservation Board established under subchapter III of this chapter regarding the inclusion of sound recordings in the National Recording Registry; and
+(2) establish procedures under which the general public may make recommendations to the National Recording Preservation Board established under subchapter III regarding the inclusion of sound recordings in the National Recording Registry; and
 
 (3) determine which sound recordings satisfy the criteria established under paragraph (1) and select such recordings for inclusion in the National Recording Registry.
 
@@ -34,7 +34,7 @@ Pub. L. 106–474, § 1, Nov. 9, 2000, 114 Stat. 2085, provided that: “This Ac
 ## § 1703. Seal of the National Recording Registry
 **(a) In general** The Librarian shall provide a seal to indicate that a sound recording has been included in the National Recording Registry and is the Registry version of that recording.
 
-**(b) Use of seal** The Librarian shall establish guidelines for approval of the use of the seal provided under subsection (a) of this section, and shall include in the guidelines the following:
+**(b) Use of seal** The Librarian shall establish guidelines for approval of the use of the seal provided under subsection (a), and shall include in the guidelines the following:
 
 (1) The seal may only be used on recording copies of the Registry version of a sound recording.
 
@@ -44,34 +44,34 @@ Pub. L. 106–474, § 1, Nov. 9, 2000, 114 Stat. 2085, provided that: “This Ac
 
 (4) Anyone authorized to place the seal on any recording copy of any Registry version of a sound recording may accompany such seal with the following language: “This sound recording is selected for inclusion in the National Recording Registry by the Librarian of Congress in consultation with the National Recording Preservation Board of the Library of Congress because of its cultural, historical, or aesthetic significance.”.
 
-**(c) Effective date of the seal** The use of the seal provided under subsection (a) of this section with respect to a sound recording shall be effective beginning on the date the Librarian publishes in the Federal Register (in accordance with [section 1702(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1702/b&num=0&edition=prelim)) the name of the recording, as selected for inclusion in the National Recording Registry.
+**(c) Effective date of the seal** The use of the seal provided under subsection (a) with respect to a sound recording shall be effective beginning on the date the Librarian publishes in the Federal Register (in accordance with [section 1702(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1702/b&num=0&edition=prelim)) the name of the recording, as selected for inclusion in the National Recording Registry.
 
 **(d) Prohibited uses of the seal**
 
-(1) **Prohibition on distribution and exhibition** — No person may knowingly distribute or exhibit to the public a version of a sound recording or any copy of a sound recording which bears the seal described in subsection (a) of this section if such recording—
+(1) **Prohibition on distribution and exhibition** — No person may knowingly distribute or exhibit to the public a version of a sound recording or any copy of a sound recording which bears the seal described in subsection (a) if such recording—
 
   (A) is not included in the National Recording Registry; or
 
-  (B) is included in the National Recording Registry but has not been approved for use of the seal by the Librarian pursuant to the guidelines established under subsection (b) of this section.
+  (B) is included in the National Recording Registry but has not been approved for use of the seal by the Librarian pursuant to the guidelines established under subsection (b).
 
-(2) **Prohibition on promotion** — No person may knowingly use the seal described in subsection (a) of this section to promote any version of a sound recording or recording copy other than a Registry version.
+(2) **Prohibition on promotion** — No person may knowingly use the seal described in subsection (a) to promote any version of a sound recording or recording copy other than a Registry version.
 
 **(e) Remedies for violations**
 
-(1) **Jurisdiction** — The several district courts of the United States shall have jurisdiction, for cause shown, to prevent and restrain violations of subsection (d) of this section.
+(1) **Jurisdiction** — The several district courts of the United States shall have jurisdiction, for cause shown, to prevent and restrain violations of subsection (d).
 
 (2) **Relief**
 
-  (A) *Removal of seal* — Except as provided in subparagraph (B), relief for violation of subsection (d) of this section shall be limited to the removal of the seal from the sound recording involved in the violation.
+  (A) *Removal of seal* — Except as provided in subparagraph (B), relief for violation of subsection (d) shall be limited to the removal of the seal from the sound recording involved in the violation.
 
-  (B) *Fine and injunctive relief* — In the case of a pattern or practice of the willful violation of subsection (d) of this section, the court may order a civil fine of not more than $10,000 and appropriate injunctive relief.
+  (B) *Fine and injunctive relief* — In the case of a pattern or practice of the willful violation of subsection (d), the court may order a civil fine of not more than $10,000 and appropriate injunctive relief.
 
-(3) **Limitation of remedies** — The remedies provided in this subsection shall be the exclusive remedies under this chapter, or any other Federal or State law, regarding the use of the seal described in subsection (a) of this section.
+(3) **Limitation of remedies** — The remedies provided in this subsection shall be the exclusive remedies under this chapter, or any other Federal or State law, regarding the use of the seal described in subsection (a).
 
 
 <a id="section-1704"></a>
 ## § 1704. National Recording Registry Collection of the Library of Congress
-**(a) In general** All copies of sound recordings on the National Recording Registry that are received by the Librarian under subsection (b) of this section shall be maintained in the Library of Congress and be known as the “National Recording Registry Collection of the Library of Congress”. The Librarian shall by regulation and in accordance with title 17 provide for reasonable access to the sound recordings and other materials in such collection for scholarly and research purposes.
+**(a) In general** All copies of sound recordings on the National Recording Registry that are received by the Librarian under subsection (b) shall be maintained in the Library of Congress and be known as the “National Recording Registry Collection of the Library of Congress”. The Librarian shall by regulation and in accordance with title 17 provide for reasonable access to the sound recordings and other materials in such collection for scholarly and research purposes.
 
 **(b) Acquisition of quality copies**
 
@@ -79,7 +79,7 @@ Pub. L. 106–474, § 1, Nov. 9, 2000, 114 Stat. 2085, provided that: “This Ac
 
 (2) **Limit on number of copies** — Not more than one copy of the same version or take of any sound recording may be preserved in the National Recording Registry. Nothing in the preceding sentence may be construed to prohibit the Librarian from making or distributing copies of sound recordings included in the Registry for purposes of carrying out this Act.
 
-**(c) Property of United States** All copies of sound recordings on the National Recording Registry that are received by the Librarian under subsection (b) of this section shall become the property of the United States Government, subject to the provisions of title 17.
+**(c) Property of United States** All copies of sound recordings on the National Recording Registry that are received by the Librarian under subsection (b) shall become the property of the United States Government, subject to the provisions of title 17.
 
 ### Statutory Notes
 
@@ -89,9 +89,9 @@ This Act, referred to in subsec. (b)(2), is Pub. L. 106–474, Nov. 9, 2000, 114
 
 <a id="section-1711"></a>
 ## § 1711. Establishment of program by Librarian of Congress
-**(a) In general** The Librarian shall, after consultation with the National Recording Preservation Board established under subchapter III of this chapter, implement a comprehensive national sound recording preservation program, in conjunction with other sound recording archivists, educators and historians, copyright owners, recording industry representatives, and others involved in activities related to sound recording preservation, and taking into account studies conducted by the Board.
+**(a) In general** The Librarian shall, after consultation with the National Recording Preservation Board established under subchapter III, implement a comprehensive national sound recording preservation program, in conjunction with other sound recording archivists, educators and historians, copyright owners, recording industry representatives, and others involved in activities related to sound recording preservation, and taking into account studies conducted by the Board.
 
-**(b) Contents of program specified** The program established under subsection (a) of this section shall—
+**(b) Contents of program specified** The program established under subsection (a) shall—
 
 (1) coordinate activities to assure that efforts of archivists and copyright owners, and others in the public and private sector, are effective and complementary;
 
@@ -158,7 +158,7 @@ The Librarian shall establish in the Library of Congress a National Recording Pr
 
   (Q) Digital Media Association (DiMA).
 
-**(b) Other members** In addition to the members appointed under subsection (a) of this section, the Librarian may appoint not more than five members-at-large. The Librarian shall select an alternate for each member-at-large, who may attend at Board expense those meetings that the member-at-large cannot attend.
+**(b) Other members** In addition to the members appointed under subsection (a), the Librarian may appoint not more than five members-at-large. The Librarian shall select an alternate for each member-at-large, who may attend at Board expense those meetings that the member-at-large cannot attend.
 
 **(c) Chair** The Librarian shall appoint one member of the Board to serve as Chair.
 
@@ -168,7 +168,7 @@ The Librarian shall establish in the Library of Congress a National Recording Pr
 
 (2) **Removal of members** — The Librarian shall have the authority to remove any member of the Board if the member fails, after receiving proper notification, to attend (or send a designated alternate to attend) a regularly scheduled Board meeting, or if the member is determined by the Librarian to have substantially failed to fulfill the member’s responsibilities as a member of the Board.
 
-(3) **Vacancies** — A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a) of this section, except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy shall be appointed for the remainder of the term of the member’s predecessor.
+(3) **Vacancies** — A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a), except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy shall be appointed for the remainder of the term of the member’s predecessor.
 
 ### Statutory Notes
 
@@ -191,7 +191,7 @@ The Librarian shall establish in the Library of Congress a National Recording Pr
 ## § 1724. Responsibilities of Board
 **(a) Review and recommendation of nominations for National Recording Registry**
 
-(1) **In general** — The Board shall review nominations of sound recordings submitted to it for inclusion in the National Recording Registry and advise the Librarian, as provided in subchapter I of this chapter, with respect to the inclusion of such recordings in the Registry and the preservation of these and other sound recordings that are culturally, historically, or aesthetically significant.
+(1) **In general** — The Board shall review nominations of sound recordings submitted to it for inclusion in the National Recording Registry and advise the Librarian, as provided in subchapter I, with respect to the inclusion of such recordings in the Registry and the preservation of these and other sound recordings that are culturally, historically, or aesthetically significant.
 
 (2) **Source of nominations** — The Board shall consider for inclusion in the National Recording Registry nominations submitted by the general public as well as representatives of sound recording archives and the sound recording industry (such as the guilds and societies representing sound recording artists) and other creative artists.
 

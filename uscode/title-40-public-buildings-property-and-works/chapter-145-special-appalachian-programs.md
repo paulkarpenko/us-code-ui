@@ -42,9 +42,7 @@ source: >-
 
 **(g) Application of Title 23.—**
 
-(1) **Sections 106**
-
-  (a) *and 118.—* — Sections 106(a) and 118 of title 23 apply to the development highway system and the local access roads.
+(1) **Sections 106(a) and 118.—** — Sections 106(a) and 118 of title 23 apply to the development highway system and the local access roads.
 
 (2) **Construction and maintenance.—** — States are required to maintain each development highway and local access road as provided for Federal-aid highways in title 23. All other provisions of title 23 that are applicable to the construction and maintenance of Federal-aid primary and secondary highways and which the Secretary decides are not inconsistent with this subtitle shall apply to the system and roads, respectively.
 
@@ -437,7 +435,7 @@ Subsec. (e)(1). Pub. L. 110–371, § 2(c)(2), added par. (1) and struck out hea
 
     (i) the Consolidated Farm and Rural Development Act ([7 U.S.C. 1921](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) et seq.);
 
-    (ii) the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–4 et seq.);
+    (ii) chapter 2003 of title 54;
 
     (iii) the Watershed Protection and Flood Prevention Act ([16 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1001&num=0&edition=prelim) et seq.);
 
@@ -511,8 +509,6 @@ In subsection (g)(1), the words “after September 30, 1998” are omitted as ob
 #### References in Text
 The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(A)(i), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a)(1)(A)(ii), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of Title 16 and Tables.
-
 The Watershed Protection and Flood Prevention Act, referred to in subsec. (a)(1)(A)(iii), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1001&num=0&edition=prelim) and Tables.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(1)(A)(iv), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) and Tables.
@@ -526,6 +522,8 @@ The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)
 The Communications Act of 1934, referred to in subsec. (a)(1)(A)(ix), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended. Part IV of title III of the Act is classified generally to part IV (§ 390 et seq.) of subchapter III of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Subsec. (a)(1)(A)(ii). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–4 et seq.)”.
+
 2008—Subsec. (g)(1). Pub. L. 110–371, § 2(g)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
 Subsec. (g)(3). Pub. L. 110–371, § 2(g)(2), added par. (3).

@@ -62,17 +62,22 @@ Enforcement functions of Secretary or other official in Department of Agricultur
 ## § 2003. Congressional policy and declaration of purpose
 **(a) Responsiveness to long-term needs** In order to further the conservation of soil, water, and related resources, it is declared to be the policy of the United States and purpose of this chapter that the conduct of programs administered by the Secretary of Agriculture for the conservation of such resources shall be responsive to the long-term needs of the Nation, as determined under the provisions of this chapter.
 
-**(b) Full utilization of cooperative arrangements with State agencies** Recognizing that the arrangements under which the Federal Government cooperates with State soil and water conservation agencies and other appropriate State natural resource agencies such as those concerned with forestry and fish and wildlife and, through conservation districts, with other local units of government and land users, have effectively aided in the protection and improvement of the Nation’s basic resources, including the restoration and maintenance of resources damaged by improper use, it is declared to be the policy of the United States that these arrangements and similar cooperative arrangements should be utilized to the fullest extent practicable to achieve the purpose of this chapter consistent with the roles and responsibilities of the non-Federal agencies, landowners and land users.
+**(b) Full utilization of cooperative arrangements with State and tribal agencies** Recognizing that the arrangements under which the Federal Government cooperates with State and tribal soil and water conservation agencies and other appropriate State and tribal natural resource agencies such as those concerned with forestry and fish and wildlife and, through conservation districts, with other local units of government and land users, have effectively aided in the protection and improvement of the Nation’s basic resources, including the restoration and maintenance of resources damaged by improper use, it is declared to be the policy of the United States that these arrangements and similar cooperative arrangements should be utilized to the fullest extent practicable to achieve the purpose of this chapter consistent with the roles and responsibilities of the non-Federal agencies, landowners and land users.
 
 **(c) Attainment of policies and purposes** The Secretary shall promote the attainment of the policies and purposes expressed in this chapter by—
 
 (1) appraising on a continuing basis the soil, water, and related resources of the Nation;
 
-(2) developing and updating periodically a program for furthering the conservation, protection, and enhancement of the soil, water, and related resources of the Nation consistent with the roles and program responsibilities of other Federal agencies and State and local governments; and
+(2) developing and updating periodically a program for furthering the conservation, protection, and enhancement of the soil, water, and related resources of the Nation consistent with the roles and program responsibilities of other Federal agencies and State, tribal, and local governments; and
 
 (3) providing to Congress and the public, through reports, the information developed pursuant to paragraphs (1) and (2) of this subsection, and by providing Congress with an annual evaluation report as provided in [section 2006 of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2006).
 
 ### Statutory Notes
+
+#### Amendments
+2014—Subsec. (b). Pub. L. 113–79, § 2508(a)(1), inserted “and tribal” after “State” in two places.
+
+Subsec. (c)(2). Pub. L. 113–79, § 2508(a)(2), inserted “, tribal,” after “State”.
 
 #### Transfer of Functions
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 2002 of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2002).
@@ -88,7 +93,7 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 (3) data on the changes that have occurred in the status and condition of those resources resulting from various past uses, including the impact of farming technologies, techniques, and practices;
 
-(4) data on current Federal and State laws, policies, programs, rights, regulations, ownerships, and their trends and other considerations relating to the use, development, and conservation of soil, water, and related resources;
+(4) data on current Federal, State, and tribal laws, policies, programs, rights, regulations, ownerships, and their trends and other considerations relating to the use, development, and conservation of soil, water, and related resources;
 
 (5) data on the costs and benefits of alternative soil and water conservation practices;
 
@@ -96,9 +101,9 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 (7) data on conservation plans, conservation practices planned or implemented, environmental outcomes, economic costs, and related matters under conservation programs administered by the Secretary.
 
-**(b) Collection of data** The appraisal shall utilize data collected under this chapter and pertinent data and information collected by the Department of Agriculture and other Federal, State, and local agencies and organizations. The Secretary shall establish an integrated system capable of using combinations of resource data to determine the quality and capabilities for alternative uses of the resource base and to identify areas of local, State, and National concerns and related roles pertaining to soil and water conservation, resource use and development, and environmental improvement.
+**(b) Collection of data** The appraisal shall utilize data collected under this chapter and pertinent data and information collected by the Department of Agriculture and other Federal, State, tribal, and local agencies and organizations. The Secretary shall establish an integrated system capable of using combinations of resource data to determine the quality and capabilities for alternative uses of the resource base and to identify areas of local, State, tribal, and National concerns and related roles pertaining to soil and water conservation, resource use and development, and environmental improvement.
 
-**(c) Public participation** The appraisal shall be made in cooperation with conservation districts, State soil and water conservation agencies, and other appropriate citizen groups, and local and State agencies under such procedures as the Secretary may prescribe to insure public participation.
+**(c) Public participation** The appraisal shall be made in cooperation with conservation districts, State and tribal soil and water conservation agencies, and other appropriate citizen groups, and local, tribal, and State agencies under such procedures as the Secretary may prescribe to insure public participation.
 
 **(d) Evaluation of appraisal** In conducting the appraisal described in subsection (a), the Secretary shall concurrently solicit and evaluate recommendations for improving the appraisal, including the content, scope, process, participation in, and other elements of the appraisal, as determined by the Secretary.
 
@@ -110,6 +115,12 @@ For transfer of certain enforcement functions of Secretary or other official in 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (a)(4). Pub. L. 113–79, § 2508(b)(1), substituted “, State, and tribal” for “and State”.
+
+Subsec. (b). Pub. L. 113–79, § 2508(b)(2), inserted “, tribal” after “State” in two places.
+
+Subsec. (c). Pub. L. 113–79, § 2508(b)(3), substituted “State and tribal soil” for “State soil” and “local, tribal,” for “local”.
+
 2008—Subsec. (a)(7). Pub. L. 110–246, § 2804(b)(1), added par. (7).
 
 Subsecs. (d), (e). Pub. L. 110–246, § 2804(b)(2)–(4), added subsec. (d), redesignated former subsec. (d) as (e), and substituted “The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, and December 31, 2015.” for “The Secretary shall conduct four comprehensive appraisals under this section, to be completed by December 31, 1979, December 31, 1986, December 31, 1995, and December 31, 2005, respectively.”
@@ -125,17 +136,17 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 <a id="section-2005"></a>
 ## § 2005. Soil and water conservation program
-**(a) Program development** The Secretary is hereby authorized and directed to develop in cooperation with and participation by the public through conservation districts, State and national organizations and agencies, and other appropriate means, a national soil and water conservation program (hereinafter called the “program”) to be used as a guide in carrying out the activities of the Secretary which assist landowners and land users, at their request, in furthering soil and water conservation on the private and non-Federal lands of the Nation. The program shall set forth direction for future soil and water conservation efforts of the United States Department of Agriculture based on the current soil, water, and related resource appraisal developed in accordance with [section 2004 of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2004), taking into consideration both the long- and short-term needs of the Nation, the landowners, and the land users, and the roles and responsibilities of Federal, State, and local governments in such conservation efforts. The program shall also include but not be limited to—
+**(a) Program development** The Secretary is hereby authorized and directed to develop in cooperation with and participation by the public through conservation districts, State, tribal, and national organizations and agencies, and other appropriate means, a national soil and water conservation program (hereinafter called the “program”) to be used as a guide in carrying out the activities of the Secretary which assist landowners and land users, at their request, in furthering soil and water conservation on the private, tribal, and non-Federal lands of the Nation. The program shall set forth direction for future soil and water conservation efforts of the United States Department of Agriculture based on the current soil, water, and related resource appraisal developed in accordance with [section 2004 of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2004), taking into consideration both the long- and short-term needs of the Nation, the landowners, and the land users, and the roles and responsibilities of Federal, State, tribal, and local governments in such conservation efforts. The program shall also include but not be limited to—
 
 (1) analysis of the Nation’s soil, water, and related resource problems;
 
-(2) analysis of existing Federal, State, and local government authorities and adjustments needed;
+(2) analysis of existing Federal, State, tribal, and local government authorities and adjustments needed;
 
-(3) an evaluation of the effectiveness of the soil and water conservation ongoing programs and the overall progress being achieved by Federal, State, and local programs and the landowners and land users in meeting the soil and water conservation objectives of this chapter;
+(3) an evaluation of the effectiveness of the soil and water conservation ongoing programs and the overall progress being achieved by Federal, State, tribal, and local programs and the landowners and land users in meeting the soil and water conservation objectives of this chapter;
 
 (4) identification and evaluation of alternative methods for the conservation, protection, environmental improvement, and enhancement of soil and water resources, in the context of alternative time frames, and a recommendation of the preferred alternatives and the extent to which they are being implemented;
 
-(5) investigation and analysis of the practicability, desirability, and feasibility of collecting organic waste materials, including ma­nure, crop and food wastes, industrial organic waste, municipal sewage sludge, logging and wood-manufacturing residues, and any other organic refuse, composting, or similarly treating such materials, transporting and placing such materials onto the land to improve soil tilth and fertility. The analysis shall include the projected cost of such collection, transportation, and placement in accordance with sound locally approved soil and water conservation practices;
+(5) investigation and analysis of the practicability, desirability, and feasibility of collecting organic waste materials, including manure, crop and food wastes, industrial organic waste, municipal sewage sludge, logging and wood-manufacturing residues, and any other organic refuse, composting, or similarly treating such materials, transporting and placing such materials onto the land to improve soil tilth and fertility. The analysis shall include the projected cost of such collection, transportation, and placement in accordance with sound locally approved soil and water conservation practices;
 
 (6) analysis of the Federal and non-Federal inputs required to implement the program;
 
@@ -155,6 +166,8 @@ For transfer of certain enforcement functions of Secretary or other official in 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–79 inserted “, tribal,” after “conservation districts, State” and ‘, tribal,” after “private” in introductory provisions, and “, tribal” after “Federal, State” wherever appearing.
+
 2008—Subsecs. (b) to (d). Pub. L. 110–246, § 2804(c), added subsecs. (b) and (c), redesignated former subsec. (b) as (d), and substituted “December 31, 2011, and December 31, 2016” for “December 31, 1979, and program updates shall be completed by December 31, 1987, December 31, 1997, and December 31, 2007”.
 
 1994—Subsec. (a). Pub. L. 103–354 in first sentence of introductory provisions substituted “Secretary” for “Soil Conservation Service” before “which assist”.
@@ -234,9 +247,12 @@ There are authorized to be appropriated such funds as may be necessary to carry 
 <a id="section-2008"></a>
 ## § 2008. Utilization of available information and data
 
-In the implementation of this chapter, the Secretary shall utilize information and data available from other Federal, State, and local governments, and private organizations and he shall coordinate his actions with the resource appraisal and planning efforts of other Federal agencies and avoid unnecessary duplication and overlap of planning and program efforts.
+In the implementation of this chapter, the Secretary shall utilize information and data available from other Federal, State, tribal, and local governments, and private organizations and he shall coordinate his actions with the resource appraisal and planning efforts of other Federal agencies and avoid unnecessary duplication and overlap of planning and program efforts.
 
 ### Statutory Notes
+
+#### Amendments
+2014—Pub. L. 113–79 inserted “, tribal” after “State”.
 
 #### Transfer of Functions
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 2002 of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2002).

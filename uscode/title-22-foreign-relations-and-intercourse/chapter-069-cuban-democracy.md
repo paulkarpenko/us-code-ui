@@ -146,11 +146,11 @@ The Arms Export Control Act, referred to in subsec. (b)(1)(A), is Pub. L. 90–6
 
 (1) **Onsite verifications**
 
-  (A) Subject to subparagraph (B), an export may be made under subsection (c) of this section only if the President determines that the United States Government is able to verify, by onsite inspections and other appropriate means, that the exported item is to be used for the purposes for which it was intended and only for the use and benefit of the Cuban people.
+  (A) Subject to subparagraph (B), an export may be made under subsection (c) only if the President determines that the United States Government is able to verify, by onsite inspections and other appropriate means, that the exported item is to be used for the purposes for which it was intended and only for the use and benefit of the Cuban people.
 
   (B) Subparagraph (A) does not apply to donations to nongovernmental organizations in Cuba of medicines for humanitarian purposes.
 
-(2) **Licenses** — Exports permitted under subsection (c) of this section shall be made pursuant to specific licenses issued by the United States Government.
+(2) **Licenses** — Exports permitted under subsection (c) shall be made pursuant to specific licenses issued by the United States Government.
 
 **(e) Telecommunications services and facilities**
 
@@ -217,7 +217,7 @@ For delegation of congressional reporting functions of President under subsec. (
 
 **(c) Restrictions on remittances to Cuba** The President shall establish strict limits on remittances to Cuba by United States persons for the purpose of financing the travel of Cubans to the United States, in order to ensure that such remittances reflect only the reasonable costs associated with such travel, and are not used by the Government of Cuba as a means of gaining access to United States currency.
 
-**(d) Clarification of applicability of sanctions** The prohibitions contained in subsections (a), (b), and (c) of this section shall not apply with respect to any activity otherwise permitted by [section 6004 of this title](./chapter-069-cuban-democracy.md#section-6004) or [section 6006 of this title](./chapter-069-cuban-democracy.md#section-6006) or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With the Enemy Act [[12 U.S.C. 95a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section95a/4&num=0&edition=prelim), 50 U.S.C. App. 5(b)(4)].
+**(d) Clarification of applicability of sanctions** The prohibitions contained in subsections (a), (b), and (c) shall not apply with respect to any activity otherwise permitted by [section 6004 of this title](./chapter-069-cuban-democracy.md#section-6004) or [section 6006 of this title](./chapter-069-cuban-democracy.md#section-6006) or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With the Enemy Act [[12 U.S.C. 95a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section95a/4&num=0&edition=prelim), 50 U.S.C. App. 5(b)(4)].
 
 ### Statutory Notes
 
@@ -264,7 +264,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 (5) has committed itself to constitutional change that would ensure regular free and fair elections that meet the requirements of paragraph (2).
 
-**(b) Policies** If the President makes a determination under subsection (a) of this section, the President shall take the following actions with respect to a Cuban Government elected pursuant to elections described in subsection (a) of this section:
+**(b) Policies** If the President makes a determination under subsection (a), the President shall take the following actions with respect to a Cuban Government elected pursuant to elections described in subsection (a):
 
 (1) To encourage the admission or reentry of such government to international organizations and international financial institutions.
 

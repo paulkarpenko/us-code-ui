@@ -83,10 +83,10 @@ Subsecs. (b), (c). Pub. L. 91–510 added subsecs. (b) and (c).
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1971 Amendment
-Pub. L. 92–136, § 9(a), Oct. 11, 1971, 85 Stat. 378, provided that: “The amendments made by the first section [amending this section] section 2, and section 5 of this Act [amending [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a)] shall become effective as of noon on January 3, 1971.”
+Pub. L. 92–136, § 9(a), Oct. 11, 1971, 85 Stat. 378, provided that: “The amendments made by the first section [amending this section] section 2, and section 5 of this Act [amending [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301)] shall become effective as of noon on January 3, 1971.”
 
 #### Effective Date of 1970 Amendment
-Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 #### Effective Date
 Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, title I, 60 Stat. 834.
@@ -100,7 +100,7 @@ Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, ti
 Section, act Aug. 2, 1946, ch. 753, title I, § 138, 60 Stat. 832, related to report of legislative budget by Committee on Ways and Means and Committee on Appropriations of House and Committee on Finance and Committee on Appropriations of Senate, its contents, and concurrent resolution adopting the budget. See Rules of the House of Representatives and Standing Rules of the Senate.
 
 #### Effective Date of Repeal
-Repeal effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Repeal effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 
 <a id="section-190f"></a>
@@ -123,7 +123,7 @@ Section constitutes subsections (a) to (c) of section 139 of act Aug. 2, 1946. S
 1970—Subsec. (a). Pub. L. 91–510 repealed prohibition against consideration of any general appropriation bill in either House unless prior to such consideration printed committee hearings and reports on the bill have been available for at least three calendar days for the Members of the House considering the bill, which was incorporated in [section 190a(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section190a/f&num=0&edition=prelim).
 
 #### Effective Date of 1970 Amendment
-Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 #### Effective Date
 Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, title I, 60 Stat. 834.
@@ -161,7 +161,7 @@ Section, Pub. L. 91–510, title II, § 242(a), Oct. 26, 1970, 84 Stat. 1171, pr
 
 Section 190i, Pub. L. 91–510, title II, § 243, Oct. 26, 1970, 84 Stat. 1173, related to actions and procedures of the Committee on Appropriations of Senate. See Standing Rules of the Senate.
 
-Section 190j, Pub. L. 91–510, title II, § 252(a), Oct. 26, 1970, 84 Stat. 1173; Aug. 1, 1946, ch. 724, § 302(d), as added Aug. 30, 1954, ch. 1073, § 1, as added Sept. 20, 1977, Pub. L. 95–110, § 1, 91 Stat. 884, related to cost estimates in reports of Senate committees accompanying certain legislative measures and to other Senate committee operations. See Standing Rules of the Senate.
+Section 190j, Pub. L. 91–510, title II, § 252(a), Oct. 26, 1970, 84 Stat. 1173; Aug. 1, 1946, ch. 724, § 302(d), as added Pub. L. 95–110, § 1, Sept. 20, 1977, 91 Stat. 884, related to cost estimates in reports of Senate committees accompanying certain legislative measures and to other Senate committee operations. See Standing Rules of the Senate.
 
 Section 190k, Pub. L. 91–510, title II, § 253(a), (b), Oct. 26, 1970, 84 Stat. 1174, related to appropriations on an annual basis for continuing programs and activities and review by Senate and joint committees. See Standing Rules of the Senate.
 
@@ -354,7 +354,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 1970—Pub. L. 95–110, in amending section generally, incorporated existing subject matter in subsec. (a)(1), substituted therein an adjournment date not later than July 31 of each year for prior provision for a date not later than last day (Sundays excepted) in month of July in each year, added subsec. (a)(2), added subsec. (b) which incorporated former exception to adjournment in time of war, and deleted another exception to adjournment during national emergency proclaimed by the President.
 
 #### Effective Date of 1970 Amendment
-Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 #### Effective Date
 Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, title I, 60 Stat. 834.
@@ -370,4 +370,4 @@ Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, ti
 
 (3) upon the joint recommendation of the Majority Leader of the Senate and the Minority Leader of the Senate, if such provision of law does not specify that the appointment is to be made on the appointee’s affiliation with the majority or minority political party.
 
-**(b)** The provisions of subsection (a) of this section shall be applicable in the case of appointments made after December 22, 1980, pursuant to provisions of law enacted on, before, and after, December 22, 1980.
+**(b)** The provisions of subsection (a) shall be applicable in the case of appointments made after December 22, 1980, pursuant to provisions of law enacted on, before, and after, December 22, 1980.

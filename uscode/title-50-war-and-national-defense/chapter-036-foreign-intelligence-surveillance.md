@@ -2,7 +2,7 @@
 title: 50
 chapter: '36'
 heading: FOREIGN INTELLIGENCE SURVEILLANCE
-section_count: 44
+section_count: 45
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -278,9 +278,7 @@ By the authority vested in me as President by Sections 102 and 104 of the Foreig
 
 None of the above officials, nor anyone officially acting in that capacity, may exercise the authority to make the above certifications, unless that official has been appointed by the President with the advice and consent of the Senate. The requirement of the preceding sentence that the named official must be appointed by the President with the advice and consent of the Senate does not apply to the Deputy Director of the Federal Bureau of Investigation.
 
-1–104. Section 2–202 of Executive Order No. 12036 [formerly set out under [50 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401&num=0&edition=prelim), which was editorially reclassified and renumbered as [50 U.S.C. 3002](./chapter-044-national-security.md#section-3002)] is amended by inserting the following at the end of that section: “Any electronic surveillance, as defined in the Foreign Intelligence Surveillance Act of 1978, shall be conducted in accordance with that Act as well as this Order.”.
-
-1–105. Section 2–203 of Executive Order No. 12036 [formerly set out under [50 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401&num=0&edition=prelim), which was editorially reclassified and renumbered as [50 U.S.C. 3002](./chapter-044-national-security.md#section-3002)] is amended by inserting the following at the end of that section: “Any monitoring which constitutes electronic surveillance as defined in the Foreign Intelligence Surveillance Act of 1978 shall be conducted in accordance with that Act as well as this Order.”.
+[1–104, 1–105. Amended Ex. Ord. No. 12036, formerly set out under section 401 (now 3001) of this title.]
 
 
 <a id="section-1803"></a>
@@ -666,7 +664,7 @@ Subsec. (c)(1)(F). Pub. L. 109–177, § 108(b)(2), substituted period for “; 
 
 Subsec. (c)(2). Pub. L. 109–177, § 108(b)(3), inserted par. heading and substituted “An order approving an electronic surveillance under this section shall direct” for “direct” in introductory provisions.
 
-2006—Subsec. (c)(2). Pub. L. 109–177, § 102(b)(1), as amended by Pub. L. 111–118, Pub. L. 111–141, Pub. L. 112–3, and Pub. L. 112–14, amended par. (2), effective June 1, 2015, so as to read as it read on Oct. 25, 2001. Prior to amendment, par. (2) established requirements of orders approving electronic surveillance.
+Pub. L. 109–177, § 102(b)(1), as amended by Pub. L. 111–118, Pub. L. 111–141, Pub. L. 112–3, and Pub. L. 112–14, amended par. (2), effective June 1, 2015, so as to read as it read on Oct. 25, 2001. Prior to amendment, par. (2) established requirements of orders approving electronic surveillance.
 
 Subsec. (c)(2)(B). Pub. L. 109–177, § 108(a)(2)(B), substituted “where the Court finds, based upon specific facts provided in the application,” for “where the Court finds”.
 
@@ -923,6 +921,67 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801).
+
+
+<a id="section-1813"></a>
+## § 1813. Procedures for the retention of incidentally acquired communications
+**(a) Definitions** In this section:
+
+(1) **Covered communication** — The term “covered communication” means any nonpublic telephone or electronic communication acquired without the consent of a person who is a party to the communication, including communications in electronic storage.
+
+(2) **Head of an element of the intelligence community** — The term “head of an element of the intelligence community” means, as appropriate—
+
+  (A) the head of an element of the intelligence community; or
+
+  (B) the head of the department or agency containing such element.
+
+(3) **United States person** — The term “United States person” has the meaning given that term in [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801).
+
+**(b) Procedures for covered communications**
+
+(1) **Requirement to adopt** — Not later than 2 years after December 19, 2014, each head of an element of the intelligence community shall adopt procedures approved by the Attorney General for such element that ensure compliance with the requirements of paragraph (3).
+
+(2) **Coordination and approval** — The procedures required by paragraph (1) shall be—
+
+  (A) prepared in coordination with the Director of National Intelligence; and
+
+  (B) approved by the Attorney General prior to issuance.
+
+(3) **Procedures**
+
+  (A) *Application* — The procedures required by paragraph (1) shall apply to any intelligence collection activity not otherwise authorized by court order (including an order or certification issued by a court established under subsection (a) or (b) of [section 1803 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1803)), subpoena, or similar legal process that is reasonably anticipated to result in the acquisition of a covered communication to or from a United States person and shall permit the acquisition, retention, and dissemination of covered communications subject to the limitation in subparagraph (B).
+
+  (B) *Limitation on retention* — A covered communication shall not be retained in excess of 5 years, unless—
+
+    (i) the communication has been affirmatively determined, in whole or in part, to constitute foreign intelligence or counterintelligence or is necessary to understand or assess foreign intelligence or counterintelligence;
+
+    (ii) the communication is reasonably believed to constitute evidence of a crime and is retained by a law enforcement agency;
+
+    (iii) the communication is enciphered or reasonably believed to have a secret meaning;
+
+    (iv) all parties to the communication are reasonably believed to be non-United States persons;
+
+    (v) retention is necessary to protect against an imminent threat to human life, in which case both the nature of the threat and the information to be retained shall be reported to the congressional intelligence committees not later than 30 days after the date such retention is extended under this clause;
+
+    (vi) retention is necessary for technical assurance or compliance purposes, including a court order or discovery obligation, in which case access to information retained for technical assurance or compliance purposes shall be reported to the congressional intelligence committees on an annual basis; or
+
+    (vii) retention for a period in excess of 5 years is approved by the head of the element of the intelligence community responsible for such retention, based on a determination that retention is necessary to protect the national security of the United States, in which case the head of such element shall provide to the congressional intelligence committees a written certification describing—
+
+      (I) the reasons extended retention is necessary to protect the national security of the United States;
+
+      (II) the duration for which the head of the element is authorizing retention;
+
+      (III) the particular information to be retained; and
+
+      (IV) the measures the element of the intelligence community is taking to protect the privacy interests of United States persons or persons located inside the United States.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 2015, and not as part of the Foreign Intelligence Surveillance Act of 1978 which comprises this chapter.
+
+#### Definitions
+For definitions of “congressional intelligence committees” and “intelligence community” as used in this section, see section 2 of Pub. L. 113–293, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
 
 
 <a id="section-1821"></a>

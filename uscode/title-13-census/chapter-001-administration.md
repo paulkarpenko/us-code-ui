@@ -172,9 +172,9 @@ Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L.
 
 
 <a id="section-7"></a>
-## § 7. Printing; requisitions upon Public Printer; publication of bulletins and reports
+## § 7. Printing; requisitions upon Director of the Government Publishing Office; publication of bulletins and reports
 
-The Secretary may make requisition upon the Public Printer for miscellaneous printing necessary to carry out the provisions of this title. He may further have printed by the Public Printer, in such editions as he deems necessary, preliminary and other census bulletins, and final reports of the results of the several investigations authorized by this title, and may publish and distribute such bulletins and reports.
+The Secretary may make requisition upon the Director of the Government Publishing Office for miscellaneous printing necessary to carry out the provisions of this title. He may further have printed by the Director of the Government Publishing Office, in such editions as he deems necessary, preliminary and other census bulletins, and final reports of the results of the several investigations authorized by this title, and may publish and distribute such bulletins and reports.
 
 ### Statutory Notes
 
@@ -188,6 +188,9 @@ The enumeration in [section 213 of title 13](./chapter-007-offenses-and-penaltie
 The provisions have been reworded to make it clear that they relate to all statistical and census operations under this title, and changes were made in phraseology.
 
 For remainder of [section 1442 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1442&num=0&edition=prelim), U.S.C., 1952 ed. (which section has been transferred in its entirety to this revised title), see Distribution Table.
+
+#### Change of Name
+“Director of the Government Publishing Office” substituted for “Public Printer” in section catchline and text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 
 <a id="section-8"></a>

@@ -315,14 +315,14 @@ Pub. L. 104–191, title IV, § 401(c), Aug. 21, 1996, 110 Stat. 2082, provided 
 
 **(e) Application to all plans** The provisions of subsections (a)(1)(F), (b)(3), (c), and (d) and subsection (b)(1) and section 9801 with respect to genetic information, shall apply to group health plans without regard to section 9831(a)(2).
 
-**(f) 11 So in original. Two subsecs. (f) have been enacted. Special rules for church plans** A church plan (as defined in section 414(e)) shall not be treated as failing to meet the requirements of this section solely because such plan requires evidence of good health for coverage of—
+**(f) Special rules for church plans** A church plan (as defined in section 414(e)) shall not be treated as failing to meet the requirements of this section solely because such plan requires evidence of good health for coverage of—
 
 (1) both any employee of an employer with 10 or less employees (determined without regard to section 414(e)(3)(C)) and any self-employed individual, or
 
 (2) any individual who enrolls after the first 90 days of initial eligibility under the plan.
 This subsection shall apply to a plan for any year only if the plan included the provisions described in the preceding sentence on July 15, 1997, and at all times thereafter before the beginning of such year.
 
-**(f) 1 Genetic information of a fetus or embryo** Any reference in this chapter to genetic information concerning an individual or family member of an individual shall—
+**(g) Genetic information of a fetus or embryo** Any reference in this chapter to genetic information concerning an individual or family member of an individual shall—
 
 (1) with respect to such an individual or family member of an individual who is a pregnant woman, include genetic information of any fetus carried by such pregnant woman; and
 
@@ -336,6 +336,8 @@ The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935,
 Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(3)(A), is section 264 of Pub. L. 104–191, which is set out as a note under [section 1320d–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–2&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2014—Subsecs. (f), (g). Pub. L. 113–295 redesignated subsec. (f) relating to genetic information of a fetus or embryo as (g).
+
 2008—Subsec. (b)(2)(A). Pub. L. 110–233, § 103(a)(1), inserted “except as provided in paragraph (3)” before semicolon.
 
 Subsec. (b)(3). Pub. L. 110–233, § 103(a)(2), added par. (3).
@@ -675,8 +677,8 @@ Section 102 of the Higher Education Act of 1965, referred to in subsec. (a), is 
 Pub. L. 110–381, § 2(d), Oct. 9, 2008, 122 Stat. 4086, provided that: “The amendments made by this Act [enacting this section, [section 1185c of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185c&num=0&edition=prelim), Labor, and sections 300gg–7 and 300gg–54 of Title 42, The Public Health and Welfare] shall apply with respect to plan years beginning on or after the date that is one year after the date of the enactment of this Act [Oct. 9, 2008] and to medically necessary leaves of absence beginning during such plan years.”
 
 
-<a id="section-9815"></a>
-## § 9815. 11 So in original. No section 9814 has been enacted. Additional market reforms
+<a id="section-9815-1"></a>
+## § 9815.1. Additional market reforms
 **(a) General rule** Except as provided in subsection (b)—
 
 (1) the provisions of part A of title XXVII of the Public Health Service Act (as amended by the Patient Protection and Affordable Care Act) shall apply to group health plans, and health insurance issuers providing health insurance coverage in connection with group health plans, as if included in this subchapter; and

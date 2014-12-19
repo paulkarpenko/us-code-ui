@@ -2,7 +2,7 @@
 title: 16
 chapter: '7'
 heading: PROTECTION OF MIGRATORY GAME AND INSECTIVOROUS BIRDS
-section_count: 58
+section_count: 64
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -415,7 +415,8 @@ The Secretary of the Interior may—
 
 (1) purchase or rent such areas or interests therein as have been approved for purchase or rental by the Commission at the price or prices fixed by the Commission; and
 
-(2) acquire, by gift or devise, any area or interests therein; which he determines to be suitable for use as an inviolate sanctuary, or for any other management purpose, for migratory birds. The Secretary may pay, when deemed necessary by him and from moneys authorized to be appropriated for the purposes of this subchapter (A) the purchase or rental price of any such area or interest therein, and (B) the expenses incident to the location, examination, survey, and acquisition of title (including options) of any such area or interest therein. No lands acquired, held, or used by the United States for military purposes shall be subject to any provisions of this subchapter.
+(2) acquire, by gift or devise, any area or interests therein;
+which he determines to be suitable for use as an inviolate sanctuary, or for any other management purpose, for migratory birds. The Secretary may pay, when deemed necessary by him and from moneys authorized to be appropriated for the purposes of this subchapter (A) the purchase or rental price of any such area or interest therein, and (B) the expenses incident to the location, examination, survey, and acquisition of title (including options) of any such area or interest therein. No lands acquired, held, or used by the United States for military purposes shall be subject to any provisions of this subchapter.
 
 ### Statutory Notes
 
@@ -817,6 +818,9 @@ Pub. L. 105–83, title I, § 132, Nov. 14, 1997, 111 Stat. 1570, provided that:
 
 Section, act Mar. 16, 1934, ch. 71, § 9, 48 Stat. 452, defined subchapter terms.
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–264, § 1, Dec. 18, 2014, 128 Stat. 2939, provided that: “This Act [amending sections 718a, 718b, and 718d of this title] may be cited as the ‘Federal Duck Stamp Act of 2014’.”
+
 #### Short Title of 2006 Amendment
 Pub. L. 109–266, § 1, Aug. 3, 2006, 120 Stat. 670, provided that: “This Act [enacting sections 718g to 718j of this title, amending sections 718a to 718f of this title, repealing this section and former sections 718g, 718h, and 718j of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Electronic Duck Stamp Act of 2005’.”
 
@@ -840,9 +844,11 @@ Pub. L. 109–266, §§ 2–9, Aug. 3, 2006, 120 Stat. 670–673, provided that:
 
   (A) by Federal or State agencies;
 
-  (B) for propagation; or
+  (B) for propagation;
 
-  (C) by the resident owner, tenant, or sharecropper of the property, or officially designated agencies of the Department of the Interior, for the killing, under such restrictions as the Secretary may by regulation prescribe, of such waterfowl when found damaging crops or other property.
+  (C) by the resident owner, tenant, or sharecropper of the property, or officially designated agencies of the Department of the Interior, for the killing, under such restrictions as the Secretary may by regulation prescribe, of such waterfowl when found damaging crops or other property; or
+
+  (D) by a rural Alaska resident for subsistence uses (as that term is defined in [section 3113 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3113)).
 
 **(b) Display of stamp** Any individual to whom a stamp has been sold under this subchapter shall, upon request, display the stamp for inspection to—
 
@@ -855,6 +861,8 @@ Pub. L. 109–266, §§ 2–9, Aug. 3, 2006, 120 Stat. 670–673, provided that:
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a)(2)(D). Pub. L. 113–264 added subpar. (D).
+
 2006—Pub. L. 109–266 amended section generally. Prior to amendment, section related to hunting and conservation stamp for taking migratory waterfowl.
 
 1976—Pub. L. 94–215 substituted “hunting and conservation stamp” for “hunting stamp” in first sentence.
@@ -909,16 +917,22 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 
   (B) redeem stamps issued under this subchapter that are sold on consignment by the Secretary (or any agent of the Secretary).
 
-**(b) Cost of stamps** The Postal Service shall collect $10.00 for each stamp sold under the provisions of this section for hunting years 1987 and 1988, $12.50 for hunting years 1989 and 1990, and $15.00 for each hunting year thereafter, if the Secretary determines, at any time before February 1 of the calendar year in which such hunting year begins, that all sums in the Migratory Bird Conservation Fund available for obligation and attributable to—
+**(b) Cost of stamps** The Postal Service shall collect $10.00 for each stamp sold under the provisions of this section for hunting years 1987 and 1988, $12.50 for hunting years 1989 and 1990, $15.00 for hunting years 1991 through 2013, and $25 for each hunting year thereafter, if the Secretary determines, at any time before February 1 of the calendar year in which such hunting year begins, that all sums in the Migratory Bird Conservation Fund available for obligation and attributable to—
 
 (1) amounts appropriated pursuant to this subchapter for the fiscal year ending in the immediately preceding calendar year; and
 
 (2) the sale of stamps under this section during such fiscal year
 have been obligated for expenditure.
 
+**(c) Reduction in price of stamp** The Secretary may reduce the price of each stamp sold under the provisions of this section for a hunting year if the Secretary determines that the increase in the price of the stamp after hunting year 2013 resulted in a reduction in revenues deposited into the fund.
+
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–264, § 2(1), substituted “1990, $15.00 for hunting years 1991 through 2013, and $25 for each hunting year thereafter” for “1990, and $15.00 for each hunting year thereafter”.
+
+Subsec. (c). Pub. L. 113–264, § 2(2), added subsec. (c).
+
 2006—Pub. L. 109–266, § 10(b), inserted section catchline.
 
 Subsec. (a). Pub. L. 109–266, § 10(b), added subsec. (a) and struck out former subsec. (a) which related to issuance and sale of stamps, fund disposition, and unsold stamps.
@@ -1009,30 +1023,58 @@ Nothing in this subchapter shall be construed to authorize any person to take an
 
 (2) paid into the Treasury of the United States; and
 
-(3) reserved and set aside as a special fund, to be known as the “Migratory Bird Conservation Fund” (referred to in this section as the “fund”), to be administered by the Secretary.
+(3) reserved and set aside as a special fund, to be known as the “Migratory Bird Conservation Fund” (referred to in this section as the “fund”), to be administered by the Secretary, in which there shall be a subaccount to which the Secretary of the Treasury shall transfer all amounts in excess of $15 that are received from the sale of each stamp sold for each hunting year after hunting year 2013.
 
 **(b) Use of funds** All funds received into the fund are appropriated for the following purposes, to remain available until expended:
 
-(1) **Advance allotments** — So much as may be necessary shall be used by the Secretary for engraving, printing, issuing, selling, and accounting for Migratory Bird Hunting and Conservation Stamps and moneys received from the sale thereof, in addition to expenses for personnel services in the District of Columbia and elsewhere, and such other expenses as may be necessary in executing the duties and functions required of the Postal Service.
+(1) **Advance allotments** — Except as provided in paragraph (4), so much as may be necessary shall be used by the Secretary for engraving, printing, issuing, selling, and accounting for Migratory Bird Hunting and Conservation Stamps and moneys received from the sale thereof, in addition to expenses for personnel services in the District of Columbia and elsewhere, and such other expenses as may be necessary in executing the duties and functions required of the Postal Service.
 
-(2) **Areas for refuges** — Except as provided in paragraph (3) and subsection (c), the remainder shall be available for the location, ascertainment, and acquisition of suitable areas for migratory bird refuges under the provisions of the Migratory Bird Conservation Act ([16 U.S.C. 715](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) et seq.) and for the administrative costs incurred in the acquisition of such areas.
+(2) **Areas for refuges** — Except as provided in paragraphs (3) and (4) and subsection (c), the remainder shall be available for the location, ascertainment, and acquisition of suitable areas for migratory bird refuges under the provisions of the Migratory Bird Conservation Act ([16 U.S.C. 715](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) et seq.) and for the administrative costs incurred in the acquisition of such areas.
 
 (3) **Conditions on use of funds** — The Secretary may use funds made available under paragraph (2) for the purposes of that paragraph, and such other funds as may be appropriated for the purposes of that paragraph or this paragraph, to acquire, or defray the expense incident to the acquisition by gift, devise, lease, purchase, or exchange of, small wetland and pothole areas, interests therein, and rights-of-way to provide access thereto. Such small areas, to be designated as “Waterfowl Production Areas”, may be acquired without regard to the limitations and requirements of the Migratory Bird Conservation Act ([16 U.S.C. 715](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) et seq.), but all of the provisions of such Act which govern the administration and protection of lands acquired thereunder, except the inviolate sanctuary provisions of such Act, shall be applicable to areas acquired pursuant to this paragraph.
 
-**(c) Promotion of stamp sales**
+(4) **Conservation easements** — Amounts in the subaccount referred to in subsection (a)(3) shall be used by the Secretary solely to acquire easements in real property in the United States for conservation of migratory birds.
 
-(1) **In general** — The Secretary may use funds from the sale of Migratory Bird Hunting and Conservation Stamps, not to exceed $1,000,000 in each of fiscal years 1999, 2000, 2001, 2002, and 2003, for the promotion of additional sales of those stamps, in accordance with a Migratory Bird Conservation Commission approved annual marketing plan. Such promotion shall include the preparation of reports, brochures, or other appropriate materials to be made available to the public that describe the benefits to wildlife derived from stamp sales.
+**(c) Promotion of stamp sales** The Secretary may use funds from the sale of Migratory Bird Hunting and Conservation Stamps, not to exceed $1,000,000 in each of fiscal years 1999, 2000, 2001, 2002, and 2003, for the promotion of additional sales of those stamps, in accordance with a Migratory Bird Conservation Commission approved annual marketing plan. Such promotion shall include the preparation of reports, brochures, or other appropriate materials to be made available to the public that describe the benefits to wildlife derived from stamp sales.
 
-(2) **Components of report** — The Secretary shall include in each annual report of the Commission under section 715b 11 See References in Text note below. of this title a description of activities conducted under this subsection in the year covered by the report.
+**(d) Annual report** The Secretary shall include in each annual report of the Commission under section 3 11 See References in Text note below. of the Migratory Bird Conservation Act ([16 U.S.C. 715b](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715b))—
+
+(1) a description of activities conducted under subsection (c) in the year covered by the report;
+
+(2) an annual assessment of the status of wetlands conservation projects for migratory bird conservation purposes, including a clear and accurate accounting of—
+
+  (A) all expenditures by Federal and State agencies under this section; and
+
+  (B) all expenditures made for fee-simple acquisition of Federal lands in the United States, including the amount paid and acreage of each parcel acquired in each acquisition;
+
+(3) an analysis of the refuge lands opened, and refuge lands closed, for hunting and fishing in the year covered by the report, including—
+
+  (A) identification of the specific areas in each refuge and the reasons for the closure or opening; and
+
+  (B) a detailed description of each closure including detailed justification for such closure;
+
+(4) the total number of acres of refuge land open for hunting and fishing, and the total number of acres of refuge land closed for hunting and fishing, in the year covered by the report; and
+
+(5) a separate report on the hunting and fishing status of those lands added to the system in the year covered by the report.
 
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Conservation Act, referred to in subsec. (b)(2), (3), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
-
-[Section 715b of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715b), referred to in subsec. (c)(2), was omitted from the Code.
+The Migratory Bird Conservation Act, referred to in subsecs. (b)(2), (3) and (d), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. Section 3 of the Act was classified to [section 715b of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715b) and was omitted from the Code. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
 
 #### Amendments
+2014—Subsec. (a)(3). Pub. L. 113–264, § 2(3)(A), inserted before period at end “, in which there shall be a subaccount to which the Secretary of the Treasury shall transfer all amounts in excess of $15 that are received from the sale of each stamp sold for each hunting year after hunting year 2013”.
+
+Subsec. (b)(1). Pub. L. 113–264, § 2(3)(B), substituted “Except as provided in paragraph (4), so much” for “So much”.
+
+Subsec. (b)(2). Pub. L. 113–264, § 2(3)(C), substituted “paragraphs (3) and (4)” for “paragraph (3)”.
+
+Subsec. (b)(4). Pub. L. 113–264, § 2(3)(D), added par. (4).
+
+Subsec. (c). Pub. L. 113–264, § 3(1), struck out par. (1) designation and heading and par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary shall include in each annual report of the Commission under [section 715b of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715b) a description of activities conducted under this subsection in the year covered by the report.”
+
+Subsec. (d). Pub. L. 113–264, § 3(2), added subsec. (d).
+
 2006—Pub. L. 109–266, § 10(e)(1), (2), inserted section catchline, substituted subsec. (a) for introductory provisions which read “All moneys received for such stamps shall be accounted for by the Postal Service or the Department of the Interior, whichever is appropriate, and paid into the Treasury of the United States, and shall be reserved and set aside as a special fund to be known as the migratory bird conservation fund, to be administered by the Secretary of the Interior. All moneys received into such fund are appropriated for the following objects and shall be available therefor until expended:”, inserted subsec. (b) designation, heading, and introductory provisions, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (b), and realigned margins.
 
 Subsec. (b)(1). Pub. L. 109–266, § 10(e)(3), inserted heading and substituted “So much as may be necessary shall be used by the Secretary for engraving” for “So much as may be necessary shall be used by the Secretary of the Interior to make advance allotments to the Postal Service at such times and in such amounts as may be mutually agreed upon by the Secretary of the Interior and the Postal Service for direct expenditure by the Postal Service for engraving”, “Migratory Bird Hunting and Conservation Stamps” for “migratory bird hunting stamps”, “personnel” for “personal”, and “Postal Service” for “postal service”.
@@ -1229,6 +1271,140 @@ A prior section 718j, Mar. 16, 1934, ch. 71, § 10, as added Pub. L. 97–307, O
 ## § 718k. Use of fees collected for Federal migratory bird permits
 
 On and after October 21, 1998, all fees collected for Federal migratory bird permits shall be available to the Secretary, without further appropriation, to be used for the expenses of the U.S. Fish and Wildlife Service in administering such Federal migratory bird permits, and shall remain available until expended.
+
+
+<a id="section-718o"></a>
+## § 718o. Definitions
+
+In this subchapter:
+
+(1) **Actual stamp** — The term “actual stamp” means a Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 ([16 U.S.C. 718a](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718a) 11 See References in Text note below. et seq.) (popularly known as the “Duck Stamp Act”), that is printed on paper and sold through the means established by the authority of the Secretary immediately before December 18, 2014.
+
+(2) **Automated licensing system**
+
+  (A) *In general* — The term “automated licensing system” means an electronic, computerized licensing system used by a State fish and wildlife agency to issue hunting, fishing, and other associated licenses and products.
+
+  (B) *Inclusion* — The term “automated licensing system” includes a point-of-sale, Internet, telephonic system, or other electronic applications used for a purpose described in subparagraph (A).
+
+(3) **Electronic stamp** — The term “electronic stamp” means an electronic version of an actual stamp that—
+
+  (A) is a unique identifier for the individual to whom it is issued;
+
+  (B) can be printed on paper or produced through an electronic application with the same indicators as the State endorsement provides;
+
+  (C) is issued through a State automated licensing system that is authorized, under State law and by the Secretary under this subchapter, to issue electronic stamps;
+
+  (D) is compatible with the hunting licensing system of the State that issues the electronic stamp; and
+
+  (E) is described in the State application approved by the Secretary under [section 718q(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section718q/b&num=0&edition=prelim).
+
+(4) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+
+### Statutory Notes
+
+#### References in Text
+The Act of March 16, 1934, referred to in par. (1), is act Mar. 16, 1934, ch. 71, 48 Stat. 451, known as the Migratory Bird Hunting and Conservation Stamp Act, and also popularly known as the Duck Stamp Act, which is classified generally to subchapter IV (§ 718 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 718 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718) and Tables.
+
+#### Short Title
+Pub. L. 113–239, § 1, Dec. 18, 2014, 128 Stat. 2847, provided that: “This Act [enacting this subchapter] may be cited as the ‘Permanent Electronic Duck Stamp Act of 2013’.”
+
+
+<a id="section-718p"></a>
+## § 718p. Authority to issue electronic duck stamps
+**(a) In general** The Secretary may authorize any State to issue electronic stamps in accordance with this subchapter.
+
+**(b) Consultation** The Secretary shall implement this section in consultation with State management agencies.
+
+
+<a id="section-718q"></a>
+## § 718q. State application
+**(a) Approval of application required** The Secretary may not authorize a State to issue electronic stamps under this subchapter unless the Secretary has received and approved an application submitted by the State in accordance with this section. The Secretary may determine the number of new States per year to participate in the electronic stamp program.
+
+**(b) Contents of application** The Secretary may not approve a State application unless the application contains—
+
+(1) a description of the format of the electronic stamp that the State will issue under this subchapter, including identifying features of the licensee that will be specified on the stamp;
+
+(2) a description of any fee the State will charge for issuance of an electronic stamp;
+
+(3) a description of the process the State will use to account for and transfer to the Secretary the amounts collected by the State that are required to be transferred to the Secretary under the program;
+
+(4) the manner by which the State will transmit electronic stamp customer data to the Secretary;
+
+(5) the manner by which actual stamps will be delivered;
+
+(6) the policies and procedures under which the State will issue duplicate electronic stamps; and
+
+(7) such other policies, procedures, and information as may be reasonably required by the Secretary.
+
+**(c) Publication of deadlines, eligibility requirements, and selection criteria** Not later than 30 days before the date on which the Secretary begins accepting applications under this section, the Secretary shall publish—
+
+(1) deadlines for submission of applications;
+
+(2) eligibility requirements for submitting applications; and
+
+(3) criteria for approving applications.
+
+
+<a id="section-718r"></a>
+## § 718r. State obligations and authorities
+**(a) Delivery of actual stamp** The Secretary shall require that each individual to whom a State sells an electronic stamp under this subchapter shall receive an actual stamp—
+
+(1) by not later than the date on which the electronic stamp expires under [section 718s(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section718s/c&num=0&edition=prelim); and
+
+(2) in a manner agreed upon by the State and Secretary.
+
+**(b) Collection and transfer of electronic stamp revenue and customer information**
+
+(1) **Requirement to transmit** — The Secretary shall require each State authorized to issue electronic stamps to collect and submit to the Secretary in accordance with this section—
+
+  (A) the first name, last name, and complete mailing address of each individual that purchases an electronic stamp from the State;
+
+  (B) the face value amount of each electronic stamp sold by the State; and
+
+  (C) the amount of the Federal portion of any fee required by the agreement for each stamp sold.
+
+(2) **Time of transmittal** — The Secretary shall require the submission under paragraph (1) to be made with respect to sales of electronic stamps by a State according to the written agreement between the Secretary and the State agency.
+
+(3) **Additional fees not affected** — This section shall not apply to the State portion of any fee collected by a State under subsection (c).
+
+**(c) Electronic stamp issuance fee** A State authorized to issue electronic stamps may charge a reasonable fee to cover costs incurred by the State and the Department of the Interior in issuing electronic stamps under this subchapter, including costs of delivery of actual stamps.
+
+**(d) Duplicate electronic stamps** A State authorized to issue electronic stamps may issue a duplicate electronic stamp to replace an electronic stamp issued by the State that is lost or damaged.
+
+**(e) Limitation on authority to require purchase of State license** A State may not require that an individual purchase a State hunting license as a condition of issuing an electronic stamp under this subchapter.
+
+
+<a id="section-718s"></a>
+## § 718s. Electronic stamp requirements; recognition of electronic stamp
+**(a) Stamp requirements** The Secretary shall require an electronic stamp issued by a State under this subchapter—
+
+(1) to have the same format as any other license, validation, or privilege the State issues under the automated licensing system of the State; and
+
+(2) to specify identifying features of the licensee that are adequate to enable Federal, State, and other law enforcement officers to identify the holder.
+
+**(b) Recognition of electronic stamp** Any electronic stamp issued by a State under this subchapter shall, during the effective period of the electronic stamp—
+
+(1) bestow upon the licensee the same privileges as are bestowed by an actual stamp;
+
+(2) be recognized nationally as a valid Federal migratory bird hunting and conservation stamp; and
+
+(3) authorize the licensee to hunt migratory waterfowl in any other State, in accordance with the laws of the other State governing that hunting.
+
+**(c) Duration** An electronic stamp issued by a State shall be valid for a period agreed to by the State and the Secretary, which shall not exceed 45 days.
+
+
+<a id="section-718t"></a>
+## § 718t. Termination of State participation
+
+The authority of a State to issue electronic stamps under this subchapter may be terminated—
+
+(1) by the Secretary, if the Secretary—
+
+  (A) finds that the State has violated any of the terms of the application of the State approved by the Secretary under [section 718q of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718q); and
+
+  (B) provides to the State written notice of the termination by not later than the date that is 30 days before the date of termination; or
+
+(2) by the State, by providing written notice to the Secretary by not later than the date that is 30 days before the termination date.
 
 
 <a id="section-719"></a>

@@ -271,7 +271,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 (2) such audits are made available through the Department of State for inspection by the Comptroller General of the United States.
 
-**(b) First program audit** The first program audit pursuant to subsection (a)(1) of this section shall begin not later than June 1, 1986.
+**(b) First program audit** The first program audit pursuant to subsection (a)(1) shall begin not later than June 1, 1986.
 
 ### Statutory Notes
 

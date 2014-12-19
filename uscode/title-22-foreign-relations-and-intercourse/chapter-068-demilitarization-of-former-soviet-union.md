@@ -38,48 +38,11 @@ Pub. L. 102–484, div. A, title XIII, § 1321, Oct. 23, 1992, 106 Stat. 2549, p
 
 
 <a id="section-5902"></a>
-## § 5902. Authority for programs to facilitate demilitarization
-**(a) In general** Notwithstanding any other provision of law, the President is authorized, in accordance with this chapter, to establish and conduct programs described in subsection (b) of this section to assist the demilitarization of the independent states of the former Soviet Union.
-
-**(b) Types of programs** The programs referred to in subsection (a) of this section are limited to—
-
-(1) transporting, storing, safeguarding, and destroying nuclear, chemical, and other weapons of the independent states of the former Soviet Union, as described in section 212(b) of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228);
-
-(2) establishing verifiable safeguards against the proliferation of such weapons and their components;
-
-(3) preventing diversion of weapons-related scientific expertise of the former Soviet Union to terrorist groups or third countries;
-
-(4) facilitating the demilitarization of the defense industries of the former Soviet Union and the conversion of military technologies and capabilities into civilian activities;
-
-(5) establishing science and technology centers in the independent states of the former Soviet Union for the purpose of engaging weapons scientists, engineers, and other experts previously involved with nuclear, chemical, and other weapons in productive, nonmilitary undertakings; and
-
-(6) expanding military-to-military contacts between the United States and the independent states of the former Soviet Union.
-
-**(c) United States participation** The programs described in subsection (b) of this section should, to the extent feasible, draw upon United States technology and expertise, especially from the United States private sector.
-
-**(d) Restrictions** United States assistance authorized by subsection (a) of this section may not be provided unless the President certifies to the Congress, on an annual basis, that the proposed recipient country is committed to—
-
-(1) making a substantial investment of its resources for dismantling or destroying such weapons of mass destruction, if such recipient has an obligation under a treaty or other agreement to destroy or dismantle any such weapons;
-
-(2) forgoing any military modernization program that exceeds legitimate defense requirements and forgoing the replacement of destroyed weapons of mass destruction;
-
-(3) forgoing any use in new nuclear weapons of fissionable or other components of destroyed nuclear weapons;
-
-(4) facilitating United States verification of any weapons destruction carried out under this chapter or section 212 of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228);
-
-(5) complying with all relevant arms control agreements; and
-
-(6) observing internationally recognized human rights, including the protection of minorities.
+## § 5902. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(2), Dec. 19, 2014, 128 Stat. 3606
 
 ### Statutory Notes
 
-#### References in Text
-Section 212 of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228), referred to in subsecs. (b)(1) and (d)(4), is set out in a note under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551).
-
-#### Delegation of Authority
-Authority of President under subsec. (a) of this section delegated to Secretary of Defense by section 2 of Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under [section 5852 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5852).
-
-Authority of President under subsec. (d) of this section delegated to Secretary of State by section 1 of Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193.
+Section, Pub. L. 102–484, div. A, title XIV, § 1412, Oct. 23, 1992, 106 Stat. 2563, authorized the President to establish and conduct programs to assist the demilitarization of the independent states of the former Soviet Union.
 
 
 <a id="section-5911"></a>
@@ -112,33 +75,15 @@ Sections 108 and 109 of Public Law 102–229 (105 Stat. 1708), referred to in su
 Chapter 89 of title 10, referred to in subsec. (a)(1)(F), was repealed by Pub. L. 104–106, div. A, title X, § 1061(a)(1), Feb. 10, 1996, 110 Stat. 442.
 
 #### Codification
-Section is comprised of section 1421 of Pub. L. 102–484. Subsec. (a)(2) and (3) of section 1421 of Pub. L. 102–484 amended section 221 of Pub. L. 102–228 which is set out as a note under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551). Subsec. (b) of section 1421 of Pub. L. 102–484 amended sections 108 and 109 of Pub. L. 102–229 which are not classified to the Code.
+Section is comprised of section 1421 of Pub. L. 102–484. Subsec. (a)(2) and (3) of section 1421 of Pub. L. 102–484 amended section 221 of Pub. L. 102–228, which was set out in a note under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551) and was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606. Subsec. (b) of section 1421 of Pub. L. 102–484 amended sections 108 and 109 of Pub. L. 102–229, which are not classified to the Code.
 
 
 <a id="section-5921"></a>
-## § 5921. Prior notice to Congress of obligation of funds
-**(a) In general** Not less than 15 days before obligating any funds made available for a program under this chapter, the President shall transmit to the Congress a report on the proposed obligation. Each such report shall specify—
-
-(1) the account, budget activity, and particular program or programs from which the funds proposed to be obligated are to be derived and the amount of the proposed obligation; and
-
-(2) the activities and forms of assistance under this chapter for which the President plans to obligate such funds, including the projected involvement of United States Government departments and agencies and the United States private sector.
-
-**(b) Industrial demilitarization** Any report under subsection (a) of this section that covers proposed industrial demilitarization projects shall contain additional information to assist the Congress in determining the merits of the proposed projects. Such information shall include descriptions of—
-
-(1) the facilities to be demilitarized;
-
-(2) the types of activities conducted at those facilities and of the types of nonmilitary activities planned for those facilities;
-
-(3) the forms of assistance to be provided by the United States Government and by the United States private sector;
-
-(4) the extent to which military production capability will consequently be eliminated at those facilities; and
-
-(5) the mechanisms to be established for monitoring progress on those projects.
+## § 5921. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(2), Dec. 19, 2014, 128 Stat. 3606
 
 ### Statutory Notes
 
-#### Delegation of Authority
-Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under [section 5852 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5852).
+Section, Pub. L. 102–484, div. A, title XIV, § 1431, Oct. 23, 1992, 106 Stat. 2565, required the President to submit a report to Congress prior to obligating any funds for programs under this chapter.
 
 
 <a id="section-5922"></a>

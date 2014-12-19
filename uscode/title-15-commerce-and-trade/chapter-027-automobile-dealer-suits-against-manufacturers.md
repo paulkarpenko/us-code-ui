@@ -43,7 +43,7 @@ No provision of this chapter shall repeal, modify, or supersede, directly or ind
 <a id="section-1225"></a>
 ## § 1225. State laws as affected
 
-This chapter shall not invalidate any provision of the laws of any State except insofar as there is a direct conflict between an express provision of this chapter and an express provision of State law which can not 11 So in original. Should be “cannot”. be reconciled.
+This chapter shall not invalidate any provision of the laws of any State except insofar as there is a direct conflict between an express provision of this chapter and an express provision of State law which can not 11 So in original. Probably should be “cannot”. be reconciled.
 
 
 <a id="section-1226"></a>

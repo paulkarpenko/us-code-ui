@@ -12,7 +12,17 @@ source: >-
 ## § 14701. Selection of officers for continuation on the reserve active-status list
 **(a) Consideration for Continuation.—**
 
-(1) A reserve officer of the Army, Navy, Air Force, or Marine Corps who is required to be removed from the reserve active-status list under section 14505, 14506, or 14507 of this title may, subject to the needs of the service and to [section 14509 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14509), be considered for continuation on the reserve active-status list under regulations prescribed by the Secretary of Defense.
+(1)
+
+  (A) A reserve officer of the Army, Navy, Air Force, or Marine Corps described in subparagraph (B) who is required to be removed from the reserve active-status list under [section 14504 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14504), or a reserve officer of the Army, Navy, Air Force, or Marine Corps who is required to be removed from the reserve active-status list under section 14505, 14506, or 14507 of this title, may be considered for continuation on the reserve active-status list under regulations prescribed by the Secretary of Defense.
+
+  (B) A reserve officer covered by this subparagraph is a reserve officer of the Army, Air Force, or Marine Corps who holds the grade of first lieutenant, or a reserve officer of the Navy who holds the grade of lieutenant (junior grade), and who—
+
+    (i) is a health professions officer; or
+
+    (ii) is actively pursuing an undergraduate program of education leading to a baccalaureate degree.
+
+  (C) The consideration of a reserve officer for continuation on the reserve active-status list pursuant to this paragraph is subject to the needs of the service and to [section 14509 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14509).
 
 (2) A reserve officer who holds the grade of captain in the Army, Air Force, or Marine Corps or the grade of lieutenant in the Navy and who is subject to separation under [section 14513 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14513) may not be continued on the reserve active-status list under this subsection for a period which extends beyond the last day of the month in which the officer completes 20 years of commissioned service.
 
@@ -26,11 +36,23 @@ source: >-
 
 (7) Each officer who is continued on the reserve active-status list under this section, who is not subsequently promoted or continued on the active-status list, and whose name is not on a list of officers recommended for promotion to the next higher grade shall (unless sooner separated under another provision of law) be separated in accordance with section 14513 or 14514 of this title, as appropriate, upon the expiration of the period for which the officer was continued on the reserve active-status list.
 
-**(b) Regulations.—** The Secretary of Defense shall prescribe regulations for the administration of this section.
+**(b) Continuation of Health Professions Officers.—**
+
+(1) Notwithstanding subsection (a)(6), a health professions officer obligated to a period of service incurred under [section 16201 of this title](./chapter-1608-health-professions-stipend-program.md#section-16201) who is required to be removed from the reserve active-status list under section 14504, 14505, 14506, or 14507 of this title and who has not completed a service obligation incurred under [section 16201 of this title](./chapter-1608-health-professions-stipend-program.md#section-16201) shall be retained on the reserve active-status list until the completion of such service obligation and then discharged, unless sooner retired or discharged under another provision of law.
+
+(2) The Secretary concerned may waive the applicability of paragraph (1) to any officer if the Secretary determines that completion of the service obligation of that officer is not in the best interest of the service.
+
+(3) A health professions officer who is continued on the reserve active-status list under this subsection who is subsequently promoted or whose name is on a list of officers recommended for promotion to the next higher grade is not required to be discharged or retired upon completion of the officer’s service obligation. Such officer may continue on the reserve active-status list as other officers of the same grade unless separated under another provision of law.
+
+**(c) Regulations.—** The Secretary of Defense shall prescribe regulations for the administration of this section.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–291, § 511(a), designated existing provisions as subpar. (A), substituted “A reserve officer of the Army, Navy, Air Force, or Marine Corps described in subparagraph (B) who is required to be removed from the reserve active-status list under [section 14504 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14504), or a reserve officer of” for “A reserve officer of” and “of this title, may” for “of this title may, subject to the needs of the service and to [section 14509 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14509),”, and added subpars. (B) and (C).
+
+Subsecs. (b), (c). Pub. L. 113–291, § 511(b), added subsec. (b) and redesignated former subsec. (b) as (c).
+
 2003—Subsec. (a)(1). Pub. L. 108–136, § 511(a)(1)(A), substituted “under regulations prescribed by the Secretary of Defense” for “by a selection board convened under [section 14101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/b&num=0&edition=prelim)”.
 
 Subsec. (a)(6). Pub. L. 108–136, § 511(a)(1)(B), substituted “under regulations prescribed under paragraph (1)” for “as a result of the convening of a selection board under [section 14101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/b&num=0&edition=prelim)”.
@@ -94,16 +116,37 @@ Provisions similar to those in this section were contained in sections 3855(a), 
 
 <a id="section-14704"></a>
 ## § 14704. Selective early removal from the reserve active-status list
-**(a) Boards To Recommend Officers for Removal From Reserve Active-Status List.—** Whenever the Secretary of the military department concerned determines that there are in any reserve component under the jurisdiction of the Secretary too many officers in any grade and competitive category who have at least 30 years of service computed under [section 14706 of this title](./chapter-1409-continuation-of-officers-on-the-reserve-active-status-list-and-selective-early-removal.md#section-14706) or at least 20 years of service computed under [section 12732 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12732), the Secretary may convene a selection board under [section 14101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/b&num=0&edition=prelim) to consider all officers on that list who are in that grade and competitive category, and who have that amount of service, for the purpose of recommending officers by name for removal from the reserve active-status list, in the number specified by the Secretary by each grade and competitive category.
+**(a) Boards To Recommend Officers for Removal From Reserve Active-Status List.—**
 
-**(b) Separation of Officers Selected.—** In the case of an officer recommended for separation in the report of a board under subsection (a), the Secretary may separate the officer in accordance with [section 14514 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14514).
+(1) Whenever the Secretary of the military department concerned determines that there are in any reserve component under the jurisdiction of the Secretary too many officers in any grade and competitive category who have at least 30 years of service computed under [section 14706 of this title](./chapter-1409-continuation-of-officers-on-the-reserve-active-status-list-and-selective-early-removal.md#section-14706) or at least 20 years of service computed under [section 12732 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12732), the Secretary may convene a selection board under [section 14101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/b&num=0&edition=prelim) to consider officers on the reserve active-status list who are in that grade and competitive category, and who have that amount of service, for the purpose of recommending officers by name for removal from that list.
 
-**(c) Regulations.—** The Secretary of the military department concerned shall prescribe regulations for the administration of this section.
+(2) Except as provided in paragraph (3), the list of officers in a reserve component whose names are submitted to a board under paragraph (1) shall include each officer on the reserve active-status list for that reserve component in the same grade and competitive category whose position on the reserve active-status list is between—
+
+  (A) that of the most junior officer in that grade and competitive category whose name is submitted to the board; and
+
+  (B) that of the most senior officer in that grade and competitive category whose name is submitted to the board.
+
+(3) A list submitted to a board under paragraph (1) may not include an officer who—
+
+  (A) has been approved for voluntary retirement; or
+
+  (B) is to be involuntarily retired under any provision of law during the fiscal year in which the board is convened or during the following fiscal year.
+
+**(b) Specification of Number of Officers Who May Be Recommended for Separation.—** The Secretary of the military department concerned shall specify the number of officers described in subsection (a)(1) that a board may recommend for separation under subsection (c).
+
+**(c) Separation of Officers Selected.—** In the case of an officer recommended for separation in the report of a board under subsection (a), the Secretary may separate the officer in accordance with [section 14514 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14514).
+
+**(d) Regulations.—** The Secretary of the military department concerned shall prescribe regulations for the administration of this section.
 
 ### Statutory Notes
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3850 and 8850 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(3), (c)(3).
+
+#### Amendments
+2013—Subsec. (a). Pub. L. 113–66, § 503(b)(1), designated existing provisions as par. (1), substituted “officers on the reserve active-status list” for “all officers on that list” and “that list.” for “the reserve active-status list, in the number specified by the Secretary by each grade and competitive category.” in par. (1), and added pars. (2) and (3).
+
+Subsecs. (b) to (d). Pub. L. 113–66, § 503(b)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 
 <a id="section-14705"></a>

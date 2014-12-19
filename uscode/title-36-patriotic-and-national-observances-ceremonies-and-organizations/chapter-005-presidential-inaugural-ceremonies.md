@@ -197,15 +197,18 @@ The words “by the Council of the District of Columbia” and “the authority 
 
   (C) the name and address of the person making the donation.
 
-**(c) Limitation.—** The committee shall not accept any donation from a foreign national (as defined in section 319(b) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 441e(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441e/b&num=0&edition=prelim))).
+**(c) Limitation.—** The committee shall not accept any donation from a foreign national (as defined in section 319(b) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 441e(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441e/b&num=0&edition=prelim))).11 See References in Text note below.
 
 ### Statutory Notes
+
+#### References in Text
+The Federal Election Campaign Act of 1971, referred to in subsec. (c), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which was formerly classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§ 30101 et seq.) of Title 52. Section 319 of this Act is classified to [section 30121 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30121&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 A prior section 510 was renumbered [section 511 of this title](./chapter-005-presidential-inaugural-ceremonies.md#section-511).
 
 #### Effective Date
-Section effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Section effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-511"></a>
@@ -249,4 +252,4 @@ In subsection (a)(1)(A), the words “chapters 33 and 51 and subchapter III of c
 2002—Pub. L. 107–155 renumbered [section 510 of this title](./chapter-005-presidential-inaugural-ceremonies.md#section-510) as this section.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–155, effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 107–155, effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.

@@ -276,12 +276,17 @@ Richard Nixon.
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(4)
+Pub. L. 113–128, title V, §§ 506, 512(gg)(5), July 22, 2014, 128 Stat. 1703, 1720, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a)(4) of this section is amended by striking “Any employment or training program carried out under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “Any employment or training program carried out under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
+
 #### References in Text
 The Economic Opportunity Act of 1964, referred to in subsec. (a)(3), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
 
 #### Amendments
+2014—Subsec. (a)(4). Pub. L. 113–128 substituted “Any employment or training program carried out under title I of the Workforce Innovation and Opportunity Act” for “Any employment or training program carried out under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
+
 2000—Pub. L. 106–419 amended text generally. Prior to amendment, text read as follows: “Any (1) amounts received as pay or allowances by any person while serving on active duty, (2) period of time during which such person served on such active duty, and (3) amounts received under chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran, any amounts received by an eligible person under chapters 13 and 35 of such title, and any amounts received by an eligible person under chapter 106 of title 10, shall be disregarded in determining eligibility under any public service employment program, any emergency employment program, any job training program assisted under the Economic Opportunity Act of 1964, any employment or training program carried out under title I of the Workforce Investment Act of 1998, or any other employment or training (or related) program financed in whole or in part with Federal funds.”
 
 1998—Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(21)(C)], struck out “the Job Training Partnership Act or” after “program carried out under”.
@@ -299,6 +304,9 @@ Pub. L. 103–446, § 702(b)(1), which directed substitution of “chapters 11, 
 Pub. L. 102–54 substituted “the Job Training Partnership Act ([29 U.S.C. 1501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1501&num=0&edition=prelim) et seq.)” for “the Comprehensive Employment and Training Act”.
 
 1980—Pub. L. 96–466 substituted “Federal employment and” for “certain Federal manpower” in section catchline, and substituted “an eligible veteran” for “a veteran (as defined in [section 101(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/2&num=0&edition=prelim)) who served on active duty for a period of more than 180 days or was discharged or released from active duty for a service-connected disability” and “any employment or training program assisted under the Comprehensive Employment and Training Act, or any other employment or” for “any manpower training program assisted under the Manpower Development and Training Act of 1962, or any other man­power” in text.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(29)(C)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(21)(C)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.

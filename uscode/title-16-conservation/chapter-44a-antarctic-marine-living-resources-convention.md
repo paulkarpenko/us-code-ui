@@ -80,11 +80,6 @@ For purposes of this chapter—
 
 (11) **Vessel subject to the jurisdiction of the United States** — The term “vessel subject to the jurisdiction of the United States” includes a vessel without nationality or a vessel assimilated to a vessel without nationality, in accordance with paragraph (2) of Article 6 of the 1958 Convention on the High Seas.
 
-### Statutory Notes
-
-#### References in Text
-The customs laws of the United States, referred to in par. (7), are classified generally to Title 19, Customs Duties.
-
 
 <a id="section-2433"></a>
 ## § 2433. Representatives

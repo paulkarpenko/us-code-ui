@@ -135,7 +135,7 @@ Pub. L. 98–94, title X, § 1006, Sept. 24, 1983, 97 Stat. 661, provided that a
 
 (1) For the purpose of determining the grade and rank within grade of a person receiving an original appointment in a commissioned grade (other than a warrant officer grade) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps, such person shall be credited at the time of such appointment with any active commissioned service (other than service as a commissioned warrant officer) that he performed in any armed force, the National Oceanic and Atmospheric Administration, or the Public Health Service before such appointment.
 
-(2) The Secretary of Defense shall prescribe regulations, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, to authorize the Secretary of the military department concerned to limit the amount of prior active commissioned service with which a person receiving an original appointment may be credited under paragraph (1), or to deny any such credit, in the case of a person who at the time of such appointment is credited with constructive service under subsection (b).
+(2) The Secretary of Defense shall prescribe regulations, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, to authorize the Secretary of the military department concerned to limit the amount of prior active commissioned service with which a person receiving an original appointment may be credited under paragraph (1), or to deny any such credit, in the case of a person who at the time of such appointment is credited with constructive service under subsection (b) or (g).
 
 **(b)**
 
@@ -159,7 +159,7 @@ Pub. L. 98–94, title X, § 1006, Sept. 24, 1983, 97 Stat. 661, provided that a
 
 (3) Constructive service credited an officer under this subsection is in addition to any service credited that officer under subsection (a) and shall be credited at the time of the original appointment of the officer.
 
-**(c)** Constructive service credited an officer under subsection (b) shall be used only for determining the officer’s—
+**(c)** Constructive service credited an officer under subsection (b) or (g) shall be used only for determining the officer’s—
 
 (1) initial grade as a regular officer;
 
@@ -181,9 +181,29 @@ Pub. L. 98–94, title X, § 1006, Sept. 24, 1983, 97 Stat. 661, provided that a
 
 (2) in the case of an officer not on the active-duty list immediately before that appointment as a regular officer, be appointed in the same grade and with the same date of rank as the grade and date of rank which the officer would have held had the officer been serving on the active-duty list on the date of the appointment as a regular officer.
 
+**(g)**
+
+(1) Under regulations prescribed by the Secretary of Defense, if the Secretary of a military department determines that the number of commissioned officers with cyberspace-related experience or advanced education serving on active duty in an armed force under the jurisdiction of such Secretary is critically below the number needed, such Secretary may credit any person receiving an original appointment with a period of constructive service for the following:
+
+  (A) Special experience or training in a particular cyberspace-related field if such experience or training is directly related to the operational needs of the armed force concerned.
+
+  (B) Any period of advanced education in a cyberspace-related field beyond the baccalaureate degree level if such advanced education is directly related to the operational needs of the armed force concerned.
+
+(2) Constructive service credited an officer under this subsection shall not exceed one year for each year of special experience, training, or advanced education, and not more than three years total constructive service may be credited.
+
+(3) Constructive service credited an officer under this subsection is in addition to any service credited that officer under subsection (a) and shall be credited at the time of the original appointment of the officer.
+
+(4) The authority to award constructive service credit under this subsection expires on December 31, 2018.
+
 ### Statutory Notes
 
 #### Amendments
+2013—Subsec. (a)(2). Pub. L. 113–66, § 502(1), inserted “or (g)” after “subsection (b)”.
+
+Subsec. (c). Pub. L. 113–66, § 502(1), inserted “or (g)” after “subsection (b)” in introductory provisions.
+
+Subsec. (g). Pub. L. 113–66, § 502(2), added subsec. (g).
+
 1993—Subsec. (b)(1)(A). Pub. L. 103–160, § 509(a)(1), in second sentence, substituted “In determining” for “Except as provided in clause (E), in determining” and “advanced education required” for “postsecondary education in excess of four that are required”.
 
 Subsec. (b)(1)(E), (F). Pub. L. 103–160, § 509(a)(2), (3), redesignated subpar. (F) as (E) and struck out former subpar. (E) which read as follows: “Additional credit of one year for advanced education in a health profession if the number of years of baccalaureate education completed by 75 percent or more of the students entering advanced training in that health profession exceeds, by one or more, the minimum number of years of preprofessional education required by a majority of institutions which award degrees in that health profession. The percentage of such persons shall be computed on an annual basis for each health profession from the data for the year in which the person being appointed, designated, or assigned was admitted to a professional school. However, a person may not receive additional credit under this clause if the amount of his baccalaureate education does not exceed, by one or more, the minimum number of years of preprofessional education required by a majority of institutions which award degrees for that health profession, determined on the basis prescribed in the preceding sentence.”

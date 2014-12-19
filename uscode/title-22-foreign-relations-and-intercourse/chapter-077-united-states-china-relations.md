@@ -164,7 +164,7 @@ There is established a Congressional-Executive Commission on the People’s Repu
 
 (12) free choice of employment.
 
-**(b) Victims lists** The Commission shall compile and maintain lists of persons believed to be imprisoned, detained, or placed under house arrest, tortured, or otherwise persecuted by the Government of the People’s Republic of China due to their pursuit of the rights described in subsection (a) of this section. In compiling such lists, the Commission shall exercise appropriate discretion, including concerns regarding the safety and security of, and benefit to, the persons who may be included on the lists and their families.
+**(b) Victims lists** The Commission shall compile and maintain lists of persons believed to be imprisoned, detained, or placed under house arrest, tortured, or otherwise persecuted by the Government of the People’s Republic of China due to their pursuit of the rights described in subsection (a). In compiling such lists, the Commission shall exercise appropriate discretion, including concerns regarding the safety and security of, and benefit to, the persons who may be included on the lists and their families.
 
 **(c) Monitoring development of rule of law** The Commission shall monitor the development of the rule of law in the People’s Republic of China, including, but not limited to—
 
@@ -184,25 +184,25 @@ There is established a Congressional-Executive Commission on the People’s Repu
 
 **(d) Bilateral cooperation** The Commission shall monitor and encourage the development of programs and activities of the United States Government and private organizations with a view toward increasing the interchange of people and ideas between the United States and the People’s Republic of China and expanding cooperation in areas that include, but are not limited to—
 
-(1) increasing enforcement of human rights described in subsection (a) of this section; and
+(1) increasing enforcement of human rights described in subsection (a); and
 
 (2) developing the rule of law in the People’s Republic of China.
 
-**(e) Contacts with nongovernmental organizations** In performing the functions described in subsections (a) through (d) of this section, the Commission shall, as appropriate, seek out and maintain contacts with nongovernmental organizations, including receiving reports and updates from such organizations and evaluating such reports.
+**(e) Contacts with nongovernmental organizations** In performing the functions described in subsections (a) through (d), the Commission shall, as appropriate, seek out and maintain contacts with nongovernmental organizations, including receiving reports and updates from such organizations and evaluating such reports.
 
-**(f) Cooperation with Special Coordinator** In performing the functions described in subsections (a) through (d) of this section, the Commission shall cooperate with the Special Coordinator for Tibetan Issues in the Department of State.
+**(f) Cooperation with Special Coordinator** In performing the functions described in subsections (a) through (d), the Commission shall cooperate with the Special Coordinator for Tibetan Issues in the Department of State.
 
-**(g) Annual reports** The Commission shall issue a report to the President and the Congress not later than 12 months after October 10, 2000, and not later than the end of each 12-month period thereafter, setting forth the findings of the Commission during the preceding 12-month period, in carrying out subsections (a) through (c) of this section. The Commission’s report may contain recommendations for legislative or executive action.
+**(g) Annual reports** The Commission shall issue a report to the President and the Congress not later than 12 months after October 10, 2000, and not later than the end of each 12-month period thereafter, setting forth the findings of the Commission during the preceding 12-month period, in carrying out subsections (a) through (c). The Commission’s report may contain recommendations for legislative or executive action.
 
-**(h) Specific information in annual reports** The Commission’s report under subsection (g) of this section shall include—
+**(h) Specific information in annual reports** The Commission’s report under subsection (g) shall include—
 
-(1) specific information as to the nature and implementation of laws or policies concerning the rights set forth in paragraphs (1) through (12) of subsection (a) of this section, and as to restrictions applied to or discrimination against persons exercising any of the rights set forth in such paragraphs; and
+(1) specific information as to the nature and implementation of laws or policies concerning the rights set forth in paragraphs (1) through (12) of subsection (a), and as to restrictions applied to or discrimination against persons exercising any of the rights set forth in such paragraphs; and
 
 (2) a description of the status of negotiations between the Government of the People’s Republic of China and the Dalai Lama or his representatives, and measures taken to safeguard Tibet’s distinct historical, religious, cultural, and linguistic identity and the protection of human rights.
 
 **(i) Congressional hearings on annual reports**
 
-(1) The Committee on International Relations of the House of Representatives shall, not later than 30 days after the receipt by the Congress of the report referred to in subsection (g) of this section, hold hearings on the contents of the report, including any recommendations contained therein, for the purpose of receiving testimony from Members of Congress, and such appropriate representatives of Federal departments and agencies, and interested persons and groups, as the committee deems advisable, with a view to reporting to the House of Representatives any appropriate legislation in furtherance of such recommendations. If any such legislation is considered by the Committee on International Relations within 45 days after receipt by the Congress of the report referred to in subsection (g) of this section, it shall be reported by the committee not later than 60 days after receipt by the Congress of such report.
+(1) The Committee on International Relations of the House of Representatives shall, not later than 30 days after the receipt by the Congress of the report referred to in subsection (g), hold hearings on the contents of the report, including any recommendations contained therein, for the purpose of receiving testimony from Members of Congress, and such appropriate representatives of Federal departments and agencies, and interested persons and groups, as the committee deems advisable, with a view to reporting to the House of Representatives any appropriate legislation in furtherance of such recommendations. If any such legislation is considered by the Committee on International Relations within 45 days after receipt by the Congress of the report referred to in subsection (g), it shall be reported by the committee not later than 60 days after receipt by the Congress of such report.
 
 (2) The provisions of paragraph (1) are enacted by the Congress—
 
@@ -210,7 +210,7 @@ There is established a Congressional-Executive Commission on the People’s Repu
 
   (B) with full recognition of the constitutional right of the House to change the rules (so far as relating to the procedure of the House) at any time, in the same manner and to the same extent as in the case of any other rule of the House.
 
-**(j) Supplemental reports** The Commission may submit to the President and the Congress reports that supplement the reports described in subsection (g) of this section, as appropriate, in carrying out subsections (a) through (c) of this section.
+**(j) Supplemental reports** The Commission may submit to the President and the Congress reports that supplement the reports described in subsection (g), as appropriate, in carrying out subsections (a) through (c).
 
 ### Statutory Notes
 
@@ -286,7 +286,7 @@ In carrying out this subchapter, the Commission may require, by subpoena or othe
 (1) the Chairman shall be entitled to appoint and fix the pay of the staff director, and the Cochairman shall be entitled to appoint and fix the pay of the Cochairman’s senior staff member; and
 
 (2) the Chairman and Cochairman shall each have the authority to appoint, with the approval of the personnel and administration committee, at least four professional staff members who shall be responsible to the Chairman or the Cochairman (as the case may be) who appointed them.
-Subject to subsection (d) of this section, the personnel and administration committee may appoint and fix the pay of such other personnel as it considers desirable.
+Subject to subsection (d), the personnel and administration committee may appoint and fix the pay of such other personnel as it considers desirable.
 
 **(c) Staff appointments** All staff appointments shall be made without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and general schedule pay rates.
 
@@ -307,7 +307,12 @@ Subject to subsection (d) of this section, the personnel and administration comm
 <a id="section-6919"></a>
 ## § 6919. Printing and binding costs
 
-For purposes of costs relating to printing and binding, including the costs of personnel detailed from the Government Printing Office, the Commission shall be deemed to be a committee of the Congress.
+For purposes of costs relating to printing and binding, including the costs of personnel detailed from the Government Publishing Office, the Commission shall be deemed to be a committee of the Congress.
+
+### Statutory Notes
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 
 <a id="section-6931"></a>
@@ -376,7 +381,7 @@ The Trade Act of 1974, referred to in subsec. (c)(1), is Pub. L. 93–618, Jan. 
 ## § 6951. Report on compliance
 **(a) In general** Not later than 1 year after the entry into force of the Protocol of Accession of the People’s Republic of China to the WTO, and annually thereafter, the Trade Representative shall submit a report to Congress on compliance by the People’s Republic of China with commitments made in connection with its accession to the World Trade Organization, including both multilateral commitments and any bilateral commitments made to the United States.
 
-**(b) Public participation** In preparing the report described in subsection (a) of this section, the Trade Representative shall seek public participation by publishing a notice in the Federal Register and holding a public hearing.
+**(b) Public participation** In preparing the report described in subsection (a), the Trade Representative shall seek public participation by publishing a notice in the Federal Register and holding a public hearing.
 
 
 <a id="section-6961"></a>
@@ -429,7 +434,7 @@ There are authorized to be appropriated for fiscal year 2001, and each fiscal ye
 ## § 6965. Reports to Congress
 **(a) Frequency of reports** Not later than the date that is 1 year after October 10, 2000, and not later than the end of each 1-year period thereafter, the Task Force shall submit to the Congress a report on the work of the Task Force during the preceding 1-year period.
 
-**(b) Contents of reports** Each report under subsection (a) of this section shall set forth, at a minimum—
+**(b) Contents of reports** Each report under subsection (a) shall set forth, at a minimum—
 
 (1) the number of allegations of violations of [section 1307 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1307&num=0&edition=prelim) with respect to products of the Peoples’ 11 So in original. Probably should be “People’s”. Republic of China that were investigated during the preceding 1-year period;
 
@@ -581,7 +586,7 @@ Subsec. (b)(1). Pub. L. 107–228, § 121(b)(2), substituted “2001, 2002, and 
 
   (H) members of the Trade Deficit Review Commission as of October 30, 2000, shall serve as members of the Commission until such time as members are first appointed to the Commission under this paragraph.
 
-(4) **Retention of support** — The Commission shall retain and make use of such staff, materials, and infrastructure (including leased premises) of the Trade Deficit Review Commission as the Commission determines, in the judgment of the members of the Commission, are required to facilitate the ready commencement of activities of the Commission under subsection (c) of this section or to carry out such activities after the commencement of such activities.
+(4) **Retention of support** — The Commission shall retain and make use of such staff, materials, and infrastructure (including leased premises) of the Trade Deficit Review Commission as the Commission determines, in the judgment of the members of the Commission, are required to facilitate the ready commencement of activities of the Commission under subsection (c) or to carry out such activities after the commencement of such activities.
 
 (5) **Chairman and Vice Chairman** — The members of the Commission shall select a Chairman and Vice Chairman of the Commission from among the members of the Commission.
 
@@ -599,25 +604,27 @@ Subsec. (b)(1). Pub. L. 107–228, § 121(b)(2), substituted “2001, 2002, and 
 
 (2) **Contents of report** — Each report under paragraph (1) shall include, at a minimum, a full discussion of the following:
 
-  (A) The portion of trade in goods and services with the United States that the People’s Republic of China dedicates to military systems or systems of a dual nature that could be used for military purposes.
+  (A) The role of the People’s Republic of China in the proliferation of weapons of mass destruction and other weapon systems (including systems and technologies of a dual use nature), including actions the United States might take to encourage the People’s Republic of China to cease such practices.
 
-  (B) The acquisition by the People’s Republic of China of advanced military or dual-use technologies from the United States by trade (including procurement) and other technology transfers, especially those transfers, if any, that contribute to the proliferation of weapons of mass destruction or their delivery systems, or that undermine international agreements or United States laws with respect to nonproliferation.
+  (B) The qualitative and quantitative nature of the transfer of United States production activities to the People’s Republic of China, including the relocation of manufacturing, advanced technology and intellectual property, and research and development facilities, the impact of such transfers on the national security of the United States (including the dependence of the national security industrial base of the United States on imports from China), the economic security of the United States, and employment in the United States, and the adequacy of United States export control laws in relation to the People’s Republic of China.
 
-  (C) Any transfers, other than those identified under subparagraph (B), to the military systems of the People’s Republic of China made by United States firms and United States-based multinational corporations.
+  (C) The effects of the need for energy and natural resources in the People’s Republic of China on the foreign and military policies of the People’s Republic of China, the impact of the large and growing economy of the People’s Republic of China on world energy and natural resource supplies, prices, and the environment, and the role the United States can play (including through joint research and development efforts and technological assistance) in influencing the energy and natural resource policies of the People’s Republic of China.
 
-  (D) An analysis of the statements and writing of the People’s Republic of China officials and officially-sanctioned writings that bear on the intentions, if any, of the Government of the People’s Republic of China regarding the pursuit of military competition with, and leverage over, or cooperation with, the United States and the Asian allies of the United States.
+  (D) Foreign investment by the United States in the People’s Republic of China and by the People’s Republic of China in the United States, including an assessment of its economic and security implications, the challenges to market access confronting potential United States investment in the People’s Republic of China, and foreign activities by financial institutions in the People’s Republic of China.
 
-  (E) The military actions taken by the Government of the People’s Republic of China during the preceding year that bear on the national security of the United States and the regional stability of the Asian allies of the United States.
+  (E) The military plans, strategy and doctrine of the People’s Republic of China, the structure and organization of the People’s Republic of China military, the decision-making process of the People’s Republic of China military, the interaction between the civilian and military leadership in the People’s Republic of China, the development and promotion process for leaders in the People’s Republic of China military, deployments of the People’s Republic of China military, resources available to the People’s Republic of China military (including the development and execution of budgets and the allocation of funds), force modernization objectives and trends for the People’s Republic of China military, and the implications of such objectives and trends for the national security of the United States.
 
-  (F) The effects, if any, on the national security interests of the United States of the use by the People’s Republic of China of financial transactions and capital flow and currency manipulations.
+  (F) The strategic economic and security implications of the cyber capabilities and operations of the People’s Republic of China.
 
-  (G) Any action taken by the Government of the People’s Republic of China in the context of the World Trade Organization that is adverse or favorable to the United States national security interests.
+  (G) The national budget, fiscal policy, monetary policy, capital controls, and currency management practices of the People’s Republic of China, their impact on internal stability in the People’s Republic of China, and their implications for the United States.
 
-  (H) Patterns of trade and investment between the People’s Republic of China and its major trading partners, other than the United States, that appear to be substantively different from trade and investment patterns with the United States and whether the differences have any national security implications for the United States.
+  (H) The drivers, nature, and implications of the growing economic, technological, political, cultural, people-to-people, and security relations of the People’s Republic of China’s with other countries, regions, and international and regional entities (including multilateral organizations), including the relationship among the United States, Taiwan, and the People’s Republic of China.
 
-  (I) The extent to which the trade surplus of the People’s Republic of China with the United States enhances the military budget of the People’s Republic of China.
+  (I) The compliance of the People’s Republic of China with its commitments to the World Trade Organization, other multilateral commitments, bilateral agreements signed with the United States, commitments made to bilateral science and technology programs, and any other commitments and agreements strategic to the United States (including agreements on intellectual property rights and prison labor imports), and United States enforcement policies with respect to such agreements.
 
-  (J) An overall assessment of the state of the security challenges presented by the People’s Republic of China to the United States and whether the security challenges are increasing or decreasing from previous years.
+  (J) The implications of restrictions on speech and access to information in the People’s Republic of China for its relations with the United States in economic and security policy, as well as any potential impact of media control by the People’s Republic of China on United States economic interests.
+
+  (K) The safety of food, drug, and other products imported from China, the measures used by the People’s Republic of China Government and the United States Government to monitor and enforce product safety, and the role the United States can play (including through technical assistance) to improve product safety in the People’s Republic of China.
 
 (3) **Recommendations of report** — Each report under paragraph (1) shall also include recommendations for action by Congress or the President, or both, including specific recommendations for the United States to invoke Article XXI (relating to security exceptions) of the General Agreement on Tariffs and Trade 1994 with respect to the People’s Republic of China, as a result of any adverse impact on the national security interests of the United States.
 
@@ -672,6 +679,8 @@ The first day of the 107th Congress, referred to in subsec. (h), was Jan. 3, 200
 Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, and not as part of the U.S.-China Relations Act of 2000 which comprises this chapter.
 
 #### Amendments
+2014—Subsec. (c)(2). Pub. L. 113–291 added subpars. (A) to (K) and struck out former subpars. (A) to (J) which described required contents of report.
+
 2007—Subsec. (c)(1). Pub. L. 110–161 substituted “December” for “June”.
 
 2005—Subsec. (g). Pub. L. 109–108 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.”
@@ -704,6 +713,9 @@ Subsec. (e)(3). Pub. L. 107–67, § 645(a), inserted at end “The executive di
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim), War and National Defense.
 
 Pub. L. 108–7, div. P, § 2(b)(2), Feb. 20, 2003, 117 Stat. 552, provided that: “Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to the United States-China Security Review Commission shall be deemed to refer to the United States-China Economic and Security Review Commission.”
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–291, div. A, title XII, § 1259B(b), Dec. 19, 2014, 128 Stat. 3579, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 19, 2014], and shall apply with respect to annual reports submitted under section 1238(c) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 [[22 U.S.C. 7002(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7002/c&num=0&edition=prelim)] after such date of enactment.”
 
 #### Effective Date of 2003 Amendment
 Pub. L. 108–7, div. P, § 2(c)(3), Feb. 20, 2003, 117 Stat. 554, provided that: “This section [amending this section and enacting provisions set out as notes under this section] shall take effect on the date of enactment of this Act [Feb. 20, 2003].”

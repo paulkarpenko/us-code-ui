@@ -1013,6 +1013,15 @@ Another prior section 1411, Pub. L. 91–230, title VI, § 611, Apr. 13, 1970, 8
 #### Effective Date
 Subchapter effective July 1, 2005, see section 302(a) of Pub. L. 108–446, set out as a note under [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400).
 
+#### Effect of Reduction
+Pub. L. 113–235, div. G, title III, Dec. 16, 2014, 128 Stat. 2499, provided in part: “That the Secretary may, in any fiscal year in which a State’s allocation under section 611 [[20 U.S.C. 1411](./chapter-033-education-of-individuals-with-disabilities.md#section-1411)] is reduced in accordance with section 612(a)(18)(B) [[20 U.S.C. 1412(a)(18)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/B&num=0&edition=prelim)], reduce the amount a State may reserve under section 611(e)(1) [[20 U.S.C. 1411(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/e/1&num=0&edition=prelim)] by an amount that bears the same relation to the maximum amount described in that paragraph as the reduction under section 612(a)(18)(B) bears to the total allocation the State would have received in that fiscal year under section 611(d) [[20 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/d&num=0&edition=prelim)] in the absence of the reduction: Provided further, That the Secretary shall either reduce the allocation of funds under section 611 for any fiscal year following the fiscal year for which the State fails to comply with the requirement of section 612(a)(18)(A) [[20 U.S.C. 1412(a)(18)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/A&num=0&edition=prelim)] as authorized by section 612(a)(18)(B), or seek to recover funds under section 452 of the General Education Provisions Act ([20 U.S.C. 1234a](./chapter-031-general-provisions-concerning-education.md#section-1234a))”.
+
+Pub. L. 113–235, div. G, title III, Dec. 16, 2014, 128 Stat. 2499, provided in part: “That the amount by which a State’s allocation under section 611(d) of the IDEA [Individuals with Disabilities Education Act, [20 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/d&num=0&edition=prelim)] is reduced under section 612(a)(18)(B) [[20 U.S.C. 1412(a)(18)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/B&num=0&edition=prelim)] and the amounts distributed to States under the previous provisos in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years”.
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 113–76, div. H, title III, Jan. 17, 2014, 128 Stat. 394.
+
 
 <a id="section-1412"></a>
 ## § 1412. State eligibility

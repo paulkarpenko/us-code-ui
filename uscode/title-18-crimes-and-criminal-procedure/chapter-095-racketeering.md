@@ -74,12 +74,26 @@ and thereafter performs or attempts to perform—
 
 **(d)** If the offense under this section involves an act described in paragraph (1) or (3) of subsection (a) and also involves a pre-retail medical product (as defined in section 670), the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under subsection (a) is greater.
 
+**(e)**
+
+(1) This section shall not apply to a savings promotion raffle conducted by an insured depository institution or an insured credit union.
+
+(2) In this subsection—
+
+  (A) the term “insured credit union” shall have the meaning given the term in section 101 of the Federal Credit Union Act ([12 U.S.C. 1752](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1752&num=0&edition=prelim));
+
+  (B) the term “insured depository institution” shall have the meaning given the term in section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim)); and
+
+  (C) the term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 1002 of the Consumer Financial Protection Act of 2010 ([12 U.S.C. 5481](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5481&num=0&edition=prelim))).
+
 ### Statutory Notes
 
 #### References in Text
 Section 102(6) of the Controlled Substances Act, referred to in subsec. (b)(i)(1), is classified to [section 802(6) of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/6&num=0&edition=prelim), Food and Drugs.
 
 #### Amendments
+2014—Subsec. (e). Pub. L. 113–251 added subsec. (e).
+
 2012—Subsec. (d). Pub. L. 112–186 added subsec. (d).
 
 2002—Subsec. (c). Pub. L. 107–296 substituted “Attorney General” for “Secretary of the Treasury”.
@@ -122,17 +136,39 @@ Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any vi
 ## § 1953. Interstate transportation of wagering paraphernalia
 **(a)** Whoever, except a common carrier in the usual course of its business, knowingly carries or sends in interstate or foreign commerce any record, paraphernalia, ticket, certificate, bills, slip, token, paper, writing, or other device used, or to be used, or adapted, devised, or designed for use in (a) bookmaking; or (b) wagering pools with respect to a sporting event; or (c) in a numbers, policy, bolita, or similar game shall be fined under this title or imprisoned for not more than five years or both.
 
-**(b)** This section shall not apply to (1) parimutuel betting equipment, parimutuel tickets where legally acquired, or parimutuel materials used or designed for use at racetracks or other sporting events in connection with which betting is legal under applicable State law, or (2) the transportation of betting materials to be used in the placing of bets or wagers on a sporting event into a State in which such betting is legal under the statutes of that State, or (3) the carriage or transportation in interstate or foreign commerce of any newspaper or similar publication, or (4) equipment, tickets, or materials used or designed for use within a State in a lottery conducted by that State acting under authority of State law, or (5) the transportation in foreign commerce to a destination in a foreign country of equipment, tickets, or materials designed to be used within that foreign country in a lottery which is authorized by the laws of that foreign country.
+**(b)** This section shall not apply to (1) parimutuel betting equipment, parimutuel tickets where legally acquired, or parimutuel materials used or designed for use at racetracks or other sporting events in connection with which betting is legal under applicable State law, or (2) the transportation of betting materials to be used in the placing of bets or wagers on a sporting event into a State in which such betting is legal under the statutes of that State, or (3) the carriage or transportation in interstate or foreign commerce of any newspaper or similar publication, or (4) equipment, tickets, or materials used or designed for use within a State in a lottery conducted by that State acting under authority of State law, (5) equipment, tickets, or materials used or designed for use in a savings promotion raffle operated by an insured depository institution or an insured credit union, or (6) the transportation in foreign commerce to a destination in a foreign country of equipment, tickets, or materials designed to be used within that foreign country in a lottery which is authorized by the laws of that foreign country.
 
 **(c)** Nothing contained in this section shall create immunity from criminal prosecution under any laws of any State, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia.
 
-**(d)** For the purposes of this section (1) “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States; and (2) “foreign country” means any empire, country, dominion, colony, or protectorate, or any subdivision thereof (other than the United States, its territories or possessions).
+**(d)** For purposes of this section—
 
-**(e)** For the purposes of this section “lottery” means the pooling of proceeds derived from the sale of tickets or chances and allotting those proceeds or parts thereof by chance to one or more chance takers or ticket purchasers. “Lottery” does not include the placing or accepting of bets or wagers on sporting events or contests.
+(1) the term “foreign country” means any empire, country, dominion, colony, or protectorate, or any subdivision thereof (other than the United States, its territories or possessions);
+
+(2) the term “insured credit union” shall have the meaning given the term in section 101 of the Federal Credit Union Act ([12 U.S.C. 1752](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1752&num=0&edition=prelim));
+
+(3) the term “insured depository institution” shall have the meaning given the term in section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim));
+
+(4) the term “lottery”—
+
+  (A) means the pooling of proceeds derived from the sale of tickets or chances and allotting those proceeds or parts thereof by chance to one or more chance takers or ticket purchasers; and
+
+  (B) does not include the placing or accepting of bets or wagers on sporting events or contests;
+
+(5) the term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 1002 of the Consumer Financial Protection Act of 2010 ([12 U.S.C. 5481](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5481&num=0&edition=prelim))); and
+
+(6) the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–251, § 5(2)(A), substituted “(5) equipment, tickets, or materials used or designed for use in a savings promotion raffle operated by an insured depository institution or an insured credit union, or (6)” for “or (5)”.
+
+Subsecs. (d), (e). Pub. L. 113–251, § 5(2)(B), added subsec. (d) and struck out former subsecs. (d) and (e) which read as follows:
+
+“(d) For the purposes of this section (1) ‘State’ means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States; and (2) ‘foreign country’ means any empire, country, dominion, colony, or protectorate, or any subdivision thereof (other than the United States, its territories or possessions).
+
+“(e) For the purposes of this section ‘lottery’ means the pooling of proceeds derived from the sale of tickets or chances and allotting those proceeds or parts thereof by chance to one or more chance takers or ticket purchasers. ‘Lottery’ does not include the placing or accepting of bets or wagers on sporting events or contests.”
+
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
 1979—Subsec. (b)(5). Pub. L. 96–90, § 2(1), added cl. (5).
@@ -153,7 +189,9 @@ Whoever being—
 
 (3) an officer, counsel, agent, or employee of an employee organization any of whose members are covered by such plan; or
 
-(4) a person who, or an officer, counsel, agent, or employee of an organization which, provides benefit plan services to such plan receives or agrees to receive or solicits any fee, kickback, commission, gift, loan, money, or thing of value because of or with intent to be influenced with respect to, any of the actions, decisions, or other duties relating to any question or matter concerning such plan or any person who directly or indirectly gives or offers, or promises to give or offer, any fee, kickback, commission, gift, loan, money, or thing of value prohibited by this section, shall be fined under this title or imprisoned not more than three years, or both: Provided, That this section shall not prohibit the payment to or acceptance by any person of bona fide salary, compensation, or other payments made for goods or facilities actually furnished or for services actually performed in the regular course of his duties as such person, administrator, officer, trustee, custodian, counsel, agent, or employee of such plan, employer, employee organization, or organization providing benefit plan services to such plan. As used in this section, the term (a) “any employee welfare benefit plan” or “employee pension benefit plan” means any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974, and (b) “employee organization” and “administrator” as defined respectively in sections 3(4) and (3)(16) of the Employee Retirement Income Security Act of 1974.
+(4) a person who, or an officer, counsel, agent, or employee of an organization which, provides benefit plan services to such plan
+receives or agrees to receive or solicits any fee, kickback, commission, gift, loan, money, or thing of value because of or with intent to be influenced with respect to, any of the actions, decisions, or other duties relating to any question or matter concerning such plan or any person who directly or indirectly gives or offers, or promises to give or offer, any fee, kickback, commission, gift, loan, money, or thing of value prohibited by this section, shall be fined under this title or imprisoned not more than three years, or both: Provided, That this section shall not prohibit the payment to or acceptance by any person of bona fide salary, compensation, or other payments made for goods or facilities actually furnished or for services actually performed in the regular course of his duties as such person, administrator, officer, trustee, custodian, counsel, agent, or employee of such plan, employer, employee organization, or organization providing benefit plan services to such plan.
+As used in this section, the term (a) “any employee welfare benefit plan” or “employee pension benefit plan” means any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974, and (b) “employee organization” and “administrator” as defined respectively in sections 3(4) and (3)(16) of the Employee Retirement Income Security Act of 1974.
 
 ### Statutory Notes
 
@@ -195,22 +233,42 @@ Section effective 90 days after Mar. 20, 1962, see section 19 of Pub. L. 87–42
 
   (iii) has been or remains in substantially continuous operation for a period in excess of thirty days or has a gross revenue of $2,000 in any single day.
 
-(2) “gambling” includes but is not limited to pool-selling, bookmaking, maintaining slot machines, roulette wheels or dice tables, and conducting lotteries, policy, bolita or numbers games, or selling chances therein.
+(2) “insured credit union” shall have the meaning given the term in section 101 of the Federal Credit Union Act ([12 U.S.C. 1752](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1752&num=0&edition=prelim)).
 
-(3) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+(3) “insured depository institution” shall have the meaning given the term in section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim)).
+
+(4) “gambling” includes but is not limited to pool-selling, bookmaking, maintaining slot machines, roulette wheels or dice tables, and conducting lotteries, policy, bolita or numbers games, or selling chances therein.
+
+(5) “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 1002 of the Consumer Financial Protection Act of 2010 ([12 U.S.C. 5481](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5481&num=0&edition=prelim))).
+
+(6) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
 **(c)** If five or more persons conduct, finance, manage, supervise, direct, or own all or part of a gambling business and such business operates for two or more successive days, then, for the purpose of obtaining warrants for arrests, interceptions, and other searches and seizures, probable cause that the business receives gross revenue in excess of $2,000 in any single day shall be deemed to have been established.
 
 **(d)** Any property, including money, used in violation of the provisions of this section may be seized and forfeited to the United States. All provisions of law relating to the seizures, summary, and judicial forfeiture procedures, and condemnation of vessels, vehicles, merchandise, and baggage for violation of the customs laws; the disposition of such vessels, vehicles, merchandise, and baggage or the proceeds from such sale; the remission or mitigation of such forfeitures; and the compromise of claims and the award of compensation to informers in respect of such forfeitures shall apply to seizures and forfeitures incurred or alleged to have been incurred under the provisions of this section, insofar as applicable and not inconsistent with such provisions. Such duties as are imposed upon the collector of customs or any other person in respect to the seizure and forfeiture of vessels, vehicles, merchandise, and baggage under the customs laws shall be performed with respect to seizures and forfeitures of property used or intended for use in violation of this section by such officers, agents, or other persons as may be designated for that purpose by the Attorney General.
 
-**(e)** This section shall not apply to any bingo game, lottery, or similar game of chance conducted by an organization exempt from tax under paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1986, as amended, if no part of the gross receipts derived from such activity inures to the benefits of any private shareholder, member, or employee of such organization except as compensation for actual expenses incurred by him in the conduct of such activity.
+**(e)** This section shall not apply to—
+
+(1) any bingo game, lottery, or similar game of chance conducted by an organization exempt from tax under paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1986, as amended, if no part of the gross receipts derived from such activity inures to the benefits of any private shareholder, member, or employee of such organization except as compensation for actual expenses incurred by him in the conduct of such activity; or
+
+(2) any savings promotion raffle.
 
 ### Statutory Notes
 
 #### References in Text
-Paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1986, referred to in subsec. (e), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.
+Paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1986, referred to in subsec. (e)(1), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2014—Subsec. (b)(2), (3). Pub. L. 113–251, § 5(3)(A)(iii), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (6), respectively.
+
+Subsec. (b)(4). Pub. L. 113–251, § 5(3)(A)(i), redesignated par. (2) as (4).
+
+Subsec. (b)(5). Pub. L. 113–251, § 5(3)(A)(iv), added par. (5).
+
+Subsec. (b)(6). Pub. L. 113–251, § 5(3)(A)(ii), redesignated par. (3) as (6).
+
+Subsec. (e). Pub. L. 113–251, § 5(3)(B), substituted “This section shall not apply to—” for “This section shall not apply to any bingo”, inserted “(1) any bingo” before “game,”, substituted “activity; or” for “activity.”, and added par. (2).
+
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $20,000”.
 
 1986—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
@@ -346,11 +404,11 @@ Sections 804–809 of Pub. L. 91–452 established Commission on Review of Natio
   (C) any act or acts constituting a continuing criminal enterprise, as that term is defined in section 408 of the Controlled Substances Act ([21 U.S.C. 848](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section848&num=0&edition=prelim));
 
   (D) an offense under section 32 (relating to the destruction of aircraft), section 37 (relating to violence at international airports), section 115 (relating to influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member), section 152 (relating to concealment of assets; false oaths and claims; bribery), section 175c (relating to the variola virus), section 215 (relating to commissions or gifts for procuring loans), section 351 (relating to congressional or Cabinet officer assassination), any of sections 500 through 503 (relating to certain counterfeiting offenses), section 513 (relating to securities of States and private entities), section 541 (relating to goods falsely classified), section 542 (relating to entry of goods by means of false statements), section 545 (relating to smuggling goods into the United States), section 549 (relating to removing goods from Customs custody), section 554 (relating to smuggling goods from the United States), section 555 (relating to border tunnels), section 641 (relating to public money, property, or records), section 656 (relating to theft, embezzlement, or misapplication by bank officer or employee), section 657 (relating to lending, credit, and insurance institutions), section 658 (relating to property mortgaged or pledged to farm credit agencies), section 666 (relating to theft or bribery concerning programs receiving Federal funds), section 793, 794, or 798 (relating to espionage), section 831 (relating to prohibited transactions involving nuclear materials), section 844(f) or (i) (relating to destruction by explosives or fire of Government property or property affecting interstate or foreign commerce), section 875 (relating to interstate communications), section 922(l) (relating to the unlawful importation of firearms), section 924(n) (relating to firearms trafficking), section 956 (relating to conspiracy to kill, kidnap, maim, or injure certain property in a foreign country), section 1005 (relating to fraudulent bank entries), 1006 22 So in original. Probably should be preceded by “section”. (relating to fraudulent Federal credit institution entries), 1007 2 (relating to Federal Deposit Insurance transactions), 1014 2 (relating to fraudulent loan or credit applications), section 1030 (relating to computer fraud and abuse), 1032 2 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution), section 1111 (relating to murder), section 1114 (relating to murder of United States law enforcement officials), section 1116 (relating to murder of foreign officials, official guests, or internationally protected persons), section 1201 (relating to kidnaping), section 1203 (relating to hostage taking), section 1361 (relating to willful injury of Government property), section 1363 (relating to destruction of property within the special maritime and territorial jurisdiction), section 1708 (theft from the mail), section 1751 (relating to Presidential assassination), section 2113 or 2114 (relating to bank and postal robbery and theft), section 2252A (relating to child pornography) where the child pornography contains a visual depiction of an actual minor engaging in sexually explicit conduct, section 2260 (production of certain child pornography for importation into the United States), section 2280 (relating to violence against maritime navigation), section 2281 (relating to violence against maritime fixed platforms), section 2319 (relating to copyright infringement), section 2320 (relating to trafficking in counterfeit goods and services), section 2332 (relating to terrorist acts abroad against United States nationals), section 2332a (relating to use of weapons of mass destruction), section 2332b (relating to international terrorist acts transcending national boundaries), section 2332g (relating to missile systems designed to destroy aircraft), section 2332h (relating to radiological dispersal devices), section 2339A or 2339B (relating to providing material support to terrorists), section 2339C (relating to financing of terrorism), or section 2339D (relating to receiving military-type training from a foreign terrorist organization) of this title, [section 46502 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46502&num=0&edition=prelim), United States Code, a felony violation of the Chemical Diversion and Trafficking Act of 1988 (relating to precursor and essential chemicals), section 590 of the Tariff Act of 1930 ([19 U.S.C. 1590](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1590&num=0&edition=prelim)) (relating to aviation smuggling), section 422 of the Controlled Substances Act (relating to transportation of drug paraphernalia), section 38(c) (relating to criminal violations) of the Arms Export Control Act, section 11 (relating to violations) of the Export Administration Act of 1979, section 206 (relating to penalties) of the International Emergency Economic Powers Act, section 16 (relating to offenses and punishment) of the Trading with the Enemy Act, any felony violation of section 15 of the Food and Nutrition Act of 2008 (relating to supplemental nutrition assistance program benefits fraud) involving a quantity of benefits having a value of not less than $5,000, any violation of section 543(a)(1) of the Housing Act of 1949 (relating to equity skimming), any felony violation of the Foreign Agents Registration Act of 1938, any felony violation of the Foreign Corrupt Practices Act, or section 92 of the Atomic Energy Act of 1954 ([42 U.S.C. 2122](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2122&num=0&edition=prelim)) (relating to prohibitions governing atomic weapons) 33 So in original. Probably should be followed by a semicolon.
-environmental crimes
+  environmental crimes
 
-(E) a felony violation of the Federal Water Pollution Control Act ([33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.), the Ocean Dumping Act ([33 U.S.C. 1401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1401&num=0&edition=prelim) et seq.), the Act to Prevent Pollution from Ships ([33 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901&num=0&edition=prelim) et seq.), the Safe Drinking Water Act ([42 U.S.C. 300f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300f&num=0&edition=prelim) et seq.), or the Resources Conservation and Recovery Act ([42 U.S.C. 6901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) et seq.); or
+  (E) a felony violation of the Federal Water Pollution Control Act ([33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.), the Ocean Dumping Act ([33 U.S.C. 1401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1401&num=0&edition=prelim) et seq.), the Act to Prevent Pollution from Ships ([33 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901&num=0&edition=prelim) et seq.), the Safe Drinking Water Act ([42 U.S.C. 300f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300f&num=0&edition=prelim) et seq.), or the Resources Conservation and Recovery Act ([42 U.S.C. 6901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) et seq.); or
 
-(F) any act or activity constituting an offense involving a Federal health care offense;
+  (F) any act or activity constituting an offense involving a Federal health care offense;
 
 (8) the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States; and
 

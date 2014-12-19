@@ -2,7 +2,7 @@
 title: 10
 chapter: '134'
 heading: MISCELLANEOUS ADMINISTRATIVE PROVISIONS
-section_count: 28
+section_count: 30
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -41,6 +41,12 @@ Section 705 of Public Law 98–212, to be codified as [10 U.S.C. 2241(b)](https:
 
 #### Amendments
 2003—Subsec. (c). Pub. L. 108–136 added subsec. (c).
+
+#### Funds Prohibited for Support of Department or Agency in Arrears in Making Payment to Department of Defense
+Pub. L. 113–235, div. C, title VIII, § 8063, Dec. 16, 2014, 128 Stat. 2268, provided that: “During the current fiscal year and hereafter, none of the funds available to the Department of Defense may be used to provide support to another department or agency of the United States if such department or agency is more than 90 days in arrears in making payment to the Department of Defense for goods or services previously provided to such department or agency on a reimbursable basis: Provided, That this restriction shall not apply if the department is authorized by law to provide support to such department or agency on a nonreimbursable basis, and is providing the requested support pursuant to such authority: Provided further, That the Secretary of Defense may waive this restriction on a case-by-case basis by certifying in writing to the Committees on Appropriations of the House of Representatives and the Senate that it is in the national security interest to do so.”
+
+#### Public Financial Disclosure Required by Senior Mentor Advising Department of Defense
+Pub. L. 113–235, div. C, title VIII, § 8104, Dec. 16, 2014, 128 Stat. 2278, provided that: “None of the funds appropriated or otherwise made available by this Act [div. C of Pub. L. 113–235, see Tables for classification] and hereafter may be obligated or expended to pay a retired general or flag officer to serve as a senior mentor advising the Department of Defense unless such retired officer files a Standard Form 278 (or successor form concerning public financial disclosure under part 2634 of title 5, Code of Federal Regulations) to the Office of Government Ethics.”
 
 #### Limitation on Source of Funds for Certain Joint Cargo Aircraft Expenditures
 Pub. L. 110–417, [div. A], title II, § 216, Oct. 14, 2008, 122 Stat. 4387, provided that: “(a) Limitation.—Of the amounts appropriated pursuant to an authorization of appropriations in this Act [see Tables for classification] or otherwise made available for fiscal year 2009 or any fiscal year thereafter for the Army or the Air Force, the Secretary of the Army and the Secretary of the Air Force may fund relevant expenditures for the Joint Cargo Aircraft only through amounts made available for procurement or for research, development, test, and evaluation. “(b) Relevant Expenditures for the Joint Cargo Aircraft Defined.—In this section, the term ‘relevant expenditures for the Joint Cargo Aircraft’ means expenditures relating to—“(1) support equipment; “(2) initial spares; “(3) training simulators; “(4) systems engineering and management; and “(5) post-production modifications.”
@@ -348,13 +354,21 @@ Subsec. (a). Pub. L. 112–239, § 588(a), amended subsec. (a) generally. Prior 
 
 (2) The training courses attended by the foreign officers and officials, including a specification of which, if any, courses were conducted in foreign countries.
 
-(3) An assessment of the effectiveness of the program referred to in subsection (a) in increasing the cooperation of the governments of foreign countries with the United States in the global war on terrorism.
+(3) An assessment of the effectiveness of the program referred to in subsection (a), including engagement activities for program alumni, in increasing the cooperation of the governments of foreign countries with the United States in the global war on terrorism.
 
-(4) A discussion of any actions being taken to improve the program.
+(4) A discussion of any actions being taken to improve the program, including a list of any unfunded or unmet training requirements and requests.
+
+(5) A discussion and justification of how the program fits within the theater security priorities of each of the commanders of the geographic combatant commands.
 
 ### Statutory Notes
 
 #### Amendments
+2013—Subsec. (c)(3). Pub. L. 113–66, § 1032(a)(1), inserted “, including engagement activities for program alumni,” after “subsection (a)”.
+
+Subsec. (c)(4). Pub. L. 113–66, § 1032(a)(2), inserted “, including a list of any unfunded or unmet training requirements and requests” after “program”.
+
+Subsec. (c)(5). Pub. L. 113–66, § 1032(a)(3), added par. (5).
+
 2008—Subsec. (b). Pub. L. 110–417 substituted “$35,000,000” for “$25,000,000”.
 
 2006—Pub. L. 109–364, § 1204(d)(2), substituted “Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials” for “Authority to use appropriated funds for costs of attendance of foreign visitors under Regional Defense Counterterrorism Fellowship Program” in section catchline.
@@ -364,6 +378,9 @@ Subsec. (a). Pub. L. 109–364, § 1204(a), substituted “the education and tra
 Subsec. (b). Pub. L. 109–364, § 1204(b), (c), substituted “$25,000,000” for “$20,000,000” and inserted at end “Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.”
 
 Subsec. (c)(3). Pub. L. 109–364, § 1204(d)(1), substituted “program referred to in subsection (a)” for “Regional Defense Counterterrorism Fellowship Program”.
+
+#### Effective Date of 2013 Amendment
+Pub. L. 113–66, div. A, title X, § 1032(b), Dec. 26, 2013, 127 Stat. 850, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a report submitted for a fiscal year beginning after the date of the enactment of this Act [Dec. 26, 2013].”
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–417, [div. A], title XII, § 1209(b), Oct. 14, 2008, 122 Stat. 4627, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to fiscal years beginning on or after that date.”
@@ -422,6 +439,46 @@ Pub. L. 110–417, [div. A], title XII, § 1205(d), Oct. 14, 2008, 122 Stat. 462
 
 #### Guidance on Utilization of Authority
 Pub. L. 110–417, [div. A], title XII, § 1205(b), Oct. 14, 2008, 122 Stat. 4624, provided that: “(1) Submittal to congress.—Not later than 30 days after issuing the guidance required by [section 2249d(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2249d/e&num=0&edition=prelim), United States Code, as added by subsection (a), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth such guidance. “(2) Utilization of similar guidance.—In developing the guidance required by [section 2249d(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2249d/e&num=0&edition=prelim), United States Code, as so added, the Secretary may utilize applicable portions of the current guidance developed by the Secretary under subsection (f) of section 1207 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2419) for purposes of the exercise of the authority in such section 1207.”
+
+
+<a id="section-2249e"></a>
+## § 2249e. Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights
+**(a) In General.—**
+
+(1) Of the amounts made available to the Department of Defense, none may be used for any training, equipment, or other assistance for a unit of a foreign security force if the Secretary of Defense has credible information that the unit has committed a gross violation of human rights.
+
+(2) The Secretary of Defense shall, in consultation with the Secretary of State, ensure that prior to a decision to provide any training, equipment, or other assistance to a unit of a foreign security force full consideration is given to any credible information available to the Department of State relating to human rights violations by such unit.
+
+**(b) Exception.—** The prohibition in subsection (a)(1) shall not apply if the Secretary of Defense, after consultation with the Secretary of State, determines that the government of such country has taken all necessary corrective steps, or if the equipment or other assistance is necessary to assist in disaster relief operations or other humanitarian or national security emergencies.
+
+**(c) Waiver.—** The Secretary of Defense, after consultation with the Secretary of State, may waive the prohibition in subsection (a)(1) if the Secretary determines that the waiver is required by extraordinary circumstances.
+
+**(d) Procedures.—** The Secretary of Defense shall establish, and periodically update, procedures to ensure that any information in the possession of the Department of Defense about gross violations of human rights by units of foreign security forces is shared on a timely basis with the Department of State.
+
+**(e) Report.—** Not later than 15 days after the application of any exception under subsection (b) or the exercise of any waiver under subsection (c), the Secretary of Defense shall submit to the appropriate committees of Congress a report—
+
+(1) in the case of an exception under subsection (b), providing notice of the use of the exception and stating the grounds for the exception; and
+
+(2) in the case of a waiver under subsection (c), describing—
+
+  (A) the information relating to the gross violation of human rights;
+
+  (B) the extraordinary circumstances that necessitate the waiver;
+
+  (C) the purpose and duration of the training, equipment, or other assistance; and
+
+  (D) the United States forces and the foreign security force unit involved.
+
+**(f) Appropriate Committees of Congress Defined.—** In this section, the term “appropriate committees of Congress” means—
+
+(1) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
+
+(2) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
+
+### Statutory Notes
+
+#### Annual Reports
+Pub. L. 113–291, div. A, title XII, § 1204(b), Dec. 19, 2014, 128 Stat. 3533, provided that: “(1) In general.—Not later than March 31, 2015, and every March 31 thereafter through 2024, the Secretary of Defense shall submit to the appropriate committees of Congress a report setting forth for the preceding fiscal year the following:“(A) The total number of cases submitted for vetting for purposes of [section 2249e of title 10](./chapter-134-miscellaneous-administrative-provisions.md#section-2249e), United States Code (as added by subsection (a)), and the total number of such cases approved, or suspended or rejected for human rights reasons, non-human rights reasons, or administrative reasons. “(B) In the case of units rejected for non-human rights reasons, a detailed description of the reasons relating to the rejection. “(C) A description of the interagency processes that were used to evaluate compliance with requirements to conduct vetting. “(D) An addendum that includes any comments by the commanders of the combatant commands about the impact of [section 2249e of title 10](./chapter-134-miscellaneous-administrative-provisions.md#section-2249e), United States Code (as so added), on their theater security cooperation plan. “(E) Such other matters with respect to the administration of [section 2249e of title 10](./chapter-134-miscellaneous-administrative-provisions.md#section-2249e), United States Code (as so added), as the Secretary considers appropriate. “(2) Form.—Each report under this subsection shall be submitted in unclassified form, but may include a classified annex. “(3) Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ has the meaning given that term in subsection (f) of [section 2249e of title 10](./chapter-134-miscellaneous-administrative-provisions.md#section-2249e), United States Code (as so added).”
 
 
 <a id="section-2251"></a>
@@ -763,3 +820,21 @@ The resolution of ratification of the Protocols to the North Atlantic Treaty of 
 
 #### Effective Date
 Pub. L. 110–417, [div. A], title X, § 1004(b), Oct. 14, 2008, 122 Stat. 4583, provided that: “The amendments made by this section [enacting this section] shall take effect on October 1, 2008, and shall apply to fiscal years that begin on or after that date.”
+
+
+<a id="section-2264"></a>
+## § 2264. Reimbursement for assistance provided to nongovernmental entertainment-oriented media producers
+**(a) In General.—** There shall be credited to the applicable appropriations account or fund from which the expenses described in subsection (b) were charged any amounts received by the Department of Defense as reimbursement for such expenses.
+
+**(b) Description of Expenses.—** The expenses referred to in subsection (a) are any expenses—
+
+(1) incurred by the Department of Defense as a result of providing assistance to a nongovernmental entertainment-oriented media producer;
+
+(2) for which the Department of Defense requires reimbursement under [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim) or any other provision of law; and
+
+(3) for which the Department of Defense received reimbursement after the date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015, referred to in subsec. (b)(3), is the date of the enactment of Pub. L. 113–291, which was approved Dec. 19, 2014.

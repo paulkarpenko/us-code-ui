@@ -207,7 +207,7 @@ George Bush.
 
   (A) *Deal in* — The term “deal in” includes making, taking, buying, selling, redeeming, or collecting.
 
-  (B) *Lottery* — The term “lottery” includes any arrangement under which—
+  (B) *Lottery* — The term “lottery” includes any arrangement, other than a savings promotion raffle, under which—
 
     (i) 3 or more persons (hereafter in this subparagraph referred to as the “participants”) advance money or credit to another in exchange for the possibility or expectation that 1 or more but not all of the participants (hereafter in this paragraph referred to as the “winners”) will receive by reason of those participants’ advances more than the amounts those participants have advanced; and
 
@@ -220,6 +220,8 @@ George Bush.
       (III) any record or tabulation of the result of 1 or more events in which any participant has no interest except for the bearing that event has on the possibility that the participant may become a winner.
 
   (C) *Lottery ticket* — The term “lottery ticket” includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
+
+  (D) *Savings promotion raffle* — The term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in [section 5481 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5481)).
 
 (4) **Exception for State lotteries** — Paragraphs (1) and (2) shall not apply with respect to any savings association accepting funds from, or performing any lawful services for, any State operating a lottery, or any officer or employee of such a State who is charged with administering the lottery.
 
@@ -249,6 +251,10 @@ A prior section 1463a, act Apr. 27, 1934, ch. 168, § 1(b), 48 Stat. 644, provid
 A prior section 1463b, act Apr. 27, 1934, ch. 168, § 9, 48 Stat. 646, related to purchase of obligations of, and loans to, Federal Home Loan Banks, prior to repeal by act May 28, 1935, ch. 150, § 17(b), 49 Stat. 297.
 
 #### Amendments
+2014—Subsec. (e)(3)(B). Pub. L. 113–251, § 3(d)(1), inserted “, other than a savings promotion raffle,” after “arrangement” in introductory provisions.
+
+Subsec. (e)(3)(D). Pub. L. 113–251, § 3(d)(2), added subpar. (D).
+
 2010—Subsec. (a). Pub. L. 111–203, § 369(4)(A)(i), struck out “Federal” before “savings” in heading.
 
 Subsec. (a)(1), (2). Pub. L. 111–203, § 369(4)(A)(ii), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
@@ -312,11 +318,11 @@ giving primary consideration of the best practices of thrift institutions in the
 
 (3) **Loans from State housing finance agencies**
 
-  (A) *In general* — Subject to regulation by the Comptroller of the Currency but without regard to any other provision of this subsection, any Federal savings association that is in compliance with the capital standards in effect under subsection (t) of this section may borrow funds from a State mortgage finance agency of the State in which the head office of such savings association is situated to the same extent as State law authorizes a savings association organized under the laws of such State to borrow from the State mortgage finance agency.
+  (A) *In general* — Subject to regulation by the Comptroller of the Currency but without regard to any other provision of this subsection, any Federal savings association that is in compliance with the capital standards in effect under subsection (t) may borrow funds from a State mortgage finance agency of the State in which the head office of such savings association is situated to the same extent as State law authorizes a savings association organized under the laws of such State to borrow from the State mortgage finance agency.
 
   (B) *Interest rate* — A Federal savings association may not make any loan of funds borrowed under subparagraph (A) at an interest rate which exceeds by more than 1¾ percent per annum the interest rate paid to the State mortgage finance agency on the obligations issued to obtain the funds so borrowed.
 
-(4) **Mutual capital certificates** — In accordance with regulations issued by the Comptroller of the Currency, mutual capital certificates may be issued and sold directly to subscribers or through underwriters. Such certificates may be included in calculating capital for the purpose of subsection (t) of this section to the extent permitted by the Comptroller of the Currency. The issuance of certificates under this paragraph does not constitute a change of control or ownership under this chapter or any other law unless there is in fact a change in control or reorganization. Regulations relating to the issuance and sale of mutual capital certificates shall provide that such certificates—
+(4) **Mutual capital certificates** — In accordance with regulations issued by the Comptroller of the Currency, mutual capital certificates may be issued and sold directly to subscribers or through underwriters. Such certificates may be included in calculating capital for the purpose of subsection (t) to the extent permitted by the Comptroller of the Currency. The issuance of certificates under this paragraph does not constitute a change of control or ownership under this chapter or any other law unless there is in fact a change in control or reorganization. Regulations relating to the issuance and sale of mutual capital certificates shall provide that such certificates—
 
   (A) are subordinate to all savings accounts, savings certificates, and debt obligations;
 
@@ -400,9 +406,9 @@ giving primary consideration of the best practices of thrift institutions in the
 
   (B) *Nonresidential real property loans*
 
-    (i) *In general* — Loans on the security of liens upon nonresidential real property. Except as provided in clause (ii), the aggregate amount of such loans shall not exceed 400 percent of the Federal savings association’s capital, as determined under subsection (t) of this section.
+    (i) *In general* — Loans on the security of liens upon nonresidential real property. Except as provided in clause (ii), the aggregate amount of such loans shall not exceed 400 percent of the Federal savings association’s capital, as determined under subsection (t).
 
-    (ii) *Exception* — The Comptroller may permit a savings association to exceed the limitation set forth in clause (i) if the Director determines that the increased authority—
+    (ii) *Exception* — The Comptroller may permit a savings association to exceed the limitation set forth in clause (i) if the Comptroller determines that the increased authority—
 
       (I) poses no significant risk to the safe and sound operation of the association, and
 
@@ -433,7 +439,7 @@ giving primary consideration of the best practices of thrift institutions in the
 
 (4) **Other loans and investments** — The following additional loans and other investments to the extent authorized below:
 
-  (A) *Business development credit corporations* — A Federal savings association that is in compliance with the capital standards prescribed under subsection (t) of this section may invest in, lend to, or to 22 So in original. commit itself to lend to, any business development credit corporation incorporated in the State in which the home office of the association is located in the same manner and to the same extent as savings associations chartered by such State are authorized. The aggregate amount of such investments, loans, and commitments of any such Federal savings association shall not exceed one-half of 1 percent of the association’s total outstanding loans or $250,000, whichever is less.
+  (A) *Business development credit corporations* — A Federal savings association that is in compliance with the capital standards prescribed under subsection (t) may invest in, lend to, or to 22 So in original. commit itself to lend to, any business development credit corporation incorporated in the State in which the home office of the association is located in the same manner and to the same extent as savings associations chartered by such State are authorized. The aggregate amount of such investments, loans, and commitments of any such Federal savings association shall not exceed one-half of 1 percent of the association’s total outstanding loans or $250,000, whichever is less.
 
   (B) *Service corporations* — Investments in the capital stock, obligations, or other securities of any corporation organized under the laws of the State in which the Federal savings association’s home office is located, if such corporation’s entire capital stock is available for purchase only by savings associations of such State and by Federal associations having their home offices in such State. No Federal savings association may make any investment under this subparagraph if the association’s aggregate outstanding investment under this subparagraph would exceed 3 percent of the association’s assets. Not less than one-half of the investment permitted under this subparagraph which exceeds 1 percent of the association’s assets shall be used primarily for community, inner-city, and community development purposes.
 
@@ -708,7 +714,7 @@ giving primary consideration of the best practices of thrift institutions in the
 
   (A) In addition to the authority conferred by other law, if, in the opinion of the Comptroller, a Federal savings association is unlawfully or unsoundly exercising, or has unlawfully or unsoundly exercised, or has failed for a period of 5 consecutive years to exercise, the powers granted by this subsection or otherwise fails or has failed to comply with the requirements of this subsection, the Comptroller may issue and serve upon the association a notice of intent to revoke the authority of the association to exercise the powers granted by this subsection. The notice shall contain a statement of the facts constituting the alleged unlawful or unsound exercise of powers, or failure to exercise powers, or failure to comply, and shall fix a time and place at which a hearing will be held to determine whether an order revoking authority to exercise such powers should issue against the association.
 
-  (B) Such hearing shall be conducted in accordance with the provisions of subsection (d)(1)(B) of this section, and subject to judicial review as therein provided, and shall be fixed for a date not earlier than 30 days and not later than 60 days after service of such notice unless the Comptroller sets an earlier or later date at the request of any Federal savings association so served.
+  (B) Such hearing shall be conducted in accordance with the provisions of subsection (d)(1)(B), and subject to judicial review as therein provided, and shall be fixed for a date not earlier than 30 days and not later than 60 days after service of such notice unless the Comptroller sets an earlier or later date at the request of any Federal savings association so served.
 
   (C) Unless the Federal savings association so served shall appear at the hearing by a duly authorized representative, it shall be deemed to have consented to the issuance of the revocation order. In the event of such consent, or if upon the record made at any such hearing, the Comptroller shall find that any allegation specified in the notice of charges has been established, the Comptroller may issue and serve upon the association an order prohibiting it from accepting any new or additional trust accounts and revoking authority to exercise any and all powers granted by this subsection, except that such order shall permit the association to continue to service all previously accepted trust accounts pending their expeditious divestiture or termination.
 
@@ -802,9 +808,9 @@ giving primary consideration of the best practices of thrift institutions in the
 
   (B) using such other methods as the Comptroller of the Currency determines to be appropriate.
 
-(2) **Minimum capital levels may be determined by Comptroller of the Currency case-by-case** — The Comptroller of the Currency may, consistent with subsection (t) of this section, establish the minimum level of capital for a savings association at such amount or at such ratio of capital-to-assets as the Comptroller of the Currency determines to be necessary or appropriate for such association in light of the particular circumstances of the association.
+(2) **Minimum capital levels may be determined by Comptroller of the Currency case-by-case** — The Comptroller of the Currency may, consistent with subsection (t), establish the minimum level of capital for a savings association at such amount or at such ratio of capital-to-assets as the Comptroller of the Currency determines to be necessary or appropriate for such association in light of the particular circumstances of the association.
 
-(3) **Unsafe or unsound practice** — In the discretion of the appropriate Federal banking agency, the appropriate Federal banking agency,66 So in original. The comma probably should not appear. may treat the failure of any savings association to maintain capital at or above the minimum level required by the Comptroller under this subsection or subsection (t) of this section as an unsafe or unsound practice.
+(3) **Unsafe or unsound practice** — In the discretion of the appropriate Federal banking agency, the appropriate Federal banking agency,66 So in original. The comma probably should not appear. may treat the failure of any savings association to maintain capital at or above the minimum level required by the Comptroller under this subsection or subsection (t) as an unsafe or unsound practice.
 
 (4) **Directive to increase capital**
 
@@ -968,7 +974,7 @@ giving primary consideration of the best practices of thrift institutions in the
 
     (ii) To develop domestic residential housing units, not to exceed the lesser of $30,000,000 or 30 percent of the savings association’s unimpaired capital and unimpaired surplus, if—
 
-      (I) the savings association is and continues to be in compliance with the fully phased-in capital standards prescribed under subsection (t) of this section;
+      (I) the savings association is and continues to be in compliance with the fully phased-in capital standards prescribed under subsection (t);
 
       (II) the appropriate Federal banking agency, by order, permits the savings association to avail itself of the higher limit provided by this clause;
 
@@ -1052,7 +1058,7 @@ giving primary consideration of the best practices of thrift institutions in the
 
   (B) *Conviction of title 31 offenses* — If a Federal savings association is convicted of any criminal offense under section 5322 or 5324 of title 31 after receiving written notification from the Attorney General, the Comptroller may issue to the savings association a notice of the intention of the Comptroller to terminate all rights, privileges, and franchises of the savings association and schedule a pretermination hearing.
 
-  (C) *Judicial review* — Subsection (d)(1)(B)(vii) of this section shall apply to any proceeding under this subsection.
+  (C) *Judicial review* — Subsection (d)(1)(B)(vii) shall apply to any proceeding under this subsection.
 
 (2) **Factors to be considered** — In determining whether a franchise shall be forfeited under paragraph (1), the Comptroller shall take into account the following factors:
 
@@ -1693,7 +1699,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 Pub. L. 97–457, § 14(a)(2), Jan. 12, 1983, 96 Stat. 2508, provided that: “The amendment made by paragraph (1) [amending this section] shall be deemed to have taken effect upon the enactment of Public Law 97–320 [Oct. 15, 1982].”
 
 #### Effective and Termination Dates of 1982 Amendment
-Prior to its repeal by section 509(a) of Pub. L. 100–86, Pub. L. 97–320, title I, § 141, Oct. 15, 1982, 96 Stat. 1488, as amended by Pub. L. 99–120, § 6(a), Oct. 8, 1985, 99 Stat. 504; Pub. L. 99–278, § 1(a), Apr. 24, 1986, 100 Stat. 397; Pub. L. 99–400, § 1(a), Aug. 27, 1986, 100 Stat. 902; Pub. L. 99–452, § 1(a), Oct. 8, 1986, 100 Stat. 1140, provided that: “(a) Effective on October 13, 1986— “(1) section 13(c)(5) of the Federal Deposit Insurance Act [[section 1823(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1823/c/5&num=0&edition=prelim)], as added by section 111 of this Act, shall be repealed; “(2) subparagraphs (F) and (G) of section 5(o)(2) of the Home Owners’ Loan Act of 1933 [section 1464(o)(2) of this title], as added by section 112 of this Act, shall be repealed; “(3) the provision of law amended by section 116 of this Act [[section 1823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1823/f&num=0&edition=prelim)] shall be amended to read as it would without such amendment; “(4) the provisions of law amended by subsections (a) [[section 1843(c)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/c/8&num=0&edition=prelim)] and (c) [[section 1842(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1842/d&num=0&edition=prelim)] of section 118 shall be amended to read as they would without such amendments; “(5) the provision of law amended by section 121 of this Act [[section 1464(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1464/p&num=0&edition=prelim)] shall be amended to read as it would without such amendment; “(6) the provisions of law amended by subsections (d) through (g) of section 122 of this Act [section 1729(c), (d) of this title] shall be amended to read as they would without such amendments; “(7) the provisions of law amended by section 123 of this Act [section 1730a(e)(2), (m) of this title] shall be amended to read as they would without such amendments; and “(8) the provisions of law amended by sections 131 [section 1785(h), (i) of this title] and 132 [section 1786(b)(2), (h)–(p) of this title] shall be amended to read as they would without such amendments. “(b) The repeal or termination by subsection (a) of any amendment made by this Act shall have no effect on any action taken or authorized while such amendment was in effect.”
+Prior to its repeal by section 509(a) of Pub. L. 100–86, Pub. L. 97–320, title I, § 141, Oct. 15, 1982, 96 Stat. 1488, as amended by Pub. L. 99–120, § 6(a), Oct. 8, 1985, 99 Stat. 504; Pub. L. 99–278, § 1(a), Apr. 24, 1986, 100 Stat. 397; Pub. L. 99–400, § 1(a), Aug. 27, 1986, 100 Stat. 902; Pub. L. 99–452, § 1(a), Oct. 8, 1986, 100 Stat. 1140, provided that: “(a) Effective on October 13, 1986—“(1) section 13(c)(5) of the Federal Deposit Insurance Act [[section 1823(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1823/c/5&num=0&edition=prelim)], as added by section 111 of this Act, shall be repealed; “(2) subparagraphs (F) and (G) of section 5(o)(2) of the Home Owners’ Loan Act of 1933 [section 1464(o)(2) of this title], as added by section 112 of this Act, shall be repealed; “(3) the provision of law amended by section 116 of this Act [[section 1823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1823/f&num=0&edition=prelim)] shall be amended to read as it would without such amendment; “(4) the provisions of law amended by subsections (a) [[section 1843(c)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/c/8&num=0&edition=prelim)] and (c) [[section 1842(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1842/d&num=0&edition=prelim)] of section 118 shall be amended to read as they would without such amendments; “(5) the provision of law amended by section 121 of this Act [[section 1464(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1464/p&num=0&edition=prelim)] shall be amended to read as it would without such amendment; “(6) the provisions of law amended by subsections (d) through (g) of section 122 of this Act [section 1729(c), (d) of this title] shall be amended to read as they would without such amendments; “(7) the provisions of law amended by section 123 of this Act [section 1730a(e)(2), (m) of this title] shall be amended to read as they would without such amendments; and “(8) the provisions of law amended by sections 131 [section 1785(h), (i) of this title] and 132 [section 1786(b)(2), (h)–(p) of this title] shall be amended to read as they would without such amendments. “(b) The repeal or termination by subsection (a) of any amendment made by this Act shall have no effect on any action taken or authorized while such amendment was in effect.”
 
 #### Effective Date of 1980 Amendment
 Pub. L. 96–221, title III, § 306, Mar. 31, 1980, 94 Stat. 147, provided that: “The amendments made by sections 302, 304, and 305 of this title [amending this section and sections 371a, 1752, 1757, 1763, 1785, and 1828 of this title] shall take effect at the close of March 31, 1980, and the amendments made by [section 303 of this title](./chapter-003-federal-reserve-system.md#section-303) [amending [section 1832 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1832)] shall take effect on December 31, 1980.”
@@ -1834,7 +1840,7 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 (1) **In general** — Subject to paragraph (2), if any affiliate of any savings association—
 
-  (A) refuses to pay any assessment under subsection (b) of this section; or
+  (A) refuses to pay any assessment under subsection (b); or
 
   (B) fails to pay any such assessment before the end of the 60-day period beginning on the date of the assessment,
   the appropriate Federal banking agency may assess such cost against, and collect such cost from, such savings association.
@@ -1863,15 +1869,15 @@ Such regulations may establish formulas to determine a fee or schedule of fees t
 
 **(g) Costs of other examinations**
 
-(1) **Examination of fiduciary activities** — In addition to any assessment imposed pursuant to subsection (a) of this section, the cost of conducting examinations of fiduciary activities of savings associations which exercise fiduciary powers (including savings associations or similar institutions in the District of Columbia) shall be assessed by the appropriate Federal banking agency against such savings associations (or similar institutions).
+(1) **Examination of fiduciary activities** — In addition to any assessment imposed pursuant to subsection (a), the cost of conducting examinations of fiduciary activities of savings associations which exercise fiduciary powers (including savings associations or similar institutions in the District of Columbia) shall be assessed by the appropriate Federal banking agency against such savings associations (or similar institutions).
 
-(2) **Examinations in excess of 2 per calendar year** — If any savings association or affiliate of a savings association is examined by the appropriate Federal banking agency for the savings association more than 2 times in any calendar year, the cost of conducting such additional examinations shall be assessed, in addition to any assessment imposed pursuant to subsection (a) of this section, by the appropriate Federal banking agency or the Corporation, as the case may be, against such savings association or affiliate.
+(2) **Examinations in excess of 2 per calendar year** — If any savings association or affiliate of a savings association is examined by the appropriate Federal banking agency for the savings association more than 2 times in any calendar year, the cost of conducting such additional examinations shall be assessed, in addition to any assessment imposed pursuant to subsection (a), by the appropriate Federal banking agency or the Corporation, as the case may be, against such savings association or affiliate.
 
 **(h) Additional information** Any savings association and any affiliate of any savings association shall provide the appropriate Federal banking agency with access to any information or report with respect to any examination made by any public regulatory authority and furnish any additional information with respect thereto as the appropriate Federal banking agency may require.
 
 **(i) Treatment of examination assessments**
 
-(1) **Deposits** — Amounts received by the appropriate Federal banking agency from assessments under this section (other than an assessment under subsection (d)(2) of this section) or [section 1467a(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a/b/4&num=0&edition=prelim) may be deposited in the manner provided in section 5234 of the Revised Statutes [[12 U.S.C. 192](./chapter-002-national-banks.md#section-192)] with respect to assessments by the Comptroller of the Currency.
+(1) **Deposits** — Amounts received by the appropriate Federal banking agency from assessments under this section (other than an assessment under subsection (d)(2)) or [section 1467a(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a/b/4&num=0&edition=prelim) may be deposited in the manner provided in section 5234 of the Revised Statutes [[12 U.S.C. 192](./chapter-002-national-banks.md#section-192)] with respect to assessments by the Comptroller of the Currency.
 
 (2) **Assessments are not Government funds** — The amounts received by the appropriate Federal banking agency from any assessment under this section shall not be construed to be Government or public funds or appropriated money.
 
@@ -1955,7 +1961,7 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
 
 (1) **In general** — As used in this section, unless the context otherwise requires—
 
-  (A) *Savings association* — The term “savings association” includes a savings bank or cooperative bank which is deemed by the appropriate Federal banking agency to be a savings association under subsection (l) of this section.
+  (A) *Savings association* — The term “savings association” includes a savings bank or cooperative bank which is deemed by the appropriate Federal banking agency to be a savings association under subsection (l).
 
   (B) *Uninsured institution* — The term “uninsured institution” means any depository institution the deposits of which are not insured by the Federal Deposit Insurance Corporation.
 
@@ -2001,7 +2007,7 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
 
   (B) any trust (other than a pension, profit-sharing, shareholders’, voting, or business trust) which controls a savings association or a savings and loan holding company if such trust by its terms must terminate within 25 years or not later than 21 years and 10 months after the death of individuals living on the effective date of the trust, and is (i) in existence on June 26, 1967, or (ii) a testamentary trust created on or after June 26, 1967.
 
-(4) **Special rule relating to qualified stock issuance** — No savings and loan holding company shall be deemed to control a savings association solely by reason of the purchase by such savings and loan holding company of shares issued by such savings association, or issued by any savings and loan holding company (other than a bank holding company) which controls such savings association, in connection with a qualified stock issuance if such purchase is approved by the Board under subsection (q)(1)(D) of this section, unless the acquiring savings and loan holding company, directly or indirectly, or acting in concert with 1 or more other persons, or through 1 or more subsidiaries, owns, controls, or holds with power to vote, or holds proxies representing, more than 15 percent of the voting shares of such savings association or holding company.
+(4) **Special rule relating to qualified stock issuance** — No savings and loan holding company shall be deemed to control a savings association solely by reason of the purchase by such savings and loan holding company of shares issued by such savings association, or issued by any savings and loan holding company (other than a bank holding company) which controls such savings association, in connection with a qualified stock issuance if such purchase is approved by the Board under subsection (q)(1)(D), unless the acquiring savings and loan holding company, directly or indirectly, or acting in concert with 1 or more other persons, or through 1 or more subsidiaries, owns, controls, or holds with power to vote, or holds proxies representing, more than 15 percent of the voting shares of such savings association or holding company.
 
 **(b) Registration and examination**
 
@@ -2093,7 +2099,7 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
 
     (ii) in which multiple savings and loan holding companies were authorized (by regulation) to directly engage on March 5, 1987.
 
-  (G) In the case of a savings and loan holding company, purchasing, holding, or disposing of stock acquired in connection with a qualified stock issuance if the purchase of such stock by such savings and loan holding company is approved by the Board pursuant to subsection (q)(1)(D) of this section.
+  (G) In the case of a savings and loan holding company, purchasing, holding, or disposing of stock acquired in connection with a qualified stock issuance if the purchase of such stock by such savings and loan holding company is approved by the Board pursuant to subsection (q)(1)(D).
 
   (H) Any activity that is permissible for a financial holding company (as such term is defined under section 2(p) of the Bank Holding Company Act of 1956 ([12 U.S.C. 1841(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841/p&num=0&edition=prelim)) 11 So in original. Probably should be followed by another closing parenthesis. to conduct under section 4(k) of the Bank Holding Company Act of 1956 [[12 U.S.C. 1843(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim)] if—
 
@@ -2103,7 +2109,7 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
 
 (3) **Certain limitations on activities not applicable to certain holding companies** — Notwithstanding paragraphs (4) and (6) of this subsection, the limitations contained in subparagraphs (B) and (C) of paragraph (1) shall not apply to any savings and loan holding company (or any subsidiary of such company) which controls—
 
-  (A) only 1 savings association, if the savings association subsidiary of such company is a qualified thrift lender (as determined under subsection (m) of this section); or
+  (A) only 1 savings association, if the savings association subsidiary of such company is a qualified thrift lender (as determined under subsection (m)); or
 
   (B) more than 1 savings association, if—
 
@@ -2113,7 +2119,7 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
 
       (II) pursuant to an acquisition in which assistance was continued to a savings association under [section 1823(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1823/i&num=0&edition=prelim); and
 
-    (ii) all of the savings association subsidiaries of such company are qualified thrift lenders (as determined under subsection (m) of this section).
+    (ii) all of the savings association subsidiaries of such company are qualified thrift lenders (as determined under subsection (m)).
 
 (4) **Prior approval of certain new activities required**
 
@@ -2203,7 +2209,7 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
 
     (ii) to acquire, except with the prior written approval of the Board, by the process of merger, consolidation, or purchase of assets, another savings association or a savings and loan holding company, or all or substantially all of the assets of any such association or holding company;
 
-    (iii) to acquire, by purchase or otherwise, or to retain, except with the prior written approval of the Board, more than 5 percent of the voting shares of a savings association not a subsidiary, or of a savings and loan holding company not a subsidiary, or in the case of a multiple savings and loan holding company (other than a company described in subsection (c)(8) of this section), to acquire or retain, and the Board may not authorize acquisition or retention of, more than 5 percent of the voting shares of any company not a subsidiary which is engaged in any business activity other than the activities specified in subsection (c)(2) of this section. This clause shall not apply to shares of a savings association or of a savings and loan holding company—
+    (iii) to acquire, by purchase or otherwise, or to retain, except with the prior written approval of the Board, more than 5 percent of the voting shares of a savings association not a subsidiary, or of a savings and loan holding company not a subsidiary, or in the case of a multiple savings and loan holding company (other than a company described in subsection (c)(8)), to acquire or retain, and the Board may not authorize acquisition or retention of, more than 5 percent of the voting shares of any company not a subsidiary which is engaged in any business activity other than the activities specified in subsection (c)(2). This clause shall not apply to shares of a savings association or of a savings and loan holding company—
 
       (I) held as a bona fide fiduciary (whether with or without the sole discretion to vote such shares);
 
@@ -2219,7 +2225,7 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
 
       (VII) held by any insurance company, as defined in section 2(a)(17) of the Investment Company Act of 1940 [[15 U.S.C. 80a–2(a)(17)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–2/a/17&num=0&edition=prelim)], except as provided in paragraph (6); or
 
-      (VIII) acquired pursuant to a qualified stock issuance if such purchase is approved by the Board under subsection (q)(1)(D) of this section;
+      (VIII) acquired pursuant to a qualified stock issuance if such purchase is approved by the Board under subsection (q)(1)(D);
     except that the aggregate amount of shares held under this clause (other than under subclauses (I), (II), (III), (IV), and (VI)) may not exceed 15 percent of all outstanding shares or of the voting power of a savings association or savings and loan holding company; or
 
     (iv) to acquire the control of an uninsured institution, or to retain for more than one year after February 14, 1968, or from the date on which such control was acquired, whichever is later, except that the Board may upon application by such company extend such one-year period from year to year, for an additional period not exceeding 3 years, if the Board finds such extension is warranted and is not detrimental to the public interest; and
@@ -2255,9 +2261,9 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
 
 (4) **Acquisitions by certain individuals**
 
-  (A) *In general* — Notwithstanding subsection (h)(2) of this section, any director or officer of a savings and loan holding company, or any individual who owns, controls, or holds with power to vote (or holds proxies representing) more than 25 percent of the voting shares of such holding company, may acquire control of any savings association not a subsidiary of such savings and loan holding company with the prior written approval of the Board.
+  (A) *In general* — Notwithstanding subsection (h)(2), any director or officer of a savings and loan holding company, or any individual who owns, controls, or holds with power to vote (or holds proxies representing) more than 25 percent of the voting shares of such holding company, may acquire control of any savings association not a subsidiary of such savings and loan holding company with the prior written approval of the Board.
 
-  (B) *Treatment of certain holding companies* — If any individual referred to in subparagraph (A) controls more than 1 savings and loan holding company or more than 1 savings association, any savings and loan holding company controlled by such individual shall be subject to the activities limitations contained in subsection (c) of this section to the same extent such limitations apply to multiple savings and loan holding companies, unless all or all but 1 of the savings associations (including any institution deemed to be a savings association under subsection (l) of this section) controlled directly or indirectly by such individual was acquired pursuant to an acquisition described in subclause (I) or (II) of subsection (c)(3)(B)(i) of this section.
+  (B) *Treatment of certain holding companies* — If any individual referred to in subparagraph (A) controls more than 1 savings and loan holding company or more than 1 savings association, any savings and loan holding company controlled by such individual shall be subject to the activities limitations contained in subsection (c) to the same extent such limitations apply to multiple savings and loan holding companies, unless all or all but 1 of the savings associations (including any institution deemed to be a savings association under subsection (l) of this section) controlled directly or indirectly by such individual was acquired pursuant to an acquisition described in subclause (I) or (II) of subsection (c)(3)(B)(i).
 
 (5) **Acquisitions pursuant to certain security interests** — This subsection and subsection (c)(2) of this section do not apply to any savings and loan holding company which acquired the control of a savings association or of a savings and loan holding company pursuant to a pledge or hypothecation to secure a loan, or in connection with the liquidation of a loan, made in the ordinary course of business. It shall be unlawful for any such company to retain such control for more than one year after February 14, 1968, or from the date on which such control was acquired, whichever is later, except that the Board may upon application by such company extend such one-year period from year to year, for an additional period not exceeding 3 years, if the Board finds such extension is warranted and would not be detrimental to the public interest.
 
@@ -2291,9 +2297,9 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
 
 (3) **Proceedings**
 
-  (A) In any proceeding under subsection (a)(2)(D) of this section or under paragraph (5) of this subsection, the Board may administer oaths and affirmations, take or cause to be taken depositions, and issue subpenas. The Board may make regulations with respect to any such proceedings. The attendance of witnesses and the production of documents provided for in this paragraph may be required from any place in any State or in any territory at any designated place where such proceeding is being conducted. Any party to such proceedings may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district or the United States court in any territory in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpena issued pursuant to this paragraph, and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States.
+  (A) In any proceeding under subsection (a)(2)(D) or under paragraph (5) of this subsection, the Board may administer oaths and affirmations, take or cause to be taken depositions, and issue subpenas. The Board may make regulations with respect to any such proceedings. The attendance of witnesses and the production of documents provided for in this paragraph may be required from any place in any State or in any territory at any designated place where such proceeding is being conducted. Any party to such proceedings may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district or the United States court in any territory in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpena issued pursuant to this paragraph, and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States.
 
-  (B) Any hearing provided for in subsection (a)(2)(D) of this section or under paragraph (5) of this section 55 So in original. Probably should be “subsection”. shall be held in the Federal judicial district or in the territory in which the principal office of the association or other company is located unless the party afforded the hearing consents to another place, and shall be conducted in accordance with the provisions of chapter 5 of title 5.
+  (B) Any hearing provided for in subsection (a)(2)(D) or under paragraph (5) of this section 55 So in original. Probably should be “subsection”. shall be held in the Federal judicial district or in the territory in which the principal office of the association or other company is located unless the party afforded the hearing consents to another place, and shall be conducted in accordance with the provisions of chapter 5 of title 5.
 
 (4) **Injunctions** — Whenever it appears to the Board that any person is engaged or has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this section or of any regulation or order thereunder, the Board may bring an action in the proper United States district court, or the United States court of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, to enforce compliance with this section or any regulation or order, or to require the divestiture of any acquisition in violation of this section, or for any combination of the foregoing, and such courts shall have jurisdiction of such actions. Upon a proper showing an injunction, decree, restraining order, order of divestiture, or other appropriate order shall be granted without bond.
 
@@ -2301,13 +2307,13 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
 
   (A) Notwithstanding any other provision of this section, the Board may, whenever the Board has reasonable cause to believe that the continuation by a savings and loan holding company of any activity or of ownership or control of any of its noninsured subsidiaries constitutes a serious risk to the financial safety, soundness, or stability of a savings and loan holding company’s subsidiary savings association and is inconsistent with the sound operation of a savings association or with the purposes of this section or [section 1818 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1818), order the savings and loan holding company or any of its subsidiaries, after due notice and opportunity for hearing, to terminate such activities or to terminate (within 120 days or such longer period as the Board directs in unusual circumstances) its ownership or control of any such noninsured subsidiary either by sale or by distribution of the shares of the subsidiary to the shareholders of the savings and loan holding company. Such distribution shall be pro rata with respect to all of the shareholders of the distributing savings and loan holding company, and the holding company shall not make any charge to its shareholders arising out of such a distribution.
 
-  (B) The Board may in the discretion of the Board apply to the United States district court within the jurisdiction of which the principal office of the company is located, for the enforcement of any effective and outstanding order issued under this section, and such court shall have jurisdiction and power to order and require compliance therewith. Except as provided in subsection (j) of this section, no court shall have jurisdiction to affect by injunction or otherwise the issuance or enforcement of any notice or order under this section, or to review, modify, suspend, terminate, or set aside any such notice or order.
+  (B) The Board may in the discretion of the Board apply to the United States district court within the jurisdiction of which the principal office of the company is located, for the enforcement of any effective and outstanding order issued under this section, and such court shall have jurisdiction and power to order and require compliance therewith. Except as provided in subsection (j), no court shall have jurisdiction to affect by injunction or otherwise the issuance or enforcement of any notice or order under this section, or to review, modify, suspend, terminate, or set aside any such notice or order.
 
 **(h) Prohibited acts** It shall be unlawful for—
 
 (1) any savings and loan holding company or subsidiary thereof, or any director, officer, employee, or person owning, controlling, or holding with power to vote, or holding proxies representing, more than 25 percent of the voting shares, of such holding company or subsidiary, to hold, solicit, or exercise any proxies in respect of any voting rights in a savings association which is a mutual association;
 
-(2) any director or officer of a savings and loan holding company, or any individual who owns, controls, or holds with power to vote (or holds proxies representing) more than 25 percent of the voting shares of such holding company, to acquire control of any savings association not a subsidiary of such savings and loan holding company, unless such acquisition is approved by the Board pursuant to subsection (e)(4) of this section; or
+(2) any director or officer of a savings and loan holding company, or any individual who owns, controls, or holds with power to vote (or holds proxies representing) more than 25 percent of the voting shares of such holding company, to acquire control of any savings association not a subsidiary of such savings and loan holding company, unless such acquisition is approved by the Board pursuant to subsection (e)(4); or
 
 (3) any individual, except with the prior approval of the Board, to serve or act as a director, officer, or trustee of, or become a partner in, any savings and loan holding company after having been convicted of any criminal offense involving dishonesty or breach of trust.
 
@@ -2355,7 +2361,7 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
 
 **(l) Treatment of FDIC insured State savings banks and cooperative banks as savings associations**
 
-(1) **In general** — Notwithstanding any other provision of law, a savings bank (as defined in [section 1813(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/g&num=0&edition=prelim)) and a cooperative bank that is an insured bank (as defined in [section 1813(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/h&num=0&edition=prelim)) upon application shall be deemed to be a savings association for the purpose of this section, if the appropriate Federal banking agency determines that such bank is a qualified thrift lender (as determined under subsection (m) of this section).
+(1) **In general** — Notwithstanding any other provision of law, a savings bank (as defined in [section 1813(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/g&num=0&edition=prelim)) and a cooperative bank that is an insured bank (as defined in [section 1813(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/h&num=0&edition=prelim)) upon application shall be deemed to be a savings association for the purpose of this section, if the appropriate Federal banking agency determines that such bank is a qualified thrift lender (as determined under subsection (m)).
 
 (2) **Failure to maintain qualified thrift lender status** — If any savings bank which is deemed to be a savings association under paragraph (1) subsequently fails to maintain its status as a qualified thrift lender, as determined by the appropriate Federal banking agency, such bank may not thereafter be a qualified thrift lender for a period of 5 years.
 
@@ -2547,7 +2553,7 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
       (I) the actual thrift investment percentage of such association at the end of each period described in the following table, exceeds
 
       (II) the actual thrift investment percentage of such association on July 15, 1989,
-    is equal to or greater than the applicable percentage (as determined under the following table) of the amount by which 70 percent exceeds the actual thrift investment percentage of such association on August 9, 1989: For the following The applicable period: percentage is: July 1, 1991–September 30, 1992 25 percent October 1, 1992–March 31, 1994 50 percent April 1, 1994–September 30, 1995 75 percent Thereafter 100 percent
+    is equal to or greater than the applicable percentage (as determined under the following table) of the amount by which 70 percent exceeds the actual thrift investment percentage of such association on August 9, 1989: For the following period:The applicable percentage is: July 1, 1991–September 30, 199225 percent October 1, 1992–March 31, 199450 percent April 1, 1994–September 30, 199575 percent Thereafter100 percent
 
   (C) *Actual thrift investment percentage* — For purposes of this paragraph, the actual thrift investment percentage of an association on July 15, 1989, shall be determined by applying the definition of “actual thrift investment percentage” that takes effect on July 1, 1991.
 
@@ -2606,7 +2612,7 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
 
   (D) Investing in a corporation the capital stock of which is available for purchase by a savings association under Federal law or under the law of any State where the subsidiary savings association or associations have their home offices.
 
-  (E) Engaging in the activities described in subsection (c)(2) or (c)(9)(A)(ii) of this section.
+  (E) Engaging in the activities described in subsection (c)(2) or (c)(9)(A)(ii).
 
 (6) **Limitations on certain activities of acquired holding companies**
 
@@ -2736,7 +2742,7 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
 
   (A) *Additional capital commitments not required* — The Board shall not disapprove any application for the purchase of stock in connection with a qualified stock issuance on the grounds that the acquiring savings and loan holding company has failed to undertake to make subsequent additional capital contributions to maintain the capital of the undercapitalized savings association at or above the minimum level required by the Board or any other Federal agency having jurisdiction.
 
-  (B) *Other conditions* — Notwithstanding subsection (a)(4) of this section, the Board may impose such conditions on any approval of an application for the purchase of stock in connection with a qualified stock issuance as the Board determines to be appropriate, including—
+  (B) *Other conditions* — Notwithstanding subsection (a)(4), the Board may impose such conditions on any approval of an application for the purchase of stock in connection with a qualified stock issuance as the Board determines to be appropriate, including—
 
     (i) a requirement that any savings association subsidiary of the acquiring savings and loan holding company limit dividends paid to such holding company for such period of time as the Board may require; and
 

@@ -2,7 +2,7 @@
 title: 10
 chapter: '7'
 heading: 'BOARDS, COUNCILS, AND COMMITTEES'
-section_count: 18
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -69,6 +69,85 @@ Subsec. (a)(6). Pub. L. 95–140, § 3(b)(2), substituted “the Under Secretari
 
 #### Short Title of 1983 Amendment
 Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [enacting [section 178 of this title](./chapter-007-boards-councils-and-committees.md#section-178) and amending [section 2113 of this title](./chapter-104-uniformed-services-university-of-the-health-sciences.md#section-2113)] may be cited as the ‘Foundation for the Advancement of Military Medicine Act of 1983’.”
+
+
+<a id="section-171a"></a>
+## § 171a. Council on Oversight of the National Leadership Command, Control, and Communications System
+**(a) Establishment.—** There is within the Department of Defense a council to be known as the “Council on Oversight of the National Leadership Command, Control, and Communications System” (in this section referred to as the “Council”).
+
+**(b) Membership.—** The members of the Council shall be as follows:
+
+(1) The Under Secretary of Defense for Policy.
+
+(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+(3) The Vice Chairman of the Joint Chiefs of Staff.
+
+(4) The Commander of the United States Strategic Command.
+
+(5) The Director of the National Security Agency.
+
+(6) The Chief Information Officer of the Department of Defense.
+
+(7) Such other officers of the Department of Defense as the Secretary may designate.
+
+**(c) Co-Chair.—** The Council shall be co-chaired by the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Vice Chairman of the Joint Chiefs of Staff.
+
+**(d) Responsibilities.—**
+
+(1) The Council shall be responsible for oversight of the command, control, and communications system for the national leadership of the United States, including nuclear command, control, and communications.
+
+(2) In carrying out the responsibility for oversight of the command, control, and communications system as specified in paragraph (1), the Council shall be responsible for the following:
+
+  (A) Oversight of performance assessments (including interoperability).
+
+  (B) Vulnerability identification and mitigation.
+
+  (C) Architecture development.
+
+  (D) Resource prioritization.
+
+  (E) Such other responsibilities as the Secretary of Defense shall specify for purposes of this section.
+
+**(e) Annual Reports.—** At the same time each year that the budget of the President is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Council shall submit to the congressional defense committees a report on the activities of the Council. Each report shall include the following:
+
+(1) A description and assessment of the activities of the Council during the previous fiscal year.
+
+(2) A description of the activities proposed to be undertaken by the Council during the period covered by the current future-years defense program under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221).
+
+(3) Any changes to the requirements of the command, control, and communications system for the national leadership of the United States made during the previous year, along with an explanation for why the changes were made and a description of the effects of the changes to the capability of the system.
+
+(4) A breakdown of each program element in such budget that relates to the system, including how such program element relates to the operation and sustainment, research and development, procurement, or other activity of the system.
+
+**(f) Budget and Funding Matters.—**
+
+(1) Not later than 30 days after the President submits to Congress the budget for a fiscal year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Commander of the United States Strategic Command shall submit to the Chairman of the Joint Chiefs of Staff an assessment of—
+
+  (A) whether such budget allows the Federal Government to meet the required capabilities of the command, control, and communications system for the national leadership of the United States during the fiscal year covered by the budget and the four subsequent fiscal years; and
+
+  (B) if the Commander determines that such budget does not allow the Federal Government to meet such required capabilities, a description of the steps being taken to meet such required capabilities.
+
+(2) Not later than 30 days after the date on which the Chairman of the Joint Chiefs of Staff receives the assessment of the Commander of the United States Strategic Command under paragraph (1), the Chairman shall submit to the congressional defense committees—
+
+  (A) such assessment as it was submitted to the Chairman; and
+
+  (B) any comments of the Chairman.
+
+(3) If a House of Congress adopts a bill authorizing or appropriating funds for the activities of the command, control, and communications system for the national leadership of the United States that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
+
+**(g) Notification of Anomalies.—**
+
+(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
+
+(2) In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
+
+**(h) National Leadership of the United States Defined.—** In this section, the term “national leadership of the United States” means the following:
+
+(1) The President.
+
+(2) The Vice President.
+
+(3) Such other civilian officials of the United States Government as the President shall designate for purposes of this section.
 
 
 <a id="section-172"></a>
@@ -400,7 +479,7 @@ Pub. L. 98–132, § 1, Oct. 17, 1983, 97 Stat. 849, provided: “That (a) the F
 
 (4) The Under Secretary of Defense for Policy.
 
-(5) The commander of the United States Strategic Command.
+(5) The Commander of the United States Strategic Command.
 
 **(b) Chairman; Meetings.—**
 
@@ -442,11 +521,9 @@ Pub. L. 98–132, § 1, Oct. 17, 1983, 97 Stat. 849, provided: “That (a) the F
 
 (9) Preparing comments on annual proposals for budget levels for research on nuclear weapons and transmitting those comments to the Secretary of Defense and the Secretary of Energy before the preparation of the annual budget requests by the Secretaries of those departments.
 
-(10) Coordinating and providing guidance and oversight on nuclear command, control, and communications systems.
+(10) Coordinating and approving the annual budget proposals of the National Nuclear Security Administration.
 
-(11) Coordinating and approving the annual budget proposals of the National Nuclear Security Administration.
-
-(12) Providing—
+(11) Providing—
 
   (A) broad guidance regarding priorities for research on improved conventional weapons, and
 
@@ -461,7 +538,53 @@ Pub. L. 98–132, § 1, Oct. 17, 1983, 97 Stat. 849, provided: “That (a) the F
 
 (2) If a House of Congress adopts a bill authorizing or appropriating funds for the National Nuclear Security Administration for nuclear stockpile and stockpile stewardship program activities or other activities that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
 
-**(g) Annual Report.—** Each fiscal year, at the same time the President submits the budget pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Chairman of the Council, through the Secretary of Energy, shall submit to the congressional defense committees a report, in classified form, on the following:
+(3)
+
+  (A) With respect to the preparation of a budget for a fiscal year to be submitted by the President to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Secretary of Defense may not agree to a proposed transfer of estimated nuclear budget request authority unless the Secretary of Defense submits to the congressional defense committees a report described in subparagraph (B).
+
+  (B) A report described in this subparagraph is a report that includes the following:
+
+    (i) Except as provided by subparagraph (C), certification that, during the fiscal year prior to the fiscal year covered by the budget for which the report is submitted, the Secretary of Energy obligated or expended any amounts covered by a proposed transfer of estimated nuclear budget request authority made for such prior fiscal year in a manner consistent with a memorandum of agreement that was developed by the Nuclear Weapons Council and entered into by the Secretary of Defense and the Secretary of Energy.
+
+    (ii) A detailed assessment by the Nuclear Weapons Council regarding how the Administrator for Nuclear Security implemented any agreements and decisions of the Council made during such prior fiscal year.
+
+    (iii) An assessment from each of the Chairman of the Joints Chiefs of Staff and the Commander of the United States Strategic Command regarding any effects to the military during such prior fiscal year that were caused by the delay or failure of the Administrator to implement any agreements or decisions described in clause (ii).
+
+  (C) With respect to a report described in subparagraph (B), the Secretary may waive the requirement to include the certification described in clause (i) of such subparagraph if the Secretary—
+
+    (i) determines that such waiver is in the national security interests of the United States; and
+
+    (ii) instead of the certification described in such clause (i), includes as part of such report—
+
+      (I) a copy of the agreement that the Secretary has entered into with the Secretary of Energy regarding the manner and the purpose for which the Secretary of Energy will obligate or expend any amounts covered by a proposed transfer of estimated nuclear budget request authority for the fiscal year covered by the budget for which such report is submitted; and
+
+      (II) an explanation for why the Secretary did not include such certification in such report.
+
+(4) The Secretary of Defense shall include with the defense budget materials for a fiscal year the memorandum of agreement described in subparagraph (B)(i) of paragraph (3), or the agreement described in subparagraph (C) of such paragraph, as the case may be, that covers such fiscal year.
+
+(5)
+
+  (A) Not later than 30 days after the President submits to Congress the budget for a fiscal year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Commander of the United States Strategic Command shall submit to the Chairman of the Joint Chiefs of Staff an assessment of—
+
+    (i) whether such budget allows the Federal Government to meet the nuclear stockpile and stockpile stewardship program requirements during the fiscal year covered by the budget and the four subsequent fiscal years; and
+
+    (ii) if the Commander determines that such budget does not allow the Federal Government to meet such requirements, a description of the steps being taken to meet such requirements.
+
+  (B) Not later than 30 days after the date on which the Chairman of the Joint Chiefs of Staff receives the assessment of the Commander of the United States Strategic Command under subparagraph (A), the Chairman shall submit to the congressional defense committees—
+
+    (i) such assessment as it was submitted to the Chairman; and
+
+    (ii) any comments of the Chairman.
+
+(6) In this subsection:
+
+  (A) The term “budget” has the meaning given that term in [section 231(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim).
+
+  (B) The term “defense budget materials” has the meaning given that term in [section 231(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim).
+
+  (C) The term “proposed transfer of estimated nuclear budget request authority” means, in preparing a budget, a request for the Secretary of Defense to transfer an estimated amount of the proposed budget authority of the Secretary to the Secretary of Energy for purposes relating to nuclear weapons.
+
+**(g) Annual Report.—** Each fiscal year, at the same time the President submits the budget pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Chairman of the Council, through the Secretary of Energy, shall submit to the congressional defense committees a report, in classified form, that includes the following:
 
 (1) The effectiveness and efficiency of the Council, and of the deliberative and decisionmaking processes used by the Council, in carrying out the responsibilities described in subsection (d).
 
@@ -479,10 +602,16 @@ Pub. L. 98–132, § 1, Oct. 17, 1983, 97 Stat. 849, provided: “That (a) the F
 
 (5) An assessment of the extent to which the requirements referred to in paragraph (4) are being addressed by the Department of Energy as of that date.
 
+(6) A description and assessment of the joint efforts of the Secretary of Defense and the Secretary of Energy to develop common security practices that improve the security of the nuclear weapons and facilities of the Department of Defense and the Department of Energy.
+
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (b)(3). Pub. L. 112–239, § 1039(c), inserted at end “To the extent possible, not later than seven days before a meeting, the Chairman shall disseminate to each member of the Council the agenda and documents for such meeting.”
+2014—Subsec. (f)(3) to (6). Pub. L. 113–291 added pars. (3) to (6).
+
+2013—Subsec. (a)(5). Pub. L. 113–66, § 1091(a)(3), substituted “Commander” for “commander”.
+
+Subsec. (b)(3). Pub. L. 112–239, § 1039(c), inserted at end “To the extent possible, not later than seven days before a meeting, the Chairman shall disseminate to each member of the Council the agenda and documents for such meeting.”
 
 Subsec. (d)(2). Pub. L. 112–239, § 1039(a)(1), inserted “and alternatives” before period at end.
 
@@ -490,13 +619,25 @@ Subsec. (d)(3). Pub. L. 112–239, § 1039(a)(2), inserted “and approving” a
 
 Subsec. (d)(7). Pub. L. 112–239, § 1039(a)(3), substituted “specific” for “broad” and inserted before period at end “and priorities among activities, including production, surveillance, research, construction, and any other programs within the National Nuclear Security Administration”.
 
-Subsec. (d)(10). Pub. L. 112–239, § 1039(a)(5), added par. (10). Former par. (10) redesignated (12).
+Subsec. (d)(10). Pub. L. 113–66, § 1053(a), redesignated par. (11) as (10) and struck out former par. (10) which read as follows: “Coordinating and providing guidance and oversight on nuclear command, control, and communications systems.”
 
-Subsec. (d)(11). Pub. L. 112–239, § 1039(b)(1), added par. (11).
+Pub. L. 112–239, § 1039(a)(5), added par. (10). Former par. (10) redesignated (12).
 
-Subsec. (d)(12). Pub. L. 112–239, § 1039(a)(4), redesignated par. (10) as (12).
+Subsec. (d)(11). Pub. L. 113–66, § 1053(a)(2), redesignated par. (12) as (11).
 
-Subsecs. (f), (g). Pub. L. 112–239, § 1039(b)(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g).
+Pub. L. 112–239, § 1039(b)(1), added par. (11).
+
+Subsec. (d)(12). Pub. L. 113–66, § 1053(a)(2), redesignated par. (12) as (11).
+
+Pub. L. 112–239, § 1039(a)(4), redesignated par. (10) as (12).
+
+Subsec. (f). Pub. L. 112–239, § 1039(b)(3), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 113–66, § 1053(c), substituted “that includes the following” for “on the following” in introductory provisions.
+
+Pub. L. 112–239, § 1039(b)(2), redesignated subsec. (f) as (g).
+
+Subsec. (g)(6). Pub. L. 113–66, § 1053(b), added par. (6).
 
 2011—Subsec. (c)(2). Pub. L. 111–383, § 901(j)(1)(A), substituted “Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs” for “Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs”.
 
@@ -858,7 +999,7 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 
   (A) The George C. Marshall European Center for Security Studies, established in 1993 and located in Garmisch-Partenkirchen, Germany.
 
-  (B) The Asia-Pacific Center for Security Studies, established in 1995 and located in Honolulu, Hawaii.
+  (B) The Daniel K. Inouye Asia-Pacific Center for Security Studies, established in 1995 and located in Honolulu, Hawaii.
 
   (C) The William J. Perry Center for Hemispheric Defense Studies, established in 1997 and located in Washington, D.C.
 
@@ -897,6 +1038,8 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b)(2)(B). Pub. L. 113–291 substituted “Daniel K. Inouye Asia-Pacific Center for Security Studies” for “Asia-Pacific Center for Security Studies”.
+
 2013—Subsec. (b)(2)(C). Pub. L. 112–239, § 2854(b)(1)(A), substituted “The William J. Perry Center for Hemispheric Defense Studies” for “The Center for Hemispheric Defense Studies”.
 
 Subsec. (f)(5). Pub. L. 112–239, § 2854(b)(1)(B), substituted “the William J. Perry Center for Hemispheric Defense Studies” for “the Center for Hemispheric Defense Studies”.
@@ -924,13 +1067,18 @@ Subsec. (b)(4). Pub. L. 109–163 substituted “under [section 2611 of this tit
 #### Effective Date of 2008 Amendment
 Pub. L. 110–417, [div. A], title IX, § 941(a)(2), Oct. 14, 2008, 122 Stat. 4576, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under [section 184 of title 10](./chapter-007-boards-councils-and-committees.md#section-184), United States Code (as so amended), that begin on or after that date.”
 
+#### Redesignation of the Asia-Pacific Center for Security Studies as the Daniel k. Inouye Asia-Pacific Center for Security Studies
+Pub. L. 113–291, div. B, title XXVIII, § 2861(a), Dec. 19, 2014, 128 Stat. 3715, provided that: “The Department of Defense regional center for security studies known as the Asia-Pacific Center for Security Studies is hereby renamed the ‘Daniel K. Inouye Asia-Pacific Center for Security Studies’.”
+
+Pub. L. 113–291, div. B, title XXVIII, § 2861(c), Dec. 19, 2014, 128 Stat. 3716, provided that: “Any reference to the Department of Defense Asia-Pacific Center for Security Studies in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Daniel K. Inouye Asia-Pacific Center for Security Studies.”
+
 #### Redesignation of the Center for Hemispheric Defense Studies as the William J. Perry Center for Hemispheric Defense Studies
 Pub. L. 112–239, div. B, title XXVIII, § 2854(a), Jan. 2, 2013, 126 Stat. 2161, provided that: “The Department of Defense regional center for security studies known as the Center for Hemispheric Defense Studies is hereby renamed the ‘William J. Perry Center for Hemispheric Defense Studies’ ”.
 
 Pub. L. 112–239, div. B, title XXVIII, § 2854(c), Jan. 2, 2013, 126 Stat. 2162, provided that: “Any reference to the Department of Defense Center for Hemispheric Defense Studies in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the William J. Perry Center for Hemispheric Defense Studies.”
 
 #### Temporary Waiver of Reimbursement of Costs of Activities for Nongovernmental Personnel
-Pub. L. 110–417, [div. A], title IX, § 941(b), Oct. 14, 2008, 122 Stat. 4577, as amended by Pub. L. 111–383, div. A, title IX, § 941, Jan. 7, 2011, 124 Stat. 4340; Pub. L. 112–239, div. A, title IX, § 953, Jan. 2, 2013, 126 Stat. 1895, provided that: “(1) Authority for temporary waiver.—In fiscal years 2009 through 2013, the Secretary of Defense may, with the concurrence of the Secretary of State, waive reimbursement otherwise required under subsection (f) of [section 184 of title 10](./chapter-007-boards-councils-and-committees.md#section-184), United States Code, of the costs of activities of Regional Centers under such section for personnel of nongovernmental and international organizations who participate in activities of the Regional Centers that enhance cooperation of nongovernmental organizations and international organizations with United States forces if the Secretary of Defense determines that attendance of such personnel without reimbursement is in the national security interests of the United States. “(2) Limitation.—The amount of reimbursement that may be waived under paragraph (1) in any fiscal year may not exceed $1,000,000. “(3) Annual report.—The Secretary of Defense shall include in the annual report under [former] [section 184(h) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section184/h&num=0&edition=prelim), United States Code, in each year through 2013 information on the attendance of personnel of nongovernmental and international organizations in activities of the Regional Centers during the preceding fiscal year for which a waiver of reimbursement was made under paragraph (1), including information on the costs incurred by the United States for the participation of personnel of each nongovernmental or international organization that so attended.”
+Pub. L. 110–417, [div. A], title IX, § 941(b), Oct. 14, 2008, 122 Stat. 4577, as amended by Pub. L. 111–383, div. A, title IX, § 941, Jan. 7, 2011, 124 Stat. 4340; Pub. L. 112–239, div. A, title IX, § 953, Jan. 2, 2013, 126 Stat. 1895; Pub. L. 113–66, div. A, title X, § 1094(b), Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–291, div. A, title IX, § 913, Dec. 19, 2014, 128 Stat. 3474, provided that: “(1) Authority for temporary waiver.—In fiscal years 2009 through 2019, the Secretary of Defense may, with the concurrence of the Secretary of State, waive reimbursement otherwise required under subsection (f) of [section 184 of title 10](./chapter-007-boards-councils-and-committees.md#section-184), United States Code, of the costs of activities of Regional Centers under such section for personnel of nongovernmental and international organizations who participate in activities of the Regional Centers that enhance cooperation of nongovernmental organizations and international organizations with United States forces if the Secretary of Defense determines that attendance of such personnel without reimbursement is in the national security interests of the United States. “(2) Limitation.—The amount of reimbursement that may be waived under paragraph (1) in any fiscal year may not exceed $1,000,000. “(3) Annual report.—The Secretary of Defense shall include in the annual report under [former] [section 184(h) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section184/h&num=0&edition=prelim), United States Code, in each year through 2013 information on the attendance of personnel of nongovernmental and international organizations in activities of the Regional Centers during the preceding fiscal year for which a waiver of reimbursement was made under paragraph (1), including information on the costs incurred by the United States for the participation of personnel of each nongovernmental or international organization that so attended.”
 
 
 <a id="section-185"></a>
@@ -992,63 +1140,11 @@ Pub. L. 110–417, [div. A], title IX, § 941(b), Oct. 14, 2008, 122 Stat. 4577,
 
 
 <a id="section-186"></a>
-## § 186. Defense Business System Management Committee
-**(a) Establishment.—** The Secretary of Defense shall establish a Defense Business Systems Management Committee, to be composed of the following persons:
-
-(1) The Deputy Secretary of Defense.
-
-(2) The Deputy Chief Management Officer of the Department of Defense.
-
-(3) The Under Secretary of Defense for Acquisition, Logistics, and Technology.
-
-(4) The Under Secretary of Defense for Personnel and Readiness.
-
-(5) The Under Secretary of Defense (Comptroller).
-
-(6) The Assistant Secretary of Defense for Networks and Information Integration.
-
-(7) The Chief Management Officers of the military departments and the heads of such Defense Agencies as may be designated by the Secretary of Defense.
-
-(8) Such additional personnel of the Department of Defense (including personnel assigned to the Joint Chiefs of Staff and combatant commands) as are designated by the Secretary of Defense.
-
-**(b) Chairman and Vice Chairman.—** The Deputy Secretary of Defense shall serve as the chairman of the Committee. The Deputy Chief Management Officer of the Department of Defense shall serve as the vice chairman of the Committee, and shall act as chairman in the absence of the Deputy Secretary of Defense.
-
-**(c) Duties.—**
-
-(1) In addition to any other matters assigned to the Committee by the Secretary of Defense, the Committee shall—
-
-  (A) recommend to the Secretary of Defense policies and procedures necessary to effectively integrate the requirements of [section 2222 of this title](./chapter-131-planning-and-coordination.md#section-2222) into all business activities and any transformation, reform, reorganization, or process improvement initiatives undertaken within the Department of Defense;
-
-  (B) review and approve any major update of the defense business enterprise architecture developed under subsection (b) 11 See References in Text note below. of [section 2222 of this title](./chapter-131-planning-and-coordination.md#section-2222), including evolving the architecture, and of defense business systems modernization plans; and
-
-  (C) manage cross-domain integration consistent with such enterprise architecture.
-
-(2) The Committee shall be responsible for coordinating defense business system modernization initiatives to maximize benefits and minimize costs for the Department of Defense and periodically report to the Secretary on the status of defense business system modernization efforts.
-
-(3) The Committee shall ensure that funds are obligated for defense business system modernization in a manner consistent with [section 2222 of this title](./chapter-131-planning-and-coordination.md#section-2222).
-
-**(d) Definitions.—** In this section, the terms “defense business system” and “defense business system modernization” have the meanings given such terms in section 2222 1 of this title.
+## § 186. Repealed. Pub. L. 113–291, div. A, title IX, § 901(c), Dec. 19, 2014, 128 Stat. 3463]
 
 ### Statutory Notes
 
-#### References in Text
-[Section 2222 of this title](./chapter-131-planning-and-coordination.md#section-2222), referred to in subsecs. (c)(1)(A), (B), (3) and (d), was amended generally by Pub. L. 112–81, div. A, title IX, § 901, Dec. 31, 2011, 125 Stat. 1527. As so amended, subsec. (b) does not relate to development of defense business enterprise architecture, and section no longer defines “defense business system modernization”.
-
-#### Amendments
-2011—Subsecs. (c), (d). Pub. L. 111–383 redesignated subsec. (c), relating to definitions, as (d).
-
-2008—Subsec. (a)(2) to (6). Pub. L. 110–417, § 904(a)(1), (2), added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively. Former par. (6) redesignated (7).
-
-Subsec. (a)(7). Pub. L. 110–417, § 904(a)(3), added par. (7) and struck out former par. (7) which read as follows: “The Secretaries of the military departments and the heads of the Defense Agencies.”
-
-Pub. L. 110–417, § 904(a)(1), redesignated par. (6) as (7). Former par. (7) redesignated (8).
-
-Subsec. (a)(8). Pub. L. 110–417, § 904(a)(1), redesignated par. (7) as (8).
-
-Subsec. (b). Pub. L. 110–417, § 904(b), substituted “The Deputy Chief Management Officer of the Department of Defense shall serve as the vice chairman of the Committee, and shall act as chairman in the absence of the Deputy Secretary of Defense.” for “The Secretary of Defense shall designate one of the officials specified in paragraphs (2) through (5) of subsection (a) as the vice chairman of the Committee, who shall act as chairman in the absence of the Deputy Secretary of Defense.”
-
-#### Implementation Requirements
-Pub. L. 108–375, div. A, title III, § 332(c), Oct. 28, 2004, 118 Stat. 1855, directed the Secretary of Defense, not later than 60 days after Oct. 28, 2004, to designate a vice chairman of the Defense Business System Management Committee, as required by subsec. (b) of this section, and to complete the delegation of responsibility for the review, approval, and oversight of the planning, design, acquisition, deployment, operation, maintenance, and modernization of defense business systems required by [section 2222(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2222/f&num=0&edition=prelim).
+Section, added Pub. L. 108–375, div. A, title III, § 332(b)(1), Oct. 28, 2004, 118 Stat. 1854; amended Pub. L. 110–417, [div. A], title IX, § 904, Oct. 14, 2008, 122 Stat. 4567; Pub. L. 111–383, div. A, title X, § 1075(b)(9), Jan. 7, 2011, 124 Stat. 4369, related to Defense Business System Management Committee.
 
 
 <a id="section-187"></a>
@@ -1189,3 +1285,41 @@ Pub. L. 112–239, div. A, title X, § 1040(d), Jan. 2, 2013, 126 Stat. 1931, pr
 
 #### Report
 Pub. L. 112–239, div. A, title X, § 1040(c), Jan. 2, 2013, 126 Stat. 1930, provided that: “(1) In general.—Not later than September 30, 2013, the Interagency Council on the Strategic Capability of the National Laboratories established under [section 188 of title 10](./chapter-007-boards-councils-and-committees.md#section-188), United States Code, as added by subsection (a), shall submit to the appropriate congressional committees a report describing and assessing the following:“(A) The actions taken to implement the requirements of such section 188 and the charter titled ‘Governance Charter for an Interagency Council on the Strategic Capability of DOE National Laboratories as National Security Assets’ signed by the Secretary of Defense, the Secretary of Energy, the Secretary of Homeland Security, and the Director of National Intelligence in July 2010. “(B) The effectiveness of the Council in accomplishing the purpose and objectives of such section and such Charter. “(C) Efforts to strengthen work-for-others programs at the national laboratories. “(D) Efforts to make work-for-others opportunities at the national laboratories more cost-effective. “(E) Ongoing and planned measures for increasing cost-sharing and institutional support investments at the national laboratories from other agencies. “(F) Any regulatory or statutory changes recommended to improve the ability of such other agencies to leverage expertise and capabilities at the national laboratories. “(G) The strategic capabilities and core competencies of laboratories and engineering centers operated by the Department of Defense, including identification of mission areas and functions that should be carried out by such laboratories and engineering centers. “(H) Consistent with the protection of sources and methods, the level of funding and general description of programs that were funded during fiscal year 2012 by—“(i) the Department of Defense and carried out at the national laboratories; and “(ii) the Department of Energy and the national laboratories and carried out at the laboratories and engineering centers of the Department of Defense. “(2) Form.—The report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex. “(3) Appropriate congressional committees defined.—In this subsection, the term ‘appropriate congressional committees’ means the following:“(A) The congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]. “(B) The Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. “(C) The Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate. “(D) The Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. “(E) The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.”
+
+
+<a id="section-189"></a>
+## § 189. Communications Security Review and Advisory Board
+**(a) Establishment.—** There shall be in the Department of Defense a Communications Security Review and Advisory Board (in this section referred to as the “Board”) to review and assess the communications security, cryptographic modernization, and related key management activities of the Department and provide advice to the Secretary with respect to such activities.
+
+**(b) Members.—**
+
+(1) The Secretary shall determine the number of members of the Board.
+
+(2) The Chief Information Officer of the Department of Defense shall serve as chairman of the Board.
+
+(3) The Secretary shall appoint officers in the grade of general or admiral and civilian employees of the Department of Defense in the Senior Executive Service to serve as members of the Board.
+
+**(c) Responsibilities.—** The Board shall—
+
+(1) monitor the overall communications security, cryptographic modernization, and key management efforts of the Department, including activities under major defense acquisition programs (as defined in [section 2430(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2430/a&num=0&edition=prelim)), by—
+
+  (A) requiring each Chief Information Officer of each military department to report the communications security activities of the military department to the Board;
+
+  (B) tracking compliance of each military department with respect to communications security modernization efforts;
+
+  (C) validating lifecycle communications security modernization plans for major defense acquisition programs;
+
+(2) validate the need to replace cryptographic equipment based on the expiration dates of the equipment and evaluate the risks of continuing to use cryptographic equipment after such expiration dates;
+
+(3) convene in-depth program reviews for specific cryptographic modernization developments with respect to validating requirements and identifying programmatic risks;
+
+(4) develop a long-term roadmap for communications security to identify potential issues and ensure synchronization with major planning documents; and
+
+(5) advise the Secretary on the cryptographic posture of the Department, including budgetary recommendations.
+
+**(d) Exclusion of Certain Programs.—** The Board shall not include the consideration of programs funded under the National Intelligence Program (as defined in section 3(6) of the National Security Act of 1947 ([50 U.S.C. 3003(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/6&num=0&edition=prelim))) in carrying out this section.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (c)(1). Pub. L. 113–291 substituted “2430(a)” for “139c” in introductory provisions.

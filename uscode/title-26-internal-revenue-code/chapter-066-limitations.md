@@ -130,7 +130,7 @@ the personal holding company tax for such year may be assessed, or a proceeding 
 
 (3) **Certain set-asides described in section 4942(g)(2)** — In the case of a deficiency attributable to the failure of an amount set aside by a private foundation for a specific project to be treated as a qualifying distribution under the provisions of section 4942(g)(2)(B)(ii), such deficiency may be assessed at any time before the expiration of 2 years after the expiration of the period within which a deficiency may be assessed for the taxable year to which the amount set aside relates.
 
-**(m) Deficiencies attributable to election of certain credits** The period for assessing a deficiency attributable to any election under section 30(e)(6), 30B(h)(9), 30C(e)(5), 30D(e)(4), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
+**(m) Deficiencies attributable to election of certain credits** The period for assessing a deficiency attributable to any election under 11 So in original. Probably should be followed by “section”. 30B(h)(9), 30C(e)(5), 30D(e)(4), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
 
 **(n) Cross references**
 
@@ -143,6 +143,8 @@ the personal holding company tax for such year may be assessed, or a proceeding 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (m). Pub. L. 113–295 struck out “section 30(e)(6),” before “30B(h)(9),”.
+
 2010—Subsec. (b)(1). Pub. L. 111–147, § 501(c)(2), inserted “4,” after “chapter 3,”.
 
 Subsec. (b)(2). Pub. L. 111–147, § 501(c)(3), substituted “and withholding taxes” for “taxes and tax imposed by chapter 3” in heading and inserted “4,” after “chapter 3,” in text.
@@ -370,6 +372,9 @@ Subsec. (d). Pub. L. 85–866, § 80(a), (b), substituted in first sentence “s
 Subsec. (g)(2). Pub. L. 85–866, § 81(a), substituted “organization” for “corporation” wherever appearing.
 
 Subsecs. (h), (i). Pub. L. 85–866, § 81(b), added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–237 applicable to restitution ordered after Aug. 16, 2010, see section 3(c) of Pub. L. 111–237, set out as a note under [section 6201 of this title](./chapter-063-assessment.md#section-6201).
@@ -848,7 +853,7 @@ Amendment by section 1203(h)(1) of Pub. L. 94–455 applicable to documents prep
 
 For effective date of amendment by section 1601(f)(2) of Pub. L. 94–455, see section 1608(a) of Pub. L. 94–455, set out as a note under [section 857 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-857).
 
-Amendment by section 1902(b)(2)(A) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by section 1902(b)(2)(A) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 Amendment by section 2004(c)(4) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2004(g) of Pub. L. 94–455, set out as a note under [section 6166 of this title](./chapter-062-time-and-place-for-paying-tax.md#section-6166).
 
@@ -1112,7 +1117,8 @@ Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act 
     as a result of an award of compensation under title 38 of such Code pursuant to a determination by the Secretary of Veterans Affairs, the 3-year period of limitation prescribed in subsection (a) shall be extended, for purposes of permitting a credit or refund based upon the amount of such reduction or waiver, until the end of the 1-year period beginning on the date of such determination.
 
   (B) *Limitation to 5 taxable years* — Subparagraph (A) shall not apply with respect to any taxable year which began more than 5 years before the date of such determination.
-[(e) Repealed. Pub. L. 101–508, title XI, § 11801(c)(22)(C), Nov. 5, 1990, 104 Stat. 1388–528]
+
+**(e) Repealed. Pub. L. 101–508, title XI, § 11801(c)(22)(C), Nov. 5, 1990, 104 Stat. 1388–528]**
 
 **(f) Special rule for chapter 42 and similar taxes** For purposes of any tax imposed by section 4912, chapter 42, or section 4975, the return referred to in subsection (a) shall be the return specified in section 6501(l)(1).
 
@@ -1286,7 +1292,7 @@ Subsec. (f)(6). Act June 29, 1956, added par. (6).
 Pub. L. 110–245, title I, § 106(b), June 17, 2008, 122 Stat. 1630, provided that: “The amendment made by subsection (a) [amending this section] shall apply to claims for credit or refund filed after the date of the enactment of this Act [June 17, 2008].”
 
 #### Effective Date of 2001 Amendment
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2011 of this title](./chapter-011-estate-tax.md#section-2011).
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–206, title III, § 3202(b), July 22, 1998, 112 Stat. 741, provided that: “The amendment made by subsection (a) [amending this section] shall apply to periods of disability before, on, or after the date of the enactment of this Act [July 22, 1998] but shall not apply to any claim for credit or refund which (without regard to such amendment) is barred by the operation of any law or rule of law (including res judicata) as of the date of the enactment of this Act.”
@@ -1398,7 +1404,7 @@ Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
 
 #### Transition Rules
-Pub. L. 110–245, title I, § 106(c), June 17, 2008, 122 Stat. 1630, provided that: “In the case of a determination described in paragraph (8) of section 6511(d) of the Internal Revenue Code of 1986 (as added by this section) which is made by the Secretary of Veterans Affairs after December 31, 2000, and before the date of the enactment of this Act [June 17, 2008], such paragraph— “(1) shall not apply with respect to any taxable year which began before January 1, 2001, and “(2) shall be applied by substituting [sic] for ‘the date of such determination’ in subparagraph (A) thereof.”
+Pub. L. 110–245, title I, § 106(c), June 17, 2008, 122 Stat. 1630, as amended by Pub. L. 113–295, div. A, title II, § 213(a), Dec. 19, 2014, 128 Stat. 4033, provided that: “In the case of a determination described in paragraph (8) of section 6511(d) of the Internal Revenue Code of 1986 (as added by this section) which is made by the Secretary of Veterans Affairs after December 31, 2000, and before the date of the enactment of this Act [June 17, 2008], such paragraph— “(1) shall not apply with respect to any taxable year which began before January 1, 2001, and “(2) shall be applied by substituting ‘June 17, 2008’ for ‘the date of such determination’ in subparagraph (A) thereof.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
@@ -1712,7 +1718,8 @@ No person shall be prosecuted, tried, or punished for any of the various offense
 
 (7) for offenses described in section 7214(a) committed by officers and employees of the United States; and
 
-(8) for offenses arising under [section 371 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section371&num=0&edition=prelim) of the United States Code, where the object of the conspiracy is to attempt in any manner to evade or defeat any tax or the payment thereof. The time during which the person committing any of the various offenses arising under the internal revenue laws is outside the United States or is a fugitive from justice within the meaning of [section 3290 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3290&num=0&edition=prelim) of the United States Code, shall not be taken as any part of the time limited by law for the commencement of such proceedings. (The preceding sentence shall also be deemed an amendment to section 3748(a) of the Internal Revenue Code of 1939, and shall apply in lieu of the sentence in section 3748(a) which relates to the time during which a person committing an offense is absent from the district wherein the same is committed, except that such amendment shall apply only if the period of limitations under section 3748 would, without the application of such amendment, expire more than 3 years after the date of enactment of this title, and except that such period shall not, with the application of this amendment, expire prior to the date which is 3 years after the date of enactment of this title.) Where a complaint is instituted before a commissioner of the United States within the period above limited, the time shall be extended until the date which is 9 months after the date of the making of the complaint before the commissioner of the United States. For the purpose of determining the periods of limitation on criminal prosecutions, the rules of section 6513 shall be applicable.
+(8) for offenses arising under [section 371 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section371&num=0&edition=prelim) of the United States Code, where the object of the conspiracy is to attempt in any manner to evade or defeat any tax or the payment thereof.
+The time during which the person committing any of the various offenses arising under the internal revenue laws is outside the United States or is a fugitive from justice within the meaning of [section 3290 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3290&num=0&edition=prelim) of the United States Code, shall not be taken as any part of the time limited by law for the commencement of such proceedings. (The preceding sentence shall also be deemed an amendment to section 3748(a) of the Internal Revenue Code of 1939, and shall apply in lieu of the sentence in section 3748(a) which relates to the time during which a person committing an offense is absent from the district wherein the same is committed, except that such amendment shall apply only if the period of limitations under section 3748 would, without the application of such amendment, expire more than 3 years after the date of enactment of this title, and except that such period shall not, with the application of this amendment, expire prior to the date which is 3 years after the date of enactment of this title.) Where a complaint is instituted before a commissioner of the United States within the period above limited, the time shall be extended until the date which is 9 months after the date of the making of the complaint before the commissioner of the United States. For the purpose of determining the periods of limitation on criminal prosecutions, the rules of section 6513 shall be applicable.
 
 ### Statutory Notes
 

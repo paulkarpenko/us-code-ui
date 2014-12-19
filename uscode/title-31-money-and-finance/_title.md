@@ -2,7 +2,7 @@
 title: 31
 heading: MONEY AND FINANCE
 positive_law: false
-sections: 476
+sections: 479
 chapters: 30
 ---
 # Title 31. MONEY AND FINANCE

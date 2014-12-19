@@ -821,7 +821,11 @@ The words “by such agent as . . . shall appoint” are omitted as unnecessary.
 
 (5) The Secretary of the Treasury in consultation with the Commissioner of Social Security and the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
 
-(6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
+(6)
+
+  (A) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 120 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
+
+  (B) The Secretary of the Treasury shall notify Congress of any instance in which an agency fails to notify the Secretary as required under subparagraph (A).
 
 (7)
 
@@ -906,6 +910,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(8), is classified 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (c)(6). Pub. L. 113–101 designated existing provisions as subpar. (A), substituted “120 days” for “180 days”, and added subpar. (B).
+
 2008—Subsec. (c)(1)(A). Pub. L. 110–275, § 189(b)(1), inserted “the Department of Health and Human Services,” after “United States Postal Service,”.
 
 Subsec. (c)(3)(D). Pub. L. 110–275, § 189(b)(2), added subpar. (D).
@@ -1370,23 +1376,23 @@ Pub. L. 98–369, div. B, title VI, § 2652(a)(3), July 18, 1984, 98 Stat. 1152,
 
 (1) 11 So in original. Subsec. (h) contains two pars. designated (1) and (2). The disbursing official of the Department of the Treasury—
 
-  (1) 1 shall notify a taxpayer in writing of—
+(1) 1 shall notify a taxpayer in writing of—
 
-(A) the occurrence of an offset to satisfy a past-due legally enforceable nontax debt;
+  (A) the occurrence of an offset to satisfy a past-due legally enforceable nontax debt;
 
-(B) the identity of the creditor agency requesting the offset; and
+  (B) the identity of the creditor agency requesting the offset; and
 
-(C) a contact point within the creditor agency that will handle concerns regarding the offset;
+  (C) a contact point within the creditor agency that will handle concerns regarding the offset;
 
-  (2) 1 shall notify the Internal Revenue Service on a weekly basis of—
+(2) 1 shall notify the Internal Revenue Service on a weekly basis of—
 
-(A) the occurrence of an offset to satisfy a past-due legally enforceable non-tax 22 So in original. Probably should not be hyphenated. debt;
+  (A) the occurrence of an offset to satisfy a past-due legally enforceable non-tax 22 So in original. Probably should not be hyphenated. debt;
 
-(B) the amount of such offset; and
+  (B) the amount of such offset; and
 
-(C) any other information required by regulations; and
+  (C) any other information required by regulations; and
 
-  (3) shall match payment records with requests for offset by using a name control, taxpayer identifying number (as that term is used in section 6109 of the Internal Revenue Code of 1986), and any other necessary identifiers.
+(3) shall match payment records with requests for offset by using a name control, taxpayer identifying number (as that term is used in section 6109 of the Internal Revenue Code of 1986), and any other necessary identifiers.
 
 **(h)**
 
@@ -2288,7 +2294,7 @@ Pub. L. 99–145, title IX, § 931(b), Nov. 8, 1985, 99 Stat. 699, provided that
 
 (1) A person may bring a civil action for a violation of section 3729 for the person and for the United States Government. The action shall be brought in the name of the Government. The action may be dismissed only if the court and the Attorney General give written consent to the dismissal and their reasons for consenting.
 
-(2) A copy of the complaint and written disclosure of substantially all material evidence and information the person possesses shall be served on the Government pursuant to Rule 4(d)(4) of the Federal Rules of Civil Procedure. The complaint shall be filed in camera, shall remain under seal for at least 60 days, and shall not be served on the defendant until the court so orders. The Government may elect to intervene and proceed with the action within 60 days after it receives both the complaint and the material evidence and information.
+(2) A copy of the complaint and written disclosure of substantially all material evidence and information the person possesses shall be served on the Government pursuant to Rule 4(d)(4) 11 So in original. Probably should be a reference to Rule 4(i). of the Federal Rules of Civil Procedure. The complaint shall be filed in camera, shall remain under seal for at least 60 days, and shall not be served on the defendant until the court so orders. The Government may elect to intervene and proceed with the action within 60 days after it receives both the complaint and the material evidence and information.
 
 (3) The Government may, for good cause shown, move the court for extensions of the time during which the complaint remains under seal under paragraph (2). Any such motions may be supported by affidavits or other submissions in camera. The defendant shall not be required to respond to any complaint filed under this section until 20 days after the complaint is unsealed and served upon the defendant pursuant to Rule 4 of the Federal Rules of Civil Procedure.
 

@@ -24,13 +24,13 @@ It is the purpose of this chapter to provide a classification system for the equ
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Effective Date
-Pub. L. 88–652, § 17, Oct. 13, 1964, 78 Stat. 1084, provided that: “This Act [enacting this chapter and amending sections 88c and 123b of this title] shall become effective on January 1, 1965.”
+Pub. L. 88–652, § 17, Oct. 13, 1964, 78 Stat. 1084, provided that: “This Act [enacting this chapter and amending sections 88c and 4131 of this title] shall become effective on January 1, 1965.”
 
 #### Short Title
-Pub. L. 88–652, § 1, Oct. 13, 1964, 78 Stat. 1079, provided that: “This Act [enacting this chapter and amending sections 88c and 123b of this title] may be cited as the ‘House Employees Position Classification Act’.”
+Pub. L. 88–652, § 1, Oct. 13, 1964, 78 Stat. 1079, provided that: “This Act [see Tables for classification] may be cited as the ‘House Employees Position Classification Act’.”
 
 #### Savings Provision
 Pub. L. 88–652, § 15, Oct. 13, 1964, 78 Stat. 1084, provided that: “(a) Notwithstanding any provision of this Act [this chapter], the aggregate (gross) rate of compensation of any employee immediately prior to the effective date of this Act [Jan. 1, 1965] shall not be reduced by reason of the enactment of this Act. “(b) For the purposes of applicable law relating to the payment to any individual of compensation from more than one civilian office or position, each employee of the House to whom this Act applies who, immediately prior to the effective date of this Act—“(1) is receiving basic compensation from more than one civilian office or position and “(2) is in compliance with such law shall be held and considered to be in compliance with such law on and after such effective date, notwithstanding the enactment of this Act, so long as such employee continues to receive, without break in service of more than thirty days, the same or lower rate of basic compensation in a position to which this Act does not apply.”
@@ -52,7 +52,7 @@ This chapter shall apply to—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
 
 #### Amendments
 1995—Par. (1). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster,”.
@@ -77,7 +77,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
 
 #### Amendments
 2004—Subsec. (b). Pub. L. 108–447 in last sentence substituted “succeeding year (other than any period during which a memorandum of understanding described in [section 2168(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2168/a&num=0&edition=prelim) is in effect),” for “succeeding year,”.
@@ -95,7 +95,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 Amendment by Pub. L. 108–447 applicable with respect to fiscal year 2005 and each succeeding fiscal year, see [section 2168(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2168/f&num=0&edition=prelim).
 
 #### Increases in Compensation
-Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 60a–2 and 60a–2a of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
+Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 4531 and 4532 of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
 
 
 <a id="section-293a-to-293c"></a>
@@ -162,7 +162,7 @@ All such actions of the committee shall be binding on the House officer and orga
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
 
 #### Amendments
 1996—Subsec. (b)(1)(C). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Doorkeeper”.
@@ -183,7 +183,7 @@ The committee shall place each position (in existence on, or established after, 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
 
 
 <a id="section-296"></a>
@@ -251,7 +251,7 @@ The committee may authorize the establishment of additional positions of the kin
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
 
 #### Amendments
 1996—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund”.
@@ -269,7 +269,7 @@ This chapter shall not be held or considered to change or otherwise affect—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
 
 
 <a id="section-302"></a>
@@ -280,7 +280,7 @@ The committee is authorized to prescribe such regulations as may be necessary to
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
 
 
 <a id="section-303"></a>

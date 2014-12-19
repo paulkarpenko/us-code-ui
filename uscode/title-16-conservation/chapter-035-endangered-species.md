@@ -45,7 +45,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b) and (c)(1), was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, as amended, known as the “Endangered Species Act of 1973”, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (b) and (c)(1), was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 1988—Subsec. (a)(4)(G). Pub. L. 100–478 substituted “; and” for period at end.
@@ -71,6 +71,97 @@ Pub. L. 102–251, title III, § 305, Mar. 9, 1992, 106 Stat. 66, as amended by 
 
 #### Minimization of Conflicts With Recreational Fisheries
 For provision that all Federal agencies minimize conflicts between recreational fisheries and administration of this chapter, see Ex. Ord. No. 12962, § 4, June 7, 1995, 60 F.R. 30770, set out as a note under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801).
+
+#### Ex. Ord. No. 13648. Combating Wildlife Trafficking
+Ex. Ord. No. 13648, July 1, 2013, 78 F.R. 40621, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to address the significant effects of wildlife trafficking on the national interests of the United States, I hereby order as follows:
+
+Section 1. Policy. The poaching of protected species and the illegal trade in wildlife and their derivative parts and products (together known as “wildlife trafficking”) represent an international crisis that continues to escalate. Poaching operations have expanded beyond small-scale, opportunistic actions to coordinated slaughter commissioned by armed and organized criminal syndicates. The survival of protected wildlife species such as elephants, rhinos, great apes, tigers, sharks, tuna, and turtles has beneficial economic, social, and environmental impacts that are important to all nations. Wildlife trafficking reduces those benefits while generating billions of dollars in illicit revenues each year, contributing to the illegal economy, fueling instability, and undermining security. Also, the prevention of trafficking of live animals helps us control the spread of emerging infectious diseases. For these reasons, it is in the national interest of the United States to combat wildlife trafficking.
+
+In order to enhance domestic efforts to combat wildlife trafficking, to assist foreign nations in building capacity to combat wildlife trafficking, and to assist in combating transnational organized crime, executive departments and agencies (agencies) shall take all appropriate actions within their authority, including the promulgation of rules and regulations and the provision of technical and financial assistance, to combat wildlife trafficking in accordance with the following objectives:
+
+(a) in appropriate cases, the United States shall seek to assist those governments in anti-wildlife trafficking activities when requested by foreign nations experiencing trafficking of protected wildlife;
+
+(b) the United States shall promote and encourage the development and enforcement by foreign nations of effective laws to prohibit the illegal taking of, and trade in, these species and to prosecute those who engage in wildlife trafficking, including by building capacity;
+
+(c) in concert with the international community and partner organizations, the United States shall seek to combat wildlife trafficking; and
+
+(d) the United States shall seek to reduce the demand for illegally traded wildlife, both at home and abroad, while allowing legal and legitimate commerce involving wildlife.
+
+Sec. 2. Establishment. There is established a Presidential Task Force on Wildlife Trafficking (Task Force), to be co-chaired by the Secretary of State, Secretary of the Interior, and the Attorney General (Co-Chairs), or their designees, who shall report to the President through the National Security Advisor. The Task Force shall develop and implement a National Strategy for Combating Wildlife Trafficking in accordance with the objectives outlined in section 1 of this order, consistent with section 4 of this order.
+
+Sec. 3. Membership. (a) In addition to the Co-Chairs, the Task Force shall include designated senior-level representatives from:
+
+(i) the Department of the Treasury;
+
+(ii) the Department of Defense;
+
+(iii) the Department of Agriculture;
+
+(iv) the Department of Commerce;
+
+(v) the Department of Transportation;
+
+(vi) the Department of Homeland Security;
+
+(vii) the United States Agency for International Development;
+
+(viii) the Office of the Director of National Intelligence;
+
+(ix) the National Security Staff;
+
+(x) the Domestic Policy Council;
+
+(xi) the Council on Environmental Quality;
+
+(xii) the Office of Science and Technology Policy;
+
+(xiii) the Office of Management and Budget;
+
+(xiv) the Office of the United States Trade Representative; and
+
+(xv) such agencies and offices as the Co-Chairs may, from time to time, designate.
+
+(b) The Task Force shall meet not later than 60 days from the date of this order and periodically thereafter.
+
+Sec. 4. Functions. Consistent with the authorities and responsibilities of member agencies, the Task Force shall perform the following functions:
+
+(a) not later than 180 days after the date of this order, produce a National Strategy for Combating Wildlife Trafficking that shall include consideration of issues relating to combating trafficking and curbing consumer demand, including:
+
+(i) effective support for anti-poaching activities;
+
+(ii) coordinating regional law enforcement efforts;
+
+(iii)developing and supporting effective legal enforcement mechanisms; and
+
+(iv) developing strategies to reduce illicit trade and reduce consumer demand for trade in protected species;
+
+(b) not later than 90 days from the date of this order, review the Strategy to Combat Transnational Organized Crime of July 19, 2011, and, if appropriate, make recommendations regarding the inclusion of crime related to wildlife trafficking as an implementation element for the Federal Government’s transnational organized crime strategy;
+
+(c) coordinate efforts among and consult with agencies, as appropriate and consistent with the Department of State’s foreign affairs role, regarding work with foreign nations and international bodies that monitor and aid in enforcement against crime related to wildlife trafficking; and
+
+(d) carry out other functions necessary to implement this order.
+
+Sec. 5. Advisory Council on Wildlife Trafficking. Not later than 180 days from the date of this order, the Secretary of the Interior (Secretary), in consultation with the other Co-Chairs of the Task Force, shall establish an Advisory Council on Wildlife Trafficking (Advisory Council) that shall make recommendations to the Task Force and provide it with ongoing advice and assistance. The Advisory Council shall have eight members, one of whom shall be designated by the Secretary as the Chair. Members shall not be employees of the Federal Government and shall include knowledgeable individuals from the private sector, former governmental officials, representatives of nongovernmental organizations, and others who are in a position to provide expertise and support to the Task Force.
+
+Sec. 6. General Provisions. (a) This order shall be implemented consistent with applicable domestic and international law, and subject to the availability of appropriations.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof, or the status of that department or agency within the Federal Government; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), may apply to the Advisory Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
+
+(e) The Department of the Interior shall provide funding and administrative support for the Task Force and Advisory Council to the extent permitted by law and consistent with existing appropriations.
+
+Barack Obama.
+
+[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657 set out as a note under [section 3021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim), War and National Defense.]
 
 
 <a id="section-1532"></a>
@@ -141,6 +232,8 @@ For the purposes of this chapter—
 ### Statutory Notes
 
 #### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
 Reorganization Plan Numbered 4 of 1970, referred to in par. (15), is Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
@@ -409,6 +502,8 @@ The Secretary shall provide to the public notice of, and opportunity to submit w
 #### References in Text
 Reorganization Plan Numbered 4 of 1970, referred to in subsec. (a)(2), is Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+This chapter, referred to in subsecs. (b)(4), (8), (e)(C), and (g)(1), was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. This chapter, referred to in subsec. (b)(3)(B)(iii)(II), was in the original “the Act” and was translated as if it read “this Act”, to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
 The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
 #### Amendments
@@ -499,7 +594,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 (2) is authorized to acquire by purchase, donation, or otherwise, lands, waters, or interest therein, and such authority shall be in addition to any other land acquisition authority vested in him.
 
-**(b) Availability of funds for acquisition of lands, waters, etc.** Funds made available pursuant to the Land and Water Conservation Fund Act of 1965, as amended [[16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 et seq.], may be used for the purpose of acquiring lands, waters, or interests therein under subsection (a) of this section.
+**(b) Availability of funds for acquisition of lands, waters, etc.** Funds made available pursuant to chapter 2003 of title 54,11 So in original. Comma probably should not appear. may be used for the purpose of acquiring lands, waters, or interests therein under subsection (a) of this section.
 
 ### Statutory Notes
 
@@ -510,9 +605,9 @@ The Fish and Wildlife Coordination Act, as amended, referred to in subsec. (a)(1
 
 The Migratory Bird Conservation Act, referred to in subsec. (a)(1), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
 
-The Land and Water Conservation Fund Act of 1965, as amended, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
-
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965, as amended”.
+
 1978—Subsec. (a). Pub. L. 95–632, among other changes in text preceding par. (1), inserted reference to the Secretary of Agriculture with respect to the National Forest System and substituted the establishment and implementation of a plan to conserve plants for the establishment and implementation of a plan to conserve plants which were concluded in Appendices to the Convention.
 
 
@@ -610,6 +705,8 @@ The Land and Water Conservation Fund Act of 1965, as amended, referred to in sub
 ### Statutory Notes
 
 #### References in Text
+This chapter, referred to in text, was in the original “this Act” or “This Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
 The Sport Fishing Restoration Account established under section 1016 of the Act of July 18, 1984, referred to in subsec. (i)(1), probably means the Sport Fish Restoration Account established by [section 9504(a)(2)(A) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9504/a/2/A&num=0&edition=prelim), Internal Revenue Code, which section was enacted by section 1016(a) of Pub. L. 98–369, div. A, title X, July 18, 1984, 98 Stat. 1019.
 
 #### Amendments
@@ -875,6 +972,8 @@ Nothing in the amendment of [section 1379 of this title](./chapter-031-marine-ma
 ### Statutory Notes
 
 #### References in Text
+This chapter, referred to in subsecs. (a)(1), (i), and (j), was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
 The Privacy Act, referred to in subsec. (e)(7)(C), is probably a reference to [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees. See Short Title note set out under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim).
 
 The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
@@ -995,6 +1094,8 @@ Pub. L. 99–625, § 1, Nov. 7, 1986, 100 Stat. 3500, provided that: “(a) Defi
 
 #### References in Text
 The Food for Peace Act, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1691&num=0&edition=prelim) and Tables.
+
+This chapter, referred to in subsecs. (b) and (d), was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 #### Codification
 In subsec. (a), “[section 1306 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1306&num=0&edition=prelim)” substituted for “section 1415 of the Supplemental Appropriation Act, 1953 ([31 U.S.C. 724](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section724&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -1175,6 +1276,8 @@ Pub. L. 96–159, § 6(b), Dec. 28, 1979, 93 Stat. 1230, provided that until suc
 ### Statutory Notes
 
 #### References in Text
+This chapter, referred to in subsecs. (a)(1)(G), (2)(E), (c)(2), (e), and (f)(1), was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
 [Section 668cc–4 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section668cc–4&num=0&edition=prelim), referred to in subsec. (f)(2), was repealed by Pub. L. 93–205, § 14, Dec. 28, 1973, 87 Stat. 903.
 
 #### Amendments
@@ -1403,6 +1506,8 @@ be an importation not in violation of any provision of this chapter or any regul
 ### Statutory Notes
 
 #### References in Text
+This chapter, referred to in text, was in the original “this Act”, except for “the Act” in subsec. (f)(6)(B), meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
 [Section 668cc–3 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section668cc–3&num=0&edition=prelim), referred to in subsec. (b), was repealed by Pub. L. 93–205, § 14, Dec. 28, 1973, 87 Stat. 903.
 
 Subsec. (f) of [section 1533 of this title](./chapter-035-endangered-species.md#section-1533), referred to in subsec. (f)(5), which related to promulgation of regulations by the Secretary was struck out, and subsec. (g) of [section 1533 of this title](./chapter-035-endangered-species.md#section-1533), was redesignated as subsec. (f), by Pub. L. 97–304, § 2(a)(4)(B), (C), Oct. 13, 1982, 96 Stat. 1415. For provisions relating to promulgation of regulations, see subsecs. (b) and (h) of [section 1533 of this title](./chapter-035-endangered-species.md#section-1533).
@@ -1544,9 +1649,9 @@ Pub. L. 103–238, § 18, Apr. 30, 1994, 108 Stat. 559, provided that: “Notwit
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(1), (3), (b)–(f), (g)(1)(A), and (h), was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the “Endangered Species Act of 1973”, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+This chapter, referred to in subsecs. (a)(1), (3), (b)–(f), (g)(1)(A), and (h), was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The amendments made by this chapter, referred to in subsec. (h), refer to the amendments made by Pub. L. 93–205, which amended sections 460k–1, 460l–9, 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim), Agriculture, and repealed sections 668aa to 668cc–6 of this title.
+The amendments made by this chapter, referred to in subsec. (h), refer to the amendments made by Pub. L. 93–205, which amended section 460k–1, former section 460l–9, and sections 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim), Agriculture, and repealed sections 668aa to 668cc–6 of this title.
 
 The Tariff Act of 1930, referred to in subsec. (h), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. Section 306 of the Act was repealed by Pub. L. 107–171, title X, § 10418(a)(5), May 13, 2002, 116 Stat. 507. For complete classification of this Act to the Code, see [section 1654 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1654&num=0&edition=prelim) and Tables.
 
@@ -1621,6 +1726,9 @@ The Secretary of the Smithsonian Institution, in conjunction with other affected
 
 ### Statutory Notes
 
+#### References in Text
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
 #### Amendments
 1988—Pub. L. 100–478 amended section generally, substituting provisions authorizing appropriations for fiscal years 1988 through 1992 for provisions authorizing appropriations for fiscal years 1983 through 1985.
 
@@ -1651,7 +1759,7 @@ Except as otherwise provided in this chapter, no provision of this chapter shall
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, as amended, known as the “Endangered Species Act of 1973”, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 The Marine Mammal Protection Act of 1972, referred to in text, is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
 
@@ -1666,6 +1774,9 @@ Notwithstanding section 3003 of Public Law 104–66 ([31 U.S.C. 1113](https://us
 (2) an accounting on a species by species basis of all reasonably identifiable expenditures made primarily for the conservation of endangered or threatened species pursuant to this chapter by States receiving grants under [section 1535 of this title](./chapter-035-endangered-species.md#section-1535).
 
 ### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 #### Amendments
 2000—Pub. L. 106–201, in introductory provisions, substituted “Notwithstanding section 3003 of Public Law 104–66 ([31 U.S.C. 1113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim) note; 109 Stat. 734), on” for “On”.

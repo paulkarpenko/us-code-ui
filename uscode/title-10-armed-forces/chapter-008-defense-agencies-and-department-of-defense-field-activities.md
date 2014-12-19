@@ -69,8 +69,11 @@ Pub. L. 99–433, title III, § 303, Oct. 1, 1986, 100 Stat. 1023, directed Secr
 
 ### Statutory Notes
 
+#### Amendment of Subsection (e)(2)
+Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See Change of Name note below.
+
 #### Prior Provisions
-A prior section 192, Pub. L. 98–215, title V, § 501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as [section 1605 of this title](./chapter-083-civilian-defense-intelligence-employees.md#section-1605) and amended by Pub. L. 99–145, title XIII, § 1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 (now 492) of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
+A prior section 192, Pub. L. 98–215, title V, § 501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as [section 1605 of this title](./chapter-083-civilian-defense-intelligence-employees.md#section-1605) and amended by Pub. L. 99–145, title XIII, § 1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 (now 491) of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
 
 #### Amendments
 2008—Subsec. (c)(2). Pub. L. 110–181, § 931(a)(1), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
@@ -83,6 +86,9 @@ Subsec. (e)(2). Pub. L. 110–181, § 904(c), substituted “that the Director o
 
 1998—Subsec. (d). Pub. L. 105–261 added subsec. (d).
 
+#### Change of Name
+“Under Secretary of Defense for Business Management and Information” substituted for “Deputy Chief Management Officer of the Department of Defense” in subsec. (e)(2) after Feb. 1, 2017, on authority of section 901(n)(1) of Pub. L. 113–291, set out as a note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131).
+
 #### First Review of Defense Agencies by Secretary of Defense
 Pub. L. 99–433, title III, § 304(a), Oct. 1, 1986, 100 Stat. 1024, required the first review under subsec. (c) of this section to be completed not later than two years after the date that the report under Pub. L. 99–433, § 303(e), formerly set out as a note under [section 191 of this title](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-191), was required to be submitted to Congress (Oct. 1, 1987).
 
@@ -91,7 +97,7 @@ Pub. L. 99–433, title III, § 304(a), Oct. 1, 1986, 100 Stat. 1024, required t
 ## § 193. Combat support agencies: oversight
 **(a) Combat Readiness.—**
 
-(1) Periodically (and not less often than every two years), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense a report on the combat support agencies. Each such report shall include—
+(1) Periodically (and not less often than every two years), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense and the congressional defense committees a report on the combat support agencies. Each such report shall include—
 
   (A) a determination with respect to the responsiveness and readiness of each such agency to support operating forces in the event of a war or threat to national security; and
 
@@ -130,6 +136,8 @@ Pub. L. 99–433, title III, § 304(a), Oct. 1, 1986, 100 Stat. 1024, required t
 ### Statutory Notes
 
 #### Amendments
+2013—Subsec. (a)(1). Pub. L. 113–66 inserted “and the congressional defense committees” after “the Secretary of Defense” in introductory provisions.
+
 2009—Subsecs. (d)(2), (e). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(1), (2). See 2008 Amendment note below.
 
 2008—Subsecs. (d)(2), (e). Pub. L. 110–181 and Pub. L. 110–417, § 932(a)(1), (2), made identical amendments, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(1), (2), was repealed by Pub. L. 111–84.
@@ -182,11 +190,13 @@ Section 304(b) of Pub. L. 99–433 required the first report under subsec. (a) o
 
 (2) during a national emergency declared by the President or Congress.
 
-**(f) Definitions.—** In this section, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Directive 5100.73, entitled “Department of Defense Management Headquarters and Headquarters Support Activities” and dated January 7, 1985.
+**(f) Definitions.—** In this section, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Instruction 5100.73, titled “Major DoD Headquarters Activities”.
 
 ### Statutory Notes
 
 #### Amendments
+2013—Subsec. (f). Pub. L. 113–66 substituted “Instruction 5100.73, titled ‘Major DoD Headquarters Activities’.” for “Directive 5100.73, entitled ‘Department of Defense Management Headquarters and Headquarters Support Activities’ and dated January 7, 1985.”
+
 1989—Subsecs. (a), (b). Pub. L. 101–189 substituted “The” for “After September 30, 1989, the”.
 
 1987—Subsec. (e)(2). Pub. L. 100–180 inserted “the President or” after “declared by”.
@@ -208,8 +218,8 @@ The Defense Automated Printing Service shall comply fully with the requirements 
 
 ### Statutory Notes
 
-#### Authority To Procure Services From Government Printing Office
-Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, provided that: “Consistent with [section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim), United States Code, the Secretary of a military department or head of a Defense Agency may contract directly with the Government Printing Office for printing and duplication services otherwise available through the Defense Automated Printing Service.”
+#### Authority To Procure Services From Government Publishing Office
+Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, as amended by Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that: “Consistent with [section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim), United States Code, the Secretary of a military department or head of a Defense Agency may contract directly with the Government Publishing Office for printing and duplication services otherwise available through the Defense Automated Printing Service.”
 
 
 <a id="section-196"></a>
@@ -232,7 +242,7 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, p
 
     (ii) all other test and evaluation facilities and resources within and outside of the Department of Defense, other than budgets and expenditures for activities described in section 139(i) 11 See References in Text note below. of this title.
 
-  (B) To review proposed significant changes to the test and evaluation facilities and resources of the Major Range and Test Facility Base before they are implemented by the Secretaries of the military departments or the heads of the Defense Agencies with test and evaluation responsibilities and advise the Secretary of Defense and the Under Secretary of Acquisition, Technology, and Logistics of the impact of such changes on the adequacy of such test and evaluation facilities and resources to meet the test and evaluation requirements of the Department.
+  (B) To review proposed significant changes to the test and evaluation facilities and resources of the Major Range and Test Facility Base, including with respect to the expansion, divestment, consolidation, or curtailment of activities, before they are implemented by the Secretaries of the military departments or the heads of the Defense Agencies with test and evaluation responsibilities and advise the Secretary of Defense and the Under Secretary of Acquisition, Technology, and Logistics of the impact of such changes on the adequacy of such test and evaluation facilities and resources to meet the test and evaluation requirements of the Department.
 
   (C) To complete and maintain the strategic plan required by subsection (d).
 
@@ -256,9 +266,11 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, p
 
   (D) An assessment of the current state of the test and evaluation facilities and resources of the Department.
 
-  (E) An itemization of acquisitions, upgrades, and improvements necessary to ensure that the test and evaluation facilities and resources of the Department are adequate to meet such requirements and satisfy such performance measures.
+  (E) An assessment of plans and business case analyses supporting any significant modification of the test and evaluation facilities and resources of the Department projected, proposed, or recommended by the Secretary of a military department or the head of a Defense Agency for such period, including with respect to the expansion, divestment, consolidation, or curtailment of activities.
 
-  (F) An assessment of the budgetary resources necessary to implement such acquisitions, upgrades, and improvements.
+  (F) An itemization of acquisitions, upgrades, and improvements necessary to ensure that the test and evaluation facilities and resources of the Department are adequate to meet such requirements and satisfy such performance measures.
+
+  (G) An assessment of the budgetary resources necessary to implement such acquisitions, upgrades, and improvements.
 
 (3) Upon completing a strategic plan under paragraph (1), the Director shall submit to the Secretary of Defense a report on that plan. The report shall include the plan and a description of the review on which the plan is based.
 
@@ -266,7 +278,7 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, p
 
 **(e) Certification of Budgets.—**
 
-(1) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require that the Secretary of each military department and the head of each Defense Agency with test and evaluation responsibilities transmit such Secretary’s or Defense Agency head’s proposed budget for test and evaluation activities for a fiscal year to the Director of the Center for review under paragraph (2) before submitting such proposed budget to the Under Secretary of Defense (Comptroller).
+(1) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require that the Secretary of each military department and the head of each Defense Agency with test and evaluation responsibilities transmit such Secretary’s or Defense Agency head’s proposed budget for test and evaluation activities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221) for that fiscal year to the Director of the Center for review under paragraph (2) before submitting such proposed budget to the Under Secretary of Defense (Comptroller).
 
 (2)
 
@@ -280,11 +292,21 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, p
 
   (B) Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.
 
-**(f) Supervision of Director by Under Secretary.—** The Director of the Center shall be subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics. The Director shall report directly to the Under Secretary, without the interposition of any other supervising official.
+**(f) Approval of Certain Modifications.—**
 
-**(g) Administrative Support of Center.—** The Secretary of Defense shall provide the Director with administrative support adequate for carrying out the Director’s responsibilities under this section. The Secretary shall provide the support out of the headquarters activities of the Department or any other activities that the Secretary considers appropriate.
+(1) The Secretary of a military department or the head of a Defense Agency with test and evaluation responsibilities may not implement a projected, proposed, or recommended significant modification of the test and evaluation facilities and resources of the Department, including with respect to the expansion, divestment, consolidation, or curtailment of activities, until—
 
-**(h) Definition.—** In this section, the term “Major Range and Test Facility Base” means the test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
+  (A) the Secretary or the head, as the case may be, submits to the Director a business case analysis for such modification; and
+
+  (B) the Director reviews such analysis and approves such modification.
+
+(2) The Director shall submit to the Secretary of Defense an annual report containing the comments of the Director with respect to each business case analysis reviewed under paragraph (1)(B) during the year covered by the report.
+
+**(g) Supervision of Director by Under Secretary.—** The Director of the Center shall be subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics. The Director shall report directly to the Under Secretary, without the interposition of any other supervising official.
+
+**(h) Administrative Support of Center.—** The Secretary of Defense shall provide the Director with administrative support adequate for carrying out the Director’s responsibilities under this section. The Secretary shall provide the support out of the headquarters activities of the Department or any other activities that the Secretary considers appropriate.
+
+**(i) Definition.—** In this section, the term “Major Range and Test Facility Base” means the test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
 
 ### Statutory Notes
 
@@ -292,6 +314,14 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, p
 [Section 139(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section139/i&num=0&edition=prelim), referred to in subsec. (c)(1)(A)(ii), was redesignated as [section 139(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section139/j&num=0&edition=prelim) by Pub. L. 110–181, title II, § 221, Jan. 28, 2008, 122 Stat. 37.
 
 #### Amendments
+2014—Subsec. (c)(1)(B). Pub. L. 113–291, § 214(a), inserted “, including with respect to the expansion, divestment, consolidation, or curtailment of activities,” after “Base”.
+
+Subsec. (d)(2)(E) to (G). Pub. L. 113–291, § 214(b), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+
+Subsec. (e)(1). Pub. L. 113–291, § 214(c), inserted “and for the period covered by the future-years defense program submitted to Congress under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221) for that fiscal year” after “activities for a fiscal year”.
+
+Subsecs. (f) to (i). Pub. L. 113–291, § 214(d), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
+
 2009—Subsec. (c). Pub. L. 111–84 inserted par. (1) designation before “The Director”, redesignated former par. (1) as subpar. (A) and former subpars. (A) and (B) as cl. (i) and (ii), respectively, of subpar. (A), added subpar. (B), redesignated former pars. (2) to (4) as subpars. (C) to (E), respectively, and added par. (2).
 
 2006—Subsec. (b)(1). Pub. L. 109–163, § 902(a), substituted “individuals who have substantial experience in the field of test and evaluation.” for “commissioned officers of the armed forces on active duty or from among senior civilian officers and employees of the Department of Defense.”
@@ -327,7 +357,7 @@ Pub. L. 107–314, div. A, title II, § 231(b), (c), Dec. 2, 2002, 116 Stat. 248
 
 **(b) Concurrence in Appointment.—**
 
-(1) In the event of a vacancy in a position referred to in paragraph (2), before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy, the Secretary of Defense shall obtain the concurrence of the Director of National Intelligence as provided in section 106(b) of the National Security Act of 1947 ([50 U.S.C. 403–6(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–6/b&num=0&edition=prelim)).11 See References in Text note below.
+(1) In the event of a vacancy in a position referred to in paragraph (2), before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy, the Secretary of Defense shall obtain the concurrence of the Director of National Intelligence as provided in section 106(b) of the National Security Act of 1947 ([50 U.S.C. 3041(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3041/b&num=0&edition=prelim)).
 
 (2) Paragraph (1) applies to the following positions:
 
@@ -351,13 +381,12 @@ Pub. L. 107–314, div. A, title II, § 231(b), (c), Dec. 2, 2002, 116 Stat. 248
 
 ### Statutory Notes
 
-#### References in Text
-The National Security Act of 1947, referred to in subsec. (b)(1), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 106 of the Act is now classified to [section 3041 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3041&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
-
 #### Prior Provisions
 A prior section 201 was renumbered [section 202 of this title](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-202) and subsequently repealed.
 
 #### Amendments
+2014—Subsec. (b)(1). Pub. L. 113–291 substituted “([50 U.S.C. 3041(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3041/b&num=0&edition=prelim))” for “([50 U.S.C. 403–6(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–6/b&num=0&edition=prelim))”.
+
 2009—Subsecs. (a), (b)(1), (c)(1). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(3)–(5). See 2008 Amendment notes below.
 
 2008—Subsec. (a). Pub. L. 110–181, § 931(a)(4), and Pub. L. 110–417, § 932(a)(3), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(3), was repealed by Pub. L. 111–84.

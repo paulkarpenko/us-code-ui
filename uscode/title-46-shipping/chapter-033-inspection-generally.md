@@ -872,7 +872,21 @@ Section 3315 requires an individual holding a license issued by the Coast Guard 
 
 **(e)** The Secretary shall revoke a delegation made to a classification society under subsection (b) or (d) if the Secretary of State determines that the classification society provides comparable services in or for a state sponsor of terrorism.
 
-**(f)** In this section, the term “state sponsor of terrorism” means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.
+**(f)**
+
+(1) Upon request of an owner or operator of an offshore supply vessel, the Secretary shall delegate the authorities set forth in paragraph (1) of subsection (b) with respect to such vessel to a classification society to which a delegation is authorized under that paragraph. A delegation by the Secretary under this subsection shall be used for any vessel inspection and examination function carried out by the Secretary, including the issuance of certificates of inspection and all other related documents.
+
+(2) If the Secretary determines that a certificate of inspection or related document issued under authority delegated under paragraph (1) of this subsection with respect to a vessel has reduced the operational safety of that vessel, the Secretary may terminate the certificate or document, respectively.
+
+(3) Not later than 2 years after the date of the enactment of the Howard Coble Coast Guard and Maritime Transportation Act of 2014, and for each year of the subsequent 2-year period, the Secretary shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing—
+
+  (A) the number of vessels for which a delegation was made under paragraph (1);
+
+  (B) any savings in personnel and operational costs incurred by the Coast Guard that resulted from the delegations; and
+
+  (C) based on measurable marine casualty and other data, any impacts of the delegations on the operational safety of vessels for which the delegations were made, and on the crew on those vessels.
+
+**(g)** In this section, the term “state sponsor of terrorism” means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.
 
 ### Statutory Notes
 
@@ -886,15 +900,19 @@ Section 3316 prescribes the relationship between certain classification societie
 The section requires that a Federal department, agency, or instrumentality recognize the American Bureau of Shipping as its agent for classing vessels owned by the Federal Government and in any matters related to classification. In effect, the ABS has a statutory monopoly on classing vessels of the United States Government. Additionally, the section contains the authority to permit the Secretary to rely on reports, documents, and certificates issued by a classification society that is similar to the American Bureau of Shipping. However, a “similar classification society” continues to mean one that is organized like the American Bureau of Shipping with attendant governmental representation.
 
 #### References in Text
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (f), is classified to [section 2405(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2405/j&num=0&edition=prelim), Appendix, War and National Defense.
+The date of the enactment of the Howard Coble Coast Guard and Maritime Transportation Act of 2014, referred to in subsec. (f)(3), is the date of enactment of Pub. L. 113–281, which was approved Dec. 18, 2014.
 
-The International Emergency Economic Powers Act, referred to in subsec. (f), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (g), is classified to [section 2405(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2405/j&num=0&edition=prelim), Appendix, War and National Defense.
 
-Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (f), is classified to [section 2371 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim), Foreign Relations and Intercourse.
+The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
-Section 40 of the Arms Export Control Act, referred to in subsec. (f), is classified to [section 2780 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780&num=0&edition=prelim), Foreign Relations and Intercourse.
+Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (g), is classified to [section 2371 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+Section 40 of the Arms Export Control Act, referred to in subsec. (g), is classified to [section 2780 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2014—Subsecs. (f), (g). Pub. L. 113–281 added subsec. (f) and redesignated former subsec. (f) as (g).
+
 2012—Subsec. (b)(2)(C). Pub. L. 112–213, § 304(1), added subpar. (C).
 
 Subsec. (d)(2)(C). Pub. L. 112–213, § 304(2), added subpar. (C).

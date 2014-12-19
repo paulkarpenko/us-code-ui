@@ -109,7 +109,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (1) those species subject to the provisions of this chapter on the day before November 10, 2005;
 
-(2) catfish, as defined by the Secretary; and
+(2) all fish of the order Siluriformes; and
 
 (3) any additional species of livestock that the Secretary considers appropriate.
 
@@ -122,6 +122,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in pars. (q) and (r), is a
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (w)(2). Pub. L. 113–79 added par. (2) and struck out former par. (2) which read as follows: “catfish, as defined by the Secretary; and”.
+
 2008—Subsec. (w)(2), (3). Pub. L. 110–246, § 11016(b)(1)(A), added par. (2) and redesignated former par. (2) as (3).
 
 2005—Par. (w). Pub. L. 109–97 added par. (w).
@@ -131,10 +133,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Change of Name
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (n)(10) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
+#### Effective Date of 2014 Amendment
+Pub. L. 113–79, title XII, § 12106(c), Feb. 7, 2014, 128 Stat. 982, provided that: “This section [amending this section, sections 606 and 625 of this title, and [section 1622 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1622&num=0&edition=prelim), Agriculture, and enacting and repealing provisions set out as notes under this section] and the amendments made by this section shall take effect as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2130) [amending this section, enacting sections 606 and 625 of this title, repealing former [section 606 of this title](./chapter-012-meat-inspection.md#section-606), and enacting provisions set out as notes below].”
+
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
-Pub. L. 110–234, title XI, § 11016(b)(2)(A), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(2)(A), June 18, 2008, 122 Stat. 1664, 2131, provided that: “The amendments made by paragraph (1) [enacting sections 606 and 625 of this title, amending this section, and repealing former [section 606 of this title](./chapter-012-meat-inspection.md#section-606)] shall not apply until the date on which the Secretary of Agriculture issues final regulations (after providing a period of public comment, including through the conduct of public meetings or hearings, in accordance with chapter 5 of title 5, United States Code) to carry out such amendments.”
+Pub. L. 110–234, title XI, § 11016(b)(2)(A), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(2)(A), June 18, 2008, 122 Stat. 1664, 2131, provided that the amendments made by section 11016(b)(1) of Pub. L. 110–234 and section 11016(b)(1) of Pub. L. 110–246 (enacting sections 606 and 625 of this title, amending this section, and repealing former [section 606 of this title](./chapter-012-meat-inspection.md#section-606)) would not apply until the date on which the Secretary of Agriculture issued final regulations to carry out such amendments, prior to repeal by Pub. L. 113–79, title XII, § 12106(b)(4), Feb. 7, 2014, 128 Stat. 981, effective as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2130), see Effective Date of 2014 Amendment note above.
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.]
 
@@ -156,7 +161,11 @@ Pub. L. 90–201, § 1, Dec. 15, 1967, 81 Stat. 584, provided in part: “That t
 Pub. L. 90–201, § 1, Dec. 15, 1967, 81 Stat. 584, provided in part that the provisions of act Mar. 4, 1907, as amended, classified to subchapters I to IV–A of this chapter, are designated as the “Federal Meat Inspection Act”.
 
 #### Regulations
-Pub. L. 110–234, title XI, § 11016(b)(2)(B), May 22, 2008, 122 Stat. 1370, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(2)(B), June 18, 2008, 122 Stat. 1664, 2131, provided that: “Not later than 18 months after the date of the enactment of this Act [June 18, 2008], the Secretary of Agriculture, in consultation with the Commissioner of Food and Drugs, shall issue final regulations to carry out the amendments made by paragraph (1) [enacting sections 606 and 625 of this title, amending this section, and repealing former [section 606 of this title](./chapter-012-meat-inspection.md#section-606)].”
+Pub. L. 113–79, title XII, § 12106(b)(1)–(3), Feb. 7, 2014, 128 Stat. 981, provided that: “(1) In general.—The Secretary shall—“(A) not later than 60 days after the date of enactment of this Act [Feb. 7, 2014], issue final regulations to carry out the amendments made by section 11016(b)(1) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2130) [amending this section, enacting sections 606 and 625 of this title, and repealing former [section 606 of this title](./chapter-012-meat-inspection.md#section-606)], as further clarified by the amendments made by this section [amending this section, sections 606 and 625 of this title, and [section 1622 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1622&num=0&edition=prelim), Agriculture, and enacting and repealing provisions set out as notes under this section]; and “(B) not later than 1 year after the date of enactment of this Act, implement the amendments described in subparagraph (A). “(2) Notification.—Beginning 30 days after the date of enactment of this Act and every 30 days thereafter until the date of full implementation of the amendments described in paragraph (1)(A), the Secretary shall submit a report describing the status of implementation to—“(A) the Committee on Agriculture of the House of Representatives; “(B) the Committee on Agriculture, Nutrition and Forestry of the Senate; “(C) the Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies of the Committee on Appropriations of the House of Representatives; and “(D) the Subcommittee on Agriculture, Rural Development, and Related Agencies of the Committee on Appropriations of the Senate. “(3) Procedure.—Section 1601(c)(2) [[7 U.S.C. 9091(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9091/c/2&num=0&edition=prelim)] applies to the promulgation of the regulations and administration of this section and the amendments made by this section.”
+
+Pub. L. 110–246, title XI, § 11016(b)(2), as added by Pub. L. 113–79, title XII, § 12106(b)(4), Feb. 7, 2014, 128 Stat. 981, provided that: “(A) Regulations.—Not later than 60 days after the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], the Secretary [of Agriculture], in consultation with the Commissioner of Food and Drugs, shall issue final regulations to carry out the amendments made by paragraph (1) [amending this section, enacting sections 606 and 625 of this title, and repealing former [section 606 of this title](./chapter-012-meat-inspection.md#section-606)] and section 12106 of that Act [amending this section, sections 606 and 625 of this title, and [section 1622 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1622&num=0&edition=prelim), Agriculture, and enacting and repealing provisions set out as notes under this section] in a manner that ensures that there is no duplication in inspection activities. “(B) Interagency coordination.—Not later than 60 days after the date of enactment of the Agricultural Act of 2014, the Secretary shall execute a memorandum of understanding with the Commissioner of Food and Drugs for the following purposes:“(i) To improve interagency cooperation on food safety and fraud prevention, building upon any other prior agreements, including provisions, performance metrics, and timelines as appropriate. “(ii) To maximize the effectiveness of limited personnel and resources by ensuring that—“(I) inspections conducted by the Department satisfy requirements under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.); “(II) inspections of shipments and processing facilities for fish of the order Siluriformes by the Department and the Food and Drug Administration are not duplicative; and “(III) any information resulting from examination, testing, and inspections conducted is considered in making risk-based determinations, including the establishment of inspection priorities.”
+
+Pub. L. 110–234, title XI, § 11016(b)(2)(B), May 22, 2008, 122 Stat. 1370, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(2)(B), June 18, 2008, 122 Stat. 1664, 2131, required the Secretary of Agriculture, in consultation with the Commissioner of Food and Drugs, to issue final regulations to carry out the amendments made by section 11016(b)(1) of Pub. L. 110–234 and section 11016(b)(1) of Pub. L. 110–246 (enacting sections 606 and 625 of this title, amending this section, and repealing former [section 606 of this title](./chapter-012-meat-inspection.md#section-606)) not later than 18 months after June 18, 2008, prior to repeal by Pub. L. 113–79, title XII, § 12106(b)(4), Feb. 7, 2014, 128 Stat. 981, effective as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2130), see Effective Date of 2014 Amendment note above.
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.]
 
@@ -254,7 +263,7 @@ Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect 
 ## § 606. Inspection and labeling of meat food products
 **(a) In general** For the purposes hereinbefore set forth the Secretary shall cause to be made, by inspectors appointed for that purpose, an examination and inspection of all meat food products prepared for commerce in any slaughtering, meat-canning, salting, packing, rendering, or similar establishment, and for the purposes of any examination and inspection and inspectors shall have access at all times, by day or night, whether the establishment be operated or not, to every part of said establishment; and said inspectors shall mark, stamp, tag, or label as “Inspected and passed” all such products found to be not adulterated; and said inspectors shall label, mark, stamp, or tag as “Inspected and condemned” all such products found adulterated, and all such condemned meat food products shall be destroyed for food purposes, as hereinbefore provided, and the Secretary may remove inspectors from any establishment which fails to so destroy such condemned meat food products: Provided, That subject to the rules and regulations of the Secretary the provisions of this section in regard to preservatives shall not apply to meat food products for export to any foreign country and which are prepared or packed according to the specifications or directions of the foreign purchaser, when no substance is used in the preparation or packing thereof in conflict with the laws of the foreign country to which said article is to be exported; but if said article shall be in fact sold or offered for sale for domestic use or consumption then this proviso shall not exempt said article from the operation of all the other provisions of this chapter.11 See References in Text note below.
 
-**(b) Catfish** In the case of an examination and inspection under subsection (a) of a meat food product derived from catfish, the Secretary shall take into account the conditions under which the catfish is raised and transported to a processing establishment.
+**(b) Certain fish** In the case of an examination and inspection under subsection (a) of a meat food product derived from any fish described in [section 601(w)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section601/w/2&num=0&edition=prelim), the Secretary shall take into account the conditions under which the fish is raised and transported to a processing establishment.
 
 ### Statutory Notes
 
@@ -267,10 +276,14 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections and repealed 
 #### Prior Provisions
 A prior section 606, acts Mar. 4, 1907, ch. 2907, title I, § 6, formerly 4th par., 34 Stat. 1261; renumbered § 6 and amended Pub. L. 90–201, §§ 1, 3, 12(e), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 99–641, title IV, § 403(a), Nov. 10, 1986, 100 Stat. 3567, was formerly classified to [section 74 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section74&num=0&edition=prelim) and was repealed by Pub. L. 110–234, title XI, § 11016(b)(1)(B), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(1)(B), June 18, 2008, 122 Stat. 1664, 2131. Prior to repeal, section read as follows: “For the purposes hereinbefore set forth the Secretary shall cause to be made, by inspectors appointed for that purpose, an examination and inspection of all meat food products prepared for commerce in any slaughtering, meat-canning, salting, packing, rendering, or similar establishment, and for the purposes of any examination and inspection and inspectors shall have access at all times, by day or night, whether the establishment be operated or not, to every part of said establishment; and said inspectors shall mark, stamp, tag, or label as ‘Inspected and passed’ all such products found to be not adulterated; and said inspectors shall label, mark, stamp, or tag as ‘Inspected and condemned’ all such products found adulterated, and all such condemned meat food products shall be destroyed for food purposes, as hereinbefore provided, and the Secretary may remove inspectors from any establishment which fails to so destroy such condemned meat food products: Provided, That subject to the rules and regulations of the Secretary the provisions of this section in regard to preservatives shall not apply to meat food products for export to any foreign country and which are prepared or packed according to the specifications or directions of the foreign purchaser, when no substance is used in the preparation or packing thereof in conflict with the laws of the foreign country to which said article is to be exported; but if said article shall be in fact sold or offered for sale for domestic use or consumption then this proviso shall not exempt said article from the operation of all the other provisions of this chapter.”
 
+#### Amendments
+2014—Subsec. (b). Pub. L. 113–79 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “In the case of an examination and inspection under subsection (a) of a meat food product derived from catfish, the Secretary shall take into account the conditions under which the catfish is raised and transported to a processing establishment.”
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–79 effective as if enacted as part of section 11016(b) of Pub. L. 110–246, see section 12106(c) of Pub. L. 113–79, set out as a note under [section 601 of this title](./chapter-012-meat-inspection.md#section-601).
+
 #### Effective Date
 Enactment of this section and repeal of former section 6 of act Mar. 4, 1907, and Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
-
-Section and repeal of former section 6 of act Mar. 4, 1907, inapplicable until date on which the Secretary of Agriculture issues final regulations to carry out amendments by Pub. L. 110–246, § 11016(b)(1), see section 11016(b)(2)(A) of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under [section 601 of this title](./chapter-012-meat-inspection.md#section-601).
 
 
 <a id="section-607"></a>
@@ -782,17 +795,21 @@ The Secretary may by regulations prescribe conditions under which carcasses, par
 <a id="section-625"></a>
 ## § 625. Inapplicability of certain requirements to catfish
 
-Notwithstanding any other provision of this chapter, the requirements of sections 603, 604, 605, 610(b), and 623 of this title shall not apply to catfish.
+Notwithstanding any other provision of this chapter, the requirements of sections 603, 604, 605, 610(b), and 623 of this title shall not apply to any fish described in [section 601(w)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section601/w/2&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Amendments
+2014—Pub. L. 113–79 substituted “not apply to any fish described in [section 601(w)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section601/w/2&num=0&edition=prelim).” for “not apply to catfish.”
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–79 effective as if enacted as part of section 11016(b) of Pub. L. 110–246, see section 12106(c) of Pub. L. 113–79, set out as a note under [section 601 of this title](./chapter-012-meat-inspection.md#section-601).
+
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
-
-Section inapplicable until date on which the Secretary of Agriculture issues final regulations to carry out amendments by Pub. L. 110–246, § 11016(b)(1), see section 11016(b)(2)(A) of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under [section 601 of this title](./chapter-012-meat-inspection.md#section-601).
 
 
 <a id="section-641"></a>
@@ -1087,6 +1104,10 @@ The Poultry Products Inspection Act, referred to in subsec. (i), is Pub. L. 85�
 
 #### Prior Provisions
 A prior section 410 of act Mar. 4, 1907, was renumbered section 411, and is classified to [section 680 of this title](./chapter-012-meat-inspection.md#section-680).
+
+Use of Appropriated Funds
+
+For prohibition of use of funds appropriated by div. A of Pub. L. 113–235 or any other Act to carry out this section see section 741 Pub. L. 113–235, set out as a note under [section 471 of this title](./chapter-010-poultry-and-poultry-products-inspection.md#section-471).
 
 
 <a id="section-679b"></a>

@@ -15,7 +15,7 @@ For the purpose of this subchapter—
 
   (A) an Executive agency; and
 
-  (B) the Government Printing Office;
+  (B) the Government Publishing Office;
   but does not include—
 
   (i) a Government corporation;
@@ -86,6 +86,9 @@ Par. (2)(H). Pub. L. 101–510 added subpar. (H).
 Par. (2)(E). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
 
 1970—Par. (1)(ii). Pub. L. 91–375 repealed cl. (ii) which excluded postal field service from definition of “agency”.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in par. (1)(B) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under [section 193 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section193&num=0&edition=prelim), Armed Forces.

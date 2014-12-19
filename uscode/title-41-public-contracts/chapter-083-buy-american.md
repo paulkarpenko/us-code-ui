@@ -173,6 +173,10 @@ In subsection (a), the text of 41:10b–2(b) is omitted as unnecessary.
 #### Similar Provisions
 Provisions similar to those in this section and [section 8305 of this title](./chapter-083-buy-american.md#section-8305) were contained in the following acts:
 
+Pub. L. 113–235, div. C, title VIII, § 8028, Dec. 16, 2014, 128 Stat. 2258.
+
+Pub. L. 113–76, div. C, title VIII, § 8027, Jan. 17, 2014, 128 Stat. 110.
+
 Pub. L. 113–6, div. C, title VIII, § 8027, Mar. 26, 2013, 127 Stat. 302.
 
 Pub. L. 112–74, div. A, title VIII, § 8027, Dec. 23, 2011, 125 Stat. 811.

@@ -223,9 +223,13 @@ Pub. L. 109–469, § 102(a), amended subsec. (a) generally. Prior to amendment,
 Subsec. (b). Pub. L. 109–469, § 102(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to Director and Deputy Directors of National Drug Control Policy.
 
 #### Gifts to Office of National Drug Control Policy
-Pub. L. 112–74, div. C, title II, Dec. 23, 2011, 125 Stat. 895, provided in part: “That the Office [of National Drug Control Policy] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
+Pub. L. 113–235, div. E, title II, Dec. 16, 2014, 128 Stat. 2344, provided in part: “That the Office [of National Drug Control Policy] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. E, title II, Jan. 17, 2014, 128 Stat. 195.
+
+Pub. L. 112–74, div. C, title II, Dec. 23, 2011, 125 Stat. 895.
 
 Pub. L. 111–117, div. C, title II, Dec. 16, 2009, 123 Stat. 3170.
 
@@ -541,7 +545,7 @@ William J. Clinton.
 
   (B) contrary, in whole or in part, to the expressed intent of Congress.
 
-(4) **2 Congressional notice.—** — A copy of each fund control notice shall be transmitted to the appropriate congressional committees.
+(4) **2 Congressional notice** — A copy of each fund control notice shall be transmitted to the appropriate congressional committees.
 
 (5) **3 Restrictions** — The Director shall not issue a fund control notice to direct that all or part of an amount appropriated to the National Drug Control Program agency account be obligated, modified, or altered in any manner contrary, in whole or in part, to a specific appropriation or statute.
 

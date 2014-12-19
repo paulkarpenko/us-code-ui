@@ -1182,7 +1182,7 @@ If the debtor fails to so act within the 45-day period referred to in paragraph 
 
 (2) a copy of the debt repayment plan, if any, developed under section 109(h) through the approved nonprofit budget and credit counseling agency referred to in paragraph (1).
 
-**(c)** In addition to meeting the requirements under subsection (a), a debtor shall file with the court a record of any interest that a debtor has in an education individual retirement account (as defined in section 530(b)(1) of the Internal Revenue Code of 1986) or under a qualified State tuition program (as defined in section 529(b)(1) of such Code).
+**(c)** In addition to meeting the requirements under subsection (a), a debtor shall file with the court a record of any interest that a debtor has in an education individual retirement account (as defined in section 530(b)(1) of the Internal Revenue Code of 1986), an interest in an account in a qualified ABLE program (as defined in section 529A(b) of such Code,11 So in original. A closing parenthesis probably should precede the comma. or under a qualified State tuition program (as defined in section 529(b)(1) of such Code).
 
 **(d)** If the debtor fails timely to take the action specified in subsection (a)(6) of this section, or in paragraphs (1) and (2) of section 362(h), with respect to property which a lessor or bailor owns and has leased, rented, or bailed to the debtor or as to which a creditor holds a security interest not otherwise voidable under section 522(f), 544, 545, 547, 548, or 549, nothing in this title shall prevent or limit the operation of a provision in the underlying lease or agreement that has the effect of placing the debtor in default under such lease or agreement by reason of the occurrence, pendency, or existence of a proceeding under this title or the insolvency of the debtor. Nothing in this subsection shall be deemed to justify limiting such a provision in any other circumstance.
 
@@ -1270,11 +1270,13 @@ The list in this section is not exhaustive of the debtor’s duties. Others are 
 #### References in Text
 Section 3 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(7), is classified to [section 1002 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002&num=0&edition=prelim), Labor.
 
-Sections 530(b)(1) and 529(b)(1) of the Internal Revenue Code of 1986, referred to in subsec. (c), are classified to sections 530(b)(1) and 529(b)(1), respectively, of Title 26, Internal Revenue Code.
+Sections 530(b)(1), 529A(b), and 529(b)(1) of the Internal Revenue Code of 1986, referred to in subsec. (c), are classified to sections 530(b)(1), 529A(b), and 529(b)(1), respectively, of Title 26, Internal Revenue Code.
 
 Section 315(c) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, referred to in subsec. (g)(2), is section 315(c) of Pub. L. 109–8, which is set out as a note under this section.
 
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–295 inserted “, an interest in an account in a qualified ABLE program (as defined in section 529A(b) of such Code,” after “Internal Revenue Code of 1986)”.
+
 2010—Subsec. (a)(2). Pub. L. 111–327, § 2(a)(16)(A)(iii), in subpar. (C) substituted “except that” for subpar. (C) designation.
 
 Subsec. (a)(2)(A). Pub. L. 111–327, § 2(a)(16)(A)(i), struck out “the debtor shall” after “period fixes,” and inserted “and” after semicolon at end.
@@ -1324,6 +1326,9 @@ Subsec. (j). Pub. L. 109–8, § 720, added subsec. (j).
 Pars. (2) to (5). Pub. L. 98–353, § 305(1), (3), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
 Pub. L. 98–353, § 452, which directed the insertion of “, whether or not immunity is granted under [section 344 of this title](./chapter-003-case-administration.md#section-344)” after second reference to “estate” in par. (3) as redesignated above, could not be executed because such reference appeared in par. (4) rather than in par. (3).
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–295, div. B, title I, § 104(d), Dec. 19, 2014, 128 Stat. 4064, provided that: “The amendments made by this section [amending this section and sections 541 and 707 of this title] shall apply with respect to cases commenced under title 11, United States Code, on or after the date of the enactment of this Act [Dec. 19, 2014].”
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under [section 109 of this title](./chapter-001-general-provisions.md#section-109).
@@ -2606,30 +2611,15 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
 
   (J)
 
-    (i) The following additional statements:
-  “Reaffirming a debt is a serious financial decision. The law requires you to take certain steps to make sure the decision is in your best interest. If these steps are not completed, the reaffirmation agreement is not effective, even though you have signed it.
-“1. Read the disclosures in this Part A carefully. Consider the decision to reaffirm carefully. Then, if you want to reaffirm, sign the reaffirmation agreement in Part B (or you may use a separate agreement you and your creditor agree on).
-“2. Complete and sign Part D and be sure you can afford to make the payments you are agreeing to make and have received a copy of the disclosure statement and a completed and signed reaffirmation agreement.
-“3. If you were represented by an attorney during the negotiation of your reaffirmation agreement, the attorney must have signed the certification in Part C.
-“4. If you were not represented by an attorney during the negotiation of your reaffirmation agreement, you must have completed and signed Part E.
-“5. The original of this disclosure must be filed with the court by you or your creditor. If a separate reaffirmation agreement (other than the one in Part B) has been signed, it must be attached.
-“6. If you were represented by an attorney during the negotiation of your reaffirmation agreement, your reaffirmation agreement becomes effective upon filing with the court unless the reaffirmation is presumed to be an undue hardship as explained in Part D.
-“7. If you were not represented by an attorney during the negotiation of your reaffirmation agreement, it will not be effective unless the court approves it. The court will notify you of the hearing on your reaffirmation agreement. You must attend this hearing in bankruptcy court where the judge will review your reaffirmation agreement. The bankruptcy court must approve your reaffirmation agreement as consistent with your best interests, except that no court approval is required if your reaffirmation agreement is for a consumer debt secured by a mortgage, deed of trust, security deed, or other lien on your real property, like your home.
-“Your right to rescind (cancel) your reaffirmation agreement. You may rescind (cancel) your reaffirmation agreement at any time before the bankruptcy court enters a discharge order, or before the expiration of the 60-day period that begins on the date your reaffirmation agreement is filed with the court, whichever occurs later. To rescind (cancel) your reaffirmation agreement, you must notify the creditor that your reaffirmation agreement is rescinded (or canceled).
-“What are your obligations if you reaffirm the debt? A reaffirmed debt remains your personal legal obligation. It is not discharged in your bankruptcy case. That means that if you default on your reaffirmed debt after your bankruptcy case is over, your creditor may be able to take your property or your wages. Otherwise, your obligations will be determined by the reaffirmation agreement which may have changed the terms of the original agreement. For example, if you are reaffirming an open end credit agreement, the creditor may be permitted by that agreement or applicable law to change the terms of that agreement in the future under certain conditions.
-“Are you required to enter into a reaffirmation agreement by any law? No, you are not required to reaffirm a debt by any law. Only agree to reaffirm a debt if it is in your best interest. Be sure you can afford the payments you agree to make.
-“What if your creditor has a security interest or lien? Your bankruptcy discharge does not eliminate any lien on your property. A ‘lien’ is often referred to as a security interest, deed of trust, mortgage or security deed. Even if you do not reaffirm and your personal liability on the debt is discharged, because of the lien your creditor may still have the right to take the property securing the lien if you do not pay the debt or default on it. If the lien is on an item of personal property that is exempt under your State’s law or that the trustee has abandoned, you may be able to redeem the item rather than reaffirm the debt. To redeem, you must make a single payment to the creditor equal to the amount of the allowed secured claim, as agreed by the parties or determined by the court.”.
+    (i) The following additional statements:“Reaffirming a debt is a serious financial decision. The law requires you to take certain steps to make sure the decision is in your best interest. If these steps are not completed, the reaffirmation agreement is not effective, even though you have signed it. “1. Read the disclosures in this Part A carefully. Consider the decision to reaffirm carefully. Then, if you want to reaffirm, sign the reaffirmation agreement in Part B (or you may use a separate agreement you and your creditor agree on). “2. Complete and sign Part D and be sure you can afford to make the payments you are agreeing to make and have received a copy of the disclosure statement and a completed and signed reaffirmation agreement. “3. If you were represented by an attorney during the negotiation of your reaffirmation agreement, the attorney must have signed the certification in Part C. “4. If you were not represented by an attorney during the negotiation of your reaffirmation agreement, you must have completed and signed Part E. “5. The original of this disclosure must be filed with the court by you or your creditor. If a separate reaffirmation agreement (other than the one in Part B) has been signed, it must be attached. “6. If you were represented by an attorney during the negotiation of your reaffirmation agreement, your reaffirmation agreement becomes effective upon filing with the court unless the reaffirmation is presumed to be an undue hardship as explained in Part D. “7. If you were not represented by an attorney during the negotiation of your reaffirmation agreement, it will not be effective unless the court approves it. The court will notify you of the hearing on your reaffirmation agreement. You must attend this hearing in bankruptcy court where the judge will review your reaffirmation agreement. The bankruptcy court must approve your reaffirmation agreement as consistent with your best interests, except that no court approval is required if your reaffirmation agreement is for a consumer debt secured by a mortgage, deed of trust, security deed, or other lien on your real property, like your home. “Your right to rescind (cancel) your reaffirmation agreement. You may rescind (cancel) your reaffirmation agreement at any time before the bankruptcy court enters a discharge order, or before the expiration of the 60-day period that begins on the date your reaffirmation agreement is filed with the court, whichever occurs later. To rescind (cancel) your reaffirmation agreement, you must notify the creditor that your reaffirmation agreement is rescinded (or canceled). “What are your obligations if you reaffirm the debt? A reaffirmed debt remains your personal legal obligation. It is not discharged in your bankruptcy case. That means that if you default on your reaffirmed debt after your bankruptcy case is over, your creditor may be able to take your property or your wages. Otherwise, your obligations will be determined by the reaffirmation agreement which may have changed the terms of the original agreement. For example, if you are reaffirming an open end credit agreement, the creditor may be permitted by that agreement or applicable law to change the terms of that agreement in the future under certain conditions. “Are you required to enter into a reaffirmation agreement by any law? No, you are not required to reaffirm a debt by any law. Only agree to reaffirm a debt if it is in your best interest. Be sure you can afford the payments you agree to make. “What if your creditor has a security interest or lien? Your bankruptcy discharge does not eliminate any lien on your property. A ‘lien’ is often referred to as a security interest, deed of trust, mortgage or security deed. Even if you do not reaffirm and your personal liability on the debt is discharged, because of the lien your creditor may still have the right to take the property securing the lien if you do not pay the debt or default on it. If the lien is on an item of personal property that is exempt under your State’s law or that the trustee has abandoned, you may be able to redeem the item rather than reaffirm the debt. To redeem, you must make a single payment to the creditor equal to the amount of the allowed secured claim, as agreed by the parties or determined by the court.”.
 
-**(ii)** In the case of a reaffirmation under subsection (m)(2), numbered paragraph 6 in the disclosures required by clause (i) of this subparagraph shall read as follows: “6. If you were represented by an attorney during the negotiation of your reaffirmation agreement, your reaffirmation agreement becomes effective upon filing with the court.”.
+    (ii) In the case of a reaffirmation under subsection (m)(2), numbered paragraph 6 in the disclosures required by clause (i) of this subparagraph shall read as follows:“6. If you were represented by an attorney during the negotiation of your reaffirmation agreement, your reaffirmation agreement becomes effective upon filing with the court.”.
 
 (4) The form of such agreement required under this paragraph shall consist of the following:“Part B: Reaffirmation Agreement. I (we) agree to reaffirm the debts arising under the credit agreement described below. “Brief description of credit agreement: “Description of any changes to the credit agreement made as part of this reaffirmation agreement: “Signature: Date: “Borrower: “Co-borrower, if also reaffirming these debts: “Accepted by creditor: “Date of creditor acceptance:”.
 
 (5) The declaration shall consist of the following:
 
-  (A) The following certification:
-  “Part C: Certification by Debtor’s Attorney (If Any).
-  “I hereby certify that (1) this agreement represents a fully informed and voluntary agreement by the debtor; (2) this agreement does not impose an undue hardship on the debtor or any dependent of the debtor; and (3) I have fully advised the debtor of the legal effect and consequences of this agreement and any default under this agreement.
-  “Signature of Debtor’s Attorney: Date:”.
+  (A) The following certification:“Part C: Certification by Debtor’s Attorney (If Any). “I hereby certify that (1) this agreement represents a fully informed and voluntary agreement by the debtor; (2) this agreement does not impose an undue hardship on the debtor or any dependent of the debtor; and (3) I have fully advised the debtor of the legal effect and consequences of this agreement and any default under this agreement. “Signature of Debtor’s Attorney: Date:”.
 
   (B) If a presumption of undue hardship has been established with respect to such agreement, such certification shall state that, in the opinion of the attorney, the debtor is able to make the payment.
 
@@ -2643,17 +2633,19 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
 
 (7) The motion that may be used if approval of such agreement by the court is required in order for it to be effective, shall be signed and dated by the movant and shall consist of the following:“Part E: Motion for Court Approval (To be completed only if the debtor is not represented by an attorney.). I (we), the debtor(s), affirm the following to be true and correct: “I am not represented by an attorney in connection with this reaffirmation agreement. “I believe this reaffirmation agreement is in my best interest based on the income and expenses I have disclosed in my Statement in Support of this reaffirmation agreement, and because (provide any additional relevant reasons the court should consider): “Therefore, I ask the court for an order approving this reaffirmation agreement.”.
 
-(8) The court order, which may be used to approve such agreement, shall consist of the following: “Court Order: The court grants the debtor’s motion and approves the reaffirmation agreement described above.”.
+(8) The court order, which may be used to approve such agreement, shall consist of the following:“Court Order: The court grants the debtor’s motion and approves the reaffirmation agreement described above.”.
 
-  (l) Notwithstanding any other provision of this title the following shall apply:
+**(l)** Notwithstanding any other provision of this title the following shall apply:
 
-    (1) A creditor may accept payments from a debtor before and after the filing of an agreement of the kind specified in subsection (c) with the court.
+(1) A creditor may accept payments from a debtor before and after the filing of an agreement of the kind specified in subsection (c) with the court.
 
-    (2) A creditor may accept payments from a debtor under such agreement that the creditor believes in good faith to be effective.
+(2) A creditor may accept payments from a debtor under such agreement that the creditor believes in good faith to be effective.
 
-    (3) The requirements of subsections (c)(2) and (k) shall be satisfied if disclosures required under those subsections are given in good faith. (1) Until 60 days after an agreement of the kind specified in subsection (c) is filed with the court (or such additional period as the court, after notice and a hearing and for cause, orders before the expiration of such period), it shall be presumed that such agreement is an undue hardship on the debtor if the debtor’s monthly income less the debtor’s monthly expenses as shown on the debtor’s completed and signed statement in support of such agreement required under subsection (k)(6)(A) is less than the scheduled payments on the reaffirmed debt. This presumption shall be reviewed by the court. The presumption may be rebutted in writing by the debtor if the statement includes an explanation that identifies additional sources of funds to make the payments as agreed upon under the terms of such agreement. If the presumption is not rebutted to the satisfaction of the court, the court may disapprove such agreement. No agreement shall be disapproved without notice and a hearing to the debtor and creditor, and such hearing shall be concluded before the entry of the debtor’s discharge.
+(3) The requirements of subsections (c)(2) and (k) shall be satisfied if disclosures required under those subsections are given in good faith.
 
-      (m)
+**(m)**
+
+(1) Until 60 days after an agreement of the kind specified in subsection (c) is filed with the court (or such additional period as the court, after notice and a hearing and for cause, orders before the expiration of such period), it shall be presumed that such agreement is an undue hardship on the debtor if the debtor’s monthly income less the debtor’s monthly expenses as shown on the debtor’s completed and signed statement in support of such agreement required under subsection (k)(6)(A) is less than the scheduled payments on the reaffirmed debt. This presumption shall be reviewed by the court. The presumption may be rebutted in writing by the debtor if the statement includes an explanation that identifies additional sources of funds to make the payments as agreed upon under the terms of such agreement. If the presumption is not rebutted to the satisfaction of the court, the court may disapprove such agreement. No agreement shall be disapproved without notice and a hearing to the debtor and creditor, and such hearing shall be concluded before the entry of the debtor’s discharge.
 
 (2) This subsection does not apply to reaffirmation agreements where the creditor is a credit union, as defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act.
 
@@ -3073,14 +3065,26 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
   (B) the debtor has no obligation to repay the money, redeem the collateral, or buy back the property at a stipulated price; and
 
-  (C) neither the debtor nor the trustee have exercised any right to redeem provided under the contract or State law, in a timely manner as provided under State law and section 108(b); or
+  (C) neither the debtor nor the trustee have exercised any right to redeem provided under the contract or State law, in a timely manner as provided under State law and section 108(b);
 
 (9) any interest in cash or cash equivalents that constitute proceeds of a sale by the debtor of a money order that is made—
 
   (A) on or after the date that is 14 days prior to the date on which the petition is filed; and
 
   (B) under an agreement with a money order issuer that prohibits the commingling of such proceeds with property of the debtor (notwithstanding that, contrary to the agreement, the proceeds may have been commingled with property of the debtor),
-  unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition.
+  unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition; or
+
+(10) funds placed in an account of a qualified ABLE program (as defined in section 529A(b) of the Internal Revenue Code of 1986) not later than 365 days before the date of the filing of the petition in a case under this title, but—
+
+  (A) only if the designated beneficiary of such account was a child, stepchild, grandchild, or stepgrandchild of the debtor for the taxable year for which funds were placed in such account;
+
+  (B) only to the extent that such funds—
+
+    (i) are not pledged or promised to any entity in connection with any extension of credit; and
+
+    (ii) are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986); and
+
+  (C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225.
 Paragraph (4) shall not be construed to exclude from the estate any consideration the debtor retains, receives, or is entitled to receive for transferring an interest in liquid or gaseous hydrocarbons pursuant to a farmout agreement.
 
 **(c)**
@@ -3149,11 +3153,13 @@ Section 541(e) [enacted as (d)] confirms the current status under the Bankruptcy
 #### References in Text
 The Higher Education Act of 1965, referred to in subsec. (b)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
-The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7) and (f), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7), (10), and (f), is classified generally to Title 26, Internal Revenue Code.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(A)(i)(I), (B)(i)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Subsec. (b)(10). Pub. L. 113–295 added par. (10).
+
 2010—Subsec. (b)(6)(B). Pub. L. 111–327 substituted “section 529(b)(6)” for “section 529(b)(7)”.
 
 2005—Subsec. (b)(4). Pub. L. 109–8, § 225(a)(1)(A), struck out “or” at end.
@@ -3199,6 +3205,9 @@ Subsec. (c)(1)(B). Pub. L. 98–353, § 456(b)(2), substituted “taking” for 
 Subsec. (d). Pub. L. 98–353, § 456(c), inserted “(1) or (2)” after “(a)”.
 
 Subsec. (e). Pub. L. 98–353, § 456(d), struck out subsec. (e) which read as follows: “The estate shall have the benefit of any defense available to the debtor as against an entity other than the estate, including statutes of limitation, statutes of frauds, usury, and other personal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate.”
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 applicable with respect to cases commenced under this title on or after Dec. 19, 2014, see section 104(d) of Pub. L. 113–295, set out as a note under [section 521 of this title](./chapter-005-creditors-the-debtor-and-the-estate.md#section-521).
 
 #### Effective Date of 2005 Amendment
 Amendment by section 1221(c) of Pub. L. 109–8 applicable to cases pending under this title on Apr. 20, 2005, or filed under this title on or after Apr. 20, 2005, with certain exceptions, see section 1221(d) of Pub. L. 109–8, set out as a note under [section 363 of this title](./chapter-003-case-administration.md#section-363).
@@ -4087,7 +4096,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 (2) any immediate or mediate transferee of such initial transferee.
 
-**(b)** The trustee may not recover under section (a)(2) of this section from—
+**(b)** The trustee may not recover under section 11 So in original. Probably should be “subsection”. (a)(2) of this section from—
 
 (1) a transferee that takes for value, including satisfaction or securing of a present or antecedent debt, in good faith, and without knowledge of the voidability of the transfer avoided; or
 

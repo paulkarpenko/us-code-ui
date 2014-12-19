@@ -1005,7 +1005,7 @@ Section effective Oct. 1, 1980, except as otherwise specifically provided, see s
 
 **(f)** The Secretary shall pay the expenses of carrying out this section from amounts available to the Department for the payment of compensation and pension.
 
-**(g)** The authority of the Secretary to obtain information from the Secretary of the Treasury or the Commissioner of Social Security under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 2016.
+**(g)** The authority of the Secretary to obtain information from the Secretary of the Treasury or the Commissioner of Social Security under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 2024.
 
 ### Statutory Notes
 
@@ -1013,6 +1013,8 @@ Section effective Oct. 1, 1980, except as otherwise specifically provided, see s
 Section 6103(l)(7)(D)(viii) of the Internal Revenue Code, referred to in subsecs. (a), (b), and (g), is classified to section 6103(l)(7)(D)(viii) of Title 26, Internal Revenue Code.
 
 #### Amendments
+2014—Subsec. (g). Pub. L. 113–146 substituted “September 30, 2024” for “September 30, 2016”.
+
 2011—Subsec. (g). Pub. L. 112–56, which directed substitution of “September 30, 2016” for “September 30, 2011”, was executed by making the substitution for “November 18, 2011” to reflect the probable intent of Congress and the amendment by Pub. L. 112–37. See below.
 
 Pub. L. 112–37 substituted “November 18, 2011” for “September 30, 2011”.
@@ -1052,15 +1054,26 @@ Pub. L. 101–508, title VIII, § 8051(d), Nov. 5, 1990, 104 Stat. 1388–351, p
 
 **(c) Source of Funds for Reimbursement to Secretary of Health and Human Services.—** The Secretary shall pay the expense of reimbursing the Secretary of Health and Human Services in accordance with section 453(j)(11)(E) of the Social Security Act, for the cost incurred by the Secretary of Health and Human Services in furnishing information requested by the Secretary under section 453(j)(11) of such Act, from amounts available to the Department for the payment of compensation and pensions.
 
-**(d) Expiration of Authority.—** The authority under this section shall expire on November 18, 2011.
+**(d) Expiration of Authority.—** The authority under this section shall be in effect as follows:
+
+(1) During the period beginning on December 26, 2007, and ending on November 18, 2011.
+
+(2) During the period beginning on the date of the enactment of the Department of Veterans Affairs Expiring Authorities Act of 2013 and ending 180 days after that date.
 
 ### Statutory Notes
 
 #### References in Text
 Section 453 of the Social Security Act, referred to in subsecs. (a) and (c), is classified to [section 653 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section653&num=0&edition=prelim), The Public Health and Welfare.
 
+The date of the enactment of the Department of Veterans Affairs Expiring Authorities Act of 2013, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 113–37, which was approved Sept. 30, 2013.
+
 #### Amendments
+2013—Subsec. (d). Pub. L. 113–37 added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The authority under this section shall expire on November 18, 2011.”
+
 2011—Subsec. (d). Pub. L. 112–37 substituted “November 18, 2011” for “September 30, 2011”.
+
+#### Effective Date of 2013 Amendment
+Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under [section 322 of this title](./chapter-003-department-of-veterans-affairs.md#section-322).
 
 
 <a id="section-5318"></a>

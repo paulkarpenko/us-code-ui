@@ -134,7 +134,7 @@ For definition of Canal Zone, referred to in subsec. (d), see [section 3602(b) o
 
 The Federal Water Pollution Control Act, as amended, referred to in subsec. (f), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
 
-The Atomic Energy Act of 1954, as amended, referred to in subsec. (f), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in subsec. (f), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1988—Subsecs. (k) to (m). Pub. L. 100–688 added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
@@ -413,11 +413,7 @@ Each permit issued pursuant to this subsection shall be subject to such conditio
 
   (B) No permit may be issued by the Administrator under this Act for the disposal of radioactive materials in the ocean unless the Congress, by approval of a resolution described in paragraph (D) within 90 days of continuous session of the Congress beginning on the date after the date of receipt by the Senate and the House of Representatives of such recommendation, authorizes the Administrator to grant a permit to dispose of radioactive material under this Act.
 
-  (C) For purposes of this subsection—
-
-    (1) continuity of session of the Congress is broken only by an adjournment sine die;
-
-    (2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the 90 day calendar period.
+  (C) For purposes of this subsection— (1) continuity of session of the Congress is broken only by an adjournment sine die; (2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the 90 day calendar period.
 
   (D) For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and the Senate approve and authorize the Administrator of the Environmental Protection Agency to grant a permit to _____ under the Marine Protection, Research, and Sanctuaries Act of 1972 to dispose of radioactive materials in the ocean as recommended by the Administrator to the Congress on _____, 19_.”; the first blank space therein to be filled with the appropriate applicant to dispose of nuclear material and the second blank therein to be filled with the date on which the Administrator submits the recommendation to the House of Representatives and the Senate.
 
@@ -979,9 +975,9 @@ Subsec. (b). Pub. L. 100–688, § 3201(d), designated existing provisions as pa
 #### References in Text
 The effective date of this subchapter, referred to in subsecs. (a) and (b), means the effective date of title I of Pub. L. 92–532, which is six months after Oct. 23, 1972. See section 110(a) of Pub. L. 92–532, set out as an Effective Date note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
 
-The Rivers and Harbors Act of 1899, referred to in subsec. (b), is act Mar. 3, 1899, ch. 425, 30 Stat. 1151, as amended, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
+The Rivers and Harbors Act of 1899, referred to in subsec. (b), probably means the Act popularly known as the Rivers and Harbors Appropriation Act of 1899, act Mar. 3, 1899, ch. 425, 30 Stat. 1151, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Fish and Wildlife Coordination Act referred to in subsec. (e), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim) and Tables.
+The Fish and Wildlife Coordination Act referred to in subsec. (e), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim) and Tables.
 
 This Act, referred to in subsec. (g), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16.
 

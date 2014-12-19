@@ -169,6 +169,8 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 (2) If an employee or applicant for employment is the prevailing party of a case arising under section 1215 and the decision is based on a finding of discrimination prohibited under [section 2302(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b/1&num=0&edition=prelim), the payment of attorney fees shall be in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964 ([42 U.S.C. 2000e–5(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5/k&num=0&edition=prelim)).
 
+**(n)** The Board may accept and use gifts and donations of property and services to carry out the duties of the Board.
+
 ### Statutory Notes
 
 #### References in Text
@@ -178,6 +180,8 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d), are set out in
 A prior section 1204 was renumbered [section 1211(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1211/b&num=0&edition=prelim) by Pub. L. 101–12, § 3(a)(6). Pub. L. 102–378, § 2(3), Oct. 2, 1992, 106 Stat. 1346, struck out section catchline of prior section 1204.
 
 #### Amendments
+2014—Subsec. (n). Pub. L. 113–76 added subsec. (n).
+
 2012—Subsec. (m)(1). Pub. L. 112–199 substituted “agency where the prevailing party was employed or had applied for employment at the time of the events giving rise to the case” for “agency involved”.
 
 1994—Subsec. (a)(1). Pub. L. 103–446, which directed the amendment of par. (1) by substituting “section 4303” for “section 4323” could not be executed because the phrase “section 4323” does not appear in text subsequent to the intervening amendment by Pub. L. 103–353 substituting “chapter 43” for “section 4323”. See below.

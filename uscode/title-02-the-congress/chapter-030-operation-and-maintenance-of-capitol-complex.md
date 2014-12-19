@@ -2,7 +2,7 @@
 title: 2
 chapter: '30'
 heading: OPERATION AND MAINTENANCE OF CAPITOL COMPLEX
-section_count: 79
+section_count: 85
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -36,6 +36,8 @@ Joint Resolution May 28, 1908, provided that it should be designated the House O
 Pub. L. 104–197, title III, § 307, Sept. 16, 1996, 110 Stat. 2413, provided that: “(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee on House Oversight [now Committee on House Administration], positions in connection with House public address sound system activities and related funding shall be transferred from the appropriation for the Architect of the Capitol for Capitol buildings and grounds under the heading ‘capitol buildings’ to the appropriation for salaries and expenses of the House of Representatives for the Office of the Clerk under the heading ‘salaries, officers and employees’. “(b) For purposes of [section 8339(m) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8339/m&num=0&edition=prelim), United States Code, the days of unused sick leave to the credit of any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (o) of such section. “(c) In the case of days of annual leave to the credit of any such employee as of the date such employee is transferred under subsection (a), the Architect of the Capitol is authorized to make a lump sum payment to each such employee for that annual leave. No such payment shall be considered a payment or compensation within the meaning of any law relating to dual compensation.”
 
 #### 501 First Street SE., District of Columbia; Disposal of Real Property
+Pub. L. 113–76, div. I, title I, § 1302, Jan. 17, 2014, 128 Stat. 429, provided that: “(a) Use of Building.—In exercising its authority under the item ‘Architect of the Capitol, Capitol Buildings and Grounds, House Office Buildings’ in the Legislative Branch Appropriations Act, 1985 (Public Law 98–367; [2 U.S.C. 2001](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2001) note), to use the building referred to in such item for the purposes of providing office and accommodations for the House of Representatives, the House Office Building Commission is authorized to enter into such agreements regarding the use of the building by the House or by other persons as the Commission considers appropriate. “(b) Effective Date.—This section shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
+
 Pub. L. 104–99, title I, § 121, Jan. 26, 1996, 110 Stat. 30, as amended by Pub. L. 105–275, title I, § 110, Oct. 21, 1998, 112 Stat. 2440, provided that: “(a) Disposal of Real Property.—“(1) In general.—The Architect of the Capitol shall dispose of by sale at fair market value all right, title, and interest of the United States in and to the parcel of real property described in paragraph (9), including all improvements to such real property. Such disposal shall be made by quitclaim deed. “(2) House office building commission.—The Architect of the Capitol shall carry out this section under the direction of the House Office Building Commission. “(3) Procedures.—Notwithstanding any other provision of law, the disposal under paragraph (1) shall be made in accordance with such procedures as the Architect of the Capitol determines appropriate. “(4) Sense of congress.—It is the sense of Congress that the child care center of the House of Representatives should remain in operation during the implementation of this section. “(5) Terms and conditions.—The deed of conveyance for the property to be disposed of under paragraph (1) shall contain such terms and conditions as the Architect of the Capitol determines are necessary to protect the interests of the United States. “(6) Deposit of proceeds.—All proceeds from the disposal under paragraph (1) shall be deposited in the account established by subsection (b). “(7) Advertising and marketing.—The Architect of the Capitol shall begin advertising and marketing the property to be disposed of under paragraph (1) not later than 30 days after the date of the enactment of this Act [Jan. 26, 1996]. “(8) Local zoning and occupancy requirements.—Until such date as the purchaser of the property to be disposed of under paragraph (1) takes full occupancy of such property, such property and the tenants of such property shall be deemed to be in compliance with all applicable zoning and occupancy requirements of the District of Columbia. “(9) Property description.—The parcel of real property referred to in paragraph (1) is the approximately 31,725 square feet of land located at 501 First Street, SE., on square 736 S, Lot 801 (formerly part of Reservation 17) in the District of Columbia. Such parcel is bounded by E Street, SE., to the north, First Street, SE., to the east, New Jersey Avenue, SE., to the west, and Garfield Park to the south. “(b) Separate Account in the Treasury.—“(1) Establishment.—There is established in the Treasury of the United States a separate account which shall consist of amounts deposited into the account by the Architect of the Capitol under subsection (a). “(2) Availability of funds.—Funds in the account established by paragraph (1) shall be available, in such amounts as are specified in appropriations Acts, to the Architect of the Capitol for—“(A) payment of expenses associated with relocating the tenants of the property to be disposed of under subsection (a)(1); “(B) payment of expenses associated with renovating facilities under the jurisdiction of the Architect for the purpose of accommodating such tenants; “(C) reimbursement of expenses incurred for advertising and marketing activities related to the disposal under subsection (a)(1) in a total amount of not to exceed $75,000; and “(D) reimbursement of expenses incurred by the Chief Administrative Officer of the House of Representatives to cover the costs of furnishings and furniture to accommodate the needs of the House of Representatives Child Care Center. Funds made available under this paragraph shall not be subject to any fiscal year limitation. “(3) Reporting of transactions.—Receipts, obligations, and expenditures of funds in the account established by paragraph (1) shall be reported in annual estimates submitted to Congress by the Architect of the Capitol for the operation and maintenance of the Capitol Buildings and Grounds. “(4) Termination of account.—Not later than 2 years after the date of settlement on the property to be disposed of under subsection (a)(1), the Architect of the Capitol shall terminate the account established by paragraph (1) and all amounts remaining in the account shall be deposited into the general fund of the Treasury of the United States and credited as miscellaneous receipts. “(c) Authority To Furnish Steam and Chilled Water.—“(1) In general.—The Architect of the Capitol is authorized to furnish steam and chilled water from the Capitol Power Plant to the owner of the property to be disposed of under subsection (a)(1) if the owner agrees to pay for such steam and chilled water at market rates, as determined by the Architect of the Capitol. “(2) Authority limited to existing facilities.—The Architect of the Capitol may furnish steam and chilled water under paragraph (1) only with respect to facilities which, on the date of the enactment of this Act [Jan. 26, 1996], are located on the property to be disposed of under subsection (a)(1). “(3) Proceeds.—All proceeds from the sale of steam and chilled water under paragraph (1) shall be deposited into the general fund of the Treasury of the United States and credited as miscellaneous receipts.”
 
 [Pub. L. 104–134, title II, § 21103, Apr. 26, 1996, 110 Stat. 1321–335, provided that: “Notwithstanding section 106 of Public Law 104–99 [110 Stat. 27], sections 118 [110 Stat. 30], 121 [set out as a note above], and 129 [amending [section 1611 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1611) and enacting provisions set out as a note under [section 1611 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1611)] of Public Law 104–99 shall remain in effect as if enacted as part of this Act.” ]
@@ -75,7 +77,7 @@ Act Apr. 22, 1955, ch. 26, Ch. XIIA, 69 Stat. 41, known as the Additional House 
 Pub. L. 92–313, § 8, June 16, 1972, 86 Stat. 222, provided that: “(a) Notwithstanding any other provision of law, the House Office Building Commission is authorized (1) to use, to such extent as it may deem necessary, for the purpose of providing office and other accommodations for the House of Representatives, the building, known as the Congressional Hotel, acquired by the Government in 1957 as part of Lot 20 in Square 692 in the District of Columbia under authority of the Additional House Office Building Act of 1955 [act Apr. 22, 1955, ch. 26, Ch. XIIA, 69 Stat. 41, see note above] and (2) to direct the Architect of the Capitol to lease, at fair market value, for such other use and under such terms and conditions and to such parties as such Commission may authorize, any space in such building not required for the aforesaid purpose. “(b) Any space in such building used for office and other accommodations for the House of Representatives shall be deemed to be a part of the ‘House Office Buildings’ and, as such, shall be subject to the laws, rules, and regulations applicable to those buildings.”
 
 #### Additional Parking Space for House Employees
-House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into permanent law by Pub. L. 94–59, title II, § 201, July 25, 1975, 89 Stat. 282, and amended by Pub. L. 104–186, title II, § 221(4)(B), Aug. 20, 1996, 110 Stat. 1749, provided: “That the chairman, Committee on House Oversight [now Committee on House Administration] of the House of Representatives is authorized: “(1) to lease or to otherwise provide additional indoor and outdoor parking facilities for employees of the House of Representatives in an area or areas in the District of Columbia outside but adjacent to the limits of the United States Capitol Grounds; “(2) to regulate and assign such additional parking facilities; “(3) to utilize the United States Capitol Police with respect to such parking areas, and transit routes; and “(4) to utilize the services of the Architect of the Capitol to prepare bids, leases, or otherwise assist in obtaining such additional parking facilities. Until otherwise provided by law, there shall be paid out of the applicable accounts of the House of Representatives such sums as may be necessary to carry out this authorization.”
+House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into permanent law by Pub. L. 94–59, title II, § 201, July 25, 1975, 89 Stat. 282, and amended by Pub. L. 104–186, title II, § 221(4)(B), Aug. 20, 1996, 110 Stat. 1749, provided: “That the chairman, Committee on House Oversight [now Committee on House Administration] of the House of Representatives is authorized:“(1) to lease or to otherwise provide additional indoor and outdoor parking facilities for employees of the House of Representatives in an area or areas in the District of Columbia outside but adjacent to the limits of the United States Capitol Grounds; “(2) to regulate and assign such additional parking facilities; “(3) to utilize the United States Capitol Police with respect to such parking areas, and transit routes; and “(4) to utilize the services of the Architect of the Capitol to prepare bids, leases, or otherwise assist in obtaining such additional parking facilities. Until otherwise provided by law, there shall be paid out of the applicable accounts of the House of Representatives such sums as may be necessary to carry out this authorization.”
 
 #### Inclusion of Additional Areas and Buildings
 For inclusion of additional areas and buildings as part of the United States Capitol grounds, see order of the House Office Building Commission affecting the Capitol grounds and buildings, set out as a note under [section 5102 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section5102&num=0&edition=prelim), Public Buildings, Property, and Works.
@@ -91,7 +93,7 @@ Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1079, provided that: “Effecti
 ## § 2002. Acquisition of buildings and facilities for use in emergency situation
 **(a) Acquisition of buildings and facilities** Notwithstanding any other provision of law, in order to respond to an emergency situation, the Chief Administrative Officer of the House of Representatives may acquire buildings and facilities, subject to the availability of appropriations, for the use of the House of Representatives by lease, purchase, or such other arrangement as the Chief Administrative Officer considers appropriate (including a memorandum of understanding with the head of an executive agency, as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim), in the case of a building or facility under the control of such Agency), subject to the approval of the House Office Building Commission.
 
-**(b) Agreements** Notwithstanding any other provision of law, for purposes of carrying out subsection (a) of this section, the Chief Administrative Officer may carry out such activities and enter into such agreements related to the use of any building or facility acquired pursuant to such subsection as the Chief Administrative Officer considers appropriate, including—
+**(b) Agreements** Notwithstanding any other provision of law, for purposes of carrying out subsection (a), the Chief Administrative Officer may carry out such activities and enter into such agreements related to the use of any building or facility acquired pursuant to such subsection as the Chief Administrative Officer considers appropriate, including—
 
 (1) agreements with the United States Capitol Police or any other entity relating to the policing of such building or facility; and
 
@@ -99,11 +101,11 @@ Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1079, provided that: “Effecti
 
 **(c) Authority of Capitol Police and Architect**
 
-(1) **Architect of the Capitol** — Notwithstanding any other provision of law, the Architect of the Capitol may take any action necessary to carry out an agreement entered into with the Chief Administrative Officer pursuant to subsection (b) of this section.
+(1) **Architect of the Capitol** — Notwithstanding any other provision of law, the Architect of the Capitol may take any action necessary to carry out an agreement entered into with the Chief Administrative Officer pursuant to subsection (b).
 
 (2) **Omitted**
 
-**(d) Transfer of certain funds** Subject to the approval of the Committee on Appropriations of the House of Representatives, the Architect of the Capitol may transfer to the Chief Administrative Officer amounts made available to the Architect for necessary expenses for the maintenance, care and operation of the House office buildings during a fiscal year in order to cover any portion of the costs incurred by the Chief Administrative Officer during the year in acquiring a building or facility pursuant to subsection (a) of this section.
+**(d) Transfer of certain funds** Subject to the approval of the Committee on Appropriations of the House of Representatives, the Architect of the Capitol may transfer to the Chief Administrative Officer amounts made available to the Architect for necessary expenses for the maintenance, care and operation of the House office buildings during a fiscal year in order to cover any portion of the costs incurred by the Chief Administrative Officer during the year in acquiring a building or facility pursuant to subsection (a).
 
 **(e) Effective date** This section and the amendments made by this section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
@@ -261,6 +263,19 @@ Section is based on par. from act Apr. 28, 1902, popularly known as the “Legis
 2010—Pub. L. 111–248 amended section generally. Prior to amendment, text read as follows: “The Architect of the Capitol shall supervise and direct the care and repair of all furniture in the Hall, cloakrooms, lobby, committee rooms, and offices of the House, and all furniture required for the House of Representatives or for any of its committee rooms or offices shall be procured on designs and specifications made or approved by the said Architect.”
 
 
+<a id="section-2013"></a>
+## § 2013. Revolving fund for House gymnasium; deposit of receipts; availability for expenditure
+
+There is established in the Treasury a revolving fund for the House of Representatives gymnasium. The Architect of the Capitol shall deposit in the fund such amounts as the Architect may receive as gymnasium dues or assessments from Members of the House of Representatives and other authorized users of the gymnasium. The amounts so deposited shall be available for obligation by the Architect for expenses of the gymnasium.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 117i of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-117i) prior to editorial reclassification and renumbering as this section.
+
+Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
+
+
 <a id="section-2021"></a>
 ## § 2021. Additional Senate office building
 
@@ -301,7 +316,7 @@ Pub. L. 85–429, May 29, 1958, 72 Stat. 148; Pub. L. 85–591, Aug. 6, 1958, 72
 ## § 2022. Acquisition of buildings and facilities for use in emergency situation
 **(a) Acquisition of buildings and facilities** Notwithstanding any other provision of law, in order to respond to an emergency situation, the Sergeant at Arms of the Senate may acquire buildings and facilities, subject to the availability of appropriations, for the use of the Senate, as appropriate, by lease, purchase, or such other arrangement as the Sergeant at Arms of the Senate considers appropriate (including a memorandum of understanding with the head of an executive agency, as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim), in the case of a building or facility under the control of such Agency). Actions taken by the Sergeant at Arms of the Senate must be approved by the Committees on Appropriations and Rules and Administration.
 
-**(b) Agreements** Notwithstanding any other provision of law, for purposes of carrying out subsection (a) of this section, the Sergeant at Arms of the Senate may carry out such activities and enter into such agreements related to the use of any building or facility acquired pursuant to such subsection as the Sergeant at Arms of the Senate considers appropriate, including—
+**(b) Agreements** Notwithstanding any other provision of law, for purposes of carrying out subsection (a), the Sergeant at Arms of the Senate may carry out such activities and enter into such agreements related to the use of any building or facility acquired pursuant to such subsection as the Sergeant at Arms of the Senate considers appropriate, including—
 
 (1) agreements with the United States Capitol Police or any other entity relating to the policing of such building or facility; and
 
@@ -309,11 +324,11 @@ Pub. L. 85–429, May 29, 1958, 72 Stat. 148; Pub. L. 85–591, Aug. 6, 1958, 72
 
 **(c) Authority of Capitol Police and Architect**
 
-(1) **Architect of the Capitol** — Notwithstanding any other provision of law, the Architect of the Capitol may take any action necessary to carry out an agreement entered into with the Sergeant at Arms of the Senate pursuant to subsection (b) of this section.
+(1) **Architect of the Capitol** — Notwithstanding any other provision of law, the Architect of the Capitol may take any action necessary to carry out an agreement entered into with the Sergeant at Arms of the Senate pursuant to subsection (b).
 
 (2) **Omitted**
 
-**(d) Transfer of certain funds** Subject to the approval of the Committee on Appropriations of the Senate, the Architect of the Capitol may transfer to the Sergeant at Arms of the Senate amounts made available to the Architect for necessary expenses for the maintenance, care and operation of the Senate office buildings during a fiscal year in order to cover any portion of the costs incurred by the Sergeant at Arms of the Senate during the year in acquiring a building or facility pursuant to subsection (a) of this section.
+**(d) Transfer of certain funds** Subject to the approval of the Committee on Appropriations of the Senate, the Architect of the Capitol may transfer to the Sergeant at Arms of the Senate amounts made available to the Architect for necessary expenses for the maintenance, care and operation of the Senate office buildings during a fiscal year in order to cover any portion of the costs incurred by the Sergeant at Arms of the Senate during the year in acquiring a building or facility pursuant to subsection (a).
 
 **(e) Effective date** This section and the amendments made by this section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
@@ -374,7 +389,7 @@ Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that section 
 ## § 2025. Senate Garage
 **(a)** The employees of the Senate garage engaged by the Architect of the Capitol for the primary purpose of servicing official motor vehicles, together with the functions performed by such employees, shall, on October 1, 1980, be transferred to the jurisdiction of the Sergeant at Arms and Doorkeeper of the Senate: Provided further, That, effective July 1, 1965, the underground space in the north extension of the Capitol Grounds, known as the Legislative Garage shall hereafter be known as the Senate Garage and shall be under the jurisdiction and control of the Architect of the Capitol, subject to such regulations respecting the use thereof as may be promulgated by the Senate Committee on Rules and Administration: Provided further, That, such regulations shall provide for the continued assignment of space and the continued furnishing of service in such garage for official motor vehicles of the House and the Senate and the Architect of the Capitol and Capitol Grounds maintenance equipment.
 
-**(b)** As used in subsection (a) of this section, the term “servicing” includes, with respect to an official motor vehicle, the washing and fueling of such vehicle, the checking of its tires and battery, and checking and adding oil.
+**(b)** As used in subsection (a), the term “servicing” includes, with respect to an official motor vehicle, the washing and fueling of such vehicle, the checking of its tires and battery, and checking and adding oil.
 
 ### Statutory Notes
 
@@ -392,7 +407,40 @@ Subsec. (b). Pub. L. 96–444, § 1(b), added subsec. (b).
 Title I of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1982, and incorporated by reference in Pub. L. 97–276, § 101(e), Oct. 2, 1982, 96 Stat. 1189, to be effective as if enacted into law, provided in part: “That appropriations under this head [senate office buildings] shall hereafter be available for maintenance, alternations [alterations], personal and other services, and for all other necessary expenses of the Senate Garage as authorized by the paragraph beginning ‘Capitol Garages’ under the general heading ‘ARCHITECT OF THE CAPITOL’ in the first section of the Act entitled ‘An Act making appropriations for the Legislative Branch of the Government for the fiscal year ending June 30, 1933, and for other purposes’, approved June 30, 1933 [1932] ([40 U.S.C. 185a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section185a&num=0&edition=prelim)) [now this section] and Public Law 96–444 [amending this section and enacting provisions set out as notes under this section and section 185a of former Title 40, Public Buildings, Property, and Works].”
 
 #### Appointment of Garage Attendants; Compensation; Longevity Compensation
-Pub. L. 96–444, § 2, Oct. 13, 1980, 94 Stat. 1889, provided that: “(a) Effective October 1, 1980, the Sergeant at Arms and Doorkeeper of the Senate is authorized to appoint and fix the compensation of four garage attendants at not to exceed $14,100 per annum each. “(b) If, and to the extent that, positions established by subsection (a) are first filled by individuals transferred under subsection (a)(1) of the first section [amending subsec. (a) of this section], the Sergeant at Arms and Doorkeeper of the Senate is authorized to fix, in lieu of the compensation prescribed in subsection (a), the compensation—“(1) of not more than two of such positions so filled at not to exceed $16,560 per annum each; “(2) of one of such positions so filled at not to exceed $15,485 per annum; and “(3) of one of such positions so filled at not to exceed $14,390 per annum. Compensation fixed under this subsection for a position first filled by an individual transferred under subsection (a)(1) of the first section shall cease to be applicable with respect to such position on the date that such individual first ceases to occupy such position. “(c) During any period with respect to which subsection (b) is applicable to a position occupied by an individual described in such subsection, such individual shall be credited, for purposes of longevity compensation, as authorized by section 106(a), (b), and (d) of the Legislative Branch Appropriation Act, 1963 ([2 U.S.C. 60j](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60j)), for service performed by such individual in the position of garage attendant, as an employee of the Architect of the Capitol, as certified to the Secretary of the Senate by the Architect of the Capitol.”
+Pub. L. 96–444, § 2, Oct. 13, 1980, 94 Stat. 1889, provided that: “(a) Effective October 1, 1980, the Sergeant at Arms and Doorkeeper of the Senate is authorized to appoint and fix the compensation of four garage attendants at not to exceed $14,100 per annum each. “(b) If, and to the extent that, positions established by subsection (a) are first filled by individuals transferred under subsection (a)(1) of the first section [amending subsec. (a) of this section], the Sergeant at Arms and Doorkeeper of the Senate is authorized to fix, in lieu of the compensation prescribed in subsection (a), the compensation—“(1) of not more than two of such positions so filled at not to exceed $16,560 per annum each; “(2) of one of such positions so filled at not to exceed $15,485 per annum; and “(3) of one of such positions so filled at not to exceed $14,390 per annum. Compensation fixed under this subsection for a position first filled by an individual transferred under subsection (a)(1) of the first section shall cease to be applicable with respect to such position on the date that such individual first ceases to occupy such position. “(c) During any period with respect to which subsection (b) is applicable to a position occupied by an individual described in such subsection, such individual shall be credited, for purposes of longevity compensation, as authorized by section 106(a), (b), and (d) of the Legislative Branch Appropriation Act, 1963 ([2 U.S.C. 60j](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60j)) [now [2 U.S.C. 4507](./chapter-045-congressional-pay-and-benefits.md#section-4507)], for service performed by such individual in the position of garage attendant, as an employee of the Architect of the Capitol, as certified to the Secretary of the Senate by the Architect of the Capitol.”
+
+
+<a id="section-2026"></a>
+## § 2026. Senate Staff Health and Fitness Facility Revolving Fund
+**(a) Establishment** There is established in the Treasury of the United States a revolving fund to be known as the Senate Staff Health and Fitness Facility Revolving Fund (“the revolving fund”).
+
+**(b) Deposit of receipts** The Architect of the Capitol shall deposit in the revolving fund—
+
+(1) any amounts received as dues or other assessments for use of the Senate Staff Health and Fitness Facility, and
+
+(2) any amounts received from the operation of the Senate waste recycling program.
+
+**(c) Availability of funds** Subject to the approval of the Committee on Appropriations of the Senate, amounts in the revolving fund shall be available to the Architect of the Capitol, without fiscal year limitation, for payment of costs of the Senate Staff Health and Fitness Facility.
+
+**(d) Withdrawal of excess amounts** The Architect of the Capitol shall withdraw from the revolving fund and deposit in the Treasury of the United States as miscellaneous receipts all moneys in the revolving fund that the Architect determines are in excess of the current and reasonably foreseeable needs of the Senate Staff Health and Fitness Facility.
+
+**(e) Regulations** The Committee on Rules and Administration of the Senate shall promulgate regulations pertaining to the operation and use of the Senate Staff Health and Fitness Facility.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 121f of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-121f) prior to editorial reclassification and renumbering as this section.
+
+Section is from the Congressional Operations Appropriations Act, 2001, which is title I of the Legislative Branch Appropriations Act, 2001.
+
+#### Amendments
+2003—Subsecs. (a), (b)(1). Pub. L. 108–7, § 1207(1), (2), inserted “Staff” after “Senate”.
+
+Subsec. (c). Pub. L. 108–7, § 1207(3), inserted “Staff” after “costs of the Senate”.
+
+Subsec. (d). Pub. L. 108–7, § 1207(4), inserted “Staff” after “Senate”.
+
+Subsec. (e). Pub. L. 108–7, § 1207(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “Subject to the approval of the Committee on Rules and Administration of the Senate, the Architect of the Capitol may issue such regulations as may be necessary to carry out the provisions of this section.”
 
 
 <a id="section-2041"></a>
@@ -558,6 +606,8 @@ Appropriations under this heading, referred to in text, probably means appropria
 #### Codification
 Section was classified to section 174j–10 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
+Section is from the Congressional Operations Appropriations Act, 1998, which is title I of the Legislative Branch Appropriations Act, 1998.
+
 
 <a id="section-2051"></a>
 ## § 2051. Continued benefits for certain Senate Restaurants employees
@@ -683,13 +733,13 @@ Section was classified to section 174j–10 of former Title 40, prior to the ena
 
 **(e) Voluntary separation incentive payments**
 
-(1) **Submission of plan** — Not later than 30 days after July 17, 2008, the Architect of the Capitol shall submit a plan under [section 60q of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60q) to the applicable committees as provided under that section.
+(1) **Submission of plan** — Not later than 30 days after July 17, 2008, the Architect of the Capitol shall submit a plan under [section 4505 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4505) to the applicable committees as provided under that section.
 
 (2) **Plan**
 
-  (A) *In general* — Notwithstanding [section 60q(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60q/e&num=0&edition=prelim), the plan submitted under this subsection shall—
+  (A) *In general* — Notwithstanding [section 4505(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4505/e&num=0&edition=prelim), the plan submitted under this subsection shall—
 
-    (i) offer a voluntary separation incentive payment to any employee described under subsection (a)(2)(A) of this section in accordance with [section 60q of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60q); and
+    (i) offer a voluntary separation incentive payment to any employee described under subsection (a)(2)(A) of this section in accordance with [section 4505 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4505); and
 
     (ii) offer such a payment to any such employee who becomes a covered individual, if that individual accepts the offer during the 90-day period following the transfer date.
 
@@ -764,21 +814,38 @@ The Congressional Accountability Act of 1995, referred to in subsec. (g)(3), is 
 Section is comprised of section 1 of Pub. L. 110–279. Subsec. (c)(4)(C) of section 1 of Pub. L. 110–279 repealed [section 2048 of this title](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2048). Subsec. (g)(1), (2) of section 1 of Pub. L. 110–279 amended sections 1301 and 1331 of this title.
 
 
+<a id="section-2052"></a>
+## § 2052. Senate restaurant deficit fund; deposit of proceeds from surcharge on orders
+
+The Committee on Rules and Administration of the United States Senate is authorized and directed hereafter to add a minimum of 10 per centum to each order in excess of 10 cents served in the Senate restaurants and 20 per centum to all orders served outside of said restaurants, and the proceeds accruing therefrom shall be placed in a fund to be used in the payment of any deficit incurred in the management of such kitchens and restaurants.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 121 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-121) prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+1946—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee on Rules”.
+
+#### Effective Date of 1946 Amendment
+Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that the amendment made by that act is effective Jan. 2, 1947.
+
+
 <a id="section-2061"></a>
 ## § 2061. Designation of play areas on Capitol grounds for children attending day care center
-**(a) Authority of Capitol Police Board** Notwithstanding any other provision of law and subject to the provisions of paragraph (1) of subsection (b) of this section, the Capitol Police Board is authorized to designate certain portions of the Capitol grounds (other than a portion within the area bounded on the North by Constitution Avenue, on the South by Independence Avenue, on the East by First Street, and on the West by First Street) for use exclusively as play areas for the benefit of children attending a day care center which is established for the primary purpose of providing child care for the children of Members and employees of the Senate or the House of Representatives.
+**(a) Authority of Capitol Police Board** Notwithstanding any other provision of law and subject to the provisions of paragraph (1) of subsection (b), the Capitol Police Board is authorized to designate certain portions of the Capitol grounds (other than a portion within the area bounded on the North by Constitution Avenue, on the South by Independence Avenue, on the East by First Street, and on the West by First Street) for use exclusively as play areas for the benefit of children attending a day care center which is established for the primary purpose of providing child care for the children of Members and employees of the Senate or the House of Representatives.
 
 **(b) Required approval; fences; termination of authority**
 
-(1) In the case of any such designation referred to in subsection (a) of this section involving a day care center established for the benefit of children of Members and employees of the Senate, the designation shall be with the approval of the Senate Committee on Rules and Administration, and in the case of such a center established for the benefit of children of Members and employees of the House of Representatives, the designation shall be with the approval of the House Committee on House Oversight, with the concurrence of the House Office Building Commission.
+(1) In the case of any such designation referred to in subsection (a) involving a day care center established for the benefit of children of Members and employees of the Senate, the designation shall be with the approval of the Senate Committee on Rules and Administration, and in the case of such a center established for the benefit of children of Members and employees of the House of Representatives, the designation shall be with the approval of the House Committee on House Oversight, with the concurrence of the House Office Building Commission.
 
-(2) The Architect of the Capitol shall enclose with a fence any area designated pursuant to subsection (a) of this section as a play area.
+(2) The Architect of the Capitol shall enclose with a fence any area designated pursuant to subsection (a) as a play area.
 
-(3) The authority to use an area designated pursuant to subsection (a) of this section as a play area may be terminated at any time by the Committee which approved such designation.
+(3) The authority to use an area designated pursuant to subsection (a) as a play area may be terminated at any time by the Committee which approved such designation.
 
-**(c) Playground equipment; required approval** Nothing in this or any other Act shall be construed as prohibiting any day care center referred to in subsection (a) of this section from placing playground equipment within an area designated pursuant to subsection (a) of this section for use solely in connection with the operation of such center, subject to, in the case of a day care center established for the benefit of children of Members and employees of the Senate, the approval of the Senate Committee on Rules and Administration, and in the case of such a center established for the benefit of children of Members and employees of the House of Representatives, the approval of the House Committee on House Oversight, with the concurrence of the House Office Building Commission.
+**(c) Playground equipment; required approval** Nothing in this or any other Act shall be construed as prohibiting any day care center referred to in subsection (a) from placing playground equipment within an area designated pursuant to subsection (a) for use solely in connection with the operation of such center, subject to, in the case of a day care center established for the benefit of children of Members and employees of the Senate, the approval of the Senate Committee on Rules and Administration, and in the case of such a center established for the benefit of children of Members and employees of the House of Representatives, the approval of the House Committee on House Oversight, with the concurrence of the House Office Building Commission.
 
-**(d) Day care center** The day care center referred to in S. Res. 269, Ninety-eighth Congress, first session, is a day care center for which space may be designated under subsection (a) of this section for use as a play area.
+**(d) Day care center** The day care center referred to in S. Res. 269, Ninety-eighth Congress, first session, is a day care center for which space may be designated under subsection (a) for use as a play area.
 
 ### Statutory Notes
 
@@ -831,7 +898,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 (3) The chairman of the board shall be elected by the members of the board.
 
-**(c) Duties of Chief Administrative Officer of House of Representatives** In carrying out subsection (a) of this section, the Chief Administrative Officer is authorized—
+**(c) Duties of Chief Administrative Officer of House of Representatives** In carrying out subsection (a), the Chief Administrative Officer is authorized—
 
 (1) to collect fees for child care services;
 
@@ -851,13 +918,13 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
   (B) The reimbursement of individuals employed by the center for the cost of training classes and conferences in connection with the provision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
 
-**(e) Fund as category of allowances and expenses** The Fund shall be treated as a category of allowances and expenses for purposes of [section 95b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section95b/a&num=0&edition=prelim).
+**(e) Fund as category of allowances and expenses** The Fund shall be treated as a category of allowances and expenses for purposes of [section 5507(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5507/a&num=0&edition=prelim).
 
 **(f) Definitions** As used in this section—
 
 (1) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
 
-(2) the term “agency of the legislative branch” means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
+(2) the term “agency of the legislative branch” means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
 
 (3) the term “support personnel” means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.
 
@@ -900,6 +967,8 @@ Subsec. (d)(2). Pub. L. 104–186, § 221(5)(C), substituted “With respect” 
 #### Change of Name
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (f)(2) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
 #### Effective Date of 2010 Amendment
 Pub. L. 111–248, § 2(c), Sept. 30, 2010, 124 Stat. 2626, provided that: “This section [amending this section and enacting provisions set out as a note under this section] and the amendments made by this section shall take effect October 1, 2010, and shall apply with respect to fiscal year 2011 and each succeeding fiscal year.”
 
@@ -926,9 +995,9 @@ Pub. L. 102–392, title III, § 307, Oct. 6, 1992, 106 Stat. 1722, provided tha
 ## § 2063. Senate Employee Child Care Center
 **(a) Applicability of provisions** The provisions of this section shall apply to any individual who is employed by the Senate day care center (known as the “Senate Employee Child Care Center” and hereafter in this section referred to as the “Center”) established pursuant to Senate Resolution 269, Ninety-eighth Congress, and [section 2061 of this title](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2061).
 
-**(b) Employee election of health care insurance coverage** Any individual described under subsection (a) of this section who is employed by the Center on or after August 14, 1991, shall be deemed an employee under [section 8901(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8901/1&num=0&edition=prelim) for purposes of health insurance coverage under chapter 89 of such title. An individual described under subsection (a) of this section who is an employee of the Center on August 14, 1991, may elect coverage under this subsection during the 31-day period beginning on August 14, 1991, and during such periods as determined by the Office of Personnel Management for employees of the Center employed after August 14, 1991.
+**(b) Employee election of health care insurance coverage** Any individual described under subsection (a) who is employed by the Center on or after August 14, 1991, shall be deemed an employee under [section 8901(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8901/1&num=0&edition=prelim) for purposes of health insurance coverage under chapter 89 of such title. An individual described under subsection (a) who is an employee of the Center on August 14, 1991, may elect coverage under this subsection during the 31-day period beginning on August 14, 1991, and during such periods as determined by the Office of Personnel Management for employees of the Center employed after August 14, 1991.
 
-**(c) Deductions and withholding from employee pay** The Center shall make such deductions and withholdings from the pay of an individual described under subsection (a) of this section who is an employee of the Center in accordance with subsection (d) of this section.
+**(c) Deductions and withholding from employee pay** The Center shall make such deductions and withholdings from the pay of an individual described under subsection (a) who is an employee of the Center in accordance with subsection (d) of this section.
 
 **(d) Employee records; amount of deductions** The Center shall—
 
@@ -967,15 +1036,15 @@ Section was classified to section 214c of former Title 40, prior to the enactmen
 
 **(b) Payment of deposit; payroll deduction**
 
-(1) Any individual described under subsection (a) of this section may be credited,11 So in original. The comma probably should not appear. under [section 8411 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8411&num=0&edition=prelim) for service as an employee of the Senate day care center before January 1, 1993, if such employee makes a payment of the deposit under section 8411(f)(2) of such title without application of the provisions of section 8411(b)(3) of such title.
+(1) Any individual described under subsection (a) may be credited,11 So in original. The comma probably should not appear. under [section 8411 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8411&num=0&edition=prelim) for service as an employee of the Senate day care center before January 1, 1993, if such employee makes a payment of the deposit under section 8411(f)(2) of such title without application of the provisions of section 8411(b)(3) of such title.
 
-(2) An individual described under subsection (a) of this section shall be credited under [section 8411 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8411&num=0&edition=prelim) for any service as an employee of the Senate day care center on or after October 6, 1992, if such employee has such amounts deducted and withheld from his pay as determined by the Office of Personnel Management (in accordance with regulations prescribed by such Office subject to subsection (h) of this section) which would be deducted and withheld from the basic pay of an employee under [section 8422 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8422&num=0&edition=prelim).
+(2) An individual described under subsection (a) shall be credited under [section 8411 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8411&num=0&edition=prelim) for any service as an employee of the Senate day care center on or after October 6, 1992, if such employee has such amounts deducted and withheld from his pay as determined by the Office of Personnel Management (in accordance with regulations prescribed by such Office subject to subsection (h) of this section) which would be deducted and withheld from the basic pay of an employee under [section 8422 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8422&num=0&edition=prelim).
 
-**(c) Survivor annuities and disability benefits** Notwithstanding any other provision of this section, any service performed by an individual described under subsection (a) of this section as an employee of the Senate day care center is deemed to be civilian service creditable under [section 8411 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8411&num=0&edition=prelim) for purposes of qualifying for survivor annuities and disability benefits under subchapters IV and V of chapter 84 of such title, if such individual makes payment of an amount, determined by the Office of Personnel Management, which would have been deducted and withheld from the basic pay of such individual if such individual had been an employee subject to [section 8422 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8422&num=0&edition=prelim) for such period so credited, together with interest thereon.
+**(c) Survivor annuities and disability benefits** Notwithstanding any other provision of this section, any service performed by an individual described under subsection (a) as an employee of the Senate day care center is deemed to be civilian service creditable under [section 8411 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8411&num=0&edition=prelim) for purposes of qualifying for survivor annuities and disability benefits under subchapters IV and V of chapter 84 of such title, if such individual makes payment of an amount, determined by the Office of Personnel Management, which would have been deducted and withheld from the basic pay of such individual if such individual had been an employee subject to [section 8422 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8422&num=0&edition=prelim) for such period so credited, together with interest thereon.
 
-**(d) Participation in Thrift Savings Plan** An individual described under subsection (a) of this section shall be deemed a congressional employee for purposes of chapter 84 of title 5 including subchapter III thereof and may make contributions under section 8432 of such title effective for the first applicable pay period beginning on or after October 6, 1992.
+**(d) Participation in Thrift Savings Plan** An individual described under subsection (a) shall be deemed a congressional employee for purposes of chapter 84 of title 5 including subchapter III thereof and may make contributions under section 8432 of such title effective for the first applicable pay period beginning on or after October 6, 1992.
 
-**(e) Life insurance coverage** An individual described under subsection (a) of this section shall be deemed an employee under [section 8701(a)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8701/a/3&num=0&edition=prelim) for purposes of life insurance coverage under chapter 87 of such title.
+**(e) Life insurance coverage** An individual described under subsection (a) shall be deemed an employee under [section 8701(a)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8701/a/3&num=0&edition=prelim) for purposes of life insurance coverage under chapter 87 of such title.
 
 **(f) Government contributions** Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, and 8708,22 So in original. The words “of title 5” probably should precede the comma. shall be made by the Secretary of the Senate from the appropriations account, within the contingent fund of the Senate, “Miscellaneous Items”.
 
@@ -1062,9 +1131,9 @@ Section was classified to section 214e of former Title 40, prior to the enactmen
 
 (8) One Member of the House of Representatives appointed by the Speaker of the House of Representatives and one Member of the House of Representatives appointed by the minority leader of the House of Representatives.
 
-**(c) Designees** Each member of the Commission specified under subsection (b) of this section (other than a member under paragraph (7) or (8) of such subsection) may designate a Senator or Member of the House of Representatives, as the case may be, to serve as a member of the Commission in place of the member so specified.
+**(c) Designees** Each member of the Commission specified under subsection (b) (other than a member under paragraph (7) or (8) of such subsection) may designate a Senator or Member of the House of Representatives, as the case may be, to serve as a member of the Commission in place of the member so specified.
 
-**(d) Architect of the Capitol** In addition to the members under subsection (b) of this section, the Architect of the Capitol shall participate in the activities of the Commission, ex officio, and without the right to vote.
+**(d) Architect of the Capitol** In addition to the members under subsection (b), the Architect of the Capitol shall participate in the activities of the Commission, ex officio, and without the right to vote.
 
 **(e) Staff support and assistance** The Senate Commission on Art, the House of Representatives Fine Arts Board, and the Architect of the Capitol shall provide to the Commission such staff support and assistance as the Commission may request.
 
@@ -1115,7 +1184,7 @@ Section was classified to section 188a–1 of former Title 40, prior to the enac
 
 <a id="section-2083"></a>
 ## § 2083. Capitol Preservation Fund
-**(a) In general** There is established in the Treasury a fund, to be known as the “Capitol Preservation Fund” (hereafter in this part referred to as the “fund”), which shall consist of (1) amounts deposited, and interest and proceeds credited, under subsection (d) of this section, (2) obligations obtained under subsection (e) of this section, and (3) all surcharges received by the Secretary of the Treasury from the sale of coins minted under the Bicentennial of the United States Congress Commemorative Coin Act.
+**(a) In general** There is established in the Treasury a fund, to be known as the “Capitol Preservation Fund” (hereafter in this part referred to as the “fund”), which shall consist of (1) amounts deposited, and interest and proceeds credited, under subsection (d), (2) obligations obtained under subsection (e), and (3) all surcharges received by the Secretary of the Treasury from the sale of coins minted under the Bicentennial of the United States Congress Commemorative Coin Act.
 
 **(b) Availability of fund** The fund shall be available to the Commission—
 
@@ -1129,9 +1198,9 @@ Section was classified to section 188a–1 of former Title 40, prior to the enac
 
 **(c) Transaction costs and proportionality** In carrying out this section, the Commission shall, to the extent practicable, take such action as may be necessary—
 
-(1) to minimize disbursements under subsection (b)(1) of this section; and
+(1) to minimize disbursements under subsection (b)(1); and
 
-(2) to equalize disbursements under subsection (b) of this section between the Senate and the House of Representatives.
+(2) to equalize disbursements under subsection (b) between the Senate and the House of Representatives.
 
 **(d) Deposits, credits, and disbursements** The Commission shall deposit in the fund gifts of money and proceeds of transactions under [section 2082 of this title](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2082). The Secretary of the Treasury shall credit to the fund the interest on, and the proceeds from sale or redemption of, obligations held in the fund. Disbursements from the fund shall be made on vouchers approved by the Commission and signed by the co-chairmen.
 
@@ -1220,7 +1289,7 @@ Subsec. (b). Pub. L. 100–696, § 901(b)(1), inserted “The Secretary of the S
 Pub. L. 100–696, title IX, § 901(d), Nov. 18, 1988, 102 Stat. 4611, provided that: “The provisions of this section [enacting sections 2101 to 2106 of this title and amending sections 2101, 2102, and 2106 of this title] are enacted by the Congress— “(1) as an exercise of the rulemaking power of the Senate, and as such they shall be considered as part of the rules of the Senate, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and “(2) with full recognition of the constitutional right of the Senate to change such rules at any time, in the same manner, and to the same extent as in the case of any other rule of the Senate.”
 
 #### Increases in Compensation
-Increases in compensation for officers and employees of the Senate under authority of the Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of the President pro tempore of the Senate, set out as notes under [section 60a–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60a-1).
+Increases in compensation for officers and employees of the Senate under authority of the Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of the President pro tempore of the Senate, set out as notes under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
 
 
 <a id="section-2102"></a>
@@ -1307,11 +1376,11 @@ Section was classified to section 188b–5 of former Title 40, prior to the enac
 
 <a id="section-2107"></a>
 ## § 2107. Conservation, restoration, replication, or replacement of items in United States Senate Collection
-**(a) Use of moneys in Senate contingent fund** Effective with the fiscal year ending September 30, 2006, and each fiscal year thereafter, subject to the approval of the Committee on Appropriations of the Senate, any unexpended and unobligated funds in the appropriation account for the “Secretary of the Senate” within the contingent fund of the Senate which have not been withdrawn in accordance with [section 102a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-102a), shall be available for the expenses incurred, without regard to the fiscal year in which incurred, for the purchase of art and historical objects for the United States Senate Collection, for exhibits and public education relating to the United States Senate Collection, for administrative and transitional expenses of the Senate Commission on Art, and for the conservation, restoration, and replication or replacement, in whole or in part, of works of art, historical objects, documents, or material relating to historical matters for placement or exhibition within the Senate wing of the United States Capitol, any Senate Office Building, or any room, corridor, or other space therein. In the case of replication or replacement of such works, objects, documents, or material, the funds available under this subsection shall be available for any such works, objects, documents, or material previously contained within the Senate wing of the Capitol, or a work, object, document, or material historically accurate.
+**(a) Use of moneys in Senate contingent fund** Effective with the fiscal year ending September 30, 2006, and each fiscal year thereafter, subject to the approval of the Committee on Appropriations of the Senate, any unexpended and unobligated funds in the appropriation account for the “Secretary of the Senate” within the contingent fund of the Senate which have not been withdrawn in accordance with [section 4107 of this title](./chapter-041-congressional-officers-and-administration.md#section-4107), shall be available for the expenses incurred, without regard to the fiscal year in which incurred, for the purchase of art and historical objects for the United States Senate Collection, for exhibits and public education relating to the United States Senate Collection, for administrative and transitional expenses of the Senate Commission on Art, and for the conservation, restoration, and replication or replacement, in whole or in part, of works of art, historical objects, documents, or material relating to historical matters for placement or exhibition within the Senate wing of the United States Capitol, any Senate Office Building, or any room, corridor, or other space therein. In the case of replication or replacement of such works, objects, documents, or material, the funds available under this subsection shall be available for any such works, objects, documents, or material previously contained within the Senate wing of the Capitol, or a work, object, document, or material historically accurate.
 
-**(b) United States Senate Collection** All such works, objects, documents, or materials referred to in subsection (a) of this section may be known as the “United States Senate Collection”.
+**(b) United States Senate Collection** All such works, objects, documents, or materials referred to in subsection (a) may be known as the “United States Senate Collection”.
 
-**(c) Approval of disbursements by Chairman or Executive Secretary of Senate Commission on Art** Disbursements for expenses incurred for the purposes in subsection (a) of this section shall be made upon vouchers approved by the Chairman of the Senate Commission on Art or the Executive Secretary of the Senate Commission on Art.
+**(c) Approval of disbursements by Chairman or Executive Secretary of Senate Commission on Art** Disbursements for expenses incurred for the purposes in subsection (a) shall be made upon vouchers approved by the Chairman of the Senate Commission on Art or the Executive Secretary of the Senate Commission on Art.
 
 ### Statutory Notes
 
@@ -1417,11 +1486,11 @@ Subsec. (b). Pub. L. 106–554, § 1(a)(2) [title I, § 8(3)], substituted “su
 
 (1) **Establishment** — There is established in the Treasury a fund, to be known as the “Senate Preservation Fund” (in this section referred to as the “fund”), which shall consist of amounts deposited and credited under paragraph (3).
 
-(2) **Payment of costs** — The fund shall be available to the Commission for the payment of acquisition and transaction costs incurred for acquisitions under subsection (a) of this section, for official activities of any advisory board established under subsection (b) of this section, for any purposes for which funds from the contingent fund of the Senate may be used under [section 2107(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2107/a&num=0&edition=prelim), and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities.
+(2) **Payment of costs** — The fund shall be available to the Commission for the payment of acquisition and transaction costs incurred for acquisitions under subsection (a), for official activities of any advisory board established under subsection (b), for any purposes for which funds from the contingent fund of the Senate may be used under [section 2107(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2107/a&num=0&edition=prelim), and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities.
 
 (3) **Deposits, credits, and disbursements**
 
-  (A) *Deposits* — The Commission shall deposit in the fund amounts appropriated for use of the fund, gifts of money, and proceeds of transactions under subsection (a) of this section.
+  (A) *Deposits* — The Commission shall deposit in the fund amounts appropriated for use of the fund, gifts of money, and proceeds of transactions under subsection (a).
 
   (B) *Credits* — The Secretary of the Treasury shall credit to the fund the interest on, and the proceeds from sale or redemption of, obligations held in the fund.
 
@@ -1456,7 +1525,7 @@ Section is from the Legislative Branch Appropriations Act, 2004.
 ## § 2121. House of Representatives Fine Arts Board
 **(a) Establishment and authority** There is established in the House of Representatives a Fine Arts Board (hereafter in sections 2121 and 2122 of this title referred to as the “Board”), comprised of the House of Representatives members of the Joint Committee on the Library. The chairman of the Committee on House Oversight of the House of Representatives shall be the chairman of the Board. The Board, in consultation with the House Office Building Commission, shall have authority over all works of fine art, historical objects, and similar property that are the property of the Congress and are for display or other use in the House of Representatives wing of the Capitol, the House of Representatives Office Buildings, or any other location under the control of the House of Representatives.
 
-**(b) Clerk of the House of Representatives** Under the supervision and direction of the Board, the Clerk of the House of Representatives shall be responsible for the administration, maintenance, and display of the works of fine art and other property referred to in subsection (a) of this section.
+**(b) Clerk of the House of Representatives** Under the supervision and direction of the Board, the Clerk of the House of Representatives shall be responsible for the administration, maintenance, and display of the works of fine art and other property referred to in subsection (a).
 
 **(c) Architect of the Capitol** The Architect of the Capitol shall provide assistance to the Board and to the Clerk of the House of Representatives in the carrying out of their responsibilities under sections 2121 and 2122 of this title.
 
@@ -1508,7 +1577,7 @@ Change of name of Architect of the Capitol, functions abolished, transferred, et
 ## § 2131a. Eligibility for placement of statues in National Statuary Hall
 **(a) Eligibility** No statue of any individual may be placed in National Statuary Hall until after the expiration of the 10-year period which begins on the date of the individual’s death.
 
-**(b) Exceptions** Subsection (a) of this section does not apply with respect to—
+**(b) Exceptions** Subsection (a) does not apply with respect to—
 
 (1) the statue obtained and placed in National Statuary Hall under this Act; or
 
@@ -1537,7 +1606,7 @@ Pub. L. 109–116, § 1, Dec. 1, 2005, 119 Stat. 2524, as amended by Pub. L. 110
 
   (B) the statue to be replaced has been displayed in the Capitol of the United States for at least 10 years as of the time the request is made, except that the Joint Committee may waive this requirement for cause at the request of a State.
 
-**(b) Agreement upon approval** If the Joint Committee on the Library of Congress approves a request under subsection (a) of this section, the Architect of the Capitol shall enter into an agreement with the State to carry out the replacement in accordance with the request and any conditions the Joint Committee may require for its approval. Such agreement shall provide that—
+**(b) Agreement upon approval** If the Joint Committee on the Library of Congress approves a request under subsection (a), the Architect of the Capitol shall enter into an agreement with the State to carry out the replacement in accordance with the request and any conditions the Joint Committee may require for its approval. Such agreement shall provide that—
 
 (1) the new statue shall be subject to the same conditions and restrictions as apply to any statue provided by a State under [section 2131 of this title](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2131), and
 
@@ -1673,7 +1742,7 @@ Section was classified to section 216a of former Title 40, prior to the enactmen
 
 **(b) Gifts and bequests of money; investment; appropriations**
 
-(1) Gifts or bequests of money under subsection (a)(2) of this section shall, when received by the Architect, be deposited with the Treasurer of the United States, who shall credit these deposits as offsetting collections to an account entitled “Botanic Garden, Gifts and Donations”. The gifts or bequests described under subsection (a)(2) of this section shall be accepted only in the total amount provided in appropriations Acts.
+(1) Gifts or bequests of money under subsection (a)(2) shall, when received by the Architect, be deposited with the Treasurer of the United States, who shall credit these deposits as offsetting collections to an account entitled “Botanic Garden, Gifts and Donations”. The gifts or bequests described under subsection (a)(2) shall be accepted only in the total amount provided in appropriations Acts.
 
 (2) The Secretary of the Treasury shall invest any portion of the account designated in paragraph (1) that, as determined by the Architect, is not required to meet current expenses. Each investment shall be made in an interest-bearing obligation of the United States or an obligation guaranteed both as to principal and interest by the United States that, as determined by the Architect, has a maturity date suitable for the purposes of the account. The Secretary of the Treasury shall credit interest earned on the obligations to the account.
 
@@ -1729,54 +1798,42 @@ Section was classified to section 217a of former Title 40, prior to the enactmen
 Section is based on par. under heading “BOTANIC GARDEN” in act of July 8, 1935, known as the “Legislative Branch Appropriation Act, 1936”.
 
 
+<a id="section-2148"></a>
+## § 2148. Administration of educational outreach and services
+**(a) Cooperative agreements** The Architect of the Capitol, subject to the direction of the Joint Committee of Congress on the Library, may enter into cooperative agreements with entities under such terms as the Architect determines advisable, in order to support the United States Botanic Garden in carrying out its duties, authorities, and mission.
+
+**(b) No-cost agreements**
+
+(1) The Architect of the Capitol may, subject to the direction of the Joint Committee of Congress on the Library, enter into a no-cost agreement, through a contract, cooperative agreement, or memorandum of understanding, with a qualified entity to conduct, or provide support for, an educational exhibit, program, class, or outreach that benefits the educational mission of the United States Botanic Garden.
+
+(2) Any agreement under paragraph (1) may—
+
+  (A) allow the qualified entity to accept fees for any program or class described in paragraph (1) in order to cover all or a portion of the entity’s costs of any supplies, honoraria, or associated expenses for the program or class; and
+
+  (B) subject to such terms as the Architect considers appropriate and necessary, grant temporary concessions to the qualified entity, or allow the qualified entity to grant temporary concessions to another person, in connection with an educational exhibit, program, class, or outreach described in paragraph (1), including concessions for food and merchandise sales that are specifically related to the educational mission involved.
+
+(3) [Section 5104(c) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section5104/c&num=0&edition=prelim) shall not apply to any activity carried out under this subsection.
+
+(4) In this subsection, the term “qualified entity” means—
+
+  (A) the National Fund for the United States Botanic Garden; and
+
+  (B) any other organization described in [section 501(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c&num=0&edition=prelim) and exempt from tax under section 501(a) of such title that the Architect of the Capitol determines shares interests complementary to the educational mission of the United States Botanic Garden.
+
+**(c) Construction or improvement of real property**
+Any authority under subsection (a) or (b) shall not apply to any agreement providing for the construction or improvement of real property.
+
+**(d) Applicability**
+This section shall apply with respect to fiscal year 2015 and each succeeding fiscal year.
+
+
 <a id="section-2161"></a>
-## § 2161. John W. McCormack Residential Page School
-**(a) Construction authorization for dormitory and classroom facilities complex** There is hereby authorized to be constructed, on a site jointly approved by the Senate Office Building Commission and the House Office Building Commission, in accordance with plans which shall be prepared by or under the direction of the Architect of the Capitol and which shall be submitted to and jointly approved by the Senate Office Building Commission and the House Office Building Commission, a fireproof building containing dormitory and classroom facilities, including necessary furnishings and equipment, for pages of the Senate, the House of Representatives, and the Supreme Court of the United States.
-
-**(b) Acquisition of property in District of Columbia** The Architect of the Capitol, under the joint direction and supervision of the Senate Office Building Commission and the House Office Building Commission, is authorized to acquire on behalf of the United States, by purchase, condemnation, transfer, or otherwise, such publicly or privately owned real property in the District of Columbia (including all alleys, and parts of alleys, and streets within the curblines surrounding such real property) located in the vicinity of the United States Capitol Grounds, as may be approved jointly by the Senate Office Building Commission and the House Office Building Commission, for the purpose of constructing on such real property, in accordance with this section, a suitable dormitory and classroom facilities complex for pages of the Senate, the House of Representatives, and the Supreme Court of the United States.
-
-**(c) Condemnation proceedings** Any proceeding for condemnation instituted under subsection (b) of this section shall be conducted in accordance with subchapter IV of chapter 13 of title 16 of the District of Columbia Code.
-
-**(d) Transfer of United States owned property** Notwithstanding any other provision of law, any real property owned by the United States, and any alleys, or parts of alleys and streets, contained within the curblines surrounding the real property acquired on behalf of the United States under this section shall be transferred, upon the request of the Architect of the Capitol made with the joint approval of the Senate Office Building Commission and the House Office Building Commission, to the jurisdiction and control of the Architect of the Capitol.
-
-**(e) Alley and street closures by Mayor of the District of Columbia** Notwithstanding any other provision of law, any alleys, or parts of alleys and streets, contained within the curblines surrounding the real property acquired on behalf of the United States under this section shall be closed and vacated by the Mayor of the District of Columbia in accordance with any request therefor made by the Architect of the Capitol with the joint approval of the Senate Office Building Commission and the House Office Building Commission.
-
-**(f) United States Capitol Grounds provisions applicable** Upon the acquisition on behalf of the United States of all real property under this section, such property shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
-
-**(g) Designation; employment of services under supervision and control of Architect of the Capitol: joint approval and direction of Speaker and President pro tempore; annual estimates to Congress; regulations governing Architect of the Capitol** The building constructed on the real property acquired under this section shall be designated the “John W. McCormack Residential Page School”. The employment of all services (other than that of the United States Capitol Police) necessary for its protection, care, maintenance, and use, for which appropriations are made by Congress, shall be under the control and supervision of the Architect of the Capitol. Such supervision and control shall be subject to the joint approval and direction of the Speaker and the President pro tempore. The Architect shall submit annually to the Congress estimates in detail for all services, other than those of the United States Capitol Police or those provided in connection with the conduct of school operations and the personal supervision of pages, and for all other expenses in connection with the protection, care, maintenance, and use of the John W. McCormack Residential Page School. The Speaker and the President pro tempore shall prescribe, from time to time, regulations governing the Architect in the provision of services and the protection, care, and maintenance, of the John W. McCormack Residential Page School.
-
-**(h) Joint appointee for supervision and control over page activities; regulations; Residence Superintendent of Pages: appointment, compensation, and duties; additional personnel: appointment and compensation** The Speaker of the House of Representatives and the President pro tempore of the Senate jointly shall designate an officer of the House and an officer of the Senate, other than a Member of the House or Senate, who shall jointly exercise supervision and control over the activities of the pages resident in the John W. McCormack Residential Page School. With the approval of the Speaker and the President pro tempore, such officers so designated shall prescribe regulations governing—
-
-(1) the actual use and occupancy of the John W. McCormack Residential Page School including, if necessary, the imposition of a curfew for pages;
-
-(2) the conduct of pages generally; and
-
-(3) other matters pertaining to the supervision, direction, safety, and well-being of pages in off-duty hours.
-Such officers, subject to the approval of the Speaker and the President pro tempore, jointly shall appoint and fix the per annum gross rate of pay of a Residence Superintendent of Pages, who shall perform such duties with respect to the supervision of pages resident therein as those officials shall prescribe. In addition, such officers, subject to the approval of the Speaker and the President pro tempore, jointly shall appoint and fix the per annum gross rates of pay of such additional personnel as may be necessary to assist those officers and the Residence Superintendent of Pages in carrying out their functions under this section.
-
-**(i) [Section 88b of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-88b) unaffected** Nothing in [section 88b–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-88b-1) and this section shall affect the operation of [section 88b of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-88b), relating to educational facilities of pages and other minors who are congressional employees.
+## § 2161. Transferred
 
 ### Statutory Notes
 
-#### References in Text
-Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40, referred to in subsec. (f), was in the original a reference to the Act entitled “An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes”, approved July 31, 1946, which is act July 31, 1946, ch. 707, 60 Stat. 718, as amended. Sections 9, 9A, 9B, 9C, and 14 of the Act are classified, respectively, to sections 1961, 1966, 1967, 1922, and 1969 of this title, and section 16(b) of the Act is set out as a note under [section 1961 of this title](./chapter-029-capitol-police.md#section-1961). Sections 1 to 8, 10 to 13, and 16(a) of the Act, which were classified to sections 193a to 193m of former Title 40, Public Buildings, Property, and Works, were repealed and reenacted as sections 5101 to 5107 and 5109 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1312, the first section of which enacted Title 40. Section 5(c) of Pub. L. 107–217, set out as a note preceding [section 101 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section101&num=0&edition=prelim), provides that a reference to a law replaced by section 1 of Pub. L. 107–217 is deemed to refer to the corresponding provision enacted by Pub. L. 107–217. For complete classification of the act of July 31, 1946, to the Code, see Tables. For disposition of sections of former Title 40, see table at the beginning of Title 40.
-
-[Section 88b–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-88b-1) and this section, referred to in subsec. (i), were in the original “this part”, meaning part 9 of title IV of Pub. L. 91–510, Oct. 26, 1970, 84 Stat. 1199, which enacted [section 88b–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-88b-1) and this section, repealed [section 88c of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-88c), and enacted a provision set out as a note under [section 88b–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-88b-1).
-
 #### Codification
-Section was classified to section 184a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
-
-#### Amendments
-1996—Subsec. (i). Pub. L. 104–186 struck out “[section 88a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section88a&num=0&edition=prelim) or” after “affect the operation of”.
-
-#### Effective Date
-Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
-
-#### Transfer of Functions
-Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in subsec. (e) for “commissioners”.
-
-#### Acquisition of Property as Site for John W. McCormack Residential Page School
-Pub. L. 92–607, ch. V, Oct. 31, 1972, 86 Stat. 1512, authorized Architect of the Capitol to acquire certain specified real estate for use as a green park area pending its development for permanent use as site of John W. McCormack Residential Page School.
+Section 2161 was editorially reclassified as [section 4902 of this title](./chapter-049-congressional-pages.md#section-4902).
 
 
 <a id="section-2162"></a>
@@ -1916,11 +1973,11 @@ Repeal effective first day of first pay period (applicable to employees transfer
 
 <a id="section-2167"></a>
 ## § 2167. Congressional Award Youth Park
-**(a) Designation** The parcel of approximately 5 acres of land located on the Capitol Grounds and described in subsection (b) of this section shall be known and designated as the “Congressional Award Youth Park”.
+**(a) Designation** The parcel of approximately 5 acres of land located on the Capitol Grounds and described in subsection (b) shall be known and designated as the “Congressional Award Youth Park”.
 
 **(b) Area included**
 
-(1) **In general** — The parcel of land described in subsection (a) of this section is—
+(1) **In general** — The parcel of land described in subsection (a) is—
 
   (A) bounded on the north by Constitution Avenue, N.W.;
 
@@ -2134,7 +2191,79 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
   (B) *Modification of rates and fees* — If a determination is made under subparagraph (A) that a subsidy is being received, the Architect of the Capitol shall submit a plan to the Committee on House Administration of the House of Representatives on how to update the program to ensure no subsidy is being received. If the committee does not act on the plan within 60 days, the Architect of the Capitol shall take appropriate steps to increase rates or fees to ensure reimbursement for the cost of the program consistent with an appropriate schedule for amortization, to be charged to those using the charging stations.
 
-    (f) *Effective date* — This section shall apply with respect to fiscal year 2011 and each fiscal year thereafter.
+**(f) Effective date** This section shall apply with respect to fiscal year 2011 and each fiscal year thereafter.
+
+
+<a id="section-2172"></a>
+## § 2172. Office of Congressional Accessibility Services
+**(a) Establishment of Office of Congressional Accessibility Services**
+
+(1) **Establishment** — There is established in the legislative branch the Office of Congressional Accessibility Services, to be headed by the Director of Accessibility Services.
+
+(2) **Congressional Accessibility Services Board**
+
+  (A) *Establishment* — There is established the Congressional Accessibility Services Board, which shall be composed of—
+
+    (i) the Sergeant at Arms and Doorkeeper of the Senate;
+
+    (ii) the Secretary of the Senate;
+
+    (iii) the Sergeant at Arms of the House of Representatives;
+
+    (iv) the Clerk of the House of Representatives; and
+
+    (v) the Architect of the Capitol.
+
+  (B) *Direction of Board* — The Office of Congressional Accessibility Services shall be subject to the direction of the Congressional Accessibility Services Board.
+
+(3) **Mission and functions**
+
+  (A) *In general* — The Office of Congressional Accessibility Services shall—
+
+    (i) provide and coordinate accessibility services for individuals with disabilities, including Members of Congress, officers and employees of the House of Representatives and the Senate, and visitors, in the United States Capitol Complex; and
+
+    (ii) provide information regarding accessibility for individuals with disabilities, as well as related training and staff development, to Members of Congress and employees of the Senate and the House of Representatives.
+
+  (B) *United States Capitol Complex defined* — In this paragraph, the term “United States Capitol Complex” means the Capitol buildings (as defined in [section 5101 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section5101&num=0&edition=prelim)) and the United States Capitol Grounds (as described in section 5102 of such title).
+
+**(b) Director of Accessibility Services**
+
+(1) **Appointment, pay, and removal**
+
+  (A) *Appointment and pay* — The Director of Accessibility Services shall be appointed by the Congressional Accessibility Services Board and shall be paid at a rate of pay determined by the Congressional Accessibility Services Board.
+
+  (B) *Removal* — Upon removal of the Director of Accessibility Services, the Congressional Accessibility Services Board shall immediately provide notice of the removal to the Committee on Rules and Administration of the Senate, the Committee on House Administration of the House of Representatives, and the Committees on Appropriations of the House of Representatives and Senate. The notice shall include the reasons for the removal.
+
+(2) **Personnel and other administrative functions**
+
+  (A) *Personnel, disbursements, and contracts* — In carrying out the functions of the Office of Congressional Accessibility Services under subsection (a), the Director of Accessibility Services shall have the authority to—
+
+    (i) appoint, hire, and fix the compensation of such personnel as may be necessary for operations of the Office of Congressional Accessibility Services, except that no employee may be paid at an annual rate in excess of the annual rate of pay for the Director of Accessibility Services;
+
+    (ii) take appropriate disciplinary action, including, when circumstances warrant, suspension from duty without pay, reduction in pay, demotion, or termination of employment with the Office of Congressional Accessibility Services, against any employee;
+
+    (iii) disburse funds as may be necessary and available for the needs of the Office of Congressional Accessibility Services; and
+
+    (iv) serve as contracting officer for the Office of Congressional Accessibility Services.
+
+  (B) *Agreements with the Office of the Architect of the Capitol, with other legislative branch agencies, and with offices of the Senate and House of Representatives* — Subject to the approval of the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives, the Director of Accessibility Services may place orders and enter into agreements with the Office of the Architect of the Capitol, with other legislative branch agencies, and with any office or other entity of the Senate or House of Representatives for procuring goods and providing financial and administrative services on behalf of the Office of Congressional Accessibility Services, or to otherwise assist the Director in the administration and management of the Office of Congressional Accessibility Services.
+
+(3) **Semiannual reports** — The Director of Accessibility Services shall submit a report to the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives not later than 45 days following the close of each semiannual period ending on March 31 or September 30 of each year on the financial and operational status during the period of each function under the jurisdiction of the Director. Each such report shall include financial statements and a description or explanation of current operations, the implementation of new policies and procedures, and future plans for each function.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 130e of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-130e) prior to editorial reclassification and renumbering as this section.
+
+Section is from the Legislative Branch Appropriations Act, 1990.
+
+#### Amendments
+2008—Pub. L. 110–437 amended section generally, substituting provisions relating to Office of Congressional Accessibility Services for provisions relating to Special Services Office.
+
+1995—Pub. L. 104–53 substituted “Sergeant at Arms” for “Clerk” after “comprised of the” and “Architect of the Capitol” for “Librarian of Congress”.
+
+#### Transfer of Functions
+For transfer of contracts, liabilities, records, property, appropriations, other assets and interests, and employees of the Congressional Special Services Office of Capitol Guide Service to the Office of Congressional Accessibility Services, see [section 2252 of this title](./chapter-031-capitol-visitor-center.md#section-2252).
 
 
 <a id="section-2181"></a>
@@ -2148,7 +2277,7 @@ The President pro tempore of the Senate and the Speaker of the House of Represen
 Section was classified to section 174d–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Effective Date
-Section effective Aug. 2, 1946, see section 245 of act Aug. 2, 1946, set out as a note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Section effective Aug. 2, 1946, see section 245 of act Aug. 2, 1946, set out as a note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 
 <a id="section-2182"></a>
@@ -2223,3 +2352,9 @@ Aug. 24, 1912, ch. 355, 37 Stat. 454.
 Mar. 4, 1911, ch. 285, 36 Stat. 1414.
 
 June 25, 1910, ch. 384, 36 Stat. 738.
+
+
+<a id="section-2186"></a>
+## § 2186. Square 580 landscape maintenance
+
+For fiscal year 2015 and each fiscal year thereafter, the Architect of the Capitol, in consultation with the District of Columbia, is authorized to maintain and improve the landscape features, excluding streets, in Square 580 up to the beginning of I–395.

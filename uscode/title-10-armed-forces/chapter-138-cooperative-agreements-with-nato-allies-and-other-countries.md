@@ -121,6 +121,9 @@ Committee on International Relations of House of Representatives changed to Comm
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as a note under [section 2341 of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2341).
 
+#### Cross Servicing Agreements for Loan of Personnel Protection and Personnel Survivability Equipment in Coalition Operations
+Pub. L. 113–291, div. A, title XII, § 1207, Dec. 19, 2014, 128 Stat. 3539, provided that: “(a) In General.—The Secretary of Defense may, with the concurrence of the Secretary of State, enter into an arrangement, under an agreement concluded pursuant to [section 2342 of title 10](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2342), United States Code, under which the United States agrees to loan personnel protection and personnel survivability equipment for the use of such equipment by military forces of a nation participating in the following:“(1) A coalition operation with the United States as part of a contingency operation. “(2) A coalition operation with the United States as part of a peacekeeping operation under the Charter of the United Nations or another international agreement. “(3) Training of such forces in connection with the deployment of such forces to be deployed to an operation described in paragraph (1) or (2). “(b) Limitations.—“(1) Loan only of equipment for which u.s. forces have no unfulfilled requirements.—Equipment may be loaned to the military forces of a nation under the authority of this section only upon a determination by the Secretary of Defense that the United States forces in the coalition operation concerned have no unfulfilled requirements for such equipment. “(2) Scope of use of loaned equipment.—Equipment loaned to the military forces of a nation under the authority of this section may be used by those forces only for personnel protection or to aid in the personnel survivability of those forces and only in—“(A) a coalition operation with the United States described in paragraph (1) or (2) of subsection (a); or “(B) training described in paragraph (3) of subsection (a). “(3) Duration of use of loaned equipment.—Equipment loaned to the military forces of a nation under the authority of this section may be used by the military forces of that nation not longer than the duration of that country’s participation in the coalition operation concerned. “(4) Notice and wait on loan of equipment for training.—Equipment may not be loaned under subsection (a) in connection with training described in paragraph (3) of that subsection until 15 days after the date on which the Secretary of Defense submits to the appropriate committees of Congress written notice on the loan of such equipment for such purpose. “(c) Waiver of Reimbursement in Case of Loss of Equipment in Combat.—“(1) In general.—In the case of equipment loaned under the authority of this section that is damaged or destroyed as a result of combat operations during coalition operations while held by forces to which loaned under this section, the Secretary of Defense may, with respect to such equipment, waive any other requirement under applicable law for—“(A) reimbursement; “(B) replacement-in-kind; or “(C) exchange of supplies or services of an equal value. “(2) Basis for waiver.—Any waiver under this subsection may be made only if the Secretary determines that the waiver is in the national security interest of the United States. “(3) Waiver on a case-by-case basis.—Any waiver under this subsection may be made only on a case-by-case basis. “(d) Reports to Congress.—If the authority provided under this section is exercised during a fiscal year, the Secretary of Defense shall, in coordination with the Secretary of State, submit to the appropriate committees of Congress a report on the exercise of such authority by not later than October 30 of the year in which such fiscal year ends. Each report on the exercise of such authority shall specify the recipient country of the equipment loaned, the type of equipment loaned, and the duration of the loan of such equipment. “(e) Definitions.—In this section:“(1) The term ‘appropriate committees of Congress’ means—“(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and “(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives. “(2) The term ‘personnel protection and personnel survivability equipment’ means items enumerated in categories I, II, III, VII, X, XI, and XIII of the United States Munitions List under section 38(a)(1) of the Arms Export Control Act ([22 U.S.C. 2778(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778/a/1&num=0&edition=prelim)[)] that the Secretary of Defense designates as available for loan under this section. “(f) Expiration of Authority.—The authority in subsection (a) shall expire on September 30, 2019.”
+
 
 <a id="section-2343"></a>
 ## § 2343. Waiver of applicability of certain laws
@@ -194,7 +197,7 @@ Amendment by section 961(b) of Pub. L. 99–145 effective as if included in enac
 #### References in Text
 The Arms Export Control Act, referred to in subsec. (b)(2)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (c)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (c)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2006—Subsec. (b)(4). Pub. L. 109–163 struck out “of which the United States is a member” before “under this subchapter”.
@@ -474,7 +477,8 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
   (C) An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
   (D) The recommendation of the Under Secretary as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
-  [(f) Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(17), Nov. 24, 2003, 117 Stat. 1597.]
+
+**(f)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(17), Nov. 24, 2003, 117 Stat. 1597.]
 
 **(g) Side-by-Side Testing.—**
 
@@ -757,29 +761,29 @@ Pub. L. 110–181, div. A, title X, § 1032, Jan. 28, 2008, 122 Stat. 306, provi
 ## § 2350d. Cooperative logistic support agreements: NATO countries
 **(a) General Authority.—**
 
-(1) The Secretary of Defense may enter into bilateral or multilateral agreements known as Weapon System Partnership Agreements with one or more governments of other member countries of the North Atlantic Treaty Organization (NATO) participating in the operation of the NATO Maintenance and Supply Organization. Any such agreement shall be for the purpose of providing cooperative logistics support for the armed forces of the countries which are parties to the agreement. Any such agreement—
+(1) The Secretary of Defense may enter into bilateral or multilateral agreements known as Support Partnership Agreements with one or more governments of other member countries of the North Atlantic Treaty Organization (NATO) participating in the operation of the NATO Support Organization and its executive agencies. Any such agreement shall be for the purpose of providing cooperative logistics support for the armed forces of the countries which are parties to the agreement. Any such agreement—
 
-  (A) shall be entered into pursuant to the terms of the charter of the NATO Maintenance and Supply Organization; and
+  (A) shall be entered into pursuant to the terms of the charter of the NATO Support Organization and its executive agencies; and
 
-  (B) shall provide for the common logistic support of a specific weapon system common to the participating countries.
+  (B) shall provide for the common logistic support of activities common to the participating countries.
 
 (2) Such an agreement may provide for—
 
-  (A) the transfer of logistics support, supplies, and services by the United States to the NATO Maintenance and Supply Organization; and
+  (A) the transfer of logistics support, supplies, and services by the United States to the NATO Support Organization and its executive agencies; and
 
   (B) the acquisition of logistics support, supplies, and services by the United States from that Organization.
 
-**(b) Authority of Secretary.—** Under the terms of a Weapon System Partnership Agreement, the Secretary of Defense—
+**(b) Authority of Secretary.—** Under the terms of a Support Partnership Agreement, the Secretary of Defense—
 
-(1) may agree that the NATO Maintenance and Supply Organization may enter into contracts for supply and acquisition of logistics support in Europe for requirements of the United States, to the extent the Secretary determines that the procedures of such Organization governing such supply and acquisition are appropriate; and
+(1) may agree that the NATO Support Organization and its executive agencies may enter into contracts for supply and acquisition of logistics support in Europe for requirements of the United States, to the extent the Secretary determines that the procedures of such Organization governing such supply and acquisition are appropriate; and
 
-(2) may share the costs of set-up charges of facilities for use by the NATO Maintenance and Supply Organization to provide cooperative logistics support and in the costs of establishing a revolving fund for initial acquisition and replenishment of supply stocks to be used by the NATO Maintenance and Supply Organization to provide cooperative logistics support.
+(2) may share the costs of set-up charges of facilities for use by the NATO Support Organization and its executive agencies to provide cooperative logistics support and in the costs of establishing a revolving fund for initial acquisition and replenishment of supply stocks to be used by the NATO Support Organization and its executive agencies to provide cooperative logistics support.
 
-**(c) Sharing of Administrative Expenses.—** Each Weapon System Partnership Agreement shall provide for joint management by the participating countries and for the equitable sharing of the administrative costs and costs of claims incident to the agreement.
+**(c) Sharing of Administrative Expenses.—** Each Support Partnership Agreement shall provide for joint management by the participating countries and for the equitable sharing of the administrative costs and costs of claims incident to the agreement.
 
-**(d) Application of Chapter 137.—** Except as otherwise provided in this section, the provisions of chapter 137 of this title apply to a contract entered into by the Secretary of Defense for the acquisition of logistics support under a Weapon System Partnership Agreement.
+**(d) Application of Chapter 137.—** Except as otherwise provided in this section, the provisions of chapter 137 of this title apply to a contract entered into by the Secretary of Defense for the acquisition of logistics support under a Support Partnership Agreement.
 
-**(e) Application of Arms Export Control Act.—** Any transfer of defense articles or defense services to a member country of the North Atlantic Treaty Organization or to the NATO Maintenance and Supply Organization for the purposes of a Weapon System Partnership Agreement shall be carried out in accordance with this chapter and the Arms Export Control Act ([22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.).
+**(e) Application of Arms Export Control Act.—** Any transfer of defense articles or defense services to a member country of the North Atlantic Treaty Organization or to the NATO Support Organization and its executive agencies for the purposes of a Support Partnership Agreement shall be carried out in accordance with this chapter and the Arms Export Control Act ([22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.).
 
 **(f) Supplemental Authority.—** The authority of the Secretary of Defense under this section is in addition to the authority of the Secretary under subchapter I and any other provision of law.
 
@@ -792,6 +796,22 @@ The Arms Export Control Act, referred to in subsec. (e), is Pub. L. 90–629, Oc
 Provisions similar to those in this section were contained in Pub. L. 99–661, div. A, title XI, § 1102, Nov. 14, 1986, 100 Stat. 3961, which was set out as a note under [section 2407 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2407), prior to repeal by Pub. L. 101–189, § 931(d)(2).
 
 #### Amendments
+2013—Subsec. (a)(1). Pub. L. 113–66, § 1250(a)(1), (2)(A), in introductory provisions, substituted “Support Partnership Agreements” for “Weapon System Partnership Agreements” and “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
+
+Subsec. (a)(1)(A). Pub. L. 113–66, § 1250(a)(1), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
+
+Subsec. (a)(1)(B). Pub. L. 113–66, § 1250(a)(2)(B), substituted “activities” for “a specific weapon system”.
+
+Subsec. (a)(2)(A). Pub. L. 113–66, § 1250(a)(1), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
+
+Subsec. (b). Pub. L. 113–66, § 1250(a)(3), substituted “Support Partnership Agreement” for “Weapon System Partnership Agreement” in introductory provisions.
+
+Pub. L. 113–66, § 1250(a)(1), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization” wherever appearing.
+
+Subsecs. (c), (d). Pub. L. 113–66, § 1250(a)(3), substituted “Support Partnership Agreement” for “Weapon System Partnership Agreement”.
+
+Subsec. (e). Pub. L. 113–66, § 1250(a)(1), (3), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization” and “Support Partnership Agreement” for “Weapon System Partnership Agreement”.
+
 1992—Subsec. (c). Pub. L. 102–484 inserted “and costs of claims” after “administrative costs”.
 
 1989—Subsec. (e). Pub. L. 101–189, § 938(c), inserted “this chapter and” after “in accordance with”.

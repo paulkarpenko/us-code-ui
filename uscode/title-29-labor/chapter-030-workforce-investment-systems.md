@@ -249,6 +249,9 @@ In this chapter:
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
@@ -278,6 +281,9 @@ Par. (50). Pub. L. 109–270, § 2(h)(2), substituted “given the term ‘caree
 1998—Par. (3). Pub. L. 105–332 substituted “[section 2302 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302&num=0&edition=prelim)” for “[section 2471 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2471&num=0&edition=prelim)”.
 
 Par. (35). Pub. L. 105–244 substituted “[section 1002 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim)” for “[section 1088 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088&num=0&edition=prelim)”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
@@ -438,11 +444,27 @@ Barack Obama.
 
 **(c) Dislocated worker employment and training activities** There are authorized to be appropriated to carry out the activities described in [section 2862(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2862/a/2&num=0&edition=prelim), such sums as may be necessary for each of fiscal years 1999 through 2003.
 
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
 
 <a id="section-2821"></a>
 ## § 2821. Purpose
 
 The purpose of this subchapter is to provide workforce investment activities, through statewide and local workforce investment systems, that increase the employment, retention, and earnings of participants, and increase occupational skill attainment by participants, and, as a result, improve the quality of the workforce, reduce welfare dependency, and enhance the productivity and competitiveness of the Nation.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2822"></a>
@@ -543,6 +565,9 @@ The purpose of this subchapter is to provide workforce investment activities, th
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsec. (d)(2), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
@@ -554,6 +579,9 @@ This Act, referred to in subsec. (e)(2), is Pub. L. 105–220, Aug. 7, 1998, 112
 2006—Subsec. (d)(3). Pub. L. 109–270 substituted “[section 2323(b)(3) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b/3&num=0&edition=prelim)” for “[section 2323(b)(14) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b/14&num=0&edition=prelim)”.
 
 1998—Subsec. (c). Pub. L. 105–277 substituted “Chairperson” for “Chairman” in heading.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2831"></a>
@@ -670,6 +698,9 @@ This Act, referred to in subsec. (e)(2), is Pub. L. 105–220, Aug. 7, 1998, 112
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Wagner-Peyser Act, referred to in subsecs. (a) and (b)(8)(A)(iii), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of this title](./chapter-4b-federal-employment-service.md#section-49) and Tables.
 
@@ -700,6 +731,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 2006—Subsec. (b)(8)(A)(iii). Pub. L. 109–270 substituted “career and technical education activities at the postsecondary level” for “postsecondary vocational education activities” and “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
 
 1998—Subsec. (c)(1). Pub. L. 105–277 substituted “; or” for “; and”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
@@ -793,6 +827,9 @@ Amendment by section 4002(b)(1)(B), (2)(R) of Pub. L. 110–246 effective Oct. 1
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Job Training Partnership Act, referred to in subsecs. (a)(2)(B), (C), (3) and (b), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§ 1501 et seq.) of this title, prior to repeal by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059. Part A of title II and title III of the Act were classified generally to part A (§ 1601 et seq.) of subchapter II and subchapter III (§ 1651 et seq.), respectively, of chapter 19 of this title, prior to repeal by Pub. L. 105–220. Section 101 of the Act was classified to [section 1511 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1511&num=0&edition=prelim), prior to repeal by Pub. L. 105–220. For complete classification of this Act to the Code, see Tables.
 
@@ -800,6 +837,9 @@ This chapter, referred to in subsec. (b), was in the original “this title” m
 
 #### Amendments
 1998—Subsec. (a)(3)(D)(ii)(I)(aa). Pub. L. 105–277 substituted “; and” for “; or”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2833"></a>
@@ -1032,6 +1072,9 @@ This chapter, referred to in subsec. (b), was in the original “this title” m
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsecs. (a), (c)(4), and (d)(3)(B)(i)(III), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
@@ -1043,6 +1086,9 @@ This Act, referred to in subsecs. (c)(1)(C), (d)(3)(B)(i)(III), (iii), (f)(3), a
 1998—Subsec. (f)(1)(D). Pub. L. 105–277, § 101(f) [title VIII, § 401(4)(A)], substituted “if the Governor” for “if the State”.
 
 Subsec. (i)(1)(D)(ii)(II). Pub. L. 105–277, § 101(f) [title VIII, § 401(4)(B)], added subcl. (II) and struck out former subcl. (II) which read as follows: “(for a local area in which no employees are represented by such organizations), other representatives of employees in the local area.”
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2841"></a>
@@ -1097,8 +1143,14 @@ Subsec. (i)(1)(D)(ii)(II). Pub. L. 105–277, § 101(f) [title VIII, § 401(4)(B
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsecs. (a) and (d)(2), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2842"></a>
@@ -1228,6 +1280,9 @@ This chapter, referred to in subsecs. (a) and (d)(2), was in the original “thi
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsecs. (b)(1)(B)(i) and (c)(2)(B), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
@@ -1262,6 +1317,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 1998—Subsec. (b)(1)(B)(iv). Pub. L. 105–332, § 5(a)(1), inserted “(other than part C of title I of such Act and subject to subsection (f) of this section)” before semicolon.
 
 Subsec. (f). Pub. L. 105–332, § 5(a)(2), added subsec. (f).
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
@@ -1419,6 +1477,9 @@ Amendment by section 4002(b)(1)(B), (2)(R) of Pub. L. 110–246 effective Oct. 1
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Higher Education Act of 1965, referred to in subsecs. (a)(2)(A)(i) and (d)(3)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
@@ -1426,11 +1487,22 @@ The National Apprenticeship Act, referred to in subsec. (a)(2)(B), is act Aug. 1
 
 This Act, referred to in subsec. (f)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
 
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
 
 <a id="section-2851"></a>
 ## § 2851. Identification of eligible providers of youth activities
 
 From funds allocated under paragraph (2)(A) or (3) of [section 2853(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2853/b&num=0&edition=prelim) to a local area, the local board for such area shall identify eligible providers of youth activities by awarding grants or contracts on a competitive basis, based on the recommendations of the youth council and on the criteria contained in the State plan, to the providers to carry out the activities, and shall conduct oversight with respect to the providers, in the local area.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2852"></a>
@@ -1440,8 +1512,14 @@ The Secretary shall make an allotment under [section 2852(b)(1)(C) of this title
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2853"></a>
@@ -1576,12 +1654,18 @@ This chapter, referred to in text, was in the original “this title” meaning 
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Job Training Partnership Act, referred to in subsec. (b)(1)(B)(i)(II), (C)(iv)(I)(bb), (IV), (2)(A), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Parts B and C of title II of the Act were classified generally to parts B (§ 1630 et seq.) and C (§ 1641 et seq.) of subchapter II of chapter 19 of this title, respectively, prior to repeal by Pub. L. 105–220. Sections 252 and 262 of the Act were classified to sections 1631 and 1642 of this title, respectively, prior to repeal by Pub. L. 105–220. For complete classification of this Act to the Code, see Tables.
 
 This chapter, referred to in subsec. (b)(1)(B)(ii)(III)(aa), (bb), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 Public Law 95–134, referred to in subsec. (b)(1)(B)(iii), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to [section 1469a of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1469a&num=0&edition=prelim), Territories and Insular Possessions.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2854"></a>
@@ -1654,8 +1738,14 @@ Public Law 95–134, referred to in subsec. (b)(1)(B)(iii), is Pub. L. 95–134,
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsec. (b)(4)(C), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2861"></a>
@@ -1801,10 +1891,16 @@ This chapter, referred to in subsec. (b)(4)(C), was in the original “this titl
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This Act, referred to in subsec. (c)(6)(A), (B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
 
 The School-to-Work Opportunities Act of 1994, referred to in subsec. (c)(6)(B), is Pub. L. 103–239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§ 6101 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6101&num=0&edition=prelim) and Tables.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2862"></a>
@@ -1814,8 +1910,14 @@ The Secretary shall make allotments under paragraphs (1)(B) and (2)(B) of [secti
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2863"></a>
@@ -1940,11 +2042,17 @@ This chapter, referred to in text, was in the original “this title” meaning 
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Job Training Partnership Act, referred to in subsec. (b)(1)(A)(ii), (B)(iv)(I)(bb), (IV), (v)(II), (2)(A)(ii), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Part A of title II of the Act was classified generally to part A (§ 1601 et seq.) of subchapter II of chapter 19 of this title, prior to repeal by Pub. L. 105–220. Sections 202, 252, 262, and 302 of the Act were classified to sections 1602, 1631, 1642, and 1652 of this title, respectively, prior to repeal by Pub. L. 105–220. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2002—Subsec. (a)(2)(A). Pub. L. 107–210 inserted “, other than under subsection (a)(4), (f), and (g)” after “national emergency grants”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of Title 19, Customs Duties, on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding [section 2271 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2271&num=0&edition=prelim).
@@ -2038,6 +2146,14 @@ Nothing in amendment by Pub. L. 107–210, other than provisions relating to COB
 (3) **Reallocation** — In making reallocations to eligible local areas of amounts available pursuant to paragraph (2) for a program year, the Governor shall allocate to each eligible local area within the State an amount based on the relative amount allocated to such local area under subsection (b)(3) of this section for such activities for the prior program year, as compared to the total amount allocated to all eligible local areas in the State under subsection (b)(3) of this section for such activities for such prior program year. For purposes of this paragraph, local areas that received allocations under subsection (b)(2)(A) of this section for the prior program year shall be treated as if the local areas received allocations under subsection (b)(3) of this section for such year.
 
 (4) **Eligibility** — For purposes of this subsection, an eligible local area means a local area that has obligated at least 80 percent of the local area allocation under paragraph (2)(A) or (3) of subsection (b) of this section for such activities, for the program year prior to the program year for which the determination under paragraph (2) is made.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2871"></a>
@@ -2354,6 +2470,9 @@ Nothing in amendment by Pub. L. 107–210, other than provisions relating to COB
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This Act, referred to in subsecs. (a)(2)(B)(iii) and (d)(2)(J)(ii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
 
@@ -2373,6 +2492,9 @@ The Higher Education Act of 1965, referred to in subsec. (d)(4)(B)(i)(I), is Pub
 2006—Subsec. (d)(2)(F). Pub. L. 109–270 substituted “career and technical education activities at the postsecondary level, and career and technical education activities available to school dropouts, under the Carl D. Perkins Career and Technical Education Act of 2006” for “postsecondary vocational education activities and vocational education activities available to school dropouts under the Carl D. Perkins Vocational and Applied Technology Education Act”.
 
 1998—Subsec. (d)(4)(F)(iii). Pub. L. 105–277 added cl. (iii).
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2872"></a>
@@ -2551,10 +2673,16 @@ The Higher Education Act of 1965, referred to in subsec. (d)(4)(B)(i)(I), is Pub
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsec. (b)(3)(B), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 This Act, referred to in subsec. (f)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2881"></a>
@@ -2572,8 +2700,14 @@ The purposes of this subchapter are—
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1691 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1691&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2882"></a>
@@ -2605,6 +2739,14 @@ In this subchapter:
 
 (10) **Service provider** — The term “service provider” means an entity selected under this subchapter to provide services described in this subchapter to a Job Corps center.
 
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
 
 <a id="section-2883"></a>
 ## § 2883. Establishment
@@ -2613,8 +2755,14 @@ There shall be within the Department of Labor a “Job Corps”.
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1692 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1692&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2883a"></a>
@@ -2672,8 +2820,14 @@ To be eligible to become an enrollee, an individual shall be—
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1693 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1693&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2885"></a>
@@ -2752,8 +2906,14 @@ Provisions similar to this section were contained in [section 1693 of this title
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Prior Provisions
 Provisions similar to this section were contained in sections 1694 to 1696 of this title prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2886"></a>
@@ -2768,11 +2928,17 @@ Provisions similar to this section were contained in sections 1694 to 1696 of th
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section451&num=0&edition=prelim), Appendix, and Tables.
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1696 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1696&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2887"></a>
@@ -2819,11 +2985,17 @@ Provisions similar to this section were contained in [section 1696 of this title
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Codification
 In subsec. (a)(2)(A), “subsections (a) to (c) of [section 3304 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304&num=0&edition=prelim)” substituted for “subsections (c) and (d) of section 303 of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1697 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1697&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2888"></a>
@@ -2858,8 +3030,14 @@ Provisions similar to this section were contained in [section 1697 of this title
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1698 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1698&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2889"></a>
@@ -2874,8 +3052,14 @@ Provisions similar to this section were contained in [section 1698 of this title
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1702 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1702&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2890"></a>
@@ -2890,11 +3074,17 @@ Provisions similar to this section were contained in [section 1702 of this title
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This Act, referred to in subsec. (b)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
 
 #### Prior Provisions
 Provisions similar to this section were contained in sections 1699 and 1702 of this title prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2891"></a>
@@ -2904,6 +3094,14 @@ Provisions similar to this section were contained in sections 1699 and 1702 of t
 **(b) Additional information** The Secretary may require the operator, in order to remain eligible to operate the Job Corps center, to submit such additional information as the Secretary may require, which shall be considered part of the operating plan.
 
 **(c) Availability** The Secretary shall make the operating plan described in subsections (a) and (b) of this section, excluding any proprietary information, available to the public.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2892"></a>
@@ -2930,8 +3128,14 @@ Provisions similar to this section were contained in sections 1699 and 1702 of t
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1700 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1700&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2893"></a>
@@ -2953,8 +3157,14 @@ Provisions similar to this section were contained in [section 1700 of this title
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This Act, referred to in subsec. (a), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2894"></a>
@@ -2993,6 +3203,14 @@ This Act, referred to in subsec. (a), is Pub. L. 105–220, Aug. 7, 1998, 112 St
 
 **(d) New centers** The industry council for a Job Corps center that is not yet operating shall carry out the responsibilities described in subsection (c) of this section at least 3 months prior to the date on which the center accepts the first enrollee at the center.
 
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
 
 <a id="section-2895"></a>
 ## § 2895. Advisory committees
@@ -3001,14 +3219,28 @@ The Secretary may establish and use advisory committees in connection with the o
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1704 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1704&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2896"></a>
 ## § 2896. Experimental, research, and demonstration projects
 
 The Secretary may carry out experimental, research, or demonstration projects relating to carrying out the Job Corps program and may waive any provisions of this subchapter that the Secretary finds would prevent the Secretary from carrying out the projects.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2897"></a>
@@ -3029,11 +3261,17 @@ The Secretary may carry out experimental, research, or demonstration projects re
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1706 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1706&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2898"></a>
@@ -3058,11 +3296,17 @@ Provisions similar to this section were contained in [section 1706 of this title
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of the Act, which was classified principally to subchapter II (§§ 481, 483, 484, 485, 486, 487 to 490, 491, 492) of chapter 10 and section 758 of former Title 40, Public Buildings, Property, and Works, was repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304, the first section of which enacted Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding [section 101 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section101&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 Provisions similar to this section were contained in sections 1707 and 1709 of this title prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2899"></a>
@@ -3178,12 +3422,18 @@ Provisions similar to this section were contained in sections 1707 and 1709 of t
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Amendments
 1998—Subsec. (c)(1)(G). Pub. L. 105–277, § 101(f) [title VIII, § 401(6)(A)], substituted “postsecondary” for “post-secondary”.
 
 Subsec. (c)(3). Pub. L. 105–277, § 101(f) [title VIII, § 401(6)(B)], substituted “containing,” for “containing”.
 
 Subsec. (d)(4). Pub. L. 105–277, § 101(f) [title VIII, § 401(6)(A)], substituted “postsecondary” for “post-secondary”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2900"></a>
@@ -3207,14 +3457,28 @@ The Secretary is authorized to—
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1708 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1708&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2901"></a>
 ## § 2901. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for each of the fiscal years 1999 through 2003.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2911"></a>
@@ -3335,6 +3599,9 @@ There are authorized to be appropriated to carry out this subchapter such sums a
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) and Tables.
 
@@ -3357,6 +3624,9 @@ Provisions similar to this section were contained in sections 1671 and 1673 of t
 2002—Subsec. (b)(3). Pub. L. 107–110 substituted “[section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim)” for “paragraphs (1) and (3), respectively, of [section 7912 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7912&num=0&edition=prelim)”.
 
 1998—Subsec. (h)(3)(A). Pub. L. 105–277 substituted “subparagraph (B)” for “paragraph (2)”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
@@ -3420,6 +3690,9 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Single Audit Act of 1984, referred to in subsec. (g), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which enacted chapter 75 (§ 7501 et seq.) of Title 31, Money and Finance, and provisions set out as notes under [section 7501 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section7501&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 7501 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section7501&num=0&edition=prelim) and Tables.
 
@@ -3430,6 +3703,9 @@ Provisions similar to this section were contained in sections 1672 and 1673 of t
 
 #### Amendments
 1998—Subsec. (d). Pub. L. 105–277 inserted “and [section 2852(b)(1)(A)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2852/b/1/A/iii&num=0&edition=prelim)” after “this section”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2913"></a>
@@ -3460,6 +3736,9 @@ Provisions similar to this section were contained in sections 1672 and 1673 of t
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsec. (a)(2), (3)(C), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
@@ -3469,6 +3748,9 @@ Provisions similar to this section were contained in [section 1721 of this title
 #### Amendments
 2006—Subsec. (b)(2)(B). Pub. L. 109–233 substituted “chapter 63” for “subchapter II of chapter 77”.
 
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
 #### Veterans Energy-Related Employment Program
 Pub. L. 111–275, title I, § 106, Oct. 13, 2010, 124 Stat. 2870, provided that: “(a) Establishment of Pilot Program.—To encourage the employment of eligible veterans in the energy industry, the Secretary of Labor, as part of the Veterans Workforce Investment Program, shall carry out a pilot program to be known as the ‘Veterans Energy-Related Employment Program’. Under the pilot program, the Secretary shall award competitive grants to not more than three States for the establishment and administration of a State program to make grants to energy employers that provide covered training, on-job training, apprenticeships, and certification classes to eligible veterans. Such a program shall be known as a ‘State Energy-Related Employment Program’. “(b) Eligibility for Grants.—To be eligible to receive a grant under the pilot program, a State shall submit to the Secretary an application that includes each of the following:“(1) A proposal for the expenditure of grant funds to establish and administer a public-private partnership program designed to provide covered training, on-job training, apprenticeships, and certification classes to a significant number of eligible veterans and ensure lasting and sustainable employment in well-paying jobs in the energy industry. “(2) Evidence that the State has—“(A) a population of eligible veterans of an appropriate size to carry out the State program; “(B) a robust and diverse energy industry; and “(C) the ability to carry out the State program described in the proposal under paragraph (1). “(3) Such other information and assurances as the Secretary may require. “(c) Use of Funds.—A State that is the recipient of a grant under this section shall use the grant for the following purposes:“(1) Making grants to energy employers to reimburse such employers for the cost of providing covered training, on-job training, apprenticeships, and certification classes to eligible veterans who are first hired by the employer on or after November 1, 2010. “(2) Conducting outreach to inform energy employers and veterans, including veterans in rural areas, of their eligibility or potential eligibility for participation in the State program. “(d) Conditions.—Under the pilot program, each grant to a State shall be subject to the following conditions:“(1) The State shall repay to the Secretary, on such date as shall be determined by the Secretary, any amount received under the pilot program that is not used for the purposes described in subsection (c). “(2) The State shall submit to the Secretary, at such times and containing such information as the Secretary shall require, reports on the use of grant funds. “(e) Employer Requirements.—In order to receive a grant made by a State under the pilot program, an energy employer shall—“(1) submit to the administrator of the State Energy-Related Employment Program an application that includes—“(A) the rate of pay, during and after training, for each eligible veteran proposed to be trained using grant funds; “(B) the average rate of pay for an individual employed by the energy employer in a similar position who is not an eligible veteran; and “(C) such other information and assurances as the administrator may require; and “(2) agree to submit to the administrator, for each quarter, a report containing such information as the Secretary may specify. “(f) Limitation.—None of the funds made available to an energy employer through a grant under the pilot program may be used to provide training of any kind to—“(1) a person who is not an eligible veteran; or “(2) an eligible veteran for whom the employer has received a grant, credit, or subsidy under any other provision of law. “(g) Report to Congress.—Together with the report required to be submitted annually under [section 4107(c) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4107/c&num=0&edition=prelim), United States Code, the Secretary shall submit to Congress a report on the pilot program for the year covered by such report. The report on the pilot program shall include a detailed description of activities carried out under this section and an evaluation of the program. “(h) Administrative and Reporting Costs.—Of the amounts appropriated pursuant to the authorization of appropriations under subsection (j), two percent shall be made available to the Secretary for administrative costs associated with implementing and evaluating the pilot program under this section and for preparing and submitting the report required under subsection (f). The Secretary shall determine the appropriate maximum amount of each grant awarded under this section that may be used by the recipient for administrative and reporting costs. “(i) Definitions.—For purposes of this section:“(1) The term ‘covered training, on-job training, apprenticeships, and certification classes’ means training, on-job training, apprenticeships, and certification classes that are—“(A) designed to provide the veteran with skills that are particular to an energy industry and not directly transferable to employment in another industry; and “(B) approved as provided in paragraph (1) or (2), as appropriate, of subsection (a) of [section 3687 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3687&num=0&edition=prelim), United States Code. “(2) The term ‘eligible veteran’ means a veteran, as that term is defined in [section 101(2) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/2&num=0&edition=prelim), United States Code, who is employed by an energy employer and enrolled or participating in a covered training, on-job training, apprenticeship, or certification class. “(3) The term ‘energy employer’ means an entity that employs individuals in a trade or business in an energy industry. “(4) The term ‘energy industry’ means any of the following industries:“(A) The energy-efficient building, construction, or retrofits industry. “(B) The renewable electric power industry, including the wind and solar energy industries. “(C) The biofuels industry. “(D) The energy efficiency assessment industry that serves the residential, commercial, or industrial sectors. “(E) The oil and natural gas industry. “(F) The nuclear industry. “(j) Appropriations.—There is authorized to be appropriated to the Secretary $1,500,000 for each of fiscal years 2012 through 2014, for the purpose of carrying out the pilot program under this section.”
 
@@ -3476,288 +3758,7 @@ Pub. L. 111–275, title I, § 106, Oct. 13, 2010, 124 Stat. 2870, provided that
 Pub. L. 100–689, title IV, § 402, Nov. 18, 1988, 100 Stat. 4178, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(24), (f)(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that: “(a) Purpose.—It is the purpose of this section to ensure that veterans who are dislocated workers eligible for assistance under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.] or are otherwise unemployed receive, to the extent feasible, assistance (including information on vocational guidance or vocational counseling, or information on both vocational guidance or vocational counseling), including information on counseling, needed by such veterans—“(1) to apply for services and benefits for which they are eligible as veterans, dislocated workers, or unemployed persons; “(2) to obtain resolution of questions and problems relating to such services and benefit[s]; and “(3) to initiate any authorized administrative appeals of determinations or other actions relating to such services and benefits. “(b) Memorandum of Understanding.—(1) Not later than one year after the date of the enactment of this Act [Nov. 18, 1988], the Secretary of Labor and the Administrator of Veterans’ Affairs shall enter into a memorandum of understanding to carry out the purpose of this section. The memorandum shall include provisions that define the relationships and responsibilities of the Veterans’ Administration, the Department of Labor, and State and local agencies with respect to the provision of the following information, forms, and assistance:“(A) Information on services and benefits referred to in subsection (d). “(B) All application forms and related forms necessary for individuals to apply for such services and to claim such benefits. “(C) Assistance in resolving questions and problems relating to receipt of such services and benefits. “(D) Assistance in contacting other Federal Government offices and State offices where such services or benefits are provided or administered. “(2) The memorandum of understanding entered into pursuant to paragraph (1) shall include a provision for the periodic evaluation, by the Secretary of Labor and the Administrator of Veterans’ Affairs, of the implementation of their respective responsibilities under such memorandum. “(c) Coordination of Department of Labor Activities.—The Assistant Secretary of Labor for Veterans’ Employment and Training, in consultation with the unit or office designated or created under section 322(b) of the Job Training Partnership Act [former [29 U.S.C. 1662a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1662a/b&num=0&edition=prelim)] or any successor to such unit or office under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.], shall, except as the Secretary of Labor may otherwise direct, coordinate the activities of the components of the Department of Labor performing the responsibilities of the Secretary of Labor under this section. “(d) Covered Services and Benefits.—This section applies with respect to the following services and benefits:“(1) Employment assistance under—“(A) title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.]; and “(B) the Veterans’ Job Training Act (97 Stat. 443; [29 U.S.C. 1721](./chapter-019-job-training-partnership.md#section-1721) note [now set out below]). “(2) Employment and training activities for dislocated workers under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.]. “(3) Employment assistance and unemployment compensation under the trade adjustment assistance program provided in chapter 2 of title II of the Trade Act of 1974 (29 [19] U.S.C. 2271 et seq.) and under any other program administered by the Employment and Training Administration of the Department of Labor. “(4) Educational assistance under—“(A) the Adult Education Act ([former] [20 U.S.C. 1201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1201&num=0&edition=prelim) et seq.); and “(B) chapters 30, 31, 32, 34, and 35 of title 38, United States Code, and chapter 106 of title 10, United States Code. “(5) Certification of a veteran as a member of a targeted group eligible for the targeted jobs credit determined under section 51 of the Internal Revenue Code of 1986 [[26 U.S.C. 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section51&num=0&edition=prelim)]. “(e) Definition.—In this section, the term ‘veteran’ has the meaning given such term in [section 101(2) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/2&num=0&edition=prelim), United States Code.”
 
 #### Veterans’ Job Training Act
-Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, § 704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, § 212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, § 4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, § 201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, § 901, July 22, 1987, 101 Stat. 538; Pub. L. 100–227, title II, § 201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§ 11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(25), (f)(17)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
-
-#### “short title
-“Section 1. This Act may be cited as the ‘Veterans’ Job Training Act’.
-
-#### “purpose
-“Sec. 2. The purpose of this Act is to address the problem of severe and continuing unemployment among veterans by providing, in the form of payments to defray the costs of training, incentives to employers to hire and train certain wartime veterans who have been unemployed for long periods of time for stable and permanent positions that involve significant training.
-
-#### “definitions
-“Sec. 3. For the purposes of this Act:
-
-“(1) The term ‘Administrator’ means the Administrator of Veterans’ Affairs.
-
-“(2) The term ‘Secretary’ means the Secretary of Labor.
-
-“(3) The terms ‘veteran’, ‘Korean conflict’, ‘compensation’, ‘service-connected’, ‘State’, ‘active military, naval, or air service’, and ‘Vietnam era’, have the meanings given such terms in paragraphs (2), (9), (13), (16), (20), (24), and (29), respectively, of [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim), United States Code.
-
-#### “establishment of program
-“Sec. 4. (a) The Administrator and, to the extent specifically provided by this Act, the Secretary shall carry out a program in accordance with this Act to assist eligible veterans in obtaining employment through training for employment in stable and permanent positions that involve significant training. The program shall be carried out through payments to employers who employ and train eligible veterans in such jobs in order to assist such employers in defraying the costs of necessary training.
-
-“(b) The Secretary shall carry out the Secretary’s responsibilities under this Act through the Assistant Secretary of Labor for Veterans’ Employment and Training established under [section 4102A of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4102A&num=0&edition=prelim), United States Code.
-
-#### “eligibility for program; duration of assistance
-“Sec. 5. (a)(1) To be eligible for participation in a job training program under this Act, a veteran must be a Korean conflict or Vietnam-era veteran who—
-
-“(A) is unemployed at the time of applying for participation in a program under this Act; and
-
-“(B) has been unemployed for at least 10 of the 15 weeks immediately preceding the date of such veteran’s application for participation in a program under this Act.
-
-“(2) For purposes of paragraph (1), the term ‘Korean conflict or Vietnam-era veteran’ means a veteran—
-
-“(A) who served in the active military, naval, or air service for a period of more than one hundred and eighty days, any part of which was during the Korean conflict or the Vietnam era; or
-
-“(B) who served in the active military, naval, or air service during the Korean conflict or the Vietnam era and—
-
-“(i) was discharged or released therefrom for a service-connected disability; or
-
-“(ii) is entitled to compensation (or but for the receipt of retirement pay would be entitled to compensation).
-
-“(3) For purposes of paragraph (1), a veteran shall be considered to be unemployed during any period the veteran is without a job and wants and is available for work.
-
-“(b)(1) A veteran who desires to participate in a program of job training under this Act shall submit to the Administrator an application for participation in such a program. Such an application—
-
-“(A) shall include a certification by the veteran that the veteran is unemployed and meets the other criteria for eligibility prescribed by subsection (a); and
-
-“(B) shall be in such form and contain such additional information as the Administrator may prescribe.
-
-“(2)(A) Subject to subparagraph (B), the Administrator shall approve an application by a veteran for participation in a program of job training under this Act unless the Administrator finds that the veteran is not eligible to participate in a program of job training under this Act.
-
-“(B) The Administrator may withhold approval of an application of a veteran under this Act if the Administrator determines that, because of limited funds available for the purpose of making payments to employers under this Act, it is necessary to limit the number of participants in programs under this Act.
-
-“(3)(A) Subject to section 14(c), the Administrator shall certify as eligible for participation under this Act a veteran whose application is approved under this subsection and shall furnish the veteran with a certificate of that veteran’s eligibility for presentation to an employer offering a program of job training under this Act. Any such certificate shall expire 90 days after it is furnished to the veteran. The date on which a certificate is furnished to a veteran under this paragraph shall be stated on the certificate.
-
-“(B) A certificate furnished under this paragraph may, upon the veteran’s application, be renewed in accordance with the terms and conditions of subparagraph (A).
-
-“(c) The maximum period of training for which assistance may be provided on behalf of a veteran under this Act is—
-
-“(1) fifteen months in the case of—
-
-“(A) a veteran with a service-connected disability rated at 30 percent or more; or
-
-“(B) a veteran with a service-connected disability rated at 10 percent or 20 percent who has been determined under [section 3106 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3106&num=0&edition=prelim), United States Code, to have a serious employment handicap; and
-
-“(2) nine months in the case of any other veteran.
-
-#### “employer job training programs
-“Sec. 6. (a)(1) Except as provided in paragraph (2), in order to be approved as a program of job training under this Act, a program of job training of an employer approved under section 7 must provide training for a period of not less than six months in an occupation in a growth industry, in an occupation requiring the use of new technological skills, or in an occupation for which demand for labor exceeds supply.
-
-“(2) A program of job training providing training for a period of at least three but less than six months may be approved if the Administrator determines (in accordance with standards which the Administrator shall prescribe) that the purpose of this Act would be met through that program.
-
-“(b) Subject to section 10 and the other provisions of this Act, a veteran who has been approved for participation in a program of job training under this Act and has a current certificate of eligibility for such participation may enter a program of job training that has been approved under section 7 and that is offered to the veteran by the employer.
-
-#### “approval of employer programs
-“Sec. 7. (a)(1) An employer may be paid assistance under section 8(a) on behalf of an eligible veteran employed by such employer and participating in a program of job training offered by that employer only if the program is approved under this section and in accordance with such procedures as the Administrator may by regulation prescribe.
-
-“(2) Except as provided in subsection (b), the Administrator shall approve a proposed program of job training of an employer unless the Administrator determines that the application does not contain a certification and other information meeting the requirements established under this Act or that withholding of approval is warranted under subsection (g).
-
-“(b) The Administrator may not approve a program of job training—
-
-“(1) for employment which consists of seasonal, intermittent, or temporary jobs;
-
-“(2) for employment under which commissions are the primary source of income;
-
-“(3) for employment which involves political or religious activities;
-
-“(4) for employment with any department, agency, instrumentality, or branch of the Federal Government (including the United States Postal Service and the Postal Rate Commission [Postal Regulatory Commission]); or
-
-“(5) if the training will not be carried out in a State.
-
-“(c) An employer offering a program of job training that the employer desires to have approved for the purposes of this Act shall submit to the Administrator a written application for such approval. Such application shall be in such form as the Administrator shall prescribe.
-
-“(d) An application under subsection (c) shall include a certification by the employer of the following:
-
-“(1) That the employer is planning that, upon a veteran’s completion of the program of job training, the employer will employ the veteran in a position for which the veteran has been trained and that the employer expects that such a position will be available on a stable and permanent basis to the veteran at the end of the training period.
-
-“(2) That the wages and benefits to be paid to a veteran participating in the employer’s program of job training will be not less than the wages and benefits normally paid to other employees participating in a comparable program of job training.
-
-“(3) That the employment of a veteran under the program—
-
-“(A) will not result in the displacement of currently employed workers (including partial displacement such as a reduction in the hours of nonovertime work, wages, or employment benefits); and
-
-“(B) will not be in a job (i) while any other individual is on layoff from the same or any substantially equivalent job, or (ii) the opening for which was created as a result of the employer having terminated the employment of any regular employee or otherwise having reduced its work force with the intention of hiring a veteran in such job under this Act.
-
-“(4) That the employer will not employ in the program of job training a veteran who is already qualified by training and experience for the job for which training is to be provided.
-
-“(5) That the job which is the objective of the training program is one that involves significant training.
-
-“(6) That the training content of the program is adequate, in light of the nature of the occupation for which training is to be provided and of comparable training opportunities in such occupation, to accomplish the training objective certified under clause (2) of subsection (e).
-
-“(7) That each participating veteran will be employed full time in the program of job training.
-
-“(8) That the training period under the proposed program is not longer than the training periods that employers in the community customarily require new employees to complete in order to become competent in the occupation or job for which training is to be provided.
-
-“(9) That there are in the training establishment or place of employment such space, equipment, instructional material, and instructor personnel as needed to accomplish the training objective certified under clause (2) of subsection (e).
-
-“(10) That the employer will keep records adequate to show the progress made by each veteran participating in the program and otherwise to demonstrate compliance with the requirements established under this Act.
-
-“(11) That the employer will furnish each participating veteran, before the veteran’s entry into training, with a copy of the employer’s certification under this subsection and will obtain and retain the veteran’s signed acknowledgment of having received such certification.
-
-“(12) That, as applicable, the employer will provide each participating veteran with the full opportunity to participate in a personal interview pursuant to section 14(b)(1)(A) during the veteran’s normal workday.
-
-“(13) That the program meets such other criteria as the Administrator may determine are essential for the effective implementation of the program established by this Act.
-
-“(e) A certification under subsection (d) shall include—
-
-“(1) a statement indicating (A) the total number of hours of participation in the program of job training to be offered a veteran, (B) the length of the program of job training, and (C) the starting rate of wages to be paid to a participant in the program; and
-
-“(2) a description of the training content of the program (including any agreement the employer has entered into with an educational institution under section 10) and of the objective of the training.
-
-“(f)(1) Except as specified in paragraph (2), each matter required to be certified to in paragraphs (1) through (11) of subsection (d) shall be considered to be a requirement established under this Act.
-
-“(2)(A) For the purposes of section 8(c), only matters required to be certified in paragraphs (1) through (10) of subsection (d) shall be so considered.
-
-“(B) For the purposes of section 11, a matter required to be certified under paragraph (12) of subsection (d) shall also be so considered.
-
-“(g) In accordance with regulations which the Administrator shall prescribe, the Administrator may withhold approval of an employer’s proposed program of job training pending the outcome of an investigation under section 12 and, based on the outcome of such an investigation, may disapprove such program.
-
-“(h) For the purposes of this section, approval of a program of apprenticeship or other on-job training for the purposes of [section 3687 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3687&num=0&edition=prelim), United States Code, shall be considered to meet all requirements established under the provisions of this Act (other than subsections (b) and (d)(3)) for approval of a program of job training.
-
-#### “payments to employers; overpayment
-“Sec. 8. (a)(1) Except as provided in paragraph (3) and subsection (b) and subject to the provisions of section 9, the Administrator shall make quarterly payments to an employer of a veteran participating in an approved program of job training under this Act. Subject to section 5(c) and paragraph (2), the amount paid to an employer on behalf of a veteran for any period of time shall be 50 percent of the product of (A) the starting hourly rate of wages paid to the veteran by the employer (without regard to overtime or premium pay), and (B) the number of hours worked by the veteran during that period.
-
-“(2) The total amount that may be paid to an employer on behalf of a veteran participating in a program of job training under this Act is $10,000.
-
-“(3) In order to relieve financial burdens on business enterprises with relatively few numbers of employees, the Administrator may make payments under this Act on a monthly, rather than quarterly, basis to an employer with a number of employees less than a number which shall be specified in regulations which the Administrator shall prescribe for the purposes of this paragraph.
-
-“(b) Payment may not be made to an employer for a period of training under this Act on behalf of a veteran until the Administrator has received—
-
-“(1) from the veteran, a certification that the veteran was employed full time by the employer in a program of job training during such period; and
-
-“(2) from the employer, a certification—
-
-“(A) that the veteran was employed by the employer during that period and that the veteran’s performance and progress during such period were satisfactory; and
-
-“(B) of the number of hours worked by the veteran during that period.
-
-With respect to the first such certification by an employer with respect to a veteran, the certification shall indicate the date on which the employment of the veteran began and the starting hourly rate of wages paid to the veteran (without regard to overtime or premium pay).
-
-“(c)(1)(A) Whenever the Administrator finds that an overpayment under this Act has been made to an employer on behalf of a veteran as a result of a certification, or information contained in an application, submitted by an employer which was false in any material respect, the amount of such overpayment shall constitute a liability of the employer to the United States.
-
-“(B) Whenever the Administrator finds that an employer has failed in any substantial respect to comply for a period of time with a requirement established under this Act (unless the employer’s failure is the result of false or incomplete information provided by the veteran), each amount paid to the employer on behalf of a veteran for that period shall be considered to be an overpayment under this Act, and the amount of such overpayment shall constitute a liability of the employer to the United States.
-
-“(2) Whenever the Administrator finds that an overpayment under this Act has been made to an employer on behalf of a veteran as a result of a certification by the veteran, or as a result of information provided to an employer or contained in an application submitted by the veteran, which was willfully or negligently false in any material respect, the amount of such overpayment shall constitute a liability of the veteran to the United States.
-
-“(3) Any overpayment referred to in paragraph (1) or (2) may be recovered in the same manner as any other debt due the United States. Any overpayment recovered shall be credited to funds available to make payments under this Act. If there are no such funds, any overpayment recovered shall be deposited into the Treasury.
-
-“(4) Any overpayment referred to in paragraph (1) or (2) may be waived, in whole or in part, in accordance with the terms and conditions set forth in [section 5302 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5302&num=0&edition=prelim), United States Code.
-
-#### “entry into program of job training
-“Sec. 9. Notwithstanding any other provision of this Act, the Administrator may withhold or deny approval of a veteran’s entry into an approved program of job training if the Administrator determines that funds are not available to make payments under this Act on behalf of the veteran to the employer offering that program. Before the entry of a veteran into an approved program of job training of an employer for purposes of assistance under this Act, the employer shall notify the Administrator of the employer’s intention to employ that veteran. The veteran may begin such program of job training with the employer two weeks after the notice is transmitted to the Administrator unless within that time the employer has received notice from the Administrator that approval of the veteran’s entry into that program of job training must be withheld or denied in accordance with this section.
-
-#### “provision of training through educational institutions
-“Sec. 10. An employer may enter into an agreement with an educational institution that has been approved for the enrollment of veterans under chapter 34 of title 38, United States Code, in order that such institution may provide a program of job training (or a portion of such a program) under this Act. When such an agreement has been entered into, the application of the employer under section 7 shall so state and shall include a description of the training to be provided under the agreement.
-
-#### “discontinuance of approval of participation in certain employer programs
-“Sec. 11. (a) If the Administrator finds at any time that a program of job training previously approved by the Administrator for the purposes of this Act thereafter fails to meet any of the requirements established under this Act, the Administrator may immediately disapprove further participation by veterans in that program. The Administrator shall provide to the employer concerned, and to each veteran participating in the employer’s program, a statement of the reasons for, and an opportunity for a hearing with respect to, such disapproval. The employer and each such veteran shall be notified of such disapproval, the reasons for such disapproval, and the opportunity for a hearing. Notification shall be by a certified or registered letter, and a return receipt shall be secured.
-
-“(b)(1) If the Administrator determines that the rate of veterans’ successful completion of an employer’s programs of job training previously approved by the Administrator for the purposes of this Act is disproportionately low because of deficiencies in the quality of such programs, the Administrator shall disapprove participation in such programs on the part of veterans who had not begun such participation on the date that the employer is notified of the disapproval. In determining whether any such rate is disproportionately low because of such deficiencies, the Administrator shall take into account appropriate data, including—
-
-“(A) the quarterly data provided by the Secretary with respect to the number of veterans who receive counseling in connection with training under this Act, are referred to employers under this Act, participate in job training under this Act, complete such training or do not complete such training, and the reasons for noncompletion; and
-
-“(B) data compiled through the particular employer’s compliance surveys.
-
-“(2) With respect to a disapproval under paragraph (1), the Administrator shall provide to the employer concerned the kind of statement, opportunity for hearing, and notice described in subsection (a).
-
-“(3) A disapproval under paragraph (1) shall remain in effect until such time as the Administrator determines that adequate remedial action has been taken.
-
-#### “inspection of records; investigations
-“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistance has been paid under this Act, as well as other records that the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
-
-“(b) The Administrator may monitor employers and veterans participating in programs of job training under this Act to determine compliance with the requirements established under this Act.
-
-“(c) The Administrator may investigate any matter the Administrator considers necessary to determine compliance with the requirements established under this Act. The investigations authorized by this subsection may include examining records (including making certified copies of records), questioning employees, and entering into any premises or onto any site where any part of a program of job training is conducted under this Act, or where any of the records of the employer offering or providing such program are kept.
-
-“(d) The Administrator may administer functions under subsections (b) and (c) in accordance with an agreement between the Administrator and the Secretary providing for the administration of such subsections (or any portion of such subsections) by the Department of Labor. Under such an agreement, any entity of the Department of Labor specified in the agreement may administer such subsections, notwithstanding section 4(b).
-
-#### “coordination with other programs
-“Sec. 13. (a)(1) Assistance may not be paid under this Act to an employer on behalf of a veteran for any period of time described in paragraph (2) and to such veteran under chapter 31, 32, 34, 35, or 36 of title 38, United States Code, for the same period of time.
-
-“(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the veteran enters into an approved program of job training of an employer for purposes of assistance under this Act and ending on the last date for which such assistance is payable.
-
-“(b) Assistance may not be paid under this Act to an employer on behalf of an eligible veteran for any period if the employer receives for that period any other form of assistance on account of the training or employment of the veteran, including assistance under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.] or a credit under section 44B of the Internal Revenue Code of 1954 ([26 U.S.C. 44B](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section44B&num=0&edition=prelim)) (relating to credit for employment of certain new employees).
-
-“(c) Assistance may not be paid under this Act on behalf of a veteran who has completed a program of job training under this Act.
-
-#### “counseling
-“Sec. 14. (a)(1) The Administrator and the Secretary may, upon request, provide employment counseling services to any veteran eligible to participate under this Act in order to assist such veteran in selecting a suitable program of job training under this Act.
-
-“(2) The Administrator shall, after consultation with the Secretary, provide a program of job-readiness skills development and counseling services designed to assist veterans in need of such assistance in finding, applying for, and successfully participating in a suitable program of job training under this Act. As part of providing such services, the Administrator shall coordinate activities, to the extent practicable, with the readjustment counseling program described in [section 1712A of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1712A&num=0&edition=prelim), United States Code. The Administrator shall advise veterans participating under this Act of the availability of such services and encourage them to request such services whenever appropriate.
-
-“(b)(1) The Secretary shall provide for a program under which—
-
-“(A) except as provided in paragraph (2), a disabled veteran’s outreach program specialist appointed under [section 4103A(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4103A/a&num=0&edition=prelim), United States Code, is assigned as a case manager for each veteran participating in a program of job training under this Act;
-
-“(B) the veteran has an in-person interview with the case manager not later than 60 days after entering into a program of training under this Act; and
-
-“(C) periodic (not less frequent than monthly) contact is maintained with each such veteran for the purpose of (i) avoiding unnecessary termination of employment, (ii) referring the veteran to appropriate counseling, if necessary, (iii) facilitating the veteran’s successful completion of such program, and (iv) following up with the employer and the veteran in order to determine the veteran’s progress in the program and the outcome regarding the veteran’s participation in and successful completion of the program.
-
-“(2) No case manager shall be assigned pursuant to paragraph (1)(A)—
-
-“(A) for a veteran if, on the basis of a recommendation made by a disabled veterans’ outreach program specialist, the Secretary determines that there is no need for a case manager for such veteran; or
-
-“(B) in the case of the employees of an employer, if the Secretary determines that—
-
-“(i) the employer has an appropriate and effective employee assistance program that is available to all veterans participating in the employer’s programs of job training under this Act; or
-
-“(ii) the rate of veterans’ successful completion of the employer’s programs of job training under this Act, either cumulatively or during the previous program year, is 60 percent or higher.
-
-“(3) The Secretary and the Administrator shall jointly provide, to the extent feasible—
-
-“(A) a program of counseling or other services (to be provided pursuant to subchapter IV of chapter 3 [see chapter 63] of title 38, United States Code, and sections 1712A, 4103A, and 4104 of such title) designed to resolve difficulties that may be encountered by veterans during their training under this Act; and
-
-“(B) a program of information services under which—
-
-“(i) each veteran who enters into a program of job training under this Act and each employer participating under this Act is informed of the supportive services and resources available to the veteran (I) under clauses (A) and (B), (II) through Veterans’ Administration counseling and career-development activities (especially, in the case of a Vietnam-era veteran, readjustment counseling services under section 1712A of such title) and under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.], and (III) through other appropriate agencies in the community; and
-
-“(ii) veterans and employers are encouraged to request such services whenever appropriate.
-
-“(c) Before a veteran who voluntarily terminates from a program of job training under this Act or is involuntarily terminated from such program by the employer may be eligible to be provided with a further certificate, or renewal of certification, of eligibility for participation under this Act, such veteran must be provided by the Secretary, after consultation with the Administrator, with a case manager.
-
-“(d) Payments made under this Act pursuant to contracts entered into for the provision of job-readiness skills development and counseling services under subsection (a)(2) may only be paid out of the same account used to make payments under [section 3104(a)(7) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3104/a/7&num=0&edition=prelim), United States Code, and the amount paid out of such account in any fiscal year for such services shall not exceed an amount equal to 5 percent of the amount obligated to carry out this Act for such fiscal year, except that for fiscal year 1988 the amount shall not exceed 5 percent of the amount available to carry out this Act on October 1, 1987.
-
-#### “information and outreach; use of agency resources
-“Sec. 15. (a)(1) The Administrator and the Secretary shall jointly provide for an outreach and public information program—
-
-“(A) to inform veterans about the employment and job training opportunities available under this Act, under chapters 31, 34, 36, 41, and 42 of title 38, United States Code, and under other provisions of law; and
-
-“(B) to inform private industry and business concerns (including small business concerns), public agencies and organizations, educational institutions, trade associations, and labor unions about the job training opportunities available under, and the advantages of participating in, the program established by this Act.
-
-“(2) The Secretary, in consultation with the Administrator, shall promote the development of employment and job training opportunities for veterans by encouraging potential employers to make programs of job training under this Act available for eligible veterans, by advising other appropriate Federal departments and agencies of the program established by this Act, and by advising employers of applicable responsibilities under chapters 41 and 42 of title 38, United States Code, with respect to veterans.
-
-“(b) The Administrator and the Secretary shall coordinate the outreach and public information program under subsection (a)(1), and job development activities under subsection (a)(2), with job counseling, placement, job development, and other services provided for under chapters 41 and 42 of title 38, United States Code, and with other similar services offered by other public agencies and organizations.
-
-“(c)(1) The Administrator and the Secretary shall make available in regional and local offices of the Veterans’ Administration and the Department of Labor such personnel as are necessary to facilitate the effective implementation of this Act.
-
-“(2) In carrying out the responsibilities of the Secretary under this Act, the Secretary shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. The Secretary shall also use such resources as are available under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.]. To the extent that the Administrator withholds approval of veterans’ applications under this Act pursuant to section 5(b)(2)(B), the Secretary shall take steps to assist such veterans in taking advantage of opportunities that may be available to them under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.] or under any other program carried out with funds provided by the Secretary.
-
-“(d) The Secretary shall request and obtain from the Administrator of the Small Business Administration a list of small business concerns and shall, on a regular basis, update such list. Such list shall be used to identify and promote possible training and employment opportunities for veterans.
-
-“(e) The Administrator and the Secretary shall assist veterans and employers desiring to participate under this Act in making application and completing necessary certifications.
-
-“(f) The Secretary shall, on a not less frequent than quarterly basis, collect and compile from the heads of State employment services and Directors for Veterans’ Employment and Training for each State information available to such heads and Directors, and derived from programs carried out in their respective States, with respect to the numbers of veterans who receive counseling services pursuant to section 14, who are referred to employers participating under this Act, who participate in programs of job training under this Act, and who complete such programs, and the reasons for veterans’ noncompletion.
-
-#### “authorization of appropriations
-“Sec. 16. (a) There is authorized to be appropriated to the Veterans’ Administration (1) $150,000,000 for each of fiscal years 1984 and 1985, (2) a total of $65,000,000 for fiscal years 1986, and 1987, and (3) $60,000,000 for each of the fiscal years 1988 and 1989 for the purpose of making payments to employers under this Act and for the purpose of section 18 of this Act. Amounts appropriated pursuant to this section shall remain available until September 30, 1991.
-
-“(b) Notwithstanding any other provision of law, any funds appropriated under subsection (a) for any fiscal year which are obligated for the purpose of making payments under section 8 on behalf of a veteran (including funds so obligated which previously had been obligated for such purpose on behalf of another veteran and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the Administrator for obligation for such purpose. The further obligation of such funds by the Administrator for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
-
-#### “time periods for application and initiation of training
-“Sec. 17. Assistance may not be paid to an employer under this Act—
-
-“(1) on behalf of a veteran who initially applies for a program of job training under this Act after September 30, 1989; or
-
-“(2) for any such program which begins after March 31, 1990.
-
-#### “expansion of targeted delimiting date extension
-“Sec. 18. (a) Subject to the limitation on the availability of funds set forth in subsection (b), an associate degree program which is predominantly vocational in content may be considered by the Administrator, for the purposes of [section 3462(a)(3) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3462/a/3&num=0&edition=prelim), United States Code, to be a course with an approved vocational objective if such degree program meets the requirements established in such title for approval of such program.
-
-“(b) Funds for the purpose of carrying out subsection (a) shall be derived only from amounts appropriated pursuant to the authorizations of appropriations in section 16. Not more than a total of $25,000,000 of amounts so appropriated for fiscal years 1984 and 1985 shall be available for that purpose.
-
-#### “effective date
-“Sec. 19. This Act shall take effect on October 1, 1983.”
+Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, § 704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, § 212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, § 4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, § 201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, § 901, July 22, 1987, 101 Stat. 538; Pub. L. 100–227, title II, § 201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§ 11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(25), (f)(17)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that: “short title“Section 1. This Act may be cited as the ‘Veterans’ Job Training Act’. “purpose“Sec. 2. The purpose of this Act is to address the problem of severe and continuing unemployment among veterans by providing, in the form of payments to defray the costs of training, incentives to employers to hire and train certain wartime veterans who have been unemployed for long periods of time for stable and permanent positions that involve significant training. “definitions“Sec. 3. For the purposes of this Act:“(1) The term ‘Administrator’ means the Administrator of Veterans’ Affairs. “(2) The term ‘Secretary’ means the Secretary of Labor. “(3) The terms ‘veteran’, ‘Korean conflict’, ‘compensation’, ‘service-connected’, ‘State’, ‘active military, naval, or air service’, and ‘Vietnam era’, have the meanings given such terms in paragraphs (2), (9), (13), (16), (20), (24), and (29), respectively, of [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim), United States Code. “establishment of program“Sec. 4. (a) The Administrator and, to the extent specifically provided by this Act, the Secretary shall carry out a program in accordance with this Act to assist eligible veterans in obtaining employment through training for employment in stable and permanent positions that involve significant training. The program shall be carried out through payments to employers who employ and train eligible veterans in such jobs in order to assist such employers in defraying the costs of necessary training. “(b) The Secretary shall carry out the Secretary’s responsibilities under this Act through the Assistant Secretary of Labor for Veterans’ Employment and Training established under [section 4102A of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4102A&num=0&edition=prelim), United States Code. “eligibility for program; duration of assistance“Sec. 5. (a)(1) To be eligible for participation in a job training program under this Act, a veteran must be a Korean conflict or Vietnam-era veteran who—“(A) is unemployed at the time of applying for participation in a program under this Act; and “(B) has been unemployed for at least 10 of the 15 weeks immediately preceding the date of such veteran’s application for participation in a program under this Act. “(2) For purposes of paragraph (1), the term ‘Korean conflict or Vietnam-era veteran’ means a veteran—“(A) who served in the active military, naval, or air service for a period of more than one hundred and eighty days, any part of which was during the Korean conflict or the Vietnam era; or “(B) who served in the active military, naval, or air service during the Korean conflict or the Vietnam era and—“(i) was discharged or released therefrom for a service-connected disability; or “(ii) is entitled to compensation (or but for the receipt of retirement pay would be entitled to compensation). “(3) For purposes of paragraph (1), a veteran shall be considered to be unemployed during any period the veteran is without a job and wants and is available for work. “(b)(1) A veteran who desires to participate in a program of job training under this Act shall submit to the Administrator an application for participation in such a program. Such an application—“(A) shall include a certification by the veteran that the veteran is unemployed and meets the other criteria for eligibility prescribed by subsection (a); and “(B) shall be in such form and contain such additional information as the Administrator may prescribe. “(2)(A) Subject to subparagraph (B), the Administrator shall approve an application by a veteran for participation in a program of job training under this Act unless the Administrator finds that the veteran is not eligible to participate in a program of job training under this Act. “(B) The Administrator may withhold approval of an application of a veteran under this Act if the Administrator determines that, because of limited funds available for the purpose of making payments to employers under this Act, it is necessary to limit the number of participants in programs under this Act. “(3)(A) Subject to section 14(c), the Administrator shall certify as eligible for participation under this Act a veteran whose application is approved under this subsection and shall furnish the veteran with a certificate of that veteran’s eligibility for presentation to an employer offering a program of job training under this Act. Any such certificate shall expire 90 days after it is furnished to the veteran. The date on which a certificate is furnished to a veteran under this paragraph shall be stated on the certificate. “(B) A certificate furnished under this paragraph may, upon the veteran’s application, be renewed in accordance with the terms and conditions of subparagraph (A). “(c) The maximum period of training for which assistance may be provided on behalf of a veteran under this Act is—“(1) fifteen months in the case of—“(A) a veteran with a service-connected disability rated at 30 percent or more; or “(B) a veteran with a service-connected disability rated at 10 percent or 20 percent who has been determined under [section 3106 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3106&num=0&edition=prelim), United States Code, to have a serious employment handicap; and “(2) nine months in the case of any other veteran. “employer job training programs“Sec. 6. (a)(1) Except as provided in paragraph (2), in order to be approved as a program of job training under this Act, a program of job training of an employer approved under section 7 must provide training for a period of not less than six months in an occupation in a growth industry, in an occupation requiring the use of new technological skills, or in an occupation for which demand for labor exceeds supply. “(2) A program of job training providing training for a period of at least three but less than six months may be approved if the Administrator determines (in accordance with standards which the Administrator shall prescribe) that the purpose of this Act would be met through that program. “(b) Subject to section 10 and the other provisions of this Act, a veteran who has been approved for participation in a program of job training under this Act and has a current certificate of eligibility for such participation may enter a program of job training that has been approved under section 7 and that is offered to the veteran by the employer. “approval of employer programs“Sec. 7. (a)(1) An employer may be paid assistance under section 8(a) on behalf of an eligible veteran employed by such employer and participating in a program of job training offered by that employer only if the program is approved under this section and in accordance with such procedures as the Administrator may by regulation prescribe. “(2) Except as provided in subsection (b), the Administrator shall approve a proposed program of job training of an employer unless the Administrator determines that the application does not contain a certification and other information meeting the requirements established under this Act or that withholding of approval is warranted under subsection (g). “(b) The Administrator may not approve a program of job training—“(1) for employment which consists of seasonal, intermittent, or temporary jobs; “(2) for employment under which commissions are the primary source of income; “(3) for employment which involves political or religious activities; “(4) for employment with any department, agency, instrumentality, or branch of the Federal Government (including the United States Postal Service and the Postal Rate Commission [Postal Regulatory Commission]); or “(5) if the training will not be carried out in a State. “(c) An employer offering a program of job training that the employer desires to have approved for the purposes of this Act shall submit to the Administrator a written application for such approval. Such application shall be in such form as the Administrator shall prescribe. “(d) An application under subsection (c) shall include a certification by the employer of the following:“(1) That the employer is planning that, upon a veteran’s completion of the program of job training, the employer will employ the veteran in a position for which the veteran has been trained and that the employer expects that such a position will be available on a stable and permanent basis to the veteran at the end of the training period. “(2) That the wages and benefits to be paid to a veteran participating in the employer’s program of job training will be not less than the wages and benefits normally paid to other employees participating in a comparable program of job training. “(3) That the employment of a veteran under the program—“(A) will not result in the displacement of currently employed workers (including partial displacement such as a reduction in the hours of nonovertime work, wages, or employment benefits); and “(B) will not be in a job (i) while any other individual is on layoff from the same or any substantially equivalent job, or (ii) the opening for which was created as a result of the employer having terminated the employment of any regular employee or otherwise having reduced its work force with the intention of hiring a veteran in such job under this Act. “(4) That the employer will not employ in the program of job training a veteran who is already qualified by training and experience for the job for which training is to be provided. “(5) That the job which is the objective of the training program is one that involves significant training. “(6) That the training content of the program is adequate, in light of the nature of the occupation for which training is to be provided and of comparable training opportunities in such occupation, to accomplish the training objective certified under clause (2) of subsection (e). “(7) That each participating veteran will be employed full time in the program of job training. “(8) That the training period under the proposed program is not longer than the training periods that employers in the community customarily require new employees to complete in order to become competent in the occupation or job for which training is to be provided. “(9) That there are in the training establishment or place of employment such space, equipment, instructional material, and instructor personnel as needed to accomplish the training objective certified under clause (2) of subsection (e). “(10) That the employer will keep records adequate to show the progress made by each veteran participating in the program and otherwise to demonstrate compliance with the requirements established under this Act. “(11) That the employer will furnish each participating veteran, before the veteran’s entry into training, with a copy of the employer’s certification under this subsection and will obtain and retain the veteran’s signed acknowledgment of having received such certification. “(12) That, as applicable, the employer will provide each participating veteran with the full opportunity to participate in a personal interview pursuant to section 14(b)(1)(A) during the veteran’s normal workday. “(13) That the program meets such other criteria as the Administrator may determine are essential for the effective implementation of the program established by this Act. “(e) A certification under subsection (d) shall include—“(1) a statement indicating (A) the total number of hours of participation in the program of job training to be offered a veteran, (B) the length of the program of job training, and (C) the starting rate of wages to be paid to a participant in the program; and “(2) a description of the training content of the program (including any agreement the employer has entered into with an educational institution under section 10) and of the objective of the training. “(f)(1) Except as specified in paragraph (2), each matter required to be certified to in paragraphs (1) through (11) of subsection (d) shall be considered to be a requirement established under this Act. “(2)(A) For the purposes of section 8(c), only matters required to be certified in paragraphs (1) through (10) of subsection (d) shall be so considered. “(B) For the purposes of section 11, a matter required to be certified under paragraph (12) of subsection (d) shall also be so considered. “(g) In accordance with regulations which the Administrator shall prescribe, the Administrator may withhold approval of an employer’s proposed program of job training pending the outcome of an investigation under section 12 and, based on the outcome of such an investigation, may disapprove such program. “(h) For the purposes of this section, approval of a program of apprenticeship or other on-job training for the purposes of [section 3687 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3687&num=0&edition=prelim), United States Code, shall be considered to meet all requirements established under the provisions of this Act (other than subsections (b) and (d)(3)) for approval of a program of job training. “payments to employers; overpayment“Sec. 8. (a)(1) Except as provided in paragraph (3) and subsection (b) and subject to the provisions of section 9, the Administrator shall make quarterly payments to an employer of a veteran participating in an approved program of job training under this Act. Subject to section 5(c) and paragraph (2), the amount paid to an employer on behalf of a veteran for any period of time shall be 50 percent of the product of (A) the starting hourly rate of wages paid to the veteran by the employer (without regard to overtime or premium pay), and (B) the number of hours worked by the veteran during that period. “(2) The total amount that may be paid to an employer on behalf of a veteran participating in a program of job training under this Act is $10,000. “(3) In order to relieve financial burdens on business enterprises with relatively few numbers of employees, the Administrator may make payments under this Act on a monthly, rather than quarterly, basis to an employer with a number of employees less than a number which shall be specified in regulations which the Administrator shall prescribe for the purposes of this paragraph. “(b) Payment may not be made to an employer for a period of training under this Act on behalf of a veteran until the Administrator has received—“(1) from the veteran, a certification that the veteran was employed full time by the employer in a program of job training during such period; and “(2) from the employer, a certification—“(A) that the veteran was employed by the employer during that period and that the veteran’s performance and progress during such period were satisfactory; and “(B) of the number of hours worked by the veteran during that period. With respect to the first such certification by an employer with respect to a veteran, the certification shall indicate the date on which the employment of the veteran began and the starting hourly rate of wages paid to the veteran (without regard to overtime or premium pay). “(c)(1)(A) Whenever the Administrator finds that an overpayment under this Act has been made to an employer on behalf of a veteran as a result of a certification, or information contained in an application, submitted by an employer which was false in any material respect, the amount of such overpayment shall constitute a liability of the employer to the United States. “(B) Whenever the Administrator finds that an employer has failed in any substantial respect to comply for a period of time with a requirement established under this Act (unless the employer’s failure is the result of false or incomplete information provided by the veteran), each amount paid to the employer on behalf of a veteran for that period shall be considered to be an overpayment under this Act, and the amount of such overpayment shall constitute a liability of the employer to the United States. “(2) Whenever the Administrator finds that an overpayment under this Act has been made to an employer on behalf of a veteran as a result of a certification by the veteran, or as a result of information provided to an employer or contained in an application submitted by the veteran, which was willfully or negligently false in any material respect, the amount of such overpayment shall constitute a liability of the veteran to the United States. “(3) Any overpayment referred to in paragraph (1) or (2) may be recovered in the same manner as any other debt due the United States. Any overpayment recovered shall be credited to funds available to make payments under this Act. If there are no such funds, any overpayment recovered shall be deposited into the Treasury. “(4) Any overpayment referred to in paragraph (1) or (2) may be waived, in whole or in part, in accordance with the terms and conditions set forth in [section 5302 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5302&num=0&edition=prelim), United States Code. “entry into program of job training“Sec. 9. Notwithstanding any other provision of this Act, the Administrator may withhold or deny approval of a veteran’s entry into an approved program of job training if the Administrator determines that funds are not available to make payments under this Act on behalf of the veteran to the employer offering that program. Before the entry of a veteran into an approved program of job training of an employer for purposes of assistance under this Act, the employer shall notify the Administrator of the employer’s intention to employ that veteran. The veteran may begin such program of job training with the employer two weeks after the notice is transmitted to the Administrator unless within that time the employer has received notice from the Administrator that approval of the veteran’s entry into that program of job training must be withheld or denied in accordance with this section. “provision of training through educational institutions“Sec. 10. An employer may enter into an agreement with an educational institution that has been approved for the enrollment of veterans under chapter 34 of title 38, United States Code, in order that such institution may provide a program of job training (or a portion of such a program) under this Act. When such an agreement has been entered into, the application of the employer under section 7 shall so state and shall include a description of the training to be provided under the agreement. “discontinuance of approval of participation in certain employer programs“Sec. 11. (a) If the Administrator finds at any time that a program of job training previously approved by the Administrator for the purposes of this Act thereafter fails to meet any of the requirements established under this Act, the Administrator may immediately disapprove further participation by veterans in that program. The Administrator shall provide to the employer concerned, and to each veteran participating in the employer’s program, a statement of the reasons for, and an opportunity for a hearing with respect to, such disapproval. The employer and each such veteran shall be notified of such disapproval, the reasons for such disapproval, and the opportunity for a hearing. Notification shall be by a certified or registered letter, and a return receipt shall be secured. “(b)(1) If the Administrator determines that the rate of veterans’ successful completion of an employer’s programs of job training previously approved by the Administrator for the purposes of this Act is disproportionately low because of deficiencies in the quality of such programs, the Administrator shall disapprove participation in such programs on the part of veterans who had not begun such participation on the date that the employer is notified of the disapproval. In determining whether any such rate is disproportionately low because of such deficiencies, the Administrator shall take into account appropriate data, including—“(A) the quarterly data provided by the Secretary with respect to the number of veterans who receive counseling in connection with training under this Act, are referred to employers under this Act, participate in job training under this Act, complete such training or do not complete such training, and the reasons for noncompletion; and “(B) data compiled through the particular employer’s compliance surveys. “(2) With respect to a disapproval under paragraph (1), the Administrator shall provide to the employer concerned the kind of statement, opportunity for hearing, and notice described in subsection (a). “(3) A disapproval under paragraph (1) shall remain in effect until such time as the Administrator determines that adequate remedial action has been taken. “inspection of records; investigations“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistance has been paid under this Act, as well as other records that the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government. “(b) The Administrator may monitor employers and veterans participating in programs of job training under this Act to determine compliance with the requirements established under this Act. “(c) The Administrator may investigate any matter the Administrator considers necessary to determine compliance with the requirements established under this Act. The investigations authorized by this subsection may include examining records (including making certified copies of records), questioning employees, and entering into any premises or onto any site where any part of a program of job training is conducted under this Act, or where any of the records of the employer offering or providing such program are kept. “(d) The Administrator may administer functions under subsections (b) and (c) in accordance with an agreement between the Administrator and the Secretary providing for the administration of such subsections (or any portion of such subsections) by the Department of Labor. Under such an agreement, any entity of the Department of Labor specified in the agreement may administer such subsections, notwithstanding section 4(b). “coordination with other programs“Sec. 13. (a)(1) Assistance may not be paid under this Act to an employer on behalf of a veteran for any period of time described in paragraph (2) and to such veteran under chapter 31, 32, 34, 35, or 36 of title 38, United States Code, for the same period of time. “(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the veteran enters into an approved program of job training of an employer for purposes of assistance under this Act and ending on the last date for which such assistance is payable. “(b) Assistance may not be paid under this Act to an employer on behalf of an eligible veteran for any period if the employer receives for that period any other form of assistance on account of the training or employment of the veteran, including assistance under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.] or a credit under section 44B of the Internal Revenue Code of 1954 ([26 U.S.C. 44B](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section44B&num=0&edition=prelim)) (relating to credit for employment of certain new employees). “(c) Assistance may not be paid under this Act on behalf of a veteran who has completed a program of job training under this Act. “counseling“Sec. 14. (a)(1) The Administrator and the Secretary may, upon request, provide employment counseling services to any veteran eligible to participate under this Act in order to assist such veteran in selecting a suitable program of job training under this Act. “(2) The Administrator shall, after consultation with the Secretary, provide a program of job-readiness skills development and counseling services designed to assist veterans in need of such assistance in finding, applying for, and successfully participating in a suitable program of job training under this Act. As part of providing such services, the Administrator shall coordinate activities, to the extent practicable, with the readjustment counseling program described in [section 1712A of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1712A&num=0&edition=prelim), United States Code. The Administrator shall advise veterans participating under this Act of the availability of such services and encourage them to request such services whenever appropriate. “(b)(1) The Secretary shall provide for a program under which—“(A) except as provided in paragraph (2), a disabled veteran’s outreach program specialist appointed under [section 4103A(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4103A/a&num=0&edition=prelim), United States Code, is assigned as a case manager for each veteran participating in a program of job training under this Act; “(B) the veteran has an in-person interview with the case manager not later than 60 days after entering into a program of training under this Act; and “(C) periodic (not less frequent than monthly) contact is maintained with each such veteran for the purpose of (i) avoiding unnecessary termination of employment, (ii) referring the veteran to appropriate counseling, if necessary, (iii) facilitating the veteran’s successful completion of such program, and (iv) following up with the employer and the veteran in order to determine the veteran’s progress in the program and the outcome regarding the veteran’s participation in and successful completion of the program. “(2) No case manager shall be assigned pursuant to paragraph (1)(A)—“(A) for a veteran if, on the basis of a recommendation made by a disabled veterans’ outreach program specialist, the Secretary determines that there is no need for a case manager for such veteran; or “(B) in the case of the employees of an employer, if the Secretary determines that—“(i) the employer has an appropriate and effective employee assistance program that is available to all veterans participating in the employer’s programs of job training under this Act; or “(ii) the rate of veterans’ successful completion of the employer’s programs of job training under this Act, either cumulatively or during the previous program year, is 60 percent or higher. “(3) The Secretary and the Administrator shall jointly provide, to the extent feasible—“(A) a program of counseling or other services (to be provided pursuant to subchapter IV of chapter 3 [see chapter 63] of title 38, United States Code, and sections 1712A, 4103A, and 4104 of such title) designed to resolve difficulties that may be encountered by veterans during their training under this Act; and “(B) a program of information services under which—“(i) each veteran who enters into a program of job training under this Act and each employer participating under this Act is informed of the supportive services and resources available to the veteran (I) under clauses (A) and (B), (II) through Veterans’ Administration counseling and career-development activities (especially, in the case of a Vietnam-era veteran, readjustment counseling services under section 1712A of such title) and under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.], and (III) through other appropriate agencies in the community; and “(ii) veterans and employers are encouraged to request such services whenever appropriate. “(c) Before a veteran who voluntarily terminates from a program of job training under this Act or is involuntarily terminated from such program by the employer may be eligible to be provided with a further certificate, or renewal of certification, of eligibility for participation under this Act, such veteran must be provided by the Secretary, after consultation with the Administrator, with a case manager. “(d) Payments made under this Act pursuant to contracts entered into for the provision of job-readiness skills development and counseling services under subsection (a)(2) may only be paid out of the same account used to make payments under [section 3104(a)(7) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3104/a/7&num=0&edition=prelim), United States Code, and the amount paid out of such account in any fiscal year for such services shall not exceed an amount equal to 5 percent of the amount obligated to carry out this Act for such fiscal year, except that for fiscal year 1988 the amount shall not exceed 5 percent of the amount available to carry out this Act on October 1, 1987. “information and outreach; use of agency resources“Sec. 15. (a)(1) The Administrator and the Secretary shall jointly provide for an outreach and public information program—“(A) to inform veterans about the employment and job training opportunities available under this Act, under chapters 31, 34, 36, 41, and 42 of title 38, United States Code, and under other provisions of law; and “(B) to inform private industry and business concerns (including small business concerns), public agencies and organizations, educational institutions, trade associations, and labor unions about the job training opportunities available under, and the advantages of participating in, the program established by this Act. “(2) The Secretary, in consultation with the Administrator, shall promote the development of employment and job training opportunities for veterans by encouraging potential employers to make programs of job training under this Act available for eligible veterans, by advising other appropriate Federal departments and agencies of the program established by this Act, and by advising employers of applicable responsibilities under chapters 41 and 42 of title 38, United States Code, with respect to veterans. “(b) The Administrator and the Secretary shall coordinate the outreach and public information program under subsection (a)(1), and job development activities under subsection (a)(2), with job counseling, placement, job development, and other services provided for under chapters 41 and 42 of title 38, United States Code, and with other similar services offered by other public agencies and organizations. “(c)(1) The Administrator and the Secretary shall make available in regional and local offices of the Veterans’ Administration and the Department of Labor such personnel as are necessary to facilitate the effective implementation of this Act. “(2) In carrying out the responsibilities of the Secretary under this Act, the Secretary shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. The Secretary shall also use such resources as are available under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.]. To the extent that the Administrator withholds approval of veterans’ applications under this Act pursuant to section 5(b)(2)(B), the Secretary shall take steps to assist such veterans in taking advantage of opportunities that may be available to them under title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.] or under any other program carried out with funds provided by the Secretary. “(d) The Secretary shall request and obtain from the Administrator of the Small Business Administration a list of small business concerns and shall, on a regular basis, update such list. Such list shall be used to identify and promote possible training and employment opportunities for veterans. “(e) The Administrator and the Secretary shall assist veterans and employers desiring to participate under this Act in making application and completing necessary certifications. “(f) The Secretary shall, on a not less frequent than quarterly basis, collect and compile from the heads of State employment services and Directors for Veterans’ Employment and Training for each State information available to such heads and Directors, and derived from programs carried out in their respective States, with respect to the numbers of veterans who receive counseling services pursuant to section 14, who are referred to employers participating under this Act, who participate in programs of job training under this Act, and who complete such programs, and the reasons for veterans’ noncompletion. “authorization of appropriations“Sec. 16. (a) There is authorized to be appropriated to the Veterans’ Administration (1) $150,000,000 for each of fiscal years 1984 and 1985, (2) a total of $65,000,000 for fiscal years 1986, and 1987, and (3) $60,000,000 for each of the fiscal years 1988 and 1989 for the purpose of making payments to employers under this Act and for the purpose of section 18 of this Act. Amounts appropriated pursuant to this section shall remain available until September 30, 1991. “(b) Notwithstanding any other provision of law, any funds appropriated under subsection (a) for any fiscal year which are obligated for the purpose of making payments under section 8 on behalf of a veteran (including funds so obligated which previously had been obligated for such purpose on behalf of another veteran and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the Administrator for obligation for such purpose. The further obligation of such funds by the Administrator for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch. “time periods for application and initiation of training“Sec. 17. Assistance may not be paid to an employer under this Act—“(1) on behalf of a veteran who initially applies for a program of job training under this Act after September 30, 1989; or “(2) for any such program which begins after March 31, 1990. “expansion of targeted delimiting date extension“Sec. 18. (a) Subject to the limitation on the availability of funds set forth in subsection (b), an associate degree program which is predominantly vocational in content may be considered by the Administrator, for the purposes of [section 3462(a)(3) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3462/a/3&num=0&edition=prelim), United States Code, to be a course with an approved vocational objective if such degree program meets the requirements established in such title for approval of such program. “(b) Funds for the purpose of carrying out subsection (a) shall be derived only from amounts appropriated pursuant to the authorizations of appropriations in section 16. Not more than a total of $25,000,000 of amounts so appropriated for fiscal years 1984 and 1985 shall be available for that purpose. “effective date“Sec. 19. This Act shall take effect on October 1, 1983.”
 
 [Amendment of Pub. L. 98–77, set out above, by Pub. L. 100–323 effective on 60th day after May 20, 1988, see section 16(b)(2) of Pub. L. 100–323, set out as a note under [section 3104 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3104&num=0&edition=prelim), Veterans’ Benefits.]
 
@@ -3849,8 +3850,14 @@ For provisions requiring coordination of programs under [section 3116(b) of Titl
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### Amendments
 1999—Subsec. (d)(2)(B). Pub. L. 106–113 substituted “or Alaska Natives.” for “or Alaska Native villages or Native groups (as such terms are defined in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim)).”
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2915"></a>
@@ -3871,6 +3878,9 @@ For provisions requiring coordination of programs under [section 3116(b) of Titl
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 Section 199, referred to in subsec. (a)(1), is section 199 of Pub. L. 105–220, title I, Aug. 7, 1998, 112 Stat. 1058. Section 199 repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737, 1751 to 1791h, 1792 to 1792b, and 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, sections 42101 to 42106 of Title 49, Transportation, and provisions set out as notes under sections 801, 1501, and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of this section to the Code, see Tables.
 
@@ -3880,6 +3890,9 @@ This chapter, referred to in subsecs. (a)(1) and (b)(1), was in the original “
 1998—Subsec. (a)(1). Pub. L. 105–277, § 101(f) [title VIII, § 401(9)], substituted “carrying out activities under this chapter” for “carry out activities under this chapter”.
 
 Subsec. (b)(2). Pub. L. 105–277, § 101(f) [title VIII, § 401(10)], substituted “section 2918(b)” for “section 2919(b)”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2916"></a>
@@ -4205,6 +4218,9 @@ Subsec. (b)(2). Pub. L. 105–277, § 101(f) [title VIII, § 401(10)], substitut
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsecs. (b)(1)(H) and (c)(2)(B)(i)(II), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
@@ -4219,6 +4235,9 @@ This Act, referred to in subsec. (e)(4)(B), is Pub. L. 105–220, Aug. 7, 1998, 
 
 #### Change of Name
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -4271,6 +4290,9 @@ Pub. L. 105–277, div. C, title IV, § 414(c), Oct. 21, 1998, 112 Stat. 2681–
 
 ### Statutory Notes
 
+#### Amendment of Paragraph (3)(C)
+Pub. L. 113–128, title V, §§ 506, 512(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (3)(C) of this section is amended by striking “entities involved in administering the workforce investment system established under title I of the Workforce Investment Act of 1998” and inserting “entities involved in administering the workforce development system, as defined in [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)”. See 2014 Amendment note below.
+
 #### References in Text
 The Workforce Investment Act of 1998, referred to in par. (3)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
 
@@ -4280,6 +4302,8 @@ Section was formerly set out as a note under [section 2916 of this title](./chap
 Section was enacted as part of the American Competitiveness and Workforce Improvement Act of 1998 and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of title I of the Workforce Investment Act of 1998 which comprises this chapter.
 
 #### Amendments
+2014—Par. (3)(C). Pub. L. 113–128 substituted “entities involved in administering the workforce development system, as defined in [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)” for “entities involved in administering the workforce investment system established under title I of the Workforce Investment Act of 1998”.
+
 2004—Pub. L. 108–447 amended section catchline and text generally, substituting provisions relating to job training grants for provisions relating to demonstration programs and projects to provide technical skills training for workers.
 
 2000—Pub. L. 106–313 amended section catchline and text generally. Prior to amendment, text read as follows:
@@ -4293,6 +4317,9 @@ Section was enacted as part of the American Competitiveness and Workforce Improv
 “(ii) local boards that will carry out such programs or projects through one-stop delivery systems established under [section 2841 of this title](./chapter-030-workforce-investment-systems.md#section-2841); or
 
 “(B) regional consortia of councils or local boards described in subparagraph (A).”
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–447 effective 90 days after Dec. 8, 2004, see section 430(a) of Pub. L. 108–447, set out as a note under [section 1182 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&num=0&edition=prelim), Aliens and Nationality.
@@ -4332,11 +4359,17 @@ Amendment by Pub. L. 108–447 effective 90 days after Dec. 8, 2004, see section
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2918"></a>
@@ -4575,6 +4608,9 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsec. (b), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
@@ -4602,6 +4638,9 @@ Subsecs. (f), (g). Pub. L. 107–210, § 203(b), added subsecs. (f) and (g).
 1998—Subsec. (a)(2). Pub. L. 105–277, § 101(f) [title VIII, § 401(12)], made technical amendment to reference in original act which appears in text as reference to [section 5122 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122&num=0&edition=prelim).
 
 Subsec. (e). Pub. L. 105–277, § 101(f) [title VIII], added subsec. (e).
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–40 applicable to coverage months beginning after Feb. 12, 2011, see section 241(c) of Pub. L. 112–40, set out as a note under [section 35 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section35&num=0&edition=prelim), Internal Revenue Code.
@@ -4891,12 +4930,18 @@ Pub. L. 107–210, div. A, title II, § 203(f), Aug. 6, 2002, 116 Stat. 972, pro
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsecs. (b)(3)(C) and (c)(3)(B)(x), (xvi)(III), (4)(J)(iii), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (b)(11)(A), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of this title](./chapter-4c-apprentice-labor.md#section-50) and Tables.
 
 The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date
 Section effective Sept. 22, 2006, see section 2(f) of Pub. L. 109–281, set out as an Effective Date of 2006 Amendment note under [section 1701u of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701u&num=0&edition=prelim), Banks and Banking.
@@ -4994,6 +5039,9 @@ Section was enacted as part of the Department of Labor Appropriations Act, 2010,
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Trade Act of 1974, as amended by the Trade Act of 2002, referred to in subsec. (c)(3)(A), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended by Pub. L. 107–210, which is classified principally to chapter 12 (§ 2101 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
 
@@ -5003,6 +5051,9 @@ The Trade Act of 1974, as amended by the Trade Act of 2002, referred to in subse
 Subsec. (c)(1)(A). Pub. L. 111–5, § 1899K(b)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “to carry out subsection (a)(4)(A) of [section 2918 of this title](./chapter-030-workforce-investment-systems.md#section-2918), $10,000,000 for fiscal year 2002; and”.
 
 2002—Subsec. (c). Pub. L. 107–210 added subsec. (c).
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 2009 Amendment
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under [section 2271 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2271&num=0&edition=prelim), Customs Duties.
@@ -5148,6 +5199,9 @@ Section was formerly classified to [section 1506 of this title](./chapter-019-jo
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
@@ -5157,6 +5211,9 @@ The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch
 
 #### Prior Provisions
 Provisions similar to this section were contained in sections 1551 to 1554 of this title prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2932"></a>
@@ -5173,11 +5230,17 @@ Provisions similar to this section were contained in sections 1551 to 1554 of th
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsecs. (a), (b), and (d), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1572 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1572&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2933"></a>
@@ -5190,11 +5253,17 @@ Provisions similar to this section were contained in [section 1572 of this title
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1573 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1573&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2934"></a>
@@ -5309,11 +5378,17 @@ Provisions similar to this section were contained in [section 1573 of this title
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsecs. (a)(2)(A), (3)(A), (B), (b)(1), (c)(1) to (3), (5), (d)(1), (2)(D), (3), and (f), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1574 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1574&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2935"></a>
@@ -5398,6 +5473,9 @@ Provisions similar to this section were contained in [section 1574 of this title
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
@@ -5405,6 +5483,9 @@ The Inspector General Act of 1978, referred to in subsec. (b)(3)(D), is Pub. L. 
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1575 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1575&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2936"></a>
@@ -5419,11 +5500,17 @@ Provisions similar to this section were contained in [section 1575 of this title
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1576 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1576&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2937"></a>
@@ -5440,11 +5527,17 @@ Provisions similar to this section were contained in [section 1576 of this title
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsec. (a)(1), was in the original “[t]his title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1578 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1578&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2938"></a>
@@ -5475,6 +5568,9 @@ Provisions similar to this section were contained in [section 1578 of this title
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Age Discrimination Act of 1975, referred to in subsec. (a)(1), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6101&num=0&edition=prelim) and Tables.
 
@@ -5488,6 +5584,9 @@ This chapter, referred to in subsecs. (a)(3) to (5), (b), and (c), was in the or
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1577 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1577&num=0&edition=prelim) prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
@@ -5563,6 +5662,9 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsecs. (a) to (c), (d)(1), (2), (e), (f), (g)(1)(A), (2), (h), and (i)(2), (3), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
@@ -5578,6 +5680,9 @@ Provisions similar to this section were contained in sections 1504, 1571, and 15
 2006—Subsec. (g)(1)(A). Pub. L. 109–281 inserted “and [section 2918a of this title](./chapter-030-workforce-investment-systems.md#section-2918a)” after “Except as provided in subparagraph (B)”.
 
 1998—Subsec. (i)(1). Pub. L. 105–277 substituted “1998 (Public Law 105–78; 111 Stat. 1467)” for “1997 (Public Law 104–208; 110 Stat. 3009–234)”. The substitution was made to reflect the probable intent of Congress, in the absence of closing quotation marks designating the provisions to be inserted.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–281 effective Sept. 22, 2006, see section 2(f) of Pub. L. 109–281, set out as a note under [section 1701u of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701u&num=0&edition=prelim), Banks and Banking.
@@ -5599,6 +5704,9 @@ Amendment by Pub. L. 109–281 effective Sept. 22, 2006, see section 2(f) of Pub
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Comprehensive Employment and Training Act, referred to in subsec. (a), is Pub. L. 93–203, Dec. 28, 1973, 87 Stat. 839, as amended, which was classified generally to chapter 17 (§ 801 et seq.) of this title, and was repealed by section 184(a)(1) of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357.
 
@@ -5613,11 +5721,16 @@ This Act, referred to in subsec. (b), is the Workforce Investment Act of 1998. S
 #### Amendments
 1998—Pub. L. 105–277 amended section catchline and text generally. Prior to amendment, text read as follows: “Effective on August 7, 1998, all references in any other provision of law (other than [section 665 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section665&num=0&edition=prelim)) to the Comprehensive Employment and Training Act, or to the Job Training Partnership Act, as the case may be, shall be deemed to refer to the ‘Workforce Investment Act of 1998.’ ”
 
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
 #### Effective Date of 1998 Amendment
 Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(h)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–435, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the Workforce Investment Act of 1998 [Pub. L. 105–220].”
 
 #### Preparation of Legislation To Make Technical and Conforming Amendments
 Pub. L. 105–220, title I, § 199A, Aug. 7, 1998, 112 Stat. 1059, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(h)(3)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–435, provided that: “(a) Preparation.—After consultation with the appropriate committees of Congress and the Director of the Office of Management and Budget, the Secretary shall prepare recommended legislation containing technical and conforming amendments to reflect the changes made by this subtitle [subtitle F (§§ 199, 199A) of title I of Pub. L. 105–220, repealing sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737, 1751 to 1791h, 1792 to 1792b, and 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacting provisions set out as notes under sections 1501 and 2301 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealing provisions set out as notes under sections 1501 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality]. “(b) Submission to Congress.—Not later than 6 months after the date of enactment of this Act [Aug. 7, 1998], the Secretary shall submit to Congress the recommended legislation referred to under subsection (a).”
+
+[Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], section 199A of Pub. L. 105–220, set out above, is repealed.]
 
 
 <a id="section-2941"></a>
@@ -5628,11 +5741,17 @@ Pub. L. 105–220, title I, § 199A, Aug. 7, 1998, 112 Stat. 1059, as amended by
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 #### Prior Provisions
 Provisions similar to this section were contained in sections 1536 and 1537 of this title prior to repeal by Pub. L. 105–220.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2942"></a>
@@ -5667,6 +5786,9 @@ Provisions similar to this section were contained in sections 1536 and 1537 of t
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsecs. (a)(1) and (b)(1)(A), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
@@ -5676,6 +5798,9 @@ The Older Americans Act of 1965, referred to in subsecs. (a)(3) and (b)(3), is P
 1998—Subsec. (a)(2). Pub. L. 105–277 struck out comma before “to the State, except”.
 
 Subsec. (a)(3). Pub. L. 105–277 substituted “) to” for “), to”.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Workforce Flexibility Partnership Demonstration Program
 Pub. L. 105–78, title I, Nov. 13, 1997, 111 Stat. 1469, provided in part: “That the Secretary of Labor shall establish a workforce flexibility (work-flex) partnership demonstration program under which the Secretary shall authorize not more than six States, of which at least three States shall each have populations not in excess of 3,500,000, with a preference given to those States that have been designated Ed-Flex Partnership States under section 311(e) of Public Law 103–227 [[20 U.S.C. 5891(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section5891/e&num=0&edition=prelim)], to waive any statutory or regulatory requirement applicable to service delivery areas or substate areas within the State under titles I–III of the Job Training Partnership Act [former [29 U.S.C. 1511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1511&num=0&edition=prelim) et seq., 1601 et seq., 1651 et seq.] (except for requirements relating to wage and labor standards, grievance procedures and judicial review, nondiscrimination, allotment of funds, and eligibility), and any of the statutory or regulatory requirements of sections 8–10 of the Wagner-Peyser Act [[29 U.S.C. 49g–49i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49g–49i&num=0&edition=prelim)] (except for requirements relating to the provision of services to unemployment insurance claimants and veterans, and to universal access to basic labor exchange services without cost to job seekers), for a duration not to exceed the waiver period authorized under section 311(e) of Public Law 103–227, pursuant to a plan submitted by such States and approved by the Secretary for the provision of workforce employment and training activities in the States, which includes a description of the process by which service delivery areas and substate areas may apply for and have waivers approved by the State, the requirements of the Wagner-Peyser Act [[29 U.S.C. 49](./chapter-4b-federal-employment-service.md#section-49) et seq.] to be waived, the outcomes to be achieved and other measures to be taken to ensure appropriate accountability for Federal funds.”
@@ -5695,6 +5820,9 @@ Pub. L. 104–208, div. A, title I, § 101(e) [title I], Sept. 30, 1996, 110 Sta
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title III of the Act is classified generally to subchapter III (§ 501 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
@@ -5706,6 +5834,9 @@ This Act, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936
 2007—Pub. L. 110–5 added Pub. L. 109–289, § 20610. See 2006 Amendment note below.
 
 2006—Pub. L. 109–289, § 20610, as added by Pub. L. 110–5, amended section catchline and text generally. Prior to amendment, text related to use of State real property for a one-stop service delivery system.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2944"></a>
@@ -5736,10 +5867,16 @@ This Act, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 The Job Training Partnership Act, referred to in subsec. (b)(2), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of this title, prior to repeal by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
 <a id="section-2945"></a>
@@ -5805,5 +5942,11 @@ Except as otherwise provided in this chapter, the following conditions are appli
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11421&num=0&edition=prelim), and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1255a&num=0&edition=prelim), Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).

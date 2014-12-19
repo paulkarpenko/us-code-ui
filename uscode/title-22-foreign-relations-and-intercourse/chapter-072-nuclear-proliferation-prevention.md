@@ -10,7 +10,7 @@ source: >-
 ## § 6301. Imposition of procurement sanction on persons engaging in export activities that contribute to proliferation
 **(a) Determination by President**
 
-(1) **In general** — Except as provided in subsection (b)(2) of this section, the President shall impose the sanction described in subsection (c) of this section if the President determines in writing that, on or after the effective date of this subchapter, a foreign person or a United States person has materially and with requisite knowledge contributed, through the export from the United States or any other country of any goods or technology (as defined in [section 6305(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6305/2&num=0&edition=prelim)), to the efforts by any individual, group, or non-nuclear-weapon state to acquire unsafeguarded special nuclear material or to use, develop, produce, stockpile, or otherwise acquire any nuclear explosive device.
+(1) **In general** — Except as provided in subsection (b)(2), the President shall impose the sanction described in subsection (c) if the President determines in writing that, on or after the effective date of this subchapter, a foreign person or a United States person has materially and with requisite knowledge contributed, through the export from the United States or any other country of any goods or technology (as defined in [section 6305(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6305/2&num=0&edition=prelim)), to the efforts by any individual, group, or non-nuclear-weapon state to acquire unsafeguarded special nuclear material or to use, develop, produce, stockpile, or otherwise acquire any nuclear explosive device.
 
 (2) **Persons against which the sanction is to be imposed** — The sanction shall be imposed pursuant to paragraph (1) on—
 
@@ -28,15 +28,15 @@ source: >-
 
 **(b) Consultation with and actions by foreign government of jurisdiction**
 
-(1) **Consultations** — If the President makes a determination described in subsection (a)(1) of this section with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of the sanction pursuant to this section.
+(1) **Consultations** — If the President makes a determination described in subsection (a)(1) with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of the sanction pursuant to this section.
 
-(2) **Actions by government of jurisdiction** — In order to pursue such consultations with that government, the President may delay imposition of the sanction pursuant to this section for up to 90 days. Following these consultations, the President shall impose the sanction unless the President determines and certifies in writing to the Congress that that government has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1) of this section. The President may delay the imposition of the sanction for up to an additional 90 days if the President determines and certifies in writing to the Congress that that government is in the process of taking the actions described in the preceding sentence.
+(2) **Actions by government of jurisdiction** — In order to pursue such consultations with that government, the President may delay imposition of the sanction pursuant to this section for up to 90 days. Following these consultations, the President shall impose the sanction unless the President determines and certifies in writing to the Congress that that government has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1). The President may delay the imposition of the sanction for up to an additional 90 days if the President determines and certifies in writing to the Congress that that government is in the process of taking the actions described in the preceding sentence.
 
-(3) **Report to Congress** — Not later than 90 days after making a determination under subsection (a)(1) of this section, the President shall submit to the Committee on Foreign Relations and the Committee on Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the status of consultations with the appropriate government under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
+(3) **Report to Congress** — Not later than 90 days after making a determination under subsection (a)(1), the President shall submit to the Committee on Foreign Relations and the Committee on Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the status of consultations with the appropriate government under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
 
 **(c) Sanction**
 
-(1) **Description of sanction** — The sanction to be imposed pursuant to subsection (a)(1) of this section is, except as provided in paragraph (2) of this subsection, that the United States Government shall not procure, or enter into any contract for the procurement of, any goods or services from any person described in subsection (a)(2) of this section.
+(1) **Description of sanction** — The sanction to be imposed pursuant to subsection (a)(1) is, except as provided in paragraph (2) of this subsection, that the United States Government shall not procure, or enter into any contract for the procurement of, any goods or services from any person described in subsection (a)(2).
 
 (2) **Exceptions** — The President shall not be required to apply or maintain the sanction under this section—
 
@@ -66,9 +66,9 @@ source: >-
 
 **(e) Termination of sanction** The sanction imposed pursuant to this section shall apply for a period of at least 12 months following the imposition of the sanction and shall cease to apply thereafter only if the President determines and certifies in writing to the Congress that—
 
-(1) reliable information indicates that the foreign person or United States person with respect to which the determination was made under subsection (a)(1) of this section has ceased to aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in that subsection; and
+(1) reliable information indicates that the foreign person or United States person with respect to which the determination was made under subsection (a)(1) has ceased to aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in that subsection; and
 
-(2) the President has received reliable assurances from the foreign person or United States person, as the case may be, that such person will not, in the future, aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in subsection (a)(1) of this section.
+(2) the President has received reliable assurances from the foreign person or United States person, as the case may be, that such person will not, in the future, aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in subsection (a)(1).
 
 **(f) Waiver**
 
@@ -124,9 +124,9 @@ by any individual, group, or non-nuclear-weapon state.
 
 **(b) Prohibition** To the extent that the United States has jurisdiction to prohibit such activity by such person, no United States person and no foreign person may engage in any prohibited activity.
 
-**(c) Presidential determination and order with respect to United States and foreign persons** If the President determines,,11 So in original. that a United States person or a foreign person has engaged in a prohibited activity (without regard to whether subsection (b) of this section applies), the President shall, by order, impose the sanctions described in subsection (d) of this section on such person.
+**(c) Presidential determination and order with respect to United States and foreign persons** If the President determines,,11 So in original. that a United States person or a foreign person has engaged in a prohibited activity (without regard to whether subsection (b) applies), the President shall, by order, impose the sanctions described in subsection (d) on such person.
 
-**(d) Sanctions** The following sanctions shall be imposed pursuant to any order issued under subsection (c) of this section with respect to any United States person or any foreign person:
+**(d) Sanctions** The following sanctions shall be imposed pursuant to any order issued under subsection (c) with respect to any United States person or any foreign person:
 
 (1) **Ban on dealings in Government finance**
 
@@ -142,23 +142,23 @@ by any individual, group, or non-nuclear-weapon state.
 
 **(e) Consultation with and actions by foreign government of jurisdiction**
 
-(1) **Consultations** — If the President makes a determination under subsection (c) of this section with respect to a foreign person, the Congress urges the President to initiate consultations immediately with any appropriate foreign government with respect to the imposition of any sanction pursuant to this section.
+(1) **Consultations** — If the President makes a determination under subsection (c) with respect to a foreign person, the Congress urges the President to initiate consultations immediately with any appropriate foreign government with respect to the imposition of any sanction pursuant to this section.
 
 (2) **Actions by government of jurisdiction**
 
-  (A) *Suspension of period for imposing sanctions* — In order to pursue consultations described in paragraph (1) with any government referred to in such paragraph, the President may delay, for up to 90 days, the effective date of an order under subsection (c) of this section imposing any sanction.
+  (A) *Suspension of period for imposing sanctions* — In order to pursue consultations described in paragraph (1) with any government referred to in such paragraph, the President may delay, for up to 90 days, the effective date of an order under subsection (c) imposing any sanction.
 
-  (B) *Coordination with activities of foreign government* — Following consultations described in paragraph (1), the order issued by the President under subsection (c) of this section imposing any sanction on a foreign person shall take effect unless the President determines, and certifies in writing to the Congress, that the government referred to in paragraph (1) has taken specific and effective actions, including the imposition of appropriate penalties, to terminate the involvement of the foreign person in any prohibited activity.
+  (B) *Coordination with activities of foreign government* — Following consultations described in paragraph (1), the order issued by the President under subsection (c) imposing any sanction on a foreign person shall take effect unless the President determines, and certifies in writing to the Congress, that the government referred to in paragraph (1) has taken specific and effective actions, including the imposition of appropriate penalties, to terminate the involvement of the foreign person in any prohibited activity.
 
-  (C) *Extension of period* — After the end of the period described in subparagraph (A), the President may delay, for up to an additional 90 days, the effective date of an order issued under subsection (b) of this section imposing any sanction on a foreign person if the President determines, and certifies in writing to the Congress, that the appropriate foreign government is in the process of taking actions described in subparagraph (B).
+  (C) *Extension of period* — After the end of the period described in subparagraph (A), the President may delay, for up to an additional 90 days, the effective date of an order issued under subsection (b) imposing any sanction on a foreign person if the President determines, and certifies in writing to the Congress, that the appropriate foreign government is in the process of taking actions described in subparagraph (B).
 
-(3) **Report to Congress** — Before the end of the 90-day period beginning on the date on which an order is issued under subsection (c) of this section, the President shall submit to the Congress a report on—
+(3) **Report to Congress** — Before the end of the 90-day period beginning on the date on which an order is issued under subsection (c), the President shall submit to the Congress a report on—
 
   (A) the status of consultations under this subsection with the government referred to in paragraph (1); and
 
   (B) the basis for any determination under paragraph (2) that such government has taken specific corrective actions.
 
-**(f) Termination of sanctions** Any sanction imposed on any person pursuant to an order issued under subsection (c) of this section shall—
+**(f) Termination of sanctions** Any sanction imposed on any person pursuant to an order issued under subsection (c) shall—
 
 (1) remain in effect for a period of not less than 12 months; and
 
@@ -168,13 +168,13 @@ by any individual, group, or non-nuclear-weapon state.
 
   (B) the President has received reliable assurances from such person that the person will not, in the future, engage in any prohibited activity.
 
-**(g) Waiver** The President may waive the continued application of any sanction imposed on any person pursuant to an order issued under subsection (c) of this section if the President determines, and certifies in writing to the Congress, that the continued imposition of the sanction would have a serious adverse effect on the safety and soundness of the domestic or international financial system or on domestic or international payments systems.
+**(g) Waiver** The President may waive the continued application of any sanction imposed on any person pursuant to an order issued under subsection (c) if the President determines, and certifies in writing to the Congress, that the continued imposition of the sanction would have a serious adverse effect on the safety and soundness of the domestic or international financial system or on domestic or international payments systems.
 
 **(h) Enforcement action** The Attorney General may bring an action in an appropriate district court of the United States for injunctive and other appropriate relief with respect to—
 
-(1) any violation of subsection (b) of this section; or
+(1) any violation of subsection (b); or
 
-(2) any order issued pursuant to subsection (c) of this section.
+(2) any order issued pursuant to subsection (c).
 
 **(i) “Knowingly” defined**
 

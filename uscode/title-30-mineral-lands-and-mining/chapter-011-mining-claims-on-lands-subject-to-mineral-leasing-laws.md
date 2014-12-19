@@ -65,7 +65,7 @@ As used in this chapter “mineral leasing laws” shall mean the Act of October
 
 ### Statutory Notes
 
-#### References In Text
+#### References in Text
 Act of October 20, 1914, referred to in text, is act Oct. 20, 1914, ch. 330, 38 Stat. 741, known as the Alaska Coal Lands Act, which was repealed by Pub. L. 86–252, § 1, Sept. 9, 1959, 73 Stat. 490. The subject matter of this Act is generally covered by subchapters I to VII (§ 181 et seq.) of chapter 3A of this title. For complete classification of this Act to the Code prior to repeal, see Tables.
 
 Act of February 25, 1920, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.

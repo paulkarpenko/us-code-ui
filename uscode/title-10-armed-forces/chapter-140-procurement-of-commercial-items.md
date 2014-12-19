@@ -157,7 +157,7 @@ Pub. L. 110–181, div. A, title VIII, § 826(b), Jan. 28, 2008, 122 Stat. 228, 
 
 (1) the Secretary of Defense determines that—
 
-  (A) the major weapon system is a commercial item, as defined in section 4(12) 11 See References in Text note below. of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim)); and
+  (A) the major weapon system is a commercial item, as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim); and
 
   (B) such treatment is necessary to meet national security objectives;
 
@@ -165,19 +165,19 @@ Pub. L. 110–181, div. A, title VIII, § 826(b), Jan. 28, 2008, 122 Stat. 228, 
 
 (3) the congressional defense committees are notified at least 30 days before such treatment or purchase occurs.
 
-**(b) Treatment of Subsystems as Commercial Items.—** A subsystem of a major weapon system (other than a commercially available off-the-shelf item as defined in section 35(c) 1 of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section431/c&num=0&edition=prelim))) shall be treated as a commercial item and purchased under procedures established for the procurement of commercial items only if—
+**(b) Treatment of Subsystems as Commercial Items.—** A subsystem of a major weapon system (other than a commercially available off-the-shelf item as defined in [section 104 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section104&num=0&edition=prelim)) shall be treated as a commercial item and purchased under procedures established for the procurement of commercial items only if—
 
 (1) the subsystem is intended for a major weapon system that is being purchased, or has been purchased, under procedures established for the procurement of commercial items in accordance with the requirements of subsection (a); or
 
 (2) the contracting officer determines in writing that—
 
-  (A) the subsystem is a commercial item, as defined in section 4(12) 1 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim)); and
+  (A) the subsystem is a commercial item, as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim); and
 
   (B) the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such subsystem.
 
 **(c) Treatment of Components and Spare Parts as Commercial Items.—**
 
-(1) A component or spare part for a major weapon system (other than a commercially available off-the-shelf item as defined in section 35(c) 1 of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section431/c&num=0&edition=prelim))) may be treated as a commercial item for the purposes of [section 2306a of this title](./chapter-137-procurement-generally.md#section-2306a) only if—
+(1) A component or spare part for a major weapon system (other than a commercially available off-the-shelf item as defined in [section 104 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section104&num=0&edition=prelim)) may be treated as a commercial item for the purposes of [section 2306a of this title](./chapter-137-procurement-generally.md#section-2306a) only if—
 
   (A) the component or spare part is intended for—
 
@@ -187,7 +187,7 @@ Pub. L. 110–181, div. A, title VIII, § 826(b), Jan. 28, 2008, 122 Stat. 228, 
 
   (B) the contracting officer determines in writing that—
 
-    (i) the component or spare part is a commercial item, as defined in section 4(12) 1 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim)); and
+    (i) the component or spare part is a commercial item, as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim); and
 
     (ii) the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such component or spare part.
 
@@ -205,12 +205,17 @@ Pub. L. 110–181, div. A, title VIII, § 826(b), Jan. 28, 2008, 122 Stat. 228, 
 
 ### Statutory Notes
 
-#### References in Text
-Section 4(12) of the Office of Federal Procurement Policy Act, referred to in subsecs. (a)(1)(A), (b)(2)(A), and (c)(1)(B)(i), means section 4(12) of Pub. L. 93–400, which was classified to section 403(12) of former Title 41, Public Contracts, and was repealed and restated in [section 103 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim), Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim).
-
-Section 35(c) of the Office of Federal Procurement Policy Act, referred to in subsecs. (b) and (c)(1), means section 35(c) of Pub. L. 93–400, which was classified to section 431(c) of former Title 41, Public Contracts, and was repealed and restated as [section 104 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section104&num=0&edition=prelim), Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim).
-
 #### Amendments
+2014—Subsec. (a)(1)(A). Pub. L. 113–291, § 1071(a)(7)(A), substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim))”.
+
+Subsec. (b). Pub. L. 113–291, § 1071(a)(7)(B), substituted “[section 104 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section104&num=0&edition=prelim)” for “section 35(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section431/c&num=0&edition=prelim))” in introductory provisions.
+
+Subsec. (b)(2)(A). Pub. L. 113–291, § 1071(a)(7)(A), substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim))”.
+
+Subsec. (c)(1). Pub. L. 113–291, § 1071(a)(7)(B), substituted “[section 104 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section104&num=0&edition=prelim)” for “section 35(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section431/c&num=0&edition=prelim))” in introductory provisions.
+
+Subsec. (c)(1)(B)(i). Pub. L. 113–291, § 1071(a)(7)(A), substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim))”.
+
 2008—Subsec. (a)(2), (3). Pub. L. 110–181, § 815(a)(1)(A), added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (b). Pub. L. 110–181, § 815(a)(1)(B), added subsec. (b) and struck out former subsec. (b). Former text read as follows: “A subsystem or component of a major weapon system shall be treated as a commercial item and purchased under procedures established for the procurement of commercial items if such subsystem or component otherwise meets the requirements (other than requirements under subsection (a)) for treatment as a commercial item.”

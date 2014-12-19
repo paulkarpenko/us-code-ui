@@ -208,7 +208,7 @@ Subsecs. (v) to (aa). Pub. L. 94–582, § 3(h), added subsecs. (v) to (aa).
 Pub. L. 103–156, § 16, Nov. 24, 1993, 107 Stat. 1530, provided that: “(a) In General.—Except as provided in subsection (b), the amendments made by this Act [amending this section and sections 75a to 77, 79 to 79b, 79d, 84 to 87e, 87f, 87f–1, 87h, 87j, and 87k of this title and repealing provisions set out as a note under [section 79 of this title](./chapter-003-grain-standards.md#section-79)] shall take effect on the date of the enactment of this Act [Nov. 24, 1993]. “(b) Special Effective Date for Certain Provisions.—The amendments made by sections 2, 3, and 13(a) [amending sections 79d and 87h of this title and repealing provisions set out as a note under [section 79 of this title](./chapter-003-grain-standards.md#section-79)] shall take effect as of September 30, 1993.”
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -275,7 +275,7 @@ Section, Pub. L. 101–624, title XX, § 2002, Nov. 28, 1990, 104 Stat. 3928, pr
 
 **(c) Grade determining factors related to physical soundness and purity; notice and opportunity for comment**
 
-(1) In establishing standards under subsection (a) of this section for each grain for which official grades are established, the Secretary shall establish for each such grain official grade-determining factors and factor limits that reflect the levels of soundness and purity that are consistent with end-use performance goals of the major foreign and domestic users of each such grain. Such factors and factor limits for grades number 3 and better shall provide users of such standards the best possible information from which to determine end-use product quality. The Secretary shall establish factors and factor limits that will provide that grain meeting the requirements for grades number 3 and better will perform in accordance with general trade expectations for the predominant uses of such grain.
+(1) In establishing standards under subsection (a) for each grain for which official grades are established, the Secretary shall establish for each such grain official grade-determining factors and factor limits that reflect the levels of soundness and purity that are consistent with end-use performance goals of the major foreign and domestic users of each such grain. Such factors and factor limits for grades number 3 and better shall provide users of such standards the best possible information from which to determine end-use product quality. The Secretary shall establish factors and factor limits that will provide that grain meeting the requirements for grades number 3 and better will perform in accordance with general trade expectations for the predominant uses of such grain.
 
 (2) In establishing factors and factor limits under paragraph (1), the Secretary shall provide for notice and an opportunity for public comment prior to making changes in the grade-determining factors and factor limits that shall be applicable under this section to grain that is officially graded.
 
@@ -303,7 +303,7 @@ Subsec. (b). Pub. L. 94–582, § 5(b), substituted “Administrator” for “S
 1968—Pub. L. 90–487 substituted provisions authorizing Secretary to establish, amend, and revoke standards for provisions making the use of official standards compulsory, setting out exceptions, and providing for the right of appeal.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -367,7 +367,7 @@ Subsec. (b). Pub. L. 94–582 added subsec. (b).
 1968—Pub. L. 90–487 substituted provisions requiring an official inspection for export grains but authorizing the waiver of such requirements when official inspection is impracticable for provisions prohibiting misrepresentation respecting grade shipped or delivered for shipment, allowing reexamination, requiring hearing in the event of a false or misleading description, and allowing publication of findings.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -394,7 +394,7 @@ For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90
 1958—Pub. L. 85–509 authorized payment of employees assigned to perform appeal inspection for all overtime, night, or holiday work, and permitted acceptance of reimbursement for any sums paid for such work.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -453,7 +453,7 @@ Pub. L. 90–487, § 2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act 
 
   (B) the Secretary determines that the applicant is better able than any other applicant to provide official inspection service.
 
-(2) **Geographic boundaries for official agencies.—** — Not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) of this section to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in [section 74 of this title](./chapter-003-grain-standards.md#section-74), the Secretary may—
+(2) **Geographic boundaries for official agencies.—** — Not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in [section 74 of this title](./chapter-003-grain-standards.md#section-74), the Secretary may—
 
   (A) allow more than one designated official agency to carry out inspections within the same geographical area as part of a pilot program; and
 
@@ -583,7 +583,7 @@ Pub. L. 97–98, title XI, § 1113(b), Dec. 22, 1981, 95 Stat. 1268, provided th
 Pub. L. 97–35, title I, § 155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, § 1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -619,9 +619,9 @@ Pub. L. 94–582, § 8(b), Oct. 21, 1976, 90 Stat. 2874, as amended by Pub. L. 9
 
 **(i) Unauthorized weighing prohibited**
 
-(1) **In general** — No State or local governmental agency or person other than an authorized employee of the Secretary shall perform official weighing or supervision of weighing for the purposes of this chapter except in accordance with the provisions of an unsuspended and unrevoked delegation of authority or designation by the Secretary as provided in this section or as otherwise provided in [section 79(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section79/i&num=0&edition=prelim) and subsection (d) of this section.
+(1) **In general** — No State or local governmental agency or person other than an authorized employee of the Secretary shall perform official weighing or supervision of weighing for the purposes of this chapter except in accordance with the provisions of an unsuspended and unrevoked delegation of authority or designation by the Secretary as provided in this section or as otherwise provided in [section 79(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section79/i&num=0&edition=prelim) and subsection (d).
 
-(2) **Geographic boundaries for official agencies** — Not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) of this section to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in [section 74 of this title](./chapter-003-grain-standards.md#section-74), the Secretary may—
+(2) **Geographic boundaries for official agencies** — Not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in [section 74 of this title](./chapter-003-grain-standards.md#section-74), the Secretary may—
 
   (A) allow more than one designated official agency to carry out the weighing provisions within the same geographical area as part of a pilot program; and
 
@@ -701,7 +701,7 @@ That part of section 2 of Pub. L. 100–518 which provided that the amendment ma
 Pub. L. 97–35, title I, § 155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, § 1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -711,7 +711,7 @@ Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–58
 ## § 79b. Testing of equipment
 **(a) Random and periodic testing at least annually; fees** The Secretary shall provide for the testing of all equipment used in the sampling, grading, inspection, and weighing for the purpose of official inspection, official weighing, or supervision of weighing of grain located at all grain elevators, warehouses, or other storage or handling facilities at which official inspection or weighing services are provided under this chapter, to be made on a random and periodic basis, under such regulations as the Secretary may prescribe, as the Secretary deems necessary to assure the accuracy and integrity of such equipment. Such regulations shall provide for the charging and collection of reasonable fees to cover the estimated costs to the Secretary incident to the performance of such testing by employees of the Secretary. Such fees shall be deposited into the fund created by [section 79(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section79/j&num=0&edition=prelim).
 
-**(b) Personnel to conduct testing** The Secretary is authorized to cause such testing provided for in subsection (a) of this section to be performed (1) by personnel employed by the Secretary, or (2) by States, political subdivisions thereof, or persons under the supervision of the Secretary, under such regulations as the Secretary may prescribe.
+**(b) Personnel to conduct testing** The Secretary is authorized to cause such testing provided for in subsection (a) to be performed (1) by personnel employed by the Secretary, or (2) by States, political subdivisions thereof, or persons under the supervision of the Secretary, under such regulations as the Secretary may prescribe.
 
 **(c) Use of non-approved equipment prohibited** Notwithstanding any other provision of law, no person shall use for the purposes of this chapter any such equipment not approved by the Secretary.
 
@@ -729,7 +729,7 @@ Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–58
 Subsec. (c). Pub. L. 95–113, § 1604(f)(3), substituted “shall use for the purposes of this chapter” for “shall use”.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -848,7 +848,7 @@ Subsecs. (e) to (g). Pub. L. 94–582 added subsecs. (e) to (g).
 1968—Pub. L. 90–487 substituted provisions for the licensing and examination and reexamination of inspectors for provisions authorizing the Secretary of Agriculture to promulgate rules and regulations.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -970,7 +970,7 @@ Subsecs. (b), (c). Pub. L. 94–582, § 13(c), added subsecs. (b) and (c).
 1968—Pub. L. 90–487 substituted provisions prohibiting a conflict of interest on the part of inspectors who are interested financially in a grain elevator or in grain merchandising, for provisions covering the separability of provisions of this chapter.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -1018,7 +1018,7 @@ Subsec. (c). Pub. L. 94–582 substituted “Every official agency and every per
 Subsec. (d). Pub. L. 94–582 added subsec. (d).
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -1074,7 +1074,7 @@ Pub. L. 100–460, title I, Oct. 1, 1988, 102 Stat. 2238.
 
 **(b)** No person licensed or authorized to perform any function under this chapter shall—
 
-(1) commit any offense prohibited by subsection (a) of this section;
+(1) commit any offense prohibited by subsection (a);
 
 (2) knowingly perform improperly any official sampling or other official inspection or weighing function under this chapter;
 
@@ -1195,7 +1195,7 @@ Subsec. (b)(2). Pub. L. 94–582, § 15(b), substituted “inspection or weighin
 Pub. L. 99–641, title III, § 303(b), Nov. 10, 1986, 100 Stat. 3565, provided that: “The amendments made by this section [amending this section] shall become effective on May 1, 1987.”
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -1295,7 +1295,7 @@ For effective date of section, see section 2 of Pub. L. 90–487, set out as an 
 
 (3) To the extent practicable, the fees collected under paragraph (2), together with any proceeds from the sale of any samples, shall cover the costs, including administrative and supervisory costs, of services performed under paragraph (1).
 
-**(j) Deposit of fees** Fees collected under subsections (g), (h), and (i) of this section shall be deposited into the fund created under [section 79(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section79/j&num=0&edition=prelim).
+**(j) Deposit of fees** Fees collected under subsections (g), (h), and (i) shall be deposited into the fund created under [section 79(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section79/j&num=0&edition=prelim).
 
 **(k) Official courtesies** The Secretary may extend appropriate courtesies to official representatives of foreign countries in order to establish and maintain relationships to carry out the policy stated in [section 74 of this title](./chapter-003-grain-standards.md#section-74). No gift offered or accepted pursuant to this subsection shall exceed $20 in value.
 
@@ -1321,7 +1321,7 @@ Subsec. (f). Pub. L. 95–113, § 1604(k)(2), struck out “additional” before
 Subsecs. (b) to (f). Pub. L. 94–582 added subsecs. (b) to (f).
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -1417,7 +1417,7 @@ For effective date of section, see section 2 of Pub. L. 90–487, set out as an 
   (F) such other information as the Secretary deems necessary to carry out the purposes of this chapter.
   Persons required to register under this section shall also submit to the Secretary the information specified in clauses (A) through (F) of this paragraph with respect to any business engaged in the business of buying grain for sale in interstate commerce, and in the business of handling, weighing, or transporting of grain for sale in interstate commerce, if, with respect to such business, the person otherwise required to register under this section is in a control relationship.
 
-(2) For the purposes of this section, a person shall be deemed to be in a “control relationship” with respect to a business required to register under subsection (a) of this section and with respect to applicable interstate businesses if—
+(2) For the purposes of this section, a person shall be deemed to be in a “control relationship” with respect to a business required to register under subsection (a) and with respect to applicable interstate businesses if—
 
   (A) such person has an ownership interest of 10 per centum or more in such business, or
 
@@ -1425,7 +1425,7 @@ For effective date of section, see section 2 of Pub. L. 90–487, set out as an 
 
 (3) For purposes of clauses (A) and (B) of paragraph (2) of this subsection, a person shall be considered to own the ownership interest which is owned by his or her spouse, minor children, and relatives living in the same household.
 
-**(c) Certificate of registration** The Secretary shall issue a certificate of registration to persons who comply with the provisions of this section. The certificate of registration issued in accordance with this section shall be renewed annually. If there has been any change in the information required under subsection (b) of this section, the person holding such certificate shall, within thirty days of the discovery of such change, notify the Secretary of such change. No person shall engage in the business of buying grain for sale in foreign commerce, and in the business of handling, weighing, or transporting of grain in foreign commerce unless the person has registered with the Secretary as required by this chapter and has an unsuspended and unrevoked certificate of registration.
+**(c) Certificate of registration** The Secretary shall issue a certificate of registration to persons who comply with the provisions of this section. The certificate of registration issued in accordance with this section shall be renewed annually. If there has been any change in the information required under subsection (b), the person holding such certificate shall, within thirty days of the discovery of such change, notify the Secretary of such change. No person shall engage in the business of buying grain for sale in foreign commerce, and in the business of handling, weighing, or transporting of grain in foreign commerce unless the person has registered with the Secretary as required by this chapter and has an unsuspended and unrevoked certificate of registration.
 
 **(d) Suspension or registration of certificate of registration** The Secretary may suspend or revoke any certificate of registration issued under this section whenever, after the person holding such certificate has been afforded an opportunity for a hearing in accordance with sections 554, 556, and 557 of title 5, the Secretary shall determine that such person has violated any provision of this chapter or of the regulations promulgated thereunder, or has been convicted of any violation involving the handling, weighing, or inspection of grain under title 18.
 
@@ -1445,7 +1445,7 @@ Subsec. (c). Pub. L. 103–156, § 12(p)(2), substituted “the person” for �
 1977—Subsec. (b)(1). Pub. L. 95–113 substituted “All persons required to register” for “All persons registered” in provisions preceding subpar. (A).
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -1476,7 +1476,7 @@ Subsec. (b). Pub. L. 95–113, §§ 1604(m), 1606(i), substituted “Committee o
 Subsec. (c). Pub. L. 95–113, § 1606(i), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -1540,7 +1540,7 @@ Pub. L. 98–469, § 2, Oct. 11, 1984, 98 Stat. 1831, provided that the amendmen
 Pub. L. 97–35, title I, § 155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, § 1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as a note under [section 74 of this title](./chapter-003-grain-standards.md#section-74).
@@ -1599,7 +1599,7 @@ That part of section 2 of Pub. L. 100–518 which provided that section was effe
 ## § 87k. Standardizing commercial inspections
 **(a) Testing equipment** To promote greater uniformity in commercial grain inspection results, the Secretary may work in conjunction with the National Institute for Standards and Technology, the National Conference on Weights and Measures, or other appropriate governmental, scientific, or technical organizations to—
 
-(1) identify inspection instruments requiring standardization under subsection (b) of this section;
+(1) identify inspection instruments requiring standardization under subsection (b);
 
 (2) establish performance criteria for commercial grain inspection instruments;
 
@@ -1609,7 +1609,7 @@ That part of section 2 of Pub. L. 100–518 which provided that section was effe
 
 **(b) General inspection procedures** To ensure that producers are treated uniformly in delivering grain, the Secretary shall develop practical and cost-effective procedures for conducting commercial inspections of grain with respect to the application of quality factors, that result in premiums and discounts. The procedures shall be made available to country elevators and others making first-point-of-delivery inspections.
 
-**(c) Inspection services and information** To encourage the use of equipment and procedures developed in accordance with subsections (a) and (b) of this section, the Secretary shall provide for official inspection services by the Secretary, States, and official inspection agencies and provide information on the proper use of sampling and inspection equipment, application of the grain standards, and availability of official inspection services, including appeals under this chapter.
+**(c) Inspection services and information** To encourage the use of equipment and procedures developed in accordance with subsections (a) and (b), the Secretary shall provide for official inspection services by the Secretary, States, and official inspection agencies and provide information on the proper use of sampling and inspection equipment, application of the grain standards, and availability of official inspection services, including appeals under this chapter.
 
 **(d) Standardized aflatoxin equipment and procedures** The Secretary shall—
 

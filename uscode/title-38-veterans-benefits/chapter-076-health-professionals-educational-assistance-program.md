@@ -200,9 +200,11 @@ Pub. L. 104–110, title II, § 202(b), Feb. 13, 1996, 110 Stat. 770, provided t
 
 (5) In selecting applicants for the Scholarship Program, the Secretary—
 
-  (A) shall give priority to applicants who will be entering their final year in a course of training; and
+  (A) shall give priority to applicants who will be entering their final year in a course of training;
 
-  (B) shall ensure an equitable allocation of scholarships to persons enrolled in the second year of a program leading to an associate degree in nursing.
+  (B) shall give priority to applicants pursuing a course of education or training toward a career in an occupation for which the Inspector General of the Department has, in the most current determination published in the Federal Register pursuant to [section 7412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7412/a&num=0&edition=prelim), determined that there is one of the largest staffing shortages throughout the Department with respect to such occupation; and
+
+  (C) shall ensure an equitable allocation of scholarships to persons enrolled in the second year of a program leading to an associate degree in nursing.
 
 **(c)**
 
@@ -225,6 +227,8 @@ Pub. L. 104–110, title II, § 202(b), Feb. 13, 1996, 110 Stat. 770, provided t
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b)(5)(B), (C). Pub. L. 113–146 added subpar. (B) and redesignated former subpar. (B) as (C).
+
 2010—Subsec. (b)(2). Pub. L. 111–163 substituted “as an appointee under paragraph (1) or (3) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401).” for “(under [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401)) as any of the following:
 
 “(A) A physician, dentist, podiatrist, optometrist, nurse, physician assistant, or expanded function dental auxiliary.
@@ -421,15 +425,19 @@ Liability under this subsection is in lieu of any service obligation arising und
 
 **(c)**
 
-(1) If a participant in the Scholarship Program breaches the agreement by failing (for any reason) to complete such participant’s period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula: t−s A=3Φ A——B t In such formula:
+(1) If a participant in the Scholarship Program breaches the agreement by failing (for any reason) to complete such participant’s period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula:
+t−s
+A=3Φ A——B
+t
+In such formula:
 
-  (A) “A” is the amount the United States is entitled to recover.
+(A) “A” is the amount the United States is entitled to recover.
 
-  (B) “Φ” is the sum of (i) the amounts paid under this subchapter to or on behalf of the participant, and (ii) the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States.
+(B) “Φ” is the sum of (i) the amounts paid under this subchapter to or on behalf of the participant, and (ii) the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States.
 
-  (C) “t” is the total number of months in the participant’s period of obligated service, including any additional period of obligated service in accordance with [section 7616(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7616/b/4&num=0&edition=prelim).
+(C) “t” is the total number of months in the participant’s period of obligated service, including any additional period of obligated service in accordance with [section 7616(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7616/b/4&num=0&edition=prelim).
 
-  (D) “s” is the number of months of such period served by the participant in accordance with [section 7613 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7613).
+(D) “s” is the number of months of such period served by the participant in accordance with [section 7613 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7613).
 
 (2) Any amount of damages which the United States is entitled to recover under this section shall be paid to the United States within the one-year period beginning on the date of the breach of the agreement.
 
@@ -467,11 +475,13 @@ A prior section 7618 was renumbered [section 7619 of this title](./chapter-076-h
 <a id="section-7619"></a>
 ## § 7619. Expiration of program
 
-The Secretary may not furnish scholarships to new participants in the Scholarship Program after December 31, 2014.
+The Secretary may not furnish scholarships to new participants in the Scholarship Program after December 31, 2019.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Pub. L. 113–146 substituted “December 31, 2019” for “December 31, 2014”.
+
 2010—Pub. L. 111–163, § 603(c)(1), renumbered [section 7618 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7618) as this section.
 
 Pub. L. 111–163, § 603(a), substituted “December 31, 2014” for “December 31, 1998”.
@@ -999,7 +1009,10 @@ Subsec. (e). Pub. L. 107–135, § 101(e), added subsec. (e).
 
 **(c) Liability During Period of Obligated Service.—**
 
-(1) Except as provided in subsection (d), if a participant in the Program breaches the agreement by failing for any reason to complete such participant’s period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula: t−s A=3Φ ( —— ) t
+(1) Except as provided in subsection (d), if a participant in the Program breaches the agreement by failing for any reason to complete such participant’s period of obligated service, the United States shall be entitled to recover from the participant an amount determined in accordance with the following formula:
+t−s
+A=3Φ ( —— )
+t
 
 (2) In such formula:
 
@@ -1080,31 +1093,51 @@ Pub. L. 107–135, title I, § 102(e), Jan. 23, 2002, 115 Stat. 2449, granted th
 
 <a id="section-7683"></a>
 ## § 7683. Education debt reduction
-**(a) In General.—** Education debt reduction payments under the Education Debt Reduction Program shall consist of payments to individuals selected to participate in the program of amounts to reimburse such individuals for payments by such individuals of principal and interest on loans described in [section 7682(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7682/a/2&num=0&edition=prelim).
+**(a) In General.—** Education debt reduction payments under the Education Debt Reduction Program shall consist of—
+
+(1) payments to individuals selected to participate in the program of principal and interest on loans described in [section 7682(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7682/a/2&num=0&edition=prelim); or
+
+(2) payments for the principal and interest on such loans of such individuals to the holders of such loans.
 
 **(b) Frequency of Payment.—**
 
-(1) The Secretary may make education debt reduction payments to any given participant in the Education Debt Reduction Program on a monthly or annual basis, as determined by the Secretary.
+(1) The Secretary may make education debt reduction payments to or for any given participant in the Education Debt Reduction Program on a monthly or annual basis, as determined by the Secretary.
 
 (2) The Secretary shall make such payments at the end of the period determined by the Secretary under paragraph (1).
 
-**(c) Performance Requirement.—** The Secretary may make education debt reduction payments to a participant in the Education Debt Reduction Program for a period only if the Secretary determines that the individual maintained an acceptable level of performance in the position or positions served by the participant during the period.
+**(c) Performance Requirement.—** The Secretary may make education debt reduction payments to or for a participant in the Education Debt Reduction Program for a period only if the Secretary determines that the individual maintained an acceptable level of performance in the position or positions served by the participant during the period.
 
 **(d) Maximum Annual Amount.—**
 
-(1) Subject to paragraph (2), the amount of education debt reduction payments made to a participant under the Education Debt Reduction Program may not exceed $60,000 over a total of five years of participation in the Program, of which not more than $12,000 of such payments may be made in each of the fourth and fifth years of participation in the Program.
+(1) The amount of education debt reduction payments made to or for a participant under the Education Debt Reduction Program may not exceed $120,000 over a total of five years of participation in the Program, of which not more than $24,000 of such payments may be made in each year of participation in the Program 11 So in original. Probably should be followed by a period.
 
-(2) The total amount payable to a participant in such Program for any year may not exceed the amount of the principal and interest on loans referred to in subsection (a) that is paid by the individual during such year.
+(2)
 
-(3)
-
-  (A) The Secretary may waive the limitations under paragraphs (1) and (2) in the case of a participant described in subparagraph (B). In the case of such a waiver, the total amount of education debt repayments payable to that participant is the total amount of the principal and the interest on the participant’s loans referred to in subsection (a).
+  (A) The Secretary may waive the limitations under paragraph (1) in the case of a participant described in subparagraph (B). In the case of such a waiver, the total amount of education debt repayments payable to or for that participant is the total amount of the principal and the interest on the participant’s loans referred to in subsection (a).
 
   (B) A participant described in this subparagraph is a participant in the Program who the Secretary determines serves in a position for which there is a shortage of qualified employees by reason of either the location or the requirements of the position.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–175, § 408(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Education debt reduction payments under the Education Debt Reduction Program shall consist of payments to individuals selected to participate in the program of amounts to reimburse such individuals for payments by such individuals of principal and interest on loans described in [section 7682(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7682/a/2&num=0&edition=prelim).”
+
+Subsecs. (b)(1), (c). Pub. L. 113–175, § 408(2), substituted “payments to or for” for “payments to”.
+
+Subsec. (d)(1). Pub. L. 113–175, § 408(3)(A), substituted “made to or for” for “made to”.
+
+Pub. L. 113–146, § 302(b)(2)(B), substituted “The amount” for “Subject to paragraph (2), the amount”.
+
+Pub. L. 113–146, § 302(b)(1), substituted “$120,000” for “$60,000” and “$24,000 of such payments may be made in each year of participation in the Program” for “$12,000 of such payments may be made in each of the fourth and fifth years of participation in the Program.”
+
+Subsec. (d)(2). Pub. L. 113–146, § 302(b)(2)(A)(i), (ii), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The total amount payable to a participant in such Program for any year may not exceed the amount of the principal and interest on loans referred to in subsection (a) that is paid by the individual during such year.”
+
+Subsec. (d)(2)(A). Pub. L. 113–175, § 408(3)(B), substituted “payable to or for that” for “payable to that”.
+
+Pub. L. 113–146, § 302(b)(2)(A)(iii), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
+
+Subsec. (d)(3). Pub. L. 113–146, § 302(b)(2)(A)(ii), redesignated par. (3) as (2).
+
 2010—Subsec. (d)(1). Pub. L. 111–163, § 301(c), substituted “$60,000” for “$44,000” and “$12,000” for “$10,000”.
 
 Subsec. (d)(3). Pub. L. 111–163, § 301(d), added par. (3).

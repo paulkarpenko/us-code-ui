@@ -22,7 +22,7 @@ source: >-
 
 **(b)** A marine casualty shall be reported within 5 days as provided in this part and regulations prescribed under this part. Each report filed under this section shall include information as to whether the use of alcohol contributed to the casualty.
 
-**(c)** Repealed. Pub. L. 98–498, title II, § 212(b)(1)(B), Oct. 19, 1984, 98 Stat. 2306.]
+**(c) Notice to State and Tribal Governments.—** Not later than 24 hours after receiving a notice of a major marine casualty under this section, the Secretary shall notify each State or federally recognized Indian tribe that is, or may reasonably be expected to be, affected by such marine casualty.
 
 **(d)**
 
@@ -54,21 +54,19 @@ source: >-
 
 **(g)** To the extent consistent with generally recognized practices and procedures of international law, this part applies to a foreign vessel involved in a marine casualty or incident, as defined in the International Maritime Organization Code for the Investigation of Marine Casualties and Incidents, where the United States is a Substantially Interested State and is, or has the consent of, the Lead Investigating State under the Code.
 
-**(h)**
+**(h)** The Secretary shall publish all major marine casualty reports prepared in accordance with this section in an electronic form, and shall provide information electronically regarding how other marine casualty reports can be obtained.
 
-(1) The Secretary shall publish all major marine casualty reports prepared in accordance with this section in an electronic form, and shall provide information electronically regarding how other marine casualty reports can be obtained.
+**(i)** For purposes of this section, the term “major marine casualty” means a casualty involving a vessel, other than a public vessel, that results in—
 
-(2) For purposes of this paragraph, the term “major marine casualty” means a casualty involving a vessel, other than a public vessel, that results in—
+(1) the loss of 6 or more lives;
 
-  (A) the loss of 6 or more lives;
+(2) the loss of a mechanically propelled vessel of 100 or more gross tons;
 
-  (B) the loss of a mechanically propelled vessel of 100 or more gross tons;
+(3) property damage initially estimated at $500,000 or more; or
 
-  (C) property damage initially estimated at $500,000 or more; or
+(4) serious threat, as determined by the Commandant of the Coast Guard with concurrence by the Chairman of the National Transportation Safety Board, to life, property, or the environment by hazardous materials.
 
-  (D) serious threat, as determined by the Commandant of the Coast Guard with concurrence by the Chairman of the National Transportation Safety Board, to life, property, or the environment by hazardous materials.
-
-**(i)** The Secretary shall, as soon as possible, and no later than January 1, 2005, publish all marine casualty reports prepared in accordance with this section in an electronic form.
+**(j)** The Secretary shall, as soon as possible, and no later than January 1, 2005, publish all marine casualty reports prepared in accordance with this section in an electronic form.
 
 ### Statutory Notes
 
@@ -89,6 +87,12 @@ Subsection (d) makes it clear that the reporting requirements under subsection (
 Subsection (e) provides for the classification of marine casualties by regulation according to the gravity of the casualty, injuries to individuals, property damage, dangers created, and size, occupation, and means of propulsion of each vessel.
 
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–281, § 312(1), added subsec. (c).
+
+Subsecs. (h), (i). Pub. L. 113–281, § 312(2), in subsec. (h), struck out “(1)” before “The Secretary” and redesignated par. (2) as subsec. (i) and, in subsec. (i), substituted “section” for “paragraph” in introductory provisions and redesignated former subpars. (A) to (D) as pars. (1) to (4), respectively. Former subsec. (i) redesignated (j).
+
+Subsec. (j). Pub. L. 113–281, § 312(3), resesignated subsec. (i) as (j).
+
 2008—Subsecs. (g) to (i). Pub. L. 110–181 repealed Pub. L. 109–304, § 15(21). See 2006 Amendment notes below.
 
 2006—Subsecs. (g) to (i). Pub. L. 109–304, § 15(21), which directed amendment identical to that made by Pub. L. 109–241, was repealed by Pub. L. 110–181. See Construction of 2006 Amendment note below.

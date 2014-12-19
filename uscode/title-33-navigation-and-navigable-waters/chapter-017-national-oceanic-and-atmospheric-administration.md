@@ -12,7 +12,7 @@ source: >-
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 105–277, div. A, § 101(b) [title II], Oct. 21, 1998, 105 Stat. 2681–50, 2681–83, which authorized in the National Oceanic and Atmospheric Administration 250 commissioned officers on the active list as of September 30, 1999, was from title II of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriation acts.
+Section, Pub. L. 105–277, div. A, § 101(b) [title II], Oct. 21, 1998, 112 Stat. 2681–50, 2681–83, which authorized in the National Oceanic and Atmospheric Administration 250 commissioned officers on the active list as of September 30, 1999, was from title II of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriation acts.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -973,7 +973,7 @@ Section, act Jan. 19, 1942, ch. 6, § 10, 56 Stat. 8; 1965 Reorg. Plan No. 2, ef
 Section, act Apr. 26, 1939, ch. 92, § 2, 53 Stat. 620, as affected by 1939 Reorg. Plan No. I, §§ 201, 205, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, provided for medical, dental, etc., treatment of Coast and Geodetic Survey’s personnel and their families. See [section 253 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section253&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Renumbering of Repealing Act
-Title XIII, § 1313, formerly title VI, § 611, of act July 1, 1944, which repealed this section, was renumbered title VII, § 711, by act Aug. 13, 1946, ch. 958, § 5, 60 Stat. 1049; § 713, by act Feb. 28, 1948, ch. 83, § 9(b), 62 Stat. 47; title VIII, § 813, by act July 30, 1956, ch. 779, § 3(b), 70 Stat. 720; title IX, § 913, by Pub. L. 88–581, § 4(b), Sept. 4, 1964, 78 Stat. 919; title X, § 1013, by Pub. L. 89–239, § 3(b), Oct. 6, 1965, 79 Stat. 931; title XI, § 1113, by Pub. L. 91–572, § 6(b), Dec. 24, 1970, 84 Stat. 1506; title XII, § 1213, by Pub. L. 92–294. § 3(b), May 16, 1972, 86 Stat. 137; title XIII, § 1313, by Pub. L. 93–154, § 2(b)(2), Nov. 16, 1973, 87 Stat. 604, and was repealed by Pub. L. 93–222, § 7(b), Dec. 29, 1973, 87 Stat. 936.
+Title XIII, § 1313, formerly title VI, § 611, of act July 1, 1944, which repealed this section, was renumbered title VII, § 711, by act Aug. 13, 1946, ch. 958, § 5, 60 Stat. 1049; § 713, by act Feb. 28, 1948, ch. 83, § 9(b), 62 Stat. 47; title VIII, § 813, by act July 30, 1956, ch. 779, § 3(b), 70 Stat. 721; title IX, § 913, by Pub. L. 88–581, § 4(b), Sept. 4, 1964, 78 Stat. 919; title X, § 1013, by Pub. L. 89–239, § 3(b), Oct. 6, 1965, 79 Stat. 931; title XI, § 1113, by Pub. L. 91–572, § 6(b), Dec. 24, 1970, 84 Stat. 1506; title XII, § 1213, by Pub. L. 92–294, § 3(b), May 16, 1972, 86 Stat. 137; title XIII, § 1313, by Pub. L. 93–154, § 2(b)(2), Nov. 16, 1973, 87 Stat. 604, and was repealed by Pub. L. 93–222, § 7(b), Dec. 29, 1973, 87 Stat. 936.
 
 
 <a id="section-870"></a>
@@ -1180,6 +1180,9 @@ Coast and Geodetic Survey consolidated with National Weather Bureau to form Envi
 
 ### Statutory Notes
 
+#### Codification
+Section is from the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012, which is division B of the Consolidated and Further Continuing Appropriations Act, 2012.
+
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation act:
 
@@ -1189,7 +1192,13 @@ Pub. L. 110–161, div. B, title I, § 112, Dec. 26, 2007, 121 Stat. 1894.
 2013—Subsec. (f). Pub. L. 113–6 substituted “subsection (e)(2)” for “paragraph (2)” and “subsection (e)” for “this subsection”.
 
 #### Requirements Adopted by Reference
-Pub. L. 113–6, div. B, title I, § 105(b), Mar. 26, 2013, 127 Stat. 242, provided that: “The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) [[33 U.S.C. 878a](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-878a)], as amended by subsection (a) of this section, are hereby adopted by reference.”
+Pub. L. 113–235, div. B, title I, § 104, Dec. 16, 2014, 128 Stat. 2181, provided that: “The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) [[33 U.S.C. 878a](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-878a)], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2015.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. B, title I, § 104, Jan. 17, 2014, 128 Stat. 51.
+
+Pub. L. 113–6, div. B, title I, § 105(b), Mar. 26, 2013, 127 Stat. 242.
 
 
 <a id="section-878b"></a>

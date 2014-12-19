@@ -31,9 +31,6 @@ or both fined and imprisoned.
 
 ### Statutory Notes
 
-#### Amendment of Section
-For effective date of amendment by Pub. L. 113–4, see Effective Date of 2013 Amendment note below.
-
 #### Amendments
 2013—Subsec. (a)(1). Pub. L. 113–4 inserted “is present” after “Indian country or” and “or presence” after “as a result of such travel”.
 
@@ -62,52 +59,26 @@ Pub. L. 113–4, § 4, Mar. 7, 2013, 127 Stat. 64, provided that: “Except as o
 
 Whoever—
 
-(1) travels in interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States, or enters or leaves Indian country, with the intent to kill, injure, harass, or place under surveillance with intent to kill, injure, harass, or intimidate another person, and in the course of, or as a result of, such travel places that person in reasonable fear of the death of, or serious bodily injury to, or causes substantial emotional distress to that person, a member of the immediate family (as defined in section 115) of that person, or the spouse or intimate partner of that person; or
+(1) travels in interstate or foreign commerce or is present within the special maritime and territorial jurisdiction of the United States, or enters or leaves Indian country, with the intent to kill, injure, harass, intimidate, or place under surveillance with intent to kill, injure, harass, or intimidate another person, and in the course of, or as a result of, such travel or presence engages in conduct that—
 
-(2) with the intent—
-
-  (A) to kill, injure, harass, or place under surveillance with intent to kill, injure, harass, or intimidate, or cause substantial emotional distress to a person in another State or tribal jurisdiction or within the special maritime and territorial jurisdiction of the United States; or
-
-  (B) to place a person in another State or tribal jurisdiction, or within the special maritime and territorial jurisdiction of the United States, in reasonable fear of the death of, or serious bodily injury to—
+  (A) places that person in reasonable fear of the death of, or serious bodily injury to—
 
     (i) that person;
 
-    (ii) a member of the immediate family (as defined in section 115 11 So in original. Probably should be followed by a closing parenthesis. of that person; or
+    (ii) an immediate family member (as defined in section 115) of that person; or
 
-    (iii) a spouse or intimate partner of that person;
-    uses the mail, any interactive computer service, or any facility of interstate or foreign commerce to engage in a course of conduct that causes substantial emotional distress to that person or places that person in reasonable fear of the death of, or serious bodily injury to, any of the persons described in clauses (i) through (iii) of subparagraph (B); 22 So in original. Provision probably should be set flush with par. (2).
-  shall be punished as provided in [section 2261(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261/b&num=0&edition=prelim).
+    (iii) a spouse or intimate partner of that person; or
 
-### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 113–4, § 4, title I, § 107(b), Mar. 7, 2013, 127 Stat. 64, 77, provided that, effective at the beginning of the fiscal year following Mar. 7, 2013, this section is amended to read as follows:
-
-§ 2261A. Stalking
-
-Whoever—
-
-(1) travels in interstate or foreign commerce or is present within the special maritime and territorial jurisdiction of the United States, or enters or leaves Indian country, with the intent to kill, injure, harass, intimidate, or place under surveillance with intent to kill, injure, harass, or intimidate another person, and in the course of, or as a result of, such travel or presence engages in conduct that—
-
-(A) places that person in reasonable fear of the death of, or serious bodily injury to—
-
-(i) that person;
-
-(ii) an immediate family member (as defined in section 115) of that person; or
-
-(iii) a spouse or intimate partner of that person; or
-
-(B) causes, attempts to cause, or would be reasonably expected to cause substantial emotional distress to a person described in clause (i), (ii), or (iii) of subparagraph (A); or
+  (B) causes, attempts to cause, or would be reasonably expected to cause substantial emotional distress to a person described in clause (i), (ii), or (iii) of subparagraph (A); or
 
 (2) with the intent to kill, injure, harass, intimidate, or place under surveillance with intent to kill, injure, harass, or intimidate another person, uses the mail, any interactive computer service or electronic communication service or electronic communication system of interstate commerce, or any other facility of interstate or foreign commerce to engage in a course of conduct that—
 
-(A) places that person in reasonable fear of the death of or serious bodily injury to a person described in clause (i), (ii), or (iii) of paragraph (1)(A); or
+  (A) places that person in reasonable fear of the death of or serious bodily injury to a person described in clause (i), (ii), or (iii) of paragraph (1)(A); or
 
-(B) causes, attempts to cause, or would be reasonably expected to cause substantial emotional distress to a person described in clause (i), (ii), or (iii) of paragraph (1)(A),
+  (B) causes, attempts to cause, or would be reasonably expected to cause substantial emotional distress to a person described in clause (i), (ii), or (iii) of paragraph (1)(A),
+  shall be punished as provided in [section 2261(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261/b&num=0&edition=prelim).
 
-shall be punished as provided in [section 2261(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261/b&num=0&edition=prelim).
-
-See 2013 Amendment note below.
+### Statutory Notes
 
 #### Amendments
 2013—Pub. L. 113–4 amended section generally. Prior to amendment, section related to stalking.
@@ -142,9 +113,6 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 or both fined and imprisoned.
 
 ### Statutory Notes
-
-#### Amendment of Section
-For effective date of amendment by Pub. L. 113–4, see Effective Date of 2013 Amendment note below.
 
 #### Amendments
 2013—Subsec. (a)(1). Pub. L. 113–4, which directed amendment of subsec. (a)(2) by inserting “is present” after “Indian country or”, was executed by making the insertion in subsec. (a)(1) to reflect the probable intent of Congress.
@@ -292,7 +260,7 @@ Pub. L. 109–162, § 106(c), added par. (3).
 2000—Subsecs. (d), (e). Pub. L. 106–386 added subsecs. (d) and (e).
 
 #### Special Rule for the State of Alaska
-Pub. L. 113–4, title IX, § 910, Mar. 7, 2013, 127 Stat. 126, provided that: “(a) Expanded Jurisdiction.—In the State of Alaska, the amendments made by sections 904 and 905 [enacting [section 1304 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1304&num=0&edition=prelim), Indians, and amending this section, respectively] shall only apply to the Indian country (as defined in [section 1151 of title 18](./chapter-053-indians.md#section-1151), United States Code) of the Metlakatla Indian Community, Annette Island Reserve. “(b) Retained Jurisdiction.—The jurisdiction and authority of each Indian tribe in the State of Alaska under [section 2265(e) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2265/e&num=0&edition=prelim), United States Code (as in effect on the day before the date of enactment of this Act [Mar. 7, 2013])—“(1) shall remain in full force and effect; and “(2) are not limited or diminished by this Act [see Tables for classification] or any amendment made by this Act. “(c) Savings Provision.—Nothing in this Act or an amendment made by this Act limits or diminishes the jurisdiction of the State of Alaska, any subdivision of the State of Alaska, or any Indian tribe in the State of Alaska.”
+Pub. L. 113–4, title IX, § 910, Mar. 7, 2013, 127 Stat. 126, which provided that, in the State of Alaska, the amendments made by sections 904 and 905 of Pub. L. 113–4, which related to tribal jurisdiction over crimes of domestic violence and over issuance of protection orders, applied only to the Indian country of the Metlakatla Indian Community, Annette Island Reserve, was repealed by Pub. L. 113–275, Dec. 18, 2014, 128 Stat. 2988.
 
 
 <a id="section-2265a"></a>

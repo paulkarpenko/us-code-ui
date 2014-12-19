@@ -700,7 +700,7 @@ Prior to amendment, section 1209 also contained subsecs. (b) and (c) which amend
 
 <a id="section-3652"></a>
 ## § 3652. Air transportation
-**(a)** Notwithstanding any other provision of law (except subsection (b) of this section), the Commission may contract with Panamanian carriers registered under the laws of the Republic of Panama to provide air transportation to officials and employees of the Commission who are citizens of the Republic of Panama.
+**(a)** Notwithstanding any other provision of law (except subsection (b)), the Commission may contract with Panamanian carriers registered under the laws of the Republic of Panama to provide air transportation to officials and employees of the Commission who are citizens of the Republic of Panama.
 
 **(b)** An official or employee of the Commission who is a citizen of the Republic of Panama may elect, for security or other reasons, to travel by an air carrier holding a certificate under [section 41102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section41102&num=0&edition=prelim).
 
@@ -709,7 +709,7 @@ Prior to amendment, section 1209 also contained subsecs. (b) and (c) which amend
 #### Amendments
 1997—Pub. L. 105–85, § 3524(b)(2), substituted “Air transportation” for “Travel and transportation” in section catchline.
 
-Subsec. (a). Pub. L. 105–85, § 3524(b)(1)(A), redesignated subsec. (d)(1) as subsec. (a) and substituted “subsection (b) of this section” for “paragraph (2)”.
+Subsec. (a). Pub. L. 105–85, § 3524(b)(1)(A), redesignated subsec. (d)(1) as subsec. (a) and substituted “subsection (b)” for “paragraph (2)”.
 
 Pub. L. 105–85, § 3524(a)(1), struck out subsec. (a) which read as follows: “Subject to subsections (b) and (c) of this section, the Commission may pay travel and transportation expenses for employees in accordance with subchapter II of chapter 57 of title 5.”
 
@@ -777,7 +777,7 @@ Pub. L. 104–201, § 3529, amended subpar. (B) generally. Prior to amendment, s
 
 (3) Notwithstanding any other provision of this chapter, the Panama Canal Act Amendments of 1996 (subtitle B of title XXXV of Public Law 104–201; 110 Stat. 2860), or the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105–85; 110 11 So in original. Probably should be “111”. Stat. 2062), or the Panama Canal Commission Authorization Act for Fiscal Year 1999, this subpart, as in effect on September 22, 1996, shall continue to apply to an Executive agency or the Smithsonian Institution to the extent of an election under paragraph (1) by the head of the agency or the Institution, respectively.
 
-**(c) Exclusion of employees or positions from coverage** The Commission may exclude any employee or position from coverage under any provision of this subpart, other than the interchange rights extended under subsection (a)(4) of this section.
+**(c) Exclusion of employees or positions from coverage** The Commission may exclude any employee or position from coverage under any provision of this subpart, other than the interchange rights extended under subsection (a)(4).
 
 ### Statutory Notes
 
@@ -815,7 +815,8 @@ The Commission shall establish written standards for—
 
 (1) determining the qualifications and fitness of employees and of candidates for employment in positions; and
 
-(2) selecting individuals for appointment, promotion, or transfer to positions. The standards shall conform to the provisions of this subpart, any regulations prescribed thereunder, and the Panama Canal Employment System.
+(2) selecting individuals for appointment, promotion, or transfer to positions.
+The standards shall conform to the provisions of this subpart, any regulations prescribed thereunder, and the Panama Canal Employment System.
 
 ### Statutory Notes
 
@@ -979,7 +980,8 @@ For the purpose of determining—
 
 (5) annual leave benefits; and
 
-(6) any other benefits related to basic pay; the basic pay of each employee shall include the rate of basic pay established for his position under [section 3642 of this title](./chapter-051-panama-canal.md#section-3642) plus the amount of any additional compensation provided under section 3657(a) 11 See References in Text note below. of this title.
+(6) any other benefits related to basic pay;
+the basic pay of each employee shall include the rate of basic pay established for his position under [section 3642 of this title](./chapter-051-panama-canal.md#section-3642) plus the amount of any additional compensation provided under section 3657(a) 11 See References in Text note below. of this title.
 
 ### Statutory Notes
 
@@ -1010,7 +1012,8 @@ An employee may request at any time that the employee’s agency—
 
 (1) review the classification of the employee’s position or the grade or pay level for the employee’s position, or both; and
 
-(2) revise or adjust that classification, grade or pay level, or both, as the case may be. The request for review and revision or adjustment shall be submitted and adjudicated in accordance with the regularly established appeals procedures of the agency.
+(2) revise or adjust that classification, grade or pay level, or both, as the case may be.
+The request for review and revision or adjustment shall be submitted and adjudicated in accordance with the regularly established appeals procedures of the agency.
 
 
 <a id="section-3663"></a>
@@ -1167,7 +1170,7 @@ Section, Pub. L. 96–70, title I, § 1225(b), Sept. 27, 1979, 93 Stat. 468, rel
 
   (N) severance pay benefits.
 
-**(b) Break in service** Any individual described in subsection (a)(1)(B) of this section who would have met the service requirement for early retirement benefits under section 8336(i) or 8339(d)(2) of title 5 (as amended by sections 1241(a) and 1242 of this Act, respectively), but for a break in service of more than 3 days immediately after September 30, 1979, shall be considered to meet that requirement. Any break in service by any such individual for purposes of section 8332 of such title 5 during the period beginning September 30, 1979, and ending on the date of the appointment referred to in such subsection (a)(1)(B) of this section shall be considered a period of creditable service under such section 8332 for such individual, except that such period shall not be taken into account for purposes of determining average pay (as defined in section 8331(4) of such title 5) and no deduction, contribution, or deposit shall be required for that period under section 8334 of such title 5.
+**(b) Break in service** Any individual described in subsection (a)(1)(B) of this section who would have met the service requirement for early retirement benefits under section 8336(i) or 8339(d)(2) of title 5 (as amended by sections 1241(a) and 1242 of this Act, respectively), but for a break in service of more than 3 days immediately after September 30, 1979, shall be considered to meet that requirement. Any break in service by any such individual for purposes of section 8332 of such title 5 during the period beginning September 30, 1979, and ending on the date of the appointment referred to in such subsection (a)(1)(B) shall be considered a period of creditable service under such section 8332 for such individual, except that such period shall not be taken into account for purposes of determining average pay (as defined in section 8331(4) of such title 5) and no deduction, contribution, or deposit shall be required for that period under section 8334 of such title 5.
 
 **(c) Applicability of sections 903(c) and 904(a)(2) of title 20; sabbaticals**
 
@@ -1353,13 +1356,13 @@ Functions vested in President by subsec. (a)(1) delegated to Director of Office 
 
 (1) The Commission, or any other United States Government agency or private entity acting pursuant to an agreement with the Commission, under the Act entitled “An Act authorizing cash relief for certain employees of the Panama Canal not coming within the provisions of the Canal Zone Retirement Act”, approved July 8, 1937 (50 Stat. 478; 68 Stat. 17), may continue the payments of cash relief to those individual former employees of the Canal Zone Government or Panama Canal Company or their predecessor agencies not coming within the scope of the former Canal Zone Retirement Act whose services were terminated prior to October 5, 1958, because of unfitness for further useful service by reason of mental or physical disability resulting from age or disease.
 
-(2) Subject to subsection (b) of this section, cash relief under this subsection may not exceed $1.50 per month for each year of service of the employees so furnished relief, with a maximum of $45 per month, plus the amount of any cost-of-living increases in such cash relief granted before October 1, 1979, pursuant to [section 181 of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section181&num=0&edition=prelim) of the Canal Zone Code (as in effect on September 30, 1979), nor be paid to any employee who, at the time of termination for disability prior to October 5, 1958, had less than 10 years’ service with the Canal Zone Government, the Panama Canal Company, or their predecessor agencies on the Isthmus of Panama.
+(2) Subject to subsection (b), cash relief under this subsection may not exceed $1.50 per month for each year of service of the employees so furnished relief, with a maximum of $45 per month, plus the amount of any cost-of-living increases in such cash relief granted before October 1, 1979, pursuant to [section 181 of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section181&num=0&edition=prelim) of the Canal Zone Code (as in effect on September 30, 1979), nor be paid to any employee who, at the time of termination for disability prior to October 5, 1958, had less than 10 years’ service with the Canal Zone Government, the Panama Canal Company, or their predecessor agencies on the Isthmus of Panama.
 
 **(b) Additional amounts for relief under subsection (a)** An additional amount of $20 per month shall be paid to each person who receives payment of cash relief under subsection (a) of this section and shall be allowed without regard to the limitations contained therein.
 
 **(c) Increases in cash relief payments** Each cash relief payment made pursuant to this section shall be increased on the same effective date and by the same percent, adjusted to the nearest dollar, as civil service retirement annuities are increased under the cost-of-living adjustment provisions of [section 8340(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8340/b&num=0&edition=prelim). Such increase shall apply only to cash relief payments made after October 1, 1979, as increased by annuity increases made after that date under such [section 8340(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8340/b&num=0&edition=prelim).
 
-**(d) Cash relief payments to widows** The Commission may pay cash relief to the widow of any former employee of the Canal Zone Government or the Panama Canal Company who, until the time of his death, receives or has received cash relief under subsection (a) of this section, under [section 181 of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section181&num=0&edition=prelim) of the Canal Zone Code (as in effect on September 30, 1979), or under the Act of July 8, 1937, referred to in such subsection (a) of this section. The term “widow” as used in this subsection includes only the following:
+**(d) Cash relief payments to widows** The Commission may pay cash relief to the widow of any former employee of the Canal Zone Government or the Panama Canal Company who, until the time of his death, receives or has received cash relief under subsection (a) of this section, under [section 181 of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section181&num=0&edition=prelim) of the Canal Zone Code (as in effect on September 30, 1979), or under the Act of July 8, 1937, referred to in such subsection (a). The term “widow” as used in this subsection includes only the following:
 
 (1) a woman legally married to such employee at the time of his termination for disability and at his death;
 
@@ -1474,7 +1477,7 @@ Section, Pub. L. 96–70, title I, § 1301, Sept. 27, 1979, 93 Stat. 477; Pub. L
 
 <a id="section-3713"></a>
 ## § 3713. Panama Canal Revolving Fund
-**(a) Establishment** There is established in the Treasury of the United States a revolving fund to be known as “Panama Canal Revolving Fund”. The Panama Canal Revolving Fund shall, subject to subsection (b) of this section, be available to the Commission to carry out the purposes, functions, and powers authorized by this chapter, including for the following purposes:
+**(a) Establishment** There is established in the Treasury of the United States a revolving fund to be known as “Panama Canal Revolving Fund”. The Panama Canal Revolving Fund shall, subject to subsection (b), be available to the Commission to carry out the purposes, functions, and powers authorized by this chapter, including for the following purposes:
 
 (1) The hire of passenger motor vehicles and aircraft.
 
@@ -1640,7 +1643,7 @@ Section effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out a
 
 (1) The Commission shall conduct a study of—
 
-  (A) the costs associated with the dissolution of the Commission, including the composition, location, and costs of the office authorized to be established under subsection (b) of this section; and
+  (A) the costs associated with the dissolution of the Commission, including the composition, location, and costs of the office authorized to be established under subsection (b); and
 
   (B) costs and liabilities incurred or administered by the Commission that will not be paid before the date of that dissolution.
 
@@ -1650,13 +1653,13 @@ Section effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out a
 
 **(c) Panama Canal Commission Dissolution Fund**
 
-(1) There is established in the Treasury of the United States a fund to be known as the “Panama Canal Commission Dissolution Fund” (hereinafter in this section referred to as the “Fund”). The Fund shall be managed by the Commission until the termination of the Panama Canal Treaty of 1977 and by the office established under subsection (b) of this section thereafter.
+(1) There is established in the Treasury of the United States a fund to be known as the “Panama Canal Commission Dissolution Fund” (hereinafter in this section referred to as the “Fund”). The Fund shall be managed by the Commission until the termination of the Panama Canal Treaty of 1977 and by the office established under subsection (b) thereafter.
 
 (2)
 
   (A) Subject to paragraph (5), the Fund shall be available after September 30, 1998, to pay—
 
-    (i) the costs of operating the office established under subsection (b) of this section; and
+    (i) the costs of operating the office established under subsection (b); and
 
     (ii) the costs and liabilities associated with dissolution of the Commission, including such costs incurred or identified after the termination of the Panama Canal Treaty of 1977.
 
@@ -1680,7 +1683,7 @@ Section effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out a
 
   (A) Amounts in the Fund may not be obligated or expended in any fiscal year unless the obligation or expenditure is specifically authorized by law.
 
-  (B) The office established by subsection (b) of this section is authorized to expend or obligate funds from the Fund for the purposes enumerated in clauses (i) and (ii) of paragraph (2)(A) until October 1, 2004.
+  (B) The office established by subsection (b) is authorized to expend or obligate funds from the Fund for the purposes enumerated in clauses (i) and (ii) of paragraph (2)(A) until October 1, 2004.
 
 (6) The Fund shall terminate on October 1, 2004. Amounts in the Fund on that date shall be deposited in the general fund of the Treasury of the United States.
 
@@ -1726,7 +1729,7 @@ Section effective Oct. 1, 1988, see section 10 of Pub. L. 100–705, set out as 
 ## § 3715c. Operation of Fund
 **(a) Deposits to Fund** The Panama Canal Commission shall make deposits on a regular basis to the Fund, beginning on October 1, 1988, to accumulate an amount sufficient to defray the estimated total cost of liability for the workers’ compensation benefits and other payments payable under chapter 81 of title 5 for the disability or death of employees of the Panama Canal Commission or any of its predecessor agencies on account of injuries sustained on or before December 31, 1999, except for those claims arising before, on, or after October 1, 1988, for which the Secretary of Labor has assumed fiscal responsibility.
 
-**(b) Calculation of amounts to be deposited** The amounts deposited under subsection (a) of this section shall be based upon periodic actuarial studies conducted by experts or consultants whose services are procured by the Panama Canal Commission by contract. The amounts of such deposits shall take into consideration interest earnings in accordance with subsection (c) of this section and expected cost of living adjustments as provided in [section 8146a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8146a&num=0&edition=prelim), but not amounts payable by the Commission for continuation of pay pursuant to section 8118 of such title.
+**(b) Calculation of amounts to be deposited** The amounts deposited under subsection (a) shall be based upon periodic actuarial studies conducted by experts or consultants whose services are procured by the Panama Canal Commission by contract. The amounts of such deposits shall take into consideration interest earnings in accordance with subsection (c) of this section and expected cost of living adjustments as provided in [section 8146a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8146a&num=0&edition=prelim), but not amounts payable by the Commission for continuation of pay pursuant to section 8118 of such title.
 
 **(c) Investment of amounts in Fund** The Secretary of the Treasury, upon the request of the Secretary of Labor, shall invest moneys in the Fund in public debt securities which shall bear interest at rates determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturity. Such interest shall be credited to and form a part of the Fund.
 
@@ -1757,11 +1760,11 @@ Section effective Oct. 1, 1988, see section 10 of Pub. L. 100–705, set out as 
 ## § 3721. Final evaluation of Fund; deficiency or surplus in Fund
 **(a) Final evaluation of Fund** By March 31, 1998, the Secretary of Labor shall, on the basis of an actuarial study conducted by experts or consultants whose services are procured by the Secretary of Labor by contract, make a final determination of the amounts estimated to be necessary to meet expenditures for workers’ compensation benefits and other payments described in [section 3715a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3715a/a&num=0&edition=prelim), as calculated in accordance with the second sentence of [section 3715a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3715a/b&num=0&edition=prelim). Amounts in the Fund shall be used to pay for the final determination under this subsection.
 
-**(b) Deficiency or surplus in Fund** If amounts in the Fund are not sufficient to meet expenditures as determined by the Secretary of Labor under subsection (a) of this section for workers’ compensation benefits and other payments described in [section 3715a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3715a/a&num=0&edition=prelim), then amounts in the Panama Canal Revolving Fund not otherwise obligated shall be transferred to the Fund to make up the deficiency. Any amounts remaining in the Fund in excess of the final determination amount as described in subsection (a) of this section shall be transferred to the Panama Canal Revolving Fund, and may be used to satisfy lawful obligations of the Revolving Fund arising on or before December 31, 1999.
+**(b) Deficiency or surplus in Fund** If amounts in the Fund are not sufficient to meet expenditures as determined by the Secretary of Labor under subsection (a) for workers’ compensation benefits and other payments described in [section 3715a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3715a/a&num=0&edition=prelim), then amounts in the Panama Canal Revolving Fund not otherwise obligated shall be transferred to the Fund to make up the deficiency. Any amounts remaining in the Fund in excess of the final determination amount as described in subsection (a) shall be transferred to the Panama Canal Revolving Fund, and may be used to satisfy lawful obligations of the Revolving Fund arising on or before December 31, 1999.
 
 **(c) Continuity of Fund**
 
-(1) Amounts in the Fund (including amounts transferred as a result of the final determination made under subsection (a) of this section) shall be maintained by the Secretary of the Treasury, shall be made available for transfer to the Employees’ Compensation Fund in such amounts as are requested by the Secretary of Labor pursuant to [section 3715b of this title](./chapter-051-panama-canal.md#section-3715b), and may be discontinued only in accordance with paragraph (2).
+(1) Amounts in the Fund (including amounts transferred as a result of the final determination made under subsection (a)) shall be maintained by the Secretary of the Treasury, shall be made available for transfer to the Employees’ Compensation Fund in such amounts as are requested by the Secretary of Labor pursuant to [section 3715b of this title](./chapter-051-panama-canal.md#section-3715b), and may be discontinued only in accordance with paragraph (2).
 
 (2) At such time as the Secretary of Labor certifies that no further liability exists for workers compensation benefits or other payments described in [section 3715a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3715a/a&num=0&edition=prelim), the Secretary of the Treasury may discontinue the Fund in the manner provided by law.
 
@@ -1777,7 +1780,7 @@ Section was enacted as part of the Panama Canal Commission Compensation Fund Act
 
 Subsec. (a). Pub. L. 101–510, § 3507(2), substituted “Upon the termination of the Panama Canal Commission, the Secretary of Labor” for “The Secretary of Labor” and struck out at end “The Secretary of the Treasury shall, in accordance with such final determination, transfer from the Fund to the Employee Compensation Fund amounts sufficient to meet expenditures for workers compensation benefits and other payments described in [section 3715a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3715a/a&num=0&edition=prelim).”
 
-Subsec. (b). Pub. L. 101–510, § 3507(3), inserted “under subsection (a) of this section” after “Secretary of Labor” and struck out “Employees Compensation” before “Fund to make up”.
+Subsec. (b). Pub. L. 101–510, § 3507(3), inserted “under subsection (a)” after “Secretary of Labor” and struck out “Employees Compensation” before “Fund to make up”.
 
 Subsec. (c). Pub. L. 101–510, § 3507(4), added subsec. (c).
 
@@ -1821,13 +1824,13 @@ Section, Pub. L. 96–70, title I, § 1312, Sept. 27, 1979, 93 Stat. 479, relate
 
 <a id="section-3741"></a>
 ## § 3741. Audits
-**(a) Financial transactions of Commission; access to books, accounts, etc.** Notwithstanding any other provision of law, and subject to subsection (c) of this section, financial transactions of the Commission shall be audited by the Comptroller General of the United States (hereinafter in this chapter referred to as the “Comptroller General”). In conducting any such audit, the appropriate representatives of the Comptroller General shall have access to all books, accounts, financial records, reports, files, and other papers, items, or property in use by the Commission and necessary to facilitate such audit, and such representatives shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. Any such audit shall first be conducted with respect to the fiscal year in which this chapter becomes effective. An audit performed under this section is subject to the requirements of paragraphs (2), (3), and (5) of [section 9105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9105/a&num=0&edition=prelim).
+**(a) Financial transactions of Commission; access to books, accounts, etc.** Notwithstanding any other provision of law, and subject to subsection (c), financial transactions of the Commission shall be audited by the Comptroller General of the United States (hereinafter in this chapter referred to as the “Comptroller General”). In conducting any such audit, the appropriate representatives of the Comptroller General shall have access to all books, accounts, financial records, reports, files, and other papers, items, or property in use by the Commission and necessary to facilitate such audit, and such representatives shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. Any such audit shall first be conducted with respect to the fiscal year in which this chapter becomes effective. An audit performed under this section is subject to the requirements of paragraphs (2), (3), and (5) of [section 9105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9105/a&num=0&edition=prelim).
 
 **(b) Omitted**
 
-**(c) Independent auditors** At the discretion of the Board provided for in [section 3612 of this title](./chapter-051-panama-canal.md#section-3612), the Commission may hire independent auditors to perform, in lieu of the Comptroller General, the audit and reporting functions prescribed in subsections (a) and (b) of this section.
+**(c) Independent auditors** At the discretion of the Board provided for in [section 3612 of this title](./chapter-051-panama-canal.md#section-3612), the Commission may hire independent auditors to perform, in lieu of the Comptroller General, the audit and reporting functions prescribed in subsections (a) and (b).
 
-**(d) Examination and report on Commission’s financial forecast** In addition to auditing the financial statements of the Commission, the Comptroller General (or the independent auditor if one is employed pursuant to subsection (c) of this section) shall, in accordance with standards for an examination of a financial forecast established by the American Institute of Certified Public Accountants, examine and report on the Commission’s financial forecast that it will be in a position to meet its financial liabilities on December 31, 1999.
+**(d) Examination and report on Commission’s financial forecast** In addition to auditing the financial statements of the Commission, the Comptroller General (or the independent auditor if one is employed pursuant to subsection (c)) shall, in accordance with standards for an examination of a financial forecast established by the American Institute of Certified Public Accountants, examine and report on the Commission’s financial forecast that it will be in a position to meet its financial liabilities on December 31, 1999.
 
 ### Statutory Notes
 
@@ -1844,7 +1847,7 @@ Subsec. (b) of this section, which required the Comptroller General, not later t
 
 Subsec. (a). Pub. L. 104–201, § 3541(b), which directed substitution of “chapter 91 of title 31” for “the Accounting and Auditing Act of 1950 ([31 U.S.C. 65](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section65&num=0&edition=prelim) et seq.)”, could not be executed because that phrase did not appear subsequent to amendment by Pub. L. 104–106, § 3526(a)(2)(B). See below.
 
-Pub. L. 104–106, § 3526(a)(2), substituted “Notwithstanding any other provision of law, and subject to subsection (d) of this section, financial transactions” for “Financial transactions”, struck out “pursuant to the Accounting and Auditing Act of 1950 ([31 U.S.C. 65](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section65&num=0&edition=prelim) et seq.)” after “as the ‘Comptroller General’)”, substituted “conducting any such audit” for “conducting any audit pursuant to such Act” and “Any such audit shall first” for “An audit pursuant to such Act shall first”, and inserted at end “An audit performed under this section is subject to the requirements of paragraphs (2), (3), and (5) of [section 9105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9105/a&num=0&edition=prelim).”
+Pub. L. 104–106, § 3526(a)(2), substituted “Notwithstanding any other provision of law, and subject to subsection (d), financial transactions” for “Financial transactions”, struck out “pursuant to the Accounting and Auditing Act of 1950 ([31 U.S.C. 65](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section65&num=0&edition=prelim) et seq.)” after “as the ‘Comptroller General’)”, substituted “conducting any such audit” for “conducting any audit pursuant to such Act” and “Any such audit shall first” for “An audit pursuant to such Act shall first”, and inserted at end “An audit performed under this section is subject to the requirements of paragraphs (2), (3), and (5) of [section 9105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9105/a&num=0&edition=prelim).”
 
 Subsec. (b). Pub. L. 104–106, § 3526(a)(3), substituted “Subject to subsection (d) of this section, the Comptroller General” for “The Comptroller General” in introductory provisions.
 
@@ -2043,7 +2046,7 @@ Functions vested in President by subsec. (b) delegated to Secretary of State, se
 ## § 3772. Settlement of claims generally
 **(a) Claims for injury to, or loss of, property or personal injury or death arising from operation of Panama Canal** Subject to the provisions of this part, the Commission may adjust and pay claims for injury to, or loss of, property or for personal injury or death, arising from the operation of the Panama Canal or related facilities and appurtenances.
 
-**(b) Limitation on amount of claims** The Commission may pay not more than $50,000 on any claim described in subsection (a) of this section.
+**(b) Limitation on amount of claims** The Commission may pay not more than $50,000 on any claim described in subsection (a).
 
 **(c) Source of award; release** An award made to a claimant under this section shall be payable out of any moneys made available to the Commission. The acceptance by the claimant of the award shall be final and conclusive on the claimant, and shall constitute a complete release by the claimant of his claim against the United States and against any employee of the United States acting in the course of his employment who is involved in the matter giving rise to the claim.
 
@@ -2065,7 +2068,7 @@ Functions vested in President by subsec. (b) delegated to Secretary of State, se
 
 **(b)**
 
-(1) With respect to a claim under subsection (a) of this section for damages for injuries to a vessel or its cargo, if, at the time the injuries were incurred, the navigation or movement of the vessel was not under the control of a Panama Canal pilot, the Commission may pay not more than $50,000 on the claim, unless the injuries were caused by another vessel under the control of a Panama Canal pilot.
+(1) With respect to a claim under subsection (a) for damages for injuries to a vessel or its cargo, if, at the time the injuries were incurred, the navigation or movement of the vessel was not under the control of a Panama Canal pilot, the Commission may pay not more than $50,000 on the claim, unless the injuries were caused by another vessel under the control of a Panama Canal pilot.
 
 (2) The provisions of subsections (c) through (e) of [section 3761 of this title](./chapter-051-panama-canal.md#section-3761) shall apply to any claim described in paragraph (1).
 
@@ -2115,7 +2118,8 @@ In determining the amount of the award of damages for injuries to a vessel for w
 
 (3) maintenance of the vessel and wages of the crew, if they are found to be actual additional expenses or losses incurred outside of the charter hire; and
 
-(4) other expenses which are definitely and accurately shown to have been incurred necessarily and by reason of the accident or injuries. Agent’s fees, or commissions, or other incidental expenses of similar character, or any items which are indefinite, indeterminable, speculative, or conjectural may not be allowed. The Commission shall be furnished such vouchers, receipts, or other evidence as may be necessary in support of any item of a claim. If a vessel is not operated under charter but by the owner directly, evidence shall be secured if available as to the sum for which vessels of the same size and class can be chartered in the market. If the charter value cannot be determined, the value of the vessel to its owners in the business in which it was engaged at the time of the injuries shall be used as a basis for estimating the damages for the vessel’s detention; and the books of the owners showing the vessel’s earnings about the time of the accident or injuries shall be considered as evidence of probable earnings during the time of detention. If the books are unavailable, such other evidence shall be furnished as may be necessary.
+(4) other expenses which are definitely and accurately shown to have been incurred necessarily and by reason of the accident or injuries.
+Agent’s fees, or commissions, or other incidental expenses of similar character, or any items which are indefinite, indeterminable, speculative, or conjectural may not be allowed. The Commission shall be furnished such vouchers, receipts, or other evidence as may be necessary in support of any item of a claim. If a vessel is not operated under charter but by the owner directly, evidence shall be secured if available as to the sum for which vessels of the same size and class can be chartered in the market. If the charter value cannot be determined, the value of the vessel to its owners in the business in which it was engaged at the time of the injuries shall be used as a basis for estimating the damages for the vessel’s detention; and the books of the owners showing the vessel’s earnings about the time of the accident or injuries shall be considered as evidence of probable earnings during the time of detention. If the books are unavailable, such other evidence shall be furnished as may be necessary.
 
 
 <a id="section-3776"></a>
@@ -2403,7 +2407,7 @@ Amendment by Pub. L. 99–195 applicable only to tolls and other receipts of the
 
 **(b) Revision of proposed rules of measurement or rates of tolls** After consideration of the relevant matter presented, the Commission may revise the proposed rules of measurement or rates of tolls, as the case may be, except that, in the case of rates of tolls, if such revision proposes rates greater than those originally proposed, a new analysis of the proposed rates shall be made available to the public, and a new notice of the revised proposal shall be published in the Federal Register apprising interested persons of the opportunity to participate further in the proceedings through submission of written data, views, or arguments, and participation in a public hearing to be held not less than 30 days after the date of publication of the new notice. The procedure set forth in this subsection shall be followed for any subsequent revision of the proposed rates of tolls by the Commission which proposes rates higher than those in the preceding proposal.
 
-**(c) Publication of notice of changes in rules of meas­urement and rates of tolls in Federal Register** After the proceedings have been conducted pursuant to subsections (a) and (b) of this section, the Commission may change the rules of measurement or rates of tolls, as the case may be. The Commission shall publish notice of any such change in the Federal Register not less than 30 days before the effective date of the change.
+**(c) Publication of notice of changes in rules of measurement and rates of tolls in Federal Register** After the proceedings have been conducted pursuant to subsections (a) and (b), the Commission may change the rules of measurement or rates of tolls, as the case may be. The Commission shall publish notice of any such change in the Federal Register not less than 30 days before the effective date of the change.
 
 **(d) Judicial review** Action to change the rules of measurement for the Panama Canal or the rates of tolls for the use of the Canal pursuant to this part shall be subject to judicial review in accordance with chapter 7 of title 5.
 
@@ -2535,7 +2539,7 @@ Section 3852, Pub. L. 96–70, title II, § 2402, Sept. 27, 1979, 93 Stat. 495, 
 
 (2) The Regulation shall contain provisions regarding the establishment of the Panama Canal Board of Contract Appeals described in [section 3862 of this title](./chapter-051-panama-canal.md#section-3862).
 
-**(b) Supplement to Regulation** The Commission shall develop a Supplement to the Regulation (in this section referred to as the “Supplement”) that identifies both the provisions of Federal law applicable to procurement of goods and services by the Commission and the provisions of Federal law waived by the Commission under subsection (c) of this section.
+**(b) Supplement to Regulation** The Commission shall develop a Supplement to the Regulation (in this section referred to as the “Supplement”) that identifies both the provisions of Federal law applicable to procurement of goods and services by the Commission and the provisions of Federal law waived by the Commission under subsection (c).
 
 **(c) Waiver authority**
 
@@ -2588,11 +2592,11 @@ A prior section 3861, Pub. L. 96–70, title III, § 3101, Sept. 27, 1979, 93 St
 
 (5) section 3556 of such title shall not apply to the Board, but nothing in this subsection shall affect the right of an interested party to file a protest with the appropriate contracting officer.
 
-**(d) Procedures** The Board shall prescribe such procedures as may be necessary for the expeditious decision of appeals and protests under subsections (b) and (c) of this section.
+**(d) Procedures** The Board shall prescribe such procedures as may be necessary for the expeditious decision of appeals and protests under subsections (b) and (c).
 
-**(e) Commencement** The Board shall begin to function as soon as it has been established and has prescribed procedures under subsection (d) of this section.
+**(e) Commencement** The Board shall begin to function as soon as it has been established and has prescribed procedures under subsection (d).
 
-**(f) Transition** The Board shall have jurisdiction under subsections (b) and (c) of this section over any appeals and protests filed on or after the date on which the Board begins to function. Any appeals and protests filed before such date shall remain before the forum in which they were filed.
+**(f) Transition** The Board shall have jurisdiction under subsections (b) and (c) over any appeals and protests filed on or after the date on which the Board begins to function. Any appeals and protests filed before such date shall remain before the forum in which they were filed.
 
 **(g) Other functions** The Board may perform functions similar to those described in this section for such other matters or activities of the Commission as the Commission may determine and in accordance with regulations prescribed by the Commission.
 

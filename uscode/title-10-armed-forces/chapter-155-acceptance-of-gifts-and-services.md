@@ -128,7 +128,7 @@ Pub. L. 110–181, div. A, title V, § 593(b), Jan. 28, 2008, 122 Stat. 138, pro
 ## § 2601a. Direct acceptance of gifts by members of the armed forces and Department of Defense and Coast Guard employees and their families
 **(a) Regulations Governing Acceptance of Gifts.—**
 
-(1) The Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy) shall issue regulations to provide that, subject to such limitations as may be specified in such regulations, the following individuals may accept gifts from nonprofit organizations, private parties, and other sources outside the Department of Defense or the Department of Homeland Security:
+(1) The Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy) shall prescribe regulations to provide that, subject to such limitations as may be specified in such regulations, the following individuals may accept gifts from nonprofit organizations, private parties, and other sources outside the Department of Defense or the Department of Homeland Security:
 
   (A) A member of the armed forces described in subsection (b).
 
@@ -154,16 +154,19 @@ Pub. L. 110–181, div. A, title V, § 593(b), Jan. 28, 2008, 122 Stat. 138, pro
 
 **(c) Covered Employees.—** This section applies to a civilian employee of the Department of Defense or Coast Guard who, while an employee on or after September 11, 2001, incurred an injury or illness under a circumstance described in paragraph (1), (2) or (3) of subsection (b).
 
-**(d) Gifts From Certain Sources Prohibited.—** The regulations issued under subsection (a) may not authorize the acceptance of a gift from a foreign government or international organization or their agents.
+**(d) Gifts From Certain Sources Prohibited.—** The regulations prescribed under subsection (a) may not authorize the acceptance of a gift from a foreign government or international organization or their agents.
 
-**(e) Application of Certain Regulations.—** To the extent provided in the regulations issued under subsection (a) to implement subsection (b)(2), the regulations shall apply to the acceptance of gifts received after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012 for injuries or illnesses incurred on or after September 11, 2001.
+**(e) Application of Certain Regulations.—** To the extent provided in the regulations issued under subsection (a) to implement subsection (b)(2), the regulations shall apply to the acceptance of gifts received after December 31, 2011, for injuries or illnesses incurred on or after September 11, 2001.
 
 ### Statutory Notes
 
-#### References in Text
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (e), is the date of enactment of Pub. L. 112–81, which was approved Dec. 31, 2011.
-
 #### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–291, § 1071(f)(19)(A), substituted “prescribe” for “issue”.
+
+Subsec. (d). Pub. L. 113–291, § 1071(f)(19)(B), substituted “prescribed” for “issued”.
+
+Subsec. (e). Pub. L. 113–291, § 1071(e)(4), substituted “after December 31, 2011,” for “after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012”.
+
 2013—Subsec. (a)(1). Pub. L. 112–239 inserted “when it is not operating as a service in the Navy” after “Coast Guard” in introductory provisions.
 
 2011—Subsec. (b)(2), (3). Pub. L. 112–81, § 543(1), added par. (2) and redesignated former par. (2) as (3).
@@ -455,7 +458,7 @@ Section, added Pub. L. 103–160, div. A, title II, § 242(f)(1), Nov. 30, 1993,
 
   (A) The George C. Marshall European Center for Security Studies.
 
-  (B) The Asia-Pacific Center for Security Studies.
+  (B) The Daniel K. Inouye Asia-Pacific Center for Security Studies.
 
   (C) The William J. Perry Center for Hemispheric Defense Studies.
 
@@ -488,6 +491,8 @@ Section, added Pub. L. 103–160, div. A, title II, § 242(f)(1), Nov. 30, 1993,
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a)(2)(B). Pub. L. 113–291 substituted “Daniel K. Inouye Asia-Pacific Center for Security Studies” for “Asia-Pacific Center for Security Studies”.
+
 2013—Subsec. (a)(2)(C). Pub. L. 112–239 substituted “William J. Perry Center for Hemispheric Defense Studies” for “Center for Hemispheric Defense Studies”.
 
 2006—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (f) relating to acceptance of gifts and donations for the Asia-Pacific Center for Security Studies.
@@ -618,9 +623,9 @@ Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, pr
 
 (1) Subject to subsection (c), the Secretary concerned—
 
-  (1) may accept communications equipment for use in coordinating joint response and recovery operations with public safety agencies in the event of a disaster; and
+(1) may accept communications equipment for use in coordinating joint response and recovery operations with public safety agencies in the event of a disaster; and
 
-  (2) may accept services related to the operation and maintenance of such equipment.
+(2) may accept services related to the operation and maintenance of such equipment.
 
 **(b) Regulations.—** The authority under subsection (a) shall be exercised under regulations prescribed by the Secretary of Defense.
 

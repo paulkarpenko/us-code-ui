@@ -119,6 +119,9 @@ Pub. L. 112–95, title IV, § 415(c), Feb. 14, 2012, 126 Stat. 96, provided tha
 
 ### Statutory Notes
 
+#### Effective Date
+Requirements of this section to begin to apply 60 days after Feb. 14, 2012, except as otherwise provided, see section 415(c) of Pub. L. 112–95, set out as a note under [section 42301 of this title](./chapter-423-passenger-air-service-improvements.md#section-42301).
+
 #### DOT Airline Consumer Complaint Investigations
 Pub. L. 112–95, title IV, § 408, Feb. 14, 2012, 126 Stat. 87, provided that: “The Secretary of Transportation may investigate consumer complaints regarding— “(1) flight cancellations; “(2) compliance with Federal regulations concerning overbooking seats on flights; “(3) lost, damaged, or delayed baggage, and difficulties with related airline claims procedures; “(4) problems in obtaining refunds for unused or lost tickets or fare adjustments; “(5) incorrect or incomplete information about fares, discount fare conditions and availability, overcharges, and fare increases; “(6) the rights of passengers who hold frequent flyer miles or equivalent redeemable awards earned through customer-loyalty programs; and “(7) deceptive or misleading advertising.”
 
@@ -128,3 +131,8 @@ Pub. L. 112–95, title IV, § 408, Feb. 14, 2012, 126 Stat. 87, provided that: 
 **(a) Information To Be Provided on the Internet.—** The Secretary of Transportation shall establish, and make available to the general public, an Internet Web site that contains a listing of countries that may require an air carrier or foreign air carrier to treat an aircraft passenger cabin with insecticides prior to a flight in foreign air transportation to that country or to apply an aerosol insecticide in an aircraft cabin used for such a flight when the cabin is occupied with passengers.
 
 **(b) Required Disclosures.—** An air carrier, foreign air carrier, or ticket agent selling, in the United States, a ticket for a flight in foreign air transportation to a country listed on the Internet Web site established under subsection (a) shall refer the purchaser of the ticket to the Internet Web site established under subsection (a) for additional information.
+
+### Statutory Notes
+
+#### Effective Date
+Requirements of this section to begin to apply 60 days after Feb. 14, 2012, except as otherwise provided, see section 415(c) of Pub. L. 112–95, set out as a note under [section 42301 of this title](./chapter-423-passenger-air-service-improvements.md#section-42301).

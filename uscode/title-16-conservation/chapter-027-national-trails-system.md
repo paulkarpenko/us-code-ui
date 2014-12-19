@@ -321,7 +321,7 @@ Subsec. (b)(iii). Pub. L. 98–11, § 204(2)–(4), added cl. (iii).
 
     (i) in coordination with—
 
-      (I) the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 ([16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461) note; 112 Stat. 2961); and
+      (I) the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 (112 Stat. 2961); and
 
       (II) the Chesapeake Bay Program authorized under [section 1267 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1267&num=0&edition=prelim); and
 
@@ -393,7 +393,7 @@ Subsec. (b)(iii). Pub. L. 98–11, § 204(2)–(4), added cl. (iii).
 
 (2) the areas adjacent to such trails, to be utilized for scenic, historic, natural, cultural, or developmental, purposes;
 
-(3) the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 (49 Stat. 666; [16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461));
+(3) the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 (49 Stat. 666);
 
 (4) the current status of land ownership and current and potential use along the designated route;
 
@@ -553,7 +553,7 @@ Subsec. (b)(iii). Pub. L. 98–11, § 204(2)–(4), added cl. (iii).
 
   (B) *Affected areas.—* — The trail crosses eight counties within the boundaries of the State of Maryland, the City of Baltimore, Maryland, and Washington, District of Columbia.
 
-  (C) *Coordination with other congressionally mandated activities.—* — The study under this paragraph shall be undertaken in coordination with the study authorized under section 603 of the Omnibus Parks and Public Lands Management Act of 1996 ([16 U.S.C. 1a–5](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1a-5) note; 110 Stat. 4172) and the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 ([16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461) note; 112 Stat. 2961). Such coordination shall extend to any research needed to complete the studies and any findings and implementation actions that result from the studies and shall use available resources to the greatest extent possible to avoid unnecessary duplication of effort.
+  (C) *Coordination with other congressionally mandated activities.—* — The study under this paragraph shall be undertaken in coordination with the study authorized under section 603 of the Omnibus Parks and Public Lands Management Act of 1996 (110 Stat. 4172) and the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 (112 Stat. 2961). Such coordination shall extend to any research needed to complete the studies and any findings and implementation actions that result from the studies and shall use available resources to the greatest extent possible to avoid unnecessary duplication of effort.
 
   (D) *Deadline for study.—* — Not later than 2 years after funds are made available for the study under this paragraph, the study shall be completed and transmitted with final recommendations to the Committee on Resources in the House of Representatives and the Committee on Energy and Natural Resources in the Senate.
 
@@ -567,7 +567,7 @@ Subsec. (b)(iii). Pub. L. 98–11, § 204(2)–(4), added cl. (iii).
 
   (B) The study shall be conducted in consultation with Federal, State, regional, and local agencies and representatives of the private sector, including the entities responsible for administering—
 
-    (i) the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 ([16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461) note; title V of Public Law 105–312); and
+    (i) the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 (title V of Public Law 105–312); and
 
     (ii) the Chesapeake Bay Program authorized under [section 1267 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1267&num=0&edition=prelim).
 
@@ -790,11 +790,11 @@ Subsec. (b)(iii). Pub. L. 98–11, § 204(2)–(4), added cl. (iii).
 ### Statutory Notes
 
 #### References in Text
-The Chesapeake Bay Initiative Act of 1998, referred to in subsecs. (a)(25)(C)(i)(I) and (c)(40)(C), (43)(B)(i), is title V of Pub. L. 105–312, Oct. 30, 1998, 112 Stat. 2961, which is classified as a note under [section 461 of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461). For complete classification of this Act to the Code, see Tables.
+The Chesapeake Bay Initiative Act of 1998, referred to in subsecs. (a)(25)(C)(i)(I) and (c)(40)(C), (43)(B)(i), is title V of Pub. L. 105–312, Oct. 30, 1998, 112 Stat. 2961, which is classified as a note under [section 320101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim), National Park Service and Related Programs. For complete classification of this Act to the Code, see Tables.
 
-The Historic Sites Act of 1935 (49 Stat. 666; [16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461)), referred to in subsec. (b)(3), which is also known as the Historic Sites, Buildings, and Antiquities Act, is act Aug. 21, 1935, ch. 593, 49 Stat. 666, as amended, which is classified to sections 461 to 467 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461) and Tables.
+The Historic Sites Act of 1935 (49 Stat. 666), referred to in subsec. (b)(3), which is also known as the Historic Sites, Buildings, and Antiquities Act, is act Aug. 21, 1935, ch. 593, 49 Stat. 666. For complete classification of this Act to the Code, see Tables.
 
-Section 603 of the Omnibus Parks and Public Lands Management Act of 1996, referred to in subsec. (c)(40)(C), is section 603 of Pub. L. 104–333, which is classified as a note under [section 1a–5 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1a-5).
+Section 603 of the Omnibus Parks and Public Lands Management Act of 1996, referred to in subsec. (c)(40)(C), is section 603 of Pub. L. 104–333, div. I, title VI, Nov. 12, 1996, 110 Stat. 1384, which was formerly set out as a note under [section 1a–5 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1a-5).
 
 #### Amendments
 2009—Subsec. (a)(3) to (7). Pub. L. 111–11, § 5301(a)(1)–(5), inserted at end “No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land. The authority of the Federal Government to acquire fee title under this paragraph shall be limited to an average of not more than ¼ mile on either side of the trail.”
@@ -1049,7 +1049,7 @@ Connecting or side trails within park, forest, and other recreation areas admini
 
 **(h) Development and maintenance of national, scenic or historic, trails; cooperation with States over portions located outside of federally administered areas; cooperative agreements; participation of volunteers; reservation of right-of-way for trails in conveyances by Secretary of the Interior**
 
-(1) The Secretary charged with the administration of a national recreation, national scenic, or national historic trail shall provide for the development and maintenance of such trails within federally administered areas and shall cooperate with and encourage the States to operate, develop, and maintain portions of such trails which are located outside the boundaries of federally administered areas. When deemed to be in the public interest, such Secretary may enter written cooperative agreements with the States or their political subdivisions, landowners, private organizations, or individuals to operate, develop, and maintain any portion of such a trail either within or outside a federally administered area. Such agreements may include provisions for limited financial assistance to encourage participation in the acquisition, protection, operation, development, or maintenance of such trails, provisions providing volunteer in the park or volunteer in the forest status (in accordance with the Volunteers in the Parks Act of 1969 [[16 U.S.C. 18g](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-18g) et seq.] and the Volunteers in the Forests Act of 1972 [[16 U.S.C. 558a](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) et seq.]) to individuals, private organizations, or landowners participating in such activities, or provisions of both types. The appropriate Secretary shall also initiate consultations with affected States and their political subdivisions to encourage—
+(1) The Secretary charged with the administration of a national recreation, national scenic, or national historic trail shall provide for the development and maintenance of such trails within federally administered areas and shall cooperate with and encourage the States to operate, develop, and maintain portions of such trails which are located outside the boundaries of federally administered areas. When deemed to be in the public interest, such Secretary may enter written cooperative agreements with the States or their political subdivisions, landowners, private organizations, or individuals to operate, develop, and maintain any portion of such a trail either within or outside a federally administered area. Such agreements may include provisions for limited financial assistance to encourage participation in the acquisition, protection, operation, development, or maintenance of such trails, provisions providing volunteer in the park or volunteer in the forest status (in accordance with [section 102301 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section102301&num=0&edition=prelim) and the Volunteers in the Forests Act of 1972 [[16 U.S.C. 558a](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) et seq.]) to individuals, private organizations, or landowners participating in such activities, or provisions of both types. The appropriate Secretary shall also initiate consultations with affected States and their political subdivisions to encourage—
 
   (A) the development and implementation by such entities of appropriate measures to protect private landowners from trespass resulting from trail use and from unreasonable personal liability and property damage caused by trail use, and
 
@@ -1067,8 +1067,6 @@ Connecting or side trails within park, forest, and other recreation areas admini
 ### Statutory Notes
 
 #### References in Text
-The Volunteers in the Parks Act of 1969, referred to in subsec. (h)(1), is Pub. L. 91–357, July 29, 1970, 84 Stat. 472, which is classified generally to subchapter II (§ 18g et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 18g of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-18g) and Tables.
-
 The Volunteers in the Forests Act of 1972, referred to in subsec. (h)(1), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) and Tables.
 
 Section 6 of Public Law 96–541, referred to in subsec. (k), is section 6 of Pub. L. 96–541, Dec. 17, 1980, 94 Stat. 3206, which amended [section 170 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section170&num=0&edition=prelim), Internal Revenue Code, and enacted and amended provisions set out as notes under [section 170 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section170&num=0&edition=prelim).
@@ -1077,6 +1075,8 @@ Section 6 of Public Law 96–541, referred to in subsec. (k), is section 6 of Pu
 In subsec. (g), “[section 303 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section303&num=0&edition=prelim)” substituted for “section 4(f) of the Department of Transportation Act ([49 U.S.C. 1653(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1653/f&num=0&edition=prelim))” on authority of Pub. L. 97–449, § 6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§ 101 et seq.) of Title 49, Transportation.
 
 #### Amendments
+2014—Subsec. (h)(1). Pub. L. 113–287 substituted “[section 102301 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section102301&num=0&edition=prelim)” for “the Volunteers in the Parks Act of 1969” in introductory provisions.
+
 1983—Subsec. (a). Pub. L. 98–11, § 207(a), designated existing provisions as par. (2), added par. (1), and in par. (2) substituted “shall publish notice of the availability of appropriate maps or descriptions in the Federal Register” for “shall publish notice thereof in the Federal Register, together with appropriate maps and descriptions”.
 
 Subsec. (b). Pub. L. 98–11, § 207(b), inserted “of the availability of appropriate maps or descriptions” after “After publication of notice”, and struck out “together with appropriate maps and descriptions,” after “Federal Register,”.
@@ -1123,7 +1123,7 @@ Enforcement functions of Secretary or other official in Department of the Interi
 
 <a id="section-1247"></a>
 ## § 1247. State and local area recreation and historic trails
-**(a) Secretary of the Interior to encourage States, political subdivisions, and private interests; financial assistance for State and local projects** The Secretary of the Interior is directed to encourage States to consider, in their comprehensive statewide outdoor recreation plans and proposals for financial assistance for State and local projects submitted pursuant to the Land and Water Conservation Fund Act [[16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 et seq.], needs and opportunities for establishing park, forest, and other recreation and historic trails on lands owned or administered by States, and recreation and historic trails on lands in or near urban areas. The Secretary is also directed to encourage States to consider, in their comprehensive statewide historic preservation plans and proposals for financial assistance for State, local, and private projects submitted pursuant to the Act of October 15, 1966 (80 Stat. 915), as amended [[16 U.S.C. 470](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470) et seq.], needs and opportunities for establishing historic trails. He is further directed, in accordance with the authority contained in the Act of May 28, 1963 (77 Stat. 49) [[16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l et seq.], to encourage States, political subdivisions, and private interests, including nonprofit organizations, to establish such trails.
+**(a) Secretary of the Interior to encourage States, political subdivisions, and private interests; financial assistance for State and local projects** The Secretary of the Interior is directed to encourage States to consider, in their comprehensive statewide outdoor recreation plans and proposals for financial assistance for State and local projects submitted pursuant to chapter 2003 of title 54, needs and opportunities for establishing park, forest, and other recreation and historic trails on lands owned or administered by States, and recreation and historic trails on lands in or near urban areas. The Secretary is also directed to encourage States to consider, in their comprehensive statewide historic preservation plans and proposals for financial assistance for State, local, and private projects submitted pursuant to division A of subtitle III of title 54, needs and opportunities for establishing historic trails. He is further directed, in accordance with the authority contained in chapter 2003 of title 54, to encourage States, political subdivisions, and private interests, including nonprofit organizations, to establish such trails.
 
 **(b) Secretary of Housing and Urban Development to encourage metropolitan and other urban areas; administrative and financial assistance in connection with recreation and transportation planning; administration of urban open-space program** The Secretary of Housing and Urban Development is directed, in administering the program of comprehensive urban planning and assistance under section 701 11 See References in Text note below. of the Housing Act of 1954, to encourage the planning of recreation trails in connection with the recreation and transportation planning for metropolitan and other urban areas. He is further directed, in administering the urban open-space program under title VII of the Housing Act of 1961 [[42 U.S.C. 1500](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1500&num=0&edition=prelim) et seq.], to encourage such recreation trails.
 
@@ -1136,12 +1136,6 @@ Enforcement functions of Secretary or other official in Department of the Interi
 ### Statutory Notes
 
 #### References in Text
-The Land and Water Conservation Fund Act, referred to in subsec. (a), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
-
-Act of October 15, 1966, referred to in subsec. (a), is Pub. L. 89–665, as amended, popularly known as the “National Historic Preservation Act” which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see [section 470 of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470) and Tables.
-
-Act of May 28, 1963, referred to in subsec. (a), is Pub. L. 88–29, May 28, 1963, 77 Stat. 49, as amended, which is classified generally to part A (§ 460l et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Tables.
-
 Section 701 of the Housing Act of 1954, referred to in subsec. (b), was classified to section 461 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 97–35, title III, § 313(b), Aug. 13, 1981, 95 Stat. 398.
 
 The Housing Act of 1961, referred to in subsec. (b), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149, as amended. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§ 1500 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim) which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim), Banks and Banking, and Tables.
@@ -1149,6 +1143,10 @@ The Housing Act of 1961, referred to in subsec. (b), is Pub. L. 87–70, June 30
 The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (d), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section801&num=0&edition=prelim), Railroads, and Tables.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–287, § 5(d)(24)(C), which directed substitution of “chapter 2003 of title 54” for “the Act of May 28, 1963 (77 Stat. 49”, was executed by making the substitution for “the Act of May 28, 1963 (77 Stat. 49)” to reflect the probable intent of Congress.
+
+Pub. L. 113–287, § 5(d)(24)(A), (B), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act” and “division A of subtitle III of title 54” for “the Act of October 15, 1966 (80 Stat. 915), as amended”.
+
 1995—Subsec. (d). Pub. L. 104–88 substituted “Chairman of the Surface Transportation Board” for “Chairman of the Interstate Commerce Commission” and “the Board” for “the Commission”.
 
 1983—Subsecs. (d), (e). Pub. L. 98–11, § 208(2), added subsec. (d) and redesignated former subsec. (d) as (e).
@@ -1192,7 +1190,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
   (B) determined by the Secretary, pursuant to the disposal criteria established by section 203 of the Federal Land Policy and Management Act of 1976 [[43 U.S.C. 1713](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1713&num=0&edition=prelim)], to be suitable for sale.
   Prior to conducting any such sale, the Secretary shall take appropriate steps to afford a unit of State or local government or any other entity an opportunity to seek to obtain such portion pursuant to paragraph (1) of this subsection.
 
-(3) All proceeds from sales of such retained rights of way shall be deposited into the Treasury of the United States and credited to the Land and Water Conservation Fund as provided in section 460l–5 of this title.
+(3) All proceeds from sales of such retained rights of way shall be deposited into the Treasury of the United States and credited to the Land and Water Conservation Fund as provided in [section 200302 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200302&num=0&edition=prelim).
 
 (4) The Secretary of the Interior shall annually report to the Congress the total proceeds from sales under paragraph (2) during the preceding fiscal year. Such report shall be included in the President’s annual budget submitted to the Congress.
 
@@ -1210,6 +1208,8 @@ The Federal Land Policy and Management Act of 1976, referred to in subsecs. (d)(
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (f)(1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 #### Amendments
+2014—Subsec. (e)(3). Pub. L. 113–287 substituted “[section 200302 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200302&num=0&edition=prelim)” for “section 460l–5 of this title”.
+
 1995—Subsec. (b). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
 
 1988—Subsecs. (c) to (f). Pub. L. 100–470 added subsecs. (c) to (f).
@@ -1235,11 +1235,11 @@ Pub. L. 100–470, § 5, Oct. 4, 1988, 102 Stat. 2283, provided that: “(a) Not
 ## § 1249. Authorization of appropriations
 **(a) Appalachian and Pacific Crest National Scenic Trails**
 
-(1) There are hereby authorized to be appropriated for the acquisition of lands or interests in lands not more than $5,000,000 for the Appalachian National Scenic Trail and not more than $500,000 for the Pacific Crest National Scenic Trail. From the appropriations authorized for fiscal year 1979 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act (78 Stat. 897), as amended [[16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 et seq.], not more than the following amounts may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this chapter: for the Appalachian National Scenic Trail, not to exceed $30,000,000 for fiscal year 1979, $30,000,000 for fiscal year 1980, and $30,000,000 for fiscal year 1981, except that the difference between the foregoing amounts and the actual appropriations in any one fiscal year shall be available for appropriation in subsequent fiscal years.
+(1) There are hereby authorized to be appropriated for the acquisition of lands or interests in lands not more than $5,000,000 for the Appalachian National Scenic Trail and not more than $500,000 for the Pacific Crest National Scenic Trail. From the appropriations authorized for fiscal year 1979 and succeeding fiscal years pursuant to chapter 2003 of title 54, not more than the following amounts may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this chapter: for the Appalachian National Scenic Trail, not to exceed $30,000,000 for fiscal year 1979, $30,000,000 for fiscal year 1980, and $30,000,000 for fiscal year 1981, except that the difference between the foregoing amounts and the actual appropriations in any one fiscal year shall be available for appropriation in subsequent fiscal years.
 
 (2) It is the express intent of the Congress that the Secretary should substantially complete the land acquisition program necessary to insure the protection of the Appalachian Trail within three complete fiscal years following March 21, 1978.
 
-**(b) Land deemed to qualify for funding** For the purposes of Public Law 95–42 (91 Stat. 211), the lands and interests therein acquired pursuant to this section shall be deemed to qualify for funding under the provisions of section 1, clause 2, of said Act [[16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–7].
+**(b) Land deemed to qualify for funding** For the purposes of Public Law 95–42 (91 Stat. 211), the lands and interests therein acquired pursuant to this section shall be deemed to qualify for funding under the provisions of section 1, clause 2, of said Act.
 
 **(c) Authorization of appropriations**
 
@@ -1258,11 +1258,11 @@ Pub. L. 100–470, § 5, Oct. 4, 1988, 102 Stat. 2283, provided that: “(a) Not
 ### Statutory Notes
 
 #### References in Text
-The Land and Water Conservation Fund Act (78 Stat. 897), as amended, referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
-
-Public Law 95–42 (91 Stat. 211), referred to in subsec. (b), is Pub. L. 95–42, June 10, 1977, 91 Stat. 210, which, to the extent classified to the Code, amended sections 460l–5, 460l–7, and 460l–9 of this title. Section 1, clause 2 of said Act amended section 460l–7 of this title. For complete classification of this Act to the Code, see Tables.
+Public Law 95–42 (91 Stat. 211), referred to in subsec. (b), is Pub. L. 95–42, June 10, 1977, 91 Stat. 210, which, to the extent classified to the Code, amended former sections 460l–5, 460l–7, and 460l–9 of this title. Section 1, clause 2 of said Act amended former section 460l–7 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act (78 Stat. 897), as amended”.
+
 2009—Subsec. (c). Pub. L. 111–11 added subsec. (c) and struck out former subsec. (c) which appropriated such sums as necessary to implement the provisions of this chapter relating to the trails designated by [section 1244(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1244/a&num=0&edition=prelim).
 
 2004—Subsec. (c)(1). Pub. L. 108–352 substituted “the Ice Age” for “The Ice Age”.
@@ -1312,7 +1312,7 @@ Pub. L. 96–370, § 2, Oct. 3, 1980, 94 Stat. 1360, provided that: “Authoriza
 
 (1) In addition to the cooperative agreement and other authorities contained in this chapter, the Secretary of the Interior, the Secretary of Agriculture, and the head of any Federal agency administering Federal lands, are authorized to encourage volunteers and volunteer organizations to plan, develop, maintain, and manage, where appropriate, trails throughout the Nation.
 
-(2) Wherever appropriate in furtherance of the purposes of this chapter, the Secretaries are authorized and encouraged to utilize the Volunteers in the Parks Act of 1969 [[16 U.S.C. 18g](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-18g) et seq.], the Volunteers in the Forests Act of 1972 [[16 U.S.C. 558a](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) et seq.], and section 460l–8 of this title (relating to the development of Statewide Comprehensive Outdoor Recreation Plans).
+(2) Wherever appropriate in furtherance of the purposes of this chapter, the Secretaries are authorized and encouraged to utilize [section 102301 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section102301&num=0&edition=prelim), the Volunteers in the Forests Act of 1972 [[16 U.S.C. 558a](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) et seq.], and 200305 11 So in original. Probably should be preceded by “section”. of title 54 (relating to the development of Statewide Comprehensive Outdoor Recreation Plans).
 
 **(b) Scope of volunteer work** Each Secretary or the head of any Federal land managing agency may assist volunteers and volunteer organizations in planning, developing, maintaining, and managing trails. Volunteer work may include, but need not be limited to—
 
@@ -1325,9 +1325,10 @@ Pub. L. 96–370, § 2, Oct. 3, 1980, 94 Stat. 1360, provided that: “Authoriza
 ### Statutory Notes
 
 #### References in Text
-The Volunteers in the Parks Act of 1969, referred to in subsec. (a)(2), is Pub. L. 91–357, July 29, 1970, 84 Stat. 472, as amended, which is classified generally to subchapter II (§ 18g et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 18g of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-18g) and Tables.
-
 The Volunteers in the Forests Act of 1972, referred to in subsec. (a)(2), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) and Tables.
+
+#### Amendments
+2014—Subsec. (a)(2). Pub. L. 113–287 substituted “[section 102301 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section102301&num=0&edition=prelim)” for “the Volunteers in the Parks Act of 1969” and “200305 of title 54” for “section 460l–8 of this title”.
 
 
 <a id="section-1251"></a>
@@ -1341,12 +1342,12 @@ As used in this chapter:
 
 (3) The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possession of the United States.
 
-(4) The term “without expense to the United States” means that no funds may be expended by Federal agencies for the development of trail related facilities or for the acquisition of lands or interests in lands outside the exterior boundaries of Federal areas. For the purposes of the preceding sentence, amounts made available to any State or political subdivision under the Land and Water Conservation Fund Act of 1965 [[16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 et seq.] or any other provision of law shall not be treated as an expense to the United States.
+(4) The term “without expense to the United States” means that no funds may be expended by Federal agencies for the development of trail related facilities or for the acquisition of lands or interests in lands outside the exterior boundaries of Federal areas. For the purposes of the preceding sentence, amounts made available to any State or political subdivision under chapter 2003 of title 54 or any other provision of law shall not be treated as an expense to the United States.
 
 ### Statutory Notes
 
-#### References in Text
-The Land and Water Conservation Fund Act of 1965, referred to in par. (4), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
+#### Amendments
+2014—Par. (4). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965”.
 
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.

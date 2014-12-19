@@ -10,39 +10,6 @@ source: >-
 ## § 81. Alabama
 
 Alabama is divided into three judicial districts to be known as the Northern, Middle, and Southern Districts of Alabama.
-Northern District
-
-**(a)** The Northern District comprises seven divisions.
-
-(1) The Northwestern Division comprises the counties of Colbert, Franklin, and Lauderdale.Court for the Northwestern Division shall be held at Florence.
-
-(2) The Northeastern Division comprises the counties of Cullman, Jackson, Lawrence, Limestone, Madison, and Morgan.Court for the Northeastern Division shall be held at Huntsville and Decatur.
-
-(3) The Southern Division comprises the counties of Blount, Jefferson, and Shelby.Court for the Southern Division shall be held at Birmingham.
-
-(4) The Eastern Division comprises the counties of Calhoun, Clay, Cleburne, and Talladega.Court for the Eastern Division shall be held at Anniston.
-
-(5) The Western Division comprises the counties of Bibb, Greene, Pickens, Sumter, and Tuscaloosa.Court for the Western Division shall be held at Tuscaloosa.
-
-(6) The Middle Division comprises the counties of Cherokee, De Kalb, Etowah, Marshall, and Saint Clair.Court for the Middle Division shall be held at Gadsden.
-
-(7) The Jasper Division comprises the counties of Fayette, Lamar, Marion, Walker, and Winston.Court for the Jasper Division shall be held at Jasper.
-Middle District
-
-**(b)** The Middle District comprises three divisions.
-
-(1) The Northern Division comprises the counties of Autauga, Barbour, Bullock, Butler, Chilton, Coosa, Covington, Crenshaw, Elmore, Lowndes, Montgomery, and Pike.Court for the Northern Division shall be held at Montgomery.
-
-(2) The Southern Division comprises the counties of Coffee, Dale, Geneva, Henry, and Houston.Court for the Southern Division shall be held at Dothan.
-
-(3) The Eastern Division comprises the counties of Chambers, Lee, Macon, Randolph, Russell, and Tallapoosa.Court for the Eastern Division shall be held at Opelika.
-Southern District
-
-**(c)** The Southern District comprises two divisions.
-
-(1) The Northern Division comprises the counties of Dallas, Hale, Marengo, Perry, and Wilcox.Court for the Northern Division shall be held at Selma.
-
-(2) The Southern Division comprises the counties of Baldwin, Choctaw, Clarke, Conecuh, Escambia, Mobile, Monroe, and Washington.Court for the Southern Division shall be held at Mobile.
 
 ### Statutory Notes
 
@@ -138,34 +105,6 @@ Changes in arrangement and phraseology were made.
 ## § 83. Arkansas
 
 Arkansas is divided into two judicial districts to be known as the Eastern and Western Districts of Arkansas.
-Eastern District
-
-**(a)** The Eastern District comprises five divisions.
-
-(1) The Eastern Division comprises the counties of Cross, Lee, Monroe, Phillips, Saint Francis, and Woodruff.Court for the Eastern Division shall be held at Helena.
-
-(2) The Western Division comprises the counties of Conway, Faulkner, Lonoke, Perry, Pope, Prairie, Pulaski, Saline, Van Buren, White, and Yell.Court for the Western Division shall be held at Little Rock.
-
-(3) The Pine Bluff Division comprises the counties of Arkansas, Chicot, Cleveland, Dallas, Desha, Drew, Grant, Jefferson, and Lincoln.Court for the Pine Bluff Division shall be held at Pine Bluff.
-
-(4) The Northern Division comprises the counties of Cleburne, Fulton, Independence, Izard, Jackson, Sharp, and Stone.Court for the Northern Division shall be held at Batesville.
-
-(5) The Jonesboro Division comprises the counties of Clay, Craighead, Crittenden, Greene, Lawrence, Mississippi, Poinsett, and Randolph.Court for the Jonesboro Division shall be held at Jonesboro.
-Western District
-
-**(b)** The Western District comprises six divisions.
-
-(1) The Texarkana Division comprises the counties of Hempstead, Howard, Lafayette, Little River, Miller, Nevada, and Sevier.Court for the Texarkana Division shall be held at Texarkana, and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas.
-
-(2) The El Dorado Division comprises the counties of Ashley, Bradley, Calhoun, Columbia, Ouachita, and Union.Court for the El Dorado Division shall be held at El Dorado.
-
-(3) The Fort Smith Division comprises the counties of Crawford, Franklin, Johnson, Logan, Polk, Scott, and Sebastian.Court for the Fort Smith Division shall be held at Fort Smith.
-
-(4) The Harrison Division comprises the counties of Baxter, Boone, Carroll, Marion, Newton, and Searcy.Court for the Harrison Division shall be held at Harrison.
-
-(5) The Fayetteville Division comprises the counties of Benton, Madison, and Washington.Court for the Fayetteville Division shall be held at Fayetteville.
-
-(6) The Hot Springs Division comprises the counties of Clark, Garland, Hot Springs, Montgomery, and Pike.Court for the Hot Springs Division shall be held at Hot Springs.
 
 ### Statutory Notes
 
@@ -192,22 +131,6 @@ Changes in arrangement and phraseology were made.
 ## § 84. California
 
 California is divided into four judicial districts to be known as the Northern, Eastern, Central, and Southern Districts of California.
-Northern District
-
-**(a)** The Northern District comprises the counties of Alameda, Contra Costa, Del Norte, Humboldt, Lake, Marin, Mendocino, Monterey, Napa, San Benito, Santa Clara, Santa Cruz, San Francisco, San Mateo, and Sonoma.Court for the Northern District shall be held at Eureka, Oakland, San Francisco, and San Jose. Eastern District
-
-**(b)** The Eastern District comprises the counties of Alpine, Amador, Butte, Calaveras, Colusa, El Dorado, Fresno, Glenn, Inyo, Kern, Kings, Lassen, Madera, Mariposa, Merced, Modoc, Mono, Nevada, Placer, Plumas, Sacramento, San Joaquin, Shasta, Sierra, Siskiyou, Solano, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Yolo, and Yuba.Court for the Eastern District shall be held at Fresno, Redding, and Sacramento. Central District
-
-**(c)** The Central District comprises 3 divisions.
-
-(1) The Eastern Division comprises the counties of Riverside and San Bernardino.Court for the Eastern Division shall be held at a suitable site in the city of Riverside, the city of San Bernardino, or not more than 5 miles from the boundary of either such city.
-
-(2) The Western Division comprises the counties of Los Angeles, San Luis Obispo, Santa Barbara, and Ventura.Court for the Western Division shall be held at Los Angeles.
-
-(3) The Southern Division comprises Orange County.Court for the Southern Division shall be held at Santa Ana.
-Southern District
-
-**(d)** The Southern District comprises the counties of Imperial and San Diego.Court for the Southern District shall be held at San Diego.
 
 ### Statutory Notes
 
@@ -219,6 +142,8 @@ A provision relating to the place for maintenance of a clerk’s office, and req
 Changes in arrangement and phraseology were made.
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–235 inserted “Bakersfield,” after “shall be held at”.
+
 1992—Subsec. (c). Pub. L. 102–357 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Central District comprises the counties of Los Angeles, Orange, Riverside, San Bernardino, San Luis Obispo, Santa Barbara, and Ventura.
 
 “Court for the Central District shall be held at Los Angeles and Santa Ana.”
@@ -325,13 +250,6 @@ It is consonant with the ruling of the Supreme Court in O’Donoghue v. United S
 ## § 89. Florida
 
 Florida is divided into three judicial districts to be known as the Northern, Middle, and Southern Districts of Florida.
-Northern District
-
-**(a)** The Northern District comprises the counties of Alachua, Bay, Calhoun, Dixie, Escambia, Franklin, Gadsden, Gilchrist, Gulf, Holmes, Jackson, Jefferson, Lafayette, Leon, Levy, Liberty, Madison, Okaloosa, Santa Rosa, Taylor, Wakulla, Walton, and Washington.Court for the Northern District shall be held at Gainesville, Marianna, Panama City, Pensacola, and Tallahassee. Middle District
-
-**(b)** The Middle District comprises the counties of Baker, Bradford, Brevard, Charlotte, Citrus, Clay, Collier, Columbia, De Soto, Duval, Flagler, Glades, Hamilton, Hardee, Hendry, Hernando, Hillsborough, Lake, Lee, Manatee, Marion, Nassau, Orange, Osceola, Pasco, Pinellas, Polk, Putnam, St. Johns, Sarasota, Seminole, Sumter, Suwannee, Union, and Volusia.Court for the Middle District shall be held at Fernandina, Fort Myers, Jacksonville, Live Oak, Ocala, Orlando, Saint Petersburg, and Tampa. Southern District
-
-**(c)** The Southern District comprises the counties of Broward, Dade, Highlands, Indian River, Martin, Monroe, Okeechobee, Palm Beach, and St. Lucie.Court for the Southern District shall be held at Fort Lauderdale, Fort Pierce, Key West, Miami, and West Palm Beach.
 
 ### Statutory Notes
 
@@ -385,49 +303,6 @@ District judgeship for northern, middle, and southern districts changed to distr
 ## § 90. Georgia
 
 Georgia is divided into three judicial districts to be known as the Northern, Middle, and Southern Districts of Georgia.
-Northern District
-
-**(a)** The Northern District comprises four divisions.
-
-(1) The Gainesville Division comprises the counties of Banks, Barrow, Dawson, Fannin, Forsyth, Gilmer, Habersham, Hall, Jackson, Lumpkin, Pickens, Rabun, Stephens, Towns, Union, and White.Court for the Gainesville Division shall be held at Gainesville.
-
-(2) The Atlanta Division comprises the counties of Cherokee, Clayton, Cobb, De Kalb, Douglas, Fulton, Gwinnett, Henry, Newton, and Rockdale.Court for the Atlanta Division shall be held at Atlanta.
-
-(3) The Rome Division comprises the counties of Bartow, Catoosa, Chattooga, Dade, Floyd, Gordon, Murray, Paulding, Polk, Walker, and Whitfield.Court for the Rome Division shall be held at Rome.
-
-(4) The Newnan Division comprises the counties of Carroll, Coweta, Fayette, Haralson, Heard, Meriwether, Pike, Spalding, and Troup.Court for the Newnan Division shall be held at Newnan.
-Middle District
-
-**(b)** The Middle District comprises seven divisions.
-
-(1) The Athens Division comprises the counties of Clarke, Elbert, Franklin, Greene, Hart, Madison, Morgan, Oconee, Oglethorpe, and Walton.Court for the Athens Division shall be held at Athens.
-
-(2) The Macon Division comprises the counties of Baldwin, Bibb, Bleckley, Butts, Crawford, Hancock, Houston, Jasper, Jones, Lamar, Monroe, Peach, Pulaski, Putnam, Twiggs, Upson, Washington, and Wilkinson.Court for the Macon Division shall be held at Macon.
-
-(3) The Columbus Division comprises the counties of Chattahoochee, Clay, Harris, Marion, Muscogee, Quitman, Randolph, Stewart, Talbot, and Taylor.Court for the Columbus Division shall be held at Columbus.
-
-(4) The Americus Division comprises the counties of Ben Hill, Crisp, Dooly, Lee, Macon, Schley, Sumter, Terrell, Webster, and Wilcox.Court for the Americus Division shall be held at Americus.
-
-(5) The Albany Division comprises the counties of Baker, Calhoun, Dougherty, Early, Miller, Mitchell, Turner, and Worth.Court for the Albany Division shall be held at Albany.
-
-(6) The Valdosta Division comprises the counties of Berrien, Clinch, Cook, Echols, Irwin, Lanier, Lowndes, and Tift.Court for the Valdosta Division shall be held at Valdosta.
-
-(7) The Thomasville Division comprises the counties of Brooks, Colquitt, Decatur, Grady, Seminole, and Thomas.Court for the Thomasville Division shall be held at Thomasville.
-Southern District
-
-**(c)** The Southern District comprises six divisions.
-
-(1) The Augusta Division comprises the Counties of Burke, Columbia, Glascock, Jefferson, Lincoln, McDuffie, Richmond, Taliaferro, Warren, and Wilkes.Court for the Augusta Division shall be held at Augusta.
-
-(2) The Dublin Division comprises the counties of Dodge, Johnson, Laurens, Montgomery, Telfair, Treutlen, and Wheeler.Court for the Dublin Division shall be held at Dublin.
-
-(3) The Savannah Division comprises the counties of Bryan, Chatham, Effingham, and Liberty.Court for the Savannah Division shall be held at Savannah.
-
-(4) The Waycross Division comprises the counties of Atkinson, Bacon, Brantley, Charlton, Coffee, Pierce, and Ware.Court for the Waycross Division shall be held at Waycross.
-
-(5) The Brunswick Division comprises the counties of Appling, Camden, Glynn, Jeff Davis, Long, McIntosh, and Wayne.Court for the Brunswick Division shall be held at Brunswick.
-
-(6) The Statesboro Division comprises the counties of Bulloch, Candler, Emanuel, Evans, Jenkins, Screven, Tattnall, and Toombs.Court for the Statesboro Division shall be held at Statesboro.
 
 ### Statutory Notes
 
@@ -545,19 +420,6 @@ Changes in arrangement and phraseology were made.
 ## § 93. Illinois
 
 Illinois is divided into three judicial districts to be known as the Northern, Central, and Southern Districts of Illinois.
-Northern District
-
-**(a)** The Northern District comprises two divisions.
-
-(1) The Eastern Division comprises the counties of Cook, Du Page, Grundy, Kane, Kendall, Lake, La Salle, and Will.Court for the Eastern Division shall be held at Chicago and Wheaton.
-
-(2) The Western Division comprises the counties of Boone, Carroll, De Kalb, Jo Daviess, Lee, McHenry, Ogle, Stephenson, Whiteside, and Winnebago.Court for the Western Division shall be held at Freeport and Rockford.
-Central District
-
-(b) The Central District comprises the counties of Adams, Brown, Bureau, Cass, Champaign, Christian, Coles, De Witt, Douglas, Edgar, Ford, Fulton, Greene, Hancock, Henderson, Henry, Iroquois, Kankakee, Knox, Livingston, Logan, McDonough, McLean, Macoupin, Macon, Marshall, Mason, Menard, Mercer, Montgomery, Morgan, Moultrie, Peoria, Piatt, Pike, Putnam, Rock Island, Sangamon, Schuyler, Scott, Shelby, Stark, Tazewell, Vermilion, Warren, and Woodford.Court for the Central District shall be held at Champaign/Urbana, Danville, Peoria, Quincy, Rock Island, and Springfield.
-Southern District
-
-(c) The Southern District comprises the counties of Alexander, Bond, Calhoun, Clark, Clay, Clinton, Crawford, Cumberland, Edwards, Effingham, Fayette, Franklin, Gallatin, Hamilton, Hardin, Jackson, Jasper, Jefferson, Jersey, Johnson, Lawrence, Madison, Marion, Massac, Monroe, Perry, Pope, Pulaski, Randolph, Richland, St. Clair, Saline, Union, Wabash, Washington, Wayne, White, and Williamson.Court for the Southern District shall be held at Alton, Benton, Cairo, and East Saint Louis.
 
 ### Statutory Notes
 
@@ -614,26 +476,6 @@ Pub. L. 95–408, § 4(b)(2)–(4), as added by Pub. L. 96–4, § 1, Mar. 30, 1
 ## § 94. Indiana
 
 Indiana is divided into two judicial districts to be known as the Northern and Southern Districts of Indiana.
-Northern District
-
-**(a)** The Northern District comprises three divisions.
-
-(1) The Fort Wayne Division comprises the counties of Adams, Allen, Blackford, De Kalb, Grant, Huntington, Jay, Lagrange, Noble, Steuben, Wells, and Whitley.Court for the Fort Wayne Division shall be held at Fort Wayne.
-
-(2) The South Bend Division comprises the counties of Cass, Elkhart, Fulton, Kosciusko, La Porte, Marshall, Miami, Pulaski, St. Joseph, Starke, and Wabash.Court for the South Bend Division shall be held at South Bend.
-
-(3) The Hammond Division comprises the counties of Benton, Carroll, Jasper, Lake, Newton, Porter, Tippecanoe, Warren, and White.Court for the Hammond Division shall be held at Hammond and Lafayette.
-Southern District
-
-**(b)** The Southern District comprises four divisions.
-
-(1) The Indianapolis Division comprises the counties of Bartholomew, Boone, Brown, Clinton, Decatur, Delaware, Fayette, Fountain, Franklin, Hamilton, Hancock, Hendricks, Henry, Howard, Johnson, Madison, Marion, Monroe, Montgomery, Morgan, Randolph, Rush, Shelby, Tipton, Union, and Wayne.Court for the Indianapolis Division shall be held at Indianapolis and Richmond.
-
-(2) The Terre Haute Division comprises the counties of Clay, Greene, Knox, Owen, Parke, Putnam, Sullivan, Vermilion, and Vigo.Court for the Terre Haute Division shall be held at Terre Haute.
-
-(3) The Evansville Division comprises the counties of Davies, Dubois, Gibson, Martin, Perry, Pike, Posey, Spencer, Vanderburgh, and Warrick.Court for the Evansville Division shall be held at Evansville.
-
-(4) The New Albany Division comprises the counties of Clark, Crawford, Dearborn, Floyd, Harrison, Jackson, Jefferson, Jennings, Lawrence, Ohio, Orange, Ripley, Scott, Switzerland, and Washington.Court for the New Albany Division shall be held at New Albany.
 
 ### Statutory Notes
 
@@ -666,32 +508,6 @@ Changes in arrangement and phraseology were made.
 ## § 95. Iowa
 
 Iowa is divided into two judicial districts to be known as the Northern and Southern Districts of Iowa.
-Northern District
-
-**(a)** The Northern District comprises four divisions.
-
-(1) The Cedar Rapids Division comprises the counties of Benton, Cedar, Grundy, Hardin, Iowa, Jones, Linn, and Tama.Court for the Cedar Rapids Division shall be held at Cedar Rapids.
-
-(2) The Eastern Division comprises the counties of Allamakee, Black Hawk, Bremer, Buchanan, Chickasaw, Clayton, Delaware, Dubuque, Fayette, Floyd, Howard, Jackson, Mitchell, and Winneshiek.Court for the Eastern Division shall be held at Dubuque and Waterloo.
-
-(3) The Western Division comprises the counties of Buena Vista, Cherokee, Clay, Crawford, Dickinson, Ida, Lyon, Monona, O’Brien, Osceola, Plymouth, Sac, Sioux, and Woodbury.Court for the Western Division shall be held at Sioux City.
-
-(4) The Central Division comprises the counties of Butler, Calhoun, Carroll, Cerro Gordo, Emmet, Franklin, Hamilton, Hancock, Humboldt, Kossuth, Palo Alto, Pocahontas, Webster, Winnebago, Worth, and Wright.Court for the Central Division shall be held at Fort Dodge and Mason City.
-Southern District
-
-**(b)** The Southern District comprises six divisions.
-
-(1) The Central Division comprises the counties of Boone, Dallas, Greene, Guthrie, Jasper, Madison, Marion, Marshall, Polk, Poweshiek, Story, and Warren.Court for the Central Division shall be held at Des Moines.
-
-(2) The Eastern Division comprises the counties of Des Moines, Henry, Lee, Louisa, and Van Buren.Court for the Eastern Division shall be held at Keokuk.
-
-(3) The Western Division comprises the counties of Audubon, Cass, Fremont, Harrison, Mills, Montgomery, Page, Pottawattamie, and Shelby.Court for the Western Division shall be held at Council Bluffs.
-
-(4) The Southern Division comprises the counties of Adair, Adams, Clarke, Decatur, Lucas, Ringgold, Taylor, Union, and Wayne.Court for the Southern Division shall be held at Creston.
-
-(5) The Davenport Division comprises the counties of Clinton, Johnson, Muscatine, Scott, and Washington.Court for the Davenport Division shall be held at Davenport.
-
-(6) The Ottumwa Division comprises the counties of Appanoose, Davis, Jefferson, Keokuk, Mahaska, Monroe, and Wapello.Court for the Ottumwa Division shall be held at Ottumwa.
 
 ### Statutory Notes
 
@@ -747,11 +563,6 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 ## § 97. Kentucky
 
 Kentucky is divided into two judicial districts to be known as the Eastern and Western Districts of Kentucky.
-Eastern District
-
-**(a)** The Eastern District comprises the counties of Anderson, Bath, Bell, Boone, Bourbon, Boyd, Boyle, Bracken, Breathitt, Campbell, Carroll, Carter, Clark, Clay, Elliott, Estill, Fayette, Fleming, Floyd, Franklin, Gallatin, Garrard, Grant, Greenup, Harlan, Harrison, Henry, Jackson, Jessamine, Johnson, Kenton, Knott, Knox, Laurel, Lawrence, Lee, Leslie, Letcher, Lewis, Lincoln, McCreary, Madison, Magoffin, Martin, Mason, Menifee, Mercer, Montgomery, Morgan, Nicholas, Owen, Owsley, Pendleton, Perry, Pike, Powell, Pulaski, Robertson, Rockcastle, Rowan, Scott, Shelby, Trimble, Wayne, Whitley, Wolfe, and Woodford.Court for the Eastern District shall be held at Ashland, Catlettsburg, Covington, Frankfort, Jackson, Lexington, London, Pikeville, and Richmond. Western District
-
-**(b)** The Western District comprises the counties of Adair, Allen, Ballard, Barren, Breckenridge, Bullitt, Butler, Caldwell, Calloway, Carlisle, Casey, Christian, Clinton, Crittenden, Cumberland, Daviess, Edmonson, Fulton, Graves, Grayson, Green, Hancock, Hardin, Hart, Henderson, Hickman, Hopkins, Jefferson, Larue, Livingston, Logan, Lyon, McCracken, McLean, Marion, Marshall, Meade, Metcalfe, Monroe, Muhlenberg, Nelson, Ohio, Oldham, Russell, Simpson, Spencer, Taylor, Todd, Trigg, Union, Warren, Washington, and Webster.Court for the Western District shall be held at Bowling Green, Louisville, Owensboro, and Paducah.
 
 ### Statutory Notes
 
@@ -781,13 +592,6 @@ Amendment by Pub. L. 95–408 effective 180 days after Oct. 2, 1978, with such a
 ## § 98. Louisiana
 
 Louisiana is divided into three judicial districts to be known as the Eastern, Middle, and Western Districts of Louisiana.
-Eastern District
-
-**(a)** The Eastern District comprises the parishes of Assumption, Jefferson, Lafourche, Orleans, Plaquemines, Saint Bernard, Saint Charles, Saint James, Saint John the Baptist, Saint Tammany, Tangipahoa, Terrebonne, and Washington.Court for the Eastern District shall be held at New Orleans, and Houma. Middle District
-
-**(b)** The Middle District comprises the parishes of Ascension, East Baton Rouge, East Feliciana, Iberville, Livingston, Pointe Coupee, Saint Helena, West Baton Rouge, and West Feliciana.Court for the Middle District shall be held at Baton Rouge. Western District
-
-**(c)** The Western District comprises the parishes of Acadia, Allen, Avoyelles, Beauregard, Bienville, Bossier, Caddo, Calcasieu, Caldwell, Cameron, Catahoula, Claiborne, Concordia, Jefferson Davis, De Soto, East Carroll, Evangeline, Franklin, Grant, Iberia, Jackson, Lafayette, La Salle, Lincoln, Madison, Morehouse, Natchitoches, Ouachita, Rapides, Red River, Richland, Sabine, Saint Landry, Saint Martin, Saint Mary, Tensas, Union, Vermilion, Vernon, Webster, West Carroll, and Winn.Court for the Western District shall be held at Alexandria, Lafayette, Lake Charles, Monroe, Opelousas, and Shreveport.
 
 ### Statutory Notes
 
@@ -894,20 +698,6 @@ Changes in arrangement and phraseology were made.
 ## § 102. Michigan
 
 Michigan is divided into two judicial districts to be known as the Eastern and Western Districts of Michigan.
-Eastern District
-
-**(a)** The Eastern District comprises two divisions.
-
-(1) The Southern Division comprises the counties of Genesee, Jackson, Lapeer, Lenawee, Livingston, Macomb, Monroe, Oakland, Saint Clair, Sanilac, Shiawassee, Washtenaw, and Wayne.Court for the Southern Division shall be held at Ann Arbor, Detroit, Flint, and Port Huron.
-
-(2) The Northern Division comprises the counties of Alcona, Alpena, Arenac, Bay, Cheboygan, Clare, Crawford, Gladwin, Gratiot, Huron, Iosco, Isabella, Midland, Montmorency, Ogemaw, Oscoda, Otsego, Presque Isle, Roscommon, Saginaw, and Tuscola.Court for the Northern Division shall be held at Bay City.
-Western District
-
-**(b)** The Western District comprises two divisions.
-
-(1) The Southern Division comprises the counties of Allegan, Antrim, Barry, Benzie, Berrien, Branch, Calhoun, Cass, Charlevoix, Clinton, Eaton, Emmet, Grand Traverse, Hillsdale, Ingham, Ionia, Kalamazoo, Kalkaska, Kent, Lake, Leelanau, Manistee, Mason, Mecosta, Missaukee, Montcalm, Muskegon, Newaygo, Oceana, Osceola, Ottawa, Saint Joseph, Van Buren, and Wexford.Court for the Southern Division shall be held at Grand Rapids, Kalamazoo, Lansing, and Traverse City.
-
-(2) The Northern Division comprises the counties of Alger, Baraga, Chippewa, Delta, Dickinson, Gogebic, Houghton, Iron, Keweenaw, Luce, Mackinac, Marquette, Menominee, Ontonagon, and Schoolcraft.Court for the Northern Division shall be held at Marquette and Sault Sainte Marie.
 
 ### Statutory Notes
 
@@ -974,28 +764,6 @@ Changes in arrangement and phraseology were made.
 ## § 104. Mississippi
 
 Mississippi is divided into two judicial districts to be known as the northern and southern districts of Mississippi.
-Northern District
-
-**(a)** The northern district comprises three divisions.
-
-(1) The Aberdeen Division comprises the counties of Alcorn, Chickasaw, Choctaw, Clay, Itawamba, Lee, Lowndes, Monroe, Oktibbeha, Prentiss, Tishomingo, Webster, and Winston.Court for the Aberdeen Division shall be held at Aberdeen, Ackerman, and Corinth.
-
-(2) The Oxford Division comprises the counties of Benton, Calhoun, DeSoto, Lafayette, Marshall, Panola, Pontotoc, Quitman, Tallahatchie, Tate, Tippah, Tunica, Union, and Yalobusha.Court for the Oxford Division shall be held at Oxford.
-
-(3) The Greenville Division comprises the counties of Attala, Bolivar, Carroll, Coahoma, Grenada, Humphreys, Leflore, Montgomery, Sunflower, and Washington.Court for the Greenville Division shall be held at Clarksdale, Cleveland, and Greenville.
-Southern District
-
-**(b)** The southern district comprises five divisions.
-
-(1) The Jackson division comprises the counties of Amite, Copiah, Franklin, Hinds, Holmes, Leake, Lincoln, Madison, Pike, Rankin, Scott, Simpson, and Smith.Court for the Jackson division shall be held at Jackson.
-
-(2) The eastern division comprises the counties of Clarke, Jasper, Kemper, Lauderdale, Neshoba, Newton, Noxubee, and Wayne.Court for the eastern division shall be held at Meridian.
-
-(3) The western division comprises the counties of Adams, Claiborne, Issaquena, Jefferson, Sharkey, Warren, Wilkinson, and Yazoo.Court for the western division shall be held at Natchez and Vicksburg.
-
-(4) The southern division comprises the counties of George, Hancock, Harrison, Jackson, Pearl River, and Stone.Court for the southern division shall be held at Biloxi and Gulfport.
-
-(5) The Hattiesburg division comprises the counties of Covington, Forrest, Greene, Jefferson Davis, Jones, Lamar, Lawrence, Marion, Perry, and Walthall.Court for the Hattiesburg division shall be held at Hattiesburg.
 
 ### Statutory Notes
 
@@ -1007,6 +775,8 @@ Provisions relating to the maintenance of offices by the clerks and marshals wer
 Changes in arrangement and phraseology were made.
 
 #### Amendments
+2013—Subsec. (b). Pub. L. 113–61 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to southern judicial district of Mississippi comprising five divisions and provided for holding court in those divisions.
+
 2012—Subsec. (a). Pub. L. 112–188 added subsec. (a) and struck out former subsec. (a) which related to northern judicial district of Mississippi comprising four divisions and provided for holding court in those divisions.
 
 2004—Subsec. (a)(3). Pub. L. 108–455 inserted “and Cleveland” after “Clarksdale”.
@@ -1023,6 +793,9 @@ Subsec. (b)(4). Pub. L. 91–546, § 2, provided for holding court at Gulfport.
 
 1950—Act Aug. 7, 1950, created Greenville division in the northern district with terms of courts to be held at Greenville.
 
+#### Effective Date of 2013 Amendment
+Pub. L. 113–61, § 2, Dec. 20, 2013, 127 Stat. 665, provided that: “This Act [amending this section] and the amendment made by this Act shall take effect on the date of the enactment of this Act [Dec. 20, 2013].”
+
 #### Effective Date of 2012 Amendment
 Pub. L. 112–188, § 4, Oct. 5, 2012, 126 Stat. 1434, provided that: “The amendments made by this Act [amending this section and [section 105 of this title](./chapter-005-district-courts.md#section-105)] take effect on the 60th day after the date of the enactment of this Act [Oct. 5, 2012].”
 
@@ -1034,28 +807,6 @@ Amendment by Pub. L. 95–408 effective 180 days after Oct. 2, 1978, with such a
 ## § 105. Missouri
 
 Missouri is divided into two judicial districts to be known as the Eastern and Western Districts of Missouri.
-Eastern District
-
-**(a)** The Eastern District comprises three divisions.
-
-(1) The Eastern Division comprises the counties of Crawford, Dent, Franklin, Gasconade, Jefferson, Lincoln, Maries, Phelps, Saint Charles, Saint Francois, Saint Louis, Warren, and Washington, and the city of Saint Louis.Court for the Eastern Division shall be held at Saint Louis.
-
-(2) The Northern Division comprises the counties of Adair, Audrain, Chariton, Clark, Knox, Lewis, Linn, Macon, Marion, Monroe, Montgomery, Pike, Ralls, Randolph, Schuyler, Scotland, and Shelby.Court for the Northern Division shall be held at Hannibal.
-
-(3) The Southeastern Division comprises the counties of Bollinger, Butler, Cape Girardeau, Carter, Dunklin, Iron, Madison, Mississippi, New Madrid, Pemiscot, Perry, Reynolds, Ripley, Saint Genevieve, Scott, Shannon, Stoddard, and Wayne.Court for the Southeastern Division shall be held at Cape Girardeau.
-Western District
-
-**(b)** The Western District comprises five divisions.
-
-(1) The Western Division comprises the counties of Bates, Carroll, Cass, Clay, Henry, Jackson, Johnson, Lafayette, Ray, Saint Clair, and Saline.Court for the Western Division shall be held at Kansas City.
-
-(2) The Southwestern Division comprises the counties of Barton, Barry, Jasper, Lawrence, McDonald, Newton, Stone, and Vernon.Court for the Southwestern Division shall be held at Joplin.
-
-(3) The Saint Joseph Division comprises the counties of Andrew, Atchison, Buchanan, Caldwell, Clinton, Daviess, De Kalb, Gentry, Grundy, Harrison, Holt, Livingston, Mercer, Nodaway, Platte, Putnam, Sullivan, and Worth.Court for the Saint Joseph Division shall be held at Saint Joseph.
-
-(4) The Central Division comprises the counties of Benton, Boone, Callaway, Camden, Cole, Cooper, Hickory, Howard, Miller, Moniteau, Morgan, Osage, and Pettis.Court for the Central Division shall be held at Jefferson City.
-
-(5) The Southern Division comprises the counties of Cedar, Christian, Dade, Dallas, Douglas, Greene, Howell, Laclede, Oregon, Ozark, Polk, Pulaski, Taney, Texas, Webster, and Wright.Court for the Southern Division shall be held at Springfield.
 
 ### Statutory Notes
 
@@ -1211,15 +962,6 @@ Changes in arrangement and phraseology were made.
 ## § 112. New York
 
 New York is divided into four judicial districts to be known as the Northern, Southern, Eastern, and Western Districts of New York.
-Northern District
-
-**(a)** The Northern District comprises the counties of Albany, Broome, Cayuga, Chenango, Clinton, Columbia, Cortland, Delaware, Essex, Franklin, Fulton, Greene, Hamilton, Herkimer, Jefferson, Lewis, Madison, Montgomery, Oneida, Onondaga, Oswego, Otsego, Rensselaer, Saint Lawrence, Saratoga, Schenectady, Schoharie, Tioga, Tompkins, Ulster, Warren, and Washington.Court for the Northern District shall be held at Albany, Auburn, Binghamton, Malone, Plattsburgh,11 So in original. “Plattsburgh” appears twice. Syracuse, Utica, Watertown, and Plattsburgh.1 Southern District
-
-**(b)** The Southern District comprises the counties of Bronx, Dutchess, New York, Orange, Putnam, Rockland, Sullivan, and Westchester and concurrently with the Eastern District, the waters within the Eastern District.Court for the Southern District shall be held at New York, White Plains, and in the Middletown-Wallkill area of Orange County or such nearby location as may be deemed appropriate. Eastern District
-
-**(c)** The Eastern District comprises the counties of Kings, Nassau, Queens, Richmond, and Suffolk and concurrently with the Southern District, the waters within the counties of Bronx and New York.Court for the Eastern District shall be held at Brooklyn, Hauppauge, Hempstead (including the village of Uniondale), and Central Islip. Western District
-
-**(d)** The Western District comprises the counties of Allegany, Cattaraugus, Chautauqua, Chemung, Erie, Genesee, Livingston, Monroe, Niagara, Ontario, Orleans, Schuyler, Seneca, Steuben, Wayne, Wyoming, and Yates.Court for the Western District shall be held at Buffalo, Canandaigua, Elmira, Jamestown, and Rochester.
 
 ### Statutory Notes
 
@@ -1285,13 +1027,6 @@ Sections 2 to 5 of Pub. L. 95–271 provided that: “Sec. 2. The United States 
 ## § 113. North Carolina
 
 North Carolina is divided into three judicial districts to be known as the Eastern, Middle, and Western Districts of North Carolina.
-Eastern District
-
-**(a)** The Eastern District comprises the counties of Beaufort, Bertie, Bladen, Brunswick, Camden, Carteret, Chowan, Columbus, Craven, Cumberland, Currituck, Dare, Duplin, Edgecombe, Franklin, Gates, Granville, Greene, Halifax, Harnett, Hertford, Hyde, Johnston, Jones, Lenoir, Martin, Nash, New Hanover, Northampton, Onslow, Pamlico, Pasquotank, Pender, Perquimans, Pitt, Robeson, Sampson, Tyrrell, Vance, Wake, Warren, Washington, Wayne, and Wilson and that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina.Court for the Eastern District shall be held at Elizabeth City, Fayetteville, Greenville, New Bern, Raleigh, Wilmington, and Wilson. Middle District
-
-**(b)** The Middle District comprises the counties of Alamance, Cabarrus, Caswell, Chatham, Davidson, Davie, Durham (excluding that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina), Forsythe, Guilford, Hoke, Lee, Montgomery, Moore, Orange, Person, Randolph, Richmond, Rockingham, Rowan, Scotland, Stanly, Stokes, Surry, and Yadkin.Court for the Middle District shall be held at Durham, Greensboro, and Winston-Salem. Western District
-
-**(c)** The Western District comprises the counties of Alexander, Alleghany, Anson, Ashe, Avery, Buncombe, Burke, Caldwell, Catawba, Cherokee, Clay, Cleveland, Gaston, Graham, Haywood, Henderson, Iredell, Jackson, Lincoln, McDowell, Macon, Madison, Mecklenburg, Mitchell, Polk, Rutherford, Swain, Transylvania, Union, Watauga, Wilkes, and Yancey.Court for the Western District shall be held at Asheville, Bryson City, Charlotte, Shelby, and Statesville.
 
 ### Statutory Notes
 
@@ -1344,20 +1079,6 @@ A prior section 114, act June 25, 1948, ch. 646, 62 Stat. 886; Pub. L. 95–408,
 ## § 115. Ohio
 
 Ohio is divided into two judicial districts to be known as the Northern and Southern Districts of Ohio.
-Northern District
-
-**(a)** The Northern District comprises two divisions.
-
-(1) The Eastern Division comprises the counties of Ashland, Ashtabula, Carroll, Columbiana, Crawford, Cuyahoga, Geauga, Holmes, Lake, Lorain, Mahoning, Medina, Portage, Richland, Stark, Summit, Trumbull, Tuscarawas, and Wayne.Court for the Eastern Division shall be held at Cleveland, Youngstown, and Akron.
-
-(2) The Western Division comprises the counties of Allen, Auglaize, Defiance, Erie, Fulton, Hancock, Hardin, Henry, Huron, Lucas, Marion, Mercer, Ottawa, Paulding, Putnam, Sandusky, Seneca, Van Wert, Williams, Woods, and Wyandot.Court for the Western Division shall be held at Lima and Toledo.
-Southern District
-
-**(b)** The Southern District comprises two divisions.
-
-(1) The Western Division comprises the counties of Adams, Brown, Butler, Champaign, Clark, Clermont, Clinton, Darke, Greene, Hamilton, Highland, Lawrence, Miami, Montgomery, Preble, Scioto, Shelby, and Warren.Court for the Western Division shall be held at Cincinnati and Dayton.
-
-(2) The Eastern Division comprises the counties of Athens, Belmont, Coshocton, Delaware, Fairfield, Fayette, Franklin, Gallia, Guernsey, Harrison, Hocking, Jackson, Jefferson, Knox, Licking, Logan, Madison, Meigs, Monroe, Morgan, Morrow, Muskingum, Noble, Perry, Pickaway, Pike, Ross, Union, Vinton, and Washington.Court for the Eastern Division shall be held at Columbus 11 So in original. Probably should be followed by a comma. St. Clairsville, and Steubenville.
 
 ### Statutory Notes
 
@@ -1382,13 +1103,6 @@ Changes were made in arrangement and phraseology.
 ## § 116. Oklahoma
 
 Oklahoma is divided into three judicial districts to be known as the Northern, Eastern, and Western Districts of Oklahoma.
-Northern District
-
-**(a)** The Northern District comprises the counties of Craig, Creek, Delaware, Mayes, Nowata, Osage, Ottawa, Pawnee, Rogers, Tulsa, and Washington.Court for the Northern District shall be held at Bartlesville, Miami, Pawhuska, Tulsa, and Vinita. Eastern District
-
-**(b)** The Eastern District comprises the counties of Adair, Atoka, Bryan, Carter, Cherokee, Choctaw, Coal, Haskell, Hughes, Johnston, Latimer, Le Flore Love, McCurtain, McIntosh, Marshall, Murray, Muskogee, Okfuskee, Okmulgee, Pittsburg, Pontotoc, Pushmataha, Seminole, Sequoyah, and Wagoner.Court for the Eastern District shall be held at Ada, Ardmore, Durant, Hugo, Muskogee, Okmulgee, Poteau, and S. McAlester. Western District
-
-**(c)** The Western District comprises the counties of Alfalfa, Beaver, Beckham, Blaine, Caddo, Canadian, Cimarron, Cleveland, Comanche, Cotton, Custer, Dewey, Ellis, Garfield, Garvin, Grady, Grant, Greer, Harmon, Harper, Jackson, Jefferson, Kay, Kingfisher, Kiowa, Lincoln, Logan, McClain, Major, Noble, Oklahoma, Payne, Pottawatomie, Roger Mills, Stephens, Texas, Tillman, Washita, Woods, and Woodward.Court for the Western District shall be held at Chickasha, Enid, Guthrie, Lawton, Mangum, Oklahoma City, Pauls Valley, Ponca City, Shawnee, and Woodward.
 
 ### Statutory Notes
 
@@ -1440,13 +1154,6 @@ Changes in arrangement and phraseology were made.
 ## § 118. Pennsylvania
 
 Pennsylvania is divided into three judicial districts to be known as the Eastern, Middle, and Western Districts of Pennsylvania.
-Eastern District
-
-**(a)** The Eastern District comprises the counties of Berks, Bucks, Chester, Delaware, Lancaster, Lehigh, Montgomery, Northampton, and Philadelphia.Court for the Eastern District shall be held at Allentown, Easton, Lancaster, Reading, and Philadelphia. Middle District
-
-**(b)** The Middle District comprises the counties of Adams, Bradford, Cameron, Carbon, Centre, Clinton, Columbia, Cumberland, Dauphin, Franklin, Fulton, Huntingdon, Juniata, Lackawanna, Lebanon, Luzerne, Lycoming, Mifflin, Monroe, Montour, Northumberland, Perry, Pike, Potter, Schuylkill, Snyder, Sullivan, Susquehanna, Tioga, Union, Wayne, Wyoming, and York.Court for the Middle District shall be held at Harrisburg, Lewisburg, Scranton, Wilkes-Barre, and Williamsport. Western District
-
-**(c)** The Western District comprises the counties of Allegheny, Armstrong, Beaver, Bedford, Blair, Butler, Cambria, Clarion, Clearfield, Crawford, Elk, Erie, Fayette, Forest, Greene, Indiana, Jefferson, Lawrence, McKean, Mercer, Somerset, Venango, Warren, Washington, and Westmoreland.Court for the Western District shall be held at Erie, Johnstown, and Pittsburgh.
 
 ### Statutory Notes
 
@@ -1626,36 +1333,6 @@ Par. (4). Pub. L. 92–376, § 1(c), removed Mellette, Todd, and Tripp counties 
 ## § 123. Tennessee
 
 Tennessee is divided into three judicial districts to be known as the Eastern, Middle, and Western Districts of Tennessee.
-Eastern District
-
-**(a)** The Eastern District comprises four divisions.
-
-(1) The Northern Division comprises the counties of Anderson, Blount, Campbell, Claiborne, Grainger, Jefferson, Knox, Loudon, Monroe, Morgan, Roane, Scott, Sevier, and Union.Court for the Northern Division shall be held at Knoxville.
-
-(2) The Northeastern Division comprises the counties of Carter, Cocke, Greene, Hamblen, Hancock, Hawkins, Johnson, Sullivan, Unicoi, and Washington.Court for the Northeastern Division shall be held at Greenville.
-
-(3) The Southern Division comprises the counties of Bledsoe, Bradley, Hamilton, McMinn, Marion, Meigs, Polk, Rhea, and Sequatchie.Court for the Southern Division shall be held at Chattanooga.
-
-(4) The Winchester Division comprises the counties of Bedford, Coffee, Franklin, Grundy, Lincoln, Moore, Van Buren, and Warren.Court for the Winchester Division shall be held at Winchester.
-Middle District
-
-**(b)** The Middle District comprises three divisions.
-
-(1) The Nashville Division comprises the counties of Cannon, Cheatham, Davidson, Dickson, Houston, Humphreys, Montgomery, Robertson, Rutherford, Stewart, Sumner, Trousdale, Williamson, and Wilson.Court for the Nashville Division shall be held at Nashville.
-
-(2) The Northeastern Division comprises the counties of Clay, Cumberland, De Kalb, Fentress, Jackson, Macon, Overton, Pickett, Putnam, Smith, and White.Court for the Northeastern Division shall be held at Cookeville.
-
-(3) The Columbia Division comprises the counties of Giles, Hickman, Lawrence, Lewis, Marshall, Maury, and Wayne.Court for the Columbia Division shall be held at Columbia.
-Western District
-
-**(c)** The Western District comprises two divisions.
-
-(1) The Eastern Division comprises the counties of Benton, Carroll, Chester, Crockett, Decatur, Dyer, Gibson, Hardeman, Hardin, Haywood, Henderson, Henry, Lake, McNairy, Madison, Obion, Perry, and Weakley.
-The Eastern Division also includes the waters of Tennessee River to low-water mark on the eastern shore wherever such river forms the boundary between the western and middle districts from the north line of Alabama north to the point in Henry County, Tennessee, where the south boundary of Kentucky strikes the east bank of the river.
-Court for the Eastern Division shall be held at Jackson and Dyersburg.
-
-(2) The Western Division comprises the counties of Fayette, Lauderdale, Shelby, and Tipton.Court for the Western Division shall be held at Memphis.
-The district judge for the Eastern District in office on November 27, 1940, shall hold court in the Northern and Northeastern Divisions. The other judge of that district shall hold the terms of court in the Southern and Winchester Divisions. Each may appoint and remove all officers and employees of the court whose official headquarters are located in the divisions within which he holds court and whose appointments are vested by law in a district judge or chief judge of a district.
 
 ### Statutory Notes
 
@@ -1699,72 +1376,6 @@ Pub. L. 110–406, § 2(b), Oct. 13, 2008, 122 Stat. 4291, provided that: “(1)
 ## § 124. Texas
 
 Texas is divided into four judicial districts to be known as the Northern, Southern, Eastern, and Western Districts of Texas.
-Northern District
-
-**(a)** The Northern District comprises seven divisions.
-
-(1) The Dallas Division comprises the counties of Dallas, Ellis, Hunt, Johnson, Kaufman, Navarro, and Rockwall.Court for the Dallas Division shall be held at Dallas.
-
-(2) The Fort Worth Division comprises the counties of Comanche, Erath, Hood, Jack, Palo Pinto, Parker, Tarrant, and Wise.Court for the Fort Worth Division shall be held at Fort Worth.
-
-(3) The Abilene Division comprises the counties of Callahan, Eastland, Fisher, Haskell, Howard, Jones, Mitchell, Nolan, Shackleford, Stephens, Stonewall, Taylor, and Throckmorton.Court for the Abilene Division shall be held at Abilene.
-
-(4) The San Angelo Division comprises the counties of Brown, Coke, Coleman, Concho, Crockett, Glasscock, Irion, Menard, Mills, Reagan, Runnels, Schleicher, Sterling, Sutton, and Tom Green.Court for the San Angelo Division shall be held at San Angelo.
-
-(5) The Amarillo Division comprises the counties of Armstrong, Brisco, Carson, Castro, Childress, Collingsworth, Dallam, Deaf Smith, Donley, Gray, Hall, Hansford, Hartley, Hemphill, Hutchinson, Lipscomb, Moore, Ochiltree, Oldham, Parmer, Potter, Randall, Roberts, Sherman, Swisher, and Wheeler.Court for the Amarillo Division shall be held at Amarillo.
-
-(6) The Wichita Falls Division comprises the counties of Archer, Baylor, Clay, Cottle, Foard, Hardeman, King, Knox, Montague, Wichita, Wilbarger, and Young.Court for the Wichita Falls Division shall be held at Wichita Falls.
-
-(7) The Lubbock Division comprises the counties of Bailey, Borden, Cochran, Crosby, Dawson, Dickens, Floyd, Gaines, Garza, Hale, Hockley, Kent, Lamb, Lubbock, Lynn, Motley, Scurry, Terry, and Yoakum.Court for the Lubbock Division shall be held at Lubbock.
-Southern District
-
-**(b)** The Southern District comprises seven divisions.
-
-(1) The Galveston Division comprises the counties of Brazoria, Chambers, Galveston, and Matagorda.Court for the Galveston Division shall be held at Galveston.
-
-(2) The Houston Division comprises the counties of Austin, Brazos, Colorado, Fayette, Fort Bend, Grimes, Harris, Madison, Montgomery, San Jacinto, Walker, Waller, and Wharton.Court for the Houston Division shall be held at Houston.
-
-(3) The Laredo Division comprises the counties of Jim Hogg, La Salle, McMullen, Webb, and Zapata.Court for the Laredo Division shall be held at Laredo.
-
-(4) The Brownsville Division comprises the counties of Cameron and Willacy.Court for the Brownsville Division shall be held at Brownsville.
-
-(5) The Victoria Division comprises the counties of Calhoun, DeWitt, Goliad, Jackson, Lavaca, Refugio, and Victoria.Court for the Victoria Division shall be held at Victoria.
-
-(6) The Corpus Christi Division comprises the counties of Aransas, Bee, Brooks, Duval, Jim Wells, Kenedy, Kleberg, Live Oak, Nueces, and San Patricio.Court for the Corpus Christi Division shall be held at Corpus Christi.
-
-(7) The McAllen Division comprises the counties of Hidalgo and Starr.Court for the McAllen Division shall be held at McAllen.
-Eastern District
-
-**(c)** The Eastern District comprises seven divisions.
-
-(1) The Tyler Division comprises the counties of Anderson, Cherokee, Gregg, Henderson, Panola, Rains, Rusk, Smith, Van Zandt, and Wood.Court for Tyler Division will be held at Tyler.
-
-(2) The Beaumont Division comprises the counties of Hardin, Jasper, Jefferson, Liberty, Newton, and Orange.Court for the Beaumont Division is to be held at Beaumont.
-
-(3) The Sherman Division comprises the counties of Collin, Cook, Delta, Denton, Fannin, Grayson, Hopkins, and Lamar.Court for the Sherman Division shall be held at Sherman and Plano.
-
-(4) The Marshall Division comprises the counties of Camp, Cass, Harrison, Marion, Morris, and Upshur.Court for the Marshall Division shall be held at Marshall.
-
-(5) The Texarkana Division comprises the counties of Bowie, Franklin, Red River, and Titus.Court for the Texarkana Division shall be held at Texarkana, and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas.
-
-(6) The Lufkin Division comprises the counties of Angelina, Houston, Nacogdoches, Polk, Sabine, San Augustine, Shelby, Trinity, and Tyler.Court for the Lufkin Division shall be held at Lufkin.
-Western District
-
-**(d)** The Western District comprises seven divisions.
-
-(1) The Austin Division comprises the counties of Bastrop, Blanco, Burleson, Burnet, Caldwell, Gillespie, Hays, Kimble, Lampasas, Lee, Llano, Mason, McCulloch, San Saba, Travis, Washington, and Williamson.Court for the Austin Division shall be held at Austin.
-
-(2) The Waco Division comprises the counties of Bell, Bosque, Coryell, Falls, Freestone, Hamilton, Hill, Leon, Limestone, McLennan, Milam, Robertson, and Somervell.Court for the Waco Division shall be held at Waco.
-
-(3) The El Paso Division comprises the county of El Paso.Court for the El Paso Division shall be held at El Paso.
-
-(4) The San Antonio Division comprises the counties of Atascosa, Bandera, Bexar, Comal, Dimmit, Frio, Gonzales, Guadalupe, Karnes, Kendall, Kerr, Medina, Real, and Wilson.Court for the San Antonio Division shall be held at San Antonio.
-
-(5) The Del Rio Division comprises the counties of Edwards, Kinney, Maverick, Terrell, Uvalde, Val Verde, and Zavalla.Court for the Del Rio Division shall be held at Del Rio.
-
-(6) The Pecos Division comprises the counties of Brewster, Culberson, Jeff Davis, Hudspeth, Loving, Pecos, Presidio, Reeves, Ward, and Winkler.Court for the Pecos Division shall be held at Pecos.
-
-(7) The Midland-Odessa Division comprises the counties of Andrews, Crane, Ector, Martin, Midland, and Upton.Court for the Midland-Odessa Division shall be held at Midland. Court may be held, in the discretion of the court, in Odessa, when courtroom facilities are made available at no expense to the Government.
 
 ### Statutory Notes
 
@@ -1893,13 +1504,6 @@ Amendment by Pub. L. 98–620 effective Jan. 1, 1985, and not to affect the comp
 ## § 127. Virginia
 
 Virginia is divided into two judicial districts, to be known as the Eastern and Western districts of Virginia.
-Eastern District
-
-**(a)** The Eastern District comprises the counties of Accomac, Amelia, Arlington, Brunswick, Caroline, Charles City, Chesterfield, Dinwiddie, Elizabeth City, Essex, Fairfax, Fauquier, Gloucester, Goochland, Greensville, Hanover, Henrico, Isle of Wight, James City, King and Queen, King George, King William, Lancaster, Loudoun, Lunenburg, Mathews, Mecklenburg, Middlesex, Nansemond, New Kent, Norfolk, Northampton, Northumberland, Nottoway, Powhatan, Prince Edward, Prince George, Prince William, Princess Anne, Richmond, Southampton, Spotsylvania, Stafford, Surry, Sussex, Warwick, Westmoreland, and York.Court for the Eastern District shall be held at Alexandria, Newport News, Norfolk, and Richmond. Western District
-
-**(b)** The Western District comprises the counties of Albemarle, Alleghany, Amherst, Appomattox, Augusta, Bath, Bedford, Bland, Botetourt, Buchanan, Buckingham, Campbell, Carroll, Charlotte, Clarke, Craig, Culpeper, Cumberland, Dickenson, Floyd, Fluvanna, Franklin, Frederick, Giles, Grayson, Greene, Halifax, Henry, Highland, Lee, Louisa, Madison, Montgomery, Nelson, Orange, Page, Patrick, Pittsylvania, Pulaski, Rappahannock, Roanoke, Rockbridge, Rockingham, Russell, Scott, Shenandoah, Smyth, Tazewell, Warren, Washington, Wise, and Wythe.Court for the Western District shall be held at Abingdon, Big Stone Gap, Charlottesville, Danville, Harrisonburg, Lynchburg, and Roanoke.
-
-**(c)** Cities and incorporated towns are included in that district in which are included the counties within the exterior boundaries of which such cities and incorporated towns are geographically located or out of the territory of which they have been incorporated.
 
 ### Statutory Notes
 
@@ -1928,11 +1532,6 @@ Pub. L. 102–200, § 2, Dec. 10, 1991, 105 Stat. 1630, provided that: “(a) Pe
 ## § 128. Washington
 
 Washington is divided into two judicial districts to be known as the Eastern and Western Districts of Washington.
-Eastern District
-
-**(a)** The Eastern District comprises the counties of Adams, Asotin, Benton, Chelan, Columbia, Douglas, Ferry, Franklin, Garfield, Grant, Kittitas, Klickitat, Lincoln, Okanogan, Pend Oreille, Spokane, Stevens, Walla Walla, Whitman, and Yakima.Court for the Eastern District shall be held at Spokane, Yakima, Walla Walla, and Richland. Western District
-
-**(b)** The Western District comprises the counties of Clallam, Clark, Cowlitz, Grays Harbor, Island, Jefferson, King, Kitsap, Lewis, Mason, Pacific, Pierce, San Juan, Skagit, Skamania, Snohomish, Thurston, Wahkiakum, and Whatcom.Court for the Western District shall be held at Bellingham, Seattle, Tacoma, and Vancouver.
 
 ### Statutory Notes
 
@@ -1963,11 +1562,6 @@ Subsec. (b). Pub. L. 91–272, § 4(b), struck out provisions which had divided 
 ## § 129. West Virginia
 
 West Virginia is divided into two judicial districts to be known as the Northern and Southern Districts of West Virginia.
-Northern District
-
-**(a)** The Northern District comprises the counties of Barbour, Berkeley, Braxton, Brooke, Calhoun, Doddridge, Gilmer, Grant, Hampshire, Hancock, Hardy, Harrison, Jefferson, Lewis, Marion, Marshall, Mineral, Monongalia, Morgan, Ohio, Pendleton, Pleasants, Pocahontas, Preston, Randolph, Ritchie, Taylor, Tucker, Tyler, Upshur, Webster, and Wetzel.Court for the Northern District shall be held at Clarksburg, Elkins, Fairmont, Martinsburg, and Wheeling. Southern District
-
-**(b)** The Southern District comprises the counties of Boone, Cabell, Clay, Fayette, Greenbrier, Jackson, Kanawha, Lincoln, Logan, McDowell, Mason, Mercer, Mingo, Monroe, Nicholas, Putnam, Raleigh, Roane, Summers, Wayne, Wirt, Wood, and Wyoming.Court for the Southern District shall be held at Beckley, Bluefield, Charleston, Huntington, Lewisburg, and Parkersburg.
 
 ### Statutory Notes
 
@@ -1994,11 +1588,6 @@ Subsec. (b). Pub. L. 97–471, § 1(2), struck out references to Braxton, Pocaho
 ## § 130. Wisconsin
 
 Wisconsin is divided into two judicial districts to be known as the Eastern and Western districts of Wisconsin.
-Eastern District
-
-**(a)** The Eastern District comprises the counties of Brown, Calumet, Dodge, Door, Florence, Fond du Lac, Forest, Green Lake, Kenosha, Kewaunee, Langlade, Manitowoc, Marinette, Marquette, Menominee, Milwaukee, Oconto, Outagamie, Ozaukee, Racine, Shawano, Sheboygan, Walworth, Washington, Waukesha, Waupaca, Waushara, and Winnebago.Court for the Eastern District shall be held at Green Bay, Milwaukee, and Oshkosh. Western District
-
-**(b)** The Western District comprises the counties of Adams, Ashland, Barron, Bayfield, Buffalo, Burnett, Chippewa, Clark, Columbia, Crawford, Dane, Douglas, Dunn, Eau Claire, Grant, Green, Iowa, Iron, Jackson, Jefferson, Juneau, La Crosse, Lafayette, Lincoln, Marathon, Monroe, Oneida, Pepin, Pierce, Polk, Portage, Price, Richland, Rock, Rusk, Saint Croix, Sauk, Sawyer, Taylor, Trempealeau, Vernon, Vilas, Washburn, and Wood.Court for the Western District shall be held at Eau Claire, La Crosse, Madison, Superior, and Wausau.
 
 ### Statutory Notes
 
@@ -2789,19 +2378,19 @@ Pub. L. 86–3, § 9, Mar. 18, 1959, 73 Stat. 8, provided in part that the amend
 Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. 16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under [section 81A of this title](./chapter-005-district-courts.md#section-81a) and preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Additional Judgeships
-Pub. L. 109–115, div. A, title IV, § 406, Nov. 30, 2005, 119 Stat. 2470, as amended by Pub. L. 113–6, div. F, title III, § 1312(b), Mar. 26, 2013, 127 Stat. 418, provided that: “The existing judgeship for the eastern district of Missouri authorized by section 203(c) of the Judicial Improvements Act of 1990 (Public Law 101–650, 104 Stat. 5089) [set out below] as amended by Public Law 105–53, as of the effective date of this Act [Nov. 30, 2005], shall be extended. The first vacancy in the office of district judge in this district occurring 20 years and 6 months or more after the confirmation date of the judge named to fill the temporary judgeship created by section 203(c) shall not be filled.”
+Pub. L. 109–115, div. A, title IV, § 406, Nov. 30, 2005, 119 Stat. 2470, as amended by Pub. L. 113–6, div. F, title III, § 1312(b), Mar. 26, 2013, 127 Stat. 418; Pub. L. 113–76, div. E, title III, § 307(b), Jan. 17, 2014, 128 Stat. 203; Pub. L. 113–235, div. E, title III, § 306(b), Dec. 16, 2014, 128 Stat. 2351, provided that: “The existing judgeship for the eastern district of Missouri authorized by section 203(c) of the Judicial Improvements Act of 1990 (Public Law 101–650, 104 Stat. 5089) [set out below] as amended by Public Law 105–53, as of the effective date of this Act [Nov. 30, 2005], shall be extended. The first vacancy in the office of district judge in this district occurring 22 years and 6 months or more after the confirmation date of the judge named to fill the temporary judgeship created by section 203(c) shall not be filled.”
 
 Pub. L. 107–273, div. A, title III, § 312(a)(1), Nov. 2, 2002, 116 Stat. 1786, provided that: “The President shall appoint, by and with the advice and consent of the Senate— “(A) 5 additional district judges for the southern district of California; “(B) 1 additional district judge for the western district of North Carolina; and “(C) 2 additional district judges for the western district of Texas.”
 
 Pub. L. 107–273, div. A, title III, § 312(b)(1), Nov. 2, 2002, 116 Stat. 1787, provided that: “The existing district judgeships for the central district and the southern district of Illinois, the northern district of New York, and the eastern district of Virginia authorized by section 203(c)(3), (4), (9), and (12) of the Judicial Improvements Act of 1990 (Public Law 101–650, [28 U.S.C. 133](./chapter-005-district-courts.md#section-133) note [set out below]) shall be authorized under [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, and the incumbents in such offices shall hold the offices under [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code (as amended by this section).”
 
-Pub. L. 107–273, div. A, title III, § 312(c), Nov. 2, 2002, 116 Stat. 1788, as amended by Pub. L. 113–6, div. F, title III, § 1312(c), Mar. 26, 2013, 127 Stat. 418, provided that: “(c) Temporary Judgeships.—“(1) In general.—The President shall appoint, by and with the advice and consent of the Senate—“(A) 1 additional district judge for the northern district of Alabama; “(B) 1 additional judge for the district of Arizona; “(C) 1 additional judge for the central district of California; “(D) 1 additional judge for the southern district of Florida; “(E) 1 additional district judge for the district of New Mexico; “(F) 1 additional district judge for the western district of North Carolina; and “(G) 1 additional district judge for the eastern district of Texas. “(2) Vacancies not filled.—The first vacancy in the office of district judge in each of the offices of district judge authorized by this subsection, except in the case of the central district of California and the western district of North Carolina, occurring 11 years or more after the confirmation date of the judge named to fill the temporary district judgeship created in the applicable district by this subsection, shall not be filled. The first vacancy in the office of district judge in the central district of California occurring 10 years and 6 months or more after the confirmation date of the judge named to fill the temporary district judgeship created in that district by this subsection, shall not be filled. The first vacancy in the office of district judge in the western district of North Carolina occurring 10 years or more after the confirmation date of the judge named to fill the temporary district judgeship created in that district by this subsection, shall not be filled. “(3) Effective date.—This subsection shall take effect on July 15, 2003.”
+Pub. L. 107–273, div. A, title III, § 312(c), Nov. 2, 2002, 116 Stat. 1788, as amended by Pub. L. 113–6, div. F, title III, § 1312(c), Mar. 26, 2013, 127 Stat. 418; Pub. L. 113–76, div. E, title III, § 307(c), Jan. 17, 2014, 128 Stat. 203; Pub. L. 113–235, div. E, title III, § 306(c), Dec. 16, 2014, 128 Stat. 2352, provided that: “(c) Temporary Judgeships.—“(1) In general.—The President shall appoint, by and with the advice and consent of the Senate—“(A) 1 additional district judge for the northern district of Alabama; “(B) 1 additional judge for the district of Arizona; “(C) 1 additional judge for the central district of California; “(D) 1 additional judge for the southern district of Florida; “(E) 1 additional district judge for the district of New Mexico; “(F) 1 additional district judge for the western district of North Carolina; and “(G) 1 additional district judge for the eastern district of Texas. “(2) Vacancies not filled.—The first vacancy in the office of district judge in each of the offices of district judge authorized by this subsection, except in the case of the central district of California and the western district of North Carolina, occurring 13 years or more after the confirmation date of the judge named to fill the temporary district judgeship created in the applicable district by this subsection, shall not be filled. The first vacancy in the office of district judge in the central district of California occurring 12 years and 6 months or more after the confirmation date of the judge named to fill the temporary district judgeship created in that district by this subsection, shall not be filled. The first vacancy in the office of district judge in the western district of North Carolina occurring 11 years or more after the confirmation date of the judge named to fill the temporary district judgeship created in that district by this subsection, shall not be filled. “(3) Effective date.—This subsection shall take effect on July 15, 2003.”
 
 Pub. L. 106–553, § 1(a)(2) [title III, § 305(a)], Dec. 21, 2000, 114 Stat. 2762, 2762A–84, provided that: “The President shall appoint, by and with the advice and consent of the Senate— “(1) 1 additional district judge for the district of Arizona; “(2) 1 additional district judge for the southern district of Florida; “(3) 1 additional district judge for the eastern district of Kentucky; “(4) 1 additional district judge for the district of Nevada; “(5) 1 additional district judge for the district of New Mexico; “(6) 1 additional district judge for the district of South Carolina; “(7) 1 additional district judge for the southern district of Texas; “(8) 1 additional district judge for the western district of Texas; “(9) 1 additional district judge for the eastern district of Virginia; and “(10) 1 additional district judge for the eastern district of Wisconsin.”
 
 Pub. L. 106–113, div. B, § 1000(a)(1) [title III, § 309(a)], Nov. 29, 1999, 113 Stat. 1535, 1501A–37, provided that: “The President shall appoint, by and with the advice and consent of the Senate— “(1) three additional district judges for the district of Arizona; “(2) four additional district judges for the middle district of Florida; and “(3) two additional district judges for the district of Nevada.”
 
-Pub. L. 101–650, title II, § 203(a)–(c), Dec. 1, 1990, 104 Stat. 5099–5101, as amended by Pub. L. 104–60, § 1, Nov. 28, 1995, 109 Stat. 635; Pub. L. 104–317, title III, § 304, Oct. 19, 1996, 110 Stat. 3852; Pub. L. 105–53, § 3, Oct. 6, 1997, 111 Stat. 1173; Pub. L. 107–273, div. A, title III, § 312(d)(1), Nov. 2, 2002, 116 Stat. 1788; Pub. L. 109–289, div. B, title II, § 21056, as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 55; Pub. L. 110–161, div. D, title III, § 309, Dec. 26, 2007, 121 Stat. 1990; Pub. L. 111–8, div. D, title III, § 309, Mar. 11, 2009, 123 Stat. 649; Pub. L. 111–117, div. C, title III, § 307, Dec. 16, 2009, 123 Stat. 3177; Pub. L. 112–10, div. B, title V, § 1530, Apr. 15, 2011, 125 Stat. 134; Pub. L. 112–74, div. C, title III, § 306, Dec. 23, 2011, 125 Stat. 902; Pub. L. 113–6, div. F, title III, § 1312(a), Mar. 26, 2013, 127 Stat. 418, provided that: “(a) In General.—The President shall appoint, by and with the advice and consent of the Senate—“(1) 1 additional district judge for the western district of Arkansas; “(2) 2 additional district judges for the northern district of California; “(3) 5 additional district judges for the central district of California; “(4) 1 additional district judge for the southern district of California; “(5) 2 additional district judges for the district of Connecticut; “(6) 2 additional district judges for the middle district of Florida; “(7) 1 additional district judge for the northern district of Florida; “(8) 1 additional district judge for the southern district of Florida; “(9) 1 additional district judge for the middle district of Georgia; “(10) 1 additional district judge for the northern district of Illinois; “(11) 1 additional district judge for the southern district of Iowa; “(12) 1 additional district judge for the western district of Louisiana; “(13) 1 additional district judge for the district of Maine; “(14) 1 additional district judge for the district of Massachusetts; “(15) 1 additional district judge for the southern district of Mississippi; “(16) 1 additional district judge for the eastern district of Missouri; “(17) 1 additional district judge for the district of New Hampshire; “(18) 3 additional district judges for the district of New Jersey; “(19) 1 additional district judge for the district of New Mexico; “(20) 1 additional district judge for the southern district of New York; “(21) 3 additional district judges for the eastern district of New York; “(22) 1 additional district judge for the middle district of North Carolina; “(23) 1 additional district judge for the southern district of Ohio; “(24) 1 additional district judge for the northern district of Oklahoma; “(25) 1 additional district judge for the western district of Oklahoma; “(26) 1 additional district judge for the district of Oregon; “(27) 3 additional district judges for the eastern district of Pennsylvania; “(28) 1 additional district judge for the middle district of Pennsylvania; “(29) 1 additional district judge for the district of South Carolina; “(30) 1 additional district judge for the eastern district of Tennessee; “(31) 1 additional district judge for the western district of Tennessee; “(32) 1 additional district judge for the middle district of Tennessee; “(33) 2 additional district judges for the northern district of Texas; “(34) 1 additional district judge for the eastern district of Texas; “(35) 5 additional district judges for the southern district of Texas; “(36) 3 additional district judges for the western district of Texas; “(37) 1 additional district judge for the district of Utah; “(38) 1 additional district judge for the eastern district of Washington; “(39) 1 additional district judge for the northern district of West Virginia; “(40) 1 additional district judge for the southern district of West Virginia; and “(41) 1 additional district judge for the district of Wyoming. “(b) Existing Judgeships.—(1) The existing district judgeships for the western district of Arkansas, the northern district of Illinois, the northern district of Indiana, the district of Massachusetts, the western district of New York, the eastern district of North Carolina, the northern district of Ohio, and the western district of Washington authorized by section 202(b) of the Bankruptcy Amendments and Federal Judgeship Act of 1984 (Public Law 98–353, 98 Stat. 347–348) [set out below] shall, as of the effective date of this title [Dec. 1, 1990], be authorized under [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, and the incumbents in those offices shall hold the office under [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as amended by this title. “(2)(A) The existing 2 district judgeships for the eastern and western districts of Arkansas (provided by [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as in effect on the day before the effective date of this title) shall be district judgeships for the eastern district of Arkansas only, and the incumbents of such judgeships shall hold the offices under [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as amended by this title. “(B) The existing district judgeship for the northern and southern districts of Iowa (provided by [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as in effect on the day before the effective date of this title) shall be a district judgeship for the northern district of Iowa only, and the incumbent of such judgeship shall hold the office under [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as amended by this title. “(C) The existing district judgeship for the northern, eastern, and western districts of Oklahoma (provided by [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as in effect on the day before the effective date of this title) and the occupant of which has his or her official duty station at Oklahoma City on the date of the enactment of this title [Dec. 1, 1990], shall be a district judgeship for the western district of Oklahoma only, and the incumbent of such judgeship shall hold the office under [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as amended by this title. “(c) Temporary Judgeships.—The President shall appoint, by and with the advice and consent of the Senate—“(1) 1 additional district judge for the eastern district of California; “(2) 1 additional district judge for the district of Hawaii; “(3) 1 additional district judge for the central district of Illinois; “(4) 1 additional district judge for the southern district of Illinois; “(5) 1 additional district judge for the district of Kansas; “(6) 1 additional district judge for the western district of Michigan; “(7) 1 additional district judge for the eastern district of Missouri; “(8) 1 additional district judge for the district of Nebraska; “(9) 1 additional district judge for the northern district of New York; “(10) 1 additional district judge for the northern district of Ohio; “(11) 1 additional district judge for the eastern district of Pennsylvania; and “(12) 1 additional district judge for the eastern district of Virginia. Except with respect to the district of Kansas, the western district of Michigan, the eastern district of Pennsylvania, the district of Hawaii, and the northern district of Ohio, the first vacancy in the office of district judge in each of the judicial districts named in this subsection, occurring 10 years or more after the confirmation date of the judge named to fill the temporary judgeship created by this subsection, shall not be filled. The first vacancy in the office of district judge in the district of Kansas occurring 22 years and 6 months or more after the confirmation date of the judge named to fill the temporary judgeship created for such district under this subsection, shall not be filled. The first vacancy in the office of district judge in the western district of Michigan, occurring after December 1, 1995, shall not be filled. The first vacancy in the office of district judge in the eastern district of Pennsylvania, occurring 5 years or more after the confirmation date of the judge named to fill the temporary judgeship created for such district under this subsection, shall not be filled. The first vacancy in the office of district judge in the northern district of Ohio occurring 19 years or more after the confirmation date of the judge named to fill the temporary judgeship created under this subsection shall not be filled. The first vacancy in the office of the district judge in the district of Hawaii occurring 19 years and 6 months or more after the confirmation date of the judge named to fill the temporary judgeship created under this subsection shall not be filled. For districts named in this subsection for which multiple judgeships are created by this Act, the last of those judgeships filled shall be the judgeships created under this section.”
+Pub. L. 101–650, title II, § 203(a)–(c), Dec. 1, 1990, 104 Stat. 5099–5101, as amended by Pub. L. 104–60, § 1, Nov. 28, 1995, 109 Stat. 635; Pub. L. 104–317, title III, § 304, Oct. 19, 1996, 110 Stat. 3852; Pub. L. 105–53, § 3, Oct. 6, 1997, 111 Stat. 1173; Pub. L. 107–273, div. A, title III, § 312(d)(1), Nov. 2, 2002, 116 Stat. 1788; Pub. L. 109–289, div. B, title II, § 21056, as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 55; Pub. L. 110–161, div. D, title III, § 309, Dec. 26, 2007, 121 Stat. 1990; Pub. L. 111–8, div. D, title III, § 309, Mar. 11, 2009, 123 Stat. 649; Pub. L. 111–117, div. C, title III, § 307, Dec. 16, 2009, 123 Stat. 3177; Pub. L. 112–10, div. B, title V, § 1530, Apr. 15, 2011, 125 Stat. 134; Pub. L. 112–74, div. C, title III, § 306, Dec. 23, 2011, 125 Stat. 902; Pub. L. 113–6, div. F, title III, § 1312(a), Mar. 26, 2013, 127 Stat. 418; Pub. L. 113–76, div. E, title III, § 307(a), Jan. 17, 2014, 128 Stat. 203; Pub. L. 113–235, div. E, title III, § 306(a), Dec. 16, 2014, 128 Stat. 2351, provided that: “(a) In General.—The President shall appoint, by and with the advice and consent of the Senate—“(1) 1 additional district judge for the western district of Arkansas; “(2) 2 additional district judges for the northern district of California; “(3) 5 additional district judges for the central district of California; “(4) 1 additional district judge for the southern district of California; “(5) 2 additional district judges for the district of Connecticut; “(6) 2 additional district judges for the middle district of Florida; “(7) 1 additional district judge for the northern district of Florida; “(8) 1 additional district judge for the southern district of Florida; “(9) 1 additional district judge for the middle district of Georgia; “(10) 1 additional district judge for the northern district of Illinois; “(11) 1 additional district judge for the southern district of Iowa; “(12) 1 additional district judge for the western district of Louisiana; “(13) 1 additional district judge for the district of Maine; “(14) 1 additional district judge for the district of Massachusetts; “(15) 1 additional district judge for the southern district of Mississippi; “(16) 1 additional district judge for the eastern district of Missouri; “(17) 1 additional district judge for the district of New Hampshire; “(18) 3 additional district judges for the district of New Jersey; “(19) 1 additional district judge for the district of New Mexico; “(20) 1 additional district judge for the southern district of New York; “(21) 3 additional district judges for the eastern district of New York; “(22) 1 additional district judge for the middle district of North Carolina; “(23) 1 additional district judge for the southern district of Ohio; “(24) 1 additional district judge for the northern district of Oklahoma; “(25) 1 additional district judge for the western district of Oklahoma; “(26) 1 additional district judge for the district of Oregon; “(27) 3 additional district judges for the eastern district of Pennsylvania; “(28) 1 additional district judge for the middle district of Pennsylvania; “(29) 1 additional district judge for the district of South Carolina; “(30) 1 additional district judge for the eastern district of Tennessee; “(31) 1 additional district judge for the western district of Tennessee; “(32) 1 additional district judge for the middle district of Tennessee; “(33) 2 additional district judges for the northern district of Texas; “(34) 1 additional district judge for the eastern district of Texas; “(35) 5 additional district judges for the southern district of Texas; “(36) 3 additional district judges for the western district of Texas; “(37) 1 additional district judge for the district of Utah; “(38) 1 additional district judge for the eastern district of Washington; “(39) 1 additional district judge for the northern district of West Virginia; “(40) 1 additional district judge for the southern district of West Virginia; and “(41) 1 additional district judge for the district of Wyoming. “(b) Existing Judgeships.—(1) The existing district judgeships for the western district of Arkansas, the northern district of Illinois, the northern district of Indiana, the district of Massachusetts, the western district of New York, the eastern district of North Carolina, the northern district of Ohio, and the western district of Washington authorized by section 202(b) of the Bankruptcy Amendments and Federal Judgeship Act of 1984 (Public Law 98–353, 98 Stat. 347–348) [set out below] shall, as of the effective date of this title [Dec. 1, 1990], be authorized under [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, and the incumbents in those offices shall hold the office under [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as amended by this title. “(2)(A) The existing 2 district judgeships for the eastern and western districts of Arkansas (provided by [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as in effect on the day before the effective date of this title) shall be district judgeships for the eastern district of Arkansas only, and the incumbents of such judgeships shall hold the offices under [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as amended by this title. “(B) The existing district judgeship for the northern and southern districts of Iowa (provided by [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as in effect on the day before the effective date of this title) shall be a district judgeship for the northern district of Iowa only, and the incumbent of such judgeship shall hold the office under [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as amended by this title. “(C) The existing district judgeship for the northern, eastern, and western districts of Oklahoma (provided by [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as in effect on the day before the effective date of this title) and the occupant of which has his or her official duty station at Oklahoma City on the date of the enactment of this title [Dec. 1, 1990], shall be a district judgeship for the western district of Oklahoma only, and the incumbent of such judgeship shall hold the office under [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as amended by this title. “(c) Temporary Judgeships.—The President shall appoint, by and with the advice and consent of the Senate—“(1) 1 additional district judge for the eastern district of California; “(2) 1 additional district judge for the district of Hawaii; “(3) 1 additional district judge for the central district of Illinois; “(4) 1 additional district judge for the southern district of Illinois; “(5) 1 additional district judge for the district of Kansas; “(6) 1 additional district judge for the western district of Michigan; “(7) 1 additional district judge for the eastern district of Missouri; “(8) 1 additional district judge for the district of Nebraska; “(9) 1 additional district judge for the northern district of New York; “(10) 1 additional district judge for the northern district of Ohio; “(11) 1 additional district judge for the eastern district of Pennsylvania; and “(12) 1 additional district judge for the eastern district of Virginia. Except with respect to the district of Kansas, the western district of Michigan, the eastern district of Pennsylvania, the district of Hawaii, and the northern district of Ohio, the first vacancy in the office of district judge in each of the judicial districts named in this subsection, occurring 10 years or more after the confirmation date of the judge named to fill the temporary judgeship created by this subsection, shall not be filled. The first vacancy in the office of district judge in the district of Kansas occurring 24 years and 6 months or more after the confirmation date of the judge named to fill the temporary judgeship created for such district under this subsection, shall not be filled. The first vacancy in the office of district judge in the western district of Michigan, occurring after December 1, 1995, shall not be filled. The first vacancy in the office of district judge in the eastern district of Pennsylvania, occurring 5 years or more after the confirmation date of the judge named to fill the temporary judgeship created for such district under this subsection, shall not be filled. The first vacancy in the office of district judge in the northern district of Ohio occurring 19 years or more after the confirmation date of the judge named to fill the temporary judgeship created under this subsection shall not be filled. The first vacancy in the office of the district judge in the district of Hawaii occurring 21 years and 6 months or more after the confirmation date of the judge named to fill the temporary judgeship created under this subsection shall not be filled. For districts named in this subsection for which multiple judgeships are created by this Act, the last of those judgeships filled shall be the judgeships created under this section.”
 
 [Pub. L. 107–273, div. A, title III, § 312(d)(2), Nov. 2, 2002, 116 Stat. 1788, provided that: “The amendments made by this subsection [amending section 203(c) of Pub. L. 101–650, set out above] shall take effect on the date of enactment of this Act [Nov. 2, 2002].” ]
 
@@ -2985,7 +2574,7 @@ Section 225 of the Federal Salary Act of 1967, referred to in text, is section 2
 Amendment by Pub. L. 88–426 effective on the first day of the first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
 
 #### Effective Date of 1955 Amendment
-Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under [section 31 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section31&num=0&edition=prelim), The Congress.
+Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under [section 4501 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4501&num=0&edition=prelim), The Congress.
 
 #### Salary Increases
 For adjustment of salaries of district judges under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.

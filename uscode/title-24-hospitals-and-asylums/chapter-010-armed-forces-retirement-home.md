@@ -225,7 +225,7 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 <a id="section-413"></a>
 ## § 413. Residents of Retirement Home
-**(a) Persons eligible to be residents** Except as provided in subsection (b) of this section, the following persons who served as members of the Armed Forces, at least one-half of whose service was not active commissioned service (other than as a warrant officer or limited-duty officer), are eligible to become residents of the Retirement Home:
+**(a) Persons eligible to be residents** Except as provided in subsection (b), the following persons who served as members of the Armed Forces, at least one-half of whose service was not active commissioned service (other than as a warrant officer or limited-duty officer), are eligible to become residents of the Retirement Home:
 
 (1) Persons who—
 
@@ -249,7 +249,7 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
   (B) are determined under rules prescribed by the Chief Operating Officer to be eligible for admission because of compelling personal circumstances.
 
-**(b) Persons ineligible to be residents** A person described in subsection (a) of this section who has been convicted of a felony or is not free of drug, alcohol, or psychiatric problems shall be ineligible to become a resident of the Retirement Home.
+**(b) Persons ineligible to be residents** A person described in subsection (a) who has been convicted of a felony or is not free of drug, alcohol, or psychiatric problems shall be ineligible to become a resident of the Retirement Home.
 
 **(c) Acceptance** To apply for acceptance as a resident of a facility of the Retirement Home, a person eligible to be a resident shall submit to the Administrator of that facility an application in such form and containing such information as the Chief Operating Officer may require.
 
@@ -278,13 +278,13 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 <a id="section-413a"></a>
 ## § 413a. Services provided to residents
-**(a) Services provided** Except as provided in subsections (b), (c), and (d) of this section, a resident of the Retirement Home shall receive the services authorized by the Chief Operating Officer.
+**(a) Services provided** Except as provided in subsections (b), (c), and (d), a resident of the Retirement Home shall receive the services authorized by the Chief Operating Officer.
 
-**(b) Medical and dental care** The Retirement Home shall provide for the overall health care needs of residents in a high quality and cost-effective manner, including on site primary care, medical care, and a continuum of long-term care services. The services provided residents of the Retirement Home shall include appropriate nonacute medical and dental services, pharmaceutical services, and transportation of residents, which shall be provided at no cost to residents. Secondary and tertiary hospital care for residents that is not available at a facility of the Retirement Home shall, to the extent available, be obtained by agreement with the Secretary of Veterans Affairs or the Secretary of Defense in a facility administered by such Secretary. Except as provided in subsection (d) of this section, the Retirement Home shall not be responsible for the costs incurred for such care by a resident of the Retirement Home who uses a private medical facility for such care. The Retirement Home may not construct an acute care facility.
+**(b) Medical and dental care** The Retirement Home shall provide for the overall health care needs of residents in a high quality and cost-effective manner, including on site primary care, medical care, and a continuum of long-term care services. The services provided residents of the Retirement Home shall include appropriate nonacute medical and dental services, pharmaceutical services, and transportation of residents, which shall be provided at no cost to residents. Secondary and tertiary hospital care for residents that is not available at a facility of the Retirement Home shall, to the extent available, be obtained by agreement with the Secretary of Veterans Affairs or the Secretary of Defense in a facility administered by such Secretary. Except as provided in subsection (d), the Retirement Home shall not be responsible for the costs incurred for such care by a resident of the Retirement Home who uses a private medical facility for such care. The Retirement Home may not construct an acute care facility.
 
 **(c) Availability of physicians and dentists**
 
-(1) In providing for the health care needs of residents at a facility of the Retirement Home under subsection (b) of this section, the Retirement Home shall have a physician and a dentist—
+(1) In providing for the health care needs of residents at a facility of the Retirement Home under subsection (b), the Retirement Home shall have a physician and a dentist—
 
   (A) available at the facility during the daily business hours of the facility; and
 
@@ -309,7 +309,7 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 2006—Subsec. (a). Pub. L. 109–163, § 909(a)(1), substituted “subsections (b), (c), and (d)” for “subsection (b)”.
 
-Subsec. (b). Pub. L. 109–163, § 909(a)(2), substituted “Except as provided in subsection (d) of this section, the” for “The”.
+Subsec. (b). Pub. L. 109–163, § 909(a)(2), substituted “Except as provided in subsection (d), the” for “The”.
 
 Subsecs. (c), (d). Pub. L. 109–163, § 909(a)(3), added subsecs. (c) and (d).
 
@@ -327,9 +327,9 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 ## § 414. Oversight of health care provided to residents
 **(a) Designation of Senior Medical Advisor**
 
-(1) The Secretary of Defense shall designate the Deputy Director of the TRICARE Management Activity to serve as the Senior Medical Advisor for the Retirement Home.
+(1) The Secretary of Defense shall designate the Deputy Director of the Defense Health Agency to serve as the Senior Medical Advisor for the Retirement Home.
 
-(2) The Deputy Director of the TRICARE Management Activity shall serve as Senior Medical Advisor for the Retirement Home in addition to performing all other duties and responsibilities assigned to the Deputy Director of the TRICARE Management Activity at the time of the designation under paragraph (1) or afterward.
+(2) The Deputy Director of the Defense Health Agency shall serve as Senior Medical Advisor for the Retirement Home in addition to performing all other duties and responsibilities assigned to the Deputy Director of the Defense Health Agency at the time of the designation under paragraph (1) or afterward.
 
 **(b) Responsibilities** The Senior Medical Advisor shall provide advice to the Secretary of Defense, the Under Secretary of Defense for Personnel and Readiness, the Chief Operating Officer, and the Advisory Council regarding the direction and oversight of—
 
@@ -341,7 +341,7 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 (1) Ensure the timely availability to residents of the Retirement Home, at locations other than the Retirement Home, of such acute medical, mental health, and dental care as such resident may require that is not available at the applicable facility of the Retirement Home.
 
-(2) Ensure compliance by the facilities of the Retirement Home with accreditation standards, applicable health care standards of the Department of Veterans Affairs, or any other applicable health care standards and requirements (including requirements identified in applicable reports of the Inspector General of the Department of Defense).
+(2) Ensure compliance by the facilities of the Retirement Home with accreditation standards, applicable nationally recognized health care standards and requirements, or any other applicable health care standards and requirements (including requirements identified in applicable reports of the Inspector General of the Department of Defense).
 
 (3) Periodically visit each facility of the Retirement Home to review—
 
@@ -356,6 +356,10 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–291, § 721(a), substituted “Deputy Director of the Defense Health Agency” for “Deputy Director of the TRICARE Management Activity” wherever appearing.
+
+Subsec. (c)(2). Pub. L. 113–291, § 721(b), substituted “nationally recognized health care standards and requirements” for “health care standards of the Department of Veterans Affairs”.
+
 2011—Pub. L. 112–81, § 567(c)(3), substituted “Oversight of health care provided to residents” for “Improved health care oversight of Retirement Home” in section catchline.
 
 Subsec. (b). Pub. L. 112–81, § 562(a), substituted “The” for “(1) The” and “the Chief Operating Officer, and the Advisory Council regarding the direction and oversight of—” for “the Chief Operating Officer regarding the direction and oversight of the provision of medical, preventive mental health, and dental care services at each facility of the Retirement Home.”, added pars. (1) and (2), and struck out former par. (2) which read as follows: “The Senior Medical Advisor shall also provide advice to the Local Board for a facility of the Retirement Home regarding all medical and medical administrative matters of the facility.”
@@ -373,11 +377,11 @@ Subsec. (c)(3) to (5). Pub. L. 112–81, § 562(b), added pars. (3) and (4) and 
 ## § 415. Fees paid by residents
 **(a) Monthly fees** The Administrator of each facility of the Retirement Home shall collect a monthly fee from each resident of that facility.
 
-**(b) Deposit of fees** The Administrators shall deposit fees collected under subsection (a) of this section in the Armed Forces Retirement Home Trust Fund.
+**(b) Deposit of fees** The Administrators shall deposit fees collected under subsection (a) in the Armed Forces Retirement Home Trust Fund.
 
 **(c) Fixing fees**
 
-(1) The Chief Operating Officer, with the approval of the Secretary of Defense, shall from time to time prescribe the fees required by subsection (a) of this section. Changes to such fees shall be based on the financial needs of the Retirement Home and the ability of the residents to pay. A change of a fee may not take effect until 120 days after the Secretary of Defense transmits a notification of the change to the Committees on Armed Services of the Senate and the House of Representatives.
+(1) The Chief Operating Officer, with the approval of the Secretary of Defense, shall from time to time prescribe the fees required by subsection (a). Changes to such fees shall be based on the financial needs of the Retirement Home and the ability of the residents to pay. A change of a fee may not take effect until 120 days after the Secretary of Defense transmits a notification of the change to the Committees on Armed Services of the Senate and the House of Representatives.
 
 (2) The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate.
 
@@ -788,7 +792,7 @@ Pub. L. 105–261, div. A, title X, § 1042(b), Oct. 17, 1998, 112 Stat. 2125, p
 
 (5) Amounts deposited in the Fund as deductions from the pay of enlisted members, warrant officers, and limited duty officers under [section 1007(i) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section1007/i&num=0&edition=prelim).
 
-(6) Interest from investments made under subsection (c) of this section.
+(6) Interest from investments made under subsection (c).
 
 **(b) Availability and use of Fund** Amounts in the Fund shall be available solely for the operation of the Retirement Home.
 
@@ -845,7 +849,7 @@ Section effective Nov. 5, 1990, see section 1541(b) of Pub. L. 101–510, former
 
 (1)
 
-  (A) If the disposition of the estate of a resident of the Retirement Home cannot be accomplished under subsection (a)(2) of this section or if a resident dies testate and the nominated fiduciary, legatees, or heirs of the resident cannot be immediately ascertained, the entirety of the deceased resident’s domiciliary estate and the entirety of any ancillary estate that is unclaimed at the end of the three-year period beginning on the date of the death of the resident shall escheat to the Retirement Home.
+  (A) If the disposition of the estate of a resident of the Retirement Home cannot be accomplished under subsection (a)(2) or if a resident dies testate and the nominated fiduciary, legatees, or heirs of the resident cannot be immediately ascertained, the entirety of the deceased resident’s domiciliary estate and the entirety of any ancillary estate that is unclaimed at the end of the three-year period beginning on the date of the death of the resident shall escheat to the Retirement Home.
 
   (B) Upon the sale of any such unclaimed estate property, the proceeds of the sale shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
@@ -859,7 +863,7 @@ Section effective Nov. 5, 1990, see section 1541(b) of Pub. L. 101–510, former
 
 (3) The designation of an employee or representative of a facility of the Retirement Home as personal representative of the estate of a resident of the Retirement Home or as a legatee under the will or codicil of the resident shall not disqualify an employee or staff member of that facility from serving as a competent witness to a will or codicil of the resident.
 
-(4) After the end of the three-year period beginning on the date of the death of a resident of a facility, the Administrator of the facility shall dispose of all property of the deceased resident that is not otherwise disposed of under this subsection, including personal effects such as decorations, medals, and citations to which a right has not been established under subsection (a) of this section. Disposal may be made within the discretion of the Administrator by—
+(4) After the end of the three-year period beginning on the date of the death of a resident of a facility, the Administrator of the facility shall dispose of all property of the deceased resident that is not otherwise disposed of under this subsection, including personal effects such as decorations, medals, and citations to which a right has not been established under subsection (a). Disposal may be made within the discretion of the Administrator by—
 
   (A) retaining such property or effects for the facility;
 
@@ -867,15 +871,15 @@ Section effective Nov. 5, 1990, see section 1541(b) of Pub. L. 101–510, former
 
   (C) destroying any items determined by the Administrator to be valueless.
 
-**(c) Transfer of proceeds to Fund** The net proceeds received by the Administrators from the sale of effects under subsection (b) of this section shall be deposited in the Fund.
+**(c) Transfer of proceeds to Fund** The net proceeds received by the Administrators from the sale of effects under subsection (b) shall be deposited in the Fund.
 
 **(d) Subsequent claim**
 
-(1) A claim for the net proceeds of the sale under subsection (b) of this section of the effects of a deceased may be filed with the Secretary of Defense at any time within six years after the death of the deceased, for action under [section 2771 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2771&num=0&edition=prelim).
+(1) A claim for the net proceeds of the sale under subsection (b) of the effects of a deceased may be filed with the Secretary of Defense at any time within six years after the death of the deceased, for action under [section 2771 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2771&num=0&edition=prelim).
 
 (2) A claim referred to in paragraph (1) may not be considered by a court or the Secretary unless the claim is filed within the time period prescribed in such paragraph.
 
-(3) A claim allowed by the Secretary under paragraph (1) shall be certified to the Secretary of the Treasury for payment from the Fund in the amount found due, including any interest relating to the amount. No claim may be allowed or paid in excess of the net proceeds of the estate deposited in the Fund under subsection (c) of this section plus interest.
+(3) A claim allowed by the Secretary under paragraph (1) shall be certified to the Secretary of the Treasury for payment from the Fund in the amount found due, including any interest relating to the amount. No claim may be allowed or paid in excess of the net proceeds of the estate deposited in the Fund under subsection (c) plus interest.
 
 **(e) Unclaimed property** In the case of property delivered to the Retirement Home under [section 2575 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2575&num=0&edition=prelim), the Administrator of the facility shall deliver the property to the owner, the heirs or next of kin of the owner, or the legal representative of the owner, if a right to the property is established to the satisfaction of the Administrator of the facility within two years after the delivery.
 
@@ -945,7 +949,7 @@ Section applicable to estate of each resident of Armed Forces Retirement Home, i
 ## § 422. Payment of residents for services
 **(a) Authority** The Chief Operating Officer is authorized to accept for the Armed Forces Retirement Home the part-time or intermittent services of a resident of the Retirement Home, to pay the resident for such services, and to fix the rate of such pay.
 
-**(b) Employment status** A resident receiving pay for services authorized under subsection (a) of this section shall not, by reason of performing such services and receiving pay for such services, be considered as—
+**(b) Employment status** A resident receiving pay for services authorized under subsection (a) shall not, by reason of performing such services and receiving pay for such services, be considered as—
 
 (1) receiving the pay of a position or being employed in a position for the purposes of section 5532 11 See References in Text note below. of title 5; or
 
@@ -955,7 +959,7 @@ Section applicable to estate of each resident of Armed Forces Retirement Home, i
 
   (B) chapter 171 of title 28 (relating to claims for damages or loss).
 
-**(c) “Position” defined** In subsection (b)(1) of this section, the term “position” has the meaning given that term in [section 5531 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5531&num=0&edition=prelim).
+**(c) “Position” defined** In subsection (b)(1), the term “position” has the meaning given that term in [section 5531 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5531&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -973,7 +977,7 @@ Pub. L. 102–484, div. A, title III, § 385(b), Oct. 23, 1992, 106 Stat. 2394, 
 
 <a id="section-423"></a>
 ## § 423. Authority to accept certain uncompensated services
-**(a) Authority to accept services** Subject to subsection (b) of this section and notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), the Chief Operating Officer or the Administrator of a facility of the Retirement Home may accept from any person voluntary personal services or gratuitous services.
+**(a) Authority to accept services** Subject to subsection (b) and notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), the Chief Operating Officer or the Administrator of a facility of the Retirement Home may accept from any person voluntary personal services or gratuitous services.
 
 **(b) Requirements and limitations**
 
@@ -985,31 +989,31 @@ Pub. L. 102–484, div. A, title III, § 385(b), Oct. 23, 1992, 106 Stat. 2394, 
 
   (B) ensure that the person is licensed, privileged, has appropriate credentials, or is otherwise qualified under applicable laws or regulations to provide such services.
 
-(3) A person providing services accepted under subsection (a) of this section may not—
+(3) A person providing services accepted under subsection (a) may not—
 
   (A) serve in a policymaking position of the Retirement Home; or
 
   (B) be compensated for the services by the Retirement Home.
 
-**(c) Authority to recruit and train persons providing services** The Chief Operating Officer or the Administrator of a facility of the Retirement Home may recruit and train persons to provide services authorized to be accepted under subsection (a) of this section.
+**(c) Authority to recruit and train persons providing services** The Chief Operating Officer or the Administrator of a facility of the Retirement Home may recruit and train persons to provide services authorized to be accepted under subsection (a).
 
 **(d) Status of persons providing services**
 
-(1) Subject to paragraph (3), while providing services accepted under subsection (a) of this section or receiving training under subsection (c) of this section, a person shall be considered to be an employee of the Federal Government only for purposes of the following provisions of law:
+(1) Subject to paragraph (3), while providing services accepted under subsection (a) or receiving training under subsection (c), a person shall be considered to be an employee of the Federal Government only for purposes of the following provisions of law:
 
   (A) Subchapter I of chapter 81 of title 5 (relating to compensation for work-related injuries).
 
   (B) Chapter 171 of title 28 (relating to claims for damages or loss).
 
-(2) A person providing services accepted under subsection (a) of this section shall be considered to be an employee of the Federal Government under paragraph (1) only with respect to services that are within the scope of the services accepted.
+(2) A person providing services accepted under subsection (a) shall be considered to be an employee of the Federal Government under paragraph (1) only with respect to services that are within the scope of the services accepted.
 
-(3) For purposes of determining the compensation for work-related injuries payable under chapter 81 of title 5 (pursuant to this subsection) to a person providing services accepted under subsection (a) of this section, the monthly pay of the person for such services shall be deemed to be the amount determined by multiplying—
+(3) For purposes of determining the compensation for work-related injuries payable under chapter 81 of title 5 (pursuant to this subsection) to a person providing services accepted under subsection (a), the monthly pay of the person for such services shall be deemed to be the amount determined by multiplying—
 
   (A) the average monthly number of hours that the person provided the services, by
 
   (B) the minimum wage determined in accordance with [section 206(a)(1) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/1&num=0&edition=prelim).
 
-**(e) Reimbursement of incidental expenses** The Chief Operating Officer or the Administrator of a facility accepting services under subsection (a) of this section may provide for reimbursement of a person for incidental expenses incurred by the person in providing the services accepted under subsection (a) of this section. The Chief Operating Officer or Administrator shall determine which expenses qualify for reimbursement under this subsection.
+**(e) Reimbursement of incidental expenses** The Chief Operating Officer or the Administrator of a facility accepting services under subsection (a) may provide for reimbursement of a person for incidental expenses incurred by the person in providing the services accepted under subsection (a). The Chief Operating Officer or Administrator shall determine which expenses qualify for reimbursement under this subsection.
 
 ### Statutory Notes
 
@@ -1037,11 +1041,14 @@ Subsec. (e). Pub. L. 107–107, § 1404(b)(4)(E), substituted “Chief Operating
 
 (3) Other sources of funding are available to contribute to the maintenance, repair, and preservation of these historic buildings and grounds.
 
-**(b) Authority to accept assistance** The Chief Operating Officer and the Administrator of the Armed Forces Retirement Home—Washington may apply for and accept a direct grant from the Secretary of the Interior under [section 470a(e)(3) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/3&num=0&edition=prelim) for the purpose of maintaining, repairing, and preserving the historic buildings and grounds of the Armed Forces Retirement Home—Washington included on the National Register of Historic Places.
+**(b) Authority to accept assistance** The Chief Operating Officer and the Administrator of the Armed Forces Retirement Home—Washington may apply for and accept a direct grant from the Secretary of the Interior under [section 302904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section302904&num=0&edition=prelim) for the purpose of maintaining, repairing, and preserving the historic buildings and grounds of the Armed Forces Retirement Home—Washington included on the National Register of Historic Places.
 
-**(c) Requirements and limitations** Amounts received as a grant under subsection (b) of this section shall be deposited in the Fund, but shall be kept separate from other amounts in the Fund. The amounts received may only be used for the purpose specified in subsection (b) of this section.
+**(c) Requirements and limitations** Amounts received as a grant under subsection (b) shall be deposited in the Fund, but shall be kept separate from other amounts in the Fund. The amounts received may only be used for the purpose specified in subsection (b).
 
 ### Statutory Notes
+
+#### Codification
+In subsec. (b), “[section 302904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section302904&num=0&edition=prelim)” substituted for “[section 470a(e)(3) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/3&num=0&edition=prelim)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
 2011—Subsec. (b). Pub. L. 112–81 substituted “Administrator” for “Director”.

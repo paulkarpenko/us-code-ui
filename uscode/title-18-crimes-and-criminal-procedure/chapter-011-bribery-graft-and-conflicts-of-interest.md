@@ -334,7 +334,7 @@ Set forth below are the citations to the legislative history of Public Law 87–
 
   (A) the Congress; and
 
-  (B) the Office of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, office, or commission established in the legislative branch.
+  (B) the Office of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, office, or commission established in the legislative branch.
 
 ### Statutory Notes
 
@@ -368,7 +368,9 @@ Subsec. (e)(3)(B). Pub. L. 101–280, § 5(a)(3)(2)(B), substituted “the Offic
 1968—Subsec. (a). Pub. L. 90–578 substituted “a part-time United States commissioner, or a part-time United States magistrate” for “or a part-time United States Commissioner”.
 
 #### Change of Name
-“United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
+“United States magistrate judge” substituted for “United States magistrate” in subsec. (a) on authority of section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (e)(3)(B) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
@@ -781,7 +783,7 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
   (F) a person is an employee of a Senator if that person is an employee in a position in the office of a Senator;
 
-  (G) the term “employee of any other legislative office of the Congress” means an officer or employee of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, or office in the legislative branch not covered by paragraph (1), (2), (3), (4), or (5) of this subsection;
+  (G) the term “employee of any other legislative office of the Congress” means an officer or employee of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, or office in the legislative branch not covered by paragraph (1), (2), (3), (4), or (5) of this subsection;
 
   (H) the term “employee on the leadership staff of the House of Representatives” means an employee of the office of a Member of the leadership of the House of Representatives described in subparagraph (L), and any elected minority employee of the House of Representatives;
 
@@ -1095,6 +1097,8 @@ Subsec. (d). Pub. L. 96–28, § 2, designated existing provisions as par. (1), 
 
 #### Change of Name
 “Independent Payment Advisory Board” substituted for “Independent Medicare Advisory Board” in subsec. (c)(3) on authority of section 10320(b) of Pub. L. 111–148, set out as a note under [section 1395kkk of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395kkk&num=0&edition=prelim), The Public Health and Welfare.
+
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (e)(9)(G) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 2007 Amendment
 Pub. L. 110–81, title I, § 105(a), Sept. 14, 2007, 121 Stat. 741, provided that: “The amendments made by section 101 [amending this section] shall apply to individuals who leave Federal office or employment to which such amendments apply on or after the date of adjournment of the first session of the 110th Congress sine die or December 31, 2007, whichever date is earlier.”
@@ -1466,7 +1470,8 @@ A prior [section 214 of this title](./chapter-011-bribery-graft-and-conflicts-of
 
 (2) as an officer, director, employee, agent, or attorney of a financial institution, corruptly solicits or demands for the benefit of any person, or corruptly accepts or agrees to accept, anything of value from any person, intending to be influenced or rewarded in connection with any business or transaction of such institution;
 shall be fined not more than $1,000,000 or three times the value of the thing given, offered, promised, solicited, demanded, accepted, or agreed to be accepted, whichever is greater, or imprisoned not more than 30 years, or both, but if the value of the thing given, offered, promised, solicited, demanded, accepted, or agreed to be accepted does not exceed $1,000, shall be fined under this title or imprisoned not more than one year, or both.
-[(b) Transferred]
+
+**(b)** Transferred]
 
 **(c)** This section shall not apply to bona fide salary, wages, fees, or other compensation paid, or expenses paid or reimbursed, in the usual course of business.
 

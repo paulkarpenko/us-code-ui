@@ -87,9 +87,9 @@ Section was formerly classified to [section 363 of this title](https://uscode.ho
 
 **(b) Allotments to States; authorization of appropriations for Virgin Islands and Guam; limitation**
 
-(1) Out of such sums each State shall be entitled to receive annually a sum of money equal to and subject to the same requirement as to use for marketing research projects as the sums received from Federal appropriations for State agricultural experiment stations for the fiscal year 1955, except that amounts heretofore made available from the fund known as the “Regional research fund, Office of Experiment Stations” shall continue to be available for the support of cooperative regional projects as defined in subsection (c)(3) of this section, and the said fund shall be designated “Regional research fund, State agricultural experiment stations,” and the Secretary of Agriculture shall be entitled to receive annually for the administration of sections 361a to 361i of this title, a sum not less than that available for this purpose for the fiscal year ending June 30, 1955: Provided, That if the appropriations hereunder available for distribution in any fiscal year are less than those for the fiscal year 1955 the allotment to each State and the amounts for Federal administration and the regional research fund shall be reduced in proportion to the amount of such reduction.
+(1) Out of such sums each State shall be entitled to receive annually a sum of money equal to and subject to the same requirement as to use for marketing research projects as the sums received from Federal appropriations for State agricultural experiment stations for the fiscal year 1955, except that amounts heretofore made available from the fund known as the “Regional research fund, Office of Experiment Stations” shall continue to be available for the support of cooperative regional projects as defined in subsection (c)(3), and the said fund shall be designated “Regional research fund, State agricultural experiment stations,” and the Secretary of Agriculture shall be entitled to receive annually for the administration of sections 361a to 361i of this title, a sum not less than that available for this purpose for the fiscal year ending June 30, 1955: Provided, That if the appropriations hereunder available for distribution in any fiscal year are less than those for the fiscal year 1955 the allotment to each State and the amounts for Federal administration and the regional research fund shall be reduced in proportion to the amount of such reduction.
 
-(2) There is authorized to be appropriated for the fiscal year ending June 30, 1973, and for each fiscal year thereafter, for payment to the Virgin Islands and Guam, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to sections 361a to 361i of this title, the amount available and budg­eted for expenditure by the Virgin Islands and Guam for the purposes of such sections.
+(2) There is authorized to be appropriated for the fiscal year ending June 30, 1973, and for each fiscal year thereafter, for payment to the Virgin Islands and Guam, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to sections 361a to 361i of this title, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of such sections.
 
 **(c) Allotment of additional sums** Any sums made available by the Congress in addition to those provided for in subsection (b) of this section for State agricultural experiment station work shall be distributed as follows:
 
@@ -97,17 +97,17 @@ Section was formerly classified to [section 363 of this title](https://uscode.ho
 
 (2) Not less than 52 per centum of such sums shall be allotted to each State, as follows: One-half in an amount which bears the same ratio to the total amount to be allotted as the rural population of the State bears to the total rural population of all the States as determined by the last preceding decennial census current at the time each such additional sum is first appropriated; and one-half in an amount which bears the same ratio to the total amount to be allotted as the farm population of the State bears to the total farm population of all the States as determined by the last preceding decennial census current at the time such additional sum is first appropriated;
 
-(3) Not less than 25 percent shall be allotted to the States for cooperative research employing multidisciplinary approaches in which a State agricultural experiment station, working with another State agricultural experiment station, the Agricultural Research Service, or a college or university, cooperates to solve problems that concern more than 1 State. The funds available under this paragraph, together with the funds available under subsection (b) of this section for a similar purpose, shall be designated as the “Multistate Research Fund, State Agricultural Experiment Stations”.
+(3) Not less than 25 percent shall be allotted to the States for cooperative research employing multidisciplinary approaches in which a State agricultural experiment station, working with another State agricultural experiment station, the Agricultural Research Service, or a college or university, cooperates to solve problems that concern more than 1 State. The funds available under this paragraph, together with the funds available under subsection (b) for a similar purpose, shall be designated as the “Multistate Research Fund, State Agricultural Experiment Stations”.
 
 (4) Three per centum shall be available to the Secretary of Agriculture for administration of sections 361a to 361i of this title. These administrative funds may be used for transportation of scientists who are not officers or employees of the United States to research meetings convened for the purpose of assessing research opportunities or research planning.
 
 **(d) Matching funds**
 
-(1) **Requirement** — Except as provided in paragraph (4), no allotment shall be made to a State under subsection (b) or (c) of this section, and no payments from the allotment shall be made to a State, in excess of the amount that the State makes available out of non-Federal funds for agricultural research and for the establishment and maintenance of facilities for the performance of the research.
+(1) **Requirement** — Except as provided in paragraph (4), no allotment shall be made to a State under subsection (b) or (c), and no payments from the allotment shall be made to a State, in excess of the amount that the State makes available out of non-Federal funds for agricultural research and for the establishment and maintenance of facilities for the performance of the research.
 
 (2) **Failure to provide matching funds** — If a State fails to comply with the requirement to provide matching funds for a fiscal year under paragraph (1), the Secretary of Agriculture shall withhold from payment to the State for that fiscal year an amount equal to the difference between—
 
-  (A) the amount that would be allotted and paid to the State under subsections (b) and (c) of this section (if the full amount of matching funds were provided by the State); and
+  (A) the amount that would be allotted and paid to the State under subsections (b) and (c) (if the full amount of matching funds were provided by the State); and
 
   (B) the amount of matching funds actually provided by the State.
 
@@ -123,7 +123,7 @@ Section was formerly classified to [section 363 of this title](https://uscode.ho
 
   (B) *Waivers* — The Secretary may waive the matching fund requirement of subparagraph (A) for any fiscal year if the Secretary determines that the government of the insular area or the District of Columbia will be unlikely to meet the matching requirement for the fiscal year.
 
-**(e) “Administration” defined** “Administration” as used in this section shall include participation in planning and coordinating cooperative regional research as defined in subsection (c)(3) of this section.
+**(e) “Administration” defined** “Administration” as used in this section shall include participation in planning and coordinating cooperative regional research as defined in subsection (c)(3).
 
 **(f) Adjustment of payments** In making payments to States, the Secretary of Agriculture is authorized to adjust any such payment to the nearest dollar.
 
@@ -131,9 +131,9 @@ Section was formerly classified to [section 363 of this title](https://uscode.ho
 
 **(h) Peer review and plan of work**
 
-(1) **Peer review** — Research carried out under subsection (c)(3) of this section shall be subject to scientific peer review. The review of a project conducted under this paragraph shall be considered to satisfy the merit review requirements of [section 7613(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7613/e&num=0&edition=prelim).
+(1) **Peer review** — Research carried out under subsection (c)(3) shall be subject to scientific peer review. The review of a project conducted under this paragraph shall be considered to satisfy the merit review requirements of [section 7613(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7613/e&num=0&edition=prelim).
 
-(2) **Plan of work** — The State shall include in the plan of work of the State required under [section 361g of this title](./chapter-014-agricultural-experiment-stations.md#section-361g) a description of the manner in which the State will meet the requirements of subsection (c)(3) of this section.
+(2) **Plan of work** — The State shall include in the plan of work of the State required under [section 361g of this title](./chapter-014-agricultural-experiment-stations.md#section-361g) a description of the manner in which the State will meet the requirements of subsection (c)(3).
 
 **(i) Integration of research and extension**
 
@@ -180,7 +180,7 @@ Subsec. (d)(4)(A). Pub. L. 110–246, § 7404(a)(2), inserted “and the Distric
 
 Subsec. (d)(4)(B). Pub. L. 110–246, § 7404(a)(3), inserted “or the District of Columbia” after “area”.
 
-2002—Subsec. (d)(4). Pub. L. 107–171 added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under [section 3222d of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3222d).”
+2002—Subsec. (d)(4). Pub. L. 107–171 added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under [section 3222d of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3222d&num=0&edition=prelim).”
 
 1998—Subsec. (b)(1). Pub. L. 105–185, § 104(b)(1), made technical amendment to reference in original act which appears in text as reference to subsection (c)(3) of this section.
 
@@ -219,16 +219,16 @@ Subsec. (c)(5). Pub. L. 95–113, § 1466(b), inserted provision authorizing the
 1955—Act Aug. 11, 1955, amended section generally to authorize appropriations and to provide for allotment of grants. For provisions which related to advice and assistance by the Secretary of Agriculture, see [section 361g of this title](./chapter-014-agricultural-experiment-stations.md#section-361g).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) [title VII, § 753(f)] of Pub. L. 105–277, set out as a note under [section 343 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-343).
 
 #### Effective Date of 1981 Amendment
-Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4301&num=0&edition=prelim).
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim).
 
 #### Effective Date of 1972 Amendment
 Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) of Pub. L. 92–318, set out as an Effective Date note under [section 326a of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-326a).
@@ -284,7 +284,7 @@ Section was formerly classified to [section 377 of this title](https://uscode.ho
 1955—Act Aug. 11, 1955, amended section generally to authorize free mailing of publications by the agricultural experiment stations. For provisions which related to the unexpended balance of annual appropriation, see [section 361g of this title](./chapter-014-agricultural-experiment-stations.md#section-361g).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 #### Transfer of Functions
 “United States Postal Service” substituted in text for “Postmaster General” pursuant to Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under [section 201 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section201&num=0&edition=prelim), Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
@@ -308,7 +308,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(d) Plan of work required** Before funds may be provided to a State under sections 361a to 361i of this title for any fiscal year, a plan of work to be carried out under sections 361a to 361i of this title shall be submitted by the proper officials of the State and shall be approved by the Secretary of Agriculture.
 
-**(e) Requirements related to plan of work** Each plan of work for a State required under subsection (d) of this section shall contain descriptions of the following:
+**(e) Requirements related to plan of work** Each plan of work for a State required under subsection (d) shall contain descriptions of the following:
 
 (1) The critical short-term, intermediate, and long-term agricultural issues in the State and the current and planned research programs and projects targeted to address the issues.
 
@@ -320,11 +320,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(f) Research protocols**
 
-(1) **Development** — The Secretary of Agriculture shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary research activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under subsection (d) of this section.
+(1) **Development** — The Secretary of Agriculture shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary research activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under subsection (d).
 
-(2) **Consultation** — The Secretary of Agriculture shall develop the protocols in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board established under [section 3123 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3123) and land-grant colleges and universities.
+(2) **Consultation** — The Secretary of Agriculture shall develop the protocols in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board established under [section 3123 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3123&num=0&edition=prelim) and land-grant colleges and universities.
 
-**(g) Treatment of plans of work for other purposes** To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (d) of this section to satisfy other appropriate Federal reporting requirements.
+**(g) Treatment of plans of work for other purposes** To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (d) to satisfy other appropriate Federal reporting requirements.
 
 ### Statutory Notes
 
@@ -348,7 +348,7 @@ Pub. L. 105–185, § 103(f)(2), struck out at end “If the Secretary of Agricu
 Amendment by section 202(b) of Pub. L. 105–185 effective Oct. 1, 1999, see section 202(c) of Pub. L. 105–185, set out as a note under [section 344 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-344).
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
 
 
 <a id="section-361h"></a>
@@ -592,7 +592,7 @@ The Act of March second, eighteen hundred and eighty-seven, referred to in text,
 The Act of March sixteenth, nineteen hundred and six, referred to in text, means act Mar. 16, 1906, ch. 951, 34 Stat. 63, as amended, known as the Adams Act of 1906, which was classified to sections 361, 366, 369, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
 
 
 <a id="section-385"></a>
@@ -638,7 +638,7 @@ The Secretary of Agriculture is authorized and directed to cause such shade, orn
 ### Statutory Notes
 
 #### Transfer of Functions
-All functions of all officers, agencies and employees of the Department of Agriculture were transferred, with certain exceptions, to the Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+All functions of all officers, agencies and employees of the Department of Agriculture were transferred, with certain exceptions, to the Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
 
 
 <a id="section-387a"></a>
@@ -655,7 +655,7 @@ The Secretary of Agriculture is authorized and directed to cause such shade, orn
 ### Statutory Notes
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
 
 
 <a id="section-388a"></a>
@@ -672,7 +672,7 @@ The Secretary of Agriculture is authorized, at such times as he deems appropriat
 ### Statutory Notes
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
 
 
 <a id="section-389a"></a>
@@ -683,7 +683,7 @@ Conveyances or patents under this section and [section 389 of this title](./chap
 ### Statutory Notes
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
 
 
 <a id="section-390"></a>
@@ -695,7 +695,7 @@ In this subchapter:
 
 (2) **Congressional agriculture committees** — The term “congressional agriculture committees” means the Committee on Appropriations and the Committee on Agriculture of the House of Representatives and the Committee on Appropriations and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-(3) **Food and agricultural sciences** — The term “food and agricultural sciences” has the meaning given that term in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103).
+(3) **Food and agricultural sciences** — The term “food and agricultural sciences” has the meaning given that term in [section 3103 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3103&num=0&edition=prelim).
 
 (4) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
 
@@ -731,7 +731,7 @@ A prior section 2 of Pub. L. 88–74 was classified to [section 390a of this tit
 Par. (5). Pub. L. 107–171, § 7308(b), struck out heading and text of par. (5). Text read as follows: “The term ‘task force’ means the Strategic Planning Task Force established under [section 390b of this title](./chapter-014-agricultural-experiment-stations.md#section-390b).”
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 #### Effective Date
 Pub. L. 104–127, title VIII, § 884(b), Apr. 4, 1996, 110 Stat. 1179, provided that: “The amendment made by subsection (a) [enacting this subchapter], other than section 4 of the Research Facilities Act [[section 390b of this title](./chapter-014-agricultural-experiment-stations.md#section-390b)] (as amended by subsection (a)), shall not apply to any project for an agricultural research facility for which funds have been made available for a feasibility study or for any phase of the project prior to October 1, 1995.”
@@ -748,7 +748,7 @@ Pub. L. 88–74, § 1, as added by Pub. L. 104–127, title VIII, § 884(a), Apr
 
 **(c) Criteria for approval**
 
-(1) **Determination by Secretary** — With respect to each proposal for an agricultural research facility submitted under subsection (a) of this section, the Secretary shall determine whether the proposal meets the criteria set forth in paragraph (2).
+(1) **Determination by Secretary** — With respect to each proposal for an agricultural research facility submitted under subsection (a), the Secretary shall determine whether the proposal meets the criteria set forth in paragraph (2).
 
 (2) **Criteria** — A proposal for an agricultural research facility shall meet the following criteria:
 
@@ -758,7 +758,7 @@ Pub. L. 88–74, § 1, as added by Pub. L. 104–127, title VIII, § 884(a), Apr
 
   (C) *National research priorities* — The proposal shall demonstrate how the agricultural research facility would serve—
 
-    (i) 1 or more of the national research policies and priorities set forth in [section 3101 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3101); and
+    (i) 1 or more of the national research policies and priorities set forth in [section 3101 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3101&num=0&edition=prelim); and
 
     (ii) national or multistate needs.
 
@@ -768,9 +768,9 @@ Pub. L. 88–74, § 1, as added by Pub. L. 104–127, title VIII, § 884(a), Apr
 
     (ii) each program to be based at the facility.
 
-**(d) Evaluation of proposals** Not later than 90 days after receiving a proposal under subsection (a) of this section, the Secretary shall—
+**(d) Evaluation of proposals** Not later than 90 days after receiving a proposal under subsection (a), the Secretary shall—
 
-(1) evaluate and assess the merits of the proposal, including the extent to which the proposal meets the criteria set forth in subsection (c) of this section; and
+(1) evaluate and assess the merits of the proposal, including the extent to which the proposal meets the criteria set forth in subsection (c); and
 
 (2) report to the congressional agriculture committees on the results of the evaluation and assessment.
 
@@ -804,14 +804,14 @@ A prior section 4 of Pub. L. 88–74 was classified to [section 390c of this tit
 <a id="section-390c"></a>
 ## § 390c. Applicability of Federal Advisory Committee Act
 
-The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of the Food and Agriculture Act of 1977 ([7 U.S.C. 2281](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2281) et seq.) shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
+The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of the Food and Agriculture Act of 1977 ([7 U.S.C. 2281](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2281&num=0&edition=prelim) et seq.) shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
 
 ### Statutory Notes
 
 #### References in Text
 The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Food and Agriculture Act of 1977, referred to in text, is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Food and Agriculture Act of 1977, referred to in text, is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 390c, Pub. L. 88–74, § 4, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 994; Pub. L. 97–98, title XIV, § 1416, Dec. 22, 1981, 95 Stat. 1304; Pub. L. 99–198, title XIV, § 1411(d), Dec. 23, 1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, § 1601(a), Nov. 28, 1990, 104 Stat. 3703, related to appropriations and administrative authority, prior to the general amendment of this subchapter by Pub. L. 104–127.
@@ -821,14 +821,14 @@ A prior section 5 of Pub. L. 88–74 was classified to [section 390d of this tit
 
 <a id="section-390d"></a>
 ## § 390d. Authorization of appropriations
-**(a) In general** Subject to subsection (b) of this section, there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2012 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
+**(a) In general** Subject to subsection (b), there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2018 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
 
 **(b) Allowable administrative costs** Not more than 3 percent of the funds made available for any project for an agricultural research facility shall be available for administration of the project.
 
 ### Statutory Notes
 
 #### Codification
-The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
@@ -858,6 +858,8 @@ A prior section 9 of Pub. L. 88–74 was renumbered section 7 and was classified
 A prior section 390k, Pub. L. 88–74, § 12, July 22, 1963, 77 Stat. 92, authorized appropriation of such sums as might be necessary for proper administration of this subchapter, prior to repeal by Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 994, effective Oct. 1, 1977.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”.
+
 2008—Subsec. (a). Pub. L. 110–246, § 7405, substituted “2012” for “2007”.
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
@@ -865,4 +867,4 @@ A prior section 390k, Pub. L. 88–74, § 12, July 22, 1963, 77 Stat. 92, author
 1998—Subsec. (a). Pub. L. 105–185 substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).

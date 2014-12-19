@@ -2,7 +2,7 @@
 title: 2
 chapter: '29'
 heading: CAPITOL POLICE
-section_count: 56
+section_count: 58
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -260,7 +260,7 @@ Pub. L. 111–145, § 2(a)(6), Mar. 4, 2010, 124 Stat. 50, provided that: “Not
 
 **(b) Responsibility and accountability of certifying officers**
 
-(1) **In general** — Each officer or employee of the Capitol Police who has been duly authorized in writing by the Chief Administrative Officer, or the Chief of the Capitol Police if there is not a Chief Administrative Officer, to certify vouchers pursuant to subsection (a) of this section shall—
+(1) **In general** — Each officer or employee of the Capitol Police who has been duly authorized in writing by the Chief Administrative Officer, or the Chief of the Capitol Police if there is not a Chief Administrative Officer, to certify vouchers pursuant to subsection (a) shall—
 
   (A) be held responsible for the existence and correctness of the facts recited in the certificate or otherwise stated on the voucher or its supporting papers and for the legality of the proposed payment under the appropriation or fund involved;
 
@@ -335,7 +335,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Law
 ## § 1906. Disposal of surplus property
 **(a) In general** Within the limits of available appropriations, the Capitol Police may dispose of surplus or obsolete property of the Capitol Police by interagency transfer, donation, sale, trade-in, or other appropriate method.
 
-**(b) Amounts received** Any amounts received by the Capitol Police from the disposition of property under subsection (a) of this section shall be credited to the account established for the general expenses of the Capitol Police, and shall be available to carry out the purposes of such account during the fiscal year in which the amounts are received and the following fiscal year.
+**(b) Amounts received** Any amounts received by the Capitol Police from the disposition of property under subsection (a) shall be credited to the account established for the general expenses of the Capitol Police, and shall be available to carry out the purposes of such account during the fiscal year in which the amounts are received and the following fiscal year.
 
 **(c) Effective date** This section shall apply to fiscal year 2003 and each fiscal year thereafter.
 
@@ -361,13 +361,13 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
   (A) *In general* — There is established in the Treasury of the United States a separate account for the Capitol Police, into which shall be deposited appropriations received by the Chief of the Capitol Police and available for the salaries of the Capitol Police.
 
-  (B) *Transfer authority during transition* — Until such time as the Chief notifies the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate that systems are in place for discharging the disbursing functions under subsection (a) of this section, the Chief shall have the authority to transfer amounts in the account to the House of Representatives and the Senate to the extent necessary to enable the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate to continue to serve as the disbursing authority on behalf of the Capitol Police pursuant to subsection (a)(3) of this section.
+  (B) *Transfer authority during transition* — Until such time as the Chief notifies the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate that systems are in place for discharging the disbursing functions under subsection (a), the Chief shall have the authority to transfer amounts in the account to the House of Representatives and the Senate to the extent necessary to enable the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate to continue to serve as the disbursing authority on behalf of the Capitol Police pursuant to subsection (a)(3).
 
 (2) **General expenses** — There is established in the Treasury of the United States a separate account for the Capitol Police, into which shall be deposited appropriations received by the Chief of the Capitol Police and available for the general expenses of the Capitol Police.
 
 **(c) Transfer of funds, assets, accounts, records, and authority**
 
-(1) **In general** — The Chief Administrative Officer of the House of Representatives and the Secretary of the Senate are authorized and directed to transfer to the Chief of the Capitol Police all funds, assets, accounts, and copies of original records of the Capitol Police that are in the possession or under the control of the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate in order that all such items may be available for the unified operation of the Capitol Police. Any funds so transferred shall be deposited in the Treasury accounts established under subsection (b) of this section and be available to the Chief of the Capitol Police for the same purposes as, and in like manner and subject to the same conditions as, the funds prior to the transfer.
+(1) **In general** — The Chief Administrative Officer of the House of Representatives and the Secretary of the Senate are authorized and directed to transfer to the Chief of the Capitol Police all funds, assets, accounts, and copies of original records of the Capitol Police that are in the possession or under the control of the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate in order that all such items may be available for the unified operation of the Capitol Police. Any funds so transferred shall be deposited in the Treasury accounts established under subsection (b) and be available to the Chief of the Capitol Police for the same purposes as, and in like manner and subject to the same conditions as, the funds prior to the transfer.
 
 (2) **Existing transfer authority** — Any transfer authority existing before February 20, 2003, granted to the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate for salaries, expenses, and operations of the Capitol Police shall be transferred to the Chief of the Capitol Police.
 
@@ -389,11 +389,7 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 (2) **Benefits** — Employees of the Capitol Police who are appointed by the Chief under the authority of this subsection shall be subject to the same type of benefits (including the payment of death gratuities, the withholding of debt, and health, retirement, Social Security, and other applicable employee benefits) as are provided to employees of the House of Representatives, and any such individuals serving as employees of the Capitol Police as of February 20, 2003, shall be subject to the same rules governing rights, protections, pay, and benefits in effect immediately before such date until such rules are changed under applicable laws or regulations.
 
-**(f) Worker’s compensation**
-
-(1) **Account** — There shall be established a separate account in the Capitol Police for purposes of making payments for employees of the Capitol Police under [section 8147 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8147&num=0&edition=prelim).
-
-(2) **Payments without fiscal year limitation** — Notwithstanding any other provision of law, payments may be made from the account established under paragraph (1) of this subsection without regard to the fiscal year for which the obligation to make such payments is incurred.
+**(f) Repealed. Pub. L. 113–76, div. I, title I, § 1002(b), Jan. 17, 2014, 128 Stat. 424**
 
 **(g) Effect on existing law**
 
@@ -416,7 +412,29 @@ Section is comprised of section 1018 of div. H of Pub. L. 108–7. Subsec. (h) o
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of Pub. L. 108–7.
 
 #### Amendments
+2014—Pub. L. 113–76 struck out subsec. (f), which established a worker’s compensation account for the Capitol Police.
+
 2010—Subsec. (e)(1). Pub. L. 111–145 added par. (1) and struck out former par. (1) which authorized the Chief of the Capitol Police to appoint, hire, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to review and approval.
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–76, div. I, title I, § 1002(c), Jan. 17, 2014, 128 Stat. 424, provided that: “This section [enacting [section 1907b of this title](./chapter-029-capitol-police.md#section-1907b) and amending this section] shall apply with respect to appropriations for fiscal year 2014 and each fiscal year thereafter.”
+
+
+<a id="section-1907a"></a>
+## § 1907a. Authority to transfer amounts between salaries and general expenses
+
+During fiscal year 2014 and any succeeding fiscal year, the Capitol Police may transfer amounts appropriated for the fiscal year between the category for salaries and the category for general expenses, upon the approval of the Committees on Appropriations of the House of Representatives and Senate.
+
+
+<a id="section-1907b"></a>
+## § 1907b. Funds available for workers compensation payments
+
+Available balances of expired United States Capitol Police appropriations shall be available to the Capitol Police to make the deposit to the credit of the Employees’ Compensation Fund required by [section 8147(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8147/b&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to appropriations for fiscal year 2014 and each fiscal year thereafter, see section 1002(c) of Pub. L. 113–76, set out as an Effective Date of 2014 Amendment note under [section 1907 of this title](./chapter-029-capitol-police.md#section-1907).
 
 
 <a id="section-1908"></a>
@@ -439,9 +457,9 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 **(b) Limitations**
 
-(1) **Direction for appearance** — Entrance of appearance authorized under subsection (a) of this section shall be subject to the direction of the Capitol Police Board.
+(1) **Direction for appearance** — Entrance of appearance authorized under subsection (a) shall be subject to the direction of the Capitol Police Board.
 
-(2) **United States Supreme Court** — The authority under subsection (a) of this section shall not apply with respect to the admission of any person to practice before the United States Supreme Court.
+(2) **United States Supreme Court** — The authority under subsection (a) shall not apply with respect to the admission of any person to practice before the United States Supreme Court.
 
 **(c) Effective date** This section shall apply to fiscal year 2004, and each fiscal year thereafter.
 
@@ -469,7 +487,7 @@ Pub. L. 111–145, § 4(b), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothin
 
 **(b) Inspector General**
 
-(1) **Appointment** — The Inspector General shall be appointed by, and under the general supervision of, the Capitol Police Board. The appointment shall be made in consultation with the Inspectors General of the Library of Congress, Government Printing Office, and the Government Accountability Office. The Capitol Police Board shall appoint the Inspector General without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
+(1) **Appointment** — The Inspector General shall be appointed by, and under the general supervision of, the Capitol Police Board. The appointment shall be made in consultation with the Inspectors General of the Library of Congress, Government Publishing Office, and the Government Accountability Office. The Capitol Police Board shall appoint the Inspector General without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
 
 (2) **Term of service** — The Inspector General shall serve for a term of 5 years, and an individual serving as Inspector General may be reappointed for not more than 2 additional terms.
 
@@ -501,7 +519,7 @@ Pub. L. 111–145, § 4(b), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothin
 
 (2) **Staff**
 
-  (A) *In general* — The Inspector General may appoint and fix the pay of such personnel as the Inspector General considers appropriate. Such personnel may be appointed without regard to the provisions of title 5 regarding appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no personnel of the Office (other than the Inspector General) may be paid at an annual rate greater than $500 less than the annual rate of pay of the Inspector General under subsection (b)(4) of this section.
+  (A) *In general* — The Inspector General may appoint and fix the pay of such personnel as the Inspector General considers appropriate. Such personnel may be appointed without regard to the provisions of title 5 regarding appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no personnel of the Office (other than the Inspector General) may be paid at an annual rate greater than $500 less than the annual rate of pay of the Inspector General under subsection (b)(4).
 
   (B) *Experts and consultants* — The Inspector General may procure temporary and intermittent services under [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim) at rates not to exceed the daily equivalent of the annual rate of basic pay for level IV of the Executive Schedule under section 5315 of such title.
 
@@ -515,7 +533,7 @@ Pub. L. 111–145, § 4(b), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothin
 
 (1) **Transfer** — To the extent that any office or entity in the Capitol Police prior to the appointment of the first Inspector General under this section carried out any of the duties and responsibilities assigned to the Inspector General under this section, the functions of such office or entity shall be transferred to the Office upon the appointment of the first Inspector General under this section.
 
-(2) **No reduction in pay or benefits** — The transfer of the functions of an office or entity to the Office under paragraph (1) may not result in a reduction in the pay or benefits of any employee of the office or entity, except to the extent required under subsection (d)(2)(A) of this section.
+(2) **No reduction in pay or benefits** — The transfer of the functions of an office or entity to the Office under paragraph (1) may not result in a reduction in the pay or benefits of any employee of the office or entity, except to the extent required under subsection (d)(2)(A).
 
 **(f) Effective date** This section shall be effective on August 2, 2005.
 
@@ -531,12 +549,15 @@ Section is comprised of section 1004 of Pub. L. 109–55. Subsec. (g) of section
 
 Section is from the Legislative Branch Appropriations Act, 2006.
 
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (b)(1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
 
 <a id="section-1910"></a>
 ## § 1910. Report of disbursements
 **(a) In general** Not later than 60 days after the last day of each semiannual period, the Chief of the Capitol Police shall submit to Congress, with respect to that period, a detailed, itemized report of the disbursements for the operations of the United States Capitol Police.
 
-**(b) Contents** The report required by subsection (a) of this section shall include—
+**(b) Contents** The report required by subsection (a) shall include—
 
 (1) the name of each person or entity who receives a payment from the Capitol Police and the amount thereof;
 
@@ -580,7 +601,7 @@ Section 2(a)(4), referred to in par. (2), means section 2(a)(4) of Pub. L. 111�
 For the amendments made by this section, referred to in par. (5), see Codification note below.
 
 #### Codification
-Section is comprised of subsec. (a) of section 3 of Pub. L. 111–145. Subsec. (a)(4) of section 3 of Pub. L. 111–145 repealed [section 84–2 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-84-2) and provisions set out as a note under [section 1901 of this title](./chapter-029-capitol-police.md#section-1901).
+Section is comprised of subsec. (a) of section 3 of Pub. L. 111–145. Subsec. (a)(4) of section 3 of Pub. L. 111–145 repealed [section 84–2 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-84-2), now [section 5521 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5521), and provisions set out as a note under [section 1901 of this title](./chapter-029-capitol-police.md#section-1901).
 
 
 <a id="section-1921"></a>
@@ -611,13 +632,13 @@ Repeal effective Feb. 20, 2003, and applicable to fiscal year 2003 and each fisc
 
 (5) The amount for educational assistance payments.
 
-**(b) No review or appeal permitted** The determination of a rate or amount described in subsection (a) of this section may not be subject to review or appeal in any manner.
+**(b) No review or appeal permitted** The determination of a rate or amount described in subsection (a) may not be subject to review or appeal in any manner.
 
 **(c) Rule of construction** Nothing in this section may be construed to affect—
 
-(1) any authority provided under law for a committee of the House of Representatives or Senate, or any other entity of the legislative branch, to review or approve any determination of a rate or amount described in subsection (a) of this section;
+(1) any authority provided under law for a committee of the House of Representatives or Senate, or any other entity of the legislative branch, to review or approve any determination of a rate or amount described in subsection (a);
 
-(2) any rate or amount described in subsection (a) of this section which is established under law; or
+(2) any rate or amount described in subsection (a) which is established under law; or
 
 (3) the terms of any collective bargaining agreement.
 
@@ -773,11 +794,11 @@ Section was classified to section 206c of former Title 40, prior to the enactmen
 
 **(b) Special rules for student loan repayments**
 
-(1) **Application of regulations under executive branch program** — In carrying out subsection (a)(1) of this section, the Chief of the Capitol Police may, by regulation, make applicable such provisions of [section 5379 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5379&num=0&edition=prelim) as the Chief determines necessary to provide for such program.
+(1) **Application of regulations under executive branch program** — In carrying out subsection (a)(1), the Chief of the Capitol Police may, by regulation, make applicable such provisions of [section 5379 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5379&num=0&edition=prelim) as the Chief determines necessary to provide for such program.
 
-(2) **Restrictions on prior reimbursements** — The Capitol Police may not reimburse any individual under subsection (a)(1) of this section for any repayments made by the individual prior to entering into an agreement with the Capitol Police to participate in the program under this section.
+(2) **Restrictions on prior reimbursements** — The Capitol Police may not reimburse any individual under subsection (a)(1) for any repayments made by the individual prior to entering into an agreement with the Capitol Police to participate in the program under this section.
 
-(3) **Use of recovered amounts** — Any amount repaid by, or recovered from, an individual under subsection (a)(1) of this section and its implementing regulations shall be credited to the appropriation account available for salaries or general expenses of the Capitol Police at the time of repayment or recovery. Such credited amount may be used for any authorized purpose of the account and shall remain available until expended.
+(3) **Use of recovered amounts** — Any amount repaid by, or recovered from, an individual under subsection (a)(1) and its implementing regulations shall be credited to the appropriation account available for salaries or general expenses of the Capitol Police at the time of repayment or recovery. Such credited amount may be used for any authorized purpose of the account and shall remain available until expended.
 
 **(c) Limit on amount of payments** The total amount paid by the Capitol Police with respect to any individual under the program under this section may not exceed $40,000.
 
@@ -869,6 +890,13 @@ Subsec. (f)(2). Pub. L. 108–7, § 1004(2), struck out heading and text of par.
 
 Subsec. (g). Pub. L. 108–7, § 1004(3), redesignated subsec. (g) as (f).
 
+#### Capitol Police Longevity Compensation
+Pub. L. 88–454, § 104(c), Aug. 20, 1964, 78 Stat. 550, provided that: “Any member of the Capitol Police who by reason of the provision repealed by subsection (b) [subsec. (c) of [section 4507 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4507)] was receiving immediately prior to the effective date of this section [Sept. 1, 1964], longevity compensation provided by [former] section 105 of the Legislative Branch Appropriation Act, 1959 [Pub. L. 85–570, 72 Stat. 453], shall, on and after such effective date, receive in lieu thereof a longevity increase under section 106(b) of the Legislative Branch Appropriation Act, 1963 [[2 U.S.C. 4507(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4507/b&num=0&edition=prelim)], in addition to any other such increases (not to exceed three) to which he may otherwise be entitled under such section. In computing the length of service of such member for the purpose of such other increases, only service performed subsequent to the date on which he began receiving longevity compensation in accordance with such [former] section 105 shall be counted.”
+
+[[Section 4507 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4507), referred to above, not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see [section 4509 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4509).]
+
+[Pub. L. 88–454, § 104(d), Aug. 20, 1964, 78 Stat. 550, provided that: “This section [amending [section 4507 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4507) and enacting provisions set out as a note above] shall become effective on the first day of the month following the date of enactment of this Act [Aug. 20, 1964].” ]
+
 
 <a id="section-1928"></a>
 ## § 1928. Repealed. Pub. L. 111–145, § 2(a)(4)(B)(i), Mar. 4, 2010, 124 Stat. 50
@@ -935,7 +963,7 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 ## § 1932. Application of premium pay limits on annualized basis
 **(a) In general** Any limits on the amount of premium pay which may be earned by officers and members of the Capitol Police during emergencies (as determined by the Capitol Police Board) shall be applied by the Chief of the Capitol Police on an annual basis and not on a pay period basis. Any determination under this subsection shall not be reviewable or appealable in any manner.
 
-**(b) Effective date** Subsection (a) of this section shall apply with respect to hours of duty occurring on or after September 11, 2001.
+**(b) Effective date** Subsection (a) shall apply with respect to hours of duty occurring on or after September 11, 2001.
 
 ### Statutory Notes
 
@@ -1402,7 +1430,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 <a id="section-1966"></a>
 ## § 1966. Protection of Members of Congress, officers of Congress, and members of their families
-**(a) Authority of the Capitol Police** Subject to the direction of the Capitol Police Board, the United States Capitol Police is authorized to protect, in any area of the United States, the person of any Member of Congress, officer of the Congress, as defined in [section 60–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60–1/b&num=0&edition=prelim), and any member of the immediate family of any such Member or officer, if the Capitol Police Board determines such protection to be necessary.
+**(a) Authority of the Capitol Police** Subject to the direction of the Capitol Police Board, the United States Capitol Police is authorized to protect, in any area of the United States, the person of any Member of Congress, officer of the Congress, as defined in [section 4101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4101/b&num=0&edition=prelim), and any member of the immediate family of any such Member or officer, if the Capitol Police Board determines such protection to be necessary.
 
 **(b) Detail of police** In carrying out its authority under this section, the Capitol Police Board, or its designee, is authorized, in accordance with regulations issued by the Board pursuant to this section, to detail, on a case-by-case basis, members of the United States Capitol Police to provide such protection as the Board may determine necessary under this section.
 
@@ -1430,9 +1458,9 @@ Section was classified to section 212a–2 of former Title 40, prior to the enac
 
 (3) within the District of Columbia, to prevent imminent loss of life or injury to person or property, if the officer is in the performance of official duties when the authority is exercised;
 
-(4) within the area described under subsection (b)(1) of this section; and
+(4) within the area described under subsection (b)(1); and
 
-(5) within the area described under subsection (b)(2) of this section—
+(5) within the area described under subsection (b)(2)—
 
   (A) with respect to any crime of violence committed in the presence of the member, if the member is in the performance of official duties, as defined under such regulations, when the crime is committed; and
 
@@ -1440,11 +1468,11 @@ Section was classified to section 212a–2 of former Title 40, prior to the enac
 
 **(b) Area**
 
-(1) The area referred to in subsection (a)(4) of this section is that area bounded by the north curb of H Street from 3rd Street, N.W. to 7th Street, N.E., the east curb of 7th Street from H Street, N.E., to M Street, S.E., the south curb of M Street from 7th Street, S.E. to 1st Street, S.E., the east curb of 1st Street from M Street, S.E. to Potomac Avenue S.E., the southeast curb of Potomac Avenue from 1st Street, S.E. to South Capitol Street, S.W., the west curb of South Capitol Street from Potomac Avenue, S.W. to P Street, S.W., the north curb of P Street from South Capitol Street, S.W. to 3rd Street, S.W., and the west curb of 3rd Street from P Street, S.W. to H Street, N.W.
+(1) The area referred to in subsection (a)(4) is that area bounded by the north curb of H Street from 3rd Street, N.W. to 7th Street, N.E., the east curb of 7th Street from H Street, N.E., to M Street, S.E., the south curb of M Street from 7th Street, S.E. to 1st Street, S.E., the east curb of 1st Street from M Street, S.E. to Potomac Avenue S.E., the southeast curb of Potomac Avenue from 1st Street, S.E. to South Capitol Street, S.W., the west curb of South Capitol Street from Potomac Avenue, S.W. to P Street, S.W., the north curb of P Street from South Capitol Street, S.W. to 3rd Street, S.W., and the west curb of 3rd Street from P Street, S.W. to H Street, N.W.
 
-(2) The area referred to under subsection (a)(5) of this section is that area bounded by the north curb of Constitution Avenue from 14th Street, N.W., to 3rd Street, N.W., the east curb of 3rd Street from Constitution Avenue, N.W., to Independence Avenue, S.W., the south curb of Independence Avenue from 3rd Street, S.W., to 14th Street, S.W., and the west curb of 14th Street from Independence Avenue, S.W., to Constitution Avenue, N.W.
+(2) The area referred to under subsection (a)(5) is that area bounded by the north curb of Constitution Avenue from 14th Street, N.W., to 3rd Street, N.W., the east curb of 3rd Street from Constitution Avenue, N.W., to Independence Avenue, S.W., the south curb of Independence Avenue from 3rd Street, S.W., to 14th Street, S.W., and the west curb of 14th Street from Independence Avenue, S.W., to Constitution Avenue, N.W.
 
-**(c) Authority of Metropolitan Police unaffected** This section does not affect the authority of the Metropolitan Police force of the District of Columbia with respect to the area described in subsection (b) of this section.
+**(c) Authority of Metropolitan Police unaffected** This section does not affect the authority of the Metropolitan Police force of the District of Columbia with respect to the area described in subsection (b).
 
 **(d) “Crime of violence” defined** As used in this section, the term “crime of violence” has the meaning given that term in [section 16 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section16&num=0&edition=prelim).
 
@@ -1637,7 +1665,7 @@ Section was classified to section 206e of former Title 40, prior to the enactmen
 
 (4) shall be an employee of the Government for purposes of chapter 171 of title 28 if that individual is acting within the scope of his office or employment in service as a special officer.
 
-**(c) Qualifications** Any individual appointed under subsection (a) of this section shall be subject to—
+**(c) Qualifications** Any individual appointed under subsection (a) shall be subject to—
 
 (1) qualification requirements as the Chief of the Capitol Police determines necessary; and
 
@@ -1669,11 +1697,11 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 (3) the Sergeant at Arms and Doorkeeper of the Senate gives prior approval to the travel of the member of the Capitol Police.
 
-**(c) Law enforcement functions** Subsection (b) of this section shall not be construed to authorize the performance of law enforcement functions by a member of the Capitol Police in connection with the travel authorized under that subsection.
+**(c) Law enforcement functions** Subsection (b) shall not be construed to authorize the performance of law enforcement functions by a member of the Capitol Police in connection with the travel authorized under that subsection.
 
 **(d) Reimbursement** The Capitol Police shall be reimbursed for the overtime pay, travel, and related expenses of any member of the Capitol Police who travels under the authority of this section. Any reimbursement under this subsection shall be paid from the account under the heading “sergeant at arms and doorkeeper of the senate” under the heading “Contingent Expenses of the Senate”.
 
-**(e) Amounts received** Any amounts received by the Capitol Police for reimbursements under subsection (d) of this section shall be credited to the accounts established for the general expenses or salaries of the Capitol Police, and shall be available to carry out the purposes of such accounts during the fiscal year in which the amounts are received and the following fiscal year.
+**(e) Amounts received** Any amounts received by the Capitol Police for reimbursements under subsection (d) shall be credited to the accounts established for the general expenses or salaries of the Capitol Police, and shall be available to carry out the purposes of such accounts during the fiscal year in which the amounts are received and the following fiscal year.
 
 **(f) Effective date** This section shall apply to fiscal year 2005 and each fiscal year thereafter.
 
@@ -1755,7 +1783,7 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 (2) the Capitol Police Board gives prior approval to the deployment.
 
-**(b) Exception for certain services** Subsection (a) of this section does not apply with respect to the deployment of any officer for any of the following purposes:
+**(b) Exception for certain services** Subsection (a) does not apply with respect to the deployment of any officer for any of the following purposes:
 
 (1) Responding to an imminent threat or emergency.
 

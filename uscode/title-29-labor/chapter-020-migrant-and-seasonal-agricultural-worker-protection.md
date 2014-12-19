@@ -117,9 +117,9 @@ Pub. L. 99–603, title I, § 101(b)(2), Nov. 6, 1986, 100 Stat. 3372, as amende
 ## § 1813. Applicability of chapter
 **(a)** The following persons are not subject to this chapter:
 
-(1) **Family business exemption.—Any individual who engages in a farm labor contracting activity on behalf of a farm, processing establishment, seed conditioning establishment, cannery, gin, packing shed, or nursery, which is owned or operated exclusively by such individual or an immediate family member of such individual, if such activities are performed only for such operation and exclusively by such individual or an immediate family member, but without regard to whether such individual has incorporated or otherwise organized for business purposes.**
+(1) **Family business exemption.—** — Any individual who engages in a farm labor contracting activity on behalf of a farm, processing establishment, seed conditioning establishment, cannery, gin, packing shed, or nursery, which is owned or operated exclusively by such individual or an immediate family member of such individual, if such activities are performed only for such operation and exclusively by such individual or an immediate family member, but without regard to whether such individual has incorporated or otherwise organized for business purposes.
 
-(2) **Small business exemption.—Any person, other than a farm labor contractor, for whom the man-days exemption for agricultural labor provided under section 13(a)(6)(A) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 213(a)(6)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213/a/6/A&num=0&edition=prelim)) is applicable.**
+(2) **Small business exemption.—** — Any person, other than a farm labor contractor, for whom the man-days exemption for agricultural labor provided under section 13(a)(6)(A) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 213(a)(6)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213/a/6/A&num=0&edition=prelim)) is applicable.
 
 (3) **Other exemptions.—**
 

@@ -57,15 +57,48 @@ The acts authorized in section 590a(1) and (2) of this title may be performed—
 <a id="section-590c"></a>
 ## § 590c. Conditions under which benefits of law extended to nongovernment controlled lands
 
-As a condition to the extending of any benefits under this chapter to any lands not owned or controlled by the United States or any of its agencies, the Secretary of Agriculture may, insofar as he may deem necessary for the purposes of this chapter, require—
+As a condition to the extending of any benefits under this chapter to any lands not owned or controlled by the United States or any of its agencies, the Secretary of Agriculture may, insofar as he may deem necessary for the purposes of this chapter, require the following:
 
-(1) The enactment and reasonable safeguards for the enforcement of State and local laws imposing suitable permanent restrictions on the use of such lands and otherwise providing for the prevention of soil erosion;
+(1) The enactment and reasonable safeguards for the enforcement of State and local laws imposing suitable permanent restrictions on the use of such lands and otherwise providing for the prevention of soil erosion.
 
-(2) Agreements or covenants as to the permanent use of such lands; and
+(2) Agreements or covenants as to the permanent use of such lands.
 
 (3) Contributions in money, services, materials, or otherwise, to any operations conferring such benefits.
 
+(4)
+
+  (A) The payment of user fees for conservation planning technical assistance if the Secretary determines that the fees, subject to subparagraph (B), are—
+
+    (i) reasonable and appropriate;
+
+    (ii) assessed for conservation planning technical assistance resulting in the development of a conservation plan; and
+
+    (iii) assessed based on the size of the land or the complexity of the resource issues involved.
+
+  (B) Fees under subparagraph (A) may not exceed $150 per conservation plan for which technical assistance is provided.
+
+  (C) The Secretary may waive fees otherwise required under subparagraph (A) in the case of conservation planning technical assistance provided—
+
+    (i) to beginning farmers or ranchers (as defined in [section 1991(a) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1991/a&num=0&edition=prelim));
+
+    (ii) to limited resource farmers or ranchers (as defined by the Secretary);
+
+    (iii) to socially disadvantaged farmers or ranchers (as defined in [section 2003(e) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2003/e&num=0&edition=prelim));
+
+    (iv) to qualify for an exemption from ineligibility under [section 3812 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3812); or
+
+    (v) to comply with Federal, State, or local regulatory requirements.
+
 ### Statutory Notes
+
+#### Amendments
+2013—Pub. L. 113–67, § 705(a)(1), substituted “require the following:” for “require—” in introductory provisions.
+
+Par. (1). Pub. L. 113–67, § 705(a)(2), substituted period for semicolon at end.
+
+Par. (2). Pub. L. 113–67, § 705(a)(3), substituted period at end for “; and”.
+
+Par. (4). Pub. L. 113–67, § 705(a)(4), added par. (4).
 
 #### Transfer of Functions
 Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
@@ -335,13 +368,28 @@ July 5, 1952, ch. 574, title I, 66 Stat. 346.
 
 
 <a id="section-590f"></a>
-## § 590f. Authorization of appropriation
+## § 590f. Authorization of appropriations and conservation technical assistance funds
+**(a) Authorization of appropriations** There is authorized to be appropriated for the purposes of this chapter such sums as Congress may from time to time determine to be necessary. Appropriations for carrying out this chapter allocated for the production or procurement of nursery stock by any Federal agency, or funds appropriated to any Federal agency for allocation to cooperating States for the production or procurement of nursery stock, shall remain available for expenditure for not more than three fiscal years.
 
-There are authorized to be appropriated for the purposes of this chapter such sums as Congress may from time to time determine to be necessary.
+**(b) Conservation Technical Assistance Fund**
+
+(1) **In general** — There is established in the Treasury of the United States a fund to be known as the “Conservation Technical Assistance Fund” (referred to in this subsection as the “Fund”), to be administered by the Secretary of Agriculture.
+
+(2) **Deposits** — An amount equal to the amounts collected as fees under [section 590c(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590c/4&num=0&edition=prelim) and late payments, interest, and such other amounts as are authorized to be collected pursuant to [section 3717 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3717&num=0&edition=prelim) shall be deposited in the Fund.
+
+(3) **Availability** — Amounts in the Fund shall—
+
+  (A) only be available to the extent and in the amount provided in advance in appropriations Acts;
+
+  (B) be used for the costs of carrying out this chapter; and
+
+  (C) remain available until expended.
 
 ### Statutory Notes
 
 #### Amendments
+2013—Pub. L. 113–67 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “There is authorized” for “There are hereby authorized”, and added subsec. (b).
+
 1944—Act Sept. 21, 1944, inserted second par.
 
 
@@ -433,17 +481,17 @@ Section 590g–2, act July 5, 1952, ch. 574, title I, 66 Stat. 347, which relate
 
       (III) *Nominations*
 
-        (aa) EligibilityTo be eligible for nomination and election to the applicable county, area, or local committee, as determined by the Secretary, an agricultural producer shall be located within the area under the jurisdiction of a county, area, or local committee, and participate or cooperate in programs administered within that area.
+        (aa) *Eligibility* — To be eligible for nomination and election to the applicable county, area, or local committee, as determined by the Secretary, an agricultural producer shall be located within the area under the jurisdiction of a county, area, or local committee, and participate or cooperate in programs administered within that area.
 
-        (bb) OutreachIn addition to such nominating procedures as the Secretary may prescribe, the Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act ([7 U.S.C. 2003(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2003/e/1&num=0&edition=prelim)).11 So in original. The period probably should be preceded by an additional closing parenthesis.
+        (bb) *Outreach* — In addition to such nominating procedures as the Secretary may prescribe, the Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act ([7 U.S.C. 2003(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2003/e/1&num=0&edition=prelim)).11 So in original. The period probably should be preceded by an additional closing parenthesis.
 
       (IV) *Opening of ballots*
 
-        (aa) Public noticeAt least 10 days before the date on which ballots are to be opened and counted, a county, area, or local committee shall announce the date, time, and place at which election ballots will be opened and counted.
+        (aa) *Public notice* — At least 10 days before the date on which ballots are to be opened and counted, a county, area, or local committee shall announce the date, time, and place at which election ballots will be opened and counted.
 
-        (bb) Opening of ballotsElection ballots shall not be opened until the date and time announced under item (aa).
+        (bb) *Opening of ballots* — Election ballots shall not be opened until the date and time announced under item (aa).
 
-        (cc) ObservationAny person may observe the opening and counting of the election ballots.
+        (cc) *Observation* — Any person may observe the opening and counting of the election ballots.
 
       (V) *Report of election* — Not later than 20 days after the date on which an election is held, a county, area, or local committee shall file an election report with the Secretary and the State office of the Farm Service Agency that includes—
 
@@ -465,11 +513,11 @@ Section 590g–2, act July 5, 1952, ch. 574, title I, 66 Stat. 347, which relate
 
       (VII) *Election reform*
 
-        (aa) AnalysisIf determined necessary by the Secretary after analyzing the data contained in the report under subclause (VI), the Secretary shall promulgate and publish in the Federal Register proposed uniform guidelines for conducting elections for members and alternate members of county, area, and local committees not later than 1 year after the date of completion of the report.
+        (aa) *Analysis* — If determined necessary by the Secretary after analyzing the data contained in the report under subclause (VI), the Secretary shall promulgate and publish in the Federal Register proposed uniform guidelines for conducting elections for members and alternate members of county, area, and local committees not later than 1 year after the date of completion of the report.
 
-        (bb) InclusionThe procedures promulgated by the Secretary under item (aa) shall ensure fair representation of socially disadvantaged groups described in subclause (III)(bb) in an area covered by the county, area, or local committee, in cases in which those groups are underrepresented on the county, area, or local committee for that area.
+        (bb) *Inclusion* — The procedures promulgated by the Secretary under item (aa) shall ensure fair representation of socially disadvantaged groups described in subclause (III)(bb) in an area covered by the county, area, or local committee, in cases in which those groups are underrepresented on the county, area, or local committee for that area.
 
-        (cc) Methods of inclusionNotwithstanding clause (ii), the Secretary may ensure inclusion of socially disadvantaged farmers and ranchers through provisions allowing for appointment of 1 additional voting member to a county, area, or local committee or through other methods.
+        (cc) *Methods of inclusion* — Notwithstanding clause (ii), the Secretary may ensure inclusion of socially disadvantaged farmers and ranchers through provisions allowing for appointment of 1 additional voting member to a county, area, or local committee or through other methods.
 
     (iv) *Term of office* — The term of office for a member of a county, area, or local committee shall not exceed 3 years.
 

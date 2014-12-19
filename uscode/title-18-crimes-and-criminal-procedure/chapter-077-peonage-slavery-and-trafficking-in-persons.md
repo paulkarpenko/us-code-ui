@@ -434,7 +434,7 @@ Subsec. (c). Pub. L. 110–457, § 221(2)(B), added subsec. (c).
 
 <a id="section-1597"></a>
 ## § 1597. Unlawful conduct with respect to immigration documents
-**(a) Destruction, Concealment, Removal, Confiscation, or Possession of Immigration Documents.—** It shall be unlawful for any person to knowingly destroy, conceal, remove, confiscate, or possess, an actual or purported passport or other immigration document of another individual —
+**(a) Destruction, Concealment, Removal, Confiscation, or Possession of Immigration Documents.—** It shall be unlawful for any person to knowingly destroy, conceal, remove, confiscate, or possess, an actual or purported passport or other immigration document of another individual—
 
 (1) in the course of violating [section 1351 of this title](./chapter-063-mail-fraud-and-other-fraud-offenses.md#section-1351) or section 274 of the Immigration and Nationality Act ([8 U.S.C. 1324](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1324&num=0&edition=prelim));
 

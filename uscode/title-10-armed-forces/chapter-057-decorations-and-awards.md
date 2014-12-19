@@ -2,7 +2,7 @@
 title: 10
 chapter: '57'
 heading: DECORATIONS AND AWARDS
-section_count: 15
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -301,6 +301,28 @@ Pub. L. 99–145, title V, § 532(b), Nov. 8, 1985, 99 Stat. 634, provided that:
 Pub. L. 104–106, div. A, title V, § 521, Feb. 10, 1996, 110 Stat. 309, as amended by Pub. L. 108–136, div. A, title V, § 544, Nov. 24, 2003, 117 Stat. 1478, provided that: “(a) Award of Purple Heart.—For purposes of the award of the Purple Heart, the Secretary concerned (as defined in [section 101 of title 10](./chapter-001-definitions.md#section-101), United States Code) shall treat a former prisoner of war who was wounded before April 25, 1962, while held as a prisoner of war (or while being taken captive) in the same manner as a former prisoner of war who is wounded on or after that date while held as a prisoner of war (or while being taken captive). “(b) Standards for Award.—An award of the Purple Heart under subsection (a) shall be made in accordance with the standards in effect on the date of the enactment of this Act [Feb. 10, 1996] for the award of the Purple Heart to persons wounded on or after April 25, 1962. “(c) Eligible Former Prisoners of War.—A person shall be considered to be a former prisoner of war for purposes of this section if the person is eligible for the prisoner-of-war medal under [section 1128 of title 10](./chapter-057-decorations-and-awards.md#section-1128), United States Code. “(d) Procedures for Award.—In determining whether a former prisoner of war who submits an application for the award of the Purple Heart under subsection (a) is eligible for that award, the Secretary concerned shall apply the following procedures:“(1) Failure of the applicant to provide any documentation as required by the Secretary shall not in itself disqualify the application from being considered. “(2) In evaluating the application, the Secretary shall consider (A) historical information as to the prison camp or other circumstances in which the applicant was held captive, and (B) the length of time that the applicant was held captive. “(3) To the extent that information is readily available, the Secretary shall assist the applicant in obtaining information or identifying the sources of information referred to in paragraph (2). “(4) The Secretary shall review a completed application under this section based upon the totality of the information presented, taking into account the length of time between the period during which the applicant was held as a prisoner of war and the date of the application.”
 
 
+<a id="section-1129a"></a>
+## § 1129a. Purple Heart: members killed or wounded in attacks by foreign terrorist organizations
+**(a) In General.—** For purposes of the award of the Purple Heart, the Secretary concerned shall treat a member of the armed forces described in subsection (b) in the same manner as a member who is killed or wounded as a result of an international terrorist attack against the United States.
+
+**(b) Covered Members.—**
+
+(1) A member described in this subsection is a member on active duty who was killed or wounded in an attack by a foreign terrorist organization in circumstances where the death or wound is the result of an attack targeted on the member due to such member’s status as a member of the armed forces, unless the death or wound is the result of willful misconduct of the member.
+
+(2) For purposes of this section, an attack by an individual or entity shall be considered to be an attack by a foreign terrorist organization if—
+
+  (A) the individual or entity was in communication with the foreign terrorist organization before the attack; and
+
+  (B) the attack was inspired or motivated by the foreign terrorist organization.
+
+**(c) Foreign Terrorist Organization Defined.—** In this section, the term “foreign terrorist organization” means an entity designated as a foreign terrorist organization by the Secretary of State pursuant to section 219 of the Immigration and Nationality Act ([8 U.S.C. 1189](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### Retroactive Effective Date and Application
+Pub. L. 113–291, div. A, title V, § 571(a)(2), Dec. 19, 2014, 128 Stat. 3387, provided that: “(A) Effective date.—The amendments made by paragraph (1) [enacting this section] shall take effect as of September 11, 2001. “(B) Review of certain previous incidents.—The Secretary concerned shall undertake a review of each death or wounding of a member of the Armed Forces that occurred between September 11, 2001, and the date of the enactment of this Act [Dec. 19, 2014] under circumstances that could qualify as being the result of an attack described in [section 1129a of title 10](./chapter-057-decorations-and-awards.md#section-1129a), United States Code (as added by paragraph (1)), to determine whether the death or wounding qualifies as a death or wounding resulting from an attack by a foreign terrorist organization for purposes of the award of the Purple Heart pursuant to such section (as so added). “(C) Actions following review.—If the death or wounding of a member of the Armed Forces reviewed under subparagraph (B) is determined to qualify as a death or wounding resulting from an attack by a foreign terrorist organization as described in [section 1129a of title 10](./chapter-057-decorations-and-awards.md#section-1129a), United States Code (as so added), the Secretary concerned shall take appropriate action under such section to award the Purple Heart to the member. “(D) Secretary concerned defined.—In this paragraph, the term ‘Secretary concerned’ has the meaning given that term in [section 101(a)(9) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/9&num=0&edition=prelim), United States Code.”
+
+
 <a id="section-1130"></a>
 ## § 1130. Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review
 **(a)** Upon request of a Member of Congress, the Secretary concerned shall review a proposal for the award or presentation of a decoration (or the upgrading of a decoration), either for an individual or a unit, that is not otherwise authorized to be presented or awarded due to limitations established by law or policy for timely submission of a recommendation for such award or presentation. Based upon such review, the Secretary shall make a determination as to the merits of approving the award or presentation of the decoration.
@@ -407,8 +429,35 @@ Pub. L. 111–383, div. A, title V, § 571(c), Jan. 7, 2011, 124 Stat. 4223, pro
 The medal of honor awarded posthumously to a deceased member of the armed forces who, as an unidentified casualty of a particular war or other armed conflict, is interred in the Tomb of the Unknowns at Arlington National Cemetery, Virginia, is awarded to the member as the representative of the members of the armed forces who died in such war or other armed conflict and whose remains have not been identified, and not to the individual personally.
 
 
+<a id="section-1134a"></a>
+## § 1134a. Medal of honor: Army, Navy, Air Force, and Coast Guard Medal of Honor Roll
+**(a) Establishment.—** There shall be in the Department of the Army, the Department of the Navy, the Department of the Air Force, and the Department in which the Coast Guard is operating a roll designated as the “Army, Navy, Air Force, and Coast Guard Medal of Honor Roll”.
+
+**(b) Enrollment.—** The Secretary concerned shall enter and record on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll the name of each person who has served on active duty in the armed forces and who has been awarded a medal of honor pursuant to section 3741, 6241, or 8741 of this title or [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim).
+
+**(c) Issuance of Enrollment Certificate.—** Each living person whose name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll shall be issued a certificate of enrollment on the roll.
+
+**(d) Entitlement to Special Pension; Notice to Secretary of Veterans Affairs.—** The Secretary concerned shall deliver to the Secretary of Veterans Affairs a certified copy of each certificate of enrollment issued under subsection (c). The copy of the certificate shall authorize the Secretary of Veterans Affairs to pay the special pension provided by [section 1562 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1562&num=0&edition=prelim) to the person named in the certificate.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 113–66, div. A, title V, § 563(d), Dec. 26, 2013, 127 Stat. 768, provided that: “The amendments made by this section [enacting this section, amending [section 1562 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1562&num=0&edition=prelim), Veterans’ Benefits, and repealing sections 1560 and 1561 of Title 38] shall apply with respect to Medals of Honor awarded on or after the date of the enactment of this Act [Dec. 26, 2013].”
+
+
 <a id="section-1135"></a>
 ## § 1135. Replacement of military decorations
 **(a) Replacement.—** In addition to other authorities available to the Secretary concerned to replace a military decoration, the Secretary concerned shall replace, on a one-time basis and without charge, a military decoration upon the request of the recipient of the military decoration or the immediate next of kin of a deceased recipient.
 
-**(b) Military Decoration Defined.—** In this section, the term “decoration” means any decoration or award (other than the medal of honor) that may be presented or awarded by the President or the Secretary concerned to a member of the armed forces.
+**(b) Prompt Replacement Required.—** When a request for the replacement of a military decoration is received under this section or section 3747, 3751, 6253, 8747, or 8751 of this title, the Secretary concerned shall ensure that—
+
+(1) all actions to be taken with respect to the request, including verification of the service record of the recipient of the military decoration, are completed within one year; and
+
+(2) the replacement military decoration is mailed to the person requesting the replacement military decoration within 90 days after verification of the service record.
+
+**(c) Military Decoration Defined.—** In this section, the term “decoration” means any decoration or award (other than the medal of honor) that may be presented or awarded by the President or the Secretary concerned to a member of the armed forces.
+
+### Statutory Notes
+
+#### Amendments
+2013—Subsecs. (b), (c). Pub. L. 113–66 added subsec. (b) and redesignated former subsec. (b) as (c).

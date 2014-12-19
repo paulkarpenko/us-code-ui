@@ -81,9 +81,9 @@ Pub. L. 99–194, title III, § 302(b), Dec. 20, 1985, 99 Stat. 1345, provided t
 ## § 974. Indemnity limits
 **(a) Approval of estimated values** Upon receipt of an application meeting the requirements of subsections (a) and (b) of [section 973 of this title](./chapter-26a-indemnity-for-exhibitions-of-arts-and-artifacts.md#section-973), the Council shall review the estimated value of the items for which coverage by an indemnity agreement is sought. If the Council agrees with such estimated value, for the purposes of this chapter, the Council shall, after approval of the application as provided in subsection (c) of [section 973 of this title](./chapter-26a-indemnity-for-exhibitions-of-arts-and-artifacts.md#section-973), make an indemnity agreement.
 
-**(b) Maximum limits of coverage** The aggregate of loss or damage covered by indemnity agreements made under this chapter shall not exceed $10,000,000,000 at any one time for international exhibitions, and $5,000,000,000 at any one time for domestic exhibitions.
+**(b) Maximum limits of coverage** The aggregate of loss or damage covered by indemnity agreements made under this chapter shall not exceed $15,000,000,000 at any one time for international exhibitions, and $7,500,000,000 at any one time for domestic exhibitions.
 
-**(c) Limit for single exhibition** No indemnity agreement for a single exhibition shall cover loss or damage in excess of $1,200,000,000 for international exhibitions, or $750,000,000 for domestic exhibitions.
+**(c) Limit for single exhibition** No indemnity agreement for a single exhibition shall cover loss or damage in excess of $1,800,000,000 for international exhibitions, or $1,000,000,000 for domestic exhibitions.
 
 **(d) Deductible limit** If the estimated value of the items covered by an indemnity agreement for a single exhibition is—
 
@@ -106,6 +106,10 @@ Pub. L. 99–194, title III, § 302(b), Dec. 20, 1985, 99 Stat. 1345, provided t
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–235, § 416(1), substituted “$15,000,000,000” for “$10,000,000,000” and “$7,500,000,000” for “$5,000,000,000”.
+
+Subsec. (c). Pub. L. 113–235, § 416(2), substituted “$1,800,000,000” for “$1,200,000,000” and “$1,000,000,000” for “$750,000,000”.
+
 2007—Subsec. (b). Pub. L. 110–161, § 426(2), inserted “for international exhibitions, and $5,000,000,000 at any one time for domestic exhibitions” before period at end.
 
 Subsec. (c). Pub. L. 110–161, § 426(3), inserted “for international exhibitions, or $750,000,000 for domestic exhibitions” before period at end.

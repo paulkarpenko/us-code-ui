@@ -16,7 +16,12 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 #### Effective Date of Repeal
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–104, § 1, May 20, 2014, 128 Stat. 1156, provided that: “This Act [amending [section 117 of this title](./chapter-007-assault.md#section-117)] may be cited as the ‘Kilah Davenport Child Protection Act of 2013’.”
+
 #### Short Title of 2013 Amendment
+Pub. L. 113–47, § 1, Oct. 31, 2013, 127 Stat. 572, provided that: “This Act [enacting provisions set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551)] may be cited as the ‘United States Parole Commission Extension Act of 2013’.”
+
 Pub. L. 113–12, § 1, June 3, 2013, 127 Stat. 448, provided that: “This Act [amending [section 704 of this title](./chapter-033-emblems-insignia-and-names.md#section-704)] may be cited as the ‘Stolen Valor Act of 2013’.”
 
 Pub. L. 112–269, § 1, Jan. 14, 2013, 126 Stat. 2442, provided that: “This Act [amending [section 1831 of this title](./chapter-090-protection-of-trade-secrets.md#section-1831) and enacting provisions listed in a table relating to sentencing guidelines set out as a note under [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), Judiciary and Judicial Procedure] may be cited as the ‘Foreign and Economic Espionage Penalty Enhancement Act of 2012’.”
@@ -605,8 +610,8 @@ such element may be established by proof that the defendant, after or as a resul
 **(b)** For purposes of this section, the term “official representation” means any representation made by a Federal law enforcement officer (as defined in section 115) or by another person at the direction or with the approval of such an officer.
 
 
-<a id="section-23"></a>
-## § 23. 11 So in original. No section 22 has been enacted. Court of the United States defined
+<a id="section-23-1"></a>
+## § 23.1. Court of the United States defined
 
 As used in this title, except where otherwise expressly provided 22 So in original. Probably should be followed by a comma. the term “court of the United States” includes the District Court of Guam, the District Court for the Northern Mariana Islands, and the District Court of the Virgin Islands.
 

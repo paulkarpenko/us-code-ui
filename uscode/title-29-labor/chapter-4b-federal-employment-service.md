@@ -13,8 +13,16 @@ In order to promote the establishment and maintenance of a national system of pu
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 113–128, title III, § 301, title V, § 506, July 22, 2014, 128 Stat. 1624, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended by inserting “service” before “offices”. See 2014 Amendment note below.
+
 #### Amendments
+2014—Pub. L. 113–128 inserted “service” before “offices”.
+
 1982—Pub. L. 97–300 substituted “the United States Employment Service shall be established and maintained within the Department of Labor” for “there is created in the Department of Labor a bureau to be known as the United States Employment Service”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 1982 Amendment
 Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of amendment, see section 181(i) of Pub. L. 97–300, which was formerly classified to [section 1591(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1591/i&num=0&edition=prelim).
@@ -70,12 +78,39 @@ For purposes of this chapter—
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 113–128, title III, § 302, title V, § 506, July 22, 2014, 128 Stat. 1624, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
+
+(1) by striking paragraph (1) and inserting the following:
+
+“(1) the terms ‘chief elected official’, ‘institution of higher education’, ‘one-stop center’, ‘one-stop partner’, ‘training services’, ‘workforce development activity’, and ‘workplace learning advisor’, have the meaning given the terms in [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102);”;
+
+(2) in paragraph (2), by striking “investment board” each place it appears and inserting “development board” and by striking “section 117 of the Workforce Investment Act of 1998” and inserting “[section 3122 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3122)”;
+
+(3) in paragraph (3), by striking “134(c)” and inserting “3151(e)” and by striking “the Workforce Investment Act of 1998” and inserting “this title”; and
+
+(4) by striking “and” at the end of paragraph (4), substituting “; and” for the period at the end of paragraph (5), and adding at the end the following:
+
+(6) the term “employment service office” means a local office of a State agency; and
+
+(7) except in section 49l–2 of this title, the term “State agency”, used without further description, means an agency designated or authorized under [section 49c of this title](./chapter-4b-federal-employment-service.md#section-49c).
+
+See 2014 Amendment notes below.
+
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which was classified to this chapter and section 338 of former Title 39, The Postal Service. Section 338 of former title 39 was repealed and reenacted as section 4152 of former Title 39, The Postal Service, by Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 578. Section 4152 of former title 39 was repealed and reenacted as [section 3202 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3202&num=0&edition=prelim), Postal Service, by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
 
 The Workforce Investment Act of 1998, referred to in par. (1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
 
 #### Amendments
+2014—Par. (1). Pub. L. 113–128, § 302(1), added par. (1) and struck out former par. (1) which read as follows: “the term ‘chief elected official’ has the same meaning given that term under the Workforce Investment Act of 1998;”.
+
+Par. (2). Pub. L. 113–128, § 302(2), substituted “development board” for “investment board” in two places and substituted “[section 3122 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3122)” for “section 117 of the Workforce Investment Act of 1998”.
+
+Par. (3). Pub. L. 113–128, § 302(3), substituted “[section 3151(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)” for “section 134(c) of the Workforce Investment Act of 1998”.
+
+Pars. (6), (7). Pub. L. 113–128, § 302(4)–(6), added pars. (6) and (7).
+
 1998—Par. (1). Pub. L. 105–220, § 301(1), struck out “or officials” after “elected official” and substituted “Workforce Investment Act of 1998” for “Job Training Partnership Act”.
 
 Par. (2). Pub. L. 105–220, § 301(2), (4), added par. (2) and struck out former par. (2) which read as follows: “the term ‘private industry council’ has the same meaning given that term under the Job Training Partnership Act;”.
@@ -86,8 +121,13 @@ Par. (4). Pub. L. 105–220, § 301(2), (3), (5), redesignated par. (3) as (4), 
 
 1982—Pub. L. 97–300 amended section generally, substituting provisions relating to definitions for provisions which authorized appointment of personnel and payment of office expenses.
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
 #### Effective Date of 1998 Amendment
 Pub. L. 105–220, title III, § 311, Aug. 7, 1998, 112 Stat. 1086, provided that: “The amendments made by this subtitle [subtitle A (§§ 301–311) of title III of Pub. L. 105–220, enacting section 49l–2 of this title and amending this section, sections 49b, 49c, 49d, 49e to 49g, 49j, and 49k of this title, and [section 655a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section655a&num=0&edition=prelim), The Public Health and Welfare] shall take effect on July 1, 1999.”
+
+[Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], section 311 of Pub. L. 105–220, set out above, is repealed.]
 
 #### Effective Date of 1982 Amendment
 Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of amendment, see section 181(i) of Pub. L. 97–300, which was formerly classified to [section 1591(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1591/i&num=0&edition=prelim).
@@ -109,6 +149,31 @@ Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authori
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 113–128, title III, § 303, title V, § 506, July 22, 2014, 128 Stat. 1625, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
+
+(1) in subsection (a), by striking “services” and inserting “service offices”;
+
+(2) in subsection (c):
+
+(A) in paragraph (2), by striking the semicolon and inserting “, and identify and disseminate information on best practices for such system; and”; and
+
+(B) by adding at the end the following:
+
+“(4) in coordination with the State agencies and the staff of such agencies, assist in the planning and implementation of activities to enhance the professional development and career advancement opportunities of such staff, in order to strengthen the provision of a broad range of career guidance services, the identification of job openings (including providing intensive outreach to small and medium-sized employers and enhanced employer services), the provision of technical assistance and training to other providers of workforce development activities (including workplace learning advisors) relating to counseling and employment-related services, and the development of new strategies for coordinating counseling and technology.”; and
+
+(3) by inserting after subsection (c) the following:
+
+(d) In order to improve service delivery, avoid duplication of services, and enhance coordination of services, including location of staff to ensure access to services under [section 49f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49f/a&num=0&edition=prelim) statewide in underserved areas, employment service offices in each State shall be colocated with one-stop centers.
+
+(e) The Secretary, in consultation with States, is authorized to assist the States in the development of national electronic tools that may be used to improve access to workforce information for individuals through—
+
+(1) the one-stop delivery systems established as described in [section 3151(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim); and
+
+(2) such other delivery systems as the Secretary determines to be appropriate.
+
+See 2014 Amendment notes below.
+
 #### References in Text
 The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part D of title IV of such Act is classified generally to part D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
@@ -118,6 +183,14 @@ The Food and Nutrition Act of 2008, referred to in subsec. (b), is Pub. L. 88–
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–128, § 303(a), substituted “service offices” for “services”.
+
+Subsec. (c)(2). Pub. L. 113–128, § 303(b)(1), substituted “, and identify and disseminate information on best practices for such system; and” for semicolon.
+
+Subsec. (c)(4). Pub. L. 113–128, § 303(b)(2), added par. (4).
+
+Subsecs. (d), (e). Pub. L. 113–128, § 303(c), added subsecs. (d) and (e).
+
 2008—Subsec. (b). Pub. L. 110–246, § 4002(b)(1)(A), (B), (2)(Q), which directed amendment of the “Wagner-Peysner Act” by substituting “supplemental nutrition assistance program” for “food stamp program” wherever appearing and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” wherever appearing, was executed by making the substitutions in subsec. (b) of this section, which is section 3 of the Wagner-Peyser Act, to reflect the probable intent of Congress.
 
 1998—Subsec. (a). Pub. L. 105–220, § 302(a)(1), substituted “Secretary” for “United States Employment Service”.
@@ -145,6 +218,9 @@ Subsec. (b). Pub. L. 93–198, § 204(c)(2), included District of Columbia in de
 1954—Subsec. (a). Act Aug. 3, 1954, inserted provisions relating to employment counseling and placement services for handicapped persons.
 
 1950—Subsec. (b). Act Sept. 8, 1950, included Puerto Rico and Virgin Islands in definition of “State” or “States”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
@@ -332,11 +408,33 @@ Section, act June 16, 1937, ch. 359, title IV, 50 Stat. 302, provided for reappo
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 113–128, title III, § 304, title V, § 506, July 22, 2014, 128 Stat. 1626, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
+
+(1) in subsection (a), by striking “amounts appropriated pursuant to [section 49d of this title](./chapter-4b-federal-employment-service.md#section-49d)” and inserting “funds appropriated and (except for Guam) certified under [section 49d of this title](./chapter-4b-federal-employment-service.md#section-49d) and made available for allotments under this section”; and
+
+(2) in subsection (b)(1):
+
+(A) in the matter preceding subparagraph (A), by inserting “after making the allotments required by subsection (a),” before “the Secretary” and by striking “sums” and all that follows through “this title” and inserting “funds described in subsection (a)”;
+
+(B) in each of subparagraphs (A) and (B), by striking “sums” and inserting “remainder”; and
+
+(C) by adding at the end “For purposes of this paragraph, the term ‘State’ does not include Guam or the Virgin Islands.”
+
+See 2014 Amendment notes below.
+
 #### Prior Provisions
 A prior section 49e, act June 6, 1933, ch. 49, § 6, 48 Stat. 115, related to apportionment of appropriations, and certification to Secretary of the Treasury, prior to repeal by act Sept. 8, 1950, ch. 933, § 3, 64 Stat. 823.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–128, § 304(1), substituted “funds appropriated and (except for Guam) certified under [section 49d of this title](./chapter-4b-federal-employment-service.md#section-49d) and made available for allotments under this section” for “amounts appropriated pursuant to [section 49d of this title](./chapter-4b-federal-employment-service.md#section-49d)”.
+
+Subsec. (b)(1). Pub. L. 113–128, § 304(2), in introductory provisions, inserted “after making the allotments required by subsection (a),” before “the Secretary” and substituted “funds described in subsection (a)” for “sums appropriated and certified pursuant to [section 49d of this title](./chapter-4b-federal-employment-service.md#section-49d)”; in subpars. (A) and (B), substituted “remainder” for “sums”; and, in concluding provisions, inserted “For purposes of this paragraph, the term ‘State’ does not include Guam or the Virgin Islands.” at end.
+
 1998—Subsec. (b)(1). Pub. L. 105–220 substituted “Secretary” for “Secretary of Labor” in concluding provisions.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, set out as a note under [section 49a of this title](./chapter-4b-federal-employment-service.md#section-49a).
@@ -373,7 +471,7 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 
 (2) services for groups with special needs, carried out pursuant to joint agreements between the employment service and the appropriate local workforce investment board and chief elected official or officials or other public agencies or private nonprofit organizations; and
 
-(3) the extra costs of exemplary models for delivering services of the types described in subsection (a) of this section.
+(3) the extra costs of exemplary models for delivering services of the types described in subsection (a).
 
 **(c) Joint funding**
 
@@ -391,9 +489,38 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 
 **(d) Performance of services and activities under contract** In addition to the services and activities otherwise authorized by this chapter, the Secretary or any State agency designated under this chapter may perform such other services and activities as shall be specified in contracts for payment or reimbursement of the costs thereof made with the Secretary or with any Federal, State, or local public agency, or administrative entity under the Workforce Investment Act of 1998, or private nonprofit organization.
 
-**(e) Provision of services as part of one-stop delivery system** All job search, placement, recruitment, labor employment statistics, and other labor exchange services authorized under subsection (a) of this section shall be provided, consistent with the other requirements of this chapter, as part of the one-stop delivery system established by the State.
+**(e) Provision of services as part of one-stop delivery system** All job search, placement, recruitment, labor employment statistics, and other labor exchange services authorized under subsection (a) shall be provided, consistent with the other requirements of this chapter, as part of the one-stop delivery system established by the State.
 
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 113–128, title III, § 305, title V, § 506, July 22, 2014, 128 Stat. 1626, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
+
+(1) in subsection (a):
+
+(A) in paragraph (1), by inserting “, including unemployment insurance claimants,” after “seekers”; and
+
+(B) in paragraph (3):
+
+(i) in subparagraph (F), by inserting “, including making eligibility assessments,” after “system”; and
+
+(ii) by striking “and” at the end of subparagraph (E), substituting “; and” for the period at the end of subparagraph (F), and inserting after subparagraph (F) the following:
+
+“(G) providing unemployment insurance claimants with referrals to, and application assistance for, training and education resources and programs, including Federal Pell Grants under subpart 1 of part A of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a&num=0&edition=prelim) et seq.), educational assistance under chapter 30 of title 38 (commonly referred to as the Montgomery GI Bill), and chapter 33 of that title (Post-9/11 Veterans Educational Assistance), student assistance under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.), State student higher education assistance, and training and education programs provided under titles I and II of the Workforce Innovation and Opportunity Act, and title I of the Rehabilitation Act of 1973 ([29 U.S.C. 720](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-720) et seq.).”;
+
+(2) in subsection (b):
+
+(A) in paragraph (1), by striking “performance standards established by the Secretary” and inserting “the performance accountability measures that are based on indicators described in section 116(b)(2)(A)(i) of the Workforce Innovation and Opportunity Act”;
+
+(B) in paragraph (2), by inserting “offices” after “employment service”; and
+
+(C) in paragraph (3), by inserting “, and models for enhancing professional development and career advancement opportunities of State agency staff, as described in [section 49b(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49b/c/4&num=0&edition=prelim)” after “subsection (a)”;
+
+(3) in subsections (c)(2) and (d), by striking “the Workforce Investment Act of 1998” and inserting “the Workforce Innovation and Opportunity Act”; and
+
+(4) in subsection (e), by striking “labor employment statistics” and inserting “workforce and labor market information”.
+
+See 2014 Amendment notes below.
 
 #### References in Text
 The Workforce Investment Act of 1998, referred to in subsecs. (c)(2) and (d), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
@@ -402,6 +529,22 @@ The Workforce Investment Act of 1998, referred to in subsecs. (c)(2) and (d), is
 A prior section 49f, act June 6, 1933, ch. 49, § 7, 48 Stat. 115, related to ascertainment of amounts due to States, and certification to the Secretary of the Treasury, prior to repeal by act Sept. 8, 1950, ch. 933, § 3, 64 Stat. 823.
 
 #### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–128, § 305(a), inserted “, including unemployment insurance claimants,” after “seekers”.
+
+Subsec. (a)(3)(F). Pub. L. 113–128, § 305(b)(2)(A), inserted “, including making eligibility assessments,” after “system”.
+
+Subsec. (a)(3)(G). Pub. L. 113–128, § 305(b)(1), (2)(B), (3), added subpar. (G).
+
+Subsec. (b)(1). Pub. L. 113–128, § 305(c)(1), substituted “the performance accountability measures that are based on indicators described in section 116(b)(2)(A)(i) of the Workforce Innovation and Opportunity Act” for “performance standards established by the Secretary”.
+
+Subsec. (b)(2). Pub. L. 113–128, § 305(c)(2), inserted “offices” after “employment service”.
+
+Subsec. (b)(3). Pub. L. 113–128, § 305(c)(3), inserted “, and models for enhancing professional development and career advancement opportunities of State agency staff, as described in [section 49b(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49b/c/4&num=0&edition=prelim)” after “subsection (a)”.
+
+Subsecs. (c)(2), (d). Pub. L. 113–128, § 305(d), substituted “the Workforce Innovation and Opportunity Act” for “the Workforce Investment Act of 1998”.
+
+Subsec. (e). Pub. L. 113–128, § 305(e), substituted “workforce and labor market information” for “labor employment statistics”.
+
 1998—Subsec. (b)(2). Pub. L. 105–220, § 305(1), substituted “local workforce investment board” for “private industry council”.
 
 Subsec. (c)(2). Pub. L. 105–220, § 305(2), substituted “any workforce investment activity carried out under the Workforce Investment Act of 1998.” for “any program under any of the following provisions of law:
@@ -417,6 +560,9 @@ Pub. L. 105–220, § 305(3), substituted “Secretary or any State” for “Un
 Subsec. (e). Pub. L. 105–220, § 305(4), added subsec. (e).
 
 1990—Subsecs. (c), (d). Pub. L. 101–392 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, set out as a note under [section 49a of this title](./chapter-4b-federal-employment-service.md#section-49a).
@@ -440,7 +586,12 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 113–128, title III, § 306, title V, § 506, July 22, 2014, 128 Stat. 1627, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended to read as follows: “Any State desiring to receive assistance under [section 49e of this title](./chapter-4b-federal-employment-service.md#section-49e) shall prepare and submit to, and have approved by, the Secretary and the Secretary of Education, a State plan in accordance with section 3112 or 3113 of this title.” See 2014 Amendment note below.
+
 #### Amendments
+2014—Pub. L. 113–128 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to submission, required content, and approval of State plans.
+
 1998—Subsec. (a). Pub. L. 105–220, § 306(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any State desiring to receive the benefits of this chapter shall, by the agency designated to cooperate with the United States Employment Service, submit to the Secretary of Labor detailed plans for carrying out the provisions of this chapter within such State.”
 
 Subsec. (b). Pub. L. 105–220, § 306(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which contained certain requirements for plan preparation at State and national levels.
@@ -462,6 +613,9 @@ Subsec. (d). Pub. L. 97–300, § 601(d)(3), designated provisions relating to t
 Subsec. (e). Pub. L. 97–300, § 601(d)(4), designated provisions relating to approval and notice by the Secretary of the State plans as subsec. (e).
 
 1954—Act Aug. 3, 1954, inserted provisions relating to promotion and development of employment opportunities and for job counseling and placement of handicapped persons.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, set out as a note under [section 49a of this title](./chapter-4b-federal-employment-service.md#section-49a).
@@ -589,11 +743,19 @@ Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 113–128, title III, § 307, title V, § 506, July 22, 2014, 128 Stat. 1627, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a) of this section is amended to read as follows: “The activities carried out pursuant to [section 49f of this title](./chapter-4b-federal-employment-service.md#section-49f) shall be subject to the performance accountability measures that are based on indicators described in [section 3141(b)(2)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/b/2/A/i&num=0&edition=prelim).” See 2014 Amendment note below.
+
 #### Prior Provisions
 A prior section 49l, act June 6, 1933, ch. 49, § 13, 48 Stat. 117, relating to mail franking privileges to employment systems, was transferred to section 338 of former Title 39, The Postal Service. Section 338 of former Title 39 was repealed and reenacted as section 4152 of former Title 39, The Postal Service by Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 578. Section 4152 of former Title 39 was repealed and reenacted as [section 3202 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3202&num=0&edition=prelim), Postal Service, by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–128 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary is authorized to establish performance standards for activities under this chapter which shall take into account the differences in priorities reflected in State plans.”
+
 1982—Subsec. (b). Pub. L. 97–404 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date
 Section effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of section, see section 181(i) of Pub. L. 97–300, which was formerly classified to [section 1591(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1591/i&num=0&edition=prelim).
@@ -755,6 +917,137 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 113–128, title III, § 308, title V, § 506, July 22, 2014, 128 Stat. 1627, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
+
+(1) in the section catchline, by striking “Employment statistics” and inserting “Workforce and labor market information system”;
+
+(2) in subsection (a)(1), by striking “employment statistics system of employment statistics” and inserting “workforce and labor market information system”;
+
+(3) in subsection (b), by striking paragraphs (1) and (2) and inserting the following:
+
+“(1) In general
+
+“(A) Structure
+
+“The workforce and labor market information system described in subsection (a) shall be evaluated and improved by the Secretary, in consultation with the Workforce Information Advisory Council established in subsection (d).
+
+“(B) Grants and responsibilities
+
+“(i) In general
+
+“The Secretary shall carry out the provisions of this section in a timely manner, through grants to or agreements with States.
+
+“(ii) Distribution of funds
+
+“Using amounts appropriated under subsection (g), the Secretary shall provide funds through those grants and agreements. In distributing the funds (relating to workforce and labor market information funding) for fiscal years 2015 through 2020, the Secretary shall continue to distribute the funds to States in the manner in which the Secretary distributed funds to the States under this section for fiscal years 2004 through 2008.
+
+“(2) Duties
+
+“The Secretary, with respect to data collection, analysis, and dissemination of workforce and labor market information for the system, shall carry out the following duties:
+
+“(A) Assign responsibilities within the Department of Labor for elements of the workforce and labor market information system described in subsection (a) to ensure that the statistical and administrative data collected is consistent with appropriate Bureau of Labor Statistics standards and definitions, and that the information is accessible and understandable to users of such data.
+
+“(B) Actively seek the cooperation of heads of other Federal agencies to establish and maintain mechanisms for ensuring complementarity and nonduplication in the development and operation of statistical and administrative data collection activities.
+
+“(C) Solicit, receive, and evaluate the recommendations from the Workforce Information Advisory Council established in subsection (d) concerning the evaluation and improvement of the workforce and labor market information system described in subsection (a) and respond in writing to the Council regarding the recommendations.
+
+“(D) Eliminate gaps and duplication in statistical undertakings.
+
+“(E) Through the Bureau of Labor Statistics and the Employment and Training Administration, and in collaboration with States, develop and maintain the elements of the workforce and labor market information system described in subsection (a), including the development of consistent procedures and definitions for use by the States in collecting the data and information described in subparagraphs (A) and (B) of subsection (a)(1).
+
+“(F) Establish procedures for the system to ensure that—
+
+“(i) such data and information are timely; and
+
+“(ii) paperwork and reporting for the system are reduced to a minimum.”;
+
+(4) by striking subsections (c) and (d) and inserting the following:
+
+“(c) Two-year plan
+
+“The Secretary, acting through the Commissioner of Labor Statistics and the Assistant Secretary for Employment and Training, and in consultation with the Workforce Information Advisory Council described in subsection (d) and heads of other appropriate Federal agencies, shall prepare a 2-year plan for the workforce and labor market information system. The plan shall be developed and implemented in a manner that takes into account the activities described in State plans submitted by States under section 3112 or 3113 of this title and shall be submitted to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate. The plan shall include—
+
+“(1) a description of how the Secretary will work with the States to manage the nationwide workforce and labor market information system described in subsection (a) and the statewide workforce and labor market information systems that comprise the nationwide system;
+
+“(2) a description of the steps to be taken in the following 2 years to carry out the duties described in subsection (b)(2);
+
+“(3) an evaluation of the performance of the system, with particular attention to the improvements needed at the State and local levels;
+
+“(4) a description of the involvement of States in the development of the plan, through consultation by the Secretary with the Workforce Information Advisory Council in accordance with subsection (d); and
+
+“(5) a description of the written recommendations received from the Workforce Information Advisory Council established under subsection (d), and the extent to which those recommendations were incorporated into the plan.
+
+“(d) Workforce Information Advisory Council
+
+“(1) In general
+
+“The Secretary, through the Commissioner of Labor Statistics and the Assistant Secretary for Employment and Training, shall formally consult at least twice annually with the Workforce Information Advisory Council established in accordance with paragraph (2). Such consultations shall address the evaluation and improvement of the nationwide workforce and labor market information system described in subsection (a) and the statewide workforce and labor market information systems that comprise the nationwide system and how the Department of Labor and the States will cooperate in the management of such systems. The Council shall provide written recommendations to the Secretary concerning the evaluation and improvement of the nationwide system, including any recommendations regarding the 2-year plan described in subsection (c).
+
+“(2) Establishment of Council
+
+“(A) Establishment
+
+“The Secretary shall establish an advisory council that shall be known as the Workforce Information Advisory Council (referred to in this section as the ‘Council’) to participate in the consultations and provide the recommendations described in paragraph (1).
+
+“(B) Membership
+
+“The Secretary shall appoint the members of the Council, which shall consist of—
+
+“(i) 4 members who are representatives of lead State agencies with responsibility for workforce investment activities, or State agencies described in [section 49c of this title](./chapter-4b-federal-employment-service.md#section-49c), who have been nominated by such agencies or by a national organization that represents such agencies;
+
+“(ii) 4 members who are representatives of the State workforce and labor market information directors affiliated with the State agencies that perform the duties described in subsection (e)(2), who have been nominated by the directors;
+
+“(iii) 1 member who is a representative of providers of training services under [section 3152 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3152);
+
+“(iv) 1 member who is a representative of economic development entities;
+
+“(v) 1 member who is a representative of businesses, who has been nominated by national business organizations or trade associations;
+
+“(vi) 1 member who is a representative of labor organizations, who has been nominated by a national labor federation;
+
+“(vii) 1 member who is a representative of local workforce development boards, who has been nominated by a national organization representing such boards; and
+
+“(viii) 1 member who is a representative of research entities that utilize workforce and labor market information.
+
+“(C) Geographic diversity
+
+“The Secretary shall ensure that the membership of the Council is geographically diverse and that no 2 of the members appointed under clauses (i), (ii), and (vii) represent the same State.
+
+“(D) Period of appointment; vacancies
+
+“(i) In general
+
+“Each member of the Council shall be appointed for a term of 3 years, except that the initial terms for members may be 1, 2, or 3 years in order to establish a rotation in which one-third of the members are selected each year. Any such member may be appointed for not more than 2 consecutive terms.
+
+“(ii) Vacancies
+
+“Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office.
+
+“(E) Travel expenses
+
+“The members of the Council shall not receive compensation for the performance of services for the Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Council. Notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), the Secretary may accept the voluntary and uncompensated services of members of the Council.
+
+“(F) Permanent Council
+
+“Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.”;
+
+(5) in subsection (e):
+
+(A) by striking “employment statistics” each place it appears and inserting “workforce and labor market information”;
+
+(B) in paragraph (1)(A), by striking “annual plan” and inserting “plan described in subsection (c)”; and
+
+(C) in paragraph (2):
+
+(i) in subparagraph (I), by striking “section 136(f)(2) of the Workforce Investment Act of 1998” and inserting “[section 3141(i)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/i/2&num=0&edition=prelim)”; and
+
+(ii) by inserting “and” at the end of subparagraph (G), striking subparagraph (H), and redesignating subparagraph (I) as subparagraph (H); and
+
+(6) in subsection (g), by striking “such sums as may be necessary for each of the fiscal years 1999 through 2004” and inserting “$60,153,000 for fiscal year 2015, $64,799,000 for fiscal year 2016, $66,144,000 for fiscal year 2017, $67,611,000 for fiscal year 2018, $69,200,000 for fiscal year 2019, and $70,667,000 for fiscal year 2020”.
+
+See 2014 Amendment notes below.
+
 #### References in Text
 Section 134(d), referred to in subsec. (a)(1)(B)(iii), probably means section 134(d) of the Workforce Investment Act of 1998, Pub. L. 105–220, which is classified to [section 2864(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/d&num=0&edition=prelim). The Wagner-Peyser Act, of which this section is a part, does not contain a section 134.
 
@@ -766,6 +1059,30 @@ The Carl D. Perkins Career and Technical Education Act of 2006, referred to in s
 A prior section 15 of act of June 6, 1933, was renumbered section 16, and is set out as a Short Title note under [section 49 of this title](./chapter-4b-federal-employment-service.md#section-49).
 
 #### Amendments
+2014—Pub. L. 113–128, § 308(a), substituted “Workforce and labor market information system” for “Employment statistics” in section catchline.
+
+Subsec. (a)(1). Pub. L. 113–128, § 308(b), substituted “workforce and labor market information system” for “employment statistics system of employment statistics” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 113–128, § 308(c)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The employment statistics system described in subsection (a) of this section shall be planned, administered, overseen, and evaluated through a cooperative governance structure involving the Federal Government and States.”
+
+Subsec. (b)(2). Pub. L. 113–128, § 308(c)(2), added par. (2) and struck out former par. (2) which described duties to be carried out for the employment statistics system.
+
+Subsec. (c). Pub. L. 113–128, § 308(d), added subsec. (c) and struck out former subsec. (c) which related to preparation of an annual plan to achieve cooperative management of the nationwide and statewide employment statistics systems.
+
+Subsec. (d). Pub. L. 113–128, § 308(e), added subsec. (d) and struck out former subsec. (d) which required coordination with the States in the development of the annual plan.
+
+Subsec. (e). Pub. L. 113–128, § 308(f)(1), substituted “workforce and labor market information” for “employment statistics” wherever appearing.
+
+Subsec. (e)(1)(A). Pub. L. 113–128, § 308(f)(2), substituted “plan described in subsection (c)” for “annual plan”.
+
+Subsec. (e)(2)(G), (H). Pub. L. 113–128, § 308(f)(3)(A), (B), (D), inserted “and” at end of subpar. (G), redesignated subpar. (I) as (H), and struck out former subpar. (H) which read as follows: “participate in the development of the annual plan described in subsection (c) of this section; and”.
+
+Subsec. (e)(2)(I). Pub. L. 113–128, § 308(f)(3)(D), redesignated subpar. (I) as (H).
+
+Pub. L. 113–128, § 308(f)(3)(C), substituted “[section 3141(i)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/i/2&num=0&edition=prelim)” for “section 136(f)(2) of the Workforce Investment Act of 1998”.
+
+Subsec. (g). Pub. L. 113–128, § 308(g), substituted “$60,153,000 for fiscal year 2015, $64,799,000 for fiscal year 2016, $66,144,000 for fiscal year 2017, $67,611,000 for fiscal year 2018, $69,200,000 for fiscal year 2019, and $70,667,000 for fiscal year 2020” for “such sums as may be necessary for each of the fiscal years 1999 through 2004”.
+
 2006—Subsec. (f). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
 
 1998—Subsec. (a)(2)(A)(i). Pub. L. 105–332, § 5(b)(1)(A), substituted “under the provisions of this section for any purpose other than the statistical purposes for which” for “under the provisions of this section for any purpose other than the statistical purposes for which”.
@@ -773,6 +1090,9 @@ A prior section 15 of act of June 6, 1933, was renumbered section 16, and is set
 Pub. L. 105–277, § 101(f) [title VIII, § 403(a)(1)(A)], struck out “of this section” after “statistical purposes”.
 
 Subsec. (e)(2)(G). Pub. L. 105–277, § 101(f) [title VIII, § 403(a)(1)(B)], and Pub. L. 105–332, § 5(b)(1)(B), amended subpar. (G) identically, substituting “comple­mentarity” for “complementary”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 1998 Amendments
 Pub. L. 105–332, § 5(b)(2), Oct. 31, 1998, 112 Stat. 3127, provided that: “The amendments made by paragraph (1) [amending this section] take effect July 2, 1999.”

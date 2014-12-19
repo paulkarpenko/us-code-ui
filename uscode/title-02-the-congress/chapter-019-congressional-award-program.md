@@ -18,6 +18,9 @@ There is established a board to be known as the Congressional Award Board (herei
 
 Pub. L. 106–533, § 1(b)(3)(B), made technical amendment to reference in original act which appears in text as reference to [section 802 of this title](./chapter-019-congressional-award-program.md#section-802).
 
+#### Short Title of 2013 Amendment
+Pub. L. 113–43, § 1, Oct. 4, 2013, 127 Stat. 554, provided that: “This Act [amending [section 808 of this title](./chapter-019-congressional-award-program.md#section-808) and enacting provisions set out as a note under [section 808 of this title](./chapter-019-congressional-award-program.md#section-808)] may be cited as the ‘Congressional Award Program Reauthorization Act of 2013’.”
+
 #### Short Title of 2010 Amendment
 Pub. L. 111–200, § 1, July 7, 2010, 124 Stat. 1368, provided that: “This Act [amending sections 802 to 804, 806, and 808 of this title and enacting provisions set out as a note under [section 808 of this title](./chapter-019-congressional-award-program.md#section-808)] may be cited as the ‘Congressional Award Program Reauthorization Act of 2009’.”
 
@@ -41,7 +44,7 @@ Pub. L. 96–114, § 1, Nov. 16, 1979, 93 Stat. 851, provided that: “This Act 
 
 <a id="section-802"></a>
 ## § 802. Program
-**(a) Establishment, functions, and purposes; nature of awards** The Board shall establish and administer a program to be known as the Congressional Award Program, which shall be designed to promote initiative, achievement, and excellence among youths in the areas of public service, personal development, and physical and expedition fitness. Under the program medals shall be awarded to young people within the United States, aged fourteen through twenty-three (subject to such exceptions as the Board may prescribe), who have satisfied the standards of achievement established by the Board under subsection (b) of this section. Each medal shall consist of gold-plate over bronze, rhodium over bronze, or bronze and shall be struck in accordance with subsection (f) of this section.
+**(a) Establishment, functions, and purposes; nature of awards** The Board shall establish and administer a program to be known as the Congressional Award Program, which shall be designed to promote initiative, achievement, and excellence among youths in the areas of public service, personal development, and physical and expedition fitness. Under the program medals shall be awarded to young people within the United States, aged fourteen through twenty-three (subject to such exceptions as the Board may prescribe), who have satisfied the standards of achievement established by the Board under subsection (b) of this section. Each medal shall consist of gold-plate over bronze, rhodium over bronze, or bronze and shall be struck in accordance with subsection (f).
 
 **(b) Implementation requirements for Board** In carrying out the Congressional Award Program, the Board shall—
 
@@ -64,7 +67,7 @@ No salary established by the Board shall exceed $75,000 per annum, except that f
 
 **(f) Congressional Award Program medals**
 
-(1) **Design and striking** — The Secretary of the Treasury shall strike the medals described in subsection (a) of this section and awarded by the Board under this chapter. Subject to subsection (a) of this section, the medals shall be of such quantity, design, and specifications as the Secretary of the Treasury may determine, after consultation with the Board.
+(1) **Design and striking** — The Secretary of the Treasury shall strike the medals described in subsection (a) and awarded by the Board under this chapter. Subject to subsection (a), the medals shall be of such quantity, design, and specifications as the Secretary of the Treasury may determine, after consultation with the Board.
 
 (2) **National medals** — The medals struck pursuant to this chapter are National medals for purposes of chapter 51 of title 31.
 
@@ -80,7 +83,7 @@ Subsection (e), which required the Board to submit an annual report to Congress 
 
 Subsec. (c). Pub. L. 111–200, § 2(a)(2), substituted “in connection with” for “during” in second sentence.
 
-2000—Subsec. (e)(3). Pub. L. 106–533, § 1(b)(4)(A), which directed technical amendment to reference in original act which would have appeared in text as reference to [section 804(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section804/g/1&num=0&edition=prelim) could not be executed because that reference did not appear in the original. See Codification note above.
+2000—Subsec. (e)(3). Pub. L. 106–533, § 1(b)(4)(A), which directed technical amendment to reference in original act which would have appeared in text as reference to [section 804(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section804/g/1&num=0&edition=prelim), could not be executed because that reference did not appear in the original. See Codification note above.
 
 Subsec. (e)(4). Pub. L. 106–533, § 1(b)(4)(B), made technical amendment to reference in original act which appears in text as reference to [section 806 of this title](./chapter-019-congressional-award-program.md#section-806). See Codification note above.
 
@@ -121,7 +124,7 @@ Subsec. (e)(4). Pub. L. 99–161, § 4(c), inserted “for each member, officer,
 
 (3) Individuals appointed to the Board shall have an interest in one or more of the fields of concern of the Congressional Award Program.
 
-(4) For the purpose of determining the derivation of the appointment of any person appointed to the Board under this section, if there is a change in the status of majority and minority between the parties of the House or the Senate, each person appointed under this section shall be deemed to have been appointed by the leadership position set out in subsection (a)(1) of this section of the party of the individual who made the initial appointment of such person.
+(4) For the purpose of determining the derivation of the appointment of any person appointed to the Board under this section, if there is a change in the status of majority and minority between the parties of the House or the Senate, each person appointed under this section shall be deemed to have been appointed by the leadership position set out in subsection (a)(1) of the party of the individual who made the initial appointment of such person.
 
 **(b) Terms of appointed members; reappointment**
 
@@ -237,17 +240,21 @@ Pub. L. 98–33, § 2, May 25, 1983, 97 Stat. 195, relating to exceptional terms
 
 **(c) Requirements regarding financial operations; noncompliance with requirements**
 
-(1) The Director shall, in consultation with the Board, ensure that appropriate procedures for fiscal control and fund accounting are established for the financial operations of the Congressional Award Program, and that such operations are administered by personnel with expertise in accounting and financial management. Such personnel may be retained under contract. In carrying out this paragraph, the Director shall ensure that the liabilities of the Board do not in any fiscal year exceed the assets of the Board.
+(1) The Director shall, in consultation with the Board, ensure that appropriate policies and procedures for fiscal control and accounting are established for the financial operations of the Congressional Award Program, and that such operations are administered by personnel with expertise in accounting and financial management. Such personnel may be retained under contract. In carrying out this paragraph, the Director shall ensure that the liabilities of the Board do not in any fiscal year exceed the assets of the Board.
 
 (2)
 
-  (A) The Comptroller General of the United States shall determine for each fiscal year whether the Director has substantially complied with paragraph (1). The findings made by the Comptroller General under the preceding sentence shall be included in the reports submitted under [section 807(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section807/b&num=0&edition=prelim).
+  (A) The independent public accountant conducting the annual audit of the financial records of the Board pursuant to [section 807(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section807/a&num=0&edition=prelim) shall determine for each fiscal year whether the Director has substantially complied with paragraph (1). The findings made by the independent public accountant under the preceding sentence shall be included in the reports submitted under [section 807(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section807/b&num=0&edition=prelim).
 
   (B) If the Director fails to substantially comply with paragraph (1), the Board shall instruct the Director to take such actions as may be necessary to correct such deficiencies, and shall remove and replace the Director if such deficiencies are not promptly corrected.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (c)(1). Pub. L. 113–188, § 902(c)(2)(A), inserted “policies and” before “procedures” and struck out “fund” before “accounting are established”.
+
+Subsec. (c)(2)(A). Pub. L. 113–188, § 902(c)(2)(B), substituted “The independent public accountant conducting the annual audit of the financial records of the Board pursuant to [section 807(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section807/a&num=0&edition=prelim)” for “The Comptroller General of the United States” and “the independent public accountant” for “the Comptroller General”.
+
 2010—Subsec. (c)(1). Pub. L. 111–200, § 2(c)(1), which directed substitution of “in any fiscal year” for “, in any calendar year,” in third sentence, was executed by making the substitution for “, for any calendar year,” to reflect the probable intent of Congress.
 
 Subsec. (c)(2). Pub. L. 111–200, § 2(c)(2), added par. (2) and struck out former par. (2) which read as follows:
@@ -263,6 +270,9 @@ Subsec. (c)(2). Pub. L. 111–200, § 2(c)(2), added par. (2) and struck out for
 1996—Subsec. (c)(2)(A). Pub. L. 104–208 substituted “1994, 1995, 1996, 1997, and 1998” for “and 1994”.
 
 1992—Subsec. (c). Pub. L. 102–457 added subsec. (c).
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–188, title IX, § 902(c)(3), Nov. 26, 2014, 128 Stat. 2022, provided that: “The amendments made by this subsection [amending this section and [section 807 of this title](./chapter-019-congressional-award-program.md#section-807)] shall take effect on October 1, 2014.”
 
 
 <a id="section-805"></a>
@@ -307,7 +317,7 @@ Regional award directors may be appointed by the Board, upon recommendation of t
 
 **(c) Statewide Congressional Award Councils; establishment, purposes, duties, etc.**
 
-(1) In carrying out its functions with respect to Statewide Congressional Award Councils (hereinafter in this subsection referred to as Statewide Councils) under subsection (b) of this section, the Board shall develop guidelines, criteria, and standards for the formation of Statewide Councils. In order to create a Statewide Council, Members of Congress and Senators from each respective State are encouraged to work jointly with the Board.
+(1) In carrying out its functions with respect to Statewide Congressional Award Councils (hereinafter in this subsection referred to as Statewide Councils) under subsection (b), the Board shall develop guidelines, criteria, and standards for the formation of Statewide Councils. In order to create a Statewide Council, Members of Congress and Senators from each respective State are encouraged to work jointly with the Board.
 
 (2) The establishment of Statewide Councils is intended to—
 
@@ -425,17 +435,24 @@ Subsecs. (b) to (h). Pub. L. 100–674, § 2(c)(2), added subsec. (b) and redesi
 
 
 <a id="section-807"></a>
-## § 807. Audits and evaluation
-**(a) Annual audits by Comptroller General; access to books, documents, papers, and records** The financial records of the Board and of any corporation established under section 806(i) 11 See References in Text note below. of this title shall be audited annually by the Comptroller General of the United States (hereinafter in this section referred to as the “Comptroller General”). The Comptroller General, or any duly authorized representative of the Comptroller General, shall have access for the purpose of audit to any books, documents, papers, and records of the Board or such corporation (or any agent of the Board or such corporation) which, in the opinion of the Comptroller General, may be pertinent to the Congressional Award Program.
+## § 807. Audits
+**(a) Contracts with independent public accountant** The Board shall enter into a contract with an independent public accountant to conduct an annual audit in accordance with generally accepted government auditing standards, of the financial records of the Board and of any corporation established under [section 806(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section806/i&num=0&edition=prelim), and shall ensure that the independent public accountant has access for the purpose of the audit to any books, documents, papers, and records of the Board or such corporation (or any agent of the Board or such corporation) which the independent public accountant reasonably determines to be pertinent to the Congressional Award Program.
 
-**(b) Annual report to Congress on audit results** The Comptroller General shall submit to appropriate officers, committees, and subcommittees of the Congress, by May 15th of each calendar year, a report on the results of the audit of the financial records and on any such additional areas as the Comptroller General determines deserve or require evaluation.
+**(b) Annual report to Congress on audit results** Not later than May 15 of each calendar year, the Board shall submit to appropriate officers, committees, and subcommittees of Congress and to the Comptroller General of the United States a report on the results of the most recent audit conducted pursuant to this section, and shall include in the report information on any such additional areas as the independent public accountant who conducted the audit determines deserve or require evaluation.
+
+**(c) Review by the Comptroller General of annual audit**
+
+(1) The Comptroller General of the United States shall review each annual audit conducted under subsection (a).
+
+(2) For purposes of a review under paragraph (1), the Comptroller General, or any duly authorized representative of the Comptroller General, shall have access to any books, documents, papers, and records of the Board or such corporation, or any agent of the Board or such corporation, including the independent external auditor designated under subsection (a), which, in the opinion of the Comptroller General, may be pertinent.
+
+(3) Not later than 180 days after the date on which the Comptroller General receives a report under subsection (b), the Comptroller General shall submit to Congress a report containing the results of the review conducted under paragraph (1) with respect to the preceding year.
 
 ### Statutory Notes
 
-#### References in Text
-[Section 806(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section806/i&num=0&edition=prelim), referred to in subsec. (a), was in the original a reference to section 7(i) which was renumbered section 106 by Pub. L. 106–533, § 1(b)(2), Nov. 22, 2000, 114 Stat. 2553.
-
 #### Amendments
+2014—Pub. L. 113–188 amended section generally. Prior to amendment, section related to annual audits and reports by the Comptroller General.
+
 1990—Subsec. (a). Pub. L. 101–525, § 8(1), substituted “[section 806(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section806/i&num=0&edition=prelim)” for “[section 806(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section806/h&num=0&edition=prelim)” and “annually” for “at least biennially”.
 
 Subsec. (b). Pub. L. 101–525, § 8(2), added subsec. (b) and struck out former subsec. (b) which required audit to assess adequacy of fiscal control and funds accountability procedures and propriety of expenses.
@@ -450,15 +467,20 @@ Subsec. (a). Pub. L. 99–161, § 4(g)(2)–(4), designated existing provisions 
 
 Subsecs. (b) to (d). Pub. L. 99–161, § 4(g)(5), added subsecs. (b) to (d).
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–188 effective Oct. 1, 2014, see section 902(c)(3) of Pub. L. 113–188, set out as a note under [section 804 of this title](./chapter-019-congressional-award-program.md#section-804).
+
 
 <a id="section-808"></a>
 ## § 808. Termination
 
-The Board shall terminate October 1, 2013.
+The Board shall terminate October 1, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2013—Pub. L. 113–43 substituted “October 1, 2018” for “October 1, 2013”.
+
 2010—Pub. L. 111–200 substituted “October 1, 2013” for “October 1, 2009”.
 
 2005—Pub. L. 109–143 substituted “October 1, 2009” for “October 1, 2004”.
@@ -474,6 +496,9 @@ The Board shall terminate October 1, 2013.
 1988—Pub. L. 100–674 amended section generally. Prior to amendment, section read as follows: “The Board shall terminate on November 16, 1988. Upon termination of the Board, the Board shall take such actions as may be required to provide for the dissolution of any corporation established by the Board under [section 806(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section806/g&num=0&edition=prelim). The Board shall set forth, in its bylaws, the procedures for dissolution to be followed by the Board.”
 
 1985—Pub. L. 99–161 substituted “on November 16, 1988” for “six years after November 16, 1979”.
+
+#### Effective Date of 2013 Amendment
+Pub. L. 113–43, § 3, Oct. 4, 2013, 127 Stat. 554, provided that: “This Act [amending this section and enacting provisions set out as a note under [section 801 of this title](./chapter-019-congressional-award-program.md#section-801)] shall take effect as of October 1, 2013.”
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–200, § 2(h)(2), July 7, 2010, 124 Stat. 1370, provided that: “This subsection [amending this section] shall take effect as of October 1, 2009.”

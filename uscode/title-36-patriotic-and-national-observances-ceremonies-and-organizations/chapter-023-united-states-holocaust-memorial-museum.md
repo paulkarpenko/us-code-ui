@@ -13,7 +13,7 @@ The United States Holocaust Memorial Museum (hereafter in this chapter referred 
 
 (1) provide for appropriate ways for the Nation to commemorate the Days of Remembrance, as an annual, national, civic commemoration of the Holocaust, and encourage and sponsor appropriate observances of such Days of Remembrance throughout the United States;
 
-(2) operate and maintain a permanent living memorial museum to the victims of the Holocaust, in cooperation with the Secretary of the Interior and other Federal agencies as provided in section 2306 11 So in original. [Section 2306 of this title](./chapter-023-united-states-holocaust-memorial-museum.md#section-2306) does not relate to cooperation with the Secretary or other Federal agencies. of this title; and
+(2) operate and maintain a permanent living memorial museum to the victims of the Holocaust, in cooperation with the Secretary of the Interior and other Federal agencies as provided in [section 2304 of this title](./chapter-023-united-states-holocaust-memorial-museum.md#section-2304); and
 
 (3) carry out the recommendations of the President’s Commission on the Holocaust in its report to the President of September 27, 1979, to the extent such recommendations are not otherwise provided for in this chapter.
 
@@ -23,6 +23,8 @@ The United States Holocaust Memorial Museum (hereafter in this chapter referred 
 A prior section 2301, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1277, related to the establishment and purposes of the Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292.
 
 #### Amendments
+2014—Par. (2). Pub. L. 113–237 substituted “section 2304” for “section 2306”.
+
 2006—Pub. L. 109–284 substituted “United States Government” for “United State Government” in introductory provisions.
 
 #### Transfer of Auditors West Building (Annex 3); Responsibility for Repairs and Alterations

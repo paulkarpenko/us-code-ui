@@ -633,21 +633,11 @@ Section, Pub. L. 89–454, title II, § 206, as added Pub. L. 94–461, § 2, Oc
 
 (2) to conduct a merit review of all proposals for grants and contracts to be awarded under [section 1124 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1124).
 
-**(e) Annual report on progress**
-
-(1) **Report requirement** — The Secretary shall report annually to the Committee on Resources and the Committee on Science of the House of Representatives, and to the Committee on Commerce, Science, and Transportation of the Senate, on efforts and progress made by colleges, universities, institutions, associations, and alliances to become designated under this section as sea grant colleges or sea grant institutes, including efforts and progress made by sea grant institutes in being designated as sea grant colleges.
-
-(2) **Territories and freely associated States** — The report shall include description of—
-
-  (A) efforts made by colleges, universities, associations, institutions, and alliances in United States territories and freely associated States to develop the expertise necessary to be designated as a sea grant institute or sea grant college;
-
-  (B) the administrative, technical, and financial assistance provided by the Secretary to those entities seeking to be designated; and
-
-  (C) the additional actions or activities necessary for those entities to meet the qualifications for such designation under subsection (a)(1) of this section.
-
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (e). Pub. L. 113–188, which directed amendment of section 207 of the National Sea Grant Program Act by striking subsec. (e), was executed to this section, which is section 207 of the National Sea Grant College Program Act, to reflect the probable intent of Congress. Prior to amendment, subsec. (e) related to annual reports on progress made by colleges, universities, institutions, associations, and alliances to become designated under this section as sea grant colleges or sea grant institutes.
+
 2008—Subsec. (a)(1)(F). Pub. L. 110–394, § 9(a)(4)(C)(ii), substituted “Board” for “panel”.
 
 Subsec. (a)(2)(B), (3)(B). Pub. L. 110–394, § 7, substituted “extension services” for “advisory services”.
@@ -660,13 +650,10 @@ Subsec. (d)(1). Pub. L. 110–394, § 9(a)(4)(C)(ii), substituted “Board” fo
 
 1987—Subsec. (a)(2)(A), (3)(A), (B). Pub. L. 100–220 substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
 
-#### Change of Name
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives and Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 
 <a id="section-1127"></a>
 ## § 1127. Fellowships
-**(a) In general** To carry out the educational and training objectives of this subchapter, the Secretary shall support a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be related to ocean, coastal, and Great Lakes resources and awarded pursuant to guidelines established by the Secretary. The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection. Every 2 years, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.
+**(a) In general** To carry out the educational and training objectives of this subchapter, the Secretary shall support a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be related to ocean, coastal, and Great Lakes resources and awarded pursuant to guidelines established by the Secretary. The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection.
 
 **(b) Dean John A. Knauss Marine Policy Fellowship** The Secretary may award marine policy fellowships to support the placement of individuals at the graduate level of education in fields related to ocean, coastal and Great Lakes resources in positions with the executive and legislative branches of the United States Government. A fellowship awarded under this subsection shall be for a period of not more than 1 year.
 
@@ -678,6 +665,8 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 This subchapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–188, which directed amendment of section 208(a) of the National Sea Grant Program Act by striking the fourth sentence, was executed to this section, which is section 208(a) of the National Sea Grant College Program Act, to reflect the probable intent of Congress. Prior to amendment, fourth sentence read as follows: “Every 2 years, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.”
+
 2008—Subsec. (a). Pub. L. 110–394, § 8(1), substituted “Every 2 years,” for “Not later than 1 year after November 26, 2002, and every 2 years thereafter,”.
 
 Subsec. (c). Pub. L. 110–394, § 8(2), added subsec. (c).

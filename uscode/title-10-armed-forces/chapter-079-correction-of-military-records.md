@@ -65,7 +65,9 @@ Pub. L. 105–261, div. A, title V, § 541, Oct. 17, 1998, 112 Stat. 2019, provi
 
 (2) action on the sentence of a court-martial for purposes of clemency.
 
-**(g)** In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873 of this title).
+**(g)** Any medical advisory opinion issued to a board established under subsection (a)(1) with respect to a member or former member of the armed forces who was diagnosed while serving in the armed forces as experiencing a mental health disorder shall include the opinion of a clinical psychologist or psychiatrist if the request for correction of records concerned relates to a mental health disorder.
+
+**(h)** In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873 of this title).
 
 ### Statutory Notes
 
@@ -98,6 +100,8 @@ In subsection (e), the words “No payment may be made under this section” are
 The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (f), is act May 5, 1950, ch. 169, § 1, 64 Stat. 107, which was classified to chapter 22 (§ 551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§ 801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641, the first section of which enacted this title.
 
 #### Amendments
+2014—Subsecs. (g), (h). Pub. L. 113–291 added subsec. (g) and redesignated former subsec. (g) as (h).
+
 2008—Subsec. (c). Pub. L. 110–417 designated existing provisions as pars. (1) to (3), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (2), and added par. (4).
 
 2002—Subsec. (a)(1). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
@@ -147,9 +151,11 @@ Pub. L. 101–225, title II, § 212, Dec. 12, 1989, 103 Stat. 1914, provided tha
 
 **(d)**
 
-(1) In the case of a former member of the armed forces who, while serving on active duty as a member of the armed forces, was deployed in support of a contingency operation and who, at any time after such deployment, was diagnosed by a physician, clinical psychologist, or psychiatrist as experiencing post-traumatic stress disorder or traumatic brain injury as a consequence of that deployment, a board established under this section to review the former member’s discharge or dismissal shall include a member who is a physician, clinical psychologist, or psychiatrist.
+(1) In the case of a former member of the armed forces who, while serving on active duty as a member of the armed forces, was deployed in support of a contingency operation and who, at any time after such deployment, was diagnosed by a physician, clinical psychologist, or psychiatrist as experiencing post-traumatic stress disorder or traumatic brain injury as a consequence of that deployment, a board established under this section to review the former member’s discharge or dismissal shall include a member who is a clinical psychologist or psychiatrist, or a physician with training on mental health issues connected with post traumatic stress disorder or traumatic brain injury (as applicable).
 
 (2) In the case of a former member described in paragraph (1) or a former member whose application for relief is based in whole or in part on matters relating to post-traumatic stress disorder or traumatic brain injury as supporting rationale or as justification for priority consideration, the Secretary concerned shall expedite a final decision and shall accord such cases sufficient priority to achieve an expedited resolution. In determining the priority of cases, the Secretary concerned shall weigh the medical and humanitarian circumstances of all cases and accord higher priority to cases not involving post-traumatic stress disorder or traumatic brain injury only when the individual cases are considered more compelling.
+
+**(e)** In the case of a former member of the armed forces (other than a former member covered by subsection (d)) who was diagnosed while serving in the armed forces as experiencing a mental health disorder, a board established under this section to review the former member’s discharge or dismissal shall include a member who is a clinical psychologist or psychiatrist, or a physician with special training on mental health disorders.
 
 ### Statutory Notes
 
@@ -160,6 +166,10 @@ Sections 1553 and 1554 are restated, without substantive change, to conform to t
 The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (a), is act May 5, 1950, ch. 169, § 1, 64 Stat. 107, which was classified to chapter 22 (§ 551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§ 801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641, the first section of which enacted this title.
 
 #### Amendments
+2014—Subsec. (d)(1). Pub. L. 113–291, § 521(b)(1), substituted “clinical psychologist or psychiatrist, or a physician with training on mental health issues connected with post traumatic stress disorder or traumatic brain injury (as applicable)” for “physician, clinical psychologist, or psychiatrist” before period at end.
+
+Subsec. (e). Pub. L. 113–291, § 521(b)(2), added subsec. (e).
+
 2009—Subsec. (d). Pub. L. 111–84 added subsec. (d).
 
 1989—Subsecs. (a), (c). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
@@ -170,6 +180,9 @@ The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), refe
 
 #### Effective Date
 Section effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans’ Benefits.
+
+#### Confidential Review of Characterization of Terms of Discharge of Members of the Armed Forces who are Victims of Sexual Offenses
+Pub. L. 113–291, div. A, title V, § 547, Dec. 19, 2014, 128 Stat. 3375, provided that: “(a) Confidential Review Process Through Boards for Correction of Military Records.—The Secretaries of the military departments shall each establish a confidential process, utilizing boards for the correction of military records of the military department concerned, by which an individual who was the victim of a sex-related offense during service in the Armed Forces may challenge the terms or characterization of the discharge or separation of the individual from the Armed Forces on the grounds that the terms or characterization were adversely affected by the individual being the victim of such an offense. “(b) Consideration of Individual Experiences in Connection With Offenses.—In deciding whether to modify the terms or characterization of the discharge or separation from the Armed Forces of an individual described in subsection (a), the Secretary of the military department concerned shall instruct boards for the correction of military records—“(1) to give due consideration to the psychological and physical aspects of the individual’s experience in connection with the sex-related offense; and “(2) to determine what bearing such experience may have had on the circumstances surrounding the individual’s discharge or separation from the Armed Forces. “(c) Preservation of Confidentiality.—Documents considered and decisions rendered pursuant to the process required by subsection (a) shall not be made available to the public, except with the consent of the individual concerned. “(d) Sex-related Offense Defined.—In this section, the term ‘sex-related offense’ means any of the following:“(1) Rape or sexual assault under subsection (a) or (b) of [section 920 of title 10](./chapter-047-uniform-code-of-military-justice.md#section-920), United States Code (article 120 of the Uniform Code of Military Justice). “(2) Forcible sodomy under section 925 of such title (article 125 of the Uniform Code of Military Justice). “(3) An attempt to commit an offense specified in paragraph (1) or (2) as punishable under section 880 of such title (article 80 of the Uniform Code of Military Justice).”
 
 
 <a id="section-1554"></a>
@@ -306,7 +319,7 @@ Pub. L. 105–261, div. A, title V, § 543(b), Oct. 17, 1998, 112 Stat. 2021, pr
 
 <a id="section-1557"></a>
 ## § 1557. Timeliness standards for disposition of applications before Corrections Boards
-**(a) Ten-Month Clearance Percentage.—** Of the applications received by a Corrections Board during a period specified in the following table, the percentage on which final action by the Corrections Board must be completed within 10 months of receipt (other than for those applications considered suitable for administrative correction) is as follows: The percentage on which final For applicationsCorrection Board action received during—must be completed within 10 months of receipt is— the period of fiscal years 2001 and 200250 the period of fiscal years 2003 and 200460 the period of fiscal years 2005, 2006, and 200770 the period of fiscal years 2008, 2009, and 201080 the period of any fiscal year after fiscal year 201090.
+**(a) Ten-Month Clearance Percentage.—** Of the applications received by a Corrections Board during a period specified in the following table, the percentage on which final action by the Corrections Board must be completed within 10 months of receipt (other than for those applications considered suitable for administrative correction) is as follows: For applications received during— The percentage on which final Correction Board action must be completed within 10 months ofreceipt is— the period of fiscal years 2001 and 200250 the period of fiscal years 2003 and 200460 the period of fiscal years 2005, 2006, and 200770 the period of fiscal years 2008, 2009, and 201080 the period of any fiscal year after fiscal year 201090.
 
 **(b) Clearance Deadline for All Applications.—** Final action by a Corrections Board on all applications received by the Corrections Board (other than those applications considered suitable for administrative correction) shall be completed within 18 months of receipt.
 

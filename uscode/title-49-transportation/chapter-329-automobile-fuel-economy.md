@@ -120,9 +120,9 @@ source: >-
 
   (A) The Secretary may prescribe a lower range for a specific model than that prescribed under paragraph (1) of this subsection. A manufacturer may petition for a lower range than that prescribed under paragraph (1) for a specific model.
 
-  (B) The minimum driving range prescribed for dual fueled automobiles (except electric automobiles) under subparagraph (A) of this paragraph or paragraph (1) of this subsection must be at least 200 miles.
+  (B) The minimum driving range prescribed for dual fueled automobiles (except electric automobiles) under subparagraph (A) of this paragraph or paragraph (1) of this subsection must be at least 200 miles, except that beginning with model year 2016, alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1) shall have a minimum driving range of 150 miles.
 
-  (C) If the Secretary prescribes a minimum driving range of 200 miles for dual fueled automobiles (except electric automobiles) under paragraph (1) of this subsection, subparagraph (A) of this paragraph does not apply to dual fueled automobiles (except electric automobiles).
+  (C) If the Secretary prescribes a minimum driving range of 200 miles for dual fueled automobiles (except electric automobiles) under paragraph (1) of this subsection, subparagraph (A) of this paragraph does not apply to dual fueled automobiles (except electric automobiles). Beginning with model year 2016, if the Secretary prescribes a minimum driving range of 150 miles for alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1), subparagraph (A) shall not apply to dual fueled automobiles (except electric automobiles).
 
 (3) In prescribing a minimum driving range under paragraph (1) of this subsection and in taking an action under paragraph (2) of this subsection, the Secretary shall consider the purpose set forth in section 3 of the Alternative Motor Fuels Act of 1988 (Public Law 100–494, 102 Stat. 2442), consumer acceptability, economic practicability, technology, environmental impact, safety, drivability, performance, and other factors the Secretary considers relevant.
 
@@ -177,6 +177,10 @@ The date of the enactment of the Ten-in-Ten Fuel Economy Act, referred to in sub
 Section 3 of the Alternative Motor Fuels Act of 1988, referred to in subsec. (c)(3), is section 3 of Pub. L. 100–494, which is set out as a note under [section 6374 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6374&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2014—Subsec. (c)(2)(B). Pub. L. 113–291, § 318(b)(1), inserted “, except that beginning with model year 2016, alternative fueled automobiles that use a fuel described in subparagraph (E) of subsection (a)(1) shall have a minimum driving range of 150 miles” after “at least 200 miles”.
+
+Subsec. (c)(2)(C). Pub. L. 113–291, § 318(b)(2), inserted second sentence.
+
 2007—Subsec. (a)(3). Pub. L. 110–140, § 103(a)(1), added par. (3) and struck out former par. (3) which read as follows: “except as provided in [section 32908 of this title](./chapter-329-automobile-fuel-economy.md#section-32908), ‘automobile’ means a 4-wheeled vehicle that is propelled by fuel, or by alternative fuel, manufactured primarily for use on public streets, roads, and highways (except a vehicle operated only on a rail line), and rated at—
 
 “(A) not more than 6,000 pounds gross vehicle weight; or
@@ -784,9 +788,19 @@ Pub. L. 110–140, title I, § 113(b), (c), Dec. 19, 2007, 121 Stat. 1508, provi
 
 (2) .5 divided by the fuel economy measured under subsection (c) of this section when operating the model on gaseous fuel.
 
-**(e) Fuel Economy Calculations.—** The Administrator shall calculate the manufacturer’s average fuel economy under [section 32904(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section32904/a/1&num=0&edition=prelim) for each model described under subsections (a)–(d) of this section by using as the denominator the fuel economy measured for each model under subsections (a)–(d).
+**(e) Electric Dual Fueled Automobiles.—**
 
-**(f) Fuel Economy Incentive Requirements.—** In order for any model of dual fueled automobile to be eligible to receive the fuel economy incentives included in section 32906(a) and (b), a label shall be attached to the fuel compartment of each dual fueled automobile of that model, notifying that the vehicle can be operated on an alternative fuel and on gasoline or diesel, with the form of alternative fuel stated on the notice. This requirement applies to dual fueled automobiles manufactured on or after September 1, 2006.
+(1) **In general.—** — At the request of the manufacturer, the Administrator may measure the fuel economy for any model of dual fueled automobile manufactured after model year 2015 that is capable of operating on electricity in addition to gasoline or diesel fuel, obtains its electricity from a source external to the vehicle, and meets the minimum driving range requirements established by the Secretary for dual fueled electric automobiles, by dividing 1.0 by the sum of—
+
+  (A) the percentage utilization of the model on gasoline or diesel fuel, as determined by a formula based on the model’s alternative fuel range, divided by the fuel economy measured under section 32904(c); and
+
+  (B) the percentage utilization of the model on electricity, as determined by a formula based on the model’s alternative fuel range, divided by the fuel economy measured under section 32904(a)(2).
+
+(2) **Alternative calculation.—** — If the manufacturer does not request that the Administrator calculate the manufacturing incentive for its electric dual fueled automobiles in accordance with paragraph (1), the Administrator shall calculate such incentive for such automobiles manufactured by such manufacturer after model year 2015 in accordance with subsection (b).
+
+**(f) Fuel Economy Calculations.—** The Administrator shall calculate the manufacturer’s average fuel economy under [section 32904(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section32904/a/1&num=0&edition=prelim) for each model described under subsections (a)–(d) of this section by using as the denominator the fuel economy measured for each model under subsections (a)–(d).
+
+**(g) Fuel Economy Incentive Requirements.—** In order for any model of dual fueled automobile to be eligible to receive the fuel economy incentives included in section 32906(a) and (b), a label shall be attached to the fuel compartment of each dual fueled automobile of that model, notifying that the vehicle can be operated on an alternative fuel and on gasoline or diesel, with the form of alternative fuel stated on the notice. This requirement applies to dual fueled automobiles manufactured on or after September 1, 2006.
 
 ### Statutory Notes
 
@@ -810,6 +824,8 @@ In subsection (c), the words “For purposes of this section” and “than natu
 In subsection (e), the words “subject to the provisions of this section” are omitted as unnecessary because of the restatement. The words “for each model described under subsections (a)–(d) of this section” are substituted for “for each model type of dedicated automobile or dual fueled automobile” to eliminate unnecessary words. The words “by using as the denominator” are substituted for “by including as the denominator of the term” for clarity.
 
 #### Amendments
+2014—Subsecs. (e) to (g). Pub. L. 113–291 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+
 2007—Subsec. (b). Pub. L. 110–140, § 109(b)(1), substituted “1993 through 2019” for “1993–2010” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 110–140, § 109(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “.5 divided by the fuel economy measured under subsection (a) of this section when operating the model on alternative fuel.”
@@ -834,7 +850,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 <a id="section-32906"></a>
 ## § 32906. Maximum fuel economy increase for alternative fuel automobiles
-**(a) In General.—** For each of model years 1993 through 2019 for each category of automobile (except an electric automobile), the maximum increase in average fuel economy for a manufacturer attributable to dual fueled automobiles is—
+**(a) In General.—** For each of model years 1993 through 2019 for each category of automobile (except an electric automobile or, beginning with model year 2016, an alternative fueled automobile that uses a fuel described in subparagraph (E) of section 32901(a)(1)), the maximum increase in average fuel economy for a manufacturer attributable to dual fueled automobiles is—
 
 (1) 1.2 miles a gallon for each of model years 1993 through 2014;
 
@@ -850,7 +866,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 (7) 0 miles per gallon for model years after 2019.
 
-**(b) Calculation.—** In applying subsection (a), the Administrator of the Environmental Protection Agency shall determine the increase in a manufacturer’s average fuel economy attributable to dual fueled automobiles by subtracting from the manufacturer’s average fuel economy calculated under section 32905(e) the number equal to what the manufacturer’s average fuel economy would be if it were calculated by the formula under section 32904(a)(1) by including as the denominator for each model of dual fueled automobiles the fuel economy when the automobiles are operated on gasoline or diesel fuel.
+**(b) Calculation.—** In applying subsection (a), the Administrator of the Environmental Protection Agency shall determine the increase in a manufacturer’s average fuel economy attributable to dual fueled automobiles by subtracting from the manufacturer’s average fuel economy calculated under section 32905(f) the number equal to what the manufacturer’s average fuel economy would be if it were calculated by the formula under section 32904(a)(1) by including as the denominator for each model of dual fueled automobiles the fuel economy when the automobiles are operated on gasoline or diesel fuel.
 
 ### Statutory Notes
 
@@ -861,6 +877,10 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 | 32906(b) | 15:2013(g)(2)(A). |  |
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–291, § 318(a), substituted “(except an electric automobile or, beginning with model year 2016, an alternative fueled automobile that uses a fuel described in subparagraph (E) of section 32901(a)(1))” for “(except an electric automobile)” in introductory provisions.
+
+Subsec. (b). Pub. L. 113–291, § 318(d), substituted “section 32905(f)” for “section 32905(e)”.
+
 2007—Pub. L. 110–140 amended section generally, substituting provisions relating to maximum increase in average fuel economy for each of model years 1993 through 2019 and calculation of each such increase for provisions relating to maximum increase for each of model years 1993 through 2010 and authorizing offsets if the Secretary of Transportation reduced the average fuel economy standard for passenger automobiles for any model year below 27.5 miles per gallon.
 
 2005—Subsec. (a)(1)(A). Pub. L. 109–58, § 772(b)(1), substituted “model years 1993–2010” for “the model years 1993–2004”.
@@ -1074,7 +1094,7 @@ The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26
 
 The date of the enactment of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (g)(1)(A)(i), (4), is the date of enactment of subtitle A (§§ 101–113) of title I of Pub. L. 110–140, which was approved Dec. 19, 2007.
 
-Subsection (h) of [section 32905 of this title](./chapter-329-automobile-fuel-economy.md#section-32905), referred to in subsec. (g)(3), was redesignated (f) by Pub. L. 110–140, title I, § 109(b)(4), Dec. 19, 2007, 121 Stat. 1506.
+Subsection (h) of [section 32905 of this title](./chapter-329-automobile-fuel-economy.md#section-32905), referred to in subsec. (g)(3), was redesignated subsec. (f) by Pub. L. 110–140, title I, § 109(b)(4), Dec. 19, 2007, 121 Stat. 1506, and subsequently was redesignated subsec. (g) by Pub. L. 113–291, div. A, title III, § 318(c)(1), Dec. 19, 2014, 128 Stat. 3341.
 
 #### Amendments
 2007—Subsec. (g). Pub. L. 110–140 added subsec. (g).

@@ -10,107 +10,6 @@ source: >-
 ## § 101. Definitions
 
 Except as otherwise provided in this title, as used in this title, the following terms and their variant forms mean the following:
-An “anonymous work” is a work on the copies or phonorecords of which no natural person is identified as author.
-An “architectural work” is the design of a building as embodied in any tangible medium of expression, including a building, architectural plans, or drawings. The work includes the overall form as well as the arrangement and composition of spaces and elements in the design, but does not include individual standard features.
-“Audiovisual works” are works that consist of a series of related images which are intrinsically intended to be shown by the use of machines, or devices such as projectors, viewers, or electronic equipment, together with accompanying sounds, if any, regardless of the nature of the material objects, such as films or tapes, in which the works are embodied.
-The “Berne Convention” is the Convention for the Protection of Literary and Artistic Works, signed at Berne, Switzerland, on September 9, 1886, and all acts, protocols, and revisions thereto.
-The “best edition” of a work is the edition, published in the United States at any time before the date of deposit, that the Library of Congress determines to be most suitable for its purposes.
-A person’s “children” are that person’s immediate offspring, whether legitimate or not, and any children legally adopted by that person.
-A “collective work” is a work, such as a periodical issue, anthology, or encyclopedia, in which a number of contributions, constituting separate and independent works in themselves, are assembled into a collective whole.
-A “compilation” is a work formed by the collection and assembling of preexisting materials or of data that are selected, coordinated, or arranged in such a way that the resulting work as a whole constitutes an original work of authorship. The term “compilation” includes collective works.
-A “computer program” is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result.
-“Copies” are material objects, other than phonorecords, in which a work is fixed by any method now known or later developed, and from which the work can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. The term “copies” includes the material object, other than a phonorecord, in which the work is first fixed.
-“Copyright owner”, with respect to any one of the exclusive rights comprised in a copyright, refers to the owner of that particular right.
-A “Copyright Royalty Judge” is a Copyright Royalty Judge appointed under [section 802 of this title](./chapter-008-proceedings-by-copyright-royalty-judges.md#section-802), and includes any individual serving as an interim Copyright Royalty Judge under such section.
-A work is “created” when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work.
-A “derivative work” is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or other modifications which, as a whole, represent an original work of authorship, is a “derivative work”.
-A “device”, “machine”, or “process” is one now known or later developed.
-A “digital transmission” is a transmission in whole or in part in a digital or other non-analog format.
-To “display” a work means to show a copy of it, either directly or by means of a film, slide, television image, or any other device or process or, in the case of a motion picture or other audiovis­ual work, to show individual images nonsequentially.
-An “establishment” is a store, shop, or any similar place of business open to the general public for the primary purpose of selling goods or services in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly.
-The term “financial gain” includes receipt, or expectation of receipt, of anything of value, including the receipt of other copyrighted works.
-A work is “fixed” in a tangible medium of expression when its embodiment in a copy or phonorecord, by or under the authority of the author, is sufficiently permanent or stable to permit it to be perceived, reproduced, or otherwise communicated for a period of more than transitory duration. A work consisting of sounds, images, or both, that are being transmitted, is “fixed” for purposes of this title if a fixation of the work is being made simultaneously with its transmission.
-A “food service or drinking establishment” is a restaurant, inn, bar, tavern, or any other similar place of business in which the public or patrons assemble for the primary purpose of being served food or drink, in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly.
-The “Geneva Phonograms Convention” is the Convention for the Protection of Producers of Phonograms Against Unauthorized Duplication of Their Phonograms, concluded at Geneva, Switzerland, on October 29, 1971.
-The “gross square feet of space” of an establishment means the entire interior space of that establishment, and any adjoining outdoor space used to serve patrons, whether on a seasonal basis or otherwise.
-The terms “including” and “such as” are illustrative and not limitative.
-An “international agreement” is—
-
-(1) the Universal Copyright Convention;
-
-(2) the Geneva Phonograms Convention;
-
-(3) the Berne Convention;
-
-(4) the WTO Agreement;
-
-(5) the WIPO Copyright Treaty;
-
-(6) the WIPO Performances and Phonograms Treaty; and
-
-(7) any other copyright treaty to which the United States is a party. A “joint work” is a work prepared by two or more authors with the intention that their contributions be merged into inseparable or interdependent parts of a unitary whole. “Literary works” are works, other than audiovisual works, expressed in words, numbers, or other verbal or numerical symbols or indicia, regardless of the nature of the material objects, such as books, periodicals, manuscripts, phonorecords, film, tapes, disks, or cards, in which they are embodied. The term “motion picture exhibition facility” means a movie theater, screening room, or other venue that is being used primarily for the exhibition of a copyrighted motion picture, if such exhibition is open to the public or is made to an assembled group of viewers outside of a normal circle of a family and its social acquaintances. “Motion pictures” are audiovisual works consisting of a series of related images which, when shown in succession, impart an impression of motion, together with accompanying sounds, if any. To “perform” a work means to recite, render, play, dance, or act it, either directly or by means of any device or process or, in the case of a motion picture or other audiovisual work, to show its images in any sequence or to make the sounds accompanying it audible. A “performing rights society” is an association, corporation, or other entity that licenses the public performance of nondramatic musical works on behalf of copyright owners of such works, such as the American Society of Composers, Authors and Publishers (ASCAP), Broadcast Music, Inc. (BMI), and SESAC, Inc. “Phonorecords” are material objects in which sounds, other than those accompanying a motion picture or other audiovisual work, are fixed by any method now known or later developed, and from which the sounds can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. The term “phonorecords” includes the material object in which the sounds are first fixed. “Pictorial, graphic, and sculptural works” include two-dimensional and three-dimensional works of fine, graphic, and applied art, photographs, prints and art reproductions, maps, globes, charts, diagrams, models, and technical drawings, including architectural plans. Such works shall include works of artistic craftsmanship insofar as their form but not their mechanical or utilitarian aspects are concerned; the design of a useful article, as defined in this section, shall be considered a pictorial, graphic, or sculptural work only if, and only to the extent that, such design incorporates pictorial, graphic, or sculptural features that can be identified separately from, and are capable of existing independently of, the utilitarian aspects of the article. For purposes of section 513, a “proprietor” is an individual, corporation, partnership, or other entity, as the case may be, that owns an establishment or a food service or drinking establishment, except that no owner or operator of a radio or television station licensed by the Federal Communications Commission, cable system or satellite carrier, cable or satellite carrier service or programmer, provider of online services or network access or the operator of facilities therefor, telecommunications company, or any other such audio or audiovisual service or programmer now known or as may be developed in the future, commercial subscription music service, or owner or operator of any other transmission service, shall under any circumstances be deemed to be a proprietor. A “pseudonymous work” is a work on the copies or phonorecords of which the author is identified under a fictitious name. “Publication” is the distribution of copies or phonorecords of a work to the public by sale or other transfer of ownership, or by rental, lease, or lending. The offering to distribute copies or phonorecords to a group of persons for purposes of further distribution, public performance, or public display, constitutes publication. A public performance or display of a work does not of itself constitute publication. To perform or display a work “publicly” means—
-
-  (1) to perform or display it at a place open to the public or at any place where a substantial number of persons outside of a normal circle of a family and its social acquaintances is gathered; or
-
-  (2) to transmit or otherwise communicate a performance or display of the work to a place specified by clause (1) or to the public, by means of any device or process, whether the members of the public capable of receiving the performance or display receive it in the same place or in separate places and at the same time or at different times.
-  “Registration”, for purposes of sections 205(c)(2), 405, 406, 410(d), 411, 412, and 506(e), means a registration of a claim in the original or the renewed and extended term of copyright.
-  “Sound recordings” are works that result from the fixation of a series of musical, spoken, or other sounds, but not including the sounds accompanying a motion picture or other audiovisual work, regardless of the nature of the material objects, such as disks, tapes, or other phonorecords, in which they are embodied.
-  “State” includes the District of Columbia and the Commonwealth of Puerto Rico, and any territories to which this title is made applicable by an Act of Congress.
-  A “transfer of copyright ownership” is an assignment, mortgage, exclusive license, or any other conveyance, alienation, or hypothecation of a copyright or of any of the exclusive rights comprised in a copyright, whether or not it is limited in time or place of effect, but not including a nonexclusive license.
-  A “transmission program” is a body of material that, as an aggregate, has been produced for the sole purpose of transmission to the public in sequence and as a unit.
-  To “transmit” a performance or display is to communicate it by any device or process whereby images or sounds are received beyond the place from which they are sent.
-  A “treaty party” is a country or intergovernmental organization other than the United States that is a party to an international agreement.
-  The “United States”, when used in a geographical sense, comprises the several States, the District of Columbia and the Commonwealth of Puerto Rico, and the organized territories under the jurisdiction of the United States Government.
-  For purposes of section 411, a work is a “United States work” only if—
-
-  (1) in the case of a published work, the work is first published—
-
-    (A) in the United States;
-
-    (B) simultaneously in the United States and another treaty party or parties, whose law grants a term of copyright protection that is the same as or longer than the term provided in the United States;
-
-    (C) simultaneously in the United States and a foreign nation that is not a treaty party; or
-
-    (D) in a foreign nation that is not a treaty party, and all of the authors of the work are nationals, domiciliaries, or habitual residents of, or in the case of an audiovisual work legal entities with headquarters in, the United States;
-
-  (2) in the case of an unpublished work, all the authors of the work are nationals, domiciliaries, or habitual residents of the United States, or, in the case of an unpublished audiovisual work, all the authors are legal entities with headquarters in the United States; or
-
-  (3) in the case of a pictorial, graphic, or sculptural work incorporated in a building or structure, the building or structure is located in the United States.
-  A “useful article” is an article having an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information. An article that is normally a part of a useful article is considered a “useful article”.
-  The author’s “widow” or “widower” is the author’s surviving spouse under the law of the author’s domicile at the time of his or her death, whether or not the spouse has later remarried.
-  The “WIPO Copyright Treaty” is the WIPO Copyright Treaty concluded at Geneva, Switzerland, on December 20, 1996.
-  The “WIPO Performances and Phonograms Treaty” is the WIPO Performances and Phonograms Treaty concluded at Geneva, Switzerland, on December 20, 1996.
-  A “work of visual art” is—
-
-  (1) a painting, drawing, print, or sculpture, existing in a single copy, in a limited edition of 200 copies or fewer that are signed and consecutively numbered by the author, or, in the case of a sculpture, in multiple cast, carved, or fabricated sculptures of 200 or fewer that are consecutively numbered by the author and bear the signature or other identifying mark of the author; or
-
-  (2) a still photographic image produced for exhibition purposes only, existing in a single copy that is signed by the author, or in a limited edition of 200 copies or fewer that are signed and consecutively numbered by the author.
-  A work of visual art does not include—
-
-  (A)
-
-    (i) any poster, map, globe, chart, technical drawing, diagram, model, applied art, motion picture or other audiovisual work, book, magazine, newspaper, periodical, data base, electronic information service, electronic publication, or similar publication;
-
-    (ii) any merchandising item or advertising, promotional, descriptive, covering, or packaging material or container;
-
-    (iii) any portion or part of any item described in clause (i) or (ii);
-
-  (B) any work made for hire; or
-
-  (C) any work not subject to copyright protection under this title.
-  A “work of the United States Government” is a work prepared by an officer or employee of the United States Government as part of that person’s official duties.
-  A “work made for hire” is—
-
-  (1) a work prepared by an employee within the scope of his or her employment; or
-
-  (2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture or other audiovisual work, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords, afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
-  In determining whether any work is eligible to be considered a work made for hire under paragraph (2), neither the amendment contained in section 1011(d) of the Intellectual Property and Communications Omnibus Reform Act of 1999, as enacted by section 1000(a)(9) of Public Law 106–113, nor the deletion of the words added by that amendment—
-
-  (A) shall be considered or otherwise given any legal significance, or
-
-  (B) shall be interpreted to indicate congressional approval or disapproval of, or acquiescence in, any judicial determination,
-  by the courts or the Copyright Office. Paragraph (2) shall be interpreted as if both section 2(a)(1) of the Work Made For Hire and Copyright Corrections Act of 2000 and section 1011(d) of the Intellectual Property and Communications Omnibus Reform Act of 1999, as enacted by section 1000(a)(9) of Public Law 106–113, were never enacted, and without regard to any inaction or awareness by the Congress at any time of any judicial determinations.
-  The terms “WTO Agreement” and “WTO member country” have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
 
 ### Statutory Notes
 
@@ -984,7 +883,8 @@ Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyr
 
 (3) the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and
 
-(4) the effect of the use upon the potential market for or value of the copyrighted work. The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.
+(4) the effect of the use upon the potential market for or value of the copyrighted work.
+The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.
 
 ### Statutory Notes
 
@@ -1545,14 +1445,17 @@ Notwithstanding the provisions of section 106, the following are not infringemen
 
 (10) notwithstanding paragraph (4), the following is not an infringement of copyright: performance of a nondramatic literary or musical work in the course of a social function which is organized and promoted by a nonprofit veterans’ organization or a nonprofit fraternal organization to which the general public is not invited, but not including the invitees of the organizations, if the proceeds from the performance, after deducting the reasonable costs of producing the performance, are used exclusively for charitable purposes and not for financial gain. For purposes of this section the social functions of any college or university fraternity or sorority shall not be included unless the social function is held solely to raise funds for a specific charitable purpose; and
 
-(11) the making imperceptible, by or at the direction of a member of a private household, of limited portions of audio or video content of a motion picture, during a performance in or transmitted to that household for private home viewing, from an authorized copy of the motion picture, or the creation or provision of a computer program or other technology that enables such making imperceptible and that is designed and marketed to be used, at the direction of a member of a private household, for such making imperceptible, if no fixed copy of the altered version of the motion picture is created by such computer program or other technology. The exemptions provided under paragraph (5) shall not be taken into account in any administrative, judicial, or other governmental proceeding to set or adjust the royalties payable to copyright owners for the public performance or display of their works. Royalties payable to copyright owners for any public performance or display of their works other than such performances or displays as are exempted under paragraph (5) shall not be diminished in any respect as a result of such exemption. In paragraph (2), the term “mediated instructional activities” with respect to the performance or display of a work by digital transmission under this section refers to activities that use such work as an integral part of the class experience, controlled by or under the actual supervision of the instructor and analogous to the type of performance or display that would take place in a live classroom setting. The term does not refer to activities that use, in 1 or more class sessions of a single course, such works as textbooks, course packs, or other material in any media, copies or phonorecords of which are typically purchased or acquired by the students in higher education for their independent use and retention or are typically purchased or acquired for elementary and secondary students for their possession and independent use. For purposes of paragraph (2), accreditation—
+(11) the making imperceptible, by or at the direction of a member of a private household, of limited portions of audio or video content of a motion picture, during a performance in or transmitted to that household for private home viewing, from an authorized copy of the motion picture, or the creation or provision of a computer program or other technology that enables such making imperceptible and that is designed and marketed to be used, at the direction of a member of a private household, for such making imperceptible, if no fixed copy of the altered version of the motion picture is created by such computer program or other technology.
+The exemptions provided under paragraph (5) shall not be taken into account in any administrative, judicial, or other governmental proceeding to set or adjust the royalties payable to copyright owners for the public performance or display of their works. Royalties payable to copyright owners for any public performance or display of their works other than such performances or displays as are exempted under paragraph (5) shall not be diminished in any respect as a result of such exemption.
+In paragraph (2), the term “mediated instructional activities” with respect to the performance or display of a work by digital transmission under this section refers to activities that use such work as an integral part of the class experience, controlled by or under the actual supervision of the instructor and analogous to the type of performance or display that would take place in a live classroom setting. The term does not refer to activities that use, in 1 or more class sessions of a single course, such works as textbooks, course packs, or other material in any media, copies or phonorecords of which are typically purchased or acquired by the students in higher education for their independent use and retention or are typically purchased or acquired for elementary and secondary students for their possession and independent use.
+For purposes of paragraph (2), accreditation—
 
-  (A) with respect to an institution providing post-secondary education, shall be as determined by a regional or national accrediting agency recognized by the Council on Higher Education Accreditation or the United States Department of Education; and
+(A) with respect to an institution providing post-secondary education, shall be as determined by a regional or national accrediting agency recognized by the Council on Higher Education Accreditation or the United States Department of Education; and
 
-  (B) with respect to an institution providing elementary or secondary education, shall be as recognized by the applicable state certification or licensing procedures.
-  For purposes of paragraph (2), no governmental body or accredited nonprofit educational institution shall be liable for infringement by reason of the transient or temporary storage of material carried out through the automatic technical process of a digital transmission of the performance or display of that material as authorized under paragraph (2). No such material stored on the system or network controlled or operated by the transmitting body or institution under this paragraph shall be maintained on such system or network in a manner ordinarily accessible to anyone other than anticipated recipients. No such copy shall be maintained on the system or network in a manner ordinarily accessible to such anticipated recipients for a longer period than is reasonably necessary to facilitate the transmissions for which it was made.
-  For purposes of paragraph (11), the term “making imperceptible” does not include the addition of audio or video content that is performed or displayed over or in place of existing content in a motion picture.
-  Nothing in paragraph (11) shall be construed to imply further rights under [section 106 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-106), or to have any effect on defenses or limitations on rights granted under any other section of this title or under any other paragraph of this section.
+(B) with respect to an institution providing elementary or secondary education, shall be as recognized by the applicable state certification or licensing procedures.
+For purposes of paragraph (2), no governmental body or accredited nonprofit educational institution shall be liable for infringement by reason of the transient or temporary storage of material carried out through the automatic technical process of a digital transmission of the performance or display of that material as authorized under paragraph (2). No such material stored on the system or network controlled or operated by the transmitting body or institution under this paragraph shall be maintained on such system or network in a manner ordinarily accessible to anyone other than anticipated recipients. No such copy shall be maintained on the system or network in a manner ordinarily accessible to such anticipated recipients for a longer period than is reasonably necessary to facilitate the transmissions for which it was made.
+For purposes of paragraph (11), the term “making imperceptible” does not include the addition of audio or video content that is performed or displayed over or in place of existing content in a motion picture.
+Nothing in paragraph (11) shall be construed to imply further rights under [section 106 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-106), or to have any effect on defenses or limitations on rights granted under any other section of this title or under any other paragraph of this section.
 
 ### Statutory Notes
 
@@ -1763,11 +1666,11 @@ Amendment by Pub. L. 97–366 effective 30 days after Oct. 25, 1982, see section
 
 (2) **Handling of fees.—** — The Register of Copyrights shall receive all fees (including the filing fee specified in paragraph (1)(G)) deposited under this section and, after deducting the reasonable costs incurred by the Copyright Office under this section, shall deposit the balance in the Treasury of the United States, in such manner as the Secretary of the Treasury directs. All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest by the Librarian of Congress upon authorization by the Copyright Royalty Judges.
 
-(3) **Distribution of royalty fees to copyright owners.—** — The royalty fees thus deposited shall, in accordance with the procedures provided by clause (4), be distributed to those among the following copyright owners who claim that their works were the subject of secondary transmissions by cable systems during the relevant semiannual period:
+(3) **Distribution of royalty fees to copyright owners.—** — The royalty fees thus deposited shall, in accordance with the procedures provided by paragraph (4), be distributed to those among the following copyright owners who claim that their works were the subject of secondary transmissions by cable systems during the relevant semiannual period:
 
   (A) Any such owner whose work was included in a secondary transmission made by a cable system of a non-network television program in whole or in part beyond the local service area of the primary transmitter.
 
-  (B) Any such owner whose work was included in a secondary transmission identified in a special statement of account deposited under clause (1)(A).
+  (B) Any such owner whose work was included in a secondary transmission identified in a special statement of account deposited under paragraph (1)(A).
 
   (C) Any such owner whose work was included in non-network programming consisting exclusively of aural signals carried by a cable system in whole or in part beyond the local service area of the primary transmitter of such programs.
 
@@ -1841,7 +1744,7 @@ Amendment by Pub. L. 97–366 effective 30 days after Oct. 25, 1982, see section
 
 (3) **Cable system.—** — A “cable system” is a facility, located in any State, territory, trust territory, or possession of the United States, that in whole or in part receives signals transmitted or programs broadcast by one or more television broadcast stations licensed by the Federal Communications Commission, and makes secondary transmissions of such signals or programs by wires, cables, microwave, or other communications channels to subscribing members of the public who pay for such service. For purposes of determining the royalty fee under subsection (d)(1), two or more cable systems in contiguous communities under common ownership or control or operating from one headend shall be considered as one system.
 
-(4) **Local service area of a primary transmitter.—** — The “local service area of a primary transmitter”, in the case of both the primary stream and any multicast streams transmitted by a primary transmitter that is a television broadcast station, comprises the area where such primary transmitter could have insisted upon its signal being retransmitted by a cable system pursuant to the rules, regulations, and authorizations of the Federal Communications Commission in effect on April 15, 1976, or such station’s television market as defined in section 76.55(e) of title 47, Code of Federal Regulations (as in effect on September 18, 1993), or any modifications to such television market made, on or after September 18, 1993, pursuant to section 76.55(e) or 76.59 of title 47, Code of Federal Regulations, or within the noise-limited contour as defined in 73.622(e)(1) of title 47, Code of Federal Regulations, or in the case of a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico, the area in which it would be entitled to insist upon its signal being retransmitted if it were a television broadcast station subject to such rules, regulations, and authorizations. In the case of a low power television station, the “local service area of a primary transmitter” comprises the area within 35 miles of the transmitter site, except that in the case of such a station located in a standard metropolitan statistical area which has one of the 50 largest populations of all standard metropolitan statistical areas (based on the 1980 decennial census of population taken by the Secretary of Commerce), the number of miles shall be 20 miles. The “local service area of a primary transmitter”, in the case of a radio broadcast station, comprises the primary service area of such station, pursuant to the rules and regulations of the Federal Communications Commission.
+(4) **Local service area of a primary transmitter.—** — The “local service area of a primary transmitter”, in the case of both the primary stream and any multicast streams transmitted by a primary transmitter that is a television broadcast station, comprises the area where such primary transmitter could have insisted upon its signal being retransmitted by a cable system pursuant to the rules, regulations, and authorizations of the Federal Communications Commission in effect on April 15, 1976, or such station’s television market as defined in section 76.55(e) of title 47, Code of Federal Regulations (as in effect on September 18, 1993), or any modifications to such television market made, on or after September 18, 1993, pursuant to section 76.55(e) or 76.59 of title 47, Code of Federal Regulations, or within the noise-limited contour as defined in 73.622(e)(1) of title 47, Code of Federal Regulations, or in the case of a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico, the area in which it would be entitled to insist upon its signal being retransmitted if it were a television broadcast station subject to such rules, regulations, and authorizations. In the case of a low power television station, as defined by the rules and regulations of the Federal Communications Commission, the “local service area of a primary transmitter” comprises the designated market area, as defined in section 122(j)(2)(C), that encompasses the community of license of such station and any community that is located outside such designated market area that is either wholly or partially within 35 miles of the transmitter site or, in the case of such a station located in a standard metropolitan statistical area which has one of the 50 largest populations of all standard metropolitan statistical areas (based on the 1980 decennial census of population taken by the Secretary of Commerce), wholly or partially within 20 miles of such transmitter site. The “local service area of a primary transmitter”, in the case of a radio broadcast station, comprises the primary service area of such station, pursuant to the rules and regulations of the Federal Communications Commission.
 
 (5) **Distant signal equivalent.—**
 
@@ -2034,6 +1937,10 @@ The date of the enactment of the Copyright Act of 1976, referred to in subsec. (
 Section 397 of the Communications Act of 1934, referred to in subsec. (f)(8), is classified to [section 397 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section397&num=0&edition=prelim), Telecommunications.
 
 #### Amendments
+2014—Subsec. (d)(3). Pub. L. 113–200, § 201(1), substituted “paragraph” for “clause” in introductory provisions and in subpar. (B).
+
+Subsec. (f)(4). Pub. L. 113–200, § 203, in second sentence, inserted “as defined by the rules and regulations of the Federal Communications Commission,” after “television station,” and substituted “comprises the designated market area, as defined in section 122(j)(2)(C), that encompasses the community of license of such station and any community that is located outside such designated market area that is either wholly or partially within 35 miles of the transmitter site or,” for “comprises the area within 35 miles of the transmitter site, except that” and “wholly or partially within 20 miles of such transmitter site” for “the number of miles shall be 20 miles”.
+
 2010—Pub. L. 111–175, § 104(a)(1), inserted “of broadcast programming by cable” after “transmissions” in section catchline.
 
 Subsec. (a)(2), (3). Pub. L. 111–175, § 104(g)(1)(A), substituted “paragraph” for “clause”.
@@ -2212,6 +2119,8 @@ Amendment by Pub. L. 100–667 effective Jan. 1, 1989, see section 206 of Pub. L
 Pub. L. 111–175, title III, § 306, May 27, 2010, 124 Stat. 1257, provided that: “(a) In General.—Nothing in this Act [see Short Title of 2010 Amendment note set out under [section 101 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-101)], title 17, United States Code, the Communications Act of 1934 [[47 U.S.C. 151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section151&num=0&edition=prelim) et seq.], regulations promulgated by the Register of Copyrights under this title or title 17, United States Code, or regulations promulgated by the Federal Communications Commission under this Act or the Communications Act of 1934 shall be construed to prevent a multichannel video programming distributor from retransmitting a performance or display of a work pursuant to an authorization granted by the copyright owner or, if within the scope of its authorization, its licensee. “(b) Limitation.—Nothing in subsection (a) shall be construed to affect any obligation of a multichannel video programming distributor under section 325(b) of the Communications Act of 1934 [[47 U.S.C. 325(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section325/b&num=0&edition=prelim)] to obtain the authority of a television broadcast station before retransmitting that station’s signal.”
 
 #### Severability
+Pub. L. 113–200, title III, § 301, Dec. 4, 2014, 128 Stat. 2067, provided that: “If any provision of this Act [see Short Title of 2014 Amendment note set out under [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim), Telecommunications], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provision or amendment to any person or circumstance shall not be affected thereby.”
+
 Pub. L. 111–175, title IV, § 401, May 27, 2010, 124 Stat. 1258, provided that: “If any provision of this Act [see Short Title of 2010 Amendment note set out under [section 101 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-101)], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provision or amendment to any person or circumstance shall not be affected thereby.”
 
 #### Construction
@@ -3543,7 +3452,7 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 
       (III) *Adoption of fees.—* — The Copyright Royalty Judges shall adopt the royalty fees from the voluntary agreement for all satellite carriers, distributors, and copyright owners without convening the proceeding under subparagraph (F) unless a party with an intent to participate in that proceeding and a significant interest in the outcome of that proceeding objects under subclause (II).
 
-  (E) *Period agreement is in effect.—* — The obligation to pay the royalty fees established under a voluntary agreement which has been filed with the Copyright Royalty Judges in accordance with this paragraph shall become effective on the date specified in the agreement, and shall remain in effect until December 31, 2014, or in accordance with the terms of the agreement, whichever is later.
+  (E) *Period agreement is in effect.—* — The obligation to pay the royalty fees established under a voluntary agreement which has been filed with the Copyright Royalty Judges in accordance with this paragraph shall become effective on the date specified in the agreement, and shall remain in effect until December 31, 2019, or in accordance with the terms of the agreement, whichever is later.
 
   (F) *Fee set by copyright royalty judges proceeding.—*
 
@@ -3639,7 +3548,7 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 
     (ii) if there is no stream described in clause (i), then the single digital stream of programming affiliated with the network that, as of July 1, 2009, had been offered by the television broadcast station for the longest period of time.
 
-**(e) Moratorium on Copyright Liability.—** Until December 31, 2014, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999.
+**(e) Moratorium on Copyright Liability.—** Until December 31, 2019, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999.
 
 **(f) Expedited Consideration by Justice Department of Voluntary Agreements to Provide Satellite Secondary Transmissions to Local Markets.—**
 
@@ -3763,10 +3672,12 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 
   (C) *Good quality satellite signal defined.—* — The term “good quality satellite signal” has the meaning given such term under section 342(e)(2) of Communications 22 So in original. Probably should be preceded by “the”. Act of 1934.
 
+**(h) Termination of License.—** This section shall cease to be effective on December 31, 2019.
+
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 107(a) of Pub. L. 111–175, see Termination of Section note below.
+For termination of section, see subsection (h) of this section.
 
 #### References in Text
 The date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004, referred to in subsec. (a)(3)(A)(i)(II), (E), (13), is the date of the enactment of Pub. L. 108–447, which was approved Dec. 8, 2004.
@@ -3780,6 +3691,12 @@ The date of the enactment of this subsection, referred to in subsec. (g)(1), (2)
 The Federal Rules of Civil Procedure, referred to in subsec. (g)(3)(A)(iii), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+2014—Subsec. (c)(1)(E). Pub. L. 113–200, § 201(2)(A), substituted “2019” for “2014”.
+
+Subsec. (e). Pub. L. 113–200, § 201(2)(B), substituted “2019” for “2014”.
+
+Subsec. (h). Pub. L. 113–200, § 202(a), added subsec. (h).
+
 2010—Pub. L. 111–175, § 102(a)(1), substituted “distant television programming by satellite” for “superstations and network stations for private home viewing” in section catchline.
 
 Subsec. (a). Pub. L. 111–175, § 102(h)(1)(B), (C), redesignated pars. (4) to (14) and (16) as (3) to (13) and (14), respectively, and struck out former pars. (3) and (15) which related to secondary transmissions of significantly viewed signals and carriage of low power television stations, respectively.
@@ -4201,7 +4118,9 @@ Pub. L. 100–667, title II, § 206, Nov. 16, 1988, 102 Stat. 3960, provided tha
 Pub. L. 100–667, title II, § 207, Nov. 16, 1988, 102 Stat. 3960, provided that this title and the amendments made by this title (other than the amendments made by section 205 [amending [section 605 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section605&num=0&edition=prelim)]) cease to be effective on Dec. 31, 1994, prior to repeal by Pub. L. 103–369, § 4(b), Oct. 18, 1994, 108 Stat. 3481.
 
 #### Termination of Section
-Pub. L. 111–175, title I, § 107(a), May 27, 2010, 124 Stat. 1245, provided that: “[Section 119 of title 17](./chapter-001-subject-matter-and-scope-of-copyright.md#section-119), United States Code, as amended by this Act, shall cease to be effective on December 31, 2014.”
+For termination of section, see subsection (h) of this section.
+
+Pub. L. 111–175, title I, § 107(a), May 27, 2010, 124 Stat. 1245, which provided that this section would cease to be effective on Dec. 31, 2014, was repealed by Pub. L. 113–200, title II, § 202(b), Dec. 4, 2014, 128 Stat. 2066.
 
 Pub. L. 111–118, div. B, § 1003(a)(2)(A), Dec. 19, 2009, 123 Stat. 3469, as amended by Pub. L. 111–144, § 10(a)(2), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, § 2(a)(2), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, § 9(a)(2), Apr. 15, 2010, 124 Stat. 1119, which provided that this section would cease to be effective on May 31, 2010, was repealed by Pub. L. 111–175, title I, § 107(b), May 27, 2010, 124 Stat. 1245.
 
@@ -4409,6 +4328,8 @@ Subsec. (d)(3), (4). Pub. L. 108–446, § 306(3), added pars. (3) and (4) and s
 
   (D) *Certain areas outside of any designated market area.—* — Any census area, borough, or other area in the State of Alaska that is outside of a designated market area, as determined by Nielsen Media Research, shall be deemed to be part of one of the local markets in the State of Alaska. A satellite carrier may determine which local market in the State of Alaska will be deemed to be the relevant local market in connection with each subscriber in such census area, borough, or other area.
 
+  (E) *Market determinations.—* — The local market of a commercial television broadcast station may be modified by the Federal Communications Commission in accordance with section 338(l) of the Communications Act of 1934 ([47 U.S.C. 338](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section338&num=0&edition=prelim)).
+
 (3) **Low power television station.—** — The term “low power television station” means a low power TV station as defined in section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term “low power television station” includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
 
 (4) **Network station; non-network station; satellite carrier; secondary transmission.—** — The terms “network station”, “non-network station”, “satellite carrier”, and “secondary transmission” have the meanings given such terms under section 119(d).
@@ -4431,6 +4352,10 @@ Section 397 of the Communications Act of 1934, referred to in subsec. (j)(5), is
 The date of the enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsec. (j)(5), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under [section 111 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-111).
 
 #### Amendments
+2014—Subsec. (j)(2)(B) to (D). Pub. L. 113–200, § 204(1), realigned margins.
+
+Subsec. (j)(2)(E). Pub. L. 113–200, § 204(2), added subpar. (E).
+
 2010—Pub. L. 111–175, § 103(a)(1), substituted “of local television programming by satellite” for “by satellite carriers within local markets” in section catchline.
 
 Subsec. (a). Pub. L. 111–175, § 103(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to secondary transmissions of television broadcast stations by satellite carriers.

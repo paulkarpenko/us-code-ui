@@ -47,7 +47,7 @@ Section 147, act May 24, 1928, ch. 734, 45 Stat. 734, authorized an additional a
 ### Statutory Notes
 
 #### Codification
-Section 147a, acts Sept. 21, 1944, ch. 412, title I, § 102, 58 Stat. 735, as amended, which related to fees for inspection of plants for exporting or transiting, was transferred to [section 7759 of this title](./chapter-104-plant-protection.md#section-7759).
+Section 147a, acts Sept. 21, 1944, ch. 412, title I, § 102, 58 Stat. 735, as amended, which related to fees for inspection of plants for exporting or transiting, was transferred to [section 7759 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7759&num=0&edition=prelim).
 
 Section 147b, Pub. L. 97–46, § 1, Sept. 25, 1981, 95 Stat. 953, as amended, which related to transfer of funds for emergency arrest of animal or poultry diseases, was transferred to [section 129a of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section129a&num=0&edition=prelim), Food and Drugs, and was subsequently repealed by Pub. L. 107–171, title X, § 10418(a)(1), May 13, 2002, 116 Stat. 507.
 
@@ -87,7 +87,7 @@ Section 148e, act Apr. 6, 1937, ch. 69, § 6, as added May 9, 1938, ch. 192, 52 
 
 ### Statutory Notes
 
-Section, Pub. L. 99–198, title XVII, § 1773, Dec. 23, 1985, 99 Stat. 1658, related to control of grasshoppers and Mormon Crickets on Federal lands. See [section 7717 of this title](./chapter-104-plant-protection.md#section-7717).
+Section, Pub. L. 99–198, title XVII, § 1773, Dec. 23, 1985, 99 Stat. 1658, related to control of grasshoppers and Mormon Crickets on Federal lands. See [section 7717 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7717&num=0&edition=prelim).
 
 
 <a id="section-149"></a>

@@ -2,239 +2,21 @@
 title: 26
 chapter: '31'
 heading: RETAIL EXCISE TAXES
-section_count: 9
+section_count: 7
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
-<a id="section-4001"></a>
-## § 4001. Imposition of tax
-**(a) Imposition of tax**
-
-(1) **In general** — There is hereby imposed on the 1st retail sale of any passenger vehicle a tax equal to 10 percent of the price for which so sold to the extent such price exceeds the applicable amount.
-
-(2) **Applicable amount**
-
-  (A) *In general* — Except as provided in subparagraphs (B) and (C), the applicable amount is $30,000.
-
-  (B) *Qualified clean-fuel vehicle property* — In the case of a passenger vehicle which is propelled by a fuel which is not a clean-burning fuel and to which is installed qualified clean-fuel vehicle property (as defined in section 179A(c)(1)(A)) for purposes of permitting such vehicle to be propelled by a clean-burning fuel, the applicable amount is equal to the sum of—
-
-    (i) the dollar amount in effect under subparagraph (A), plus
-
-    (ii) the increase in the price for which the passenger vehicle was sold (within the meaning of section 4002) due to the installation of such property.
-
-  (C) *Purpose built passenger vehicle*
-
-    (i) *In general* — In the case of a purpose built passenger vehicle, the applicable amount is equal to 150 percent of the dollar amount in effect under subparagraph (A).
-
-    (ii) *Purpose built passenger vehicle* — For purposes of clause (i), the term “purpose built passenger vehicle” means a passenger vehicle produced by an original equipment manufacturer and designed so that the vehicle may be propelled primarily by electricity.
-
-**(b) Passenger vehicle**
-
-(1) **In general** — For purposes of this subchapter, the term “passenger vehicle” means any 4-wheeled vehicle—
-
-  (A) which is manufactured primarily for use on public streets, roads, and highways, and
-
-  (B) which is rated at 6,000 pounds unloaded gross vehicle weight or less.
-
-(2) **Special rules**
-
-  (A) *Trucks and vans* — In the case of a truck or van, paragraph (1)(B) shall be applied by substituting “gross vehicle weight” for “unloaded gross vehicle weight”.
-
-  (B) *Limousines* — In the case of a limousine, paragraph (1) shall be applied without regard to subparagraph (B) thereof.
-
-**(c) Exceptions for taxicabs, etc.** The tax imposed by this section shall not apply to the sale of any passenger vehicle for use by the purchaser exclusively in the active conduct of a trade or business of transporting persons or property for compensation or hire.
-
-**(d) Exemption for law enforcement uses, etc.** No tax shall be imposed by this section on the sale of any passenger vehicle—
-
-(1) to the Federal Government, or a State or local government, for use exclusively in police, firefighting, search and rescue, or other law enforcement or public safety activities, or in public works activities, or
-
-(2) to any person for use exclusively in providing emergency medical services.
-
-**(e) Inflation adjustment**
-
-(1) **In general** — The $30,000 amount in subsection (a) shall be increased by an amount equal to—
-
-  (A) $30,000, multiplied by
-
-  (B) the cost-of-living adjustment under section 1(f)(3) for the calendar year in which the vehicle is sold, determined by substituting “calendar year 1990” for “calendar year 1992” in subparagraph (B) thereof.
-
-(2) **Rounding** — If any amount as adjusted under paragraph (1) is not a multiple of $2,000, such amount shall be rounded to the next lowest multiple of $2,000.
-
-**(f) Phasedown** For sales occurring in calendar years after 1995 and before 2003, subsection (a)(1) and section 4003(a) shall be applied by substituting for “10 percent”, each place it appears, the percentage determined in accordance with the following table: If the calendar year is:The percentage is: 1996 9 percent 1997 8 percent 1998 7 percent 1999 6 percent 2000 5 percent 2001 4 percent 2002 3 percent .
-
-**(g) Termination** The taxes imposed by this section and section 4003 shall not apply to any sale, use, or installation after December 31, 2002.
+<a id="section-4001-to-4003"></a>
+## § 4001 to 4003. Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(103)(A), Dec. 19, 2014, 128 Stat. 4052]
 
 ### Statutory Notes
 
-#### Amendments
-1997—Subsec. (a). Pub. L. 105–34, § 906(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is hereby imposed on the 1st retail sale of any passenger vehicle a tax equal to 10 percent of the price for which so sold to the extent such price exceeds $30,000.”
+Section 4001, added Pub. L. 101–508, title XI, § 11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, § 13161(a), Aug. 10, 1993, 107 Stat. 449; Pub. L. 104–188, title I, §§ 1607(a), (b), 1703(c)(1), Aug. 20, 1996, 110 Stat. 1839, 1875; Pub. L. 105–34, title IX, § 906(a)–(b)(2), title XVI, § 1601(f)(3)(A), (B), Aug. 5, 1997, 111 Stat. 874, 875, 1090, provided for imposition of tax on luxury passenger vehicles.
 
-Subsec. (e)(1). Pub. L. 105–34, § 906(b)(1), struck out “and section 4003(a)” after “in subsection (a)” in introductory provisions.
+Section 4002, added Pub. L. 101–508, title XI, § 11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, § 13161(a), Aug. 10, 1993, 107 Stat. 450, related to 1st retail sale, uses treated as sales, and determination of price.
 
-Subsec. (f). Pub. L. 105–34, § 1601(f)(3)(A)(i), inserted “and section 4003(a)” after “subsection (a)”.
+Section 4003, added Pub. L. 101–508, title XI, § 11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, § 13161(a), Aug. 10, 1993, 107 Stat. 451; Pub. L. 105–34, title IX, § 906(b)(3), (4), title XIV, § 1401(a), Aug. 5, 1997, 111 Stat. 875, 1045, related to special rules for separate purchase of vehicles, parts and accessories.
 
-Pub. L. 105–34, § 1601(f)(3)(A)(ii), inserted “, each place it appears,” before “the percentage”.
-
-Pub. L. 105–34, § 906(b)(2), substituted “subsection (a)(1)” for “subsection (a)”.
-
-Subsec. (g). Pub. L. 105–34, § 1601(f)(3)(B), substituted “taxes imposed by this section and section 4003” for “tax imposed by this section” and “, use, or installation” for “or use”.
-
-1996—Subsec. (e). Pub. L. 104–188, § 1703(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
-
-“(1) In general.—If, for any calendar year, the excess (if any) of—
-
-“(A) $30,000, increased by the cost-of-living adjustment for the calendar year, over
-
-“(B) the dollar amount in effect under subsection (a) for the calendar year,
-
-is equal to or greater than $2,000, then the $30,000 amount in subsection (a) and section 4003(a) (as previously adjusted under this subsection) for any subsequent calendar year shall be increased by the amount of such excess rounded to the next lowest multiple of $2,000.
-
-“(2) Cost-of-living adjustment.—For purposes of paragraph (1), the cost-of-living adjustment for any calendar year shall be the cost-of-living adjustment under section 1(f)(3) for such calendar year, determined by substituting ‘calendar year 1990’ for ‘calendar year 1992’ in subparagraph (B) thereof.”
-
-Subsec. (f). Pub. L. 104–188, § 1607(b), added subsec. (f). Former subsec. (f) redesignated (g).
-
-Pub. L. 104–188, § 1607(a), substituted “December 31, 2002” for “December 31, 1999”.
-
-Subsec. (g). Pub. L. 104–188, § 1607(b), redesignated subsec. (f) as (g).
-
-1993—Pub. L. 103–66 amended section generally, substituting “Imposition of tax” for “Passenger vehicles” in section catchline and “this subchapter” for “subsection (a)” in subsec. (b)(1) and adding subsecs. (d) to (f).
-
-#### Effective Date of 1997 Amendment
-Pub. L. 105–34, title IX, § 906(c), Aug. 5, 1997, 111 Stat. 875, provided that: “The amendments made by this section [amending this section and [section 4003 of this title](./chapter-031-retail-excise-taxes.md#section-4003)] shall apply to sales and installations occurring after the date of the enactment of this Act [Aug. 5, 1997].”
-
-Pub. L. 105–34, title XVI, § 1601(f)(3)(C), Aug. 5, 1997, 111 Stat. 1090, provided that: “The amendments made by this paragraph [amending this section] shall apply to sales after the date of the enactment of this Act [Aug. 5, 1997].”
-
-Amendment by section 1601(f)(3)(A), (B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
-
-#### Effective Date of 1996 Amendment
-Pub. L. 104–188, title XVI, § 1607(c), Aug. 20, 1996, 110 Stat. 1840, provided that: “The amendments made by this section [amending this section] shall apply with respect to sales occurring after the date which is 7 days after the date of the enactment of this Act [Aug. 20, 1996].”
-
-Pub. L. 104–188, title XVII, § 1703(c)(2), Aug. 20, 1996, 110 Stat. 1875, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 20, 1996].”
-
-#### Effective Date of 1993 Amendment
-Pub. L. 103–66, title XIII, § 13161(c), Aug. 10, 1993, 107 Stat. 453, provided that: “The amendments made by this section [amending this section and sections 4002, 4003, 4221, and 4222 of this title and omitting sections 4004, 4006, 4007, 4011, and 4012 of this title] shall take effect on January 1, 1993, except that the provisions of section 4001(e) of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall take effect on the date of the enactment of this Act [Aug. 10, 1993].”
-
-#### Effective Date
-Pub. L. 101–508, title XI, § 11221(f), Nov. 5, 1990, 104 Stat. 1388–444, provided that: “(1) In general.—The amendments made by this section [enacting this subchapter, redesignating former subchapters A and B of this chapter as subchapters B and C, respectively, and amending sections 4221, 4222, and 4293 of this title] shall take effect on January 1, 1991. “(2) Exception for binding contracts.—In determining whether any tax imposed by subchapter A of chapter 31 of the Internal Revenue Code of 1986, as added by this section, applies to any sale after December 31, 1990, there shall not be taken into account the amount paid for any article (or any part or accessory therefor) if the purchaser held on September 30, 1990, a contract (which was binding on such date and at all times thereafter before the purchase) for the purchase of such article (or such part or accessory).”
-
-
-<a id="section-4002"></a>
-## § 4002. 1st retail sale; uses, etc. treated as sales; determination of price
-**(a) 1st retail sale** For purposes of this subchapter, the term “1st retail sale” means the 1st sale, for a purpose other than resale, after manufacture, production, or importation.
-
-**(b) Use treated as sale**
-
-(1) **In general** — If any person uses a passenger vehicle (including any use after importation) before the 1st retail sale of such vehicle, then such person shall be liable for tax under this subchapter in the same manner as if such vehicle were sold at retail by him.
-
-(2) **Exemption for further manufacture** — Paragraph (1) shall not apply to use of a vehicle as material in the manufacture or production of, or as a component part of, another vehicle taxable under this subchapter to be manufactured or produced by him.
-
-(3) **Exemption for demonstration use** — Paragraph (1) shall not apply to any use of a passenger vehicle as a demonstrator.
-
-(4) **Exception for use after importation of certain vehicles** — Paragraph (1) shall not apply to the use of a vehicle after importation if the user or importer establishes to the satisfaction of the Secretary that the 1st use of the vehicle occurred before January 1, 1991, outside the United States.
-
-(5) **Computation of tax** — In the case of any person made liable for tax by paragraph (1), the tax shall be computed on the price at which similar vehicles are sold at retail in the ordinary course of trade, as determined by the Secretary.
-
-**(c) Leases considered as sales** For purposes of this subchapter—
-
-(1) **In general** — Except as otherwise provided in this subsection, the lease of a vehicle (including any renewal or any extension of a lease or any subsequent lease of such vehicle) by any person shall be considered a sale of such vehicle at retail.
-
-(2) **Special rules for long-term leases**
-
-  (A) *Tax not imposed on sale for leasing in a qualified lease* — The sale of a passenger vehicle to a person engaged in a passenger vehicle leasing or rental trade or business for leasing by such person in a long-term lease shall not be treated as the 1st retail sale of such vehicle.
-
-  (B) *Long-term lease* — For purposes of subparagraph (A), the term “long-term lease” means any long-term lease (as defined in section 4052).
-
-  (C) *Special rules* — In the case of a long-term lease of a vehicle which is treated as the 1st retail sale of such vehicle—
-
-    (i) *Determination of price* — The tax under this subchapter shall be computed on the lowest price for which the vehicle is sold by retailers in the ordinary course of trade.
-
-    (ii) *Payment of tax* — Rules similar to the rules of section 4217(e)(2) shall apply.
-
-    (iii) *No tax where exempt use by lessee* — No tax shall be imposed on any lease payment under a long-term lease if the lessee’s use of the vehicle under such lease is an exempt use (as defined in section 4003(b)) of such vehicle.
-
-**(d) Determination of price**
-
-(1) **In general** — In determining price for purposes of this subchapter—
-
-  (A) there shall be included any charge incident to placing the passenger vehicle in condition ready for use,
-
-  (B) there shall be excluded—
-
-    (i) the amount of the tax imposed by this subchapter,
-
-    (ii) if stated as a separate charge, the amount of any retail sales tax imposed by any State or political subdivision thereof or the District of Columbia, whether the liability for such tax is imposed on the vendor or vendee, and
-
-    (iii) the value of any component of such passenger vehicle if—
-
-      (I) such component is furnished by the 1st user of such passenger vehicle, and
-
-      (II) such component has been used before such furnishing, and
-
-  (C) the price shall be determined without regard to any trade-in.
-
-(2) **Other rules** — Rules similar to the rules of paragraphs (2) and (4) of section 4052(b) shall apply for purposes of this subchapter.
-
-### Statutory Notes
-
-#### Amendments
-1993—Pub. L. 103–66 amended section generally, substituting provisions relating to imposition of luxury tax upon first retail sale or use of luxury automobile for provisions relating to imposition of similar tax upon boats.
-
-#### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–66 effective Jan. 1, 1993, see section 13161(c) of Pub. L. 103–66, set out as a note under [section 4001 of this title](./chapter-031-retail-excise-taxes.md#section-4001).
-
-
-<a id="section-4003"></a>
-## § 4003. Special rules
-**(a) Separate purchase of vehicle and parts and accessories therefor** Under regulations prescribed by the Secretary—
-
-(1) **In general** — Except as provided in paragraph (2), if—
-
-  (A) the owner, lessee, or operator of any passenger vehicle installs (or causes to be installed) any part or accessory (other than property described in section 4001(a)(2)(B)) on such vehicle, and
-
-  (B) such installation is not later than the date 6 months after the date the vehicle was 1st placed in service,
-  then there is hereby imposed on such installation a tax equal to 10 percent of the price of such part or accessory and its installation.
-
-(2) **Limitation** — The tax imposed by paragraph (1) on the installation of any part or accessory shall not exceed 10 percent of the excess (if any) of—
-
-  (A) the sum of—
-
-    (i) the price of such part or accessory and its installation,
-
-    (ii) the aggregate price of the parts and accessories (and their installation) installed before such part or accessory, plus
-
-    (iii) the price for which the passenger vehicle was sold, over
-
-  (B) the appropriate applicable amount as determined under section 4001(a)(2).
-
-(3) **Exceptions** — Paragraph (1) shall not apply if—
-
-  (A) the part or accessory installed is a replacement part or accessory,
-
-  (B) the part or accessory is installed to enable or assist an individual with a disability to operate the vehicle, or to enter or exit the vehicle, by compensating for the effect of such disability, or
-
-  (C) the aggregate price of the parts and accessories (and their installation) described in paragraph (1) with respect to the vehicle does not exceed $1,000 (or such other amount or amounts as the Secretary may by regulation prescribe).
-  The price of any part or accessory (and its installation) to which paragraph (1) does not apply by reason of this paragraph shall not be taken into account under paragraph (2)(A).
-
-(4) **Installers secondarily liable for tax** — The owners of the trade or business installing the parts or accessories shall be secondarily liable for the tax imposed by this subsection.
-
-**(b) Imposition of tax on sales, etc., within 2 years of vehicles purchased tax-free**
-
-(1) **In general** — If—
-
-  (A) no tax was imposed under this subchapter on the 1st retail sale of any passenger vehicle by reason of its exempt use, and
-
-  (B) within 2 years after the date of such 1st retail sale, such vehicle is resold by the purchaser or such purchaser makes a substantial nonexempt use of such vehicle,
-  then such sale or use of such vehicle by such purchaser shall be treated as the 1st retail sale of such vehicle for a price equal to its fair market value at the time of such sale or use.
-
-(2) **Exempt use** — For purposes of this subsection, the term “exempt use” means any use of a vehicle if the 1st retail sale of such vehicle is not taxable under this subchapter by reason of such use.
-
-**(c) Parts and accessories sold with taxable passenger vehicle** Parts and accessories sold on, in connection with, or with the sale of any passenger vehicle shall be treated as part of the vehicle.
-
-**(d) Partial payments, etc.** In the case of a contract, sale, or arrangement described in paragraph (2), (3), or (4) of section 4216(c), rules similar to the rules of section 4217(e)(2) shall apply for purposes of this subchapter.
-
-### Statutory Notes
-
-#### Prior Provisions
 Prior sections 4004, 4006, 4007, 4011, and 4012 of this title were omitted in the general revision of this subchapter by Pub. L. 103–66, title XIII, § 13161(a), Aug. 10, 1993, 107 Stat. 449.
 
 Section 4004, added Pub. L. 101–508, title XI, § 11221(a), Nov. 5, 1990, 104 Stat. 1388–440; amended Pub. L. 103–66, title XIII, § 13162(a), Aug. 10, 1993, 107 Stat. 453, related to certain rules applicable to former subpart A of part I of this subchapter.
@@ -247,22 +29,8 @@ Section 4011, added Pub. L. 101–508, title XI, § 11221(a), Nov. 5, 1990, 104 
 
 Section 4012, added Pub. L. 101–508, title XI, § 11221(a), Nov. 5, 1990, 104 Stat. 1388–444, provided that taxes imposed by this subchapter did not apply to any sale or use after Dec. 31, 1999.
 
-#### Amendments
-1997—Subsec. (a)(1). Pub. L. 105–34, § 906(b)(3), inserted “(other than property described in section 4001(a)(2)(B))” after “part or accessory”.
-
-Subsec. (a)(2)(B). Pub. L. 105–34, § 906(b)(4), amended subpar. (B) generally, substituting “the appropriate applicable amount as determined under section 4001(a)(2)” for “$30,000”.
-
-Subsec. (a)(3)(C). Pub. L. 105–34, § 1401(a), substituted “$1,000” for “$200”.
-
-1993—Pub. L. 103–66 amended section generally, substituting provisions prescribing special rules applicable to imposition of luxury passenger automobile tax for provisions relating to imposition of similar tax on aircraft.
-
-#### Effective Date of 1997 Amendment
-Amendment by section 906(b)(3), (4) of Pub. L. 105–34 applicable to sales and installations occurring after Aug. 5, 1997, see section 906(c) of Pub. L. 105–34, set out as a note under [section 4001 of this title](./chapter-031-retail-excise-taxes.md#section-4001).
-
-Pub. L. 105–34, title XIV, § 1401(b), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendments made by subsection (a) [amending this section and [section 4051 of this title](./chapter-031-retail-excise-taxes.md#section-4051)] shall apply to installations on vehicles sold after the date of the enactment of this Act [Aug. 5, 1997].”
-
-#### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–66 effective Jan. 1, 1993, see section 13161(c) of Pub. L. 103–66, set out as a note under [section 4001 of this title](./chapter-031-retail-excise-taxes.md#section-4001).
+#### Effective Date of Repeal
+Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 
 <a id="section-4041"></a>
@@ -385,7 +153,8 @@ Amendment by Pub. L. 103–66 effective Jan. 1, 1993, see section 13161(c) of Pu
 (4) **Termination** — The taxes imposed by this subsection shall not apply during any period during which the Leaking Underground Storage Tank Trust Fund financing rate under section 4081 does not apply.
 
 (5) **Nonapplication of exemptions other than for exports** — For purposes of this section, the tax imposed under this subsection shall be determined without regard to subsections (b)(1)(A), (f), (g), (h), and (l). The preceding sentence shall not apply with respect to subsection (g)(3) and so much of subsection (g)(1) as relates to vessels (within the meaning of section 4221(d)(3)) employed in foreign trade or trade between the United States and any of its possessions.
-[(e) Repealed. Pub. L. 108–357, title VIII, § 853(d)(2)(C), Oct. 22, 2004, 118 Stat. 1613]
+
+**(e) Repealed. Pub. L. 108–357, title VIII, § 853(d)(2)(C), Oct. 22, 2004, 118 Stat. 1613]**
 
 **(f) Exemption for farm use**
 
@@ -417,7 +186,8 @@ For purposes of paragraph (4), the term “nonprofit educational organization”
   (B) operated as a museum under charter by a State or the District of Columbia, and
 
   (C) operated exclusively for the procurement, care, and exhibition of aircraft of the type used for combat or transport in World War II.
-[(i) Repealed. Pub. L. 108–357, title VIII, § 853(d)(2)(D), Oct. 22, 2004, 118 Stat. 1613]
+
+**(i) Repealed. Pub. L. 108–357, title VIII, § 853(d)(2)(D), Oct. 22, 2004, 118 Stat. 1613]**
 
 **(j) Sales by United States, etc.** The taxes imposed by this section shall apply with respect to liquids sold at retail by the United States, or by any agency or instrumentality of the United States, unless sales by such agency or instrumentality are by statute specifically exempted from such taxes.
 
@@ -917,16 +687,16 @@ Subsec. (d). Act Apr. 2, 1956, added subsec. (d).
 1955—Subsec. (c). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955”.
 
 #### Effective and Termination Dates of 2012 Amendment
-Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+Pub. L. 112–141, div. D, title I, § 40102(f), July 6, 2012, 126 Stat. 845, provided that: “Except as otherwise provided in this section, the amendments made by this section [amending this section, sections 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of this title, and former section 460l–11 of Title 16, Conservation] shall take effect on July 1, 2012.”
 
 Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
-Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+Pub. L. 112–140, title IV, § 402(f), June 29, 2012, 126 Stat. 403, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section, sections 4051, 4071, 4081, 4221, 4482, 4483, 6412, and 9503 of this title, and former section 460l–11 of Title 16, Conservation] shall take effect on July 1, 2012. “(2) Technical correction.—The amendment made by subsection (e) [amending [section 4482 of this title](./chapter-036-certain-other-excise-taxes.md#section-4482)] shall take effect as if included in section 402 of the Surface Transportation Extension Act of 2012 [Pub. L. 112–102].”
 
-Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+Pub. L. 112–102, title IV, § 402(f), Mar. 30, 2012, 126 Stat. 283, provided that: “The amendments made by this section [amending this section, sections 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of this title, and former section 460l–11 of Title 16, Conservation] shall take effect on April 1, 2012.”
 
 #### Effective Date of 2011 Amendment
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
+Pub. L. 112–30, title I, § 142(f), Sept. 16, 2011, 125 Stat. 357, provided that: “The amendments made by this section [amending this section, sections 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of this title, and former section 460l–11 of Title 16, Conservation] shall take effect on October 1, 2011.”
 
 #### Effective Date of 2007 Amendment
 Amendments by Pub. L. 110–172 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendments relate, and amendment by section 6(d)(3) of Pub. L. 110–172 applicable to fuel sold for use or used after Dec. 29, 2007, see section 6(e) of Pub. L. 110–172, set out as a note under [section 30C of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30c).
@@ -1080,7 +850,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 Pub. L. 96–451, title II, § 204, Oct. 14, 1980, 94 Stat. 1988, directed Secretary of the Treasury, after consultation with Secretary of department in which Coast Guard was operating, to conduct a study to determine portion of taxes imposed by sections 4041(b) and 4081 of the Internal Revenue Code of 1954 which were attributable to fuel used in recreational motorboats, and to report to Congress on his findings under such study, not later than 2 years after Oct. 14, 1980.
 
 #### Study of Imported Alcohol by Secretary of the Treasury
-Pub. L. 96–223, title II, § 232(f), Apr. 2, 1980, 94 Stat. 280, required, within 180 days after Apr. 2, 1980, Secretary of the Treasury to furnish specific Congressional committees recommendations for limiting import of alcohol into United States for fuel purposes.
+Pub. L. 96–223, title II, § 232(f), Apr. 2, 1980, 94 Stat. 280, required, within 180 days after Apr. 2, 1980, Secretary of the Treasury to furnish specific congressional committees recommendations for limiting import of alcohol into United States for fuel purposes.
 
 #### Reports on Use of Alcohol in Fuel
 Pub. L. 95–618, title II, § 221(c), Nov. 9, 1978, 92 Stat. 3185, as amended by Pub. L. 96–223, § 232(g), Apr. 2, 1980, 94 Stat. 280; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “On April 1 of each year, beginning with April 1, 1981, and ending with April 1, 1992, the Secretary of Energy, in consultation with the Secretary of the Treasury and the Secretary of Transportation, shall submit to the Congress a report on the use of alcohol in fuel. The report shall include— “(1) a description of the firms engaged in the alcohol fuel industry, “(2) the amount of alcohol fuel sold in each State, and the amount of gasoline saved in each State by reason of the use of alcohol fuels, “(3) the revenue loss resulting from the exemptions from tax for alcohol fuels under sections 4041(k) and 4081(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] and the credit allowable under section 44E [now 40] of such Code and the impact of such revenue loss on the Highway Trust Fund, and “(4) the cost of production and the retail cost of alcohol fuels as compared to gasoline and special fuels not mixed with alcohol.”
@@ -1102,7 +872,7 @@ Pub. L. 95–618, title II, § 221(c), Nov. 9, 1978, 92 Stat. 3185, as amended b
 
 (2) **Rates** — For purposes of paragraph (1)—
 
-  (A) The Inland Waterways Trust Fund financing rate is the rate determined in accordance with the following table: If the use occurs:The tax pergallon is: Before 199010 cents During 199011 cents During 199113 cents During 199215 cents During 199317 cents During 199419 cents After 199420 cents.
+  (A) The Inland Waterways Trust Fund financing rate is 29 cents per gallon.
 
   (B) The Leaking Underground Storage Tank Trust Fund financing rate is 0.1 cent per gallon.
 
@@ -1151,6 +921,8 @@ Section 206 of the Inland Waterways Revenue Act of 1978, referred to in subsec. 
 A prior section 4042, act Aug. 16, 1954, ch. 736, 68A Stat. 478, provided a cross reference to [section 4222 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4222) for exemption from tax where special motor fuels are sold for use for certain vessels, prior to repeal by Pub. L. 94–455, title XIX, § 1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
+2014—Subsec. (b)(2)(A). Pub. L. 113–295 amended subpar. (A) generally, substituting “The Inland Waterways Trust Fund financing rate is 29 cents per gallon.” for “The Inland Waterways Trust Fund financing rate is the rate determined in accordance with the following table:” and table of rates”.
+
 2007—Subsec. (b)(3). Pub. L. 110–172 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax under section 4041(d) was imposed on the sale of such fuel or is imposed on such use.”
 
 2004—Subsec. (b)(2)(C). Pub. L. 108–357 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The deficit reduction rate is 4.3 cents per gallon.”
@@ -1173,6 +945,9 @@ Subsec. (b)(2)(C). Pub. L. 103–66, § 13241(d)(2), added subpar. (C).
 | After September 30, 1981 and before October 1, 1983 | 6 cents a gallon |
 | After September 30, 1983 and before October 1, 1985 | 8 cents a gallon |
 | After September 30, 1985 | 10 cents a gallon”. |
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–295, div. B, title II, § 205(b), Dec. 19, 2014, 128 Stat. 4065, provided that: “The amendment made by this section [amending this section] shall apply to fuel used after March 31, 2015.”
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–172 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 6(e) of Pub. L. 110–172, set out as a note under [section 30C of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30c).
@@ -1263,7 +1038,7 @@ Pub. L. 100–647, title II, § 2002(a)(1), Nov. 10, 1988, 102 Stat. 3597, provi
 ### Statutory Notes
 
 #### Effective Date
-Pub. L. 112–95, title XI, § 1103(d)(1), Feb. 14, 2012, 126 Stat. 151, provided that: The amendments made by subsection (a) [enacting this section and amending sections 4082 and 9502 of this title] shall apply to fuel used after March 31, 2012.”
+Pub. L. 112–95, title XI, § 1103(d)(1), Feb. 14, 2012, 126 Stat. 151, provided that: “The amendments made by subsection (a) [enacting this section and amending sections 4082 and 9502 of this title] shall apply to fuel used after March 31, 2012.”
 
 
 <a id="section-4051"></a>
@@ -1363,22 +1138,22 @@ Subsec. (d)(3). Pub. L. 99–514, § 1877(c), inserted at end “No tax shall be
 Subsecs. (d), (e). Pub. L. 98–369, § 921, added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective and Termination Dates of 2012 Amendment
-Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
-Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
-Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–102 effective Apr. 1, 2012, see section 402(f) of Pub. L. 112–102, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2011 Amendment
-Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under section 460l–11 of Title 16, Conservation.
+Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub. L. 112–30, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2005 Amendment
 Pub. L. 109–59, title XI, § 11112(b), Aug. 10, 2005, 119 Stat. 1946, provided that: “The amendments made by this section [amending this section] shall apply to sales after September 30, 2005.”
 
 #### Effective Date of 1997 Amendment
-Amendment by section 1401(a) of Pub. L. 105–34 applicable to installations on vehicles sold after Aug. 5, 1997, see section 1401(b) of Pub. L. 105–34, set out as a note under [section 4003 of this title](./chapter-031-retail-excise-taxes.md#section-4003).
+Pub. L. 105–34, title XIV, § 1401(b), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendments made by subsection (a) [amending this section and [section 4003 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4003&num=0&edition=prelim)] shall apply to installations on vehicles sold after the date of the enactment of this Act [Aug. 5, 1997].”
 
 Pub. L. 105–34, title XIV, § 1402(c), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendments made by this section [amending this section and [section 4052 of this title](./chapter-031-retail-excise-taxes.md#section-4052)] shall take effect on January 1, 1998.”
 

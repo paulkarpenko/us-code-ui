@@ -216,7 +216,7 @@ The Controlled Substances Act, referred to in subsecs. (a)(1)(B)(i), (b)(4)(A), 
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), (3), are set out in the Appendix to this title.
 
-The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsec. (b)(2)(A), are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsec. (b)(2)(A), were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(4)(A), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -838,7 +838,7 @@ Pub. L. 103–322, title XXXIII, § 330011(s)(1), Sept. 13, 1994, 108 Stat. 2145
 ### Statutory Notes
 
 #### References in Text
-The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsecs. (a)(3)(A), (4)(A) and (f)(7)(A)(ii), are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsecs. (a)(3)(A), (4)(A) and (f)(7)(A)(ii), were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (h)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -1060,7 +1060,7 @@ Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced
 ### Statutory Notes
 
 #### References in Text
-The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure. The Supplemental Rules for Certain Admiralty and Maritime Claims, which are set out as part of the Federal Rules of Civil Procedure, were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions.
 
 The Federal Rules of Evidence, referred to in subsec. (b), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

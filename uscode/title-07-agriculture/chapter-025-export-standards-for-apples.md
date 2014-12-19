@@ -43,14 +43,20 @@ Where the government of the country to which the shipment is to be made has stan
 
 
 <a id="section-584"></a>
-## § 584. Shipments of less than carload lots; exemptions
+## § 584. Exemptions
+**(a) In general** Apples in less than carload lots as defined by the Secretary may, in his discretion, be shipped to any foreign country without complying with the provisions of this chapter.
 
-Apples in less than carload lots as defined by the Secretary may, in his discretion, be shipped to any foreign country without complying with the provisions of this chapter.
+**(b) Bulk containers** Apples may be shipped to Canada in bulk containers without complying with the provisions of this chapter.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Pub. L. 113–79 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
 1999—Pub. L. 106–96 struck out “or pears” after “Apples”.
+
+#### Regulations
+Pub. L. 113–79, title X, § 10009(c), Feb. 7, 2014, 128 Stat. 949, provided that: “Not later than 60 days after the date of enactment of this Act [Feb. 7, 2014], the Secretary [of Agriculture] shall issue regulations to carry out the amendments made by this section [amending this section and [section 589 of this title](./chapter-025-export-standards-for-apples.md#section-589)].”
 
 
 <a id="section-585"></a>
@@ -64,7 +70,7 @@ For inspecting and certifying the grade, quality, and/or condition of apples, th
 1999—Pub. L. 106–96 struck out “and/or pears” after “of apples”.
 
 #### Transfer of Functions
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim).
 
 
 <a id="section-586"></a>
@@ -103,10 +109,14 @@ When used in this chapter—
 
 (4) The term “apples” means fresh whole apples, whether or not the apples have been in storage.
 
+(5) The term “bulk container” means a container that contains a quantity of apples weighing more than 100 pounds.
+
 ### Statutory Notes
 
 #### Amendments
-1999—Pub. L. 106–96 added par. (4) and struck out former par. (4) which read as follows: “The term ‘apples and/or pears’ means fresh whole apples or pears, whether or not they have been in storage.”
+2014—Par. (5). Pub. L. 113–79 added par. (5).
+
+1999—Par. (4). Pub. L. 106–96 added par. (4) and struck out former par. (4) which read as follows: “The term ‘apples and/or pears’ means fresh whole apples or pears, whether or not they have been in storage.”
 
 
 <a id="section-590"></a>

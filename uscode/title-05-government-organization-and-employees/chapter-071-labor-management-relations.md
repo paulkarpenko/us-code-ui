@@ -493,7 +493,9 @@ Sec. 5. General Provisions.
 Barack Obama.
 
 #### Extension of Term of National Council on Federal Labor-Management Relations
-Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 
 <a id="section-7102"></a>
@@ -537,7 +539,7 @@ Par. (2) of this section suspended with respect to any matter proposed for barga
 
   (v) any person who participates in a strike in violation of [section 7311 of this title](./chapter-073-suitability-security-and-conduct.md#section-7311);
 
-(3) “agency” means an Executive agency (including a nonappropriated fund instrumentality described in [section 2105(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105/c&num=0&edition=prelim) and the Veterans’ Canteen Service, Department of Veterans Affairs), the Library of Congress, the Government Printing Office, and the Smithsonian Institution 11 So in original. Probably should be followed by a comma. but does not include—
+(3) “agency” means an Executive agency (including a nonappropriated fund instrumentality described in [section 2105(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105/c&num=0&edition=prelim) and the Veterans’ Canteen Service, Department of Veterans Affairs), the Library of Congress, the Government Publishing Office, and the Smithsonian Institution 11 So in original. Probably should be followed by a comma. but does not include—
 
   (A) the Government Accountability Office;
 
@@ -661,6 +663,8 @@ Subsec. (a)(3). Pub. L. 105–220, in introductory provisions, struck out “and
 
 #### Change of Name
 International Communication Agency, referred to in subsec. (a)(2)(B)(iv), redesignated United States Information Agency and Director or any other official of International Communication Agency redesignated as Director or other official, as appropriate, of United States Information Agency by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under [section 1461 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1461&num=0&edition=prelim), Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State by sections 6531 and 6532 of Title 22.
+
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (a)(3) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under [section 6561 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6561&num=0&edition=prelim), Foreign Relations and Intercourse.

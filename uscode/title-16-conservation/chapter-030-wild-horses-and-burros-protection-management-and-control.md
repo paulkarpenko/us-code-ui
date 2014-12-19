@@ -28,9 +28,9 @@ As used in this chapter—
 
 **(c)** “range” means the amount of land necessary to sustain an existing herd or herds of wild free-roaming horses and burros, which does not exceed their known territorial limits, and which is devoted principally but not necessarily exclusively to their welfare in keeping with the multiple-use management concept for the public lands;
 
-**(d)** “herd” means one or more stallions and his mares; and
+**(d)** “herd” means one or more stallions and his mares; and 11 So in original. The word “and” probably should not appear.
 
-**(e)** “public lands” means any lands administered by the Secretary of the Interior through the Bureau of Land Management or by the Secretary of Agriculture through the Forest Service.
+**(e)** “public lands” means any lands administered by the Secretary of the Interior through the Bureau of Land Management or by the Secretary of Agriculture through the Forest Service.22 So in original. The period probably should be “; and”.
 
 **(f)** “excess animals” means wild free-roaming horses or burros (1) which have been removed from an area by the Secretary pursuant to applicable law or, (2) which must be removed from an area in order to preserve and maintain a thriving natural ecological balance and multiple-use relationship in that area.
 
@@ -135,6 +135,12 @@ The Secretary is authorized to enter into cooperative agreements with other land
 
 #### Contracts and Agreements for Wild Horse and Burro Holding Facilities
 Pub. L. 112–74, div. E, title I, § 114, Dec. 23, 2011, 125 Stat. 1009, provided that: “(a) Notwithstanding any other provision of this Act [div. E of Pub. L. 112–74, see Tables for classification], the Secretary of the Interior may enter into multiyear cooperative agreements with nonprofit organizations and other appropriate entities, and may enter into multiyear contracts in accordance with the provisions of section 304B of the Federal Property and Administrative Services Act of 1949 ([former] [41 U.S.C. 254c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section254c&num=0&edition=prelim)) [see [41 U.S.C. 3903](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3903&num=0&edition=prelim)] (except that the 5-year term restriction in subsection (d) [see [41 U.S.C. 3903(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3903/a&num=0&edition=prelim)] shall not apply), for the long-term care and maintenance of excess wild free roaming horses and burros by such organizations or entities on private land. Such cooperative agreements and contracts may not exceed 10 years, subject to renewal at the discretion of the Secretary. “(b) During fiscal year 2012 and subsequent fiscal years, in carrying out work involving cooperation with any State or political subdivision thereof, the Bureau of Land Management may record obligations against accounts receivable from any such entities.”
+
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 113–235, div. F, title I, § 110, Dec. 16, 2014, 128 Stat. 2419.
+
+Pub. L. 113–76, div. G, title I, § 111, Jan. 17, 2014, 128 Stat. 312.
 
 
 <a id="section-1337"></a>

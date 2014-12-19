@@ -2,7 +2,7 @@
 title: 48
 chapter: '10'
 heading: TERRITORIAL PROVISIONS OF A GENERAL NATURE
-section_count: 27
+section_count: 28
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48&num=0&edition=prelim
 ---
@@ -150,7 +150,7 @@ The Act to authorize appropriations for certain insular areas of the United Stat
 
 Public Law 99–177, referred to in text, is Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, as amended, title II of which is known as the “Balanced Budget and Emergency Deficit Control Act of 1985”, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
 
-Public Law 99–366, referred to in text, is Pub. L. 99–366, July 31, 1986, 100 Stat. 773, which is set out as a note under [section 902 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section902&num=0&edition=prelim).
+Public Law 99–366, referred to in text, is Pub. L. 99–366, July 31, 1986, 100 Stat. 773, which is classified as a note under [section 904 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904&num=0&edition=prelim).
 
 
 <a id="section-1469b"></a>
@@ -168,6 +168,10 @@ Section is from the appropriation act cited as the credit to this section.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriations acts:
+
+Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 304.
+
+Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 1001.
 
 Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2920.
 
@@ -637,6 +641,58 @@ Subsec. (g)(4). Pub. L. 109–58, § 251(4), amended par. (4) generally. Prior t
 
 #### Change of Name
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+
+<a id="section-1492a"></a>
+## § 1492a. Study of Electric Rates in the Insular Areas
+**(a) Definitions** In this section:
+
+(1) **Comprehensive energy plan** — The term “comprehensive energy plan” means a comprehensive energy plan prepared and updated under subsections (c) and (e) of [section 1492 of this title](./chapter-010-territorial-provisions-of-a-general-nature.md#section-1492).
+
+(2) **Energy action plan** — The term “energy action plan” means the plan required by subsection (d).
+
+(3) **Freely associated states** — The term “Freely Associated States” means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
+
+(4) **Insular areas** — The term “insular areas” means American Samoa, the Commonwealth of the Northern Mariana Islands, Puerto Rico, Guam, and the Virgin Islands.
+
+(5) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+
+(6) **Team** — The term “team” means the team established by the Secretary under subsection (b).
+
+**(b) Establishment** Not later than 180 days after December 16, 2014, the Secretary shall, within the Empowering Insular Communities activity, establish a team of technical, policy, and financial experts—
+
+(1) to develop an energy action plan addressing the energy needs of each of the insular areas and Freely Associated States; and
+
+(2) to assist each of the insular areas and Freely Associated States in implementing such plan.
+
+**(c) Participation of Regional Utility Organizations** In establishing the team, the Secretary shall consider including regional utility organizations.
+
+**(d) Energy Action Plan** In accordance with subsection (b), the energy action plan shall include—
+
+(1) recommendations, based on the comprehensive energy plan where applicable, to—
+
+  (A) reduce reliance and expenditures on fuel shipped to the insular areas and Freely Associated States from ports outside the United States;
+
+  (B) develop and utilize domestic fuel energy sources; and
+
+  (C) improve performance of energy infrastructure and overall energy efficiency;
+
+(2) a schedule for implementation of such recommendations and identification and prioritization of specific projects;
+
+(3) a financial and engineering plan for implementing and sustaining projects; and
+
+(4) benchmarks for measuring progress toward implementation.
+
+**(e) Reports to Secretary** Not later than 1 year after the date on which the Secretary establishes the team and annually thereafter, the team shall submit to the Secretary a report detailing progress made in fulfilling its charge and in implementing the energy action plan.
+
+**(f) Annual Reports to Congress** Not later than 30 days after the date on which the Secretary receives a report submitted by the team under subsection (e), the Secretary shall submit to the appropriate committees of Congress a summary of the report of the team.
+
+**(g) Approval of Secretary Required** The energy action plan shall not be implemented until the Secretary approves the energy action plan.
+
+### Statutory Notes
+
+#### Codification
+Section is from the Consolidated and Further Continuing Appropriations Act, 2015.
 
 
 <a id="section-1493"></a>

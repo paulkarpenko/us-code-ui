@@ -106,6 +106,22 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 (3) **Definition of depository institution holding company** — The term “depository institution holding company” means a bank holding company or a savings and loan holding company (as those terms are defined in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813)) that is organized in the United States, including any bank or savings and loan holding company that is owned or controlled by a foreign organization, but does not include the foreign organization.
 
+(4) **Business of insurance** — The term “business of insurance” has the same meaning as in [section 5481(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5481/3&num=0&edition=prelim).
+
+(5) **Person regulated by a State insurance regulator** — The term “person regulated by a State insurance regulator” has the same meaning as in [section 5481(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5481/22&num=0&edition=prelim).
+
+(6) **Regulated foreign subsidiary and regulated foreign affiliate** — The terms “regulated foreign subsidiary” and “regulated foreign affiliate” mean a person engaged in the business of insurance in a foreign country that is regulated by a foreign insurance regulatory authority that is a member of the International Association of Insurance Supervisors or other comparable foreign insurance regulatory authority as determined by the Board of Governors following consultation with the State insurance regulators, including the lead State insurance commissioner (or similar State official) of the insurance holding company system as determined by the procedures within the Financial Analysis Handbook adopted by the National Association of Insurance Commissioners, where the person, or its principal United States insurance affiliate, has its principal place of business or is domiciled, but only to the extent that—
+
+  (A) such person acts in its capacity as a regulated insurance entity; and
+
+  (B) the Board of Governors does not determine that the capital requirements in a specific foreign jurisdiction are inadequate.
+
+(7) **Capacity as a regulated insurance entity** — The term “capacity as a regulated insurance entity”—
+
+  (A) includes any action or activity undertaken by a person regulated by a State insurance regulator or a regulated foreign subsidiary or regulated foreign affiliate of such person, as those actions relate to the provision of insurance, or other activities necessary to engage in the business of insurance; and
+
+  (B) does not include any action or activity, including any financial activity, that is not regulated by a State insurance regulator or a foreign agency or authority and subject to State insurance capital requirements or, in the case of a regulated foreign subsidiary or regulated foreign affiliate, capital requirements imposed by a foreign insurance regulatory authority.
+
 **(b) Minimum capital requirements**
 
 (1) **Minimum leverage capital requirements** — The appropriate Federal banking agencies shall establish minimum leverage capital requirements on a consolidated basis for insured depository institutions, depository institution holding companies, and nonbank financial companies supervised by the Board of Governors. The minimum leverage capital requirements established under this paragraph shall not be less than the generally applicable leverage capital requirements, which shall serve as a floor for any capital requirements that the agency may require, nor quantitatively lower than the generally applicable leverage capital requirements that were in effect for insured depository institutions as of July 21, 2010.
@@ -132,7 +148,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
   (B) any Federal home loan bank; or
 
-  (C) any small bank holding company that is subject to the Small Bank Holding Company Policy Statement of the Board of Governors, as in effect on May 19, 2010.
+  (C) any bank holding company or savings and loan holding company having less than $1,000,000,000 in total consolidated assets that complies with the requirements of the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors of the Board of Governors (12 CFR part 225 appendix C), as the requirements of such Policy Statement are amended pursuant to section 1 of an Act entitled “To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes”.
 
 (6) **Study and report on small institution access to capital**
 
@@ -154,10 +170,36 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
     (iii) concentrations in market share for any activity that would substantially disrupt financial markets if the institution is forced to unexpectedly cease the activity.
 
+**(c) Clarification**
+
+(1) **In general** — In establishing the minimum leverage capital requirements and minimum risk-based capital requirements on a consolidated basis for a depository institution holding company or a nonbank financial company supervised by the Board of Governors as required under paragraphs (1) and (2) of subsection (b), the appropriate Federal banking agencies shall not be required to include, for any purpose of this section (including in any determination of consolidation), a person regulated by a State insurance regulator or a regulated foreign subsidiary or a regulated foreign affiliate of such person engaged in the business of insurance, to the extent that such person acts in its capacity as a regulated insurance entity.
+
+(2) **Rule of construction on Board’s authority** — This subsection shall not be construed to prohibit, modify, limit, or otherwise supersede any other provision of Federal law that provides the Board of Governors authority to issue regulations and orders relating to capital requirements for depository institution holding companies or nonbank financial companies supervised by the Board of Governors.
+
+(3) **Rule of construction on accounting principles**
+
+  (A) *In general* — A depository institution holding company or nonbank financial company supervised by the Board of Governors of the Federal Reserve that is also a person regulated by a State insurance regulator that is engaged in the business of insurance that files financial statements with a State insurance regulator or the National Association of Insurance Commissioners utilizing only Statutory Accounting Principles in accordance with State law, shall not be required by the Board under the authority of this section or the authority of the Home Owners’ Loan Act [[12 U.S.C. 1461](./chapter-012-savings-associations.md#section-1461) et seq.] to prepare such financial statements in accordance with Generally Accepted Accounting Principles.
+
+  (B) *Preservation of authority* — Nothing in subparagraph (A) shall limit the authority of the Board under any other applicable provision of law to conduct any regulatory or supervisory activity of a depository institution holding company or non-bank financial company supervised by the Board of Governors, including the collection or reporting of any information on an entity or group-wide basis. Nothing in this paragraph shall excuse the Board from its obligations to comply with [section 5361(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5361/a&num=0&edition=prelim) and section 10(b)(2) of the Home Owners’ Loan Act ([12 U.S.C. 1467a(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a/b/2&num=0&edition=prelim)), as appropriate.
+
 ### Statutory Notes
 
 #### References in Text
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (b)(5)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of this title](./chapter-052-emergency-economic-stabilization.md#section-5201) and Tables.
+
+Section 1 of an Act entitled “To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes”, referred to in subsec. (b)(5)(C), is section 1 of Pub. L. 113–250, which is set out as a note below.
+
+The Home Owners’ Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+2014—Subsec. (a)(4) to (7). Pub. L. 113–279, § 2(1), added pars. (4) to (7).
+
+Subsec. (b)(5)(C). Pub. L. 113–250 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any small bank holding company that is subject to the Small Bank Holding Company Policy Statement of the Board of Governors, as in effect on May 19, 2010.”
+
+Subsec. (c). Pub. L. 113–279, § 2(2), added subsec. (c).
+
+#### Changes Required to Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors
+Pub. L. 113–250, Dec. 18, 2014, 128 Stat. 2886, provided that: “SECTION 1. CHANGES REQUIRED TO SMALL BANK HOLDING COMPANY POLICY STATEMENT ON ASSESSMENT OF FINANCIAL AND MANAGERIAL FACTORS.“(a) In General.—Before the end of the 6-month period beginning on the date of the enactment of this Act [Dec. 18, 2014], the Board of Governors of the Federal Reserve System (hereafter in this Act referred to as the ‘Board’) shall publish in the Federal Register proposed revisions to the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors (12 CFR part 225 appendix C) that provide that the policy shall apply to bank holding companies and savings and loan holding companies which have pro forma consolidated assets of less than $1,000,000,000 and that—“(1) are not engaged in significant nonbanking activities either directly or through a nonbank subsidiary; “(2) do not conduct significant off-balance sheet activities (including securitization and asset management or administration) either directly or through a nonbank subsidiary; and “(3) do not have a material amount of debt or equity securities outstanding (other than trust preferred securities) that are registered with the Securities and Exchange Commission. “(b) Exclusions.—The Board may exclude any bank holding company or savings and loan holding company, regardless of asset size, from the policy statement under subsection (a) if the Board determines that such action is warranted for supervisory purposes. “SEC. 2. CONFORMING AMENDMENT.“(a) In General.—[Amended this section.] “(b) Transition Period.—Any small bank holding company that was excepted from the provisions of section 171 of the Dodd-Frank Wall Street Reform and Consumer Protection Act [[12 U.S.C. 5371](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5371)] pursuant to subparagraph (C) of section 171(b)(5) (as such subparagraph was in effect on the day before the date of enactment of this Act [Dec. 18, 2014]), and any small savings and loan holding company that would have been excepted from the provisions of section 171 pursuant to subparagraph (C) [of section 171(b)(5)] (as such subparagraph was in effect on the day before the date of enactment of this Act) if it had been a small bank holding company, shall be excepted from the provisions of section 171 until the effective date of the Small Bank Holding Company Policy Statement issued by the Board as required by section 1 of this Act. “SEC. 3. DEFINITIONS.“For the purposes of this Act:“(a) Bank Holding Company.—The term ‘bank holding company’ has the same meaning as in section 2 of the Bank Holding Company Act of 1956 ([12 U.S.C. 1841](./chapter-017-bank-holding-companies.md#section-1841)). “(b) Savings and Loan Holding Company.—The term ‘savings and loan holding company’ has the same meaning as in section 10(a) of the Home Owners’ Loan Act ([12 U.S.C. 1467a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a/a&num=0&edition=prelim)).”
 
 
 <a id="section-5321"></a>
@@ -300,6 +342,11 @@ The Commodity Exchange Act, referred to in par. (12)(C), is act Sept. 21, 1922, 
 
 #### Effective Date
 Pub. L. 111–203, § 4, July 21, 2010, 124 Stat. 1390, provided that: “Except as otherwise specifically provided in this Act [see Short Title note below] or the amendments made by this Act, this Act and such amendments shall take effect 1 day after the date of enactment of this Act [July 21, 2010].”
+
+#### Short Title of 2014 Amendment
+Pub. L. 113–279, § 1, Dec. 18, 2014, 128 Stat. 3017, provided that: “This Act [amending [section 5371 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5371)] may be cited as the ‘Insurance Capital Standards Clarification Act of 2014’.”
+
+Pub. L. 113–173, § 1, Sept. 26, 2014, 128 Stat. 1899, provided that: “This Act [amending [section 5514 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5514)] may be cited as the ‘Examination and Supervisory Privilege Parity Act of 2014’.”
 
 #### Short Title
 Pub. L. 111–203, § 1(a), July 21, 2010, 124 Stat. 1376, provided that: “This Act [see Tables for classification] may be cited as the ‘Dodd-Frank Wall Street Reform and Consumer Protection Act’.”
@@ -1472,7 +1519,7 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 111–203, July 21, 2010, 12
 <a id="section-5368"></a>
 ## § 5368. Prohibition against management interlocks between certain financial companies
 
-A nonbank financial company supervised by the Board of Governors shall be treated as a bank holding company for purposes of the Depository Institutions 11 So in original. Probably should be “Institution”. Management Interlocks Act ([12 U.S.C. 3201](./chapter-033-depository-institution-management-interlocks.md#section-3201) et seq.), except that the Board of Governors shall not exercise the authority provided in section 7 of that Act ([12 U.S.C. 3207](./chapter-033-depository-institution-management-interlocks.md#section-3207)) to permit service by a management official of a nonbank financial company supervised by the Board of Governors as a management official of any bank holding company with total consolidated assets equal to or greater than $50,000,000,000, or other nonaffiliated nonbank financial company supervised by the Board of Governors (other than to provide a temporary exemption for interlocks resulting from a merger, acquisition, or consolidation).
+A nonbank financial company supervised by the Board of Governors shall be treated as a bank holding company for purposes of the Depository Institutions 11 So in original. Probably should be “Institution”. Management Interlocks Act ([12 U.S.C. 3201](./chapter-033-depository-institution-management-interlocks.md#section-3201) et seq.), except that the Board of Governors shall not exercise the authority provided in section 7 22 So in original. There is no section 7 of such Act. of that Act ([12 U.S.C. 3207](./chapter-033-depository-institution-management-interlocks.md#section-3207)) to permit service by a management official of a nonbank financial company supervised by the Board of Governors as a management official of any bank holding company with total consolidated assets equal to or greater than $50,000,000,000, or other nonaffiliated nonbank financial company supervised by the Board of Governors (other than to provide a temporary exemption for interlocks resulting from a merger, acquisition, or consolidation).
 
 ### Statutory Notes
 
@@ -4089,7 +4136,7 @@ This title, where footnoted in text, is title III of Pub. L. 111–203, July 21,
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in subsec. (b)(1)(B), (D), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+This title, referred to in subsec. (b)(1)(A), (B), (D), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
 
 
 <a id="section-5431"></a>
@@ -6431,7 +6478,7 @@ Section effective on the designated transfer date, see section 1029A of Pub. L. 
 
   (E) any other factors that the Bureau determines to be relevant to a class of covered persons.
 
-(3) **Coordination** — To minimize regulatory burden, the Bureau shall coordinate its supervisory activities with the supervisory activities conducted by prudential regulators and the State bank regulatory authorities, including establishing their respective schedules for examining persons described in subsection (a)(1) and requirements regarding reports to be submitted by such persons.
+(3) **Coordination** — To minimize regulatory burden, the Bureau shall coordinate its supervisory activities with the supervisory activities conducted by prudential regulators, the State bank regulatory authorities, and the State agencies that licence, supervise, or examine the offering of consumer financial products or services, including establishing their respective schedules for examining persons described in subsection (a)(1) and requirements regarding reports to be submitted by such persons. The sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege or confidentiality such person may claim with respect to such information under Federal or State law as to any person or entity other than such Bureau, agency, supervisor, or authority.
 
 (4) **Use of existing reports** — The Bureau shall, to the fullest extent possible, use—
 
@@ -6487,6 +6534,9 @@ Section effective on the designated transfer date, see section 1029A of Pub. L. 
 
 #### References in Text
 This title, where footnoted in subsecs. (a)(1), (b)(5), (c)(2), and (f), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Amendments
+2014—Subsec. (b)(3). Pub. L. 113–173 substituted “regulators, the State bank regulatory authorities, and the State agencies that licence, supervise, or examine the offering of consumer financial products or services” for “regulators and the State bank regulatory authorities” and inserted at end “The sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege or confidentiality such person may claim with respect to such information under Federal or State law as to any person or entity other than such Bureau, agency, supervisor, or authority.”
 
 #### Effective Date
 Section effective July 21, 2010, see section 1029A of Pub. L. 111–203, set out as a note under [section 5511 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511).
@@ -6815,7 +6865,7 @@ Section effective on the designated transfer date, see section 1029A of Pub. L. 
 
   (C) *Description of products or services* — To the extent that a person engaged in providing products or services relating to any specified plan or arrangement is subject to any enumerated consumer law or any law for which authorities are transferred under subtitle F or H, subparagraph (A) shall not apply with respect to that law.
 
-(4) **Specified plan or arrangement** — For purposes of this subsection, the term “specified plan or arrangement” means any plan, account, or arrangement described in section 220, 223, 401(a), 403(a), 403(b), 408, 408A, 529, or 530 of title 26, or any employee benefit or compensation plan or arrangement, including a plan that is subject to title I of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) et seq.], or any prepaid tuition program offered by a State.
+(4) **Specified plan or arrangement** — For purposes of this subsection, the term “specified plan or arrangement” means any plan, account, or arrangement described in section 220, 223, 401(a), 403(a), 403(b), 408, 408A, 529, 529A, or 530 of title 26, or any employee benefit or compensation plan or arrangement, including a plan that is subject to title I of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) et seq.], or any prepaid tuition program offered by a State.
 
 **(h) Persons regulated by a State securities commission**
 
@@ -6885,6 +6935,12 @@ The Federal Deposit Insurance Act, referred to in subsec. (r), is act Sept. 21, 
 The Federal Credit Union Act, referred to in subsec. (r), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.
 
 The Fair Housing Act, referred to in subsec. (s), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2014—Subsec. (g)(4). Pub. L. 113–295 inserted “, 529A” after “529”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 31, 2014, see section 102(f)(1) of Pub. L. 113–295, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date
 Section effective on the designated transfer date, see section 1029A of Pub. L. 111–203, set out as a note under [section 5511 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511).
@@ -7146,6 +7202,9 @@ Section effective on the designated transfer date, see section 1037 of Pub. L. 1
 
 ### Statutory Notes
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
 #### Effective Date
 Section effective on the designated transfer date, see section 1037 of Pub. L. 111–203, set out as a note under [section 5531 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5531).
 
@@ -7297,7 +7356,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 
 <a id="section-5561"></a>
-## § 5561. Mortgages loans; rulemaking procedures; enforcement
+## § 5561. Mortgage loans; rulemaking procedures; enforcement
 **(a)**
 
 (1) The Bureau of Consumer Financial Protection shall have authority to prescribe rules with respect to mortgage loans in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim). Such rulemaking shall relate to unfair or deceptive acts or practices regarding mortgage loans, which may include unfair or deceptive acts or practices involving loan modification and foreclosure rescue services. Any violation of a rule prescribed under this paragraph shall be treated as a violation of a rule prohibiting unfair, deceptive, or abusive acts or practices under the Consumer Financial Protection Act of 2010 and a violation of a rule under section 18 of the Federal Trade Commission Act ([15 U.S.C. 57a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a&num=0&edition=prelim)) regarding unfair or deceptive acts or practices.

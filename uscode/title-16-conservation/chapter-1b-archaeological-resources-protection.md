@@ -91,26 +91,33 @@ The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92�
 
 **(g) Excavation or removal by Indian tribes or tribe members; excavation or removal of resources located on Indian lands**
 
-(1) No permit shall be required under this section or under the Act of June 8, 1906 ([16 U.S.C. 431](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431)), for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
+(1) No permit shall be required under this section or under the Act of June 8, 1906, for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
 
 (2) In the case of any permits for the excavation or removal of any archaelogical 11 So in original. Probably should be “archaeological”. resource located on Indian lands, the permit may be granted only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such terms and conditions as may be requested by such Indian or Indian tribe.
 
-**(h) Permits issued under Antiquities Act of 1906**
+**(h) Permits issued under chapter 3203 of title 54**
 
-(1) No permit or other permission shall be required under the Act of June 8, 1906 ([16 U.S.C. 431–433](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section431–433&num=0&edition=prelim)), for any activity for which a permit is issued under this section.
+(1) No permit or other permission shall be required under chapter 3203 of title 54,22 So in original. The comma probably should not appear. for any activity for which a permit is issued under this section.
 
-(2) Any permit issued under the Act of June 8, 1906 [[16 U.S.C. 431–433](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section431–433&num=0&edition=prelim)], shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under the Act of June 8, 1906, before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
+(2) Any permit issued under chapter 3203 of title 54,2 shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54,2 before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
 
-**(i) Compliance with provisions relating to undertakings on property listed in the National Register not required** Issuance of a permit in accordance with this section and applicable regulations shall not require compliance with [section 470f of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470f).
+**(i) Compliance with provisions relating to undertakings on property listed in the National Register not required** Issuance of a permit in accordance with this section and applicable regulations shall not require compliance with [section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim).
 
 **(j) Issuance of permits to State Governors for archaeological activities on behalf of States or their educational institutions** Upon the written request of the Governor of any State, the Federal land manager shall issue a permit, subject to the provisions of subsections (b)(3), (b)(4), (c), (e), (f), (g), (h), and (i) of this section for the purpose of conducting archaeological research, excavation, removal, and curation, on behalf of the State or its educational institutions, to such Governor or to such designee as the Governor deems qualified to carry out the intent of this chapter.
 
 ### Statutory Notes
 
 #### References in Text
-Act of June 8, 1906, referred to in subsecs. (g)(1) and (h), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431) and Tables.
+The Antiquities Act of 1906, referred to in subsec. (g)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, also known as the National Monument Act, which was classified generally to sections 431, 432, and 433 of Title 16, Conservation, prior to the enactment of Title 54, National Park Service and Related Programs by Pub. L. 113–287, Dec. 19, 2014, 128 Stat. 3094. See chapter 3203 of Title 54.
 
 Following the enactment of this chapter, referred to in subsec. (h)(2), means following the enactment of Pub. L. 96–95, approved Oct. 31, 1979.
+
+#### Amendments
+2014—Subsec. (h)(1). Pub. L. 113–287, § 5(d)(6)(A)(i), substituted “chapter 3203 of title 54” for “the Act of June 8, 1906 ([16 U.S.C. 431–433](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section431–433&num=0&edition=prelim))”.
+
+Subsec. (h)(2). Pub. L. 113–287, § 5(d)(6)(A)(ii), substituted “chapter 3203 of title 54” for “the Act of June 8, 1906” in two places.
+
+Subsec. (i). Pub. L. 113–287, § 5(d)(6)(B), substituted “[section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim)” for “[section 470f of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470f)”.
 
 
 <a id="section-470dd"></a>
@@ -120,14 +127,13 @@ The Secretary of the Interior may promulgate regulations providing for—
 
 (1) the exchange, where appropriate, between suitable universities, museums, or other scientific or educational institutions, of archaeological resources removed from public lands and Indian lands pursuant to this chapter, and
 
-(2) the ultimate disposition of such resources and other resources removed pursuant to the Act of June 27, 1960 ([16 U.S.C. 469–469c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469–469c&num=0&edition=prelim)) [[16 U.S.C. 469–469c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469–469c&num=0&edition=prelim)–1] or the Act of June 8, 1906 ([16 U.S.C. 431–433](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section431–433&num=0&edition=prelim)). Any exchange or ultimate disposition under such regulation of archaeological resources excavated or removed from Indian lands shall be subject to the consent of the Indian or Indian tribe which owns or has jurisdiction over such lands. Following promulgation of regulations under this section, notwithstanding any other provision of law, such regulations shall govern the disposition of archaeological resources removed from public lands and Indian lands pursuant to this chapter.
+(2) the ultimate disposition of such resources and other resources removed pursuant to chapter 3125 or chapter 3203 of title 54.
+Any exchange or ultimate disposition under such regulation of archaeological resources excavated or removed from Indian lands shall be subject to the consent of the Indian or Indian tribe which owns or has jurisdiction over such lands. Following promulgation of regulations under this section, notwithstanding any other provision of law, such regulations shall govern the disposition of archaeological resources removed from public lands and Indian lands pursuant to this chapter.
 
 ### Statutory Notes
 
-#### References in Text
-Act of June 27, 1960 ([16 U.S.C. 469–469c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469–469c&num=0&edition=prelim)), referred to in par. (2), is act June 27, 1960, Pub. L. 86–523, 74 Stat. 220, as amended, which is classified generally to sections 469 to 469c–1 of this title. For complete classification of this Act to the Code, see Tables.
-
-Act of June 8, 1906 ([16 U.S.C. 431–433](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section431–433&num=0&edition=prelim)), referred to in par. (2), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431) and Tables.
+#### Amendments
+2014—Par. (2). Pub. L. 113–287 “chapter 3125 or chapter 3203 of title 54” for “the Act of June 27, 1960 ([16 U.S.C. 469–469c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469–469c&num=0&edition=prelim)) or the Act of June 8, 1906 ([16 U.S.C. 431–433](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section431–433&num=0&edition=prelim))”.
 
 
 <a id="section-470ee"></a>
@@ -206,7 +212,7 @@ Subsec. (d). Pub. L. 100–588, § 1(c), substituted “$500” for “$5,000”
 ## § 470hh. Confidentiality of information concerning nature and location of archaeological resources
 **(a) Disclosure of information** Information concerning the nature and location of any archaeological resource for which the excavation or removal requires a permit or other permission under this chapter or under any other provision of Federal law may not be made available to the public under subchapter II of chapter 5 of title 5 or under any other provision of law unless the Federal land manager concerned determines that such disclosure would—
 
-(1) further the purposes of this chapter or the Act of June 27, 1960 ([16 U.S.C. 469–469c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469–469c&num=0&edition=prelim)) [[16 U.S.C. 469–469c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469–469c&num=0&edition=prelim)–1], and
+(1) further the purposes of this chapter or chapter 3125 of title 54, and
 
 (2) not create a risk of harm to such resources or to the site at which such resources are located.
 
@@ -221,8 +227,8 @@ the Federal land manager concerned shall provide to the Governor information con
 
 ### Statutory Notes
 
-#### References in Text
-Act of June 27, 1960 ([16 U.S.C. 469–469c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469–469c&num=0&edition=prelim)), referred to in subsec. (a)(1), is act June 27, 1960, Pub. L. 86–523, 74 Stat. 220, as amended, which is classified generally to sections 469 to 469c–1 of this title. For complete classification of this Act to the Code, see Tables.
+#### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–287 Sec. 5(d)(8), which directed substitution of “chapter 3125 of title 54” for “the Act of June 27, 1960 ([16 U.S.C. 469–469c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469–469c&num=0&edition=prelim))” in subsec. (a)(2), was executed by making the substitution in subsec. (a)(1), to reflect the probable intent of Congress.
 
 
 <a id="section-470ii"></a>
@@ -253,7 +259,8 @@ The Secretary of the Interior shall take such action as may be necessary, consis
 
 (1) private individuals having collections of archaeological resources and data which were obtained before the date of the enactment of this chapter, and
 
-(2) Federal authorities responsible for the protection of archaeological resources on the public lands and Indian lands and professional archaeologists and associations of professional archaeologists. In carrying out this section, the Secretary shall, to the extent practicable and consistent with the provisions of this chapter, make efforts to expand the archaeological data base for the archaeological resources of the United States through increased cooperation between private individuals referred to in paragraph (1) and professional archaeologists and archaeological organizations.
+(2) Federal authorities responsible for the protection of archaeological resources on the public lands and Indian lands and professional archaeologists and associations of professional archaeologists.
+In carrying out this section, the Secretary shall, to the extent practicable and consistent with the provisions of this chapter, make efforts to expand the archaeological data base for the archaeological resources of the United States through increased cooperation between private individuals referred to in paragraph (1) and professional archaeologists and archaeological organizations.
 
 
 <a id="section-470kk"></a>
@@ -268,7 +275,12 @@ The Secretary of the Interior shall take such action as may be necessary, consis
 <a id="section-470ll"></a>
 ## § 470ll. Annual report to Congress
 
-As part of the annual report required to be submitted to the specified committees of the Congress pursuant to [section 469a–3(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469a–3/c&num=0&edition=prelim), the Secretary of the Interior shall comprehensively report as a separate component on the activities carried out under the provisions of this chapter, and he shall make such recommendations as he deems appropriate as to changes or improvements needed in the provisions of this chapter. Such report shall include a brief summary of the actions undertaken by the Secretary under [section 470jj of this title](./chapter-1b-archaeological-resources-protection.md#section-470jj), relating to cooperation with private individuals.
+As part of the annual report required to be submitted to the specified committees of the Congress pursuant to [section 469a–3(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469a–3/c&num=0&edition=prelim),11 See References in Text note below. the Secretary of the Interior shall comprehensively report as a separate component on the activities carried out under the provisions of this chapter, and he shall make such recommendations as he deems appropriate as to changes or improvements needed in the provisions of this chapter. Such report shall include a brief summary of the actions undertaken by the Secretary under [section 470jj of this title](./chapter-1b-archaeological-resources-protection.md#section-470jj), relating to cooperation with private individuals.
+
+### Statutory Notes
+
+#### References in Text
+[Section 469a–3 of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-469a-3), referred to in text, was repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. Prior to the repeal of section 469a–3, language in subsec. (c) that required submission of an annual report was struck out by Pub. L. 104–333.
 
 
 <a id="section-470mm"></a>

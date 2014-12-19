@@ -134,7 +134,7 @@ Pub. L. 103–236, title II, § 230, Apr. 30, 1994, 108 Stat. 424, which provide
 #### International Exchange, Scholarship, and Training Programs
 Pub. L. 110–83, Sept. 20, 2007, 121 Stat. 781, authorized establishment of a United States-Poland parliamentary youth exchange program.
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title II], Dec. 21, 2000, 114 Stat. 2763, 2763A–254, as amended by Pub. L. 107–228, div. A, title II, § 227, Sept. 30, 2002, 116 Stat. 1369, known as the Vietnam Education Foundation Act of 2000, established the Vietnam Education Foundation to provide fellowships to Vietnamese nationals to study the sciences, mathematics, medicine, and technology in the United States and to United States citizens to teach those subjects in Vietnam.
+Pub. L. 106–554, § 1(a)(4) [div. B, title II], Dec. 21, 2000, 114 Stat. 2763, 2763A–254, as amended by Pub. L. 107–228, div. A, title II, § 227, Sept. 30, 2002, 116 Stat. 1369; Pub. L. 113–235, div. J, title VII, § 7085, Dec. 16, 2014, 128 Stat. 2685, known as the Vietnam Education Foundation Act of 2000, established the Vietnam Education Foundation to provide fellowships to Vietnamese nationals to study the sciences, mathematics, medicine, and technology in the United States and to United States citizens to teach those subjects in Vietnam.
 
 Pub. L. 104–319, title I, § 103, Oct. 19, 1996, 110 Stat. 3865, as amended by Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2415, Oct. 21, 1998, 112 Stat. 2681–834; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 401], Nov. 29, 1999, 113 Stat. 1536, 1501A–445; Pub. L. 107–228, div. A, title II, § 222, Sept. 30, 2002, 116 Stat. 1367, authorized establishment of educational and cultural exchange programs between United States and people of Tibet and authorized scholarships for Tibetans and Burmese.
 
@@ -211,7 +211,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 <a id="section-2452b"></a>
 ## § 2452b. International expositions
-**(a) Limitation** Except as provided in subsection (b) of this section and notwithstanding any other provision of law, the Department of State may not obligate or expend any funds appropriated to the Department of State for a United States pavilion or other major exhibit at any international exposition or world’s fair registered by the Bureau of International Expositions in excess of amounts expressly authorized and appropriated for such purpose.
+**(a) Limitation** Except as provided in subsection (b) and notwithstanding any other provision of law, the Department of State may not obligate or expend any funds appropriated to the Department of State for a United States pavilion or other major exhibit at any international exposition or world’s fair registered by the Bureau of International Expositions in excess of amounts expressly authorized and appropriated for such purpose.
 
 **(b) Exceptions**
 
@@ -482,7 +482,7 @@ Sec. 8. Waivers. (a) It is hereby determined that the performance by any departm
 
 (9) Sections 302–305 of the Federal Property and Administrative Services Act of 1949 (June 30, 1949, c. 288, 63 Stat. 393 et seq.), as amended ([41 U.S.C. 252–255](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section252–255&num=0&edition=prelim)) (competitive bids; negotiated contracts; advances).
 
-(10) Section 87 of the Act of January 12, 1895, c. 23, 28 Stat. 622, and the second proviso of Section 11 of the Act of March 1, 1919, c. 86, 40 Stat. 1270, as amended ([44 U.S.C. 111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section111&num=0&edition=prelim)) [[section 501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim), Public Printing and Documents] to the extent that they pertain to printing by the Government Printing Office.
+(10) Section 87 of the Act of January 12, 1895, c. 23, 28 Stat. 622, and the second proviso of Section 11 of the Act of March 1, 1919, c. 86, 40 Stat. 1270, as amended ([44 U.S.C. 111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section111&num=0&edition=prelim)) [[section 501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim), Public Printing and Documents] to the extent that they pertain to printing by the Government Printing Office [now Government Publishing Office].
 
 (11) Section 1 of the Act of June 20, 1978, c. 359, 20 Stat. 216, as amended ([44 U.S.C. 322](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section322&num=0&edition=prelim)) [[section 3703 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3703&num=0&edition=prelim)] (advertising).
 
@@ -863,7 +863,7 @@ Sec. 6. This Order shall be effective on April 1, 1978.
 
 **(g) Working Group on United States Government-Sponsored International Exchanges and Training**
 
-(1) In order to carry out the purposes of subsection (f) of this section and to improve the coordination, efficiency, and effectiveness of United States Government-sponsored international exchanges and training, there is established within the Department of State a senior-level interagency working group to be known as the Working Group on United States Government-Sponsored International Exchanges and Training (in this section referred to as the “Working Group”).
+(1) In order to carry out the purposes of subsection (f) and to improve the coordination, efficiency, and effectiveness of United States Government-sponsored international exchanges and training, there is established within the Department of State a senior-level interagency working group to be known as the Working Group on United States Government-Sponsored International Exchanges and Training (in this section referred to as the “Working Group”).
 
 (2) For purposes of this subsection, the term “Government-sponsored international exchanges and training” means the movement of people between countries to promote the sharing of ideas, to develop skills, and to foster mutual understanding and cooperation, financed wholly or in part, directly or indirectly, with United States Government funds.
 
@@ -1035,9 +1035,9 @@ In subsec. (a), independent states of the former Soviet Union and independent st
 
 <a id="section-2462"></a>
 ## § 2462. Establishment of grant program for foreign study by American college students of limited financial means
-**(a) Establishment** Subject to the availability of appropriations and under the authorities of the Mutual Educational and Cultural Exchange Act of 1961 [[22 U.S.C. 2451](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) et seq.], the Secretary of State shall establish and carry out a program in each fiscal year to award grants of up to $5,000, to individuals who meet the requirements of subsection (b) of this section, toward the cost of up to one academic year of undergraduate study abroad. Grants under this Act shall be known as the “Benjamin A. Gilman International Scholarships”.
+**(a) Establishment** Subject to the availability of appropriations and under the authorities of the Mutual Educational and Cultural Exchange Act of 1961 [[22 U.S.C. 2451](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) et seq.], the Secretary of State shall establish and carry out a program in each fiscal year to award grants of up to $5,000, to individuals who meet the requirements of subsection (b), toward the cost of up to one academic year of undergraduate study abroad. Grants under this Act shall be known as the “Benjamin A. Gilman International Scholarships”.
 
-**(b) Eligibility** An individual referred to in subsection (a) of this section is an individual who—
+**(b) Eligibility** An individual referred to in subsection (a) is an individual who—
 
 (1) is a student in good standing at an institution of higher education in the United States (as defined in section 101(a) of the Higher Education Act of 1965 [[20 U.S.C. 1001(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)]);
 
@@ -1081,11 +1081,11 @@ Of each amount transferred to the Bureau of Educational and Cultural Affairs out
 
 <a id="section-2464"></a>
 ## § 2464. Ethical issues in international health research
-**(a) In general** The Secretary shall make available funds for international exchanges to provide opportunities to researchers in developing countries to participate in activities related to ethical issues in human subject research, as described in subsection (c) of this section.
+**(a) In general** The Secretary shall make available funds for international exchanges to provide opportunities to researchers in developing countries to participate in activities related to ethical issues in human subject research, as described in subsection (c).
 
 **(b) Coordination with other programs** The Secretary shall coordinate programs conducted pursuant to this section with similar programs that may be conducted by the United States Agency for International Development and other Federal agencies as part of United States international health programs, particularly with respect to research and treatment of infectious diseases.
 
-**(c) Ethical issues in human subject research** For purposes of subsection (a) of this section, the phrase “activities related to ethical issues in human subject research” includes courses of study, conferences, and fora on development of and compliance with international ethical standards for clinical trials involving human subjects, particularly with respect to responsibilities of researchers to individuals and local communities participating in such trials, and on management and monitoring of such trials based on such international ethical standards.
+**(c) Ethical issues in human subject research** For purposes of subsection (a), the phrase “activities related to ethical issues in human subject research” includes courses of study, conferences, and fora on development of and compliance with international ethical standards for clinical trials involving human subjects, particularly with respect to responsibilities of researchers to individuals and local communities participating in such trials, and on management and monitoring of such trials based on such international ethical standards.
 
 ### Statutory Notes
 

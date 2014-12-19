@@ -87,7 +87,7 @@ The head of each Federal agency shall establish and maintain an active, continui
 
 (1) effective controls over the creation and over the maintenance and use of records in the conduct of current business;
 
-(2) cooperation with the Administrator of General Services and the Archivist in applying standards, procedures, and techniques designed to improve the management of records, promote the maintenance and security of records deemed appropriate for preservation, and facilitate the segregation and disposal of records of temporary value; and
+(2) cooperation with the Archivist in applying standards, procedures, and techniques designed to improve the management of records, promote the maintenance and security of records deemed appropriate for preservation, and facilitate the segregation and disposal of records of temporary value; and
 
 (3) compliance with sections 2101–2117, 2501–2507, 2901–2909, and 3101–3107, of this title and the regulations issued under them.
 
@@ -97,6 +97,8 @@ The head of each Federal agency shall establish and maintain an active, continui
 Based on 44 U.S. Code, 1964 ed., § 396(b) (June 30, 1949, ch. 288, title V, § 506(b), as added Sept. 5, 1950, ch. 849, § 6(d), 64 Stat. 583).
 
 #### Amendments
+2014—Par. (2). Pub. L. 113–187 struck out “the Administrator of General Services and” before “the Archivist”.
+
 1984—Pars. (2), (3). Pub. L. 98–497 inserted “and the Archivist” after “Administrator of General Services” in par. (2), and substituted “sections 2101–2117” for “sections 2101–2113” and struck out “2701,” before “2901” in par. (3).
 
 1976—Pub. L. 94–575, § 3(a)(1), (2), substituted in par. (1) “the creation and over the maintenance” for “the creation, maintenance,” and in par. (3) reference to sections “2901–2909” for “2901, 2903–2909” of this title.
@@ -108,7 +110,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 <a id="section-3103"></a>
 ## § 3103. Transfer of records to records centers
 
-When the head of a Federal agency determines that such action may affect substantial economies or increased operating efficiency, he shall provide for the transfer of records to a records center maintained and operated by the Archivist, or, when approved by the Archivist, to a center maintained and operated by the head of the Federal agency.
+When the head of a Federal agency determines that such action may affect substantial economies or increased operating efficiency, the head of such agency shall provide for the transfer of records to a records center maintained and operated by the Archivist, or, when approved by the Archivist, to a center maintained and operated by the head of the Federal agency.
 
 ### Statutory Notes
 
@@ -116,6 +118,8 @@ When the head of a Federal agency determines that such action may affect substan
 A prior section 3103, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1298, contained provisions similar to those comprising this section, prior to repeal by Pub. L. 94–575, § 3(a)(3).
 
 #### Amendments
+2014—Pub. L. 113–187 substituted “the head of such agency” for “he”.
+
 1984—Pub. L. 98–497 substituted “Archivist” for “Administrator” wherever appearing.
 
 #### Effective Date of 1984 Amendment
@@ -125,7 +129,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 <a id="section-3104"></a>
 ## § 3104. Certifications and determinations on transferred records
 
-An official of the Government who is authorized to certify to facts on the basis of records in his custody, may certify to facts on the basis of records that have been transferred by him or his predecessors to the Archivist, and may authorize the Archivist to certify to facts and to make administrative determinations on the basis of records transferred to the Archivist, notwithstanding any other law.
+An official of the Government who is authorized to certify to facts on the basis of records in such official’s custody, may certify to facts on the basis of records that have been transferred by such official or such official’s predecessors to the Archivist, and may authorize the Archivist to certify to facts and to make administrative determinations on the basis of records transferred to the Archivist, notwithstanding any other law.
 
 ### Statutory Notes
 
@@ -133,6 +137,8 @@ An official of the Government who is authorized to certify to facts on the basis
 Based on 44 U.S. Code, 1964 ed., § 396(d) (June 30, 1949, ch. 288, title V, § 506(d), as added Sept. 5, 1950, ch. 849, § 6(d), 64 Stat. 583, and amended Feb. 5, 1964, Pub. L. 88–265, 78 Stat. 8).
 
 #### Amendments
+2014—Pub. L. 113–187 substituted “such official’s custody” for “his custody” and “such official or such official’s predecessors” for “him or his predecessors”.
+
 1984—Pub. L. 98–497 substituted “Archivist” for “Administrator of General Services” and “Archivist” for “Administrator” wherever appearing.
 
 #### Effective Date of 1984 Amendment
@@ -142,7 +148,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 <a id="section-3105"></a>
 ## § 3105. Safeguards
 
-The head of each Federal agency shall establish safeguards against the removal or loss of records he determines to be necessary and required by regulations of the Archivist. Safeguards shall include making it known to officials and employees of the agency—
+The head of each Federal agency shall establish safeguards against the removal or loss of records the head of such agency determines to be necessary and required by regulations of the Archivist. Safeguards shall include making it known to officials and employees of the agency—
 
 (1) that records in the custody of the agency are not to be alienated or destroyed except in accordance with sections 3301–3314 of this title, and
 
@@ -150,10 +156,15 @@ The head of each Federal agency shall establish safeguards against the removal o
 
 ### Statutory Notes
 
+#### References in Text
+Sections 3304 to 3307 of this title, included in the reference in par. (1) to sections 3301 to 3314 of this title, were repealed by Pub. L. 91–287, § 2(c), June 23, 1970, 84 Stat. 321.
+
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 396(e) (June 30, 1949, ch. 288, title V, § 506(e), as added Sept. 5, 1950, ch. 849, § 6(d), 64 Stat. 583).
 
 #### Amendments
+2014—Pub. L. 113–187 substituted “the head of such agency” for “he” in introductory provisions.
+
 1984—Pub. L. 98–497 substituted “Archivist” for “Administrator of General Services”.
 
 #### Effective Date of 1984 Amendment
@@ -162,8 +173,9 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 <a id="section-3106"></a>
 ## § 3106. Unlawful removal, destruction of records
+**(a) Federal Agency Notification.—** The head of each Federal agency shall notify the Archivist of any actual, impending, or threatened unlawful removal, defacing, alteration, corruption, deletion, erasure, or other destruction of records in the custody of the agency, and with the assistance of the Archivist shall initiate action through the Attorney General for the recovery of records the head of the Federal agency knows or has reason to believe have been unlawfully removed from that agency, or from another Federal agency whose records have been transferred to the legal custody of that Federal agency.
 
-The head of each Federal agency shall notify the Archivist of any actual, impending, or threatened unlawful removal, defacing, alteration, or destruction of records in the custody of the agency of which he is the head that shall come to his attention, and with the assistance of the Archivist shall initiate action through the Attorney General for the recovery of records he knows or has reason to believe have been unlawfully removed from his agency, or from another Federal agency whose records have been transferred to his legal custody. In any case in which the head of the agency does not initiate an action for such recovery or other redress within a reasonable period of time after being notified of any such unlawful action, the Archivist shall request the Attorney General to initiate such an action, and shall notify the Congress when such a request has been made.
+**(b) Archivist Notification.—** In any case in which the head of a Federal agency does not initiate an action for such recovery or other redress within a reasonable period of time after being notified of any such unlawful action described in subsection (a), or is participating in, or believed to be participating in any such unlawful action, the Archivist shall request the Attorney General to initiate such an action, and shall notify the Congress when such a request has been made.
 
 ### Statutory Notes
 
@@ -171,6 +183,8 @@ The head of each Federal agency shall notify the Archivist of any actual, impend
 Based on 44 U.S. Code, 1964 ed., § 396(f) (June 30, 1949, ch. 288, title V, § 506(f), as added Sept. 5, 1950, ch. 849, § 6(d), 64 Stat. 583).
 
 #### Amendments
+2014—Pub. L. 113–187 amended section generally. Prior to amendment, text read as follows: “The head of each Federal agency shall notify the Archivist of any actual, impending, or threatened unlawful removal, defacing, alteration, or destruction of records in the custody of the agency of which he is the head that shall come to his attention, and with the assistance of the Archivist shall initiate action through the Attorney General for the recovery of records he knows or has reason to believe have been unlawfully removed from his agency, or from another Federal agency whose records have been transferred to his legal custody. In any case in which the head of the agency does not initiate an action for such recovery or other redress within a reasonable period of time after being notified of any such unlawful action, the Archivist shall request the Attorney General to initiate such an action, and shall notify the Congress when such a request has been made.”
+
 1984—Pub. L. 98–497, § 107(b)(21), substituted “Archivist” for “Administrator of General Services” and “Archivist” for “Administrator”.
 
 Pub. L. 98–497, § 203(b), inserted at end “In any case in which the head of the agency does not initiate an action for such recovery or other redress within a reasonable period of time after being notified of any such unlawful action, the Archivist shall request the Attorney General to initiate such an action, and shall notify the Congress when such a request has been made.”

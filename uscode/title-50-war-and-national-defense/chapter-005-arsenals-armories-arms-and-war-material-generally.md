@@ -19,7 +19,7 @@ Section 53, R.S. § 1665, required an annual account of expenses of national arm
 
 Section 54, acts Aug. 18, 1890, ch. 797, § 2, 26 Stat. 320; Aug. 7, 1946, ch. 770, § 1(52), 60 Stat. 870, related to accounts of cost of type and experimental manufacture of guns and other articles.
 
-Section 55, R.S. § 1666, authorized Secretary of War to abolish useless or unnecessary arsenals. See [section 4532 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4532&num=0&edition=prelim), Armed Forces.
+Section 55, R.S. § 1666, authorized Secretary of War to abolish useless or unnecessary arsenals.
 
 Section 56, R.S. § 1669, provided for forfeitures by reason of misconduct of workmen in armories.
 
@@ -459,11 +459,14 @@ Pub. L. 102–484, div. C, title XXXIII, § 3315, Oct. 23, 1992, 106 Stat. 2654,
 
 (2) If for any fiscal year the President proposes certain stockpile transactions in the annual materials plan submitted to Congress for that year under [section 98h–2(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–2/b&num=0&edition=prelim) and after that plan is submitted the President proposes (or Congress requires) a significant change in any such transaction, or a significant transaction not included in such plan, no amount may be obligated or expended for such transaction during such year until the President has submitted a full statement of the proposed transaction to the appropriate committees of Congress and a period of 45 days has passed from the date of the receipt of such statement by such committees.
 
-**(b) Disposal** Except for disposals made under the authority of paragraph (3), (4), or (5) of [section 98e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a&num=0&edition=prelim) or under [section 98f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98f/a&num=0&edition=prelim), no disposal may be made from the stockpile unless such disposal, including the quantity of the material to be disposed of, has been specifically authorized by law.
+**(b) Disposal** Except for disposals made under the authority of paragraph (3), (4), or (5) 11 See References in Text note below. of [section 98e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a&num=0&edition=prelim) or under [section 98f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98f/a&num=0&edition=prelim), no disposal may be made from the stockpile unless such disposal, including the quantity of the material to be disposed of, has been specifically authorized by law.
 
 **(c) Authorization of appropriations** There is authorized to be appropriated such sums as may be necessary to provide for the transportation, processing, refining, storage, security, maintenance, rotation, and disposal of materials contained in or acquired for the stockpile. Funds appropriated for such purposes shall remain available to carry out the purposes for which appropriated for a period of two fiscal years, if so provided in appropriation Acts.
 
 ### Statutory Notes
+
+#### References in Text
+Paragraph (5) of [section 98e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a&num=0&edition=prelim), referred to in subsec. (b), was redesignated paragraph (6) of [section 98e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a&num=0&edition=prelim) by Pub. L. 113–66, div. A, title XIV, § 1411(a), Dec. 26, 2013, 127 Stat. 934.
 
 #### Prior Provisions
 A prior section 98d, acts June 7, 1939, ch. 190, § 5, 53 Stat. 812; July 23, 1946, ch. 590, 60 Stat. 598, related to release of stock pile materials, prior to repeal by section 2(a) of Pub. L. 96–41. See [section 98f of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98f).
@@ -501,6 +504,8 @@ Pub. L. 99–145, title XVI, § 1612, Nov. 8, 1985, 99 Stat. 776, as amended by 
 
 #### Materials in the National Defense Stockpile
 Provisions relating to certain materials in the National Defense Stockpile were contained in the following acts:
+
+Pub. L. 113–66, div. A, title XIV, § 1412, Dec. 26, 2013, 127 Stat. 934.
 
 Pub. L. 110–181, div. A, title XIV, §§ 1413, 1414, Jan. 28, 2008, 122 Stat. 418, 419.
 
@@ -580,9 +585,11 @@ Cancellation of obligation of General Services Administration to Federal Facilit
 
 (4) provide for the rotation of any material in the stockpile when necessary to prevent deterioration or technological obsolescence of such material by replacement of such material with an equivalent quantity of substantially the same material or better material;
 
-(5) subject to the notification required by subsection (d)(2) of this section, provide for the timely disposal of materials in the stockpile that (A) are excess to stockpile requirements, and (B) may cause a loss to the Government if allowed to deteriorate; and
+(5) provide for the appropriate recovery of any strategic and critical materials under [section 98b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98b/a&num=0&edition=prelim) that may be available from excess materials made available for recovery purposes by other Federal agencies;
 
-(6) subject to the provisions of [section 98d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/b&num=0&edition=prelim), dispose of materials in the stockpile the disposal of which is specifically authorized by law.
+(6) subject to the notification required by subsection (d)(2) of this section, provide for the timely disposal of materials in the stockpile that (A) are excess to stockpile requirements, and (B) may cause a loss to the Government if allowed to deteriorate; and
+
+(7) subject to the provisions of [section 98d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/b&num=0&edition=prelim), dispose of materials in the stockpile the disposal of which is specifically authorized by law.
 
 **(b) Federal procurement practices** Except as provided in subsections (c) and (d) of this section, acquisition of strategic and critical materials under this subchapter shall be made in accordance with established Federal procurement practices, and, except as provided in subsections (c) and (d) of this section and in [section 98f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98f/a&num=0&edition=prelim), disposal of strategic and critical materials from the stockpile shall be made in accordance with the next sentence. To the maximum extent feasible—
 
@@ -616,6 +623,8 @@ A prior section 98e, acts June 7, 1939, ch. 190, § 6, 53 Stat. 812; May 28, 194
 Provisions similar to those in this section were contained in former [section 98b of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98b) prior to repeal by Pub. L. 96–41.
 
 #### Amendments
+2013—Subsec. (a)(5) to (7). Pub. L. 113–66 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+
 1999—Subsec. (d)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1997—Subsec. (b). Pub. L. 105–85, in first sentence, substituted “strategic and critical materials from the stockpile shall be made in accordance with the next sentence” for “materials from the stockpile shall be made by formal advertising or competitive negotiation procedures”.
@@ -741,7 +750,7 @@ Functions of President under subsec. (a) of this section delegated to Secretary 
 
 **(b) Fund operations**
 
-(1) All moneys received from the sale of materials in the stockpile under paragraphs (5) and (6) of [section 98e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a&num=0&edition=prelim) shall be covered into the fund.
+(1) All moneys received from the sale of materials in the stockpile under paragraphs (5) and (6) of [section 98e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a&num=0&edition=prelim) 11 See References in Text note below. shall be covered into the fund.
 
 (2) Subject to [section 98d(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/a/1&num=0&edition=prelim), moneys covered into the fund under paragraph (1) are hereby made available (subject to such limitations as may be provided in appropriation Acts) for the following purposes:
 
@@ -751,27 +760,29 @@ Functions of President under subsec. (a) of this section delegated to Secretary 
 
   (C) Development of current specifications of stockpile materials and the upgrading of existing stockpile materials to meet current specifications (including transportation, when economical, related to such upgrading).
 
-  (D) Testing and quality studies of stockpile materials.
+  (D) Encouraging the appropriate conservation of strategic and critical materials.
 
-  (E) Studying future material and mobilization requirements for the stockpile.
+  (E) Testing and quality studies of stockpile materials.
 
-  (F) Activities authorized under [section 98h–6 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98h-6).
+  (F) Studying future material and mobilization requirements for the stockpile.
 
-  (G) Contracting under competitive procedures for materials development and research to—
+  (G) Activities authorized under [section 98h–6 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98h-6).
+
+  (H) Contracting under competitive procedures for materials development and research to—
 
     (i) improve the quality and availability of materials stockpiled from time to time in the stockpile; and
 
     (ii) develop new materials for the stockpile.
 
-  (H) Improvement or rehabilitation of facilities, structures, and infrastructure needed to maintain the integrity of stockpile materials.
+  (I) Improvement or rehabilitation of facilities, structures, and infrastructure needed to maintain the integrity of stockpile materials.
 
-  (I) Disposal of hazardous materials that are stored in the stockpile and authorized for disposal by law.
+  (J) Disposal of hazardous materials that are stored in the stockpile and authorized for disposal by law.
 
-  (J) Performance of environmental remediation, restoration, waste management, or compliance activities at locations of the stockpile that are required under a Federal law or are undertaken by the Government under an administrative decision or negotiated agreement.
+  (K) Performance of environmental remediation, restoration, waste management, or compliance activities at locations of the stockpile that are required under a Federal law or are undertaken by the Government under an administrative decision or negotiated agreement.
 
-  (K) Pay of employees of the National Defense Stockpile program.
+  (L) Pay of employees of the National Defense Stockpile program.
 
-  (L) Other expenses of the National Defense Stockpile program.
+  (M) Other expenses of the National Defense Stockpile program.
 
 (3) Moneys in the fund shall remain available until expended.
 
@@ -787,10 +798,15 @@ Functions of President under subsec. (a) of this section delegated to Secretary 
 
 ### Statutory Notes
 
+#### References in Text
+Paragraphs (5) and (6) of [section 98e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a&num=0&edition=prelim), referred to in subsec. (b)(1), were redesignated as paragraphs (6) and (7) of [section 98e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a&num=0&edition=prelim) by Pub. L. 113–66, div. A, title XIV, § 1411(a), Dec. 26, 2013, 127 Stat. 934.
+
 #### Prior Provisions
 A prior section 98h, act June 7, 1939, ch. 190, § 9, as added July 23, 1946, ch. 590, 60 Stat. 600, related to disposition of receipts, prior to repeal by section 2(a) of Pub. L. 96–41. See [section 98h(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h/b/1&num=0&edition=prelim).
 
 #### Amendments
+2013—Subsec. (b)(2)(D) to (M). Pub. L. 113–66 added subpar. (D) and redesignated former subpars. (D) to (L) as (E) to (M), respectively.
+
 1998—Subsec. (b)(2)(J) to (L). Pub. L. 105–261 added subpar. (J) and redesignated former subpars. (J) and (K) as (K) and (L), respectively.
 
 1993—Subsec. (b)(2)(J), (K). Pub. L. 103–160, § 3313(a), added subpars. (J) and (K).
@@ -901,7 +917,7 @@ Pub. L. 102–484, div. C, title XXXIII, § 3306, Oct. 23, 1992, 106 Stat. 2652,
 
 (1) Not later than February 15 of each year, the President shall submit to the appropriate committees of the Congress a report containing an annual materials plan for the operation of the stockpile during the next fiscal year and the succeeding four fiscal years.
 
-(2) Each such report shall include details of all planned expenditures from the National Defense Stockpile Transaction Fund during such period (including expenditures to be made from appropriations from the general fund of the Treasury) and of anticipated receipts from proposed disposals of stockpile materials during such period. Each such report shall also contain details regarding the materials development and research projects to be conducted under [section 98h(b)(2)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h/b/2/G&num=0&edition=prelim) during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.
+(2) Each such report shall include details of all planned expenditures from the National Defense Stockpile Transaction Fund during such period (including expenditures to be made from appropriations from the general fund of the Treasury) and of anticipated receipts from proposed disposals of stockpile materials during such period. Each such report shall also contain details regarding the materials development and research projects to be conducted under [section 98h(b)(2)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h/b/2/H&num=0&edition=prelim) during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.
 
 (3) Any proposed expenditure or disposal detailed in the annual materials plan for any such fiscal year, and any expenditure or disposal proposed in connection with any transaction submitted for such fiscal year to the appropriate committees of Congress pursuant to [section 98d(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/a/2&num=0&edition=prelim), that is not obligated or executed in that fiscal year may not be obligated or executed until such proposed expenditure or disposal is resubmitted in a subsequent annual materials plan or is resubmitted to the appropriate committees of Congress in accordance with [section 98d(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/a/2&num=0&edition=prelim), as appropriate.
 
@@ -913,6 +929,8 @@ A prior section 11 of act June 7, 1939, ch. 190, formerly § 10, as added July 2
 Provisions similar to those in this section were contained in former [section 98c of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98c) prior to repeal by Pub. L. 96–41.
 
 #### Amendments
+2014—Subsec. (b)(2). Pub. L. 113–291 substituted “under section 98h(b)(2)(H)” for “under section 98h(b)(2)(G)”.
+
 1993—Subsec. (a)(1). Pub. L. 103–35 substituted “fiscal year” for “six-month period”.
 
 1991—Subsec. (a). Pub. L. 102–190, § 3313(a)(1), substituted “Not later than January 15 of each year, the President” for “The President” and “an annual” for “every six months a”.
@@ -1029,7 +1047,7 @@ Pub. L. 102–190, div. C, title XXXIII, § 3313(b)(3), Dec. 5, 1991, 105 Stat. 
 
 <a id="section-98h-6"></a>
 ## § 98h–6. Development of domestic sources
-**(a) Purchase of materials of domestic origin; processing of materials in domestic facilities** Subject to subsection (c) of this section and to the extent the President determines such action is required for the national defense, the President shall encourage the development of domestic sources for materials determined pursuant to [section 98b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98b/a&num=0&edition=prelim) to be strategic and critical materials—
+**(a) Purchase of materials of domestic origin; processing of materials in domestic facilities** Subject to subsection (c) of this section and to the extent the President determines such action is required for the national defense, the President shall encourage the development and appropriate conservation of domestic sources for materials determined pursuant to [section 98b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98b/a&num=0&edition=prelim) to be strategic and critical materials—
 
 (1) by purchasing, or making a commitment to purchase, strategic and critical materials of domestic origin when such materials are needed for the stockpile; and
 
@@ -1050,6 +1068,11 @@ Pub. L. 102–190, div. C, title XXXIII, § 3313(b)(3), Dec. 5, 1991, 105 Stat. 
 (2) other incidental expenses related to carrying out such subsection.
 
 **(e) Reports** The President shall include in the reports required under [section 98h–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–2/a&num=0&edition=prelim) information with respect to activities conducted under this section.
+
+### Statutory Notes
+
+#### Amendments
+2013—Subsec. (a). Pub. L. 113–66 inserted “and appropriate conservation” after “development” in introductory provisions.
 
 
 <a id="section-98h-7"></a>

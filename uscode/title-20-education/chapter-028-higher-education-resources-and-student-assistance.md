@@ -83,6 +83,9 @@ Pub. L. 96–374, title XIII, § 1393, Oct. 3, 1980, 94 Stat. 1504, provided tha
 #### Effective Date of 1976 Amendment
 Pub. L. 94–482, title V, § 532, Oct. 12, 1976, 90 Stat. 2241, provided that: “The provisions of this Act [see Tables for classification] and the amendments made by this Act shall take effect 30 days after the date of the enactment of this Act [Oct. 12, 1976] except— “(1) as specifically otherwise provided; and “(2) that each amendment made by this Act (not subject to clause (1) of this section) providing for authorization of appropriations shall take effect July 1, 1976.”
 
+#### Short Title of 2013 Amendment
+Pub. L. 113–28, § 1, Aug. 9, 2013, 127 Stat. 506, provided that: “This Act [amending [section 1087e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087e) and enacting provisions set out as a note under [section 1087e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087e)] may be cited as the ‘Bipartisan Student Loan Certainty Act of 2013’.”
+
 #### Short Title of 2010 Amendment
 Pub. L. 111–152, title II, § 2001(a), Mar. 30, 2010, 124 Stat. 1071, provided that: “This subtitle [subtitle A (§§ 2001–2213) of title II of Pub. L. 111–152, enacting [section 1087i–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087i-2), amending sections 1002, 1067q, 1070a, 1070a–14, 1071, 1074, 1077a, 1078, 1078–2, 1078–3, 1078–8, 1085, 1087–1, 1087b, 1087d, 1087e, 1087f, 1087h, 1090, 1092f, 1098e, 1141, and 1161y of this title, enacting provisions set out as notes under sections 1002, 1070a, 1087d, and 1087e of this title, and repealing provisions set out as a note under [section 1078 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078)] may be cited as the ‘SAFRA Act’.”
 
@@ -869,7 +872,7 @@ A prior section 1011b, Pub. L. 89–329, title I, § 123, as added Pub. L. 102�
 
   (D) a list of the functions of the Committee, including any additional functions established by the Secretary through regulation.
 
-**(f) Termination** The Committee shall terminate on September 30, 2014.
+**(f) Termination** The Committee shall terminate on September 30, 2015.
 
 ### Statutory Notes
 
@@ -882,6 +885,8 @@ Provisions similar to this section were contained in [section 1145 of this title
 A prior section 1011c, Pub. L. 89–329, title I, § 124, as added Pub. L. 102–325, title I, § 101, July 23, 1992, 106 Stat. 463, related to local applications for grants, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 #### Amendments
+2014—Subsec. (f). Pub. L. 113–174 substituted “2015” for “2014”.
+
 2008—Pub. L. 110–315 amended section generally, revising provisions relating to the National Advisory Committee on Institutional Quality and Integrity and extending its termination date from Sept. 30, 2004, to September 30, 2014.
 
 #### Effective Date of 2008 Amendment
@@ -2528,8 +2533,6 @@ Section 1018e, Pub. L. 89–329, title I, § 146, as added Pub. L. 100–418, ti
 
 Section 1018f, Pub. L. 89–329, title I, § 147, as added Pub. L. 100–418, title VI, § 6201, Aug. 23, 1988, 102 Stat. 1516, defined “public community agency”, “institution of higher education” and “Secretary”.
 
-A prior section 1019, Pub. L. 89–329, title I, § 119, as added Pub. L. 96–374, title I, § 101(a), Oct. 3, 1980, 94 Stat. 1383, authorized appropriations for education outreach programs, prior to the general amendment of this subchapter by Pub. L. 99–498.
-
 
 <a id="section-1019"></a>
 ## § 1019. Definitions
@@ -2591,6 +2594,11 @@ In this part:
     (ii) arrangements or agreements with respect to loans that originate through the auction pilot program under [section 1099d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1099d/b&num=0&edition=prelim).
 
 (9) **Private education loan** — The term “private education loan” has the meaning given the term in [section 1650 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1650&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 1019, Pub. L. 89–329, title I, § 119, as added Pub. L. 96–374, title I, § 101(a), Oct. 3, 1980, 94 Stat. 1383, authorized appropriations for education outreach programs, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 
 <a id="section-1019a"></a>
@@ -5610,7 +5618,9 @@ Term of President’s Board of Advisors on Historically Black Colleges and Unive
 
 Term of President’s Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of President’s Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President’s Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of President’s Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Determinations Regarding President’s Board of Advisors
 Memorandum of the President of the United States, Aug. 17, 1990, 55 F.R. 46491, provided:
@@ -7735,6 +7745,9 @@ The funds appropriated under [section 1068h of this title](./chapter-028-higher-
 
 ### Statutory Notes
 
+#### Codification
+Section was formerly classified to [section 1069c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1069c&num=0&edition=prelim) prior to renumbering by Pub. L. 105–244.
+
 #### Amendments
 2008—Pub. L. 110–315 substituted “1068h of this title” for “1069f of this title” in introductory provisions.
 
@@ -7883,7 +7896,7 @@ Pub. L. 102–25, title III, part E (§§ 371–376), Apr. 6, 1991, 105 Stat. 93
 
     (i) the maximum Federal Pell Grant, as specified in the last enacted appropriation Act applicable to that award year, plus
 
-    (ii) the amount of the increase calculated under paragraph (7)(B) for that year, less
+    (ii) the amount of the increase calculated under paragraph (7)(B) for that year 11 So in original. Probably should be followed by a comma. except that a student eligible only under 1091(d)(1)(A) 22 So in original. Probably should be preceded by “section”. of this title who first enrolls in an eligible program of study on or after July 1, 2015 shall not be eligible for the amount of the increase calculated under paragraph (7)(B), less
 
     (iii) an amount equal to the amount determined to be the expected family contribution with respect to that student for that year.
 
@@ -8045,6 +8058,8 @@ A prior section 401 of Pub. L. 89–329 was renumbered section 400 by section 40
 Another prior section 401 of Pub. L. 89–329, title IV, as added and amended Pub. L. 92–318, title I, § 131(b)(1), title X, § 1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, § 125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, § 401, title XIII, § 1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, which stated purpose of program of grants to students in attendance at institutions of higher education, was classified to [section 1070 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070), prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+2014—Subsec. (b)(2)(A)(ii). Pub. L. 113–235 inserted “except that a student eligible only under 1091(d)(1)(A) of this title who first enrolls in an eligible program of study on or after July 1, 2015 shall not be eligible for the amount of the increase calculated under paragraph (7)(B)” after “year”.
+
 2011—Subsec. (b)(2)(A)(ii). Pub. L. 112–10, § 1860(a)(1), substituted “paragraph (7)(B)” for “paragraph (8)(B)”.
 
 Subsec. (b)(4). Pub. L. 112–74, § 309(a)(1), substituted period at end for “, except that a student who is eligible for a Federal Pell Grant in an amount that is equal to or greater than five percent of such Federal Pell Grant amount but less than ten percent of such Federal Pell Grant amount shall be awarded a Federal Pell grant in the amount of ten percent of such Federal Pell Grant amount.”
@@ -8333,6 +8348,10 @@ Pub. L. 99–498, title XIII, § 1306, Oct. 17, 1986, 100 Stat. 1582, directed S
 
 #### Maximum Pell Grants
 Provisions limiting the maximum Pell grant that a student may receive were contained in the following appropriation acts:
+
+Pub. L. 113–235, div. G, title III, Dec. 16, 2014, 128 Stat. 2501.
+
+Pub. L. 113–76, div. H, title III, Jan. 17, 2014, 128 Stat. 396.
 
 Pub. L. 112–74, div. F, title III, Dec. 23, 2011, 125 Stat. 1097.
 
@@ -11158,6 +11177,9 @@ A prior section 1070d–1d, Pub. L. 89–329, title IV, § 417F, as added Pub. L
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 113–128, title V, §§ 506, 512(n)(1), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsections (b)(1)(B)(ii) and (c)(1)(A) of this section are amended by striking “[section 2912 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2912&num=0&edition=prelim)” and inserting “[section 3222 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3222&num=0&edition=prelim)”. See 2014 Amendment note below.
+
 #### References in Text
 The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B)(ii) and (c)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part C of title I of the Act is classified generally to part C (§ 6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
@@ -11169,6 +11191,8 @@ Another prior section 1070d–2, Pub. L. 89–329, title IV, § 418A, as added P
 A prior section 1070d–3, Pub. L. 89–329, title IV, § 418B, as added Pub. L. 94–482, title I, § 125, Oct. 12, 1976, 90 Stat. 2097, related to administration by States of Educational Information Centers program, prior to repeal by Pub. L. 96–374, title I, § 101(b), Oct. 3, 1980, 94 Stat. 1383, eff. Oct. 1, 1980.
 
 #### Amendments
+2014—Subsecs. (b)(1)(B)(ii), (c)(1)(A). Pub. L. 113–128 substituted “[section 3222 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3222&num=0&edition=prelim)” for “[section 2912 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2912&num=0&edition=prelim)”.
+
 2008—Subsec. (b)(1)(B)(i). Pub. L. 110–315, § 408(1)(A), substituted “immediate family” for “parents”.
 
 Subsec. (b)(3)(B). Pub. L. 110–315, § 408(1)(B), inserted “(including preparation for college entrance examinations)” after “junior college program”.
@@ -11232,6 +11256,9 @@ Subsec. (e). Pub. L. 102–325, § 405(c), substituted “Five-year” for “Th
 Subsec. (g). Pub. L. 102–325, § 405(d), amended subsec. (g) generally, substituting present provisions for former provisions which authorized appropriations for fiscal years 1987 through 1991.
 
 1987—Subsec. (g). Pub. L. 100–50 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “There is authorized to be appropriated for this part $9,000,000 for fiscal year 1987, and such sums as may be necessary for the 4 succeeding fiscal years.”
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendments
 Amendment by section 101(f) [title VIII, § 405(d)(15)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(12)(A)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.
@@ -14443,7 +14470,7 @@ Subsec. (k)(3). Pub. L. 102–325, § 416(s), added par. (3).
 
 Subsec. (m). Pub. L. 102–325, § 416(t), added subsec. (m).
 
-1991—Subsec. (a)(2)(A)(iii). Pub. L. 102–164, § 602(b)(1), added cl. (iii).
+1991—Subsec. (a)(2)(A)(iii). Pub. L. 102–164, § 602(b)(1), added cl. (iii). Amendment was executed by striking “and” at end of cl. (i)(III) to reflect the probable intent of Congress notwithstanding directory language directing the striking of “and” at end of cl. (i)(I).
 
 Subsec. (a)(2)(F). Pub. L. 102–26 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “Except as provided in subparagraph (D), an eligible institution may not, in carrying out the provisions of subparagraphs (A) and (B) of this paragraph, refuse to provide to any eligible lender which has an agreement under subsection (b) of this section with any guaranty agency, a statement which permits a student to receive any loan under this part, except that, in individual cases where the institution determines that the portion of the student’s expenses to be covered by the loan can be met more appropriately, either by the institution or directly by the student, from other sources, the institution may refuse to provide such statement or may reduce the determination of need contained in such statement.”
 
@@ -15231,7 +15258,7 @@ Pub. L. 111–148, title V, § 5205(a), Mar. 23, 2010, 124 Stat. 611, provided t
 
       (VI) [section 300d–53 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300d–53&num=0&edition=prelim); or
 
-      (VII) [section 15461 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15461&num=0&edition=prelim);
+      (VII) [section 21061 of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section21061&num=0&edition=prelim);
 
   (B) as such employee, provides civil legal assistance as described in subparagraph (A) on a full-time basis; and
 
@@ -15349,15 +15376,17 @@ The Protection and Advocacy for Individuals with Mental Illness Act, referred to
 
   (A) *Parent borrowers* — Whenever necessary to carry out the provisions of this section, the terms “student” and “borrower” as used in this part shall include a parent borrower under this section.
 
-  (B) *(i) Extenuating circumstances* — An eligible lender may determine that extenuating circumstances exist under the regulations promulgated pursuant to paragraph (1)(A) if, during the period beginning January 1, 2007, and ending December 31, 2009, an applicant for a loan under this section—
+  (B)
 
-    (I) is or has been delinquent for 180 days or fewer on mortgage loan payments or on medical bill payments during such period; and
+    (i) *Extenuating circumstances* — An eligible lender may determine that extenuating circumstances exist under the regulations promulgated pursuant to paragraph (1)(A) if, during the period beginning January 1, 2007, and ending December 31, 2009, an applicant for a loan under this section—
 
-    (II) does not otherwise have an adverse credit history, as determined by the lender in accordance with the regulations promulgated pursuant to paragraph (1)(A), as such regulations were in effect on the day before May 7, 2008.
+      (I) is or has been delinquent for 180 days or fewer on mortgage loan payments or on medical bill payments during such period; and
 
-  (ii) *Definition of mortgage loan* — In this subparagraph, the term “mortgage loan” means an extension of credit to a borrower that is secured by the primary residence of the borrower.
+      (II) does not otherwise have an adverse credit history, as determined by the lender in accordance with the regulations promulgated pursuant to paragraph (1)(A), as such regulations were in effect on the day before May 7, 2008.
 
-  (iii) *Rule of construction* — Nothing in this subparagraph shall be construed to limit an eligible lender’s authority under the regulations promulgated pursuant to paragraph (1)(A) to determine that extenuating circumstances exist.
+    (ii) *Definition of mortgage loan* — In this subparagraph, the term “mortgage loan” means an extension of credit to a borrower that is secured by the primary residence of the borrower.
+
+    (iii) *Rule of construction* — Nothing in this subparagraph shall be construed to limit an eligible lender’s authority under the regulations promulgated pursuant to paragraph (1)(A) to determine that extenuating circumstances exist.
 
 **(b) Limitation based on need** Any loan under this section may be counted as part of the expected family contribution in the determination of need under this subchapter and part C of subchapter I of chapter 34 of title 42, but no loan may be made to any graduate or professional student or any parent under this section for any academic year in excess of (A) the student’s estimated cost of attendance, minus (B) other financial aid as certified by the eligible institution under [section 1078(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078/a/2/A&num=0&edition=prelim). The annual insurable limit on account of any student shall not be deemed to be exceeded by a line of credit under which actual payments to the borrower will not be made in any year in excess of the annual limit.
 
@@ -16081,11 +16110,7 @@ Section, Pub. L. 89–329, title IV, § 428E, as added Pub. L. 99–498, title I
 
     (i) if practicable, sell the loan to an eligible lender; or
 
-    (ii) on or before September 30, 2011, assign the loan to the Secretary if—
-
-      (I) the Secretary has determined that market conditions unduly limit a guaranty agency’s ability to sell loans under clause (i); and
-
-      (II) the guaranty agency has been unable to sell loans under clause (i).
+    (ii) beginning July 1, 2014, assign the loan to the Secretary if the guaranty agency has been unable to sell the loan under clause (i).
 
   (B) *Monthly payments* — Neither the guaranty agency nor the Secretary shall demand from a borrower as monthly payment amounts described in subparagraph (A) more than is reasonable and affordable based on the borrower’s total financial circumstances.
 
@@ -16095,11 +16120,11 @@ Section, Pub. L. 89–329, title IV, § 428E, as added Pub. L. 99–498, title I
 
     (i) the guaranty agency—
 
-      (I) shall repay the Secretary 81.5 percent of the amount of the principal balance outstanding at the time of such sale, multiplied by the reinsurance percentage in effect when payment under the guaranty agreement was made with respect to the loan; and
+      (I) shall, in the case of a sale made on or after July 1, 2014, repay the Secretary 100 percent of the amount of the principal balance outstanding at the time of such sale, multiplied by the reinsurance percentage in effect when payment under the guaranty agreement was made with respect to the loan; and
 
-      (II) may, in order to defray collection costs—
+      (II) may, in the case of a sale made on or after July 1, 2014, in order to defray collection costs—
 
-        (aa) charge to the borrower an amount not to exceed 18.5 percent of the outstanding principal and interest at the time of the loan sale; and
+        (aa) charge to the borrower an amount not to exceed 16 percent of the outstanding principal and interest at the time of the loan sale; and
 
         (bb) retain such amount from the proceeds of the loan sale; and
 
@@ -16137,6 +16162,22 @@ Section, Pub. L. 89–329, title IV, § 428E, as added Pub. L. 99–498, title I
 Title IV, referred to in subsec. (b), means title IV of the Higher Education Act of 1965, Pub. L. 89–329, which is classified generally to this subchapter and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of title IV to the Code, see Tables.
 
 #### Amendments
+2013—Subsec. (a)(1)(A)(ii). Pub. L. 113–67, § 501(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “on or before September 30, 2011, assign the loan to the Secretary if—
+
+“(I) the Secretary has determined that market conditions unduly limit a guaranty agency’s ability to sell loans under clause (i); and
+
+“(II) the guaranty agency has been unable to sell loans under clause (i).”
+
+Subsec. (a)(1)(D)(i). Pub. L. 113–67, § 501(2), added cl. (i) and struck out former cl. (i) which read as follows: “the guaranty agency—
+
+“(I) shall repay the Secretary 81.5 percent of the amount of the principal balance outstanding at the time of such sale, multiplied by the reinsurance percentage in effect when payment under the guaranty agreement was made with respect to the loan; and
+
+“(II) may, in order to defray collection costs—
+
+“(aa) charge to the borrower an amount not to exceed 18.5 percent of the outstanding principal and interest at the time of the loan sale; and
+
+“(bb) retain such amount from the proceeds of the loan sale; and”.
+
 2009—Subsec. (a)(1). Pub. L. 111–39, § 402(d)(1)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) related to the sale of a loan by a guaranty agency or the Secretary.
 
 Subsec. (a)(2). Pub. L. 111–39, § 402(d)(1)(A)(ii), substituted “paragraph (1)(A)(i)” for “paragraph (1) of this subsection” and “paragraph (1)(D)(ii)(I)” for “paragraph (1)(B)(ii) of this subsection”.
@@ -16176,6 +16217,9 @@ Subsec. (b). Pub. L. 102–325, § 420(4), added subsec. (b). Former subsec. (b)
 1989—Pub. L. 101–239 amended section generally, substituting provisions relating to default reduction program for former provisions relating to rehabilitation of defaulted loans.
 
 1987—Subsecs. (b), (c). Pub. L. 100–50 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The loans which shall be eligible for rehabilitation under this section shall be only those loans which are made to borrowers who, at the time of default on the loan, are unemployed or institutionalized.”
+
+#### Effective Date of 2013 Amendment
+Pub. L. 113–67, div. A, title V, § 501, Dec. 26, 2013, 127 Stat. 1186, provided that the amendments made by section 501 of Pub. L. 113–67 are effective July 1, 2014.
 
 #### Effective Date of 2009 Amendment
 Pub. L. 111–39, title IV, § 402(d)(2), July 1, 2009, 123 Stat. 1942, provided that: “The amendments made by paragraph (1) [amending this section] shall be effective on the date of enactment of this Act [July 1, 2009], and shall apply to any loan on which monthly payments described in section 428F(a)(1)(A) [[42 U.S.C. 1078–6(a)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1078–6/a/1/A&num=0&edition=prelim)] were paid before, on, or after such date of enactment.”
@@ -18888,7 +18932,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 **(d) Limitation on use of interest bearing accounts** In carrying out the provisions of subsection (a)(9) of this section, the Secretary may not require that any collection agency, collection attorney, or loan servicer collecting loans made under this part deposit amounts collected on such loans in interest bearing accounts, unless such agency, attorney, or servicer holds such amounts for more than 45 days.
 
-**(e) Special due diligence rule** In carrying out the provisions of subsection (a)(5) 1 of this section relating to due diligence, the Secretary shall make every effort to ensure that institutions of higher education may use Internal Revenue Service skip-tracing collection procedures on loans made under this part.
+**(e) Special due diligence rule** In carrying out the provisions of subsection (a)(5) 11 See References in Text note below. of this section relating to due diligence, the Secretary shall make every effort to ensure that institutions of higher education may use Internal Revenue Service skip-tracing collection procedures on loans made under this part.
 
 ### Statutory Notes
 
@@ -19629,13 +19673,13 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
     (ii) 2.3 percent,
     except that such rate shall not exceed 8.25 percent.
 
-(7) **Interest rate provision for new loans on or after July 1, 2006**
+(7) **Interest rate provision for new loans on or after July 1, 2006 and before July 1, 2013**
 
-  (A) *Rates for FDSL and FDUSL* — Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after July 1, 2006, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
+  (A) *Rates for FDSL and FDUSL* — Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after July 1, 2006, and before July 1, 2013, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
 
-  (B) *PLUS loans* — Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct PLUS loan for which the first disbursement is made on or after July 1, 2006, the applicable rate of interest shall be 7.9 percent on the unpaid principal balance of the loan.
+  (B) *PLUS loans* — Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct PLUS loan for which the first disbursement is made on or after July 1, 2006, and before July 1, 2013, the applicable rate of interest shall be 7.9 percent on the unpaid principal balance of the loan.
 
-  (C) *Consolidation loans* — Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
+  (C) *Consolidation loans* — Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, and before July 1, 2013, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
 
     (i) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of one percent; or
 
@@ -19653,7 +19697,33 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 
     (v) For a loan for which the first disbursement is made on or after July 1, 2011, and before July 1, 2013, 3.4 percent on the unpaid principal balance of the loan.
 
-(8) **Repayment incentives**
+(8) **Interest rate provisions for new loans on or after July 1, 2013**
+
+  (A) *Rates for undergraduate FDSL and FDUSL* — Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans issued to undergraduate students, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
+
+    (i) a rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to such June 1 plus 2.05 percent; or
+
+    (ii) 8.25 percent.
+
+  (B) *Rates for graduate and professional FDUSL* — Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Unsubsidized Stafford Loans issued to graduate or professional students, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
+
+    (i) a rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to such June 1 plus 3.6 percent; or
+
+    (ii) 9.5 percent.
+
+  (C) *PLUS loans* — Notwithstanding the preceding paragraphs of this subsection, for Federal Direct PLUS Loans, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
+
+    (i) a rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to such June 1 plus 4.6 percent; or
+
+    (ii) 10.5 percent.
+
+  (D) *Consolidation loans* — Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation Loan for which the application is received on or after July 1, 2013, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of one percent.
+
+  (E) *Consultation* — The Secretary shall determine the applicable rate of interest under this paragraph after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
+
+  (F) *Rate* — The applicable rate of interest determined under this paragraph for a Federal Direct Stafford Loan, a Federal Direct Unsubsidized Stafford Loan, or a Federal Direct PLUS Loan shall be fixed for the period of the loan.
+
+(9) **Repayment incentives**
 
   (A) *Incentives for loans disbursed before July 1, 2012* — Notwithstanding any other provision of this part 11 So in original. Probably should be followed by a comma. with respect to loans for which the first disbursement of principal is made before July 1, 2012,,22 So in original. The second comma probably should not appear. the Secretary is authorized to prescribe by regulation such reductions in the interest rate or origination fee paid by a borrower of a loan made under this part as the Secretary determines appropriate to encourage on-time repayment of the loan. Such reductions may be offered only if the Secretary determines the reductions are cost neutral and in the best financial interest of the Federal Government. Any increase in subsidy costs resulting from such reductions shall be completely offset by corresponding savings in funds available for the William D. Ford Federal Direct Loan Program in that fiscal year from [section 1087h of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087h) and other administrative accounts.
 
@@ -19661,7 +19731,7 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 
   (C) *No repayment incentives for new loans disbursed on or after July 1, 2012* — Notwithstanding any other provision of this part, the Secretary is prohibited from authorizing or providing any repayment incentive not otherwise authorized under this part to encourage on-time repayment of a loan under this part for which the first disbursement of principal is made on or after July 1, 2012, including any reduction in the interest or origination fee rate paid by a borrower of such a loan, except that the Secretary may provide for an interest rate reduction for a borrower who agrees to have payments on such a loan automatically electronically debited from a bank account.
 
-(9) **Publication** — The Secretary shall determine the applicable rates of interest under this subsection after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
+(10) **Publication** — The Secretary shall determine the applicable rates of interest under this subsection after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
 
 **(c) Loan fee**
 
@@ -19891,6 +19961,12 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
+2013—Subsec. (b)(7). Pub. L. 113–28, § 2(a)(1)(A), inserted “and before July 1, 2013” after “on or after July 1, 2006” in heading.
+
+Subsec. (b)(7)(A) to (C). Pub. L. 113–28, § 2(a)(1)(B)–(D), inserted “and before July 1, 2013,” after “on or after July 1, 2006,”.
+
+Subsec. (b)(8) to (10). Pub. L. 113–28, § 2(a)(2), (3), added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
+
 2012—Subsec. (b)(7)(D). Pub. L. 112–141, § 100301(1), substituted “and before July 1, 2013,” for “and before July 1, 2012,” in introductory provisions.
 
 Subsec. (b)(7)(D)(v). Pub. L. 112–141, § 100301(2), substituted “and before July 1, 2013,” for “and before July 1, 2012,”.
@@ -19994,6 +20070,9 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, § 401(g)(6), substituted “Federal
 1993—Pub. L. 103–66 amended section generally, substituting provisions relating to terms and conditions of loans for former provisions relating to withdrawal and termination procedures.
 
 1992—Pub. L. 102–325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
+
+#### Effective Date of 2013 Amendment
+Pub. L. 113–28, § 2(b), Aug. 9, 2013, 127 Stat. 507, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if enacted on July 1, 2013.”
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–152, title II, § 2211(b), Mar. 30, 2010, 124 Stat. 1078, provided that: “The amendment made by subsection (a)(1) [amending this section] shall apply with respect to loans first disbursed under part D of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.) on or after July 1, 2010.”
@@ -20228,30 +20307,6 @@ Subsection (a)(2)(E) of this section applicable only to loans made to cover the 
 
 (3) **Rule of construction** — Nothing in this section shall be construed as a limitation of the authority of any State agency to enter into an agreement for the purposes of this section as a member of a consortium of State agencies.
 
-(4) **Servicing by eligible not-for-profit servicers**
-
-  (A) *Servicing contracts*
-
-    (i) *In general* — The Secretary shall contract with each eligible not-for-profit servicer to service loans originated under this part, if the servicer—
-
-      (I) meets the standards for servicing Federal assets that apply to contracts awarded pursuant to paragraph (1); and
-
-      (II) has the capacity to service the applicable loan volume allocation described in subparagraph (B).
-
-    (ii) *Competitive market rate determination for first 100,000 borrower accounts* — The Secretary shall establish a separate pricing tier for each of the first 100,000 borrower loan accounts at a competitive market rate.
-
-    (iii) *Ineligibility* — An eligible not-for-profit servicer shall no longer be eligible for a contract under this paragraph after July 1, 2014, if—
-
-      (I) the servicer has not been awarded such a contract before that date; or
-
-      (II) the servicer’s contract was terminated, and the servicer had not reapplied for, and been awarded, a contract under this paragraph.
-
-  (B) *Allocations*
-
-    (i) *In general* — The Secretary shall (except as provided in clause (ii)) allocate to an eligible not-for-profit servicer, subject to the contract of such servicer described in subparagraph (A), the servicing rights for the loan accounts of 100,000 borrowers (including borrowers who borrowed loans in a prior year that were serviced by the servicer).
-
-    (ii) *Servicer allocation* — The Secretary may reallocate, increase, reduce, or terminate an eligible not-for-profit servicer’s allocation of servicing rights under clause (i) based on the performance of such servicer, on the same terms as loan allocations provided by contracts awarded pursuant to paragraph (1).
-
 **(b) Contracts for origination, servicing, and data systems** The Secretary may enter into contracts for—
 
 (1) the alternative origination of loans to students attending institutions of higher education with agreements to participate in the program under this part (or their parents), if such institutions do not have agreements with the Secretary under [section 1087d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087d/b&num=0&edition=prelim);
@@ -20262,53 +20317,13 @@ Subsection (a)(2)(E) of this section applicable only to loans made to cover the 
 
 (4) such other aspects of the direct student loan program as the Secretary determines are necessary to ensure the successful operation of the program.
 
-**(c) Definition of eligible not-for-profit servicer** In this section:
-
-(1) **In general** — The term “eligible not-for-profit servicer” means an entity—
-
-  (A) that is not owned or controlled in whole or in part by—
-
-    (i) a for-profit entity; or
-
-    (ii) a nonprofit entity having its principal place of business in another State; and
-
-  (B) that—
-
-    (i) as of July 1, 2009—
-
-      (I) meets the definition of an eligible not-for-profit holder under [section 1085(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1085/p&num=0&edition=prelim), except that such term does not include eligible lenders described in paragraph (1)(D) of such section; and
-
-      (II) was performing, or had entered into a contract with a third party servicer (as such term is defined in [section 1088(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088/c&num=0&edition=prelim)) who was performing, student loan servicing functions for loans made under part B of this subchapter;
-
-    (ii) notwithstanding clause (i), as of July 1, 2009—
-
-      (I) is the sole beneficial owner of a loan for which the special allowance rate is calculated under [section 1087–1(b)(2)(I)(vi)(II) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–1/b/2/I/vi/II&num=0&edition=prelim) because the loan is held by an eligible lender trustee that is an eligible not-for-profit holder as defined under [section 1085(p)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1085/p/1/D&num=0&edition=prelim); and
-
-      (II) was performing, or had entered into a contract with a third party servicer (as such term is defined in [section 1088(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088/c&num=0&edition=prelim)) who was performing, student loan servicing functions for loans made under part B of this subchapter; or
-
-    (iii) is an affiliated entity of an eligible not-for-profit servicer described in clause (i) or (ii) that—
-
-      (I) directly employs, or will directly employ (on or before the date the entity begins servicing loans under a contract awarded by the Secretary pursuant to subsection (a)(3)(A)),11 So in original. Probably should be “subsection (a)(4)(A)),”. the majority of individuals who perform borrower-specific student loan servicing functions; and
-
-      (II) as of July 1, 2009, was performing, or had entered into a contract with a third party servicer (as such term is defined in [section 1088(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088/c&num=0&edition=prelim)) who was performing, student loan servicing functions for loans made under part B of this subchapter.
-
-(2) **Affiliated entity** — For the purposes of paragraph (1), the term “affiliated entity”—
-
-  (A) means an entity contracted to perform services for an eligible not-for-profit servicer that—
-
-    (i) is a nonprofit entity or is wholly owned by a nonprofit entity; and
-
-    (ii) is not owned or controlled, in whole or in part, by—
-
-      (I) a for-profit entity; or
-
-      (II) an entity having its principal place of business in another State; and
-
-  (B) may include an affiliated entity that is established by an eligible not-for-profit servicer after March 30, 2010, if such affiliated entity is otherwise described in paragraph (1)(B)(iii)(I) and subparagraph (A) of this paragraph.
-
 ### Statutory Notes
 
 #### Amendments
+2013—Subsec. (a)(4). Pub. L. 113–67, § 502(1)(A), struck out par. (4) which related to servicing by eligible not-for-profit servicers.
+
+Subsec. (c). Pub. L. 113–67, § 502(1)(B), struck out subsec. (c) which defined eligible not-for-profit servicer for purposes of this section.
+
 2010—Subsec. (a)(4). Pub. L. 111–152, § 2212(a)(1)(A), added par. (4).
 
 Subsec. (c). Pub. L. 111–152, § 2212(a)(2), added subsec. (c).
@@ -20438,7 +20453,7 @@ Pub. L. 105–244, title IV, § 467(b), Oct. 7, 1998, 112 Stat. 1728, provided t
   (B) account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsections (b) and (c),
   not to exceed (from such funds not otherwise appropriated) $820,000,000 in fiscal year 2006.
 
-(2) **Mandatory funds for eligible not-for-profit servicers** — For fiscal years 2010 through 2019, there shall be available to the Secretary, in addition to any other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated, funds to be obligated for administrative costs of servicing contracts with eligible not-for-profit servicers as described in [section 1087f of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087f).
+(2) **Repealed. Pub. L. 113–67, div. A, title V, § 502(2), Dec. 26, 2013, 127 Stat. 1187**
 
 (3) **Authorization for administrative costs beginning in fiscal years 2007 through 2014** — For each of the fiscal years 2007 through 2014, there are authorized to be appropriated such sums as may be necessary for administrative costs under this part and part B, including the costs of the direct student loan programs under this part.
 
@@ -20472,6 +20487,8 @@ Pub. L. 105–244, title IV, § 467(b), Oct. 7, 1998, 112 Stat. 1728, provided t
 Paragraph (3), referred to in subsec. (a)(5), was redesignated par. (4) by Pub. L. 111–152, § 2212(b)(1)(B).
 
 #### Amendments
+2013—Subsec. (a)(2). Pub. L. 113–67 struck out par. (2). Text read as follows: “For fiscal years 2010 through 2019, there shall be available to the Secretary, in addition to any other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated, funds to be obligated for administrative costs of servicing contracts with eligible not-for-profit servicers as described in [section 1087f of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087f).”
+
 2010—Subsec. (a)(2) to (8). Pub. L. 111–152, § 2212(b)(1), added pars. (2), (6), and (7) and redesignated former pars. (2), (3), (4), and (5) as (3), (4), (5), and (8), respectively.
 
 Subsec. (b). Pub. L. 111–152, § 2212(b)(2), substituted “subsection (a)(4)” for “subsection (a)(3)”.
@@ -20830,6 +20847,8 @@ For transition rules relating to amendments made by section 3(a)(1)(B) of Pub. L
 
 #### Effective Date
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+
+2014—Subsec. (d). Pub. L. 113–235 amended subsec. (d) generally. Prior to amendment, text of subsec. (d) read as follows: “In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, and D of this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law.”
 
 
 <a id="section-1087kk"></a>
@@ -21840,6 +21859,9 @@ An individual is not required to qualify or file for the earned income credit in
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)(1)
+Pub. L. 113–128, title V, §§ 506, 512(n)(2), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (d)(1) of this section is amended by striking “The term ‘dislocated worker’ has the meaning given the term in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)” and inserting “The term ‘dislocated worker’ has the meaning given the term in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)”. See 2014 Amendment note below.
+
 #### References in Text
 The Social Security Act, referred to in subsec. (d)(2)(A), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
@@ -21851,6 +21873,8 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2)(
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (d)(1). Pub. L. 113–128 substituted “The term ‘dislocated worker’ has the meaning given the term in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)” for “The term ‘dislocated worker’ has the meaning given the term in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)”.
+
 2011—Subsec. (c)(1)(B). Pub. L. 112–74, § 309(b)(1), substituted “$23,000” for “$30,000”.
 
 Subsec. (c)(2)(B). Pub. L. 112–74, § 309(b)(2), substituted “$23,000” for “$30,000”.
@@ -21937,6 +21961,9 @@ Subsec. (b)(6). Pub. L. 100–50, § 14(24)(B)–(D), added par. (6).
 
 Subsec. (c). Pub. L. 100–50, § 14(25), added subsec. (c).
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–74 effective July 1, 2012, see section 309(g) of Pub. L. 112–74, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
@@ -21984,10 +22011,15 @@ Pub. L. 109–171, title VIII, § 8018(b), Feb. 8, 2006, 120 Stat. 175, provided
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 113–128, title V, §§ 506, 512(n)(3), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a) of this section is amended by striking “a dislocated worker (as defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim))” and inserting “a dislocated worker (as defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim))”. See 2014 Amendment note below.
+
 #### Prior Provisions
 A prior section 1087tt, Pub. L. 89–329, title IV, § 479A, as added Pub. L. 99–498, title IV, § 406(a), Oct. 17, 1986, 100 Stat. 1472, related to discretion of student financial aid administrators under this part, prior to repeal by section 14(26) of Pub. L. 100–50.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–128 substituted “a dislocated worker (as defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim))” for “a dislocated worker (as defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim))”.
+
 2008—Subsec. (a). Pub. L. 110–315 substituted “medical, dental, or nursing home expenses” for “medical or dental expenses”, inserted “or dependent care” after “child care” and “student or” before “family member who is a dislocated worker”, and substituted “In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator in such cases (1) to request and use supplementary information about the financial status or personal circumstances of eligible applicants in selecting recipients and determining the amount of awards under this subchapter and part C of subchapter I of chapter 34 of title 42, or (2) to offer a dependent student financial assistance under [section 1078–8 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-8) or a Federal Direct Unsubsidized Stafford Loan without requiring the parents of such student to file the financial aid form prescribed under [section 1090 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1090) if the student financial aid administrator verifies that the parent or parents of such student have ended financial support of such student and refuse to file such form.” for “In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator in such cases to request and use supplementary information about the financial status or personal circumstances of eligible applicants in selecting recipients and determining the amount of awards under this subchapter and part C of subchapter I of chapter 34 of title 42.”
 
 2007—Subsec. (a). Pub. L. 110–84, in third sentence, substituted “family member or an independent student, a family member who is a dislocated worker (as defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)), the number of parents” for “family member, the number of parents” and inserted “a change in housing status that results in an individual being homeless (as defined in [section 11302 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11302&num=0&edition=prelim)),” after “under [section 1094 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1094),”.
@@ -22001,6 +22033,9 @@ Subsec. (c). Pub. L. 105–244, § 478(2), amended heading and text of subsec. (
 1992—Pub. L. 102–325 amended section generally, revising and restating provisions of subsecs. (a) and (b) and striking out former subsec. (c) which related to asset adjustment as example.
 
 1989—Subsec. (a). Pub. L. 101–239 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator, on the basis of adequate documentation, to make necessary adjustments to the cost of attendance and expected student or parent contribution (or both) to allow for treatment of individual students with special circumstances. In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator to use supplementary information about the financial status or personal circumstance of eligible applicants in selecting recipients and determining the amount of awards under subparts 1 and 2 of part A and parts B and D of this subchapter and part C of subchapter I of chapter 34 of title 42.”
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2007 Amendment
 Pub. L. 110–84, title VI, § 603(b), Sept. 27, 2007, 121 Stat. 806, as amended by Pub. L. 110–315, title IV, § 472(b), Aug. 14, 2008, 122 Stat. 3270, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of the Higher Education Opportunity Act [Aug. 14, 2008].”
@@ -22290,6 +22325,9 @@ As used in this part:
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(1)(I)
+Pub. L. 113–128, title V, §§ 506, 512(n)(4), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (b)(1)(I) of this section is amended by striking “benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and inserting “benefits received through participation in employment and training activities under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
+
 #### References in Text
 The National and Community Service Act of 1990, referred to in subsecs. (a)(2), (e)(3), and (j)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§ 12501 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act enacted subchapter I (§ 12511 et seq.) of chapter 129 of Title 42 and amended this section and [section 1070a–6 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a–6&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12501&num=0&edition=prelim) and Tables.
 
@@ -22309,6 +22347,8 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(1)(H)(iii
 Amendment by section 2(g)(19) of Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325) was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–82, to reflect the probable intent of Congress.
 
 #### Amendments
+2014—Subsec. (b)(1)(I). Pub. L. 113–128 substituted “benefits received through participation in employment and training activities under title I of the Workforce Innovation and Opportunity Act” for “benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
+
 2009—Subsec. (a)(2). Pub. L. 111–39, § 406(a)(6), substituted “12511” for “12571”.
 
 Subsec. (c)(2). Pub. L. 111–39, § 406(a)(7), substituted “benefits under the following provisions of law” for “the following” in introductory provisions, added subpars. (A) to (L), and struck out former subpars. (A) to (J) which listed, respectively, the following provisions of law: title 10, chapter 2; title 10, chapter 106; title 10, chapter 107; title 37, chapter 2; title 38, chapter 30; title 38, chapter 31; title 38, chapter 32; title 38, chapter 35; Public Law 97–376, section 156; and Public Law 96–342, section 903.
@@ -22416,6 +22456,9 @@ Subsecs. (b), (c). Pub. L. 100–50, § 14(28)(E), substituted subsec. (b) consi
 Subsec. (d)(2)(F). Pub. L. 100–50, § 14(28)(F), substituted “annual total resources (including all sources of resources other than parents)” for “an annual total income”.
 
 Subsecs. (f) to (h). Pub. L. 100–50, § 14(28)(G), added subsecs. (f) to (h).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -24520,6 +24563,13 @@ Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of 
 
 Subsec. (e) of this section applicable to student assistance awarded for periods of enrollment beginning on or after July 1, 1987, see section 407(b) of Pub. L. 99–498, set out as a note under [section 1091 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1091).
 
+#### Identification of Foster Youth on FAFSA
+Pub. L. 113–235, div. G, title III, § 308, Dec. 16, 2014, 128 Stat. 2504, provided that: “The Secretary of Education shall— “(1) modify the Free Application for Federal Student Aid described in section 483 of the HEA [Higher Education Act of 1965, [20 U.S.C. 1090](./chapter-028-higher-education-resources-and-student-assistance.md#section-1090)] so that the Free Application for Federal Student Aid contains an individual box for the purpose of identifying students who are foster youth or were in the foster care system; and “(2) utilize such identification as a tool to notify students who are foster youth or were in the foster care system of their potential eligibility for Federal student aid, including postsecondary education programs through the John H. Chafee Foster Care Independence Program and any other Federal programs under which such students may be eligible to receive assistance.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 113–76, div. H, title III, § 310, Jan. 17, 2014, 128 Stat. 400.
+
 #### Delayed Implementation of EZ FAFSA
 Pub. L. 111–39, title IV, § 407(a), July 1, 2009, 123 Stat. 1950, provided that: “Notwithstanding any other provision of law, the Secretary of Education shall be required to carry out the requirements under the following provisions of section 483 of the Higher Education Act of 1965 ([20 U.S.C. 1090](./chapter-028-higher-education-resources-and-student-assistance.md#section-1090)) only for academic year 2010–2011 and subsequent academic years: “(1) In subsection (a) of such section—“(A) subparagraphs (A)(i) and (B) of paragraph (2); “(B) in paragraph (3)—“(i) the second sentence of subparagraph (A); “(ii) clauses (i) and (ii) of subparagraph (B); and “(iii) subparagraph (C); “(C) paragraph (4)(A)(iv); and “(D) paragraph (5)(E). “(2) Subsection (h) of such section.”
 
@@ -24596,7 +24646,39 @@ Pub. L. 111–39, title IV, § 407(a), July 1, 2009, 123 Stat. 1950, provided th
 
   (C) special circumstances as determined by the institution.
 
-**(d) Students who are not high school graduates** In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, and D of this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law.
+**(d) Students who are not high school graduates**
+
+(1) **Student eligibility** — In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, and D of this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall meet the requirements of one of the following subparagraphs:
+
+  (A) The student is enrolled in an eligible career pathway program and meets one of the following standards:
+
+    (i) The student shall take an independently administered examination and shall achieve a score, specified by the Secretary, demonstrating that such student can benefit from the education or training being offered. Such examination shall be approved by the Secretary on the basis of compliance with such standards for development, administration, and scoring as the Secretary may prescribe in regulations.
+
+    (ii) The student shall be determined as having the ability to benefit from the education or training in accordance with such process as the State shall prescribe. Any such process described or approved by a State for the purposes of this section shall be effective 6 months after the date of submission to the Secretary unless the Secretary disapproves such process. In determining whether to approve or disapprove such process, the Secretary shall take into account the effectiveness of such process in enabling students without secondary school diplomas or the equivalent thereof to benefit from the instruction offered by institutions utilizing such process, and shall also take into account the cultural diversity, economic circumstances, and educational preparation of the populations served by the institutions.
+
+    (iii) The student shall be determined by the institution of higher education as having the ability to benefit from the education or training offered by the institution of higher education upon satisfactory completion of 6 credit hours or the equivalent coursework that are applicable toward a degree or certificate offered by the institution of higher education.
+
+  (B) The student has completed a secondary school education in a home school setting that is treated as a home school or private school under State law.
+
+(2) **Eligible career pathway program** — In this subsection, the term “eligible career pathway program” means a program that—
+
+  (A) concurrently enrolls participants in connected adult education and eligible postsecondary programs;
+
+  (B) provides counseling and supportive services to identify and attain academic and career goals;
+
+  (C) provides structured course sequences that—
+
+    (i) are articulated and contextualized; and
+
+    (ii) allow students to advance to higher levels of education and employment;
+
+  (D) provides opportunities for acceleration to attain recognized postsecondary credentials, including degrees, industry relevant certifications, and certificates of completion of apprenticeship programs;
+
+  (E) is organized to meet the needs of adults;
+
+  (F) is aligned with the education and skill needs of the regional economy; and
+
+  (G) has been developed and implemented in collaboration with partners in business, workforce development, and economic development.
 
 **(e) Certification for GSL eligibility** Each eligible institution may certify student eligibility for a loan by an eligible lender under part B of this subchapter prior to completing the review for accuracy of the information submitted by the applicant required by regulations issued under this subchapter and part C of subchapter I of chapter 34 of title 42, if—
 
@@ -24758,6 +24840,8 @@ A prior section 1091, Pub. L. 89–329, title IV, § 484, as added Pub. L. 96–
 Another prior section 1091, Pub. L. 89–329, title V, § 501, Nov. 8, 1965, 79 Stat. 1254; Pub. L. 90–35, § 2(c), June 29, 1967, 81 Stat. 82; Pub. L. 92–318, title I, § 141(b)(1), June 23, 1972, 86 Stat. 285, set forth statement of purpose and authorization of appropriations for education professions development program, prior to repeal effective Sept. 30, 1976, by Pub. L. 94–482, title I, § 151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
 #### Amendments
+2014—Subsec. (d). Pub. L. 113–235 amended subsec. (d) generally. Prior to amendment, text read as follows: “In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, and D of this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law.”
+
 2011—Subsec. (d). Pub. L. 112–74 struck out “meet one of the following standards:” after “the student shall”, substituted “have completed” for “(3) The student has completed”, and struck out pars. (1), (2) and (4), which required students to take an independently administered examination, required a State process, or required an institution of higher education, respectively, to determine ability of students to benefit from education or training.
 
 2009—Subsec. (a)(4). Pub. L. 111–39, § 407(b)(4)(A), substituted “certification,” for “certification,,” in introductory provisions.
@@ -24939,6 +25023,9 @@ Subsec. (f). Pub. L. 100–50, § 15(9), inserted at end “In carrying out prov
 Subsec. (d). Pub. L. 99–603 added subsec. (d) limiting enforcement actions against institutions.
 
 Subsec. (e). Pub. L. 99–603 added subsec. (e) relating to validity of loan guarantees for loan payments made before completion of immigration status verification.
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–235, div. G, title III, § 309(a)(2), Dec. 16, 2014, 128 Stat. 2506, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if such amendment was enacted on June 30, 2014, and shall apply to students who are enrolled or who first enroll in an eligible program of study on or after July 1, 2014.”
 
 #### Effective Date of 2011 Amendment
 Pub. L. 112–74, div. F, title III, § 309(c)(2), Dec. 23, 2011, 125 Stat. 1100, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to students who first enroll in a program of study on or after July 1, 2012.”
@@ -25564,7 +25651,7 @@ Section 1091f, Pub. L. 89–329, title V, § 507, as added Pub. L. 90–35, § 2
 
     (ii) the working relationship of campus security personnel with State and local law enforcement agencies, including whether the institution has agreements with such agencies, such as written memoranda of understanding, for the investigation of alleged criminal offenses; and
 
-    (iii) policies which encourage accurate and prompt reporting of all crimes to the campus police and the appropriate law enforcement agencies.
+    (iii) policies which encourage accurate and prompt reporting of all crimes to the campus police and the appropriate law enforcement agencies, when the victim of such crime elects or is unable to make such a report.
 
   (D) A description of the type and frequency of programs designed to inform students and employees about campus security procedures and practices and to encourage students and employees to be responsible for their own security and the security of others.
 
@@ -25588,17 +25675,19 @@ Section 1091f, Pub. L. 89–329, title V, § 507, as added Pub. L. 90–35, § 2
 
       (VII) manslaughter;
 
-      (VIII) arson; and
+      (VIII) arson;
 
       (IX) arrests or persons referred for campus disciplinary action for liquor law violations, drug-related violations, and weapons possession; and
 
-    (ii) of the crimes described in subclauses (I) through (VIII) of clause (i), of larceny-theft, simple assault, intimidation, and destruction, damage, or vandalism of property, and of other crimes involving bodily injury to any person, in which the victim is intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice.
+    (ii) of the crimes described in subclauses (I) through (VIII) of clause (i), of larceny-theft, simple assault, intimidation, and destruction, damage, or vandalism of property, and of other crimes involving bodily injury to any person, in which the victim is intentionally selected because of the actual or perceived race, gender, religion, national origin, sexual orientation, gender identity,,22 So in original. ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice; and
+
+    (iii) of domestic violence, dating violence, and stalking incidents that were reported to campus security authorities or local police agencies.
 
   (G) A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-campus student organizations which are recognized by the institution and that are engaged in by students attending the institution, including those student organizations with off-campus housing facilities.
 
   (H) A statement of policy regarding the possession, use, and sale of alcoholic beverages and enforcement of State underage drinking laws and a statement of policy regarding the possession, use, and sale of illegal drugs and enforcement of Federal and State drug laws and a description of any drug or alcohol abuse education programs as required under [section 1011i of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1011i).
 
-  (I) A statement advising the campus community where law enforcement agency information provided by a State under section 14071(j) 22 See References in Text note below. of title 42, concerning registered sex offenders may be obtained, such as the law enforcement office of the institution, a local law enforcement agency with jurisdiction for the campus, or a computer network address.
+  (I) A statement advising the campus community where law enforcement agency information provided by a State under section 14071(j) 33 See References in Text note below. of title 42, concerning registered sex offenders may be obtained, such as the law enforcement office of the institution, a local law enforcement agency with jurisdiction for the campus, or a computer network address.
 
   (J) A statement of current campus policies regarding immediate emergency response and evacuation procedures, including the use of electronic and cellular communication (if appropriate), which policies shall include procedures to—
 
@@ -25610,7 +25699,7 @@ Section 1091f, Pub. L. 89–329, title V, § 507, as added Pub. L. 90–35, § 2
 
 (2) Nothing in this subsection shall be construed to authorize the Secretary to require particular policies, procedures, or practices by institutions of higher education with respect to campus crimes or campus security.
 
-(3) Each institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42, other than a foreign institution of higher education, shall make timely reports to the campus community on crimes considered to be a threat to other students and employees described in paragraph (1)(F) that are reported to campus security or local law police agencies. Such reports shall be provided to students and employees in a manner that is timely and that will aid in the prevention of similar occurrences.
+(3) Each institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42, other than a foreign institution of higher education, shall make timely reports to the campus community on crimes considered to be a threat to other students and employees described in paragraph (1)(F) that are reported to campus security or local law police agencies. Such reports shall be provided to students and employees in a manner that is timely, that withholds the names of victims as confidential, and that will aid in the prevention of similar occurrences.
 
 (4)
 
@@ -25640,55 +25729,103 @@ Section 1091f, Pub. L. 89–329, title V, § 507, as added Pub. L. 90–35, § 2
 
   (A) In this subsection:
 
-    (i) The term “campus” means—
+    (i) The terms “dating violence”, “domestic violence”, and “stalking” have the meaning given such terms in [section 13925(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13925/a&num=0&edition=prelim).
+
+    (ii) The term “campus” means—
 
       (I) any building or property owned or controlled by an institution of higher education within the same reasonably contiguous geographic area of the institution and used by the institution in direct support of, or in a manner related to, the institution’s educational purposes, including residence halls; and
 
       (II) property within the same reasonably contiguous geographic area of the institution that is owned by the institution but controlled by another person, is used by students, and supports institutional purposes (such as a food or other retail vendor).
 
-    (ii) The term “noncampus building or property” means—
+    (iii) The term “noncampus building or property” means—
 
       (I) any building or property owned or controlled by a student organization recognized by the institution; and
 
       (II) any building or property (other than a branch campus) owned or controlled by an institution of higher education that is used in direct support of, or in relation to, the institution’s educational purposes, is used by students, and is not within the same reasonably contiguous geographic area of the institution.
 
-    (iii) The term “public property” means all public property that is within the same reasonably contiguous geographic area of the institution, such as a sidewalk, a street, other thoroughfare, or parking facility, and is adjacent to a facility owned or controlled by the institution if the facility is used by the institution in direct support of, or in a manner related to the institution’s educational purposes.
+    (iv) The term “public property” means all public property that is within the same reasonably contiguous geographic area of the institution, such as a sidewalk, a street, other thoroughfare, or parking facility, and is adjacent to a facility owned or controlled by the institution if the facility is used by the institution in direct support of, or in a manner related to the institution’s educational purposes.
+
+    (v) The term “sexual assault” means an offense classified as a forcible or nonforcible sex offense under the uniform crime reporting system of the Federal Bureau of Investigation.
 
   (B) In cases where branch campuses of an institution of higher education, schools within an institution of higher education, or administrative divisions within an institution are not within a reasonably contiguous geographic area, such entities shall be considered separate campuses for purposes of the reporting requirements of this section.
 
-(7) The statistics described in paragraph (1)(F) shall be compiled in accordance with the definitions used in the uniform crime reporting system of the Department of Justice, Federal Bureau of Investigation, and the modifications in such definitions as implemented pursuant to the Hate Crime Statistics Act. Such statistics shall not identify victims of crimes or persons accused of crimes.
+(7) The statistics described in clauses (i) and (ii) of paragraph (1)(F) shall be compiled in accordance with the definitions used in the uniform crime reporting system of the Department of Justice, Federal Bureau of Investigation, and the modifications in such definitions as implemented pursuant to the Hate Crime Statistics Act. For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in [section 13925(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13925/a&num=0&edition=prelim). Such statistics shall not identify victims of crimes or persons accused of crimes.
 
 (8)
 
-  (A) Each institution of higher education participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42, other than a foreign institution of higher education, shall develop and distribute as part of the report described in paragraph (1) a statement of policy regarding—
+  (A) Each institution of higher education participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 and title IV of the Economic Opportunity Act of 1964,3 other than a foreign institution of higher education, shall develop and distribute as part of the report described in paragraph (1) a statement of policy regarding—
 
-    (i) such institution’s campus sexual assault programs, which shall be aimed at prevention of sex offenses; and
+    (i) such institution’s programs to prevent domestic violence, dating violence, sexual assault, and stalking; and
 
-    (ii) the procedures followed once a sex offense has occurred.
+    (ii) the procedures that such institution will follow once an incident of domestic violence, dating violence, sexual assault, or stalking has been reported, including a statement of the standard of evidence that will be used during any institutional conduct proceeding arising from such a report.
 
   (B) The policy described in subparagraph (A) shall address the following areas:
 
-    (i) Education programs to promote the awareness of rape, acquaintance rape, and other sex offenses.
+    (i) Education programs to promote the awareness of rape, acquaintance rape, domestic violence, dating violence, sexual assault, and stalking, which shall include—
 
-    (ii) Possible sanctions to be imposed following the final determination of an on-campus disciplinary procedure regarding rape, acquaintance rape, or other sex offenses, forcible or nonforcible.
+      (I) primary prevention and awareness programs for all incoming students and new employees, which shall include—
 
-    (iii) Procedures students should follow if a sex offense occurs, including who should be contacted, the importance of preserving evidence as may be necessary to the proof of criminal sexual assault, and to whom the alleged offense should be reported.
+        (aa) a statement that the institution of higher education prohibits the offenses of domestic violence, dating violence, sexual assault, and stalking;
 
-    (iv) Procedures for on-campus disciplinary action in cases of alleged sexual assault, which shall include a clear statement that—
+        (bb) the definition of domestic violence, dating violence, sexual assault, and stalking in the applicable jurisdiction;
 
-      (I) the accuser and the accused are entitled to the same opportunities to have others present during a campus disciplinary proceeding; and
+        (cc) the definition of consent, in reference to sexual activity, in the applicable jurisdiction;
 
-      (II) both the accuser and the accused shall be informed of the outcome of any campus disciplinary proceeding brought alleging a sexual assault.
+        (dd) safe and positive options for bystander intervention that may be carried out by an individual to prevent harm or intervene when there is a risk of domestic violence, dating violence, sexual assault, or stalking against a person other than such individual;
 
-    (v) Informing students of their options to notify proper law enforcement authorities, including on-campus and local police, and the option to be assisted by campus authorities in notifying such authorities, if the student so chooses.
+        (ee) information on risk reduction to recognize warning signs of abusive behavior and how to avoid potential attacks; and
 
-    (vi) Notification of students of existing counseling, mental health or student services for victims of sexual assault, both on campus and in the community.
+        (ff) the information described in clauses (ii) through (vii); and
 
-    (vii) Notification of students of options for, and available assistance in, changing academic and living situations after an alleged sexual assault incident, if so requested by the victim and if such changes are reasonably available.
+      (II) ongoing prevention and awareness campaigns for students and faculty, including information described in items (aa) through (ff) of subclause (I).
 
-  (C) Nothing in this paragraph shall be construed to confer a private right of action upon any person to enforce the provisions of this paragraph.
+    (ii) Possible sanctions or protective measures that such institution may impose following a final determination of an institutional disciplinary procedure regarding rape, acquaintance rape, domestic violence, dating violence, sexual assault, or stalking.
 
-(9) The Secretary shall provide technical assistance in complying with the provisions of this section to an institution of higher education who requests such assistance.
+    (iii) Procedures victims should follow if a sex offense, domestic violence, dating violence, sexual assault, or stalking has occurred, including information in writing about—
+
+      (I) the importance of preserving evidence as may be necessary to the proof of criminal domestic violence, dating violence, sexual assault, or stalking, or in obtaining a protection order;
+
+      (II) to whom the alleged offense should be reported;
+
+      (III) options regarding law enforcement and campus authorities, including notification of the victim’s option to—
+
+        (aa) notify proper law enforcement authorities, including on-campus and local police;
+
+        (bb) be assisted by campus authorities in notifying law enforcement authorities if the victim so chooses; and
+
+        (cc) decline to notify such authorities; and
+
+      (IV) where applicable, the rights of victims and the institution’s responsibilities regarding orders of protection, no contact orders, restraining orders, or similar lawful orders issued by a criminal, civil, or tribal court.
+
+    (iv) Procedures for institutional disciplinary action in cases of alleged domestic violence, dating violence, sexual assault, or stalking, which shall include a clear statement that—
+
+      (I) such proceedings shall—
+
+        (aa) provide a prompt, fair, and impartial investigation and resolution; and
+
+        (bb) be conducted by officials who receive annual training on the issues related to domestic violence, dating violence, sexual assault, and stalking and how to conduct an investigation and hearing process that protects the safety of victims and promotes accountability;
+
+      (II) the accuser and the accused are entitled to the same opportunities to have others present during an institutional disciplinary proceeding, including the opportunity to be accompanied to any related meeting or proceeding by an advisor of their choice; and
+
+      (III) both the accuser and the accused shall be simultaneously informed, in writing, of—
+
+        (aa) the outcome of any institutional disciplinary proceeding that arises from an allegation of domestic violence, dating violence, sexual assault, or stalking;
+
+        (bb) the institution’s procedures for the accused and the victim to appeal the results of the institutional disciplinary proceeding;
+
+        (cc) of any change to the results that occurs prior to the time that such results become final; and
+
+        (dd) when such results become final.
+
+    (v) Information about how the institution will protect the confidentiality of victims, including how publicly-available recordkeeping will be accomplished without the inclusion of identifying information about the victim, to the extent permissible by law.
+
+    (vi) Written notification of students and employees about existing counseling, health, mental health, victim advocacy, legal assistance, and other services available for victims both on-campus and in the community.
+
+    (vii) Written notification of victims about options for, and available assistance in, changing academic, living, transportation, and working situations, if so requested by the victim and if such accommodations are reasonably available, regardless of whether the victim chooses to report the crime to campus police or local law enforcement.
+
+  (C) A student or employee who reports to an institution of higher education that the student or employee has been a victim of domestic violence, dating violence, sexual assault, or stalking, whether the offense occurred on or off campus, shall be provided with a written explanation of the student or employee’s rights and options, as described in clauses (ii) through (vii) of subparagraph (B).
+
+(9) The Secretary, in consultation with the Attorney General of the United States, shall provide technical assistance in complying with the provisions of this section to an institution of higher education who requests such assistance.
 
 (10) Nothing in this section shall be construed to require the reporting or disclosure of privileged information.
 
@@ -25718,9 +25855,13 @@ Section 1091f, Pub. L. 89–329, title V, § 507, as added Pub. L. 90–35, § 2
 
 (15) The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of higher education, including an up-to-date report on the Secretary’s monitoring of such compliance.
 
-(16) The Secretary may seek the advice and counsel of the Attorney General concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.
+(16)
 
-(17) Nothing in this subsection shall be construed to permit an institution, or an officer, employee, or agent of an institution, participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 to retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual with respect to the implementation of any provision of this subsection.
+  (A) The Secretary shall seek the advice and counsel of the Attorney General of the United States concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.
+
+  (B) The Secretary shall seek the advice and counsel of the Attorney General of the United States and the Secretary of Health and Human Services concerning the development, and dissemination to institutions of higher education, of best practices information about preventing and responding to incidents of domestic violence, dating violence, sexual assault, and stalking, including elements of institutional policies that have proven successful based on evidence-based outcome measurements.
+
+(17) No officer, employee, or agent of an institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual for exercising their rights or responsibilities under any provision of this subsection.
 
 (18) This subsection may be cited as the “Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act”.
 
@@ -25962,115 +26103,12 @@ Section 1091f, Pub. L. 89–329, title V, § 507, as added Pub. L. 90–35, § 2
 
 ### Statutory Notes
 
-#### Amendment of Subsection (f)
-Pub. L. 113–4, title III, § 304, Mar. 7, 2013, 127 Stat. 89, provided that, effective with respect to the annual security report under subsection (f)(1) of this section prepared by an institution of higher education 1 calendar year after Mar. 7, 2013, and each subsequent calendar year, subsection (f) of this section is amended:
-
-(1) in paragraph (1)(C)(iii), by substituting “, when the victim of such crime elects or is unable to make such a report.” for the period at end;
-
-(2) in paragraph (1)(F)(i)(VIII), by striking “and” after the semicolon;
-
-(3) in paragraph (1)(F)(ii), by substituting “national origin, sexual orientation, gender identity,” for “sexual orientation” and “; and” for the period at end;
-
-(4) in paragraph (1)(F), by adding at the end “(iii) of domestic violence, dating violence, and stalking incidents that were reported to campus security authorities or local police agencies.”;
-
-(5) in paragraph (3), by inserting “, that withholds the names of victims as confidential,” after “that is timely”;
-
-(6) in paragraph (6)(A), by redesignating clauses (i) to (iii) as (ii) to (iv), respectively, and adding the following new clauses: “(i) The terms ‘dating violence’, ‘domestic violence’, and ‘stalking’ have the meaning given such terms in [section 13925(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13925/a&num=0&edition=prelim).” and “(v) The term ‘sexual assault’ means an offense classified as a forcible or nonforcible sex offense under the uniform crime reporting system of the Federal Bureau of Investigation.”;
-
-(7) in paragraph (7), by substituting “clauses (i) and (ii) of paragraph (1)(F)” for “paragraph (1)(F)” and inserting “For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in [section 13925(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13925/a&num=0&edition=prelim).” after “Hate Crime Statistics Act.”;
-
-(8) by striking paragraph (8) and adding the following new paragraph (8):
-
-“(8)(A) Each institution of higher education participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 and title IV of the Economic Opportunity Act of 1964, other than a foreign institution of higher education, shall develop and distribute as part of the report described in paragraph (1) a statement of policy regarding—
-
-“(i) such institution’s programs to prevent domestic violence, dating violence, sexual assault, and stalking; and
-
-“(ii) the procedures that such institution will follow once an incident of domestic violence, dating violence, sexual assault, or stalking has been reported, including a statement of the standard of evidence that will be used during any institutional conduct proceeding arising from such a report.
-
-“(B) The policy described in subparagraph (A) shall address the following areas:
-
-“(i) Education programs to promote the awareness of rape, acquaintance rape, domestic violence, dating violence, sexual assault, and stalking, which shall include—
-
-“(I) primary prevention and awareness programs for all incoming students and new employees, which shall include—
-
-“(aa) a statement that the institution of higher education prohibits the offenses of domestic violence, dating violence, sexual assault, and stalking;
-
-“(bb) the definition of domestic violence, dating violence, sexual assault, and stalking in the applicable jurisdiction;
-
-“(cc) the definition of consent, in reference to sexual activity, in the applicable jurisdiction;
-
-“(dd) safe and positive options for bystander intervention that may be carried out by an individual to prevent harm or intervene when there is a risk of domestic violence, dating violence, sexual assault, or stalking against a person other than such individual;
-
-“(ee) information on risk reduction to recognize warning signs of abusive behavior and how to avoid potential attacks; and
-
-“(ff) the information described in clauses (ii) through (vii); and
-
-“(II) ongoing prevention and awareness campaigns for students and faculty, including information described in items (aa) through (ff) of subclause (I).
-
-“(ii) Possible sanctions or protective measures that such institution may impose following a final determination of an institutional disciplinary procedure regarding rape, acquaintance rape, domestic violence, dating violence, sexual assault, or stalking.
-
-“(iii) Procedures victims should follow if a sex offense, domestic violence, dating violence, sexual assault, or stalking has occurred, including information in writing about—
-
-“(I) the importance of preserving evidence as may be necessary to the proof of criminal domestic violence, dating violence, sexual assault, or stalking, or in obtaining a protection order;
-
-“(II) to whom the alleged offense should be reported;
-
-“(III) options regarding law enforcement and campus authorities, including notification of the victim’s option to—
-
-“(aa) notify proper law enforcement authorities, including on-campus and local police;
-
-“(bb) be assisted by campus authorities in notifying law enforcement authorities if the victim so chooses; and
-
-“(cc) decline to notify such authorities; and
-
-“(IV) where applicable, the rights of victims and the institution’s responsibilities regarding orders of protection, no contact orders, restraining orders, or similar lawful orders issued by a criminal, civil, or tribal court.
-
-“(iv) Procedures for institutional disciplinary action in cases of alleged domestic violence, dating violence, sexual assault, or stalking, which shall include a clear statement that—
-
-“(I) such proceedings shall—
-
-“(aa) provide a prompt, fair, and impartial investigation and resolution; and
-
-“(bb) be conducted by officials who receive annual training on the issues related to domestic violence, dating violence, sexual assault, and stalking and how to conduct an investigation and hearing process that protects the safety of victims and promotes accountability;
-
-“(II) the accuser and the accused are entitled to the same opportunities to have others present during an institutional disciplinary proceeding, including the opportunity to be accompanied to any related meeting or proceeding by an advisor of their choice; and
-
-“(III) both the accuser and the accused shall be simultaneously informed, in writing, of—
-
-“(aa) the outcome of any institutional disciplinary proceeding that arises from an allegation of domestic violence, dating violence, sexual assault, or stalking;
-
-“(bb) the institution’s procedures for the accused and the victim to appeal the results of the institutional disciplinary proceeding;
-
-“(cc) of any change to the results that occurs prior to the time that such results become final; and
-
-“(dd) when such results become final.
-
-“(v) Information about how the institution will protect the confidentiality of victims, including how publicly-available recordkeeping will be accomplished without the inclusion of identifying information about the victim, to the extent permissible by law.
-
-“(vi) Written notification of students and employees about existing counseling, health, mental health, victim advocacy, legal assistance, and other services available for victims both on-campus and in the community.
-
-“(vii) Written notification of victims about options for, and available assistance in, changing academic, living, transportation, and working situations, if so requested by the victim and if such accommodations are reasonably available, regardless of whether the victim chooses to report the crime to campus police or local law enforcement.
-
-“(C) A student or employee who reports to an institution of higher education that the student or employee has been a victim of domestic violence, dating violence, sexual assault, or stalking, whether the offense occurred on or off campus, shall be provided with a written explanation of the student or employee’s rights and options, as described in clauses (ii) through (vii) of subparagraph (B).”;
-
-(9) in paragraph (9), by substituting “The Secretary, in consultation with the Attorney General of the United States,” for “The Secretary”;
-
-(10) by striking paragraph (16) and adding the following new paragraph (16):
-
-“(16)(A) The Secretary shall seek the advice and counsel of the Attorney General of the United States concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.
-
-“(B) The Secretary shall seek the advice and counsel of the Attorney General of the United States and the Secretary of Health and Human Services concerning the development, and dissemination to institutions of higher education, of best practices information about preventing and responding to incidents of domestic violence, dating violence, sexual assault, and stalking, including elements of institutional policies that have proven successful based on evidence-based outcome measurements.”; and
-
-(11) by striking paragraph (17) and adding the following new paragraph (17):
-
-“(17) No officer, employee, or agent of an institution participating in any program under this title shall retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual for exercising their rights or responsibilities under any provision of this subsection.”
-
-See 2013 Amendment notes below.
-
 #### References in Text
 [Section 14071 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14071&num=0&edition=prelim), referred to in subsec. (f)(1)(I), was repealed by Pub. L. 109–248, title I, § 129(a), July 27, 2006, 120 Stat. 600.
 
 The Hate Crime Statistics Act, referred to in subsec. (f)(7), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which is set out as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+Title IV of the Economic Opportunity Act of 1964, referred to in subsec. (f)(8)(A), is title IV of Pub. L. 88–452, which was classified to subchapter IV (§ 2901 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519.
 
 The General Education Provisions Act, referred to in subsec. (h)(2)(C), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see [section 1221 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221) and Tables.
 
@@ -26455,6 +26493,118 @@ Sec. 4. General Provisions. (a) Nothing in this memorandum shall be construed to
 (c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 The Secretary of Education is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
+#### Establishing a White House Task Force To Protect Students From Sexual Assault
+Memorandum for the Heads of Executive Departments and Agencies
+
+Memorandum of President of the United States, Jan. 22, 2014, 79 F.R. 4385, provided:
+
+The prevalence of rape and sexual assault at our Nation’s institutions of higher education is both deeply troubling and a call to action. Studies show that about one in five women is a survivor of attempted or completed sexual violence while in college. In addition, a substantial number of men experience sexual violence during college. Although schools have made progress in addressing rape and sexual assault, more needs to be done to ensure safe, secure environments for students of higher education.
+
+There are a number of Federal laws aimed at making our campuses safer, and the Departments of Education and Justice have been working to enforce them. Among other requirements, institutions of higher education participating in Federal student financial assistance programs (institutions), including colleges, universities, community colleges, graduate and professional schools, for-profit schools, trade schools, and career and technical schools, must provide students with information on programs aimed at preventing rape and sexual assault, and on procedures for students to reporting rape and sexual assault. Institutions must also adopt and publish grievance procedures that provide for the prompt and equitable resolution of rape and sexual assault complaints, and investigate reports of rape and sexual assault and take swift action to prevent their recurrence. Survivors of rape and sexual assault must also be provided with information on how to access the support and services they need. Reports show, however, that institutions’ compliance with these Federal laws is uneven and, in too many cases, inadequate. Building on existing enforcement efforts, we must strengthen and address compliance issues and provide institutions with additional tools to respond to and address rape and sexual assault.
+
+Therefore, I am directing the Office of the Vice President and the White House Council on Women and Girls to lead an interagency effort to address campus rape and sexual assault, including coordinating Federal enforcement efforts by executive departments and agencies (agencies) and helping institutions meet their obligations under Federal law. To these ends, it is hereby ordered as follows:
+
+Section 1. Establishment of the White House Task Force to Protect Students from Sexual Assault. There is established a White House Task Force to Protect Students from Sexual Assault (Task Force). The Task Force shall be co-chaired by designees of the Office of the Vice President and the White House Council on Women and Girls.
+
+(a) Membership of the Task Force. In addition to the Co-Chairs, the Task Force shall consist of the following members:
+
+(i) the Attorney General;
+
+(ii) the Secretary of the Interior;
+
+(iii) the Secretary of Health and Human Services;
+
+(iv) the Secretary of Education;
+
+(v) the Director of the Office of Science and Technology Policy;
+
+(vi) the Director of the Domestic Policy Council;
+
+(vii) the Cabinet Secretary; and
+
+(viii) the heads of agencies or offices as the Co-Chairs may designate.
+
+(b) A member of the Task Force may designate, to perform the Task Force functions of the member, senior officials who are part of the member’s agency or office, and who are full-time officers or employees of the Federal Government.
+
+Sec. 2. Mission and Function of the Task Force. (a) The Task Force shall work with agencies to develop a coordinated Federal response to campus rape and sexual assault. The functions of the Task Force are advisory only and shall include making recommendations to meet the following objectives:
+
+(i) providing institutions with evidence-based best and promising practices for preventing and responding to rape and sexual assault;
+
+(ii) building on the Federal Government’s existing enforcement efforts to ensure that institutions comply fully with their legal obligations to prevent and respond to rape and sexual assault;
+
+(iii) increasing the transparency of the Federal Government’s enforcement activities concerning rape and sexual assault, consistent with applicable law and the interests of affected students;
+
+(iv) broadening the public’s awareness of individual institutions’ compliance with their legal obligation to address rape and sexual assault; and
+
+(v) facilitating coordination among agencies engaged in addressing rape and sexual assault and those charged with helping bring institutions into compliance with the law.
+
+(b) In accordance with applicable law and in addition to regular meetings, the Task Force shall consult with external stakeholders, including institution officials, student groups, parents, athletic and educational associations, local rape crisis centers, and law enforcement agencies.
+
+(c) Because rape and sexual assault also occur in the elementary and secondary school context, the Task Force shall evaluate how its proposals and recommendations may apply to, and may be implemented by, schools, school districts, and other elementary and secondary educational entities receiving Federal financial assistance.
+
+Sec. 3. Action Plan. (a) Within 90 days of the date of this memorandum, the Task Force shall develop and submit proposals and recommendations to the President for:
+
+(i) providing examples of instructions, policies, and protocols for institutions, including: rape and sexual assault policies; prevention programs; crisis intervention and advocacy services; complaint and grievance procedures; investigation protocols; adjudicatory procedures; disciplinary sanctions; and training and orientation modules for students, staff, and faculty;
+
+(ii) measuring the success of prevention and response efforts at institutions, whether through compliance with individual policies or through broader assessments of campus climate, attitudes and safety, and providing the public with this information;
+
+(iii) maximizing the Federal Government’s effectiveness in combatting campus rape and sexual assault by, among other measures, making its enforcement activities transparent and accessible to students and prospective students nationwide; and
+
+(iv) promoting greater coordination and consistency among the agencies and offices that enforce the Federal laws addressing campus rape and sexual assault and support improved campus responses to sexual violence.
+
+(b) Within 1 year of the date of this memorandum, and then on an annual basis, the Task Force shall provide a report to the President on implementation efforts with respect to this memorandum.
+
+Sec. 4. General Provisions. (a) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(b) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an agency or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) The heads of agencies and offices shall assist and provide information to the Task Force, consistent with applicable law, as may be necessary to carry out the functions of the Task Force. Each agency and office shall bear its own expenses of participating in the Task Force.
+
+(d) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(e) The Secretary of Education is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
+#### Helping Struggling Federal Student Loan Borrowers Manage Their Debt
+Memorandum of President of the United States, June 9, 2014, 79 F.R. 33843, provided:
+
+Memorandum for the Secretary of the Treasury[, and] the Secretary of Education
+
+A college education is the single most important investment that Americans can make in their futures. College remains a good investment, resulting in higher earnings and a lower risk of unemployment. Unfortunately, for many low- and middle-income families, college is slipping out of reach. Over the past three decades, the average tuition at a public four-year college has more than tripled, while a typical family’s income has increased only modestly. More students than ever are relying on loans to pay for college. Today, 71 percent of those earning a bachelor’s degree graduate with debt, which averages $29,400. While most students are able to repay their loans, many feel burdened by debt, especially as they seek to start a family, buy a home, launch a business, or save for retirement.
+
+Over the past several years, my Administration has worked to ensure that college remains affordable and student debt is manageable, including through raising the maximum Pell Grant award by nearly $1,000, creating the American Opportunity Tax Credit, and expanding access to student loan repayment plans, where monthly obligations are calibrated to a borrower’s income and debt. These income-driven repayment plans, like my Pay As You Earn plan, which caps a Federal student loan borrower’s payments at 10 percent of income, can be an effective tool to help individuals manage their debt, and pursue their careers while avoiding consequences of defaulting on a Federal student loan, such as a damaged credit rating, a tax refund offset, or garnished wages.
+
+While my Administration has made significant strides in expanding repayment options available to borrowers and building awareness of income-driven repayment plans, more needs to be done. Currently, not all student borrowers of Federal Direct Loans can cap their monthly loan payments at 10 percent of income, and too many struggling borrowers are still unaware of the options available to them to help responsibly manage their debt.
+
+Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. Expanding the President’s Pay As You Earn Plan to More Federal Direct Loan Borrowers. Within 1 year after the date of this memorandum, the Secretary of Education shall propose regulations that will allow additional students who borrowed Federal Direct Loans to cap their Federal student loan payments at 10 percent of their income. The Secretary shall seek to target this option to those borrowers who would otherwise struggle to repay their loans. The Secretary shall issue final regulations in a timely fashion after considering all public comments, as appropriate, with the goal of making the repayment option available to borrowers by December 31, 2015.
+
+Sec. 2. Improving Communication Strategies to Help Vulnerable Borrowers. By December 31, 2014, the Secretary of Education shall develop, evaluate, and implement new targeted strategies to reach borrowers who may be struggling to repay their Federal student loans to ensure that they have the information they need to select the best repayment option and avoid future default. In addition to focusing on borrowers who have fallen behind on their loan payments, the Secretary’s effort shall focus on borrowers who have left college without completing their education, borrowers who have missed their first loan payment, and borrowers (especially those with low balances) who have defaulted on their loans to help them rehabilitate their loans with income-based monthly payments. The Secretary of Education shall incorporate data analytics into the communications efforts and evaluate these new strategies to identify areas for improvement and build on successful practices.
+
+Sec. 3. Encouraging Support and Awareness of Repayment Options for Borrowers During Tax Filing Season. By September 30, 2014, the Secretary of the Treasury and the Secretary of Education shall invite private-sector entities to enter into partnerships to better educate borrowers about income-based repayment plans during the tax filing season in 2015. Building off of prior work, the Secretaries shall further develop effective ways to inform borrowers about their repayment options during the tax filing season in 2015, as well as through personalized financial management tools.
+
+Sec. 4. Promoting Stronger Collaboration to Ensure That Students and Their Families Have the Information They Need to Make Informed Borrowing Decisions. By September 30, 2014, the Secretary of Education, in consultation with the Secretary of the Treasury, shall develop a pilot project to test the effectiveness of loan counseling resources, including the Department of Education’s Financial Awareness Counseling Tool. The Secretary of Education shall convene higher education experts and student-debt researchers to identify ways to evaluate and strengthen loan counseling for Federal student loan borrowers. Additionally, the Secretaries shall collaborate with organizations representing students, teachers, nurses, social workers, entrepreneurs, and business owners, among others, to help borrowers represented by these organizations learn more about the repayment options that are available to them in financing their investment in higher education and managing their debt, and to provide more comparative, customized resources to those borrowers when possible.
+
+Sec. 5. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of Education is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.
 
@@ -27038,11 +27188,11 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 (23)
 
-  (A) The institution, if located in a State to which [section 1973gg–2(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973gg–2/b&num=0&edition=prelim) does not apply, will make a good faith effort to distribute a mail voter registration form, requested and received from the State, to each student enrolled in a degree or certificate program and physically in attendance at the institution, and to make such forms widely available to students at the institution.
+  (A) The institution, if located in a State to which [section 20503(b) of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20503/b&num=0&edition=prelim) does not apply, will make a good faith effort to distribute a mail voter registration form, requested and received from the State, to each student enrolled in a degree or certificate program and physically in attendance at the institution, and to make such forms widely available to students at the institution.
 
   (B) The institution shall request the forms from the State 120 days prior to the deadline for registering to vote within the State. If an institution has not received a sufficient quantity of forms to fulfill this section from the State within 60 days prior to the deadline for registering to vote in the State, the institution shall not be held liable for not meeting the requirements of this section during that election year.
 
-  (C) This paragraph shall apply to general and special elections for Federal office, as defined in [section 431(3) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431/3&num=0&edition=prelim), and to the elections for Governor or other chief executive within such State).11 So in original. The closing parenthesis probably should not appear.
+  (C) This paragraph shall apply to general and special elections for Federal office, as defined in [section 30101(3) of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101/3&num=0&edition=prelim), and to the elections for Governor or other chief executive within such State).11 So in original. The closing parenthesis probably should not appear.
 
   (D) The institution shall be considered in compliance with the requirements of subparagraph (A) for each student to whom the institution electronically transmits a message containing a voter registration form acceptable for use in the State in which the institution is located, or an Internet address where such a form can be downloaded, if such information is in an electronic message devoted exclusively to voter registration.
 
@@ -27420,7 +27570,7 @@ The Higher Education Amendments of 1992, referred to in subsec. (j), is Pub. L. 
 A prior section 1094, Pub. L. 89–329, title IV, § 487, as added Pub. L. 96–374, title IV, § 451(a), Oct. 3, 1980, 94 Stat. 1451; amended Pub. L. 99–272, title XVI, § 16034, Apr. 7, 1986, 100 Stat. 356, related to program participation agreements, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
-2009—Subsec. (a)(23)(A). Pub. L. 111–39, § 407(b)(8)(A), made technical amendment to reference in original act which appears in text as reference to [section 1973gg–2(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973gg–2/b&num=0&edition=prelim).
+2009—Subsec. (a)(23)(A). Pub. L. 111–39, § 407(b)(8)(A), made technical amendment to reference in original act which appears in text as reference to [section 20503(b) of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20503/b&num=0&edition=prelim).
 
 Subsec. (c)(1)(A)(i), (F), (H). Pub. L. 111–39, § 407(b)(8)(B), substituted “students receive” for “students receives” in subpar. (A)(i) and “paragraph (3)(B)” for “paragraph (2)(B)” in subpars. (F) and (H).
 
@@ -27938,7 +28088,7 @@ Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–24
 
 (5) conduct a study in accordance with subsection (m).
 
-**(k) Term of Committee** Notwithstanding the sunset and charter provisions of the Federal Advisory Committee Act or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 2014.
+**(k) Term of Committee** Notwithstanding the sunset and charter provisions of the Federal Advisory Committee Act or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 2015.
 
 **(l) Review and analysis of regulations**
 
@@ -28025,6 +28175,8 @@ A prior section 1098, Pub. L. 89–329, title IV, § 491, as added Pub. L. 96–
 Another prior section 491 of Pub. L. 89–329 amended former [section 403 of this title](./chapter-017-national-defense-education-program.md#section-403).
 
 #### Amendments
+2014—Subsec. (k). Pub. L. 113–174 substituted “2015” for “2014”.
+
 2009—Subsec. (l)(2)(A). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to August 14, 2008.
 
 2008—Subsec. (a)(1). Pub. L. 110–315, § 494C(b), substituted “authorizing committees” for “Congress”.
@@ -34300,6 +34452,9 @@ There are authorized to be appropriated to carry out this subpart such sums as m
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 113–128, title V, §§ 506, 511(b), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is repealed.
+
 #### References in Text
 The Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act, referred to in subsec. (e)(3)(A), is subtitle A of title XVII of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 2038, which was classified generally to subchapter VI (§ 14071 et seq.) of chapter 136 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 109–248, title I, § 129(a), July 27, 2006, 120 Stat. 600.
 
@@ -34310,6 +34465,9 @@ Section was enacted as part of the Higher Education Amendments of 1998, and not 
 2009—Subsec. (h). Pub. L. 111–39 amended subsec. (h) generally. Prior to amendment, text read as follows: “From the funds appropriated pursuant to subsection (i) for each fiscal year, the Secretary shall allot to each State an amount that bears the same relationship to such funds as the total number of students eligible under subsection (e) in such State bears to the total number of such students in all States.”
 
 2008—Pub. L. 110–315 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (j) relating to grants to States for workplace and community transition training for incarcerated youth offenders.
+
+#### Effective Date of Repeal
+Repeal effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -34394,7 +34552,7 @@ The authorization to enter into contracts or other obligations under the Act, as
 ### Statutory Notes
 
 #### References in Text
-The Act, as amended by this Act, referred to in text, means the Higher Education Act of 1965, Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended by the Education Amendments of 1980, Pub. L. 96–373, Oct. 3, 1980, 94 Stat. 1367, which is classified generally to this chapter and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
+The Act, as amended by this Act, referred to in text, means the Higher Education Act of 1965, Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended by the Education Amendments of 1980, Pub. L. 96–374, Oct. 3, 1980, 94 Stat. 1367, which is classified generally to this chapter and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
 
 #### Codification
 Section was formerly classified to [section 1146 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1146&num=0&edition=prelim).
@@ -34891,10 +35049,33 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 113–128, title V, §§ 506, 512(n)(5), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended:
+
+(1) in subsection (i)(1), by striking “for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Investment Act of 1998 (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education” and inserting “for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Innovation and Opportunity Act (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education”; and
+
+(2) in subsection (j)(1)—
+
+(A) in subparagraph (A)(ii), by striking “local board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)))” and inserting “local board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act)”; and
+
+(B) in subparagraph (B), by striking “a State board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)))” and inserting “a State board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act)”.
+
+See 2014 Amendment notes below.
+
 #### References in Text
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (i)(1), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301) and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (i)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, which enacted chapter 73 (§ 9201 et seq.) of this title, and chapter 30 (§ 2801 et seq.) of Title 29, Labor, and enacted, amended, and repealed numerous other sections and notes in the Code. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29. Title II of the Act is classified generally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title](./chapter-073-adult-education-and-literacy.md#section-9201) and Tables.
+
+#### Amendments
+2014—Subsec. (i)(1). Pub. L. 113–128, § 512(n)(5)(A), substituted “for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Innovation and Opportunity Act (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education” for “for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Investment Act of 1998 (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education”.
+
+Subsec. (j)(1)(A)(ii). Pub. L. 113–128, § 512(n)(5)(B)(i), substituted “local board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act)” for “local board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)))”.
+
+Subsec. (j)(1)(B). Pub. L. 113–128, § 512(n)(5)(B)(ii), substituted “a State board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act)” for “a State board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)))”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-1161d"></a>
@@ -36404,6 +36585,17 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 **(g) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as many be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
+### Statutory Notes
+
+#### Amendment of Subection (c)(1)(B)
+Pub. L. 113–128, title V, §§ 506, 512(n)(6), July 22, 2014, 128 Stat. 1703, 1711, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (c)(1)(B) of this section is amended by striking “local boards (as such term is defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim))” and inserting “local boards (as such term is defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim))”. See 2014 Amendment note below.
+
+#### Amendments
+2014—Subsec. (c)(1)(B). Pub. L. 113–128 substituted “local boards (as such term is defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim))” for “local boards (as such term is defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+
 
 <a id="section-1161r"></a>
 ## § 1161r. Campus-based digital theft prevention
@@ -36505,6 +36697,17 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 (3) **Summaries** — The Secretary shall summarize the reports submitted under paragraph (2) and make such summary available on the Department’s website.
 
 **(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+### Statutory Notes
+
+#### Amendment of Subsection (b)(2)(E)
+Pub. L. 113–128, title V, §§ 506, 512(n)(7), July 22, 2014, 128 Stat. 1703, 1711, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (b)(2)(E) of this section is amended by striking “local boards (as defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim))” and inserting “local boards (as defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim))”. See 2014 Amendment note below.
+
+#### Amendments
+2014—Subsec. (b)(2)(E). Pub. L. 113–128 substituted “local boards (as defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim))” for “local boards (as defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim))”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-1161t"></a>

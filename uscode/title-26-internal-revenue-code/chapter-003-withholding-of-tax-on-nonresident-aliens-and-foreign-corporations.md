@@ -10,7 +10,7 @@ source: >-
 ## § 1441. Withholding of tax on nonresident aliens
 **(a) General rule** Except as otherwise provided in subsection (c), all persons, in whatever capacity acting (including lessees or mortgagors of real or personal property, fiduciaries, employers, and all officers and employees of the United States) having the control, receipt, custody, disposal, or payment of any of the items of income specified in subsection (b) (to the extent that any of such items constitutes gross income from sources within the United States), of any nonresident alien individual or of any foreign partnership shall (except as otherwise provided in regulations prescribed by the Secretary under section 874) deduct and withhold from such items a tax equal to 30 percent thereof, except that in the case of any item of income specified in the second sentence of subsection (b), the tax shall be equal to 14 percent of such item.
 
-**(b) Income items** The items of income referred to in subsection (a) are interest (other than original issue discount as defined in section 1273), dividends, rent, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, or other fixed or determinable annual or periodical gains, profits, and income, gains described in section 631(b) or (c), amounts subject to tax under section 871(a)(1)(C), gains subject to tax under section 871(a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966. The items of income referred to in subsection (a) from which tax shall be deducted and withheld at the rate of 14 percent are amounts which are received by a nonresident alien individual who is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act and which are—
+**(b) Income items** The items of income referred to in subsection (a) are interest (other than original issue discount as defined in section 1273), dividends, rent, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, or other fixed or determinable annual or periodical gains, profits, and income, gains described in section 631(b) or (c), amounts subject to tax under section 871(a)(1)(C), and gains subject to tax under section 871(a)(1)(D). The items of income referred to in subsection (a) from which tax shall be deducted and withheld at the rate of 14 percent are amounts which are received by a nonresident alien individual who is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act and which are—
 
 (1) incident to a qualified scholarship to which section 117(a) applies, but only to the extent includible in gross income; or
 
@@ -35,7 +35,7 @@ source: >-
 
 (4) **Compensation of certain aliens** — Under regulations prescribed by the Secretary, compensation for personal services may be exempted from deduction and withholding under subsection (a).
 
-(5) **Special items** — In the case of gains described in section 631(b) or (c), gains subject to tax under section 871(a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966, the amount required to be deducted and withheld shall, if the amount of such gain is not known to the withholding agent, be such amount, not exceeding 30 percent of the amount payable, as may be necessary to assure that the tax deducted and withheld shall not be less than 30 percent of such gain.
+(5) **Special items** — In the case of gains described in section 631(b) or (c), and gains subject to tax under section 871(a)(1)(D), the amount required to be deducted and withheld shall, if the amount of such gain is not known to the withholding agent, be such amount, not exceeding 30 percent of the amount payable, as may be necessary to assure that the tax deducted and withheld shall not be less than 30 percent of such gain.
 
 (6) **Per diem of certain aliens** — No deduction or withholding under subsection (a) shall be required in the case of amounts of per diem for subsistence paid by the United States Government (directly or by contract) to any nonresident alien individual who is engaged in any program of training in the United States under the Mutual Security Act of 1954, as amended.
 
@@ -75,6 +75,8 @@ The Tax Reform Act of 1984, referred to in subsec. (c)(3), is division A [§§ 5
 The Mutual Security Act of 1954, referred to in subsec. (c)(6), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§ 2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§ 101 to 103, ch. II, §§ 201 to 205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, § 2, ch. 1, § 101, ch. II, §§ 201 to 205(a) to (i), (k) to (n), ch. III, § 301, ch. IV, § 401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§ 1750 et seq.) of Title 22, Foreign Relations and Intercourse, and which was repealed by act July 18, 1956, ch. 627, § 8(m), 70 Stat. 559, Pub. L. 85–141, §§ 2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§ 205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§ 203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, § 642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat 745, except for sections 1754, 1783, 1796, 1853, 1922, 1928, and 1937 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 1754 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1754&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Subsecs. (b), (c)(5). Pub. L. 113–295 substituted “and gains subject to tax under section 871(a)(1)(D)” for “gains subject to tax under section 871(a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966”.
+
 2004—Subsec. (c)(12). Pub. L. 108–357 added par. (12).
 
 1997—Subsec. (g). Pub. L. 105–34 substituted “85 percent” for “one-half”.
@@ -144,6 +146,9 @@ Subsec. (c)(4). Pub. L. 87–256, § 110(d)(3), authorized the exemption from de
 1958—Subsecs. (b), (c)(5). Pub. L. 85–866 inserted “section 403(a)(2),” after “section 402(a)(2),”.
 
 1956—Subsec. (c)(6). Act July 18, 1956, added section 544(f) to act Aug. 26, 1954, which section amended this subsection by adding par. (6).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–357 applicable to dividends with respect to taxable years of regulated investment companies beginning after Dec. 31, 2004, see section 411(d)(1) of Pub. L. 108–357, set out as a note under [section 871 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-871).
@@ -605,7 +610,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 
 <a id="section-1446"></a>
-## § 1446. Withholding 11 So in original. Probably should be followed by “of”. tax on foreign partners’ share of effectively connected income
+## § 1446. Withholding tax on foreign partners’ share of effectively connected income
 **(a) General rule** If—
 
 (1) a partnership has effectively connected taxable income for any taxable year, and
@@ -709,7 +714,8 @@ If—
 
 (1) any person, in violation of the provisions of this chapter, fails to deduct and withhold any tax under this chapter, and
 
-(2) thereafter the tax against which such tax may be credited is paid, the tax so required to be deducted and withheld shall not be collected from such person; but this section shall in no case relieve such person from liability for interest or any penalties or additions to the tax otherwise applicable in respect of such failure to deduct and withhold.
+(2) thereafter the tax against which such tax may be credited is paid,
+the tax so required to be deducted and withheld shall not be collected from such person; but this section shall in no case relieve such person from liability for interest or any penalties or additions to the tax otherwise applicable in respect of such failure to deduct and withhold.
 
 ### Statutory Notes
 

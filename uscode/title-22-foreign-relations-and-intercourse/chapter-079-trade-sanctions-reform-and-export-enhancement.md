@@ -21,11 +21,9 @@ In this chapter:
 
   (C) any program administered under the Agricultural Trade Act of 1978 ([7 U.S.C. 5601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5601&num=0&edition=prelim) et seq.);
 
-  (D) the dairy export incentive program administered under [section 713a–14 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section713a–14&num=0&edition=prelim);
+  (D) any commercial export sale of agricultural commodities; or
 
-  (E) any commercial export sale of agricultural commodities; or
-
-  (F) any export financing (including credits or credit guarantees) provided by the United States Government for agricultural commodities.
+  (E) any export financing (including credits or credit guarantees) provided by the United States Government for agricultural commodities.
 
 (3) **Joint resolution** — The term “joint resolution” means—
 
@@ -61,6 +59,8 @@ Section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 20
 Section 906 of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(B), is section 1(a) [title IX, § 906] of Pub. L. 106–387, which is classified to [section 7205 of this title](./chapter-079-trade-sanctions-reform-and-export-enhancement.md#section-7205). Provisions relating to report of the President and enactment into law of a joint resolution are contained in section 905 of the Act, which is classified to [section 7204 of this title](./chapter-079-trade-sanctions-reform-and-export-enhancement.md#section-7204).
 
 #### Amendments
+2014—Par. (2)(D)–(F). Pub. L. 113–79 redesignated subpars. (E) and (F) as (D) and (E), respectively,, and struck out former subpar. (D) which read as follows: “the dairy export incentive program administered under [section 713a–14 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section713a–14&num=0&edition=prelim);”.
+
 2008—Par. (2)(A). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
 #### Effective Date of 2008 Amendment
@@ -145,7 +145,7 @@ Any unilateral agricultural sanction or unilateral medical sanction that is impo
 
 (2) **Exception** — Paragraph (1) shall not apply with respect to the export of agricultural commodities, medicine, or medical devices to the Government of Syria or to the Government of North Korea, or to any other entity in Syria or North Korea.
 
-**(b) Quarterly reports** The applicable department or agency of the Federal Government shall submit to the appropriate congressional committees on a quarterly basis a report on any activities undertaken under subsection (a)(1) of this section during the preceding calendar quarter.
+**(b) Quarterly reports** The applicable department or agency of the Federal Government shall submit to the appropriate congressional committees on a quarterly basis a report on any activities undertaken under subsection (a)(1) during the preceding calendar quarter.
 
 **(c) Biennial reports** Not later than 2 years after October 28, 2000, and every 2 years thereafter, the applicable department or agency of the Federal Government shall submit a report to the appropriate congressional committees on the operation of the licensing system under this section for the preceding 2-year period, including—
 

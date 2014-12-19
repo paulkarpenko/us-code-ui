@@ -27,13 +27,9 @@ The text of this section was changed by Senate amendment. See Senate Report No. 
 <a id="section-3232"></a>
 ## § 3232. District of offense—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3233"></a>
 ## § 3233. Transfer within district—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 ### Statutory Notes
 
@@ -43,8 +39,6 @@ Rule 19 of the Federal Rules of Criminal Procedure, referred to in text, was res
 
 <a id="section-3234"></a>
 ## § 3234. Change of venue to another district—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3235"></a>
@@ -135,7 +129,8 @@ The trial for any offense involving a violation, begun or committed upon the hig
 
 (2) section 601 of the National Security Act of 1947 ([50 U.S.C. 421](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section421&num=0&edition=prelim)); 11 See References in Text note below. or
 
-(3) section 4(b) or 4(c) of the Subversive Activities Control Act of 1950 ([50 U.S.C. 783(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section783/b&num=0&edition=prelim) or (c)); may be in the District of Columbia or in any other district authorized by law.
+(3) section 4(b) or 4(c) of the Subversive Activities Control Act of 1950 ([50 U.S.C. 783(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section783/b&num=0&edition=prelim) or (c));
+may be in the District of Columbia or in any other district authorized by law.
 
 ### Statutory Notes
 

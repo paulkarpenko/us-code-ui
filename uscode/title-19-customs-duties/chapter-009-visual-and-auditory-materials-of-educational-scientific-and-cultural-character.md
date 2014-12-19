@@ -21,7 +21,8 @@ The President of the United States is authorized to designate a Federal agency o
 
 (4) because it does not augment international understanding and goodwill, unless its primary purpose or effect is not to instruct or inform through the development of a subject or an aspect of a subject and its content is not such as to maintain, increase, or diffuse knowledge; or
 
-(5) because in the opinion of the agency the material is propaganda. Such Federal agency or agencies may not label as propaganda any material that receives a certificate of international educational character under this section and the Agreement.
+(5) because in the opinion of the agency the material is propaganda.
+Such Federal agency or agencies may not label as propaganda any material that receives a certificate of international educational character under this section and the Agreement.
 
 ### Statutory Notes
 

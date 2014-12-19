@@ -92,10 +92,18 @@ If there is more than one such unit, the unit of local government which the empl
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(2)
+Pub. L. 113–128, title V, §§ 506, 512(kk), July 22, 2014, 128 Stat. 1703, 1722, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a)(2) of this section is amended by striking “the State or entity designated by the State to carry out rapid response activities under [section 2864(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/a/2/A&num=0&edition=prelim),” and inserting “the State or entity designated by the State to carry out rapid response activities under [section 3174(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3174/a/2/A&num=0&edition=prelim),”. See 2014 Amendment note below.
+
 #### Amendments
+2014—Subsec. (a)(2). Pub. L. 113–128 substituted “the State or entity designated by the State to carry out rapid response activities under [section 3174(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3174/a/2/A&num=0&edition=prelim),” for “the State or entity designated by the State to carry out rapid response activities under [section 2864(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/a/2/A&num=0&edition=prelim),”.
+
 1998—Subsec. (a)(2). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(18)], struck out “the State dislocated worker unit or office (referred to in [section 1661(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1661/b/2&num=0&edition=prelim)), or” before “the State or entity”.
 
 Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(26)], substituted “to the State dislocated worker unit or office (referred to in [section 1661(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1661/b/2&num=0&edition=prelim)), or the State or entity designated by the State to carry out rapid response activities under [section 2864(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/a/2/A&num=0&edition=prelim), and the chief” for “to the State dislocated worker unit (designated or created under title III of the Job Training Partnership Act) and the chief”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(26)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(18)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.

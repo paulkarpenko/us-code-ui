@@ -37,7 +37,7 @@ The Secretary of the Army may accept for the United States a gift of—
 
 (2) For each phase of the development of the Center, the Secretary may—
 
-  (A) accept funds from the Army Historical Foundation for the design and construction of such phase of the Center; or
+  (A) accept funds and in-kind gifts, including services, construction materials, and equipment used in construction, from the Army Historical Foundation and other persons for the design and construction of such phase of the Center; or
 
   (B) permit the Army Historical Foundation to contract for the design and construction of such phase of the Center.
 
@@ -67,6 +67,9 @@ The Secretary of the Army may accept for the United States a gift of—
 
 #### Prior Provisions
 A prior section 4772, act Aug. 10, 1956, ch. 1041, 70A Stat. 268, had provided that, when ordered by the President, unappropriated public land could be reserved from entry for an air base, or a field for tests and experiments, for the Army, and that such land and other property of the United States could be designed and used for either of those purposes, prior to repeal by Pub. L. 97–295, § 1(43)(A), Oct. 12, 1982, 96 Stat. 1298.
+
+#### Amendments
+2014—Subsec. (c)(2)(A). Pub. L. 113–291 substituted “accept funds and in-kind gifts, including services, construction materials, and equipment used in construction, from the Army Historical Foundation and other persons” for “accept funds from the Army Historical Foundation”.
 
 
 <a id="section-4774"></a>

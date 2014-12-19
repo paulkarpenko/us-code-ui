@@ -2107,9 +2107,9 @@ The Administrator shall establish a Renewable Fuel Capital Investment Program, u
 
     (i) a viable plan that reasonably projects the capacity of the applicant to raise the amount (in cash or in-kind) required under subparagraph (A); and
 
-    (ii) binding commitments in an amount equal to not less than 20 percent of the total amount required under paragraph (A).
+    (ii) binding commitments in an amount equal to not less than 20 percent of the total amount required under paragraph 11 So in original. Probably should be “subparagraph”. (A).
 
-  (C) *Limitation* — The total amount of a 11 So in original. The article probably should not appear. in-kind contributions by a company shall be not more than 50 percent of the total contributions by a company.
+  (C) *Limitation* — The total amount of a 22 So in original. The article probably should not appear. in-kind contributions by a company shall be not more than 50 percent of the total contributions by a company.
 
 **(e) Final approval; designation** The Administrator shall, with respect to each applicant conditionally approved under subsection (c)—
 
@@ -2491,7 +2491,7 @@ In no event shall the Administration pay a surety pursuant to this subsection an
 
 **(i) Powers of Administration respecting loans** The provisions of [section 693 of this title](./chapter-14b-small-business-investment-program.md#section-693) shall apply in the administration of this section.
 
-**(j)** For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guarantee application.
+**(j) Administration not to deny liability based on information provided as part of application** For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guarantee application.
 
 ### Statutory Notes
 
@@ -3174,7 +3174,7 @@ Section effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as 
 Small Business Administration to promulgate final rules and regulations to implement this section within 60 days of Apr. 7, 1986, see section 18008(d)(2) of Pub. L. 99–272, set out as a note under [section 697b of this title](./chapter-14b-small-business-investment-program.md#section-697b).
 
 #### Pilot Program Report
-Pub. L. 99–272, title XVIII, § 18008(b), Apr. 7, 1986, 100 Stat. 367, provided that: “The Administration shall report to the President and the Congress on the conduct of the pilot program established under subsection (a) [enacting this section] not later than 90 days after the date on which the last sale is made pursuant to such subsection in each fiscal year, and unless a report has been made not later than October 1 of 1986 and 1987, the Administration shall make an interim report by such dates.”
+Pub. L. 99–272, title XVIII, § 18008(b), Apr. 7, 1986, 100 Stat. 367, required the Small Business Administration to report to the President and Congress on the pilot program under former [15 U.S.C. 697a](./chapter-14b-small-business-investment-program.md#section-697a) involving debenture sales to investors not later than 90 days after the date of the last debenture sale in each fiscal year, and unless a report was made by Oct. 1 of 1986 and 1987, the Administration was to make an interim report by such dates.
 
 
 <a id="section-697b"></a>

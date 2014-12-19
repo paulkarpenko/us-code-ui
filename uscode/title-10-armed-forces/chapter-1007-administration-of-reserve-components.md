@@ -7,13 +7,15 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
 <a id="section-10201"></a>
-## § 10201. Assistant Secretary of Defense for Reserve Affairs
+## § 10201. Assistant Secretary of Defense for Manpower and Reserve Affairs
 
-As provided in [section 138(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section138/b/2&num=0&edition=prelim), the official in the Department of Defense with responsibility for overall supervision of reserve component affairs of the Department of Defense is the Assistant Secretary of Defense for Reserve Affairs.
+As provided in [section 138(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section138/b/2&num=0&edition=prelim), the official in the Department of Defense with responsibility for overall supervision of reserve affairs of the Department of Defense is the Assistant Secretary of Defense for Manpower and Reserve Affairs.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Pub. L. 113–291 amended section generally. Prior to amendment, text read as follows: “As provided in [section 138(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section138/b/2&num=0&edition=prelim), the official in the Department of Defense with responsibility for overall supervision of reserve component affairs of the Department of Defense is the Assistant Secretary of Defense for Reserve Affairs.”
+
 1996—Pub. L. 104–106, § 903(a), (f)(4), which directed that this section be amended, eff. Jan. 31, 1997, to read “The official in the Department of Defense with responsibility for overall supervision of reserve component affairs of the Department of Defense is the official designated by the Secretary of Defense to have that responsibility.”, was repealed by Pub. L. 104–201.
 
 #### Effective Date
@@ -686,9 +688,22 @@ Pub. L. 106–65, div. A, title V, § 522(a)(3), Oct. 5, 1999, 113 Stat. 597, pr
 
 **(e) Collaboration.—** In carrying out the program, the Secretary shall collect and analyze “lessons learned” and suggestions from State National Guard and Reserve organizations with existing or developing suicide prevention and community response programs.
 
-**(f) Termination.—** The program under this section shall terminate on October 1, 2017.
+**(f) Outreach for Certain Members of the Reserve Components.—**
+
+(1) Upon the request of an adjutant general of a State, the Secretary may share with the adjutant general the contact information of members described in paragraph (2) who reside in such State in order for the adjutant general to include such members in suicide prevention efforts conducted under this section.
+
+(2) Members described in this paragraph are—
+
+  (A) members of the Individual Ready Reserve; and
+
+  (B) members of a reserve component who are individual mobilization augmentees.
+
+**(g) Termination.—** The program under this section shall terminate on October 1, 2017.
 
 ### Statutory Notes
 
 #### References in Text
 Section 582 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (a), is section 582 of Pub. L. 110–181, which is set out as a note under [section 10101 of this title](./chapter-1003-reserve-components-generally.md#section-10101).
+
+#### Amendments
+2013—Subsecs. (f), (g). Pub. L. 113–66 added subsec. (f) and redesignated former subsec. (f) as (g).

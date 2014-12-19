@@ -350,18 +350,23 @@ Pub. L. 111–294, § 2, Dec. 9, 2010, 124 Stat. 3177, provided that: “The Con
 
 <a id="section-49"></a>
 ## § 49. Enforcement of animal fighting prohibitions
+**(a) In general** Whoever violates subsection (a)(1), (b), (c), or (e) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
 
-Whoever violates subsection (a), (b), (c), or (e) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
+**(b) Attending an animal fighting venture** Whoever violates subsection (a)(2)(A) of section 26 of the Animal Welfare Act ([7 U.S.C. 2156](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2156&num=0&edition=prelim)) shall be fined under this title, imprisoned for not more than 1 year, or both, for each violation.
+
+**(c) Causing an individual who has not attained the age of 16 to attend an animal fighting venture** Whoever violates subsection (a)(2)(B) of section 26 ([7 U.S.C. 2156](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2156&num=0&edition=prelim)) of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 3 years, or both, for each violation.
 
 ### Statutory Notes
 
 #### References in Text
-Section 26(a)–(c), (e) of the Animal Welfare Act, referred to in text, is section 2156(a)–(c), (e) of Title 7, Agriculture.
+Section 26 of the Animal Welfare Act, referred to in text, is [section 2156 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2156&num=0&edition=prelim), Agriculture.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Pub. L. 113–79 designated existing provisions as subsec. (a), inserted heading, substituted “subsection (a)(1),” for “subsection (a),”, and added subsecs. (b) and (c).
+
 2008—Pub. L. 110–246, § 14207(b), substituted “5 years” for “3 years”.
 
 #### Effective Date of 2008 Amendment

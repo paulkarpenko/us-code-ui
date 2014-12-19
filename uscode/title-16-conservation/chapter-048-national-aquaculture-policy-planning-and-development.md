@@ -367,11 +367,12 @@ Upon completion of the study, the Secretaries shall submit its results to Congre
 
 For purposes of carrying out the provisions of this chapter, there are authorized to be appropriated—
 
-(1) to the Department of Agriculture, $1,000,000 for each of fiscal years 1991 through 2012;
+(1) to the Department of Agriculture, $1,000,000 for each of fiscal years 1991 through 2018;
 
-(2) to the Department of Commerce, $1,000,000 for each of fiscal years 1991 through 2012; and
+(2) to the Department of Commerce, $1,000,000 for each of fiscal years 1991 through 2018; and
 
-(3) to the Department of 11 So in original. Probably should be “of the”. Interior, $1,000,000 for each of fiscal years 1991 through 2012. Funds authorized by this section shall be in addition to, and not in lieu of, funds authorized by any other Act.
+(3) to the Department of 11 So in original. Probably should be “of the”. Interior, $1,000,000 for each of fiscal years 1991 through 2018.
+Funds authorized by this section shall be in addition to, and not in lieu of, funds authorized by any other Act.
 
 ### Statutory Notes
 
@@ -379,6 +380,8 @@ For purposes of carrying out the provisions of this chapter, there are authorize
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Pub. L. 113–79 substituted “2018” for “2012” wherever appearing.
+
 2008—Pars. (1) to (3). Pub. L. 110–246, § 7414, substituted “2012” for “2007”.
 
 2002—Pars. (1) to (3). Pub. L. 107–171 substituted “2007” for “2002”.

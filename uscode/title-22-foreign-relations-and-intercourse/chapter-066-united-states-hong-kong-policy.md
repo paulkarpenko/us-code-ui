@@ -230,11 +230,11 @@ It is the sense of the Congress that the following, which are based in part on t
 ## § 5724. Presidential order
 **(a) Presidential determination** On or after July 1, 1997, whenever the President determines that Hong Kong is not sufficiently autonomous to justify treatment under a particular law of the United States, or any provision thereof, different from that accorded the People’s Republic of China, the President may issue an Executive order suspending the application of [section 5721(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5721/a&num=0&edition=prelim) to such law or provision of law.
 
-**(b) Factor for consideration** In making a determination under subsection (a) of this section with respect to the application of a law of the United States, or any provision thereof, to Hong Kong, the President should consider the terms, obligations, and expectations expressed in the Joint Declaration with respect to Hong Kong.
+**(b) Factor for consideration** In making a determination under subsection (a) with respect to the application of a law of the United States, or any provision thereof, to Hong Kong, the President should consider the terms, obligations, and expectations expressed in the Joint Declaration with respect to Hong Kong.
 
-**(c) Publication in Federal Register** Any Executive order issued under subsection (a) of this section shall be published in the Federal Register and shall specify the law or provision of law affected by the order.
+**(c) Publication in Federal Register** Any Executive order issued under subsection (a) shall be published in the Federal Register and shall specify the law or provision of law affected by the order.
 
-**(d) Termination of suspension** An Executive order issued under subsection (a) of this section may be terminated by the President with respect to a particular law or provision of law whenever the President determines that Hong Kong has regained sufficient autonomy to justify different treatment under the law or provision of law in question. Notice of any such termination shall be published in the Federal Register.
+**(d) Termination of suspension** An Executive order issued under subsection (a) may be terminated by the President with respect to a particular law or provision of law whenever the President determines that Hong Kong has regained sufficient autonomy to justify different treatment under the law or provision of law in question. Notice of any such termination shall be published in the Federal Register.
 
 
 <a id="section-5731"></a>

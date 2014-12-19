@@ -139,7 +139,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 236], Nov. 29, 19
 
 **(b)**
 
-(1) The Secretary of State may by regulation establish and collect a surcharge on applicable fees for the filing of each application for a passport in order to cover the costs of meeting the increased demand for passports as a result of actions taken to comply with section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; [8 U.S.C. 1185](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1185&num=0&edition=prelim) note). Such surcharge shall be in addition to the fees provided for in subsection (a) of this section and in addition to the surcharges or fees otherwise authorized by law and shall be deposited as an offsetting collection to the appropriate Department of State appropriation, to remain available until expended for the purposes of meeting such costs.
+(1) The Secretary of State may by regulation establish and collect a surcharge on applicable fees for the filing of each application for a passport in order to cover the costs of meeting the increased demand for passports as a result of actions taken to comply with section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; [8 U.S.C. 1185](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1185&num=0&edition=prelim) note). Such surcharge shall be in addition to the fees provided for in subsection (a) and in addition to the surcharges or fees otherwise authorized by law and shall be deposited as an offsetting collection to the appropriate Department of State appropriation, to remain available until expended for the purposes of meeting such costs.
 
 (2) The authority to collect the surcharge provided under paragraph (1) may not be exercised after September 30, 2010.
 
@@ -178,7 +178,13 @@ Pub. L. 92–14, § 2, May 14, 1971, 85 Stat. 38, as amended by Pub. L. 93–126
 Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968, see section 4 of Pub. L. 90–428, set out as a note under [section 217a of this title](./chapter-004-passports.md#section-217a).
 
 #### Extension of Authority
-Pub. L. 112–74, div. I, title VII, § 7034(m)(1), Dec. 23, 2011, 125 Stat. 1216, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/2&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2012’ for ‘September 30, 2010’.”
+Pub. L. 113–235, div. J, title VII, § 7034(l)(1), Dec. 16, 2014, 128 Stat. 2625, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/2&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2015’ for ‘September 30, 2010’.”
+
+Prior extensions were contained in the following prior acts:
+
+Pub. L. 113–76, div. K, title VII, § 7034(m)(1), Jan. 17, 2014, 128 Stat. 515.
+
+Pub. L. 112–74, div. I, title VII, § 7034(m)(1), Dec. 23, 2011, 125 Stat. 1216.
 
 #### Deposit of Receipts From Expedited Passport Processing
 Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1760, provided in part “That hereafter all receipts received from a new charge from expedited passport processing shall be deposited in this account as an offsetting collection and shall be available until expended”.

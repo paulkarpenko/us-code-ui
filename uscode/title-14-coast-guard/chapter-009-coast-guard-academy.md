@@ -317,27 +317,55 @@ Section, act Aug. 4, 1949, ch. 393, 63 Stat. 510; Pub. L. 94–546, § 1(16), Oc
 
 <a id="section-194"></a>
 ## § 194. Annual Board of Visitors
-**(a)** In addition to the Advisory Committee, a Board of Visitors to the Academy is established to visit the Academy annually and to make recommendations on the operation of the Academy.
+**(a) In General.—** A Board of Visitors to the Coast Guard Academy is established to review and make recommendations on the operation of the Academy.
 
-**(b)** The Board shall be composed of—
+**(b) Membership.—**
 
-(1) two Senators designated by the Chairman of the Committee on Commerce, Science, and Transportation of the Senate;
+(1) **In general.—** — The membership of the Board shall consist of the following:
 
-(2) three Members of the House of Representatives designated by the Chairman of the Committee on Transportation and Infrastructure of the House of Representatives;
+  (A) The chairman of the Committee on Commerce, Science, and Transportation of the Senate, or the chairman’s designee.
 
-(3) one Senator designated by the President of the Senate;
+  (B) The chairman of the Committee on Transportation and Infrastructure of the House of Representatives, or the chairman’s designee.
 
-(4) two Members of the House of Representatives designated by the Speaker of the House of Representatives; and
+  (C) 3 Members of the Senate designated by the Vice President.
 
-(5) the Chairman of the Committee on Commerce, Science, and Transportation of the Senate and the Chairman of the Committee on Transportation and Infrastructure of the House of Representatives, as ex officio Members.
+  (D) 4 Members of the House of Representatives designated by the Speaker of the House of Representatives.
 
-**(c)** When a Member is unable to attend the annual meeting another Member may be designated as provided under subsection (b).
+  (E) 6 individuals designated by the President.
 
-**(d)** When an ex officio Member is unable to attend the annual meeting that Member may designate another Member.
+(2) **Length of service.—**
 
-**(e)** Members of the Board shall be designated in the First Session and serve for the duration of the Congress.
+  (A) *Members of congress.—* — A Member of Congress designated under subparagraph (C) or (D) of paragraph (1) as a member of the Board shall be designated as a member in the First Session of a Congress and serve for the duration of that Congress.
 
-**(f)** The Board shall visit the Academy annually on the date chosen by the Secretary. Each Member of the Board shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a Member of the Board.
+  (B) *Individuals designated by the president.—* — Each individual designated by the President under subparagraph (E) of paragraph (1) shall serve as a member of the Board for 3 years, except that any such member whose term of office has expired shall continue to serve until a successor is appointed.
+
+(3) **Death or resignation of a member.—** — If a member of the Board dies or resigns, a successor shall be designated for any unexpired portion of the term of the member by the official who designated the member.
+
+**(c) Academy Visits.—**
+
+(1) **Annual visit.—** — The Board shall visit the Academy annually to review the operation of the Academy.
+
+(2) **Additional visits.—** — With the approval of the Secretary, the Board or individual members of the Board may make other visits to the Academy in connection with the duties of the Board or to consult with the Superintendent of the Academy.
+
+**(d) Scope of Review.—** The Board shall review, with respect to the Academy—
+
+(1) the state of morale and discipline;
+
+(2) the curriculum;
+
+(3) instruction;
+
+(4) physical equipment;
+
+(5) fiscal affairs; and
+
+(6) other matters relating to the Academy that the Board determines appropriate.
+
+**(e) Report.—** Not later than 60 days after the date of an annual visit of the Board under subsection (c)(1), the Board shall submit to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report on the actions of the Board during such visit and the recommendations of the Board pertaining to the Academy.
+
+**(f) Advisors.—** If approved by the Secretary, the Board may consult with advisors in carrying out this section.
+
+**(g) Reimbursement.—** Each member of the Board and each adviser consulted by the Board under subsection (f) shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a member or adviser.
 
 ### Statutory Notes
 
@@ -347,6 +375,8 @@ Based on title 14, U.S.C., 1946 ed., § 15h (Apr. 16, 1937, ch. 107, § 7, 50 St
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
+2014—Pub. L. 113–281 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to establishment and composition of Board of Visitors, designation of Members, absence of a Member or ex officio Member from an annual meeting, and annual visit to the Academy.
+
 2002—Subsec. (b)(2), (5). Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries”.
 
 1990—Pub. L. 101–595 amended section generally. Prior to amendment, section read as follows:
@@ -402,7 +432,12 @@ Notwithstanding any other provision of law, the United States Coast Guard Academ
 ## § 197. Cadets: charges and fees for attendance; limitation
 **(a) Prohibition.—** Except as provided in subsection (b), no charge or fee for tuition, room, or board for attendance at the Academy may be imposed unless the charge or fee is specifically authorized by a law enacted after October 5, 1994.
 
-**(b) Exception.—** The prohibition specified in subsection (a) does not apply with respect to any item or service provided to cadets for which a charge or fee is imposed as of October 5, 1994. The Secretary of Homeland Security shall notify Congress of any change made by the Academy in the amount of a charge or fee authorized under this subsection.
+**(b) Exception.—** The prohibition specified in subsection (a) does not apply with respect to any item or service provided to cadets for which a charge or fee is imposed as of October 5, 1994. The Secretary shall notify Congress of any change made by the Academy in the amount of a charge or fee authorized under this subsection.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (b). Pub. L. 113–281 struck out “of Homeland Security” after “Secretary”.
 
 
 <a id="section-198"></a>
@@ -503,3 +538,6 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 
 #### Prior Provisions
 A prior section 200 was renumbered [section 199 of this title](./chapter-009-coast-guard-academy.md#section-199).
+
+#### Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Coast Guard Academy
+Pub. L. 113–291, div. A, title V, § 552(b), Dec. 19, 2014, 128 Stat. 3377, provided that: “The Secretary of the Department in which the Coast Guard is operating shall ensure that the provisions of title XVII of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 950) [see Tables for classification], including amendments made by that title, and the provisions of subtitle D [§§ 531–547 of title V of div. A of Pub. L. 113–291; see Tables for classification], including amendments made by such subtitle, apply to the Coast Guard Academy.”

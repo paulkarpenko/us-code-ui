@@ -53,7 +53,8 @@ A person who—
 
 (8) after the filing of a case under title 11 or in contemplation thereof, knowingly and fraudulently conceals, destroys, mutilates, falsifies, or makes a false entry in any recorded information (including books, documents, records, and papers) relating to the property or financial affairs of a debtor; or
 
-(9) after the filing of a case under title 11, knowingly and fraudulently withholds from a custodian, trustee, marshal, or other officer of the court or a United States Trustee entitled to its possession, any recorded information (including books, documents, records, and papers) relating to the property or financial affairs of a debtor, shall be fined under this title, imprisoned not more than 5 years, or both.
+(9) after the filing of a case under title 11, knowingly and fraudulently withholds from a custodian, trustee, marshal, or other officer of the court or a United States Trustee entitled to its possession, any recorded information (including books, documents, records, and papers) relating to the property or financial affairs of a debtor,
+shall be fined under this title, imprisoned not more than 5 years, or both.
 
 ### Statutory Notes
 
@@ -132,7 +133,8 @@ A person who, being a custodian, trustee, marshal, or other officer of the court
 
 (2) knowingly refuses to permit a reasonable opportunity for the inspection by parties in interest of the documents and accounts relating to the affairs of estates in the person’s charge by parties when directed by the court to do so; or
 
-(3) knowingly refuses to permit a reasonable opportunity for the inspection by the United States Trustee of the documents and accounts relating to the affairs of an estate in the person’s charge, shall be fined under this title and shall forfeit the person’s office, which shall thereupon become vacant.
+(3) knowingly refuses to permit a reasonable opportunity for the inspection by the United States Trustee of the documents and accounts relating to the affairs of an estate in the person’s charge,
+shall be fined under this title and shall forfeit the person’s office, which shall thereupon become vacant.
 
 ### Statutory Notes
 
@@ -233,7 +235,8 @@ A person who, having devised or intending to devise a scheme or artifice to defr
 
 (2) files a document in a proceeding under title 11; or
 
-(3) makes a false or fraudulent representation, claim, or promise concerning or in relation to a proceeding under title 11, at any time before or after the filing of the petition, or in relation to a proceeding falsely asserted to be pending under such title, shall be fined under this title, imprisoned not more than 5 years, or both.
+(3) makes a false or fraudulent representation, claim, or promise concerning or in relation to a proceeding under title 11, at any time before or after the filing of the petition, or in relation to a proceeding falsely asserted to be pending under such title,
+shall be fined under this title, imprisoned not more than 5 years, or both.
 
 ### Statutory Notes
 

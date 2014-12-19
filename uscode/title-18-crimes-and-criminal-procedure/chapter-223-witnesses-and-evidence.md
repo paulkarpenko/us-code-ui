@@ -25,8 +25,6 @@ Pub. L. 105–6, § 1, Mar. 19, 1997, 111 Stat. 12, provided that: “This Act [
 <a id="section-3482"></a>
 ## § 3482. Evidence and witnesses—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 ### Statutory Notes
 
 #### References in Text
@@ -36,19 +34,13 @@ Rule 26 of the Federal Rules of Criminal Procedure, referred to in text, was ame
 <a id="section-3483"></a>
 ## § 3483. Indigent defendants, process to produce evidence—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3484"></a>
 ## § 3484. Subpoenas—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3485"></a>
 ## § 3485. Expert witnesses—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 ### Statutory Notes
 
@@ -222,13 +214,9 @@ The only change made was the insertion of the word “Indian” before “countr
 <a id="section-3489"></a>
 ## § 3489. Discovery and inspection—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3490"></a>
 ## § 3490. Official record or entry—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3491"></a>
@@ -368,13 +356,9 @@ Words in second sentence of said [section 355 of title 18](https://uscode.house.
 <a id="section-3498"></a>
 ## § 3498. Depositions—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3499"></a>
 ## § 3499. Contempt of court by witness—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3500"></a>

@@ -482,7 +482,7 @@ In subsection (b), the words “Not later than 1 year after the date of the enac
 
 **(h) Construction.—** Nothing in this section, or the amendments made by this section,11 So in original. shall be construed to provide any rights to disclose classified information not otherwise provided by law.
 
-**(i) Duration of Section.—** This section shall be in effect for the four-year period beginning on the date of the enactment of this section.22 So in original. Compare to Effective Date of 2013 Amendment note below.
+**(i) Duration of Section.—** This section shall be in effect for the four-year period beginning on the date of that is 180 days after the date the enactment of this section.22 So in original. Probably should be “date that is 180 days after the date of the enactment of this section.”
 
 ### Statutory Notes
 
@@ -490,6 +490,9 @@ In subsection (b), the words “Not later than 1 year after the date of the enac
 The Inspector General Act of 1978, referred to in subsec. (g)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of the enactment of this section, referred to in subsec. (i), is the date of the enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
+
+#### Amendments
+2013—Subsec. (i). Pub. L. 113–66 inserted “that is 180 days after the date” before “the enactment”.
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title VIII, § 828(b), Jan. 2, 2013, 126 Stat. 1840, provided that: “(1) In general.—The amendments made by subsection (a) [enacting this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 2, 2013], and shall, during the period [section 4712 of title 41](./chapter-047-chapter-47.md#section-4712), United States Code, as added by such subsection, is in effect, apply to—“(A) all contracts and grants awarded on or after such date; “(B) all task orders entered on or after such date pursuant to contracts awarded before, on, or after such date; and “(C) all contracts awarded before such date that are modified to include a contract clause providing for the applicability of such amendments. “(2) Revision of federal acquisition regulation.—Not later than 180 days after the date of the enactment of this Act, the Federal Acquisition Regulation shall be revised to implement the requirements arising under the amendments made by this section [enacting this section and amending sections 4310 and 4705 of this title]. “(3) Inclusion of contract clause in contracts awarded before effective date.—At the time of any major modification to a contract that was awarded before the date that is 180 days after the date of the enactment of this Act [Jan. 2, 2013], the head of the contracting agency shall make best efforts to include in the contract a contract clause providing for the applicability of the amendments made by this section to the contract.”

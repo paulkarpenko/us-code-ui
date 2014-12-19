@@ -10,7 +10,7 @@ source: >-
 ## § 3101. Interagency oceans and human health research program
 **(a) Coordination** The President, through the National Science and Technology Council, shall coordinate and support a national research program to improve understanding of the role of the oceans in human health.
 
-**(b) Implementation plan** Within 1 year after December 8, 2004, the National Science and Technology Council, through the Director of the Office of Science and Technology Policy shall develop and submit to the Congress a plan for coordinated Federal activities under the program. Nothing in this subsection is intended to duplicate or supersede the activities of the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia established under section 603 of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 ([16 U.S.C. 1451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) note). In developing the plan, the Committee will consult with the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia. Such plan will build on and complement the ongoing activities of the National Oceanic and Atmospheric Administration, the National Science Foundation, and other departments and agencies and shall—
+**(b) Implementation plan** Within 1 year after December 8, 2004, the National Science and Technology Council, through the Director of the Office of Science and Technology Policy shall develop and submit to the Congress a plan for coordinated Federal activities under the program. Nothing in this subsection is intended to duplicate or supersede the activities of the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia established under [section 4001 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4001). In developing the plan, the Committee will consult with the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia. Such plan will build on and complement the ongoing activities of the National Oceanic and Atmospheric Administration, the National Science Foundation, and other departments and agencies and shall—
 
 (1) establish, for the 10-year period beginning in the year it is submitted, the goals and priorities for Federal research which most effectively advance scientific understanding of the connections between the oceans and human health, provide usable information for the prediction of marine-related public health problems and use the biological potential of the oceans for development of new treatments of human diseases and a greater understanding of human biology;
 
@@ -73,9 +73,6 @@ source: >-
 (5) any recommendations regarding additional action or legislation that may be required to assist in achieving the purposes of this chapter.
 
 ### Statutory Notes
-
-#### References in Text
-Section 603 of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998, referred to in subsec. (b), is section 603 of Pub. L. 105–383, which is set out in a note under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim), Conservation.
 
 #### Short Title
 Pub. L. 108–447, div. B, title IX, § 901, Dec. 8, 2004, 118 Stat. 2930, provided that: “This title [enacting this chapter] may be cited as the ‘Oceans and Human Health Act’.”

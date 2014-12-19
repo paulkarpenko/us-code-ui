@@ -328,7 +328,7 @@ Subsec. (c)(3). Pub. L. 106–65, § 354(3)(C), substituted “Implementation”
 1991—Subsec. (c). Pub. L. 102–119 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The provisions of the Education for All Handicapped Children Act of 1975 shall apply with respect to all schools operated by the Department of Defense under this chapter.”
 
 #### Effective Date of 1991 Amendment
-Pub. L. 102–119, § 27, Oct. 7, 1991, 105 Stat. 608, provided that: “(a) Sections 8, 9, and 10.—The amendments made by sections 8, 9, and 10 [amending sections 1423, 1431, 1434, and 1435 of this title] shall take effect on October 1, 1991, or on the date of enactment of this Act [Oct. 7, 1991], whichever is later. “(b) Sections 5, 12, 13, 14, 15, 17, and 18.—The amendments made by sections 5, 12, 13, 14, 15, 17, and 18 [amending sections 1413, 1472, 1476, 1477, 1478, 1480, and 1482 of this title] shall take effect July 1, 1992, except that each State shall have the option to have any of the amendments apply earlier than such date. “(c) Remaining Provisions.—The remaining sections of this Act [enacting [section 1484a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1484a&num=0&edition=prelim), amending this section, sections 241, 1087ee, 1400 to 1402, 1404, 1405, 1407, 1411 to 1417, 1419, 1421 to 1425, 1431 to 1433, 1435, 1442, 1443, 1451, 1452, 1461, 1471 to 1473, and 1475 to 1485 of this title, sections 2503 and 2504 of Title 25, Indians, sections 721, 774, 777a, 795m, and 796d of Title 29, Labor, and sections 1396b, 1396n, 6022, 6024, 9835, 9855d, 9862, and 9886 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 1400 and 1484 of this title] and the amendments made by such sections shall take effect on the date of the enactment of this Act [Oct. 7, 1991].”
+Pub. L. 102–119, § 27, Oct. 7, 1991, 105 Stat. 608, provided that: “(a) Sections 8, 9, and 10.—The amendments made by sections 8, 9, and 10 [amending sections 1423, 1431, 1434, and 1435 of this title] shall take effect on October 1, 1991, or on the date of enactment of this Act [Oct. 7, 1991], whichever is later. “(b) Sections 5, 12, 13, 14, 15, 17, and 18.—The amendments made by sections 5, 12, 13, 14, 15, 17, and 18 [amending sections 1413, 1472, 1476, 1477, 1478, 1480, and 1482 of this title] shall take effect July 1, 1992, except that each State shall have the option to have any of the amendments apply earlier than such date. “(c) Remaining Provisions.—The remaining sections of this Act [enacting [section 1484a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1484a&num=0&edition=prelim), amending this section, sections 241, 1087ee, 1400 to 1402, 1404, 1405, 1407, 1411 to 1417, 1419, 1421 to 1425, 1431 to 1433, 1435, 1442, 1443, 1451, 1452, 1461, 1471 to 1473, and 1475 to 1485 of this title, sections 2503 and 2504 of Title 25, Indians, sections 721, [former] 774, 777a, 795m, and 796d of Title 29, Labor, and sections 1396b, 1396n, 6022, 6024, 9835, 9855d, 9862, and 9886 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 1400 and 1484 of this title] and the amendments made by such sections shall take effect on the date of the enactment of this Act [Oct. 7, 1991].”
 
 
 <a id="section-928"></a>
@@ -369,7 +369,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
   (A) the Secretary of Defense and the Secretary of Education, or their respective designees;
 
-  (B) 12 individuals appointed jointly by the Secretary of Defense and the Secretary of Education who shall be individuals who have demonstrated an interest in the field of primary or secondary education and who shall include representatives of professional employee organizations, school administrators, and parents of students enrolled in the defense dependents’ education system, and one student enrolled in such system; and
+  (B) 12 individuals appointed jointly by the Secretary of Defense and the Secretary of Education who shall be individuals who have demonstrated an interest in the field of primary or secondary education and who shall include representatives of professional employee organizations, school administrators, and parents of students enrolled in the defense dependents’ education system and the domestic dependent elementary and secondary schools established under [section 2164 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2164&num=0&edition=prelim), and one student enrolled in either such system; and
 
   (C) a representative of the Secretary of Defense and of the Secretary of Education.
 
@@ -388,9 +388,9 @@ No member appointed under subsection (a)(2) of this section shall serve more tha
 
 **(c) Meetings; functions** The Council shall meet at least two times each year. The functions of the Council shall be to—
 
-(1) recommend to the Director general policies for operation of the defense dependents’ education system with respect to curriculum selection, administration, and operation of the system,
+(1) recommend to the Director general policies for operation of the defense dependents’ education system, and of the domestic dependent elementary and secondary school system established under [section 2164 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2164&num=0&edition=prelim), with respect to curriculum selection, administration, and operation of the system,
 
-(2) provide information to the Director from other Federal agencies concerned with primary and secondary education with respect to education programs and practices which such agencies have found to be effective and which should be considered for inclusion in the defense dependents’ education system,
+(2) provide information to the Director from other Federal agencies concerned with primary and secondary education with respect to education programs and practices which such agencies have found to be effective and which should be considered for inclusion in the defense dependents’ education system and in the domestic dependent elementary and secondary school system,
 
 (3) advise the Director on the design of the study and the selection of the contractor referred to in [section 930(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section930/a/2&num=0&edition=prelim), and
 
@@ -403,6 +403,12 @@ No member appointed under subsection (a)(2) of this section shall serve more tha
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a)(1)(B). Pub. L. 113–291, § 565(b), inserted “and the domestic dependent elementary and secondary schools established under [section 2164 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2164&num=0&edition=prelim)” after “the defense dependents’ education system” and “either” after “one student enrolled in”.
+
+Subsec. (c)(1). Pub. L. 113–291, § 565(a)(1), inserted “, and of the domestic dependent elementary and secondary school system established under [section 2164 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2164&num=0&edition=prelim),” after “of the defense dependents’ education system”.
+
+Subsec. (c)(2). Pub. L. 113–291, § 565(a)(2), inserted “and in the domestic dependent elementary and secondary school system” before comma at end.
+
 1999—Subsec. (d). Pub. L. 106–65 substituted “level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim)” for “grade GS–18 in [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim)”.
 
 1985—Subsec. (a). Pub. L. 99–145, § 1204(b)(3)(A), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is established in the Department of Education an Advisory Council on Dependents’ Education (hereinafter in this section referred to as the ‘Council’). The Council shall be composed of—

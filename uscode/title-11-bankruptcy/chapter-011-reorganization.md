@@ -1931,7 +1931,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
     (ii) there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B);
     and if the requirements of subparagraph (A) or (B) are met.
 
-    (6) Notwithstanding paragraph (1), the confirmation of a plan does not discharge a debtor that is a corporation from any debt—
+(6) Notwithstanding paragraph (1), the confirmation of a plan does not discharge a debtor that is a corporation from any debt—
 
   (A) of a kind specified in paragraph (2)(A) or (2)(B) of section 523(a) that is owed to a domestic governmental unit, or owed to a person as the result of an action filed under subchapter III of chapter 37 of title 31 or any similar State statute; or
 

@@ -275,7 +275,7 @@ Pub. L. 98–94, title III, § 305(b), Sept. 24, 1983, 97 Stat. 629, provided th
 
 (2) Excess supplies made available under this section to support domestic emergency assistance activities shall be transferred to the Secretary of Homeland Security. The Secretary of Defense may provide assistance in the distribution of such supplies at the request of the Secretary of Homeland Security.
 
-**(c)** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the intelligence committees under title V of the National Security Act of 1947 ([50 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section413&num=0&edition=prelim) et seq.).11 See References in Text note below.
+**(c)** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the intelligence committees under title V of the National Security Act of 1947 ([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.).
 
 **(d)** In this section:
 
@@ -290,9 +290,11 @@ Pub. L. 98–94, title III, § 305(b), Sept. 24, 1983, 97 Stat. 629, provided th
 ### Statutory Notes
 
 #### References in Text
-The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–291 substituted “([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.)” for “([50 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section413&num=0&edition=prelim) et seq.)”.
+
 2011—Pub. L. 111–383, § 1074(b)(1), substituted “Excess nonlethal supplies: availability for humanitarian relief, domestic emergency assistance, and homeless veterans assistance” for “Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief” in section catchline.
 
 Subsec. (a)(1). Pub. L. 111–383, § 1074(a)(1), inserted at end “In addition, the Secretary may make nonlethal excess supplies of the Department available to support domestic emergency assistance activities.”

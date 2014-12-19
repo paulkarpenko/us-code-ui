@@ -9,40 +9,26 @@ source: >-
 <a id="section-3361"></a>
 ## § 3361. Form and contents—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3362"></a>
 ## § 3362. Waiver of indictment and prosecution on information—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3363"></a>
 ## § 3363. Joinder of offenses—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3364"></a>
 ## § 3364. Joinder of defendants—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3365"></a>
 ## § 3365. Amendment of information—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3366"></a>
 ## § 3366. Bill of particulars—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3367"></a>
 ## § 3367. Dismissal—(Rule)
-
-See Federal Rules of Criminal Procedure

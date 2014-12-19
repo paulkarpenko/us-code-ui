@@ -329,7 +329,7 @@ Act June 24, 1948, ch. 623, § 6, 62 Stat. 604, provided that: “The provisions
 
     (v) has otherwise been excluded from participation in such program.
 
-  (C) Medical services provided by physicians or health care providers who are named on the list published by the Secretary pursuant to subparagraph (A) of this section shall not be reimbursable under this chapter; except that the Secretary shall direct the reimbursement of medical claims for services rendered by such physicians or health care providers in cases where the services were rendered in an emergency.
+  (C) Medical services provided by physicians or health care providers who are named on the list published by the Secretary pursuant to subparagraph (A) of this section 11 So in original. Probably should be “this paragraph”. shall not be reimbursable under this chapter; except that the Secretary shall direct the reimbursement of medical claims for services rendered by such physicians or health care providers in cases where the services were rendered in an emergency.
 
   (D) A determination under subparagraph (B) shall remain in effect for a period of not less than three years and until the Secretary finds and gives notice to the public that there is reasonable assurance that the basis for the determination will not reoccur.
 
@@ -367,7 +367,7 @@ Act June 24, 1948, ch. 623, § 6, 62 Stat. 604, provided that: “The provisions
 
 (2) Any decision to take action with respect to a physician or health care provider under this section shall be based on specific findings of fact by the Secretary. The Secretary shall provide notice of these findings and an opportunity for a hearing pursuant to [section 556 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section556&num=0&edition=prelim) for a provider who would be affected by a decision under this section. A request for a hearing must be filed with the Secretary within thirty days after notice of the findings is received by the provider making such request. If a hearing is held, the Secretary shall, on the basis of evidence adduced at the hearing, affirm, modify, or reverse the findings of fact and proposed action under this section.
 
-(3) For the purpose of any hearing, investigation, or other proceeding authorized or directed under this section, the provisions of section 11 So in original. Probably should be “sections”. 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, papers, and documents) shall apply to the jurisdiction, powers, and duties of the Secretary or any officer designated by him.
+(3) For the purpose of any hearing, investigation, or other proceeding authorized or directed under this section, the provisions of section 22 So in original. Probably should be “sections”. 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, papers, and documents) shall apply to the jurisdiction, powers, and duties of the Secretary or any officer designated by him.
 
 (4) Any physician or health care provider, after any final decision of the Secretary made after a hearing to which he was a party, irrespective of the amount in controversy, may obtain a review of such decision by a civil action commenced within sixty days after the mailing to him of notice of such decision, but the pendency of such review shall not operate as a stay upon the effect of such decision. Such action shall be brought in the court of appeals of the United States for the judicial circuit in which the plaintiff resides or has his principal place of business, or the Court of Appeals for the District of Columbia. As part of his answer, the Secretary shall file a certified copy of the transcript of the record of the hearing, including all evidence submitted in connection therewith. The findings of fact of the Secretary, if based on substantial evidence in the record as a whole, shall be conclusive.
 
@@ -1105,7 +1105,7 @@ Pub. L. 106–554, § 1(a)(1) [title I], Dec. 21, 2000, 114 Stat. 2763, 2763A–
 
 Pub. L. 106–113, div. B, § 1000(a)(4) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–224.
 
-Pub. L. 105–277, div. A, § 101(f) [title I], Oct. 21, 1998, 105 Stat. 2681–337, 2681–345.
+Pub. L. 105–277, div. A, § 101(f) [title I], Oct. 21, 1998, 112 Stat. 2681–337, 2681–345.
 
 Pub. L. 105–78, title I, Nov. 13, 1997, 111 Stat. 1475.
 
@@ -1632,7 +1632,7 @@ Title 52 of the Revised Statutes, referred to in subsec. (a), consisted of R.S. 
 
 Act of June 15, 1917, referred to in subsec. (a), is act June 15, 1917, ch. 30, 40 Stat. 217, as amended. For complete classification of this Act to the Code, see Tables.
 
-Act of August 7, 1953, referred to in subsec. (g)(1), is known as the Outer Continental Shelf Lands Act, and is classified to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) and Tables.
+Act of August 7, 1953, referred to in subsec. (g)(1), is known as the Outer Continental Shelf Lands Act, and is classified to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 Act of May 22, 1953, referred to in subsec. (g)(1), is known as the Submerged Lands Act, and is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 

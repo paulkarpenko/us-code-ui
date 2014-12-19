@@ -125,7 +125,7 @@ In subsection (a). the words “Notwithstanding any other provision of law” ar
 
   (B) unpaid wages to be withheld for the use and benefit of the laborers and mechanics who were not compensated as required under this chapter.
 
-(3) **Payment.—** — The Comptroller General shall pay the amount administratively determined to be due directly to the laborers and mechanics from amounts withheld on account of underpayments of wages if the amount withheld is adequate. If the amount withheld is not adequate, the Comptroller General shall pay an equitable proportion of the amount due.
+(3) **Payment.—** — The Secretary of Labor shall pay the amount administratively determined to be due directly to the laborers and mechanics from amounts withheld on account of underpayments of wages if the amount withheld is adequate. If the amount withheld is not adequate, the Secretary of Labor shall pay an equitable proportion of the amount due.
 
 **(c) Right of Action and Intervention Against Contractors and Sureties.—** If the accrued payments withheld under the terms of the contract are insufficient to reimburse all the laborers and mechanics who have not been paid the wages required under this chapter, the laborers and mechanics, in the case of a department or agency of the Government, have the same right of action and intervention against the contractor and the contractor’s sureties as is conferred by law on persons furnishing labor or materials. In those proceedings it is not a defense that the laborers and mechanics accepted or agreed to accept less than the required rate of wages or voluntarily made refunds.
 
@@ -143,7 +143,7 @@ In subsection (a). the words “Notwithstanding any other provision of law” ar
 
 (1) **Reorganization plan.—** — Reorganization Plan Numbered 14 of 1950 (eff. May 24, 1950, 64 Stat. 1267) applies to this chapter.
 
-(2) **Section 3145.—** — [Section 3145 of this title](./chapter-031-organization-of-general-services-administration.md#section-3145) applies to contractors and subcontractors referred to in section 3145 who are engaged in the performance of contracts subject to this chapter.
+(2) **Section 3145.—** — [Section 3145 of this title](./chapter-031-general.md#section-3145) applies to contractors and subcontractors referred to in section 3145 who are engaged in the performance of contracts subject to this chapter.
 
 ### Statutory Notes
 
@@ -164,6 +164,9 @@ In subsection (d)(4), the words “United States Court of Federal Claims” are 
 
 #### References in Text
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (e)(1), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+2013—Subsec. (b)(3). Pub. L. 113–50 substituted “Secretary of Labor” for “Comptroller General” in two places.
 
 
 <a id="section-3704"></a>

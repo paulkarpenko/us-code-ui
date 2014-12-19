@@ -205,17 +205,18 @@ This subchapter applies to—
 
 (4) a reduction in pay; and
 
-(5) a furlough of 30 days or less; but does not apply to—
+(5) a furlough of 30 days or less;
+but does not apply to—
 
-  (A) a suspension or removal under [section 7532 of this title](./chapter-075-adverse-actions.md#section-7532),
+(A) a suspension or removal under [section 7532 of this title](./chapter-075-adverse-actions.md#section-7532),
 
-  (B) a reduction-in-force action under [section 3502 of this title](./chapter-035-retention-preference-voluntary-separation-incentive-payments-restoration-and-reemployment.md#section-3502),
+(B) a reduction-in-force action under [section 3502 of this title](./chapter-035-retention-preference-voluntary-separation-incentive-payments-restoration-and-reemployment.md#section-3502),
 
-  (C) the reduction in grade of a supervisor or manager who has not completed the probationary period under [section 3321(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3321/a/2&num=0&edition=prelim) if such reduction is to the grade held immediately before becoming such a supervisor or manager,
+(C) the reduction in grade of a supervisor or manager who has not completed the probationary period under [section 3321(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3321/a/2&num=0&edition=prelim) if such reduction is to the grade held immediately before becoming such a supervisor or manager,
 
-  (D) a reduction in grade or removal under [section 4303 of this title](./chapter-043-performance-appraisal.md#section-4303), or
+(D) a reduction in grade or removal under [section 4303 of this title](./chapter-043-performance-appraisal.md#section-4303), or
 
-  (E) an action initiated under section 1215 or 7521 of this title.
+(E) an action initiated under section 1215 or 7521 of this title.
 
 ### Statutory Notes
 
@@ -315,7 +316,8 @@ For the purpose of this subchapter, “agency” means—
 
 (8) the National Aeronautics and Space Administration; and
 
-(9) such other agency of the Government of the United States as the President designates in the best interests of national security. The President shall report any designation to the Committees on the Armed Services of the Congress.
+(9) such other agency of the Government of the United States as the President designates in the best interests of national security.
+The President shall report any designation to the Committees on the Armed Services of the Congress.
 
 ### Statutory Notes
 

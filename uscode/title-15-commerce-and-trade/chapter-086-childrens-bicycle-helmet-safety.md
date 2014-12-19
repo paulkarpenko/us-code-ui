@@ -29,7 +29,8 @@ A grant made under [section 6001 of this title](./chapter-086-childrens-bicycle-
 
 (3) develop and administer a program to educate individuals under the age of 16 and their families on the importance of wearing such helmets in order to improve bicycle safety; or
 
-(4) carry out any combination of the activities described in paragraphs (1), (2), and (3). The Administrator shall review grant applications for compliance with this section prior to awarding grants.
+(4) carry out any combination of the activities described in paragraphs (1), (2), and (3).
+The Administrator shall review grant applications for compliance with this section prior to awarding grants.
 
 
 <a id="section-6003"></a>

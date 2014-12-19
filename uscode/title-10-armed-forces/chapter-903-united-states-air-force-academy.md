@@ -744,7 +744,7 @@ Amendment by Pub. L. 109–364 effective Oct. 1, 2008, see section 531(d) of Pub
 
 <a id="section-9345a"></a>
 ## § 9345a. Foreign and cultural exchange activities
-**(a) Attendance Authorized.—** The Secretary of the Air Force may authorize the Air Force Academy to permit students, officers, and other representatives of a foreign country to attend the Air Force Academy for periods of not more than two weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross cultural interactions and understanding, and cultural immersion of cadets.
+**(a) Attendance Authorized.—** The Secretary of the Air Force may authorize the Air Force Academy to permit students, officers, and other representatives of a foreign country to attend the Air Force Academy for periods of not more than four weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross cultural interactions and understanding, and cultural immersion of cadets.
 
 **(b) Costs and Expenses.—** The Secretary may pay the travel, subsistence, and similar personal expenses of persons incurred to attend the Air Force Academy under subsection (a).
 
@@ -755,6 +755,11 @@ Amendment by Pub. L. 109–364 effective Oct. 1, 2008, see section 531(d) of Pub
 (1) The Air Force Academy shall bear the costs of the attendance of persons under subsection (a) from funds appropriated for the Air Force Academy and from such additional funds as may be available to the Air Force Academy from a source, other than appropriated funds, to support cultural immersion, regional awareness, or foreign language training activities in connection with their attendance.
 
 (2) Expenditures from appropriated funds in support of activities under this section may not exceed $40,000 during any fiscal year.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–291 substituted “four weeks” for “two weeks”.
 
 
 <a id="section-9346"></a>
@@ -1365,13 +1370,42 @@ Secretary of a military department to provide for focus groups to ascertain info
 
 **(d) Transfers From Nonappropriated Fund Operation.—** The Secretary of the Air Force may, subject to the acceptance of the corporation, transfer to the corporation all title to and ownership of the assets and liabilities of the Air Force nonappropriated fund instrumentality whose functions include providing support for the athletic programs of the Academy, including bank accounts and financial reserves in its accounts, equipment, supplies, and other personal property, but excluding any interest in real property.
 
-**(e) Acceptance of Gifts.—** The Secretary of the Air Force may accept from the corporation funds, supplies, and services for the support of cadets and Academy personnel during their participation in Academy or corporate events related to the athletic programs of the Academy.
+**(e) Acceptance of Support.—**
 
-**(f) Leases.—** The Secretary of the Air Force may, in accordance with [section 2667 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2667), lease real and personal property to the corporation for purposes related to the athletic programs of the Academy. Funds received from any such lease may be retained and spent by the Secretary to support athletic programs of the Academy.
+(1) **Support received from the corporation.—** — Notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), the Secretary of the Air Force may accept from the corporation funds, supplies, equipment, and services for the support of the athletic programs of the Academy.
 
-**(g) Cooperative Agreements.—** The Secretary of the Air Force may enter into cooperative agreements (as described in [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim)) with the corporation for purposes related to the athletic programs of the Academy.
+(2) **Funds received from other sources.—** — The Secretary may charge fees for the support of the athletic programs of the Academy. The Secretary may accept and retain fees for services and other benefits provided incident to the operation of its athletic programs, including fees from the National Collegiate Athletic Association, fees from athletic conferences, game guarantees from other educational institutions, fees for ticketing or licensing, and other consideration provided incidental to the execution of the athletic programs of the Academy.
+
+(3) **Limitations.—** — The Secretary shall ensure that contributions accepted under this subsection do not—
+
+  (A) reflect unfavorably on the ability of the Department of the Air Force, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner; or
+
+  (B) compromise the integrity or appearance of integrity of any program of the Department of the Air Force, or any individual involved in such a program.
+
+**(f) Leases and Licenses.—**
+
+(1) **In general.—** — The Secretary of the Air Force may, in accordance with [section 2667 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2667), enter into leases or licenses with the corporation for the purpose of supporting the athletic programs of the Academy. Consideration provided under such a lease or license may be provided in the form of funds, supplies, equipment, and services for the support of the athletic programs of the Academy.
+
+(2) **Support services.—** — The Secretary may provide support services to the corporation without charge while the corporation conducts its support activities at the Academy. In this paragraph, the term “support services” includes utilities, office furnishings and equipment, communications services, records staging and archiving, audio and video support, and security systems in conjunction with the leasing or licensing of property. Any such support services may only be provided without any liability of the United States to the corporation.
+
+**(g) Contracts and Cooperative Agreements.—** The Secretary of the Air Force may enter into contracts and cooperative agreements with the corporation for the purpose of supporting the athletic programs of the Academy. Notwithstanding [section 2304(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/k&num=0&edition=prelim), the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to [section 2304(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c/5&num=0&edition=prelim). Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property, services, or travel for the direct benefit or use of the athletic programs of the Academy.
+
+**(h) Trademarks and Service Marks.—**
+
+(1) **Licensing, marketing, and sponsorship agreements.—** — An agreement under subsection (g) may, consistent with [section 2260 of this title](./chapter-134-miscellaneous-administrative-provisions.md#section-2260) (other than subsection (d) of such section), authorize the corporation to enter into licensing, marketing, and sponsorship agreements relating to trademarks and service marks identifying the Academy, subject to the approval of the Secretary of the Air Force.
+
+(2) **Limitations.—** — No licensing, marketing, or sponsorship agreement may be entered into under paragraph (1) if—
+
+  (A) such agreement would reflect unfavorably on the ability of the Department of the Air Force, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner; or
+
+  (B) the Secretary determines that the use of the trademark or service mark would compromise the integrity or appearance of integrity of any program of the Department of the Air Force, or any individual involved in such a program.
+
+**(i) Retention and Use of Funds.—** Any funds received under this section may be retained for use in support of the athletic programs of the Academy and shall remain available until expended.
 
 ### Statutory Notes
 
 #### References in Text
 Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (b)(1), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.
+
+#### Amendments
+2014—Subsecs. (e) to (i). Pub. L. 113–291 added subsecs. (e) to (i) and struck out former subsecs. (e) to (g) which related to acceptance of gifts, leases of real and personal property, and cooperative agreements, respectively.

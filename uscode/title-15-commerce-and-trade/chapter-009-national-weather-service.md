@@ -18,6 +18,9 @@ Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set 
 
 Prior to Oct. 1, 1890, the functions of the Weather Bureau were exercised by the Signal Corps of the Army. Act October 1, 1890, created the present Bureau in the Department of Agriculture. By Reorg. Plan No. IV of 1940, § 8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236, the Bureau and its functions were transferred to the Department of Commerce, “Provided, That the Department of Agriculture may continue to make snow surveys and to conduct research concerning: (a) relationships between weather and crops, (b) long-range weather forecasting, and (c) relationships between weather and soil erosion.”
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–86, § 1, Mar. 6, 2014, 128 Stat. 1015, provided that: “This Act [amending [section 313d of this title](./chapter-009-national-weather-service.md#section-313d) and amending provisions set out as a note under [section 313d of this title](./chapter-009-national-weather-service.md#section-313d)] may be cited as the ‘National Integrated Drought Information System Reauthorization Act of 2014’.”
+
 #### Short Title of 2006 Amendment
 Pub. L. 109–430, § 1, Dec. 20, 2006, 120 Stat. 2918, provided that: “This Act [enacting [section 313d of this title](./chapter-009-national-weather-service.md#section-313d) and provisions set out as notes under [section 313d of this title](./chapter-009-national-weather-service.md#section-313d)] may be cited as the ‘National Integrated Drought Information System Act of 2006’.”
 
@@ -249,40 +252,68 @@ Pub. L. 107–253, § 4, Oct. 29, 2002, 116 Stat. 1732, required the National Oc
 
 <a id="section-313d"></a>
 ## § 313d. NIDIS program
-**(a) In general** The Under Secretary, through the National Weather Service and other appropriate weather and climate programs in the National Oceanic and Atmospheric Administration, shall establish a National Integrated Drought Information System.
+**(a) In general** The Under Secretary, through the National Weather Service and other appropriate weather and climate programs in the National Oceanic and Atmospheric Administration, shall establish a National Integrated Drought Information System to better inform and provide for more timely decisionmaking to reduce drought related impacts and costs.
 
 **(b) System functions** The National Integrated Drought Information System shall—
 
 (1) provide an effective drought early warning system that—
 
-  (A) is a comprehensive system that collects and integrates information on the key indicators of drought in order to make usable, reliable, and timely drought forecasts and assessments of drought, including assessments of the severity of drought conditions and impacts;
+  (A) collects and integrates information on the key indicators of drought and drought impacts in order to make usable, reliable, and timely forecasts of drought, including assessments of the severity of drought conditions and impacts; and
 
-  (B) communicates drought forecasts, drought conditions, and drought impacts on an ongoing basis to—
+  (B) provides such information, forecasts, and assessments on both national and regional levels;
 
-    (i) decisionmakers at the Federal, regional, State, tribal, and local levels of government;
+(2) communicate drought forecasts, drought conditions, and drought impacts on an ongoing basis to public and private entities engaged in drought planning and preparedness, including—
 
-    (ii) the private sector; and
+  (A) decisionmakers at the Federal, regional, State, tribal, and local levels of government;
 
-    (iii) the public,
-    in order to engender better informed and more timely decisions thereby leading to reduced impacts and costs; and
+  (B) the private sector; and
 
-  (C) includes timely (where possible real-time) data, information, and products that reflect local, regional, and State differences in drought conditions;
+  (C) the public;
 
-(2) coordinate, and integrate as practicable, Federal research in support of a drought early warning system; and
+(3) provide timely data, information, and products that reflect local, regional, and State differences in drought conditions;
 
-(3) build upon existing forecasting and assessment programs and partnerships.
+(4) coordinate, and integrate as practicable, Federal research and monitoring in support of a drought early warning system;
+
+(5) build upon existing forecasting and assessment programs and partnerships, including through the designation of one or more cooperative institutes to assist with National Integrated Drought Information System functions; and
+
+(6) continue ongoing research and monitoring activities related to drought, including research activities relating to length, severity, and impacts of drought and the role of extreme weather events and climate variability in drought.
 
 **(c) Consultation** The Under Secretary shall consult with relevant Federal, regional, State, tribal, and local government agencies, research institutions, and the private sector in the development of the National Integrated Drought Information System.
 
 **(d) Cooperation from other Federal agencies** Each Federal agency shall cooperate as appropriate with the Under Secretary in carrying out this section.
+
+**(e) Report**
+
+(1) **In general** — Not later than 18 months after March 6, 2014, the Under Secretary shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that contains—
+
+  (A) an analysis of the implementation of the National Integrated Drought Information System program, including how the information, forecasts, and assessments are utilized in drought policy planning and response activities;
+
+  (B) specific plans for continued development of such program, including future milestones; and
+
+  (C) an identification of research, monitoring, and forecasting needs to enhance the predictive capability of drought early warnings that include—
+
+    (i) the length and severity of droughts;
+
+    (ii) the contribution of weather events to reducing the severity or ending drought conditions; and
+
+    (iii) regionally specific drought impacts.
+
+(2) **Consultation** — In developing the report under paragraph (1), the Under Secretary shall consult with relevant Federal, regional, State, tribal, and local government agencies, research institutions, and the private sector.
 
 ### Statutory Notes
 
 #### References in Text
 This section, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 109–430, Dec. 20, 2006, 120 Stat. 2918, which enacted this section and provisions set out as notes under this section and [section 311 of this title](./chapter-009-national-weather-service.md#section-311). For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under [section 311 of this title](./chapter-009-national-weather-service.md#section-311) and Tables.
 
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–86, § 2(1), inserted “to better inform and provide for more timely decisionmaking to reduce drought related impacts and costs” before period at end.
+
+Subsec. (b). Pub. L. 113–86, § 2(2), added subsec. (b) and struck out former subsec. (b) which set out required functions of the National Integrated Drought Information System.
+
+Subsec. (e). Pub. L. 113–86, § 2(3), added subsec. (e).
+
 #### Authorization of Appropriations
-Pub. L. 109–430, § 4, Dec. 20, 2006, 120 Stat. 2919, provided that: “There are authorized to be appropriated to carry out this Act [see Short Title of 2006 Amendment note set out under [section 311 of this title](./chapter-009-national-weather-service.md#section-311)]— “(1) $11,000,000 for fiscal year 2007; “(2) $12,000,000 for fiscal year 2008; “(3) $13,000,000 for fiscal year 2009; “(4) $14,000,000 for fiscal year 2010; “(5) $15,000,000 for fiscal year 2011; and “(6) $16,000,000 for fiscal year 2012.”
+Pub. L. 109–430, § 4, Dec. 20, 2006, 120 Stat. 2919, as amended by Pub. L. 113–86, § 3, Mar. 6, 2014, 128 Stat. 1016, provided that: “There are authorized to be appropriated to carry out this Act [see Short Title of 2006 Amendment note set out under [section 311 of this title](./chapter-009-national-weather-service.md#section-311)] $13,500,000 for each of fiscal years 2014 through 2018.”
 
 #### Definitions
 Pub. L. 109–430, § 2, Dec. 20, 2006, 120 Stat. 2918, provided that: “In this Act [see Short Title of 2006 Amendment note set out under [section 311 of this title](./chapter-009-national-weather-service.md#section-311)]: “(1) Drought.—The term ‘drought’ means a deficiency in precipitation—“(A) that leads to a deficiency in surface or subsurface water supplies (including rivers, streams, wetlands, ground water, soil moisture, reservoir supplies, lake levels, and snow pack); and “(B) that causes or may cause—“(i) substantial economic or social impacts; or “(ii) substantial physical damage or injury to individuals, property, or the environment. “(2) Under secretary.—The term ‘Under Secretary’ means the Under Secretary of Commerce for Oceans and Atmosphere.”
@@ -446,9 +477,12 @@ Pub. L. 102–567, title I, § 101(c), Oct. 29, 1992, 106 Stat. 4270, provided t
 <a id="section-326"></a>
 ## § 326. Maintenance of printing office in Washington, D.C.
 
-When so specified in appropriation Acts, the National Weather Service is authorized to maintain a printing office in the city of Washington for the printing of weather maps, bulletins, circulars, forms, and other publications: Provided, That no printing shall be done by the National Weather Service which could be done at the Government Printing Office without impairing the service of said Service.
+When so specified in appropriation Acts, the National Weather Service is authorized to maintain a printing office in the city of Washington for the printing of weather maps, bulletins, circulars, forms, and other publications: Provided, That no printing shall be done by the National Weather Service which could be done at the Government Publishing Office without impairing the service of said Service.
 
 ### Statutory Notes
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Transfer of Functions
 Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under [section 311 of this title](./chapter-009-national-weather-service.md#section-311). Functions of Bureau and Chief of Bureau transferred to Secretary of Commerce by Reorg. Plan. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under [section 311 of this title](./chapter-009-national-weather-service.md#section-311).

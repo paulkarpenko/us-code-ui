@@ -126,7 +126,7 @@ For assignment of certain emergency preparedness functions to Archivist of Unite
 
 (1) The Archivist is authorized to select, appoint, employ, and fix the compensation of such officers and employees, pursuant to part III of title 5, as are necessary to perform the functions of the Archivist and the Administration.
 
-(2) Notwithstanding paragraph (1), the Archivist is authorized to appoint, subject to the consultation requirements set forth in paragraph (f)(2) of [section 2203 of this title](./chapter-022-presidential-records.md#section-2203), a director at each Presidential archival depository established under [section 2112 of this title](./chapter-021-national-archives-and-records-administration.md#section-2112). The Archivist may appoint a director without regard to subchapter I and subchapter VIII of chapter 33 of title 5, United States Code, governing appointments in the competitive service and the Senior Executive Service. A director so appointed shall be responsible for the care and preservation of the Presidential records and historical materials deposited in a Presidential archival depository, shall serve at the pleasure of the Archivist and shall perform such other functions as the Archivist may specify.
+(2) Notwithstanding paragraph (1), the Archivist is authorized to appoint, subject to the consultation requirements set forth in paragraph (f)(2) of [section 2203 of this title](./chapter-022-presidential-records.md#section-2203),11 See References in Text note below. a director at each Presidential archival depository established under [section 2112 of this title](./chapter-021-national-archives-and-records-administration.md#section-2112). The Archivist may appoint a director without regard to subchapter I and subchapter VIII of chapter 33 of title 5, United States Code, governing appointments in the competitive service and the Senior Executive Service. A director so appointed shall be responsible for the care and preservation of the Presidential records and historical materials deposited in a Presidential archival depository, shall serve at the pleasure of the Archivist and shall perform such other functions as the Archivist may specify.
 
 **(b)** The Archivist is authorized to obtain the services of experts and consultants under [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim).
 
@@ -135,6 +135,9 @@ For assignment of certain emergency preparedness functions to Archivist of Unite
 **(d)** Notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), United States Code, the Archivist is authorized to accept and utilize voluntary and uncompensated services.
 
 ### Statutory Notes
+
+#### References in Text
+Paragraph (f)(2) of [section 2203 of this title](./chapter-022-presidential-records.md#section-2203), referred to in subsec. (a)(2), was redesignated (g)(2) of [section 2203 of this title](./chapter-022-presidential-records.md#section-2203) by Pub. L. 113–187, § 2(c)(3), Nov. 26, 2014, 128 Stat. 2006.
 
 #### Prior Provisions
 A prior section 2105 was renumbered [section 2109 of this title](./chapter-021-national-archives-and-records-administration.md#section-2109).
@@ -173,16 +176,27 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 
 <a id="section-2107"></a>
 ## § 2107. Acceptance of records for historical preservation
+**(a) In General.—** When it appears to the Archivist to be in the public interest, the Archivist may—
 
-When it appears to the Archivist to be in the public interest, he may—
+(1) accept for deposit with the National Archives of the United States the records of a Federal agency, the Congress, the Architect of the Capitol, or the Supreme Court determined by the Archivist to have sufficient historical or other value to warrant their continued preservation by the United States Government;
 
-(1) accept for deposit with the National Archives of the United States the records of a Federal agency, the Congress, the Architect of the Capitol, or the Supreme Court determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the United States Government;
+(2) direct and effect the transfer of records of a Federal agency determined by the Archivist to have sufficient historical or other value to warrant their continued preservation by the United States Government to the National Archives of the United States, as soon as practicable, and at a time mutually agreed upon by the Archivist and the head of that Federal agency not later than thirty years after such records were created or received by that agency, unless the head of such agency has certified in writing to the Archivist that such records must be retained in the custody of such agency for use in the conduct of the regular business of the agency;
 
-(2) direct and effect the transfer to the National Archives of the United States of rec­ords of a Federal agency that have been in existence for more than thirty years and determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the United States Government, unless the head of the agency which has custody of them certified in writing to the Archivist that they must be retained in his custody for use in the conduct of the regular current business of the agency;
-
-(3) direct and effect, with the approval of the head of the originating agency, or if the existence of the agency has been terminated, then with the approval of his successor in function, if any, the transfer of records, deposited or approved for deposit with the National Archives of the United States to public or educational institutions or associations; title to the records to remain vested in the United States unless otherwise authorized by Congress; and
+(3) direct and effect, with the approval of the head of the originating Federal agency, or if the existence of the agency has been terminated, with the approval of the head of that agency’s successor in function, if any, the transfer of records, deposited or approved for deposit with the National Archives of the United States to public or educational institutions or associations; title to the records to remain vested in the United States unless otherwise authorized by Congress; and
 
 (4) transfer materials from private sources authorized to be received by the Archivist by [section 2111 of this title](./chapter-021-national-archives-and-records-administration.md#section-2111).
+
+**(b) Early Transfer of Records.—** The Archivist—
+
+(1) in consultation with the head of the originating Federal agency, is authorized to accept a copy of the records described in subsection (a)(2) that have been in existence for less than thirty years; and
+
+(2) may not disclose any such records until the expiration of—
+
+  (A) the thirty-year period described in paragraph (1);
+
+  (B) any longer period established by the Archivist by order; or
+
+  (C) any shorter period agreed to by the originating Federal agency.
 
 ### Statutory Notes
 
@@ -193,6 +207,8 @@ Based on 44 U.S. Code, 1964 ed., § 397(a) (June 30, 1949, ch. 288, title V, § 
 A prior section 2107 was renumbered [section 2111 of this title](./chapter-021-national-archives-and-records-administration.md#section-2111).
 
 #### Amendments
+2014—Pub. L. 113–187 amended section generally. Prior to amendment, section provided for the acceptance of records by and transfer of records to the National Archives for historical preservation.
+
 1984—Pub. L. 98–497, § 107(a)(1), substituted “Archivist” for “Administrator of General Services” in provisions preceding par. (1), substituted “, the Congress, the Architect of the Capitol, or the Supreme Court” for “or of the Congress” in par. (1), substituted “Archivist” for “Administrator” in par. (2), and substituted “Archivist” for “Administrator” and “section 2111” for “section 2107” in par. (4).
 
 1978—Par. (2). Pub. L. 95–416 substituted “thirty years” for “fifty years”.
@@ -243,6 +259,9 @@ Subsec. (b). Pub. L. 98–497, § 107(a)(2)(D), substituted “Archivist” for 
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under [section 2102 of this title](./chapter-021-national-archives-and-records-administration.md#section-2102).
+
+#### Procedures To Prevent Unauthorized Removal of Classified Records From National Archives
+Pub. L. 113–187, § 6, Nov. 26, 2014, 128 Stat. 2010, provided that: “(a) Classified Records.—Not later than 90 days after the date of the enactment of this Act [Nov. 26, 2014], the Archivist shall prescribe internal procedures to prevent the unauthorized removal of classified records from the National Archives and Records Administration or the destruction or damage of such records, including when such records are accessed or searched electronically. Such procedures shall include, at a minimum, the following prohibitions:“(1) An individual, other than covered personnel, may not view classified records in any room that is not secure, except in the presence of National Archives and Records Administration personnel or under video surveillance. “(2) An individual, other than covered personnel, may not be left alone with classified records, unless that individual is under video surveillance. “(3) An individual, other than covered personnel, may not review classified records while possessing any cellular phone, electronic personal communication device, or any other devices capable of photographing, recording, or transferring images or content. “(4) An individual seeking access to review classified records, as a precondition to such access, must consent to a search of their belongings upon conclusion of their records review. “(5) All notes and other writings prepared by an individual, other than covered personnel, during the course of a review of classified records shall be retained by the National Archives and Records Administration in a secure facility until such notes and other writings are determined to be unclassified, are declassified, or are securely transferred to another secure facility. “(b) Definitions.—In this section:“(1) Covered personnel.—The term ‘covered personnel’ means any individual—“(A) who has an appropriate and necessary reason for accessing classified records, as determined by the Archivist; and “(B) who is either—“(i) an officer or employee of the United States Government with appropriate security clearances; or “(ii) any personnel with appropriate security clearances of a Federal contractor authorized in writing to act for purposes of this section by an officer or employee of the United States Government. “(2) Records.—The term ‘records’ has the meaning given that term under [section 3301 of title 44](./chapter-033-disposal-of-records.md#section-3301), United States Code.”
 
 
 <a id="section-2109"></a>
@@ -310,12 +329,13 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 <a id="section-2111"></a>
 ## § 2111. Material accepted for deposit
-
-When the Archivist considers it to be in the public interest he may accept for deposit—
+**(a) In General.—** When the Archivist considers it to be in the public interest the Archivist may accept for deposit—
 
 (1) the papers and other historical materials of a President or former President of the United States, or other official or former official of the Government, and other papers relating to and contemporary with a President or former President of the United States, subject to restrictions agreeable to the Archivist as to their use; and
 
-(2) documents, including motion-picture films, still pictures, and sound recordings, from private sources that are appropriate for preservation by the Government as evidence of its organization, functions, policies, decisions, procedures, and transactions. This section shall not apply in the case of any Presidential records which are subject to the provisions of chapter 22 of this title.
+(2) recorded information (as such term is defined in [section 3301(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3301/a/2&num=0&edition=prelim)) from private sources that are appropriate for preservation by the Government as evidence of its organization, functions, policies, decisions, procedures, and transactions.
+
+**(b) Exception.—** This section shall not apply in the case of any Presidential records which are subject to the provisions of chapter 22 of this title.
 
 ### Statutory Notes
 
@@ -326,6 +346,8 @@ Based on 44 U.S. Code 1964 ed., § 397(e) (June 30, 1949, ch. 288, title V, § 5
 A prior section 2111 was renumbered [section 2115 of this title](./chapter-021-national-archives-and-records-administration.md#section-2115).
 
 #### Amendments
+2014—Pub. L. 113–187 amended section generally, substituting subsecs. (a) and (b) for similar provisions contained in pars. (1) and (2) and concluding provisions.
+
 1984—Pub. L. 98–497, § 107(a)(5), substituted “Archivist” for “Administrator of General Services” in provisions preceding par. (1), and substituted “Archivist” for “Administrator” in par. (1).
 
 1978—Pub. L. 95–591 inserted provision excluding Presidential records which are subject to provisions of chapter 22 of this title from application of this section.
@@ -337,45 +359,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 Amendment by Pub. L. 95–591 effective with respect to Presidential records created during a term of office of President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as an Effective Date note under [section 2201 of this title](./chapter-022-presidential-records.md#section-2201).
 
 #### Presidential Recordings and Materials Preservation Act
-Pub. L. 93–526, title I, §§ 101–106, Dec. 19, 1974, 88 Stat. 1695–1698, as amended by Pub. L. 98–497, title I, § 107(c), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 108–199, div. F, title V, § 543(a), Jan. 23, 2004, 118 Stat. 346, provided: “That this Act [enacting this note, sections 3315 to 3324 of this title, and provisions set out as a note under [section 3315 of this title](./chapter-033-disposal-of-records.md#section-3315)] may be cited as the ‘Presidential Recordings and Materials Preservation Act’.
-
-#### “delivery and retention of certain presidential materials
-“Sec. 101. (a) Notwithstanding any other law or any agreement or understanding made pursuant to [section 2111 of title 44](./chapter-021-national-archives-and-records-administration.md#section-2111), United States Code any Federal employee in possession shall deliver, and the Archivist of the United States (hereinafter referred to as the ‘Archivist’) shall receive, obtain, or retain, complete possession and control of all original tape recordings of conversations which were recorded or caused to be recorded by any officer or employee of the Federal Government and which—
-
-“(1) involve former President Richard M. Nixon or other individuals who, at the time of the conversation, were employed by the Federal Government;
-
-“(2) were recorded in the White House or in the office of the President in the Executive Office Buildings located in Washington, District of Columbia; Camp David, Maryland; Key Biscayne, Florida; or San Clemente, California; and
-
-“(3) were recorded during the period beginning January 20, 1969, and ending August 9, 1974.
-
-“(b)(1) Notwithstanding any other law or any agreement or understanding made pursuant to [section 2111 of title 44](./chapter-021-national-archives-and-records-administration.md#section-2111), United States Code, the Archivist shall receive, retain, or make reasonable efforts to obtain, complete possession and control of all papers, documents, memorandums, transcripts, and other objects and materials which constitute the Presidential historical materials of Richard M. Nixon, covering the period beginning January 20, 1969, and ending August 9, 1974.
-
-“(2) For purposes of this subsection, the term ‘historical materials’ has the meaning given it by [section 2101 of title 44](./chapter-021-national-archives-and-records-administration.md#section-2101), United States Code.
-
-#### “availability of certain presidential materials
-“Sec. 102. (a) None of the tape recordings or other materials referred to in section 101 shall be destroyed, except as hereafter may be provided by law.
-
-“(b) Notwithstanding any other provision of this title, any other law, or any agreement or understanding made pursuant to [section 2111 of title 44](./chapter-021-national-archives-and-records-administration.md#section-2111), United States Code, the tape recordings and other materials referred to in section 101 shall, immediately upon the date of enactment of this title, be made available, subject to any rights, defenses, or privileges which the Federal Government or any person may invoke, for use in any judicial proceeding or otherwise subject to court subpena or other legal process. Any request by the Office of Watergate Special Prosecution Force, whether by court subpena or other lawful process, for access to such recordings or materials shall at all times have priority over any other request for such recordings or materials.
-
-“(c) Richard M. Nixon, or any person whom he may designate in writing, shall at all times have access to the tape recordings and other materials referred to in section 101 for any purpose which is consistent with the provisions of this title, subsequent and subject to the regulations which the Archivist shall issue pursuant to section 103.
-
-“(d) Any agency or department in the executive branch of the Federal Government shall at all times have access to the tape recordings and other materials referred to in section 101 for lawful Government use, subject to the regulations which the Archivist shall issue pursuant to section 103.
-
-#### “regulations to protect certain tape recordings and other materials
-“Sec. 103. The Archivist shall issue at the earliest possible date such regulations as may be necessary to assure the protection of the tape recordings and other materials referred to in section 101 from loss or destruction, and to prevent access to such recordings and materials by unauthorized persons. The Archivist may transfer such recordings and materials to a Presidential archival depository in accordance with [section 2112 of title 44](./chapter-021-national-archives-and-records-administration.md#section-2112), United States Code.
-
-#### “regulations relating to public access
-“Sec. 104. (a) The Archivist shall, within ninety days after the date of enactment of this title [Dec. 19, 1974], submit to each House of the Congress a report proposing and explaining regulations that would provide public access to the tape recordings and other materials referred to in section 101. Such regulations shall take into account the following factors: “(1) the need to provide the public with the full truth, at the earliest reasonable date, of the abuses of governmental power popularly identified under the generic term ‘Watergate’; “(2) the need to make such recordings and materials available for use in judicial proceedings; “(3) the need to prevent general access, except in accordance with appropriate procedures established for use in judicial proceedings to information relating to the Nation’s security; “(4) the need to protect every individual’s right to a fair and impartial trial; “(5) the need to protect any party’s opportunity to assert any legally or constitutionally based right or privilege which would prevent or otherwise limit access to such recordings and materials; “(6) the need to provide public access to those materials which have general historical significance, and which are not likely to be related to the need described in paragraph (1); and “(7) the need to give to Richard M. Nixon, or his heirs, for his sole custody and use, tape recordings and other materials which are not likely to be related to the need described in paragraph (1) and are not otherwise of general historical significance. “(b) The regulations proposed by the Archivist in the report required by subsection (a) shall not take effect until the expiration of the first period of 60 calendar days of continuous session of the Congress after the date of the submission of such regulations to each House of the Congress. For the purposes of this subsection, continuity of session is broken only by an adjournment of Congress sine die, but the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded. “(c) The provisions of this title shall not apply, on and after the date upon which regulations proposed by the Administrator take effect under subsection (b), to any tape recordings or other materials given to Richard M. Nixon, or his heirs, pursuant to subsection (a)(7). “(d) The provisions of this title shall not in any way affect the rights, limitations or exemptions applicable under the Freedom of Information Act, 5 U.S.C. § 552 et seq.
-
-#### “judicial review
-“Sec. 105. (a) The United States District Court for the District of Columbia shall have exclusive jurisdiction to hear challenges to the legal or constitutional validity of this title or of any regulation issued under the authority granted by this title, and any action or proceeding involving the question of title, ownership, custody, possession, or control of any tape recording or material referred to in section 101 or involving payment of any just compensation which may be due in connection therewith. Any such challenge shall be treated by the court as a matter requiring immediate consideration and resolution, and such challenge shall have priority on the docket of such court over other cases.
-
-“(b) If, under the procedures established by subsection (a), a judicial decision is rendered that a particular provision of this title, or a particular regulation issued under the authority granted by this title, is unconstitutional or otherwise invalid, such decision shall not affect in any way the validity or enforcement of any other provision of this title or any regulation issued under the authority granted by this title.
-
-“(c) If a final decision of such court holds that any provision of this title has deprived an individual of private property without just compensation, then there shall be paid out of the general fund of the Treasury of the United States such amount or amounts as may be adjudged just by that Court.
-
-#### “authorization of appropriations
-“Sec. 106. There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this title.”
+Pub. L. 93–526, title I, §§ 101–106, Dec. 19, 1974, 88 Stat. 1695–1698, as amended by Pub. L. 98–497, title I, § 107(c), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 108–199, div. F, title V, § 543(a), Jan. 23, 2004, 118 Stat. 346, provided: “That this Act [enacting this note, former sections 3315 to 3324 of this title, and provisions set out as a note under former [section 3315 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3315&num=0&edition=prelim)] may be cited as the ‘Presidential Recordings and Materials Preservation Act’. “Title I—Preservation of Presidential Recordings and Materials“delivery and retention of certain presidential materials“Sec. 101. (a) Notwithstanding any other law or any agreement or understanding made pursuant to [section 2111 of title 44](./chapter-021-national-archives-and-records-administration.md#section-2111), United States Code any Federal employee in possession shall deliver, and the Archivist of the United States (hereinafter referred to as the ‘Archivist’) shall receive, obtain, or retain, complete possession and control of all original tape recordings of conversations which were recorded or caused to be recorded by any officer or employee of the Federal Government and which—“(1) involve former President Richard M. Nixon or other individuals who, at the time of the conversation, were employed by the Federal Government; “(2) were recorded in the White House or in the office of the President in the Executive Office Buildings located in Washington, District of Columbia; Camp David, Maryland; Key Biscayne, Florida; or San Clemente, California; and “(3) were recorded during the period beginning January 20, 1969, and ending August 9, 1974. “(b)(1) Notwithstanding any other law or any agreement or understanding made pursuant to [section 2111 of title 44](./chapter-021-national-archives-and-records-administration.md#section-2111), United States Code, the Archivist shall receive, retain, or make reasonable efforts to obtain, complete possession and control of all papers, documents, memorandums, transcripts, and other objects and materials which constitute the Presidential historical materials of Richard M. Nixon, covering the period beginning January 20, 1969, and ending August 9, 1974. “(2) For purposes of this subsection, the term ‘historical materials’ has the meaning given it by [section 2101 of title 44](./chapter-021-national-archives-and-records-administration.md#section-2101), United States Code. “availability of certain presidential materials“Sec. 102. (a) None of the tape recordings or other materials referred to in section 101 shall be destroyed, except as hereafter may be provided by law. “(b) Notwithstanding any other provision of this title, any other law, or any agreement or understanding made pursuant to [section 2111 of title 44](./chapter-021-national-archives-and-records-administration.md#section-2111), United States Code, the tape recordings and other materials referred to in section 101 shall, immediately upon the date of enactment of this title, be made available, subject to any rights, defenses, or privileges which the Federal Government or any person may invoke, for use in any judicial proceeding or otherwise subject to court subpena or other legal process. Any request by the Office of Watergate Special Prosecution Force, whether by court subpena or other lawful process, for access to such recordings or materials shall at all times have priority over any other request for such recordings or materials. “(c) Richard M. Nixon, or any person whom he may designate in writing, shall at all times have access to the tape recordings and other materials referred to in section 101 for any purpose which is consistent with the provisions of this title, subsequent and subject to the regulations which the Archivist shall issue pursuant to section 103. “(d) Any agency or department in the executive branch of the Federal Government shall at all times have access to the tape recordings and other materials referred to in section 101 for lawful Government use, subject to the regulations which the Archivist shall issue pursuant to section 103. “regulations to protect certain tape recordings and other materials“Sec. 103. The Archivist shall issue at the earliest possible date such regulations as may be necessary to assure the protection of the tape recordings and other materials referred to in section 101 from loss or destruction, and to prevent access to such recordings and materials by unauthorized persons. The Archivist may transfer such recordings and materials to a Presidential archival depository in accordance with [section 2112 of title 44](./chapter-021-national-archives-and-records-administration.md#section-2112), United States Code. “regulations relating to public access“Sec. 104. (a) The Archivist shall, within ninety days after the date of enactment of this title [Dec. 19, 1974], submit to each House of the Congress a report proposing and explaining regulations that would provide public access to the tape recordings and other materials referred to in section 101. Such regulations shall take into account the following factors:“(1) the need to provide the public with the full truth, at the earliest reasonable date, of the abuses of governmental power popularly identified under the generic term ‘Watergate’; “(2) the need to make such recordings and materials available for use in judicial proceedings; “(3) the need to prevent general access, except in accordance with appropriate procedures established for use in judicial proceedings to information relating to the Nation’s security; “(4) the need to protect every individual’s right to a fair and impartial trial; “(5) the need to protect any party’s opportunity to assert any legally or constitutionally based right or privilege which would prevent or otherwise limit access to such recordings and materials; “(6) the need to provide public access to those materials which have general historical significance, and which are not likely to be related to the need described in paragraph (1); and “(7) the need to give to Richard M. Nixon, or his heirs, for his sole custody and use, tape recordings and other materials which are not likely to be related to the need described in paragraph (1) and are not otherwise of general historical significance. “(b) The regulations proposed by the Archivist in the report required by subsection (a) shall not take effect until the expiration of the first period of 60 calendar days of continuous session of the Congress after the date of the submission of such regulations to each House of the Congress. For the purposes of this subsection, continuity of session is broken only by an adjournment of Congress sine die, but the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded. “(c) The provisions of this title shall not apply, on and after the date upon which regulations proposed by the Administrator take effect under subsection (b), to any tape recordings or other materials given to Richard M. Nixon, or his heirs, pursuant to subsection (a)(7). “(d) The provisions of this title shall not in any way affect the rights, limitations or exemptions applicable under the Freedom of Information Act, 5 U.S.C. § 552 et seq. “judicial review“Sec. 105. (a) The United States District Court for the District of Columbia shall have exclusive jurisdiction to hear challenges to the legal or constitutional validity of this title or of any regulation issued under the authority granted by this title, and any action or proceeding involving the question of title, ownership, custody, possession, or control of any tape recording or material referred to in section 101 or involving payment of any just compensation which may be due in connection therewith. Any such challenge shall be treated by the court as a matter requiring immediate consideration and resolution, and such challenge shall have priority on the docket of such court over other cases. “(b) If, under the procedures established by subsection (a), a judicial decision is rendered that a particular provision of this title, or a particular regulation issued under the authority granted by this title, is unconstitutional or otherwise invalid, such decision shall not affect in any way the validity or enforcement of any other provision of this title or any regulation issued under the authority granted by this title. “(c) If a final decision of such court holds that any provision of this title has deprived an individual of private property without just compensation, then there shall be paid out of the general fund of the Treasury of the United States such amount or amounts as may be adjudged just by that Court. “authorization of appropriations“Sec. 106. There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this title.”
 
 [Pub. L. 108–199, div. F, title V, § 543(b), Jan. 23, 2004, 118 Stat. 346, provided that: “Nothing in section 103 of the Presidential Recordings and Materials Preservation Act (Public Law 93–526; [44 U.S.C. 2111](./chapter-021-national-archives-and-records-administration.md#section-2111) note), as amended by subsection (a), may be construed as affecting public access to the recordings and materials referred to in that section as provided in regulations promulgated pursuant to section 104 of such Act.]”
 
@@ -604,9 +588,9 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 
 <a id="section-2114"></a>
-## § 2114. Preservation of motion-picture films, still pictures, and sound recordings
+## § 2114. Preservation of audio and visual records
 
-The Archivist may make and preserve motion-picture films, still pictures, and sound recordings pertaining to and illustrative of the historical development of the United States Government and its activities, and provide for preparing, editing, titling, scoring, processing, duplicating, reproducing, exhibiting, and releasing for non-profit educational purposes, motion-picture films, still pictures, and sound recordings in his custody.
+The Archivist may make and preserve audio and visual records, including motion-picture films, still photographs, and sound recordings, in analog, digital, or any other form, pertaining to and illustrative of the historical development of the United States Government and its activities, and provide for preparing, editing, titling, scoring, processing, duplicating, reproducing, exhibiting, and releasing for non-profit educational purposes, motion-picture films, still photographs, and sound recordings in the Archivist’s custody.
 
 ### Statutory Notes
 
@@ -617,6 +601,8 @@ Based on 44 U.S. Code, 1964 ed., § 397(i) (June 30, 1949, ch. 288, title V, § 
 A prior section 2114 was renumbered [section 2118 of this title](./chapter-021-national-archives-and-records-administration.md#section-2118).
 
 #### Amendments
+2014—Pub. L. 113–187 amended section generally. Prior to amendment section related to preservation of motion-picture films, still pictures, and sound recordings.
+
 1984—Pub. L. 98–497, § 107(a)(7), substituted “Archivist” for “Administrator of General Services”.
 
 #### Effective Date of 1984 Amendment
@@ -625,9 +611,9 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 <a id="section-2115"></a>
 ## § 2115. Reports; correction of violations
-**(a)** In carrying out their respective duties and responsibilities under chapters 21, 25, 29, 31, and 33 of this title, the Archivist and the Administrator may each obtain reports from any Federal agency on such agency’s activities under such chapters.
+**(a)** In carrying out the duties and responsibilities under chapters 21, 25, 29, 31, and 33 of this title, the Archivist may obtain reports from any Federal agency on such agency’s activities under such chapters.
 
-**(b)** When either the Archivist or the Administrator finds that a provision of any such chapter has been or is being violated, the Archivist or the Administrator shall (1) inform in writing the head of the agency concerned of the violation and make recommendations for its correction; and (2) unless satisfactory corrective measures are inaugurated within a reasonable time, submit a written report of the matter to the President and the Congress.
+**(b)** When the Archivist finds that a provision of any such chapter has been or is being violated, the Archivist shall (1) inform in writing the head of the agency concerned of the violation and make recommendations for its correction; and (2) unless satisfactory corrective measures are demonstrably commenced within a reasonable time, submit a written report of the matter to the President and the Congress.
 
 ### Statutory Notes
 
@@ -635,6 +621,10 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 Based on 44 U.S. Code, 1964 ed., § 398 (June 30, 1949, ch. 288, title V, § 508, as added Sept. 5, 1950, ch. 849, § 6(d), 64 Stat. 583).
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–187, § 9(e)(1), substituted “the duties” for “their respective duties” and struck out “and the Administrator” after “the Archivist” and “each” before “obtain reports”.
+
+Subsec. (b). Pub. L. 113–187, § 9(e)(2), struck out “either” after “When”, struck out “or the Administrator” after “the Archivist” in two places, and substituted “demonstrably commenced” for “inaugurated”.
+
 1984—Pub. L. 98–497, § 107(a)(8), amended section generally, inserting reference to Archivist and striking out reference to chapter 27 of this title.
 
 1976—Subsec. (b). Pub. L. 94–575 inserted reference to chapter 33 of this title.
@@ -645,11 +635,11 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 <a id="section-2116"></a>
 ## § 2116. Legal status of reproductions; official seal; fees for copies and reproductions
-**(a)** When records that are required by statute to be retained indefinitely have been reproduced by photographic, microphotographic, or other processes, in accordance with standards established by the Archivist the indefinite retention by the photographic, microphoto­graphic, or other reproductions constitutes compliance with the statutory requirement for the indefinite retention of the original records. The reproductions, as well as reproductions made under regulations to carry out chapter 21, 29, 31, and 33 of this title, shall have the same legal status as the originals.
+**(a)** When records that are required by statute to be retained indefinitely have been reproduced by photographic, microphotographic, digital, or other processes, in accordance with standards established by the Archivist the indefinite retention by the photographic, microphotographic, digital, or other reproductions constitutes compliance with the statutory requirement for the indefinite retention of the original records. The reproductions, as well as reproductions made under regulations to carry out chapter 21, 29, 31, and 33 of this title, shall have the same legal status as the originals.
 
 **(b)** There shall be an official seal for the National Archives of the United States which shall be judicially noticed. When a copy or reproduction, furnished under this section, is authenticated by the official seal and certified by the Archivist, the copy or reproduction shall be admitted in evidence equally with the original from which it was made.
 
-**(c)** The Archivist may charge a fee set to recover the costs for making or authenticating copies or reproductions of materials transferred to his custody. Such fee shall be fixed by the Archivist at a level which will recover, so far as practicable, all elements of such costs, and may, in the Archivist’s discretion, include increments for the estimated replacement cost of equipment. Such fees shall be paid into, administered, and expended as a part of the National Archives Trust Fund. The Archivist may not charge for making or authenticating copies or reproductions of materials for official use by the United States Government unless appropriations available to the Archivist for this purpose are insufficient to cover the cost of performing the work.
+**(c)** The Archivist may charge a fee set to recover the costs for making or authenticating copies or reproductions of materials transferred to the Archivist’s custody. Such fee shall be fixed by the Archivist at a level which will recover, so far as practicable, all elements of such costs, and may, in the Archivist’s discretion, include increments for the estimated replacement cost of equipment. Such fees shall be paid into, administered, and expended as a part of the National Archives Trust Fund. The Archivist may not charge for making or authenticating copies or reproductions of materials for official use by the United States Government unless appropriations available to the Archivist for this purpose are insufficient to cover the cost of performing the work.
 
 ### Statutory Notes
 
@@ -657,6 +647,10 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 Based on 44 U.S. Code, 1964 ed., § 399 (June 30, 1949, ch. 288, title V, § 509, as added Sept. 5, 1950, ch. 849, § 6(d), 64 Stat. 583).
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–187, § 3(d), inserted “digital,” after “microphotographic,” in two places.
+
+Subsec. (c). Pub. L. 113–187, § 8(1), substituted “the Archivist’s custody” for “his custody”.
+
 1984—Subsec. (a). Pub. L. 98–497, § 107(a)(9)(A), substituted “Archivist” for “Administrator of General Services”.
 
 Subsec. (b). Pub. L. 98–497, § 107(a)(9)(B), substituted “Archivist” for “Administrator”.

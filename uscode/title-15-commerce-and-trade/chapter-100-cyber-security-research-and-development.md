@@ -53,7 +53,7 @@ In this chapter:
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–305, Nov. 27, 2002, 116 Stat. 2367, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-100-cyber-security-research-and-development.md#section-7401) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–305, Nov. 27, 2002, 116 Stat. 2367, known as the Cyber Security Research and Development Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-100-cyber-security-research-and-development.md#section-7401) and Tables.
 
 
 <a id="section-7403"></a>
@@ -76,9 +76,39 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
   (G) vulnerability assessments and techniques for quantifying risk;
 
-  (H) remote access and wireless security; and
+  (H) remote access and wireless security;
 
-  (I) enhancement of law enforcement ability to detect, investigate, and prosecute cyber-crimes, including those that involve piracy of intellectual property.
+  (I) enhancement of law enforcement ability to detect, investigate, and prosecute cyber-crimes, including those that involve piracy of intellectual property;
+
+  (J) secure fundamental protocols that are integral to inter-network communications and data exchange;
+
+  (K) secure software engineering and software assurance, including—
+
+    (i) programming languages and systems that include fundamental security features;
+
+    (ii) portable or reusable code that remains secure when deployed in various environments;
+
+    (iii) verification and validation technologies to ensure that requirements and specifications have been implemented; and
+
+    (iv) models for comparison and metrics to assure that required standards have been met;
+
+  (L) holistic system security that—
+
+    (i) addresses the building of secure systems from trusted and untrusted components;
+
+    (ii) proactively reduces vulnerabilities;
+
+    (iii) addresses insider threats; and
+
+    (iv) supports privacy in conjunction with improved security;
+
+  (M) monitoring and detection;
+
+  (N) mitigation and rapid recovery methods;
+
+  (O) security of wireless networks and mobile devices; and
+
+  (P) security of cloud infrastructure and services.
 
 (2) **Merit review; competition** — Grants shall be awarded under this section on a merit-reviewed competitive basis.
 
@@ -100,7 +130,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 (2) **Merit review; competition** — Grants shall be awarded under this subsection on a merit-reviewed competitive basis.
 
-(3) **Purpose** — The purpose of the Centers shall be to generate innovative approaches to computer and network security by conducting cutting-edge, multidisciplinary research in computer and network security, including the research areas described in subsection (a)(1) of this section.
+(3) **Purpose** — The purpose of the Centers shall be to generate innovative approaches to computer and network security by conducting cutting-edge, multidisciplinary research in computer and network security, including improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas described in subsection (a)(1) of this section.
 
 (4) **Applications** — An institution of higher education, nonprofit research institution, or consortia thereof seeking funding under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
 
@@ -110,7 +140,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
   (C) how the Center will contribute to increasing the number and quality of computer and network security researchers and other professionals, including individuals from groups historically underrepresented in these fields; and
 
-  (D) how the center 11 So in original. Probably should be capitalized. will disseminate research results quickly and widely to improve cyber security in information technology networks, products, and services.
+  (D) how the Center will disseminate research results quickly and widely to improve cyber security in information technology networks, products, and services.
 
 (5) **Criteria** — In evaluating the applications submitted under paragraph (4), the Director shall consider, at a minimum—
 
@@ -118,9 +148,23 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
   (B) the experience of the applicant in conducting research on computer and network security and the capacity of the applicant to foster new multidisciplinary collaborations;
 
-  (C) the capacity of the applicant to attract and provide adequate support for a diverse group of undergraduate and graduate students and postdoctoral fellows to pursue computer and network security research; and
+  (C) the capacity of the applicant to attract and provide adequate support for a diverse group of undergraduate and graduate students and postdoctoral fellows to pursue computer and network security research;
 
-  (D) the extent to which the applicant will partner with government laboratories, for-profit entities, other institutions of higher education, or nonprofit research institutions, and the role the partners will play in the research undertaken by the Center.
+  (D) the extent to which the applicant will partner with government laboratories, for-profit entities, other institutions of higher education, or nonprofit research institutions, and the role the partners will play in the research undertaken by the Center;
+
+  (E) the demonstrated capability of the applicant to conduct high performance computation integral to complex computer and network security research, through on-site or off-site computing;
+
+  (F) the applicant’s affiliation with private sector entities involved with industrial research described in subsection (a)(1);
+
+  (G) the capability of the applicant to conduct research in a secure environment;
+
+  (H) the applicant’s affiliation with existing research programs of the Federal Government;
+
+  (I) the applicant’s experience managing public-private partnerships to transition new technologies into a commercial setting or the government user community;
+
+  (J) the capability of the applicant to conduct interdisciplinary cybersecurity research, basic and applied, such as in law, economics, or behavioral sciences; and
+
+  (K) the capability of the applicant to conduct research in areas such as systems security, wireless security, networking and protocols, formal methods and high-performance computing, nanotechnology, or industrial control systems.
 
 (6) **Annual meeting** — The Director shall convene an annual meeting of the Centers in order to foster collaboration and communication between Center participants.
 
@@ -135,6 +179,17 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
   (D) $36,000,000 for fiscal year 2006; and
 
   (E) $36,000,000 for fiscal year 2007.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (a)(1)(J) to (P). Pub. L. 113–274, § 201(e), added subpars. (J) to (P).
+
+Subsec. (b)(3). Pub. L. 113–274, § 202(1), substituted “improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas” for “the research areas”.
+
+Subsec. (b)(4)(D). Pub. L. 113–274, § 202(2), substituted “the Center” for “the center”.
+
+Subsec. (b)(5)(E) to (K). Pub. L. 113–274, § 202(3), added subpars. (E) to (K).
 
 
 <a id="section-7404"></a>
@@ -321,27 +376,39 @@ In carrying out sections 7403 and 7404 of this title, the Director shall consult
 ## § 7406. National Institute of Standards and Technology programs
 **(a) , (b) Omitted**
 
-**(c) Checklists for Government systems**
+**(c) Security automation and checklists for Government systems**
 
-(1) **In general** — The Director of the National Institute of Standards and Technology shall develop, and revise as necessary, a checklist setting forth settings and option selections that minimize the security risks associated with each computer hardware or software system that is, or is likely to become, widely used within the Federal Government.
+(1) **In general** — The Director of the National Institute of Standards and Technology shall, as necessary, develop and revise security automation standards, associated reference materials (including protocols), and checklists providing settings and option selections that minimize the security risks associated with each information technology hardware or software system and security tool that is, or is likely to become, widely used within the Federal Government, thereby enabling standardized and interoperable technologies, architectures, and frameworks for continuous monitoring of information security within the Federal Government.
 
-(2) **Priorities for development; excluded systems** — The Director of the National Institute of Standards and Technology may establish priorities for the development of checklists under this paragraph on the basis of the security risks associated with the use of the system, the number of agencies that use a particular system, the usefulness of the checklist to Federal agencies that are users or potential users of the system, or such other factors as the Director determines to be appropriate. The Director of the National Institute of Standards and Technology may exclude from the application of paragraph (1) any computer hardware or software system for which the Director of the National Institute of Standards and Technology determines that the development of a checklist is inappropriate because of the infrequency of use of the system, the obsolescence of the system, or the inutility or impracticability of developing a checklist for the system.
+(2) **Priorities for development** — The Director of the National Institute of Standards and Technology shall establish priorities for the development of standards, reference materials, and checklists under this subsection on the basis of—
 
-(3) **Dissemination of checklists** — The Director of the National Institute of Standards and Technology shall make any checklist developed under this paragraph for any computer hardware or software system available to each Federal agency that is a user or potential user of the system.
+  (A) the security risks associated with the use of the system;
 
-(4) **Agency use requirements** — The development of a checklist under paragraph (1) for a computer hardware or software system does not—
+  (B) the number of agencies that use a particular system or security tool;
 
-  (A) require any Federal agency to select the specific settings or options recommended by the checklist for the system;
+  (C) the usefulness of the standards, reference materials, or checklists to Federal agencies that are users or potential users of the system;
+
+  (D) the effectiveness of the associated standard, reference material, or checklist in creating or enabling continuous monitoring of information security; or
+
+  (E) such other factors as the Director of the National Institute of Standards and Technology determines to be appropriate.
+
+(3) **Excluded systems** — The Director of the National Institute of Standards and Technology may exclude from the application of paragraph (1) any information technology hardware or software system or security tool for which such Director determines that the development of a standard, reference material, or checklist is inappropriate because of the infrequency of use of the system, the obsolescence of the system, or the lack of utility or impracticability of developing a standard, reference material, or checklist for the system.
+
+(4) **Dissemination of standards and related materials** — The Director of the National Institute of Standards and Technology shall ensure that Federal agencies are informed of the availability of any standard, reference material, checklist, or other item developed under this subsection.
+
+(5) **Agency use requirements** — The development of standards, reference materials, and checklists under paragraph (1) for an information technology hardware or software system or tool does not—
+
+  (A) require any Federal agency to select the specific settings or options recommended by the standard, reference material, or checklist for the system;
 
   (B) establish conditions or prerequisites for Federal agency procurement or deployment of any such system;
 
-  (C) represent an endorsement of any such system by the Director of the National Institute of Standards and Technology; nor
+  (C) imply an endorsement of any such system by the Director of the National Institute of Standards and Technology; or
 
-  (D) preclude any Federal agency from procuring or deploying other computer hardware or software systems for which no such checklist has been developed.
+  (D) preclude any Federal agency from procuring or deploying other information technology hardware or software systems for which no such standard, reference material, or checklist has been developed or identified under paragraph (1).
 
 **(d) Federal agency information security programs**
 
-(1) **In general** — In developing the agencywide information security program required by [section 3534(b) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3534/b&num=0&edition=prelim), an agency that deploys a computer hardware or software system for which the Director of the National Institute of Standards and Technology has developed a checklist under subsection (c) of this section—
+(1) **In general** — In developing the agencywide information security program required by [section 3554(b) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3554/b&num=0&edition=prelim), an agency that deploys a computer hardware or software system for which the Director of the National Institute of Standards and Technology has developed a checklist under subsection (c) of this section—
 
   (A) shall include in that program an explanation of how the agency has considered such checklist in deploying that system; and
 
@@ -353,6 +420,11 @@ In carrying out sections 7403 and 7404 of this title, the Director shall consult
 
 #### Codification
 Section is comprised of section 8 of Pub. L. 107–305. Subsec. (a) of section 8 of Pub. L. 107–305 enacted [section 278h of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278h) and renumbered former [section 278h of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278h) as [section 278q of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278q). Subsec. (b) of section 8 of Pub. L. 107–305 amended [section 278g–3 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3).
+
+#### Amendments
+2014—Subsec. (c). Pub. L. 113–274 amended subsec. (c) generally. Prior to amendment, text related to checklists setting forth settings and option selections that minimize the security risks associated with computer hardware or software systems likely to become widely used within the Federal Government.
+
+Subsec. (d)(1). Pub. L. 113–283, which directed amendment of section 8 of the Cybersecurity Research and Development Act by substituting “section 3554” for “section 3534” in subsec. (d)(1), was executed to this section, which is section 8 of the Cyber Security Research and Development Act, to reflect the probable intent of Congress.
 
 
 <a id="section-7407"></a>
@@ -372,7 +444,7 @@ There are authorized to be appropriated to the Secretary of Commerce for the Nat
 
   (E) $85,000,000 for fiscal year 2007; and
 
-(2) for activities under [section 278g–3(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278g–3/f&num=0&edition=prelim)—
+(2) for activities under section 278g–3(f) 11 See References in Text note below. of this title—
 
   (A) $6,000,000 for fiscal year 2003;
 
@@ -383,6 +455,11 @@ There are authorized to be appropriated to the Secretary of Commerce for the Nat
   (D) $6,600,000 for fiscal year 2006; and
 
   (E) $6,800,000 for fiscal year 2007.
+
+### Statutory Notes
+
+#### References in Text
+[Section 278g–3 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3), referred to in par. (2), was amended by Pub. L. 107–347, title III, § 303, Dec. 17, 2002, 116 Stat. 2957, and, as so amended, did not contain a subsec. (f). A later amendment by Pub. L. 113–274, title II, § 204(1), Dec. 18, 2014, 128 Stat. 2980, redesignated subsec. (e) of [section 278g–3 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3), relating to definitions, as (f).
 
 
 <a id="section-7408"></a>
@@ -415,7 +492,7 @@ The Director of the National Science Foundation and the Director of the National
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–305, Nov. 27, 2002, 116 Stat. 2367, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-100-cyber-security-research-and-development.md#section-7401).
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–305, Nov. 27, 2002, 116 Stat. 2367, known as the Cyber Security Research and Development Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-100-cyber-security-research-and-development.md#section-7401).
 
 
 <a id="section-7410"></a>
@@ -430,6 +507,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 (2) been suspended or terminated pursuant to [section 1762(c) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1762/c&num=0&edition=prelim).
 
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–305, Nov. 27, 2002, 116 Stat. 2367, known as the Cyber Security Research and Development Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-100-cyber-security-research-and-development.md#section-7401) and Tables.
+
 
 <a id="section-7411"></a>
 ## § 7411. Report on grant and fellowship programs
@@ -439,4 +521,6 @@ Within 24 months after November 27, 2002, the Director, in consultation with the
 ### Statutory Notes
 
 #### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–305, Nov. 27, 2002, 116 Stat. 2367, known as the Cyber Security Research and Development Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-100-cyber-security-research-and-development.md#section-7401) and Tables.
+
 The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.

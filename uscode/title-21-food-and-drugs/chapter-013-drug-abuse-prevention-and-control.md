@@ -39,6 +39,11 @@ This subchapter, referred to in par. (1), was in the original “this title”, 
 #### Effective Date
 Pub. L. 91–513, title II, § 704, Oct. 27, 1970, 84 Stat. 1284, provided that: “(a) Except as otherwise provided in this section, this title [see Short Title note below] shall become effective on the first day of the seventh calendar month that begins after the day immediately preceding the date of enactment [Oct. 27, 1970]. “(b) Parts A, B, E, and F of this title [Parts A, B, E, and F of this subchapter], section 702 [set out as a note under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321)], this section, and sections 705 through 709 [sections 901 to 904 of this title and note set out below], shall become effective upon enactment [Oct. 27, 1970]. “(c) Sections 305 (relating to labels and labeling) [[section 825 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-825)], and 306 (relating to manufacturing quotas) [[section 826 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-826)] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title [see Short Title note below].”
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–260, § 1, Dec. 18, 2014, 128 Stat. 2929, provided that: “This Act [amending sections 802, 811, 825, 842, and 960 of this title and enacting provisions set out as a note under [section 825 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-825)] may be cited as the ‘Designer Anabolic Steroid Control Act of 2014’.”
+
+Pub. L. 113–143, § 1, Aug. 1, 2014, 128 Stat. 1750, provided that: “This Act [amending [section 822 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-822)] may be cited as the ‘Veterinary Medicine Mobility Act of 2014’.”
+
 #### Short Title of 2012 Amendment
 Pub. L. 112–144, title XI, § 1151, July 9, 2012, 126 Stat. 1130, provided that: “This subtitle [subtitle D (§§ 1151–1153) of title XI of Pub. L. 112–144, amending sections 811 and 812 of this title] may be cited as the ‘Synthetic Drug Abuse Prevention Act of 2012’.”
 
@@ -623,7 +628,59 @@ As used in this subchapter:
 
     (xlviii) tetrahydrogestrinone (13β,17α-diethyl-17β-hydroxygon-4,9,11-trien-3-one);
 
-    (xlix) trenbolone (17β-hydroxyestr-4,9,11-trien-3-one); and(xlx) 11 So in original. Probably should be “(l)”. any salt, ester, or ether of a drug or substance described in this paragraph.
+    (xlix) trenbolone (17β-hydroxyestr-4,9,11-trien-3-one);
+
+    (l) 5α-Androstan-3,6,17-trione;
+
+    (li) 6-bromo-androstan-3,17-dione;
+
+    (lii) 6-bromo-androsta-1,4-diene-3,17-dione;
+
+    (liii) 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
+
+    (liv) 4-chloro-17α-methyl-androst-4-ene-3β,17β-diol;
+
+    (lv) 4-chloro-17α-methyl-17β-hydroxy-androst-4-en-3-one;
+
+    (lvi) 4-chloro-17α-methyl-17β-hydroxy-androst-4-ene-3,11-dione;
+
+    (lvii) 4-chloro-17α-methyl-androsta-1,4-diene-3,17β-diol;
+
+    (lviii) 2α,17α-dimethyl-17β-hydroxy-5α-androstan-3-one;
+
+    (lix) 2α,17α-dimethyl-17β-hydroxy-5β-androstan-3-one;
+
+    (lx) 2α,3α-epithio-17α-methyl-5α-androstan-17β-ol;
+
+    (lxi) [3,2-c]-furazan-5α-androstan-17β-ol;
+
+    (lxii) 3β-hydroxy-estra-4,9,11-trien-17-one;
+
+    (lxiii) 17α-methyl-androst-2-ene-3,17β-diol;
+
+    (lxiv) 17α-methyl-androsta-1,4-diene-3,17β-diol;
+
+    (lxv) Estra-4,9,11-triene-3,17-dione;
+
+    (lxvi) 18a-Homo-3-hydroxy-estra-2,5(10)-dien-17-one;
+
+    (lxvii) 6α-Methyl-androst-4-ene-3,17-dione;
+
+    (lxviii) 17α-Methyl-androstan-3-hydroxyimine-17β-ol;
+
+    (lxix) 17α-Methyl-5α-androstan-17β-ol;
+
+    (lxx) 17β-Hydroxy-androstano[2,3-d]isoxazole;
+
+    (lxxi) 17β-Hydroxy-androstano[3,2-c]isoxazole;
+
+    (lxxii) 4-Hydroxy-androst-4-ene-3,17-dione[3,2-c]pyrazole-5α-androstan-17β-ol;
+
+    (lxxiii) [3,2-c]pyrazole-androst-4-en-17β-ol;
+
+    (lxxiv) [3,2-c]pyrazole-5α-androstan-17β-ol; and
+
+    (lxxv) any salt, ester, or ether of a drug or substance described in this paragraph.
     The substances excluded under this subparagraph may at any time be scheduled by the Attorney General in accordance with the authority and requirements of subsections (a) through (c) of [section 811 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-811).
 
   (B)
@@ -631,6 +688,34 @@ As used in this subchapter:
     (i) Except as provided in clause (ii), such term does not include an anabolic steroid which is expressly intended for administration through implants to cattle or other nonhuman species and which has been approved by the Secretary of Health and Human Services for such administration.
 
     (ii) If any person prescribes, dispenses, or distributes such steroid for human use, such person shall be considered to have prescribed, dispensed, or distributed an anabolic steroid within the meaning of subparagraph (A).
+
+  (C)
+
+    (i) Subject to clause (ii), a drug or hormonal substance (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone) that is not listed in subparagraph (A) and is derived from, or has a chemical structure substantially similar to, 1 or more anabolic steroids listed in subparagraph (A) shall be considered to be an anabolic steroid for purposes of this chapter if—
+
+      (I) the drug or substance has been created or manufactured with the intent of producing a drug or other substance that either—
+
+        (aa) promotes muscle growth; or
+
+        (bb) otherwise causes a pharmacological effect similar to that of testosterone; or
+
+      (II) the drug or substance has been, or is intended to be, marketed or otherwise promoted in any manner suggesting that consuming it will promote muscle growth or any other pharmacological effect similar to that of testosterone.
+
+    (ii) A substance shall not be considered to be a drug or hormonal substance for purposes of this subparagraph if it—
+
+      (I) is—
+
+        (aa) an herb or other botanical;
+
+        (bb) a concentrate, metabolite, or extract of, or a constituent isolated directly from, an herb or other botanical; or
+
+        (cc) a combination of 2 or more substances described in item (aa) or (bb);
+
+      (II) is a dietary ingredient for purposes of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.); and
+
+      (III) is not anabolic or androgenic.
+
+    (iii) In accordance with [section 885(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section885/a&num=0&edition=prelim), any person claiming the benefit of an exemption or exception under clause (ii) shall bear the burden of going forward with the evidence with respect to such exemption or exception.
 
 (42) The term “international transaction” means a transaction involving the shipment of a listed chemical across an international border (other than a United States border) in which a broker or trader located in the United States participates.
 
@@ -806,11 +891,17 @@ This subchapter, referred to in introductory provisions and in pars. (34), (35),
 
 Subchapter II of this chapter, referred to in par. (39)(A)(iii), (vi), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in pars. (39)(A)(iv) and (45)(A)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in pars. (39)(A)(iv), (41)(C)(ii)(II), and (45)(A)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+
+This chapter, referred to in par. (41)(C)(i), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in pars. (52)(B)(iv) and (54)(C)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2014—Par. (41)(A)(l) to (lxxv). Pub. L. 113–260, § 2(a)(1), added cls. (l) to (lxxiv) and redesignated former cl. (xlx) as (lxxv).
+
+Par. (41)(C). Pub. L. 113–260, § 2(a)(2), added subpar. (C).
+
 2008—Pars. (50) to (56). Pub. L. 110–425 added pars. (50) to (56).
 
 2006—Par. (39)(A)(iv). Pub. L. 109–177, § 712(a)(1)(A)(i), amended cl. (iv) generally. Prior to amendment, cl. (iv) related to transactions involving drugs containing ephedrine, pseudoephedrine, or phenylpropanolamine.
@@ -1130,6 +1221,24 @@ Rules of the Attorney General under this subsection shall be made on the record 
 
 (6) An order issued under paragraph (1) is not subject to judicial review.
 
+**(i) Temporary and permanent scheduling of recently emerged anabolic steroids**
+
+(1) The Attorney General may issue a temporary order adding a drug or other substance to the definition of anabolic steroids if the Attorney General finds that—
+
+  (A) the drug or other substance satisfies the criteria for being considered an anabolic steroid under [section 802(41) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/41&num=0&edition=prelim) but is not listed in that section or by regulation of the Attorney General as being an anabolic steroid; and
+
+  (B) adding such drug or other substance to the definition of anabolic steroids will assist in preventing abuse or misuse of the drug or other substance.
+
+(2) An order issued under paragraph (1) shall not take effect until 30 days after the date of the publication by the Attorney General of a notice in the Federal Register of the intention to issue such order and the grounds upon which such order is to be issued. The order shall expire not later than 24 months after the date it becomes effective, except that the Attorney General may, during the pendency of proceedings under paragraph (6), extend the temporary scheduling order for up to 6 months.
+
+(3) The Attorney General shall transmit notice of an order proposed to be issued under paragraph (1) to the Secretary of Health and Human Services. In issuing an order under paragraph (1), the Attorney General shall take into consideration any comments submitted by the Secretary in response to a notice transmitted pursuant to this paragraph.
+
+(4) A temporary scheduling order issued under paragraph (1) shall be vacated upon the issuance of a permanent scheduling order under paragraph (6).
+
+(5) An order issued under paragraph (1) is not subject to judicial review.
+
+(6) The Attorney General may, by rule, issue a permanent order adding a drug or other substance to the definition of anabolic steroids if such drug or other substance satisfies the criteria for being considered an anabolic steroid under [section 802(41) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/41&num=0&edition=prelim). Such rulemaking may be commenced simultaneously with the issuance of the temporary order issued under paragraph (1).
+
 ### Statutory Notes
 
 #### References in Text
@@ -1144,6 +1253,8 @@ The Psychotropic Substances Act of 1978, referred to in subsec. (d)(5), is Pub. 
 This subchapter and subchapter II of this chapter, referred to in subsec. (g)(1), was in the original “titles II and III of the Comprehensive Drug Abuse Prevention and Control Act”, which was translated as meaning titles II and III of the Comprehensive Drug Abuse Prevention and Control Act of 1970, Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, 1285, as amended, to reflect the probable intent of Congress. Title II is classified principally to this subchapter and part A of title III comprises subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title notes set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 #### Amendments
+2014—Subsec. (i). Pub. L. 113–260 added subsec. (i).
+
 2012—Subsec. (h)(2). Pub. L. 112–144 substituted “2 years” for “one year” and “1 year” for “six months”.
 
 2004—Subsec. (g)(1). Pub. L. 108–358, § 2(b)(1), substituted “drug which contains a controlled substance from the application of this subchapter and subchapter II of this chapter if such drug” for “substance from a schedule if such substance”.
@@ -1212,7 +1323,8 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
   (C) Abuse of the drug or other substance may lead to limited physical dependence or psychological dependence relative to the drugs or other substances in schedule IV.
 
-**(c) Initial schedules of controlled substances** Schedules I, II, III, IV, and V shall, unless and until amended 11 Revised schedules are published in the Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs. pursuant to [section 811 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-811), consist of the following drugs or other substances, by whatever official name, common or usual name, chemical name, or brand name designated: Schedule I
+**(c) Initial schedules of controlled substances** Schedules I, II, III, IV, and V shall, unless and until amended pursuant to [section 811 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-811),11 See Amendment of Schedules of Controlled Substances note below. consist of the following drugs or other substances, by whatever official name, common or usual name, chemical name, or brand name designated:
+Schedule I
 
 **(a)** Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation:
 
@@ -1292,7 +1404,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 (38) Piritramide.
 
-(39) Propheptazine.
+(39) Proheptazine.
 
 (40) Properidine.
 
@@ -1360,7 +1472,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 (6) Dimethyltryptamine.
 
-(7) 4-methyl-2,5-diamethoxyamphetamine.
+(7) 4-methyl-2,5-dimethoxyamphetamine.
 
 (8) Ibogaine.
 
@@ -1453,7 +1565,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
     (xiv) 1-cyclohexylethyl-3-(2-methoxyphenylacetyl)indole (SR–18 and RCS–8); and
 
     (xv) 1-pentyl-3-(2-chlorophenylacetyl)indole (JWH–203).
-  Schedule II
+    Schedule II
 
 **(a)** Unless specifically excepted or unless listed in another schedule, any of the following substances whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
 
@@ -1509,7 +1621,8 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 (21) Racemorphan.
 
-**(c)** Unless specifically excepted or unless listed in another schedule, any injectable liquid which contains any quantity of methamphetamine, including its salts, isomers, and salts of isomers.Schedule III
+**(c)** Unless specifically excepted or unless listed in another schedule, any injectable liquid which contains any quantity of methamphetamine, including its salts, isomers, and salts of isomers.
+Schedule III
 
 **(a)** Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system:
 
@@ -1563,7 +1676,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 (8) Not more than 50 milligrams of morphine per 100 milliliters or per 100 grams with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
-**(e)** Anabolic steroids. Schedule IV
+**(e)** Anabolic steroids. (1) Not more than 200 milligrams of codeine per 100 milliliters or per 100 grams. (2) Not more than 100 milligrams of dihydrocodeine per 100 milliliters or per 100 grams. (3) Not more than 100 milligrams of ethylmorphine per 100 milliliters or per 100 grams. (4) Not more than 2.5 milligrams of diphenoxylate and not less than 25 micrograms of atropine sulfate per dosage unit. (5) Not more than 100 milligrams of opium per 100 milliliters or per 100 grams.
 
 (1) Barbital.
 
@@ -1585,19 +1698,15 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 (10) Petrichloral.
 
-(11) Phenobarbital. Schedule V Any compound, mixture, or preparation containing any of the following limited quantities of narcotic drugs, which shall include one or more nonnarcotic active medicinal ingredients in sufficient proportion to confer upon the compound, mixture, or preparation valuable medicinal qualities other than those possessed by the narcotic drug alone:
-
-  (1) Not more than 200 milligrams of codeine per 100 milliliters or per 100 grams.
-
-  (2) Not more than 100 milligrams of dihydrocodeine per 100 milliliters or per 100 grams.
-
-  (3) Not more than 100 milligrams of ethylmorphine per 100 milliliters or per 100 grams.
-
-  (4) Not more than 2.5 milligrams of diphenoxylate and not less than 25 micrograms of atropine sulfate per dosage unit.
-
-  (5) Not more than 100 milligrams of opium per 100 milliliters or per 100 grams.
+(11) Phenobarbital.
+Schedule V
+Any compound, mixture, or preparation containing any of the following limited quantities of narcotic drugs, which shall include one or more nonnarcotic active medicinal ingredients in sufficient proportion to confer upon the compound, mixture, or preparation valuable medicinal qualities other than those possessed by the narcotic drug alone:
+Schedule IV
 
 ### Statutory Notes
+
+#### Amendment of Schedules of Controlled Substances
+For updated and republished schedules of controlled substances established by this section, see Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs.
 
 #### Amendments
 2012—Subsec. (c). Pub. L. 112–144, § 1152(b), added schedule I(c)(18) to (28).
@@ -1737,7 +1846,11 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 
 **(d) Waiver** The Attorney General may, by regulation, waive the requirement for registration of certain manufacturers, distributors, or dispensers if he finds it consistent with the public health and safety.
 
-**(e) Separate registration** A separate registration shall be required at each principal place of business or professional practice where the applicant manufactures, distributes, or dispenses controlled substances or list I chemicals.
+**(e) Separate registration**
+
+(1) A separate registration shall be required at each principal place of business or professional practice where the applicant manufactures, distributes, or dispenses controlled substances or list I chemicals.
+
+(2) Notwithstanding paragraph (1), a registrant who is a veterinarian shall not be required to have a separate registration in order to transport and dispense controlled substances in the usual course of veterinary practice at a site other than the registrant’s registered principal place of business or professional practice, so long as the site of transporting and dispensing is located in a State where the veterinarian is licensed to practice veterinary medicine and is not a principal place of business or professional practice.
 
 **(f) Inspection** The Attorney General is authorized to inspect the establishment of a registrant or applicant for registration in accordance with the rules and regulations promulgated by him.
 
@@ -1763,6 +1876,8 @@ This subchapter, referred to in subsecs. (b), (c), and (g)(1), was in the origin
 [Section 802(25) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/25&num=0&edition=prelim), referred to in subsec. (c)(3), was redesignated [section 802(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/26&num=0&edition=prelim) by Pub. L. 98–473, title II, § 507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated [section 802(27) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/27&num=0&edition=prelim) by Pub. L. 99–570, title I, § 1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
 
 #### Amendments
+2014—Subsec. (e). Pub. L. 113–143 designated existing provisions as par. (1) and added par. (2).
+
 2010—Subsec. (g). Pub. L. 111–273 added subsec. (g).
 
 1993—Subsec. (a)(1). Pub. L. 103–200, § 3(b)(1), inserted “or list I chemical” after “controlled substance” in two places.
@@ -1947,7 +2062,7 @@ Separate registration under this part for practitioners engaging in research wit
 
   (J)
 
-    (i) This paragraph takes effect the date referred to in subparagraph (I), and remains in effect thereafter.
+    (i) This paragraph takes effect on the date referred to in subparagraph (I), and remains in effect thereafter.
 
     (ii) For purposes relating to clause (iii), the Secretary and the Attorney General may, during the 3-year period beginning on December 29, 2006, make determinations in accordance with the following:
 
@@ -2111,13 +2226,39 @@ Applicability of this section to provisional registrations, see section 703 of P
 
 **(d) Containers to be securely sealed** It shall be unlawful to distribute controlled substances in schedule I or II, and narcotic drugs in schedule III or IV, unless the bottle or other container, stopper, covering, or wrapper thereof is securely sealed as required by regulations of the Attorney General.
 
+**(e) False labeling of anabolic steroids**
+
+(1) It shall be unlawful to import, export, manufacture, distribute, dispense, or possess with intent to manufacture, distribute, or dispense, an anabolic steroid or product containing an anabolic steroid, unless the steroid or product bears a label clearly identifying an anabolic steroid or product containing an anabolic steroid by the nomenclature used by the International Union of Pure and Applied Chemistry (IUPAC).
+
+(2)
+
+  (A) A product described in subparagraph (B) is exempt from the International Union of Pure and Applied Chemistry nomenclature requirement of this subsection if such product is labeled in the manner required under the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.].
+
+  (B) A product is described in this subparagraph if the product—
+
+    (i) is the subject of an approved application as described in section 505(b) or (j) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b&num=0&edition=prelim), (j)]; or
+
+    (ii) is exempt from the provisions of section 505 of such Act relating to new drugs because—
+
+      (I) it is intended solely for investigational use as described in section 505(i) of such Act; and
+
+      (II) such product is being used exclusively for purposes of a clinical trial that is the subject of an effective investigational new drug application.
+
 ### Statutory Notes
 
 #### References in Text
 Schedules I, II, III, and IV, referred to in subsecs. (c) and (d), are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
 
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(2)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+
+#### Amendments
+2014—Subsec. (e). Pub. L. 113–260 added subsec. (e).
+
 #### Effective Date
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, but with Attorney General authorized to postpone such effective date for such period as he might determine to be necessary for the efficient administration of this subchapter, see section 704(c) of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+
+#### Identification and Publication of List of Products Containing Anabolic Steroids
+Pub. L. 113–260, § 4, Dec. 18, 2014, 128 Stat. 2932, provided that: “(a) In General.—The Attorney General may, in the Attorney General’s discretion, collect data and analyze products to determine whether they contain anabolic steroids and are properly labeled in accordance with this Act [see section 1 of Pub. L. 113–260, set out as a Short Title of 2014 Amendment note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801)] and the amendments made by this Act. The Attorney General may publish in the Federal Register or on the website of the Drug Enforcement Administration a list of products which the Attorney General has determined, based on substantial evidence, contain an anabolic steroid and are not labeled in accordance with this Act and the amendments made by this Act. “(b) Absence From List.—The absence of a product from the list referred to in subsection (a) shall not constitute evidence that the product does not contain an anabolic steroid.”
 
 
 <a id="section-826"></a>
@@ -3205,9 +3346,11 @@ Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d
 
 (13) who is a regulated seller to knowingly or recklessly sell at retail a scheduled listed chemical product in violation of subsection (e) of such section;
 
-(14) who is a regulated seller or an employee or agent of such seller to disclose, in violation of regulations under subparagraph (C) of [section 830(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/e/1&num=0&edition=prelim), information in logbooks under subparagraph (A)(iii) of such section, or to refuse to provide such a logbook to Federal, State, or local law enforcement authorities; or
+(14) who is a regulated seller or an employee or agent of such seller to disclose, in violation of regulations under subparagraph (C) of [section 830(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/e/1&num=0&edition=prelim), information in logbooks under subparagraph (A)(iii) of such section, or to refuse to provide such a logbook to Federal, State, or local law enforcement authorities;
 
-(15) to distribute a scheduled listed chemical product to a regulated seller, or to a regulated person referred to in [section 830(b)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/b/3/B&num=0&edition=prelim), unless such regulated seller or regulated person is, at the time of such distribution, currently registered with the Drug Enforcement Administration, or on the list of persons referred to under [section 830(e)(1)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/e/1/B/v&num=0&edition=prelim).
+(15) to distribute a scheduled listed chemical product to a regulated seller, or to a regulated person referred to in [section 830(b)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/b/3/B&num=0&edition=prelim), unless such regulated seller or regulated person is, at the time of such distribution, currently registered with the Drug Enforcement Administration, or on the list of persons referred to under [section 830(e)(1)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/e/1/B/v&num=0&edition=prelim); or
+
+(16) to violate subsection (e) of [section 825 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-825).22 See References in Text note below.
 As used in paragraph (11), the term “laboratory supply” means a listed chemical or any chemical, substance, or item on a special surveillance list published by the Attorney General, which contains chemicals, products, materials, or equipment used in the manufacture of controlled substances and listed chemicals. For purposes of paragraph (11), there is a rebuttable presumption of reckless disregard at trial if the Attorney General notifies a firm in writing that a laboratory supply sold by the firm, or any other person or firm, has been used by a customer of the notified firm, or distributed further by that customer, for the unlawful production of controlled substances or listed chemicals a firm distributes and 2 weeks or more after the notification the notified firm distributes a laboratory supply to the customer. For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under [section 830(e)(1)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/e/1/B/v&num=0&edition=prelim), the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under [section 830(e)(1)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/e/1/B/v&num=0&edition=prelim).
 
 **(b) Manufacture** It shall be unlawful for any person who is a registrant to manufacture a controlled substance in schedule I or II, or ephedrine, pseudoephedrine, or phenylpropanolamine or any of the salts, optical isomers, or salts of optical isomers of such chemical, which is—
@@ -3220,9 +3363,13 @@ As used in paragraph (11), the term “laboratory supply” means a listed chemi
 
 (1)
 
-  (A) Except as provided in subparagraph (B) of this paragraph and paragraph (2), any person who violates this section shall, with respect to any such violation, be subject to a civil penalty of not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with [section 1355 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1355&num=0&edition=prelim) to enforce this paragraph.
+  (A) Except as provided in subparagraph (B), (C), or (D) of this paragraph and paragraph (2), any person who violates this section shall, with respect to any such violation, be subject to a civil penalty of not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with [section 1355 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1355&num=0&edition=prelim) to enforce this paragraph.
 
   (B) In the case of a violation of paragraph (5) or (10) of subsection (a) of this section, the civil penalty shall not exceed $10,000.
+
+  (C) In the case of a violation of paragraph (16) of subsection (a) of this section by an importer, exporter, manufacturer, or distributor (other than as provided in subparagraph (D)), up to $500,000 per violation. For purposes of this subparagraph, a violation is defined as each instance of importation, exportation, manufacturing, distribution, or possession with intent to manufacture or distribute, in violation of paragraph (16) of subsection (a).
+
+  (D) In the case of a distribution, dispensing, or possession with intent to distribute or dispense in violation of paragraph (16) of subsection (a) of this section at the retail level, up to $1000 per violation. For purposes of this paragraph, the term “at the retail level” refers to products sold, or held for sale, directly to the consumer for personal use. Each package, container or other separate unit containing an anabolic steroid that is distributed, dispensed, or possessed with intent to distribute or dispense at the retail level in violation of such paragraph (16) of subsection (a) shall be considered a separate violation.
 
 (2)
 
@@ -3243,9 +3390,17 @@ As used in paragraph (11), the term “laboratory supply” means a listed chemi
 ### Statutory Notes
 
 #### References in Text
+[Section 825 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-825), referred to in subsec. (a)(16), was so in the original, but probably should have been a reference to section 305 of Pub. L. 91–513, which is classified to [section 825 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-825).
+
 Schedules I and II, referred to in subsec. (b), are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
 
 #### Amendments
+2014—Subsec. (a)(16). Pub. L. 113–260, § 3(c)(1), added par. (16).
+
+Subsec. (c)(1)(A). Pub. L. 113–260, § 3(c)(2)(A), inserted “, (C), or (D)” after “subparagraph (B)”.
+
+Subsec. (c)(1)(C), (D). Pub. L. 113–260, § 3(c)(2)(B), added subpars. (C) and (D).
+
 2010—Subsec. (a). Pub. L. 111–268, § 4(4), inserted “For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under [section 830(e)(1)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/e/1/B/v&num=0&edition=prelim), the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under [section 830(e)(1)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/e/1/B/v&num=0&edition=prelim).” at end of concluding provisions.
 
 Subsec. (a)(10). Pub. L. 111–268, § 5, inserted “or negligently to fail to self-certify as required under [section 830 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-830)” before semicolon.
@@ -3349,7 +3504,7 @@ Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d
 
   (A) for a violation of paragraph (6) or (7) of subsection (a) of this section;
 
-  (B) for a felony under any other provision of this subchapter or subchapter II of this chapter; or
+  (B) for a felony under any other provision of this subchapter or subchapter II of this chapter; 22 See References in Text note below. or
 
   (C) under any other law of the United States or any State relating to controlled substances or listed chemicals,
   has become final, such person shall be sentenced to a term of imprisonment of not more than 20 years, a fine under title 18, or both.
@@ -3358,7 +3513,7 @@ Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d
 
 **(f) Injunctions**
 
-(1) In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section, [section 842 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-842), or 856 22 So in original. Probably should be preceded by “section”. of this title.
+(1) In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section, [section 842 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-842), or 856 33 So in original. Probably should be preceded by “section”. of this title.
 
 (2) Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business.
 
@@ -3374,6 +3529,8 @@ Schedules I and II, referred to in subsecs. (a)(1) and (c)(1), are set out in [s
 This subchapter, referred to in subsec. (c)(2)(A), (C)(i), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 The Controlled Substances Import and Export Act, referred to in subsec. (c)(2)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951) and Tables.
+
+This subchapter or subchapter II of this chapter, referred to in subsec. (d)(2)(B), was in the original a reference to “this subchapter or subchapter II of this chapter” but probably should be a reference to “this title or title III of this Act”, meaning titles II and III, respectively, of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, 1285.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f)(4), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -3578,13 +3735,13 @@ Any penalty imposed for violation of this subchapter shall be in addition to, an
 
 (1) In addition to the other penalties set forth in this section—
 
-  (A) any person engaging in or working in furtherance of a continuing criminal enterprise, or any person engaging in an offense punishable under [section 841(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841/b/1/A&num=0&edition=prelim) or [section 960(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section960/b/1&num=0&edition=prelim) who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of an individual and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death; and
+  (A) any person engaging in or working in furtherance of a continuing criminal enterprise, or any person engaging in an offense punishable under section 841(b)(1)(A) 11 See References in Text note below. of this title or section 960(b)(1) 1 of this title who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of an individual and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death; and
 
   (B) any person, during the commission of, in furtherance of, or while attempting to avoid apprehension, prosecution or service of a prison sentence for, a felony violation of this subchapter or subchapter II of this chapter who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of any Federal, State, or local law enforcement officer engaged in, or on account of, the performance of such officer’s official duties and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death.
 
 (2) As used in paragraph (1)(B), the term “law enforcement officer” means a public servant authorized by law or by a Government agency or Congress to conduct or engage in the prevention, investigation, prosecution or adjudication of an offense, and includes those engaged in corrections, probation, or parole functions.
 
-**(g) 11 So in original. Section does not contain a subsec. (f), see 1988 Amendment note below. to (p) Repealed. Pub. L. 109–177, title II, § 221(2), Mar. 9, 2006, 120 Stat. 231**
+**(g) 22 So in original. Section does not contain a subsec. (f), see 1988 Amendment note below. to (p) Repealed. Pub. L. 109–177, title II, § 221(2), Mar. 9, 2006, 120 Stat. 231**
 
 **(q) Repealed. Pub. L. 109–177, title II, §§ 221(4), 222(c), Mar. 9, 2006, 120 Stat. 231, 232**
 
@@ -3595,6 +3752,10 @@ Any penalty imposed for violation of this subchapter shall be in addition to, an
 ### Statutory Notes
 
 #### References in Text
+Section 841(b)(1)(A), referred to in subsec. (e)(1)(A), was in the original a reference to “section 841(b)(1)(A)” but probably should be a reference to “section 401(b)(1)(A)”, meaning section 401(b)(1)(A) of Pub. L. 91–513, title II, Oct. 27, 1970, 84 Stat. 1260.
+
+Section 960(b)(1), referred to in subsec. (e)(1)(A), was in the original a reference to “section 960(b)(1)” but probably should be a reference to “section 1010(b)(1)”, meaning section 1010(b)(1) of Pub. L. 91–513, title III, Oct. 27, 1970, 84 Stat. 1290.
+
 Act of July 15, 1932 (D.C. Code, secs. 24–203—24–207), referred to in subsec. (d), is act July 15, 1932, ch. 492, 47 Stat. 696, as amended, which is not classified to the Code.
 
 #### Amendments
@@ -3948,7 +4109,7 @@ In lieu of a fine otherwise authorized by this part, a defendant who derives pro
 
 **(c) Violation as offense against property** A violation of subsection (a) of this section shall be considered an offense against property for purposes of [section 3663A(c)(1)(A)(ii) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3663A/c/1/A/ii&num=0&edition=prelim).
 
-**(d) Civil penalites**
+**(d) Civil penalties**
 
 (1) Any person who violates subsection (a) of this section shall be subject to a civil penalty of not more than the greater of—
 
@@ -4096,7 +4257,7 @@ Subsec. (b)(1)(B). Pub. L. 101–647, § 1214(2)(A), which directed the amendmen
 
 Pub. L. 101–647, § 1003(b)(2), substituted “three times the maximum punishment authorized by [section 841(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841/b&num=0&edition=prelim) for a first offense” for “a term of imprisonment of up to three times that authorized by [section 841(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841/b&num=0&edition=prelim) for a first offense, or a fine up to three times that authorized by [section 841(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841/b&num=0&edition=prelim) for a first offense, or both”.
 
-Subsec. (c). Pub. L. 101–647, § 1214(3), inserted “mandatory minimum” after “In the case of any”, struck out “subsection (b) of” after “imposed under”, and substituted “An individual convicted under this section shall not be eligible for parole until the individual has served the mandatory minimum term of imprisonment as provided by this section” for “An individual convicted under subsection (b) of this section shall not be eligible for parole under chapter 311 of title 18 until the individual has served the minimum sentence required by such subsection”.
+Subsec. (c). Pub. L. 101–647, § 1214(3), inserted “mandatory minimum” after “In the case of any”, struck out “subsection (b)” after “imposed under”, struck out “of” before “this section” in a reference to “of this section” which was editorially added before “, imposition or”, and substituted “An individual convicted under this section shall not be eligible for parole until the individual has served the mandatory minimum term of imprisonment as provided by this section” for “An individual convicted under subsection (b) of this section shall not be eligible for parole under chapter 311 of title 18 until the individual has served the minimum sentence required by such subsection”.
 
 1988—Subsec. (a). Pub. L. 100–690, §§ 6457, 6458(a), inserted “, possessing with intent to distribute,” after “distributing” and “, or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility,” after “university”.
 
@@ -4110,7 +4271,7 @@ Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for �
 
 Subsec. (b). Pub. L. 99–646 which directed that “parole” be inserted after “(2) at least three times any special” could not be executed in view of prior amendment by Pub. L. 99–570, § 1104(c) below.
 
-Pub. L. 99–570, § 1166(b), which directed that “term of supervised release” be substituted for “special term” could not be executed in view of prior amendment by Pub. L. 99–570, § 1104(c) below.
+Pub. L. 99–570, § 1866(b), which directed that “term of supervised release” be substituted for “special term” could not be executed in view of prior amendment by Pub. L. 99–570, § 1104(c) below.
 
 Pub. L. 99–570, §§ 1104(a), 1841(b)(2), inserted reference to [section 856 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-856), inserted “or manufacturing” after “distributing” and substituted “a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university” for “a public or private elementary or secondary school”.
 
@@ -4142,7 +4303,7 @@ Whoever violates [section 841(a)(1) of this title](https://uscode.house.gov/view
 
 **(c) Penalty for subsequent offenses** Any person who violates subsection (a) of this section after a prior conviction under subsection (a) of this section has become final, is subject to three times the maximum punishment otherwise authorized and at least three times any term of supervised release otherwise authorized for a first offense. Except to the extent a greater minimum sentence is otherwise provided, a term of imprisonment under this subsection shall not be less than one year. Penalties for third and subsequent convictions shall be governed by [section 841(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841/b/1/A&num=0&edition=prelim).
 
-**(d) Penalty for providing or distributing controlled substance to underage person** Any person who violates subsection (a)(1) or (2) of this section 11 So in original. Probably should be followed by a dash.
+**(d) Penalty for providing or distributing controlled substance to underage person** Any person who violates subsection (a)(1) or (2) 11 So in original. Probably should be followed by a dash.
 
 (1) by knowingly providing or distributing a controlled substance or a controlled substance analogue to any person under eighteen years of age; or
 
@@ -4262,13 +4423,13 @@ Subsec. (a)(1). Pub. L. 101–647, § 1002(d)(2), struck out “(as such terms a
 
 (1) assistance under any State program funded under part A of title IV of the Social Security Act [[42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.], or
 
-(2) benefits under the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977 [[7 U.S.C. 2012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim)(l)]) or any State program carried out under the Food Stamp Act of 1977 [[7 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) et seq.].
+(2) benefits under the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim))) or any State program carried out under that Act [[7 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) et seq.].
 
 **(b) Effects on assistance and benefits for others**
 
 (1) **Program of temporary assistance for needy families** — The amount of assistance otherwise required to be provided under a State program funded under part A of title IV of the Social Security Act [[42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.] to the family members of an individual to whom subsection (a) of this section applies shall be reduced by the amount which would have otherwise been made available to the individual under such part.
 
-(2) **Benefits under the Food Stamp Act of 1977** — The amount of benefits otherwise required to be provided to a household under the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977 [[7 U.S.C. 2012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim)(l)]), or any State program carried out under the Food Stamp Act of 1977 [[7 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) et seq.], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
+(2) **Benefits under the Food and Nutrition Act of 2008** — The amount of benefits otherwise required to be provided to a household under the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim))), or any State program carried out under that Act [[7 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) et seq.], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
 
 **(c) Enforcement** A State that has not exercised its authority under subsection (d)(1)(A) of this section shall require each individual applying for assistance or benefits referred to in subsection (a) of this section, during the application process, to state, in writing, whether the individual, or any member of the household of the individual, has been convicted of a crime described in subsection (a) of this section.
 
@@ -4286,7 +4447,7 @@ Subsec. (a)(1). Pub. L. 101–647, § 1002(d)(2), struck out “(as such terms a
 
 (1) in section 419(5) of the Social Security Act [[42 U.S.C. 619(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section619/5&num=0&edition=prelim)], when referring to assistance provided under a State program funded under part A of title IV of the Social Security Act [[42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.], and
 
-(2) in section 3(s) of the Food Stamp Act of 1977 [[7 U.S.C. 2012(s)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s&num=0&edition=prelim)], when referring to the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977 [[7 U.S.C. 2012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim)(l)]) or any State program carried out under the Food Stamp Act of 1977 [[7 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) et seq.].
+(2) in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim)), when referring to the supplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act [[7 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) et seq.].
 
 **(f) Rule of interpretation** Nothing in this section shall be construed to deny the following Federal benefits:
 
@@ -4311,7 +4472,7 @@ Subsec. (a)(1). Pub. L. 101–647, § 1002(d)(2), struck out “(as such terms a
 #### References in Text
 The Social Security Act, referred to in subsecs. (a)(1), (b)(1), (e)(1), and (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Food Stamp Act of 1977, referred to in subsecs. (a)(2), (b)(2), and (e)(2), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) and Tables.
+The Food and Nutrition Act of 2008, referred to in subsecs. (a)(2), (b)(2), and (e)(2), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -4319,6 +4480,12 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and not as part of the Controlled Substances Act which comprises this subchapter.
 
 #### Amendments
+2014—Subsec. (a)(2). Pub. L. 113–79, § 4030(n)(1), substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim))) or any State program carried out under that Act” for “food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”.
+
+Subsec. (b)(2). Pub. L. 113–79, § 4030(n)(2), substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim))), or any State program carried out under that Act” for “food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977), or any State program carried out under the Food Stamp Act of 1977”.
+
+Subsec. (e)(2). Pub. L. 113–79, § 4030(n)(3), substituted “section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim)), when referring to the supplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act” for “section 3(s) of the Food Stamp Act of 1977, when referring to the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”.
+
 2008—Subsecs. (a)(2), (b)(2). Pub. L. 110–246, § 4115(c)(2)(C)(i), substituted “section 3(l)” for “section 3(h)”.
 
 Subsec. (e)(2). Pub. L. 110–246, § 4115(c)(2)(C), substituted “section 3(s)” for “section 3(m)” and “section 3(l)” for “section 3(h)”.
@@ -5841,7 +6008,7 @@ Subsec. (b). Pub. L. 104–237, § 102(b), inserted “or listed chemical” aft
 ## § 960. Prohibited acts A
 **(a) Unlawful acts** Any person who—
 
-(1) contrary to section 952, 953, or 957 of this title, knowingly or intentionally imports or exports a controlled substance,
+(1) contrary to section 825, 952, 953, or 957 of this title, knowingly or intentionally imports or exports a controlled substance,
 
 (2) contrary to [section 955 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-955), knowingly or intentionally brings or possesses on board a vessel, aircraft, or vehicle a controlled substance, or
 
@@ -5941,6 +6108,8 @@ Schedules I, II, III, IV, and V, referred to in subsec. (b), are set out in [sec
 Section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Prohibition Act of 2000, referred to in subsec. (b)(3), is section 3(a)(1)(B) of Pub. L. 106–172, which is set out in a note under [section 812 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-812).
 
 #### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–260 inserted “825,” before “952”.
+
 2010—Subsec. (b)(1). Pub. L. 111–220, § 4(b)(1), in concluding provisions, substituted “$10,000,000” for “$4,000,000”, “$50,000,000” for “$10,000,000”, “$20,000,000” for “$8,000,000”, and “$75,000,000” for “$20,000,000”.
 
 Subsec. (b)(1)(C). Pub. L. 111–220, § 2(b)(1), substituted “280 grams” for “50 grams”.

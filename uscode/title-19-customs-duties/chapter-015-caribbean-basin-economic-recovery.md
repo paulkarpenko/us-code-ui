@@ -72,7 +72,7 @@ Pub. L. 106–200, title II, § 203, May 18, 2000, 114 Stat. 276, provided that:
 
 (2) If the President has designated any country as a beneficiary country for purposes of this chapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
 
-**(b) Countries eligible for designation as beneficiary countries; conditions** In designating countries as “beneficiary countries” under this chapter the President shall consider only the following countries and territories or successor political entities: AnguillaSaint Lucia Antigua and BarbudaSaint Vincent and the Bahamas, The Grenadines BarbadosSuriname BelizeTrinidad and Tobago DominicaCayman Islands GrenadaMontserrat GuyanaNetherlands Antilles HaitiSaint Christopher-Nevis JamaicaTurks and Caicos Islands Virgin Islands, British In addition, the President shall not designate any country a beneficiary country under this chapter—
+**(b) Countries eligible for designation as beneficiary countries; conditions** In designating countries as “beneficiary countries” under this chapter the President shall consider only the following countries and territories or successor political entities: In addition, the President shall not designate any country a beneficiary country under this chapter—
 
 (1) if such country is a Communist country;
 
@@ -465,11 +465,11 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
         (bb) is making substantial progress toward implementing and following,
       procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the NAFTA.
 
-      (II) *Country described* — A country is described in this subclause if it is a CBTPA beneficiary country—
+  (II) *Country described* — A country is described in this subclause if it is a CBTPA beneficiary country—
 
-        (aa) from which the article is exported; or
+    (aa) from which the article is exported; or
 
-        (bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (2) or (3).
+    (bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (2) or (3).
 
   (B) *Certificate of origin* — The Certificate of Origin that otherwise would be required pursuant to the provisions of subparagraph (A) shall not be required in the case of an article imported under paragraph (2) or (3) if such Certificate of Origin would not be required under Article 503 of the NAFTA (as implemented pursuant to United States law), if the article were imported from Mexico.
 
@@ -864,7 +864,7 @@ Except as otherwise provided, amendment by section 1558 of Pub. L. 108–429 app
 #### Effective Date of 2002 Amendments
 Pub. L. 107–210, div. C, title XXXI, § 3107(b), Aug. 6, 2002, 116 Stat. 1038, provided that: “The amendment made by subsection (a)(3) [amending this section] shall take effect on October 1, 2002.”
 
-Pub. L. 107–206, title III, § 3001(c), Aug. 2, 2002, 116 Stat. 910, provided that: “Subsection (b) [enacting provisions set out as a note under [section 3203 of this title](./chapter-020-andean-trade-preference.md#section-3203)] and the amendments made by subsection (a) [amending this section] shall take effect— “(1) 90 days after the date of the enactment of this Act [Aug. 2, 2002], or “(2) September 1, 2002, whichever occurs first.”
+Pub. L. 107–206, title III, § 3001(c), Aug. 2, 2002, 116 Stat. 910, provided that: “Subsection (b) [enacting provisions set out as a note under [section 3203 of this title](./chapter-020-andean-trade-preference.md#section-3203)] and the amendments made by subsection (a) [amending this section] shall take effect—“(1) 90 days after the date of the enactment of this Act [Aug. 2, 2002], or “(2) September 1, 2002, whichever occurs first.”
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States [Jan. 1, 1995], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
@@ -1028,82 +1028,82 @@ Sec. 11. Judicial Review. This order does not create any right or benefit, subst
         (bb) the direct costs of processing operations under subclause (II) of clause (i),
       of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the initial applicable 1-year period.
 
-      (II) *Other 1-year periods* — In any 1-year period after the initial applicable 1-year period, the requirements under clause (i) relating to applicable percentage may also be met for articles of a producer or an entity controlling production that enter during the 1-year period by aggregating—
+  (II) *Other 1-year periods* — In any 1-year period after the initial applicable 1-year period, the requirements under clause (i) relating to applicable percentage may also be met for articles of a producer or an entity controlling production that enter during the 1-year period by aggregating—
 
-        (aa) the cost or value of materials under subclause (I) of clause (i), and
+    (aa) the cost or value of materials under subclause (I) of clause (i), and
 
-        (bb) the direct costs of processing operations under subclause (II) of clause (i),
-      of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
+    (bb) the direct costs of processing operations under subclause (II) of clause (i),
+  of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
 
-      (III) *Deductions* — In calculating cost or value under subclause (I)(aa) or (II)(aa), there shall be deducted the cost or value of—
+  (III) *Deductions* — In calculating cost or value under subclause (I)(aa) or (II)(aa), there shall be deducted the cost or value of—
 
-        (aa) any foreign materials that are used in the production of the apparel articles in Haiti; and
+    (aa) any foreign materials that are used in the production of the apparel articles in Haiti; and
 
-        (bb) any foreign materials that are used in the production of the materials described in subclause (I)(aa) or (II)(aa) (as the case may be).
+    (bb) any foreign materials that are used in the production of the materials described in subclause (I)(aa) or (II)(aa) (as the case may be).
 
-      (IV) *Inclusion in calculation of other articles receiving preferential treatment* — Entries of apparel articles that receive preferential treatment under any provision of law other than this subparagraph or are subject to the “General” column 1 rate of duty under the HTS are not included in the annual aggregation under subclause (I) or (II) unless the producer or entity controlling production elects, at the time the annual aggregation calculation is made, to include such entries in such aggregation.
+  (IV) *Inclusion in calculation of other articles receiving preferential treatment* — Entries of apparel articles that receive preferential treatment under any provision of law other than this subparagraph or are subject to the “General” column 1 rate of duty under the HTS are not included in the annual aggregation under subclause (I) or (II) unless the producer or entity controlling production elects, at the time the annual aggregation calculation is made, to include such entries in such aggregation.
 
-    (v) *Definitions* — In this paragraph:
+**(v) Definitions** In this paragraph:
 
-      (I) *Applicable percentage* — The term “applicable percentage” means—
+(I) **Applicable percentage** — The term “applicable percentage” means—
 
-        (aa) 50 percent or more during the initial applicable 1-year period and the succeeding 8 1-year periods;
+  (aa) 50 percent or more during the initial applicable 1-year period and the succeeding 8 1-year periods;
 
-        (bb) 55 percent or more during the 1-year period beginning on December 20, 2015, and the 1-year period beginning on December 20, 2016; and
+  (bb) 55 percent or more during the 1-year period beginning on December 20, 2015, and the 1-year period beginning on December 20, 2016; and
 
-        (cc) 60 percent or more during the 1-year period beginning on December 20, 2017.
+  (cc) 60 percent or more during the 1-year period beginning on December 20, 2017.
 
-      (II) *Foreign material* — The term “foreign material” means a material produced in a country other than Haiti or any country described in clause (iii).
+(II) **Foreign material** — The term “foreign material” means a material produced in a country other than Haiti or any country described in clause (iii).
 
-    (vi) *Development of procedure to ensure compliance*
+(vi) **Development of procedure to ensure compliance**
 
-      (I) *In general* — U.S. Customs and Border Protection of the Department of Homeland Security shall develop and implement methods and procedures to ensure ongoing compliance with the requirements set forth in clauses (i) and (iv).
+  (I) *In general* — U.S. Customs and Border Protection of the Department of Homeland Security shall develop and implement methods and procedures to ensure ongoing compliance with the requirements set forth in clauses (i) and (iv).
 
-      (II) *Noncompliance* — If U.S. Customs and Border Protection finds that a producer or an entity controlling production has not satisfied such requirements in the initial applicable 1-year period or any 1-year period thereafter, either for individual entries entered pursuant to clause (i) or for entries entered in aggregate pursuant to clause (iv), then apparel articles described in clause (i) of that producer or entity shall be ineligible for preferential treatment under paragraph (1) during any succeeding 1-year period until—
+  (II) *Noncompliance* — If U.S. Customs and Border Protection finds that a producer or an entity controlling production has not satisfied such requirements in the initial applicable 1-year period or any 1-year period thereafter, either for individual entries entered pursuant to clause (i) or for entries entered in aggregate pursuant to clause (iv), then apparel articles described in clause (i) of that producer or entity shall be ineligible for preferential treatment under paragraph (1) during any succeeding 1-year period until—
 
-        (aa) the cost or value of materials under subclause (I) of clause (i), plus
+    (aa) the cost or value of materials under subclause (I) of clause (i), plus
 
-        (bb) the direct costs of processing operations under subclause (II) of clause (i),
-      of that producer or entity controlling production, is not less than the applicable percentage under clause (v)(I), plus 10 percent, of the aggregate declared customs value of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
+    (bb) the direct costs of processing operations under subclause (II) of clause (i),
+  of that producer or entity controlling production, is not less than the applicable percentage under clause (v)(I), plus 10 percent, of the aggregate declared customs value of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
 
-      (III) *Retroactive application of duty-free treatment* — If—
+  (III) *Retroactive application of duty-free treatment* — If—
 
-        (aa) a producer or an entity controlling production is ineligible for preferential treatment under subparagraph (A) in the initial applicable 1-year period or any 1-year period thereafter because that producer or entity controlling production did not satisfy the requirements of clause (i) or (iv), and
+    (aa) a producer or an entity controlling production is ineligible for preferential treatment under subparagraph (A) in the initial applicable 1-year period or any 1-year period thereafter because that producer or entity controlling production did not satisfy the requirements of clause (i) or (iv), and
 
-        (bb) that producer or entity controlling production satisfies the requirements of subclause (II) of this clause in that 1-year period,
-      then, notwithstanding [section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514) or any other provision of law, upon proper request filed with U.S. Customs and Border Protection before the 90th day after U.S. Customs and Border Protection determines that item (bb) applies, the entry of any articles—
+    (bb) that producer or entity controlling production satisfies the requirements of subclause (II) of this clause in that 1-year period,
+  then, notwithstanding [section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514) or any other provision of law, upon proper request filed with U.S. Customs and Border Protection before the 90th day after U.S. Customs and Border Protection determines that item (bb) applies, the entry of any articles—
 
-      (AA) that was made during that 1-year period, and
+  (AA) that was made during that 1-year period, and
 
-      (BB) with respect to which there would have been preferential treatment under subparagraph (A) if the producer or entity controlling production had satisfied the requirements in clause (i) or (iv) (as the case may be),
-      shall be liquidated or reliquidated as though such preferential treatment under subparagraph (A) applied to such entry.
+  (BB) with respect to which there would have been preferential treatment under subparagraph (A) if the producer or entity controlling production had satisfied the requirements in clause (i) or (iv) (as the case may be),
+  shall be liquidated or reliquidated as though such preferential treatment under subparagraph (A) applied to such entry.
 
-    (vii) *Fabrics not available in commercial quantities*
+(vii) **Fabrics not available in commercial quantities**
 
-      (I) *In general* — For purposes of determining the applicable percentage under clause (i) or (iv), there may be included in that percentage—
+  (I) *In general* — For purposes of determining the applicable percentage under clause (i) or (iv), there may be included in that percentage—
 
-        (aa) the cost of fabrics or yarns to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA; and
+    (aa) the cost of fabrics or yarns to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA; and
 
-        (bb) the cost of fabrics or yarns that are designated as not being available in commercial quantities for purposes of—
+    (bb) the cost of fabrics or yarns that are designated as not being available in commercial quantities for purposes of—
 
-          (AA) [section 2703(b)(2)(A)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2703/b/2/A/v&num=0&edition=prelim),
+      (AA) [section 2703(b)(2)(A)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2703/b/2/A/v&num=0&edition=prelim),
 
-          (BB) [section 3721(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3721/b/5&num=0&edition=prelim),
+      (BB) [section 3721(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3721/b/5&num=0&edition=prelim),
 
-          (CC) section 3203(b)(3)(B)(i)(III) or (ii) of this title, or
+      (CC) section 3203(b)(3)(B)(i)(III) or (ii) of this title, or
 
-          (DD) any other provision, relating to determining whether a textile or apparel article is an originating good eligible for preferential treatment, of a law that implements a free trade agreement that enters into force with respect to the United States,
-      without regard to the source of the fabrics or yarns.
+      (DD) any other provision, relating to determining whether a textile or apparel article is an originating good eligible for preferential treatment, of a law that implements a free trade agreement that enters into force with respect to the United States,
+  without regard to the source of the fabrics or yarns.
 
-      (II) *Removal of designation of fabrics or yarns not available in commercial quantities* — If the President determines that—
+  (II) *Removal of designation of fabrics or yarns not available in commercial quantities* — If the President determines that—
 
-        (aa) any fabric or yarn described in subclause (I)(aa) was determined to be eligible for preferential treatment, or
+    (aa) any fabric or yarn described in subclause (I)(aa) was determined to be eligible for preferential treatment, or
 
-        (bb) any fabric or yarn described in subclause (I)(bb) was designated as not being available in commercial quantities,
+    (bb) any fabric or yarn described in subclause (I)(bb) was designated as not being available in commercial quantities,
 
-  (C) *Quantitative limitations* — The preferential treatment described in subparagraph (A) shall be extended, during each of the 1-year periods set forth in the following table, to not more than the corresponding percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the most recent 12-month period for which data are available: During:the corresponding percentage is: the initial applicable 1-year period1 percent. each of the succeeding 11 1-year periods1.25 percent. No preferential treatment shall be provided under subparagraph (A) after December 19, 2018.
+(C) **Quantitative limitations** — The preferential treatment described in subparagraph (A) shall be extended, during each of the 1-year periods set forth in the following table, to not more than the corresponding percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the most recent 12-month period for which data are available: During:the corresponding percentage is: the initial applicable 1-year period1 percent. each of the succeeding 11 1-year periods1.25 percent. No preferential treatment shall be provided under subparagraph (A) after December 19, 2018.
 
-  (D) *Other preferential treatment not affected by quantitative limitations* — Any apparel article that qualifies for preferential treatment under paragraph (2), (3), (4), or (5) or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitations under subparagraph (C).
+(D) **Other preferential treatment not affected by quantitative limitations** — Any apparel article that qualifies for preferential treatment under paragraph (2), (3), (4), or (5) or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitations under subparagraph (C).
 
 (2) **Special rule for woven articles and certain knit articles**
 

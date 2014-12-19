@@ -71,7 +71,7 @@ Pub. L. 109–2, § 8, Feb. 18, 2005, 119 Stat. 14, provided that: “Nothing in
 Pub. L. 100–702, title IV, § 405, Nov. 19, 1988, 102 Stat. 4652, provided that: “The amendments made by this title [see Effective Date of 1988 Amendment note above] shall not affect the authority of the Tax Court to prescribe rules under section 7453 of the Internal Revenue Code of 1986 [[26 U.S.C. 7453](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7453&num=0&edition=prelim)].”
 
 #### Admiralty Rules
-The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F, Federal Rules of Civil Procedure, Appendix to this title.
+The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F, Federal Rules of Civil Procedure, Appendix to this title. The Supplemental Rules for Certain Admiralty and Maritime Claims were subsequently renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions.
 
 
 <a id="section-2072"></a>
@@ -100,7 +100,7 @@ Section effective Dec. 1, 1988, see section 407 of Pub. L. 100–702, set out as
 Rules of civil procedure promulgated under this section as applicable to the District Court of the Virgin Islands, see [section 1615 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1615&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Admiralty Rules
-The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however, in the Supplemental Rules for Certain Admiralty and Maritime Claims, Rules A to F, Federal Rules of Civil Procedure, Appendix to this title.
+The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however, in the Supplemental Rules for Certain Admiralty and Maritime Claims, Rules A to F, Federal Rules of Civil Procedure, Appendix to this title. The Supplemental Rules for Certain Admiralty and Maritime Claims were subsequently renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions.
 
 
 <a id="section-2073"></a>

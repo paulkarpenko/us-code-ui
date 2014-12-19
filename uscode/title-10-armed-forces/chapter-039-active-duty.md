@@ -76,14 +76,19 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 <a id="section-673"></a>
 ## § 673. Consideration of application for permanent change of station or unit transfer for members on active duty who are the victim of a sexual assault or related offense
-**(a) Timely Consideration and Action.—** The Secretary concerned shall provide for timely determination and action on an application for consideration of a change of station or unit transfer submitted by a member of the armed forces serving on active duty who was a victim of a sexual assault or other offense covered by section 920, 920a, or 920c of this title (article 120, 120a, or 120c) so as to reduce the possibility of retaliation against the member for reporting the sexual assault or other offense.
+**(a) Timely Consideration and Action.—** The Secretary concerned shall provide for timely determination and action on an application for consideration of a change of station or unit transfer submitted by a member of the armed forces serving on active duty who was a victim of a sexual assault or other offense covered by section 920, 920a, or 920c of this title (article 120, 120a, or 120c of the Uniform Code of Military Justice) so as to reduce the possibility of retaliation against the member for reporting the sexual assault or other offense.
 
-**(b) Regulations.—** The Secretaries of the military departments shall issue regulations to carry out this section, within guidelines provided by the Secretary of Defense. These guidelines shall provide that the application submitted by a member described in subsection (a) for a change of station or unit transfer must be approved or disapproved by the member’s commanding officer within 72 hours of the submission of the application. Additionally, if the application is disapproved by the commanding officer, the member shall be given the opportunity to request review by the first general officer or flag officer in the chain of command of the member, and that decision must be made within 72 hours of submission of the request for review.
+**(b) Regulations.—** The Secretary concerned shall issue regulations to carry out this section, within guidelines provided by the Secretary of Defense. These guidelines shall provide that the application submitted by a member described in subsection (a) for a change of station or unit transfer must be approved or disapproved by the member’s commanding officer within 72 hours of the submission of the application. Additionally, if the application is disapproved by the commanding officer, the member shall be given the opportunity to request review by the first general officer or flag officer in the chain of command of the member, and that decision must be made within 72 hours of submission of the request for review.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 673 was renumbered [section 12302 of this title](./chapter-1209-active-duty.md#section-12302).
+
+#### Amendments
+2013—Subsec. (a). Pub. L. 113–66, § 1091(a)(8), inserted “of the Uniform Code of Military Justice” after “120c”.
+
+Subsec. (b). Pub. L. 113–66, § 1712, substituted “The Secretary concerned” for “The Secretaries of the military departments”.
 
 
 <a id="section-673a"></a>
@@ -99,7 +104,18 @@ A prior section 673 was renumbered [section 12302 of this title](./chapter-1209-
 
 
 <a id="section-674"></a>
-## § 674. Renumbered § 12306]
+## § 674. Temporary administrative reassignment or removal of a member on active duty accused of committing a sexual assault or related offense
+**(a) Guidance for Timely Consideration and Action.—** The Secretary concerned may provide guidance, within guidelines provided by the Secretary of Defense, for commanders regarding their authority to make a timely determination, and to take action, regarding whether a member of the armed forces serving on active duty who is alleged to have committed an offense under section 920, 920a, 920b, 920c, or 925 of this title (article 120, 120a, 120b, 120c, or 125 of the Uniform Code of Military Justice) or an attempt to commit such an offense as punishable under [section 880 of this title](./chapter-047-uniform-code-of-military-justice.md#section-880) (article 80 of the Uniform Code of Military Justice) should be temporarily reassigned or removed from a position of authority or from an assignment, not as a punitive measure, but solely for the purpose of maintaining good order and discipline within the member’s unit.
+
+**(b) Time for Determination.—** A determination described in subsection (a) may be made at any time after receipt of notification of an unrestricted report of a sexual assault or other sex-related offense that identifies the member as an alleged perpetrator.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 674 was renumbered [section 12306 of this title](./chapter-1209-active-duty.md#section-12306).
+
+#### Amendments
+2014—Subsec. (b). Pub. L. 113–291 substituted “after receipt” for “afer receipt”.
 
 
 <a id="section-675"></a>
@@ -345,13 +361,13 @@ Section effective Sept. 30, 1997, see section 521(b) of Pub. L. 104–201, set o
 
 **(b)** Unless otherwise provided by law, the number of members of the armed forces (other than the Coast Guard) on active duty at the end of any fiscal year shall be not less than the following:
 
-(1) For the Army, 542,700.
+(1) For the Army, 490,000.
 
-(2) For the Navy, 322,700.
+(2) For the Navy, 323,600.
 
-(3) For the Marine Corps, 193,500.
+(3) For the Marine Corps, 184,100.
 
-(4) For the Air Force, 329,460.
+(4) For the Air Force, 310,900.
 
 **(c)** The budget for the Department of Defense for any fiscal year as submitted to Congress shall include amounts for funding for each of the armed forces (other than the Coast Guard) at least in the amounts necessary to maintain the active duty end strengths prescribed in subsection (b), as in effect at the time that such budget is submitted.
 
@@ -364,7 +380,11 @@ Section effective Sept. 30, 1997, see section 521(b) of Pub. L. 104–201, set o
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (b). Pub. L. 112–239, § 402(a), substituted “542,700” for “547,400” in par. (1), “322,700” for “325,700” in par. (2), “193,500” for “202,100” in par. (3), and “329,460” for “332,800” in par. (4).
+2014—Subsec. (b). Pub. L. 113–291 substituted “490,000” for “510,000” in par. (1), “184,100” for “188,000” in par. (3), and “310,900” for “327,600” in par. (4).
+
+2013—Subsec. (b). Pub. L. 113–66 substituted “510,000” for “542,700” in par. (1), “323,600” for “322,700” in par. (2), “188,000” for “193,500” in par. (3), and “327,600” for “329,460” in par. (4).
+
+Pub. L. 112–239, § 402(a), substituted “542,700” for “547,400” in par. (1), “322,700” for “325,700” in par. (2), “193,500” for “202,100” in par. (3), and “329,460” for “332,800” in par. (4).
 
 Subsec. (e). Pub. L. 112–239, § 402(b), added subsec. (e).
 

@@ -10,15 +10,6 @@ source: >-
 ## § 2551. Congressional statement of purpose
 
 An ultimate goal of the United States is a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. It is the purpose of this chapter to provide impetus toward this goal by addressing the problem of reduction and control of armaments looking toward ultimate world disarmament.
-The Secretary of State must have the capacity to provide the essential scientific, economic, political, military, psychological, and technological information upon which realistic arms control, nonproliferation, and disarmament policy must be based. The Secretary shall have the authority, under the direction of the President, to carry out the following primary functions:
-
-(1) The preparation for and management of United States participation in international negotiations and implementation fora in the arms control, nonproliferation, and disarmament field.
-
-(2) The conduct, support, and coordination of research for arms control, nonproliferation, and disarmament policy formulation.
-
-(3) The preparation for, operation of, or direction of, United States participation in such control systems as may become part of United States arms control, nonproliferation, and disarmament activities.
-
-(4) The dissemination and coordination of public information concerning arms control, nonproliferation, and disarmament.
 
 ### Statutory Notes
 
@@ -77,63 +68,25 @@ Pub. L. 103–236, title VII, § 702, Apr. 30, 1994, 108 Stat. 491, stated congr
 Pub. L. 103–236, title VII, § 717(b), Apr. 30, 1994, 108 Stat. 500, provided that not later than Dec. 31, 1995, Director of United States Arms Control and Disarmament Agency was to submit to Congress a detailed report describing actions undertaken to revitalize United States Arms Control and Disarmament Agency.
 
 #### Soviet Weapons Destruction
-Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L. 102–484, div. A, title XIV, § 1421(a)(2), (3), Oct. 23, 1992, 106 Stat. 2565; Pub. L. 103–236, title I, § 139(17), Apr. 30, 1994, 108 Stat. 398; Pub. L. 104–106, div. A, title XII, § 1204, Feb. 10, 1996, 110 Stat. 470; Pub. L. 110–53, title XVIII, § 1811(1), Aug. 3, 2007, 121 Stat. 492; Pub. L. 110–181, div. A, title XIII, § 1304(a)(1), Jan. 28, 2008, 122 Stat. 412, provided that:
+Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L. 102–484, div. A, title XIV, § 1421(a)(2), (3), Oct. 23, 1992, 106 Stat. 2565; Pub. L. 103–236, title I, § 139(17), Apr. 30, 1994, 108 Stat. 398; Pub. L. 104–106, div. A, title XII, § 1204, Feb. 10, 1996, 110 Stat. 470; Pub. L. 110–53, title XVIII, § 1811(1), Aug. 3, 2007, 121 Stat. 492; Pub. L. 110–181, div. A, title XIII, § 1304(a)(1), Jan. 28, 2008, 122 Stat. 412; Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606, provided that: “part a—short title“SEC. 201. SHORT TITLE.“This title may be cited as the ‘Soviet Nuclear Threat Reduction Act of 1991’.”
 
-#### “part a—short title
-“SEC. 201. SHORT TITLE.
+“part b—findings and program authority
 
-“This title may be cited as the ‘Soviet Nuclear Threat Reduction Act of 1991’.”
-
-#### “part b—findings and program authority
 “[SEC. 211. Repealed. Pub. L. 110–181, div. A, title XIII, § 1304(a)(1)(A), Jan. 28, 2008, 122 Stat. 412.]
 
-“SEC. 212. AUTHORITY FOR PROGRAM TO FACILITATE SOVIET WEAPONS DESTRUCTION.
+“[SEC. 212. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606.]
 
-“(a) In General.—Notwithstanding any other provision of law, the President may establish a program as authorized in subsection (b) to assist Soviet weapons destruction. Funds for carrying out this program shall be provided as specified in part C.
+“part c—administrative and funding authorities
 
-“(b) Type of Program.—The program under this section shall be limited to cooperation among the United States, the Soviet Union, its republics, and any successor entities to (1) destroy nuclear weapons, chemical weapons, and other weapons, (2) transport, store, disable, and safeguard weapons in connection with their destruction, and (3) establish verifiable safeguards against the proliferation of such weapons. Such cooperation may involve assistance in planning and in resolving technical problems associated with weapons destruction and proliferation. Such cooperation may also involve the funding of critical short-term requirements related to weapons destruction and should, to the extent feasible, draw upon United States technology and United States technicians.
-
-#### “part c—administrative and funding authorities
-“SEC. 221. ADMINISTRATION OF NUCLEAR THREAT REDUCTION PROGRAMS.
-
-“(a) Funding.—
-
-“(1) Transfer authority.—The President may, to the extent provided in an appropriations Act or joint resolution, transfer to the appropriate defense accounts from amounts appropriated to the Department of Defense for fiscal years 1992 and 1993 for operation and maintenance or from balances in working capital accounts established under [section 2208 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2208&num=0&edition=prelim), United States Code, not to exceed $800,000,000 for use in reducing the Soviet military threat under part B.
-
-“(2) Limitation.—Amounts for transfers under paragraph (1) may not be derived from amounts appropriated for any activity of the Department of Defense that the Secretary of Defense determines essential for the readiness of the Armed Forces, including amounts for—
-
-“(A) training activities; and
-
-“(B) depot maintenance activities.
-
-“(b) Department of Defense.—The Department of Defense shall serve as the executive agent for any program established under part B.
-
-“(c) Reimbursement of Other Agencies.—The Secretary of Defense may reimburse other United States Government departments and agencies under this section for costs of participation, as directed by the President, only in a program established under part B.
-
-“(d) Charges Against Funds.—The value of any material from existing stocks and inventories of the Department of Defense, or any other United States Government department or agency, that is used in providing assistance under part B to reduce the Soviet military threat may not be charged against funds available pursuant to subsection (a) to the extent that the material contributed is directed by the President to be contributed without subsequent replacement.
-
-“(e) Determination by Director of OMB.—No amount may be obligated for the program under part B for fiscal year 1992 or fiscal year 1993 unless expenditures for that program for that fiscal year have been determined by the Director of the Office of Management and Budget to be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 601(a)(2) of the Congressional Budget Act of 1974 [[2 U.S.C. 665(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section665/a/2&num=0&edition=prelim)]) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 900](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) et seq.].
-
-“SEC. 222. REPAYMENT ARRANGEMENTS.
-
-“(a) Reimbursement Arrangements.—Assistance provided under part B to the Soviet Union, any of its republics, or any successor entity shall be conditioned, to the extent that the President determines to be appropriate after consultation with the recipient government, upon the agreement of the recipient government to reimburse the United States Government for the cost of such assistance from natural resources or other materials available to the recipient government.
-
-“(b) Natural Resources, Etc.—The President shall encourage the satisfaction of such reimbursement arrangements through the provision of natural resources, such as oil and petroleum products and critical and strategic materials, and industrial goods. Materials received by the United States Government pursuant to this section that are suitable for inclusion in the Strategic Petroleum Reserve or the National Defense Stockpile may be deposited in the reserve or stockpile without reimbursement. Other material and services received may be sold or traded on the domestic or international market with the proceeds to be deposited in the General Fund of the Treasury.
+“[SECS. 221, 222. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606.]
 
 “SEC. 223. DIRE EMERGENCY SUPPLEMENTAL APPROPRIATIONS.
 
 “It is the sense of the Senate that the committee of conference on House Joint Resolution 157 [enacted into law as Pub. L. 102–229] should consider providing the necessary authority in the conference agreement for the President to transfer funds pursuant to this title.
 
-#### “part d—reporting requirements
-“SEC. 231. PRIOR NOTICE OF OBLIGATIONS TO CONGRESS.
+“part d—reporting requirements
 
-“Not less than 15 days before obligating any funds for a program under part B, the President shall transmit to the Congress a report on the proposed obligation. Each such report shall specify—
-
-“(1) the account, budget activity, and particular program or programs from which the funds proposed to be obligated are to be derived and the amount of the proposed obligation; and
-
-“(2) the activities and forms of assistance under part B for which the President plans to obligate such funds.”
-
-[Memorandum of President of the United States, May 10, 1996, 61 F.R. 26033, delegated to Secretary of State authority and duty of President under section 211(c) of Pub. L. 102–228 set out above.]
+“[SEC. 231. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606.]
 
 #### Report on Fulfillment of Primary Functions
 Pub. L. 102–228, title IV, § 401(c), Dec. 12, 1991, 105 Stat. 1699, directed Inspector General of Arms Control and Disarmament Agency to submit, not later than Dec. 15, 1992, to President, Speaker of House of Representatives, and chairman of Committee on Foreign Relations of Senate a report on Agency’s fulfillment of primary functions described in [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551) and directed President to submit comments on any recommendations contained in the report dealing with executive branch organization and direction, prior to repeal by Pub. L. 103–236, title I, § 139(18), Apr. 30, 1994, 108 Stat. 398.
@@ -302,6 +255,9 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 ### Statutory Notes
 
+#### References in Text
+This chapter, referred to in subsec. (c), was in the original “this chapter” and was translated as reading “this Act”, meaning Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, known as the Arms Control and Disarmament Act, which is classified generally to this chapter, to reflect the probable intent of Congress.
+
 #### Amendments
 1998—Subsec. (a). Pub. L. 105–277, § 1223(8), substituted “Secretary of State” for “Director” and struck out “the Secretary of State,” after “the President,”.
 
@@ -378,7 +334,8 @@ In order to assist the Secretary of State in the performance of his duties with 
 
   (B) an estimated annual program cost in excess of $50,000,000, or
 
-(3) any other program involving technology with potential military application or weapons systems which such Government agency or the Secretary of State believes may have a significant impact on arms control, nonproliferation, and disarmament policy or negotiations, shall, on a continuing basis, provide the Secretary of State with full and timely access to detailed information with respect to the nature, scope, and purpose of such proposal.
+(3) any other program involving technology with potential military application or weapons systems which such Government agency or the Secretary of State believes may have a significant impact on arms control, nonproliferation, and disarmament policy or negotiations,
+shall, on a continuing basis, provide the Secretary of State with full and timely access to detailed information with respect to the nature, scope, and purpose of such proposal.
 
 ### Statutory Notes
 
@@ -411,7 +368,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 **(b) Assessments upon request** Upon the request of the chairman or ranking minority member of the Committee on Foreign Relations of the Senate or the Committee on International Relations of the House of Representatives, in case of an arms control, nonproliferation, or disarmament proposal presented to a foreign country by the United States or presented to the United States by a foreign country, the Secretary of State shall submit a report to the Committee on the degree to which elements of the proposal are capable of being verified.
 
-**(c) Standard for verification of compliance** In making determinations under paragraphs (1) and (2) of subsection (a) of this section, the Secretary of State shall assume that all measures of concealment not expressly prohibited could be employed and that standard practices could be altered so as to impede verification.
+**(c) Standard for verification of compliance** In making determinations under paragraphs (1) and (2) of subsection (a), the Secretary of State shall assume that all measures of concealment not expressly prohibited could be employed and that standard practices could be altered so as to impede verification.
 
 **(d) Rule of construction** Except as otherwise provided for by law, nothing in this section may be construed as requiring the disclosure of sensitive information relating to intelligence sources or methods or persons employed in the verification of compliance with arms control, nonproliferation, and disarmament agreements.
 
@@ -697,7 +654,7 @@ Repeal effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as
 
 <a id="section-2593a"></a>
 ## § 2593a. Annual report to Congress
-**(a) In general** Not later than April 15 of each year, the President shall submit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a report prepared by the Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with the Secretary of Defense, the Secretary of Energy, and the Chairman of the Joint Chiefs of Staff on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
+**(a) In general** Not later than April 15 of each year, the President shall submit to the appropriate congressional committees a report prepared by the Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with the Secretary of Defense, the Secretary of Energy, and the Chairman of the Joint Chiefs of Staff on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
 
 (1) a detailed statement concerning the arms control, nonproliferation, and disarmament objectives of the executive branch of Government for the forthcoming year;
 
@@ -723,11 +680,19 @@ Repeal effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as
 
 (6) a specific identification, to the maximum extent practicable in unclassified form, of each and every question that exists with respect to compliance by other countries with arms control, nonproliferation, and disarmament agreements with the United States.
 
-**(b) Classification of report** The report required by this section shall be submitted in unclassified form, with classified annexes, as appropriate. The portions of this report described in paragraphs (4) and (5) of subsection (a) of this section shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.
+**(b) Classification of report** The report required by this section shall be submitted in unclassified form, with classified annexes, as appropriate. The portions of this report described in paragraphs (4) and (5) of subsection (a) shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.
 
-**(c) Reporting consecutive noncompliance** If the President in consecutive reports submitted to the Congress under this section reports that any designated nation is not in full compliance with its binding nonproliferation commitments to the United States, then the President shall include in the second such report an assessment of what actions are necessary to compensate for such violations.
+**(c) Reporting consecutive noncompliance** If the President in consecutive reports submitted to the appropriate congressional committees under this section reports that any designated nation is not in full compliance with its binding nonproliferation commitments to the United States, then the President shall include in the second such report an assessment of what actions are necessary to compensate for such violations.
 
-**(d) Additional requirement** Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) of this section that was contained in a previous report issued under this section during 1995, or after December 31, 1995, until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).
+**(d) Additional requirement** Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) that was contained in a previous report issued under this section during 1995, or after December 31, 1995, until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).
+
+**(e) Congressional briefing** Not later than May 15 of each year, the President shall provide to the appropriate congressional committees a briefing on the most-recent report required by this section.
+
+**(f) Appropriate congressional committees defined** In this section, the term “appropriate congressional committees” means—
+
+(1) the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate; and
+
+(2) the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 ### Statutory Notes
 
@@ -735,6 +700,16 @@ Repeal effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as
 Section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999, referred to in subsec. (d), is section 1000(a)(7) [div. B, title XI, § 1102(1)] of Pub. L. 106–113, which is set out as a note under [section 2652c of this title](./chapter-038-department-of-state.md#section-2652c).
 
 #### Amendments
+2013—Subsec. (a). Pub. L. 113–66, § 1247(a)(1), substituted “the appropriate congressional committees” for “the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate” in introductory provisions.
+
+Subsec. (c). Pub. L. 113–66, § 1247(a)(2), substituted “appropriate congressional committees” for “Congress”.
+
+Subsec. (e). Pub. L. 113–66, § 1247(b)(2), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Pub. L. 113–66, § 1247(a)(3), added subsec. (e).
+
+Subsec. (f). Pub. L. 113–66, § 1247(b)(1), redesignated subsec. (e) as (f).
+
 2002—Subsec. (a). Pub. L. 107–228 substituted “April 15” for “January 31” in introductory provisions.
 
 1999—Subsec. (a)(4). Pub. L. 106–113, § 1000(a)(7) [title XI, § 1113(a)(1)(A)–(C)], in introductory provisions, inserted “or commitments, including the Missile Technology Control Regime,” before “to which”, “or commitments” before “, and shall”, and “or commitment” before “about which”.
@@ -757,7 +732,7 @@ Subsec. (a)(4). Pub. L. 105–277, § 1223(15)(A)(iv), (v), redesignated par. (6
 
 Subsec. (a)(5) to (7). Pub. L. 105–277, § 1223(15)(A)(v), redesignated pars. (5) to (7) as (3) to (5), respectively.
 
-Subsec. (b). Pub. L. 105–277, § 1223(15)(B), inserted at end “The portions of this report described in paragraphs (4) and (5) of subsection (a) of this section shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.”
+Subsec. (b). Pub. L. 105–277, § 1223(15)(B), inserted at end “The portions of this report described in paragraphs (4) and (5) of subsection (a) shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.”
 
 1994—Subsec. (a)(5) to (7). Pub. L. 103–236, § 828(a)(1)–(3), struck out “and” at end of par. (5), substituted “; and” for period at end of par. (6), and added par. (7).
 
@@ -774,6 +749,12 @@ Amendment by section 828(a) of Pub. L. 103–236 effective 60 days after Apr. 30
 
 #### Delegation of Functions
 For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
+
+#### Report on Non-Compliance by the Russian Federation With Its Obligations Under the INF Treaty
+Pub. L. 113–291, div. A, title XII, § 1244, Dec. 19, 2014, 128 Stat. 3564, provided that: “(a) Findings.—Congress makes the following findings:“(1) It was the object and purpose of the INF Treaty to eliminate the production or deployment of ground launched ballistic and cruise missiles with a range of between 500 and 5,500 kilometers, which was accomplished in 1992. “(2) The July 2014 Department of State annual report on ‘Adherence to and Compliance with Arms Control, Nonproliferation, and Disarmament Agreements and Commitments’ stated that ‘The United States has determined that the Russian Federation is in violation of its obligations under the INF Treaty not to possess, produce, or flight-test a ground-launched cruise missile (GLCM) with a range capability of 500km to 5,500km, or to possess or produce launchers of such missiles.’. “(3) In a letter to the Senate Armed Services Committee dated October 23, 2014, General Martin Dempsey, Chairman of the Joint Chiefs of Staff, wrote ‘these violations are a serious challenge to the security of the United States and our allies. These actions, particularly when placed in the broader context of Russian regional aggression, must be met with a strategic response.’. “(b) Sense of Congress.—It is the sense of Congress that—“(1) the Russian Federation’s actions in violation of its obligations under the INF Treaty adversely affect the national security of the United States and its allies, including the members of the North Atlantic Treaty Organization (NATO) and those in East Asia; “(2) the Government of the Russian Federation is responsible for this violation and also for returning to compliance with the INF Treaty; “(3) it is in the national security interests of the United States and its allies for the INF Treaty to remain in effect and for the Russian Federation to return to full and verifiable compliance with all its obligations under the INF Treaty; and “(4) as identified in section 1061 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 865), the President should take appropriate actions to resolve the issues relating to noncompliance by the Russian Federation with its obligations under the INF Treaty. “(c) Report Required.—“(1) In general.—Not later than 90 days after the date of the enactment of this Act [Dec. 19, 2014], the President shall submit to the appropriate congressional committees a report on noncompliance by the Russian Federation with its obligations under the INF Treaty. “(2) Elements.—The report required under paragraph (1) shall include the following:“(A) An assessment of the effect of Russian noncompliance on the national security interests of the United States and its allies, including the North Atlantic Treaty Organization, and those in East Asia. “(B) A description of the President’s plan to resolve issues related to Russian noncompliance, including—“(i) actions that have been taken, and what further actions are planned or warranted by the United States; “(ii) plans to address Russian noncompliance diplomatically with the Russian Federation to resolve concerns about such noncompliance and bring Russia back into full compliance with the INF Treaty; “(iii) an assessment of possible steps (including verification measures) that would permit confidence that the Russian Federation has returned to full compliance; and “(iv) the status of any United States efforts to develop coordinated or cooperative responses with allies. “(C) An assessment of whether Russian noncompliance threatens the viability of the INF Treaty, whether such noncompliance constitutes a material breach of the INF Treaty, and whether it is in the interests of the United States to remain a party to the INF Treaty if such noncompliance continues. “(3) Form.—The report required under paragraph (1) shall be submitted in unclassified form, but may include a classified annex. “(d) Briefings Required.—At the time of the submission of the report required under subsection (c), and every six months thereafter until the date on which the Russian Federation is in compliance with its obligations under the INF Treaty, the Secretary of State, jointly with the Secretary of Defense and the heads of such other departments or agencies as appropriate, shall provide to the appropriate congressional committees a briefing on the status of United States efforts to resolve its concerns relating to noncompliance by the Russian Federation with its obligations under the INF Treaty. “(e) Notification.—In the event the President determines that the Russian Federation has deployed, or intends to deploy, systems that violate the INF Treaty, the President shall promptly notify the appropriate congressional committees of such determination and any plans to respond to such deployments. “(f) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; “(B) the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate; and “(C) the Committee on Foreign Affairs and the Permanent Select Committee on Intelligence of the House of Representatives. “(2) INF treaty.—The term ‘INF Treaty’ means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles, commonly referred to as the Intermediate-Range Nuclear Forces (INF) Treaty, signed at Washington December 8, 1987, and entered into force June 1, 1988.”
+
+#### Notification and Review of Potentially Significant Arms Control Noncompliance
+Pub. L. 113–291, div. A, title XII, § 1267, Dec. 19, 2014, 128 Stat. 3584, provided that: “(a) Notice to President.—If the Secretary of Defense, after consultation with the Secretary of State and the Director of National Intelligence, has substantial reason to believe that there is a case of foreign activity that would pose a significant threat to United States national security interests and that may be inconsistent with an arms control treaty to which the United States is a party, and such case is not included in, or is significantly different from a case included in, the most-recent annual report submitted to Congress pursuant to section 403 of the Arms Control and Disarmament Act ([22 U.S.C. 2593a](./chapter-035-arms-control-and-disarmament.md#section-2593a)), the Secretary of Defense shall notify the President of such belief of the Secretary. “(b) Referral to Secretary of State.—If the President receives a notification from the Secretary of Defense under subsection (a), the President shall promptly refer the matter to the Secretary of State to arrange for an inter-agency review of the case in order to provide for an assessment of whether the case constitutes a significant case of non-compliance with an arms control treaty to which the United States is a party. “(c) Notice to Congress.—Not later than 60 days after the date on which the President makes a referral under subsection (b), the Secretary of State shall submit to the appropriate committees of Congress the results of the assessment of the case with respect to which the referral was made under subsection (b). “(d) Definition.—In this section, the term ‘appropriate congressional committees’ means—“(1) the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and “(2) the Committee on Armed Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.”
 
 #### Requirement for Transmittal of Summaries
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1118], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: “Whenever a United States delegation engaging in negotiations on arms control, nonproliferation, or disarmament submits to the Secretary of State a summary of the activities of the delegation or the status of those negotiations, a copy of each such summary shall be further transmitted by the Secretary of State to the Committee on Foreign Relations of the Senate and to the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives promptly.”
@@ -885,9 +866,9 @@ Pub. L. 101–189, div. A, title X, § 1014, Nov. 29, 1989, 103 Stat. 1547, prov
 ## § 2595a. Policy coordination concerning implementation of on-site inspection provisions
 **(a) Interagency coordination** OSIA should receive policy guidance which is formulated through an interagency mechanism established by the President.
 
-**(b) Role of Secretary of Defense** The Secretary of Defense should provide to OSIA appropriate policy guidance formulated through the interagency mechanism described in subsection (a) of this section and operational direction, consistent with [section 113(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/b&num=0&edition=prelim).
+**(b) Role of Secretary of Defense** The Secretary of Defense should provide to OSIA appropriate policy guidance formulated through the interagency mechanism described in subsection (a) and operational direction, consistent with [section 113(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/b&num=0&edition=prelim).
 
-**(c) Role of Secretary of State** The Secretary of State should provide to the interagency mechanism described in subsection (a) of this section appropriate recommendations for policy guidance to OSIA consistent with sections 2551(3) and 2574(b) of this title.
+**(c) Role of Secretary of State** The Secretary of State should provide to the interagency mechanism described in subsection (a) appropriate recommendations for policy guidance to OSIA consistent with sections 2551(3) and 2574(b) of this title.
 
 ### Statutory Notes
 

@@ -28,6 +28,12 @@ source: >-
 
   (C) The term “discretionary category” includes all discretionary appropriations.
 
+  (D) The term “revised security category” means discretionary appropriations in budget function 050.
+
+  (E) The term “revised nonsecurity category” means discretionary appropriations other than in budget function 050.
+
+  (F) The term “category” means the subsets of discretionary appropriations in [section 901(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/c&num=0&edition=prelim). Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts or activities shall be categorized only after consultation with the Committees on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
+
 (5) The term “baseline” means the projection (described in [section 907 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-907)) of current-year levels of new budget authority, outlays, receipts, and the surplus or deficit into the budget year and the outyears.
 
 (6) The term “budgetary resources” means new budget authority, unobligated balances, direct spending authority, and obligation limitations.
@@ -85,16 +91,18 @@ source: >-
 #### References in Text
 House Concurrent Resolution 84, referred to in subsec. (b), is H. Con. Res. 84, June 5, 1997, 111 Stat. 2710, which is not classified to the Code.
 
-The Balanced Budget Act of 1997, referred to in subsec. (c)(17), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
+The Balanced Budget Act of 1997, referred to in subsec. (c)(4)(F), (17), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
 
 The Congressional Budget Act of 1974, referred to in subsec. (c)(19), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title V of the Act, known as the Federal Credit Reform Act of 1990, was added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, and is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-621) and Tables.
 
 #### Codification
-Subsection (a) of this section, which provided a partial table of contents for this subchapter was omitted from the Code.
+Subsection (a) of this section, which provided a partial table of contents for this subchapter, was omitted from the Code.
 
 Pub. L. 101–508, § 13101(b), transferred section 257(12) of Pub. L. 99–177, which was classified to [section 907(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section907/12&num=0&edition=prelim), to subsec. (c)(21) (now (c)(19)) of this section.
 
 #### Amendments
+2013—Subsec. (c)(4)(D) to (F). Pub. L. 113–67 added subpars. (D) to (F).
+
 2011—Subsec. (c)(4). Pub. L. 112–25, § 102(1), added par. (4) and struck out former par. (4) which defined the terms “category”, “highway category”, “mass transit category”, “conservation spending category”, “Federal and State Land and Water Conservation Fund sub-category”, “State and Other Conservation sub-category”, “Urban and Historic Preservation sub-category”, “Payments in Lieu of Taxes sub-category”, “Federal Deferred Maintenance sub-category”, and “Coastal Assistance sub-category” and provided a special rule for outlays in excess of the discretionary spending limit for the highway or mass transit category.
 
 Subsec. (c)(8)(C). Pub. L. 112–25, § 102(2), substituted “the Supplemental Nutrition Assistance Program” for “the food stamp program”.
@@ -184,6 +192,9 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 Pub. L. 103–66, title XIV, § 14002(c)(3)(A), Aug. 10, 1993, 107 Stat. 684, which provided that, notwithstanding section 275(b) of Pub. L. 99–177, formerly set out below, sections 900, 901, 902, and 904 to 908 of this title were to expire on Sept. 30, 1998, was repealed by Pub. L. 105–33, title X, § 10212(b), Aug. 5, 1997, 111 Stat. 712.
 
 Pub. L. 99–177, title II, § 275, Dec. 12, 1985, 99 Stat. 1100, as amended by Pub. L. 100–119, title I, § 106(c), title II, § 210(b), Sept. 29, 1987, 101 Stat. 780, 787; Pub. L. 101–508, title XIII, §§ 13112(b), 13208(b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 105–33, title X, § 10212(a), Aug. 5, 1997, 111 Stat. 712, which provided that, except as otherwise provided in section 275, amendments by title II of Pub. L. 99–177 were effective Dec. 12, 1985, and applicable to fiscal years beginning after Sept. 30, 1985; that amendment by section 201(a)(2) of Pub. L. 99–177 (amending [section 622(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section622/2&num=0&edition=prelim)), and amendment by section 201(b) of Pub. L. 99–177 (insofar as it relates to section 633(c), (f), and (g) of this title and to section 641(c), (d), and (g) of this title), were effective Apr. 15, 1986; that amendment by section 212 of Pub. L. 99–177 (amending [section 652 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-652)) was effective Feb. 1, 1986; that sections 251, 253, 258B, and 271(b) of Pub. L. 99–177 (sections 901, 903, and 907c of this title and provisions set out as a note below), and sections 1105(f) and 1106(c) of title 31, United States Code, were to expire Sept. 30, 2002; that the remaining sections of part C of title II of Pub. L. 99–177 (enacting this subchapter) were to expire Sept. 30, 2006; and that amendments by part D of title II of Pub. L. 99–177 (amending [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as a note under [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim)) were applicable as provided in that part, was repealed by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+
+#### Short Title of 2013 Amendment
+Pub. L. 113–67, div. A, § 1(a), Dec. 26, 2013, 127 Stat. 1165, provided that: “This division [see Tables for classification] may be cited as the ‘Bipartisan Budget Act of 2013’.”
 
 #### Short Title of 2011 Amendment
 Pub. L. 112–25, § 1(a), Aug. 2, 2011, 125 Stat. 240, provided that: “This Act [enacting [section 901a of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a) and [section 3101A of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3101A&num=0&edition=prelim), Money and Finance, amending this section and sections 622, 645, 901, and 904 of this title, sections 1070a and 1087e of Title 20, Education, and [section 3101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3101&num=0&edition=prelim), enacting provisions set out as notes under this section and sections 631 and 902 of this title and [section 1089 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1089&num=0&edition=prelim), amending provisions set out as a note under [section 621 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-621), and repealing provisions set out as a note under this section] may be cited as the ‘Budget Control Act of 2011’.”
@@ -397,37 +408,53 @@ William J. Clinton.
 
 **(c) Discretionary spending limit** As used in this subchapter, the term “discretionary spending limit” means—
 
-(1) with respect to fiscal year 2012—
+(1) for fiscal year 2014—
 
-  (A) for the security category, $684,000,000,000 in new budget authority; and
+  (A) for the revised security category, $520,464,000,000 in new budget authority; and
 
-  (B) for the nonsecurity category, $359,000,000,000 in new budget authority;
+  (B) for the revised nonsecurity category, $491,773,000,000 in new budget authority;
 
-(2) for fiscal year 2013—
+(2) for fiscal year 2015—
 
-  (A) for the security category, as defined in [section 900(c)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900/c/4/B&num=0&edition=prelim), $684,000,000,000 in budget authority; and
+  (A) for the revised security category, $521,272,000,000 in new budget authority; and
 
-  (B) for the nonsecurity category, as defined in [section 900(c)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900/c/4/A&num=0&edition=prelim), $359,000,000,000 in budget authority;
+  (B) for the revised nonsecurity category, $492,356,000,000 in new budget authority;
 
-(3) for fiscal year 2014—
+(3) for fiscal year 2016—
 
-  (A) for the security category, $552,000,000,000 in budget authority; and
+  (A) for the revised security category, $577,000,000,000 in new budget authority; and
 
-  (B) for the nonsecurity category, $506,000,000,000 in budget authority;
+  (B) for the revised nonsecurity category, $530,000,000,000 in new budget authority;
 
-(4) with respect to fiscal year 2015, for the discretionary category, $1,086,000,000,000 in new budget authority;
+(4) for fiscal year 2017—
 
-(5) with respect to fiscal year 2016, for the discretionary category, $1,107,000,000,000 in new budget authority;
+  (A) for the revised security category, $590,000,000,000 in new budget authority; and
 
-(6) with respect to fiscal year 2017, for the discretionary category, $1,131,000,000,000 in new budget authority;
+  (B) for the revised nonsecurity category, $541,000,000,000 in new budget authority;
 
-(7) with respect to fiscal year 2018, for the discretionary category, $1,156,000,000,000 in new budget authority;
+(5) for fiscal year 2018—
 
-(8) with respect to fiscal year 2019, for the discretionary category, $1,182,000,000,000 in new budget authority;
+  (A) for the revised security category, $603,000,000,000 in new budget authority; and
 
-(9) with respect to fiscal year 2020, for the discretionary category, $1,208,000,000,000 in new budget authority; and
+  (B) for the revised nonsecurity category, $553,000,000,000 in new budget authority;
 
-(10) with respect to fiscal year 2021, for the discretionary category, $1,234,000,000,000 in new budget authority;
+(6) for fiscal year 2019—
+
+  (A) for the revised security category, $616,000,000,000 in new budget authority; and
+
+  (B) for the revised nonsecurity category, $566,000,000,000 in new budget authority;
+
+(7) for fiscal year 2020—
+
+  (A) for the revised security category, $630,000,000,000 in new budget authority; and
+
+  (B) for the revised nonsecurity category, $578,000,000,000 in new budget authority; and
+
+(8) for fiscal year 2021—
+
+  (A) for the revised security category, $644,000,000,000 in new budget authority; and
+
+  (B) for the revised nonsecurity category, $590,000,000,000 in new budget authority;
 as adjusted in strict conformance with subsection (b).
 
 ### Statutory Notes
@@ -439,7 +466,9 @@ The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 19
 Pub. L. 101–508, § 13101(e)(2), redesignated former subsec. (a)(6)(I) of this section as section 257(e) of Pub. L. 99–177, which is classified to [section 907(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section907/e&num=0&edition=prelim).
 
 #### Amendments
-2013—Subsec. (c)(2), (3). Pub. L. 112–240 amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
+2013—Subsec. (c). Pub. L. 113–67 added pars. (1) to (8) and struck out former pars. (1) to (10) which defined discretionary spending limits for fiscal years 2012 to 2021.
+
+Subsec. (c)(2), (3). Pub. L. 112–240 amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 
 “(2) with respect to fiscal year 2013—
 
@@ -572,71 +601,9 @@ Pub. L. 105–178, title VIII, § 8103, June 9, 1998, 112 Stat. 492, as amended 
 <a id="section-901a"></a>
 ## § 901a. Enforcement of budget goal
 
-Unless a joint committee bill achieving an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted by January 15, 2012, the discretionary spending limits listed in [section 901(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/c&num=0&edition=prelim) shall be revised, and discretionary appropriations and direct spending shall be reduced, as follows:
+Discretionary appropriations and direct spending accounts shall be reduced in accordance with this section as follows:
 
-(1) **Revised security category; revised nonsecurity category**
-
-  (A) The term “revised security category” means discretionary appropriations in budget function 050.
-
-  (B) The term “revised nonsecurity category” means discretionary appropriations other than in budget function 050.
-
-(2) **Revised discretionary spending limits** — The discretionary spending limits for fiscal years 2013 through 2021 under [section 901(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/c&num=0&edition=prelim) shall be replaced with the following:
-
-  (A) For fiscal year 2013—
-
-    (i) for the security category, $546,000,000,000 in budget authority; and
-
-    (ii) for the nonsecurity category, $501,000,000,000 in budget authority.
-
-  (B) For fiscal year 2014—
-
-    (i) for the security category, $556,000,000,000 in budget authority; and
-
-    (ii) for the nonsecurity category, $510,000,000,000 in budget authority.
-
-  (C) For fiscal year 2015—
-
-    (i) for the security category, $566,000,000,000 in budget authority; and
-
-    (ii) for the nonsecurity category, $520,000,000,000 in budget authority.
-
-  (D) For fiscal year 2016—
-
-    (i) for the security category, $577,000,000,000 in budget authority; and
-
-    (ii) for the nonsecurity category, $530,000,000,000 in budget authority.
-
-  (E) For fiscal year 2017—
-
-    (i) for the security category, $590,000,000,000 in budget authority; and
-
-    (ii) for the nonsecurity category, $541,000,000,000 in budget authority.
-
-  (F) For fiscal year 2018—
-
-    (i) for the security category, $603,000,000,000 in budget authority; and
-
-    (ii) for the nonsecurity category, $553,000,000,000 in budget authority.
-
-  (G) For fiscal year 2019—
-
-    (i) for the security category, $616,000,000,000 in budget authority; and
-
-    (ii) for the nonsecurity category, $566,000,000,000 in budget authority.
-
-  (H) For fiscal year 2020—
-
-    (i) for the security category, $630,000,000,000 in budget authority; and
-
-    (ii) for the nonsecurity category, $578,000,000,000 in budget authority.
-
-  (I) For fiscal year 2021—
-
-    (i) for the security category, $644,000,000,000 in budget authority; and
-
-    (ii) for the nonsecurity category, $590,000,000,000 in budget authority.
-
-(3) **Calculation of total deficit reduction** — OMB shall calculate the amount of the deficit reduction required by this section for each of fiscal years 2013 through 2021 by—
+(1) **Calculation of total deficit reduction** — OMB shall calculate the amount of the deficit reduction required by this section for each of fiscal years 2013 through 2021 by—
 
   (A) starting with $1,200,000,000,000;
 
@@ -648,91 +615,150 @@ Unless a joint committee bill achieving an amount greater than $1,200,000,000,00
 
   (E) for fiscal year 2013, reducing the amount calculated under subparagraphs (A) through (D) by $24,000,000,000.
 
-(4) **Allocation to functions** — On March 1, 2013, for fiscal year 2013, and in its sequestration preview report for fiscal years 2014 through 2021 pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim), OMB shall allocate half of the total reduction calculated pursuant to paragraph (3) for that year to discretionary appropriations and direct spending accounts within function 050 (defense function) and half to accounts in all other functions (nondefense functions).
+(2) **Allocation to functions** — On March 1, 2013, for fiscal year 2013, and in its sequestration preview report for fiscal years 2014 through 2021 pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim), OMB shall allocate half of the total reduction calculated pursuant to paragraph (1) for that year to discretionary appropriations and direct spending accounts within function 050 (defense function) and half to accounts in all other functions (nondefense functions).
 
-(5) **Defense function reduction** — OMB shall calculate the reductions to discretionary appropriations and direct spending for each of fiscal years 2013 through 2021 for defense function spending as follows:
+(3) **Defense function reduction** — OMB shall calculate the reductions to discretionary appropriations and direct spending for each of fiscal years 2013 through 2021 for defense function spending as follows:
 
   (A) *Discretionary* — OMB shall calculate the reduction to discretionary appropriations by—
 
-    (i) taking the total reduction for the defense function allocated for that year under paragraph (4);
+    (i) taking the total reduction for the defense function allocated for that year under paragraph (2);
 
     (ii) multiplying by the discretionary spending limit for the revised security category for that year; and
 
     (iii) dividing by the sum of the discretionary spending limit for the security category and OMB’s baseline estimate of nonexempt outlays for direct spending programs within the defense function for that year.
 
-  (B) *Direct spending* — OMB shall calculate the reduction to direct spending by taking the total reduction for the defense function required for that year under paragraph (4) and subtracting the discretionary reduction calculated pursuant to subparagraph (A).
+  (B) *Direct spending* — OMB shall calculate the reduction to direct spending by taking the total reduction for the defense function required for that year under paragraph (2) and subtracting the discretionary reduction calculated pursuant to subparagraph (A).
 
-(6) **Nondefense function reduction** — OMB shall calculate the reduction to discretionary appropriations and to direct spending for each of fiscal years 2013 through 2021 for programs in nondefense functions as follows:
+(4) **Nondefense function reduction** — OMB shall calculate the reduction to discretionary appropriations and to direct spending for each of fiscal years 2013 through 2021 for programs in nondefense functions as follows:
 
   (A) *Discretionary* — OMB shall calculate the reduction to discretionary appropriations by—
 
-    (i) taking the total reduction for nondefense functions allocated for that year under paragraph (4);
+    (i) taking the total reduction for nondefense functions allocated for that year under paragraph (2);
 
     (ii) multiplying by the discretionary spending limit for the revised nonsecurity category for that year; and
 
     (iii) dividing by the sum of the discretionary spending limit for the revised nonsecurity category and OMB’s baseline estimate of nonexempt outlays for direct spending programs in nondefense functions for that year.
 
-  (B) *Direct spending* — OMB shall calculate the reduction to direct spending programs by taking the total reduction for nondefense functions required for that year under paragraph (4) and subtracting the discretionary reduction calculated pursuant to subparagraph (A).
+  (B) *Direct spending* — OMB shall calculate the reduction to direct spending programs by taking the total reduction for nondefense functions required for that year under paragraph (2) and subtracting the discretionary reduction calculated pursuant to subparagraph (A).
 
-(7) **Implementing discretionary reductions**
+(5) **Implementing discretionary reductions**
 
   (A) *Fiscal year 2013* — On March 1, 2013, for fiscal year 2013, OMB shall calculate and the President shall order a sequestration, effective upon issuance and under the procedures set forth in [section 903(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section903/f&num=0&edition=prelim), to reduce each account within the security category or nonsecurity category by a dollar amount calculated by multiplying the baseline level of budgetary resources in that account at that time by a uniform percentage necessary to achieve—
 
-    (i) for the revised security category, an amount equal to the defense function discretionary reduction calculated pursuant to paragraph (5); and
+    (i) for the revised security category, an amount equal to the defense function discretionary reduction calculated pursuant to paragraph (3); and
 
-    (ii) for the revised nonsecurity category, an amount equal to the nondefense function discretionary reduction calculated pursuant to paragraph (6).
+    (ii) for the revised nonsecurity category, an amount equal to the nondefense function discretionary reduction calculated pursuant to paragraph (4).
 
-  (B) *Fiscal years 2014–2021* — On the date of the submission of its sequestration preview report for fiscal years 2014 through 2021 pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim) for each of fiscal years 2014 through 2021, OMB shall reduce the discretionary spending limit—
+  (B) *Fiscal years 2014–2021* — Except as provided by paragraph (10), on the date of the submission of its sequestration preview report for fiscal years 2014 through 2021 pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim) for each of fiscal years 2014 through 2021, OMB shall reduce the discretionary spending limit—
 
-    (i) for the revised security category by the amount of the defense function discretionary reduction calculated pursuant to paragraph (5); and
+    (i) for the revised security category by the amount of the defense function discretionary reduction calculated pursuant to paragraph (3); and
 
-    (ii) for the revised nonsecurity category by the amount of the nondefense function discretionary reduction calculated pursuant to paragraph (6).
+    (ii) for the revised nonsecurity category by the amount of the nondefense function discretionary reduction calculated pursuant to paragraph (4).
 
-(8) **Implementing direct spending reductions** — On the date specified in paragraph (4) during each applicable year, OMB shall prepare and the President shall order a sequestration, effective upon issuance, of nonexempt direct spending to achieve the direct spending reduction calculated pursuant to paragraphs (5) and (6). When implementing the sequestration of direct spending pursuant to this paragraph, OMB shall follow the procedures specified in [section 935 of this title](./chapter-20a-statutory-pay-as-you-go.md#section-935), the exemptions specified in [section 905 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-905), and the special rules specified in [section 906 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-906), except that the percentage reduction for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim) shall not be more than 2 percent for a fiscal year.
+(6) **Implementing direct spending reductions**
 
-(9) **Adjustment for Medicare** — If the percentage reduction for the Medicare programs would exceed 2 percent for a fiscal year in the absence of paragraph (8), OMB shall increase the reduction for all other discretionary appropriations and direct spending under paragraph (6) by a uniform percentage to a level sufficient to achieve the reduction required by paragraph (6) in the non-defense function.
+  (A) On the date specified in paragraph (2) during each applicable year, OMB shall prepare and the President shall order a sequestration, effective upon issuance, of nonexempt direct spending to achieve the direct spending reduction calculated pursuant to paragraphs (3) and (4). When implementing the sequestration of direct spending pursuant to this paragraph, OMB shall follow the procedures specified in [section 935 of this title](./chapter-20a-statutory-pay-as-you-go.md#section-935), the exemptions specified in [section 905 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-905), and the special rules specified in [section 906 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-906), except that the percentage reduction for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim) shall not be more than 2 percent for a fiscal year.
 
-(10) **Implementation of reductions** — Any reductions imposed under this section shall be implemented in accordance with [section 906(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/k&num=0&edition=prelim).
+  (B) On the dates OMB issues its sequestration preview reports for fiscal year 2022, for fiscal year 2023, and for fiscal year 2024, pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim), the President shall order a sequestration, effective upon issuance such that—
 
-(11) **Report** — On the dates specified in paragraph (4), OMB shall submit a report to Congress containing information about the calculations required under this section, the adjusted discretionary spending limits, a listing of the reductions required for each nonexempt direct spending account, and any other data and explanations that enhance public understanding of this title and actions taken under it.
+    (i) the percentage reduction for nonexempt direct spending for the defense function is the same percent as the percentage reduction for nonexempt direct spending for the defense function for fiscal year 2021 calculated under paragraph (3)(B); and
+
+    (ii) the percentage reduction for nonexempt direct spending for nondefense functions is the same percent as the percentage reduction for nonexempt direct spending for nondefense functions for fiscal year 2021 calculated under paragraph (4)(B).
+
+  (C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim), the sequestration order of the President under such subparagraph for fiscal year 2023 shall be applied to such payments so that—
+
+    (i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.90 percent; and
+
+    (ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 1.11 percent.
+
+  (D) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim), the sequestration order of the President under such subparagraph for fiscal year 2024 shall be applied to such payments so that—
+
+    (i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and
+
+    (ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.
+
+(7) **Adjustment for Medicare** — If the percentage reduction for the Medicare programs would exceed 2 percent for a fiscal year in the absence of paragraph (6), OMB shall increase the reduction for all other discretionary appropriations and direct spending under paragraph (4) by a uniform percentage to a level sufficient to achieve the reduction required by paragraph (4) in the non-defense function.
+
+(8) **Implementation of reductions** — Any reductions imposed under this section shall be implemented in accordance with [section 906(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/k&num=0&edition=prelim).
+
+(9) **Report** — On the dates specified in paragraph (2), OMB shall submit a report to Congress containing information about the calculations required under this section, the adjusted discretionary spending limits, a listing of the reductions required for each nonexempt direct spending account, and any other data and explanations that enhance public understanding of this title 11 See References in Text note below. and actions taken under it.
+
+(10) **Implementing direct spending reductions for fiscal years 2014 and 2015**
+
+  (A) OMB shall make the calculations necessary to implement the direct spending reductions calculated pursuant to paragraphs (3) and (4) without regard to the amendment made to [section 901(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/c&num=0&edition=prelim) revising the discretionary spending limits for fiscal years 2014 and 2015 by the Bipartisan Budget Act of 2013.
+
+  (B) Paragraph (5)(B) shall not be implemented for fiscal years 2014 and 2015.
 
 ### Statutory Notes
 
 #### References in Text
-Section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011, referred to in text, is section 401(b)(3)(B)(i)(II) of title IV of Pub. L. 112–25, which is set out in a note under [section 900 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-900).
+Section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011, referred to in par. (1)(B), is section 401(b)(3)(B)(i)(II) of title IV of Pub. L. 112–25, which is set out in a note under [section 900 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-900).
+
+This title, referred to in par. (9), means title II (§ 200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under [section 900 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-900) and Tables.
+
+The Bipartisan Budget Act of 2013, referred to in par. (10)(A), is div. A of Pub. L. 113–67, Dec. 26, 2013, 127 Stat. 1165. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under [section 900 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-900) and Tables.
 
 #### Prior Provisions
 A prior section 901a, Pub. L. 99–177, title II, § 251A, as added Pub. L. 103–322, title XXXI, § 310001(g)(1), Sept. 13, 1994, 108 Stat. 2104, related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by Pub. L. 105–33, title X, § 10204(a)(1), Aug. 5, 1997, 111 Stat. 702.
 
 #### Amendments
-2013—Par. (3)(E). Pub. L. 112–240, § 901(a), added subpar. (E).
+2014—Par. (6)(B). Pub. L. 113–82 substituted “, for fiscal year 2023, and for fiscal year 2024” for “and for fiscal year 2023”.
 
-Par. (4). Pub. L. 112–240, § 901(c)(1), substituted “March 1, 2013” for “January 2, 2013”.
+Par. (6)(D). Pub. L. 113–93 added subpar. (D).
+
+2013—Pub. L. 113–67, § 101(d)(2)(A), in introductory provisions substituted “Discretionary appropriations and direct spending accounts shall be reduced in accordance with this section as follows:” for “Unless a joint committee bill achieving an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted by January 15, 2012, the discretionary spending limits listed in [section 901(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/c&num=0&edition=prelim) shall be revised, and discretionary appropriations and direct spending shall be reduced, as follows:”.
+
+Par. (1). Pub. L. 113–67, § 101(d)(2)(B), (C), redesignated par.(3) as (1) and struck out former par. (1) which defined “revised security category” as discretionary appropriations in budget function 050 and “revised nonsecurity category” as discretionary appropriations other than in budget function 050.
+
+Par. (2). Pub. L. 113–67, § 101(d)(2)(B)–(D), redesignated par. (4) as (2), substituted “paragraph (1)” for “paragraph (3)”, and struck out former par. (2) which revised discretionary spending limits under [section 901(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/c&num=0&edition=prelim) for fiscal years 2013 through 2021.
+
+Par. (3). Pub. L. 113–67, § 101(d)(2)(C), (E), redesignated par. (5) as (3) and substituted “paragraph (2)” for “paragraph (4)” in two places. Former par. (3) redesignated (1).
+
+Par. (3)(E). Pub. L. 112–240, § 901(a), added subpar. (E).
+
+Par. (4). Pub. L. 113–67, § 101(d)(2)(C), (F), redesignated par. (6) as (4) and substituted “paragraph (2)” for “paragraph (4)” in two places. Former par. (4) redesignated (2).
+
+Pub. L. 112–240, § 901(c)(1), substituted “March 1, 2013” for “January 2, 2013”.
+
+Par. (5). Pub. L. 113–67, § 101(d)(2)(C), (G), redesignated par. (7) as (5) and substituted “paragraph (3)” for “paragraph (5)” in two places and “paragraph (4)” for “paragraph (6)” in two places. Former par. (5) redesignated (3).
+
+Par. (5)(B). Pub. L. 113–67, § 101(b)(2), substituted “Except as provided by paragraph (10), on” for “On” in introductory provisions.
+
+Par. (6). Pub. L. 113–67, § 101(d)(2)(C), (H), redesignated par. (8) as (6) and, in subpar. (A), substituted “paragraph (2)” for “paragraph (4)” and “paragraphs (3) and (4)” for “paragraphs (5) and (6)”. Former par. (6) redesignated (4).
+
+Pub. L. 113–67, § 101(c), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Par. (6)(C). Pub. L. 113–67, § 1205, added subpar. (C).
+
+Par. (7). Pub. L. 113–67, § 101(d)(2)(C), (I), redesignated par. (9) as (7), substituted “paragraph (6)” for “paragraph (8)”, and substituted “paragraph (4)” for “paragraph (6)” in two places. Former par. (7) redesignated (5).
 
 Par. (7)(A). Pub. L. 112–240, § 901(c)(2), substituted “March 1, 2013” for “January 2, 2013” in introductory provisions.
 
+Par. (8). Pub. L. 113–67, § 101(d)(2)(C), redesignated par. (10) as (8). Former par. (8) redesignated (6).
+
+Par. (9). Pub. L. 113–67, § 101(d)(2)(C), (J), redesignated par. (11) as (9) and substituted “paragraph (2)” for “paragraph (4)”. Former par. (9) redesignated (7).
+
+Par. (10). Pub. L. 113–67, § 101(b)(1), added par. (10). Former par. (10) redesignated (8).
+
+Par. (11). Pub. L. 113–67, § 101(d)(2)(C), redesignated par. (11) as (9).
+
 #### 2013 Sequester
-Pub. L. 112–240, title IX, § 901(e), Jan. 2, 2013, 126 Stat. 2370, provided that: “On March 1, 2013, the President shall order a sequestration for fiscal year 2013 pursuant to section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a)], as amended by this section, pursuant to which, only for the purposes of the calculation in sections 251A(5)(A), 251A(6)(A), and 251A(7)(A), section 251(c)(2) [[2 U.S.C. 901(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/c/2&num=0&edition=prelim)] shall be applied as if it read as follows: “ ‘(2) For fiscal year 2013— “ ‘(A) for the security category, $544,000,000,000 in budget authority; and “ ‘(B) for the nonsecurity category, $499,000,000,000 in budget authority;’.”
+Pub. L. 112–240, title IX, § 901(e), Jan. 2, 2013, 126 Stat. 2370, provided that: “On March 1, 2013, the President shall order a sequestration for fiscal year 2013 pursuant to section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a)], as amended by this section, pursuant to which, only for the purposes of the calculation in sections 251A(5)(A), 251A(6)(A), and 251A(7)(A), section 251(c)(2) [former [2 U.S.C. 901(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/c/2&num=0&edition=prelim)] shall be applied as if it read as follows: “ ‘(2) For fiscal year 2013— “ ‘(A) for the security category, $544,000,000,000 in budget authority; and “ ‘(B) for the nonsecurity category, $499,000,000,000 in budget authority;’.”
 
-#### Sequestration Order for Fiscal Year 2013 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
-Order of President of the United States, dated Mar. 1, 2013, 78 F.R. 14633, provided:
+#### Sequestration Order for Fiscal Year 2015 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
+Order of President of the United States, dated Mar. 10, 2014, 79 F.R. 14365, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act, as amended (the “Act”), [2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a), I hereby order that budgetary resources in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 1, 2013.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the “Act”), as amended, [2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a), I hereby order that, on October 1, 2014, direct spending budgetary resources for fiscal year 2015 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 10, 2014.
 
-Pursuant to sections 250(c)(6), 251A, and 255(e) of the Act, budgetary resources subject to sequestration shall be new budget authority, unobligated balances of defense function accounts carried over from prior fiscal years, direct spending authority, and obligation limitations.
-
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget’s report of March 1, 2013, prepared pursuant to section 251A(11) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget’s report of March 10, 2014, prepared pursuant to section 251A(9) of the Act.
 
 Barack Obama.
 
-#### Sequestration Order for Fiscal Year 2014 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
-Order of President of the United States, dated Apr. 10, 2013, 78 F.R. 22409, provided:
+Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act [of 1985] (the “Act”), as amended, [2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a), I hereby order that, on October 1, 2013, direct spending budgetary resources for fiscal year 2014 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of April 10, 2013.
+2014—Order of President of the United States, dated Apr. 10, 2013, 78 F.R. 22409.
 
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget’s report of April 10, 2013, prepared pursuant to section 251A(11) of the Act.
-
-Barack Obama.
+2013—Order of President of the United States, dated Mar. 1, 2013, 78 F.R. 14633.
 
 
 <a id="section-902"></a>
@@ -745,15 +771,15 @@ Barack Obama.
 
 (2) **Calculation of deficit increase** — OMB shall calculate the amount of deficit increase or decrease by adding—
 
-  (A) all OMB estimates for the budget year of direct spending and receipts legislation transmitted under subsection (d) of this section;
+  (A) all OMB estimates for the budget year of direct spending and receipts legislation transmitted under subsection (d);
 
-  (B) the estimated amount of savings in direct spending programs applicable to budget year resulting from the prior year’s sequestration under this section or [section 903 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-903), if any, as published in OMB’s final sequestration report for that prior year; and
+  (B) the estimated amount of savings in direct spending programs applicable to the budget year resulting from the prior year’s sequestration under this section or [section 903 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-903), if any, as published in OMB’s final sequestration report for that prior year; and
 
-  (C) any net deficit increase or decrease in the current year resulting from all OMB estimates for the current year of direct spending and receipts legislation transmitted under subsection (d) of this section that were not reflected in the final OMB sequestration report for the current year.
+  (C) any net deficit increase or decrease in the current year resulting from all OMB estimates for the current year of direct spending and receipts legislation transmitted under subsection (d) that were not reflected in the final OMB sequestration report for the current year.
 
 **(c) Eliminating a deficit increase**
 
-(1) The amount required to be sequestered in a fiscal year under subsection (b) of this section shall be obtained from non-exempt direct spending accounts from actions taken in the following order:
+(1) The amount required to be sequestered in a fiscal year under subsection (b) shall be obtained from non-exempt direct spending accounts from actions taken in the following order:
 
   (A) *First* — All reductions in automatic spending increases specified in section 906(a) 11 See References in Text note below. of this title shall be made.
 
@@ -761,7 +787,7 @@ Barack Obama.
 
   (C) *Third*
 
-    (i) If additional reductions in direct spending accounts are required to be made, each remaining non-exempt direct spending account shall be reduced by the uniform percentage necessary to make the reductions in direct spending required by paragraph (1); except that the medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim) shall not be reduced by more than 4 percent and the uniform percentage applicable to all other direct spending programs under this paragraph shall be increased (if necessary) to a level sufficient to achieve the required reduction in direct spending.
+    (i) If additional reductions in direct spending accounts are required to be made, each remaining non-exempt direct spending account shall be reduced by the uniform percentage necessary to make the reductions in direct spending required by subsection (b); except that the medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim) shall not be reduced by more than 4 percent and the uniform percentage applicable to all other direct spending programs under this paragraph shall be increased (if necessary) to a level sufficient to achieve the required reduction in direct spending.
 
     (ii) For purposes of determining reductions under clause (i), outlay reductions (as a result of sequestration of Commodity Credit Corporation commodity price support contracts in the fiscal year of a sequestration) that would occur in the following fiscal year shall be credited as outlay reductions in the fiscal year of the sequestration.
 
@@ -785,7 +811,7 @@ Barack Obama.
 
   (A) full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates; and
 
-  (B) emergency provisions as designated under subsection (e) of this section.
+  (B) emergency provisions as designated under subsection (e).
 
 (5) **Scorekeeping guidelines** — OMB and CBO, after consultation with each other and the Committees on the Budget of the House of Representatives and the Senate, shall—
 
@@ -793,7 +819,7 @@ Barack Obama.
 
   (B) in conformance with such guidelines, prepare estimates under this section.
 
-**(e) Emergency legislation** If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d) of this section. This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
+**(e) Emergency legislation** If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d). This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
 
 ### Statutory Notes
 
@@ -803,6 +829,10 @@ Barack Obama.
 [Section 906(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/c&num=0&edition=prelim), referred to in subsec. (c)(1)(B), was repealed by Pub. L. 111–139, title I, § 10(c), Feb. 12, 2010, 124 Stat. 22.
 
 #### Amendments
+2013—Subsec. (b)(2)(B). Pub. L. 113–67, § 121(1), substituted “applicable to the budget year” for “applicable to budget year”.
+
+Subsec. (c)(1)(C)(i). Pub. L. 113–67, § 121(2), substituted “subsection (b)” for “paragraph (1)”.
+
 1997—Subsec. (a). Pub. L. 105–33, § 10205(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration.”
 
 Subsec. (b). Pub. L. 105–33, § 10205(1), added subsec. (b) and struck out heading and text of former subsec. (b) which required sequestrations at the end of a session of Congress to offset amount of any net deficit increase in that fiscal year and prior fiscal year caused by all direct spending and receipts legislation enacted after Nov. 5, 1990.
@@ -859,12 +889,12 @@ Pub. L. 103–66, title XIV, § 14003(c), Aug. 10, 1993, 107 Stat. 685, provided
 
 (2) the amounts for that year designated as emergency direct spending or receipts legislation under [section 902(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section902/e&num=0&edition=prelim); and
 
-(3) for any fiscal year in which there is not a full adjustment for technical and economic reestimates, the deposit insurance reestimate for that year, if any, calculated under subsection (h) of this section.
+(3) for any fiscal year in which there is not a full adjustment for technical and economic reestimates, the deposit insurance reestimate for that year, if any, calculated under subsection (h).
 The “margin” for fiscal year 1992 or 1993 is zero and for fiscal year 1994 or 1995 is $15,000,000,000.
 
 **(c) Dividing sequestration** To eliminate the excess deficit in a budget year, half of the required outlay reductions shall be obtained from non-exempt defense accounts (accounts designated as function 050 in the President’s fiscal year 1991 budget submission) and half from non-exempt, non-defense accounts (all other non-exempt accounts).
 
-**(d) Defense** Each non-exempt defense account shall be reduced by a dollar amount calculated by multiplying the level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to carry out subsection (c) of this section, except that, if any military personnel are exempt, adjustments shall be made under the procedure set forth in [section 901(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/a/3&num=0&edition=prelim).
+**(d) Defense** Each non-exempt defense account shall be reduced by a dollar amount calculated by multiplying the level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to carry out subsection (c), except that, if any military personnel are exempt, adjustments shall be made under the procedure set forth in [section 901(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/a/3&num=0&edition=prelim).
 
 **(e) Non-defense** Actions to reduce non-defense accounts shall be taken in the following order:
 
@@ -874,7 +904,7 @@ The “margin” for fiscal year 1992 or 1993 is zero and for fiscal year 1994 o
 
 (3) **Third**
 
-  (A) If additional reductions in non-defense accounts are required to be made, each remaining non-exempt, non-defense account shall be reduced by the uniform percentage necessary to make the reductions in non-defense outlays required by subsection (c) of this section, except that—
+  (A) If additional reductions in non-defense accounts are required to be made, each remaining non-exempt, non-defense account shall be reduced by the uniform percentage necessary to make the reductions in non-defense outlays required by subsection (c), except that—
 
     (i) the medicare program specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim) shall not be reduced by more than 2 percent in total including any reduction of less than 2 percent made under [section 902 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-902) or, if it has been reduced by 2 percent or more under [section 902 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-902), it may not be further reduced under this section; and
 
@@ -885,9 +915,9 @@ The “margin” for fiscal year 1992 or 1993 is zero and for fiscal year 1994 o
 
 **(f) Baseline assumptions; part-year appropriations**
 
-(1) **Budget assumptions** — For purposes of subsections (b), (c), (d), and (e) of this section, accounts shall be assumed to be at the level in the baseline minus any reductions required to be made under sections 901 and 902 of this title.
+(1) **Budget assumptions** — For purposes of subsections (b), (c), (d), and (e), accounts shall be assumed to be at the level in the baseline minus any reductions required to be made under sections 901 and 902 of this title.
 
-(2) **Part-year appropriations** — If, on the date specified in subsection (a) of this section, there is in effect an Act making or continuing appropriations for part of a fiscal year for any non-exempt budget account, then the dollar sequestration calculated for that account under subsection (d) or (e) of this section, as applicable, shall be subtracted from—
+(2) **Part-year appropriations** — If, on the date specified in subsection (a), there is in effect an Act making or continuing appropriations for part of a fiscal year for any non-exempt budget account, then the dollar sequestration calculated for that account under subsection (d) or (e), as applicable, shall be subtracted from—
 
   (A) the annualized amount otherwise available by law in that account under that or a subsequent part-year appropriation; and
 
@@ -956,13 +986,13 @@ November 5, 1990, referred to in subsec. (g)(2)(B), was in the original “the d
 
 **(c) Sequestration preview reports**
 
-(1) **Reporting requirement** — On the dates specified in subsection (a) of this section, OMB and CBO shall issue a preview report regarding discretionary, pay-as-you-go, and deficit sequestration based on laws enacted through those dates.
+(1) **Reporting requirement** — On the dates specified in subsection (a), OMB and CBO shall issue a preview report regarding discretionary, pay-as-you-go, and deficit sequestration based on laws enacted through those dates.
 
 (2) **Discretionary sequestration report** — The preview reports shall set forth estimates for the current year and each subsequent year through 2021 of the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under [section 901 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901).
 
 (3) **Pay-as-you-go sequestration reports** — The preview reports shall set forth, for the current year and the budget year, estimates for each of the following:
 
-  (A) The amount of net deficit increase or decrease, if any, calculated under sub[section 902(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section902/b&num=0&edition=prelim).
+  (A) The amount of net deficit increase or decrease, if any, calculated under [section 902(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section902/b&num=0&edition=prelim).
 
   (B) A list identifying each law enacted and sequestration implemented after November 5, 1990, included in the calculation of the amount of deficit increase or decrease and specifying the budgetary effect of each such law.
 
@@ -983,13 +1013,13 @@ November 5, 1990, referred to in subsec. (g)(2)(B), was in the original “the d
 
 (5) **Explanation of differences** — The OMB reports shall explain the differences between OMB and CBO estimates for each item set forth in this subsection.
 
-**(d) Notification regarding military personnel** On or before the date specified in subsection (a) of this section, the President shall notify the Congress of the manner in which he intends to exercise flexibility with respect to military personnel accounts under [section 905(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905/f&num=0&edition=prelim).
+**(d) Notification regarding military personnel** On or before the date specified in subsection (a), the President shall notify the Congress of the manner in which he intends to exercise flexibility with respect to military personnel accounts under [section 905(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905/f&num=0&edition=prelim).
 
-**(e) Sequestration update reports** On the dates specified in subsection (a) of this section, OMB and CBO shall issue a sequestration update report, reflecting laws enacted through those dates, containing all of the information required in the sequestration preview reports. This report shall also contain a preview estimate of the adjustment for disaster funding for the upcoming fiscal year.
+**(e) Sequestration update reports** On the dates specified in subsection (a), OMB and CBO shall issue a sequestration update report, reflecting laws enacted through those dates, containing all of the information required in the sequestration preview reports. This report shall also contain a preview estimate of the adjustment for disaster funding for the upcoming fiscal year.
 
 **(f) Final sequestration reports**
 
-(1) **Reporting requirement** — On the dates specified in subsection (a) of this section, OMB and CBO shall issue a final sequestration report, updated to reflect laws enacted through those dates.
+(1) **Reporting requirement** — On the dates specified in subsection (a), OMB and CBO shall issue a final sequestration report, updated to reflect laws enacted through those dates.
 
 (2) **Discretionary sequestration reports** — The final reports shall set forth estimates for each of the following:
 
@@ -1003,9 +1033,9 @@ November 5, 1990, referred to in subsec. (g)(2)(B), was in the original “the d
 
 (3) **Pay-as-you-go and deficit sequestration reports** — The final reports shall contain all the information required in the pay-as-you-go and deficit sequestration preview reports. In addition, these reports shall contain, for the budget year, for each account to be sequestered, estimates of the baseline level of sequestrable budgetary resources and resulting outlays and the amount of budgetary resources to be sequestered and resulting outlay reductions. The reports shall also contain estimates of the effects on outlays of the sequestration in each outyear for direct spending programs.
 
-(4) **Explanation of differences** — The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under subsection 11 So in original. Probably should be “section”. 902(b) of this title, any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable 22 So in original. Probably should be “sequestrable”. resources for any budget account to be reduced if such difference is greater than $5,000,000.
+(4) **Explanation of differences** — The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under [section 902(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section902/b&num=0&edition=prelim), any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable 11 So in original. Probably should be “sequestrable”. resources for any budget account to be reduced if such difference is greater than $5,000,000.
 
-(5) **Presidential order** — On the date specified in subsection (a) of this section, if in its final sequestration report OMB estimates that any sequestration is required, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
+(5) **Presidential order** — On the date specified in subsection (a), if in its final sequestration report OMB estimates that any sequestration is required, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
 
 **(g) Within-session sequestration reports and order** If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach, 10 days later CBO shall issue a report containing the information required in paragraph (f)(2). Fifteen days after enactment, OMB shall issue a report containing the information required in paragraphs (f)(2) and (f)(4). On the same day as the OMB report, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
 
@@ -1029,6 +1059,10 @@ November 5, 1990, referred to in subsec. (g)(2)(B), was in the original “the d
 November 5, 1990, referred to in subsec. (c)(3)(B), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+2013—Subsec. (c)(3)(A). Pub. L. 113–67, § 121(3), substituted “section 902(b)” for “subsection 902(b)”.
+
+Subsec. (f)(4). Pub. L. 113–67, § 121(4), substituted “section 902(b)” for “subsection 902(b)”.
+
 2011—Subsec. (c)(2). Pub. L. 112–25, § 103(1), substituted “2021” for “2002”.
 
 Subsec. (e). Pub. L. 112–25, § 103(2), added “This report shall also contain a preview estimate of the adjustment for disaster funding for the upcoming fiscal year.” at end.
@@ -1095,7 +1129,7 @@ By the authority vested in me as President by the statutes of the United States 
 
 (1) Budgetary resources for each non-exempt account within the international category of discretionary spending shall be reduced as specified by the Director of the Office of Management and Budget in his report of November 9, 1990.
 
-(2) Pursuant to sections 250(c)(6) and 251 [[2 U.S.C. 900(c)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900/c/6&num=0&edition=prelim), 901], budgetary resources subject to sequestration shall be new budget authority; new loan guarantee commitments or limitations; new direct loan obligations, commitments, or limitations; and obligation limitations.
+(2) Pursuant to sections 250(c)(6) and 251 [former [2 U.S.C. 900(c)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900/c/6&num=0&edition=prelim), [2 U.S.C. 901](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901)], budgetary resources subject to sequestration shall be new budget authority; new loan guarantee commitments or limitations; new direct loan obligations, commitments, or limitations; and obligation limitations.
 
 (3) For accounts making commitments for guaranteed loans as authorized by substantive law, the head of each Department or agency is directed to reduce the level of such commitments or obligations to the extent necessary to conform to the limitations established by the Act [Pub. L. 99–177, title II, see Short Title note set out under [2 U.S.C. 900](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-900)] and specified by the Director of the Office of Management and Budget in his report of November 9, 1990.
 
@@ -1180,7 +1214,7 @@ Order of the President of the United States, Feb. 1, 1986, 51 F.R. 4291.
 
 <a id="section-905"></a>
 ## § 905. Exempt programs and activities
-**(a) Social security benefits and tier I railroad retirement benefits** Benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.), and benefits payable under section 11 So in original. Probably should be “sections”. 231b(a), 231b(f)(2), 231c(a), and 231c(f) of title 45, shall be exempt from reduction under any order issued under this subchapter.
+**(a) Social security benefits and tier I railroad retirement benefits** Benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.), and benefits payable under sections 231b and 231c 11 See References in Text note below. of title 45, shall be exempt from reduction under any order issued under this subchapter.
 
 **(b) Veterans programs** The following programs shall be exempt from reduction under any order issued under this subchapter: All programs administered by the Department of Veterans Affairs. Special benefits for certain World War II veterans (28–0401–0–1–701).
 
@@ -1206,24 +1240,34 @@ Order of the President of the United States, Feb. 1, 1986, 51 F.R. 4291.
 
 (2) Prior legal obligations of the Government in the following budget accounts and activities shall be exempt from any order issued under this subchapter:Biomass Energy Development (20–0114–0–1–271). Check Forgery Insurance Fund (20–4109–0–3–803). Credit liquidating accounts. Credit reestimates. Employees Life Insurance Fund (24–8424–0–8–602). Federal Aviation Insurance Revolving Fund (69–4120–0–3–402). Federal Crop Insurance Corporation Fund (12–4085–0–3–351). Federal Emergency Management Agency, National Flood Insurance Fund (58–4236–0–3–453). Geothermal resources development fund (89–0206–0–1–271). Low-Rent Public Housing—Loans and Other Expenses (86–4098–0–3–604). Maritime Administration, War Risk Insurance Revolving Fund (69–4302–0–3–403). Natural Resource Damage Assessment Fund (14–1618–0–1–302). Overseas Private Investment Corporation, Noncredit Account (71–4184–0–3–151). Pension Benefit Guaranty Corporation Fund (16–4204–0–3–601). San Joaquin Restoration Fund (14–5537–0–2–301). Servicemembers’ Group Life Insurance Fund (36–4009–0–3–701). Terrorism Insurance Program (20–0123–0–1–376).
 
-**(h) Low-income programs** The following programs shall be exempt from reduction under any order issued under this subchapter: Academic Competitiveness/Smart Grant Program (91–0205–0–1–502). Child Care Entitlement to States (75–1550–0–1–609). Child Enrollment Contingency Fund (75–5551–0–2–551). Child Nutrition Programs (with the exception of special milk programs) (12–3539–0–1–605). Children’s Health Insurance Fund (75–0515–0–1–551). Commodity Supplemental Food Program (12–3507–0–1–605). Contingency Fund (75–1522–0–1–609). Family Support Programs (75–1501–0–1–609). Federal Pell Grants under section 1070a 22 See References in Text note below. of title 20. Grants to States for Medicaid (75–0512–0–1–551). Payments for Foster Care and Permanency (75–1545–0–1–609). Supplemental Nutrition Assistance Program (12–3505–0–1–605). Supplemental Security Income Program (28–0406–0–1–609). Temporary Assistance for Needy Families (75–1552–0–1–609).
+**(h) Low-income programs** The following programs shall be exempt from reduction under any order issued under this subchapter: Academic Competitiveness/Smart Grant Program (91–0205–0–1–502). Child Care Entitlement to States (75–1550–0–1–609). Child Enrollment Contingency Fund (75–5551–0–2–551). Child Nutrition Programs (with the exception of special milk programs) (12–3539–0–1–605). Children’s Health Insurance Fund (75–0515–0–1–551). Commodity Supplemental Food Program (12–3507–0–1–605). Contingency Fund (75–1522–0–1–609). Family Support Programs (75–1501–0–1–609). Federal Pell Grants under [section 1070a of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a&num=0&edition=prelim). Grants to States for Medicaid (75–0512–0–1–551). Payments for Foster Care and Permanency (75–1545–0–1–609). Supplemental Nutrition Assistance Program (12–3505–0–1–605). Supplemental Security Income Program (28–0406–0–1–609). Temporary Assistance for Needy Families (75–1552–0–1–609).
 
 **(i) Economic recovery programs** The following programs shall be exempt from reduction under any order issued under this subchapter: GSE Preferred Stock Purchase Agreements (20–0125–0–1–371). Office of Financial Stability (20–0128–0–1–376). Special Inspector General for the Troubled Asset Relief Program (20–0133–0–1–376).
 
-**(j) 33 So in original. Two subsecs. (j) have been enacted. Split treatment programs** Each of the following programs shall be exempt from any order under this subchapter to the extent that the budgetary resources of such programs are subject to obligation limitations in appropriations bills: Federal-Aid Highways (69–8083–0–7–401). Highway Traffic Safety Grants (69–8020–0–7–401). Operations and Research NHTSA and National Driver Register (69–8016–0–7–401). Motor Carrier Safety Operations and Programs (69–8159–0–7–401). Motor Carrier Safety Grants (69–8158–0–7–401). Formula and Bus Grants (69–8350–0–7–401). Grants-In-Aid for Airports (69–8106–0–7–402).
+**(j) Split treatment programs** Each of the following programs shall be exempt from any order under this subchapter to the extent that the budgetary resources of such programs are subject to obligation limitations in appropriations bills: Federal-Aid Highways (69–8083–0–7–401). Highway Traffic Safety Grants (69–8020–0–7–401). Operations and Research NHTSA and National Driver Register (69–8016–0–7–401). Motor Carrier Safety Operations and Programs (69–8159–0–7–401). Motor Carrier Safety Grants (69–8158–0–7–401). Formula and Bus Grants (69–8350–0–7–401). Grants-In-Aid for Airports (69–8106–0–7–402).
 
-**(j) 3 Identification of programs** For purposes of subsections (b), (g), and (h) of this section, each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 2010–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
+**(k) Identification of programs** For purposes of subsections (b), (g), and (h), each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 2010–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
 
 ### Statutory Notes
 
 #### References in Text
 The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
+Sections 231b and 231c of title 45, referred to in subsec. (a), were in the original references to sections 3 and 4 of the Railroad Retirement Act of 1937 ([45 U.S.C. 231](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim) et seq.), and were translated as meaning sections 3 and 4 of the Railroad Retirement Act of 1974, to reflect the probable intent of Congress. The Railroad Retirement Act of 1937, act Aug. 29, 1935, ch. 812, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, was amended in its entirety and completely revised by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads.
+
 The Federal Employees’ Compensation Act, referred to in subsec. (g)(1)(B), which is act Sept. 7, 1916, ch. 458, 39 Stat. 742, was repealed and the provisions thereof reenacted as subchapter I of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
-[Section 1070a of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a&num=0&edition=prelim), referred to in subsec. (h), was in the original “section 401 Title IV of the Higher Education Act” and was translated as if it referred to section 401 of title IV of the Higher Education Act of 1965 to reflect the probable intent of Congress.
-
 #### Amendments
+2013—Subsec. (a). Pub. L. 113–67, § 121(5), substituted “sections 231b and 231c of title 45” for “section 231b(a), 231b(f)(2), 231c(a), and 231c(f) of title 45”.
+
+Subsec. (h). Pub. L. 113–67, § 121(6), in item relating to Federal Pell Grants, made technical amendment to reference in original act which appears in text as reference to [section 1070a of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a&num=0&edition=prelim).
+
+Subsec. (j). Pub. L. 113–67, § 121(8), redesignated subsec. (j) relating to identification of programs as (k).
+
+Pub. L. 113–67, § 121(7), realigned margins of list items.
+
+Subsec. (k). Pub. L. 113–67, § 121(8), redesignated subsec. (j) relating to identification of programs as (k).
+
 2010—Subsecs. (a) to (d). Pub. L. 111–139, § 11(b), amended subsecs. (a) to (d) generally. Prior to amendment, subsecs. (a) to (d) related to exemptions for social security benefits and tier I railroad retirement benefits, veterans programs, net interest, and earned income tax credit, respectively.
 
 Subsecs. (g), (h). Pub. L. 111–139, § 11(c), amended subsecs. (g) and (h) generally. Prior to amendment, subsecs. (g) and (h) related to exemptions for other programs and activities and low-income programs, respectively.
@@ -1509,7 +1553,7 @@ The Soldiers’ and Airmen’s Home, referred to in subsec. (g)(1)(A), was incor
 
 (2) Notwithstanding any other provision of law, administrative expenses of any program, project, activity, or account which is self-supporting and does not receive appropriations shall be subject to reduction under a sequester order, unless specifically exempted in this subchapter.
 
-(3) Payments made by the Federal Government to reimburse or match administrative costs incurred by a State or political subdivision under or in connection with any program, project, activity, or account shall not be considered administrative expenses of the Federal Government for purposes of this section, and shall be subject to reduction or sequestration under this subchapter to the extent (and only to the extent) that other payments made by the Federal Government under or in connection with that program, project, activity, or account are subject to such reduction or sequestration; except that Federal payments made to a State as reimbursement of administrative costs incurred by such State under or in connection with the unemployment compensation programs specified in subsection (h)(1) 1 of this section shall be subject to reduction or sequestration under this subchapter notwithstanding the exemption otherwise granted to such programs under that subsection.
+(3) Payments made by the Federal Government to reimburse or match administrative costs incurred by a State or political subdivision under or in connection with any program, project, activity, or account shall not be considered administrative expenses of the Federal Government for purposes of this section, and shall be subject to reduction or sequestration under this subchapter to the extent (and only to the extent) that other payments made by the Federal Government under or in connection with that program, project, activity, or account are subject to such reduction or sequestration; except that Federal payments made to a State as reimbursement of administrative costs incurred by such State under or in connection with the unemployment compensation programs specified in subsection (h)(1) 1 shall be subject to reduction or sequestration under this subchapter notwithstanding the exemption otherwise granted to such programs under that subsection.
 
 (4) Notwithstanding any other provision of law, this subsection shall not apply with respect to the following:
 
@@ -1585,7 +1629,7 @@ Section 302 of the Federal Employees Pay Comparability Act of 1990, referred to 
 
 This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§ 200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under [section 900 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-900) and Tables.
 
-Subsec. (h)(1) of this section, referred to in subsec. (h)(3), was redesignated subsec. (i)(1) of this section by Pub. L. 101–508, title XIII, § 13101(d)(2), Nov. 5, 1990, 104 Stat. 1388–589.
+Subsec. (h)(1), referred to in subsec. (h)(3), was redesignated subsec. (i)(1) by Pub. L. 101–508, title XIII, § 13101(d)(2), Nov. 5, 1990, 104 Stat. 1388–589.
 
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (i)(2)(A), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under [section 3304 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim), Internal Revenue Code. Section 204 of such Act is set out in the note under [section 3304 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
@@ -1749,7 +1793,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
   (A)
 
-    (i) No program established by a law enacted on or before August 5, 1997, with estimated current year outlays greater than $50,000,000 shall be assumed to expire in the budget year or the outyears. The scoring of new programs with estimated outlays greater than $50,000,000 a year shall be based on scoring by the Committees on Budget or OMB, as applicable. OMB, CBO, and the Budget Committees shall consult on the scoring of such programs where there are differenes 11 So in original. Probably should be “differences”. between CBO and OMB.
+    (i) No program established by a law enacted on or before August 5, 1997, with estimated current year outlays greater than $50,000,000 shall be assumed to expire in the budget year or the outyears. The scoring of new programs with estimated outlays greater than $50,000,000 a year shall be based on scoring by the Committees on Budget or OMB, as applicable. OMB, CBO, and the Budget Committees shall consult on the scoring of such programs where there are differences between CBO and OMB.
 
     (ii) On the expiration of the suspension of a provision of law that is suspended under [section 7301 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7301&num=0&edition=prelim) and that authorizes a program with estimated fiscal year outlays that are greater than $50,000,000, for purposes of clause (i), the program shall be assumed to continue to operate in the same manner as the program operated immediately before the expiration of the suspension.
 
@@ -1761,7 +1805,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 (3) **Hospital Insurance Trust Fund** — Notwithstanding any other provision of law, the receipts and disbursements of the Hospital Insurance Trust Fund shall be included in all calculations required by this Act.
 
-**(c) Discretionary appropriations** For the budget year and each outyear, the baseline shall be calculated using the following assumptions regarding all amounts other than those covered by subsection (b) of this section:
+**(c) Discretionary appropriations** For the budget year and each outyear, the baseline shall be calculated using the following assumptions regarding all amounts other than those covered by subsection (b):
 
 (1) **Inflation of current-year appropriations** — Budgetary resources other than unobligated balances shall be at the level provided for the budget year in full-year appropriation Acts. If for any account a full-year appropriation has not yet been enacted, budgetary resources other than unobligated balances shall be at the level available in the current year, adjusted sequentially and cumulatively for expiring housing contracts as specified in paragraph (2), for social insurance administrative expenses as specified in paragraph (3), to offset pay absorption and for pay annualization as specified in paragraph (4), for inflation as specified in paragraph (5), and to account for changes required by law in the level of agency payments for personnel benefits other than pay.
 
@@ -1790,6 +1834,8 @@ Pub. L. 101–508, § 13101(b), redesignated former par. (12) of this section as
 Pub. L. 101–508, § 13101(e)(2), transferred section 251(a)(6)(I) of Pub. L. 99–177, which was classified to [section 901(a)(6)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/a/6/I&num=0&edition=prelim), to subsec. (e) of this section.
 
 #### Amendments
+2013—Subsec. (b)(2)(A)(i). Pub. L. 113–67 substituted “differences” for “differenes”.
+
 1997—Subsec. (b)(2)(A). Pub. L. 105–33, § 10209(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No program with estimated current-year outlays greater than $50 million shall be assumed to expire in the budget year or outyears.”
 
 Subsec. (b)(2)(D). Pub. L. 105–33, § 10209(a)(2), added subpar. (D).
@@ -1863,7 +1909,7 @@ Pub. L. 99–509, title VII, § 7001, Oct. 21, 1986, 100 Stat. 1948, provided th
 ## § 907a. Suspension in event of war or low growth
 **(a) Procedures in event of low-growth report**
 
-(1) **Trigger** — Whenever CBO issues a low-growth report under section 254(j),11 See References in Text note below. the Majority Leader of the House of Representatives may, and the Majority Leader of the Senate shall, introduce a joint resolution (in the form set forth in paragraph (2)) declaring that the conditions specified in section 254(j) 1 are met and suspending the relevant provisions of this title,1 titles III and VI 1 of the Congressional Budget Act of 1974 [[2 U.S.C. 631](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-631) et seq.], and [section 1103 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1103&num=0&edition=prelim).
+(1) **Trigger** — Whenever CBO issues a low-growth report under section 254(i) [[2 U.S.C. 904(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/i&num=0&edition=prelim)], the Majority Leader of the House of Representatives may, and the Majority Leader of the Senate shall, introduce a joint resolution (in the form set forth in paragraph (2)) declaring that the conditions specified in section 254(i) are met and suspending the relevant provisions of this title,11 See References in Text note below. titles III and VI 1 of the Congressional Budget Act of 1974 [[2 U.S.C. 631](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-631) et seq.], and [section 1103 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1103&num=0&edition=prelim).
 
 (2) **Form of joint resolution**
 
@@ -1894,7 +1940,7 @@ Pub. L. 99–509, title VII, § 7001, Oct. 21, 1986, 100 Stat. 1948, provided th
 
   (C) No amendment to a joint resolution considered under this paragraph shall be in order in the Senate.
 
-**(b) Suspension of sequestration procedures** Upon the enactment of a declaration of war or a joint resolution described in subsection (a) of this section—
+**(b) Suspension of sequestration procedures** Upon the enactment of a declaration of war or a joint resolution described in subsection (a)—
 
 (1) the subsequent issuance of any sequestration report or any sequestration order is precluded;
 
@@ -1904,18 +1950,18 @@ Pub. L. 99–509, title VII, § 7001, Oct. 21, 1986, 100 Stat. 1948, provided th
 
 **(c) Restoration of sequestration procedures**
 
-(1) In the event of a suspension of sequestration procedures due to a declaration of war, then, effective with the first fiscal year that begins in the session after the state of war is concluded by Senate ratification of the necessary treaties, the provisions of subsection (b) of this section triggered by that declaration of war are no longer effective.
+(1) In the event of a suspension of sequestration procedures due to a declaration of war, then, effective with the first fiscal year that begins in the session after the state of war is concluded by Senate ratification of the necessary treaties, the provisions of subsection (b) triggered by that declaration of war are no longer effective.
 
-(2) In the event of a suspension of sequestration procedures due to the enactment of a joint resolution described in subsection (a) of this section, then, effective with regard to the first fiscal year beginning at least 12 months after the enactment of that resolution, the provisions of subsection (b) of this section triggered by that resolution are no longer effective.
+(2) In the event of a suspension of sequestration procedures due to the enactment of a joint resolution described in subsection (a), then, effective with regard to the first fiscal year beginning at least 12 months after the enactment of that resolution, the provisions of subsection (b) triggered by that resolution are no longer effective.
 
 ### Statutory Notes
 
 #### References in Text
-Section 254 and section 254 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(1), (2)(A), mean section 254 of Pub. L. 99–177, which is classified to [section 904 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-904), and was amended by Pub. L. 105–33, title X, § 10206(1), Aug. 5, 1997, 111 Stat. 704, by redesignating subsecs. (j) and (k) as (i) and (j), respectively.
-
 This title, referred to in subsec. (a)(1), means title II (§ 200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under [section 900 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-900) and Tables.
 
 The Congressional Budget Act of 1974, referred to in subsecs. (a)(1) and (b)(2), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title III of the Act is classified generally to subchapter I (§ 631 et seq.) of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§ 665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-621) and Tables.
+
+Section 254(j) of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), is section 254(j) of Pub. L. 99–177, which was redesignated section 254(i) of that Act by Pub. L. 105–33, title X, § 10206(1), Aug. 5, 1997, 111 Stat. 704, and is classified to [section 904(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/i&num=0&edition=prelim).
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (a)(2)(A), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-621) and Tables.
 
@@ -1924,6 +1970,9 @@ Part C of the Balanced Budget and Emergency Deficit Control Act of 1985, referre
 #### Prior Provisions
 A prior section 258 of Pub. L. 99–177 was classified to [section 908 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-908) prior to repeal by Pub. L. 105–33, title X, § 10210, Aug. 5, 1997, 111 Stat. 711.
 
+#### Amendments
+2013—Subsec. (a)(1). Pub. L. 113–67, which directed substitution of “section 254(i)” for “section 254(j)”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+
 
 <a id="section-907b"></a>
 ## § 907b. Modification of Presidential order
@@ -1931,13 +1980,13 @@ A prior section 258 of Pub. L. 99–177 was classified to [section 908 of this t
 
 **(b) Procedures for consideration of joint resolutions**
 
-(1) **Referral to committee** — A joint resolution introduced in the Senate under subsection (a) of this section shall not be referred to a committee of the Senate and shall be placed on the calendar pending disposition of such joint resolution in accordance with this subsection.
+(1) **Referral to committee** — A joint resolution introduced in the Senate under subsection (a) shall not be referred to a committee of the Senate and shall be placed on the calendar pending disposition of such joint resolution in accordance with this subsection.
 
-(2) **Consideration in Senate** — On or after the third calendar day (excluding Saturdays, Sundays, and legal holidays) beginning after a joint resolution is introduced under subsection (a) of this section, notwithstanding any rule or precedent of the Senate, including Rule XXII of the Standing Rules of the Senate, it is in order (even though a previous motion to the same effect has been disagreed to) for any Member of the Senate to move to proceed to the consideration of the joint resolution. The motion is not in order after the eighth calendar day (excluding Saturdays, Sundays, and legal holidays) beginning after a joint resolution (to which the motion applies) is introduced. The joint resolution is privileged in the Senate. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint resolution is agreed to, the Senate shall immediately proceed to consideration of the joint resolution without intervening motion, order, or other business, and the joint resolution shall remain the unfinished business of the Senate until disposed of.
+(2) **Consideration in Senate** — On or after the third calendar day (excluding Saturdays, Sundays, and legal holidays) beginning after a joint resolution is introduced under subsection (a), notwithstanding any rule or precedent of the Senate, including Rule XXII of the Standing Rules of the Senate, it is in order (even though a previous motion to the same effect has been disagreed to) for any Member of the Senate to move to proceed to the consideration of the joint resolution. The motion is not in order after the eighth calendar day (excluding Saturdays, Sundays, and legal holidays) beginning after a joint resolution (to which the motion applies) is introduced. The joint resolution is privileged in the Senate. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint resolution is agreed to, the Senate shall immediately proceed to consideration of the joint resolution without intervening motion, order, or other business, and the joint resolution shall remain the unfinished business of the Senate until disposed of.
 
 (3) **Debate in Senate**
 
-  (A) In the Senate, debate on a joint resolution introduced under subsection (a) of this section, amendments thereto, and all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours, which shall be divided equally between the majority leader and the minority leader (or their designees).
+  (A) In the Senate, debate on a joint resolution introduced under subsection (a), amendments thereto, and all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours, which shall be divided equally between the majority leader and the minority leader (or their designees).
 
   (B) A motion to postpone, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote by which the joint resolution is agreed to or disagreed to is not in order, and a motion to recommit the joint resolution is not in order.
 
@@ -1947,17 +1996,17 @@ A prior section 258 of Pub. L. 99–177 was classified to [section 908 of this t
 
     (ii) In the Senate, an amendment that is otherwise in order shall be in order notwithstanding the fact that it amends the joint resolution in more than one place or amends language previously amended. It shall not be in order in the Senate to vote on the question of agreeing to such a joint resolution or any amendment thereto unless the figures then contained in such joint resolution or amendment are mathematically consistent.
 
-(4) **Vote on final passage** — Immediately following the conclusion of the debate on a joint resolution introduced under subsection (a) of this section, a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate, and the disposition of any pending amendments under paragraph (3), the vote on final passage of the joint resolution shall occur.
+(4) **Vote on final passage** — Immediately following the conclusion of the debate on a joint resolution introduced under subsection (a), a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate, and the disposition of any pending amendments under paragraph (3), the vote on final passage of the joint resolution shall occur.
 
 (5) **Appeals** — Appeals from the decisions of the Chair shall be decided without debate.
 
 (6) **Conference reports** — In the Senate, points of order under titles III, IV, and VI 11 See References in Text note below. of the Congressional Budget Act of 1974 [[2 U.S.C. 631](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-631) et seq., 651 et seq.] are applicable to a conference report on the joint resolution or any amendments in disagreement thereto.
 
-(7) **Resolution from other House** — If, before the passage by the Senate of a joint resolution of the Senate introduced under subsection (a) of this section, the Senate receives from the House of Representatives a joint resolution introduced under subsection (a) of this section, then the following procedures shall apply:
+(7) **Resolution from other House** — If, before the passage by the Senate of a joint resolution of the Senate introduced under subsection (a), the Senate receives from the House of Representatives a joint resolution introduced under subsection (a), then the following procedures shall apply:
 
   (A) The joint resolution of the House of Representatives shall not be referred to a committee and shall be placed on the calendar.
 
-  (B) With respect to a joint resolution introduced under subsection (a) of this section in the Senate—
+  (B) With respect to a joint resolution introduced under subsection (a) in the Senate—
 
     (i) the procedure in the Senate shall be the same as if no joint resolution had been received from the House; but
 
@@ -1969,7 +2018,7 @@ A prior section 258 of Pub. L. 99–177 was classified to [section 908 of this t
 
   (C) Upon disposition of the joint resolution received from the House, it shall no longer be in order to consider the resolution originated in the Senate.
 
-(8) **Senate action on House resolution** — If the Senate receives from the House of Representatives a joint resolution introduced under subsection (a) of this section after the Senate has disposed of a Senate originated resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
+(8) **Senate action on House resolution** — If the Senate receives from the House of Representatives a joint resolution introduced under subsection (a) after the Senate has disposed of a Senate originated resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
 
 ### Statutory Notes
 
@@ -1979,9 +2028,9 @@ The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I
 
 <a id="section-907c"></a>
 ## § 907c. Flexibility among defense programs, projects, and activities
-**(a) Reductions beyond amount specified in Presidential order** Subject to subsections (b), (c), and (d) of this section, new budget authority and unobligated balances for any programs, projects, or activities within major functional category 050 (other than a military personnel account) may be further reduced beyond the amount specified in an order issued by the President under [section 904 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-904) for such fiscal year. To the extent such additional reductions are made and result in additional outlay reductions, the President may provide for lesser reductions in new budget authority and unobligated balances for other programs, projects, or activities within major functional category 050 for such fiscal year, but only to the extent that the resulting outlay increases do not exceed the additional outlay reductions, and no such program, project, or activity may be increased above the level actually made available by law in appropriation Acts (before taking sequestration into account). In making calculations under this subsection, the President shall use account outlay rates that are identical to those used in the report by the Director of OMB under [section 904 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-904).
+**(a) Reductions beyond amount specified in Presidential order** Subject to subsections (b), (c), and (d), new budget authority and unobligated balances for any programs, projects, or activities within major functional category 050 (other than a military personnel account) may be further reduced beyond the amount specified in an order issued by the President under [section 904 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-904) for such fiscal year. To the extent such additional reductions are made and result in additional outlay reductions, the President may provide for lesser reductions in new budget authority and unobligated balances for other programs, projects, or activities within major functional category 050 for such fiscal year, but only to the extent that the resulting outlay increases do not exceed the additional outlay reductions, and no such program, project, or activity may be increased above the level actually made available by law in appropriation Acts (before taking sequestration into account). In making calculations under this subsection, the President shall use account outlay rates that are identical to those used in the report by the Director of OMB under [section 904 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-904).
 
-**(b) Base closures prohibited** No actions taken by the President under subsection (a) of this section for a fiscal year may result in a domestic base closure or realignment that would otherwise be subject to [section 2687 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim).
+**(b) Base closures prohibited** No actions taken by the President under subsection (a) for a fiscal year may result in a domestic base closure or realignment that would otherwise be subject to [section 2687 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim).
 
 **(c) Report and joint resolution required** The President may not exercise the authority provided by this paragraph 11 So in original. Probably should be “section”. for a fiscal year unless—
 
@@ -1991,11 +2040,11 @@ The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I
 
 (3) a joint resolution affirming or modifying the changes proposed by the President pursuant to this paragraph 1 becomes law.
 
-**(d) Introduction of joint resolution** Within 5 calendar days of session after the President submits a report to Congress under subsection (c)(1) of this section for a fiscal year, the majority leader of each House of Congress shall (by request) introduce a joint resolution which contains provisions affirming the changes proposed by the President pursuant to this paragraph.1
+**(d) Introduction of joint resolution** Within 5 calendar days of session after the President submits a report to Congress under subsection (c)(1) for a fiscal year, the majority leader of each House of Congress shall (by request) introduce a joint resolution which contains provisions affirming the changes proposed by the President pursuant to this paragraph.1
 
 **(e) Form and title of joint resolution**
 
-(1) The matter after the resolving clause in any joint resolution introduced pursuant to subsection (d) of this section shall be as follows: “That the report of the President as submitted on [Insert Date] under section 258B is hereby approved.”
+(1) The matter after the resolving clause in any joint resolution introduced pursuant to subsection (d) shall be as follows: “That the report of the President as submitted on [Insert Date] under section 258B is hereby approved.”
 
 (2) The title of the joint resolution shall be “Joint resolution approving the report of the President submitted under section 258B of the Balanced Budget and Emergency Deficit Control Act of 1985.”
 
@@ -2003,13 +2052,13 @@ The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I
 
 **(f) Calendaring and consideration of joint resolution in Senate**
 
-(1) A joint resolution introduced in the Senate under subsection (d) of this section shall be referred to the Committee on Appropriations, and if not reported within 5 calendar days (excluding Saturdays, Sundays, and legal holidays) from the date of introduction shall be considered as having been discharged therefrom and shall be placed on the appropriate calendar pending disposition of such joint resolution in accordance with this subsection. In the Senate, no amendment proposed in the Committee on Appropriations shall be in order other than an amendment (in the nature of a substitute) that is germane or relevant to the provisions of the joint resolution or to the order issued under [section 904 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-904). For purposes of this paragraph, an amendment shall be considered to be relevant if it relates to function 050 (national defense).
+(1) A joint resolution introduced in the Senate under subsection (d) shall be referred to the Committee on Appropriations, and if not reported within 5 calendar days (excluding Saturdays, Sundays, and legal holidays) from the date of introduction shall be considered as having been discharged therefrom and shall be placed on the appropriate calendar pending disposition of such joint resolution in accordance with this subsection. In the Senate, no amendment proposed in the Committee on Appropriations shall be in order other than an amendment (in the nature of a substitute) that is germane or relevant to the provisions of the joint resolution or to the order issued under [section 904 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-904). For purposes of this paragraph, an amendment shall be considered to be relevant if it relates to function 050 (national defense).
 
 (2) On or after the third calendar day (excluding Saturdays, Sundays, and legal holidays) beginning after a joint resolution is placed on the Senate calendar, notwithstanding any rule or precedent of the Senate, including Rule XXII of the Standing Rules of the Senate, it is in order (even though a previous motion to the same effect has been disagreed to) for any Member of the Senate to move to proceed to the consideration of the joint resolution. The motion is not in order after the eighth calendar day (excluding Saturdays, Sundays, and legal holidays) beginning after such joint resolution is placed on the appropriate calendar. The motion is not debatable. The joint resolution is privileged in the Senate. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint resolution is agreed to, the Senate shall immediately proceed to consideration of the joint resolution without intervening motion, order, or other business, and the joint resolution shall remain the unfinished business of the Senate until disposed of.
 
 **(g) Debate of joint resolution; motions**
 
-(1) In the Senate, debate on a joint resolution introduced under subsection (d) of this section, amendments thereto, and all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours, which shall be divided equally between the majority leader and the minority leader (or their designees).
+(1) In the Senate, debate on a joint resolution introduced under subsection (d), amendments thereto, and all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours, which shall be divided equally between the majority leader and the minority leader (or their designees).
 
 (2) A motion to postpone, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote by which the joint resolution is agreed to or disagreed to is not in order. In the Senate, a motion to recommit the joint resolution is not in order.
 
@@ -2019,21 +2068,21 @@ The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I
 
 (2) In the Senate, an amendment that is otherwise in order shall be in order notwithstanding the fact that it amends the joint resolution in more than one place or amends language previously amended, so long as the amendment makes or maintains mathematical consistency. It shall not be in order in the Senate to vote on the question of agreeing to such a joint resolution or any amendment thereto unless the figures then contained in such joint resolution or amendment are mathematically consistent.
 
-(3) It shall not be in order in the Senate to consider any amendment to any joint resolution introduced under subsection (d) of this section or any conference report thereon if such amendment or conference report would have the effect of decreasing any specific budget outlay reductions below the level of such outlay reductions provided in such joint resolution unless such amendment or conference report makes a reduction in other specific budget outlays at least equivalent to any increase in outlays provided by such amendment or conference report.
+(3) It shall not be in order in the Senate to consider any amendment to any joint resolution introduced under subsection (d) or any conference report thereon if such amendment or conference report would have the effect of decreasing any specific budget outlay reductions below the level of such outlay reductions provided in such joint resolution unless such amendment or conference report makes a reduction in other specific budget outlays at least equivalent to any increase in outlays provided by such amendment or conference report.
 
 (4) For purposes of the application of paragraph (3), the level of outlays and specific budget outlay reductions provided in an amendment shall be determined on the basis of estimates made by the Committee on the Budget of the Senate.
 
-**(i) Vote on final passage of joint resolution** Immediately following the conclusion of the debate on a joint resolution introduced under subsection (d) of this section, a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate, and the disposition of any pending amendments under subsection (h) of this section, the vote on final passage of the joint resolution shall occur.
+**(i) Vote on final passage of joint resolution** Immediately following the conclusion of the debate on a joint resolution introduced under subsection (d), a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate, and the disposition of any pending amendments under subsection (h), the vote on final passage of the joint resolution shall occur.
 
-**(j) Appeal from decision of Chair** Appeals from the decisions of the Chair relating to the application of the rules of the Senate to the procedure relating to a joint resolution described in subsection (d) of this section shall be decided without debate.
+**(j) Appeal from decision of Chair** Appeals from the decisions of the Chair relating to the application of the rules of the Senate to the procedure relating to a joint resolution described in subsection (d) shall be decided without debate.
 
 **(k) Conference reports** In the Senate, points of order under titles III and IV of the Congressional Budget Act of 1974 [[2 U.S.C. 631](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-631) et seq., 651 et seq.] (including points of order under sections 302(c), 303(a), 306, and 401(b)(1) [[2 U.S.C. 633(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section633/c&num=0&edition=prelim), 634(a), 637, 651(b)(1)]) are applicable to a conference report on the joint resolution or any amendments in disagreement thereto.
 
-**(l) Resolution from other House** If, before the passage by the Senate of a joint resolution of the Senate introduced under subsection (d) of this section, the Senate receives from the House of Representatives a joint resolution introduced under subsection (d) of this section, then the following procedures shall apply:
+**(l) Resolution from other House** If, before the passage by the Senate of a joint resolution of the Senate introduced under subsection (d), the Senate receives from the House of Representatives a joint resolution introduced under subsection (d), then the following procedures shall apply:
 
 (1) The joint resolution of the House of Representatives shall not be referred to a committee.
 
-(2) With respect to a joint resolution introduced under subsection (d) of this section in the Senate—
+(2) With respect to a joint resolution introduced under subsection (d) in the Senate—
 
   (A) the procedure in the Senate shall be the same as if no joint resolution had been received from the House; but
 
@@ -2045,7 +2094,7 @@ The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I
 
 (3) Upon disposition of the joint resolution received from the House, it shall no longer be in order to consider the joint resolution originated in the Senate.
 
-**(m) Senate action on House resolution** If the Senate receives from the House of Representatives a joint resolution introduced under subsection (d) of this section after the Senate has disposed of a Senate originated joint resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
+**(m) Senate action on House resolution** If the Senate receives from the House of Representatives a joint resolution introduced under subsection (d) after the Senate has disposed of a Senate originated joint resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
 
 ### Statutory Notes
 
@@ -2084,7 +2133,7 @@ The Congressional Budget Act of 1974, referred to in subsec. (k), is titles I to
 
 (1) **In general** — Except as provided in paragraph (2), in the Senate the provisions of sections 636 and 641 of this title for the consideration of concurrent resolutions on the budget and conference reports thereon shall also apply to the consideration of resolutions, and reconciliation bills and reconciliation resolutions reported under this paragraph and conference reports thereon.
 
-(2) **Limit on debate** — Debate in the Senate on any resolution reported pursuant to subsection (a)(2) of this section, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to 10 hours.
+(2) **Limit on debate** — Debate in the Senate on any resolution reported pursuant to subsection (a)(2), and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to 10 hours.
 
 (3) **Limitation on amendments** — [Section 641(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section641/d/2&num=0&edition=prelim) shall apply to reconciliation bills and reconciliation resolutions reported under this subsection.
 
@@ -2133,9 +2182,9 @@ Section, Pub. L. 99–177, title II, § 273, Dec. 12, 1985, 99 Stat. 1098, which
 (5) Any action brought under paragraph (1), (2), or (3) shall be heard and determined by a three-judge court in accordance with [section 2284 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2284&num=0&edition=prelim).
 Nothing in this section or in any other law shall infringe upon the right of the House of Representatives to intervene in an action brought under paragraph (1), (2), or (3) without the necessity of adopting a resolution to authorize such intervention.
 
-**(b) Appeal to Supreme Court** Notwithstanding any other provision of law, any order of the United States District Court for the District of Columbia which is issued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) of this section shall be reviewable by appeal directly to the Supreme Court of the United States. Any such appeal shall be taken by a notice of appeal filed within 10 days after such order is entered; and the jurisdictional statement shall be filed within 30 days after such order is entered. No stay of an order issued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) of this section shall be issued by a single Justice of the Supreme Court.
+**(b) Appeal to Supreme Court** Notwithstanding any other provision of law, any order of the United States District Court for the District of Columbia which is issued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) shall be reviewable by appeal directly to the Supreme Court of the United States. Any such appeal shall be taken by a notice of appeal filed within 10 days after such order is entered; and the jurisdictional statement shall be filed within 30 days after such order is entered. No stay of an order issued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) shall be issued by a single Justice of the Supreme Court.
 
-**(c) Expedited consideration** It shall be the duty of the District Court for the District of Columbia and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of any matter brought under subsection (a) of this section.
+**(c) Expedited consideration** It shall be the duty of the District Court for the District of Columbia and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of any matter brought under subsection (a).
 
 **(d) Noncompliance with sequestration procedures**
 
@@ -2143,21 +2192,21 @@ Nothing in this section or in any other law shall infringe upon the right of the
 
   (A) does not reduce automatic spending increases under any program specified in section 906(a) 1 of this title if such increases are required to be reduced by subchapter I of this chapter (or reduces such increases by a greater extent than is so required), or
 
-  (B) does not sequester the amount of budgetary resources which is required to be sequestered by subchapter I of this chapter (or sequesters more than that amount) with respect to any program, project, activity, or account,
+  (B) does not sequester the amount of budgetary resources which is required to be sequestered by such subchapter (or sequesters more than that amount) with respect to any program, project, activity, or account,
   the President shall, within 20 days after such determination is made, revise the order in accordance with such determination.
 
 (2) If the order issued by the President under [section 904 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-904) for any fiscal year—
 
   (A) does not reduce any automatic spending increase to the extent that such increase is required to be reduced by subchapter I of this chapter,
 
-  (B) does not sequester any amount of new budget authority, new loan guarantee commitments, new direct loan obligations, or spending authority which is required to be sequestered by subchapter I of this chapter, or
+  (B) does not sequester any amount of new budget authority, new loan guarantee commitments, new direct loan obligations, or spending authority which is required to be sequestered by such subchapter I, or
 
-  (C) does not reduce any obligation limitation by the amount by which such limitation is required to be reduced under subchapter I of this chapter,
+  (C) does not reduce any obligation limitation by the amount by which such limitation is required to be reduced under such subchapter,
   on the claim or defense that the constitutional powers of the President prevent such sequestration or reduction or permit the avoidance of such sequestration or reduction, and such claim or defense is finally determined by the Supreme Court of the United States to be valid, then the entire order issued pursuant to [section 904 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-904) for such fiscal year shall be null and void.
 
 **(e) Timing of relief** No order of any court granting declaratory or injunctive relief from the order of the President issued under [section 904 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-904), including but not limited to relief permitting or requiring the expenditure of funds sequestered by such order, shall take effect during the pendency of the action before such court, during the time appeal may be taken, or, if appeal is taken, during the period before the court to which such appeal is taken has entered its final order disposing of such action.
 
-**(f) Preservation of other rights** The rights created by this section are in addition to the rights of any person under law, subject to subsection (e) of this section.
+**(f) Preservation of other rights** The rights created by this section are in addition to the rights of any person under law, subject to subsection (e).
 
 **(g) Economic data and assumptions** The economic data and economic assumptions used by the Director of OMB in computing the figures specified in any report issued by the Director of OMB under [section 904 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-904), shall not be subject to review in any judicial or administrative proceeding.
 

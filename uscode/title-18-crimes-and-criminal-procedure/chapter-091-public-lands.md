@@ -2,7 +2,7 @@
 title: 18
 chapter: '91'
 heading: PUBLIC LANDS
-section_count: 14
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -318,3 +318,31 @@ Subsec. (e). Pub. L. 104–134, § 101(c) [title III, § 330(4)], added subsec. 
 1994—Subsec. (c). Pub. L. 103–322 substituted “(b)(5)” for “(b)(3), (4), or (5)”.
 
 1990—Subsec. (d)(1)(D), (E). Pub. L. 101–647 struck out “and” at end of subpar. (D) and substituted “; and” for period at end of subpar. (E).
+
+
+<a id="section-1865"></a>
+## § 1865. National Park Service
+**(a) Violation of Regulations Relating to Use and Management of National Park System Units.—** A person that violates any regulation authorized by [section 100751(a) of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100751/a&num=0&edition=prelim) shall be imprisoned not more than 6 months, fined under this title, or both, and be adjudged to pay all cost of the proceedings.
+
+**(b) Financial Disclosure by Officers or Employees Performing Functions or Duties Under Subchapter III of Chapter 1007 of Title 54.—** An officer or employee of the Department of the Interior who is subject to, and knowingly violates, [section 100737 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100737&num=0&edition=prelim) or any regulation prescribed under that section shall be imprisoned not more than one year, fined under this title, or both.
+
+**(c) Offenses Relating to Structures and Vegetation.—** A person that willfully destroys, mutilates, defaces, injures, or removes any monument, statue, marker, guidepost, or other structure, or that willfully destroys, cuts, breaks, injures, or removes any tree, shrub, or plant within a national military park shall be imprisoned not less than 15 days nor more than one year, fined under this title but not less than $10 for each monument, statue, marker, guidepost, or other structure, tree, shrub, or plant that is destroyed, defaced, injured, cut, or removed, or both.
+
+**(d) Trespassing in a National Military Park To Hunt or Shoot.—** An individual who trespasses in a national military park to hunt or shoot, or hunts game of any kind in a national military park with a gun or dog, or sets a trap or net or other device in a national military park to hunt or catch game of any kind, shall be imprisoned not less than 5 nor more than 30 days, fined under this title, or both.
+
+### Statutory Notes
+
+#### Codification
+Section is based on sections 3 (in part), 413, 414, and 1912(d) of Title 16, Conservation, which were repealed and restated as this section by Pub. L. 113–287, §§ 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3260, 3272.
+
+
+<a id="section-1866"></a>
+## § 1866. Historic, archeologic, or prehistoric items and antiquities
+**(a) Violation of Regulations Authorized by Chapter 3201 of Title 54.—** A person that violates any of the regulations authorized by chapter 3201 of title 54 shall be fined under this title and be adjudged to pay all cost of the proceedings.
+
+**(b) Appropriation of, Injury to, or Destruction of Historic or Prehistoric Ruin or Monument or Object of Antiquity.—** A person that appropriates, excavates, injures, or destroys any historic or prehistoric ruin or monument or any other object of antiquity that is situated on land owned or controlled by the Federal Government without the permission of the head of the Federal agency having jurisdiction over the land on which the object is situated, shall be imprisoned not more than 90 days, fined under this title, or both.
+
+### Statutory Notes
+
+#### Codification
+Section is based on sections 433 and 462(k) (in part) of Title 16, Conservation, which were repealed and restated as this section by Pub. L. 113–287, §§ 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3261, 3272.

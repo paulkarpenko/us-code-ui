@@ -183,7 +183,7 @@ For the purpose of this chapter—
 
   (B) a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B);
 
-(36) the term “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years; and
+(36) the term “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years;
 
 (37) the term “revised annuity employee” means any individual who—
 
@@ -195,7 +195,19 @@ For the purpose of this chapter—
 
     (iii) has less than 5 years of creditable civilian service under section 8411; and
 
-  (B) after December 31, 2012, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411.
+  (B) after December 31, 2012, and before January 1, 2014, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411; and
+
+(38) the term “further revised annuity employee” means any individual who—
+
+  (A) on December 31, 2013—
+
+    (i) is not an employee or Member covered under this chapter;
+
+    (ii) is not performing civilian service which is creditable service under section 8411; and
+
+    (iii) has less than 5 years of creditable civilian service under section 8411; and
+
+  (B) after December 31, 2013, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411.
 
 ### Statutory Notes
 
@@ -213,6 +225,10 @@ The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 198
 The date of the enactment of the Legislative Branch Appropriations Act, 2004, referred to in par. (20), is the date of enactment of Pub. L. 108–83, which was approved Sept. 30, 2003.
 
 #### Amendments
+2013—Par. (37)(B). Pub. L. 113–67, § 401(a)(2), inserted “and before January 1, 2014,” after “after December 31, 2012,”.
+
+Par. (38). Pub. L. 113–67, § 401(a)(1), added par. (38).
+
 2012—Par. (37). Pub. L. 112–96 added par. (37).
 
 2009—Par. (19)(C). Pub. L. 111–84 substituted “8411(f) or 8422(i);” for “8411(f);”.
@@ -491,7 +507,7 @@ Amendment by Pub. L. 101–650 applicable to judges of, and senior judges in act
 Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrate judges who retire on or after Nov. 15, 1988, with exception for judges and magistrate judges retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, as amended, set out as an Effective Date note under [section 377 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section377&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 #### Provisions Relating to Certain Former Employees
-Pub. L. 106–168, title II, § 202(c), Dec. 12, 1999, 113 Stat. 1819, provided that: “A former employee of the Board of Governors of the Federal Reserve System who— “(1) has at least 5 years of civilian service (other than any service performed in the employ of a Federal Reserve Bank) creditable under the benefit structure for employees of the Board of Governors of the Federal Reserve System appointed before January 1, 1984, that is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act [Act Dec. 23, 1913, ch. 6, see Codification note set out under [12 U.S.C. 241](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section241&num=0&edition=prelim)]; “(2) was subsequently employed subject to the benefit structure in which employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of such benefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of chapter 84 of title 5, United States Code); and “(3) after service described in paragraph (2), becomes subject to and thereafter entitled to benefits under chapter 84 of title 5, United States Code, shall, for purposes of section 302 of the Federal Employees’ Retirement System Act of 1986 [Pub. L. 99–335] (100 Stat. 601; [5 U.S.C. 8331](./chapter-083-retirement.md#section-8331) note) be considered to have become subject to chapter 84 of title 5, United States Code, pursuant to an election under section 301 of such Act [[5 U.S.C. 8331](./chapter-083-retirement.md#section-8331) note].”
+Pub. L. 106–168, title II, § 202(c), Dec. 12, 1999, 113 Stat. 1819, provided that: “A former employee of the Board of Governors of the Federal Reserve System who—“(1) has at least 5 years of civilian service (other than any service performed in the employ of a Federal Reserve Bank) creditable under the benefit structure for employees of the Board of Governors of the Federal Reserve System appointed before January 1, 1984, that is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act [Act Dec. 23, 1913, ch. 6, see Codification note set out under [12 U.S.C. 241](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section241&num=0&edition=prelim)]; “(2) was subsequently employed subject to the benefit structure in which employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of such benefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of chapter 84 of title 5, United States Code); and “(3) after service described in paragraph (2), becomes subject to and thereafter entitled to benefits under chapter 84 of title 5, United States Code, shall, for purposes of section 302 of the Federal Employees’ Retirement System Act of 1986 [Pub. L. 99–335] (100 Stat. 601; [5 U.S.C. 8331](./chapter-083-retirement.md#section-8331) note) be considered to have become subject to chapter 84 of title 5, United States Code, pursuant to an election under section 301 of such Act [[5 U.S.C. 8331](./chapter-083-retirement.md#section-8331) note].”
 
 
 <a id="section-8403"></a>
@@ -985,7 +1001,7 @@ Amendment by Pub. L. 105–261 effective at the beginning of the first pay perio
 ### Statutory Notes
 
 #### Effective Date
-Section effective on the effective date of the implementing regulations issued by the Director of the Office of Personnel Management, see section 100121(d) of Pub. L. 112–141, set out as an Effective Date of 2012 Amendment note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
+Section effective on Nov. 6, 2014, see section 100121(d) of Pub. L. 112–141, set out as an Effective Date of 2012 Amendment note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
 
 
 <a id="section-8413"></a>
@@ -1192,7 +1208,7 @@ Pub. L. 105–174, title III, § 7001(b), May 1, 1998, 112 Stat. 91, as amended 
 
 **(c)** The annuity of a Congressional employee, or former Congressional employee, retiring under this subchapter is computed under subsection (a), except that if the individual has had at least 5 years of service as a Congressional employee or Member, or any combination thereof, so much of the annuity as is computed with respect to either such type of service (or a combination thereof), not exceeding a total of 20 years, shall be computed by multiplying 17⁄10 percent of the individual’s average pay by the years of such service.
 
-**(d)** Notwithstanding any other provision of law, the annuity of an individual described in subsection (b) or (c) who is a revised annuity employee shall be computed in the same manner as in the case of an individual described in subsection (a).
+**(d)** Notwithstanding any other provision of law, the annuity of an individual described in subsection (b) or (c) who is a revised annuity employee or a further revised annuity employee shall be computed in the same manner as in the case of an individual described in subsection (a).
 
 **(e)** The annuity of an employee retiring under subsection (d) or (e) of section 8412 or under subsection (a), (b), or (c) of section 8425 is—
 
@@ -1241,7 +1257,7 @@ Pub. L. 105–174, title III, § 7001(b), May 1, 1998, 112 Stat. 91, as amended 
 
 (2) Except as otherwise provided in this subsection, no part of a physicians comparability allowance shall be treated as basic pay for purposes of any computation under this section unless, before the date of the separation on which entitlement to annuity is based, the separating individual has completed at least 15 years of service as a Government physician (whether performed before, on, or after the date of the enactment of this subsection).
 
-(3) If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows: If the total amount of service performed, on or after the date ofThen, the percent- the enactment of this subsection,age allowable is: as a Government physician is: Less than 2 years0 At least 2 but less than 4 years25 At least 4 but less than 6 years50 At least 6 but less than 8 years75 At least 8 years100.
+(3) If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows: If the total amount of service performed, on or after the date of the enactment of this subsection, as a Government physician is:Then, the percentage allowable is: Less than 2 years0 At least 2 but less than 4 years25 At least 4 but less than 6 years50 At least 6 but less than 8 years75 At least 8 years100.
 
 (4) Notwithstanding any other provision of this subsection, 100 percent of all amounts received as a physicians comparability allowance shall, to the extent attributable to service performed on or after the date of the enactment of this subsection, be treated as basic pay (without regard to any of the preceding provisions of this subsection) for purposes of computing—
 
@@ -1280,6 +1296,8 @@ The date of the enactment of this subsection, referred to in subsec. (k), is the
 The date of enactment of this paragraph, referred to in subsec. (m)(2)(B)(i), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
 
 #### Amendments
+2013—Subsec. (d). Pub. L. 113–67 inserted “or a further revised annuity employee” after “a revised annuity employee”.
+
 2012—Subsecs. (d) to (n). Pub. L. 112–96 added subsec. (d) and redesignated former subsecs. (d) to (m) as (e) to (n), respectively.
 
 2009—Subsecs. (k) to (m). Pub. L. 111–84 redesignated subsec. (k), relating to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration, as (l), designated existing provisions as par. (1), added par. (2), and redesignated former subsec. (l) as (m).
@@ -1715,9 +1733,11 @@ Pub. L. 106–394, § 3(b), Oct. 30, 2000, 114 Stat. 1630, provided that: “The
 
 (3)
 
-  (A) The applicable percentage under this paragraph for civilian service by employees or Members other than revised annuity employees shall be as follows: Employee7January 1, 1987, to December 31, 1998. 7.25January 1, 1999, to December 31, 1999. 7.4January 1, 2000, to December 31, 2000. 7After December 31, 2000. Congressional employee7.5January 1, 1987, to December 31, 1998. 7.75January 1, 1999, to December 31, 1999. 7.9January 1, 2000, to December 31, 2000. 7.5After December 31, 2000. Member7.5January 1, 1987, to December 31, 1998. 7.75January 1, 1999, to December 31, 1999. 7.9January 1, 2000, to December 31, 2000. 8January 1, 2001, to December 31, 2002. 7.5After December 31, 2002. Law enforcement officer, firefighter, member of the Capitol Police, member of the Supreme Court Police, or air traffic controller7.5 7.75 7.9 7.5January 1, 1987, to December 31, 1998.January 1, 1999, to December 31, 1999.January 1, 2000, to December 31, 2000.After December 31, 2000. Nuclear materials courier7January 1, 1987, to October 16, 1998. 7.5October 17, 1998, to December 31, 1998. 7.75January 1, 1999, to December 31, 1999. 7.9January 1, 2000, to December 31, 2000. 7.5After December 31, 2000. Customs and border protection officer7.5After June 29, 2008.
+  (A) The applicable percentage under this paragraph for civilian service by employees or Members other than revised annuity employees or further revised annuity employees shall be as follows: Employee7January 1, 1987, to December 31, 1998. 7.25January 1, 1999, to December 31, 1999. 7.4January 1, 2000, to December 31, 2000. 7After December 31, 2000. Congressional employee7.5January 1, 1987, to December 31, 1998. 7.75January 1, 1999, to December 31, 1999. 7.9January 1, 2000, to December 31, 2000. 7.5After December 31, 2000. Member7.5January 1, 1987, to December 31, 1998. 7.75January 1, 1999, to December 31, 1999. 7.9January 1, 2000, to December 31, 2000. 8January 1, 2001, to December 31, 2002. 7.5After December 31, 2002. Law enforcement officer, firefighter, member of the Capitol Police, member of the Supreme Court Police, or air traffic controller7.5 7.75 7.9 7.5January 1, 1987, to December 31, 1998.January 1, 1999, to December 31, 1999.January 1, 2000, to December 31, 2000.After December 31, 2000. Nuclear materials courier7January 1, 1987, to October 16, 1998. 7.5October 17, 1998, to December 31, 1998. 7.75January 1, 1999, to December 31, 1999. 7.9January 1, 2000, to December 31, 2000. 7.5After December 31, 2000. Customs and border protection officer7.5After June 29, 2008.
 
   (B) The applicable percentage under this paragraph for civilian service by revised annuity employees shall be as follows: Employee9.3After December 31, 2012. Congressional employee9.3After December 31, 2012. Member9.3After December 31, 2012. Law enforcement officer, firefighter, member of the Capitol Police, member of the Supreme Court Police, or air traffic controller9.8After December 31, 2012. Nuclear materials courier9.8After December 31, 2012. Customs and border protection officer9.8After December 31, 2012.
+
+  (C) The applicable percentage under this paragraph for civilian service by further revised annuity employees shall be as follows: Employee10.6After December 31, 2013. Congressional employee10.6After December 31, 2013. Member10.6After December 31, 2013. Law enforcement officer, firefighter, member of the Capitol Police, member of the Supreme Court Police, or air traffic controller11.1After December 31, 2013. Nuclear materials courier11.1After December 31, 2013. Customs and border protection officer11.1After December 31, 2013.
 
 **(b)** Each employee or Member is deemed to consent and agree to the deductions under subsection (a). Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this subchapter, or under subchapter IV or V of this chapter, based on the service of the employee or Member.
 
@@ -1799,6 +1819,10 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(1), is Pu
 The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2013—Subsec. (a)(3)(A). Pub. L. 113–67, § 401(b)(1), inserted “or further revised annuity employees” after “revised annuity employees”.
+
+Subsec. (a)(3)(C). Pub. L. 113–67, § 401(b)(2), added subpar. (C).
+
 2012—Subsec. (a)(3). Pub. L. 112–96, § 5001(b), designated existing provisions as subpar. (A), substituted “The applicable percentage under this paragraph for civilian service by employees or Members other than revised annuity employees” for “The applicable percentage under this paragraph for civilian service”, and added subpar. (B).
 
 Subsec. (d)(2). Pub. L. 112–96, § 5001(c)(2)(A), substituted “section 8415(m)” for “section 8415(l)”.
@@ -1933,7 +1957,19 @@ Pub. L. 105–33, title VII, § 7001(b)(2), Aug. 5, 1997, 111 Stat. 658, provide
 
     (ii) the aggregate amount of basic pay payable by the agency, for the period involved, to employees and Members (under clause (i)) who are within such agency.
 
-(2) In determining any normal-cost percentage to be applied under this subsection, amounts provided for under section 8422 shall be taken into account.
+(2)
+
+  (A) In determining any normal-cost percentage to be applied under this subsection, amounts provided for under section 8422 shall be taken into account.
+
+  (B)
+
+    (i) Subject to clauses (ii) and (iii), for purposes of any period in any year beginning after December 31, 2013, the normal-cost percentage under this subsection shall be determined and applied as if section 401(b) of the Bipartisan Budget Act of 2013 had not been enacted.
+
+    (ii) Any contributions under this subsection in excess of the amounts which (but for clause (i)) would otherwise have been payable shall be applied toward reducing the unfunded liability of the Civil Service Retirement System.
+
+    (iii) After the unfunded liability of the Civil Service Retirement System has been eliminated, as determined by the Office, Government contributions under this subsection shall be determined and made disregarding this subparagraph.
+
+    (iv) The preceding provisions of this subparagraph shall be disregarded for purposes of determining the contributions payable by the United States Postal Service and the Postal Regulatory Commission.
 
 (3) Contributions under this subsection shall be paid—
 
@@ -1981,7 +2017,11 @@ Pub. L. 105–33, title VII, § 7001(b)(2), Aug. 5, 1997, 111 Stat. 658, provide
 #### References in Text
 Sections 302 and 303 of the Central Intelligence Agency Retirement Act, referred to in subsec. (a)(1)(B)(i), are classified to sections 2152 and 2153, respectively, of Title 50, War and National Defense.
 
+Section 401(b) of the Bipartisan Budget Act of 2013, referred to in subsec. (a)(2)(B)(i), is section 401(b) of div. A of Pub. L. 113–67, which amended [section 8422 of this title](./chapter-084-federal-employees-retirement-system.md#section-8422).
+
 #### Amendments
+2013—Subsec. (a)(2). Pub. L. 113–67 designated existing provisions as subpar. (A) and added subpar. (B).
+
 2007—Subsec. (a)(1)(B)(i), (3)(A). Pub. L. 110–161 inserted “customs and border protection officers,” after “nuclear materials couriers,” wherever appearing.
 
 2006—Subsec. (b)(1)(B). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
@@ -2183,7 +2223,7 @@ Pub. L. 106–168, title II, § 203(c), Dec. 12, 1999, 113 Stat. 1820, provided 
 
 (1) An employee or Member may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee’s or Member’s basic pay for such pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
 
-(2) The maximum percentage allowable under this paragraph shall be determined in accordance with the following table: In the case of a pay periodThe maximum percent- beginning in fiscal year: age allowable is: 200111 200212 200313 200414 200515 2006 or thereafter100.
+(2) The maximum percentage allowable under this paragraph shall be determined in accordance with the following table: In the case of a pay period beginning in fiscal year:The maximum percentageallowable is: 200111 200212 200313 200414 200515 2006 or thereafter100.
 
 (3) Notwithstanding any limitation under this subsection, an eligible participant (as defined by section 414(v) of the Internal Revenue Code of 1986) may make such additional contributions to the Thrift Savings Fund as are permitted by such section 414(v) and regulations of the Executive Director consistent therewith.
 
@@ -3374,7 +3414,14 @@ Pub. L. 112–267, § 2, Jan. 14, 2013, 126 Stat. 2440, provided that: “Any po
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)(2)
+Pub. L. 113–255, § 2(a), (e), Dec. 18, 2014, 128 Stat. 2920, provided that, effective on the date that the Executive Director issues guidance under section 2(d) of Pub. L. 113–255, set out as a note below, and applicable to individuals enrolled in the Thrift Savings Plan on or after such date, subsection (c)(2) of this section is amended to read as follows: “(2)(A) Consistent with the requirements of subparagraph (B), if an election has not been made with respect to any sums available for investment in the Thrift Savings Fund, the Executive Director shall invest such sums in an age-appropriate target date asset allocation investment fund, as determined by the Executive Director. Such investment fund shall consist of any of the funds described in subsection (b). “(B) If an election has not been made by an eligible member under section 8440e with respect to any sums available for investment in such member’s Thrift Savings Fund account, the Executive Director shall invest such sums in the Government Securities Investment Fund.”
+
+See 2014 Amendment note below.
+
 #### Amendments
+2014—Subsec. (c)(2). Pub. L. 113–255 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If an election has not been made with respect to any sums in the Thrift Savings Fund available for investment, the Executive Director shall invest such sums in the Government Securities Investment Fund.”
+
 2009—Subsec. (b)(1)(F). Pub. L. 111–31, § 104(a), added subpar. (F).
 
 Subsec. (b)(5). Pub. L. 111–31, § 104(b), added par. (5).
@@ -3407,6 +3454,9 @@ Subsecs. (h), (i). Pub. L. 101–335, § 3(a)(1), (7), redesignated subsec. (i) 
 
 1987—Subsecs. (h), (i). Pub. L. 100–43 added subsecs. (h) and (i).
 
+#### Effective Date of 2014 Amendment
+Pub. L. 113–255, § 2(e), Dec. 18, 2014, 128 Stat. 2920, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 8439 of this title](./chapter-084-federal-employees-retirement-system.md#section-8439)] shall— “(1) take effect on the date that the Executive Director issues guidance under subsection (d) [section 2(d) of Pub. L. 113–255, set out as a Guidance note below]; and “(2) apply to individuals enrolled in the Thrift Savings Plan on or after such date.”
+
 #### Effective Date of 1996 Amendment
 Section 101(f) [title VI, § 659 [title I, § 104]] provided that: “This title [title I (§§ 101–104) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and [section 8439 of this title](./chapter-084-federal-employees-retirement-system.md#section-8439) and enacting provisions set out as a note under [section 8401 of this title](./chapter-084-federal-employees-retirement-system.md#section-8401)] shall take effect on the date of enactment of this Act [Sept. 30, 1996], and the Funds established under this title shall be offered for investment at the earliest practicable election period (described in [section 8432(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432/b&num=0&edition=prelim), United States Code) as determined by the Executive Director in regulations.”
 
@@ -3415,6 +3465,9 @@ Amendment by Pub. L. 101–335 effective as of second election period described 
 
 #### Effective Date of 1988 Amendment
 Pub. L. 100–366, § 2(b), July 13, 1988, 102 Stat. 826, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to earnings attributable to contributions made to the Thrift Savings Fund on or after April 1, 1987.”
+
+#### Guidance
+Pub. L. 113–255, § 2(d), Dec. 18, 2014, 128 Stat. 2920, provided that: “Not later than 9 months after the date of enactment of this Act [Dec. 18, 2014], the Executive Director (as that term is defined under [section 8401(13) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8401/13&num=0&edition=prelim), United States Code) shall develop and issue guidance implementing the requirements of this Act [see section 1 of Pub. L. 113–255, set out as a Short Title of 2014 Amendment note under [section 101 of this title](./chapter-001-organization.md#section-101)].”
 
 #### Removal of Investment Restrictions
 Pub. L. 101–335, § 3(b)(4), July 17, 1990, 104 Stat. 320, provided that: “Any other provision of law, in effect on the date of enactment of this Act [July 17, 1990], which provides that any amounts contributed to the Thrift Savings Fund, or earnings thereon, may be invested or reinvested only in the Government Securities Investment Fund established under [section 8438(b)(1)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8438/b/1/A&num=0&edition=prelim), United States Code, shall cease to be effective.”
@@ -3464,7 +3517,20 @@ Pub. L. 101–335, § 3(b)(4), July 17, 1990, 104 Stat. 320, provided that: “A
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)
+Pub. L. 113–255, § 2(b), (e), Dec. 18, 2014, 128 Stat. 2920, provided that, effective on the date that the Executive Director issues guidance under section 2(d) of Pub. L. 113–255, set out as a note under [section 8438 of this title](./chapter-084-federal-employees-retirement-system.md#section-8438), and applicable to individuals enrolled in the Thrift Savings Plan on or after such date, subsection (d) of this section is amended by—
+
+(1) inserting “(1)” before “Each employee”; and
+
+(2) adding at the end the following new paragraph:
+
+“(2) Prior to enrollment in the Thrift Savings Fund, or as soon as practicable thereafter, an individual who is automatically enrolled pursuant to section 8432(b)(2) shall receive the risk acknowledgment information described under paragraph (1).”
+
+See 2014 Amendment note below.
+
 #### Amendments
+2014—Subsec. (d). Pub. L. 113–255 designated existing provisions as par. (1) and added par. (2).
+
 2009—Subsec. (d). Pub. L. 111–31, § 106(a)(2), substituted “any such fund or option” for “either such Fund”.
 
 Pub. L. 111–31, § 106(a)(1), which directed substitution of “any investment fund or option under this chapter, other than the Government Securities Investment Fund,” for “the matter after ‘who elects to invest in’ and before ‘shall sign an acknowledgment’ ”, was executed by making the substitution for “the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of [section 8438(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8438/a&num=0&edition=prelim)”, before “shall sign an acknowledgement”, to reflect the probable intent of Congress.
@@ -3486,6 +3552,9 @@ Subsec. (a)(2)(A)(ii). Pub. L. 106–65, § 661(a)(5)(C), struck out “under [s
 1996—Subsec. (b)(3). Pub. L. 104–316 struck out “and the Comptroller General of the United States” after “to the Board”.
 
 Subsec. (d). Pub. L. 104–208 substituted “Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10),” for “Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund or the Fixed Income Investment Fund described in paragraphs (1) and (3),”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–255 effective on the date that the Executive Director issues guidance under section 2(d) Pub. L. 113–255, set out as a Guidance note under [section 8438 of this title](./chapter-084-federal-employees-retirement-system.md#section-8438), and applicable to individuals enrolled in the Thrift Savings Plan on or after such date, see section 2(e) of Pub. L. 113–255, set out as a note under [section 8438 of this title](./chapter-084-federal-employees-retirement-system.md#section-8438).
 
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–361 effective at the earliest practicable date after Sept. 30, 2000, as determined by the Executive Director in regulations, see section 2(c)(1) of Pub. L. 106–361, set out as a note under [section 8432 of this title](./chapter-084-federal-employees-retirement-system.md#section-8432).
@@ -3911,7 +3980,7 @@ Pub. L. 106–65, div. A, title VI, § 661(b), Oct. 5, 1999, 113 Stat. 672, as a
 
 <a id="section-8440f"></a>
 ## § 8440f. Maximum percentage allowable for certain participants
-**(a)** The maximum percentage allowable under this section shall be determined in accordance with the following table: In the case of a pay periodThe maximum percent- beginning in fiscal year: age allowable is: 20016 20027 20038 20049 200510 2006 or thereafter100.
+**(a)** The maximum percentage allowable under this section shall be determined in accordance with the following table: In the case of a pay period beginning in fiscal year:The maximum percentageallowable is: 20016 20027 20038 20049 200510 2006 or thereafter100.
 
 **(b)** Notwithstanding any limitation under this section, an eligible participant (as defined by section 414(v) of the Internal Revenue Code of 1986) may make such additional contributions to the Thrift Savings Fund as are permitted by such section 414(v) and regulations of the Executive Director consistent therewith.
 
@@ -4409,7 +4478,8 @@ An annuitant receiving a disability retirement annuity from the Fund shall be ex
 
 (1) at the end of 1 year from the date of the disability retirement; and
 
-(2) annually thereafter until becoming 60 years of age; unless the disability is permanent in character. If the annuitant fails to submit to examination as required by this section, payment of the annuity shall be suspended until continuance of the disability is satisfactorily established.
+(2) annually thereafter until becoming 60 years of age;
+unless the disability is permanent in character. If the annuitant fails to submit to examination as required by this section, payment of the annuity shall be suspended until continuance of the disability is satisfactorily established.
 
 
 <a id="section-8455"></a>
@@ -4964,7 +5034,7 @@ Amendment by Pub. L. 103–358 effective Oct. 14, 1994, and applicable with resp
 
   (B) If the primary service performed by any limited time appointee employed under this subsection is training or mentoring of employees, the hours of that service shall be included in the hours of service performed for purposes of paragraph (3).
 
-(7) The authority of the head of an agency under this subsection to waive the application of subsection (a) shall terminate 5 years after the date of enactment of the National Defense Authorization Act for Fiscal Year 2010.
+(7) The authority of the head of an agency under this subsection to waive the application of subsection (a) shall terminate on December 31, 2019.
 
 **(j)**
 
@@ -4979,9 +5049,9 @@ The American Recovery and Reinvestment Act of 2009, referred to in subsec. (i)(2
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (i)(2)(B), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765. Title I of the Act is classified principally to subchapter I (§ 5211 et seq.) of chapter 52 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5201&num=0&edition=prelim) and Tables.
 
-The date of enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (i)(7), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
-
 #### Amendments
+2014—Subsec. (i)(7). Pub. L. 113–291 substituted “on December 31, 2019” for “5 years after the date of enactment of the National Defense Authorization Act for Fiscal Year 2010”.
+
 2012—Subsec. (b)(1)(A). Pub. L. 112–96 substituted “section 8415(a) through (i)” for “section 8415(a) through (h)”.
 
 2009—Subsec. (i). Pub. L. 111–84, § 1122(b)(2), added subsec. (i). Former subsec. (i) redesignated (j).
@@ -5014,6 +5084,9 @@ Pub. L. 101–509 added subsec. (f).
 
 #### Change of Name
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–291 effective as of Oct. 28, 2014, see section 1107(c) of Pub. L. 113–291, set out as a note under [section 8344 of this title](./chapter-083-retirement.md#section-8344).
 
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual’s separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under [section 8401 of this title](./chapter-084-federal-employees-retirement-system.md#section-8401).
@@ -5142,7 +5215,7 @@ Subchapter VII effective June 6, 1986, see section 702(b)(1) of Pub. L. 99–335
 
   (D) take such other actions as may be necessary to carry out the functions of the Board.
 
-(2) Except in the case of investments required by [section 8438 of this title](./chapter-084-federal-employees-retirement-system.md#section-8438) to be invested in securities of the Government, the Board may not direct the Executive Director to invest or to cause to be invested any sums in the Thrift Savings Fund in a specific asset or to dispose of or cause to be disposed of any specific asset of such Fund.
+(2) Except in the case of investments under section 8438(c)(2)(B), the Board may not direct the Executive Director to invest or to cause to be invested any sums in the Thrift Savings Fund in a specific asset or to dispose of or cause to be disposed of any specific asset of such Fund.
 
 **(h)** The members of the Board shall discharge their responsibilities solely in the interest of participants and beneficiaries under this subchapter and subchapter III of this chapter.
 
@@ -5156,6 +5229,8 @@ Subchapter VII effective June 6, 1986, see section 702(b)(1) of Pub. L. 99–335
 Section 311 of the Federal Employees’ Retirement System Act of 1986 [Pub. L. 99–335], referred to in subsecs. (c) and (e)(1), is set out as a note below.
 
 #### Amendments
+2014—Subsec. (g)(2). Pub. L. 113–255 substituted “under section 8438(c)(2)(B)” for “required by [section 8438 of this title](./chapter-084-federal-employees-retirement-system.md#section-8438) to be invested in securities of the Government”.
+
 1986—Subsecs. (i), (j). Pub. L. 99–509 added subsecs. (i) and (j).
 
 #### Effective Date of 1986 Amendment
@@ -5479,9 +5554,9 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
       (I) for providing for the automatic enrollment of a participant in accordance with section 8432(b)(2)(A);
 
-      (II) for enrolling a participant in a default investment fund in accordance with section 8438(c)(2); or
+      (II) for enrolling a participant or beneficiary in a default investment fund or option in accordance with section 8438(c)(2); or
 
-      (III) for allowing a participant to invest through the mutual fund window or for establishing restrictions applicable to participants’ ability to invest through the mutual fund window.
+      (III) for allowing a participant or beneficiary to invest through the mutual fund window or for establishing restrictions applicable to participants’ or beneficiaries’ ability to invest through the mutual fund window.
 
   (D) A fiduciary shall be jointly and severally liable under subparagraph (A) for a breach of fiduciary duty under subsection (b) by another fiduciary only if—
 
@@ -5587,6 +5662,10 @@ Section 4975(f)(4) and (5) of the Internal Revenue Code of 1986, referred to in 
 Section 114 of the Federal Employees’ Retirement System Technical Corrections Act of 1986, referred to in subsec. (e)(1)(E)(i), is section 114 of Pub. L. 99–556 which amended this section and enacted provisions set out as a note under this section.
 
 #### Amendments
+2014—Subsec. (e)(1)(C)(ii)(II). Pub. L. 113–255, § 3(1), inserted “or beneficiary” after “participant” and “or option” after “fund”.
+
+Subsec. (e)(1)(C)(ii)(III). Pub. L. 113–255, § 3(2), inserted “or beneficiary” after “participant” and “or beneficiaries’ ” after “participants’ ”.
+
 2009—Subsec. (e)(1)(C). Pub. L. 111–31 designated existing provisions as cl. (i) and added cl. (ii).
 
 1990—Pub. L. 101–335 repealed section 133(c) of Pub. L. 100–238. See Effective Date of 1988 Amendment note below.

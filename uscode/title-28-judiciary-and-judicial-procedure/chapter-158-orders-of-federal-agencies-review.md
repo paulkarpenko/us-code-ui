@@ -87,7 +87,8 @@ The court of appeals (other than the United States Court of Appeals for the Fede
 
 (6) all final orders under section 812 of the Fair Housing Act; and
 
-(7) all final agency actions described in [section 20114(c) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section20114/c&num=0&edition=prelim). Jurisdiction is invoked by filing a petition as provided by [section 2344 of this title](./chapter-158-orders-of-federal-agencies-review.md#section-2344).
+(7) all final agency actions described in [section 20114(c) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section20114/c&num=0&edition=prelim).
+Jurisdiction is invoked by filing a petition as provided by [section 2344 of this title](./chapter-158-orders-of-federal-agencies-review.md#section-2344).
 
 ### Statutory Notes
 
@@ -204,7 +205,8 @@ On the entry of a final order reviewable under this chapter, the agency shall pr
 
 (3) the grounds on which relief is sought; and
 
-(4) the relief prayed. The petitioner shall attach to the petition, as exhibits, copies of the order, report, or decision of the agency. The clerk shall serve a true copy of the petition on the agency and on the Attorney General by registered mail, with request for a return receipt.
+(4) the relief prayed.
+The petitioner shall attach to the petition, as exhibits, copies of the order, report, or decision of the agency. The clerk shall serve a true copy of the petition on the agency and on the Attorney General by registered mail, with request for a return receipt.
 
 ### Statutory Notes
 

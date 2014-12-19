@@ -14,7 +14,7 @@ source: >-
 Section, acts June 25, 1948, ch. 645, 62 Stat. 719; May 24, 1949, ch. 139, § 9, 63 Stat. 90; Sept. 22, 1970, Pub. L. 91–405, title II, § 204(d)(4), 84 Stat. 853; Feb. 7, 1972, Pub. L. 92–225, title II, § 201, 86 Stat. 8; Oct. 15, 1974, Pub. L. 93–443, title I, §§ 101(f)(2), 102, 88 Stat. 1268, 1269; May 11, 1976, Pub. L. 94–283, title I, § 115(g), title II, § 202, 90 Stat. 496, 497, defined terms applicable to prohibitions respecting elections and political activities.
 
 #### Effective Date of Repeal
-Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-592"></a>
@@ -211,7 +211,7 @@ Minor changes were made in phraseology.
 1972—Pub. L. 92–225 struck out “work,” after “position,”, inserted “contract, appointment,” after “compensation,” and “or any special consideration in obtaining any such benefit,” after “Act of Congress,”, and substituted “in connection with any general or special election to any political office, or in connection with any primary election or political convention or caucus held to select candidates for any political office” for “in any election”.
 
 #### Effective Date of 1972 Amendment
-Amendment by Pub. L. 92–225 effective Dec. 31, 1971, or sixty days after date of enactment [Feb. 7, 1972], whichever is later, see section 408 of Pub. L. 92–225, set out as an Effective Date note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 92–225 effective Dec. 31, 1971, or sixty days after date of enactment [Feb. 7, 1972], whichever is later, see section 408 of Pub. L. 92–225, set out as an Effective Date note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-601"></a>
@@ -276,7 +276,7 @@ The punishment provision was taken from [section 212 of title 18](./chapter-011-
 Changes were made in phraseology.
 
 #### References in Text
-Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subsec. (a)(4), is classified to [section 431(8) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431/8&num=0&edition=prelim), The Congress.
+Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subsec. (a)(4), is classified to [section 30101(8) of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101/8&num=0&edition=prelim), Voting and Elections.
 
 #### Amendments
 2006—Subsec. (b). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
@@ -291,7 +291,7 @@ Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subs
 Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to release or extinguish any penalty, forfeiture, or liability incurred under amended provision, which is to be treated as remaining in force for purpose of sustaining any proper proceeding or action for enforcement of that penalty, forfeiture, or liability, and no provision of Pub. L. 103–94 to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as an Effective Date; Savings Provision note under [section 7321 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7321&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-603"></a>
@@ -318,9 +318,9 @@ The punishment provision was derived from [section 212 of title 18](./chapter-01
 Minor changes were made in phraseology.
 
 #### References in Text
-Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subsec. (a), is classified to [section 431(8) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431/8&num=0&edition=prelim), The Congress.
+Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subsec. (a), is classified to [section 30101(8) of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101/8&num=0&edition=prelim), Voting and Elections.
 
-Section 302(e)(1) of the Federal Election Campaign Act of 1971, referred to in subsec. (b), is classified to [section 432(e)(1) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section432/e/1&num=0&edition=prelim).
+Section 302(e)(1) of the Federal Election Campaign Act of 1971, referred to in subsec. (b), is classified to [section 30102(e)(1) of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30102/e/1&num=0&edition=prelim).
 
 #### Amendments
 2006—Subsec. (c). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
@@ -337,7 +337,7 @@ Section 302(e)(1) of the Federal Election Campaign Act of 1971, referred to in s
 Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to release or extinguish any penalty, forfeiture, or liability incurred under amended provision, which is to be treated as remaining in force for purpose of sustaining any proper proceeding or action for enforcement of that penalty, forfeiture, or liability, and no provision of Pub. L. 103–94 to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as an Effective Date; Savings Provision note under [section 7321 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7321&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
-Amended by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amended by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-604"></a>
@@ -418,7 +418,7 @@ This section was expanded to embrace all officers or persons acting on behalf of
 Changes were made in phraseology.
 
 #### References in Text
-Section 302(e) of the Federal Election Campaign Act of 1971, referred to in subsec. (b), is classified to [section 432(e) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section432/e&num=0&edition=prelim).
+Section 302(e) of the Federal Election Campaign Act of 1971, referred to in subsec. (b), is classified to [section 30102(e) of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30102/e&num=0&edition=prelim), Voting and Elections.
 
 #### Amendments
 2002—Subsec. (a). Pub. L. 107–155, § 302(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person to solicit or receive any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 in any room or building occupied in the discharge of official duties by any person mentioned in section 603, or in any navy yard, fort, or arsenal. Any person who violates this section shall be fined under this title or imprisoned not more than three years, or both.”
@@ -430,10 +430,10 @@ Subsec. (b). Pub. L. 107–155, § 302(2), inserted “or Executive Office of th
 1980—Pub. L. 96–187 substituted provisions relating to the place of solicitation for provisions relating to the making of political contributions.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–155 effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 107–155 effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-608"></a>
@@ -445,13 +445,13 @@ Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub.
 ### Statutory Notes
 
 #### References in Text
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended, which is classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 1971 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1971&num=0&edition=prelim) and Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which was formerly classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§ 20301 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
-A prior section 608, acts June 25, 1948, ch. 645, 62 Stat. 723; Feb. 7, 1972, Pub. L. 92–225, title II, § 203, 86 Stat. 9; Oct. 15, 1974, Pub. L. 93–443, title I, § 101(a), (b), 88 Stat. 1263, 1266, set limitations on campaign contributions and expenditures, prior to repeal by Pub. L. 94–283, title II, § 201(a), May 11, 1976, 90 Stat. 496. See [section 441a of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441a&num=0&edition=prelim), The Congress.
+A prior section 608, acts June 25, 1948, ch. 645, 62 Stat. 723; Feb. 7, 1972, Pub. L. 92–225, title II, § 203, 86 Stat. 9; Oct. 15, 1974, Pub. L. 93–443, title I, § 101(a), (b), 88 Stat. 1263, 1266, set limitations on campaign contributions and expenditures, prior to repeal by Pub. L. 94–283, title II, § 201(a), May 11, 1976, 90 Stat. 496. See [section 30116 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30116&num=0&edition=prelim), Voting and Elections.
 
 #### Effective Date
-Section applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as a note under [section 1973ff of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ff&num=0&edition=prelim), The Public Health and Welfare.
+Section applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as a note under [section 20301 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20301&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-609"></a>
@@ -465,7 +465,7 @@ Whoever, being a commissioned, noncommissioned, warrant, or petty officer of an 
 A prior section 609, act June 25, 1948, ch. 645, 62 Stat. 723, prescribed maximum contributions and expenditures limitation of $3,000,000 for any calendar year, prior to repeal by Pub. L. 92–225, title II, § 204, Feb. 7, 1972, 86 Stat. 10, effective sixty days after Feb. 7, 1972.
 
 #### Effective Date
-Section applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as a note under [section 1973ff of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ff&num=0&edition=prelim), The Public Health and Welfare.
+Section applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as a note under [section 20301 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20301&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-610"></a>
@@ -476,7 +476,7 @@ It shall be unlawful for any person to intimidate, threaten, command, or coerce,
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 610, acts June 25, 1948, ch. 645, 62 Stat. 723; May 24, 1949, ch. 139, § 10, 63 Stat. 90; Oct. 31, 1951, ch. 655, § 20(c), 65 Stat. 718; Feb. 7, 1972, Pub. L. 92–225, title II, § 205, 86 Stat. 10; Oct. 15, 1974, Pub. L. 93–443, title I, § 101(e)(1), 88 Stat. 1267, prohibited campaign contributions or expenditures by national banks, corporations, and labor organizations, prior to repeal by Pub. L. 94–283, title II, § 201(a), May 11, 1976, 90 Stat. 496. See [section 441b of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441b&num=0&edition=prelim), The Congress.
+A prior section 610, acts June 25, 1948, ch. 645, 62 Stat. 723; May 24, 1949, ch. 139, § 10, 63 Stat. 90; Oct. 31, 1951, ch. 655, § 20(c), 65 Stat. 718; Feb. 7, 1972, Pub. L. 92–225, title II, § 205, 86 Stat. 10; Oct. 15, 1974, Pub. L. 93–443, title I, § 101(e)(1), 88 Stat. 1267, prohibited campaign contributions or expenditures by national banks, corporations, and labor organizations, prior to repeal by Pub. L. 94–283, title II, § 201(a), May 11, 1976, 90 Stat. 496. See [section 30118 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30118&num=0&edition=prelim), Voting and Elections.
 
 #### Amendments
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $5,000”.
@@ -508,7 +508,7 @@ Section effective 120 days after Oct. 6, 1993, and no provision of Pub. L. 103�
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 611, acts June 25, 1948, ch. 645, 62 Stat. 724; Feb. 7, 1972, Pub. L. 92–225, title II, § 206, 86 Stat. 10; Oct. 15, 1974, Pub. L. 93–443, title I, §§ 101(e)(2), 103, 88 Stat. 1267, 1272, prohibited campaign contributions by government contractors, prior to repeal by Pub. L. 94–283, title II, § 201(a), May 11, 1976, 90 Stat. 496. See [section 441c of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441c&num=0&edition=prelim), The Congress.
+A prior section 611, acts June 25, 1948, ch. 645, 62 Stat. 724; Feb. 7, 1972, Pub. L. 92–225, title II, § 206, 86 Stat. 10; Oct. 15, 1974, Pub. L. 93–443, title I, §§ 101(e)(2), 103, 88 Stat. 1267, 1272, prohibited campaign contributions by government contractors, prior to repeal by Pub. L. 94–283, title II, § 201(a), May 11, 1976, 90 Stat. 496. See [section 30119 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30119&num=0&edition=prelim), Voting and Elections.
 
 #### Amendments
 2000—Subsec. (c). Pub. L. 106–395 added subsec. (c).
@@ -522,17 +522,17 @@ Pub. L. 106–395, title II, § 201(d)(3), Oct. 30, 2000, 114 Stat. 1636, provid
 
 ### Statutory Notes
 
-Section 612, acts June 25, 1948, ch. 645, 62 Stat. 724; Aug. 25, 1950, ch. 784, § 2, 64 Stat. 475; Aug. 12, 1970, Pub. L. 91–375, § 6(j)(7), 84 Stat. 777, regulated publication and distribution of political statements. See [section 441d of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441d&num=0&edition=prelim), The Congress.
+Section 612, acts June 25, 1948, ch. 645, 62 Stat. 724; Aug. 25, 1950, ch. 784, § 2, 64 Stat. 475; Aug. 12, 1970, Pub. L. 91–375, § 6(j)(7), 84 Stat. 777, regulated publication and distribution of political statements. See [section 30120 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30120&num=0&edition=prelim), Voting and Elections.
 
-Section 613, added Pub. L. 89–486, § 8(a), July 4, 1966, 80 Stat. 248; amended Pub. L. 93–443, title I, § 101(d)(1)–(3), (4)(A), (e)(3), Oct. 15, 1974, 88 Stat. 1267, prohibited campaign contributions by foreign nationals. See [section 441e of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441e&num=0&edition=prelim), The Congress.
+Section 613, added Pub. L. 89–486, § 8(a), July 4, 1966, 80 Stat. 248; amended Pub. L. 93–443, title I, § 101(d)(1)–(3), (4)(A), (e)(3), Oct. 15, 1974, 88 Stat. 1267, prohibited campaign contributions by foreign nationals. See [section 30121 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30121&num=0&edition=prelim), Voting and Elections.
 
-Section 614, added Pub. L. 93–443, title I, § 101(f)(1), Oct. 15, 1974, 88 Stat. 1268, prohibited making of campaign contributions in the name of another. See [section 441f of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441f&num=0&edition=prelim), The Congress.
+Section 614, added Pub. L. 93–443, title I, § 101(f)(1), Oct. 15, 1974, 88 Stat. 1268, prohibited making of campaign contributions in the name of another. See [section 30122 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30122&num=0&edition=prelim), Voting and Elections.
 
-Section 615, added Pub. L. 93–443, title I, § 101(f)(1), Oct. 15, 1974, 88 Stat. 1268, placed limitations on contributions of currency. See [section 441g of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441g&num=0&edition=prelim), The Congress.
+Section 615, added Pub. L. 93–443, title I, § 101(f)(1), Oct. 15, 1974, 88 Stat. 1268, placed limitations on contributions of currency. See [section 30123 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30123&num=0&edition=prelim), Voting and Elections.
 
-Section 616, added Pub. L. 93–443, title I, § 101(f)(1), Oct. 15, 1974, 88 Stat. 1268, prohibited acceptance of excessive honorariums. See [section 441i of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441i&num=0&edition=prelim), The Congress.
+Section 616, added Pub. L. 93–443, title I, § 101(f)(1), Oct. 15, 1974, 88 Stat. 1268, prohibited acceptance of excessive honorariums.
 
-Section 617, added Pub. L. 93–443, title I, § 101(f)(1), Oct. 15, 1974, 88 Stat. 1268, prohibited fraudulent misrepresentation of campaign authority. See [section 441h of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441h&num=0&edition=prelim), The Congress.
+Section 617, added Pub. L. 93–443, title I, § 101(f)(1), Oct. 15, 1974, 88 Stat. 1268, prohibited fraudulent misrepresentation of campaign authority. See [section 30124 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30124&num=0&edition=prelim), Voting and Elections.
 
 #### Savings Provision
 Repeal by Pub. L. 94–283 not to release or extinguish any penalty, forfeiture, or liability incurred under such sections, with each section to be treated as remaining in force for the purpose of sustaining any proper action or prosecution for the enforcement of any penalty, forfeiture, or liability, see section 114 of Pub. L. 94–283, set out as a note under [section 441 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441&num=0&edition=prelim), The Congress.

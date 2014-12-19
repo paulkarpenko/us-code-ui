@@ -111,7 +111,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 #### Effective Date of 1998 Amendment
 Pub. L. 105–330, title I, § 109(b), Oct. 30, 1998, 112 Stat. 3069, provided that: “This title [see Short Title of 1998 Amendment note below] and the amendments made by this title shall apply to any application for registration of a trademark pending on, or filed on or after, the effective date of this Act [probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note below].”
 
-Pub. L. 105–330, title I, § 110, Oct. 30, 1998, 112 Stat. 3069, provided that: “This title [see Short Title of 1998 Amendment note below] and the amendments made by this title shall take effect— “(1) on the date that is 1 year after the date of the enactment of this Act [Oct. 30, 1998], or “(2) upon the entry into force of the Trademark Law Treaty with respect to the United States [Aug. 12, 2000], whichever occurs first.”
+Pub. L. 105–330, title I, § 110, Oct. 30, 1998, 112 Stat. 3069, provided that: “This title [see Short Title of 1998 Amendment note below] and the amendments made by this title shall take effect—“(1) on the date that is 1 year after the date of the enactment of this Act [Oct. 30, 1998], or “(2) upon the entry into force of the Trademark Law Treaty with respect to the United States [Aug. 12, 2000], whichever occurs first.”
 
 Pub. L. 105–330, title II, § 201(b), Oct. 30, 1998, 112 Stat. 3070, provided that: “The amendments made by this section [amending this section and sections 1052, 1057, 1064, 1091, 1094, 1113 to 1115, 1121, and 1124 of this title] shall take effect on the date of enactment of this Act [Oct. 30, 1998], and shall apply only to any civil action filed or proceeding before the United States Patent and Trademark Office commenced on or after such date relating to the registration of a mark.”
 
@@ -812,7 +812,7 @@ A petition to cancel a registration of a mark, stating the grounds relied upon, 
 
 (4) At any time if the mark is registered under the Act of March 3, 1881, or the Act of February 20, 1905, and has not been published under the provisions of subsection (c) of [section 1062 of this title](./chapter-022-trademarks.md#section-1062).
 
-(5) At any time in the case of a certification mark on the ground that the registrant (A) does not control, or is not able legitimately to exercise control over, the use of such mark, or (B) engages in the production or marketing of any goods or services to which the certification mark is applied, or (C) permits the use of the certification mark for purposes other than to certify, or (D) discriminately refuses to certify or to continue to certify the goods or services of any person who maintains the standards or conditions which such mark certifies: Provided, That the Federal Trade Commission may apply to cancel on the grounds specified in paragraphs (3) and (5) of this section any mark registered on the principal register established by this chapter, and the prescribed fee shall not be required. Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied.
+(5) At any time in the case of a certification mark on the ground that the registrant (A) does not control, or is not able legitimately to exercise control over, the use of such mark, or (B) engages in the production or marketing of any goods or services to which the certification mark is applied, or (C) permits the use of the certification mark for purposes other than to certify, or (D) discriminately refuses to certify or to continue to certify the goods or services of any person who maintains the standards or conditions which such mark certifies:
 
 ### Statutory Notes
 
@@ -885,7 +885,9 @@ Except on a ground for which application to cancel may be filed at any time unde
 
 (3) an affidavit is filed with the Director within one year after the expiration of any such five-year period setting forth those goods or services stated in the registration on or in connection with which such mark has been in continuous use for such five consecutive years and is still in use in commerce, and other matters specified in paragraphs (1) and (2) of this section; and
 
-(4) no incontestable right shall be acquired in a mark which is the generic name for the goods or services or a portion thereof, for which it is registered. Subject to the conditions above specified in this section, the incontestable right with reference to a mark registered under this chapter shall apply to a mark registered under the Act of March 3, 1881, or the Act of February 20, 1905, upon the filing of the required affidavit with the Director within one year after the expiration of any period of five consecutive years after the date of publication of a mark under the provisions of subsection (c) of [section 1062 of this title](./chapter-022-trademarks.md#section-1062). The Director shall notify any registrant who files the above-prescribed affidavit of the filing thereof.
+(4) no incontestable right shall be acquired in a mark which is the generic name for the goods or services or a portion thereof, for which it is registered.
+Subject to the conditions above specified in this section, the incontestable right with reference to a mark registered under this chapter shall apply to a mark registered under the Act of March 3, 1881, or the Act of February 20, 1905, upon the filing of the required affidavit with the Director within one year after the expiration of any period of five consecutive years after the date of publication of a mark under the provisions of subsection (c) of [section 1062 of this title](./chapter-022-trademarks.md#section-1062).
+The Director shall notify any registrant who files the above-prescribed affidavit of the filing thereof.
 
 ### Statutory Notes
 
@@ -971,7 +973,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 **(c) Authority of the Secretary.—** The Secretary of Commerce may, in his or her discretion, deem the appointment of an administrative trademark judge who, before August 12, 2008, held office pursuant to an appointment by the Director to take effect on the date on which the Director initially appointed the administrative trademark judge.
 
-**(d) Defense to challenge of appointment.—** It shall be a defense to a challenge to the appointment of an administrative trademark judge on the basis of the judge’s having been originally appointed by the Director that the administrative trademark judge so appointed was acting as a de facto officer.
+**(d) Defense to Challenge of Appointment.—** It shall be a defense to a challenge to the appointment of an administrative trademark judge on the basis of the judge’s having been originally appointed by the Director that the administrative trademark judge so appointed was acting as a de facto officer.
 
 ### Statutory Notes
 
@@ -1287,7 +1289,8 @@ Marks for the supplemental register shall not be published for or be subject to 
 
 (1) for which the effective filing date is after the date on which such person’s mark became famous and which would be likely to cause dilution by blurring or dilution by tarnishment under [section 1125(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1125/c&num=0&edition=prelim); or
 
-(2) on grounds other than dilution by blurring or dilution by tarnishment, such person may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration. The Director shall refer such application to the Trademark Trial and Appeal Board which shall give notice thereof to the registrant. If it is found after a hearing before the Board that the registrant is not entitled to registration, or that the mark has been abandoned, the registration shall be canceled by the Director. However, no final judgment shall be entered in favor of an applicant under [section 1051(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/b&num=0&edition=prelim) before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to [section 1057(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1057/c&num=0&edition=prelim).
+(2) on grounds other than dilution by blurring or dilution by tarnishment,
+such person may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration. The Director shall refer such application to the Trademark Trial and Appeal Board which shall give notice thereof to the registrant. If it is found after a hearing before the Board that the registrant is not entitled to registration, or that the mark has been abandoned, the registration shall be canceled by the Director. However, no final judgment shall be entered in favor of an applicant under [section 1051(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/b&num=0&edition=prelim) before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to [section 1057(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1057/c&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1550,13 +1553,7 @@ Amendment by Pub. L. 85–609 as subject to Reorganization Plan No. 5 of 1950, s
 
 <a id="section-1114"></a>
 ## § 1114. Remedies; infringement; innocent infringement by printers and publishers
-(1) Any person who shall, without the consent of the registrant—
-
-  (a) use in commerce any reproduction, counterfeit, copy, or colorable imitation of a registered mark in connection with the sale, offering for sale, distribution, or advertising of any goods or services on or in connection with which such use is likely to cause confusion, or to cause mistake, or to deceive; or
-
-  (b) reproduce, counterfeit, copy, or colorably imitate a registered mark and apply such reproduction, counterfeit, copy, or colorable imitation to labels, signs, prints, packages, wrappers, receptacles or advertisements intended to be used in commerce upon or in connection with the sale, offering for sale, distribution, or advertising of goods or services on or in connection with which such use is likely to cause confusion, or to cause mistake, or to deceive,
-  shall be liable in a civil action by the registrant for the remedies hereinafter provided. Under subsection (b) hereof, the registrant shall not be entitled to recover profits or damages unless the acts have been committed with knowledge that such imitation is intended to be used to cause confusion, or to cause mistake, or to deceive.
-  As used in this paragraph, the term “any person” includes the United States, all agencies and instrumentalities thereof, and all individuals, firms, corporations, or other persons acting for the United States and with the authorization and consent of the United States, and any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. The United States, all agencies and instrumentalities thereof, and all individuals, firms, corporations, other persons acting for the United States and with the authorization and consent of the United States, and any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
+(1) Any person who shall, without the consent of the registrant— (a) use in commerce any reproduction, counterfeit, copy, or colorable imitation of a registered mark in connection with the sale, offering for sale, distribution, or advertising of any goods or services on or in connection with which such use is likely to cause confusion, or to cause mistake, or to deceive; or (b) reproduce, counterfeit, copy, or colorably imitate a registered mark and apply such reproduction, counterfeit, copy, or colorable imitation to labels, signs, prints, packages, wrappers, receptacles or advertisements intended to be used in commerce upon or in connection with the sale, offering for sale, distribution, or advertising of goods or services on or in connection with which such use is likely to cause confusion, or to cause mistake, or to deceive, shall be liable in a civil action by the registrant for the remedies hereinafter provided. Under subsection (b) hereof, the registrant shall not be entitled to recover profits or damages unless the acts have been committed with knowledge that such imitation is intended to be used to cause confusion, or to cause mistake, or to deceive. As used in this paragraph, the term “any person” includes the United States, all agencies and instrumentalities thereof, and all individuals, firms, corporations, or other persons acting for the United States and with the authorization and consent of the United States, and any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. The United States, all agencies and instrumentalities thereof, and all individuals, firms, corporations, other persons acting for the United States and with the authorization and consent of the United States, and any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
 (2) Notwithstanding any other provision of this chapter, the remedies given to the owner of a right infringed under this chapter or to a person bringing an action under section 1125(a) or (d) of this title shall be limited as follows:
 
@@ -2462,61 +2459,6 @@ For transfer of functions of other officers, employees, and agencies of Departme
 ## § 1127. Construction and definitions; intent of chapter
 
 In the construction of this chapter, unless the contrary is plainly apparent from the context—
-The United States includes and embraces all territory which is under its jurisdiction and control.
-The word “commerce” means all commerce which may lawfully be regulated by Congress.
-The term “principal register” refers to the register provided for by sections 1051 to 1072 of this title, and the term “supplemental register” refers to the register provided for by sections 1091 to 1096 of this title.
-The term “person” and any other word or term used to designate the applicant or other entitled to a benefit or privilege or rendered liable under the provisions of this chapter includes a juristic person as well as a natural person. The term “juristic person” includes a firm, corporation, union, association, or other organization capable of suing and being sued in a court of law.
-The term “person” also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States. The United States, any agency or instrumentality thereof, and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
-The term “person” also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
-The terms “applicant” and “registrant” embrace the legal representatives, predecessors, successors and assigns of such applicant or registrant.
-The term “Director” means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
-The term “related company” means any person whose use of a mark is controlled by the owner of the mark with respect to the nature and quality of the goods or services on or in connection with which the mark is used.
-The terms “trade name” and “commercial name” mean any name used by a person to identify his or her business or vocation.
-The term “trademark” includes any word, name, symbol, or device, or any combination thereof—
-
-(1) used by a person, or
-
-(2) which a person has a bona fide intention to use in commerce and applies to register on the principal register established by this chapter, to identify and distinguish his or her goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown. The term “service mark” means any word, name, symbol, or device, or any combination thereof—
-
-  (1) used by a person, or
-
-  (2) which a person has a bona fide intention to use in commerce and applies to register on the principal register established by this chapter,
-  to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names, and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor.
-  The term “certification mark” means any word, name, symbol, or device, or any combination thereof—
-
-  (1) used by a person other than its owner, or
-
-  (2) which its owner has a bona fide intention to permit a person other than the owner to use in commerce and files an application to register on the principal register established by this chapter,
-  to certify regional or other origin, material, mode of manufacture, quality, accuracy, or other characteristics of such person’s goods or services or that the work or labor on the goods or services was performed by members of a union or other organization.
-  The term “collective mark” means a trademark or service mark—
-
-  (1) used by the members of a cooperative, an association, or other collective group or organization, or
-
-  (2) which such cooperative, association, or other collective group or organization has a bona fide intention to use in commerce and applies to register on the principal register established by this chapter,
-  and includes marks indicating membership in a union, an association, or other organization.
-  The term “mark” includes any trademark, service mark, collective mark, or certification mark.
-  The term “use in commerce” means the bona fide use of a mark in the ordinary course of trade, and not made merely to reserve a right in a mark. For purposes of this chapter, a mark shall be deemed to be in use in commerce—
-
-  (1) on goods when—
-
-    (A) it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto, or if the nature of the goods makes such placement impracticable, then on documents associated with the goods or their sale, and
-
-    (B) the goods are sold or transported in commerce, and
-
-  (2) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services.
-  A mark shall be deemed to be “abandoned” if either of the following occurs:
-
-  (1) When its use has been discontinued with intent not to resume such use. Intent not to resume may be inferred from circumstances. Nonuse for 3 consecutive years shall be prima facie evidence of abandonment. “Use” of a mark means the bona fide use of such mark made in the ordinary course of trade, and not made merely to reserve a right in a mark.
-
-  (2) When any course of conduct of the owner, including acts of omission as well as commission, causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lose its significance as a mark. Purchaser motivation shall not be a test for determining abandonment under this paragraph.
-  The term “colorable imitation” includes any mark which so resembles a registered mark as to be likely to cause confusion or mistake or to deceive.
-  The term “registered mark” means a mark registered in the United States Patent and Trademark Office under this chapter or under the Act of March 3, 1881, or the Act of February 20, 1905, or the Act of March 19, 1920. The phrase “marks registered in the Patent and Trademark Office” means registered marks.
-  The term “Act of March 3, 1881”, “Act of February 20, 1905”, or “Act of March 19, 1920”, means the respective Act as amended.
-  A “counterfeit” is a spurious mark which is identical with, or substantially indistinguishable from, a registered mark.
-  The term “domain name” means any alphanumeric designation which is registered with or assigned by any domain name registrar, domain name registry, or other domain name registration authority as part of an electronic address on the Internet.
-  The term “Internet” has the meaning given that term in [section 230(f)(1) of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section230/f/1&num=0&edition=prelim).
-  Words used in the singular include the plural and vice versa.
-  The intent of this chapter is to regulate commerce within the control of Congress by making actionable the deceptive and misleading use of marks in such commerce; to protect registered marks used in such commerce from interference by State, or territorial legislation; to protect persons engaged in such commerce against unfair competition; to prevent fraud and deception in such commerce by the use of reproductions, copies, counterfeits, or colorable imitations of registered marks; and to provide rights and remedies stipulated by treaties and conventions respecting trademarks, trade names, and unfair competition entered into between the United States and foreign nations.
 
 ### Statutory Notes
 

@@ -143,7 +143,7 @@ Pub. L. 96–92, § 23, Oct. 29, 1979, 93 Stat. 710, authorized President, durin
 ### Statutory Notes
 
 #### References in Text
-The Atomic Energy Act of 1954, referred to in subsec. (b)(5), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (b)(5), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 
 The Nuclear Non-Proliferation Act of 1978, referred to in subsec. (b)(5), is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201) and Tables.
 
@@ -285,7 +285,7 @@ Section was enacted as part of the Export Enhancement Act of 1988 and as part of
 ## § 3311. Reporting requirements
 **(a) Texts of agreements to be transmitted to Congress; secret agreements to be transmitted to Senate Foreign Relations Committee and House Foreign Affairs Committee** The Secretary of State shall transmit to the Congress the text of any agreement to which the Institute is a party. However, any such agreement the immediate public disclosure of which would, in the opinion of the President, be prejudicial to the national security of the United States shall not be so transmitted to the Congress but shall be transmitted to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives under an appropriate injunction of secrecy to be removed only upon due notice from the President.
 
-**(b) Agreements** For purposes of subsection (a) of this section, the term “agreement” includes—
+**(b) Agreements** For purposes of subsection (a), the term “agreement” includes—
 
 (1) any agreement entered into between the Institute and the governing authorities on Taiwan or the instrumentality established by Taiwan; and
 

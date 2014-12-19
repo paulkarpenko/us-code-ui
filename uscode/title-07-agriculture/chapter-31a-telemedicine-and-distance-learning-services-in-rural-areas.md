@@ -20,7 +20,7 @@ For termination of section by section 1(b) of Pub. L. 102–551, see Termination
 A prior section 950aaa, Pub. L. 101–624, title XXIII, § 2331, Nov. 28, 1990, 104 Stat. 4017, provided purposes of chapter, prior to the general amendment of this chapter by Pub. L. 104–127.
 
 #### Termination of Chapter
-Pub. L. 102–551, § 1(b), Oct. 28, 1992, 106 Stat. 4100, as amended by Pub. L. 107–171, title VI, § 6203(b), May 13, 2002, 116 Stat. 421; Pub. L. 110–234, title VI, § 6201(c), May 22, 2008, 122 Stat. 1206, and Pub. L. 110–246, § 4(a), title VI, § 6201(c), June 18, 2008, 122 Stat. 1664, 1967, provided that: “Notwithstanding any other provision of law, chapter 1 of subtitle D of title XXIII of the Food, Agriculture, Conservation and Trade Act of 1990 ([7 U.S.C. 950aaa](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa) et seq.), including the amendments made by this section [enacting [section 950aaa–5 of this title](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa-5) and amending [section 950aaa–4 of this title](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa-4)], shall be effective until September 30, 2012 [extended to Sept. 30, 2013, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701)].”
+Pub. L. 102–551, § 1(b), Oct. 28, 1992, 106 Stat. 4100, as amended by Pub. L. 107–171, title VI, § 6203(b), May 13, 2002, 116 Stat. 421; Pub. L. 110–234, title VI, § 6201(c), May 22, 2008, 122 Stat. 1206, and Pub. L. 110–246, § 4(a), title VI, § 6201(c), June 18, 2008, 122 Stat. 1664, 1967; Pub. L. 113–79, title VI, § 6201(b), Feb. 7, 2014, 128 Stat. 856, provided that: “Notwithstanding any other provision of law, chapter 1 of subtitle D of title XXIII of the Food, Agriculture, Conservation and Trade Act of 1990 ([7 U.S.C. 950aaa](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa) et seq.), including the amendments made by this section [enacting [section 950aaa–5 of this title](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa-5) and amending [section 950aaa–4 of this title](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa-4)], shall be effective until September 30, 2018.”
 
 
 <a id="section-950aaa-1"></a>
@@ -69,9 +69,9 @@ A prior section 950aaa–1, Pub. L. 101–624, title XXIII, § 2332, Nov. 28, 19
 
     (i) make the funds provided available to entities that qualify under paragraph (1) for projects satisfying the requirements of this chapter;
 
-    (ii) use the funds provided to acquire, install, improve, or extend a system referred to in subsection (a) of this section; or
+    (ii) use the funds provided to acquire, install, improve, or extend a system referred to in subsection (a); or
 
-    (iii) use the funds provided to install, improve, or extend a facility referred to in subsection (a) of this section.
+    (iii) use the funds provided to install, improve, or extend a facility referred to in subsection (a).
 
   (B) *Limitations* — A borrower of an electric or telecommunications loan under the Rural Electrification Act of 1936 [[7 U.S.C. 901](./chapter-031-rural-electrification-and-telephone-service.md#section-901) et seq.] shall—
 
@@ -107,7 +107,7 @@ A prior section 950aaa–1, Pub. L. 101–624, title XXIII, § 2332, Nov. 28, 19
 
 (11) service to the greatest practical number of persons within the general geographic area covered by the financial assistance;
 
-(12) conformity with the State strategic plan as prepared under [section 2009c of this title](./chapter-050-agricultural-credit.md#section-2009c); and
+(12) conformity with the State strategic plan as prepared under [section 2009c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009c&num=0&edition=prelim); and
 
 (13) other factors determined appropriate by the Secretary.
 
@@ -123,7 +123,7 @@ A prior section 950aaa–1, Pub. L. 101–624, title XXIII, § 2332, Nov. 28, 19
 
 (4) other uses that are consistent with this chapter, as determined by the Secretary.
 
-**(g) Salaries and expenses** Notwithstanding subsection (f) of this section, financial assistance provided under this chapter shall not be used for paying salaries or administrative expenses.
+**(g) Salaries and expenses** Notwithstanding subsection (f), financial assistance provided under this chapter shall not be used for paying salaries or administrative expenses.
 
 **(h) Expediting coordinated telephone loans**
 
@@ -159,7 +159,7 @@ A prior section 950aaa–2, Pub. L. 101–624, title XXIII, § 2333, Nov. 28, 19
 2008—Subsec. (c)(1)(C). Pub. L. 110–246, § 6201(a), added subpar. (C).
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).
 
 
 <a id="section-950aaa-3"></a>
@@ -205,7 +205,7 @@ Pub. L. 101–624, title XXIII, § 2385, Nov. 28, 1990, 104 Stat. 4051, provided
 <a id="section-950aaa-5"></a>
 ## § 950aaa–5. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this chapter $100,000,000 for each of fiscal years 1996 through 2012.
+There are authorized to be appropriated to carry out this chapter $75,000,000 for each of fiscal years 2014 through 2018.
 
 ### Statutory Notes
 
@@ -219,9 +219,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 950aaa–5, Pub. L. 101–624, title XXIII, § 2335A, as added Pub. L. 102–551, § 1(a), Oct. 28, 1992, 106 Stat. 4098; amended Pub. L. 103–354, title II, § 235(b)(4)(C), Oct. 13, 1994, 108 Stat. 3222, related to special health care and distance learning program for qualified service areas, prior to the general amendment of this chapter by Pub. L. 104–127.
 
 #### Amendments
+2014—Pub. L. 113–79 substituted “$75,000,000 for each of fiscal years 2014 through 2018” for “$100,000,000 for each of fiscal years 1996 through 2012”.
+
 2008—Pub. L. 110–246, § 6201(b), substituted “2012” for “2007”.
 
 2002—Pub. L. 107–171 substituted “2007” for “2002”.
 
 #### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim).

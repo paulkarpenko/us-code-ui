@@ -52,7 +52,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 <a id="section-4342"></a>
 ## § 4342. Limitations on disposition of personal prop­erty
-**(a) General rule** Except as authorized under subsection (b) of this section, employees or members of their family shall not sell, assign, or otherwise dispose of personal property within a foreign country which was imported into or purchased within that foreign country and which, by virtue of the official status of the employee, was exempt from import limitation, customs duties, or taxes which would otherwise apply.
+**(a) General rule** Except as authorized under subsection (b), employees or members of their family shall not sell, assign, or otherwise dispose of personal property within a foreign country which was imported into or purchased within that foreign country and which, by virtue of the official status of the employee, was exempt from import limitation, customs duties, or taxes which would otherwise apply.
 
 **(b) Approval by chief of mission** The chief of mission to a foreign country, or a designee of such chief of mission, is authorized to approve within that foreign country sales, assignment, or other dispositions of property by employees under the chief of mission’s jurisdiction (as described in [section 3927 of this title](./chapter-052-foreign-service.md#section-3927)) to the extent that such sale, assignment, or other disposition is in accordance with regulations and policies, rules, and procedures issued pursuant to [section 4343 of this title](./chapter-53a-disposition-of-personal-property-abroad.md#section-4343).
 

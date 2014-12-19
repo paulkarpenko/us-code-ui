@@ -2,59 +2,214 @@
 title: 16
 chapter: '84'
 heading: HEALTHY FOREST RESTORATION
-section_count: 28
+section_count: 31
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
 <a id="section-6501"></a>
-## § 6501. Funding
-**(a) In general** Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make available $9,750,000 for each of fiscal years 2009 through 2012 to carry out this subchapter.
+## § 6501. Administrative review
+**(a) In general** Except as provided in subsection (d), a project described in subsection (b) that is conducted in accordance with [section 6591a(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6591a/d&num=0&edition=prelim) may be—
 
-**(b) Duration of availability** The funds made available under subsection (a) shall remain available until expended.
+(1) considered an action categorically excluded from the requirements of Public Law 91–190 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); and
+
+(2) exempt from the special administrative review process under [section 6515 of this title](./chapter-084-healthy-forest-restoration.md#section-6515).
+
+**(b) Collaborative restoration project**
+
+(1) **In general** — A project referred to in subsection (a) is a project to carry out forest restoration treatments that—
+
+  (A) maximizes the retention of old-growth and large trees, as appropriate for the forest type, to the extent that the trees promote stands that are resilient to insects and disease;
+
+  (B) considers the best available scientific information to maintain or restore the ecological integrity, including maintaining or restoring structure, function, composition, and connectivity; and
+
+  (C) is developed and implemented through a collaborative process that—
+
+    (i) includes multiple interested persons representing diverse interests; and
+
+    (ii)
+
+      (I) is transparent and nonexclusive; or
+
+      (II) meets the requirements for a resource advisory committee under subsections (c) through (f) of [section 7125 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7125).
+
+(2) **Inclusion** — A project under this subsection may carry out part of a proposal that complies with the eligibility requirements of the Collaborative Forest Landscape Restoration Program under [section 7303(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7303/b&num=0&edition=prelim).
+
+**(c) Limitations**
+
+(1) **Project size** — A project under this section may not exceed 3000 acres.
+
+(2) **Location** — A project under this section shall be limited to areas—
+
+  (A) in the wildland-urban interface; or
+
+  (B) Condition Classes 2 or 3 in Fire Regime Groups I, II, or III, outside the wildland-urban interface.
+
+(3) **Roads**
+
+  (A) *Permanent roads*
+
+    (i) *Prohibition on establishment* — A project under this section shall not include the establishment of permanent roads.
+
+    (ii) *Existing roads* — The Secretary may carry out necessary maintenance and repairs on existing permanent roads for the purposes of this section.
+
+  (B) *Temporary roads* — The Secretary shall decommission any temporary road constructed under a project under this section not later than 3 years after the date on which the project is completed.
+
+**(d) Exclusions** This section does not apply to—
+
+(1) a component of the National Wilderness Preservation System;
+
+(2) any Federal land on which, by Act of Congress or Presidential proclamation, the removal of vegetation is restricted or prohibited;
+
+(3) a congressionally designated wilderness study area; or
+
+(4) an area in which activities under subsection (a) would be inconsistent with the applicable land and resource management plan.
+
+**(e) Forest management plans** All projects and activities carried out under this section shall be consistent with the land and resource management plan established under [section 1604 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1604) for the unit of the National Forest System containing the projects and activities.
+
+**(f) Public notice and scoping** The Secretary shall conduct public notice and scoping for any project or action proposed in accordance with this section.
+
+**(g) Accountability**
+
+(1) **In general** — The Secretary shall prepare an annual report on the use of categorical exclusions under this section that includes a description of all acres (or other appropriate unit) treated through projects carried out under this section.
+
+(2) **Submission** — Not later than 1 year after February 7, 2014, and each year thereafter, the Secretary shall submit the reports required under paragraph (1) to—
+
+  (A) the Committee on Agriculture, Nutrition, and Forestry of the Senate;
+
+  (B) the Committee on Environment and Public Works of the Senate;
+
+  (C) the Committee on Agriculture of the House of Representatives;
+
+  (D) the Committee on Natural Resources of the House of Representatives; and
+
+  (E) the Government Accountability Office.
 
 ### Statutory Notes
 
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
-
-#### Amendments
-2008—Pub. L. 110–246, § 8205(c), amended section generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter—
-
-“(1) $25,000,000 for fiscal year 2004; and
-
-“(2) such sums as are necessary for each of fiscal years 2005 through 2008.”
-
-#### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+#### References in Text
+Public Law 91–190, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-6502"></a>
-## § 6502. Forest stands inventory and monitoring program to improve detection of and response to environmental threats
-**(a) In general** The Secretary of Agriculture shall carry out a comprehensive program to inventory, monitor, characterize, assess, and identify forest stands (with emphasis on hardwood forest stands) and potential forest stands—
+## § 6502. Stewardship end result contracting projects
+**(a) Definitions** In this section:
 
-(1) in units of the National Forest System (other than those units created from the public domain); and
+(1) **Chief** — The term “Chief” means the Chief of the Forest Service.
 
-(2) on private forest land, with the consent of the owner of the land.
+(2) **Director** — The term “Director” means the Director of the Bureau of Land Management.
 
-**(b) Issues to be addressed** In carrying out the program, the Secretary shall address issues including—
+**(b) Projects** The Chief and the Director, via agreement or contract as appropriate, may enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve land management goals for the national forests and the public lands that meet local and rural community needs.
 
-(1) early detection, identification, and assessment of environmental threats (including insect, disease, invasive species, fire, and weather-related risks and other episodic events);
+**(c) Land management goals** The land management goals of a project under subsection (b) may include any of the following:
 
-(2) loss or degradation of forests;
+(1) Road and trail maintenance or obliteration to restore or maintain water quality.
 
-(3) degradation of the quality forest stands caused by inadequate forest regeneration practices;
+(2) Soil productivity, habitat for wildlife and fisheries, or other resource values.
 
-(4) quantification of carbon uptake rates; and
+(3) Setting of prescribed fires to improve the composition, structure, condition, and health of stands or to improve wildlife habitat.
 
-(5) management practices that focus on preventing further forest degradation.
+(4) Removing vegetation or other activities to promote healthy forest stands, reduce fire hazards, or achieve other land management objectives.
 
-**(c) Early warning system** In carrying out the program, the Secretary shall develop a comprehensive early warning system for potential catastrophic environmental threats to forests to increase the likelihood that forest managers will be able to—
+(5) Watershed restoration and maintenance.
 
-(1) isolate and treat a threat before the threat gets out of control; and
+(6) Restoration and maintenance of wildlife and fish.
 
-(2) prevent epidemics, such as the American chestnut blight in the first half of the twentieth century, that could be environmentally and economically devastating to forests.
+(7) Control of noxious and exotic weeds and reestablishing native plant species.
 
-**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2004 through 2008.
+**(d) Agreements or contracts**
+
+(1) **Procurement procedure** — A source for performance of an agreement or contract under subsection (b) shall be selected on a best-value basis, including consideration of source under other public and private agreements or contracts.
+
+(2) **Contract for sale of property** — A contract entered into under this section may, at the discretion of the Secretary of Agriculture, be considered a contract for the sale of property under such terms as the Secretary may prescribe without regard to any other provision of law.
+
+(3) **Term**
+
+  (A) *In general* — Except as provided in subparagraph (B), the Chief and the Director may enter into a contract under subsection (b) in accordance with [section 3903 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3903&num=0&edition=prelim).
+
+  (B) *Maximum* — The period of the contract under subsection (b) may exceed 5 years but may not exceed 10 years.
+
+(4) **Offsets**
+
+  (A) *In general* — The Chief and the Director may apply the value of timber or other forest products removed as an offset against the cost of services received under the agreement or contract described in subsection (b).
+
+  (B) *Methods of appraisal* — The value of timber or other forest products used as an offset under subparagraph (A)—
+
+    (i) shall be determined using appropriate methods of appraisal commensurate with the quantity of products to be removed; and
+
+    (ii) may—
+
+      (I) be determined using a unit of measure appropriate to the contracts; and
+
+      (II) may include valuing products on a per-acre basis.
+
+(5) **Relation to other laws** — Notwithstanding subsections (d) and (g) of [section 472a of this title](./chapter-002-national-forests.md#section-472a), the Chief may enter into an agreement or contract under subsection (b).
+
+(6) **Contracting officer** — Notwithstanding any other provision of law, the Secretary or the Secretary of the Interior may determine the appropriate contracting officer to enter into and administer an agreement or contract under subsection (b).
+
+(7) **Fire liability provisions** — Not later than 90 days after February 7, 2014, the Chief and the Director shall issue for use in all contracts and agreements under this section fire liability provisions that are in substantially the same form as the fire liability provisions contained in—
+
+  (A) integrated resource timber contracts, as described in the Forest Service contract numbered 2400–13, part H, section H.4; and
+
+  (B) timber sale contracts conducted pursuant to [section 472a of this title](./chapter-002-national-forests.md#section-472a).
+
+**(e) Receipts**
+
+(1) **In general** — The Chief and the Director may collect monies from an agreement or contract under subsection (b) if the collection is a secondary objective of negotiating the contract that will best achieve the purposes of this section.
+
+(2) **Use** — Monies from an agreement or contract under subsection (b)—
+
+  (A) may be retained by the Chief and the Director; and
+
+  (B) shall be available for expenditure without further appropriation at the project site from which the monies are collected or at another project site.
+
+(3) **Relation to other laws**
+
+  (A) *In general* — Notwithstanding any other provision of law, the value of services received by the Chief or the Director under a stewardship contract project conducted under this section, and any payments made or resources provided by the contractor, Chief, or Director shall not be considered monies received from the National Forest System or the public lands.
+
+  (B) *Knutson-Vanderberg 11 So in original. Probably should be “Knutson-Vandenberg”. Act* — The Act of June 9, 1930 (commonly known as the “Knutson-Vanderberg 1 Act”) ([16 U.S.C. 576](./chapter-003-forests-forest-service-reforestation-management.md#section-576) et seq.) shall not apply to any agreement or contract under subsection (b).
+
+**(f) Costs of removal** Notwithstanding the fact that a contractor did not harvest the timber, the Chief may collect deposits from a contractor covering the costs of removal of timber or other forest products under—
+
+(1) [section 490 of this title](./chapter-002-national-forests.md#section-490); and
+
+(2) [section 498 of this title](./chapter-002-national-forests.md#section-498).
+
+**(g) Performance and payment guarantees**
+
+(1) **In general** — The Chief and the Director may require performance and payment bonds under sections 28.103–2 and 28.103–3 of the Federal Acquisition Regulation, in an amount that the contracting officer considers sufficient to protect the investment in receipts by the Federal Government generated by the contractor from the estimated value of the forest products to be removed under a contract under subsection (b).
+
+(2) **Excess offset value** — If the offset value of the forest products exceeds the value of the resource improvement treatments, the Chief and the Director may—
+
+  (A) collect any residual receipts under the Act of June 9, 1930 (commonly known as the “Knutson-Vanderberg 1 Act”) ([16 U.S.C. 576](./chapter-003-forests-forest-service-reforestation-management.md#section-576) et seq.); and
+
+  (B) apply the excess to other authorized stewardship projects.
+
+**(h) Monitoring and evaluation**
+
+(1) **In general** — The Chief and the Director shall establish a multiparty monitoring and evaluation process that accesses the stewardship contracting projects conducted under this section.
+
+(2) **Participants** — Other than the Chief and Director, participants in the process described in paragraph (1) may include—
+
+  (A) any cooperating governmental agencies, including tribal governments; and
+
+  (B) any other interested groups or individuals.
+
+**(i) Reporting** Not later than 1 year after February 7, 2014, and annually thereafter, the Chief and the Director shall report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on—
+
+(1) the status of development, execution, and administration of agreements or contracts under subsection (b);
+
+(2) the specific accomplishments that have resulted; and
+
+(3) the role of local communities in the development of agreements or contract plans.
+
+### Statutory Notes
+
+#### References in Text
+The Act of June 9, 1930, referred to in subsecs. (e)(3)(B) and (g)(2)(A), is act June 9, 1930, ch. 416, 46 Stat. 527, popularly known as the Knutson-Vandenberg Act, which is classified generally to sections 576, 576a, and 576b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 576 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-576) and Tables.
+
+[Section 490 of this title](./chapter-002-national-forests.md#section-490), referred to in subsec. (f)(1), was in the original “the Act of August 11, 1916 ([16 U.S.C. 490](./chapter-002-national-forests.md#section-490))”, and was translated as referring to the undesignated provisions appearing in act Aug. 11, 1916, ch. 313, 39 Stat. 462, which are classified to [section 490 of this title](./chapter-002-national-forests.md#section-490).
+
+[Section 498 of this title](./chapter-002-national-forests.md#section-498), referred to in subsec. (f)(2), was in the original “the Act of June 30, 1914 ([16 U.S.C. 498](./chapter-002-national-forests.md#section-498))”, and was translated as referring to the undesignated provisions appearing in act June 30, 1914, ch. 131, 38 Stat. 430, which are classified to [section 498 of this title](./chapter-002-national-forests.md#section-498).
 
 
 <a id="section-6511"></a>
@@ -509,7 +664,9 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is
 ### Statutory Notes
 
 #### Forest Service Pre-Decisional Objection Process
-Pub. L. 112–74, div. E, title IV, § 428, Dec. 23, 2011, 125 Stat. 1046, provided that: “Hereafter, upon issuance of final regulations, the Secretary of Agriculture, acting through the Chief of the Forest Service, shall apply section 105(a) of the Healthy Forests Restoration Act of 2003 ([16 U.S.C. 6515(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6515/a&num=0&edition=prelim)), providing for a pre-decisional objection process, to proposed actions of the Forest Service concerning projects and activities implementing land and resource management plans developed under the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.), and documented with a Record of Decision or Decision Notice, in lieu of subsections (c), (d), and (e) of section 322 of Public Law 102–381 ([16 U.S.C. 1612](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1612) note), providing for an administrative appeal process: Provided, That if the Chief of the Forest Service determines an emergency situation exists for which immediate implementation of a proposed action is necessary, the proposed action shall not be subject to the pre-decisional objection process, and implementation shall begin immediately after the Forest Service gives notice of the final decision for the proposed action: Provided further, That this section shall not apply to an authorized hazardous fuel reduction project under title I of the Healthy Forests Restoration Act of 2003 ([16 U.S.C. 6501](./chapter-084-healthy-forest-restoration.md#section-6501) et seq.) [probably should be [16 U.S.C. 6511](./chapter-084-healthy-forest-restoration.md#section-6511) et seq.].”
+Pub. L. 113–79, title VIII, § 8006(b), Feb. 7, 2014, 128 Stat. 913, provided that: “Section 428 of division E of the Consolidated Appropriations Act, 2012 ([16 U.S.C. 6515](./chapter-084-healthy-forest-restoration.md#section-6515) note; Public Law 112–74) shall not apply to any project or activity implementing a land and resource management plan developed under section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1604](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1604)) that is categorically excluded from documentation in an environmental assessment or an environmental impact statement under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).”
+
+Pub. L. 112–74, div. E, title IV, § 428, Dec. 23, 2011, 125 Stat. 1046, provided that: “Hereafter, upon issuance of final regulations, the Secretary of Agriculture, acting through the Chief of the Forest Service, shall apply section 105(a) of the Healthy Forests Restoration Act of 2003 ([16 U.S.C. 6515(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6515/a&num=0&edition=prelim)), providing for a pre-decisional objection process, to proposed actions of the Forest Service concerning projects and activities implementing land and resource management plans developed under the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.), and documented with a Record of Decision or Decision Notice, in lieu of subsections (c), (d), and (e) of [former] section 322 of Public Law 102–381 ([former] [16 U.S.C. 1612](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1612) note), providing for an administrative appeal process: Provided, That if the Chief of the Forest Service determines an emergency situation exists for which immediate implementation of a proposed action is necessary, the proposed action shall not be subject to the pre-decisional objection process, and implementation shall begin immediately after the Forest Service gives notice of the final decision for the proposed action: Provided further, That this section shall not apply to an authorized hazardous fuel reduction project under title I of the Healthy Forests Restoration Act of 2003 ([16 U.S.C. 6501](./chapter-084-healthy-forest-restoration.md#section-6501) et seq.) [probably should be [16 U.S.C. 6511](./chapter-084-healthy-forest-restoration.md#section-6511) et seq.].”
 
 
 <a id="section-6518"></a>
@@ -593,60 +750,15 @@ There is authorized to be appropriated $760,000,000 for each fiscal year to carr
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsec. (b), was in the original “this title”, meaning title III of Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1902, which enacted this subchapter and [section 2103b of this title](./chapter-041-cooperative-forestry-assistance.md#section-2103b). For complete classification of title III to the Code, see Tables.
+This subchapter, referred to in subsec. (b), was in the original “this title”, meaning title III of Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1902, which enacted this subchapter and former [section 2103b of this title](./chapter-041-cooperative-forestry-assistance.md#section-2103b). For complete classification of title III to the Code, see Tables.
 
 
 <a id="section-6552"></a>
-## § 6552. Tribal watershed forestry assistance
-**(a) In general** The Secretary of Agriculture (referred to in this section as the “Secretary”), acting through the Chief of the Forest Service, shall provide technical, financial, and related assistance to Indian tribes for the purpose of expanding tribal stewardship capacities and activities through tribal forestry best-management practices and other means at the tribal level to address watershed issues on land under the jurisdiction of or administered by the Indian tribes.
+## § 6552. Repealed. Pub. L. 113–79, title VIII, § 8005, Feb. 7, 2014, 128 Stat. 913
 
-**(b) Technical assistance to protect water quality**
+### Statutory Notes
 
-(1) **In general** — The Secretary, in cooperation with Indian tribes, shall develop a program to provide technical assistance to protect water quality, as described in paragraph (2).
-
-(2) **Purpose of program** — The program under this subsection shall be designed—
-
-  (A) to build and strengthen watershed partnerships that focus on forested landscapes at the State, regional, tribal, and local levels;
-
-  (B) to provide tribal forestry best-management practices and water quality technical assistance directly to Indian tribes;
-
-  (C) to provide technical guidance to tribal land managers and policy makers for water quality protection through forest management;
-
-  (D) to complement tribal efforts to protect water quality and provide enhanced opportunities for consultation and cooperation among Federal agencies and tribal entities charged with responsibility for water and watershed management; and
-
-  (E) to provide enhanced forest resource data and support for improved implementation and monitoring of tribal forestry best-management practices.
-
-**(c) Watershed forestry program**
-
-(1) **In general** — The Secretary shall establish a watershed forestry program in cooperation with Indian tribes.
-
-(2) **Programs and projects** — Funds or other support provided under the program shall be made available for tribal forestry best-management practices programs and watershed forestry projects.
-
-(3) **Annual awards** — The Secretary shall annually make awards to Indian tribes to carry out this subsection.
-
-(4) **Project elements and objectives** — A watershed forestry project shall accomplish critical forest stewardship, watershed protection, and restoration needs within land under the jurisdiction of or administered by an Indian tribe by demonstrating the value of trees and forests to watershed health and condition through—
-
-  (A) the use of trees as solutions to water quality problems;
-
-  (B) application of and dissemination of monitoring information on forestry best-management practices relating to watershed forestry;
-
-  (C) watershed-scale forest management activities and conservation planning;
-
-  (D) the restoration of wetland and stream-side forests and the establishment of riparian vegetative buffers; and
-
-  (E) tribal-based planning, involvement, and action through State, tribal, local, and nonprofit partnerships.
-
-(5) **Prioritization** — An Indian tribe that participates in the program under this subsection shall prioritize watersheds in land under the jurisdiction of or administered by the Indian tribe to target watershed forestry projects funded under this subsection.
-
-(6) **Watershed forester** — The Secretary may provide to Indian tribes under this section financial and technical assistance to establish a position of tribal forester to lead tribal programs and coordinate small watershed-level projects.
-
-**(d) Distribution** The Secretary shall devote—
-
-(1) at least 75 percent of the funds made available for a fiscal year under subsection (e) to the program under subsection (c); and
-
-(2) the remainder of the funds to deliver technical assistance, education, and planning in the field to Indian tribes.
-
-**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $2,500,000 for each of fiscal years 2004 through 2008.
+Section, Pub. L. 108–148, title III, § 303, Dec. 3, 2003, 117 Stat. 1905, provided for tribal watershed forestry assistance and the development of water quality and watershed forestry programs.
 
 
 <a id="section-6553"></a>
@@ -933,13 +1045,29 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
   (B) *Repooling* — The Secretary may use any funds allocated under clause (i) or (ii) of subparagraph (A) that are not obligated by April 1 of the fiscal year for which the funds are made available to carry out a different method of enrollment during that fiscal year.
 
-(3) **Acreage owned by Indian tribes** — In the case of acreage owned by an Indian tribe, the Secretary may enroll acreage into the healthy forests reserve program through the use of—
+(3) **Acreage owned by Indian tribes**
 
-  (A) a 30-year contract (the value of which shall be equivalent to the value of a 30-year easement);
+  (A) *Definition of acreage owned by Indian tribes* — In this paragraph, the term “acreage owned by Indian tribes” includes—
 
-  (B) a 10-year cost-share agreement; or
+    (i) land that is held in trust by the United States for Indian tribes or individual Indians;
 
-  (C) any combination of the options described in subparagraphs (A) and (B).
+    (ii) land, the title to which is held by Indian tribes or individual Indians subject to Federal restrictions against alienation or encumbrance;
+
+    (iii) land that is subject to rights of use, occupancy, and benefit of certain Indian tribes;
+
+    (iv) land that is held in fee title by an Indian tribe; or
+
+    (v) land that is owned by a native corporation formed under [section 477 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section477&num=0&edition=prelim) or [section 1607 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1607&num=0&edition=prelim); or
+
+    (vi) a combination of 1 or more types of land described in clauses (i) through (v).
+
+  (B) *Enrollment of acreage* — In the case of acreage owned by an Indian tribe, the Secretary may enroll acreage into the healthy forests reserve program through the use of—
+
+    (i) a 30-year contract (the value of which shall be equivalent to the value of a 30-year easement);
+
+    (ii) a 10-year cost-share agreement; or
+
+    (iii) any combination of the options described in clauses (i) and (ii).
 
 **(f) Enrollment priority**
 
@@ -961,6 +1089,10 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2014—Subsec. (e)(3). Pub. L. 113–79, § 8203(a)(2), (3), added subpar. (A), designated existing provisions as subpar. (B) and inserted heading, and redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (B) and realigned margins.
+
+Subsec. (e)(3)(C). Pub. L. 113–79, § 8203(a)(1), substituted “clauses (i) and (ii)” for “subparagraphs (A) and (B)”.
+
 2008—Subsecs. (e) to (g). Pub. L. 110–246, § 8205(a), added subsec. (e), redesignated subsec. (g) as (f), and struck out former subsecs. (e) and (f) which related to maximum number of enrolled acres and methods of enrollment.
 
 #### Effective Date of 2008 Amendment
@@ -1048,3 +1180,114 @@ In carrying out this subchapter, the Secretary of Agriculture may consult with�
 (6) other State conservation agencies; and
 
 (7) nonprofit conservation organizations.
+
+
+<a id="section-6591a"></a>
+## § 6591a. Funding
+**(a) Fiscal years 2009 through 2013 11 So in original. Heading and text do not correspond.** Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make available $9,750,000 for each of fiscal years 2009 through 2012 1 to carry out this subchapter.
+
+**(b) Fiscal years 2014 through 2018** There is authorized to be appropriated to the Secretary of Agriculture to carry out this section $12,000,000 for each of fiscal years 2014 through 2018.
+
+**(c) Additional source of funds** In addition to funds appropriated pursuant to the authorization of appropriations in subsection (b) for a fiscal year, the Secretary may use such amount of the funds appropriated for that fiscal year to carry out the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590a](./chapter-3b-soil-conservation.md#section-590a) et seq.) as the Secretary determines necessary to cover the cost of technical assistance, management, and enforcement responsibilities for land enrolled in the healthy forests reserve program pursuant to subsections (a) and (b) of [section 6574 of this title](./chapter-084-healthy-forest-restoration.md#section-6574).
+
+**(d) Duration of availability** The funds made available under subsection (a) shall remain available until expended.
+
+### Statutory Notes
+
+#### References in Text
+The Soil Conservation and Domestic Allotment Act, referred to in subsec. (c), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§ 590a et seq.) of this title. For complete classification of this Act to the Code, see [section 590q of this title](./chapter-3b-soil-conservation.md#section-590q) and Tables.
+
+#### Codification
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–79, § 8203(b)(1), substituted “Fiscal years 2009 through 2013” for “In general” in heading.
+
+Subsecs. (b) to (d). Pub. L. 113–79, § 8203(b)(2), (3), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+2008—Pub. L. 110–246, § 8205(c), amended section generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter—
+
+“(1) $25,000,000 for fiscal year 2004; and
+
+“(2) such sums as are necessary for each of fiscal years 2005 through 2008.”
+
+#### Effective Date of 2008 Amendment
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+
+<a id="section-6591b"></a>
+## § 6591b. Forest stands inventory and monitoring program to improve detection of and response to environmental threats
+**(a) In general** The Secretary of Agriculture shall carry out a comprehensive program to inventory, monitor, characterize, assess, and identify forest stands (with emphasis on hardwood forest stands) and potential forest stands—
+
+(1) in units of the National Forest System (other than those units created from the public domain); and
+
+(2) on private forest land, with the consent of the owner of the land.
+
+**(b) Issues to be addressed** In carrying out the program, the Secretary shall address issues including—
+
+(1) early detection, identification, and assessment of environmental threats (including insect, disease, invasive species, fire, and weather-related risks and other episodic events);
+
+(2) loss or degradation of forests;
+
+(3) degradation of the quality forest stands caused by inadequate forest regeneration practices;
+
+(4) quantification of carbon uptake rates; and
+
+(5) management practices that focus on preventing further forest degradation.
+
+**(c) Early warning system** In carrying out the program, the Secretary shall develop a comprehensive early warning system for potential catastrophic environmental threats to forests to increase the likelihood that forest managers will be able to—
+
+(1) isolate and treat a threat before the threat gets out of control; and
+
+(2) prevent epidemics, such as the American chestnut blight in the first half of the twentieth century, that could be environmentally and economically devastating to forests.
+
+**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2004 through 2008.
+
+
+<a id="section-6591c"></a>
+## § 6591c. Designation of treatment areas
+**(a) Definition of declining forest health** In this section, the term “declining forest health” means a forest that is experiencing—
+
+(1) substantially increased tree mortality due to insect or disease infestation; or
+
+(2) dieback due to infestation or defoliation by insects or disease.
+
+**(b) Designation of treatment areas**
+
+(1) **Initial areas** — Not later than 60 days after February 7, 2014, the Secretary shall, if requested by the Governor of the State, designate as part of an insect and disease treatment program 1 or more landscape-scale areas, such as subwatersheds (sixth-level hydrologic units, according to the System of Hydrologic Unit Codes of the United States Geological Survey), in at least 1 national forest in each State that is experiencing an insect or disease epidemic.
+
+(2) **Additional areas** — After the end of the 60-day period described in paragraph (1), the Secretary may designate additional landscape-scale areas under this section as needed to address insect or disease threats.
+
+**(c) Requirements** To be designated a landscape-scale area under subsection (b), the area shall be—
+
+(1) experiencing declining forest health, based on annual forest health surveys conducted by the Secretary;
+
+(2) at risk of experiencing substantially increased tree mortality over the next 15 years due to insect or disease infestation, based on the most recent National Insect and Disease Risk Map published by the Forest Service; or
+
+(3) in an area in which the risk of hazard trees poses an imminent risk to public infrastructure, health, or safety.
+
+**(d) Treatment of areas**
+
+(1) **In general** — The Secretary may carry out priority projects on Federal land in the areas designated under subsection (b) to reduce the risk or extent of, or increase the resilience to, insect or disease infestation in the areas.
+
+(2) **Authority** — Any project under paragraph (1) for which a public notice to initiate scoping is issued on or before September 30, 2018, may be carried out in accordance with subsections (b), (c), and (d) of [section 6512 of this title](./chapter-084-healthy-forest-restoration.md#section-6512), and sections 6514, 6515, and 6516 of this title.
+
+(3) **Effect** — Projects carried out under this subsection shall be considered authorized hazardous fuel reduction projects for purposes of the authorities described in paragraph (2).
+
+(4) **Report**
+
+  (A) *In general* — In accordance with the schedule described in subparagraph (B), the Secretary shall issue 2 reports on actions taken to carry out this subsection, including—
+
+    (i) an evaluation of the progress towards project goals; and
+
+    (ii) recommendations for modifications to the projects and management treatments.
+
+  (B) *Schedule* — The Secretary shall—
+
+    (i) not earlier than September 30, 2018, issue the initial report under subparagraph (A); and
+
+    (ii) not earlier than September 30, 2024, issue the second report under that subparagraph.
+
+**(e) Tree retention** The Secretary shall carry out projects under subsection (d) in a manner that maximizes the retention of old-growth and large trees, as appropriate for the forest type, to the extent that the trees promote stands that are resilient to insects and disease.
+
+**(f) Authorization of appropriations** There is authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2014 through 2024.

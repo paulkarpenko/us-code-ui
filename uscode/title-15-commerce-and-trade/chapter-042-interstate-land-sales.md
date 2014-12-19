@@ -149,7 +149,7 @@ Pub. L. 90–448, title XIV, § 1401, Aug. 1, 1968, 82 Stat. 590, provided that:
 
     (ii) receipt of such statement has been acknowledged in writing by the purchaser or lessee.
 
-  (C) For the purpose of this paragraph, a sales operation is “intrastate in nature” if the developer is subject to the laws of the State in which the land is located, and each lot in the subdivision, other than those which are exempt under subsection (a), (b)(6), or (b)(8) of this section, is sold or leased to residents of the State in which the land is located; or
+  (C) For the purpose of this paragraph, a sales operation is “intrastate in nature” if the developer is subject to the laws of the State in which the land is located, and each lot in the subdivision, other than those which are exempt under subsection (a), (b)(6), or (b)(8) of this section, is sold or leased to residents of the State in which the land is located;
 
 (8) the sale or lease of a lot in a subdivision containing fewer than three hundred lots if—
 
@@ -165,9 +165,17 @@ Pub. L. 90–448, title XIV, § 1401, Aug. 1, 1968, 82 Stat. 590, provided that:
 
   (F) the developer executes and supplies to the purchaser a written instrument designating a person within the State of residence of the purchaser as his agent for service of process and acknowledging that the developer submits to the legal jurisdiction of the State in which the purchaser or lessee resides; and
 
-  (G) the developer executes a written affirmation to the effect that he has complied with the provisions of this paragraph, such affirmation to be given on a form provided by the Director, which shall include the following: the name and address of the developer; the name and address of the purchaser or lessee; a legal description of the lot; an affirmation that the provisions of this paragraph have been complied with; a statement that the developer submits to the jurisdiction of this title with regard to the sale or lease; and the signature of the developer.
+  (G) the developer executes a written affirmation to the effect that he has complied with the provisions of this paragraph, such affirmation to be given on a form provided by the Director, which shall include the following: the name and address of the developer; the name and address of the purchaser or lessee; a legal description of the lot; an affirmation that the provisions of this paragraph have been complied with; a statement that the developer submits to the jurisdiction of this title with regard to the sale or lease; and the signature of the developer; or
+
+(9) the sale or lease of a condominium unit that is not exempt under subsection (a).
 
 **(c) Rules and regulations** The Director may from time to time, pursuant to rules and regulations issued by him, exempt from any of the provisions of this chapter any subdivision or any lots in a subdivision, if he finds that the enforcement of this chapter with respect to such subdivision or lots is not necessary in the public interest and for the protection of purchasers by reason or the small amount involved or the limited character of the public offering.
+
+**(d) “Condominium unit” defined** For purposes of subsection (b), the term “condominium unit” means a unit of residential or commercial property to be designated for separate ownership pursuant to a condominium plan or declaration provided that upon conveyance—
+
+(1) the owner of such unit will have sole ownership of the unit and an undivided interest in the common elements appurtenant to the unit; and
+
+(2) the unit will be an improved lot.
 
 ### Statutory Notes
 
@@ -175,6 +183,10 @@ Pub. L. 90–448, title XIV, § 1401, Aug. 1, 1968, 82 Stat. 590, provided that:
 The effective date of this subsection, referred to in subsec. (b)(2), probably means the effective date of title IV of Pub. L. 96–153, section 402 of which amended subsec. (b) of this section generally. For the effective date of title IV, see section 410 of Pub. L. 96–153, set out as an Effective Date of 1979 Amendment note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
 
 #### Amendments
+2014—Subsec. (b)(9). Pub. L. 113–167, § 1(a)(1), added par. (9).
+
+Subsec. (d). Pub. L. 113–167, § 1(a)(2), added subsec. (d).
+
 2010—Subsecs. (b)(2), (8)(B), (G), (c). Pub. L. 111–203 substituted “Director” for “Secretary”.
 
 1979—Subsec. (a). Pub. L. 96–153 revised existing provisions formerly set out as pars. (1) to (11) into pars. (1) to (8) and, as so revised, substituted provisions relating to sale or lease of lots in a subdivision containing less than twenty-five lots, etc., for provisions relating to sale or lease of real estate not pursuant to a common promotional plan to offer or sell fifty or more lots in a subdivision, etc.
@@ -192,6 +204,9 @@ Subsecs. (b), (c). Pub. L. 95–557, § 907(b)(1), (2), added subsec. (b) and re
 1974—Subsec. (a)(11). Pub. L. 93–383 added par. (11).
 
 1969—Subsec. (a)(10). Pub. L. 91–152 substituted provisions requiring a personal on-the-lot inspection of the real estate for provisions requiring a personal inspection of the lot and restricted definition of terms “liens”, “encumbrances”, and “adverse claims” so as not to include taxes and assessments imposed by a State, a public body having authority to assess and tax property, or a property owners’ association, which, under the applicable law, constitute liens before they are due and payable, and so as not to include beneficial property restrictions enforceable by other lot owners or lessees in the subdivision under the specified conditions.
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–167, § 2, Sept. 26, 2014, 128 Stat. 1882, provided that: “The amendments made by this Act [amending this section] shall take effect 180 days after the date of the enactment of this Act [Sept. 26, 2014].”
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.

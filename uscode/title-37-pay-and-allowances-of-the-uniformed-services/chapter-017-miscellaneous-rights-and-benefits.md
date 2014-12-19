@@ -326,12 +326,16 @@ Pub. L. 107–107, div. A, title VI, § 623(b), Dec. 28, 2001, 115 Stat. 1143, p
 
 **(f) Regulations.—** This section shall be administered under regulations to be prescribed by the Secretary of Defense.
 
-**(g) Termination.—** No payment shall be made to a member under this section for months beginning after December 31, 2013, unless the entitlement of the member to payments under this section commenced on or before that date.
+**(g) Termination.—** No payment shall be made to a member under this section for months beginning after December 31, 2015, unless the entitlement of the member to payments under this section commenced on or before that date.
 
 ### Statutory Notes
 
 #### Amendments
-2013—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+2014—Subsec. (g). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
+
+2013—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 2011—Subsec. (b)(3). Pub. L. 111–383, § 601(a), added par. (3).
 

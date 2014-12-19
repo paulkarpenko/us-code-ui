@@ -50,7 +50,8 @@ A person required to make a report to the Board, or make, prepare, or preserve a
 
 (4) makes, prepares, or preserves the record in violation of a regulation or order of the Board, or
 
-(5) files a false report or record with the Board, shall be fined under title 18 or imprisoned not more than 2 years, or both.
+(5) files a false report or record with the Board,
+shall be fined under title 18 or imprisoned not more than 2 years, or both.
 
 ### Statutory Notes
 

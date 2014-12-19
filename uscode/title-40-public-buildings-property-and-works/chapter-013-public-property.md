@@ -74,7 +74,7 @@ The words “On and after June 30, 1932” are omitted as obsolete.
 
 (3) **Negotiated sale.—** — If no bids which are satisfactory as to price and responsibility of the bidder are received as a result of public advertisement, the Administrator may sell the property by negotiation, on terms as may be considered to be to the best interest of the Government, but at a price not less than that bid by the highest responsible bidder.
 
-**(c) Demolition.—** The Administrator may demolish any building declared to be surplus to the needs of the Government under this section on deciding that demolition will be in the best interest of the Government. Before proceeding with the demolition, the Administrator shall inform the Secretary of the Interior in writing of the Administrator’s intention to demolish the building, and shall not proceed with the demolition until receiving written notice from the Secretary that the building is not an historic building of national significance within the meaning of the Act of August 21, 1935 ([16 U.S.C. 461](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section461&num=0&edition=prelim) et seq.) (known as the Historic Sites, Buildings, and Antiquities Act). If the Secretary does not notify the Administrator of the Secretary’s decision as to whether the building is an historic building of national significance within 90 days of the receipt of the notice of intention to demolish the building, the Administrator may proceed to demolish the building.
+**(c) Demolition.—** The Administrator may demolish any building declared to be surplus to the needs of the Government under this section on deciding that demolition will be in the best interest of the Government. Before proceeding with the demolition, the Administrator shall inform the Secretary of the Interior in writing of the Administrator’s intention to demolish the building, and shall not proceed with the demolition until receiving written notice from the Secretary that the building is not an historic building of national significance within the meaning of chapter 3201 of title 54. If the Secretary does not notify the Administrator of the Secretary’s decision as to whether the building is an historic building of national significance within 90 days of the receipt of the notice of intention to demolish the building, the Administrator may proceed to demolish the building.
 
 **(d) Repairs and Alterations to Assigned Real Property.—** When the Administrator, after investigation, decides that real property referred to in subsection (b) should be used for the accommodation of a federal agency, the Administrator may make any repairs or alterations that the Administrator considers necessary or advisable and may maintain and operate the property.
 
@@ -112,8 +112,8 @@ In subsection (e), the words “General Services Administration”, “Administr
 
 In subsection (f), the words “as hereinafter” are omitted as obsolete. The words “which have been or may hereafter be” and “notwithstanding any declaration that the same is in excess of its needs” are omitted as unnecessary.
 
-#### References in Text
-The Historic Sites, Buildings, and Antiquities Act, referred to in subsec. (c), is the popular name for act Aug. 21, 1935, ch. 593, 49 Stat. 666, as amended, also known as the Historic Sites Act of August 21, 1935, which is classified generally to sections 461 to 467 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section461&num=0&edition=prelim) and Tables.
+#### Amendments
+2014—Subsec. (c). Pub. L. 113–287 substituted “chapter 3201 of title 54” for “the Act of August 21, 1935 ([16 U.S.C. 461](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section461&num=0&edition=prelim) et seq.) (known as the Historic Sites, Buildings, and Antiquities Act)”.
 
 
 <a id="section-1304"></a>
@@ -166,7 +166,7 @@ The General Services Administration may take custody, for disposal as excess pro
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 1305 | 40:304. | Mar. 3, 1903, ch. 1007, [§] 1 (4th complete par. on p. 1112), 32 Stat. 1112; Oct. 31, 1951, ch. 654, § 4(8), 65 Stat. 709. |
 
-The words “and title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)” are added to provide an accurate literal translation of the word “this Act”, meaning the Federal Property and Administrative Services Act of 1949. See the revision note under [section 111 of this title](./chapter-011-general.md#section-111). The words “as have been or may hereafter be” are omitted as unnecessary.
+The words “and title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)” are added to provide an accurate literal translation of the word “this Act”, meaning the Federal Property and Administrative Services Act of 1949. See the revision note under [section 111 of this title](./chapter-1-1-another-chapter-1-is-set-out-in-subtitle-v-of-this-title-chapter-1-chapter-1-1-another-chapter-1-is-set-out-in-subtitle-v-of-this-title-chapter-1.md#section-111). The words “as have been or may hereafter be” are omitted as unnecessary.
 
 #### Amendments
 2011—Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)”.
@@ -313,7 +313,7 @@ Subject to applicable regulations under this subtitle and division C (except sec
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 1308 | 40:311b. | June 15, 1938, ch. 400, 52 Stat. 693; June 3, 1939, ch. 176, 53 Stat. 808; Oct. 31, 1951, ch. 654, § 2(24), 65 Stat. 707. |
 
-The words “and title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)” are added to provide an accurate literal translation of the word “this Act”, meaning the Federal Property and Administrative Services Act of 1949. See the revision note under [section 111 of this title](./chapter-011-general.md#section-111).
+The words “and title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)” are added to provide an accurate literal translation of the word “this Act”, meaning the Federal Property and Administrative Services Act of 1949. See the revision note under [section 111 of this title](./chapter-1-1-another-chapter-1-is-set-out-in-subtitle-v-of-this-title-chapter-1-chapter-1-1-another-chapter-1-is-set-out-in-subtitle-v-of-this-title-chapter-1.md#section-111).
 
 #### Amendments
 2011—Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)”.
@@ -443,7 +443,7 @@ In subsection (b), the words “in the court of last resort to which the Attorne
 
     (i) land reserved or dedicated for national forest purposes;
 
-    (ii) land the Secretary of the Interior administers or supervises in accordance with the Act of August 25, 1916 ([16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim), 2, 3, 4) (known as the National Park Service Organic Act);
+    (ii) land the Secretary of the Interior administers or supervises in accordance with section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54;
 
     (iii) Indian-owned trust and restricted land; and
 
@@ -495,8 +495,8 @@ In subsection (b), the words “for a right-of-way or other purpose” are omitt
 
 In subsection (c), the words “affected” and “concerned” before “a notice” are omitted as unnecessary. The words “chief executive officer” are substituted for “Governor” for clarity.
 
-#### References in Text
-The National Park Service Organic Act, referred to in subsec. (a)(2)(A)(ii), is act Aug. 25, 1916, ch. 408, 39 Stat. 35, as amended, which is classified generally to sections 1, 2, 3, and 4 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) and Tables.
+#### Amendments
+2014—Subsec. (a)(2)(A)(ii). Pub. L. 113–287 substituted “section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “the Act of August 25, 1916 ([16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim), 2, 3, 4) (known as the National Park Service Organic Act)”.
 
 
 <a id="section-1315"></a>

@@ -61,11 +61,11 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 (2) determine with other Federal agencies the areas under the administrative jurisdiction of these agencies which are appropriate for carrying out programs using members of the Corps, and determine and select appropriate work and education programs and projects for participation by members of the Corps;
 
-(3) determine the rates of pay, hours, and other conditions of employment in the Corps, except that all members of the Corps shall not be deemed to be Federal employees other than for the purpose of chapter 171 of title 28, and chapter 81 of title 5.
+(3) determine the rates of pay, hours, and other conditions of employment in the Corps, except that all members of the Corps shall not be deemed to be Federal employees other than for the purpose of chapter 171 of title 28, and chapter 81 of title 5.11 So in original. The period probably should be a semicolon.
 
-(4) provide for such transportation, lodging, subsistence, and other services and equipment as they may deem necessary or appropriate for the needs of members of the Corps in their duties:
+(4) provide for such transportation, lodging, subsistence, and other services and equipment as they may deem necessary or appropriate for the needs of members of the Corps in their duties;
 
-(5) promulgate regulation to insure the safety, health, and welfare of the Corps members; and
+(5) promulgate regulation 22 So in original. Probably should be “regulations”. to insure the safety, health, and welfare of the Corps members; and
 
 (6) provide to the extent possible, that permanent or semipermanent facilities used as Corps camps be made available to local schools, school districts, State junior colleges and universities, and other education institutions for use as environmental/ecological education camps during periods of nonuse by the Corps program.
 Costs for operations maintenance, and staffing of Corps camp facilities during periods of use by non-Corps programs as well as any liability for personal injury or property damage stemming from such use shall be the responsibility of the entity or organization using the facility and shall not be a responsibility of the Secretaries or the Corps.

@@ -82,7 +82,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 <a id="section-42"></a>
 ## § 42. Number and distribution of commissioned officers on active duty promotion list
-**(a) Maximum Total Number.—** The total number of Coast Guard commissioned officers on the active duty promotion list, excluding warrant officers, shall not exceed 7,200; except that the Commandant may temporarily increase that number by up to 2 percent for no more than 60 days following the date of the commissioning of a Coast Guard Academy class.
+**(a) Maximum Total Number.—** The total number of Coast Guard commissioned officers on the active duty promotion list, excluding warrant officers, shall not exceed 6,900; except that the Commandant may temporarily increase that number by up to 2 percent for no more than 60 days following the date of the commissioning of a Coast Guard Academy class.
 
 **(b) Distribution Percentages by Grade.—**
 
@@ -116,6 +116,8 @@ Based on title 14, U.S.C., 1946 ed., § 6a (July 23, 1947, ch. 301, § 1, 61 Sta
 The only change is in phraseology in the second sentence, it being necessary to include the extra numbers authorized by the act of July 23, 1947, in the figure given as the present number of extra numbers in the Coast Guard. 81st Congress, House Report No. 557.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–281 substituted “6,900” for “7,200”.
+
 2010—Pub. L. 111–281 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to number and distribution of commissioned officers.
 
 2004—Subsec. (a). Pub. L. 108–293, § 214(1), substituted “6,700 in each fiscal year 2004, 2005, and 2006” for “6,200”.
@@ -163,7 +165,7 @@ Section, act Aug. 4, 1949, ch. 393, 63 Stat. 498, provided for relative rank of 
 <a id="section-44"></a>
 ## § 44. Commandant; appointment
 
-The President may appoint, by and with the advice and consent of the Senate, one Commandant for a period of four years, who may be reappointed for further periods of four years, who shall act as Chief of the Coast Guard. The Commandant shall be appointed from the officers on the active duty promotion list serving above the grade of captain who have completed at least ten years of active service as a commissioned officer in the Coast Guard. The Commandant while so serving shall have the grade of admiral.
+The President may appoint, by and with the advice and consent of the Senate, one Commandant for a period of four years, who may be reappointed for further periods of four years, who shall act as Chief of the Coast Guard. The term of an appointment, and any reappointment, shall begin on June 1 of the appropriate year and end on May 31 of the appropriate year, except that, in the event of death, retirement, resignation, or reassignment, or when the needs of the Service demand, the Secretary may alter the date on which a term begins or ends if the alteration does not result in the term exceeding a period of 4 years. The Commandant shall be appointed from the officers on the active duty promotion list serving above the grade of captain who have completed at least ten years of active service as a commissioned officer in the Coast Guard. The Commandant while so serving shall have the grade of admiral.
 
 ### Statutory Notes
 
@@ -175,6 +177,8 @@ Said section has been divided. The provisions of the first proviso are placed in
 The grade of the Commandant is fixed as vice admiral rather than that prescribed for Bureau Chiefs of the Navy. The additional qualifications that an officer appointed Commandant must have at least 10 years commissioned service in the Coast Guard has been inserted. 81st Congress, House Report No. 557.
 
 #### Amendments
+2014—Pub. L. 113–281 inserted after first sentence “The term of an appointment, and any reappointment, shall begin on June 1 of the appropriate year and end on May 31 of the appropriate year, except that, in the event of death, retirement, resignation, or reassignment, or when the needs of the Service demand, the Secretary may alter the date on which a term begins or ends if the alteration does not result in the term exceeding a period of 4 years.”
+
 1972—Pub. L. 92–451 substituted “above the grade of captain” for “in the grade of captain or above” in second sentence.
 
 1966—Pub. L. 89–444 struck out provision that the position of an officer appointed Commandant be filled by promotion according to law.
@@ -520,7 +524,7 @@ Pub. L. 111–281, title IV, § 401(e), Oct. 15, 2010, 124 Stat. 2931, provided 
 
 (1) marine inspector shall have the training, experience, and qualifications equivalent to that required for a similar position at a classification society recognized by the Secretary under [section 3316 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3316&num=0&edition=prelim) for the type of vessel, system, or equipment that is inspected;
 
-(2) marine casualty investigator shall have the training, experience, and qualifications in investigation, marine casualty reconstruction, evidence collection and preservation, human factors, and documentation using best investigation practices by Federal and non-Federal entities; or
+(2) marine casualty investigator shall have the training, experience, and qualifications in investigation, marine casualty reconstruction, evidence collection and preservation, human factors, and documentation using best investigation practices by Federal and non-Federal entities;
 
 (3) marine safety engineer shall have knowledge, skill, and practical experience in—
 
@@ -528,9 +532,13 @@ Pub. L. 111–281, title IV, § 401(e), Oct. 15, 2010, 124 Stat. 2931, provided 
 
   (B) judging the character, strength, stability, and safety qualities of such vessels and their equipment; or
 
-  (C) the qualifications and training of vessel personnel.
+  (C) the qualifications and training of vessel personnel;
 
-**(c) Apprenticeship Requirement To Qualify for Certain Careers.—** The Commandant may require an officer, member, or employee of the Coast Guard in training for a specialized prevention or response career path to serve an apprenticeship under the guidance of a qualified individual. However, an individual in training to become a marine inspector, marine casualty investigator, or marine safety engineer shall serve a minimum of one-year as an apprentice unless the Commandant authorizes a shorter period for certain qualifications.
+(4) waterways operations manager shall have knowledge, skill, and practical experience with respect to marine transportation system management; or
+
+(5) port and facility safety and security specialist shall have knowledge, skill, and practical experience with respect to the safety, security, and environmental protection responsibilities associated with maritime ports and facilities.
+
+**(c) Apprenticeship Requirement To Qualify for Certain Careers.—** The Commandant may require an officer, member, or employee of the Coast Guard in training for a specialized prevention or response career path to serve an apprenticeship under the guidance of a qualified individual. However, an individual in training to become a marine inspector, marine casualty investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist shall serve a minimum of one-year as an apprentice unless the Commandant authorizes a shorter period for certain qualifications.
 
 **(d) Management Information System.—** The Secretary, acting through the Commandant, shall establish a management information system for the prevention and response workforces that shall provide, at a minimum, the following standardized information on persons serving in those workforces:
 
@@ -538,34 +546,49 @@ Pub. L. 111–281, title IV, § 401(e), Oct. 15, 2010, 124 Stat. 2931, provided 
 
 (2) Promotion rates for military and civilian personnel.
 
-**(e) Assessment of Adequacy of Marine Safety Workforce.—**
-
-(1) **Report.—** — The Secretary, acting through the Commandant, shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate by December 1 of each year on the adequacy of the current marine safety workforce to meet that anticipated workload.
-
-(2) **Contents.—** — The report shall specify the number of civilian and military Coast Guard personnel currently assigned to marine safety positions and shall identify positions that are understaffed to meet the anticipated marine safety workload.
-
-**(f) Sector Chief of Prevention.—** There shall be in each Coast Guard sector a Chief of Prevention who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule, and who shall be a—
+**(e) Sector Chief of Prevention.—** There shall be in each Coast Guard sector a Chief of Prevention who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule, and who shall be a—
 
 (1) marine inspector, qualified to inspect vessels, vessel systems, and equipment commonly found in the sector; and
 
-(2) qualified marine casualty investigator or marine safety engineer.
+(2) qualified marine casualty investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist.
 
-**(g) Signatories of Letter of Qualification for Certain Prevention Personnel.—** Each individual signing a letter of qualification for marine safety personnel must hold a letter of qualification for the type being certified.
+**(f) Signatories of Letter of Qualification for Certain Prevention Personnel.—** Each individual signing a letter of qualification for marine safety personnel must hold a letter of qualification for the type being certified.
 
-**(h) Sector Chief of Response.—** There shall be in each Coast Guard sector a Chief of Response who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule in each Coast Guard sector.
+**(g) Sector Chief of Response.—** There shall be in each Coast Guard sector a Chief of Response who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule in each Coast Guard sector.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (b)(4), (5). Pub. L. 113–281, § 203(1), added pars. (4) and (5).
+
+Subsec. (c). Pub. L. 113–281, § 203(2), substituted “marine safety engineer, waterways operations manager, or port and facility safety and security specialist” for “or marine safety engineer”.
+
+Subsec. (e). Pub. L. 113–281, § 221(b)(1)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to assessment of adequacy of marine safety workforce.
+
+Subsec. (f). Pub. L. 113–281, § 221(b)(1)(B)(ii), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (f)(2). Pub. L. 113–281, § 203(3), substituted “investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist” for “investigator or marine safety engineer”.
+
+Subsecs. (g), (h). Pub. L. 113–281, § 221(b)(1)(B)(ii), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
 
 <a id="section-58"></a>
 ## § 58. Centers of expertise for Coast Guard prevention and response
 **(a) Establishment.—** The Commandant of the Coast Guard may establish and operate one or more centers of expertise for prevention and response missions of the Coast Guard (in this section referred to as a “center”).
 
-**(b) Missions.—** Each center shall—
+**(b) Missions.—** Any center established under subsection (a) shall—
 
-(1) promote and facilitate education, training, and research;
+(1) promote, facilitate, and conduct—
 
-(2) develop a repository of information on its missions and specialties; and
+  (A) education;
 
-(3) perform any other missions as the Commandant may specify.
+  (B) training; and
+
+  (C) activities authorized under section 93(a)(4);
+
+(2) be a repository of information on operations, practices, and resources related to the mission for which the center was established; and
+
+(3) perform and support the mission for which the center was established.
 
 **(c) Joint Operation With Educational Institution Authorized.—** The Commandant may enter into an agreement with an appropriate official of an institution of higher education to—
 
@@ -585,10 +608,22 @@ Pub. L. 111–281, title IV, § 401(e), Oct. 15, 2010, 124 Stat. 2931, provided 
 
 (3) The Commandant shall prescribe written guidance setting forth the criteria to be used in determining whether or not the acceptance of a donation from a foreign source would have a result described in paragraph (2).
 
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (b). Pub. L. 113–281 amended subsec. (b) generally. Prior to amendment, text read as follows: “Each center shall—
+
+“(1) promote and facilitate education, training, and research;
+
+“(2) develop a repository of information on its missions and specialties; and
+
+“(3) perform any other missions as the Commandant may specify.”
+
 
 <a id="section-59"></a>
 ## § 59. Marine industry training program
-**(a) In General.—** The Commandant shall, by policy, establish a program under which an officer, member, or employee of the Coast Guard may be assigned to a private entity to further the institutional interests of the Coast Guard with regard to marine safety, including for the purpose of providing training to an officer, member, or employee. Policies to carry out the program—
+
+The Commandant shall, by policy, establish a program under which an officer, member, or employee of the Coast Guard may be assigned to a private entity to further the institutional interests of the Coast Guard with regard to marine safety, including for the purpose of providing training to an officer, member, or employee. Policies to carry out the program—
 
 (1) with regard to an employee of the Coast Guard, shall include provisions, consistent with sections 3702 through 3704 of title 5, as to matters concerning—
 
@@ -600,8 +635,11 @@ Pub. L. 111–281, title IV, § 401(e), Oct. 15, 2010, 124 Stat. 2931, provided 
 
 (2) shall require the Commandant, before approving the assignment of an officer, member, or employee of the Coast Guard to a private entity, to determine that the assignment is an effective use of the Coast Guard’s funds, taking into account the best interests of the Coast Guard and the costs and benefits of alternative methods of achieving the same results and objectives.
 
-**(b) Annual Report.—** Not later than the date of the submission each year of the President’s budget request under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
+### Statutory Notes
 
-(1) the number of officers, members, and employees of the Coast Guard assigned to private entities under this section; and
+#### Amendments
+2014—Pub. L. 113–281 struck out subsec. (a) designation and heading before “The Commandant” and struck out subsec. (b). Text of subsec. (b) read as follows: “Not later than the date of the submission each year of the President’s budget request under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
 
-(2) the specific benefit that accrues to the Coast Guard for each assignment.
+“(1) the number of officers, members, and employees of the Coast Guard assigned to private entities under this section; and
+
+“(2) the specific benefit that accrues to the Coast Guard for each assignment.”

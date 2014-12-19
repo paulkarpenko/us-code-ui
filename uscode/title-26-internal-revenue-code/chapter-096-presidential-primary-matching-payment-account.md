@@ -14,7 +14,7 @@ This chapter may be cited as the “Presidential Primary Matching Payment Accoun
 ### Statutory Notes
 
 #### Effective Date
-Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 431 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431&num=0&edition=prelim), The Congress.
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-9032"></a>
@@ -64,7 +64,7 @@ For the purposes of this chapter—
 ### Statutory Notes
 
 #### References in Text
-Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in par. (3), is classified to [section 437c(a)(1) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section437c/a/1&num=0&edition=prelim), The Congress.
+Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in par. (3), is classified to [section 30106(a)(1) of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30106/a/1&num=0&edition=prelim), Voting and Elections.
 
 #### Amendments
 2007—Par. (3). Pub. L. 110–172 substituted “section 306(a)(1)” for “section 309(a)(1)”.
@@ -135,7 +135,7 @@ Amendment by section 306(b)(2) of Pub. L. 94–283 effective May 11, 1976, see s
 ### Statutory Notes
 
 #### References in Text
-Section 315(b)(1)(A) of the Federal Election Campaign Act of 1971, referred to in subsec. (b), is classified to [section 441a(b)(1)(A) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441a/b/1/A&num=0&edition=prelim), The Congress.
+Section 315(b)(1)(A) of the Federal Election Campaign Act of 1971, referred to in subsec. (b), is classified to [section 30116(b)(1)(A) of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30116/b/1/A&num=0&edition=prelim), Voting and Elections.
 
 #### Amendments
 2007—Subsec. (b). Pub. L. 110–172 substituted “section 315(b)(1)(A)” for “section 320(b)(1)(A)”.
@@ -145,16 +145,18 @@ Section 315(b)(1)(A) of the Federal Election Campaign Act of 1971, referred to i
 
 <a id="section-9035"></a>
 ## § 9035. Qualified campaign expense limitations
-**(a) Expenditure limitations** No candidate shall knowingly incur qualified campaign expenses in excess of the expenditure limitation applicable under section 320(b)(1)(A) of the Federal Election Campaign Act of 1971, and no candidate shall knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for nomination for election to the office of President in excess of, in the aggregate, $50,000.
+**(a) Expenditure limitations** No candidate shall knowingly incur qualified campaign expenses in excess of the expenditure limitation applicable under section 315(b)(1)(A) of the Federal Election Campaign Act of 1971, and no candidate shall knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for nomination for election to the office of President in excess of, in the aggregate, $50,000.
 
 **(b) Definition of immediate family** For purposes of this section, the term “immediate family” means a candidate’s spouse, and any child, parent, grandparent, brother, half-brother, sister, or half-sister of the candidate, and the spouses of such persons.
 
 ### Statutory Notes
 
 #### References in Text
-Section 320 of The Federal Election Campaign Act of 1971, referred to in subsec. (a), was renumbered section 315 of that Act by Pub. L. 96–187, title I, § 105(5), Jan. 8, 1980, 93 Stat. 1354, and is classified to [section 441a of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441a&num=0&edition=prelim), The Congress.
+Section 315 of The Federal Election Campaign Act of 1971, referred to in subsec. (a), is classified to [section 30116 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30116&num=0&edition=prelim), Voting and Elections.
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–295 substituted “section 315(b)(1)(A)” for “section 320(b)(1)(A)”.
+
 1976—Pub. L. 94–283 substituted “limitations” for “limitation” in section catchline, designated existing provisions as subsec. (a), inserted “Expenditure limitations” as heading of subsec. (a) as so redesignated and substituted “section 320(b)(1)(A) of the Federal Election Campaign Act of 1971, and no candidate shall knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for nomination for election to the office of President in excess of, in the aggregate, $50,000” for “[section 608(c)(1)(A) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section608/c/1/A&num=0&edition=prelim), United States Code”, and added subsec. (b).
 
 #### Effective Date of 1976 Amendment
@@ -170,13 +172,15 @@ Pub. L. 94–283, title III, § 305(d), May 11, 1976, 90 Stat. 499, as amended b
 
 <a id="section-9037"></a>
 ## § 9037. Payments to eligible candidates
-**(a) Establishment of account** The Secretary shall maintain in the Presidential Election Campaign Fund established by section 9006(a), in addition to any account which he maintains under such section, a separate account to be known as the Presidential Primary Matching Payment Account. The Secretary shall deposit into the matching payment account, for use by the candidate of any political party who is eligible to receive payments under section 9033, the amount available after the Secretary determines that amounts for payments under section 9006(c) and for payments under section 9008(b)(3) are available for such payments.
+**(a) Establishment of account** The Secretary shall maintain in the Presidential Election Campaign Fund established by section 9006(a), in addition to any account which he maintains under such section, a separate account to be known as the Presidential Primary Matching Payment Account. The Secretary shall deposit into the matching payment account, for use by the candidate of any political party who is eligible to receive payments under section 9033, the amount available after the Secretary determines that amounts for payments under section 9006(c) and for payments under section 9008(i)(2) are available for such payments.
 
 **(b) Payments from the matching payment account** Upon receipt of a certification from the Commission under section 9036, but not before the beginning of the matching payment period, the Secretary shall promptly transfer the amount certified by the Commission from the matching payment account to the candidate. In making such transfers to candidates of the same political party, the Secretary shall seek to achieve an equitable distribution of funds available under subsection (a), and the Secretary shall take into account, in seeking to achieve an equitable distribution, the sequence in which such certifications are received.
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–94 substituted “section 9008(i)(2)” for “section 9008(b)(3)”.
+
 1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in three places.
 
 

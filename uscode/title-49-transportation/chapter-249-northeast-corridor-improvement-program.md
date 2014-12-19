@@ -515,7 +515,7 @@ The words “or conveyances”, “(whether real, personal, or mixed)”, “whi
 
     (xvii) provide additional catenary renewal and power supply upgrading between the District of Columbia and New York, New York;
 
-    (xviii) rehabilitate structural, electrical, and mechanical systems at the 30th Street Station in Philadelphia, Pennsylvania;
+    (xviii) rehabilitate structural, electrical, and mechanical systems at the William H. Gray III 30th Street Station in Philadelphia, Pennsylvania;
 
     (xix) install evacuation and fire protection facilities in tunnels in New York, New York;
 
@@ -601,6 +601,11 @@ In subsection (g), the text of 45:854(a) (3d, 5th, and last sentences) is omitte
 Act of February 28, 1975 (Public Law 94–6, 89 Stat. 11), referred to in subsec. (b), provided appropriations for interim operating assistance for Federal Railroad Administration of Department of Transportation in chapter II which is not classified to the Code.
 
 Section 602 of the Rail Passenger Service Act, referred to in subsec. (c), was classified to [section 602 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section602&num=0&edition=prelim), Railroads, prior to repeal by Pub. L. 102–533, § 7(c), Oct. 27, 1992, 106 Stat. 3519.
+
+#### Change of Name
+“William H. Gray III 30th Street Station” substituted for “30th Street Station” in subsec. (a)(1)(C)(xviii) pursuant to section 2 of Pub. L. 113–158, set out below.
+
+Pub. L. 113–158, Aug. 8, 2014, 128 Stat. 1838, provided that: “SECTION 1. REDESIGNATION.“The railroad station located at 2955 Market Street in Philadelphia, Pennsylvania, commonly known as ‘30th Street Station’, shall be known and designated as the ‘William H. Gray III 30th Street Station’. “SEC. 2. REFERENCES.“Any reference in a law, map, regulation, document, paper, or other record of the United States to the railroad station referred to in section 1 shall be deemed to be a reference to the ‘William H. Gray III 30th Street Station’.”
 
 
 <a id="section-24910"></a>

@@ -25,7 +25,7 @@ For the purposes of this chapter, the term—
 
 (2) “teacher” means an individual—
 
-  (A) who is a citizen of the United States,
+  (A) who is a citizen of the United States or, in the case of a teaching position that involves instruction in the host-nation language, a local national when a citizen of the United States is not reasonably available to provide such instruction,
 
   (B) who is a civilian, and
 
@@ -44,6 +44,8 @@ For definition of Canal Zone, referred to in par. (4), see [section 3602(b) of T
 Section was formerly classified to [section 2351 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2351&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+2014—Par. (2)(A). Pub. L. 113–291 inserted “or, in the case of a teaching position that involves instruction in the host-nation language, a local national when a citizen of the United States is not reasonably available to provide such instruction” before comma at end.
+
 1997—Par. (1)(A). Pub. L. 105–85 made technical corrections to Pub. L. 104–201, § 1606(a)(1). See 1996 Amendment note below.
 
 1996—Par. (1)(A). Pub. L. 104–201, § 1606(a)(1), as amended by Pub. L. 105–85, inserted “or are performed by an individual who carried out certain teaching activities identified in regulations prescribed by the Secretary of Defense;” after “Defense,”.
@@ -301,7 +303,8 @@ In the case of any teacher who—
 
 (2) agrees in writing to serve as a teacher for the next school year, and
 
-(3) is employed in another position in the recess period immediately preceding such next school year, or, during such recess period, receives quarters, allowances, or additional compensation referred to in sections 905 and 906 of this title, or both, as the case may be, [section 5533 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5533&num=0&edition=prelim) shall not apply to such teacher by reason of any such employment during a recess period or any such receipt of quarters, allowances, or additional compensation, or both, as the case may be.
+(3) is employed in another position in the recess period immediately preceding such next school year, or, during such recess period, receives quarters, allowances, or additional compensation referred to in sections 905 and 906 of this title, or both, as the case may be,
+[section 5533 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5533&num=0&edition=prelim) shall not apply to such teacher by reason of any such employment during a recess period or any such receipt of quarters, allowances, or additional compensation, or both, as the case may be.
 
 ### Statutory Notes
 

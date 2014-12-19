@@ -2,7 +2,7 @@
 title: 22
 chapter: '93'
 heading: UNITED STATES-ISRAEL COOPERATION
-section_count: 5
+section_count: 6
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -29,8 +29,14 @@ Congress makes the following findings:
 
 ### Statutory Notes
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–296, § 1, Dec. 19, 2014, 128 Stat. 4075, provided that: “This Act [enacting [section 8606 of this title](./chapter-093-united-states-israel-cooperation.md#section-8606), amending sections 2321h and 2776 of this title and [section 17337 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17337&num=0&edition=prelim), The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8602, 8603, and 8606 of this title, and amending provisions set out as a note under [section 2776 of this title](./chapter-039-arms-export-control.md#section-2776)] may be cited as the ‘United States-Israel Strategic Partnership Act of 2014’.”
+
 #### Short Title
 Pub. L. 112–150, § 1, July 27, 2012, 126 Stat. 1146, provided that: “This Act [enacting this chapter and amending [section 2321h of this title](./chapter-032-foreign-assistance.md#section-2321h)] may be cited as the ‘United States-Israel Enhanced Security Cooperation Act of 2012’.”
+
+#### Findings
+Pub. L. 113–296, § 2, Dec. 19, 2014, 128 Stat. 4075, provided that: “Congress makes the following findings: “(1) The people and the Governments of the United States and of Israel share a deep and unbreakable bond, forged by over 60 years of shared interests and shared values. “(2) Today, the people and Governments of the United States and of Israel are facing a dynamic and rapidly changing security environment in the Middle East and North Africa, necessitating deeper cooperation on a range of defense, security, and intelligence matters. “(3) From Gaza, Hamas continues to deny Israel’s right to exist and persists in firing rockets indiscriminately at population centers in Israel. “(4) Hezbollah—with support from Iran—continues to stockpile rockets and may be seeking to exploit the tragic and volatile security situation within Syria. “(5) The Government of Iran continues to pose a grave threat to the region and the world at large with its reckless pursuit of nuclear weapons. “(6) Given these challenges, it is imperative that the United States continues to deepen cooperation with allies like Israel in pursuit of shared policy objectives.”
 
 
 <a id="section-8602"></a>
@@ -51,6 +57,14 @@ It is the policy of the United States:
 (6) To assist the Government of Israel with its ongoing efforts to forge a peaceful, negotiated settlement of the Israeli-Palestinian conflict that results in two states living side-by-side in peace and security, and to encourage Israel’s neighbors to recognize Israel’s right to exist as a Jewish state.
 
 (7) To encourage further development of advanced technology programs between the United States and Israel given current trends and instability in the region.
+
+### Statutory Notes
+
+#### Statement of Policy
+Pub. L. 113–296, § 3, Dec. 19, 2014, 128 Stat. 4075, provided that: “It is the policy of the United States— “(1) to reaffirm the unwavering support of the people and the Government of the United States for the security of Israel as a Jewish state; “(2) to reaffirm the principles and objectives enshrined in the United States-Israel Enhanced Security Cooperation Act of 2012 (Public Law 112–150) [[22 U.S.C. 8601](./chapter-093-united-states-israel-cooperation.md#section-8601) et seq.] and ensure its implementation to the fullest extent; “(3) to reaffirm the importance of the 2007 United States-Israel Memorandum of Understanding on United States assistance to Israel and the semi-annual Strategic Dialogue between the United States and Israel; “(4) to pursue every opportunity to deepen cooperation with Israel on a range of critical issues including defense, homeland security, energy, and cybersecurity; “(5) to continue to provide Israel with robust security assistance, including for the procurement of the Iron Dome Missile Defense System; and “(6) to support the Government of Israel in its ongoing efforts to reach a negotiated political settlement with the Palestinian people that results in two states living side-by-side in peace and security.”
+
+#### Statement of Policy Regarding the Visa Waiver Program
+Pub. L. 113–296, § 9, Dec. 19, 2014, 128 Stat. 4077, provided that: “It shall be the policy of the United States to include Israel in the list of countries that participate in the visa waiver program under section 217 of the Immigration and Nationality Act ([8 U.S.C. 1187](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187&num=0&edition=prelim)) when Israel satisfies, and as long as Israel continues to satisfy, the requirements for inclusion in such program specified in such section.”
 
 
 <a id="section-8603"></a>
@@ -75,6 +89,11 @@ It is the sense of Congress that the United States Government should take the fo
 (8) Work to encourage an expanded role for Israel with the North Atlantic Treaty Organization (NATO), including an enhanced presence at NATO headquarters and exercises.
 
 (9) Expand already-close intelligence cooperation, including satellite intelligence, with Israel.
+
+### Statutory Notes
+
+#### Eligibility of Israel for the Strategic Trade Authorization Exception to Certain Export Control Licensing Requirements
+Pub. L. 113–296, § 6, Dec. 19, 2014, 128 Stat. 4076, provided that: “(a) Findings.—Congress finds that Israel—“(1) has adopted high standards in the field of export controls; “(2) has declared its unilateral adherence to the Missile Technology Control Regime, the Australia Group, and the Nuclear Suppliers Group; and “(3) is a party to—“(A) the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons which may be Deemed to be Excessively Injurious or to Have Indiscriminate Effects, signed at Geneva October 10, 1980; “(B) the Protocol for the Prohibition of the Use in War of Asphyxiating, Poisonous or Other Gases, and of Bacteriological Methods of Warfare, signed at Geneva June 17, 1925; and “(C) the Convention on the Physical Protection of Nuclear Material, adopted at Vienna on October 26, 1979. “(b) Eligibility for Strategic Trade Authorization Exception.—The President, consistent with the commitments of the United States under international arrangements, shall take steps so that Israel may be included in the list of countries eligible for the strategic trade authorization exception under section 740.20(c)(1) of title 15, Code of Federal Regulations, to the requirement for a license for the export, reexport, or in-country transfer of an item subject to controls under the Export Administration Regulations.”
 
 
 <a id="section-8604"></a>
@@ -118,9 +137,42 @@ In this chapter:
 
   (B) the Committee on Appropriations, the Committee on Armed Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(2) **Qualitative military edge** — The term “qualitative military edge” has the meaning given the term in [section 2776(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2776/h/2&num=0&edition=prelim).
+(2) **Qualitative military edge** — The term “qualitative military edge” has the meaning given the term in section 2776(h)(2) 11 See References in Text note below. of this title.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 112–150, July 27, 2012, 126 Stat. 1146, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 8601 of this title](./chapter-093-united-states-israel-cooperation.md#section-8601) and Tables.
+
+[Section 2776(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2776/h/2&num=0&edition=prelim), referred to in par. (2), was redesignated [section 2776(h)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2776/h/3&num=0&edition=prelim) by Pub. L. 113–296, § 11(b)(1), Dec. 19, 2014, 128 Stat. 4078.
+
+
+<a id="section-8606"></a>
+## § 8606. United States-Israel cooperation on energy, water, homeland security, agriculture, and alternative fuel technologies
+**(a) In general** The President is authorized, subject to existing law—
+
+(1) to undertake activities in cooperation with Israel; and
+
+(2) to provide assistance promoting cooperation in the fields of energy, water, agriculture, and alternative fuel technologies.
+
+**(b) Requirements** In carrying out subsection (a), the President is authorized, subject to existing requirements of law and any applicable agreements or understandings between the United States and Israel—
+
+(1) to share and exchange with Israel research, technology, intelligence, information, equipment, and personnel, including through sales, leases, or exchanges in kind, that the President determines will advance the national security interests of the United States and are consistent with the Strategic Dialogue and pertinent provisions of law; and
+
+(2) to enhance scientific cooperation between Israel and the United States.
+
+**(c) Cooperative research pilot programs** The Secretary of Homeland Security, acting through the Director of the Homeland Security Advanced Research Projects Agency and with the concurrence of the Secretary of State, is authorized, subject to existing law, to enter into cooperative research pilot programs with Israel to enhance Israel’s capabilities in—
+
+(1) border, maritime, and aviation security;
+
+(2) explosives detection; and
+
+(3) emergency services.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the United States-Israel Strategic Partnership Act of 2014, and not as part of the United States-Israel Enhanced Security Cooperation Act of 2012 which comprises this chapter.
+
+#### Constructive Regional Energy Cooperation
+Pub. L. 113–296, § 12(c)(2), Dec. 19, 2014, 128 Stat. 4081, provided that: “The Secretary of State shall continue the ongoing diplomacy efforts of the Secretary of State in— “(A) engaging and supporting the energy security of Israel; and “(B) promoting constructive regional energy cooperation in the Eastern Mediterranean.”

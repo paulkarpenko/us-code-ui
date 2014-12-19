@@ -141,7 +141,7 @@ The word “award” is substituted for the word “present” to cover the dete
 <a id="section-6247"></a>
 ## § 6247. Additional awards
 
-Not more than one medal of honor, Navy cross, distinguished-service medal, silver star medal, distinguished flying cross, or Navy and Marine Corps Medal may be awarded to a person. However, for each succeeding act or service that would otherwise justify the award of such a medal or cross, the President may award a suitable bar, emblem, or insignia to be worn with the decoration and corresponding rosette or other device.
+Not more than one Navy cross, distinguished-service medal, silver star medal, distinguished flying cross, or Navy and Marine Corps Medal may be awarded to a person. However, for each succeeding act or service that would otherwise justify the award of such a medal or cross, the President may award a suitable bar, emblem, or insignia to be worn with the decoration and corresponding rosette or other device.
 
 ### Statutory Notes
 
@@ -152,6 +152,9 @@ Not more than one medal of honor, Navy cross, distinguished-service medal, silve
 |  | [34 U.S.C. 364a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section364a&num=0&edition=prelim) (2d sentence). | July 2, 1926, ch. 721, § 12 (2d sentence), 44 Stat. 789; July 30, 1937, ch. 545, § 4, 50 Stat. 549. |
 
 The word “awarded” is substituted for the word “issued” for uniformity. The words “that would otherwise justify” are substituted for the words “sufficient to justify” for clarity. The word “service” is substituted for the word “achievement” for uniformity. The words “as he shall direct” are omitted as surplusage.
+
+#### Amendments
+2013—Pub. L. 113–66 struck out “medal of honor,” before “Navy cross”.
 
 
 <a id="section-6248"></a>

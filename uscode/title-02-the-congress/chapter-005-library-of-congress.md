@@ -2,7 +2,7 @@
 title: 2
 chapter: '5'
 heading: LIBRARY OF CONGRESS
-section_count: 115
+section_count: 116
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -56,7 +56,7 @@ R.S. § 82 derived from acts Apr. 24, 1800, ch. 37, § 5, 2 Stat. 56, and Jan. 2
 1946—Act Aug. 2, 1946, changed composition of Joint Committee. See [section 132b of this title](./chapter-005-library-of-congress.md#section-132b).
 
 #### Effective Date of 1946 Amendment
-Amendment by act Aug. 2, 1946, effective Jan. 3, 1947, see section 245 of that act, set out as a note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Amendment by act Aug. 2, 1946, effective Jan. 3, 1947, see section 245 of that act, set out as a note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 
 <a id="section-132a-1"></a>
@@ -69,14 +69,21 @@ Effective for fiscal years beginning with fiscal year 1995, obligations for any 
 ## § 132a–2. Furniture, furnishings, and office and library equipment; transfer of funds
 **(a) Transfer of funds** In addition to any other transfer authority provided by law, during fiscal year 2001 and fiscal years thereafter, the Librarian of Congress may transfer to and among available accounts of the Library of Congress amounts appropriated to the Librarian from funds for the purchase, installation, maintenance, and repair of furniture, furnishings, and office and library equipment.
 
-**(b) Availability of funds** Any amounts transferred pursuant to subsection (a) of this section shall be merged with and be available for the same purpose and for the same period as the appropriation or account to which such amounts are transferred.
+**(b) Availability of funds** Any amounts transferred pursuant to subsection (a) shall be merged with and be available for the same purpose and for the same period as the appropriation or account to which such amounts are transferred.
 
-**(c) Approval of Congress** The Librarian may transfer amounts pursuant to subsection (a) of this section only with the approval of the Committees on Appropriations of the House of Representatives and Senate.
+**(c) Approval of Congress** The Librarian may transfer amounts pursuant to subsection (a) only with the approval of the Committees on Appropriations of the House of Representatives and Senate.
 
 ### Statutory Notes
 
 #### Codification
 Section is from the Legislative Branch Appropriations Act, 2001.
+
+
+<a id="section-132a-3"></a>
+## § 132a–3. Authority to transfer amounts between categories of appropriations
+**(a) In general** During fiscal year 2014 and any succeeding fiscal year, the Librarian of Congress may transfer amounts appropriated for the fiscal year between the categories of appropriations provided under law for the Library of Congress for the fiscal year, upon the approval of the Committees on Appropriations of the House of Representatives and Senate.
+
+**(b) Limitation** Not more than 10 percent of the total amount of funds appropriated to the account under any category of appropriations for the Library of Congress for a fiscal year may be transferred from that account by all transfers made under subsection (a).
 
 
 <a id="section-132b"></a>
@@ -93,7 +100,7 @@ The Joint Committee of Congress on the Library shall, on and after January 3, 19
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date
-Section effective Jan. 3, 1947, see section 245 of act Aug. 2, 1946, set out as a note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Section effective Jan. 3, 1947, see section 245 of act Aug. 2, 1946, set out as a note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 #### Member of Committee With Respect to Financial Management and Budget and Program Development
 Pub. L. 106–554, § 1(a)(4) [div. A], Dec. 21, 2000, 114 Stat. 2763, 2763A–195, as amended by Pub. L. 109–13, div. A, title III, § 3402(a), May 11, 2005, 119 Stat. 272; Pub. L. 109–289, div. B, title II, § 20703(d)(6), as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 39, provided: “That notwithstanding any other provision of law, effective with the One Hundred Seventh Congress and each succeeding Congress the chair of the Subcommittee on the Legislative Branch of the Committee on Appropriations of the House of Representatives shall serve as a member of the Joint Committee on the Library with respect to the Library’s financial management, organization, budget development and implementation, and program development and administration, as well as any other element of the mission of the Library of Congress which is subject to the requirements of Federal law.”
@@ -110,7 +117,7 @@ The portion of the Joint Committee of Congress on the Library on the part of the
 1946—Act Aug. 2, 1946, changed composition of Joint Committee. See [section 132b of this title](./chapter-005-library-of-congress.md#section-132b).
 
 #### Effective Date of 1946 Amendment
-Amendment by act Aug. 2, 1946, effective Jan. 3, 1947, see section 245 of that act, set out as a note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Amendment by act Aug. 2, 1946, effective Jan. 3, 1947, see section 245 of that act, set out as a note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 
 <a id="section-134"></a>
@@ -290,7 +297,7 @@ From and after October 1, 1983, appropriations in this Act available to the Libr
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 98–51, July 14, 1983, 97 Stat. 263, known as the Legislative Branch Appropriations Act, 1984. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 98–51, July 14, 1983, 97 Stat. 263, known as the Legislative Branch Appropriations Act, 1984. See page 36 of Senate Report 98–161, 98th Congress, 1st Session, to accompany H.R. 3135, which became Pub. L. 98–51. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-137"></a>
@@ -381,7 +388,7 @@ Act June 29, 1922, § 1, cited as a credit to this section, which transferred du
 
 (2) **Employees** — The employees required for the performance of the duties under paragraph (1) shall be appointed by the Architect of the Capitol.
 
-**(b) Librarian of Congress** The Librarian of Congress shall have charge of all work (other than work under subsection (a) of this section) at the Library of Congress buildings and grounds.
+**(b) Librarian of Congress** The Librarian of Congress shall have charge of all work (other than work under subsection (a)) at the Library of Congress buildings and grounds.
 
 **(c) Transfer of funds** The Architect of the Capitol and the Librarian of Congress may enter into agreements with each other to perform work under this section, and, subject to the approval of the Committees on Appropriations of the House of Representatives and the Senate and the Joint Committee on the Library, may transfer between themselves appropriations or other available funds to pay the costs therefor.
 
@@ -610,7 +617,8 @@ Effective October 1, 1988, and to continue thereafter, the Disbursing Officer of
 
 (2) compute and disburse the basic pay for all personnel of the Biomedical Ethics Board; and
 
-(3) provide financial management services and support to the Biomedical Ethics Board, in the same manner as provided with respect to the Office of Technology Assessment under [section 142f of this title](./chapter-005-library-of-congress.md#section-142f).
+(3) provide financial management services and support to the Biomedical Ethics Board,
+in the same manner as provided with respect to the Office of Technology Assessment under [section 142f of this title](./chapter-005-library-of-congress.md#section-142f).
 
 ### Statutory Notes
 
@@ -988,7 +996,8 @@ In the case of a gift of money or securities offered to the Library of Congress,
 
 (1) a gift of securities may not be invested or reinvested; and
 
-(2) any investment or reinvestment of a gift of money shall be made in an interest bearing obligation of the United States or an obligation guaranteed as to principal and interest by the United States. If the gift is not so approved within the 12-month period after the Librarian so takes possession, the principal of the gift shall be returned to the donor and any income earned during that period shall be available for use with respect to the Library of Congress as provided by law.
+(2) any investment or reinvestment of a gift of money shall be made in an interest bearing obligation of the United States or an obligation guaranteed as to principal and interest by the United States.
+If the gift is not so approved within the 12-month period after the Librarian so takes possession, the principal of the gift shall be returned to the donor and any income earned during that period shall be available for use with respect to the Library of Congress as provided by law.
 
 ### Statutory Notes
 
@@ -1121,7 +1130,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 (1) pay to the Library of Congress funds sufficient to cover the gross salary and the employer’s share of taxes under [section 3111 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3111&num=0&edition=prelim) for Center employees, in amounts computed by the Library of Congress;
 
-(2) as required by the Library of Congress, reimburse the Library of Congress for reasonable administrative costs incurred under subsection (e)(1) of this section;
+(2) as required by the Library of Congress, reimburse the Library of Congress for reasonable administrative costs incurred under subsection (e)(1);
 
 (3) comply with regulations and procedures prescribed by the Librarian of Congress for administration of this section;
 
@@ -1327,10 +1336,10 @@ Subsec. (j). Pub. L. 91–510 incorporated in provisions added as subsec. (j) ap
 Amendment by Pub. L. 106–57 applicable with respect to the first pay period which begins on or after Sept. 29, 1999 and each subsequent pay period, see section 209(c) of Pub. L. 106–57, set out as a note under [section 136a–2 of this title](./chapter-005-library-of-congress.md#section-136a-2).
 
 #### Effective Date of 1970 Amendment
-Amendment of provisions, other than enactment of subsecs. (d)(2), (3) and (i) of this section, and enactment of subsecs. (d)(2), (3) and (i) by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, at the close of the first session of the Ninety-second Congress, and with respect to fiscal years beginning on or after July 1, 1970, respectively, see section 601(1), (3), and (4) of Pub. L. 91–510, set out as a note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Amendment of provisions, other than enactment of subsecs. (d)(2), (3) and (i) of this section, and enactment of subsecs. (d)(2), (3) and (i) by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, at the close of the first session of the Ninety-second Congress, and with respect to fiscal years beginning on or after July 1, 1970, respectively, see section 601(1), (3), and (4) of Pub. L. 91–510, set out as a note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 #### Effective Date
-Section effective Aug. 2, 1946, see section 245 of that act, set out as a note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a).
+Section effective Aug. 2, 1946, see section 245 of act Aug. 2, 1946, set out as a note under [section 4301 of this title](./chapter-043-congressional-committees.md#section-4301).
 
 #### Repeals
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
@@ -1660,7 +1669,8 @@ The Congress hereby finds and declares—
 
 (6) that the book and the printed word have had the most profound influence on American civilization and learning and have been the very foundation on which our democratic principles have survived through our two hundred-year history;
 
-(7) that in the year 1977, the Congress of the United States assembled hereby declares its reaffirmation of the importance of the printed word and the book and recognizes the importance of a Center for the Book to the continued study and development of written record as central to our understanding of ourselves and our world. It is therefore the purpose of sections 171 to 175 of this title to establish a Center for the Book in the Library of Congress to provide a program for the investigation of the transmission of human knowledge and to heighten public interest in the role of books and printing in the diffusion of this knowledge.
+(7) that in the year 1977, the Congress of the United States assembled hereby declares its reaffirmation of the importance of the printed word and the book and recognizes the importance of a Center for the Book to the continued study and development of written record as central to our understanding of ourselves and our world.
+It is therefore the purpose of sections 171 to 175 of this title to establish a Center for the Book in the Library of Congress to provide a program for the investigation of the transmission of human knowledge and to heighten public interest in the role of books and printing in the diffusion of this knowledge.
 
 
 <a id="section-172"></a>
@@ -1851,9 +1861,9 @@ Pub. L. 104–285, title I, § 101, Oct. 11, 1996, 110 Stat. 3377, provided that
 
 (2) **Publication of films in Registry** — The Librarian shall publish in the Federal Register the name of each film that is selected for inclusion in the National Film Registry.
 
-(3) **Seal** — The Librarian shall provide a seal to indicate that a film has been included in the National Film Registry and is the Registry version of that film. The Librarian shall establish guidelines for approval of the use of the seal in accordance with subsection (b) of this section.
+(3) **Seal** — The Librarian shall provide a seal to indicate that a film has been included in the National Film Registry and is the Registry version of that film. The Librarian shall establish guidelines for approval of the use of the seal in accordance with subsection (b).
 
-**(b) Use of seal** The seal provided under subsection (a)(3) of this section may only be used on film or other approved copies of the Registry version of a film. Such seal may be used only after the Librarian has given approval to those persons seeking to apply the seal in accordance with the guidelines under subsection (a)(3) of this section. In the case of copyrighted, mass distributed, broadcast, or published works, only the copyright owner or an authorized licensee of the copyright owner may place or authorize the placement of the seal on any film or other approved copy of a Registry version of a film selected for inclusion in the National Film Registry, and the Librarian may place the seal on any film or other approved copy of the Registry version of any film that is maintained in the National Film Registry Collection in the Library of Congress. Anyone authorized to place the seal on any film or other approved copy of any Registry version of a film may accompany such seal with the following language: “This film was selected for inclusion in the National Film Registry by the National Film Preservation Board of the Library of Congress because of its cultural, historical, or aesthetic significance.”. The Librarian may authorize the use of the seal by the Library or by others for other limited purposes in order to promote in the National Film Registry when exhibiting, showing, or otherwise disseminating films in the Registry.
+**(b) Use of seal** The seal provided under subsection (a)(3) may only be used on film or other approved copies of the Registry version of a film. Such seal may be used only after the Librarian has given approval to those persons seeking to apply the seal in accordance with the guidelines under subsection (a)(3). In the case of copyrighted, mass distributed, broadcast, or published works, only the copyright owner or an authorized licensee of the copyright owner may place or authorize the placement of the seal on any film or other approved copy of a Registry version of a film selected for inclusion in the National Film Registry, and the Librarian may place the seal on any film or other approved copy of the Registry version of any film that is maintained in the National Film Registry Collection in the Library of Congress. Anyone authorized to place the seal on any film or other approved copy of any Registry version of a film may accompany such seal with the following language: “This film was selected for inclusion in the National Film Registry by the National Film Preservation Board of the Library of Congress because of its cultural, historical, or aesthetic significance.”. The Librarian may authorize the use of the seal by the Library or by others for other limited purposes in order to promote in the National Film Registry when exhibiting, showing, or otherwise disseminating films in the Registry.
 
 **(c) Coordination of program with other collection, preservation, and accessibility activities** In carrying out the comprehensive national film preservation program for motion pictures established under the National Film Preservation Act of 1992, the Librarian, in consultation with the Board established pursuant to [section 179n of this title](./chapter-005-library-of-congress.md#section-179n), shall—
 
@@ -1924,9 +1934,9 @@ Subsec. (c). Pub. L. 109–9, § 302(a)(2), added subsec. (c).
 
 (1) **Terms** — The term of each member of the Board shall be 4 years, except that there shall be no limit to the number of terms that any individual member may serve.
 
-(2) **Removal of member or organization** — The Librarian shall have the authority to remove any member of the Board, or the organization listed in subsection (a) of this section such member represents, if the member, or organization, over any consecutive 2-year period, fails to attend at least one regularly scheduled Board meeting.
+(2) **Removal of member or organization** — The Librarian shall have the authority to remove any member of the Board, or the organization listed in subsection (a) such member represents, if the member, or organization, over any consecutive 2-year period, fails to attend at least one regularly scheduled Board meeting.
 
-(3) **Vacancies** — A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a) of this section, except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy before the expiration of the term for which his or her predecessor was appointed shall be appointed for the remainder of such term.
+(3) **Vacancies** — A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a), except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy before the expiration of the term for which his or her predecessor was appointed shall be appointed for the remainder of such term.
 
 **(d) Quorum** 12 members of the Board shall constitute a quorum but a lesser number may hold hearings.
 
@@ -1980,9 +1990,9 @@ Subsec. (e). Pub. L. 109–9, § 302(b)(4), added subsec. (e) and struck out hea
 
 **(b) Additional materials** The Librarian shall endeavor to obtain, for educational and research purposes, additional materials related to each film included in the National Film Registry, such as background materials, production reports, shooting scripts (including continuity scripts) and other similar materials.
 
-**(c) Property of United States** All copies of films on the National Film Registry that are received as gifts or bequests by the Librarian and other materials received by the Librarian under subsection (b) of this section, shall become the property of the United States Government, subject to the provisions of title 17.
+**(c) Property of United States** All copies of films on the National Film Registry that are received as gifts or bequests by the Librarian and other materials received by the Librarian under subsection (b), shall become the property of the United States Government, subject to the provisions of title 17.
 
-**(d) National Film Registry Collection** All copies of films on the National Film Registry that are received by the Librarian under subsection (a) of this section, and other materials received by the Librarian under subsection (b) of this section, shall be maintained in the Library of Congress and be known as the “National Film Registry Collection of the Library of Congress”. The Librarian shall, by regulation, and in accordance with title 17, provide for reasonable access to the films and other materials in such collection for scholarly and research purposes.
+**(d) National Film Registry Collection** All copies of films on the National Film Registry that are received by the Librarian under subsection (a) of this section, and other materials received by the Librarian under subsection (b), shall be maintained in the Library of Congress and be known as the “National Film Registry Collection of the Library of Congress”. The Librarian shall, by regulation, and in accordance with title 17, provide for reasonable access to the films and other materials in such collection for scholarly and research purposes.
 
 **(e) National Audio-Visual Conservation Center** The Librarian shall utilize the National Audio-Visual Conservation Center of the Library of Congress at Culpeper, Virginia, to ensure that preserved films included in the National Film Registry are stored in a proper manner, and disseminated to researchers, scholars, and the public as may be appropriate in accordance with—
 
@@ -2110,7 +2120,7 @@ Pub. L. 108–447, div. G, title I, § 1205(a), Dec. 8, 2004, 118 Stat. 3189, pr
 
 **(b) “Legislative information” defined** As used in this section, the term “legislative information” means information, prepared within the legislative branch, consisting of the text of publicly available bills, amendments, committee hearings, and committee reports, the text of the Congressional Record, data relating to bill status, data relating to legislative activity, and other similar public information that is directly related to the legislative process.
 
-**(c) Development of single system to serve entire Congress** Pursuant to the plan approved under subsection (d) of this section and consistent with the provisions of any other law, the Library of Congress or the entity designated by that plan shall develop and maintain, in coordination with other appropriate entities of the legislative branch, a single legislative information retrieval system to serve the entire Congress.
+**(c) Development of single system to serve entire Congress** Pursuant to the plan approved under subsection (d) and consistent with the provisions of any other law, the Library of Congress or the entity designated by that plan shall develop and maintain, in coordination with other appropriate entities of the legislative branch, a single legislative information retrieval system to serve the entire Congress.
 
 **(d) Development and approval of plan** The Library shall develop a plan for creation of this system, taking into consideration the findings and recommendations of the study directed by House Report No. 103–517 to identify and eliminate redundancies in congressional information systems. This plan must be approved by the Committee on Rules and Administration of the Senate, the Committee on House Oversight of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives. The Library shall provide these committees with regular status reports on the development of the plan.
 
@@ -2128,7 +2138,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **(b)** As used in this section—
 
-(1) the term “offices and agencies of the legislative branch” means, the office of the Clerk of the House, the office of the Secretary of the Senate, the office of the Architect of the Capitol, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Congressional Research Service, the Congressional Budget Office, the Chief Administrative Officer of the House of Representatives, and the Sergeant at Arms of the Senate; and
+(1) the term “offices and agencies of the legislative branch” means, the office of the Clerk of the House, the office of the Secretary of the Senate, the office of the Architect of the Capitol, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Congressional Research Service, the Congressional Budget Office, the Chief Administrative Officer of the House of Representatives, and the Sergeant at Arms of the Senate; and
 
 (2) the term “technology” refers to any form of computer hardware and software; computer-based systems, services, and support for the creation, processing, exchange, and delivery of information; and telecommunications systems, and the associated hardware and software, that provide for voice, data, or image communication.
 
@@ -2139,6 +2149,8 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Change of Name
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+“Government Publishing Office” substituted for “Government Printing Office” in subsec. (b)(1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 
 <a id="section-182"></a>
@@ -2169,15 +2181,15 @@ Committee on House Oversight of House of Representatives changed to Committee on
 ## § 182a. Revolving fund for duplication services associated with audiovisual conservation center
 **(a) Establishment** There is hereby established in the Treasury a revolving fund for duplication and delivery services provided by the Librarian of Congress (hereafter in sections 182a to 182d of this title referred to as the “Librarian”) which are associated with the national audiovisual conservation center established under the Act entitled “An Act to authorize acquisition of certain real property for the Library of Congress, and for other purposes”, approved December 15, 1997 (Public Law 105–144; [2 U.S.C. 141](./chapter-005-library-of-congress.md#section-141) note).
 
-**(b) Fees for services** The Librarian may charge a fee for providing services described in subsection (a) of this section, and shall deposit any such fees charged into the revolving fund under this section.
+**(b) Fees for services** The Librarian may charge a fee for providing services described in subsection (a), and shall deposit any such fees charged into the revolving fund under this section.
 
 **(c) Contents of fund**
 
 (1) **In general** — The revolving fund under this section shall consist of the following amounts:
 
-  (A) Amounts deposited by the Librarian under subsection (b) of this section.
+  (A) Amounts deposited by the Librarian under subsection (b).
 
-  (B) Any other amounts received by the Librarian which are attributable to the services described in subsection (a) of this section.
+  (B) Any other amounts received by the Librarian which are attributable to the services described in subsection (a).
 
   (C) Amounts deposited by the Librarian under paragraph (2).
 
@@ -2185,7 +2197,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 (2) **Deposit of funds during transition** — The Librarian shall transfer to the revolving fund under this section the following:
 
-  (A) Any obligated, unexpended balances existing as of the date of the transfer which are attributable to the services described in subsection (a) of this section.
+  (A) Any obligated, unexpended balances existing as of the date of the transfer which are attributable to the services described in subsection (a).
 
   (B) An amount equal to the difference as of such date between—
 
@@ -2193,7 +2205,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
     (ii) the total value of the liabilities attributable to such services.
 
-**(d) Use of amounts in fund** Amounts in the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the services described in subsection (a) of this section.
+**(d) Use of amounts in fund** Amounts in the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the services described in subsection (a).
 
 ### Statutory Notes
 
@@ -2222,15 +2234,15 @@ Pub. L. 106–481, § 1, Nov. 9, 2000, 114 Stat. 2187, provided that: “This Ac
 
 (4) Special events and programs.
 
-**(b) Individual accounting requirement** A separate account shall be maintained in the revolving fund under this section with respect to the programs and activities described in each of the paragraphs of subsection (a) of this section.
+**(b) Individual accounting requirement** A separate account shall be maintained in the revolving fund under this section with respect to the programs and activities described in each of the paragraphs of subsection (a).
 
-**(c) Fees for services** The Librarian may charge a fee for services under any of the programs and activities described in subsection (a) of this section, and shall deposit any such fees charged into the account of the revolving fund under this section for such program or activity.
+**(c) Fees for services** The Librarian may charge a fee for services under any of the programs and activities described in subsection (a), and shall deposit any such fees charged into the account of the revolving fund under this section for such program or activity.
 
 **(d) Contents of accounts in fund**
 
 (1) **In general** — Each account of the revolving fund under this section shall consist of the following amounts:
 
-  (A) Amounts deposited by the Librarian under subsection (c) of this section.
+  (A) Amounts deposited by the Librarian under subsection (c).
 
   (B) Any other amounts received by the Librarian which are attributable to the programs and activities covered by such account.
 
@@ -2283,9 +2295,9 @@ Section applicable with respect to fiscal year 2002 and each succeeding fiscal y
 
 <a id="section-182c"></a>
 ## § 182c. Revolving fund for FEDLINK program and Federal Research program
-**(a) Establishment** There is hereby established in the Treasury a revolving fund for the Federal Library and Information Network program (hereafter in sections 182a to 182d of this title referred to as the “FEDLINK program”) of the Library of Congress (as described in subsection (f)(1) of this section) and the Federal Research program of the Library of Congress (as described in subsection (f)(2) of this section).
+**(a) Establishment** There is hereby established in the Treasury a revolving fund for the Federal Library and Information Network program (hereafter in sections 182a to 182d of this title referred to as the “FEDLINK program”) of the Library of Congress (as described in subsection (f)(1)) and the Federal Research program of the Library of Congress (as described in subsection (f)(2)).
 
-**(b) Individual accounting requirement** A separate account shall be maintained in the revolving fund under this section with respect to the programs described in subsection (a) of this section.
+**(b) Individual accounting requirement** A separate account shall be maintained in the revolving fund under this section with respect to the programs described in subsection (a).
 
 **(c) Fees for services**
 
@@ -2301,7 +2313,7 @@ Section applicable with respect to fiscal year 2002 and each succeeding fiscal y
 
 (1) **In general** — Each account of the revolving fund under this section shall consist of the following amounts:
 
-  (A) Amounts deposited by the Librarian under subsection (c) of this section.
+  (A) Amounts deposited by the Librarian under subsection (c).
 
   (B) Any other amounts received by the Librarian which are attributable to the program covered by such account.
 
@@ -2357,7 +2369,7 @@ Section applicable with respect to fiscal year 2002 and each succeeding fiscal y
 ## § 183. Written history of the House of Representatives
 **(a) In general** Subject to available funding and in accordance with the requirements of this section and [section 183a of this title](./chapter-005-library-of-congress.md#section-183a), the Librarian of Congress shall prepare, print, distribute, and arrange for the funding of, a new and complete written history of the House of Representatives, in consultation with the Committee on House Administration. In preparing this written history, the Librarian of Congress shall consult, commission, or engage the services or participation of, eminent historians, Members, and former Members of the House of Representatives.
 
-**(b) Guidelines** In carrying out subsection (a) of this section, the Librarian of Congress shall take into account the following:
+**(b) Guidelines** In carrying out subsection (a), the Librarian of Congress shall take into account the following:
 
 (1) The history should be an illustrated, narrative history of the House of Representatives, organized chronologically.
 
@@ -2371,15 +2383,15 @@ Section applicable with respect to fiscal year 2002 and each succeeding fiscal y
 
 (2) **Printing arrangements** — The printing may be performed—
 
-  (A) by the Public Printer pursuant to the provisions of chapter 5 of title 44;
+  (A) by the Director of the Government Publishing Office pursuant to the provisions of chapter 5 of title 44;
 
-  (B) under a cooperative arrangement among the Librarian of Congress, a private funding source obtained pursuant to subsection (e) of this section, and a publisher in the private sector; or
+  (B) under a cooperative arrangement among the Librarian of Congress, a private funding source obtained pursuant to subsection (e), and a publisher in the private sector; or
 
   (C) under subparagraphs (A) and (B).
 
 (3) **Internet dissemination** — Any arrangement under paragraph (2) shall include terms for dissemination of excerpts of the history over the Internet via facilities maintained by the United States Government.
 
-(4) **Member copies** — To the extent that the history is printed by the Public Printer, copies of the history provided to the Congress under subsection (d) of this section shall be charged to the Government Printing Office’s congressional allotment for printing and binding.
+(4) **Member copies** — To the extent that the history is printed by the Director of the Government Publishing Office, copies of the history provided to the Congress under subsection (d) shall be charged to the Government Publishing Office’s congressional allotment for printing and binding.
 
 **(d) Distribution** The Librarian of Congress shall make the history available for sale to the public, and shall make available, free of charge, 5 copies to each Member of the House of Representatives and 250 copies to the Senate.
 
@@ -2392,6 +2404,11 @@ This section and [section 183a of this title](./chapter-005-library-of-congress.
 
 #### Amendments
 2003—Subsec. (c)(3). Pub. L. 108–7 inserted “excerpts of” after “dissemination of”.
+
+#### Change of Name
+“Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (c)(2)(A), (4) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
+“Government Publishing Office’s” substituted for “Government Printing Office’s” in subsec. (c)(4) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Short Title
 Pub. L. 106–99, § 1, Nov. 12, 1999, 113 Stat. 1330, provided that: “This Act [enacting this section and [section 183a of this title](./chapter-005-library-of-congress.md#section-183a)] may be cited as the ‘History of the House Awareness and Preservation Act’.”
@@ -2427,6 +2444,11 @@ Pub. L. 106–99, § 1, Nov. 12, 1999, 113 Stat. 1330, provided that: “This Ac
 (2) make funds appropriated for the program available to consortium members, educational institutions, and libraries.
 
 **(d) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary to carry out this section for fiscal year 2006 and each fiscal year thereafter.
+
+### Statutory Notes
+
+#### Codification
+Section is from the Legislative Branch Appropriations Act, 2006.
 
 
 <a id="section-185"></a>
@@ -2479,6 +2501,9 @@ Pub. L. 106–99, § 1, Nov. 12, 1999, 113 Stat. 1330, provided that: “This Ac
 
 #### References in Text
 The Inspector General Act of 1978, referred to in subsec. (d)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+Section is from the Legislative Branch Appropriations Act, 2006.
 
 #### Amendments
 2010—Subsec. (b)(1). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(3). See 2007 Amendment note below.

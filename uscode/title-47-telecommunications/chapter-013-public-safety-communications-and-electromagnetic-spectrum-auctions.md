@@ -26,7 +26,7 @@ source: >-
 
 (5) **Deficit reduction** — $20,400,000,000 shall be deposited in the general fund of the Treasury, where such amount shall be dedicated for the sole purpose of deficit reduction.
 
-(6) **9–1–1, e9–1–1, and next generation 9–1–1 implementation grants** — $115,000,000 shall be available to the Assistant Secretary and the Administrator of the National Highway Traffic Safety Administration to carry out the grant program under [section 942 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-942).
+(6) **9–1–1, E9–1–1, and Next Generation 9–1–1 implementation grants** — $115,000,000 shall be available to the Assistant Secretary and the Administrator of the National Highway Traffic Safety Administration to carry out the grant program under [section 942 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-942).
 
 (7) **Additional public safety research** — $200,000,000 shall be available to the Director of NIST to carry out [section 1443 of this title](./chapter-013-public-safety-communications-and-electromagnetic-spectrum-auctions.md#section-1443).
 
@@ -274,7 +274,7 @@ The Commission may allow the narrowband spectrum to be used in a flexible manner
 
 
 <a id="section-1424"></a>
-## § 1424. 470–512 MHz public safety spectrum.
+## § 1424. 470–512 MHz public safety spectrum
 **(a) In general** Not later than 9 years after February 22, 2012, the Commission shall—
 
 (1) reallocate the spectrum in the 470–512 MHz band (referred to in this section as the “T-Band spectrum”) currently used by public safety eligibles as identified in section 90.303 of title 47, Code of Federal Regulations; and
@@ -328,7 +328,7 @@ This chapter, referred to in subsecs. (a) and (b)(2), was in the original “thi
 
 
 <a id="section-1427"></a>
-## § 1427. Public Safety Interoperability Board
+## § 1427. Public safety Interoperability Board
 **(a) Establishment** There is established within the Commission an advisory board to be known as the “Technical Advisory Board for First Responder Interoperability”.
 
 **(b) Membership**
@@ -391,7 +391,7 @@ This chapter, referred to in subsecs. (a) and (b)(2), was in the original “thi
 
 **(e) Exemption from FACA** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Interoperability Board.
 
-**(f) Termination of Authority** The Interoperability Board shall terminate 15 days after the date on which the Commission transmits the recommendations to the First Responder Network Authority under subsection (c)(3)(A).
+**(f) Termination of authority** The Interoperability Board shall terminate 15 days after the date on which the Commission transmits the recommendations to the First Responder Network Authority under subsection (c)(3)(A).
 
 ### Statutory Notes
 
@@ -998,7 +998,7 @@ Section is comprised of section 6401 of Pub. L. 112–96. Subsec. (c) of section
 
 (4) **Protection of carriage rights of licensees sharing a channel** — A broadcast television station that voluntarily relinquishes spectrum usage rights under this subsection in order to share a television channel and that possessed carriage rights under section 338, 534, or 535 of this title on November 30, 2010, shall have, at its shared location, the carriage rights under such section that would apply to such station at such location if it were not sharing a channel.
 
-**(b) Reorganization of broadcast tv spectrum**
+**(b) Reorganization of broadcast TV spectrum**
 
 (1) **In general** — For purposes of making available spectrum to carry out the forward auction under subsection (c)(1), the Commission—
 
@@ -1185,7 +1185,7 @@ Section is comprised of section 6401 of Pub. L. 112–96. Subsec. (c) of section
 
   (C) replacement of transmission equipment.
 
-(3) **Applicability of environmental laws** — Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of the National Historic Preservation Act or the National Environmental Policy Act of 1969.
+(3) **Applicability of environmental laws** — Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of the National Historic Preservation Act 11 See References in Text note below. or the National Environmental Policy Act of 1969.
 
 **(b) Federal easements and rights-of-way**
 
@@ -1224,7 +1224,7 @@ Section is comprised of section 6401 of Pub. L. 112–96. Subsec. (c) of section
 #### References in Text
 Section 704 of the Telecommunications Act of 1996, referred to in subsecs. (a)(1) and (c)(1), is section 704 of Pub. L. 104–104, title VII, Feb. 8, 1996, 110 Stat. 151. Subsec. (a) of section 704 of Pub. L. 104–104 amended [section 332 of this title](./chapter-005-wire-or-radio-communication.md#section-332). Subsec. (b) of section 704 of Pub. L. 104–104 is not classified to the Code. Subsec. (c) of section 704 of Pub. L. 104–104 is set out as a note under [section 332 of this title](./chapter-005-wire-or-radio-communication.md#section-332).
 
-The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see [section 470(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470/a&num=0&edition=prelim) and Tables.
+The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation, prior to the enactment of Title 54, National Park Service and Related Programs. See [54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) et seq.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 

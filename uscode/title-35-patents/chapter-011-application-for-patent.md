@@ -20,9 +20,9 @@ source: >-
 
   (C) an oath or declaration as prescribed by section 115.
 
-(3) **Fee and oath or declaration.—** — The application must be accompanied by the fee required by law. The fee and oath or declaration may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director.
+(3) **Fee, oath or declaration, and claims.—** — The application shall be accompanied by the fee required by law. The fee, oath or declaration, and 1 or more claims may be submitted after the filing date of the application, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director. Upon failure to submit the fee, oath or declaration, and 1 or more claims within such prescribed period, the application shall be regarded as abandoned.
 
-(4) **Failure to submit.—** — Upon failure to submit the fee and oath or declaration within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Director that the delay in submitting the fee and oath or declaration was unavoidable or unintentional. The filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.
+(4) **Filing date.—** — The filing date of an application shall be the date on which a specification, with or without claims, is received in the United States Patent and Trademark Office.
 
 **(b) Provisional Application.—**
 
@@ -34,15 +34,9 @@ source: >-
 
 (2) **Claim.—** — A claim, as required by subsections (b) through (e) of section 112, shall not be required in a provisional application.
 
-(3) **Fee.—**
+(3) **Fee.—** — The application shall be accompanied by the fee required by law. The fee may be submitted after the filing date of the application, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director. Upon failure to submit the fee within such prescribed period, the application shall be regarded as abandoned.
 
-  (A) The application must be accompanied by the fee required by law.
-
-  (B) The fee may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director.
-
-  (C) Upon failure to submit the fee within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Director that the delay in submitting the fee was unavoidable or unintentional.
-
-(4) **Filing date.—** — The filing date of a provisional application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.
+(4) **Filing date.—** — The filing date of a provisional application shall be the date on which a specification, with or without claims, is received in the United States Patent and Trademark Office.
 
 (5) **Abandonment.—** — Notwithstanding the absence of a claim, upon timely request and as prescribed by the Director, a provisional application may be treated as an application filed under subsection (a). Subject to section 119(e)(3), if no such request is made, the provisional application shall be regarded as abandoned 12 months after the filing date of such application and shall not be subject to revival after such 12-month period.
 
@@ -52,33 +46,15 @@ source: >-
 
 (8) **Applicable provisions.—** — The provisions of this title relating to applications for patent shall apply to provisional applications for patent, except as otherwise provided, and except that provisional applications for patent shall not be subject to sections 131 and 135.
 
-### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 112–211, title II, §§ 201(a), 203, Dec. 18, 2012, 126 Stat. 1533, 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to certain patents and applications for patent, and not effective with respect to patents in litigation commenced before the effective date, this section is amended as follows:
-
-(1) in subsection (a), by striking paragraphs (3) and (4) and inserting the following:
-
-“(3) Fee, oath or declaration, and claims.—The application shall be accompanied by the fee required by law. The fee, oath or declaration, and 1 or more claims may be submitted after the filing date of the application, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director. Upon failure to submit the fee, oath or declaration, and 1 or more claims within such prescribed period, the application shall be regarded as abandoned.
-
-“(4) Filing date.—The filing date of an application shall be the date on which a specification, with or without claims, is received in the United States Patent and Trademark Office.”;
-
-(2) in subsection (b), by striking paragraphs (3) and (4) and inserting the following:
-
-“(3) Fee.—The application shall be accompanied by the fee required by law. The fee may be submitted after the filing date of the application, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director. Upon failure to submit the fee within such prescribed period, the application shall be regarded as abandoned.
-
-“(4) Filing date.—The filing date of a provisional application shall be the date on which a specification, with or without claims, is received in the United States Patent and Trademark Office.”; and
-
-(3) by adding at the end the following:
-
-(c) Prior Filed Application.—Notwithstanding the provisions of subsection (a), the Director may prescribe the conditions, including the payment of a surcharge, under which a reference made upon the filing of an application under subsection (a) to a previously filed application, specifying the previously filed application by application number and the intellectual property authority or country in which the application was filed, shall constitute the specification and any drawings of the subsequent application for purposes of a filing date. A copy of the specification and any drawings of the previously filed application shall be submitted within such period and under such conditions as may be prescribed by the Director. A failure to submit the copy of the specification and any drawings of the previously filed application within the prescribed period shall result in the application being regarded as abandoned. Such application shall be treated as having never been filed, unless—
+**(c) Prior Filed Application.—** Notwithstanding the provisions of subsection (a), the Director may prescribe the conditions, including the payment of a surcharge, under which a reference made upon the filing of an application under subsection (a) to a previously filed application, specifying the previously filed application by application number and the intellectual property authority or country in which the application was filed, shall constitute the specification and any drawings of the subsequent application for purposes of a filing date. A copy of the specification and any drawings of the previously filed application shall be submitted within such period and under such conditions as may be prescribed by the Director. A failure to submit the copy of the specification and any drawings of the previously filed application within the prescribed period shall result in the application being regarded as abandoned. Such application shall be treated as having never been filed, unless—
 
 (1) the application is revived under section 27; and
 
 (2) a copy of the specification and any drawings of the previously filed application are submitted to the Director.
 
-See 2012 Amendment notes below.
+### Statutory Notes
 
+#### Amendment of Section
 Pub. L. 112–211, title I, §§ 102(3), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, subsection (b)(7) of this section is amended by substituting “section 119, 365(a), or 386(a)” for “section 119 or 365(a)” and “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”. See 2012 Amendment note below.
 
 #### Historical and Revision Notes
@@ -433,13 +409,13 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 <a id="section-119"></a>
 ## § 119. Benefit of earlier filing date; right of priority
-**(a)** An application for patent for an invention filed in this country by any person who has, or whose legal representatives or assigns have, previously regularly filed an application for a patent for the same invention in a foreign country which affords similar privileges in the case of applications filed in the United States or to citizens of the United States, or in a WTO member country, shall have the same effect as the same application would have if filed in this country on the date on which the application for patent for the same invention was first filed in such foreign country, if the application in this country is filed within twelve months from the earliest date on which such foreign application was filed.
+**(a)** An application for patent for an invention filed in this country by any person who has, or whose legal representatives or assigns have, previously regularly filed an application for a patent for the same invention in a foreign country which affords similar privileges in the case of applications filed in the United States or to citizens of the United States, or in a WTO member country, shall have the same effect as the same application would have if filed in this country on the date on which the application for patent for the same invention was first filed in such foreign country, if the application in this country is filed within 12 months from the earliest date on which such foreign application was filed. The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period set forth in this subsection may be extended by an additional 2 months if the delay in filing the application in this country within the 12-month period was unintentional.
 
 **(b)**
 
 (1) No application for patent shall be entitled to this right of priority unless a claim is filed in the Patent and Trademark Office, identifying the foreign application by specifying the application number on that foreign application, the intellectual property authority or country in or for which the application was filed, and the date of filing the application, at such time during the pendency of the application as required by the Director.
 
-(2) The Director may consider the failure of the applicant to file a timely claim for priority as a waiver of any such claim. The Director may establish procedures, including the payment of a surcharge, to accept an unintentionally delayed claim under this section.
+(2) The Director may consider the failure of the applicant to file a timely claim for priority as a waiver of any such claim. The Director may establish procedures, including the requirement for payment of the fee specified in section 41(a)(7), to accept an unintentionally delayed claim under this section.
 
 (3) The Director may require a certified copy of the original foreign application, specification, and drawings upon which it is based, a translation if not in the English language, and such other information as the Director considers necessary. Any such certification shall be made by the foreign intellectual property authority in which the foreign application was filed and show the date of the application and of the filing of the specification and other papers.
 
@@ -449,11 +425,11 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 **(e)**
 
-(1) An application for patent filed under section 111(a) or section 363 for an invention disclosed in the manner provided by section 112(a) (other than the requirement to disclose the best mode) in a provisional application filed under section 111(b), by an inventor or inventors named in the provisional application, shall have the same effect, as to such invention, as though filed on the date of the provisional application filed under section 111(b), if the application for patent filed under section 111(a) or section 363 is filed not later than 12 months after the date on which the provisional application was filed and if it contains or is amended to contain a specific reference to the provisional application. No application shall be entitled to the benefit of an earlier filed provisional application under this subsection unless an amendment containing the specific reference to the earlier filed provisional application is submitted at such time during the pendency of the application as required by the Director. The Director may consider the failure to submit such an amendment within that time period as a waiver of any benefit under this subsection. The Director may establish procedures, including the payment of a surcharge, to accept an unintentionally delayed submission of an amendment under this subsection during the pendency of the application.
+(1) An application for patent filed under section 111(a) or section 363 for an invention disclosed in the manner provided by section 112(a) (other than the requirement to disclose the best mode) in a provisional application filed under section 111(b), by an inventor or inventors named in the provisional application, shall have the same effect, as to such invention, as though filed on the date of the provisional application filed under section 111(b), if the application for patent filed under section 111(a) or section 363 is filed not later than 12 months after the date on which the provisional application was filed and if it contains or is amended to contain a specific reference to the provisional application. The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period set forth in this subsection may be extended by an additional 2 months if the delay in filing the application under section 111(a) or section 363 within the 12-month period was unintentional. No application shall be entitled to the benefit of an earlier filed provisional application under this subsection unless an amendment containing the specific reference to the earlier filed provisional application is submitted at such time during the pendency of the application as required by the Director. The Director may consider the failure to submit such an amendment within that time period as a waiver of any benefit under this subsection. The Director may establish procedures, including the payment of the fee specified in section 41(a)(7), to accept an unintentionally delayed submission of an amendment under this subsection.
 
 (2) A provisional application filed under section 111(b) may not be relied upon in any proceeding in the Patent and Trademark Office unless the fee set forth in subparagraph (A) or (C) of section 41(a)(1) has been paid.
 
-(3) If the day that is 12 months after the filing date of a provisional application falls on a Saturday, Sunday, or Federal holiday within the District of Columbia, the period of pendency of the provisional application shall be extended to the next succeeding secular or business day.
+(3) If the day that is 12 months after the filing date of a provisional application falls on a Saturday, Sunday, or Federal holiday within the District of Columbia, the period of pendency of the provisional application shall be extended to the next succeeding secular or business day. For an application for patent filed under section 363 in a Receiving Office other than the Patent and Trademark Office, the 12-month and additional 2-month period set forth in this subsection shall be extended as provided under the treaty and Regulations as defined in section 351.
 
 **(f)** Applications for plant breeder’s rights filed in a WTO member country (or in a foreign UPOV Contracting Party) shall have the same effect for the purpose of the right of priority under subsections (a) through (c) of this section as applications for patents, subject to the same conditions and requirements of this section as apply to applications for patents.
 
@@ -464,19 +440,6 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 (2) the term “UPOV Contracting Party” means a member of the International Convention for the Protection of New Varieties of Plants.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 112–211, title II, §§ 201(c)(1), 202(b)(2), 203, Dec. 18, 2012, 126 Stat. 1534, 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:
-
-(1) in subsection (a), by substituting “12” for “twelve” and by inserting at the end “The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period set forth in this subsection may be extended by an additional 2 months if the delay in filing the application in this country within the 12-month period was unintentional.”;
-
-(2) in subsection (b)(2), in the second sentence, by substituting “including the requirement for payment of the fee specified in section 41(a)(7)” for “including the payment of a surcharge”;
-
-(3) in subsection (e)(1), by inserting after the first sentence “The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period set forth in this subsection may be extended by an additional 2 months if the delay in filing the application under section 111(a) or section 363 within the 12-month period was unintentional.” and, in the last sentence, by substituting “including the payment of the fee specified in section 41(a)(7)” for “including the payment of a surcharge” and by striking “during the pendency of the application”; and
-
-(4) in subsection (e)(3), by inserting at the end “For an application for patent filed under section 363 in a Receiving Office other than the Patent and Trademark Office, the 12-month and additional 2-month period set forth in this subsection shall be extended as provided under the treaty and Regulations as defined in section 351.”
-
-See 2012 Amendment notes below.
 
 #### Historical and Revision Notes
 Based on Title 35, U.S.C., 1946 ed., § 32, second paragraph (R.S. 4887, second paragraph, amended (1) Mar. 3, 1903, ch. 1019, § 1, 32 Stat. 1225, 1226, (2) June 19, 1936, ch. 594, 49 Stat. 1529, (3) Aug. 5, 1939, ch. 450, § 1, 53 Stat. 1212).
@@ -563,14 +526,12 @@ Act Aug. 23, 1954, ch. 823, 68 Stat. 764, provided that the priority rights spec
 <a id="section-120"></a>
 ## § 120. Benefit of earlier filing date in the United States
 
-An application for patent for an invention disclosed in the manner provided by section 112(a) (other than the requirement to disclose the best mode) in an application previously filed in the United States, or as provided by section 363, which names an inventor or joint inventor in the previously filed application shall have the same effect, as to such invention, as though filed on the date of the prior application, if filed before the patenting or abandonment of or termination of proceedings on the first application or on an application similarly entitled to the benefit of the filing date of the first application and if it contains or is amended to contain a specific reference to the earlier filed application. No application shall be entitled to the benefit of an earlier filed application under this section unless an amendment containing the specific reference to the earlier filed application is submitted at such time during the pendency of the application as required by the Director. The Director may consider the failure to submit such an amendment within that time period as a waiver of any benefit under this section. The Director may establish procedures, including the payment of a surcharge, to accept an unintentionally delayed submission of an amendment under this section.
+An application for patent for an invention disclosed in the manner provided by section 112(a) (other than the requirement to disclose the best mode) in an application previously filed in the United States, or as provided by section 363, which names an inventor or joint inventor in the previously filed application shall have the same effect, as to such invention, as though filed on the date of the prior application, if filed before the patenting or abandonment of or termination of proceedings on the first application or on an application similarly entitled to the benefit of the filing date of the first application and if it contains or is amended to contain a specific reference to the earlier filed application. No application shall be entitled to the benefit of an earlier filed application under this section unless an amendment containing the specific reference to the earlier filed application is submitted at such time during the pendency of the application as required by the Director. The Director may consider the failure to submit such an amendment within that time period as a waiver of any benefit under this section. The Director may establish procedures, including the requirement for payment of the fee specified in section 41(a)(7), to accept an unintentionally delayed submission of an amendment under this section.
 
 ### Statutory Notes
 
 #### Amendment of Section
 Pub. L. 112–211, title I, §§ 102(5), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended in the first sentence by substituting “section 363 or 385” for “section 363”. See 2012 Amendment note below.
-
-Pub. L. 112–211, title II, §§ 202(b)(3), 203, Dec. 18, 2012, 126 Stat. 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended in the fourth sentence by substituting “including the requirement for payment of the fee specified in section 41(a)(7)” for “including the payment of a surcharge”. See 2012 Amendment note below.
 
 #### Historical and Revision Notes
 This section represents present law not expressed in the statute, except for the added requirement that the first application must be specifically mentioned in the second.
@@ -679,7 +640,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
     (ii) An applicant may rescind a request made under clause (i) at any time.
 
-    (iii) An applicant who has made a request under clause (i) but who subsequently files, in a foreign country or under a multilateral international agreement specified in clause (i), an application directed to the invention disclosed in the application filed in the Patent and Trademark Office, shall notify the Director of such filing not later than 45 days after the date of the filing of such foreign or international application. A failure of the applicant to provide such notice within the prescribed period shall result in the application being regarded as abandoned, unless it is shown to the satisfaction of the Director that the delay in submitting the notice was unintentional.
+    (iii) An applicant who has made a request under clause (i) but who subsequently files, in a foreign country or under a multilateral international agreement specified in clause (i), an application directed to the invention disclosed in the application filed in the Patent and Trademark Office, shall notify the Director of such filing not later than 45 days after the date of the filing of such foreign or international application. A failure of the applicant to provide such notice within the prescribed period shall result in the application being regarded as abandoned.
 
     (iv) If an applicant rescinds a request made under clause (i) or notifies the Director that an application was filed in a foreign country or under a multilateral international agreement specified in clause (i), the application shall be published in accordance with the provisions of paragraph (1) on or as soon as is practical after the date that is specified in clause (i).
 
@@ -710,9 +671,6 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
   (C) include a statement by the person making such submission affirming that the submission was made in compliance with this section.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)(2)(B)(iii)
-Pub. L. 112–211, title II, §§ 202(b)(4), 203, Dec. 18, 2012, 126 Stat. 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, subsection (b)(2)(B)(iii) of this section is amended in the second sentence by striking “, unless it is shown” and all that follows through “unintentional”. See 2012 Amendment note below.
 
 #### Historical and Revision Notes
 This section enacts the Patent Office rule of secrecy of applications.

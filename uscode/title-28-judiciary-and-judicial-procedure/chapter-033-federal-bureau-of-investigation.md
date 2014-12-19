@@ -80,7 +80,8 @@ The Attorney General may appoint officials—
 
 (3) to assist in the protection of the person of the Attorney General.22 So in original. The period probably should be “; and”.
 
-(4) to conduct such other investigations regarding official matters under the control of the Department of Justice and the Department of State as may be directed by the Attorney General. This section does not limit the authority of departments and agencies to investigate crimes against the United States when investigative jurisdiction has been assigned by law to such departments and agencies.
+(4) to conduct such other investigations regarding official matters under the control of the Department of Justice and the Department of State as may be directed by the Attorney General.
+This section does not limit the authority of departments and agencies to investigate crimes against the United States when investigative jurisdiction has been assigned by law to such departments and agencies.
 
 ### Statutory Notes
 

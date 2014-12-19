@@ -38,7 +38,7 @@ source: >-
 
   (A) It is the policy of the United States to foster expansion of exports of manufactured goods, agricultural products, and other goods and services, thereby contributing to the promotion and maintenance of high levels of employment and real income, a commitment to reinvestment and job creation, and the increased development of the productive resources of the United States. To meet this objective in all its programs, the Export-Import Bank is directed, in the exercise of its functions, to provide guarantees, insurance, and extensions of credit at rates and on terms and other conditions which are fully competitive with the Government-supported rates and terms and other conditions available for the financing of exports of goods and services from the principal countries whose exporters compete with United States exporters, including countries the governments of which are not members of the Arrangement (as defined in [section 635i–3(h)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635i–3/h/3&num=0&edition=prelim)). The Bank shall, in cooperation with the export financing instrumentalities of other governments, seek to minimize competition in government-supported export financing and shall, in cooperation with other appropriate United States Government agencies, seek to reach international agreements to reduce government subsidized export financing.
 
-  (B) It is further the policy of the United States that loans made by the Bank in all its programs shall bear interest at rates determined by the Board of Directors, consistent with the Bank’s mandate to support United States exports at rates and on terms and conditions which are fully competitive with exports of other countries, and consistent with international agreements. For the purpose of the preceding sentence, rates and terms and conditions need not be identical in all respects to those offered by foreign countries, but should be established so that the effect of such rates, terms, and conditions for all the Bank’s programs, including those for small businesses and for medium-term financing, will be to neutralize the effect of such foreign credit on international sales competition. The Bank shall consider its average cost of money as one factor in its determination of interest rates, where such consideration does not impair the Bank’s primary function of expanding United States exports through fully competitive financing. The Bank may not impose a credit application fee unless (i) the fee is competitive with the average fee charged by the Bank’s primary foreign competitors, and (ii) the borrower or the exporter is given the option of paying the fee at the outset of the loan or over the life of the loan and the present value of the fee determined under either such option is the same amount. It is also the policy of the United States that the Bank in the exercise of its functions should supplement and encourage, and not compete with, private capital; that the Bank, in determining whether to provide support for a transaction under the loan, guarantee, or insurance program, or any combination thereof, shall consider the need to involve private capital in support of United States exports as well as the cost of the transaction as calculated in accordance with the requirements of the Federal Credit Reform Act of 1990 [[2 U.S.C. 661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim) et seq.]; that the Bank shall accord equal opportunity to export agents and managers, independent export firms, export trading companies, and small commercial banks in the formulation and implementation of its programs; that the Bank should give emphasis to assisting new and small business entrants in the agricultural export market, and shall, in cooperation with other relevant Government agencies, including the Commodity Credit Corporation, develop a program of education to increase awareness of export opportunities among small agribusinesses and cooperatives; that loans, so far as possible consistent with the carrying out of the purposes of subsection (a) of this section, shall generally be for specific purposes, and, in the judgment of the Board of Directors, offer reasonable assurance of repayment; and that in authorizing any loan or guarantee, the Board of Directors shall take into account any serious adverse effect of such loan or guarantee on the competitive position of United States industry, the availability of materials which are in short supply in the United States, and employment in the United States, and shall give particular emphasis to the objective of strengthening the competitive position of United States exporters and thereby of expanding total United States exports. Only in cases where the President, after consultation with the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, determines that such action would be in the national interest where such action would clearly and importantly advance United States policy in such areas as international terrorism (including, when relevant, a foreign nation’s lack of cooperation in efforts to eradicate terrorism), nuclear proliferation, the enforcement of the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act [[22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.], the International Emergency Economic Powers Act [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.], or the Export Administration Act of 1979 [50 U.S.C. App. 2401 et seq.], environmental protection and human rights (such as are provided in the Universal Declaration of Human Rights adopted by the United Nations General Assembly on December 10, 1948) (including child labor), should the Export-Import Bank deny applications for credit for nonfinancial or noncommercial considerations. Each such determination shall be delivered in writing to the President of the Bank, shall state that the determination is made pursuant to this section, and shall specify the applications or categories of applications for credit which should be denied by the Bank in furtherance of the national interest.
+  (B) It is further the policy of the United States that loans made by the Bank in all its programs shall bear interest at rates determined by the Board of Directors, consistent with the Bank’s mandate to support United States exports at rates and on terms and conditions which are fully competitive with exports of other countries, and consistent with international agreements. For the purpose of the preceding sentence, rates and terms and conditions need not be identical in all respects to those offered by foreign countries, but should be established so that the effect of such rates, terms, and conditions for all the Bank’s programs, including those for small businesses and for medium-term financing, will be to neutralize the effect of such foreign credit on international sales competition. The Bank shall consider its average cost of money as one factor in its determination of interest rates, where such consideration does not impair the Bank’s primary function of expanding United States exports through fully competitive financing. The Bank may not impose a credit application fee unless (i) the fee is competitive with the average fee charged by the Bank’s primary foreign competitors, and (ii) the borrower or the exporter is given the option of paying the fee at the outset of the loan or over the life of the loan and the present value of the fee determined under either such option is the same amount. It is also the policy of the United States that the Bank in the exercise of its functions should supplement and encourage, and not compete with, private capital; that the Bank, in determining whether to provide support for a transaction under the loan, guarantee, or insurance program, or any combination thereof, shall consider the need to involve private capital in support of United States exports as well as the cost of the transaction as calculated in accordance with the requirements of the Federal Credit Reform Act of 1990 [[2 U.S.C. 661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim) et seq.]; that the Bank shall accord equal opportunity to export agents and managers, independent export firms, export trading companies, and small commercial banks in the formulation and implementation of its programs; that the Bank should give emphasis to assisting new and small business entrants in the agricultural export market, and shall, in cooperation with other relevant Government agencies, including the Commodity Credit Corporation, develop a program of education to increase awareness of export opportunities among small agribusinesses and cooperatives; that loans, so far as possible consistent with the carrying out of the purposes of subsection (a), shall generally be for specific purposes, and, in the judgment of the Board of Directors, offer reasonable assurance of repayment; and that in authorizing any loan or guarantee, the Board of Directors shall take into account any serious adverse effect of such loan or guarantee on the competitive position of United States industry, the availability of materials which are in short supply in the United States, and employment in the United States, and shall give particular emphasis to the objective of strengthening the competitive position of United States exporters and thereby of expanding total United States exports. Only in cases where the President, after consultation with the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, determines that such action would be in the national interest where such action would clearly and importantly advance United States policy in such areas as international terrorism (including, when relevant, a foreign nation’s lack of cooperation in efforts to eradicate terrorism), nuclear proliferation, the enforcement of the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act [[22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.], the International Emergency Economic Powers Act [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.], or the Export Administration Act of 1979 [50 U.S.C. App. 2401 et seq.], environmental protection and human rights (such as are provided in the Universal Declaration of Human Rights adopted by the United Nations General Assembly on December 10, 1948) (including child labor), should the Export-Import Bank deny applications for credit for nonfinancial or noncommercial considerations. Each such determination shall be delivered in writing to the President of the Bank, shall state that the determination is made pursuant to this section, and shall specify the applications or categories of applications for credit which should be denied by the Bank in furtherance of the national interest.
 
   (C) Consistent with the policy of [section 3261 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3261&num=0&edition=prelim) and section 2151q 11 See References in Text note below. of title 22, the Board of Directors shall name an officer of the Bank whose duties shall include advising the President of the Bank on ways of promoting the export of goods and services to be used in the development, production, and distribution of nonnuclear renewable energy resources, disseminating information concerning export opportunities and the availability of Bank support for such activities, and acting as a liaison between the Bank and the Department of Commerce and other appropriate departments and agencies.
 
@@ -142,21 +142,17 @@ source: >-
 
     (ii) *Separate determination for certain transactions.—* — The President shall make a separate determination under clause (i) for each transaction described in clause (i) or (ii) of subparagraph (A) for which the Bank would extend a loan in an amount equal to or greater than $50,000,000.
 
-    (iii) *Report of clause*
+    (iii) *Report of clause (i) determinations to congress.—* — Any determination by the President under clause (i) shall be reported to the Congress not later than the earlier of—
 
-      (i) *determinations to congress.—* — Any determination by the President under clause (i) shall be reported to the Congress not later than the earlier of—
+      (I) the end of the 30-day period beginning on the date of such determination; or
 
-    (I) the end of the 30-day period beginning on the date of such determination; or
+      (II) the date the Bank takes final action with respect to the first transaction involving the country, agency, or national for which such determination is made after January 4, 1975, unless a report of a determination with respect to such country, agency, or national was made and reported before January 4, 1975.
 
-    (II) the date the Bank takes final action with respect to the first transaction involving the country, agency, or national for which such determination is made after January 4, 1975, unless a report of a determination with respect to such country, agency, or national was made and reported before January 4, 1975.
+    (iv) *Report of clause (ii) determinations to congress.—* — Any determination by the President under clause (ii) shall be reported to the Congress not later than the earlier of—
 
-    (iv) *Report of clause*
+      (I) the end of the 30-day period beginning on the date of such determination; or
 
-      (ii) *determinations to congress.—* — Any determination by the President under clause (ii) shall be reported to the Congress not later than the earlier of—
-
-    (I) the end of the 30-day period beginning on the date of such determination; or
-
-    (II) the date the Bank takes final action with respect to the transaction for which such determination is made.
+      (II) the date the Bank takes final action with respect to the transaction for which such determination is made.
 
 (3) Except as provided by the fourth sentence of this paragraph, no loan or financial guarantee or general guarantee or insurance facility or combination thereof (i) in an amount which equals or exceeds $100,000,000, or (ii) for the export of technology, fuel, equipment, materials, or goods or services to be used in the construction, alteration, operation, or maintenance of nuclear power, enrichment, reprocessing, research, or heavy water production facilities, shall be finally approved by the Board of Directors of the Bank, unless in each case the Bank has submitted to the Congress with respect to such loan, financial guarantee, or combination thereof, a detailed statement describing and explaining the transaction, at least 25 days of continuous session of the Congress prior to the date of final approval. For the purpose of the preceding sentence, continuity of a session of the Congress shall be considered as broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain shall be excluded in the computation of the 25 day period referred to in such sentence. Such statement shall contain—
 
@@ -387,7 +383,7 @@ source: >-
 
   (B) shall forward information regarding any foreign country that denies United States insurance companies a fair and open competitive opportunity to the Secretary of Commerce and to the United States Trade Representative for consideration of a recommendation to the President that access by such country to export credit of the United States should be restricted.
 
-(4) **Notice of approval.—** — If the Bank approves a loan or guarantee with respect to a foreign country notwithstanding information regarding denial by that foreign country of competitive opportunities for United States insurance companies, the Bank shall include notice of such approval and the reason for such approval in the report on competition in officially supported export credit required under subsection (b)(1)(A) of this section.
+(4) **Notice of approval.—** — If the Bank approves a loan or guarantee with respect to a foreign country notwithstanding information regarding denial by that foreign country of competitive opportunities for United States insurance companies, the Bank shall include notice of such approval and the reason for such approval in the report on competition in officially supported export credit required under subsection (b)(1)(A).
 
 (5) **Definitions.—** — For purposes of this section—
 
@@ -934,9 +930,13 @@ Pub. L. 112–122, § 25, May 30, 2012, 126 Stat. 364, provided that: “Except 
 #### Effective and Termination Dates of 1994 Amendments
 Pub. L. 103–428, § 1(c), Oct. 31, 1994, 108 Stat. 4376, as amended by Pub. L. 105–121, § 4, Nov. 26, 1997, 111 Stat. 2529; Pub. L. 109–438, § 4, Dec. 20, 2006, 120 Stat. 3269; Pub. L. 112–122, § 24, May 30, 2012, 126 Stat. 364; Pub. L. 112–136, § 1, June 21, 2012, 126 Stat. 385, provided that: “The amendments made by this section [amending this section] shall remain in effect during the period beginning on the date of enactment of this Act [Oct. 31, 1994] and ending on September 30, 2014.”
 
-[Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191, provided in part: “That notwithstanding section 1(c) of Public Law 103–428 [set out above], as amended, sections 1(a) and (b) of Public Law 103–428 [amending this section] shall remain in effect through October 1, 2012” .]
+[Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598, provided in part: “That notwithstanding section 1(c) of Public Law 103–428 [set out above], as amended, sections 1(a) and (b) of Public Law 103–428 [amending this section] shall remain in effect through October 1, 2015.” ]
 
 [Prior similar extensions of section 1(a) and (b) of Pub. L. 103–428 were contained in the following acts:
+
+[Pub. L. 113–76, div. K, title VI, Jan. 17, 2014, 128 Stat. 489.
+
+[Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191.
 
 [Pub. L. 111–117, div. F, title VI, Dec. 16, 2009, 123 Stat. 3341.
 
@@ -1006,7 +1006,7 @@ Act July 31, 1945, ch. 341, § 1, 59 Stat. 526, provided: “That this Act [this
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see [section 2651a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2651a&num=0&edition=prelim), Foreign Relations and Intercourse, and section 161(d) of Pub. L. 103–236, set out as a note under [section 2651a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2651a&num=0&edition=prelim).
 
 #### Delegation of Functions
-Functions of President under subsec. (b)(6) of this section delegated to Secretary of State by section 1(s) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim), Foreign Relations and Intercourse.
+For delegation of functions of the President under subsec. (b)(6) of this section, see section 1(u) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim), Foreign Relations and Intercourse. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 #### Board of Directors
 A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, amending [section 635a of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635a). The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, eff. June 30, 1953, 18 F.R. 3741, 67 Stat. 637, set out as a note under [section 635a of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635a). The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See [section 635a of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635a) and 1954 Amendment and Effective Date of 1954 Amendment notes thereunder.
@@ -1311,11 +1311,7 @@ Determination No. 2009–21, June 12, 2009, 74 F.R. 28867.—Lao People’s Demo
 
     (I) 11 So in original. Probably should be “(i)”. the funds set aside to cover expected losses on transactions financed by the Bank; and
 
-  (ii) the costs incurred to cover the administrative expenses of the Bank.
-
-(3) **Limitation** — The aggregate of the amounts used in accordance with paragraph (1) for fiscal years 2012, 2013, and 2014 shall not exceed $20,000,000.
-
-(4) **Subject to appropriations** — The authority provided by paragraph (1) may be exercised only to such extent and in such amounts as are provided in advance in appropriations Acts.
+**(ii)** the costs incurred to cover the administrative expenses of the Bank. (3) LimitationThe aggregate of the amounts used in accordance with paragraph (1) for fiscal years 2012, 2013, and 2014 shall not exceed $20,000,000. (4) Subject to appropriationsThe authority provided by paragraph (1) may be exercised only to such extent and in such amounts as are provided in advance in appropriations Acts.
 
 ### Statutory Notes
 
@@ -1387,9 +1383,13 @@ Pub. L. 106–46, § 1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 1
 #### Compensation of Employees
 Pub. L. 102–429, title I, § 117, Oct. 21, 1996, 106 Stat. 2196, provided that: “[(a) Repealed. Pub. L. 102–429, title I, §117(b), Oct. 21, 1996, 106 Stat. 2196.] “(b) Sunset.—Effective 2 years after the date of enactment of this Act [Oct. 21, 1992], subsection (a) is hereby repealed. “(c) Report.—Not later than 1 year after the date of enactment of this Act, the Export-Import Bank of the United States shall submit a report to the Congress on—“(1) the recruitment and employee retention problems of the Bank; “(2) any relief from such problems afforded by the Office of Personnel Management; “(3) any use of the authority provided in subsection (a); and “(4) the conclusions and recommendations of the Bank with respect to—“(A) whether such problems have been satisfactorily addressed; and “(B) whether or not the authority of subsection (a) should be extended.”
 
-[Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) thereof shall remain in effect until October 1, 2012” .]
+[Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) thereof shall remain in effect until September 30, 2015” .]
 
 [Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+[Pub. L. 113–76, div. K, title VI, Jan. 17, 2014, 128 Stat. 489.
+
+[Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191.
 
 [Pub. L. 111–117, div. F, title VI, Dec. 16, 2009, 123 Stat. 3341.
 
@@ -1560,7 +1560,8 @@ The Export-Import Bank of the United States is authorized and directed to establ
 
 (1) the private credit market is not providing adequate financing to enable otherwise creditworthy export trading companies or exporters to consummate export transactions; and
 
-(2) such guarantees would facilitate expansion of exports which would not otherwise occur. The Board of Directors shall attempt to insure that a major share of any loan guarantees ultimately serves to promote exports from small, medium-size, and minority businesses or agricultural concerns. Guarantees provided under the authority of this section shall be subject to limitations contained in annual appropriations Acts.
+(2) such guarantees would facilitate expansion of exports which would not otherwise occur.
+The Board of Directors shall attempt to insure that a major share of any loan guarantees ultimately serves to promote exports from small, medium-size, and minority businesses or agricultural concerns. Guarantees provided under the authority of this section shall be subject to limitations contained in annual appropriations Acts.
 
 ### Statutory Notes
 
@@ -2144,7 +2145,7 @@ Section 635i–2, act July 31, 1945, ch. 341, § 14, as added Nov. 30, 1983, Pub
 
 **(b) Establishment of tied aid credit program**
 
-(1) **In general** — The Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—
+(1) **In general** — The Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c)—
 
   (A) to supplement the financing of a United States export when there is a reasonable expectation that predatory financing will be provided by another country for a sale by a competitor of the United States exporter with respect to such export and with special attention to matching tied aid and partially untied aid credits extended by other governments—
 
@@ -2162,7 +2163,7 @@ Section 635i–2, act July 31, 1945, ch. 341, § 14, as added Nov. 30, 1983, Pub
 
 (2) **Administration of program** — The tied aid credit program shall be administered by the Bank—
 
-  (A) in consultation with the Secretary and in accordance with the principles, process, and standards developed pursuant to paragraph (5) of this subsection and the purposes described in subsection (a)(5) of this section;
+  (A) in consultation with the Secretary and in accordance with the principles, process, and standards developed pursuant to paragraph (5) of this subsection and the purposes described in subsection (a)(5);
 
   (B) in cooperation with United States exporters and private financial institutions or entities, and in consultation with other Federal agencies, as appropriate; and
 
@@ -2181,7 +2182,7 @@ Section 635i–2, act July 31, 1945, ch. 341, § 14, as added Nov. 30, 1983, Pub
 
 (5) **Principles, process, and standards governing use of the Fund**
 
-  (A) *In general* — The Secretary and the Bank jointly shall develop a process for, and the principles and standards to be used in, determining how the amounts in the Tied Aid Credit Fund could be used most effectively and efficiently to carry out the purposes of subsection (a)(6) of this section.
+  (A) *In general* — The Secretary and the Bank jointly shall develop a process for, and the principles and standards to be used in, determining how the amounts in the Tied Aid Credit Fund could be used most effectively and efficiently to carry out the purposes of subsection (a)(6).
 
   (B) *Content of principles, process, and standards*
 
@@ -2227,9 +2228,9 @@ Section 635i–2, act July 31, 1945, ch. 341, § 14, as added Nov. 30, 1983, Pub
 
 **(c) Tied Aid Credit Fund**
 
-(1) **In general** — There is hereby established within the Bank a fund to be known as the “Tied Aid Credit Fund” (hereinafter in this section referred to as the “Fund”), consisting of such amounts as may be appropriated to the Fund pursuant to the authorization contained in subsection (e) of this section.
+(1) **In general** — There is hereby established within the Bank a fund to be known as the “Tied Aid Credit Fund” (hereinafter in this section referred to as the “Fund”), consisting of such amounts as may be appropriated to the Fund pursuant to the authorization contained in subsection (e).
 
-(2) **Expenditures from Fund** — Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) of this section and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank.
+(2) **Expenditures from Fund** — Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank.
 
 **(d) Consistency with Arrangement** Any export financing involving the use of a grant under the tied aid credit program shall be consistent with the procedures established by the Arrangement, as in effect at the time such financing is approved.
 
@@ -2421,7 +2422,7 @@ Section, act July 31, 1945, ch. 341, § 16, as added Oct. 21, 1986, Pub. L. 99�
 
 (2) **Limitations on authorization of appropriations** — In addition to other funds available to support the export of goods and services described in paragraph (1), there are authorized to be appropriated to the Bank not more than $35,000,000 for the cost (as defined in [section 661a(5) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5&num=0&edition=prelim)) of supporting such exports. If, in any fiscal year, the funds appropriated in accordance with this paragraph are not fully utilized due to insufficient qualified transactions for the export of such goods and services, such funds may be expended for other purposes eligible for support by the Bank.
 
-**(c) Inclusion in report to Congress** The Bank shall provide in its annual report to the Congress a summary of its activities under subsections (a) and (b) of this section.
+**(c) Inclusion in report to Congress** The Bank shall provide in its annual report to the Congress a summary of its activities under subsections (a) and (b).
 
 **(d) Interpretation** Nothing in this section shall be construed to create any cause of action.
 
@@ -2443,7 +2444,7 @@ A prior section 11 of act July 31, 1945, ch. 341, was renumbered section 9 and i
 ## § 635i–6. Debt reduction; Enterprise for the Americas Initiative
 **(a) Definitions** For purposes of this section—
 
-(1) the term “eligible country” means a country designated by the President in accordance with subsection (b) of this section;
+(1) the term “eligible country” means a country designated by the President in accordance with subsection (b);
 
 (2) the term “Facility” means the entity established in the Department of the Treasury by [section 1738 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1738&num=0&edition=prelim); and
 
@@ -2486,7 +2487,7 @@ A prior section 11 of act July 31, 1945, ch. 341, was renumbered section 9 and i
 
 **(d) Deposit of proceeds** The proceeds from the sale, reduction, or cancellation of any loan sold, reduced, or canceled pursuant to this section shall be deposited in the United States Government account or accounts established for the repayment of such loan.
 
-**(e) Eligible purchasers** A loan may be sold pursuant to subsection (c)(1)(A) of this section only to a purchaser who presents plans satisfactory to the President for using the loan for the purpose of engaging in debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
+**(e) Eligible purchasers** A loan may be sold pursuant to subsection (c)(1)(A) only to a purchaser who presents plans satisfactory to the President for using the loan for the purpose of engaging in debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
 
 **(f) Debtor consultation** Before the sale to any eligible purchaser, or any reduction or cancellation pursuant to this section, of any loan made to an eligible country, the President shall consult with the country concerning the amount of loans to be sold, reduced, or canceled and their uses for debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
 
@@ -2538,11 +2539,11 @@ A prior section 13 of act July 31, 1945, ch. 341, was classified to [section 635
 
 **(b) Limitations**
 
-(1) **Types of debt reduction** — The authority provided by subsection (a) of this section may be exercised only to implement multilateral agreements to reduce the burden of official bilateral debt as set forth in the minutes of the so-called “Paris Club” (also known as “Paris Club Agreed Minutes”).
+(1) **Types of debt reduction** — The authority provided by subsection (a) may be exercised only to implement multilateral agreements to reduce the burden of official bilateral debt as set forth in the minutes of the so-called “Paris Club” (also known as “Paris Club Agreed Minutes”).
 
 (2) **Eligible countries**
 
-  (A) *“Eligible country” defined* — As used in subsection (a) of this section, the term “eligible country” means any country that—
+  (A) *“Eligible country” defined* — As used in subsection (a), the term “eligible country” means any country that—
 
     (i) has excessively burdensome external debt;
 
@@ -2550,7 +2551,7 @@ A prior section 13 of act July 31, 1945, ch. 341, was classified to [section 635
 
     (iii) is not eligible to borrow from the International Bank for Reconstruction and Development.
 
-  (B) *Determinations* — Subject to subparagraph (A), the President may determine whether a country is an eligible country for purposes of subsection (a) of this section.
+  (B) *Determinations* — Subject to subparagraph (A), the President may determine whether a country is an eligible country for purposes of subsection (a).
 
 **(c) Conditions** The authority provided by this section may be exercised only with respect to a country whose government—
 
@@ -2562,7 +2563,7 @@ A prior section 13 of act July 31, 1945, ch. 341, was classified to [section 635
 
 (4) (including its military or other security forces) does not engage in a consistent pattern of gross violations of internationally recognized human rights.
 
-**(d) Appropriations** The authority provided by subsection (a) of this section may be exercised only in such amounts or to such extent as is provided in advance in appropriations Acts.
+**(d) Appropriations** The authority provided by subsection (a) may be exercised only in such amounts or to such extent as is provided in advance in appropriations Acts.
 
 ### Statutory Notes
 
@@ -2748,15 +2749,15 @@ Pub. L. 100–418, title II, § 2204(d)(2), Aug. 23, 1988, 102 Stat. 1331, provi
 ## § 635r. Establishment of tied aid credit program administered by Trade and Development Agency
 **(a) Establishment and elements of program** The Director of the Trade and Development Agency shall carry out a program of tied aid credits for United States exports. The program shall be carried out in cooperation with the Export-Import Bank of the United States and with private financial institutions or entities, as appropriate. The program may include—
 
-(1) the combined use of the credits, loans, or guarantees offered by the Bank with concessional financing or grants made available under subsection (d) of this section, by methods including the blending of the financing of, or parallel financing by, the Bank and the Trade and Development Agency; and
+(1) the combined use of the credits, loans, or guarantees offered by the Bank with concessional financing or grants made available under subsection (d), by methods including the blending of the financing of, or parallel financing by, the Bank and the Trade and Development Agency; and
 
-(2) the combination of concessional financing or grants made available under subsection (d) of this section with financing offered by private financial institutions or entities, by methods including the blending of the financing of, or parallel financing by, the Trade and Development Agency and private institutions or entities.
+(2) the combination of concessional financing or grants made available under subsection (d) with financing offered by private financial institutions or entities, by methods including the blending of the financing of, or parallel financing by, the Trade and Development Agency and private institutions or entities.
 
 **(b) Combination of funds with financing by Export-Import Bank or private commercial financing** These funds may be combined with financing by the Export-Import Bank of the United States or private commercial financing in order to offer, or arrange for, financing for the exportation of United States goods and services which is substantially as concessional as foreign financing for which there is reasonable proof that such foreign financing is being offered to, or arranged for, a bona fide foreign competitor for a United States export sale.
 
 **(c) Limitation on use of Agency funds; authorization for establishment of fund**
 
-(1) Funds which are used to carry out a tied aid credit program authorized by subsections (a) and (b) of this section shall be offered only to finance United States exports which can reasonably be expected to contribute to the advancement of the development objectives of the importing country or countries, and shall be consistent with the economic, security, and political criteria used to establish country allocations of Economic Support Funds.
+(1) Funds which are used to carry out a tied aid credit program authorized by subsections (a) and (b) shall be offered only to finance United States exports which can reasonably be expected to contribute to the advancement of the development objectives of the importing country or countries, and shall be consistent with the economic, security, and political criteria used to establish country allocations of Economic Support Funds.
 
 (2) The Director of the Trade and Development Agency is authorized to establish a fund, as necessary, for carrying out a tied aid credit financing program as described in this section.
 

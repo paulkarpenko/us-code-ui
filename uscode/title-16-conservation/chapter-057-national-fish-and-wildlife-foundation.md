@@ -152,7 +152,7 @@ Subsec. (b). Pub. L. 103–232, § 103(a)(1), inserted at end “The Secretary o
 Pub. L. 103–232, title I, § 103(a)(2), Apr. 11, 1994, 108 Stat. 336, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to appointments of Directors of the Board of Directors of the National Fish and Wildlife Foundation made after the date of the enactment of this Act [Apr. 11, 1994].”
 
 #### Initial Terms of Six New Directors
-Pub. L. 103–232, title I, § 103(c), Apr. 11, 1994, 108 Stat. 336, provided that: “Of the Directors on the Board of Directors of the National Fish and Wildlife Foundation first appointed pursuant to the amendment made by subsection (b)(1) [amending this section], notwithstanding the second sentence of section 3(b) of the National Fish and Wildlife Foundation Establishment Act ([16 U.S.C. 3702(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3702/b&num=0&edition=prelim))— “(1) 2 shall be appointed to a term of 2 years; “(2) 2 shall be appointed to a term of 4 years; and “(3) 2 shall be appointed to a term of 6 years; as specified by the Secretary of the Interior at the time of appointment.”
+Pub. L. 103–232, title I, § 103(c), Apr. 11, 1994, 108 Stat. 336, provided that: “Of the Directors on the Board of Directors of the National Fish and Wildlife Foundation first appointed pursuant to the amendment made by subsection (b)(1) [amending this section], notwithstanding the second sentence of section 3(b) of the National Fish and Wildlife Foundation Establishment Act ([16 U.S.C. 3702(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3702/b&num=0&edition=prelim))—“(1) 2 shall be appointed to a term of 2 years; “(2) 2 shall be appointed to a term of 4 years; and “(3) 2 shall be appointed to a term of 6 years; as specified by the Secretary of the Interior at the time of appointment.”
 
 #### Completion of Appointments
 Pub. L. 103–232, title I, § 103(d), Apr. 11, 1994, 108 Stat. 337, provided that: “The Secretary of the Interior shall appoint the additional members of the Board of Directors of the National Fish and Wildlife Foundation authorized by the amendment made by subsection (a) [(b)] [amending this section], by not later than 60 days after the date of the enactment of this Act [Apr. 11, 1994].”
@@ -449,9 +449,9 @@ Subsec. (c). Pub. L. 103–232, § 104(a)(2), added subsec. (c).
 <a id="section-3710"></a>
 ## § 3710. Limitation on authority
 
-Nothing in this chapter authorizes the Foundation to perform any function the authority for which is provided to the National Park Foundation by Public Law 90–209 ([16 U.S.C. 19e](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-19e) et seq.).
+Nothing in this chapter authorizes the Foundation to perform any function the authority for which is provided to the National Park Foundation by subchapter II of chapter 1011 of title 54.
 
 ### Statutory Notes
 
-#### References in Text
-Public Law 90–209, referred to in text, is Pub. L. 90–209, Dec. 18, 1967, 81 Stat. 656, as amended, popularly known as the National Park Foundation Act, which is classified generally to subchapter III (§ 19e et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 19e of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-19e) and Tables.
+#### Amendments
+2014—Pub. L. 113–287 substituted “subchapter II of chapter 1011 of title 54” for “Public Law 90–209 ([16 U.S.C. 19e](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-19e) et seq.)”.

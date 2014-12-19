@@ -46,7 +46,7 @@ In subsection (b), before clause (1), the words “may prescribe regulations est
 Subsection (c) is substituted for 31:483a(provisos) for clarity and to eliminate unnecessary words.
 
 #### Short Title of 1992 Amendment
-Pub. L. 102–393, title VI, § 638(a), Oct. 6, 1992, 106 Stat. 1779, provided that: “This section [enacting [section 9703 of this title](./chapter-097-miscellaneous.md#section-9703) and amending sections 981 and 982 of Title 18, Crimes and Criminal Procedure, [section 1509 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1509&num=0&edition=prelim), Food and Drugs, [section 524 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524&num=0&edition=prelim), Judiciary and Judicial Procedure, and [section 2003 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section2003&num=0&edition=prelim), Postal Service] may be cited as the ‘Treasury Forfeiture Fund Act of 1992’.”
+Pub. L. 102–393, title VI, § 638(a), Oct. 6, 1992, 106 Stat. 1779, provided that: “This section [enacting [section 9703 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703&num=0&edition=prelim) and amending sections 981 and 982 of Title 18, Crimes and Criminal Procedure, [section 1509 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1509&num=0&edition=prelim), Food and Drugs, [section 524 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524&num=0&edition=prelim), Judiciary and Judicial Procedure, and [section 2003 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section2003&num=0&edition=prelim), Postal Service] may be cited as the ‘Treasury Forfeiture Fund Act of 1992’.”
 
 
 <a id="section-9702"></a>
@@ -68,8 +68,8 @@ Except as required by a treaty of the United States, amounts held in trust by th
 The section is substituted for 31:547a for clarity and consistency in the revised title.
 
 
-<a id="section-9703"></a>
-## § 9703. 11 Another section 9703 is set out after [section 9704 of this title](./chapter-097-miscellaneous.md#section-9704). Managerial accountability and flexibility
+<a id="section-9703-1"></a>
+## § 9703.1. Managerial accountability and flexibility
 **(a)** Beginning with fiscal year 1999, the performance plans required under section 1115 may include proposals to waive administrative procedural requirements and controls, including specification of personnel staffing levels, limitations on compensation or remuneration, and prohibitions or restrictions on funding transfers among budget object classification 20 and subclassifications 11, 12, 31, and 32 of each annual budget submitted under section 1105, in return for specific individual or organization accountability to achieve a performance goal. In preparing and submitting the performance plan under section 1105(a)(29),22 See References in Text note below. the Director of the Office of Management and Budget shall review and may approve any proposed waivers. A waiver shall take effect at the beginning of the fiscal year for which the waiver is approved.
 
 **(b)** Any such proposal under subsection (a) shall describe the anticipated effects on performance resulting from greater managerial or organizational flexibility, discretion, and authority, and shall quantify the expected improvements in performance resulting from any waiver. The expected improvements shall be compared to current actual performance, and to the projected level of performance that would be achieved independent of any waiver.
@@ -93,8 +93,8 @@ Section 1115(f), referred to in subsec. (f), was redesignated [section 1115(g) o
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under [section 1101 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1101).
 
 
-<a id="section-9703"></a>
-## § 9703. 11 Another section 9703 is set out preceding [section 9704 of this title](./chapter-097-miscellaneous.md#section-9704). Department of the Treasury Forfeiture Fund
+<a id="section-9703-1"></a>
+## § 9703.1. Department of the Treasury Forfeiture Fund
 **(a) In General.—** There is established in the Treasury of the United States a fund to be known as the “Department of the Treasury Forfeiture Fund” (referred to in this section as the “Fund”). The Fund shall be available to the Secretary, without fiscal year limitation, with respect to seizures and forfeitures made pursuant to any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by the Department of the Treasury or the United States Coast Guard for the following law enforcement purposes:
 
 (1)
@@ -427,7 +427,7 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Unavailable Collections
-Section 122(a) of Pub. L. 105–61 provided that: “The Secretary of the Treasury is authorized to receive all unavailable collections transferred from the Special Forfeiture Fund established by section 26073 [6073] of the Anti-Drug Abuse Act of 1988 ([21 U.S.C. 1509](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1509&num=0&edition=prelim)) by the Director of the Office of Drug Control Policy as a deposit into the Treasury Forfeiture Fund ([31 U.S.C. 9703(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703/a&num=0&edition=prelim)), to become available for obligation on October 1, 1998, as revenue available for purposes identified under [31 U.S.C. 9703(g)(4)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703/g/4/B&num=0&edition=prelim).”
+Pub. L. 105–61, title I, § 122(a), Oct. 10, 1997, 111 Stat. 1289, provided that: “The Secretary of the Treasury is authorized to receive all unavailable collections transferred from the Special Forfeiture Fund established by section 26073 [6073] of the Anti-Drug Abuse Act of 1988 ([21 U.S.C. 1509](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1509&num=0&edition=prelim)) by the Director of the Office of Drug Control Policy as a deposit into the Treasury Forfeiture Fund ([31 U.S.C. 9703(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703/a&num=0&edition=prelim)), to become available for obligation on October 1, 1998, as revenue available for purposes identified under [31 U.S.C. 9703(g)(4)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9703/g/4/B&num=0&edition=prelim).”
 
 
 <a id="section-9704"></a>

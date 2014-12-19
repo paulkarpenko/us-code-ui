@@ -105,7 +105,7 @@ Pub. L. 100–418, title V, § 5143, Aug. 23, 1988, 102 Stat. 1446, provided tha
 
 (3) assist the Office of Science and Technology Policy in the preparation of such long-range materials assessments and reports as may be required by the National Materials and Minerals Policy, Research and Development Act of 1980, and assist other Federal entities in the preparation of analyses and reporting relating to critical and advanced materials.
 
-**(b) Review by Office of Management and Budget** The Office of Management and Budget, in reviewing the materials research, development, and technology authorization requests of the various Federal departments and agencies for any fiscal year, and the recommendations of the Council, shall consider all of such requests and recommendations as an integrated, coherent, multiagency request which shall be reviewed by the Office of Management and Budget for its adherence to the national Federal materials program plan in effect for such fiscal year under subsection (a) of this section.
+**(b) Review by Office of Management and Budget** The Office of Management and Budget, in reviewing the materials research, development, and technology authorization requests of the various Federal departments and agencies for any fiscal year, and the recommendations of the Council, shall consider all of such requests and recommendations as an integrated, coherent, multiagency request which shall be reviewed by the Office of Management and Budget for its adherence to the national Federal materials program plan in effect for such fiscal year under subsection (a).
 
 ### Statutory Notes
 

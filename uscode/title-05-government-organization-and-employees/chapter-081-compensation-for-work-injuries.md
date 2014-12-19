@@ -32,7 +32,7 @@ For the purpose of this subchapter—
 
   (iv) a member of the Metropolitan Police or the Fire Department of the District of Columbia who is pensioned or pensionable under sections 521–535 of title 4, District of Columbia Code; and
 
-(F) 11 So in original. Pub. L. 93–416 added par. (F) immediately after par. (iv), rather than after par. (E). an individual selected pursuant to chapter 121 of title 28, United States Code, and serving as a petit or grand juror;
+  (F) 11 So in original. Pub. L. 93–416 added par. (F) immediately after par. (iv), rather than after par. (E). an individual selected pursuant to chapter 121 of title 28, United States Code, and serving as a petit or grand juror;
 
 (2) “physician” includes surgeons, podiatrists, dentists, clinical psychologists, optometrists, chiropractors, and osteopathic practitioners within the scope of their practice as defined by State law. The term “physician” includes chiropractors only to the extent that their reimbursable services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
@@ -563,7 +563,8 @@ The period of compensation payable under the schedule in [section 8107(c) of thi
 
 (1) compensation in both cases is for disability of the same member or function or different parts of the same member or function or for disfigurement; and
 
-(2) the Secretary of Labor finds that compensation payable for the later disability in whole or in part would duplicate the compensation payable for the preexisting disability. In such a case, compensation for disability continuing after the scheduled period starts on expiration of that period as reduced under this section.
+(2) the Secretary of Labor finds that compensation payable for the later disability in whole or in part would duplicate the compensation payable for the preexisting disability.
+In such a case, compensation for disability continuing after the scheduled period starts on expiration of that period as reduced under this section.
 
 ### Statutory Notes
 
@@ -1130,7 +1131,8 @@ Compensation under this subchapter may be allowed only if an individual or someo
 
 (5) be sworn to by the individual entitled to compensation or someone on his behalf; and
 
-(6) except in case of death, be accompanied by a certificate of the physician of the employee stating the nature of the injury and the nature and probable extent of the disability. The Secretary may waive paragraphs (3)–(6) of this section for reasonable cause shown.
+(6) except in case of death, be accompanied by a certificate of the physician of the employee stating the nature of the injury and the nature and probable extent of the disability.
+The Secretary may waive paragraphs (3)–(6) of this section for reasonable cause shown.
 
 ### Statutory Notes
 
@@ -1288,7 +1290,8 @@ If an individual—
 
 (1) disobeys or resists a lawful order or process in proceedings under this subchapter before the Secretary of Labor or his representative; or
 
-(2) misbehaves during a hearing or so near the place of hearing as to obstruct it; the Secretary or his representative shall certify the facts to the district court having jurisdiction in the place where he is sitting. The court, in a summary manner, shall hear the evidence as to the acts complained of and if the evidence warrants, punish the individual in the same manner and to the same extent as for a contempt committed before the court, or commit the individual on the same conditions as if the forbidden act had occurred with reference to the process of or in the presence of the court.
+(2) misbehaves during a hearing or so near the place of hearing as to obstruct it;
+the Secretary or his representative shall certify the facts to the district court having jurisdiction in the place where he is sitting. The court, in a summary manner, shall hear the evidence as to the acts complained of and if the evidence warrants, punish the individual in the same manner and to the same extent as for a contempt committed before the court, or commit the individual on the same conditions as if the forbidden act had occurred with reference to the process of or in the presence of the court.
 
 ### Statutory Notes
 
@@ -2267,8 +2270,8 @@ Amendment by section 25 of Pub. L. 93–416 applicable to cases where injury or 
 
 Amendment by section 26 of Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any death or injury occurring on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under [section 8101 of this title](./chapter-081-compensation-for-work-injuries.md#section-8101).
 
-#### Government Printing Office Payment of Cost of Administration
-Pub. L. 105–275, title III, § 313, Oct. 21, 1998, 112 Stat. 2460, provided that: “For purposes of [section 8147 of title 5](./chapter-081-compensation-for-work-injuries.md#section-8147), United States Code, the Government Printing Office is not considered an agency which is required by statute to submit an annual budget pursuant to or as provided by chapter 91 of title 31, United States Code, and is not required to pay an additional amount for the cost of administration.”
+#### Government Publishing Office Payment of Cost of Administration
+Pub. L. 105–275, title III, § 313, Oct. 21, 1998, 112 Stat. 2460, as amended by Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that: “For purposes of [section 8147 of title 5](./chapter-081-compensation-for-work-injuries.md#section-8147), United States Code, the Government Publishing Office is not considered an agency which is required by statute to submit an annual budget pursuant to or as provided by chapter 91 of title 31, United States Code, and is not required to pay an additional amount for the cost of administration.”
 
 #### Fiscal Year 1994 Prohibition on Payments to Individuals Convicted of Issuing False Statements or Fraud
 Pub. L. 103–112, title I, § 102, Oct. 21, 1993, 107 Stat. 1089, Department of Labor Appropriation Act, 1994, provided that: “None of the funds in the Employees’ Compensation Fund under [5 U.S.C. 8147](./chapter-081-compensation-for-work-injuries.md#section-8147) shall be expended for payment of compensation, benefits, and expenses to any individual convicted of a violation of [18 U.S.C. 1920](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1920&num=0&edition=prelim), or of any felony fraud related to the application for or receipt of benefits under subchapters I or III of chapter 81 of title 5, United States Code.”
@@ -2449,7 +2452,8 @@ In case of disability or death resulting from injury, as defined by section 2(2)
 
 (1) not a citizen or permanent resident of the United States or a territory or possession of the United States; and
 
-(2) employed outside the continental United States; compensation shall be provided in accordance with regulations prescribed by the Secretary of the military department concerned and approved by the Secretary of Defense or regulations prescribed by the Secretary of Transportation, as the case may be.
+(2) employed outside the continental United States;
+compensation shall be provided in accordance with regulations prescribed by the Secretary of the military department concerned and approved by the Secretary of Defense or regulations prescribed by the Secretary of Transportation, as the case may be.
 
 ### Statutory Notes
 
@@ -2503,7 +2507,8 @@ The benefits of this subchapter are available as provided in this subchapter to 
 
 (2) a law enforcement officer and to have been engaged on that occasion in protecting or guarding a person held for the commission of a crime against the United States or as a material witness in connection with such a crime; or
 
-(3) a law enforcement officer and to have been engaged on that occasion in the lawful prevention of, or lawful attempt to prevent, the commission of a crime against the United States; and to have been on that occasion not an employee as defined in section 8101(1), and to have sustained on that occasion a personal injury for which the United States would be required under subchapter I of this chapter to pay compensation if he had been on that occasion such an employee engaged in the performance of his duty. No person otherwise eligible to receive a benefit under this subchapter because of the disability or death of an eligible officer shall be barred from the receipt of such benefit because the person apprehended or attempted to be apprehended by such officer was then sought for the commission of a crime against a sovereignty other than the United States.
+(3) a law enforcement officer and to have been engaged on that occasion in the lawful prevention of, or lawful attempt to prevent, the commission of a crime against the United States;
+and to have been on that occasion not an employee as defined in section 8101(1), and to have sustained on that occasion a personal injury for which the United States would be required under subchapter I of this chapter to pay compensation if he had been on that occasion such an employee engaged in the performance of his duty. No person otherwise eligible to receive a benefit under this subchapter because of the disability or death of an eligible officer shall be barred from the receipt of such benefit because the person apprehended or attempted to be apprehended by such officer was then sought for the commission of a crime against a sovereignty other than the United States.
 
 ### Statutory Notes
 

@@ -2,7 +2,7 @@
 title: 15
 chapter: '7'
 heading: NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
-section_count: 48
+section_count: 49
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -47,6 +47,9 @@ Section 5115(c) of Pub. L. 100–418 provided that: “References in any other F
 
 Act Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, created the Department of Labor and renamed the Department of Commerce and Labor as the Department of Commerce.
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–235, div. B, title VII, § 701, Dec. 16, 2014, 128 Stat. 2220, provided that: “This title [enacting [section 278s of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278s), amending [section 3722 of this title](./chapter-063-technology-innovation.md#section-3722) and [section 6622 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6622&num=0&edition=prelim), The Public Health and Welfare, enacting provisions set out as a note under [section 278s of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278s), and amending provisions set out as a note under this section] may be cited as the ‘Revitalize American Manufacturing and Innovation Act of 2014’.”
+
 #### Short Title of 2011 Amendment
 Pub. L. 111–358, title VII, § 701, Jan. 4, 2011, 124 Stat. 4041, provided that: “This title [amending [section 278k of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k) and enacting provisions set out as a note under [section 278k of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k)] may be cited as the ‘NIST Grants for Energy Efficiency, New Job Opportunities, and Business Solutions Act of 2010’ or the ‘NIST GREEN JOBS Act of 2010’.”
 
@@ -63,7 +66,7 @@ Pub. L. 102–245, title II, § 201(a), Feb. 14, 1992, 106 Stat. 15, provided th
 Pub. L. 100–418, title V, § 5101, Aug. 23, 1988, 102 Stat. 1426, provided that: “This part [part I (§§ 5101–5164) of subtitle B of title V of Pub. L. 100–418, enacting sections 205j–1, 278i to 278o, 282a, 1532, 1533, 3704a, and 4632 of this title, amending this section, sections 205a, 205b, 205k, 272 to 275, 278, 278b, 278d, 278e, 278g to 278g–4, 3703, 3706, 3708, 3710, 3710c, and 3713 of this title, and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, repealing sections 280 to 282 of this title, enacting provisions set out as notes under this section, sections 272, 272, 278l, and 278n of this title, and [section 1803 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1803&num=0&edition=prelim), Mineral Lands and Mining, and amending provisions set out as a note under this section] may be cited as the ‘Technology Competitiveness Act’.”
 
 #### Short Title
-Act Mar. 3, 1901, ch. 872, § 34, formerly § 23, as added Jan. 8, 1988, Pub. L. 100–235, § 3(3), 101 Stat. 1728; renumbered § 31 and amended Pub. L. 100–418, title V, §§ 5114(1), 5115(a)(2), Aug. 23, 1988, 102 Stat. 1432, 1433; renumbered § 32, Pub. L. 105–309, § 4(a), Oct. 30, 1998, 112 Stat. 2935; renumbered § 34, Pub. L. 110–69, title III, § 3007(1), Aug. 9, 2007, 121 Stat. 590, provided that: “This Act [enacting this chapter] may be cited as the National Institute of Standards and Technology Act.”
+Act Mar. 3, 1901, ch. 872, § 35, formerly § 23, as added Jan. 8, 1988, Pub. L. 100–235, § 3(3), 101 Stat. 1728; renumbered § 31 and amended Pub. L. 100–418, title V, §§ 5114(1), 5115(a)(2), Aug. 23, 1988, 102 Stat. 1432, 1433; renumbered § 32, Pub. L. 105–309, § 4(a), Oct. 30, 1998, 112 Stat. 2935; renumbered § 34, Pub. L. 110–69, title III, § 3007(1), Aug. 9, 2007, 121 Stat. 590, renumbered § 35, Pub. L. 113–235, div. B, title VII, § 703(1), Dec. 16, 2014, 128 Stat. 2221, provided that: “This Act [enacting this chapter] may be cited as the National Institute of Standards and Technology Act.”
 
 #### Savings Provision
 Act Mar. 3, 1901, ch. 872, § 29, as added Aug. 23, 1988, Pub. L. 100–418, title V, § 5161, 102 Stat. 1449, provided that: “All rules and regulations, determinations, standards, contracts, certifications, authorizations, delegations, results and findings of investigations, or other actions duly issued, made, or taken by or pursuant to this Act [enacting this chapter], or under the authority of any other statutes which resulted in the assignment of functions or activities to the Secretary, the Department, the Director, or the Institute, as are in effect immediately before the date of enactment of this section [Aug. 23, 1988], and not suspended by the Secretary, the Director, the Institute or the courts, shall continue in full force and effect after the date of enactment of this section until modified or rescinded.”
@@ -131,23 +134,67 @@ Act Mar. 3, 1901, ch. 872, § 29, as added Aug. 23, 1988, Pub. L. 100–418, tit
 
 (14) perform research to develop standards and test methods to advance the effective use of computers and related systems and to protect the information stored, processed, and transmitted by such systems and to provide advice in support of policies affecting Federal computer and related telecommunications systems;
 
-(15) determine properties of building materials and structural elements, and encourage their standardization and most effective use, including investigation of fire-resisting properties of building materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;
+(15) on an ongoing basis, facilitate and support the development of a voluntary, consensus-based, industry-led set of standards, guidelines, best practices, methodologies, procedures, and processes to cost-effectively reduce cyber risks to critical infrastructure (as defined under subsection (e));
 
-(16) undertake such research in engineering, pure and applied mathematics, statistics, computer science, materials science, and the physical sciences as may be necessary to carry out and support the functions specified in this section;
+(16) determine properties of building materials and structural elements, and encourage their standardization and most effective use, including investigation of fire-resisting properties of building materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;
 
-(17) compile, evaluate, publish, and otherwise disseminate general, specific and technical data resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere;
+(17) undertake such research in engineering, pure and applied mathematics, statistics, computer science, materials science, and the physical sciences as may be necessary to carry out and support the functions specified in this section;
 
-(18) collect, create, analyze, and maintain specimens of scientific value;
+(18) compile, evaluate, publish, and otherwise disseminate general, specific and technical data resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere;
 
-(19) operate national user facilities;
+(19) collect, create, analyze, and maintain specimens of scientific value;
 
-(20) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
+(20) operate national user facilities;
 
-(21) demonstrate the results of the Institute’s activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
+(21) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
 
-(22) undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
+(22) demonstrate the results of the Institute’s activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
+
+(23) undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
 
 **(d) Management costs** In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k, 278l, and 278n of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute’s management of these programs.
+
+**(e) Cyber risks**
+
+(1) **In general** — In carrying out the activities under subsection (c)(15), the Director—
+
+  (A) shall—
+
+    (i) coordinate closely and regularly with relevant private sector personnel and entities, critical infrastructure owners and operators, and other relevant industry organizations, including Sector Coordinating Councils and Information Sharing and Analysis Centers, and incorporate industry expertise;
+
+    (ii) consult with the heads of agencies with national security responsibilities, sector-specific agencies and other appropriate agencies, State and local governments, the governments of other nations, and international organizations;
+
+    (iii) identify a prioritized, flexible, repeatable, performance-based, and cost-effective approach, including information security measures and controls, that may be voluntarily adopted by owners and operators of critical infrastructure to help them identify, assess, and manage cyber risks;
+
+    (iv) include methodologies—
+
+      (I) to identify and mitigate impacts of the cybersecurity measures or controls on business confidentiality; and
+
+      (II) to protect individual privacy and civil liberties;
+
+    (v) incorporate voluntary consensus standards and industry best practices;
+
+    (vi) align with voluntary international standards to the fullest extent possible;
+
+    (vii) prevent duplication of regulatory processes and prevent conflict with or superseding of regulatory requirements, mandatory standards, and related processes; and
+
+    (viii) include such other similar and consistent elements as the Director considers necessary; and
+
+  (B) shall not prescribe or otherwise require—
+
+    (i) the use of specific solutions;
+
+    (ii) the use of specific information or communications technology products or services; or
+
+    (iii) that information or communications technology products or services be designed, developed, or manufactured in a particular manner.
+
+(2) **Limitation** — Information shared with or provided to the Institute for the purpose of the activities described under subsection (c)(15) shall not be used by any Federal, State, tribal, or local department or agency to regulate the activity of any entity. Nothing in this paragraph shall be construed to modify any regulatory requirement to report or submit information to a Federal, State, tribal, or local department or agency.
+
+(3) **Definitions** — In this subsection:
+
+  (A) *Critical infrastructure* — The term “critical infrastructure” has the meaning given the term in [section 5195c(e) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195c/e&num=0&edition=prelim).
+
+  (B) *Sector-specific agency* — The term “sector-specific agency” means the Federal department or agency responsible for providing institutional knowledge and specialized expertise as well as leading, facilitating, or supporting the security and resilience programs and associated activities of its designated critical infrastructure sector in the all-hazards environment.
 
 ### Statutory Notes
 
@@ -155,6 +202,10 @@ Act Mar. 3, 1901, ch. 872, § 29, as added Aug. 23, 1988, Pub. L. 100–418, tit
 [Section 278g–3 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3), referred to in subsec. (c)(13), was amended, and no longer defines the term “computer systems”.
 
 #### Amendments
+2014—Subsec. (c)(15) to (23). Pub. L. 113–274, § 101(a), added par. (15) and redesignated former pars. (15) to (22) as (16) to (23), respectively.
+
+Subsec. (e). Pub. L. 113–274, § 101(b), added subsec. (e).
+
 2007—Subsec. (b). Pub. L. 110–69, § 3002(c)(2)(A)(i), struck out “and, if appropriate, through other officials,” before “is authorized” in introductory provisions.
 
 Subsec. (b)(4). Pub. L. 110–69, § 3013(b), inserted “and grants and cooperative agreements,” after “arrangements,”.
@@ -751,7 +802,7 @@ Pub. L. 99–574, § 8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The 
 
 (1) have the mission of developing standards, guidelines, and associated methods and techniques for information systems;
 
-(2) develop standards and guidelines, including minimum requirements, for information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency, other than national security systems (as defined in [section 3532(b)(2) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3532/b/2&num=0&edition=prelim));
+(2) develop standards and guidelines, including minimum requirements, for information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency, other than national security systems (as defined in section 3552(b)(5) 11 So in original. Probably should be “3552(b)(6)”. of title 44);
 
 (3) develop standards and guidelines, including minimum requirements, for providing adequate information security for all agency operations and assets, but such standards and guidelines shall not apply to national security systems; and
 
@@ -821,22 +872,36 @@ Pub. L. 99–574, § 8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The 
 
 (9) prepare an annual public report on activities undertaken in the previous year, and planned for the coming year, to carry out responsibilities under this section.
 
-**(e) Definitions** As used in this section—
+**(e) Intramural security research** As part of the research activities conducted in accordance with subsection (d)(3), the Institute shall, to the extent practicable and appropriate—
+
+(1) conduct a research program to develop a unifying and standardized identity, privilege, and access control management framework for the execution of a wide variety of resource protection policies and that is amenable to implementation within a wide variety of existing and emerging computing environments;
+
+(2) carry out research associated with improving the security of information systems and networks;
+
+(3) carry out research associated with improving the testing, measurement, usability, and assurance of information systems and networks;
+
+(4) carry out research associated with improving security of industrial control systems;
+
+(5) carry out research associated with improving the security and integrity of the information technology supply chain; and
+
+(6) carry out any additional research the Institute determines appropriate.
+
+**(f) Definitions** As used in this section—
 
 (1) the term “agency” has the same meaning as provided in [section 3502(1) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/1&num=0&edition=prelim);
 
-(2) the term “information security” has the same meaning as provided in section 3532(1) of such title;
+(2) the term “information security” has the same meaning as provided in section 3552(b)(2) 22 So in original. Probably should be “3552(b)(3)”. of such title;
 
 (3) the term “information system” has the same meaning as provided in section 3502(8) of such title;
 
 (4) the term “information technology” has the same meaning as provided in [section 11101 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11101&num=0&edition=prelim); and
 
-(5) the term “national security system” has the same meaning as provided in section 3532(b)(2) of such title.11 See References in Text note below.
+(5) the term “national security system” has the same meaning as provided in section 3552(b)(5) of such title.33 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
-Section 3532(b)(2) of such title, referred to in subsec. (e)(5), probably means [section 3532(b)(2) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3532/b/2&num=0&edition=prelim).
+Section 3552(b)(5) of such title, referred to in subsec. (e)(5), probably should be [section 3552(b)(6) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552/b/6&num=0&edition=prelim).
 
 #### Codification
 November 25, 2002, referred to in subsec. (c)(3) and (4), was in the original “the date of the enactment of this section” in subsec. (c)(3) and “the date of the enactment of this Act” in subsec. (c)(4), which were translated as meaning the date of enactment of Pub. L. 107–296, which enacted the text of this section, to reflect the probable intent of Congress.
@@ -845,6 +910,14 @@ November 25, 2002, referred to in subsec. (c)(3) and (4), was in the original �
 A prior section 20 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to [section 278q of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278q).
 
 #### Amendments
+2014—Subsec. (a)(2). Pub. L. 113–283, § 2(e)(4)(A), substituted “section 3552(b)(5)” for “section 3532(b)(2)”.
+
+Subsec. (e). Pub. L. 113–274, § 204(2), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 113–283, § 2(e)(4)(B), which directed amendment of subsec. (e) by substituting “section 3552(b)(2)” for “section 3532(1)” in par. (2) and “section 3552(b)(5)” for “section 3532(b)(2)” in par. (5), was executed to pars. (2) and (5), respectively, of subsec. (f), to reflect the probable intent of Congress and the redesignation of subsec. (e) as (f) by Pub. L. 113–274, § 204(1). See below.
+
+Pub. L. 113–274, § 204(1), redesignated subsec. (e) as (f).
+
 2004—Subsec. (c)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 2002—Pub. L. 107–347 added text of section and struck out former text which read as follows:
@@ -1042,7 +1115,7 @@ Subsec. (d)(2). Pub. L. 104–106, § 5607(a)(3)(B), substituted “system’ �
 1988—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” in introductory provisions of subsecs. (a) and (b) and wherever appearing in closing provisions of subsec. (c).
 
 #### Effective Date of 2002 Amendments
-Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as an Effective Date note under [section 3541 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3541&num=0&edition=prelim), Public Printing and Documents.
+Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as a note under [section 3504 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3504&num=0&edition=prelim), Public Printing and Documents.
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
 
@@ -1064,9 +1137,9 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 (1) to identify emerging managerial, technical, administrative, and physical safeguard issues relative to information security and privacy;
 
-(2) to advise the Institute and the Director of the Office of Management and Budget on information security and privacy issues pertaining to Federal Government information systems, including through review of proposed standards and guidelines developed under [section 278g–3 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3); and
+(2) to advise the Institute, the Secretary of Homeland Security, and the Director of the Office of Management and Budget on information security and privacy issues pertaining to Federal Government information systems, including through review of proposed standards and guidelines developed under [section 278g–3 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3); and
 
-(3) to report annually its findings to the Secretary of Commerce, the Director of the Office of Management and Budget, the Director of the National Security Agency, and the appropriate committees of the Congress.
+(3) to report annually its findings to the Secretary of Commerce, the Secretary of Homeland Security, the Director of the Office of Management and Budget, the Director of the National Security Agency, and the appropriate committees of the Congress.
 
 **(c) Term of office** The term of office of each member of the Board shall be four years, except that—
 
@@ -1087,6 +1160,10 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b)(2). Pub. L. 113–283, § 2(f)(2)(A), inserted “, the Secretary of Homeland Security,” after “the Institute”.
+
+Subsec. (b)(3). Pub. L. 113–283, § 2(f)(2)(B), inserted “the Secretary of Homeland Security,” after “the Secretary of Commerce,”.
+
 2002—Subsec. (a). Pub. L. 107–296, § 1004(1), and Pub. L. 107–347, § 304(1), amended subsec. (a) identically, substituting “Information Security and Privacy Advisory Board” for “Computer System Security and Privacy Advisory Board” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 107–296, § 1004(2), and Pub. L. 107–347, § 304(2), amended par. (1) identically, substituting “information technology” for “computer or telecommunications”.
@@ -1114,7 +1191,7 @@ Pub. L. 107–296, § 1004(9), and Pub. L. 107–347, § 304(9), amended section
 Subsec. (f). Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards”.
 
 #### Effective Date of 2002 Amendments
-Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as an Effective Date note under [section 3541 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3541&num=0&edition=prelim), Public Printing and Documents.
+Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as a note under [section 3504 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3504&num=0&edition=prelim), Public Printing and Documents.
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
 
@@ -1128,9 +1205,7 @@ Advisory boards in existence on Jan. 5, 1973, to terminate not later than the ex
 
 **(b) Assessment** For each major manufacturing industry, the Director may work with industry, trade associations, professional societies, and others as appropriate, to identify enterprise integration standardization and implementation activities underway in the United States and abroad that affect that industry and to assess the current state of enterprise integration within that industry. The Director may assist in the development of roadmaps to permit supply chains within the industry to operate as an integrated electronic enterprise. The roadmaps shall be based on voluntary consensus standards.
 
-**(c) Reports** Within 180 days after November 5, 2002, and annually thereafter, the Director shall submit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the National Institute of Standards and Technology’s activities under subsection (b) of this section.
-
-**(d) Authorized activities** In order to carry out this Act, the Director may work with industry, trade associations, professional societies, and others as appropriate—
+**(c) Authorized activities** In order to carry out this Act, the Director may work with industry, trade associations, professional societies, and others as appropriate—
 
 (1) to raise awareness in the United States, including awareness by businesses that are majority owned by women, minorities, or both, of enterprise integration activities in the United States and abroad, including by the convening of conferences;
 
@@ -1140,23 +1215,24 @@ Advisory boards in existence on Jan. 5, 1973, to terminate not later than the ex
 
 (4) to provide technical assistance and, if necessary, financial support to small- and medium-sized businesses that set up pilot projects in enterprise integration.
 
-**(e) Manufacturing Extension Program** The Director shall ensure that the Manufacturing Extension Program is prepared to advise small- and medium-sized businesses on how to acquire the expertise, equipment, and training necessary to participate fully in supply chains using enterprise integration.
+**(d) Manufacturing Extension Program** The Director shall ensure that the Manufacturing Extension Program is prepared to advise small- and medium-sized businesses on how to acquire the expertise, equipment, and training necessary to participate fully in supply chains using enterprise integration.
 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (d), is Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, which enacted this section and provisions set out as a note under this section. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (c), is Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, which enacted this section and provisions set out as a note under this section. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was enacted as part of the Enterprise Integration Act of 2002, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
 
+#### Amendments
+2014—Subsecs. (c) to (e). Pub. L. 113–188 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which required annual reports on the National Institute of Standards and Technology’s activities under subsec. (b).
+
 #### Change of Name
 The Manufacturing Extension Partnership Program, referred to in subsec. (a), redesignated the Hollings Manufacturing Partnership Program by provision of title II of div. B of Pub. L. 108–447, formerly set out as a note under [section 278k of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k). Program now known as the Hollings Manufacturing Extension Partnership, see [section 278k(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278k/i&num=0&edition=prelim).
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Enterprise Integration
-Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that: “SECTION. 1. SHORT TITLE. “This Act [enacting this section and this note] may be cited as the ‘Enterprise Integration Act of 2002’. “SEC. 2. FINDINGS.“The Congress makes the following findings:“(1) Over 90 percent of United States companies engaged in manufacturing are small- and medium-sized businesses. “(2) Most of these manufacturers produce goods for assemblage into products of large companies. “(3) The emergence of the World Wide Web and the promulgation of international standards for product data exchange greatly accelerated the movement toward electronically integrated supply chains during the last half of the 1990’s. “(4) European and Asian countries are investing heavily in electronic enterprise standards development, and in preparing their smaller manufacturers to do business in the new environment. European efforts are well advanced in the aerospace, automotive, and shipbuilding industries and are beginning in other industries including home building, furniture manufacturing, textiles, and apparel. This investment could give overseas companies a major competitive advantage. “(5) The National Institute of Standards and Technology, because of the electronic commerce expertise in its laboratories and quality program, its long history of working cooperatively with manufacturers, and the nationwide reach of its manufacturing extension program, is in a unique position to help United States large and smaller manufacturers alike in their responses to this challenge. “(6) It is, therefore, in the national interest for the National Institute of Standards and Technology to accelerate its efforts in helping industry develop standards and enterprise integration processes that are necessary to increase efficiency and lower costs. “SEC. 3. ENTERPRISE INTEGRATION INITIATIVE. [Enacted this section.] “SEC. 4. DEFINITIONS.“For purposes of this Act—“(1) the term ‘automotive’ means land-based engine-powered vehicles including automobiles, trucks, busses, trains, defense vehicles, farm equipment, and motorcycles; “(2) the term ‘Director’ means the Director of the National Institute of Standards and Technology; “(3) the term ‘enterprise integration’ means the electronic linkage of manufacturers, assemblers, suppliers, and customers to enable the electronic exchange of product, manufacturing, and other business data among all partners in a product supply chain, and such term includes related application protocols and other related standards; “(4) the term ‘major manufacturing industry’ includes the aerospace, automotive, electronics, shipbuilding, construction, home building, furniture, textile, and apparel industries and such other industries as the Director designates; and “(5) the term ‘roadmap’ means an assessment of manufacturing interoperability requirements developed by an industry describing that industry’s goals related to enterprise integration, the knowledge and standards including application protocols necessary to achieve those goals, and the necessary steps, timetable, and assignment of responsibilities for acquiring the knowledge and developing the standards and protocols. “SEC. 5. AUTHORIZATION OF APPROPRIATIONS.“There are authorized to be appropriated to the Director to carry out functions under this Act—“(1) $2,000,000 for fiscal year 2002; “(2) $10,000,000 for fiscal year 2003; “(3) $15,000,000 for fiscal year 2004; and “(4) $20,000,000 for fiscal year 2005.”
+Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that: “SECTION. 1. SHORT TITLE.“This Act [enacting this section and this note] may be cited as the ‘Enterprise Integration Act of 2002’. “SEC. 2. FINDINGS.“The Congress makes the following findings:“(1) Over 90 percent of United States companies engaged in manufacturing are small- and medium-sized businesses. “(2) Most of these manufacturers produce goods for assemblage into products of large companies. “(3) The emergence of the World Wide Web and the promulgation of international standards for product data exchange greatly accelerated the movement toward electronically integrated supply chains during the last half of the 1990’s. “(4) European and Asian countries are investing heavily in electronic enterprise standards development, and in preparing their smaller manufacturers to do business in the new environment. European efforts are well advanced in the aerospace, automotive, and shipbuilding industries and are beginning in other industries including home building, furniture manufacturing, textiles, and apparel. This investment could give overseas companies a major competitive advantage. “(5) The National Institute of Standards and Technology, because of the electronic commerce expertise in its laboratories and quality program, its long history of working cooperatively with manufacturers, and the nationwide reach of its manufacturing extension program, is in a unique position to help United States large and smaller manufacturers alike in their responses to this challenge. “(6) It is, therefore, in the national interest for the National Institute of Standards and Technology to accelerate its efforts in helping industry develop standards and enterprise integration processes that are necessary to increase efficiency and lower costs. “SEC. 3. ENTERPRISE INTEGRATION INITIATIVE. [Enacted this section.] “SEC. 4. DEFINITIONS.“For purposes of this Act—“(1) the term ‘automotive’ means land-based engine-powered vehicles including automobiles, trucks, busses, trains, defense vehicles, farm equipment, and motorcycles; “(2) the term ‘Director’ means the Director of the National Institute of Standards and Technology; “(3) the term ‘enterprise integration’ means the electronic linkage of manufacturers, assemblers, suppliers, and customers to enable the electronic exchange of product, manufacturing, and other business data among all partners in a product supply chain, and such term includes related application protocols and other related standards; “(4) the term ‘major manufacturing industry’ includes the aerospace, automotive, electronics, shipbuilding, construction, home building, furniture, textile, and apparel industries and such other industries as the Director designates; and “(5) the term ‘roadmap’ means an assessment of manufacturing interoperability requirements developed by an industry describing that industry’s goals related to enterprise integration, the knowledge and standards including application protocols necessary to achieve those goals, and the necessary steps, timetable, and assignment of responsibilities for acquiring the knowledge and developing the standards and protocols. “SEC. 5. AUTHORIZATION OF APPROPRIATIONS.“There are authorized to be appropriated to the Director to carry out functions under this Act—“(1) $2,000,000 for fiscal year 2002; “(2) $10,000,000 for fiscal year 2003; “(3) $15,000,000 for fiscal year 2004; and “(4) $20,000,000 for fiscal year 2005.”
 
 
 <a id="section-278h"></a>
@@ -1238,7 +1314,7 @@ Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that: “SECTION. 1. S
 ### Statutory Notes
 
 #### References in Text
-[Section 278g–3 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3), referred to in subsecs. (a)(2) and (f)(1), was amended generally by Pub. L. 107–296, title X, § 1003, Nov. 25, 2002, 116 Stat. 2269, and, as so amended, no longer contains a subsec. (d) defining “computer system” or a subsec. (f).
+[Section 278g–3 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3), referred to in subsecs. (a)(2) and (f)(1), was amended generally by Pub. L. 107–296, title X, § 1003, Nov. 25, 2002, 116 Stat. 2269, and, as so amended, did not contain a subsec. (d) defining “computer system” or a subsec. (f). A later amendment by Pub. L. 113–274, title II, § 204(1), Dec. 18, 2014, 128 Stat. 2980, redesignated subsec. (e) of [section 278g–3 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3), relating to definitions, as subsec. (f).
 
 The Intergovernmental Personnel Act of 1970, referred to in subsec. (d)(2), (4), is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, as amended, which enacted sections 3371 to 3376 of Title 5, Government Organization and Employees, and chapter 62 (§ 4701 et seq.) of Title 42, The Public Health and Welfare, amended [section 1304 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1304&num=0&edition=prelim) and [section 246 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section246&num=0&edition=prelim), repealed sections 1881 to 1888 of Title 7, Agriculture, and [section 869b of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section869b&num=0&edition=prelim), Education, and enacted provisions set out as notes under [section 3371 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3371&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 4701 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4701&num=0&edition=prelim) and Tables.
 
@@ -1631,15 +1707,13 @@ Section, act Mar. 3, 1901, ch. 872, § 27, as added Pub. L. 100–418, title V, 
 
 (3) providing for appropriate dissemination of Technology Innovation Program research results.
 
-**(g) Annual report** The Director shall submit annually to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives a report describing the Technology Innovation Program’s activities, including a description of the metrics upon which award funding decisions were made in the previous fiscal year, any proposed changes to those metrics, metrics for evaluating the success of ongoing and completed awards, and an evaluation of ongoing and completed awards. The first annual report shall include best practices for management of programs to stimulate high-risk, high-reward research.
+**(g) Continuation of ATP grants** The Director shall, through the Technology Innovation Program, continue to provide support originally awarded under the Advanced Technology Program, in accordance with the terms of the original award and consistent with the goals of the Technology Innovation Program.
 
-**(h) Continuation of ATP grants** The Director shall, through the Technology Innovation Program, continue to provide support originally awarded under the Advanced Technology Program, in accordance with the terms of the original award and consistent with the goals of the Technology Innovation Program.
+**(h) Coordination with other State and Federal technology programs** In carrying out this section, the Director shall, as appropriate, coordinate with other senior State and Federal officials to ensure cooperation and coordination in State and Federal technology programs and to avoid unnecessary duplication of efforts.
 
-**(i) Coordination with other State and Federal technology programs** In carrying out this section, the Director shall, as appropriate, coordinate with other senior State and Federal officials to ensure cooperation and coordination in State and Federal technology programs and to avoid unnecessary duplication of efforts.
+**(i) Acceptance of funds from other Federal agencies** In addition to amounts appropriated to carry out this section, the Secretary and the Director may accept funds from other Federal agencies to support awards under the Technology Innovation Program. Any award under this section which is supported with funds from other Federal agencies shall be selected and carried out according to the provisions of this section. Funds accepted from other Federal agencies shall be included as part of the Federal cost share of any project funded under this section.
 
-**(j) Acceptance of funds from other Federal agencies** In addition to amounts appropriated to carry out this section, the Secretary and the Director may accept funds from other Federal agencies to support awards under the Technology Innovation Program. Any award under this section which is supported with funds from other Federal agencies shall be selected and carried out according to the provisions of this section. Funds accepted from other Federal agencies shall be included as part of the Federal cost share of any project funded under this section.
-
-**(k) TIP Advisory Board**
+**(j) TIP Advisory Board**
 
 (1) **Establishment** — There is established within the Institute a TIP Advisory Board.
 
@@ -1667,9 +1741,7 @@ Section, act Mar. 3, 1901, ch. 872, § 27, as added Pub. L. 100–418, title V, 
 
 (4) **Advisory capacity** — In discharging its duties under this subsection, the TIP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act.
 
-(5) **Annual report** — The TIP Advisory Board shall transmit an annual report to the Secretary for transmittal to the Congress not later than 30 days after the submission to Congress of the President’s annual budget request in each year. Such report shall address the status of the Technology Innovation Program and comment on the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of [section 278i of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278i).
-
-**(l) Definitions** In this section—
+**(k) Definitions** In this section—
 
 (1) the term “eligible company” means a small-sized or medium-sized business that is incorporated in the United States and does a majority of its business in the United States, and that either—
 
@@ -1713,18 +1785,26 @@ Section, act Mar. 3, 1901, ch. 872, § 27, as added Pub. L. 100–418, title V, 
 
   (B) may include additional for-profit companies, institutions of higher education, and other organizations, such as national laboratories and nonprofit research institutes, that may or may not contribute non-Federal funds to the project; and
 
-(5) the term “TIP Advisory Board” means the advisory board established under subsection (k).
+(5) the term “TIP Advisory Board” means the advisory board established under subsection (j).
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (k)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (j)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 278n, act Mar. 3, 1901, ch. 872, § 28, as added Pub. L. 100–418, title V, § 5131(a), Aug. 23, 1988, 102 Stat. 1439; amended Pub. L. 102–245, title II, § 201(c), Feb. 14, 1992, 106 Stat. 16, related to the Advanced Technology Program, prior to repeal by Pub. L. 110–69, title III, § 3012(a), Aug. 9, 2007, 121 Stat. 593.
 
-#### Change of Name
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+#### Amendments
+2014—Subsecs. (g) to (j). Pub. L. 113–188, § 201(d)(1), (2), redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struck out former subsec. (g) which required annual reports describing the Technology Innovation Program’s activities.
+
+Subsec. (j)(5). Pub. L. 113–188, § 201(e), struck out par. (5) which related to annual Technology Innovation Program status reports transmitted by the TIP Advisory Board.
+
+Subsec. (k). Pub. L. 113–188, § 201(d)(2), redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
+
+Subsec. (k)(5). Pub. L. 113–188, § 201(d)(3), substituted “under subsection (j)” for “under subsection (k)”.
+
+Subsec. (l). Pub. L. 113–188, § 201(d)(2), redesignated subsec. (l) as (k).
 
 #### Technology Innovation Program
 Pub. L. 111–240, title IV, § 4226(b), Sept. 27, 2010, 124 Stat. 2598, provided that: “In awarding grants, cooperative agreements, or contracts under section 28 of the National Institute of Standards and Technology Act ([15 U.S.C. 278n](./chapter-007-national-institute-of-standards-and-technology.md#section-278n)), in addition to the award criteria set forth in subsection (c) of that section, the Director of the National Institute of Standards and Technology may take into consideration whether an application has significant potential for enhancing the competitiveness of small- and medium-sized businesses in the United States in the global marketplace. The Director shall consult with the Technology Innovation Program Advisory Board and the Secretary of Commerce in implementing this subsection.”
@@ -1811,7 +1891,7 @@ Appropriations to carry out the provisions of this chapter may remain available 
 #### Codification
 Section was formerly classified to [section 278h of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278h) prior to renumbering by Pub. L. 107–305.
 
-Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 34 and is set out as a Short Title note under [section 271 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-271).
+Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and is set out as a Short Title note under [section 271 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-271).
 
 #### Amendments
 1980—Pub. L. 96–461 substituted “Appropriations” for “(a) Appropriations” and struck out subsec. (b) which authorized appropriations to carry out provisions of this chapter, including the Working Capital Fund referred to in [section 278b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278b/a&num=0&edition=prelim), but excluding [section 278f of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278f), of such sums as may be necessary for each of the fiscal years 1979 and 1980.
@@ -1854,6 +1934,258 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 34 and i
 **(e) Distribution** In selecting applications under this section the Director shall ensure, to the extent practicable, a distribution of overall awards among a variety of manufacturing industry sectors and a range of firm sizes.
 
 **(f) Duration** In carrying out this section, the Director shall run a single pilot competition to solicit and make awards. Each award shall be for a 3-year period.
+
+
+<a id="section-278s"></a>
+## § 278s. Network for Manufacturing Innovation
+**(a) Establishment of Network for Manufacturing Innovation Program**
+
+(1) **In general** — The Secretary shall establish within the Institute a program to be known as the “Network for Manufacturing Innovation Program” (referred to in this section as the “Program”).
+
+(2) **Purposes of program** — The purposes of the Program are—
+
+  (A) to improve the competitiveness of United States manufacturing and to increase the production of goods manufactured predominantly within the United States;
+
+  (B) to stimulate United States leadership in advanced manufacturing research, innovation, and technology;
+
+  (C) to facilitate the transition of innovative technologies into scalable, cost-effective, and high-performing manufacturing capabilities;
+
+  (D) to facilitate access by manufacturing enterprises to capital-intensive infrastructure, including high-performance electronics and computing, and the supply chains that enable these technologies;
+
+  (E) to accelerate the development of an advanced manufacturing workforce;
+
+  (F) to facilitate peer exchange of and the documentation of best practices in addressing advanced manufacturing challenges;
+
+  (G) to leverage non-Federal sources of support to promote a stable and sustainable business model without the need for long-term Federal funding; and
+
+  (H) to create and preserve jobs.
+
+(3) **Support** — The Secretary, acting through the Director, shall carry out the purposes set forth in paragraph (2) by supporting—
+
+  (A) the Network for Manufacturing Innovation established under subsection (b); and
+
+  (B) the establishment of centers for manufacturing innovation.
+
+(4) **Director** — The Secretary shall carry out the Program through the Director.
+
+**(b) Establishment of Network for Manufacturing Innovation**
+
+(1) **In general** — As part of the Program, the Secretary shall establish a network of centers for manufacturing innovation.
+
+(2) **Designation** — The network established under paragraph (1) shall be known as the “Network for Manufacturing Innovation” (referred to in this section as the “Network”).
+
+**(c) Centers for Manufacturing Innovation**
+
+(1) **In general** — For purposes of this section, a “center for manufacturing innovation” is a center that—
+
+  (A) has been established by a person or group of persons to address challenges in advanced manufacturing and to assist manufacturers in retaining or expanding industrial production and jobs in the United States;
+
+  (B) has a predominant focus on a manufacturing process, novel material, enabling technology, supply chain integration methodology, or another relevant aspect of advanced manufacturing, such as nanotechnology applications, advanced ceramics, photonics and optics, composites, biobased and advanced materials, flexible hybrid technologies, and tool development for microelectronics;
+
+  (C) as determined by the Secretary, has the potential—
+
+    (i) to improve the competitiveness of United States manufacturing, including key advanced manufacturing technologies such as nanotechnology, advanced ceramics, photonics and optics, composites, biobased and advanced materials, flexible hybrid technologies, and tool development for microelectronics;
+
+    (ii) to accelerate non-Federal investment in advanced manufacturing production capacity in the United States; or
+
+    (iii) to enable the commercial application of new technologies or industry-wide manufacturing processes; and
+
+  (D) includes active participation among representatives from multiple industrial entities, research universities, community colleges, and such other entities as the Secretary considers appropriate, which may include industry-led consortia, career and technical education schools, Federal laboratories, State, local, and tribal governments, businesses, educational institutions, and nonprofit organizations.
+
+(2) **Activities** — Activities of a center for manufacturing innovation may include the following:
+
+  (A) Research, development, and demonstration projects, including proof-of-concept development and prototyping, to reduce the cost, time, and risk of commercializing new technologies and improvements in existing technologies, processes, products, and research and development of materials to solve precompetitive industrial problems with economic or national security implications.
+
+  (B) Development and implementation of education, training, and workforce recruitment courses, materials, and programs.
+
+  (C) Development of innovative methodologies and practices for supply chain integration and introduction of new technologies into supply chains.
+
+  (D) Outreach and engagement with small and medium-sized manufacturing enterprises, including women and minority owned manufacturing enterprises, in addition to large manufacturing enterprises.
+
+  (E) Such other activities as the Secretary, in consultation with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing, considers consistent with the purposes described in subsection (a)(2).
+
+(3) **Additional centers for manufacturing innovation**
+
+  (A) *In general* — The National Additive Manufacturing Innovation Institute and other manufacturing centers formally recognized as manufacturing innovation centers pursuant to Federal law or executive actions, or under pending interagency review for such recognition as of December 16, 2014, shall be considered centers for manufacturing innovation, but such centers shall not receive any financial assistance under subsection (d).
+
+  (B) *Network participation* — A manufacturing center that is substantially similar to those established under this subsection but that does not receive financial assistance under subsection (d) may, upon request of the center, be recognized as a center for manufacturing innovation by the Secretary for purposes of participation in the Network.
+
+**(d) Financial Assistance to Establish and Support Centers for Manufacturing Innovation**
+
+(1) **In general** — In carrying out the Program, the Secretary shall award financial assistance to a person or group of persons to assist the organization in planning, establishing, or supporting a center for manufacturing innovation.
+
+(2) **Application** — A person or group of persons seeking financial assistance under paragraph (1) shall submit to the Secretary an application therefor at such time, in such manner, and containing such information as the Secretary may require. The application shall, at a minimum, describe the specific sources and amounts of non-Federal financial support for the center on the date financial assistance is sought, as well as the anticipated sources and amounts of non-Federal financial support during the period for which the center could be eligible for continued Federal financial assistance under this section.
+
+(3) **Open process** — In soliciting applications for financial assistance under paragraph (1), the Secretary shall ensure an open process that will allow for the consideration of all applications relevant to advanced manufacturing regardless of technology area.
+
+(4) **Selection**
+
+  (A) *Competitive, merit review* — In awarding financial assistance under paragraph (1), the Secretary shall use a competitive, merit review process that includes peer review by a diverse group of individuals with relevant expertise from both the private and public sectors.
+
+  (B) *Participation in process*
+
+    (i) *In general* — No political appointee may participate on a peer review panel. The Secretary shall implement a conflict of interest policy that ensures public transparency and accountability, and requires full disclosure of any real or potential conflicts of interest on the parts of individuals that participate in the merit selection process.
+
+    (ii) *Definition* — For purposes of this subparagraph, the term “political appointee” means any individual who—
+
+      (I) is employed in a position described under sections 5312 through 5316 of title 5 (relating to the Executive Schedule);
+
+      (II) is a limited term appointee, limited emergency appointee, or noncareer appointee in the Senior Executive Service, as defined under paragraphs (5), (6), and (7), respectively, of [section 3132(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a&num=0&edition=prelim); or
+
+      (III) is employed in a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5 of the Code of Federal Regulations.
+
+  (C) *Performance measurement, transparency, and accountability* — For each award of financial assistance under paragraph (1), the Secretary shall—
+
+    (i) make publicly available at the time of the award a description of the bases for the award, including an explanation of the relative merits of the winning applicant as compared to other applications received, if applicable; and
+
+    (ii) develop and implement metrics-based performance measures to assess the effectiveness of the activities funded.
+
+  (D) *Collaboration* — In awarding financial assistance under paragraph (1), the Secretary shall, acting through the National Program Office established under subsection (f)(1), collaborate with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing.
+
+  (E) *Considerations* — In selecting a person who submitted an application under paragraph (2) for an award of financial assistance under paragraph (1), the Secretary shall consider, at a minimum, the following:
+
+    (i) The potential of the center for manufacturing innovation to advance domestic manufacturing and the likelihood of economic impact, including the creation or preservation of jobs, in the predominant focus areas of the center for manufacturing innovation.
+
+    (ii) The commitment of continued financial support, advice, participation, and other contributions from non-Federal sources, to provide leverage and resources to promote a stable and sustainable business model without the need for long-term Federal funding.
+
+    (iii) Whether the financial support provided to the center for manufacturing innovation from non-Federal sources significantly exceeds the requested Federal financial assistance.
+
+    (iv) How the center for manufacturing innovation will increase the non-Federal investment in advanced manufacturing research in the United States.
+
+    (v) How the center for manufacturing innovation will engage with small and medium-sized manufacturing enterprises, to improve the capacity of such enterprises to commercialize new processes and technologies.
+
+    (vi) How the center for manufacturing innovation will carry out educational and workforce activities that meet industrial needs related to the predominant focus areas of the center.
+
+    (vii) How the center for manufacturing innovation will advance economic competitiveness and generate substantial benefits to the Nation that extend beyond the direct return to participants in the Program.
+
+    (viii) Whether the predominant focus of the center for manufacturing innovation is a manufacturing process, novel material, enabling technology, supply chain integration methodology, or other relevant aspect of advanced manufacturing that has not already been commercialized, marketed, distributed, or sold by another entity.
+
+    (ix) How the center for manufacturing innovation will strengthen and leverage the assets of a region.
+
+    (x) How the center for manufacturing will encourage the education and training of veterans and individuals with disabilities.
+
+(5) **Limitations on awards**
+
+  (A) *In general* — No award of financial assistance may be made under paragraph (1) to a center of manufacturing innovation after the 7-year period beginning on the date on which the Secretary first awards financial assistance to that center under that paragraph.
+
+  (B) *Matching funds and preferences* — The total Federal financial assistance awarded to a center of manufacturing innovation, including the financial assistance under paragraph (1), in a given year shall not exceed 50 percent of the total funding of the center in that year, except that the Secretary may make an exception in the case of large capital facilities or equipment purchases. The Secretary shall give weighted preference to applicants seeking less than the maximum Federal share of funds allowed under this paragraph.
+
+  (C) *Funding decrease* — The amount of financial assistance provided to a center of manufacturing innovation under paragraph (1) shall decrease after the second year of funding for the center, and shall continue to decrease thereafter in each year in which financial assistance is provided, unless the Secretary determines that—
+
+    (i) the center is otherwise meeting its stated goals and metrics under this section;
+
+    (ii) unforeseen circumstances have altered the center’s anticipated funding; and
+
+    (iii) the center can identify future non-Federal funding sources that would warrant a temporary exemption from the limitations established in this subparagraph.
+
+**(e) Funding**
+
+(1) **General rule** — Except as provided in paragraph (2), no funds are authorized to be appropriated by the Revitalize American Manufacturing and Innovation Act of 2014 for carrying out this section.
+
+(2) **Authority**
+
+  (A) *NIST industrial technical services account* — To the extent provided for in advance by appropriations Acts, the Secretary may use not to exceed $5,000,000 for each of the fiscal years 2015 through 2024 to carry out this section from amounts appropriated to the Institute for Industrial Technical Services.
+
+  (B) *Energy efficiency and renewable energy account* — To the extent provided for in advance by appropriations Acts, the Secretary of Energy may transfer to the Institute not to exceed $250,000,000 for the period encompassing fiscal years 2015 through 2024 for the Secretary to carry out this section from amounts appropriated for advanced manufacturing research and development within the Energy Efficiency and Renewable Energy account for the Department of Energy.
+
+**(f) National Program Office**
+
+(1) **Establishment** — The Secretary shall establish, within the Institute, the National Office of the Network for Manufacturing Innovation Program (referred to in this section as the “National Program Office”), which shall oversee and carry out the Program.
+
+(2) **Functions** — The functions of the National Program Office are—
+
+  (A) to oversee the planning, management, and coordination of the Program;
+
+  (B) to enter into memorandums of understanding with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing, to carry out the purposes described in subsection (a)(2);
+
+  (C) to develop, not later than 1 year after December 16, 2014, and update not less frequently than once every 3 years thereafter, a strategic plan to guide the Program;
+
+  (D) to establish such procedures, processes, and criteria as may be necessary and appropriate to maximize cooperation and coordinate the activities of the Program with programs and activities of other Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing;
+
+  (E) to establish a clearinghouse of public information related to the activities of the Program; and
+
+  (F) to act as a convener of the Network.
+
+(3) **Recommendations** — In developing and updating the strategic plan under paragraph (2)(C), the Secretary shall solicit recommendations and advice from a wide range of stakeholders, including industry, small and medium-sized manufacturing enterprises, research universities, community colleges, and other relevant organizations and institutions on an ongoing basis.
+
+(4) **Report to congress** — Upon completion, the Secretary shall transmit the strategic plan required under paragraph (2)(C) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+
+(5) **Hollings manufacturing extension partnership** — The Secretary shall ensure that the National Program Office incorporates the Hollings Manufacturing Extension Partnership into Program planning to ensure that the results of the Program reach small and medium-sized entities.
+
+(6) **Detailees** — Any Federal Government employee may be detailed to the National Program Office without reimbursement. Such detail shall be without interruption or loss of civil service status or privilege.
+
+**(g) Reporting and Auditing**
+
+(1) **Annual reports to the secretary**
+
+  (A) *In general* — The Secretary shall require each recipient of financial assistance under subsection (d)(1) to annually submit a report to the Secretary that describes the finances and performance of the center for manufacturing innovation for which such assistance was awarded.
+
+  (B) *Elements* — Each report submitted under subparagraph (A) shall include—
+
+    (i) an accounting of expenditures of amounts awarded to the recipient under subsection (d)(1); and
+
+    (ii) consistent with the metrics-based performance measures developed and implemented by the Secretary under this section, a description of the performance of the center for manufacturing innovation with respect to—
+
+      (I) its goals, plans, financial support, and accomplishments; and
+
+      (II) how the center for manufacturing innovation has furthered the purposes described in subsection (a)(2).
+
+(2) **Annual reports to congress**
+
+  (A) *In general* — Not less frequently than once each year until December 31, 2024, the Secretary shall submit a report to Congress that describes the performance of the Program during the most recent 1-year period.
+
+  (B) *Elements* — Each report submitted under subparagraph (A) shall include, for the period covered by the report—
+
+    (i) a summary and assessment of the reports received by the Secretary under paragraph (1);
+
+    (ii) an accounting of the funds expended by the Secretary under the Program, including any temporary exemptions granted from the requirements of subsection (d)(5)(C);
+
+    (iii) an assessment of the participation in, and contributions to, the Network by any centers for manufacturing innovation not receiving financial assistance under subsection (d)(1); and
+
+    (iv) an assessment of the Program with respect to meeting the purposes described in subsection (a)(2).
+
+(3) **Assessments by gao**
+
+  (A) *Assessments* — Not less frequently than once every 2 years, the Comptroller General shall submit to Congress an assessment of the operation of the Program during the most recent 2-year period.
+
+  (B) *Final assessment* — Not later than December 31, 2024, the Comptroller General shall submit to Congress a final report regarding the overall success of the Program.
+
+  (C) *Elements* — Each assessment submitted under subparagraph (A) or (B) shall include, for the period covered by the report—
+
+    (i) a review of the management, coordination, and industry utility of the Program;
+
+    (ii) an assessment of the extent to which the Program has furthered the purposes described in subsection (a)(2);
+
+    (iii) such recommendations for legislative and administrative action as the Comptroller General considers appropriate to improve the Program; and
+
+    (iv) an assessment as to whether any prior recommendations for improvement made by the Comptroller General have been implemented or adopted.
+
+**(h) Additional Authorities**
+
+(1) **Appointment of personnel and contracts** — The Secretary may appoint such personnel and enter into such contracts, financial assistance agreements, and other agreements as the Secretary considers necessary or appropriate to carry out the Program, including support for research and development activities involving a center for manufacturing innovation.
+
+(2) **Transfer of funds** — Of amounts available under the authority provided by subsection (e), the Secretary may transfer to other Federal agencies such sums as the Secretary considers necessary or appropriate to carry out the Program. No funds so transferred may be used to reimburse or otherwise pay for the costs of financial assistance incurred or commitments of financial assistance made prior to December 16, 2014.
+
+(3) **Authority of other agencies** — In the event that the Secretary exercises the authority to transfer funds to another agency under paragraph (2), such agency may accept such funds to award and administer, under the same conditions and constraints applicable to the Secretary, all aspects of financial assistance awards under this section.
+
+(4) **Use of resources** — In furtherance of the purposes of the Program, the Secretary may use, with the consent of a covered entity and with or without reimbursement, the land, services, equipment, personnel, and facilities of such covered entity.
+
+(5) **Acceptance of resources** — In addition to amounts appropriated to carry out the Program, the Secretary may accept funds, services, equipment, personnel, and facilities from any covered entity to carry out the Program, subject to the same conditions and constraints otherwise applicable to the Secretary under this section and such funds may only be obligated to the extent provided for in advance by appropriations Acts.
+
+(6) **Covered entity** — For purposes of this subsection, a covered entity is any Federal department, Federal agency, instrumentality of the United States, State, local government, tribal government, territory, or possession of the United States, or of any political subdivision thereof, or international organization, or any public or private entity or individual.
+
+**(i) Patents** Chapter 18 of title 35 shall apply to any funding agreement (as defined in section 201 of that title) awarded to new or existing centers for manufacturing innovation.
+
+### Statutory Notes
+
+#### References in Text
+The Revitalize American Manufacturing and Innovation Act of 2014, referred to in subsec.(e)(1), is title VII of div. B. of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2220. For complete classification of this Act to the Code, see Short Title note under [section 271 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-271) and Tables.
+
+#### Prior Provisions
+A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and is set out as a Short Title note under [section 271 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-271).
+
+#### Findings
+Pub. L. 113–235, div. B, title VII, § 702, Dec. 16, 2014, 128 Stat. 2220, provided that: “Congress finds the following: “(1) In 2012, manufacturers contributed $2.03 trillion to the economy, or ⅛ of United States Gross Domestic Product. “(2) For every $1.00 spent in manufacturing, another $1.32 is added to the economy, the highest multiplier effect of any economic sector. “(3) Manufacturing supports an estimated 17,400,000 jobs in the United States—about 1 in 6 private-sector jobs. More than 12,000,000 Americans (or 9 percent of the workforce) are employed directly in manufacturing. “(4) In 2012, the average manufacturing worker in the United States earned $77,505 annually, including pay and benefits. The average worker in all industries earned $62,063. “(5) Taken alone, manufacturing in the United States would be the 8th largest economy in the world. “(6) Manufacturers in the United States perform two-thirds of all private-sector research and development in the United States, driving more innovation than any other sector.”
 
 
 <a id="section-279"></a>

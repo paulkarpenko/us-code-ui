@@ -15,7 +15,7 @@ In order to avoid duplication and waste—
 
 **(a) Publishing in slip or pamphlet form or in Statutes at Large.—** Publication in slip or pamphlet form or in the Statutes at Large of any of the volumes or publications enumerated in sections 202 and 203 of this title, shall, in event of enactment, be dispensed with whenever the Committee on the Judiciary of the House of Representatives so directs the Archivist of the United States;
 
-**(b) Curtailing number of copies published.—** Curtailment of the number provided by law to be printed and distributed of the volumes or publications enumerated in sections 202 and 203 of this title may be directed by such committee, except that the Public Printer shall print such numbers as are necessary for depository library distribution and for sale; and
+**(b) Curtailing number of copies published.—** Curtailment of the number provided by law to be printed and distributed of the volumes or publications enumerated in sections 202 and 203 of this title may be directed by such committee, except that the Director of the Government Publishing Office shall print such numbers as are necessary for depository library distribution and for sale; and
 
 **(c) Dispensing with publication of more than one Supplement for each Congress.—** Such committee may direct that the printing and distribution of any supplement to the Code of Laws of the United States or to the Code of the District of Columbia be dispensed with entirely, except that there shall be printed and distributed for each Congress at least one supplement to each such code, containing the legislation of such Congress.
 
@@ -25,6 +25,9 @@ In order to avoid duplication and waste—
 1984—Subsec. (a). Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services”.
 
 1954—Subsec. (a). Act Sept. 3, 1954, substituted “Administrator of General Services” for “Secretary of State”.
+
+#### Change of Name
+“Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (b) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under [section 2102 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2102&num=0&edition=prelim), Public Printing and Documents.
@@ -139,6 +142,8 @@ Title 49, Transportation—Pub. L. 95–473, § 1, Oct. 17, 1978, 92 Stat. 1337;
 
 Title 51, National and Commercial Space Programs—Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3328.
 
+Title 54, National Park Service and Related Programs—Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3094.
+
 #### Title 26, Internal Revenue Code
 The Internal Revenue Code of 1954 was enacted in the form of a separate code by act Aug. 16, 1954, ch. 736, 68A Stat. 1. Pub. L. 99–514, § 2(a), Oct. 22, 1986, 100 Stat. 2095, provided that the Internal Revenue Title enacted Aug. 16, 1954, as heretofore, hereby, or hereafter amended, may be cited as the “Internal Revenue Code of 1986”. The sections of Title 26, United States Code, are identical to the sections of the Internal Revenue Code.
 
@@ -146,7 +151,12 @@ The Internal Revenue Code of 1954 was enacted in the form of a separate code by 
 <a id="section-205"></a>
 ## § 205. Codes and Supplement; where printed; form and style; ancillaries
 
-The publications provided for in sections 202, 203 of this title shall be printed at the Government Printing Office and shall be in such form and style and with such ancillaries as may be prescribed by the Committee on the Judiciary of the House of Representatives. The Librarian of Congress is directed to cooperate with such committee in the preparation of such ancillaries. Such publications shall be furnished with such thumb insets and other devices to distinguish parts, with such facilities for the insertion of additional matter, and with such explanatory and advertising slips, and shall be printed on such paper and bound in such material, as may be prescribed by such committee.
+The publications provided for in sections 202, 203 of this title shall be printed at the Government Publishing Office and shall be in such form and style and with such ancillaries as may be prescribed by the Committee on the Judiciary of the House of Representatives. The Librarian of Congress is directed to cooperate with such committee in the preparation of such ancillaries. Such publications shall be furnished with such thumb insets and other devices to distinguish parts, with such facilities for the insertion of additional matter, and with such explanatory and advertising slips, and shall be printed on such paper and bound in such material, as may be prescribed by such committee.
+
+### Statutory Notes
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 
 <a id="section-206"></a>
@@ -158,7 +168,12 @@ All bills and resolutions relating to the revision of the laws referred to or re
 <a id="section-207"></a>
 ## § 207. Copies of acts and resolutions in slip form; additional number printed for Committee on the Judiciary of House of Representatives
 
-The Public Printer is directed to print, in addition to the number provided by existing law, and, as soon as printed, to distribute in such manner as the Committee on the Judiciary of the House of Representatives shall determine, twenty copies in slip form of each public Act and joint resolution.
+The Director of the Government Publishing Office is directed to print, in addition to the number provided by existing law, and, as soon as printed, to distribute in such manner as the Committee on the Judiciary of the House of Representatives shall determine, twenty copies in slip form of each public Act and joint resolution.
+
+### Statutory Notes
+
+#### Change of Name
+“Director of the Government Publishing Office” substituted for “Public Printer” in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 
 <a id="section-208"></a>
@@ -170,12 +185,15 @@ The functions vested by sections 201, 202, 204–207 of this title in the Commit
 <a id="section-209"></a>
 ## § 209. Copies of Supplements to Code of Laws of United States and of District of Columbia Code and Supplements; conclusive evidence of original
 
-Copies of the Code of Laws relating to the District of Columbia and copies of the supplements provided for by sections 202 and 203 of this title printed at the Government Printing Office and bearing its imprint, shall be conclusive evidence of the original of such code and supplements in the custody of the Administrator of General Services.
+Copies of the Code of Laws relating to the District of Columbia and copies of the supplements provided for by sections 202 and 203 of this title printed at the Government Publishing Office and bearing its imprint, shall be conclusive evidence of the original of such code and supplements in the custody of the Administrator of General Services.
 
 ### Statutory Notes
 
 #### Amendments
 1954—Act Sept. 3, 1954, substituted “Administrator of General Services” for “Secretary of State”.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 
 <a id="section-210"></a>

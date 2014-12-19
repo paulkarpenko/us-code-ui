@@ -1487,7 +1487,7 @@ Pub. L. 95–30, title IV, § 407, May 23, 1977, 91 Stat. 156, provided that: �
 
 **(f) Limitation on cover over of tax on distilled spirits** For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
 
-(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2014), or
+(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2015), or
 
 (2) the tax imposed under section 5001(a)(1), on each proof gallon.
 
@@ -1517,6 +1517,8 @@ Section 213 of the Caribbean Basin Economic Recovery Act, referred to in subsec.
 The Harmonized Tariff Schedule of the United States ([19 U.S.C. 1202](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim)), referred to in subsec. (e)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim).
 
 #### Amendments
+2014—Subsec. (f)(1). Pub. L. 113–295 substituted “January 1, 2015” for “January 1, 2014”.
+
 2013—Subsec. (f)(1). Pub. L. 112–240 substituted “January 1, 2014” for “January 1, 2012”.
 
 2010—Subsec. (f)(1). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2010”.
@@ -1576,6 +1578,9 @@ Pub. L. 94–202 substituted “calendar quarter ending September 30, 1975, and 
 1958—Subsec. (a)(1). Pub. L. 85–859, § 204(17), substituted “section 5314” for “section 5318”.
 
 Subsec. (b)(1). Pub. L. 85–859, § 204(18), substituted “section 5314” for “section 5318”.
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–295, div. A, title I, § 140(b), Dec. 19, 2014, 128 Stat. 4020, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2013.”
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–240, title III, § 329(b), Jan. 2, 2013, 126 Stat. 2335, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2011.”

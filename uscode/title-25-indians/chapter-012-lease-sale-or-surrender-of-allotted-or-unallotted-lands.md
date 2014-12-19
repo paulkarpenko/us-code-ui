@@ -618,7 +618,7 @@ On and after August 25, 1937, in all sales of tribal lands of the Choctaw and Ch
 
 (2) **Allotted land** — Paragraph (1) shall not apply to any lease of individually owned Indian allotted land.
 
-(3) **Authority of secretary over tribal regulations**
+(3) **Authority of Secretary over tribal regulations**
 
   (A) *In general* — The Secretary shall have the authority to approve or disapprove any tribal regulations issued in accordance with paragraph (1).
 
@@ -660,7 +660,7 @@ On and after August 25, 1937, in all sales of tribal lands of the Choctaw and Ch
 
   (A) *In general* — The United States shall not be liable for losses sustained by any party to a lease executed pursuant to tribal regulations under paragraph (1).
 
-  (B) *Authority of secretary* — Pursuant to the authority of the Secretary to fulfill the trust obligation of the United States to the applicable Indian tribe under Federal law (including regulations), the Secretary may, upon reasonable notice from the applicable Indian tribe and at the discretion of the Secretary, enforce the provisions of, or cancel, any lease executed by the Indian tribe under paragraph (1).
+  (B) *Authority of Secretary* — Pursuant to the authority of the Secretary to fulfill the trust obligation of the United States to the applicable Indian tribe under Federal law (including regulations), the Secretary may, upon reasonable notice from the applicable Indian tribe and at the discretion of the Secretary, enforce the provisions of, or cancel, any lease executed by the Indian tribe under paragraph (1).
 
 (8) **Compliance**
 

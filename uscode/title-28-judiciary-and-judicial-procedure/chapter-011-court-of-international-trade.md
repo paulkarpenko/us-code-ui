@@ -101,7 +101,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
 
 #### Effective Date of 1955 Amendment
-Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under [section 31 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section31&num=0&edition=prelim), The Congress.
+Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under [section 4501 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4501&num=0&edition=prelim), The Congress.
 
 #### Salary Increases
 For adjustment of salaries of judges under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.

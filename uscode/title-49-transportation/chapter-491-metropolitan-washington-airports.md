@@ -318,7 +318,7 @@ A prior section 49105 was renumbered [section 50105 of this title](./chapter-501
 
   (B) In carrying out their duties on the board, members appointed by the President shall ensure that adequate consideration is given to the national interest.
 
-  (C) A member appointed by the President may be removed by the President for cause. A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of jurisdiction 11 So in original. Probably should be preceded by “the”. from which the member is appointed.
+  (C) A member appointed by the President may be removed by the President for cause. A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of jurisdiction 22 So in original. Probably should be preceded by “the”. from which the member is appointed.
 
 (7) Ten votes are required to approve bond issues and the annual budget.
 
@@ -541,7 +541,7 @@ Amendment by Pub. L. 105–225 effective Nov. 20, 1997, see section 7(c)(3) of P
 
 **(b) Effect of Judicial Order.—**
 
-(1) If any provision of the Metropolitan Washington Airports Amendments Act of 1996 (title IX of Public Law 104–264; 110 Stat. 3274) or the amendments made by the Act, or the application of that provision to a person, circumstance, or venue, is held invalid by a judicial order, the Secretary of Transportation and the Metropolitan Washington Airports Authority shall be subject to [section 49108 of this title](./chapter-491-metropolitan-washington-airports.md#section-49108) from the day after the day the order is issued.
+(1) If any provision of the Metropolitan Washington Airports Amendments Act of 1996 (title IX of Public Law 104–264; 110 Stat. 3274) or the amendments made by the Act, or the application of that provision to a person, circumstance, or venue, is held invalid by a judicial order, the Secretary of Transportation and the Metropolitan Washington Airports Authority shall be subject to section 49108 11 See References in Text note below. of this title from the day after the day the order is issued.
 
 (2) Any action of the Airports Authority that was required to be submitted to the Board of Review under section 6007(f)(4) of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500; 100 Stat. 1783–380; Public Law 99–599; 100 Stat. 3341–383) before October 9, 1996, remains in effect and may not be set aside only because of a judicial order invalidating certain functions of the Board.
 

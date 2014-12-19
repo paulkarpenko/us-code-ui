@@ -284,11 +284,15 @@ The disapproval or approval of an application by the Chairperson shall not be co
 
 (4)
 
-  (A) The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairperson in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any allotment made under paragraph (3) for any fiscal year which exceeds $125,000 shall be available, at the discretion of the Chairperson, to pay up to 100 per centum of such cost of projects and productions if such projects and productions would otherwise be unavailable to the residents of that State: Provided, That the total amount of any such allotment for any fiscal year which is exempted from such 50 per centum limitation shall not exceed 20 per centum of the total of such allotment for such fiscal year.
+  (A) The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairperson in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any allotment made under paragraph (3) for any fiscal year which exceeds $125,000 shall be available, at the discretion of the Chairperson, to pay up to 100 per centum of such cost of projects and productions if such projects and productions would otherwise be unavailable to the residents of that State: Provided, That the total amount of any such allotment for any fiscal year which is exempted from such 50 per centum limitation shall not exceed 20 per centum of the total of such allotment for such fiscal year. Whenever a State agency requests that the Chairperson exercise such discretion, the Chairperson shall—
+
+    (i) give consideration to the various circumstances the State is encountering at the time of such request; and
+
+    (ii) ensure that such discretion is not exercised with respect to such State in perpetuity.
 
   (B) Any amount allotted to a State under the first sentence of paragraph (3) for any fiscal year which is not obligated by the State prior to 60 days prior to the end of the fiscal year for which such sums are appropriated shall be available for making grants to regional groups.
 
-  (C) Funds made available under this subsection shall not be used to supplant non-Federal funds.
+  (C) Funds made available under this subsection shall not be used to supplant non-Federal funds. The non-Federal funds required by subparagraph (A) to pay 50 percent of the cost of a program or production shall be provided from funds directly controlled and appropriated by the State involved and directly managed by the State agency of such State.
 
   (D) For the purpose of paragraph (3) and paragraph (4) of this section the term “regional group” means any multistate group, whether or not representative of contiguous States.
 
@@ -421,6 +425,14 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (n), is set out 
 In subsec. (n), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended ([40 U.S.C. 276a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276a&num=0&edition=prelim)—276a–5)” and “[section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim)” substituted for “section 2 of the Act of June 13, 1934, as amended ([40 U.S.C. 276c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276c&num=0&edition=prelim))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+2014—Subsec. (g)(4)(A). Pub. L. 113–76, § 416(1), inserted at end “Whenever a State agency requests that the Chairperson exercise such discretion, the Chairperson shall—
+
+“(i) give consideration to the various circumstances the State is encountering at the time of such request; and
+
+“(ii) ensure that such discretion is not exercised with respect to such State in perpetuity.”
+
+Subsec. (g)(4)(C). Pub. L. 113–76, § 416(2), inserted at end “The non-Federal funds required by subparagraph (A) to pay 50 percent of the cost of a program or production shall be provided from funds directly controlled and appropriated by the State involved and directly managed by the State agency of such State.”
+
 1990—Subsec. (c). Pub. L. 101–512, § 318 [title I, § 103(a)(7)], substituted “paragraph (10)” for “clause (8)” in concluding provisions.
 
 Subsec. (c)(1). Pub. L. 101–512, § 318 [title I, § 103(a)(1)], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “projects and productions which have substantial artistic and cultural significance, giving emphasis to American creativity and cultural diversity and the maintenance and encouragement of professional excellence;”.

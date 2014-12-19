@@ -1113,7 +1113,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
   (D) an appeal from a decision of the chair related to the application of the rules of the Senate to the procedures related to a resolution.
 
-**(f) Application.—** This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2013. This section does not apply to permits.
+**(f) Application.—** This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2016. This section does not apply to permits.
 
 ### Statutory Notes
 
@@ -1159,6 +1159,8 @@ In subsection (f), the word “only” is omitted as surplus.
 This amends 49:70113(e)(6)(D) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1340).
 
 #### Amendments
+2014—Subsec. (f). Pub. L. 113–76 substituted “December 31, 2016” for “December 31, 2013”.
+
 2013—Subsec. (f). Pub. L. 112–273 substituted “December 31, 2013” for “December 31, 2012”.
 
 2010—Pub. L. 111–314, § 4(d)(2), (3)(O), successively renumbered [section 70113 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70113&num=0&edition=prelim) and [section 70113 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70113&num=0&edition=prelim) as this section.

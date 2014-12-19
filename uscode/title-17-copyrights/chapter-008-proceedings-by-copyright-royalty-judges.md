@@ -396,7 +396,7 @@ The effective date of the Copyright Royalty and Distribution Reform Act of 2004,
 
 The enactment of the Copyright Royalty and Distribution Reform Act of 2004 and such date of enactment, referred to in subsec. (b)(6)(A), (B), probably mean the date of enactment of Pub. L. 108–419, which was approved Nov. 30, 2004.
 
-Section 307 of the Legislative Branch Appropriations Act, 1994, referred to in subsec. (e)(2), is section 307 of Pub. L. 103–69, which is set out as a note under [section 60–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60–1&num=0&edition=prelim), The Congress.
+Section 307 of the Legislative Branch Appropriations Act, 1994, referred to in subsec. (e)(2), is section 307 of Pub. L. 103–69, which was formerly set out as a note under [section 60–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60–1&num=0&edition=prelim), The Congress.
 
 #### Prior Provisions
 A prior section 803, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2597, § 804; Pub. L. 100–568, § 11(2), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, § 202(5), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, § 3(c), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, § 3(a)(2), Oct. 28, 1992, 106 Stat. 4248; renumbered § 803 and amended Pub. L. 103–198, § 2(d), Dec. 17, 1993, 107 Stat. 2307; Pub. L. 104–39, § 5(d)(5)–(7), Nov. 1, 1995, 109 Stat. 349; Pub. L. 105–80, § 12(a)(20), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 105–304, title IV, § 405(e)(5), (6), Oct. 28, 1998, 112 Stat. 2902, related to institution and conclusion of proceedings of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
@@ -525,7 +525,8 @@ Any rates or terms under this title that—
 
 (2) are adopted by the Copyright Royalty Judges as part of a determination under this chapter, and
 
-(3) are in effect for a period shorter than would otherwise apply under a determination pursuant to this chapter, shall remain in effect for such period of time as would otherwise apply under such determination, except that the Copyright Royalty Judges shall adjust the rates pursuant to the voluntary negotiations to reflect national monetary inflation during the additional period the rates remain in effect.
+(3) are in effect for a period shorter than would otherwise apply under a determination pursuant to this chapter,
+shall remain in effect for such period of time as would otherwise apply under such determination, except that the Copyright Royalty Judges shall adjust the rates pursuant to the voluntary negotiations to reflect national monetary inflation during the additional period the rates remain in effect.
 
 ### Statutory Notes
 

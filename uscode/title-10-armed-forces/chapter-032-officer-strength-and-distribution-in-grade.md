@@ -187,7 +187,7 @@ For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maxi
 
   (A) 7 officers in the grade of general;
 
-  (B) 45 officers in a grade above the grade of major general; or
+  (B) 46 officers in a grade above the grade of major general; or
 
   (C) 90 officers in the grade of major general;
 
@@ -195,7 +195,7 @@ For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maxi
 
   (A) 9 officers in the grade of general;
 
-  (B) 43 officers in a grade above the grade of major general; or
+  (B) 44 officers in a grade above the grade of major general; or
 
   (C) 73 officers in the grade of major general;
 
@@ -203,7 +203,7 @@ For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maxi
 
   (A) 6 officers in the grade of admiral;
 
-  (B) 32 officers in a grade above the grade of rear admiral; or
+  (B) 33 officers in a grade above the grade of rear admiral; or
 
   (C) 50 officers in the grade of rear admiral;
 
@@ -213,7 +213,7 @@ For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maxi
 
   (B) 15 officers in a grade above the grade of major general; or
 
-  (C) 22 officers in the grade of major general.
+  (C) 23 officers in the grade of major general.
 
 **(b)** The limitations of subsection (a) do not include the following:
 
@@ -257,21 +257,10 @@ For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maxi
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)
-Pub. L. 112–81, div. A, title V, § 502(b)(2), (3), Dec. 31, 2011, 125 Stat. 1387, provided that, effective Oct. 1, 2013, subsection (a) of this section is amended:
-
-(1) in paragraph (1)(B), by striking “45” and inserting “46”;
-
-(2) in paragraph (2)(B), by striking “43” and inserting “44”;
-
-(3) in paragraph (3)(B), by striking “32” and inserting “33”; and
-
-(4) in paragraph (4)(C), by striking “22” and inserting “23”.
-
-See 2011 Amendment note below.
-
 #### Amendments
-2011—Subsec. (a). Pub. L. 112–81, § 502(b)(2), substituted “46” for “45” in par. (1)(B), “44” for “43” in par. (2)(B), “33” for “32” in par. (3)(B), and “23” for “22” in par. (4)(C).
+2011—Subsec. (a). Pub. L. 112–81, § 502(b)(2)(A)–(C), substituted “46” for “45” in par. (1)(B), “44” for “43” in par. (2)(B), and “33” for “32” in par. (3)(B).
+
+Subsec. (a)(4)(C). Pub. L. 112–81, § 502(b)(2)(D), substituted “23” for “22”.
 
 Subsec. (b). Pub. L. 112–81, § 502(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to exclusions from limitations on appointment of general officers on active duty in the Army, Air Force, and Marine Corps and flag officers on active duty in the Navy.
 
@@ -409,13 +398,13 @@ Pub. L. 97–252, title XI, § 1116, Sept. 8, 1982, 96 Stat. 750.
 ## § 526. Authorized strength: general and flag officers on active duty
 **(a) Limitations.—** The number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, may not exceed the number specified for the armed force concerned as follows:
 
-(1) For the Army, 230.
+(1) For the Army, 231.
 
 (2) For the Navy, 162.
 
-(3) For the Air Force, 208.
+(3) For the Air Force, 198.
 
-(4) For the Marine Corps, 60.
+(4) For the Marine Corps, 61.
 
 **(b) Limited Exclusion for Joint Duty Requirements.—**
 
@@ -427,7 +416,7 @@ Pub. L. 97–252, title XI, § 1116, Sept. 8, 1982, 96 Stat. 750.
 
   (B) For the Navy, 61.
 
-  (C) For the Air Force, 76.
+  (C) For the Air Force, 73.
 
   (D) For the Marine Corps, 21.
 
@@ -457,9 +446,7 @@ Pub. L. 97–252, title XI, § 1116, Sept. 8, 1982, 96 Stat. 750.
 
   (E) Subparagraph (B) does not apply in the case of an officer serving in a position designated under subparagraph (A) if the Secretary of Defense, when considering officers for assignment to fill the vacancy in that position which was filled by that officer, did not have a recommendation for that assignment from each Secretary of a military department who (pursuant to subparagraph (C)) was required to make such a recommendation.
 
-**(c)** Repealed. Pub. L. 107–314, div. A, title X, § 1041(a)(3), Dec. 2, 2002, 116 Stat. 2645.]
-
-**(d) Exclusion of Certain Reserve Officers.—**
+**(c) Exclusion of Certain Reserve Officers.—**
 
 (1) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for training or who is on active duty under a call or order specifying a period of less than 180 days.
 
@@ -467,36 +454,49 @@ Pub. L. 97–252, title XI, § 1116, Sept. 8, 1982, 96 Stat. 750.
 
 (3) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for a period in excess of 365 days but not to exceed three years, except that the number of such officers from each reserve component who are covered by this paragraph and not serving in a position that is a joint duty assignment for purposes of chapter 38 of this title may not exceed 5 per component, unless authorized by the Secretary of Defense.
 
-**(e) Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions.—** The limitations of this section do not apply to a general or flag officer who is covered by an exclusion under [section 525(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section525/e&num=0&edition=prelim).
+**(d) Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions.—** The limitations of this section do not apply to a general or flag officer who is covered by an exclusion under [section 525(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section525/e&num=0&edition=prelim).
 
-**(f) Exclusion of Attending Physician to the Congress.—** The limitations of this section do not apply to the general or flag officer who is serving as Attending Physician to the Congress.
+**(e) Exclusion of Attending Physician to the Congress.—** The limitations of this section do not apply to the general or flag officer who is serving as Attending Physician to the Congress.
 
-**(g) Temporary Exclusion for Assignment to Certain Temporary Billets.—**
+**(f) Temporary Exclusion for Assignment to Certain Temporary Billets.—**
 
 (1) The limitations in subsection (a) and in [section 525(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section525/a&num=0&edition=prelim) do not apply to a general or flag officer assigned to a temporary joint duty assignment designated by the Secretary of Defense.
 
 (2) A general or flag officer assigned to a temporary joint duty assignment as described in paragraph (1) may not be excluded under this subsection from the limitations in subsection (a) for a period of longer than one year.
 
-**(h) Exclusion of Officers Departing From Joint Duty Assignments.—** The limitations in subsection (a) do not apply to an officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment. The Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, except that not more than three officers on active duty from each armed force may be covered by an extension under this sentence at the same time.
+**(g) Exclusion of Officers Departing From Joint Duty Assignments.—** The limitations in subsection (a) do not apply to an officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment. The Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, except that not more than three officers on active duty from each armed force may be covered by an extension under this sentence at the same time.
+
+**(h) Active-duty Baseline.—**
+
+(1) **Notice and wait requirement.—** — If the Secretary of a military department proposes an action that would increase above the baseline the number of general officers or flag officers of an armed force under the jurisdiction of that Secretary who would be on active duty and would count against the statutory limit applicable to that armed force under subsection (a), the action shall not take effect until after the end of the 60-calendar day period beginning on the date on which the Secretary provides notice of the proposed action, including the rationale for the action, to the Committees on Armed Services of the House of Representatives and the Senate.
+
+(2) **Baseline defined.—** — For purposes of paragraph (1), the term “baseline” for an armed force means the lower of—
+
+  (A) the statutory limit of general officers or flag officers of that armed force under subsection (a); or
+
+  (B) the actual number of general officers or flag officers of that armed force who, as of January 1, 2014, counted toward the statutory limit of general officers or flag officers of that armed force under subsection (a).
+
+(3) **Limitation.—** — If, at any time, the actual number of general officers or flag officers of an armed force who count toward the statutory limit of general officers or flag officers of that armed force under subsection (a) exceeds such statutory limit, then no increase described in paragraph (1) for that armed force may occur until the general officer or flag officer total for that armed force is reduced below such statutory limit.
+
+**(i) Joint Duty Assignment Baseline.—**
+
+(1) **Notice and wait requirement.—** — If the Secretary of Defense, the Secretary of a military department, or the Chairman of the Joint Chiefs of Staff proposes an action that would increase above the baseline the number of general officers and flag officers of the armed forces in joint duty assignments who count against the statutory limit under subsection (b)(1), the action shall not take effect until after the end of the 60-calendar day period beginning on the date on which the Secretary or Chairman, as the case may be, provides notice of the proposed action, including the rationale for the action, to the Committees on Armed Services of the House of Representatives and the Senate.
+
+(2) **Baseline defined.—** — For purposes of paragraph (1), the term “baseline” means the lower of—
+
+  (A) the statutory limit on general officer and flag officer positions that are joint duty assignments under subsection (b)(1); or
+
+  (B) the actual number of general officers and flag officers who, as of January 1, 2014, were in joint duty assignments counted toward the statutory limit under subsection (b)(1).
+
+(3) **Limitation.—** — If, at any time, the actual number of general officers and flag officers in joint duty assignments counted toward the statutory limit under subsection (b)(1) exceeds such statutory limit, then no increase described in paragraph (1) may occur until the number of general officers and flag officers in joint duty assignments is reduced below such statutory limit.
+
+**(j) Annual Report on General Officer and Flag Officer Numbers.—** Not later than March 1, 2015, and each March 1 thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report specifying—
+
+(1) the numbers of general officers and flag officers who, as of January 1 of the calendar year in which the report is submitted, counted toward the service-specific limits of subsection (a); and
+
+(2) the number of general officers and flag officers in joint duty assignments who, as of such January 1, counted toward the statutory limit under subsection (b)(1).
 
 ### Statutory Notes
-
-#### Amendment of Subsections (a) and (b)(2)(C)
-Pub. L. 112–81, div. A, title V, § 502(b)(1), (3), Dec. 31, 2011, 125 Stat. 1387, provided that effective Oct. 1, 2013, this section is amended:
-
-(1) in subsection (a)—
-
-(A) in paragraph (1), by striking “230” and inserting “231”;
-
-(B) in paragraph (2), by striking “160” and inserting “161”;
-
-(C) in paragraph (3), by striking “208” and inserting “198”;
-
-(D) in paragraph (4), by striking “60” and inserting “61”; and
-
-(2) in subsection (b)(2)(C), by striking “76” and inserting “73”.
-
-See 2011 Amendment notes below.
 
 #### Historical and Revision Notes
 Section is based on Pub. L. 95–79, title VIII, § 811(a), July 30, 1977, 91 Stat. 335, as amended by Pub. L. 96–107, title VIII, § 817, Nov. 9, 1979, 93 Stat. 818; Pub. L. 96–342, title X, § 1003, Sept. 8, 1980, 94 Stat. 1120; Pub. L. 97–86, title VI, § 602, Dec. 1, 1981, 95 Stat. 1110.
@@ -509,7 +509,19 @@ A prior section 526 was renumbered [section 527 of this title](./chapter-032-off
 #### Amendments
 2013—Subsec. (a)(2). Pub. L. 112–239 substituted “162” for “160”.
 
-2011—Subsec. (a). Pub. L. 112–81, § 502(b)(1)(A), substituted “231” for “230” in par. (1), “161” for “160” in par. (2), “198” for “208” in par. (3), and “61” for “60” in par. (4).
+Subsecs. (c) to (g). Pub. L. 113–66, § 501(a)(1), redesignated subsecs. (d) to (h) as (c) to (g), respectively.
+
+Subsecs. (h), (i). Pub. L. 113–66, § 501(a)(2), added subsecs. (h) and (i). Former subsec. (h) redesignated (g).
+
+Subsec. (j). Pub. L. 113–66, § 501(b)(2), added subsec. (j).
+
+2011—Subsec. (a)(1). Pub. L. 112–81, § 502(b)(1)(A)(i), substituted “231” for “230”.
+
+Subsec. (a)(2). Pub. L. 112—81, § 502(b)(1)(A)(ii), which directed substitution of “161” for “160”, could not be executed because of the intervening amendment by Pub. L. 112—239. See 2013 Amendment note above.
+
+Subsec. (a)(3). Pub. L. 112–81, § 502(b)(1)(A)(iii), substituted “198” for “208”.
+
+Subsec. (a)(4). Pub. L. 112–81, § 502(b)(1)(A)(iv), substituted “61” for “60”.
 
 Subsec. (b)(1). Pub. L. 112–81, § 502(c)(1), substituted “310” for “324”.
 
@@ -598,6 +610,9 @@ Subsecs. (d), (e). Pub. L. 103–337, § 512, added subsecs. (d) and (e).
 Subsec. (c). Pub. L. 102–484, § 403(a), added subsec. (c).
 
 1990—Pub. L. 101–510 amended section generally. Prior to amendment, text read as follows: “The total number of general officers on active duty in the Army, Air Force, and Marine Corps and flag officers on active duty in the Navy may not exceed 1,073.”
+
+#### Effective Date of 2013 Amendment
+Pub. L. 113–66, div. A, title V, § 501(c), Dec. 26, 2013, 127 Stat. 749, provided that: “The amendments made by this is [sic] section [amending this section] shall take effect on January 1, 2014.”
 
 #### Effective Date of 2011 Amendment
 Amendment by section 502(b)(1) of Pub. L. 112–81 effective Oct. 1, 2013, except amendment by section 502(b)(1)(A)(iv) effective Oct. 1, 2012, see section 502(b)(3) of Pub. L. 112–81, as amended, set out as a note under [section 525 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-525).

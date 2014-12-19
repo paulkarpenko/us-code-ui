@@ -354,7 +354,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 
       (I) The debtor’s monthly expenses shall be the debtor’s applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor’s actual monthly expenses for the categories specified as Other Necessary Expenses issued by the Internal Revenue Service for the area in which the debtor resides, as in effect on the date of the order for relief, for the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case, if the spouse is not otherwise a dependent. Such expenses shall include reasonably necessary health insurance, disability insurance, and health savings account expenses for the debtor, the spouse of the debtor, or the dependents of the debtor. Notwithstanding any other provision of this clause, the monthly expenses of the debtor shall not include any payments for debts. In addition, the debtor’s monthly expenses shall include the debtor’s reasonably necessary expenses incurred to maintain the safety of the debtor and the family of the debtor from family violence as identified under section 302 of the Family Violence Prevention and Services Act, or other applicable Federal law. The expenses included in the debtor’s monthly expenses described in the preceding sentence shall be kept confidential by the court. In addition, if it is demonstrated that it is reasonable and necessary, the debtor’s monthly expenses may also include an additional allowance for food and clothing of up to 5 percent of the food and clothing categories as specified by the National Standards issued by the Internal Revenue Service.
 
-      (II) In addition, the debtor’s monthly expenses may include, if applicable, the continuation of actual expenses paid by the debtor that are reasonable and necessary for care and support of an elderly, chronically ill, or disabled household member or member of the debtor’s immediate family (including parents, grandparents, siblings, children, and grandchildren of the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case who is not a dependent) and who is unable to pay for such reasonable and necessary expenses.
+      (II) In addition, the debtor’s monthly expenses may include, if applicable, the continuation of actual expenses paid by the debtor that are reasonable and necessary for care and support of an elderly, chronically ill, or disabled household member or member of the debtor’s immediate family (including parents, grandparents, siblings, children, and grandchildren of the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case who is not a dependent) and who is unable to pay for such reasonable and necessary expenses. Such monthly expenses may include, if applicable, contributions to an account of a qualified ABLE program to the extent such contributions are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986) and if the designated beneficiary of such account is a child, stepchild, grandchild, or stepgrandchild of the debtor.
 
       (III) In addition, for a debtor eligible for chapter 13, the debtor’s monthly expenses may include the actual administrative expenses of administering a chapter 13 plan for the district in which the debtor resides, up to an amount of 10 percent of the projected plan payments, as determined under schedules issued by the Executive Office for United States Trustees.
 
@@ -528,9 +528,13 @@ This section authorizes the court to dismiss a liquidation case only for cause, 
 #### References in Text
 Section 302 of the Family Violence Prevention and Services Act, referred to in subsec. (b)(2)(A)(ii)(I), is classified to [section 10402 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10402&num=0&edition=prelim), The Public Health and Welfare.
 
+The Internal Revenue Code of 1986, referred to in subsec. (b)(2)(A)(ii)(II), is classified generally to Title 26, Internal Revenue Code.
+
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(4)(A), (B), (5)(A), are set out in the Appendix to this title.
 
 #### Amendments
+2014—Subsec. (b)(2)(A)(ii)(II). Pub. L. 113–295 inserted at end “Such monthly expenses may include, if applicable, contributions to an account of a qualified ABLE program to the extent such contributions are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986) and if the designated beneficiary of such account is a child, stepchild, grandchild, or stepgrandchild of the debtor.”
+
 2010—Subsec. (a)(3). Pub. L. 111–327, § 2(a)(25)(A), substituted “521(a)” for “521”.
 
 Subsec. (b)(2)(A)(ii)(I). Pub. L. 111–320 substituted “section 302 of the Family Violence Prevention and Services Act” for “section 309 of the Family Violence Prevention and Services Act”.
@@ -554,6 +558,9 @@ Subsec. (c). Pub. L. 109–8, § 102(f), added subsec. (c).
 Subsec. (b). Pub. L. 99–554, § 219(b), substituted “motion or on a motion by the United States trustee, but” for “motion and”.
 
 1984—Pub. L. 98–353 designated existing provisions as subsec. (a) and in pars. (1) and (2) substituted “or” for “and”, and added subsec. (b).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 applicable with respect to cases commenced under this title on or after Dec. 19, 2014, see section 104(d) of Pub. L. 113–295, set out as a note under [section 521 of this title](./chapter-005-creditors-the-debtor-and-the-estate.md#section-521).
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–438, § 4, Oct. 20, 2008, 122 Stat. 5002, as amended by Pub. L. 112–64, § 2, Dec. 13, 2011, 125 Stat. 766, provided that: “(a) Effective Date.—Except as provided in subsection (b), this Act [amending this section and enacting provisions set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101)] and the amendments made by this Act shall take effect 60 days after the date of enactment of this Act [Oct. 20, 2008]. “(b) Application of Amendments.—The amendments made by this Act [amending this section] shall apply only with respect to cases commenced under title 11 of the United States Code in the 7-year period beginning on the effective date of this Act.”

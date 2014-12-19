@@ -53,6 +53,9 @@ Functions of Farm Credit Administration and Governor thereof under this chapter,
 
 Farm Credit Administration transferred to Department of Agriculture by Reorg. Plan No. I of 1939, § 401, eff. July 1, 1939, 4 F.R. 2730, 53 Stat. 1429, set out in the Appendix to Title 5.
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–252, § 1, Dec. 18, 2014, 128 Stat. 2893, provided that: “This Act [amending [section 1787 of this title](./chapter-014-federal-credit-unions.md#section-1787)] may be cited as the ‘Credit Union Share Insurance Fund Parity Act’.”
+
 #### Short Title of 1998 Amendment
 Pub. L. 105–219, § 1(a), Aug. 7, 1998, 112 Stat. 913, provided that: “This Act [enacting sections 1757a and 1790d of this title, amending sections 1752a, 1759, 1782, and 1784 to 1787 of this title, repealing [section 1762 of this title](./chapter-014-federal-credit-unions.md#section-1762), and enacting provisions set out as notes under this section and sections 1752a, 1757a, 1759, 1790d, 4801, and 4803 of this title] may be cited as the ‘Credit Union Membership Access Act’.”
 
@@ -235,7 +238,8 @@ Any seven or more natural persons who desire to form a Federal credit union shal
 
 (6) the term of the existence of the corporation, which may be perpetual; and
 
-(7) the fact that the certificate is made to enable such persons to avail themselves of the advantages of this chapter. Such organization certificate may also contain any provisions approved by the Board for the management of the business of the association and for the conduct of its affairs and relative to the powers of its directors, officers, or stockholders.
+(7) the fact that the certificate is made to enable such persons to avail themselves of the advantages of this chapter.
+Such organization certificate may also contain any provisions approved by the Board for the management of the business of the association and for the conduct of its affairs and relative to the powers of its directors, officers, or stockholders.
 
 ### Statutory Notes
 
@@ -294,11 +298,11 @@ Functions of Governor of Farm Credit Administration under this section transferr
 
 **(e) Investment of annual operating fees not needed for current operations**
 
-(1) Upon request of the Board, the Secretary of the Treasury shall invest and reinvest such portions of the annual operating fees deposited under subsection (d) of this section as the Board determines are not needed for current operations.
+(1) Upon request of the Board, the Secretary of the Treasury shall invest and reinvest such portions of the annual operating fees deposited under subsection (d) as the Board determines are not needed for current operations.
 
 (2) Such investments may be made only in interest bearing securities of the United States with maturities requested by the Board bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
-(3) All income derived from such investments and reinvestments shall be deposited to the account of the Administration described in subsection (d) of this section.
+(3) All income derived from such investments and reinvestments shall be deposited to the account of the Administration described in subsection (d).
 
 ### Statutory Notes
 
@@ -389,7 +393,7 @@ A Federal credit union shall have succession in its corporate name during its ex
 
       (I) after consultation with the appropriate committees of the Congress, the Department of Treasury, and the Federal financial institution regulatory agencies, an interest rate ceiling exceeding such 15 per centum per annum rate, for periods not to exceed 18 months, if it determines that money market interest rates have risen over the preceding six-month period and that prevailing interest rate levels threaten the safety and soundness of individual credit unions as evidenced by adverse trends in liquidity, capital, earnings, and growth; and
 
-      (II) a higher interest rate ceiling for Agent members of the Central Liquidity Facility in carrying out the provisions of subchapter III of this chapter for such periods as the Board may authorize;
+      (II) a higher interest rate ceiling for Agent members of the Central Liquidity Facility in carrying out the provisions of subchapter III for such periods as the Board may authorize;
 
     (vii) the taking, receiving, reserving, or charging of a rate of interest greater than is allowed by this paragraph, when knowingly done, shall be deemed a forfeiture of the entire interest which the note, bill, or other evidence of debt carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has been paid, the person by whom it has been paid, or his legal representatives, may recover back from the credit union taking or receiving the same, in an action in the nature of an action of debt, the entire amount of interest paid; but such action must be commenced within two years from the time the usurious collection was made;
 
@@ -420,7 +424,7 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 (8) to make deposits in national banks and in State banks, trust companies, and mutual savings banks operating in accordance with the laws of the State in which the Federal credit union does business, or in banks or institutions the accounts of which are insured by the Federal Deposit Insurance Corporation, and for Federal credit unions or credit unions authorized by the Department of Defense operating suboffices on American military installations in foreign countries or trust territories of the United States to maintain demand deposit accounts in banks located in those countries or trust territories, subject to such regulations as may be issued by the Board and provided such banks are correspondents of banks described in this paragraph;
 
-(9) to borrow, in accordance with such rules and regulations as may be prescribed by the Board, from any source, in an aggregate amount not exceeding, except as authorized by the Board in carrying out the provisions of subchapter III of this chapter, 50 per centum of its paid-in and unimpaired capital and surplus: Provided, That any Federal credit union may discount with or sell to any Federal intermediate credit bank any eligible obligations up to the amount of its paid-in and unimpaired capital;
+(9) to borrow, in accordance with such rules and regulations as may be prescribed by the Board, from any source, in an aggregate amount not exceeding, except as authorized by the Board in carrying out the provisions of subchapter III, 50 per centum of its paid-in and unimpaired capital and surplus: Provided, That any Federal credit union may discount with or sell to any Federal intermediate credit bank any eligible obligations up to the amount of its paid-in and unimpaired capital;
 
 (10) to levy late charges, in accordance with the bylaws, for failure of members to meet promptly their obligations to the Federal credit union;
 
@@ -539,7 +543,7 @@ Par. (7). Pub. L. 95–630, §§ 502(b), 1803(b), substituted “Board” for �
 
 Par. (8). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator”.
 
-Par. (9). Pub. L. 95–630, §§ 502(b), 1803(c), substituted “Board” for “Administrator” and inserted “, except as authorized by the Board in carrying out the provisions of subchapter III of this chapter,” after “amount not exceeding”.
+Par. (9). Pub. L. 95–630, §§ 502(b), 1803(c), substituted “Board” for “Administrator” and inserted “, except as authorized by the Board in carrying out the provisions of subchapter III,” after “amount not exceeding”.
 
 Pars. (12) to (14). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
 
@@ -639,7 +643,7 @@ Amendment by section 103 of Pub. L. 96–161, cited as a credit to this section,
 
 (2) 1.75 times the minimum net worth required under [section 1790d(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1790d/c/1/A&num=0&edition=prelim) for a credit union to be well capitalized.
 
-**(b) Exceptions** Subsection (a) of this section does not apply in the case of—
+**(b) Exceptions** Subsection (a) does not apply in the case of—
 
 (1) an insured credit union chartered for the purpose of making, or that has a history of primarily making, member business loans to its members, as determined by the Board; or
 
@@ -679,7 +683,7 @@ Amendment by section 103 of Pub. L. 96–161, cited as a credit to this section,
 
 (3) the term “associated member” means any member having a shared ownership, investment, or other pecuniary interest in a business or commercial endeavor with the borrower.
 
-**(d) Effect on existing loans** An insured credit union that has, on August 7, 1998, a total amount of outstanding member business loans that exceeds the amount permitted under subsection (a) of this section shall, not later than 3 years after August 7, 1998, reduce the total amount of outstanding member business loans to an amount that is not greater than the amount permitted under subsection (a) of this section.
+**(d) Effect on existing loans** An insured credit union that has, on August 7, 1998, a total amount of outstanding member business loans that exceeds the amount permitted under subsection (a) shall, not later than 3 years after August 7, 1998, reduce the total amount of outstanding member business loans to an amount that is not greater than the amount permitted under subsection (a).
 
 **(e) Consultation and cooperation with State credit union supervisors** In implementing this section, the Board shall consult and seek to work cooperatively with State officials having jurisdiction over State-chartered insured credit unions.
 
@@ -714,7 +718,7 @@ Functions of Governor of Farm Credit Administration under this section transferr
 
 <a id="section-1761"></a>
 ## § 1761. Membership
-**(a) In general** Subject to subsection (b) of this section, Federal credit union membership shall consist of the incorporators and such other persons and incorporated and unincorporated organizations, to the extent permitted by rules and regulations prescribed by the Board, as may be elected to membership and as such shall each, subscribe to at least one share of its stock and pay the initial installment thereon and a uniform entrance fee if required by the board of directors. Shares may be issued in joint tenancy with right of survivorship with any persons designated by the credit union member, but no joint tenant shall be permitted to vote, obtain loans, or hold office, unless he is within the field of membership and is a qualified member.
+**(a) In general** Subject to subsection (b), Federal credit union membership shall consist of the incorporators and such other persons and incorporated and unincorporated organizations, to the extent permitted by rules and regulations prescribed by the Board, as may be elected to membership and as such shall each, subscribe to at least one share of its stock and pay the initial installment thereon and a uniform entrance fee if required by the board of directors. Shares may be issued in joint tenancy with right of survivorship with any persons designated by the credit union member, but no joint tenant shall be permitted to vote, obtain loans, or hold office, unless he is within the field of membership and is a qualified member.
 
 **(b) Membership field** Subject to the other provisions of this section, the membership of any Federal credit union shall be limited to the membership described in one of the following categories:
 
@@ -724,7 +728,7 @@ Functions of Governor of Farm Credit Administration under this section transferr
 
   (A) each of which has (within the group) a common bond of occupation or association; and
 
-  (B) the number of members, each of which (at the time the group is first included within the field of membership of a credit union described in this paragraph) does not exceed any numerical limitation applicable under subsection (d) of this section.
+  (B) the number of members, each of which (at the time the group is first included within the field of membership of a credit union described in this paragraph) does not exceed any numerical limitation applicable under subsection (d).
 
 (3) **Community credit union** — Persons or organizations within a well-defined local community, neighborhood, or rural district.
 
@@ -732,7 +736,7 @@ Functions of Governor of Farm Credit Administration under this section transferr
 
 (1) **Grandfathered members and groups**
 
-  (A) *In general* — Notwithstanding subsection (b) of this section—
+  (A) *In general* — Notwithstanding subsection (b)—
 
     (i) any person or organization that is a member of any Federal credit union as of August 7, 1998, may remain a member of the credit union after August 7, 1998; and
 
@@ -740,7 +744,7 @@ Functions of Governor of Farm Credit Administration under this section transferr
 
   (B) *Successors* — If the common bond of any group referred to in subparagraph (A) is defined by any particular organization or business entity, subparagraph (A) shall continue to apply with respect to any successor to the organization or entity.
 
-(2) **Exception for underserved areas** — Notwithstanding subsection (b) of this section, in the case of a Federal credit union, the field of membership category of which is described in subsection (b)(2) of this section, the Board may allow the membership of the credit union to include any person or organization within a local community, neighborhood, or rural district if—
+(2) **Exception for underserved areas** — Notwithstanding subsection (b), in the case of a Federal credit union, the field of membership category of which is described in subsection (b)(2), the Board may allow the membership of the credit union to include any person or organization within a local community, neighborhood, or rural district if—
 
   (A) the Board determines that the local community, neighborhood, or rural district—
 
@@ -752,11 +756,11 @@ Functions of Governor of Farm Credit Administration under this section transferr
 
 **(d) Multiple common-bond credit union group requirements**
 
-(1) **Numerical limitation** — Except as provided in paragraph (2), only a group with fewer than 3,000 members shall be eligible to be included in the field of membership category of a credit union described in subsection (b)(2) of this section.
+(1) **Numerical limitation** — Except as provided in paragraph (2), only a group with fewer than 3,000 members shall be eligible to be included in the field of membership category of a credit union described in subsection (b)(2).
 
-(2) **Exceptions** — In the case of any Federal credit union, the field of membership category of which is described in subsection (b)(2) of this section, the numerical limitation in paragraph (1) of this subsection shall not apply with respect to—
+(2) **Exceptions** — In the case of any Federal credit union, the field of membership category of which is described in subsection (b)(2), the numerical limitation in paragraph (1) of this subsection shall not apply with respect to—
 
-  (A) any group that the Board determines, in writing and in accordance with the guidelines and regulations issued under paragraph (3), could not feasibly or reasonably establish a new single common-bond credit union, the field of membership category of which is described in subsection (b)(1) of this section because—
+  (A) any group that the Board determines, in writing and in accordance with the guidelines and regulations issued under paragraph (3), could not feasibly or reasonably establish a new single common-bond credit union, the field of membership category of which is described in subsection (b)(1) because—
 
     (i) the group lacks sufficient volunteer and other resources to support the efficient and effective operation of a credit union;
 
@@ -772,7 +776,7 @@ Functions of Governor of Farm Credit Administration under this section transferr
 
   (C) any group transferred in connection with a voluntary merger, having received conditional approval by the Administration of the merger application prior to October 25, 1996, but not having consummated the merger prior to October 25, 1996, if the merger is consummated not later than 180 days after August 7, 1998.
 
-(3) **Regulations and guidelines** — The Board shall issue guidelines or regulations, after notice and opportunity for comment, setting forth the criteria that the Board will apply in determining under this subsection whether or not an additional group may be included within the field of membership category of an existing credit union described in subsection (b)(2) of this section.
+(3) **Regulations and guidelines** — The Board shall issue guidelines or regulations, after notice and opportunity for comment, setting forth the criteria that the Board will apply in determining under this subsection whether or not an additional group may be included within the field of membership category of an existing credit union described in subsection (b)(2).
 
 **(e) Additional membership eligibility provisions**
 
@@ -788,7 +792,7 @@ Functions of Governor of Farm Credit Administration under this section transferr
 
   (B) if the formation of a separate credit union by the group is not practicable or consistent with the standards referred to in subparagraph (A), require the inclusion of the group in the field of membership of a credit union that is within reasonable proximity to the location of the group whenever practicable and consistent with reasonable standards for the safe and sound operation of the credit union.
 
-(2) **Approval criteria** — The Board may not approve any application by a Federal credit union, the field of membership category of which is described in subsection (b)(2) of this section to include any additional group within the field of membership of the credit union (or an application by a Federal credit union described in subsection (b)(1) of this section to include an additional group and become a credit union described in subsection (b)(2) of this section), unless the Board determines, in writing, that—
+(2) **Approval criteria** — The Board may not approve any application by a Federal credit union, the field of membership category of which is described in subsection (b)(2) to include any additional group within the field of membership of the credit union (or an application by a Federal credit union described in subsection (b)(1) to include an additional group and become a credit union described in subsection (b)(2)), unless the Board determines, in writing, that—
 
   (A) the credit union has not engaged in any unsafe or unsound practice (as defined in [section 1786(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1786/b&num=0&edition=prelim)) that is material during the 1-year period preceding the date of filing of the application;
 
@@ -804,7 +808,7 @@ Functions of Governor of Farm Credit Administration under this section transferr
 
 (1) **Definition of well-defined local community, neighborhood, or rural district** — The Board shall prescribe, by regulation, a definition for the term “well-defined local community, neighborhood, or rural district” for purposes of—
 
-  (A) making any determination with regard to the field of membership of a credit union described in subsection (b)(3) of this section; and
+  (A) making any determination with regard to the field of membership of a credit union described in subsection (b)(3); and
 
   (B) establishing the criteria applicable with respect to any such determination.
 
@@ -815,7 +819,7 @@ Functions of Governor of Farm Credit Administration under this section transferr
 #### Amendments
 2006—Subsec. (c)(2)(A)(i). Pub. L. 109–351 made technical amendment to reference in original act which appears in text as reference to [section 4702(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4702/16&num=0&edition=prelim).
 
-1998—Subsec. (a). Pub. L. 105–219, § 101(1)(A), designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b) of this section,” before “Federal credit union membership shall consist of”.
+1998—Subsec. (a). Pub. L. 105–219, § 101(1)(A), designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b),” before “Federal credit union membership shall consist of”.
 
 Pub. L. 105–219, § 101(1)(B), which directed the amendment of subsec. (a) by striking out “, except that Federal credit union membership shall be limited to groups having a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district” after “directors”, was executed by striking out such language which began with a semicolon rather than a comma after “directors” to reflect the probable intent of Congress.
 
@@ -1434,7 +1438,7 @@ The Community Development Credit Union Revolving Loan Fund Transfer Act, referre
 
 (3) **Judicial review** — [Section 1786(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1786/j&num=0&edition=prelim) shall apply to any proceeding under this section.
 
-**(b) Factors to be considered** In determining whether a franchise shall be forfeited under subsection (a) of this section, the Board shall take into account the following factors:
+**(b) Factors to be considered** In determining whether a franchise shall be forfeited under subsection (a), the Board shall take into account the following factors:
 
 (1) The extent to which directors, committee members, or senior executive officers (as defined by the Board in regulations which the Board shall prescribe) of the credit union knew of, or were involved in, the commission of the money laundering offense of which the credit union was found guilty.
 
@@ -1446,7 +1450,7 @@ The Community Development Credit Union Revolving Loan Fund Transfer Act, referre
 
 (5) The extent to which the interest of the local community in having adequate deposit and credit services available would be threatened by the forfeiture of the franchise.
 
-**(c) Successor liability** This section shall not apply to a successor to the interests of, or a person who acquires, a credit union that violated a provision of law described in subsection (a) of this section, if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this section or regulations prescribed under this section.
+**(c) Successor liability** This section shall not apply to a successor to the interests of, or a person who acquires, a credit union that violated a provision of law described in subsection (a), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this section or regulations prescribed under this section.
 
 ### Statutory Notes
 
@@ -1668,7 +1672,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 (1) **Statement required**
 
-  (A) *In general* — For each calendar year, in the case of an insured credit union with total assets of not more than $50,000,000, and for each semi-annual period in the case of an insured credit union with total assets of $50,000,000 or more, an insured credit union shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the relevant period and both the amount of its deposit or adjustment of deposit and the amount of the insurance charge due to the Fund for that period, both as computed under subsection (c) of this section.
+  (A) *In general* — For each calendar year, in the case of an insured credit union with total assets of not more than $50,000,000, and for each semi-annual period in the case of an insured credit union with total assets of $50,000,000 or more, an insured credit union shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the relevant period and both the amount of its deposit or adjustment of deposit and the amount of the insurance charge due to the Fund for that period, both as computed under subsection (c).
 
   (B) *Exception for newly insured credit union* — Subparagraph (A) shall not apply with respect to a credit union that became insured during the reporting period.
 
@@ -1743,7 +1747,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
     (ii) does not reduce the Fund’s available assets ratio below 1.0 percent.
 
-  (C) *Calculation based on certified statements.—* — In calculating the Fund’s equity ratio and available assets ratio for purposes of this paragraph, the Board shall determine the aggregate amount of the insured shares in all insured credit unions from insured credit unions certified statements under subsection (b) of this section of this section for the final reporting period of the calendar year referred to in subparagraph (A).
+  (C) *Calculation based on certified statements.—* — In calculating the Fund’s equity ratio and available assets ratio for purposes of this paragraph, the Board shall determine the aggregate amount of the insured shares in all insured credit unions from insured credit unions certified statements under subsection (b) for the final reporting period of the calendar year referred to in subparagraph (A).
 
 (4) **Timeliness and accuracy of data.—** — In calculating the available assets ratio and equity ratio of the Fund, the Board shall use the most current and accurate data reasonably available.
 
@@ -1755,19 +1759,19 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
   (A) *First tier.—* — Any insured credit union which—
 
-    (i) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to submit any certified statement under subsection (b)(1) of this section within the period of time required or submits a false or misleading certified statement under such subsection; or
+    (i) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to submit any certified statement under subsection (b)(1) within the period of time required or submits a false or misleading certified statement under such subsection; or
 
     (ii) submits the statement at a time which is minimally after the time required,
     shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false and misleading information is not corrected. The insured credit union shall have the burden of proving that an error was inadvertent or that a statement was inadvertently submitted late.
 
   (B) *Second tier.—* — Any insured credit union which—
 
-    (i) fails to submit any certified statement under subsection (b)(1) of this section within the period of time required or submits a false or misleading certified statement in a manner not described in subparagraph (A); or
+    (i) fails to submit any certified statement under subsection (b)(1) within the period of time required or submits a false or misleading certified statement in a manner not described in subparagraph (A); or
 
     (ii) fails or refuses to pay any deposit or premium for insurance required under this subchapter,
     shall be subject to a penalty of not more than $20,000 for each day during which such failure continues, such false and misleading information is not corrected, or such deposit or premium is not paid.
 
-  (C) *Third tier.—* — Notwithstanding subparagraphs (A) and (B), if any insured credit union knowingly or with reckless disregard for the accuracy of any certified statement under subsection (b)(1) of this section submits a false or misleading certified statement under such subsection, the Board may assess a penalty of not more than $1,000,000 or not more than 1 percent of the total assets of the credit union, whichever is less, per day for each day during which the failure continues or the false or misleading information in such statement is not corrected.
+  (C) *Third tier.—* — Notwithstanding subparagraphs (A) and (B), if any insured credit union knowingly or with reckless disregard for the accuracy of any certified statement under subsection (b)(1) submits a false or misleading certified statement under such subsection, the Board may assess a penalty of not more than $1,000,000 or not more than 1 percent of the total assets of the credit union, whichever is less, per day for each day during which the failure continues or the false or misleading information in such statement is not corrected.
 
   (D) *Assessment procedure.—* — Any penalty imposed under this paragraph shall be assessed and collected by the Board in the manner provided in [section 1786(k)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1786/k/2&num=0&edition=prelim) (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section.
 
@@ -1850,7 +1854,7 @@ Subsec. (h). Pub. L. 105–219, § 302(a)(5), added subsec. (h) and struck out f
 
 “(3) the term ‘insured shares’ when applied to this section includes share, share draft, share certificate and other similar accounts as determined by the Board, but does not include amounts in excess of the insured account limit set forth in [section 1787(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1787/c/1&num=0&edition=prelim).”
 
-1992—Subsec. (d)(2). Pub. L. 102–550, in subpar. (C), substituted “insured credit union” for “insured depository institution”, struck out “or” after “subsection (b)(1) of this section”, and substituted “Board” for “Corporation” and “assets of the credit union” for “assets of the institution”, in subpar. (D), substituted “Board” for “Corporation”, and in subpar. (E), substituted “insured credit union” for “insured depository institution” and “if the credit union” for “if the institution”.
+1992—Subsec. (d)(2). Pub. L. 102–550, in subpar. (C), substituted “insured credit union” for “insured depository institution”, struck out “or” after “subsection (b)(1)”, and substituted “Board” for “Corporation” and “assets of the credit union” for “assets of the institution”, in subpar. (D), substituted “Board” for “Corporation”, and in subpar. (E), substituted “insured credit union” for “insured depository institution” and “if the credit union” for “if the institution”.
 
 1991—Subsec. (d)(2). Pub. L. 102–242 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any insured credit union which willfully fails or refuses to file any certified statement or to pay its deposit or any premium charge for insurance required under this subchapter shall be subject to a penalty of not more than $100 for each day that such violation continues, which penalty the Board may recover for its use. The provisions of this paragraph shall not be applicable in any case in which the refusal to pay its deposit or the premium charge for insurance is due to a dispute between the insured credit union and the Board over the amount of its deposit or the premium charge due to the fund if the credit union deposits security satisfactory to the Board for payment of its deposit or the premium charge upon final determination of the issue.”
 
@@ -1943,7 +1947,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 **(e) Excess funds credited against loans** So long as any loans to the fund are outstanding, the Board shall from time to time, not less often than annually, determine whether the balance in the fund is in excess of the amount which, in its judgment, is needed to meet the requirements of the fund and shall pay such excess to the Secretary of the Treasury, to be credited against the loans to the fund.
 
-**(f) Authorization for fund to borrow from Central Liquidity Facility** In addition to the authority to borrow from the Secretary of the Treasury provided in subsection (d) of this section, if in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the fund is authorized to borrow from the National Credit Union Administration Central Liquidity Facility.
+**(f) Authorization for fund to borrow from Central Liquidity Facility** In addition to the authority to borrow from the Secretary of the Treasury provided in subsection (d), if in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the fund is authorized to borrow from the National Credit Union Administration Central Liquidity Facility.
 
 ### Statutory Notes
 
@@ -2159,7 +2163,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 **(i) Emergency purchase of assets; conversion to insured deposits**
 
-(1) Notwithstanding any other provision of this chapter or of State law, the Board may authorize an institution whose deposits or accounts are insured by the Federal Deposit Insurance Corporation to purchase any of the assets of or assume any of the liabilities of an insured credit union which is insolvent or in danger of insolvency, except that prior to exercising this authority the Board must attempt to effect the merger or consolidation of an insured credit union which is insolvent or in danger of insolvency with another insured credit union, as provided in subsection (h) of this section.
+(1) Notwithstanding any other provision of this chapter or of State law, the Board may authorize an institution whose deposits or accounts are insured by the Federal Deposit Insurance Corporation to purchase any of the assets of or assume any of the liabilities of an insured credit union which is insolvent or in danger of insolvency, except that prior to exercising this authority the Board must attempt to effect the merger or consolidation of an insured credit union which is insolvent or in danger of insolvency with another insured credit union, as provided in subsection (h).
 
 (2) For purposes of the authority contained in paragraph (1), insured accounts of the credit union may upon consummation of the purchase and assumption be converted to insured deposits or other comparable accounts in the acquiring institution, and the Board and the National Credit Union Share Insurance Fund shall be absolved of any liability to the credit union’s members with respect to those accounts.
 
@@ -2275,7 +2279,7 @@ In any case in which one or more provisions of, or amendments made by, title V o
 
 (2) A cease-and-desist order shall become effective at the expiration of thirty days after the service of such order upon the credit union or other person concerned (except in the case of a cease-and-desist order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided therein, except to such extent as it is stayed, modified, terminated, or set aside by action of the Board or a reviewing court.
 
-(3) **Affirmative action to correct conditions resulting from violations or practices.—** — The authority to issue an order under this subsection and subsection (f) of this section which requires an insured credit union or any institution-affiliated party to take affirmative action to correct any conditions resulting from any violation or practice with respect to which such order is issued includes the authority to require such insured credit union or such party to—
+(3) **Affirmative action to correct conditions resulting from violations or practices.—** — The authority to issue an order under this subsection and subsection (f) which requires an insured credit union or any institution-affiliated party to take affirmative action to correct any conditions resulting from any violation or practice with respect to which such order is issued includes the authority to require such insured credit union or such party to—
 
   (A) make restitution or provide reimbursement, indemnification, or guarantee against loss if—
 
@@ -2293,21 +2297,21 @@ In any case in which one or more provisions of, or amendments made by, title V o
 
   (F) take such other action as the Board determines to be appropriate.
 
-(4) **Authority to limit activities.—** — The authority to issue an order under this subsection or subsection (f) of this section includes the authority to place limitations on the activities or functions of an insured credit union or any institution-affiliated party.
+(4) **Authority to limit activities.—** — The authority to issue an order under this subsection or subsection (f) includes the authority to place limitations on the activities or functions of an insured credit union or any institution-affiliated party.
 
 **(f) Temporary cease and desist order; injunctive procedure**
 
-(1) Whenever the Board shall determine that the violation or threatened violation or the unsafe or unsound practice or practices, specified in the notice of charges served upon the credit union or any institution-affiliated party pursuant to paragraph (1) of subsection (e) of this section, or the continuation thereof, is likely to cause insolvency or significant dissipation of assets or earnings of the credit union, or is likely to weaken the condition of the credit union or otherwise prejudice the interests of its insured members prior to the completion of the proceedings conducted pursuant to paragraph (1) of subsection (e) of this section, the Board may issue a temporary order requiring the credit union or such party to cease and desist from any such violation or practice and to take affirmative action to prevent such insolvency, dissipation, condition, or prejudice pending completion of such proceedings. Such order may include any requirement authorized under subsection (e)(3) of this section. Such order shall become effective upon service upon the credit union or such institution-affiliated party and, unless set aside, limited, or suspended by a court in proceedings authorized by paragraph (2) of this subsection, shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the Administration shall dismiss the charges specified in such notice, or if a cease-and-desist order is issued against the credit union or such party, until the effective date of such order.
+(1) Whenever the Board shall determine that the violation or threatened violation or the unsafe or unsound practice or practices, specified in the notice of charges served upon the credit union or any institution-affiliated party pursuant to paragraph (1) of subsection (e) of this section, or the continuation thereof, is likely to cause insolvency or significant dissipation of assets or earnings of the credit union, or is likely to weaken the condition of the credit union or otherwise prejudice the interests of its insured members prior to the completion of the proceedings conducted pursuant to paragraph (1) of subsection (e) of this section, the Board may issue a temporary order requiring the credit union or such party to cease and desist from any such violation or practice and to take affirmative action to prevent such insolvency, dissipation, condition, or prejudice pending completion of such proceedings. Such order may include any requirement authorized under subsection (e)(3). Such order shall become effective upon service upon the credit union or such institution-affiliated party and, unless set aside, limited, or suspended by a court in proceedings authorized by paragraph (2) of this subsection, shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the Administration shall dismiss the charges specified in such notice, or if a cease-and-desist order is issued against the credit union or such party, until the effective date of such order.
 
 (2) Within ten days after the credit union concerned or any institution-affiliated party has been served with a temporary cease-and-desist order, the credit union or such party may apply to the United States district court for the judicial district in which the home office of the credit union is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the credit union or such party under paragraph (1) of subsection (e) of this section, and such court shall have jurisdiction to issue such injunction.
 
 (3) **Incomplete or inaccurate records.—**
 
-  (A) *Temporary order.—* — If a notice of charges served under subsection (e)(1) of this section specifies, on the basis of particular facts and circumstances, that an insured credit union’s books and records are so incomplete or inaccurate that the Board is unable, through the normal supervisory process, to determine the financial condition of that insured credit union or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that insured credit union, the Board may issue a temporary order requiring—
+  (A) *Temporary order.—* — If a notice of charges served under subsection (e)(1) specifies, on the basis of particular facts and circumstances, that an insured credit union’s books and records are so incomplete or inaccurate that the Board is unable, through the normal supervisory process, to determine the financial condition of that insured credit union or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that insured credit union, the Board may issue a temporary order requiring—
 
     (i) the cessation of any activity or practice which gave rise, whether in whole or in part, to the incomplete or inaccurate state of the books or records; or
 
-    (ii) affirmative action to restore such books or records to a complete and accurate state, until the completion of the proceedings under subsection (e)(1) of this section.
+    (ii) affirmative action to restore such books or records to a complete and accurate state, until the completion of the proceedings under subsection (e)(1).
 
   (B) *Effective period.—* — Any temporary order issued under subparagraph (A)—
 
@@ -2315,7 +2319,7 @@ In any case in which one or more provisions of, or amendments made by, title V o
 
     (ii) unless set aside, limited, or suspended by a court in proceedings under paragraph (2), shall remain in effect and enforceable until the earlier of—
 
-      (I) the completion of the proceeding initiated under subsection (e)(1) of this section in connection with the notice of charges; or
+      (I) the completion of the proceeding initiated under subsection (e)(1) in connection with the notice of charges; or
 
       (II) the date the Board determines, by examination or otherwise, that the insured credit union’s books and records are accurate and reflect the financial condition of the credit union.
 
@@ -2362,7 +2366,7 @@ In any case in which one or more provisions of, or amendments made by, title V o
 
     (i) an institution-affiliated party has committed a violation of any provision of subchapter II of chapter 53 of title 31, unless such violation was inadvertent or unintentional;
 
-    (ii) an officer or director of an insured credit union has knowledge that an institution-affiliated party of the insured credit union has violated any such provision or any provision of law referred to in subsection (i)(1)(A)(ii) of this section; or
+    (ii) an officer or director of an insured credit union has knowledge that an institution-affiliated party of the insured credit union has violated any such provision or any provision of law referred to in subsection (i)(1)(A)(ii); or
 
     (iii) an officer or director of an insured credit union has committed any violation of the Depository Institution Management Interlocks Act [[12 U.S.C. 3201](./chapter-033-depository-institution-management-interlocks.md#section-3201) et seq.],
     the Board may serve upon such party, officer, or director a written notice of the Board’s intention to remove such officer or director from office.
@@ -2405,7 +2409,7 @@ In any case in which one or more provisions of, or amendments made by, title V o
 
 (7) **Industrywide Prohibition.—**
 
-  (A) *In general.—* — Except as provided in subparagraph (B), any person who, pursuant to an order issued under this subsection or subsection (i) of this section, has been removed or suspended from office in an insured credit union or prohibited from participating in the conduct of the affairs of an insured credit union may not, while such order is in effect, continue or commence to hold any office in, or participate in any manner in the conduct of the affairs of—
+  (A) *In general.—* — Except as provided in subparagraph (B), any person who, pursuant to an order issued under this subsection or subsection (i), has been removed or suspended from office in an insured credit union or prohibited from participating in the conduct of the affairs of an insured credit union may not, while such order is in effect, continue or commence to hold any office in, or participate in any manner in the conduct of the affairs of—
 
     (i) any insured depository institution;
 
@@ -2551,7 +2555,7 @@ In any case in which one or more provisions of, or amendments made by, title V o
 
     (i) violates any law or regulation;
 
-    (ii) violates any final order or temporary order issued pursuant to subsection (e), (f), (g), (i), or (q) of this section, or any final order under [section 1790d of this title](./chapter-014-federal-credit-unions.md#section-1790d);
+    (ii) violates any final order or temporary order issued pursuant to subsection (e), (f), (g), (i), or (q), or any final order under [section 1790d of this title](./chapter-014-federal-credit-unions.md#section-1790d);
 
     (iii) violates any condition imposed in writing by the Board in connection with any action on any application, notice, or other request by the credit union or institution-affiliated party; or
 
@@ -2636,9 +2640,9 @@ In any case in which one or more provisions of, or amendments made by, title V o
 
 **(l) Criminal penalty for violation of certain orders** Whoever—
 
-(1) under this chapter, is suspended or removed from, or prohibited from participating in the affairs of any credit union described in subsection (g)(5) of this section; and
+(1) under this chapter, is suspended or removed from, or prohibited from participating in the affairs of any credit union described in subsection (g)(5); and
 
-(2) knowingly participates, directly or indirectly, in any manner (including by engaging in an activity specifically prohibited in such an order or in subsection (g)(5) of this section) in the conduct of the affairs of such a credit union;
+(2) knowingly participates, directly or indirectly, in any manner (including by engaging in an activity specifically prohibited in such an order or in subsection (g)(5)) in the conduct of the affairs of such a credit union;
 shall be fined not more than $1,000,000, imprisoned for not more than 5 years, or both.
 
 **(m) Definitions** As used in this section (1) the terms “cease-and-desist order which has become final” and “order which has become final” means a cease-and-desist order, or an order issued by the Board with the consent of the credit union or the director, officer, committee member, or other person concerned, or with respect to which no petition for review of the action of the Board has been filed and perfected in a court of appeals as specified in paragraph (2) of subsection (j) of this section, or with respect to which the action of the court in which said petition is so filed is not subject to further review by the Supreme Court of the United States in proceedings provided for in said paragraph, or an order issued under subsection (i) of this section, and (2) the term “violation” includes, without limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
@@ -2664,7 +2668,7 @@ shall be fined not more than $1,000,000, imprisoned for not more than 5 years, o
   (A) has failed to establish and maintain the procedures described in paragraph (1); or
 
   (B) has failed to correct any problem with the procedures maintained by such credit union which was previously reported to the credit union by the Board,
-  the Board shall issue an order in the manner prescribed in subsection (e) or (f) of this section requiring such credit union to cease and desist from its violation of this subsection or regulations prescribed under this subsection.
+  the Board shall issue an order in the manner prescribed in subsection (e) or (f) requiring such credit union to cease and desist from its violation of this subsection or regulations prescribed under this subsection.
 
 **(r) “Institution-affiliated party” defined** For purposes of this chapter, the term “institution-affiliated party” means—
 
@@ -2695,7 +2699,7 @@ shall be fined not more than $1,000,000, imprisoned for not more than 5 years, o
 
 (3) **Reports to Congress** — A written report shall be made part of a determination not to hold a public hearing pursuant to paragraph (2) or not to publish a document pursuant to paragraph (1)(A). At the end of each calendar quarter, all such reports shall be transmitted to the Congress.
 
-(4) **Transcript of hearing** — A transcript that includes all testimony and other documentary evidence shall be prepared for all hearings commenced pursuant to subsection (k) of this section. A transcript of public hearings shall be made available to the public pursuant to [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim).
+(4) **Transcript of hearing** — A transcript that includes all testimony and other documentary evidence shall be prepared for all hearings commenced pursuant to subsection (k). A transcript of public hearings shall be made available to the public pursuant to [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim).
 
 (5) **Delay of publication under exceptional circumstances** — If the Board makes a determination in writing that the publication of a final order pursuant to paragraph (1)(B) would seriously threaten the safety and soundness of an insured depository institution, the agency may delay the publication of the document for a reasonable time.
 
@@ -2793,7 +2797,7 @@ shall be fined not more than $1,000,000, imprisoned for not more than 5 years, o
 
     (ii) is removed or prohibited from participating in conduct of the affairs of the credit union; or
 
-    (iii) is required to take any affirmative action described in subsection (e)(3) of this section with respect to such credit union.
+    (iii) is required to take any affirmative action described in subsection (e)(3) with respect to such credit union.
 
   (B) *Liability or legal expense* — The term “liability or legal expense” means—
 
@@ -2871,7 +2875,7 @@ shall be fined not more than $1,000,000, imprisoned for not more than 5 years, o
 
   (B) publish notice of the termination of the insured status of the credit union.
 
-(4) **Temporary insurance of previously insured deposits** — Upon termination of the insured status of any State credit union pursuant to paragraph (1), the deposits of such credit union shall be treated in accordance with subsection (d)(2) of this section.
+(4) **Temporary insurance of previously insured deposits** — Upon termination of the insured status of any State credit union pursuant to paragraph (1), the deposits of such credit union shall be treated in accordance with subsection (d)(2).
 
 (5) **Successor liability** — This subsection shall not apply to a successor to the interests of, or a person who acquires, an insured credit union that violated a provision of law described in paragraph (1), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this subsection or regulations prescribed under this subsection.
 
@@ -2899,15 +2903,15 @@ shall be fined not more than $1,000,000, imprisoned for not more than 5 years, o
 
   (A) *In general* — In addition to any other administrative, civil, or criminal remedy or penalty that may otherwise apply, whenever the Board determines that a person subject to paragraph (1) has become associated, in the manner described in paragraph (1)(C), with an insured credit union, the Board shall impose upon such person one or more of the following penalties:
 
-    (i) *Industry-wide prohibition order* — The Board shall serve a written notice or order in accordance with and subject to the provisions of subsection (g)(4) of this section for written notices or orders under paragraph (1) or (2) of subsection (g) of this section, upon such person of the intention of the Board—
+    (i) *Industry-wide prohibition order* — The Board shall serve a written notice or order in accordance with and subject to the provisions of subsection (g)(4) for written notices or orders under paragraph (1) or (2) of subsection (g), upon such person of the intention of the Board—
 
       (I) to remove such person from office or to prohibit such person from further participation in the conduct of the affairs of the insured credit union for a period of up to 5 years; and
 
       (II) to prohibit any further participation by such person, in any manner, in the conduct of the affairs of any insured credit union for a period of up to 5 years.
 
-    (ii) *Civil monetary penalty* — The Board may, in an administrative proceeding or civil action in an appropriate United States district court, impose on such person a civil monetary penalty of not more than $250,000. Any administrative proceeding under this clause shall be conducted in accordance with subsection (k) of this section. In lieu of an action by the Board under this clause, the Attorney General of the United States may bring a civil action under this clause in the appropriate United States district court.
+    (ii) *Civil monetary penalty* — The Board may, in an administrative proceeding or civil action in an appropriate United States district court, impose on such person a civil monetary penalty of not more than $250,000. Any administrative proceeding under this clause shall be conducted in accordance with subsection (k). In lieu of an action by the Board under this clause, the Attorney General of the United States may bring a civil action under this clause in the appropriate United States district court.
 
-  (B) *Scope of prohibition order* — Any person subject to an order issued under this subparagraph (A)(i) shall be subject to paragraphs (5) and (7) of subsection (g) of this section in the same manner and to the same extent as a person subject to an order issued under subsection (g) of this section.
+  (B) *Scope of prohibition order* — Any person subject to an order issued under this subparagraph (A)(i) shall be subject to paragraphs (5) and (7) of subsection (g) in the same manner and to the same extent as a person subject to an order issued under subsection (g).
 
 ### Statutory Notes
 
@@ -3009,7 +3013,7 @@ Subsec. (u). Pub. L. 101–647, § 2532(c), added subsec. (u).
 
 Subsec. (e)(3), (4). Pub. L. 101–73, § 902(b)(1), added pars. (3) and (4).
 
-Subsec. (f)(1). Pub. L. 101–73, § 902(b)(2)(B), substituted “significant” for “substantial”, struck out “seriously” before “weaken the condition of” and before “prejudice the interests of”, and inserted after first sentence “Such order may include any requirement authorized under subsection (e)(3)(B) of this section.”
+Subsec. (f)(1). Pub. L. 101–73, § 902(b)(2)(B), substituted “significant” for “substantial”, struck out “seriously” before “weaken the condition of” and before “prejudice the interests of”, and inserted after first sentence “Such order may include any requirement authorized under subsection (e)(3)(B).”
 
 Pub. L. 101–73, § 901(b)(2)(B), (C), substituted references to institution-affiliated parties for references to directors, officers, committee members, employees, agents, or other persons participating in the conduct of the affairs of credit unions.
 
@@ -3191,7 +3195,7 @@ Section, act June 26, 1934, ch. 750, title II, § 206A, as added Pub. L. 105–1
 
   (A) Upon its finding that a Federal credit union insured under this subchapter is bankrupt or insolvent, the Board shall close such credit union for liquidation and appoint itself liquidating agent therefor.
 
-  (B) Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant to subsection (b) of this section, such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for the District of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward the removal of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.
+  (B) Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant to subsection (b), such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for the District of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward the removal of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.
 
 (2) Notwithstanding any other provision of law, the Board as liquidating agent of a closed Federal credit union insured under this subchapter shall not be required to furnish bond and shall have the right to appoint an agent or agents to assist it in its duties as such liquidating agent. All fees, compensation, and expenses of liquidation and administration thereof shall be fixed by the Board and may be paid by them out of funds coming into its possession as such liquidating agent.
 
@@ -3529,7 +3533,7 @@ Section, act June 26, 1934, ch. 750, title II, § 206A, as added Pub. L. 105–1
 
     (i) deemed to include normal and reasonable costs of cover or other reasonable measures of damages utilized in the industries for such contract and agreement claims; and
 
-    (ii) paid in accordance with this subsection and subsection (f) of this section except as otherwise specifically provided in this section.
+    (ii) paid in accordance with this subsection and subsection (f) except as otherwise specifically provided in this section.
 
 (4) **Leases under which the credit union is the lessee**
 
@@ -3546,7 +3550,7 @@ Section, act June 26, 1934, ch. 750, title II, § 206A, as added Pub. L. 105–1
 
     (ii) have no claim for damages under any acceleration clause or other penalty provision in the lease; and
 
-    (iii) have a claim for any unpaid rent, subject to all appropriate offsets and defenses, due as of the date of the appointment which shall be paid in accordance with this subsection and subsection (b) of this section.
+    (iii) have a claim for any unpaid rent, subject to all appropriate offsets and defenses, due as of the date of the appointment which shall be paid in accordance with this subsection and subsection (b).
 
 (5) **Leases under which the credit union is the lessor**
 
@@ -3600,7 +3604,7 @@ Section, act June 26, 1934, ch. 750, title II, § 206A, as added Pub. L. 105–1
 
   (A) *Services performed before appointment* — In the case of any contract for services between any person and any insured credit union for which the Board has been appointed conservator or liquidating agent, any claim of such person for services performed before the appointment of the conservator or the liquidating agent shall be—
 
-    (i) a claim to be paid in accordance with subsection (b) of this section; and
+    (i) a claim to be paid in accordance with subsection (b); and
 
     (ii) deemed to have arisen as of the date the conservator or liquidating agent was appointed.
 
@@ -3622,7 +3626,7 @@ Section, act June 26, 1934, ch. 750, title II, § 206A, as added Pub. L. 105–1
 
     (iii) any right to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more contracts and agreements described in clause (i), including any master agreement for such contracts or agreements.
 
-  (B) *Applicability of other provisions* — Subsection (b)(12) of this section shall apply in the case of any judicial action or proceeding brought against any liquidating agent referred to in subparagraph (A), or the credit union for which such liquidating agent was appointed, by any party to a contract or agreement described in subparagraph (A)(i) with such credit union.
+  (B) *Applicability of other provisions* — Subsection (b)(12) shall apply in the case of any judicial action or proceeding brought against any liquidating agent referred to in subparagraph (A), or the credit union for which such liquidating agent was appointed, by any party to a contract or agreement described in subparagraph (A)(i) with such credit union.
 
   (C) *Certain transfers not avoidable*
 
@@ -3859,7 +3863,7 @@ Section, act June 26, 1934, ch. 750, title II, § 206A, as added Pub. L. 105–1
 
 **(e) Subrogation of Board**
 
-(1) **In general** — Notwithstanding any other provision of Federal law, the law of any State, or the constitution of any State, the Board, upon the payment to any accountholder as provided in subsection (d) of this section in connection with any insured credit union described in such subsection or the assumption of any deposit in such credit union by another insured credit union pursuant to this section, shall be subrogated to all rights of the accountholder against such credit union to the extent of such payment or assumption.
+(1) **In general** — Notwithstanding any other provision of Federal law, the law of any State, or the constitution of any State, the Board, upon the payment to any accountholder as provided in subsection (d) in connection with any insured credit union described in such subsection or the assumption of any deposit in such credit union by another insured credit union pursuant to this section, shall be subrogated to all rights of the accountholder against such credit union to the extent of such payment or assumption.
 
 (2) **Dividends on subrogated amounts** — The subrogation of the Board under paragraph (1) with respect to any insured credit union shall include the right on the part of the Board to receive the same dividends from the proceeds of the assets of such credit union as would have been payable to the accountholder on a claim for the insured deposit, but such accountholder shall retain such claim for any uninsured or unassumed portion of the deposit.
 
@@ -3894,7 +3898,7 @@ for gross negligence, including any similar conduct or conduct that demonstrates
 
 (1) **Net insured amount**
 
-  (A) *In general* — Subject to the provisions of paragraph (2), the net amount of share insurance payable to any member at an insured credit union shall not exceed the total amount of the shares or deposits in the name of the member (after deducting offsets), less any part thereof which is in excess of the standard maximum share insurance amount, as determined in accordance with this paragraph and paragraphs (5) and (6), and consistently with actions taken by the Federal Deposit Insurance Corporation under [section 1821(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1821/a&num=0&edition=prelim).
+  (A) *In general* — Subject to the provisions of paragraph (2), the net amount of share insurance payable to any member, or to any person with funds lawfully held in a member account, at an insured credit union shall not exceed the total amount of the shares or deposits in the name of the member (after deducting offsets), less any part thereof which is in excess of the standard maximum share insurance amount, as determined in accordance with this paragraph, and consistently with actions taken by the Federal Deposit Insurance Corporation under [section 1821(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1821/a&num=0&edition=prelim).
 
   (B) *Aggregation* — Determination of the net amount of share insurance under subparagraph (A), shall be in accordance with such regulations as the Board may prescribe, and, in determining the amount payable to any member, there shall be added together all accounts in the credit union maintained by that member for that member’s own benefit, either in the member’s own name or in the names of others.
 
@@ -3902,7 +3906,7 @@ for gross negligence, including any similar conduct or conduct that demonstrates
 
 (2) **Government depositors or members**
 
-  (A) *In general* — Notwithstanding any limitation in this chapter or in any other provision of law relating to the amount of insurance available to any 1 depositor or member, deposits or shares of a government depositor or member shall be insured in an amount equal to the standard maximum share insurance amount (as determined under paragraph (5)), subject to subparagraph (C).
+  (A) *In general* — Notwithstanding any limitation in this chapter or in any other provision of law relating to the amount of insurance available to any 1 depositor or member, deposits or shares of a government depositor or member shall be insured in an amount equal to the standard maximum share insurance amount, subject to subparagraph (C).
 
   (B) *Government depositor* — In this paragraph, the term “government depositor” means a depositor that is—
 
@@ -3942,7 +3946,25 @@ for gross negligence, including any similar conduct or conduct that demonstrates
 
   (D) *Rule of construction* — No provision of this paragraph shall be construed as authorizing an insured credit union to accept the deposits of an employee benefit plan in an amount greater than such credit union is authorized to accept under any other provision of Federal or State law.
 
-(5) **Standard maximum share insurance amount defined** — For purposes of this chapter, the term “standard maximum share insurance amount” means $250,000, adjusted as provided under [section 1821(a)(1)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1821/a/1/F&num=0&edition=prelim).
+(5) **Coverage for interest on lawyers trust accounts (iolta) and other similar escrow accounts**
+
+  (A) *Pass-through insurance* — The Administration shall provide pass-through share insurance for the deposits or shares of any interest on lawyers trust account (IOLTA) or other similar escrow accounts.
+
+  (B) *Treatment of ioltas*
+
+    (i) *Treatment as escrow accounts* — For share insurance purposes, IOLTAs are treated as escrow accounts.
+
+    (ii) *Treatment as member accounts* — IOLTAs and other similar escrow accounts are considered member accounts for purposes of paragraph (1), if the attorney administering the IOLTA or the escrow agent administering the escrow account is a member of the insured credit union in which the funds are held.
+
+  (C) *Definitions* — For purposes of this paragraph:
+
+    (i) *Interest on lawyers trust account* — The terms “interest on lawyers trust account” and “IOLTA” mean a system in which lawyers place certain client funds in interest-bearing or dividend-bearing accounts, with the interest or dividends then used to fund programs such as legal service organizations who provide services to clients in need.
+
+    (ii) *Pass-through share insurance* — The term “pass-through share insurance” means, with respect to IOLTAs and other similar escrow accounts, insurance coverage based on the interest of each person on whose behalf funds are held in such accounts by the attorney administering the IOLTA or the escrow agent administering a similar escrow account, in accordance with regulations issued by the Administration.
+
+  (D) *Rule of construction* — No provision of this paragraph shall be construed as authorizing an insured credit union to accept the deposits of an IOLTA or similar escrow account in an amount greater than such credit union is authorized to accept under any other provision of Federal or State law.
+
+(6) **Standard maximum share insurance amount defined** — For purposes of this chapter, the term “standard maximum share insurance amount” means $250,000, adjusted as provided under [section 1821(a)(1)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1821/a/1/F&num=0&edition=prelim).
 
 **(l) Payment; discharge of liability** Payment of an insured account to any person by the Board shall discharge the Board to the same extent that payment to such person by the closed insured credit union would have discharged it from liability for the insured account.
 
@@ -4003,6 +4025,12 @@ The Commodity Exchange Act, referred to in subsec. (c)(8)(D)(vi), (15), is act S
 For definition of Canal Zone, referred to in subsec. (k)(2)(B)(iv), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2014—Subsec. (k)(1)(A). Pub. L. 113–252, § 2(1), inserted “, or to any person with funds lawfully held in a member account,” after “payable to any member” and struck out “and paragraphs (5) and (6)” after “this paragraph”.
+
+Subsec. (k)(2)(A). Pub. L. 113–252, § 2(2), struck out “(as determined under paragraph (5))” after “insurance amount”.
+
+Subsec. (k)(5), (6). Pub. L. 113–252, § 2(3), (4), added par. (5) and redesignated former par. (5) as (6).
+
 2010—Subsec. (k)(1)(A). Pub. L. 111–203, § 343(b)(3)(A), struck out cl. (i) designation and heading, substituted “Subject to the provisions of paragraph (2), the net amount” for “Subject to clause (ii) and the provisions of paragraph (2), the net amount”, and struck out cls. (ii) and (iii) which related to insurance for noninterest-bearing transaction accounts and defined “noninterest-bearing transaction account”, respectively.
 
 Pub. L. 111–203, § 343(b)(1)(A), designated existing provisions as cl. (i), inserted heading, substituted “Subject to clause (ii) and the provisions of paragraph (2), the net amount” for “Subject to the provisions of paragraph (2), the net amount”, and added cls. (ii) and (iii).
@@ -4349,23 +4377,23 @@ It is not the purpose of this subchapter to discriminate in any manner against S
 
 (2) is in troubled condition, as determined on the basis of such credit union’s most recent report of condition or report of examination.
 
-**(b) Disapproval by Board** An insured credit union may not add any individual to the board of directors or employ any individual as a senior executive officer if the Board issues a notice of disapproval of such addition or employment before the end of the 30-day period beginning on the date the agency receives notice of the proposed action pursuant to subsection (a) of this section.
+**(b) Disapproval by Board** An insured credit union may not add any individual to the board of directors or employ any individual as a senior executive officer if the Board issues a notice of disapproval of such addition or employment before the end of the 30-day period beginning on the date the agency receives notice of the proposed action pursuant to subsection (a).
 
 **(c) Exception in extraordinary circumstances**
 
-(1) **In general** — The Board may prescribe by regulation conditions under which the prior notice requirement of subsection (a) of this section may be waived in the event of extraordinary circumstances.
+(1) **In general** — The Board may prescribe by regulation conditions under which the prior notice requirement of subsection (a) may be waived in the event of extraordinary circumstances.
 
 (2) **No effect on disapproval authority of Board** — Such waivers shall not affect the authority of the Board to issue notices of disapproval of such additions or employment of such individuals within 30 days after each such waiver.
 
-**(d) Additional information** Any notice submitted to the Board by any insured credit union pursuant to subsection (a) of this section shall include—
+**(d) Additional information** Any notice submitted to the Board by any insured credit union pursuant to subsection (a) shall include—
 
 (1) the information described in [section 1817(j)(6)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1817/j/6/A&num=0&edition=prelim) about the individual; and
 
 (2) such other information as the Board may prescribe by regulation.
 
-**(e) Standard for disapproval** The Board shall issue a notice of disapproval with respect to a notice submitted pursuant to subsection (a) of this section if the competence, experience, character, or integrity of the individual with respect to whom such notice is submitted indicates that it would not be in the best interests of the depositors of the insured credit union or in the best interests of the public to permit the individual to be employed by, or associated with, such insured credit union.
+**(e) Standard for disapproval** The Board shall issue a notice of disapproval with respect to a notice submitted pursuant to subsection (a) if the competence, experience, character, or integrity of the individual with respect to whom such notice is submitted indicates that it would not be in the best interests of the depositors of the insured credit union or in the best interests of the public to permit the individual to be employed by, or associated with, such insured credit union.
 
-**(f) Definition regulations** The Board shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a) of this section.
+**(f) Definition regulations** The Board shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a).
 
 ### Statutory Notes
 
@@ -4387,9 +4415,9 @@ Section 914(b) of Pub. L. 101–73, which directed that this section be added to
 
   (C) any officer or employee of the Administration.
 
-**(b) Enforcement** Any employee or former employee who believes he has been discharged or discriminated against in violation of subsection (a) of this section may file a civil action in the appropriate United States district court before the close of the 2-year period beginning on the date of such discharge or discrimination. The complainant shall also file a copy of the complaint initiating such action with the Board.
+**(b) Enforcement** Any employee or former employee who believes he has been discharged or discriminated against in violation of subsection (a) may file a civil action in the appropriate United States district court before the close of the 2-year period beginning on the date of such discharge or discrimination. The complainant shall also file a copy of the complaint initiating such action with the Board.
 
-**(c) Remedies** If the district court determines that a violation of subsection (a) of this section has occurred, it may order the credit union or the Administration which committed the violation—
+**(c) Remedies** If the district court determines that a violation of subsection (a) has occurred, it may order the credit union or the Administration which committed the violation—
 
 (1) to reinstate the employee to his former position,
 
@@ -4479,19 +4507,19 @@ The Board may pay rewards in connection with an offense affecting an insured cre
 
     (i) it has a net worth ratio of not less than 7 percent; and
 
-    (ii) it meets any applicable risk-based net worth requirement under subsection (d) of this section.
+    (ii) it meets any applicable risk-based net worth requirement under subsection (d).
 
   (B) *Adequately capitalized* — An insured credit union is “adequately capitalized” if—
 
     (i) it has a net worth ratio of not less than 6 percent; and
 
-    (ii) it meets any applicable risk-based net worth requirement under subsection (d) of this section.
+    (ii) it meets any applicable risk-based net worth requirement under subsection (d).
 
   (C) *Undercapitalized* — An insured credit union is “undercapitalized” if—
 
     (i) it has a net worth ratio of less than 6 percent; or
 
-    (ii) it fails to meet any applicable risk-based net worth requirement under subsection (d) of this section.
+    (ii) it fails to meet any applicable risk-based net worth requirement under subsection (d).
 
   (D) *Significantly undercapitalized* — An insured credit union is “significantly undercapitalized”—
 
@@ -4503,7 +4531,7 @@ The Board may pay rewards in connection with an offense affecting an insured cre
 
       (II) it—
 
-        (aa) fails to submit an acceptable net worth restoration plan within the time allowed under subsection (f) of this section; or
+        (aa) fails to submit an acceptable net worth restoration plan within the time allowed under subsection (f); or
 
         (bb) materially fails to implement a net worth restoration plan accepted by the Board.
 
@@ -4523,7 +4551,7 @@ The Board may pay rewards in connection with an offense affecting an insured cre
 
 **(d) Risk-based net worth requirement for complex credit unions**
 
-(1) **In general** — The regulations required under subsection (b)(1) of this section shall include a risk-based net worth requirement for insured credit unions that are complex, as defined by the Board based on the portfolios of assets and liabilities of credit unions.
+(1) **In general** — The regulations required under subsection (b)(1) shall include a risk-based net worth requirement for insured credit unions that are complex, as defined by the Board based on the portfolios of assets and liabilities of credit unions.
 
 (2) **Standard** — The Board shall design the risk-based net worth requirement to take account of any material risks against which the net worth ratio required for an insured credit union to be adequately capitalized may not provide adequate protection.
 

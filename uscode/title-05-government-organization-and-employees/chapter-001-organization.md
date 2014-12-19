@@ -54,6 +54,15 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 #### Effective Date of 1966 Amendment
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2014 Amendment
+Pub. L. 113–277, § 1, Dec. 18, 2014, 128 Stat. 2995, provided that: “This Act [enacting [section 5550 of this title](./chapter-055-pay-administration.md#section-5550) and [section 147 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section147&num=0&edition=prelim), Domestic Security, amending sections 3132, 5542, 5547, and 8331 of this title and [section 213 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213&num=0&edition=prelim), Labor, and enacting provisions set out as notes under sections 5542 and 5550 of this title and [section 146 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section146&num=0&edition=prelim)] may be cited as the ‘Border Patrol Agent Pay Reform Act of 2014’.”
+
+Pub. L. 113–255, § 1, Dec. 18, 2014, 128 Stat. 2920, provided that: “This Act [amending sections 8438, 8439, 8472, and 8477 of this title and enacting provisions set out as notes under [section 8438 of this title](./chapter-084-federal-employees-retirement-system.md#section-8438)] may be cited as the ‘Smart Savings Act’.”
+
+Pub. L. 113–170, § 1, Sept. 26, 2014, 128 Stat. 1894, provided that: “This Act [amending [section 7703 of this title](./chapter-077-appeals.md#section-7703)] may be cited as the ‘All Circuit Review Extension Act’.”
+
+Pub. L. 113–80, § 1, Feb. 12, 2014, 128 Stat. 1006, provided that: “This Act [amending [section 1304 of this title](./chapter-013-special-authority.md#section-1304)] may be cited as the ‘OPM IG Act’.”
+
 #### Short Title of 2012 Amendment
 Pub. L. 112–230, § 1, Dec. 28, 2012, 126 Stat. 1616, provided that: “This Act [enacting [section 7326 of this title](./chapter-073-suitability-security-and-conduct.md#section-7326), amending sections 1501, 1502, 1506, 7322, and 7325 of this title, repealing former [section 7326 of this title](./chapter-073-suitability-security-and-conduct.md#section-7326), and enacting provisions set out as notes under sections 1501 and 7326 of this title] may be cited as the ‘Hatch Act Modernization Act of 2012’.”
 

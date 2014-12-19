@@ -9,8 +9,6 @@ source: >-
 <a id="section-3101"></a>
 ## § 3101. Effect of rules of court—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 ### Statutory Notes
 
 #### References in Text
@@ -19,8 +17,6 @@ Rule 41(g), referred to in text, was relettered 41(h) by 1972 amendment eff. Oct
 
 <a id="section-3102"></a>
 ## § 3102. Authority to issue search warrant—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 ### Statutory Notes
 
@@ -36,8 +32,6 @@ Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effec
 
 <a id="section-3103"></a>
 ## § 3103. Grounds for issuing search warrant—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3103a"></a>
@@ -88,8 +82,6 @@ Subsecs. (c), (d). Pub. L. 109–177, § 114(a)(2), (c), added subsecs. (c) and 
 <a id="section-3104"></a>
 ## § 3104. Issuance of search warrant; contents—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3105"></a>
 ## § 3105. Persons authorized to serve search warrant
@@ -106,8 +98,6 @@ Minor change was made in phraseology.
 
 <a id="section-3106"></a>
 ## § 3106. Officer authorized to serve search warrant—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3107"></a>
@@ -132,8 +122,6 @@ Functions of all other officers of Department of Justice and functions of all ag
 <a id="section-3108"></a>
 ## § 3108. Execution, service, and return—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3109"></a>
 ## § 3109. Breaking doors or windows for entry or exit
@@ -151,8 +139,6 @@ Said sections 618 and 619 were consolidated with minor changes in phraseology bu
 <a id="section-3110"></a>
 ## § 3110. Property defined—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 ### Statutory Notes
 
 #### References in Text
@@ -161,8 +147,6 @@ Rule 41(g), referred to in text, was redesignated 41(h) by 1972 amendment eff. O
 
 <a id="section-3111"></a>
 ## § 3111. Property seizable on search warrant—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 
 <a id="section-3112"></a>
@@ -200,19 +184,13 @@ Minor changes were made in phraseology.
 <a id="section-3114"></a>
 ## § 3114. Return of seized property and suppression of evidence; motion—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3115"></a>
 ## § 3115. Inventory upon execution and return of search warrant—(Rule)
 
-See Federal Rules of Criminal Procedure
-
 
 <a id="section-3116"></a>
 ## § 3116. Records of examining magistrate judge; return to clerk of court—(Rule)
-
-See Federal Rules of Criminal Procedure
 
 ### Statutory Notes
 

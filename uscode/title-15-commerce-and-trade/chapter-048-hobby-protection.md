@@ -10,19 +10,31 @@ source: >-
 ## § 2101. Marking requirements
 **(a) Political items** The manufacture in the United States, or the importation into the United States, for introduction into or distribution in commerce of any imitation political item which is not plainly and permanently marked with the calendar year in which such item was manufactured, is unlawful and is an unfair or deceptive act or practice in commerce under the Federal Trade Commission Act [[15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.].
 
-**(b) Coins and other numismatic items** The manufacture in the United States, or the importation into the United States, for introduction into or distribution in commerce of any imitation numismatic item which is not plainly and permanently marked “copy”, is unlawful and is an unfair or deceptive act or practice in commerce under the Federal Trade Commission Act [[15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.].
+**(b) Coins and other numismatic items** The manufacture in the United States, or the importation into the United States, for introduction into or distribution in commerce, or the sale in commerce of any imitation numismatic item which is not plainly and permanently marked “copy”, is unlawful and is an unfair or deceptive act or practice in commerce under the Federal Trade Commission Act [[15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.].
 
 **(c) Rules and regulations** The Federal Trade Commission shall prescribe rules for determining the manner and form in which items described in subsection (a) or (b) of this section shall be permanently marked.
 
-**(d) Exemption** Subsections (a) and (b), and regulations under subsection (c) of this section, shall not apply to any common carrier or contract carrier or freight forwarder with respect to an imitation political item or imitation numismatic item received, shipped, delivered, or handled by it for shipment in the ordinary course of its business.
+**(d) Provision of assistance or support** It shall be a violation of subsection (a) or (b) for a person to provide substantial assistance or support to any manufacturer, importer, or seller if that person knows or should have known that the manufacturer, importer, or seller is engaged in any act or practice that violates subsection (a) or (b).
+
+**(e) Exemption** Subsections (a) 11 So in original. Probably should be followed by a comma. (b), and (d), and regulations under subsection (c) of this section, shall not apply to any common carrier or contract carrier or freight forwarder with respect to an imitation political item or imitation numismatic item received, shipped, delivered, or handled by it for shipment in the ordinary course of its business.
 
 ### Statutory Notes
 
 #### References in Text
 The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
+#### Amendments
+2014—Subsec. (b). Pub. L. 113–288, § 2(1)(A), inserted “, or the sale in commerce” after “distribution in commerce”.
+
+Subsec. (d). Pub. L. 113–288, § 2(1)(B), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 113–288, § 2(1)(B), (C), redesignated subsec. (d) as (e) and substituted “(b), and (d)” for “and (b)”.
+
 #### Effective Date
 Pub. L. 93–167, § 8, Nov. 29, 1973, 87 Stat. 687, provided that: “This Act [enacting this chapter] shall apply only to imitation political items and imitation numismatic items manufactured after the date of enactment of this Act [Nov. 29, 1973].”
+
+#### Short Title of 2014 Amendment
+Pub. L. 113–288, § 1, Dec. 19, 2014, 128 Stat. 3281, provided that: “This Act [amending this section and sections 2102 and 2106 of this title] may be cited as the ‘Collectible Coin Protection Act’.”
 
 #### Short Title
 Pub. L. 93–167, § 1, Nov. 29, 1973, 87 Stat. 686, provided: “That this Act [enacting this chapter] may be cited as the ‘Hobby Protection Act’.”
@@ -30,8 +42,17 @@ Pub. L. 93–167, § 1, Nov. 29, 1973, 87 Stat. 686, provided: “That this Act 
 
 <a id="section-2102"></a>
 ## § 2102. Private enforcement
+**(a) In general** If any person violates section 2101(a) or (b) of this title or a rule under [section 2101(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2101/c&num=0&edition=prelim), any interested person may commence a civil action for injunctive relief restraining such violation, and for damages, in any United States District Court for a district in which the defendant resides, has an agent, transacts business, or wherever venue is proper under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim). In any such action, the court may award the costs of the suit, including reasonable attorneys’ fees.
 
-If any person violates section 2101(a) or (b) of this title or a rule under [section 2101(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2101/c&num=0&edition=prelim), any interested person may commence a civil action for injunctive relief restraining such violation, and for damages, in any United States District Court for a district in which the defendant resides or has an agent. In any such action, the court may award the costs of the suit, including reasonable attorneys’ fees.
+**(b) Trademark violations** If the violation of section 2101(a) or (b) of this title or a rule under [section 2101(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2101/c&num=0&edition=prelim) also involves unauthorized use of registered trademarks belonging to a collectibles certification service, the owner of such trademarks shall have, in addition to the remedies provided in subsection (a), all rights provided under sections 34, 35, and 36 of the Trademark Act of 1946 ([15 U.S.C. 1116](./chapter-022-trademarks.md#section-1116), 1117, and 1118) for violations of such Act.
+
+### Statutory Notes
+
+#### References in Text
+The Trademark Act of 1946, referred to in subsec. (b), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051) and Tables. See also [section 2106(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2106/9&num=0&edition=prelim).
+
+#### Amendments
+2014—Pub. L. 113–288 designated existing provisions as subsec. (a), inserted heading, substituted “, has an agent, transacts business, or wherever venue is proper under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim)” for “or has an agent”, and added subsec. (b).
 
 
 <a id="section-2103"></a>
@@ -77,7 +98,16 @@ For purposes of this chapter:
 
 (7) The term “United States” means the States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
+(8) The term “collectibles certification service” means a person recognized by collectors for providing independent certification that collectible items are genuine.
+
+(9) The term “Trademark Act of 1946” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 ([15 U.S.C. 1051](./chapter-022-trademarks.md#section-1051) et seq.).
+
 ### Statutory Notes
 
 #### References in Text
 The Federal Trade Commission Act, referred to in par. (5), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+
+The Trademark Act of 1946, referred to in par. (9), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051) and Tables.
+
+#### Amendments
+2014—Pars. (8), (9). Pub. L. 113–288, § 2(3), added pars. (8) and (9).

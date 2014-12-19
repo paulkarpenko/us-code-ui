@@ -7,13 +7,14 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44&num=0&edition=prelim
 ---
 <a id="section-501"></a>
-## § 501. Government printing, binding, and blank-book work to be done at Government Printing Office
+## § 501. Government printing, binding, and blank-book work to be done at Government Publishing Office
 
-All printing, binding, and blank-book work for Congress, the Executive Office, the Judiciary, other than the Supreme Court of the United States, and every executive department, independent office and establishment of the Government, shall be done at the Government Printing Office, except—
+All printing, binding, and blank-book work for Congress, the Executive Office, the Judiciary, other than the Supreme Court of the United States, and every executive department, independent office and establishment of the Government, shall be done at the Government Publishing Office, except—
 
 (1) classes of work the Joint Committee on Printing considers to be urgent or necessary to have done elsewhere; and
 
-(2) printing in field printing plants operated by an executive department, independent office or establishment, and the procurement of printing by an executive department, independent office or establishment from allotments for contract field printing, if approved by the Joint Committee on Printing. Printing or binding may be done at the Government Printing Office only when authorized by law.
+(2) printing in field printing plants operated by an executive department, independent office or establishment, and the procurement of printing by an executive department, independent office or establishment from allotments for contract field printing, if approved by the Joint Committee on Printing.
+Printing or binding may be done at the Government Publishing Office only when authorized by law.
 
 ### Statutory Notes
 
@@ -22,8 +23,11 @@ Based on 44 U.S. Code, 1964 ed., § 111 and 116 (part) (Jan. 12, 1895, ch. 23, �
 
 This section incorporates only the first sentence of former section 116. The balance will be found in section 1123 of the revision.
 
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in section catchline and text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+
 #### Vegetable Ink Printing
-Pub. L. 103–348, Oct. 6, 1994, 108 Stat. 3133, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Vegetable Ink Printing Act of 1994’.”
+Pub. L. 103–348, Oct. 6, 1994, 108 Stat. 3133, as amended by Pub. L. 113–235, div. H, title I, § 1301(b), (d), Dec. 16, 2014, 128 Stat. 2537, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Vegetable Ink Printing Act of 1994’.”
 
 “SEC. 2. FINDINGS AND PURPOSES.
 
@@ -47,7 +51,7 @@ Pub. L. 103–348, Oct. 6, 1994, 108 Stat. 3133, provided that: “SECTION 1. SH
 
 “(5) Some lithographic inks have contained vegetable oils for many years; other lithographic inks have more recently begun to use vegetable oil.
 
-“(6) According to the Government Printing Office, using vegetable oil-based ink appears to add little if any additional cost to Government printing.
+“(6) According to the Government Publishing Office, using vegetable oil-based ink appears to add little if any additional cost to Government printing.
 
 “(7) Use of vegetable oil-based ink in Federal Government printing should further develop—
 
@@ -77,9 +81,9 @@ Pub. L. 103–348, Oct. 6, 1994, 108 Stat. 3133, provided that: “SECTION 1. SH
 
 “(1) Exceptions.—Subsection (a) shall not apply to lithographic printing performed or procured by a Federal agency, if—
 
-“(A) the head of the agency determines, after consultation with the Public Printer and within the 3-year period ending on the date of the commencement of the printing or the date of that procurement, respectively, that vegetable oil-based ink is not suitable to meet specific, identified requirements of the agency related to the printing; or
+“(A) the head of the agency determines, after consultation with the Director of the Government Publishing Office and within the 3-year period ending on the date of the commencement of the printing or the date of that procurement, respectively, that vegetable oil-based ink is not suitable to meet specific, identified requirements of the agency related to the printing; or
 
-“(B) the Public Printer determines—
+“(B) the Director of the Government Publishing Office determines—
 
 “(i) within the 3-month period ending on the date of the commencement of the printing, in the case of printing of materials that are printed at intervals of less than 6 months, or
 
@@ -96,7 +100,7 @@ that the cost of performing the printing using vegetable oil-based ink is signif
 “(2) an establishment or component of the legislative or judicial branch of the Government.”
 
 #### Government Publications: Printing; GPO Procurement; Executive Branch Procurement of Certain Kinds of Printing; “Printing” Defined
-Pub. L. 102–392, title II, § 207(a), Oct. 6, 1992, 106 Stat. 1719, as amended by Pub. L. 103–283, title II, § 207, July 22, 1994, 108 Stat. 1440; Pub. L. 104–201, div. A, title XI, § 1112(e)(1), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 110–417, [div. A], title IX, § 931(b)(4), Oct. 14, 2008, 122 Stat. 4575, provided that: “(1) None of the funds appropriated for any fiscal year may be obligated or expended by any entity of the executive branch for the procurement of any printing related to the production of Government publications (including printed forms), unless such procurement is by or through the Government Printing Office. “(2) Paragraph (1) does not apply to (A) individual printing orders costing not more than $1,000, if the work is not of a continuing or repetitive nature, and, as certified by the Public Printer, if the work is included in a class of work which cannot be provided more economically through the Government Printing Office, (B) printing for the Central Intelligence Agency, the Defense Intelligence Agency, National Geospatial-Intelligence Agency, or the National Security Agency, or (C) printing from other sources that is specifically authorized by law. “(3) As used in this section, the term ‘printing’ includes the processes of composition, platemaking, presswork, duplicating, silk screen processes, binding, microform, and the end items of such processes.”
+Pub. L. 102–392, title II, § 207(a), Oct. 6, 1992, 106 Stat. 1719, as amended by Pub. L. 103–283, title II, § 207, July 22, 1994, 108 Stat. 1440; Pub. L. 104–201, div. A, title XI, § 1112(e)(1), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 110–417, [div. A], title IX, § 931(b)(4), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 113–235, div. H, title I, § 1301(b), (d), Dec. 16, 2014, 128 Stat. 2537, provided that: “(1) None of the funds appropriated for any fiscal year may be obligated or expended by any entity of the executive branch for the procurement of any printing related to the production of Government publications (including printed forms), unless such procurement is by or through the Government Publishing Office. “(2) Paragraph (1) does not apply to (A) individual printing orders costing not more than $1,000, if the work is not of a continuing or repetitive nature, and, as certified by the Director of the Government Publishing Office, if the work is included in a class of work which cannot be provided more economically through the Government Publishing Office, (B) printing for the Central Intelligence Agency, the Defense Intelligence Agency, National Geospatial-Intelligence Agency, or the National Security Agency, or (C) printing from other sources that is specifically authorized by law. “(3) As used in this section, the term ‘printing’ includes the processes of composition, platemaking, presswork, duplicating, silk screen processes, binding, microform, and the end items of such processes.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -110,17 +114,23 @@ Pub. L. 100–202, § 101(i) [title III, § 309], Dec. 22, 1987, 101 Stat. 1329�
 
 
 <a id="section-502"></a>
-## § 502. Procurement of printing, binding, and blank-book work by Public Printer
+## § 502. Procurement of printing, binding, and blank-book work by Director of the Government Publishing Office
 
-Printing, binding, and blank-book work authorized by law, which the Public Printer is not able or equipped to do at the Government Printing Office, may be produced elsewhere under contracts made by him with the approval of the Joint Committee on Printing.
+Printing, binding, and blank-book work authorized by law, which the Director of the Government Publishing Office is not able or equipped to do at the Government Publishing Office, may be produced elsewhere under contracts made by him with the approval of the Joint Committee on Printing.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 111a (Feb. 28, 1929, ch. 367, § 1, 45 Stat. 1400).
 
+#### Amendments
+2014—Pub. L. 113–235, § 1301(c), substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and text.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+
 #### Contract Goal for Disadvantaged Small Businesses in Printing-Related Services
-Pub. L. 100–456, div. A, title VIII, § 843, Sept. 29, 1988, 102 Stat. 2026, as amended by Pub. L. 101–574, title IV, § 401, Nov. 15, 1990, 104 Stat. 2832; Pub. L. 102–484, div. A, title VIII, §§ 801(h)(6), 806, Oct. 23, 1992, 106 Stat. 2445, 2448, provided that: “(a) Test Program.—The Public Printer shall establish and carry out a test program for increasing its award of contracts to small and disadvantaged businesses for the printing, binding, and related services needed by the Department of Defense. The program shall have a goal of procuring in each such fiscal year from such businesses printing, binding, and related services equivalent to not more than 5 percent of the value of the printing, binding, and related services which were procured in the preceding fiscal year by the Government Printing Office from non-Government sources for the Department of Defense. The Public Printer may use such procurement procedures as he considers necessary to facilitate achievement of such goal. “(b) Covered Entities.—In this section, the term ‘small and disadvantaged businesses’ means the small business concerns, historically Black colleges and universities, and minority institutions described in [section 2323(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2323/a&num=0&edition=prelim), United States Code. “(c) Enforcement.—Any person who, for the purpose of securing a contract under subsection (a), misrepresents the status of any concern or person as a small business concern referred to in subsection (b), is subject to the penalties set forth in [section 2323(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2323/f&num=0&edition=prelim), United States Code. “(d) Department of Defense Goals.—For the purpose of determining whether the Department of Defense has attained the goals set forth in [section 2323 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2323&num=0&edition=prelim), United States Code, the Secretary of Defense may count any procurements by the Public Printer in the program established under subsection (a). “(e) Duration of Test.—The test program established by subsection (a) shall not apply to solicitations issued on or after October 1, 2000.”
+Pub. L. 100–456, div. A, title VIII, § 843, Sept. 29, 1988, 102 Stat. 2026, as amended by Pub. L. 101–574, title IV, § 401, Nov. 15, 1990, 104 Stat. 2832; Pub. L. 102–484, div. A, title VIII, §§ 801(h)(6), 806, Oct. 23, 1992, 106 Stat. 2445, 2448, required the Public Printer to establish and carry out a test program for increasing its award of contracts to small and disadvantaged businesses for the printing, binding, and related services needed by the Department of Defense for solicitations issued before October 1, 2000.
 
 
 <a id="section-503"></a>
@@ -141,18 +151,24 @@ Based on 44 U.S. Code, 1964 ed., § 111b (June 16, 1933, ch. 101, § 1, 48 Stat.
 <a id="section-504"></a>
 ## § 504. Direct purchase of printing, binding, and blank-book work by Government agencies
 
-The Joint Committee on Printing may permit the Public Printer to authorize an executive department, independent office, or establishment of the Government to purchase direct for its use such printing, binding, and blank-book work, otherwise authorized by law, as the Government Printing Office is not able or suitably equipped to execute or as may be more economically or in the better interest of the Government executed elsewhere.
+The Joint Committee on Printing may permit the Director of the Government Publishing Office to authorize an executive department, independent office, or establishment of the Government to purchase direct for its use such printing, binding, and blank-book work, otherwise authorized by law, as the Government Publishing Office is not able or suitably equipped to execute or as may be more economically or in the better interest of the Government executed elsewhere.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 14 (Jan. 12, 1895, ch. 23, § 12, 28 Stat. 602; July 8, 1935, ch. 374, § 1, 49 Stat. 475; Oct. 31, 1951, ch. 654, § 3(10), 65 Stat. 708).
 
+#### Amendments
+2014—Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer”.
+
+#### Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+
 
 <a id="section-505"></a>
 ## § 505. Sale of duplicate plates
 
-The Public Printer shall sell, under regulations of the Joint Committee on Printing to persons who may apply, additional or duplicate stereotype or electrotype plates from which a Government publication is printed, at a price not to exceed the cost of composition, the metal, and making to the Government, plus 10 per centum, and the full amount of the price shall be paid when the order is filed.
+The Director of the Government Publishing Office shall sell, under regulations of the Joint Committee on Printing to persons who may apply, additional or duplicate stereotype or electrotype plates from which a Government publication is printed, at a price not to exceed the cost of composition, the metal, and making to the Government, plus 10 per centum, and the full amount of the price shall be paid when the order is filed.
 
 ### Statutory Notes
 
@@ -160,6 +176,8 @@ The Public Printer shall sell, under regulations of the Joint Committee on Print
 Based on 44 U.S. Code, 1964 ed., § 58 (Jan. 12, 1895, ch. 23, § 52, 28 Stat. 608).
 
 #### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 1976—Pub. L. 94–553 struck out provision that a publication could not be copyrighted if it was reprinted from additional or duplicate plates purchased from the Government from which Government publications had been printed or if it was reprinted from other Government publications.
 
 #### Effective Date of 1976 Amendment
@@ -169,7 +187,7 @@ Amendment by Pub. L. 94–553 effective Jan. 1, 1978, see section 102 of Pub. L.
 <a id="section-506"></a>
 ## § 506. Time for printing documents or reports which include illustrations or maps
 
-A document or report to be illustrated or accompanied by maps may not be printed by the Public Printer until the illustrations or maps designed for it are ready for publication.
+A document or report to be illustrated or accompanied by maps may not be printed by the Director of the Government Publishing Office until the illustrations or maps designed for it are ready for publication.
 
 ### Statutory Notes
 
@@ -178,11 +196,14 @@ Based on 44 U.S. Code, 1964 ed., § 115 (part) (Jan. 12, 1895, ch. 23, § 80, 28
 
 This section incorporates only the first clause of former section 115. The balance will be found in section 507 of the revision.
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-507"></a>
 ## § 507. Orders for printing to be acted upon within one year
 
-An order for public printing may not be acted upon by the Public Printer after the expiration of one year unless the entire copy and illustrations for the work have been furnished within that period.
+An order for public printing may not be acted upon by the Director of the Government Publishing Office after the expiration of one year unless the entire copy and illustrations for the work have been furnished within that period.
 
 ### Statutory Notes
 
@@ -191,30 +212,39 @@ Based on 44 U.S. Code, 1964 ed., § 115 (part) (Jan. 12, 1895, ch. 23, § 80, 28
 
 This section incorporates only the second clause of former section 115. The balance will be found in section 506 of the revision.
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-508"></a>
 ## § 508. Annual estimates of quantity of paper required for public printing and binding
 
-At the beginning of each session of Congress, the Public Printer shall submit to the Joint Committee on Printing estimates of the quantity of paper of all descriptions required for the public printing and binding during the ensuing year.
+At the beginning of each session of Congress, the Director of the Government Publishing Office shall submit to the Joint Committee on Printing estimates of the quantity of paper of all descriptions required for the public printing and binding during the ensuing year.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 36 (Jan. 12, 1895, ch. 23, § 26, 28 Stat. 604).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-509"></a>
 ## § 509. Standards of paper; advertisements for proposals; samples
 
-The Joint Committee on Printing shall fix upon standards of paper for the different descriptions of public printing and binding, and the Public Printer, under their direction, shall advertise in six newspapers or trade journals, published in different cities, for sealed proposals to furnish the Government with paper, as specified in the schedule to be furnished applicants by the Public Printer, setting forth in detail the quality and quantities required for the public printing. The Public Printer shall furnish samples of the standard of papers fixed upon to applicants who desire to bid.
+The Joint Committee on Printing shall fix upon standards of paper for the different descriptions of public printing and binding, and the Director of the Government Publishing Office, under their direction, shall advertise in six newspapers or trade journals, published in different cities, for sealed proposals to furnish the Government with paper, as specified in the schedule to be furnished applicants by the Director of the Government Publishing Office, setting forth in detail the quality and quantities required for the public printing. The Director of the Government Publishing Office shall furnish samples of the standard of papers fixed upon to applicants who desire to bid.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 5 (Jan. 12, 1895, ch. 23, § 3, 28 Stat. 601; Mar. 3, 1925, ch. 421, § 1, 43 Stat. 1105).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in three places.
+
 #### National Policy on Permanent Papers
-Pub. L. 101–423, Oct. 12, 1990, 104 Stat. 912, provided that: “Whereas it is now widely recognized and scientifically demonstrated that the acidic papers commonly used for more than a century in documents, books, and other publications are self-destructing and will continue to self destruct; “Whereas Americans are facing the prospect of continuing to lose national, historical, scientific, and scholarly records, including government records, faster than salvage efforts can be mounted despite the dedicated efforts of many libraries, archives, and agencies, such as the Library of Congress and the National Archives and Records Administration; “Whereas nationwide hundreds of millions of dollars will have to be spent by the Federal, State, and local governments and private institutions to salvage the most essential books and other materials in the libraries and archives of government, academic, and private institutions; “Whereas paper manufacturers can produce a sufficient supply of acid free permanent papers with a life of several hundred years, at prices competitive with acid papers, if publishers would specify the use of such papers, and some publishers and many university presses are already publishing on acid free permanent papers; “Whereas most Government agencies do not require the use of acid free permanent papers for appropriate Federal records and publications; “Whereas librarians, publishers, and other professional groups have urged the use of acid free permanent papers; “Whereas even when books are printed on acid free permanent paper this fact is often not made known to libraries by notations in the book or by notations in standard bibliographic listings; and “Whereas there is an urgent need to prevent the continuance of the acid paper problem in the future: Now, therefore, be it “Resolved by the Senate and House of Representatives of the United States of America in Congress assembled, “Section 1. It is the policy of the United States that Federal records, books, and publications of enduring value be produced on acid free permanent papers. “Sec. 2. The Congress of the United States urgently recommends that—“(1) Federal agencies require the use of acid free permanent papers for publications of enduring value produced by the Government Printing Office or produced by Federal grant or contract, using the specifications for such paper established by the Joint Committee on Printing; “(2) Federal agencies require the use of archival quality acid free papers for permanently valuable Federal records and confer with the National Archives and Records Administration on the requirements for paper quality; “(3) American publishers and State and local governments use acid free permanent papers for publications of enduring value, in voluntary compliance with the American National Standard; “(4) all publishers, private and governmental, prominently note the use of acid free permanent paper in books, advertisements, catalogs, and standard bibliographic listings; and “(5) the Secretary of State, Librarian of Congress, Archivist of the United States, and other Federal officials make known the national policy regarding acid free permanent papers to foreign governments and appropriate international agencies since the acid paper problem is worldwide and essential foreign materials being imported by our libraries are printed on acid papers. “Sec. 3. The Librarian of Congress, the Archivist of the United States, and the Public Printer shall jointly monitor the Federal Government’s progress in implementing the national policy declared in section 1 regarding acid free permanent papers and shall report to the Congress regarding such progress on December 31, 1991, December 31, 1993, and December 31, 1995. In carrying out the monitoring and reporting functions under this section, the Librarian of Congress, the Archivist of the United States, and the Public Printer may consult with the National Endowment for the Humanities, National Agricultural Library, National Library of Medicine, other Federal and State agencies, international organizations, private publishers, paper manufacturers, and other organizations with an interest in preservation of books and historical papers.”
+Pub. L. 101–423, Oct. 12, 1990, 104 Stat. 912, as amended by Pub. L. 113–235, div. H, title I, § 1301(b), (d), Dec. 16, 2014, 128 Stat. 2537, provided that: “Whereas it is now widely recognized and scientifically demonstrated that the acidic papers commonly used for more than a century in documents, books, and other publications are self-destructing and will continue to self destruct; “Whereas Americans are facing the prospect of continuing to lose national, historical, scientific, and scholarly records, including government records, faster than salvage efforts can be mounted despite the dedicated efforts of many libraries, archives, and agencies, such as the Library of Congress and the National Archives and Records Administration; “Whereas nationwide hundreds of millions of dollars will have to be spent by the Federal, State, and local governments and private institutions to salvage the most essential books and other materials in the libraries and archives of government, academic, and private institutions; “Whereas paper manufacturers can produce a sufficient supply of acid free permanent papers with a life of several hundred years, at prices competitive with acid papers, if publishers would specify the use of such papers, and some publishers and many university presses are already publishing on acid free permanent papers; “Whereas most Government agencies do not require the use of acid free permanent papers for appropriate Federal records and publications; “Whereas librarians, publishers, and other professional groups have urged the use of acid free permanent papers; “Whereas even when books are printed on acid free permanent paper this fact is often not made known to libraries by notations in the book or by notations in standard bibliographic listings; and “Whereas there is an urgent need to prevent the continuance of the acid paper problem in the future: Now, therefore, be it “Resolved by the Senate and House of Representatives of the United States of America in Congress assembled, “Section 1. It is the policy of the United States that Federal records, books, and publications of enduring value be produced on acid free permanent papers. “Sec. 2. The Congress of the United States urgently recommends that— “(1) Federal agencies require the use of acid free permanent papers for publications of enduring value produced by the Government Publishing Office or produced by Federal grant or contract, using the specifications for such paper established by the Joint Committee on Printing; “(2) Federal agencies require the use of archival quality acid free papers for permanently valuable Federal records and confer with the National Archives and Records Administration on the requirements for paper quality; “(3) American publishers and State and local governments use acid free permanent papers for publications of enduring value, in voluntary compliance with the American National Standard; “(4) all publishers, private and governmental, prominently note the use of acid free permanent paper in books, advertisements, catalogs, and standard bibliographic listings; and “(5) the Secretary of State, Librarian of Congress, Archivist of the United States, and other Federal officials make known the national policy regarding acid free permanent papers to foreign governments and appropriate international agencies since the acid paper problem is worldwide and essential foreign materials being imported by our libraries are printed on acid papers. “Sec. 3. The Librarian of Congress, the Archivist of the United States, and the Director of the Government Publishing Office shall jointly monitor the Federal Government’s progress in implementing the national policy declared in section 1 regarding acid free permanent papers and shall report to the Congress regarding such progress on December 31, 1991, December 31, 1993, and December 31, 1995. In carrying out the monitoring and reporting functions under this section, the Librarian of Congress, the Archivist of the United States, and the Director of the Government Publishing Office may consult with the National Endowment for the Humanities, National Agricultural Library, National Library of Medicine, other Federal and State agencies, international organizations, private publishers, paper manufacturers, and other organizations with an interest in preservation of books and historical papers.”
 
 
 <a id="section-510"></a>
@@ -253,53 +283,68 @@ Based on 44 U.S. Code, 1964 ed., § 8 (Jan. 12, 1895, ch. 23, § 6, 28 Stat. 602
 <a id="section-513"></a>
 ## § 513. Comparison of paper and envelopes with standard quality
 
-The Public Printer shall compare every lot of paper and envelopes delivered by a contractor with the standard of quality fixed upon by the Joint Committee on Printing, and may not accept paper or envelopes which do not conform to it in every particular. A lot of delivered paper or envelopes which does not conform to the standard of quality may be accepted by the Committee at a discount that in its opinion is sufficient to protect the interests of the Government.
+The Director of the Government Publishing Office shall compare every lot of paper and envelopes delivered by a contractor with the standard of quality fixed upon by the Joint Committee on Printing, and may not accept paper or envelopes which do not conform to it in every particular. A lot of delivered paper or envelopes which does not conform to the standard of quality may be accepted by the Committee at a discount that in its opinion is sufficient to protect the interests of the Government.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 9 (Jan. 12, 1895, ch. 23, § 7, 28 Stat. 602; June 20, 1936, ch. 630, title VIII, § 13, 49 Stat. 1553).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-514"></a>
 ## § 514. Determination of quality of paper
 
-The Joint Committee on Printing shall determine differences of opinion between the Public Printer and a contractor for paper respecting the paper’s quality; and the decision of the Committee is final as to the United States.
+The Joint Committee on Printing shall determine differences of opinion between the Director of the Government Publishing Office and a contractor for paper respecting the paper’s quality; and the decision of the Committee is final as to the United States.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 10 (Jan. 12, 1895, ch. 23, § 8, 28 Stat. 602; Mar. 3, 1917, ch. 163, § 6, 39 Stat. 1121).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-515"></a>
 ## § 515. Default of contractor; new contracts and purchase in open market
 
-If a contractor fails to comply with his contract, the Public Printer shall report the default to the Joint Committee on Printing, and under its direction, enter into a new contract with the lowest, best, and most responsible bidder for the interest of the Government among those whose proposals were rejected at the last opening of bids, or he shall advertise for new proposals, under the regulations provided by sections 509–517 of this title. During the interval that may thus occur he may, under the direction of the Joint Committee on Printing, purchase in open market, at the lowest market price, paper necessary for the public printing.
+If a contractor fails to comply with his contract, the Director of the Government Publishing Office shall report the default to the Joint Committee on Printing, and under its direction, enter into a new contract with the lowest, best, and most responsible bidder for the interest of the Government among those whose proposals were rejected at the last opening of bids, or he shall advertise for new proposals, under the regulations provided by sections 509–517 of this title. During the interval that may thus occur he may, under the direction of the Joint Committee on Printing, purchase in open market, at the lowest market price, paper necessary for the public printing.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 11 (Jan. 12, 1895, ch. 23, § 9, 28 Stat. 602; Mar. 3, 1917, ch. 163, § 6, 39 Stat. 1121).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-516"></a>
 ## § 516. Liability of defaulting contractor
 
-Upon failure to furnish paper, a contractor and his sureties shall be responsible for any increase of cost to the Government in procuring a supply of the paper consequent upon his default. The Public Printer shall report every default, with a full statement of all the facts in the case, to the General Counsel for the Department of the Treasury, who shall prosecute the defaulting contractor and his sureties upon their bond in the district court of the United States in the district in which the defaulting contractor resides.
+Upon failure to furnish paper, a contractor and his sureties shall be responsible for any increase of cost to the Government in procuring a supply of the paper consequent upon his default. The Director of the Government Publishing Office shall report every default, with a full statement of all the facts in the case, to the General Counsel for the Department of the Treasury, who shall prosecute the defaulting contractor and his sureties upon their bond in the district court of the United States in the district in which the defaulting contractor resides.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 12 (Jan. 12, 1895, ch. 23, § 10, 28 Stat. 602; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; May 10, 1934, ch. 277, § 512(b), 48 Stat. 759).
 
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.
+
 
 <a id="section-517"></a>
 ## § 517. Purchase of paper in open market
 
-The Joint Committee on Printing may authorize the Public Printer to purchase paper in open market when they consider the quantity required so small or the want so immediate as not to justify advertisement for proposals.
+The Joint Committee on Printing may authorize the Director of the Government Publishing Office to purchase paper in open market when they consider the quantity required so small or the want so immediate as not to justify advertisement for proposals.
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 13 (Jan. 12, 1895, ch. 23, § 11, 28 Stat. 602; Mar. 3, 1917, ch. 163, § 6, 39 Stat. 1121).
+
+#### Amendments
+2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.

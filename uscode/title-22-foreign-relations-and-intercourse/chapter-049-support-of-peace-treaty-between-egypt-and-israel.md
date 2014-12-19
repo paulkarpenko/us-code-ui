@@ -196,7 +196,7 @@ Section 138 of the joint resolution entitled “Joint resolution making continui
 
 (1) The United States may use contractors to provide logistical support to the Multinational Force and Observers under this section in lieu of providing such support through a logistical support unit comprised of members of the United States Armed Forces.
 
-(2) Notwithstanding subsections (a) and (b) of this section and [section 3426(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3426/b&num=0&edition=prelim), support by a contractor under this subsection may be provided without reimbursement whenever the President determines that such action enhances or supports the national security interests of the United States.
+(2) Notwithstanding subsections (a) and (b) and [section 3426(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3426/b&num=0&edition=prelim), support by a contractor under this subsection may be provided without reimbursement whenever the President determines that such action enhances or supports the national security interests of the United States.
 
 ### Statutory Notes
 
@@ -206,7 +206,7 @@ Section 138 of the joint resolution entitled “Joint resolution making continui
 
 <a id="section-3425"></a>
 ## § 3425. Reports to Congress
-**(a) Initial report** Not later than April 30, 1982, the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a detailed written report with respect to the period ending two weeks prior to that date which contains the information specified in subsection (b) of this section.
+**(a) Initial report** Not later than April 30, 1982, the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a detailed written report with respect to the period ending two weeks prior to that date which contains the information specified in subsection (b).
 
 **(b) Annual report; content** Not later than January 15 of each year (beginning in 1983), the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a written report which describes—
 
@@ -214,7 +214,7 @@ Section 138 of the joint resolution entitled “Joint resolution making continui
 
 (2) the composition of the Multinational Force and Observers, including a description of the responsibilities and deployment of the military personnel of each participating country;
 
-(3) All costs incurred by the United States Government (including both normal and incremental costs), set forth by category, which are associated with the United States relationship with the Multinational Force and Observers and which were incurred during the preceding fiscal year (whether or not the United States was reimbursed for those costs), specifically including but not limited to—
+(3) All 11 So in original. Probably should not be capitalized. costs incurred by the United States Government (including both normal and incremental costs), set forth by category, which are associated with the United States relationship with the Multinational Force and Observers and which were incurred during the preceding fiscal year (whether or not the United States was reimbursed for those costs), specifically including but not limited to—
 
   (A) the costs associated with the United States units and personnel participating in the Multinational Force and Observers (including salaries, allowances, retirement and other benefits, transportation, housing, and operating and maintenance costs), and
 
@@ -232,7 +232,7 @@ Section 138 of the joint resolution entitled “Joint resolution making continui
 
 (1) The reports required by this section shall be as detailed as possible.
 
-(2) The information pursuant to subsection (b)(3) of this section shall, in the case of costs which are not identifiable, be set forth with reasonable accuracy.
+(2) The information pursuant to subsection (b)(3) shall, in the case of costs which are not identifiable, be set forth with reasonable accuracy.
 
 (3) The information with respect to any administrative and technical support and services provided on a nonreimbursed basis under [section 3424(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3424/a&num=0&edition=prelim) shall include a description of the types of support and services which have been provided and an estimate of both the total costs of such support and services and the incremental costs incurred by the United States with respect to such support and services.
 

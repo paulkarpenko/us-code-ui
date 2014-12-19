@@ -304,7 +304,7 @@ In subsection (a), the words “on or before the 1st day of December in each yea
 
 **(e) Financial Awards.—** The Secretary may make awards on an equal matching basis to an institute designated under subsection (a) from amounts appropriated. The aggregate annual amount of the Federal share of the awards by the Secretary may not exceed $500,000.
 
-**(f) University Transportation Research Funds.—** The Secretary may make a grant under [section 5505 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5505&num=0&edition=prelim) to an institute designated under subsection (a) for maritime and maritime intermodal research under that section as if the institute were a university transportation center. In making a grant, the Secretary, through the Research and Innovative Technology Administration, shall advise the Maritime Administration on the availability of funds for the grants and consult with the Administration on making the grants.
+**(f) University Transportation Research Funds.—** The Secretary may make a grant under [section 5505 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5505&num=0&edition=prelim) to an institute designated under subsection (a) for maritime and maritime intermodal research under that section as if the institute were a university transportation center. In making a grant, the Secretary, through the Office of the Assistant Secretary for Research and Technology of the Department of Transportation, shall advise the Maritime Administration on the availability of funds for the grants and consult with the Administration on making the grants.
 
 ### Statutory Notes
 
@@ -312,6 +312,9 @@ In subsection (a), the words “on or before the 1st day of December in each yea
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 50112 | 46 App.:1121–2. | Pub. L. 101–115, § 8, Oct. 13, 1989, 103 Stat. 694; Pub. L. 101–595, title VII, § 702, Nov. 16, 1990, 104 Stat. 2994; Pub. L. 102–241, § 47, Dec. 19, 1991, 105 Stat. 2227; Pub. L. 106–398, § 1 [div. C, title XXXV, § 3504], Oct. 30, 2000, 114 Stat. 1654, 1654A–493; Pub. L. 108–426, Nov. 30, 2004, § 2(c)(4), 118 Stat. 2424. |
+
+#### Change of Name
+“Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in subsec. (f) on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under [section 112 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section112&num=0&edition=prelim), Transportation.
 
 
 <a id="section-50113"></a>

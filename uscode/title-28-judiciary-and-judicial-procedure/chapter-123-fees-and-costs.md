@@ -343,7 +343,8 @@ A judge or clerk of any court of the United States may tax as costs the followin
 
 (5) Docket fees under [section 1923 of this title](./chapter-123-fees-and-costs.md#section-1923);
 
-(6) Compensation of court appointed experts, compensation of interpreters, and salaries, fees, expenses, and costs of special interpretation services under [section 1828 of this title](./chapter-119-evidence-witnesses.md#section-1828). A bill of costs shall be filed in the case and, upon allowance, included in the judgment or decree.
+(6) Compensation of court appointed experts, compensation of interpreters, and salaries, fees, expenses, and costs of special interpretation services under [section 1828 of this title](./chapter-119-evidence-witnesses.md#section-1828).
+A bill of costs shall be filed in the case and, upon allowance, included in the judgment or decree.
 
 ### Statutory Notes
 
@@ -715,7 +716,7 @@ Pub. L. 104–91, as amended by Pub. L. 104–99, struck out “a plan is confir
 
 1993—Subsec. (a)(1). Pub. L. 103–121, § 111(a)(1), substituted “$130” for “$120”.
 
-Subsec. (a)(3). Pub. L. 103–81, § 111(b)(1), substituted “800” for “$600”.
+Subsec. (a)(3). Pub. L. 103–121, § 111(b)(1), substituted “800” for “$600”.
 
 1991—Subsec. (a)(3). Pub. L. 102–140, § 111(a)(1), substituted “$600” for “$500”.
 
@@ -855,14 +856,14 @@ Pub. L. 101–162, title IV, § 406(b), Nov. 21, 1989, 103 Stat. 1016, as amende
 [Pub. L. 103–121, title I, § 111(a), (b), Oct. 27, 1993, 107 Stat. 1164, provided in part that the amendments to section 406(b) of Pub. L. 101–162, set out above, are effective 30 days after Oct. 27, 1993.]
 
 
-<a id="section-1932"></a>
-## § 1932. 11 Another section 1932 is set out after this section. Judicial Panel on Multidistrict Litigation
+<a id="section-1932-1"></a>
+## § 1932.1. Judicial Panel on Multidistrict Litigation
 
 The Judicial Conference of the United States shall prescribe from time to time the fees and costs to be charged and collected by the Judicial Panel on Multidistrict Litigation.
 
 
-<a id="section-1932"></a>
-## § 1932. 11 Another section 1932 is set out preceding this section. Revocation of earned release credit
+<a id="section-1932-1"></a>
+## § 1932.1. Revocation of earned release credit
 
 In any civil action brought by an adult convicted of a crime and confined in a Federal correctional facility, the court may order the revocation of such earned good time credit under [section 3624(b) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3624/b&num=0&edition=prelim), United States Code, that has not yet vested, if, on its own motion or the motion of any party, the court finds that—
 

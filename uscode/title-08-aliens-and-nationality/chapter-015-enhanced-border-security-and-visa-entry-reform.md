@@ -259,7 +259,7 @@ Pub. L. 109–472, § 6, Jan. 11, 2007, 120 Stat. 3555, provided that: “(a) In
 #### References in Text
 The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101) and Tables.
 
-[Section 403–3 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–3&num=0&edition=prelim), referred to in subsec. (c)(3)(F), was repealed and a new section 403–3 was enacted by Pub. L. 108–458, title I, § 1011(a), Dec. 17, 2004, 118 Stat. 3643, 3655, and subsequently editorially reclassified to [section 3025 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3025&num=0&edition=prelim); as so enacted, subsec. (c)(7) no longer contains provisions relating to the protection of sources and methods used to acquire intelligence information. See [section 3024 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024&num=0&edition=prelim), War and National Defense.
+[Section 403–3 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–3&num=0&edition=prelim), referred to in subsec. (c)(3)(F), was repealed and a new section 403–3 was enacted by Pub. L. 108–458, title I, § 1011(a), Dec. 17, 2004, 118 Stat. 3643, 3655, and subsequently editorially reclassified to [section 3025 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3025&num=0&edition=prelim), War and National Defense; as so enacted, subsec. (c)(7) no longer contains provisions relating to the protection of sources and methods used to acquire intelligence information. See [section 3024 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024&num=0&edition=prelim).
 
 #### Codification
 Section is comprised of section 201 of Pub. L. 107–173. Subsec. (b)(2) of section 201 of Pub. L. 107–173 amended provisions set out as a note under [section 1365a of this title](./chapter-012-immigration-and-nationality.md#section-1365a). Subsec. (c)(5) of section 201 of Pub. L. 107–173 amended [section 1379 of this title](./chapter-012-immigration-and-nationality.md#section-1379).
@@ -503,9 +503,14 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **(e) Periodic reports to the Secretary of State** Each committee established under subsection (a) of this section shall submit monthly reports to the Secretary of State describing the committee’s activities, whether or not information on known or suspected terrorists was developed during the month.
 
-**(f) Reports to Congress** The Secretary of State shall submit a report on a quarterly basis to the appropriate committees of Congress on the status of the committees established under subsection (a) of this section.
+**(f) Repealed. Pub. L. 113–235, div. J, title VII, § 7034(i), Dec. 16, 2014, 128 Stat. 2624**
 
 **(g) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary to implement this section.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (f). Pub. L. 113–235 struck out subsec. (f). Text read as follows: “The Secretary of State shall submit a report on a quarterly basis to the appropriate committees of Congress on the status of the committees established under subsection (a) of this section.”
 
 
 <a id="section-1735"></a>

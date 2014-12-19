@@ -2,7 +2,7 @@
 title: 38
 chapter: '15'
 heading: PENSION FOR NON-SERVICE-CONNECTED DISABILITY OR DEATH OR FOR SERVICE
-section_count: 31
+section_count: 30
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -922,7 +922,7 @@ Pub. L. 90–275, § 4, Mar. 28, 1968, 82 Stat. 68, as originally enacted, was e
 Pub. L. 90–77, title I, § 108(c), Aug. 31, 1967, 81 Stat. 180, provided that: “If any widow is entitled to pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 [formerly set out in a Savings Provision note above] and is in need of regular aid and attendance, the monthly rate of pension payable to her shall be increased by $50.”
 
 #### Pension for Housebound Veterans
-Pub. L. 90–77, title I, § 110, Aug. 31, 1967, 81 Stat. 180, provided that: “The Administrator of Veterans’ Affairs shall pay to a veteran who is entitled to pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 [formerly set out in a Savings Provision note above] and who— “(1) has, in addition to a disability rated as permanent and total, additional disability or disabilities independently ratable at 60 per centum or more, or “(2) by reason of his disability or disabilities, is permanently housebound but does not qualify for pension based on need of regular aid and attendance, in lieu of the pension otherwise payable to him, a pension at the monthly rate of $100.”
+Pub. L. 90–77, title I, § 110, Aug. 31, 1967, 81 Stat. 180, provided that: “The Administrator of Veterans’ Affairs shall pay to a veteran who is entitled to pension under the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 [formerly set out in a Savings Provision note above] and who—“(1) has, in addition to a disability rated as permanent and total, additional disability or disabilities independently ratable at 60 per centum or more, or “(2) by reason of his disability or disabilities, is permanently housebound but does not qualify for pension based on need of regular aid and attendance, in lieu of the pension otherwise payable to him, a pension at the monthly rate of $100.”
 
 #### Retirement Income Exclusion
 Pub. L. 88–664, § 10, Oct. 13, 1964, 78 Stat. 1096, provided that: “In computing the income of persons whose pension eligibility is subject to the first sentence of section 9(b) of the Veterans’ Pension Act of 1959 [formerly set out in a Savings Provision note above] there shall be excluded 10 per centum of the amount of payments received under public or private retirement, annuity, endowment or similar plans or programs.”
@@ -1739,110 +1739,22 @@ Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 
 Prior to renumbering of sections 501 to 543 of this chapter as sections 1501 to 1543 by Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, section 544 of this chapter, added Pub. L. 90–77, title I, § 108(a), Aug. 31, 1967, 81 Stat. 180; amended Pub. L. 91–588, § 3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 93–527, § 5, Dec. 21, 1974, 88 Stat. 1704; Pub. L. 94–169, title I, § 105, Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, § 205, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title I, § 104, Dec. 2, 1977, 91 Stat. 1457, which authorized an increase by $79 of the monthly rate of pension payable to the surviving spouse if the surviving spouse was entitled to pension under this subchapter and was in need of regular aid and attendance, was repealed by Pub. L. 95–588, title I, § 112(a)(1), title IV, § 401, Nov. 4, 1978, 92 Stat. 2505, 2511, effective Jan. 1, 1979.
 
 
-<a id="section-1560"></a>
-## § 1560. Medal of Honor Roll; persons eligible
-**(a)** There shall be in the Department of the Army, the Department of the Navy, the Department of the Air Force, and the Department of Homeland Security, respectively, a roll designated as the “Army, Navy, Air Force, and Coast Guard Medal of Honor Roll”.
-
-**(b)** Upon written application to the Secretary concerned, that Secretary shall enter and record on such roll the name of each surviving person who has served on active duty in the armed forces of the United States and who has been awarded a medal of honor for distinguishing such person conspicuously by gallantry and intrepidity at the risk of such person’s life above and beyond the call of duty while so serving.
-
-**(c)** Applications for entry on such roll shall be made in the form and under regulations prescribed by the Secretary concerned, and shall indicate whether or not the applicant desires to receive the special pension provided by [section 1562 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1562). Proper blanks and instructions shall be furnished by the Secretary concerned, without charge upon the request of any person claiming the benefits of this subchapter.
+<a id="section-1560-1561"></a>
+## § 1560, 1561. Repealed. Pub. L. 113–66, div. A, title V, § 563(c)(1), Dec. 26, 2013, 127 Stat. 768]
 
 ### Statutory Notes
 
-#### Amendments
-2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+Section 1560, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, § 560; Pub. L. 87–138, § 1, Aug. 14, 1961, 75 Stat. 338; Pub. L. 88–77, § 5(1), July 25, 1963, 77 Stat. 95; Pub. L. 88–651, Oct. 13, 1964, 78 Stat. 1078; Pub. L. 89–311, § 4, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 91–24, § 5, June 11, 1969, 83 Stat. 33; Pub. L. 94–169, title I, § 106(41), Dec. 23, 1975, 89 Stat. 1019; renumbered § 1560 and amended Pub. L. 102–83, §§ 4(b)(4)(A), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 107–296, title XVII, § 1704(d), Nov. 25, 2002, 116 Stat. 2315, related to persons eligible for Medal of Honor Roll.
 
-1991—Pub. L. 102–83, § 5(a), renumbered [section 560 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section560&num=0&edition=prelim) as this section.
+Section 1561, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, § 561; Pub. L. 87–138, § 2(a), Aug. 14, 1961, 75 Stat. 338; Pub. L. 88–77, § 5(2), July 25, 1963, 77 Stat. 95; Pub. L. 94–169, title I, § 106(42), (43), Dec. 23, 1975, 89 Stat. 1019; renumbered § 1561 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406, related to certificates issued to persons on the Medal of Honor Roll.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(4)(A), substituted “that Secretary” for second reference to “the Secretary”.
-
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1562” for “562”.
-
-1975—Subsec. (b). Pub. L. 94–169 substituted “such person” for “himself” and “such person’s” for “his”.
-
-1969—Subsec. (a). Pub. L. 91–24 substituted “Department of Transportation” for “Department of the Treasury”.
-
-1965—Subsec. (b). Pub. L. 89–311 struck out requirement that prospective enrollees have attained the age of forty before being eligible for entry on the roll.
-
-1964—Subsec. (b). Pub. L. 88–651 substituted “forty years” for “fifty years” and “beyond the call of duty while so serving” for “beyond the call of duty—
-
-“(1) while engaged in action against an enemy of the United States;
-
-“(2) while engaged in military operations involving conflict with an opposing foreign force; or
-
-“(3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.”
-
-1963—Subsec. (a). Pub. L. 88–77 inserted references to Department of the Treasury and to Coast Guard.
-
-Subsec. (b). Pub. L. 88–77 enlarged the authority to enter and record names on the Medal of Honor Roll, which was limited to persons who served in the active military, naval or air service of the United States in any war, and who distinguished themselves by gallantry or intrepidity in action involving actual conflict with an enemy, to permit entering and recording names of persons who served on active duty in the Armed Forces of the United States distinguish themselves by gallantry and intrepidity while engaged in action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
-
-1961—Subsec. (b). Pub. L. 87–138, § 1(a), reduced the age requirement for entry on the Medal of Honor Roll from 65 to 50 years and struck out requirement that such person must have received an honorable discharge.
-
-Subsec. (c). Pub. L. 87–138, § 1(b), required applicants to indicate if they wished to receive the pension provided by [section 562 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section562&num=0&edition=prelim).
-
-#### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
-
-#### Effective Date of 1975 Amendment
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
-
-#### Effective Date of 1965 Amendment
-Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
-
-#### Effective Date of 1961 Amendment
-Pub. L. 87–138, § 4, Aug. 14, 1961, 75 Stat. 339, provided that: “The amendments made by this Act [amending this section and sections 561 and 562 [now 1561 and 1562] of this title] shall take effect on the first day of the first month which begins after the date of the enactment of this Act [Aug. 14, 1961], except that the amendments made by subsection (b) of the first section [amending subsec. (c) of this section] and by section 2 [amending section 561 [now 1561] of this title] shall not apply with respect to any application under section 560 [now 1560] of title 38, United States Code, made before such first day by any person who fulfilled the qualifications prescribed by subsection (b) of such section at the time such application was made.”
-
-
-<a id="section-1561"></a>
-## § 1561. Certificate
-**(a)** The Secretary concerned shall determine whether or not each applicant is entitled to have such person’s name entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll. If the official award of the Medal of Honor to the applicant, or the official notice to such person thereof, shows that the Medal of Honor was awarded to the applicant for an act described in [section 1560 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1560), such award or notice shall be sufficient to entitle the applicant to have such person’s name entered on such roll without further investigation; otherwise all official correspondence, orders, reports, recommendations, requests, and other evidence on file in any public office or department shall be considered.
-
-**(b)** Each person whose name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll shall be furnished a certificate of service and of the act of heroism, gallantry, bravery, or intrepidity for which the Medal of Honor was awarded, of enrollment on such roll, and, if such person has indicated such person’s desire to receive the special pension provided by [section 1562 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1562), of such person’s right to such special pension.
-
-**(c)** The Secretary concerned shall deliver to the Secretary a certified copy of each certificate issued under subsection (b) in which the right of the person named in the certificate to the special pension provided by [section 1562 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1562) is set forth. Such copy shall authorize the Secretary to pay such special pension to the person named in the certificate.
-
-### Statutory Notes
-
-#### Amendments
-1991—Pub. L. 102–83, § 5(a), renumbered [section 561 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section561&num=0&edition=prelim) as this section.
-
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1560” for “560”.
-
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1562” for “562”.
-
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1562” for “562”.
-
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “the” in two places.
-
-1975—Subsec. (a). Pub. L. 94–169, § 106(42), substituted “such person’s” for “his” wherever appearing, and “such person” for “him”.
-
-Subsec. (b). Pub. L. 94–169, § 106(42), substituted “such person” for “he” and “such person’s” for “his” wherever appearing.
-
-Subsec. (c). Pub. L. 94–169, § 106(43), struck out “by him” after “certificate issued”.
-
-1963—Subsecs. (a), (b). Pub. L. 88–77 inserted references to the Coast Guard.
-
-1961—Pub. L. 87–138 struck out “entitling holder to pension”, after “Certificate” in section catchline.
-
-Subsec. (a). Pub. L. 87–138 substituted “have his name entered on the Army, Navy, and Air Force Medal of Honor Roll” for “the benefits of this subchapter”, and “have his name entered on such roll” for “special pension under this subchapter”.
-
-Subsec. (b). Pub. L. 87–138 inserted provisions relating to the enrollee’s indication of desire to receive pension.
-
-Subsec. (c). Pub. L. 87–138 required the copy to set forth the right of the person named in the certificate to the pension.
-
-#### Effective Date of 1975 Amendment
-Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
-
-#### Effective Date of 1961 Amendment
-Amendment by Pub. L. 87–138 effective Sept. 1, 1961, except that it shall not apply with respect to applications under section 1560 [formerly 560] of this title made prior to Sept. 1, 1961, by anyone who fulfilled the qualifications prescribed by subsec. (b) of such section 1560 [formerly 560] at the time such application was made, see section 4 of Pub. L. 87–138, set out as a note under [section 1560 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1560).
-
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+#### Effective Date of Repeal
+Repeal applicable with respect to Medals of Honor awarded on or after Dec. 26, 2013, see section 563(d) of Pub. L. 113–66, set out as an Effective Date note under [section 1134a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1134a&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-1562"></a>
 ## § 1562. Special provisions relating to pension
-**(a)** The Secretary shall pay monthly to each person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor roll, and a copy of whose certificate has been delivered to the Secretary under subsection (c) of [section 1561 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1561), a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date of application therefor under [section 1560 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1560).
+**(a)** The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of [section 1134a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1134a&num=0&edition=prelim), a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
 
 **(b)** The receipt of special pension shall not deprive any person of any other pension or other benefit, right, or privilege to which such person is or may hereafter be entitled under any existing or subsequent law. Special pension shall be paid in addition to all other payments under laws of the United States.
 
@@ -1857,6 +1769,12 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 (1) The Secretary shall pay, in a lump sum, to each person who is in receipt of special pension payable under this section an amount equal to the total amount of special pension that the person would have received during the period beginning on the first day of the first month beginning after the date of the act for which the person was awarded the Medal of Honor and ending on the last day of the month preceding the month in which the person’s special pension in fact commenced.
 
 (2) For each month of a period referred to in paragraph (1), the amount of special pension payable to a person shall be determined using the rate of special pension that was in effect for such month, and shall be payable only if the person would have been entitled to payment of special pension for such month under laws for eligibility for special pension (with the exception of the eligibility law requiring a person to have been awarded a Medal of Honor) in effect at the beginning of such month.
+
+**(g)**
+
+(1) A person who is entitled to special pension under subsection (a) may elect not to receive special pension by notifying the Secretary of such election in writing.
+
+(2) Upon receipt of an election made by a person under paragraph (1) not to receive special pension, the Secretary shall cease payments of special pension to the person.
 
 ### Statutory Notes
 
@@ -1987,6 +1905,10 @@ Section 1698, added Pub. L. 92–540, title III, § 308, Oct. 24, 1972, 86 Stat.
 Prior section 1700, which comprised the first section of chapter 35, was renumbered [section 3500 of this title](./chapter-035-survivors-and-dependents-educational-assistance.md#section-3500).
 
 #### Amendments
+2013—Subsec. (a). Pub. L. 113–66, § 563(b)(1), substituted “each living person” for “each person”, “Honor Roll, and” for “Honor roll, and”, “subsection (d) of [section 1134a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1134a&num=0&edition=prelim)” for “subsection (c) of [section 1561 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1561&num=0&edition=prelim)”, and “date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section” for “date of application therefor under [section 1560 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1560&num=0&edition=prelim)”.
+
+Subsec. (g). Pub. L. 113–66, § 563(b)(2), added subsec. (g).
+
 2002—Subsec. (a). Pub. L. 107–330, § 304(a), substituted “$1,000, as adjusted from time to time under subsection (e)” for “$600”.
 
 Subsec. (e). Pub. L. 107–330, § 304(b), added subsec. (e).
@@ -2013,6 +1935,9 @@ Subsecs. (b), (d). Pub. L. 94–169, § 106(45), substituted “such person” f
 
 1961—Subsec. (a). Pub. L. 87–138 inserted “, and a copy of whose certificate has been delivered to him under subsection (c) of [section 561 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section561&num=0&edition=prelim),” after “Medal of Honor roll”, and increased pension from $10 to $100.
 
+#### Effective Date of 2013 Amendment
+Amendment by Pub. L. 113–66 applicable with respect to Medals of Honor awarded on or after Dec. 26, 2013, see section 563(d) of Pub. L. 113–66, set out as an Effective Date note under [section 1134a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1134a&num=0&edition=prelim), Armed Forces.
+
 #### Effective Date of 2002 Amendment
 Pub. L. 107–330, title III, § 304(d), Dec. 6, 2002, 116 Stat. 2826, provided that: “(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) [amending this section] shall take effect on September 1, 2003. No payment may be made pursuant to subsection (f) of [section 1562 of title 38](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1562), United States Code, as added by subsection (c) of this section, before October 1, 2003. “(2) The Secretary of Veterans Affairs shall not make any adjustment under subsection (e) of [section 1562 of title 38](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1562), United States Code, as added by subsection (b) of this section, in 2003.”
 
@@ -2027,6 +1952,9 @@ Amendment by Pub. L. 95–479 effective Jan. 1, 1979, see section 401(b) of Pub.
 
 #### Effective Date of 1975 Amendment
 Pub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+
+#### Effective Date of 1961 Amendment
+Pub. L. 87–138, § 4, Aug. 14, 1961, 75 Stat. 339, provided that: “The amendments made by this Act [amending this section and sections 560 and 561 [renumbered 1560 and 1561] of this title] shall take effect on the first day of the first month which begins after the date of the enactment of this Act [Aug. 14, 1961], except that the amendments made by subsection (b) of the first section [amending section 560 [renumbered 1560] of this title] and by section 2 [amending section 561 [renumbered 1561] of this title] shall not apply with respect to any application under section 560 [renumbered 1560] of title 38, United States Code, made before such first day by any person who fulfilled the qualifications prescribed by subsection (b) of such section at the time such application was made.”
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).

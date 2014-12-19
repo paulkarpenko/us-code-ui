@@ -117,7 +117,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **(e)**
 
-(1) A revolving fund is available, to the Office without fiscal year limitation, for financing investigations, training, and such other functions as the Office is authorized or required to perform on a reimbursable basis, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities. However, the functions which may be financed in any fiscal year by the fund are restricted to those functions which are covered by the budget estimates submitted to the Congress for that fiscal year. To the maximum extent feasible, each individual activity shall be conducted generally on an actual cost basis over a reasonable period of time.
+(1) A revolving fund is available, to the Office without fiscal year limitation, for financing investigations, training, and such other functions as the Office is authorized or required to perform on a reimbursable basis, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities, and for the cost of audits, investigations, and oversight activities, conducted by the Inspector General of the Office, of the fund and the activities financed by the fund. However, the functions which may be financed in any fiscal year by the fund are restricted to those functions which are covered by the budget estimates submitted to the Congress for that fiscal year. To the maximum extent feasible, each individual activity shall be conducted generally on an actual cost basis over a reasonable period of time.
 
 (2) The capital of the fund consists of the aggregate of—
 
@@ -133,7 +133,13 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 (4) Any unobligated and unexpended balances in the fund which the Office determines to be in excess of amounts needed for activities financed by the fund shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-(5) The Office shall prepare a business-type budget providing full disclosure of the results of operations for each of the functions performed by the Office and financed by the fund, and such budget shall be transmitted to the Congress and considered, in the manner prescribed by law for wholly owned Government corporations.
+(5)
+
+  (A) The Office shall prepare a business-type budget providing full disclosure of the results of operations for each of the functions performed by the Office and financed by the fund, and such budget shall be transmitted to the Congress and considered, in the manner prescribed by law for wholly owned Government corporations.
+
+  (B) Such budget shall include an estimate from the Inspector General of the Office of the amount required to pay the expenses to audit, investigate, and provide other oversight activities with respect to the fund and the activities financed by the fund.
+
+  (C) The amount requested by the Inspector General under subparagraph (B) shall not exceed .33 percent of the total budgetary authority requested by the Office under subparagraph (A).
 
 (6) The Comptroller General of the United States shall, as a result of his periodic reviews of the activities financed by the fund, report and make such recommendations as he deems appropriate to the Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives.
 
@@ -165,6 +171,10 @@ Standard changes are made to conform with the definitions applicable and the sty
 [Section 1874(c) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1874/c&num=0&edition=prelim), referred to in subsec. (a)(2), which related to clearance of National Science Foundation personnel, was repealed by Pub. L. 96–516, § 21(b)(1), Dec. 12, 1980, 94 Stat. 3010.
 
 #### Amendments
+2014—Subsec. (e)(1). Pub. L. 113–80, § 2(1), inserted “, and for the cost of audits, investigations, and oversight activities, conducted by the Inspector General of the Office, of the fund and the activities financed by the fund” before period at end of first sentence.
+
+Subsec. (e)(5). Pub. L. 113–80, § 2(2), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+
 1996—Subsec. (e)(1). Pub. L. 104–208 inserted “, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities” before period at end of first sentence.
 
 1995—Subsec. (e)(6). Pub. L. 104–66 struck out before period at end “at least once every three years”.

@@ -171,7 +171,7 @@ The General Schedule, referred to in subsec. (d)(3), is set out under [section 5
 
 (3) do any other act necessary to carry out this chapter.
 
-**(b) Powers as Trustee.—** To carry out its purposes, the corporation has the usual powers of a corporation acting as a trustee in the the 11 So in original. jurisdiction in which the principal office of the corporation is located, including the power—
+**(b) Powers as Trustee.—** To carry out its purposes, the corporation has the usual powers of a corporation acting as a trustee in the jurisdiction in which the principal office of the corporation is located, including the power—
 
 (1) to accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, either absolutely or in trust, of property or any income from or other interest in property;
 
@@ -208,6 +208,8 @@ Subsection (a)(3) is substituted for 36:5702(g)(1)(C) for consistency in the rev
 In subsection (b), before clause (1), the words “under [section 5701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section5701&num=0&edition=prelim)” and “in addition to the powers otherwise given it under this chapter” are omitted as unnecessary. In clauses (1) and (2), the words “real or personal” are omitted as unnecessary and for consistency in the revised title. In clause (3), the words “reinvest, retain” are omitted as unnecessary. In clause (4), the words “instruments of indebtedness” are substituted for “bonds, debentures, or other debt instruments” to eliminate unnecessary words. In clause (6), the words “and complain and defend itself in any court of competent jurisdiction” are omitted as unnecessary. In clause (7), the words “any other act” are substituted for “any and all acts” to eliminate unnecessary words.
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–237 substituted “the jurisdiction” for “the the jurisdiction” in introductory provisions.
+
 2005—Subsec. (b). Pub. L. 109–9 substituted “the jurisdiction in which the principal office of the corporation is located” for “District of Columbia” in introductory provisions.
 
 

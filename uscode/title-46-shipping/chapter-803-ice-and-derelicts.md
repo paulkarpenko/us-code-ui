@@ -2,7 +2,7 @@
 title: 46
 chapter: '803'
 heading: ICE AND DERELICTS
-section_count: 3
+section_count: 4
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -22,12 +22,20 @@ source: >-
 
 (2) contribution by the Government for its proportionate share if the agreement provides for another country to maintain the services.
 
+**(c) Payments.—** Payments received pursuant to subsection (b)(1) shall be credited to the appropriation for operating expenses of the Coast Guard.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 80301 | 46 App.:738. | June 25, 1936, ch. 807, § 1, 49 Stat. 1922. |
+
+#### Amendments
+2014—Subsec. (c). Pub. L. 113–281 added subsec. (c).
+
+#### Effective Date of 2014 Amendment
+Pub. L. 113–281, title III, § 314(c), Dec. 18, 2014, 128 Stat. 3049, provided that: “This section [enacting [section 80304 of this title](./chapter-803-ice-and-derelicts.md#section-80304) and amending this section and [section 80302 of this title](./chapter-803-ice-and-derelicts.md#section-80302)] shall take effect on January 1, 2017.”
 
 
 <a id="section-80302"></a>
@@ -54,12 +62,33 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 113–281, title III, § 314(a)(2), (c), Dec. 18, 2014, 128 Stat. 3049, provided that, effective Jan. 1, 2017, this section is amended:
+
+(1) in subsection (b), by striking “An ice patrol vessel” and inserting “The ice patrol”;
+
+(2) in subsection (c)(1), by striking “An ice patrol vessel” and inserting “The ice patrol”; and
+
+(3) in the first sentence of subsection (d), by striking “vessels” and inserting “aircraft”.
+
+See 2014 Amendment notes below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 80302 | 46 App.:738a. | June 25, 1936, ch. 807, § 2, 49 Stat. 1922; Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. |
 
 In subsection (d), the words “Secretary of the department in which the Coast Guard is operating” are substituted for “Secretary of Transportation” because of the transfer of the Coast Guard to the Department of Homeland Security (except when operating as a service in the Navy) by section 888 of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2249). See also sections 1 and 3 of title 14, as amended by section 1704(a) of such Act (116 Stat. 2314).
+
+#### Amendments
+2014—Subsec. (b). Pub. L. 113–281, § 314(a)(2)(A), substituted “The ice patrol” for “An ice patrol vessel”.
+
+Subsec. (c)(1). Pub. L. 113–281, § 314(a)(2)(B), substituted “The ice patrol” for “An ice patrol vessel” in introductory provisions.
+
+Subsec. (d). Pub. L. 113–281, § 314(a)(2)(C), substituted “aircraft” for “vessels”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–281 effective Jan. 1, 2017, see section 314(c) of Pub. L. 113–281, set out as a note under [section 80301 of this title](./chapter-803-ice-and-derelicts.md#section-80301).
 
 
 <a id="section-80303"></a>
@@ -76,3 +105,18 @@ In subsection (d), the words “Secretary of the department in which the Coast G
 | 80303 | 46 App.:738c. | June 25, 1936, ch. 807, § 4, 49 Stat. 1923. |
 
 In subsection (b), the words “liable to the United States Government for a civil penalty” are substituted for “liable to a fine” for clarity and for consistency in the revised title. The words “for each offense” are omitted as unnecessary.
+
+
+<a id="section-80304"></a>
+## § 80304. Limitation on ice patrol data
+
+Notwithstanding sections 80301 and 80302, data collected by an ice patrol conducted by the Coast Guard under this chapter may not be disseminated to a vessel unless such vessel is—
+
+(1) documented under the laws of the United States; or
+
+(2) documented under the laws of a foreign country that made the payment or contribution required under section 80301(b) for the year preceding the year in which the data is collected.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 2017, see section 314(c) of Pub. L. 113–281, set out as an Effective Date of 2014 Amendment note under [section 80301 of this title](./chapter-803-ice-and-derelicts.md#section-80301).

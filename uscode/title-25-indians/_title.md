@@ -2,7 +2,7 @@
 title: 25
 heading: INDIANS
 positive_law: false
-sections: 2146
+sections: 2149
 chapters: 48
 ---
 # Title 25. INDIANS

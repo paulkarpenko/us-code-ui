@@ -2,7 +2,7 @@
 title: 10
 chapter: '101'
 heading: TRAINING GENERALLY
-section_count: 18
+section_count: 19
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -389,6 +389,48 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 Pub. L. 98–525, title VII, § 706(b), Oct. 19, 1984, 98 Stat. 2570, directed that first payment into Department of Defense Education Benefits Fund under this section be made not later than three months after Board of Actuaries determined amounts needed to be paid into Fund for that portion of fiscal year 1985 beginning on July 1, 1985, with first payment in a lump sum equal to total of amounts that would have been paid to Fund each month between July 1, 1985, and time such first payment was made.
 
 
+<a id="section-2006a"></a>
+## § 2006a. Assistance for education and training: availability of certain assistance for use only for certain programs of education
+**(a) In General.—** Effective as of August,11 So in original. 1, 2014, an individual eligible for assistance under a Department of Defense educational assistance program or authority covered by this section may, except as provided in subsection (b), only use such assistance for educational expenses incurred for a program as follows:
+
+(1) An eligible program (as defined in section 481 of the Higher Education Act of 1965 ([20 U.S.C. 1088](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088&num=0&edition=prelim))) that is offered by an institution of higher education that has entered into, and is complying with, a program participation agreement under section 487 of such Act ([20 U.S.C. 1094](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1094&num=0&edition=prelim)).
+
+(2) In the case of a program designed to prepare individuals for licensure or certification in any State, if the program meets the instructional curriculum licensure or certification requirements of such State.
+
+(3) In the case of a program designed to prepare individuals for employment pursuant to standards developed by a State board or agency in an occupation that requires approval or licensure for such employment, if the program is approved or licensed by such State board or agency.
+
+**(b) Waiver.—** The Secretary of Defense may, by regulation, authorize the use of educational assistance under a Department of Defense educational assistance program or authority covered by this chapter for educational expenses incurred for a program of education that is not described in subsection (a) if the program—
+
+(1) is accredited and approved by a nationally or regionally recognized accrediting agency or association recognized by the Department of Education;
+
+(2) was not an eligible program described in subsection (a) at any time during the most recent two-year period;
+
+(3) is a program that the Secretary determines would further the purposes of the educational assistance programs or authorities covered by this chapter, or would further the education interests of students eligible for assistance under the such 1 programs or authorities; and
+
+(4) the institution providing the program does not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
+
+**(c) Definitions.—** In this section:
+
+(1) The term “Department of Defense educational assistance programs and authorities covered by this section” means the programs and authorities as follows:
+
+  (A) The programs to assist military spouses in achieving education and training to expand employment and portable career opportunities under [section 1784a of this title](./chapter-088-military-family-programs-and-military-child-care.md#section-1784a).
+
+  (B) The authority to pay tuition for off-duty training or education of members of the armed forces under [section 2007 of this title](./chapter-101-training-generally.md#section-2007).
+
+  (C) The program of educational assistance for members of the Selected Reserve under chapter 1606 of this title.
+
+  (D) The program of educational assistance for reserve component members supporting contingency operations and certain other operations under chapter 1607 of this title.
+
+  (E) Any other program or authority of the Department of Defense for assistance in education or training carried out under the laws administered by the Secretary of Defense that is designated by the Secretary, by regulation, for purposes of this section.
+
+(2) The term “institution of higher education” has the meaning given that term in section 102 of the Higher Education Act for 1965 ([20 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 113–66, div. A, title V, § 541(c), Dec. 26, 2013, 127 Stat. 762, provided that: “The amendments made by this section [enacting this section] shall take effect on August 1, 2014.”
+
+
 <a id="section-2007"></a>
 ## § 2007. Payment of tuition for off-duty training or education
 **(a)** Subject to subsections (b) and (c), the Secretary concerned may pay all or a portion of the charges of an educational institution for the tuition or expenses of a member of the armed forces enrolled in such educational institution for education or training during the member’s off-duty periods.
@@ -709,6 +751,9 @@ Subsec. (e)(5), (6). Pub. L. 105–261, § 1062(b), added pars. (5) and (6).
 
 1996—Subsec. (a). Pub. L. 104–106 substituted “To” for “to” in heading.
 
+#### Training of General Purpose Forces of the United States Armed Forces With Military and Other Security Forces of Friendly Foreign Countries
+Pub. L. 113–66, div. A, title XII, § 1203, Dec. 26, 2013, 127 Stat. 894, provided that: “(a) Training Authorized.—“(1) In general.—Under regulations prescribed under subsection (f), general purpose forces of the United States Armed Forces may train with the military forces or other security forces of a friendly foreign country if the Secretary of Defense determines that it is in the national security interests of the United States to do so. Training may be conducted under this section only with the prior approval of the Secretary of Defense. “(2) Concurrence.—Before conducting a training event in or with a foreign country under this subsection, the Secretary of Defense shall seek the concurrence of the Secretary of State in such training event. “(b) Types of Training Authorized.—Any training conducted by the United States Armed Forces pursuant to subsection (a) shall, to the maximum extent practicable—“(1) support the mission essential tasks for which the training unit providing such training is responsible; “(2) be with a foreign unit or organization with equipment that is functionally similar to such training unit; and “(3) include elements that promote—“(A) observance of and respect for human rights and fundamental freedoms; and “(B) respect for legitimate civilian authority within the foreign country or countries concerned. “(c) Authority To Pay Expenses.—“(1) In general.—The Secretary of a military department or the commander of a combatant command may pay, or authorize payment for, the incremental expenses incurred by a friendly foreign country as the direct result of training with general purpose forces of the United States Armed Forces pursuant to subsection (a). “(2) Limitation.—The amount of incremental expenses payable under paragraph (1) in any fiscal year may not exceed $10,000,000. “(d) Notice Before Commencement of Training.—The Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives not later than 15 days before the commencement of any training event pursuant to subsection (a). The notice on a training event shall include a description of the event and the foreign country or countries involved in the event. “(e) Annual Reports to Congress.—Not later than April 1 of each year following a fiscal year in which training is conducted pursuant to subsection (a), the Secretary of Defense shall submit to the appropriate committees of Congress a report on the training conducted pursuant to that subsection. Each report shall specify the following:“(1) For the fiscal year covered by such report, the following:“(A) Each country in which training was conducted. “(B) The type of training conducted, the duration of such training, and the number of members of the United States Armed Forces involved in such training. “(C) The extent of participation in such training by foreign military forces and other security forces, including the number and service affiliation of foreign military and other security force personnel involved and the physical and financial contribution of each country specified in subparagraph (A) in such training. “(D) The relationship of such training to other overseas training programs conducted by the United States Armed Forces, such as military exercise programs sponsored by the Joint Chiefs of Staff, military exercise programs sponsored by a combatant command, and military training activities sponsored by a military department (including deployments for training, short duration exercises, and other similar unit training events). “(E) A summary of the expenditures under subsection (c) in connection with such training. “(F) A description and assessment of the unique military training benefits for members of the United States Armed Forces involved in such training. “(2) A list of the training events to be conducted during the 12-month period beginning on April 1 of the year in which such report is submitted. “(f) Regulations.—Any training conducted pursuant to subsection (a) shall be conducted under regulations prescribed by the Secretary of Defense for the administration of this section. The regulations shall be prescribed not later than 180 days after the date of the enactment of this Act [Dec. 26, 2013]. “(g) Definitions.—In this section:“(1) The term ‘appropriate committees of Congress’ means—“(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and “(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives. “(2) The term ‘incremental expenses’, with respect to a friendly foreign country, means the reasonable and proper costs of rations, fuel, training ammunition, transportation, and other goods and services consumed by such country as a direct result of that country’s participation in training conducted pursuant to subsection (a), except that such term does not include pay, allowances, and other normal costs of such country’s military or security force personnel. “(3) The term ‘other security forces’ includes national security forces that conduct border and maritime security, but does not include civilian police. “(h) Expiration.—The authority under this section may not be exercised after September 30, 2017.”
+
 
 <a id="section-2012"></a>
 ## § 2012. Support and services for eligible organizations and activities outside Department of Defense
@@ -814,14 +859,14 @@ The Federal Advisory Committee Act, referred to in subsec. (h)(3), is Pub. L. 92
 Pub. L. 105–261, div. A, title V, § 525(b), Oct. 17, 1998, 112 Stat. 2014, as amended by Pub. L. 106–65, div. A, title X, § 1066(b)(4), Oct. 5, 1999, 113 Stat. 772, provided that: “The Secretary of Defense may not initiate any project under [section 2012 of title 10](./chapter-101-training-generally.md#section-2012), United States Code, after October 1, 1998, until the program required by subsection (j) of that section (as added by subsection (a)) has been established.”
 
 #### Termination of Funding for Office of Civil-Military Programs in Office of the Secretary of Defense
-Pub. L. 104–106, div. A, title V, § 574, Feb. 10, 1996, 110 Stat. 356, provided that: “No funds may be obligated or expended after the date of the enactment of this Act [Feb. 10, 1996] (1) for the office that as of the date of the enactment of this Act is designated, within the Office of the Assistant Secretary of Defense for Reserve Affairs, as the Office of Civil-Military Programs, or (2) for any other entity within the Office of the Secretary of Defense that has an exclusive or principal mission of providing centralized direction for activities under [section 2012 of title 10](./chapter-101-training-generally.md#section-2012), United States Code, as added by section 572.”
+Pub. L. 104–106, div. A, title V, § 574, Feb. 10, 1996, 110 Stat. 356, provided that: “No funds may be obligated or expended after the date of the enactment of this Act [Feb. 10, 1996] (1) for the office that as of the date of the enactment of this Act is designated, within the Office of the Assistant Secretary of Defense for Reserve Affairs [now Assistant Secretary of Defense for Manpower and Reserve Affairs], as the Office of Civil-Military Programs, or (2) for any other entity within the Office of the Secretary of Defense that has an exclusive or principal mission of providing centralized direction for activities under [section 2012 of title 10](./chapter-101-training-generally.md#section-2012), United States Code, as added by section 572.”
 
 
 <a id="section-2013"></a>
 ## § 2013. Training at non-Government facilities
 **(a) Authority To Enter Into Agreements.—**
 
-(1) The Secretary concerned, without regard to section 6101(b)–(d) of title 41, may make agreements or other arrangements for the training of members of the uniformed services under the jurisdiction of that Secretary by, in, or through non-Government facilities.
+(1) The Secretary concerned, without regard to [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim), may make agreements or other arrangements for the training of members of the uniformed services under the jurisdiction of that Secretary by, in, or through non-Government facilities.
 
 (2) In this section, the term “non-Government facility” means any of the following:
 
@@ -860,6 +905,8 @@ Pub. L. 104–106, div. A, title V, § 574, Feb. 10, 1996, 110 Stat. 356, provid
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a)(1). Pub. L. 113–291 substituted “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” for “section 6101(b)–(d) of title 41”.
+
 2013—Subsec. (b)(2)(A), (B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
 2011—Subsec. (a)(1). Pub. L. 111–350 substituted “section 6101(b)–(d) of title 41” for “section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))”.
@@ -918,16 +965,44 @@ Pub. L. 104–201, div. A, title III, § 362(b), Sept. 23, 1996, 110 Stat. 2493,
 
 
 <a id="section-2015"></a>
-## § 2015. Payment of expenses to obtain professional credentials
-**(a) Authority.—** The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may pay for—
+## § 2015. Program to assist members in obtaining professional credentials
+**(a) Program Required.—** The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall carry out a program to enable members of the armed forces to obtain, while serving in the armed forces, professional credentials related to military training and skills that—
 
-(1) expenses for members of the armed forces to obtain professional credentials, including expenses for professional accreditation, State-imposed and professional licenses, and professional certification; and
+(1) are acquired during service in the armed forces incident to the performance of their military duties; and
 
-(2) examinations to obtain such credentials.
+(2) translate into civilian occupations.
 
-**(b) Limitation.—** The authority under subsection (a) may not be used to pay the expenses of a member to obtain professional credentials that are a prerequisite for appointment in the armed forces.
+**(b) Payment of Expenses.—**
+
+(1) Under the program required by this section, the Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall provide for the payment of expenses of members for professional accreditation, Federal occupational licenses, State-imposed and professional licenses, professional certification, and related expenses.
+
+(2) The authority under paragraph (1) may not be used to pay the expenses of a member to obtain professional credentials that are a prerequisite for appointment in the armed forces.
+
+**(c) Regulations.—**
+
+(1) The Secretary of Defense and the Secretary of Homeland Security shall prescribe regulations to carry out this section.
+
+(2) The regulations shall apply uniformly to the armed forces to the extent practicable.
+
+(3) The regulations shall include the following:
+
+  (A) Requirements for eligibility for participation in the program under this section.
+
+  (B) A description of the professional credentials and occupations covered by the program.
+
+  (C) Mechanisms for oversight of the payment of expenses and the provision of other benefits under the program.
+
+  (D) Such other matters in connection with the payment of expenses and the provision of other benefits under the program as the Secretaries consider appropriate.
+
+**(d) Expenses Defined.—** In this section, the term “expenses” means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
 
 ### Statutory Notes
+
+#### Amendments
+2014—Pub. L. 113–291 amended section generally, substituting provision relating to program to assist members in obtaining professional credentials for provision which related to payment of expenses to obtain professional credentials.
+
+#### Enhancement of Mechanisms To Correlate Skills and Training for Military Occupational Specialties With Skills and Training Required for Civilian Certifications and Licenses
+Pub. L. 113–66, div. A, title V, § 542, Dec. 26, 2013, 127 Stat. 762, provided that: “(a) Improvement of Information Available to Members of the Armed Forces About Correlation.—“(1) In general.—The Secretaries of the military departments, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall, to the maximum extent practicable, make information on civilian credentialing opportunities available to members of the Armed Forces beginning with, and at every stage of, training of members for military occupational specialties, in order to permit members—“(A) to evaluate the extent to which such training correlates with the skills and training required in connection with various civilian certifications and licenses; and “(B) to assess the suitability of such training for obtaining or pursuing such civilian certifications and licenses. “(2) Coordination with transition goals plans success program.—Information shall be made available under paragraph (1) in a manner consistent with the Transition Goals Plans Success (GPS) program. “(3) Types of information.—The information made available under paragraph (1) shall include, but not be limited to, the following:“(A) Information on the civilian occupational equivalents of military occupational specialties (MOS). “(B) Information on civilian license or certification requirements, including examination requirements. “(C) Information on the availability and opportunities for use of educational benefits available to members of the Armed Forces, as appropriate, corresponding training, or continuing education that leads to a certification exam in order to provide a pathway to credentialing opportunities. “(4) Use and adaptation of certain programs.—In making information available under paragraph (1), the Secretaries of the military departments may use and adapt appropriate portions of the Credentialing Opportunities On-Line (COOL) programs of the Army and the Navy and the Credentialing and Educational Research Tool (CERT) of the Air Force. “(b) Improvement of Access of Accredited Civilian Credentialing and Related Entities to Military Training Content.—“(1) In general.—The Secretaries of the military departments, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall, to the maximum extent practicable consistent with national security and privacy requirements, make available to entities specified in paragraph (2), upon request of such entities, information such as military course training curricula, syllabi, and materials, levels of military advancement attained, and professional skills developed. “(2) Entities.—The entities specified in this paragraph are the following:“(A) Civilian credentialing agencies. “(B) Entities approved by the Secretary of Veterans Affairs, or by State approving agencies, for purposes of the use of educational assistance benefits under the laws administered by the Secretary of Veterans Affairs. “(3) Central repository.—The actions taken pursuant to paragraph (1) may include the establishment of a central repository of information on training and training materials provided members in connection with military occupational specialities that is readily accessible by entities specified in paragraph (2) in order to meet requests described in paragraph (1).”
 
 #### Pilot Program on Receipt of Civilian Credentialing for Skills Required for Military Occupational Specialties
 Pub. L. 112–81, div. A, title V, § 558, Dec. 31, 2011, 125 Stat. 1418, as amended by Pub. L. 112–239, div. A, title V, § 543, Jan. 2, 2013, 126 Stat. 1737, provided that: “(a) Pilot Program Required.—Commencing not later than nine months after the date of the enactment of this Act [Dec. 31, 2011], the Secretary of Defense shall carry out a pilot program to assess the feasibility and advisability of permitting enlisted members of the Armed Forces to obtain civilian credentialing or licensing for skills required for military occupational specialties (MOS) or qualification for duty specialty codes. “(b) Elements.—In carrying out the pilot program, the Secretary shall—“(1) designate not less than three military occupational specialities or duty speciality codes for coverage under the pilot program; “(2) consider utilizing industry-recognized certifications or licensing standards for civilian occupational skills comparable to the specialties or codes so designated; and “(3) permit enlisted members of the Armed Forces to obtain the credentials or licenses required for the specialities or codes so designated through civilian credentialing or licensing entities, institutions, or bodies selected by the Secretary for purposes of the pilot program, whether concurrently with military training, at the completion of military training, or both. “(c) Duration.—The Secretary shall complete the pilot program by not later than five years after the date of the commencement of the pilot program. “(d) Report.—Not later than one year after commencement of the pilot program, the Secretary shall submit to Congress a report on the pilot program. The report shall set forth the following:“(1) The number of enlisted members who participated in the pilot program. “(2) A description of the costs incurred by the Department of Defense in connection with the receipt by members of credentialing or licensing under the pilot program. “(3) A comparison of the cost associated with receipt by members of credentialing or licensing under the pilot program with the cost of receipt of similar credentialing or licensing by recently-discharged veterans of the Armed Forces under programs currently operated by the Department of Veterans Affairs and the Department of Labor. “(4) The recommendation of the Secretary as to the feasibility and advisability of expanding the pilot program to additional military occupational specialties or duty specialty codes, and, if such expansion is considered feasible and advisable, a list of the military occupational specialties and duty specialty codes recommended for inclusion in the expansion.”

@@ -53,7 +53,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this title”, meaning title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this title”, meaning title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note below and Tables.
 
 #### Short Title
 Pub. L. 101–630, title IV, § 401, Nov. 28, 1990, 104 Stat. 4544, provided that: “This title [enacting this chapter and [section 1169 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1169&num=0&edition=prelim), Crimes and Criminal Procedure] may be cited as the ‘Indian Child Protection and Family Violence Prevention Act’.”
@@ -135,6 +135,8 @@ For the purposes of this chapter, the term—
 ### Statutory Notes
 
 #### References in Text
+This chapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under [section 3201 of this title](./chapter-034-indian-child-protection-and-family-violence-prevention.md#section-3201) and Tables.
+
 The Alaska Native Claims Settlement Act, referred to in par. (9), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 

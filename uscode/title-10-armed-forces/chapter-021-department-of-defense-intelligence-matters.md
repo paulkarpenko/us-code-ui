@@ -2,7 +2,7 @@
 title: 10
 chapter: '21'
 heading: DEPARTMENT OF DEFENSE INTELLIGENCE MATTERS
-section_count: 16
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -18,14 +18,16 @@ source: >-
 
 (3) the authority provided by this subsection may not be used to acquire items or services for the principal benefit of the United States.
 
-**(c)** Any funds expended under the authority of subsection (a) shall be reported to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 ([50 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section413&num=0&edition=prelim) et seq.).11 See References in Text note below. Funds expended under the authority of subsection (b) shall be reported pursuant to procedures jointly agreed upon by such committees and the Secretary of Defense.
+**(c)** Any funds expended under the authority of subsection (a) shall be reported to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 ([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.). Funds expended under the authority of subsection (b) shall be reported pursuant to procedures jointly agreed upon by such committees and the Secretary of Defense.
 
 ### Statutory Notes
 
 #### References in Text
-The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2014—Subsec. (c). Pub. L. 113–291 substituted “([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.)” for “([50 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section413&num=0&edition=prelim) et seq.)”.
+
 1989—Subsec. (c). Pub. L. 101–189 substituted “House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 ([50 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section413&num=0&edition=prelim) et seq.). Funds” for “House pursuant to the provisions of title V of the National Security Act of 1947, as amended, and funds”.
 
 1988—Pub. L. 100–453 struck out “transfers” after “Funds” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense may use funds available to the Department of Defense for intelligence and communications purposes to pay for the expenses of arrangements with foreign countries for cryptologic support.”
@@ -190,11 +192,61 @@ Pub. L. 108–136, div. A, title IX, § 923(a), (b), Nov. 24, 2003, 117 Stat. 15
 
 
 <a id="section-427"></a>
-## § 427. Repealed. Pub. L. 112–81, div. A, title X, § 1061(4)(A), Dec. 31, 2011, 125 Stat. 1583]
+## § 427. Conflict Records Research Center
+**(a) Center Authorized.—** The Secretary of Defense may establish a center to be known as the “Conflict Records Research Center” (in this section referred to as the “Center”).
+
+**(b) Purposes.—** The purposes of the Center shall be the following:
+
+(1) To establish a digital research database, including translations, and to facilitate research and analysis of records captured from countries, organizations, and individuals, now or once hostile to the United States, with rigid adherence to academic freedom and integrity.
+
+(2) Consistent with the protection of national security information, personally identifiable information, and intelligence sources and methods, to make a significant portion of these records available to researchers as quickly and responsibly as possible while taking into account the integrity of the academic process and risks to innocents or third parties.
+
+(3) To conduct and disseminate research and analysis to increase the understanding of factors related to international relations, counterterrorism, and conventional and unconventional warfare and, ultimately, enhance national security.
+
+(4) To collaborate with members of academic and broad national security communities, both domestic and international, on research, conferences, seminars, and other information exchanges to identify topics of importance for the leadership of the United States Government and the scholarly community.
+
+**(c) Concurrence of the Director of National Intelligence.—** The Secretary of Defense shall seek the concurrence of the Director of National Intelligence to the extent the efforts and activities of the Center involve the entities referred to in subsection (b)(4).
+
+**(d) Support From Other United States Government Departments or Agencies.—** The head of any non-Department of Defense department or agency of the United States Government may—
+
+(1) provide to the Secretary of Defense services, including personnel support, to support the operations of the Center; and
+
+(2) transfer funds to the Secretary of Defense to support the operations of the Center.
+
+**(e) Acceptance of Gifts and Donations.—**
+
+(1) Subject to paragraph (3), the Secretary of Defense may accept from any source specified in paragraph (2) any gift or donation for purposes of defraying the costs or enhancing the operations of the Center.
+
+(2) The sources specified in this paragraph are the following:
+
+  (A) The government of a State or a political subdivision of a State.
+
+  (B) The government of a foreign country.
+
+  (C) A foundation or other charitable organization, including a foundation or charitable organization that is organized or operates under the laws of a foreign country.
+
+  (D) Any source in the private sector of the United States or a foreign country.
+
+(3) The Secretary may not accept a gift or donation under this subsection if acceptance of the gift or donation would compromise or appear to compromise—
+
+  (A) the ability of the Department of Defense, any employee of the Department, or any member of the armed forces to carry out the responsibility or duty of the Department in a fair and objective manner; or
+
+  (B) the integrity of any program of the Department or of any person involved in such a program.
+
+(4) The Secretary shall provide written guidance setting forth the criteria to be used in determining the applicability of paragraph (3) to any proposed gift or donation under this subsection.
+
+**(f) Crediting of Funds Transferred or Accepted.—** Funds transferred to or accepted by the Secretary of Defense under this section shall be credited to appropriations available to the Department of Defense for the Center, and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriations with which merged. Any funds so transferred or accepted shall remain available until expended.
+
+**(g) Definitions.—** In this section:
+
+(1) The term “captured record” means a document, audio file, video file, or other material captured during combat operations from countries, organizations, or individuals, now or once hostile to the United States.
+
+(2) The term “gift or donation” means any gift or donation of funds, materials (including research materials), real or personal property, or services (including lecture services and faculty services).
 
 ### Statutory Notes
 
-Section, added Pub. L. 109–364, div. A, title IX, § 932(a), Oct. 17, 2006, 120 Stat. 2362, related to submission of an annual report on intelligence oversight activities of the Department of Defense.
+#### Prior Provisions
+A prior section 427, added Pub. L. 109–364, div. A, title IX, § 932(a), Oct. 17, 2006, 120 Stat. 2362, related to submission of an annual report on intelligence oversight activities of the Department of Defense, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(4)(A), Dec. 31, 2011, 125 Stat. 1583.
 
 
 <a id="section-428"></a>
@@ -242,25 +294,44 @@ Pub. L. 110–417, [div. A], title VIII, § 845(b), Oct. 14, 2008, 122 Stat. 454
 
 <a id="section-429"></a>
 ## § 429. Appropriations for Defense intelligence elements: accounts for transfers; transfer authority
-**(a) Accounts for Appropriations for Defense Intelligence Elements.—** The Secretary of Defense may transfer appropriations of the Department of Defense which are available for the activities of Defense intelligence elements to an account or accounts established for receipt of such transfers. Each such account may also receive transfers from the Director of National Intelligence if made pursuant to Section 11 So in original. Probably should not be capitalized. 102A of the National Security Act of 1947 ([50 U.S.C. 403–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–1&num=0&edition=prelim)),22 See References in Text note below. and transfers and reimbursements arising from transactions, as authorized by law, between a Defense intelligence element and another entity. Appropriation balances in each such account may be transferred back to the account or accounts from which such appropriations originated as appropriation refunds.
+**(a) Accounts for Appropriations for Defense Intelligence Elements.—** The Secretary of Defense may transfer appropriations of the Department of Defense which are available for the activities of Defense intelligence elements to an account or accounts established for receipt of such transfers. Each such account may also receive transfers from the Director of National Intelligence if made pursuant to section 102A of the National Security Act of 1947 ([50 U.S.C. 3024](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024&num=0&edition=prelim)) and transfers and reimbursements arising from transactions, as authorized by law, between a Defense intelligence element and another entity. Appropriation balances in each such account may be transferred back to the account or accounts from which such appropriations originated as appropriation refunds.
 
 **(b) Recordation of Transfers.—** Transfers made pursuant to subsection (a) shall be recorded as expenditure transfers.
 
-**(c) Availability of Funds.—** Funds transferred pursuant to subsection (a) shall remain available for the same time period and for the same purpose as the appropriation from which transferred, and shall remain subject to the same limitations provided in the act making the appropriation.
+**(c) Availability of Funds.—** Funds transferred pursuant to subsection (a) shall remain available for the same time period and for the same purpose as the appropriation from which transferred, and shall remain subject to the same limitations provided in the law making the appropriation.
 
 **(d) Obligation and Expenditure of Funds.—** Unless otherwise specifically authorized by law, funds transferred pursuant to subsection (a) shall only be obligated and expended in accordance with chapter 15 of title 31 and all other applicable provisions of law.
 
-**(e) Defense Intelligence Element Defined.—** In this section, the term “Defense intelligence element” means any of the Department of Defense agencies, offices, and elements included within the definition of “intelligence community” under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a/4&num=0&edition=prelim)).2
+**(e) Defense Intelligence Element Defined.—** In this section, the term “Defense intelligence element” means any of the Department of Defense agencies, offices, and elements included within the definition of “intelligence community” under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)).
 
 ### Statutory Notes
 
-#### References in Text
-The National Security Act of 1947, referred to in subsecs. (a) and (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Sections 3 and 102A of the Act are now classified to sections 3003 and 3024, respectively, of Title 50. For complete classification of this Act to the Code, see Tables.
+#### Amendments
+2014—Subsec. (a). Pub. L. 113–291, § 1071(c)(5)(A), substituted “section 102A of the National Security Act of 1947 ([50 U.S.C. 3024](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024&num=0&edition=prelim))” for “Section 102A of the National Security Act of 1947 ([50 U.S.C. 403–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–1&num=0&edition=prelim))”.
+
+Subsec. (c). Pub. L. 113–291, § 1071(f)(6), substituted “law” for “act”.
+
+Subsec. (e). Pub. L. 113–291, § 1071(c)(5)(B), substituted “([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim))” for “([50 U.S.C. 401a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a/4&num=0&edition=prelim))”.
+
+
+<a id="section-430"></a>
+## § 430. Tactical Exploitation of National Capabilities Executive Agent
+**(a) Designation.—** The Under Secretary of Defense for Intelligence shall designate a civilian employee of the Department or a member of the armed forces to serve as the Tactical Exploitation of National Capabilities Executive Agent.
+
+**(b) Duties.—** The Executive Agent designated under subsection (a) shall—
+
+(1) report directly to the Under Secretary of Defense for Intelligence;
+
+(2) work with the combatant commands, military departments, and the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)) to—
+
+  (A) develop methods to increase warfighter effectiveness through the exploitation of national capabilities; and
+
+  (B) promote cross-domain integration of such capabilities into military operations, training, intelligence, surveillance, and reconnaissance activities.
 
 
 <a id="section-431"></a>
 ## § 431. Authority to engage in commercial activities as security for intelligence collection activities
-**(a) Authority.—** The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2015.
+**(a) Authority.—** The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2017.
 
 **(b) Interagency Coordination and Support.—** Any such activity shall—
 
@@ -287,6 +358,8 @@ The National Security Act of 1947, referred to in subsecs. (a) and (e), is act J
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (a). Pub. L. 113–291 substituted “December 31, 2017” for “December 31, 2015”.
+
 2011—Subsec. (a). Pub. L. 111–383 substituted “December 31, 2015” for “December 31, 2010”.
 
 2009—Subsec. (b)(1). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(7). See 2008 Amendment note below.
@@ -322,12 +395,12 @@ Pub. L. 102–88, title V, § 504(b), Aug. 14, 1991, 105 Stat. 440, provided tha
 
 (1) The Secretary of Defense shall assign an organization within the Department of Defense to have auditing responsibility with respect to activities authorized under this subchapter.
 
-(2) That organization shall audit the use and disposition of funds generated by any commercial activity authorized under this subchapter not less often than annually. The results of all such audits shall be promptly reported to the intelligence committees (as defined in section 437(d) 11 See References in Text note below. of this title).
+(2) That organization shall audit the use and disposition of funds generated by any commercial activity authorized under this subchapter not less often than annually. The results of all such audits shall be promptly reported to the congressional defense committees and the congressional intelligence committees (as defined in [section 437(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section437/c&num=0&edition=prelim)).
 
 ### Statutory Notes
 
-#### References in Text
-[Section 437(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section437/d&num=0&edition=prelim), referred to in subsec. (b)(2), was struck out by Pub. L. 107–306, title VIII, § 811(b)(4)(A)(ii), Nov. 27, 2002, 116 Stat. 2423.
+#### Amendments
+2013—Subsec. (b)(2). Pub. L. 113–66 substituted “the congressional defense committees and the congressional intelligence committees (as defined in [section 437(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section437/c&num=0&edition=prelim)).” for “the intelligence committees (as defined in [section 437(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section437/d&num=0&edition=prelim)).”
 
 
 <a id="section-433"></a>
@@ -391,25 +464,35 @@ The Secretary of Defense shall prescribe regulations to implement the authority 
 
 (3) specify all officials who are authorized to grant waivers of laws or regulations pursuant to [section 433(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section433/b&num=0&edition=prelim), or to approve the establishment or conduct of commercial activities pursuant to this subchapter;
 
-(4) designate a single office within the Defense Intelligence Agency to be responsible for the management and supervision of all activities authorized under this subchapter;
+(4) designate a single office within the Department of Defense to be responsible for the oversight of all activities authorized under this subchapter;
 
 (5) require that each commercial activity proposed to be authorized under this subchapter be subject to appropriate legal review before the activity is authorized; and
 
 (6) provide for appropriate internal audit controls and oversight for such activities.
 
+### Statutory Notes
+
+#### Amendments
+2013—Par. (4). Pub. L. 113–66 substituted “Department of Defense” for “Defense Intelligence Agency” and “oversight” for “management and supervision”.
+
 
 <a id="section-437"></a>
 ## § 437. Congressional oversight
-**(a) Proposed Regulations.—** Copies of regulations proposed to be prescribed under [section 436 of this title](./chapter-021-department-of-defense-intelligence-matters.md#section-436) (including any proposed revision to such regulations) shall be submitted to the intelligence committees not less than 30 days before they take effect.
+**(a) Proposed Regulations.—** Copies of regulations proposed to be prescribed under [section 436 of this title](./chapter-021-department-of-defense-intelligence-matters.md#section-436) (including any proposed revision to such regulations) shall be submitted to congressional defense committees and the congressional intelligence committees not less than 30 days before they take effect.
 
-**(b) Current Information.—** Consistent with title V of the National Security Act of 1947 ([50 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section413&num=0&edition=prelim) et seq.),11 See References in Text note below. the Secretary of Defense shall ensure that the intelligence committees are kept fully and currently informed of actions taken pursuant to this subchapter, including any significant anticipated activity to be authorized pursuant to this subchapter.
+**(b) Current Information.—** The Secretary of Defense shall ensure that congressional defense committees and the congressional intelligence committees are kept fully and currently informed of actions taken pursuant to this subchapter, including any significant anticipated activity to be authorized pursuant to this subchapter.
+
+**(c) Congressional Intelligence Committees Defined.—** In this section, the term “congressional intelligence committees” has the meaning given the term in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim)).
 
 ### Statutory Notes
 
-#### References in Text
-The National Security Act of 1947, referred to in subsec. (b), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
-
 #### Amendments
+2013—Subsec. (a). Pub. L. 113–66, § 921(c)(1), substituted “congressional defense committees and the congressional intelligence committees” for “the intelligence committees”.
+
+Subsec. (b). Pub. L. 113–66, § 921(c)(2), substituted “The Secretary” for “Consistent with title V of the National Security Act of 1947 ([50 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section413&num=0&edition=prelim) et seq.), the Secretary” and “congressional defense committees and the congressional intelligence committees” for “the intelligence committees”.
+
+Subsec. (c). Pub. L. 113–66, § 921(c)(3), added subsec. (c).
+
 2011—Subsec. (c). Pub. L. 112–81 struck out subsec. (c) which related to submission of an annual report on certain authorized commercial activities.
 
 2004—Subsec. (c). Pub. L. 108–375 inserted “([50 U.S.C. 415b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section415b&num=0&edition=prelim))” after “National Security Act of 1947”.

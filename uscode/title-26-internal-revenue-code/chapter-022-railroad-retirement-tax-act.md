@@ -10,30 +10,23 @@ source: >-
 ## § 3201. Rate of tax
 **(a) Tier 1 tax** In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the applicable percentage of the compensation received during any calendar year by such employee for services rendered by such employee. For purposes of the preceding sentence, the term “applicable percentage” means the percentage equal to the sum of the rates of tax in effect under subsections (a) and (b) of section 3101 for the calendar year.
 
-**(b) Tier 2 tax**
-
-(1) **In general** — In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the applicable percentage of the compensation received during any calendar year by such employee for services rendered by such employee.
-
-(2) **Applicable percentage** — For purposes of paragraph (1), the term “applicable percentage” means—
-
-  (A) 4.90 percent in the case of compensation received during 2002 or 2003, and
-
-  (B) in the case of compensation received during any calendar year after 2003, the percentage determined under section 3241 for such calendar year.
+**(b) Tier 2 tax** In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the percentage determined under section 3241 for any calendar year of the compensation received during such calendar year by such employee for services rendered by such employee.
 
 **(c) Cross reference** For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2), which established the tier 2 tax and its applicable percentage.
+
 2001—Subsec. (b). Pub. L. 107–90 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to 4.90 percent of the compensation received during any calendar year by such employee for services rendered by such employee.”
 
 1990—Subsec. (a). Pub. L. 101–508 substituted “applicable” for “following” before “percentage of the” and provision defining the term “applicable percentage” for provision specifying that in the case of compensation received during 1985 the rate of tax was 7.05 percent, for 1986 or 1987 the rate was 7.15 percent, for 1988 or 1989 the rate was 7.51 percent, and 1990 or thereafter the rate was 7.65 percent.
 
 1987—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the following percentage of the compensation received during any calendar year by such employee for services rendered by such employee:
 
-| “In the case of compensation |  |
+| “In the case of compensation received during: | The rate shall be: |
 | --- | --- |
-| received during: | The rate shall be: |
 | 1985 | 3.50 |
 | 1986 or thereafter | 4.25.” |
 
@@ -64,6 +57,9 @@ Pub. L. 89–97 substituted “the rate of the tax imposed with respect to wages
 1959—Pub. L. 86–28 increased tax from 6¼ percent of compensation not in excess of $350 for any calendar month to 6¾ percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 7¼ percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after Dec. 31, 1964, by a number of percentage points equal at any given time to the number of percentage points by which the rate of tax imposed by [section 3101 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3101) at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
 
 1954—Act Aug. 31, 1954, substituted “$350” for “$300”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2001 Amendment
 Amendment by Pub. L. 107–90 applicable to calendar years beginning after Dec. 31, 2001, see section 204(f) of Pub. L. 107–90, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
@@ -207,23 +203,15 @@ Amendment by act Aug. 31, 1954, effective as if enacted as a part of the Interna
 ## § 3211. Rate of tax
 **(a) Tier 1 tax** In addition to other taxes, there is hereby imposed on the income of each employee representative a tax equal to the applicable percentage of the compensation received during any calendar year by such employee representative for services rendered by such employee representative. For purposes of the preceding sentence, the term “applicable percentage” means the percentage equal to the sum of the rates of tax in effect under subsections (a) and (b) of section 3101 and subsections (a) and (b) of section 3111 for the calendar year.
 
-**(b) Tier 2 tax**
-
-(1) **In general** — In addition to other taxes, there is hereby imposed on the income of each employee representative a tax equal to the applicable percentage of the compensation received during any calendar year by such employee representatives for services rendered by such employee representative.
-
-(2) **Applicable percentage** — For purposes of paragraph (1), the term “applicable percentage” means—
-
-  (A) 14.75 percent in the case of compensation received during 2002,
-
-  (B) 14.20 percent in the case of compensation received during 2003, and
-
-  (C) in the case of compensation received during any calendar year after 2003, the percentage determined under section 3241 for such calendar year.
+**(b) Tier 2 tax** In addition to other taxes, there is hereby imposed on the income of each employee representative a tax equal to the percentage determined under section 3241 for any calendar year of the compensation received during such calendar year by such employee representative for services rendered by such employee representative.
 
 **(c) Cross reference** For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).
 
 ### Statutory Notes
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
+
 2001—Subsec. (a). Pub. L. 107–90, § 204(b), added subsec. (a) and struck out former subsec. (a), which related to imposition of tier 1 and 2 taxes.
 
 Subsec. (b). Pub. L. 107–90, § 204(b), added subsec. (b).
@@ -263,6 +251,9 @@ Pub. L. 89–97 substituted “the rate of the tax imposed with respect to wages
 1959—Pub. L. 86–28 increased the tax from 12½ percent of the compensation not in excess of $350 for any calendar month to 13½ percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 14½ percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after December 31, 1964, by a number of percentage points equal at any given time to twice the number of percentage points by which the rate of tax imposed by [section 3101 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3101) at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
 
 1954—Act Aug. 31, 1954, substituted “$350” for “$300”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–90, title II, § 203(c), Dec. 21, 2001, 115 Stat. 891, provided that: “The amendments made by this section [amending this section and [section 3221 of this title](./chapter-022-railroad-retirement-tax-act.md#section-3221)] shall apply to calendar years beginning after December 31, 2001.”
@@ -319,17 +310,7 @@ The compensation of an employee representative for the purpose of ascertaining t
 ## § 3221. Rate of tax
 **(a) Tier 1 tax** In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the applicable percentage of compensation paid during any calendar year by such employer for services rendered to such employer. For purposes of the preceding sentence, the term “applicable percentage” means the percentage equal to the sum of the rates of tax in effect under subsections (a) and (b) of section 3111 for the calendar year.
 
-**(b) Tier 2 tax**
-
-(1) **In general** — In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the applicable percentage of the compensation paid during any calendar year by such employer for services rendered to such employer.
-
-(2) **Applicable percentage** — For purposes of paragraph (1), the term “applicable percentage” means—
-
-  (A) 15.6 percent in the case of compensation paid during 2002,
-
-  (B) 14.2 percent in the case of compensation paid during 2003, and
-
-  (C) in the case of compensation paid during any calendar year after 2003, the percentage determined under section 3241 for such calendar year.
+**(b) Tier 2 tax** In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the percentage determined under section 3241 for any calendar year of the compensation paid during such calendar year by such employer for services rendered to such employer.
 
 **(c) Special rate for certain individuals hired in 2010**
 
@@ -363,6 +344,8 @@ The compensation of an employee representative for the purpose of ascertaining t
 The date of the enactment of this subsection, referred to in subsec. (c)(1), is the date of the enactment of Pub. L. 111–147, which was approved Mar. 18, 2010.
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2), which established the tier 2 tax and its applicable percentage.
+
 2010—Subsecs. (c), (d). Pub. L. 111–147 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 2001—Subsec. (b). Pub. L. 107–90, § 204(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 16.10 percent of the compensation paid during any calendar year by such employer for services rendered to such employer.”
@@ -373,9 +356,8 @@ Subsecs. (c) to (e). Pub. L. 107–90, § 203(b), redesignated subsec. (e) as (c
 
 1987—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the following percentage of compensation paid during any calendar year by such employer for services rendered to such employer:
 
-| “In the case of compensation |  |
+| “In the case of compensation paid during: | The rate shall be: |
 | --- | --- |
-| paid during: | The rate shall be: |
 | 1985 | 13.75 |
 | 1986 or thereafter | 14.75.” |
 
@@ -428,6 +410,9 @@ Subsec. (b). Pub. L. 89–97 substituted “the rate of the tax imposed with res
 Subsec. (b). Pub. L. 86–28, § 201(d)(2)(C), added subsec. (b).
 
 1954—Act Aug. 31, 1954, substituted “$350” for “$300” wherever appearing.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–147 applicable to compensation paid after Mar. 18, 2010, see section 101(e) of Pub. L. 111–147, set out as a note under [section 51 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-51).
@@ -487,22 +472,7 @@ Pub. L. 91–215, § 5(b)(2), Mar. 17, 1970, 84 Stat. 71, provided that: “The 
 ## § 3231. Definitions
 **(a) Employer** For purposes of this chapter, the term “employer” means any carrier (as defined in subsection (g)), and any company which is directly or indirectly owned or controlled by one or more such carriers or under common control therewith, and which operates any equipment or facility or performs any service (except trucking service, casual service, and the casual operation of equipment or facilities) in connection with the transportation of passengers or property by railroad, or the receipt, delivery, elevation, transfer in transit, refrigeration or icing, storage, or handling of property transported by railroad, and any receiver, trustee, or other individual or body, judicial or otherwise, when in the possession of the property or operating all or any part of the business of any such employer; except that the term “employer” shall not include any street, interurban, or suburban electric railway, unless such railway is operating as a part of a general steam-railroad system of transportation, but shall not exclude any part of the general steam-railroad system of transportation now or hereafter operated by any other motive power. The Surface Transportation Board is hereby authorized and directed upon request of the Secretary, or upon complaint of any party interested, to determine after hearing whether any line operated by electric power falls within the terms of this exception. The term “employer” shall also include railroad associations, traffic associations, tariff bureaus, demurrage bureaus, weighing and inspection bureaus, collection agencies and other associations, bureaus, agencies, or organizations controlled and maintained wholly or principally by two or more employers as hereinbefore defined and engaged in the performance of services in connection with or incidental to railroad transportation; and railway labor organizations, national in scope, which have been or may be organized in accordance with the provisions of the Railway Labor Act, as amended (45 U.S.C., chapter 8), and their State and National legislative committees and their general committees and their insurance departments and their local lodges and divisions, established pursuant to the constitutions and bylaws of such organizations. The term “employer” shall not include any company by reason of its being engaged in the mining of coal, the supplying of coal to an employer where delivery is not beyond the mine tipple, and the operation of equipment or facilities therefor, or in any of such activities.
 
-**(b) Employee** For purposes of this chapter, the term “employee” means any individual in the service of one or more employers for compensation; except that the term “employee” shall include an employee of a local lodge or division defined as an employer in subsection (a) only if he was in the service of or in the employment relation to a carrier on or after August 29, 1935. An individual shall be deemed to have been in the employment relation to a carrier on August 29, 1935, if—
-
-(1) he was on that date on leave of absence from his employment, expressly granted to him by the carrier by whom he was employed, or by a duly authorized representative of such carrier, and the grant of such leave of absence was established to the satisfaction of the Railroad Retirement Board before July 1947; or
-
-(2) he was in the service of a carrier after August 29, 1935, and before January 1946 in each of 6 calendar months, whether or not consecutive; or
-
-(3) before August 29, 1935, he did not retire and was not retired or discharged from the service of the last carrier by whom he was employed or its corporate or operating successor, but—
-
-  (A) solely by reason of his physical or mental disability he ceased before August 29, 1935, to be in the service of such carrier and thereafter remained continuously disabled until he attained age 65 or until August 1945, or
-
-  (B) solely for such last stated reason a carrier by whom he was employed before August 29, 1935, or a carrier who is its successor did not on or after August 29, 1935, and before August 1945 call him to return to service, or
-
-  (C) if he was so called he was solely for such reason unable to render service in 6 calendar months as provided in paragraph (2); or
-
-(4) he was on August 29, 1935, absent from the service of a carrier by reason of a discharge which, within 1 year after the effective date thereof, was protested, to an appropriate labor representative or to the carrier, as wrongful, and which was followed within 10 years of the effective date thereof by his reinstatement in good faith to his former service with all his seniority rights;
-except that an individual shall not be deemed to have been on August 29, 1935, in the employment relation to a carrier if before that date he was granted a pension or gratuity on the basis of which a pension was awarded to him pursuant to section 6 of the Railroad Retirement Act of 1937 ([45 U.S.C. 228f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section228f&num=0&edition=prelim)), or if during the last payroll period before August 29, 1935, in which he rendered service to a carrier he was not in the service of an employer, in accordance with subsection (d), with respect to any service in such payroll period, or if he could have been in the employment relation to an employer only by reason of his having been, either before or after August 29, 1935, in the service of a local lodge or division defined as an employer in subsection (a). The term “employee” includes an officer of an employer. The term “employee” shall not include any individual while such individual is engaged in the physical operations consisting of the mining of coal, the preparation of coal, the handling (other than movement by rail with standard railroad locomotives) of coal not beyond the mine tipple, or the loading of coal at the tipple.
+**(b) Employee** For purposes of this chapter, the term “employee” means any individual in the service of one or more employers for compensation. The term “employee” includes an officer of an employer. The term “employee” shall not include any individual while such individual is engaged in the physical operations consisting of the mining of coal, the preparation of coal, the handling (other than movement by rail with standard railroad locomotives) of coal not beyond the mine tipple, or the loading of coal at the tipple.
 
 **(c) Employee representative** For purposes of this chapter, the term “employee representative” means any officer or official representative of a railway labor organization other than a labor organization included in the term “employer” as defined in subsection (a), who before or after June 29, 1937, was in the service of an employer as defined in subsection (a) and who is duly authorized and designated to represent employees in accordance with the Railway Labor Act (45 U.S.C., chapter 8), as amended, and any individual who is regularly assigned to or regularly employed by such officer or official representative in connection with the duties of his office.
 
@@ -528,38 +498,38 @@ and an individual shall be deemed to be in the service of such a general committ
 
 (1) The term “compensation” means any form of money remuneration paid to an individual for services rendered as an employee to one or more employers. Such term does not include (i) the amount of any payment (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) made to, or on behalf of, an employee or any of his dependents under a plan or system established by an employer which makes provision for his employees generally (or for his employees generally and their dependents) or for a class or classes of his employees (or for a class or classes of his employees and their dependents), on account of sickness or accident disability or medical or hospitalization expenses in connection with sickness or accident disability or death, except that this clause does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee, (ii) tips (except as is provided under paragraph (3)), (iii) an amount paid specifically—either as an advance, as reimbursement or allowance—for traveling or other bona fide and necessary expenses incurred or reasonably expected to be incurred in the business of the employer provided any such payment is identified by the employer either by a separate payment or by specifically indicating the separate amounts where both wages and expense reimbursement or allowance are combined in a single payment, or (iv) any remuneration which would not (if chapter 21 applied to such remuneration) be treated as wages (as defined in section 3121(a)) by reason of section 3121(a)(5). Such term does not include remuneration for service which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended, and which is performed to carry out the purpose specified in subparagraph (F), (J), (M), or (Q), as the case may be. For the purpose of determining the amount of taxes under sections 3201 and 3221, compensation earned in the service of a local lodge or division of a railway-labor-organization employer shall be disregarded with respect to any calendar month if the amount thereof is less than $25. Compensation for service as a delegate to a national or international convention of a railway labor organization defined as an “employer” in subsection (a) of this section shall be disregarded for purposes of determining the amount of taxes due pursuant to this chapter if the individual rendering such service has not previously rendered service, other than as such a delegate, which may be included in his “years of service” for purposes of the Railroad Retirement Act. Nothing in the regulations prescribed for purposes of chapter 24 (relating to wage withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “compensation” in regulations prescribed for purposes of this chapter.
 
-  (2) *Application of contribution bases*
+(2) **Application of contribution bases**
 
-(A) **Compensation in excess of applicable base excluded**
+  (A) *Compensation in excess of applicable base excluded*
 
-  (i) *In general* — The term “compensation” does not include that part of remuneration paid during any calendar year to an individual by an employer after remuneration equal to the applicable base has been paid during such calendar year to such individual by such employer for services rendered as an employee to such employer.
+    (i) *In general* — The term “compensation” does not include that part of remuneration paid during any calendar year to an individual by an employer after remuneration equal to the applicable base has been paid during such calendar year to such individual by such employer for services rendered as an employee to such employer.
 
-  (ii) *Remuneration not treated as compensation excluded* — There shall not be taken into account under clause (i) remuneration which (without regard to clause (i)) is not treated as compensation under this subsection.
+    (ii) *Remuneration not treated as compensation excluded* — There shall not be taken into account under clause (i) remuneration which (without regard to clause (i)) is not treated as compensation under this subsection.
 
-  (iii) *Hospital insurance taxes* — Clause (i) shall not apply to—
+    (iii) *Hospital insurance taxes* — Clause (i) shall not apply to—
 
-    (I) so much of the rate applicable under section 3201(a) or 3221(a) as does not exceed the rate of tax in effect under section 3101(b), and
+      (I) so much of the rate applicable under section 3201(a) or 3221(a) as does not exceed the rate of tax in effect under section 3101(b), and
 
-    (II) so much of the rate applicable under section 3211(a) as does not exceed the rate of tax in effect under section 1401(b).
+      (II) so much of the rate applicable under section 3211(a) as does not exceed the rate of tax in effect under section 1401(b).
 
-(B) **Applicable base**
+  (B) *Applicable base*
 
-  (i) *Tier 1 taxes* — Except as provided in clause (ii), the term “applicable base” means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.
+    (i) *Tier 1 taxes* — Except as provided in clause (ii), the term “applicable base” means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.
 
-  (ii) *Tier 2 taxes, etc.* — For purposes of—
+    (ii) *Tier 2 taxes, etc.* — For purposes of—
 
-    (I) the taxes imposed by sections 3201(b), 3211(b), and 3221(b), and
+      (I) the taxes imposed by sections 3201(b), 3211(b), and 3221(b), and
 
-    (II) computing average monthly compensation under section 3(j) of the Railroad Retirement Act of 1974 (except with respect to annuity amounts determined under subsection (a) or (f)(3) of section 3 of such Act),
-  clause (2) of the first sentence, and the second sentence, of subsection (c) of section 230 of the Social Security Act shall be disregarded.
+      (II) computing average monthly compensation under section 3(j) of the Railroad Retirement Act of 1974 (except with respect to annuity amounts determined under subsection (a) or (f)(3) of section 3 of such Act),
+    clause (2) of the first sentence, and the second sentence, of subsection (c) of section 230 of the Social Security Act shall be disregarded.
 
-(C) **Successor employers** — For purposes of this paragraph, the second sentence of section 3121(a)(1) (relating to successor employers) shall apply, except that—
+  (C) *Successor employers* — For purposes of this paragraph, the second sentence of section 3121(a)(1) (relating to successor employers) shall apply, except that—
 
-  (i) the term “services” shall be substituted for “employment” each place it appears,
+    (i) the term “services” shall be substituted for “employment” each place it appears,
 
-  (ii) the term “compensation” shall be substituted for “remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection)” each place it appears, and
+    (ii) the term “compensation” shall be substituted for “remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection)” each place it appears, and
 
-  (iii) the terms “employer”, “services”, and “compensation” shall have the meanings given such terms by this section.
+    (iii) the terms “employer”, “services”, and “compensation” shall have the meanings given such terms by this section.
 
 (3) Solely for purposes of the taxes imposed by section 3201 and other provisions of this chapter insofar as they relate to such taxes, the term “compensation” also includes cash tips received by an employee in any calendar month in the course of his employment by an employer unless the amount of such cash tips is less than $20.
 
@@ -581,25 +551,25 @@ and an individual shall be deemed to be in the service of such a general committ
 
 (6) The term “compensation” shall not include any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127.
 
-(7) The term “compensation” shall not include any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans).
+(7) Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(v), Dec. 19, 2014, 128 Stat. 4040]
 
-  (8) *Treatment of certain deferred compensation and salary reduction arrangements*
+(8) **Treatment of certain deferred compensation and salary reduction arrangements**
 
-(A) **Certain employer contributions treated as compensation** — Nothing in any paragraph of this subsection (other than paragraph (2)) shall exclude from the term “compensation” any amount described in subparagraph (A) or (B) of section 3121(v)(1).
+  (A) *Certain employer contributions treated as compensation* — Nothing in any paragraph of this subsection (other than paragraph (2)) shall exclude from the term “compensation” any amount described in subparagraph (A) or (B) of section 3121(v)(1).
 
-(B) **Treatment of certain nonqualified deferred compensation** — The rules of section 3121(v)(2) which apply for purposes of chapter 21 shall also apply for purposes of this chapter.
+  (B) *Treatment of certain nonqualified deferred compensation* — The rules of section 3121(v)(2) which apply for purposes of chapter 21 shall also apply for purposes of this chapter.
 
-  (9) *Meals and lodging* — The term “compensation” shall not include the value of meals or lodging furnished by or on behalf of the employer if at the time of such furnishing it is reasonable to believe that the employee will be able to exclude such items from income under section 119.
+(9) **Meals and lodging** — The term “compensation” shall not include the value of meals or lodging furnished by or on behalf of the employer if at the time of such furnishing it is reasonable to believe that the employee will be able to exclude such items from income under section 119.
 
-  (10) *Archer MSA contributions* — The term “compensation” shall not include any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b).
+(10) **Archer MSA contributions** — The term “compensation” shall not include any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b).
 
-  (11) *Health savings account contributions* — The term “compensation” shall not include any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d).
+(11) **Health savings account contributions** — The term “compensation” shall not include any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d).
 
-  (12) *Qualified stock options* — The term “compensation” shall not include any remuneration on account of—
+(12) **Qualified stock options** — The term “compensation” shall not include any remuneration on account of—
 
-(A) a transfer of a share of stock to any individual pursuant to an exercise of an incentive stock option (as defined in section 422(b)) or under an employee stock purchase plan (as defined in section 423(b)), or
+  (A) a transfer of a share of stock to any individual pursuant to an exercise of an incentive stock option (as defined in section 422(b)) or under an employee stock purchase plan (as defined in section 423(b)), or
 
-(B) any disposition by the individual of such stock.
+  (B) any disposition by the individual of such stock.
 
 **(f) Company** For purposes of this chapter, the term “company” includes corporations, associations, and joint-stock companies.
 
@@ -612,21 +582,25 @@ and an individual shall be deemed to be in the service of such a general committ
 ### Statutory Notes
 
 #### References in Text
-The Railway Labor Act, referred to in subsecs. (a) and (c), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in subsecs. (a) and (c), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
-Sections 1 and 6 of the Railroad Retirement Act of 1937, referred to in subsecs. (b) and (d)(7), were classified to sections 228a and 228f of Title 45. The subject matter of sections 228a and 228f is covered by sections 231 and 231o of Title 45.
+Section 1 of the Railroad Retirement Act of 1937, referred to in subsec. (d)(7), was classified to [section 228a of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section228a&num=0&edition=prelim), Railroads, prior to being omitted from the Code. The subject matter of section 228a is covered by [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim).
 
 Section 230 of the Social Security Act, referred to in subsec. (e)(2)(B), is classified to [section 430 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section430&num=0&edition=prelim), The Public Health and Welfare.
 
 Section 3(a), (f)(3), (j) of the Railroad Retirement Act of 1974, referred to in subsec. (e)(2)(B)(ii)(II), is classified to section 231b(a), (f)(3), (j) of Title 45, Railroads.
 
-The Railroad Retirement Act of 1974, referred to in subsec. (e)(4)(A)(ii), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (e)(4)(A)(ii), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
 
 Section 101(a)(15) of the Immigration and Nationality Act, referred to in subsec. (e)(1), is classified to [section 1101(a)(15) of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15&num=0&edition=prelim), Aliens and Nationality.
 
 Section 2(a) of the Railroad Unemployment Insurance Act, referred to in subsec. (e)(4)(B), is classified to [section 352(a) of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section352/a&num=0&edition=prelim), Railroads.
 
 #### Amendments
+2014—Subsec. (b). Pub. L. 113–295, § 221(a)(100)(D), in first sentence substituted “compensation.” for “compensation; except that the term ‘employee’ shall include an employee of a local lodge or division defined as an employer in subsection (a) only if he was in the service of or in the employment relation to a carrier on or after August 29, 1935.” and struck out second sentence, which included pars. (1) to (4) and concluding provisions relating to an individual deemed to have been in the employment relation to a carrier on August 29, 1935.
+
+Subsec. (e)(7). Pub. L. 113–295, § 221(a)(19)(B)(v), struck out par. (7), which read as follows: “The term ‘compensation’ shall not include any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans).”
+
 2004—Subsec. (e)(5). Pub. L. 108–357, § 320(b)(2), inserted “108(f)(4),” after “74(c),”.
 
 Subsec. (e)(12). Pub. L. 108–357, § 251(a)(2), added par. (12).
@@ -737,6 +711,9 @@ Subsec. (h). Pub. L. 89–212, § 2(b)(3), added subsec. (h).
 
 1954—Subsec. (e)(1). Act Aug. 31, 1954, excluded from taxation compensation, for service as a delegate to a national or international convention of a railway labor organization, of any person who has no other previous creditable service.
 
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective Date of 2004 Amendment
 Amendment by section 251(a)(2) of Pub. L. 108–357 applicable to stock acquired pursuant to options exercised after Oct. 22, 2004, see section 251(d) of Pub. L. 108–357, set out as a note under [section 421 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-421).
 
@@ -766,7 +743,7 @@ Amendment by section 11331(c) of Pub. L. 101–508 applicable to 1991 and later 
 #### Effective Date of 1989 Amendments
 Pub. L. 101–239, title X, § 10205(b), Dec. 19, 1989, 103 Stat. 2474 provided that: “(1) In general.—Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall apply to—“(A) group-term life insurance coverage in effect after December 31, 1989, and “(B) remuneration paid before January 1, 1990, which the employer treated as compensation when paid. “(2) Exception.—The amendment made by subsection (a) shall not apply with respect to payments by the employer (or a successor of such employer) for group-term life insurance for such employer’s former employees who separated from employment with the employer on or before December 31, 1989, to the extent that such payments are not for coverage for any such employee for any period for which such employee is employed by such employer (or a successor of such employer) after the date of such separation. “(3) Benefit determinations to take into account remuneration on which tax paid.—The term ‘compensation’ as defined in section 1(h) of the Railroad Retirement Act of 1974 [[45 U.S.C. 231(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231/h&num=0&edition=prelim)] includes any remuneration which is included in the term ‘compensation’ as defined in section 3231(e)(1) of the Internal Revenue Code of 1986 by reason of the amendment made by subsection (a).”
 
-Pub. L. 101–239, title X, § 10206(c), Dec. 19, 1989, 103 Stat. 2475, provided that: “(1) Subsection (a).—The amendment made by subsection (a) [amending this section] shall apply to remuneration paid after December 31, 1989. “(2) Subsection (b).—Except as otherwise provided in this subsection—“(A) In general.—The amendment made by subsection (b) [amending this section] shall apply to—“(i) remuneration paid after December 31, 1989, and “(ii) remuneration paid before January 1, 1990, which the employer treated as compensation when paid. “(B) Benefit determinations to take into account remuneration on which tax paid.—The term ‘compensation’ as defined in section 1(h) of the Railroad Retirement Act of 1974 [[45 U.S.C. 231(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231/h&num=0&edition=prelim)] includes any remuneration which is included in the term ‘compensation’ as defined in section 3231(e)(1) of the Internal Revenue Code of 1986 by reason of the amendment made by subsection (b). “(3) Special rule for certain payments.—For purposes of applying the amendment made by subsection (b) to remuneration paid after December 31, 1989, which would have been taken into account before January 1, 1990, if such amendments had applied to periods before January 1, 1990, such remuneration shall be taken into account when paid (or, at the election of the payor, at the time which would be appropriate if such amendments had applied). “(4) Exception for certain 401(k) contributions.—The amendment made by subsection (b) shall not apply to employer contributions made during 1990 and attributable to services performed during 1989 under a qualified cash or deferred arrangement (as defined in section 401(k) of the Internal Revenue Code of 1986) if, under the terms of the arrangement as in effect on June 15, 1989— “(A) the employee makes an election with respect to such contributions before January 1, 1990, and “(B) the employer identifies the amount of such contribution before January 1, 1990. “(5) Special rule with respect to nonqualified deferred compensation plans.—In the case of an agreement in existence on June 15, 1989, between a nonqualified deferred compensation plan (as defined in section 3121(v)(2)(C) of such Code) and an individual, the amendment made by subsection (b) shall apply with respect to services performed by the individual after December 31, 1989. The preceding sentence shall not apply in the case of a plan to which section 457(a) of such Code applies.”
+Pub. L. 101–239, title X, § 10206(c), Dec. 19, 1989, 103 Stat. 2475, provided that: “(1) Subsection (a).—The amendment made by subsection (a) [amending this section] shall apply to remuneration paid after December 31, 1989. “(2) Subsection (b).—Except as otherwise provided in this subsection—“(A) In general.—The amendment made by subsection (b) [amending this section] shall apply to—“(i) remuneration paid after December 31, 1989, and “(ii) remuneration paid before January 1, 1990, which the employer treated as compensation when paid. “(B) Benefit determinations to take into account remuneration on which tax paid.—The term ‘compensation’ as defined in section 1(h) of the Railroad Retirement Act of 1974 [[45 U.S.C. 231(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231/h&num=0&edition=prelim)] includes any remuneration which is included in the term ‘compensation’ as defined in section 3231(e)(1) of the Internal Revenue Code of 1986 by reason of the amendment made by subsection (b). “(3) Special rule for certain payments.—For purposes of applying the amendment made by subsection (b) to remuneration paid after December 31, 1989, which would have been taken into account before January 1, 1990, if such amendments had applied to periods before January 1, 1990, such remuneration shall be taken into account when paid (or, at the election of the payor, at the time which would be appropriate if such amendments had applied). “(4) Exception for certain 401(k) contributions.—The amendment made by subsection (b) shall not apply to employer contributions made during 1990 and attributable to services performed during 1989 under a qualified cash or deferred arrangement (as defined in section 401(k) of the Internal Revenue Code of 1986) if, under the terms of the arrangement as in effect on June 15, 1989—“(A) the employee makes an election with respect to such contributions before January 1, 1990, and “(B) the employer identifies the amount of such contribution before January 1, 1990. “(5) Special rule with respect to nonqualified deferred compensation plans.—In the case of an agreement in existence on June 15, 1989, between a nonqualified deferred compensation plan (as defined in section 3121(v)(2)(C) of such Code) and an individual, the amendment made by subsection (b) shall apply with respect to services performed by the individual after December 31, 1989. The preceding sentence shall not apply in the case of a plan to which section 457(a) of such Code applies.”
 
 Pub. L. 101–239, title X, § 10207(c), Dec. 19, 1989, 103 Stat. 2476, provided that: “The amendments made by this section [amending this section] shall apply to remuneration paid after December 31, 1989.”
 

@@ -111,7 +111,7 @@ This amends 49:45302 because the final regulations are not yet effective.
 [Section 44703(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44703/f/2&num=0&edition=prelim), referred to in subsecs. (d) and (e)(1), was redesignated section 44703(g)(2) by Pub. L. 106–181, title VII, § 715(1), Apr. 5, 2000, 114 Stat. 162.
 
 #### Amendments
-2012—Subsec. (e). Pub. L. 112–95 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+2012—Subsec. (e). Pub. L. 112–95 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 1994—Subsec. (e). Pub. L. 103–429 added subsec. (e).
 

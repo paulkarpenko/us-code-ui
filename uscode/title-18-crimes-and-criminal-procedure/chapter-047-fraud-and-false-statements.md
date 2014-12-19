@@ -1822,7 +1822,8 @@ Whoever—
 
 (2) corruptly impedes or endeavors to impede the functions of such Corporation, Board, or conservator; or
 
-(3) corruptly places or endeavors to place an asset or property beyond the reach of such Corporation, Board, or conservator, shall be fined under this title or imprisoned not more than 5 years, or both.
+(3) corruptly places or endeavors to place an asset or property beyond the reach of such Corporation, Board, or conservator,
+shall be fined under this title or imprisoned not more than 5 years, or both.
 
 ### Statutory Notes
 

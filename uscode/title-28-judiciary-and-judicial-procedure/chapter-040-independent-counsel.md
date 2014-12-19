@@ -10,9 +10,7 @@ source: >-
 ## § 591. Applicability of provisions of this chapter
 **(a) Preliminary Investigation With Respect to Certain Covered Persons.—** The Attorney General shall conduct a preliminary investigation in accordance with section 592 whenever the Attorney General receives information sufficient to constitute grounds to investigate whether any person described in subsection (b) may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
 
-**(b) Persons to Whom Subsection**
-
-(a) **Applies.—** — The persons referred to in subsection (a) are—
+**(b) Persons to Whom Subsection (a) Applies.—** The persons referred to in subsection (a) are—
 
 (1) the President and Vice President;
 
@@ -353,7 +351,7 @@ Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to procee
 
 (2) **Disclosure of information in reports.—** — The division of the court may release to the Congress, the public, or any appropriate person, such portions of a report made under this subsection as the division of the court considers appropriate. The division of the court shall make such orders as are appropriate to protect the rights of any individual named in such report and to prevent undue interference with any pending prosecution. The division of the court may make any portion of a final report filed under paragraph (1)(B) available to any individual named in such report for the purposes of receiving within a time limit set by the division of the court any comments or factual information that such individual may submit. Such comments and factual information, in whole or in part, may, in the discretion of the division of the court, be included as an appendix to such final report.
 
-(3) **Publication of reports.—** — At the request of an independent counsel, the Public Printer shall cause to be printed any report previously released to the public under paragraph (2). The independent counsel shall certify the number of copies necessary for the public, and the Public Printer shall place the cost of the required number to the debit of such independent counsel. Additional copies shall be made available to the public through the depository library program and Superintendent of Documents sales program pursuant to sections 1702 and 1903 of title 44.
+(3) **Publication of reports.—** — At the request of an independent counsel, the Director of the Government Publishing Office shall cause to be printed any report previously released to the public under paragraph (2). The independent counsel shall certify the number of copies necessary for the public, and the Director of the Government Publishing Office shall place the cost of the required number to the debit of such independent counsel. Additional copies shall be made available to the public through the depository library program and Superintendent of Documents sales program pursuant to sections 1702 and 1903 of title 44.
 
 **(i) Independence From Department of Justice.—** Each independent counsel appointed under this chapter, and the persons appointed by that independent counsel under subsection (c), are separate from and independent of the Department of Justice for purposes of sections 202 through 209 of title 18.
 
@@ -474,6 +472,9 @@ Subsecs. (d), (e). Pub. L. 97–409, § 2(a)(1), substituted “independent coun
 Subsec. (f). Pub. L. 97–409, §§ 2(a)(1)(A), 6(b), substituted “independent counsel” for “special prosecutor”, “except where not possible” for “to the extent that such special prosecutor deems appropriate”, and “written or other established policies” for “written policies”.
 
 Subsec. (g). Pub. L. 97–409, § 6(c), added subsec. (g).
+
+#### Change of Name
+“Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (h)(3) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 Amendment by Pub. L. 103–270 applicable with respect to independent counsels appointed before, on, or after June 30, 1994, with transition provisions relating to assignment of employee to certify expenditures and relating to office space, travel and subsistence expenses, rates of compensation, and reporting requirements established or modified by Pub. L. 103–270, see section 7(a)–(e), (g) of Pub. L. 103–270, set out as a note under [section 591 of this title](./chapter-040-independent-counsel.md#section-591).

@@ -2,7 +2,7 @@
 title: 10
 chapter: '931'
 heading: CIVIL RESERVE AIR FLEET
-section_count: 6
+section_count: 7
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -163,32 +163,13 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 
 <a id="section-9513"></a>
-## § 9513. Use of military installations by Civil Reserve Air Fleet contractors
-**(a) Contract Authority.—**
-
-(1) The Secretary of the Air Force—
-
-  (A) may, by contract entered into with any contractor, authorize such contractor to use one or more Air Force installations designated by the Secretary; and
-
-  (B) with the consent of the Secretary of another military department, may, by contract entered into with any contractor, authorize the contractor to use one or more installations, designated by the Secretary of the Air Force, that is under the jurisdiction of the Secretary of such other military department.
-
-(2) The Secretary of the Air Force may include in the contract such terms and conditions as the Secretary determines appropriate to promote the national defense or to protect the interests of the United States.
-
-**(b) Purposes of Use.—** A contract entered into under subsection (a) may authorize use of a designated installation as a weather alternate, as a technical stop not involving the enplaning or deplaning of passengers or cargo, or, in the case of an installation within the United States, for other commercial purposes. Notwithstanding any other provision of the law, the Secretary may establish different levels and types of uses for different installations for commercial operations not required by the Department of Defense and may provide in contracts under subsection (a) for different levels and types of uses by different contractors.
-
-**(c) Disposition of Payments for Use.—** Notwithstanding any other provision of law, amounts collected from the contractor for landing fees, services, supplies, or other charges authorized to be collected under the contract shall be credited to the appropriations of the armed forces having jurisdiction over the military installation to which the contract pertains. Amounts so credited to an appropriation shall be available for obligation for the same period as the appropriation to which credited.
-
-**(d) Hold Harmless Requirement.—** A contract entered into under subsection (a) shall provide that the contractor agrees to indemnify and hold harmless the United States from any action, suit, or claim of any sort resulting from, relating to, or arising out of any activities conducted, or services or supplies furnished, in connection with the contract.
-
-**(e) Reservation of Right To Exclude Contractor.—** A contract entered into under subsection (a) shall provide that the Secretary concerned may, without providing prior notice, deny access to an installation designated under the contract when the Secretary determines that it is necessary to do so in order to meet military exigencies.
+## § 9513. Repealed. Pub. L. 113–291, div. A, title X, § 1045(a), Dec. 19, 2014, 128 Stat. 3494]
 
 ### Statutory Notes
 
-#### Prior Provisions
-A prior section 9513, added Pub. L. 97–86, title IX, § 915(2), Dec. 1, 1981, 95 Stat. 1128; amended Pub. L. 101–189, div. A, title XVI, § 1636(c)(1), Nov. 29, 1989, 103 Stat. 1610, directed that each contract under [section 9512 of this title](./chapter-931-civil-reserve-air-fleet.md#section-9512) be committed to Civil Reserve Air Fleet, prior to amendment by Pub. L. 103–355, § 3032(4), (5), (9), which struck out section catchline and redesignated subsecs. (a) and (b) as subsecs. (b) and (e) of section 9512, respectively.
+Section, added Pub. L. 103–355, title III, § 3033(a), Oct. 13, 1994, 108 Stat. 3335, related to use of military installations by Civil Reserve Air Fleet contractors.
 
-#### Effective Date
-For effective date and applicability, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
+A prior section 9513, added Pub. L. 97–86, title IX, § 915(2), Dec. 1, 1981, 95 Stat. 1128; amended Pub. L. 101–189, div. A, title XVI, § 1636(c)(1), Nov. 29, 1989, 103 Stat. 1610, directed that each contract under [section 9512 of this title](./chapter-931-civil-reserve-air-fleet.md#section-9512) be committed to Civil Reserve Air Fleet, prior to amendment by Pub. L. 103–355, § 3032(4), (5), (9), which struck out section catchline and redesignated subsecs. (a) and (b) as subsecs. (b) and (e) of section 9512, respectively.
 
 
 <a id="section-9514"></a>
@@ -315,3 +296,24 @@ Amendment by section 1076(b)(4) of Pub. L. 112–239 effective Jan. 7, 2011, and
 
 #### Report to Congress; Limitation on Exercise of Authority
 Pub. L. 110–417, [div. A], title X, § 1033(c), Oct. 14, 2008, 122 Stat. 4593, provided that: “(1) Report.—The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a written report on the actions taken under subsections (a) and (b) of [section 9515 of title 10](./chapter-931-civil-reserve-air-fleet.md#section-9515), United States Code, as added by subsection (a), along with the anticipated risks and benefits of such actions. “(2) Limitation.—No authority under subsections (c) through (I) [sic] of such section may be implemented until 30 days after the date on which the Secretary submits the report required under paragraph (1).”
+
+
+<a id="section-9516"></a>
+## § 9516. Airlift service
+**(a) Interstate Transportation.—**
+
+(1) Except as provided in subsection (d) of this section, the transportation of passengers or property by CRAF-eligible aircraft in interstate air transportation obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service in the United States may be provided only by an air carrier that—
+
+  (A) has aircraft in the civil reserve air fleet or offers to place the aircraft in that fleet; and
+
+  (B) holds a certificate issued under [section 41102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section41102&num=0&edition=prelim).
+
+(2) The Secretary of Transportation shall act as expeditiously as possible on an application for a certificate under [section 41102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section41102&num=0&edition=prelim) to provide airlift service.
+
+**(b) Transportation Between the United States and Foreign Locations.—** Except as provided in subsection (d), the transportation of passengers or property by CRAF-eligible aircraft between a place in the United States and a place outside the United States obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service shall be provided by an air carrier referred to in subsection (a).
+
+**(c) Transportation Between Foreign Locations.—** The transportation of passengers or property by CRAF-eligible aircraft between two places outside the United States obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service shall be provided by an air carrier referred to in subsection (a) whenever transportation by such an air carrier is reasonably available.
+
+**(d) Exception.—** When the Secretary of Defense decides that no air carrier holding a certificate under [section 41102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section41102&num=0&edition=prelim) is capable of providing, and willing to provide, the airlift service, the Secretary of Defense may make a contract to provide the service with an air carrier not having a certificate.
+
+**(e) CRAF-eligible Aircraft Defined.—** In this section, “CRAF-eligible aircraft” means aircraft of a type the Secretary of Defense has determined to be eligible to participate in the civil reserve air fleet.
